@@ -1,0 +1,41 @@
+title: Dice Dungeon
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = ダイス・ダンジョン
+  | romaji_name           = Daisu Danjon
+  | ko_name               = 
+  | ko_rr_name            = 
+  | image                 = DiceDungeon-AC02-JP-C.png
+  | card_type             = Spell
+  | property              = Field
+  | password              = 11808215
+  | effect_types          = Effect, Trigger-like
+  | lore                  = When this card is [[activate]]d: You can add 1 "[[Dimension Dice]]" from your [[Main Deck|Deck]] to your [[hand]]. At the start of the [[Battle Phase]]: You can make each player roll a six-sided die and apply their result to all monsters they control until the end of this [[turn]].<br />● 1: They lose 1000 [[ATK]].<br />● 2: They gain 1000 ATK.<br />● 3: They lose 500 ATK.<br />● 4: They gain 500 ATK.<br />● 5: Their current ATK become halved.<br />● 6: Their current ATK become doubled.
+  | fr_lore               = 
+  | de_lore               = 
+  | it_lore               = 
+  | pt_lore               = 
+  | es_lore               = 
+  | ja_lore               = ①：このカードの発動時の効果処理として、デッキから「ディメンジョン・ダイス」１枚を手札に加える事ができる。②：自分・相手のバトルフェイズ開始時に発動できる。お互いはそれぞれ、サイコロを１回振り、自身のフィールドの全てのモンスターの攻撃力にターン終了時まで、出た目の効果を適用する。<br />●１：１０００ダウンする。●２：１０００アップする。<br />●３：５００ダウンする。●４：５００アップする。<br />●５：半分にする。●６：倍にする。
+  | ko_lore               = 
+  | jp_sets               = 
+  AC02-JP005; Animation Chronicle 2022; Common, Normal Parallel Rare
+  | supports              = Dimension Dice
+  | action                = Adds from Deck to hand
+  | stat_change           = 
+  * Your monsters lose ATK
+  * Your monsters gain ATK
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters gain ATK
+  * Halves ATK
+  * Doubles ATK
+  | misc                  = Die roll
+  | database_id           = 17623
+  | tcg_status            = Not yet released
+  }}
