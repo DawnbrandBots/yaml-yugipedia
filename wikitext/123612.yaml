@@ -1,0 +1,45 @@
+title: Queen's Pawn
+wikitext: |2-
+
+  {{CardTable2
+  | fr_name               = Pion de la Reine
+  | de_name               = Schergin der Königin
+  | it_name               = Pedina della Regina
+  | ko_name               = 여왕의 선택
+  | pt_name               = Seleção da Rainha
+  | es_name               = Peón de la Reina
+  | ja_name               = {{Ruby|女|じょ}}{{Ruby|王|おう}}の{{Ruby|選|せん}}{{Ruby|択|たく}}
+  | romaji_name           = Jo'ō no Sentaku
+  | trans_name            = Queen's Selection
+  | image                 = QueensPawn-DREV-EN-C-1E.jpg
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 58477767
+  | effect_types          = Activation requirement, Effect
+  | lore                  = [[Activate]] only when an "[[Amazoness]]" [[Monster Card|monster]] you [[control]] [[destroy]]s an opponent's monster [[Destroyed by battle|by battle]] and [[send]]s it to the [[Graveyard]]. [[Special Summon]] 1 [[Level]] 4 or lower "Amazoness" monster from your [[Main Deck|Deck]].
+  | fr_lore               = Activable uniquement lorsqu'un monstre "Amazonesse" que vous contrôlez détruit un monstre de l'adversaire au combat et l'envoie au Cimetière. Invoquez Spécialement 1 monstre "Amazonesse" de Niveau 4 ou moins depuis votre Deck.
+  | de_lore               = Aktiviere diese Karte nur, wenn ein "Amazonisch"-Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt. Beschwöre 1 "Amazonisch"-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck.
+  | it_lore               = Attiva solo quando un mostro "[[Amazoness]]" che [[control]]li distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero. Evoca Specialmente 1 mostro "Amazoness" di Livello 4 o inferiore dal tuo Deck.
+  | pt_lore               = Ative somente quando um monstro "Amazoness" ou "Amazon Archer" que você controla destrói um monstro em batalha e envia-o ao Cemitério. Special Summon 1 monstro "Amazoness" ou 1 "Amazon Archer" de Nível 4 ou menor do seu Deck para o seu lado do campo.
+  | es_lore               = Sólo puedes [[Activate|activar]] esta carta cuando un [[Monster Card|monstruo]] "[[Amazoness]]" que [[control]]es [[Destroy|destruye]] un monstruo de tu adversario en batalla y lo [[Send|manda]] al [[Graveyard|Cementerio]]. [[Special Summon|Invoca de Modo Especial]], desde tu [[Main Deck|Deck]], un monstruo "Amazoness" de [[Level|Nivel]] 4 o menor.
+  | ja_lore               = 自分フィールド上に存在する「アマゾネス」と名のついたモンスターが戦闘によって相手モンスターを破壊し墓地へ送った時に発動する事ができる。自分のデッキからレベル４以下の「アマゾネス」と名のついたモンスター１体を特殊召喚する。
+  | ko_lore               = 자신 필드 위에 존재하는 '아마조네스' 라는 이름이 붙은 몬스터가 전투에 의해서 상대 몬스터를 파괴하고 묘지로 보냈을 때 발동할 수 있다. 자신의 덱에서 레벨 4 이하의 '아마조네스' 라는 이름이 붙은 몬스터 1장을 특수 소환한다.
+  | en_sets               = 
+  DREV-EN073; Duelist Revolution; Common
+  | it_sets               = 
+  DREV-IT073; Duelist Revolution; Common
+  | fr_sets               = 
+  DREV-FR073; Duelist Revolution; Common
+  | de_sets               = 
+  DREV-DE073; Duelist Revolution; Common
+  | sp_sets               = 
+  DREV-SP073; Duelist Revolution; Common
+  | jp_sets               = 
+  DREV-JP073; Duelist Revolution; Common
+  | kr_sets               = 
+  DREV-KR073; Duelist Revolution; Common
+  | supports_archetypes   = Amazoness
+  | action                = Activates if it destroys a monster by battle
+  | summoning             = Special Summons from your Deck
+  | database_id           = 9004
+  }}
