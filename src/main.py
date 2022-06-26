@@ -13,7 +13,7 @@ def get_retry(client: httpx.Client, url: str) -> httpx.Response:
         try:
             return client.get(url, follow_redirects=True)
         except httpx.RequestError as e:
-            print(f"TRY {retry}\te\t{url}", flush=True)
+            print(f"TRY {retry}\t{e}\t{url}", flush=True)
             sleep(random.uniform(1 + retry, 2 + retry))
 
 
