@@ -21,8 +21,9 @@ wikitext: |-
   | it_lore               = Se la somma degli ATK di tutti i mostri scoperti controllati dal tuo avversario è superiore ai tuoi LP: fai mescolare al tuo avversario nel Deck mostri che lui controlla (di sua scelta) fino a quando la somma degli ATK dei mostri rimanenti che controlla diventa pari o inferiore ai tuoi LP.
   | pt_lore               = Se o ATK combinado de todos os monstros com a face para cima que seu oponente controla for maior que seus PV: faça com que seu oponente embaralhe no Deck monstros que ele controla (selecionados por ele), de forma que o ATK combinado dos monstros restantes que ele controla seja menor ou igual que os seus PV.
   | es_lore               = Si el ATK combinado de todos los monstruos boca arriba que controle tu adversario es mayor que tus LP: haz que tu adversario baraje a su Deck monstruos que controle (a su elección), de modo que el ATK combinado de los monstruos que queden bajo su control sea menor o igual que tus LP.
-  | ja_lore               = ①：相手フィールドの表側表示モンスターの攻撃力の合計が自分のＬＰよりも高い場合に発動できる。相手フィールドの表側表示モンスターの攻撃力の合計が、自分のＬＰ以下の数値となるように、相手は自身のフィールドの表側表示モンスターを選んで持ち主のデッキに戻さなければならない。
-  | ko_lore               = ① : 상대 필드의 앞면 표시 몬스터의 공격력의 합계가 자신의 라이프 포인트보다 높을 경우에 발동할 수 있다. 상대 필드의 앞면 표시 몬스터의 공격력의 합계가 자신의 라이프 포인트 이하의 수치가 되도록 상대는 자신의 필드의 앞면 표시 몬스터를 고르고 주인의 덱으로 되돌려야 한다.
+  | ja_lore               = ①：相手フィールドの表側表示モンスターの攻撃力を合計した数値が自分のＬＰよりも高い場合に発動できる。相手フィールドの表側表示モンスターの攻撃力を合計した数値が自分のＬＰ以下になるように、相手は自身のフィールドの攻撃力が０以外の表側表示モンスターを選んで持ち主のデッキに戻さなければならない。
+  | trans_lore            = If the combined ATK of all face-up monsters your opponent controls is higher than your LP: Make your opponent shuffle '''face-up''' monsters they control into the Deck (their choice), '''except monsters with 0 ATK,''' so that the combined ATK of the remaining monsters they control becomes less than or equal to your LP.
+  | ko_lore               = ①: 상대 필드의 앞면 표시 몬스터의 공격력의 합계가 자신의 LP보다도 높을 경우에 발동할 수 있다. 상대 필드의 앞면 표시 몬스터의 공격력의 합계가, 자신의 LP 이하의 수치가 되도록, 상대는 자신 필드의 앞면 표시 몬스터를 골라 주인의 덱으로 되돌려야 한다.
   | en_sets               = 
   CORE-EN077; Clash of Rebellions; Common
   MP16-EN093; 2016 Mega-Tin Mega Pack; Common
@@ -43,7 +44,7 @@ wikitext: |-
   MP16-SP093; 2016 Mega-Tin Mega Pack; Common
   | jp_sets               = 
   CORE-JP077; Clash of Rebellions; Common
-  SD44-JP039; Structure Deck: Legend of the Crystals; 
+  SD44-JP039; Structure Deck: Legend of the Crystals; Common
   | kr_sets               = 
   CORE-KR077; Clash of Rebellions; Common
   | action                = 

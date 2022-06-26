@@ -47,6 +47,8 @@ wikitext: |-
   * Excavates from the player's Deck
   * Excavates from the opponent's Deck
   * Adds excavated cards to the hand
+  * Adds from Deck to hand
+  * Adds from your opponent's Deck to your opponent's hand
   * Sends excavated cards to the Graveyard
   * Places excavated cards on the bottom of the Deck
   | database_id           = 16041
