@@ -1,0 +1,32 @@
+name: Update wikitext from Yugipedia with recent changes
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: Mediawiki API timestamp for change log start time
+        required: true
+      grccontinue:
+        description: Mediawiki API grccontinue parameter
+        required: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+          cache: pip
+      - run: pip install -r src/requirements.txt
+      - run: cd wikitext && python3 ../src/incremental.py "${{ github.event.inputs.since }}" "${{ github.event.inputs.gcmcontinue }}"
+      - name: Commit
+        if: ${{ always() }}
+        run: |
+          git config user.name GitHub Actions
+          git config user.email noreply@github.com
+          git add .
+          git commit -m "Yugipedia recent changes"
+          git pull --rebase
+          git push
