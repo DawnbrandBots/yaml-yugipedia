@@ -16,7 +16,7 @@ def get_retry(client: httpx.Client, url: str) -> httpx.Response:
             sleep(random.uniform(1 + retry, 2 + retry))
 
 
-def download(client: httpx.Client, yaml: YAML, continue_key: str, url: str) -> Optional[str]:
+def download(client: httpx.Client, yaml: YAML, continue_key: str, url: str, skip_condition=None) -> Optional[str]:
     response = client.get(url, follow_redirects=True)
     response.raise_for_status()
     result = response.json()
@@ -24,6 +24,8 @@ def download(client: httpx.Client, yaml: YAML, continue_key: str, url: str) -> O
         print(f"batchcomplete != true | {url}", flush=True)
     continue_value = result["continue"][continue_key] if result.get("continue") else None
     for page in result["query"]["pages"]:
+        if skip_condition is not None and skip_condition(page):
+            continue
         pageid = page["pageid"]
         n_revisions = len(page["revisions"])
         contentformat = page["revisions"][0]["contentformat"]
