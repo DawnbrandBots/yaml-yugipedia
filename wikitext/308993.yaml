@@ -5,10 +5,11 @@ wikitext: |-
   | de_name               = Nacht-Drachenlich
   | es_name               = Dragoliche Nocturna
   | it_name               = Dragolich della Notte
-  | ko_name               = 나이트 드라고리치
   | pt_name               = Dragolich da Noite
   | ja_name               = ナイト・ドラゴリッチ
   | romaji_name           = Naito Doragoricchi
+  | ko_name               = 나이트 드라고리치
+  | sc_name               = 夜龙巫妖
   | image                 = NightDragolich-MP15-EN-UR-1E.png
   | attribute             = DARK
   | types                 = Wyrm / Effect
@@ -25,6 +26,7 @@ wikitext: |-
   | es_lore               = Cambia a Posición de Defensa todos los monstruos en Posición de Ataque que no sean de Tipo Wyrm y que fueron Invocados de Modo Especial desde el Deck Principal o Extra. Todos los monstruos que no sean de Tipo Wyrm y que fueron Invocados de Modo Especial desde el Deck Principal o Extra pierden DEF igual a su DEF original.
   | ja_lore               = ①：このカードがモンスターゾーンに存在する限り、幻竜族以外のデッキ・エクストラデッキから特殊召喚されている攻撃表示モンスターは守備表示になる②このカードがモンスターゾーンに存在する限り、幻竜族以外のデッキ・エクストラデッキから特殊召喚されたモンスターの守備力は、その元々の守備力分ダウンする。
   | ko_lore               = ① : 이 카드가 몬스터 존에 존재하는 한, 환상룡족 이외의 덱 / 엑스트라 덱에서 특수 소환되어 있는 공격 표시 몬스터는 수비 표시가 된다. ② : 이 카드가 몬스터 존에 존재하는 한, 환룡족 이외의 덱 / 엑스트라 덱에서 특수 소환된 몬스터의 수비력은, 그 원래의 수비력 만큼 내린다.
+  | sc_lore               = ①：只要此卡存在于怪兽区域，从牌组・额外牌组被特殊召唤的幻龙族以外的攻击表示怪兽变为守备表示。②：只要此卡存在于怪兽区域，从牌组・额外牌组被特殊召唤的幻龙族以外的怪兽的守备力下降相当于其原本守备力的数值。
   | en_sets               = 
   NECH-EN034; The New Challengers; Ultra Rare
   MP15-EN153; 2015 Mega-Tin Mega Pack; Ultra Rare
@@ -47,6 +49,8 @@ wikitext: |-
   NECH-JP034; The New Challengers; Common
   | kr_sets               = 
   NECH-KR034; The New Challengers; Common
+  | sc_sets               = 
+  SCTP-SC124; Entry Pack Volume 8; Common
   | supports              = Wyrm
   | action                = Changes battle positions
   | stat_change           = All monsters lose DEF

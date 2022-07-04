@@ -10,7 +10,7 @@ wikitext: |-
   | ja_name               = バーバリアン１{{Ruby|号|ごう}}
   | romaji_name           = Bābarian Ichigō
   | trans_name            = Barbarian #1
-  | image                 = LavaBattleguard-SP15-EN-C-1E.png
+  | image                 = LavaBattleguard-OP19-EN-C-UE.png
   | attribute             = EARTH
   | types                 = Warrior / Effect
   | level                 = 5
@@ -18,7 +18,7 @@ wikitext: |-
   | def                   = 1800
   | password              = 20394040
   | effect_types          = Continuous
-  | lore                  = This card gains 500 [[ATK]] for each "[[Swamp Battleguard]]" you [[control]].
+  | lore                  = Gains 500 [[ATK]] for each "[[Swamp Battleguard]]" you [[control]].
   | fr_lore               = (Cette carte est toujours traitée comme une carte "[[Battleguard|des Gardes]]".)<br />Gagne 500 ATK pour chaque "Garde des Marais" que vous contrôlez.
   | de_lore               = (Diese Karte wird immer als „[[Battleguard|Kampfwache]]“-Karte behandelt.)<br />Erhält 500 ATK für jeden „Sumpfkampfwächter“, den du kontrollierst.
   | it_lore               = (Questa carta viene sempre considerata come una carta "[[Battleguard|Battagliasorvegliante]]".)<br />Guadagna 500 ATK per ogni "Guardiano delle Paludi" che controlli.
@@ -86,5 +86,8 @@ wikitext: |-
   | supports              = Swamp Battleguard
   | archseries            = Battleguard
   | stat_change           = This card gains ATK
+  | misc                  = 
+  * Archetype condition
+  * Archetype-exclusion condition
   | database_id           = 4560
   }}

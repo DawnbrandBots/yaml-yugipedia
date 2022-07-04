@@ -14,13 +14,13 @@ wikitext: |-
   | ko_rr_name          = 
   | image               = GreenNinja-VJMP-JP-OP.png
   | attribute           = WIND
-  | types               = ??? / Effect
+  | types               = Warrior / Effect
   | level               = 2
-  | atk                 = ???
-  | def                 = ???
+  | atk                 = 600
+  | def                 = 600
   | password            = 
   | effect_types        = 
-  | lore                = 
+  | lore                = If a [[Monster Card|monster]](s) is [[Special Summon]]ed to your [[field]] [[face-up]]: You can [[target]] 1 of them; Special Summon this card from your hand, and if you do, change that monster to [[face-down]] [[Defense Position]]. If this card is [[send|sent]] from the [[hand]] or [[field]] to the [[GY]]: You can target 1 monster on the field; change it to [[face-up]] [[Attack Position]] or face-down Defense Position. You can only use each effect of "Green Ninja" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,6 +31,15 @@ wikitext: |-
   | jp_sets             = 
   VJMP-JP220; V Jump September 2022 promotional card; Ultra Rare
   | archseries          = Ninja
+  | action              = 
+  * Activates from your hand
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips monsters face-down
+  * Activates from your Graveyard
+  * Flips monsters face-up
+  | summoning           = Special Summons itself from your hand
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
