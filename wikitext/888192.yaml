@@ -21,7 +21,7 @@ wikitext: |-
   | password            = 
   | ritualcard          = Nether Prediction Ritual
   | effect_types        = Summoning condition, Summoning condition, Condition, Trigger, Quick
-  | lore                = You can [[Ritual Summon]] this card with "[[Nether Prediction Ritual]]". Must first be [[Ritual Summon]]ed, and can then only be [[Special Summon]]ed by "[[Prediction Princess Tarotrei]]". You can only use each of the following [[effect]]s of "Nether Prediction Princess Tarotreith" [[once per turn]].<br />[[FLIP]]: You can Special Summon 1 [[Flip monster]] from your [[Main Deck|Deck]] in [[face-down]] [[Defense Position]].<br />([[Quick Effect]]): You can [[activate]] 1 of these effects;<br />● Change any number of face-down monsters you control to [[face-up]] Defense Position.<br />● Change any number of face-up monsters you control to face-down Defense Position.
+  | lore                = You can [[Ritual Summon]] this card with "[[Nether Prediction Ritual]]". Must be either [[Ritual Summon]]ed, or [[Special Summon]]ed with "[[Prediction Princess Tarotrei]]". You can only use each of the following [[effect]]s of "Nether Prediction Princess Tarotreith" [[once per turn]].<br />[[FLIP]]: You can Special Summon 1 [[Flip monster]] from your [[Main Deck|Deck]] in [[face-down]] [[Defense Position]].<br />([[Quick Effect]]): You can [[activate]] 1 of these effects;<br />● Change any number of face-down monsters you control to [[face-up]] Defense Position.<br />● Change any number of face-up monsters you control to face-down Defense Position.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,9 +31,23 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DABL-JP038; Darkwing Blast; 
-  | supports            = Prediction Princess Tarotrei
+  | supports            = 
+  * Prediction Princess Tarotrei
+  * Flip monster
   | archseries          = Prediction Princess
   | supports_archetypes = Prediction Princess
+  | action              = 
+  * Activates upon being flipped face-up
+  * Changes battle positions
+  * Flips monsters face-up
+  * Flips monsters face-down
+  | summoning           = 
+  * Nomi
+  * Special Summons from your Deck
+  * Special Summons face-down
+  | misc                = 
+  * Only once per turn
+  * Variable effects
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
