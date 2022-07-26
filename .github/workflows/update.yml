@@ -20,7 +20,7 @@ jobs:
           python-version: "3.8"
           cache: pip
       - run: pip install -r src/requirements.txt
-      - run: cd wikitext && python3 ../src/incremental.py "${{ github.event.inputs.since }}" # "${{ github.event.inputs.grccontinue }}"
+      - run: cd wikitext/cards && python3 ../../src/incremental.py "${{ github.event.inputs.since }}" # "${{ github.event.inputs.grccontinue }}"
       - name: Commit
         if: ${{ always() }}
         run: |
