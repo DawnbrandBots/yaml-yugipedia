@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 1000
   | password              = 05130393
   | effect_types          = Trigger, Ignition, Condition
-  | lore                  = When you take 1000 or more [[battle damage|battle]] or [[effect damage]]: You can [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 [[monster]] in your opponent's [[GY]], except a monster with ? [[ATK]]; your opponent can choose 1 monster from their [[Main  Deck|Deck]], except a monster with ? ATK. If they chose not to, or if the targeted monster has higher ATK than the chosen monster, [[Special Summon]] the targeted monster to your field, and if you do, [[shuffle]] the chosen monster back into the Deck. Otherwise, your opponent [[Add a card|adds]] the chosen monster to the hand. You can only use each [[effect]] of "Millennium Seeker" [[once per turn]].
+  | lore                  = When you take 1000 or more [[battle damage|battle]] or [[effect damage]]: You can [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 [[monster]] in your opponent's [[GY]], except a monster with ? [[ATK]]; your opponent can choose 1 monster from their [[Main Deck|Deck]], except a monster with ? ATK. If they chose not to, or if the targeted monster has higher ATK than the chosen monster, [[Special Summon]] the targeted monster to your field, and if you do, [[shuffle]] the chosen monster back into the Deck. Otherwise, your opponent [[Add a card|adds]] the chosen monster to the hand. You can only use each [[effect]] of "Millennium Seeker" [[once per turn]].
   | fr_lore               = Lorsque vous recevez min. 1000 points de dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire (monstres avec ? ATK exclus) ; votre adversaire peut choisir 1 monstre (monstres avec ? ATK exclus) depuis son Deck. S'il n'en choisit pas, ou si le monstre ciblé a une ATK supérieure au monstre choisi, Invoquez Spécialement le monstre ciblé sur votre Terrain, et si vous le faites, mélangez le monstre choisi dans le Deck. Sinon, votre adversaire ajoute le monstre choisi à la main. Vous ne pouvez utiliser chaque effet de "Chercheur Millénaire" qu'une fois par tour.
   | de_lore               = Wenn du 1000 oder mehr Kampf- oder Effektschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 Monster im Friedhof deines Gegners wählen, außer einem Monster mit ? ATK; dein Gegner kann 1 Monster von seinem Deck bestimmen, außer einem Monster mit ? ATK. Falls er keins bestimmt oder falls das als Ziel gewählte Monster höhere ATK hat als das bestimmte Monster, beschwöre das als Ziel gewählte Monster als Spezialbeschwörung auf deine Spielfeldseite und falls du dies tust, mische das bestimmte Monster ins Deck zurück. Andernfalls fügt dein Gegner das bestimmte Monster der Hand hinzu. Du kannst jeden Effekt von „Millenniumssucher“ nur einmal pro Spielzug verwenden.
   | it_lore               = Quando subisci 1000 o più danni da combattimento o da effetto: puoi Evocare Specialmente questa carta dalla tua mano. Puoi scegliere come bersaglio 1 mostro nel Cimitero del tuo avversario, eccetto un mostro con ? ATK; il tuo avversario può selezionare 1 mostro dal suo Deck, eccetto un mostro con ? ATK. Se sceglie di non farlo, o se il mostro scelto come bersaglio ha ATK superiore a quello del mostro selezionato, Evoca Specialmente il mostro scelto come bersaglio sul tuo Terreno e, se lo fai, rimischia il mostro selezionato nel Deck. Altrimenti, il tuo avversario aggiunge il mostro selezionato alla mano. Puoi utilizzare ogni effetto di "Cercatore del Millennio" una sola volta per turno.
@@ -48,10 +48,11 @@ wikitext: |-
   * Activates if you take battle damage
   * Activates if you take effect damage
   * Activates from your hand
-  * Adds from Deck to hand
+  * Reveals cards from your opponent's Deck
+  * Adds from your opponent's Deck to your opponent's hand
   | summoning             = 
   * Special Summons itself from your hand
-  * Special Summons from your opponent's Graveyard
+  * Special Summons from your opponent's Graveyard to your field
   | misc                  = Only once per turn
   | database_id           = 15841
   }}

@@ -1,7 +1,5 @@
-title: Flame Buddy Erca the Fire Beast Tamer
+title: Eka the Flame Buddy
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -9,12 +7,11 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|炎獣使い|フレイム・バディ}}エーカ
-  | base_trans_name       = Flame Beast Tamer Erca
+  | base_trans_name       = Eka the Flame Beast Tamer
   | romaji_name           = Fureimu Badi Ēka
-  | trans_name            = Flame Buddy Erca
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = FlameBuddyErcatheFireBeastTamer-POTE-JP-C.png
+  | image                 = EkatheFlameBuddy-POTE-JP-C.png
   | attribute             = FIRE
   | types                 = Warrior / Effect
   | level                 = 4
@@ -22,7 +19,7 @@ wikitext: |-
   | def                   = 200
   | password              = 35283277
   | effect_types          = Trigger, Ignition, Condition
-  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 [[face-up]] [[Monster Card]] in the [[Spell & Trap Zone]]; [[Special Summon]] it to your [[field]]. You can target 1 other face-up monster you [[control]]; equip that face-up monster to this card as an [[Equip Spell]] that gives it 500 [[ATK]]. You can only use each [[effect]] of "Flame Buddy Erca the Fire Beast Tamer" [[once per turn]].
+  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 [[face-up]] [[Monster Card]] in either player's [[Spell & Trap Zone]]; [[Special Summon]] it to your [[field]]. You can target 1 other face-up monster you [[control]]; equip that face-up monster to this card as an [[Equip Spell]] that gives it 500 [[ATK]]. You can only use each [[effect]] of "Eka the Flame Buddy" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分または相手の魔法＆罠ゾーンの表側表示のモンスターカード１枚を対象として発動できる。そのカードを自分フィールドに特殊召喚する。②：このカード以外の自分フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターを攻撃力５００アップの装備カード扱いとしてこのカードに装備する。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN034; Power of the Elements; Super Rare
+  | fr_sets               = 
+  POTE-FR034; Power of the Elements; Super Rare
+  | de_sets               = 
+  POTE-DE034; Power of the Elements; Super Rare
+  | it_sets               = 
+  POTE-IT034; Power of the Elements; Super Rare
+  | pt_sets               = 
+  POTE-PT034; Power of the Elements; Super Rare
+  | sp_sets               = 
+  POTE-SP034; Power of the Elements; Super Rare
   | jp_sets               = 
   POTE-JP034; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR034; Power of the Elements; Common
   | action                = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
@@ -39,8 +50,8 @@ wikitext: |-
   * Grants effect to Equip Spell Card
   | m/s/t                 = Treats monsters as Equip Cards
   | summoning             = 
-  * Special Summons from your Spell & Trap Card Zone
-  * Special Summons from your opponent's Spell & Trap Zone
+  * Special Summons from your Spell & Trap Zone
+  * Special Summons from your opponent's Spell & Trap Zone to your field
   | misc                  = Only once per turn
   | database_id           = 17436
   | tcg_status            = Not yet released

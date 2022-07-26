@@ -1,7 +1,5 @@
-title: Ruined Realm Perlereino
+title: Primeval Planet Perlereino
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name            = First World Destruction = Pelreino
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = RuinedRealmPerlereino-POTE-JP-R.png
+  | image                 = PrimevalPlanetPerlereino-POTE-JP-R.png
   | card_type             = Spell
   | property              = Field
   | password              = 77103950
   | effect_types          = Effect, Continuous-like, Trigger-like, Condition, Condition
-  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Tearalaments]]" [[monster]] or 1 "[[Visas Starfrost]]" from your [[Main Deck|Deck]] to your [[hand]]. [[Fusion Monster]]s and "Tearalaments" monsters you [[control]] gain 500 [[ATK]]. If a "Tearalaments" monster(s) is [[return]]ed from your [[field]] and/or [[GY]] to the Deck and/or [[Extra Deck]] (except during the [[Damage Step]]): You can [[target]] 1 card on the field; [[destroy]] it. You can only use this [[effect]] of "Ruined Realm Perlereino" [[once per turn]]. You can only activate 1 "Ruined Realm Perlereino" per turn.
+  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Tearlaments]]" [[monster]] or 1 "[[Visas Starfrost]]" from your [[Main Deck|Deck]] to your [[hand]]. [[Fusion Monster]]s and "Tearlaments" monsters you [[control]] gain 500 [[ATK]]. If a "Tearlaments" monster(s) you control or in your [[GY]] is [[shuffle]]d into the Deck or [[Extra Deck]] (except during the [[Damage Step]]): You can [[target]] 1 card on the field; [[destroy]] it. You can only use this [[effect]] of "Primeval Planet Perlereino" [[once per turn]]. You can only activate 1 "Primeval Planet Perlereino" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,12 +24,26 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「ティアラメンツ」モンスターまたは「ヴィサス＝スタフロスト」１体を手札に加える事ができる。②：自分フィールドの融合モンスター及び「ティアラメンツ」モンスターの攻撃力は５００アップする。③：自分のフィールド・墓地の「ティアラメンツ」モンスターがデッキ・ＥＸデッキに戻った場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN060; Power of the Elements; Secret Rare
+  | fr_sets               = 
+  POTE-FR060; Power of the Elements; Secret Rare
+  | de_sets               = 
+  POTE-DE060; Power of the Elements; Secret Rare
+  | it_sets               = 
+  POTE-IT060; Power of the Elements; Secret Rare
+  | pt_sets               = 
+  POTE-PT060; Power of the Elements; Secret Rare
+  | sp_sets               = 
+  POTE-SP060; Power of the Elements; Secret Rare
   | jp_sets               = 
   POTE-JP060; Power of the Elements; Rare
+  | kr_sets               = 
+  POTE-KR060; Power of the Elements; Rare
   | supports              = 
   * Visas Starfrost
   * Fusion Monster
-  | supports_archetypes   = Tearalaments
+  | supports_archetypes   = Tearlaments
   | action                = Adds from Deck to hand
   | stat_change           = Your monsters gain ATK
   | m/s/t                 = 

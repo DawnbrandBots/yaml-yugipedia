@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 4
   | atk                   = 1000
   | def                   = 1700
-  | password              = 
+  | password              = 80275707
   | effect_types          = Ignition, Ignition, Condition, Condition
   | lore                  = If [[face-up]] [[Spell]]/[[Trap]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. You can [[Tribute]] 1 [[Winged Beast]] monster, then [[target]] 1 face-up Spell/Trap on the field; [[return]] that face-up card to the hand, but for the rest of this [[turn]], you cannot [[activate]] cards, or the [[effect]]s of cards, with the same name that card had once it returned to the hand. This is a [[Quick Effect]] if all monsters you control are Winged Beast monsters. You can only use each effect of "Laughing Puffin the Jester Bird" [[once per turn]].
   | fr_lore               = 
@@ -26,11 +26,24 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドに表側表示の魔法・罠カードが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分フィールドの鳥獣族モンスター１体をリリースし、フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。その表側表示のカードを持ち主の手札に戻す。このターン、自分はこの効果で手札に戻したカード及びその同名カードの効果を発動できない。自分フィールドのモンスターが鳥獣族モンスターのみの場合、この効果は相手ターンでも発動できる。
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP033; Darkwing Blast; Common
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | supports              = Winged Beast
+  | action                = 
+  * Activates from your hand
+  * Tributes for cost
+  * Returns from field to hand
+  | m/s/t                 = 
+  * Prevents activation of your Effect Monsters
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific Type
+  * Can be activated during either player's turn
+  * Only once per turn
+  | database_id           = 17788
   | tcg_status            = Not yet released
   }}

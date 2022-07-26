@@ -2,7 +2,6 @@ title: Magician's Circle
 wikitext: |-
   {{Not archetype member|Magician|{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}}}
   {{CardTable2
-  | zh_name               = 魔法阵
   | fr_name               = Cercle du Magicien
   | de_name               = Kreis der Magier
   | it_name               = Circolo del Mago
@@ -14,7 +13,7 @@ wikitext: |-
   | ko_rr_name            = Maejisyeonjeu Seokeul
   | image                 =
   1;    MagiciansCircle-MB01-JP-MLR.png;  MagiciansCircle-TF04-JP-VG.png
-  1.1;  MagiciansCircle-SR08-EN-C-1E.png; MagiciansCircle-TF04-EN-VG.png
+  1.1;  MagiciansCircle-LDS3-EN-C-1E.png; MagiciansCircle-TF04-EN-VG.png
   1.2;  MagiciansCircle-SR08-JP-C.png;    MagiciansCircle-LOD2-JP-VG-artwork.jpg
   | current_image         = 1.1
   | card_type             = Trap
@@ -25,7 +24,7 @@ wikitext: |-
   | fr_lore               = Lorsqu'un monstre Magicien déclare une attaque : chaque joueur Invoque Spécialement 1 monstre Magicien avec max. 2000 ATK depuis son Deck en Position d'Attaque.
   | de_lore               = Wenn ein Hexer-Monster einen Angriff deklariert: Jeder Spieler beschwört 1 Hexer-Monster mit 2000 oder weniger ATK als Spezialbeschwörung von seinem Deck in die Angriffsposition.
   | it_lore               = Quando un mostro Incantatore dichiara un attacco: ogni giocatore Evoca Specialmente 1 mostro Incantatore con ATK 2000 o inferiore dal suo Deck in Posizione di Attacco.
-  | pt_lore               = Quando um monstro Mago declarar um ataque: cada duelista Invoca por Invocação-Especial 1 monstro Mago com 2000 ou menos de ATK do seu próprio Deck em Posição de Ataque.
+  | pt_lore               = Quando um monstro Mago declarar um ataque: cada duelista Invoca por Invocação-Especial 1 monstro Mago com 2000 ou menos de ATK do seu Deck em Posição de Ataque.
   | es_lore               = Cuando un monstruo Lanzador de Conjuros declara un ataque: cada jugador Invoca de Modo Especial, desde su Deck, 1 monstruo Lanzador de Conjuros con 2000 ATK o menos en Posición de Ataque.
   | ja_lore               = ①：自分または相手の魔法使い族モンスターの攻撃宣言時に発動できる。お互いのプレイヤーは、それぞれ自分のデッキから攻撃力２０００以下の魔法使い族モンスター１体を攻撃表示で特殊召喚する。
   | ko_lore               = ①: 자신 또는 상대의 마법사족 몬스터의 공격 선언시에 발동할 수 있다. 양쪽 플레이어는, 각각 자신의 덱에서 공격력 2000 이하의 마법사족 몬스터 1장을 공격 표시로 특수 소환한다.
@@ -123,6 +122,7 @@ wikitext: |-
   | summoning             = 
   * Special Summons from your Deck
   * Special Summons from your opponent's Deck to your opponent's field
+  * Your opponent Special Summons
   | database_id           = 6168
   | tcg_speed_duel_status = Unlimited
   }}

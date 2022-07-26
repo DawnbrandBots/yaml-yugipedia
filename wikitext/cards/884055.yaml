@@ -13,24 +13,25 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = KshatriLaUnicorn-DABL-JP-OP.png
+  | image               = KshatriLaUnicorn-DABL-JP-SR.png
   | attribute           = WIND
   | types               = Psychic / Effect
   | level               = 7
   | atk                 = 2500
   | def                 = 2100
-  | password            = 
+  | password            = 68304193
   | effect_types        = Unclassified, Condition, Ignition, Trigger
-  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Unicorn" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]]. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]]: You can look at your opponent's [[Extra Deck]] and [[banish]] 1 monster from it [[face-down]].
+  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Unicorn" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]]. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]] (except during the [[Damage Step]]): You can look at your opponent's [[Extra Deck]] and [[banish]] 1 monster from it [[face-down]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：自分メインフェイズに発動できる。デッキから「クシャトリラ」魔法カード１枚を手札に加える。③：このカードの攻撃宣言時、または相手がモンスターの効果を発動した場合に発動できる。相手のＥＸデッキを確認し、その内のモンスター１体を選んで裏側表示で除外する。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP013; Darkwing Blast; 
+  DABL-JP013; Darkwing Blast; Super Rare, Secret Rare, Prismatic Secret Rare
+  DABL-JP013; Darkwing Blast +1 Bonus Pack; Super Rare, Prismatic Secret Rare
   | archseries          = Kshatri-La
   | supports_archetypes = Kshatri-La
   | action              = 
@@ -43,7 +44,6 @@ wikitext: |-
   | misc                = 
   * Requires control of no monsters
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17769
   | tcg_status          = Not yet released
   }}

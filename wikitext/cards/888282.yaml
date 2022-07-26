@@ -13,21 +13,21 @@ wikitext: |-
   | trans_name          = Tri-Brigade Deadline
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = TriBrigadeLastStand-DABL-JP-OP.png
+  | image               = TriBrigadeLastStand-DABL-JP-C.png
   | card_type           = Spell
   | property            = Continuous
-  | password            = 
+  | password            = 07889323
   | effect_types        = Trigger-like, Trigger-like, Condition
-  | lore                = If a [[Beast]], [[Beast-Warrior]], and/or [[Winged Beast]] [[monster]](s) is [[Special Summon]]ed to your [[field]]: You can [[target]] 1 of your [[banish]]ed "Tri-Brigade" monsters; [[Add a card|add]] it to your [[hand]]. After [[damage calculation]], if your "Tri-Brigade" monster battled an opponent's monster: You can [[return]] that opponent's monster to the hand. You can only use each [[effect]] of "Tri-Brigade Last Stand" [[once per turn]].
+  | lore                = If a [[Beast]], [[Beast-Warrior]], and/or [[Winged Beast]] [[monster]](s) is [[Special Summon]]ed to your [[field]] (except during the [[Damage Step]]): You can [[target]] 1 of your [[banish]]ed "Tri-Brigade" monsters; [[Add a card|add]] it to your [[hand]]. After [[damage calculation]], if your "Tri-Brigade" monster battled an opponent's monster: You can [[return]] that opponent's monster to the hand. You can only use each [[effect]] of "Tri-Brigade Last Stand" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに獣族・獣戦士族・鳥獣族モンスターが特殊召喚された場合、除外されている自分の「トライブリゲード」モンスター１体を対象として発動できる。そのモンスターを手札に加える。②：自分の「トライブリゲード」モンスターが相手モンスターと戦闘を行ったダメージ計算後に発動できる。その相手モンスターを持ち主の手札に戻す。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP055; Darkwing Blast; 
+  DABL-JP055; Darkwing Blast; Common
   | supports            = 
   * Beast
   * Beast-Warrior
@@ -42,7 +42,6 @@ wikitext: |-
   * Requires control of specific Type
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17810
   | tcg_status          = Not yet released
   }}

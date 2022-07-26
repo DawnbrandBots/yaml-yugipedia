@@ -35,16 +35,21 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = ①：フィールドにモンスターがＰ召喚された場合に発動する。このカードを持ち主の手札に戻す。
+  | ja_lore               = ①：このカードが召喚に成功した時に発動できる。自分のＰゾーンのカードと同じ縦列の自分のカードを全て持ち主の手札に戻す。その後、デッキから「キュウドウ魂 ＨＡＮ－ＳＨＩ」以外の攻撃力２４００／守備力１０００のモンスター１体を手札に加える事ができる。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP032; Darkwing Blast; Common
   | archseries            = Martial Art Spirit
   | action                = 
-  | misc                  = 
-  | database_id           = 
-  | ocg_status            = Not yet released
+  * Activates upon Pendulum Summon
+  * Returns itself from field to hand
+  * Activates upon Normal Summon
+  * Returns from your field to your hand
+  * Adds from Deck to hand
+  * Activates during the turn in which it was Normal Summoned
+  | misc                  = Limited activations
+  | database_id           = 17787
   | tcg_status            = Not yet released
   }}

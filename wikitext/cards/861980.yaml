@@ -1,7 +1,5 @@
 title: Elemental HERO Shining Neos Wingman
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,8 +18,8 @@ wikitext: |-
   | def                   = 2500
   | materials             = "Elemental HERO Neos" + 1 "Wingman" Fusion Monster
   | password              = 56733747
-  | effect_types          = Summoning condition, Trigger, Continuous, Continuous, Trigger
-  | lore                  = "[[Elemental HERO Neos]]" + 1 "[[Wingman]]" [[Fusion Monster]]<br/>Must be [[Fusion Summon]]ed. If this card is [[Special Summon]]ed: You can [[destroy]] cards your opponent controls, up to the number of different [[Attribute]]s on the [[field]]. You can only use this [[effect]] of "Elemental HERO Shining Neos Wingman" [[once per turn]]. Gains 300 [[ATK]] for each monster in your [[GY]]. Cannot be destroyed by card [[effect]]s. If this card [[destroy]]s a monster [[Destroyed by battle|by battle]]: Inflict [[Effect damage|damage]] to your opponent equal to the destroyed monster's [[original ATK]].
+  | effect_types          = Summoning condition, Continuous, Trigger, Trigger
+  | lore                  = "[[Elemental HERO Neos]]" + 1 "[[Wingman]]" [[Fusion Monster]]<br/>Must be [[Fusion Summon]]ed. Gains 300 [[ATK]] for each [[monster]] in your [[GY]], also cannot be destroyed by card [[effect]]s. If this card is [[Special Summon]]ed: You can [[destroy]] cards your opponent controls up to the number of different [[Attribute]]s among the monsters on the [[field]]. You can only use this [[effect]] of "Elemental HERO Shining Neos Wingman" [[once per turn]]. If this card [[destroy]]s a monster [[Destroyed by battle|by battle]]: Inflict [[Effect damage|damage]] to your opponent equal to that monster's [[original ATK]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,9 +27,24 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 「Ｅ・ＨＥＲＯ ネオス」＋「ウィングマン」融合モンスター<br />このカードは融合召喚でしか特殊召喚できない。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。フィールドのモンスターの属性の種類の数まで相手フィールドのカードを選んで破壊する。②：このカードは、攻撃力が自分の墓地のモンスターの数×３００アップし、効果では破壊されない。③：このカードが戦闘でモンスターを破壊した場合に発動する。そのモンスターの元々の攻撃力分のダメージを相手に与える。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN041; Power of the Elements; Ultra Rare
+  | fr_sets               = 
+  POTE-FR041; Power of the Elements; Ultra Rare
+  | de_sets               = 
+  POTE-DE041; Power of the Elements; Ultra Rare
+  | it_sets               = 
+  POTE-IT041; Power of the Elements; Ultra Rare
+  | pt_sets               = 
+  POTE-PT041; Power of the Elements; Ultra Rare
+  | sp_sets               = 
+  POTE-SP041; Power of the Elements; Ultra Rare
   | jp_sets               = 
   POTE-JP041; Power of the Elements; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
   POTE-JP041; Power of the Elements +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
+  | kr_sets               = 
+  POTE-KR041; Power of the Elements; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  POTE-KR041; Power of the Elements +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | fusion_material       = Elemental HERO Neos
   | supports              = Elemental HERO Neos
   | archseries            = 

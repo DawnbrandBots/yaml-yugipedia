@@ -14,10 +14,10 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = ScareclawTwinsaw-DABL-JP-OP.png
+  | image               = ScareclawTwinsaw-DABL-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 95245571
   | effect_types        = Effect, Quick-like, Condition
   | lore                = [[Tribute]] 1 "[[Scareclaw]]" [[monster]], then [[target]] 2 cards your opponent [[control]]s; [[destroy]] them, and if you [[control]] "[[Visas Starfrost]]", [[banish]] them. If a [[Link Rating|Link]]-3 or higher monster is on the [[field]]: You can banish this card from your [[GY]]; neither player can [[activate]] the [[effect]]s of [[Link Monster]]s on the field this [[turn]]. You can only activate 1 "Scareclaw Twinsaw" per turn.
   | fr_lore             = 
@@ -25,10 +25,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「スケアクロー」モンスター１体をリリースし、相手フィールドのカード２枚を対象として発動できる。そのカードを破壊する。自分フィールドに「ヴィサス＝スタフロスト」が存在する場合、この効果で破壊したカードは墓地へは行かず除外される。②：フィールドにリンク３以上のモンスターが存在する場合、墓地のこのカードを除外して発動できる。このターン、フィールドのリンクモンスターは効果を発動できない。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP075; Darkwing Blast; 
+  DABL-JP075; Darkwing Blast; Common
   | supports            = 
   * Visas Starfrost
   * Link Monster
@@ -50,7 +50,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Link Rating
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17830
   | tcg_status          = Not yet released
   }}

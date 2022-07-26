@@ -19,15 +19,15 @@ wikitext: |-
   | level               = 6
   | atk                 = 2500
   | def                 = 2000
-  | password            = 
-  | effect_types        = Ignition, Trigger, Condition
+  | password            = 33854624
+  | effect_types        = Ignition, Condition, Trigger, Condition
   | lore                = You can [[target]] 1 [[LIGHT]] or [[DARK]] [[monster]] in either [[GY]]; [[banish]] it, and if you do, [[Special Summon]] this card from your [[hand]]. This is a [[Quick Effect]] if your opponent [[control]]s a monster. If this card is Special Summoned: You can [[activate]] this [[effect]]; [[Add a card|add]] 1 [[Dragon]] monster from your [[Main Deck|Deck]] or [[GY]] to your [[hand]] during the [[End Phase]] of this [[turn]], except "Byssted Magnumut". You can only use each effect of "Byssted Magnumut" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地の、光・闇属性モンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札から特殊召喚する。相手フィールドにモンスターが存在する場合、この効果は相手ターンでも発動できる。②：このカードが特殊召喚に成功した場合に発動できる。このターンのエンドフェイズに、自分のデッキ・墓地から「深淵の獣マグナムート」以外のドラゴン族モンスター１体を選んで手札に加える。
   | ko_lore             = 
   | jp_sets             = 
   DABL-JP006; Darkwing Blast; Rare
@@ -49,7 +49,6 @@ wikitext: |-
   | misc                = 
   * Can be activated during either player's turn
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17762
   | tcg_status          = Not yet released
   }}

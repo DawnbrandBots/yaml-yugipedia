@@ -13,14 +13,14 @@ wikitext: |-
   | trans_name            = Dinomight Powerload, the Dragon Swordsman
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = DinomightPowerloadtheDracoslayer-DABL-JP-OP.png
+  | image                 = DinomightPowerloadtheDracoslayer-DABL-JP-C.png
   | attribute             = WATER
   | types                 = Machine / Pendulum / Effect
   | level                 = 4
   | atk                   = 1700
   | def                   = 1800
   | pendulum_scale        = 6
-  | password              = 
+  | password              = 28720123
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Trigger, Condition
   | pendulum_effect       = You can [[target]] 1 "[[Dracoslayer]]" or "[[Dinomist]]" card in your other [[Pendulum Zone]]; [[Special Summon]] it. You can only use this [[effect]] of "Dinomight Powerload, the Dracoslayer" [[once per turn]].
@@ -35,12 +35,12 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンの、「竜剣士」カードまたは「ダイナミスト」カード１枚を対象として発動できる。そのカードを特殊召喚する。
+  | ja_lore               = このカード名はルール上「ダイナミスト」カードとしても扱う。このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがリリースされた場合に発動できる。自分のＥＸデッキから「竜剣士ダイナマイトＰ」以外の表側表示の、「竜剣士」Ｐモンスターまたは「ダイナミスト」Ｐモンスター１体を手札に加える。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
-  DABL-JP024; Darkwing Blast; 
+  DABL-JP024; Darkwing Blast; Common
   | supports              = Pendulum Monster
   | archseries            = 
   * Dracoslayer
@@ -58,7 +58,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Only once per turn
   * Archetype condition
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17780
   | tcg_status            = Not yet released
   }}

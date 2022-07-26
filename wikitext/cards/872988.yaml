@@ -1,7 +1,5 @@
-title: Unlimited Free Radio Jamming
+title: Digit Jamming
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,14 +8,15 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|無|む}}{{Ruby|千|せん}}ジャミング
   | romaji_name           = Musen Jamingu
+  | trans_name            = Anti-Thousands Jamming
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = UnlimitedFreeRadioJamming-POTE-JP-NR.png
+  | image                 = DigitJamming-POTE-JP-NR.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 49658464
   | effect_types          = Trigger-like, Trigger-like
-  | lore                  = During [[damage calculation]], if a [[monster]] [[battle]]s while a monster with 1000 or more [[ATK]] is on the [[field]]: The ATK/[[DEF]] of all face-up monsters currently on the field become their current values with as many multiples of 1000 subtracted as possible. If this card is [[destroy]]ed: The ATK/DEF of all face-up monsters currently on the field become their current values with as many multiples of 1000 subtracted as possible, until the end of this [[turn]].
+  | lore                  = During [[damage calculation]], if a [[monster]] [[battle]]s while a monster with 1000 or more [[ATK]] is on the [[field]]: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is [[destroy]]ed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：フィールドに攻撃力１０００以上のモンスターが存在する場合、モンスターが戦闘を行うダメージ計算時に発動する。フィールドの全てのモンスターは、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。②：このカードが破壊された場合に発動する。フィールドの全てのモンスターはターン終了時まで、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN068; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR068; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE068; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT068; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT068; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP068; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP068; Power of the Elements; Normal Rare
+  | kr_sets               = 
+  POTE-KR068; Power of the Elements; Normal Rare
   | action                = Activates if destroyed
   | stat_change           = 
   * Changes ATK value

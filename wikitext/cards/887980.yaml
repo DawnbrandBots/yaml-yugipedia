@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Inferno Queen Salmon
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = InfernalqueenSalmon-DABL-JP-OP.png
+  | image                 = InfernalqueenSalmon-DABL-JP-C.png
   | attribute             = WATER
   | types                 = Fish / Effect
   | level                 = 5
   | atk                   = 2400
   | def                   = 1000
-  | password              = 
+  | password              = 27882993
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Special Summon]] 1 [[Fish]] [[Normal Monster]] from your [[hand]], [[Main Deck|Deck]], or [[GY]]. If this card is [[destroyed by battle]], or if this card in its [[owner]]'s [[possess]]ion is destroyed by an opponent's card [[effect]]: You can Special Summon any number of "[[Vilepawn Salmon Token]]s" (Fish/[[WATER]]/[[Level]] 1/[[ATK]] 0/[[DEF]] 0). You can only use each effect of "Infernalqueen Salmon" once per turn.
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・デッキ・墓地から魚族の通常モンスター１体を選んで特殊召喚する。②：このカードが戦闘または相手の効果で破壊された場合に発動できる。自分フィールドに「ヘルポーンサーモントークン」（魚族・水・星１・攻／守０）を任意の数だけ特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  DABL-JP031; Darkwing Blast; 
+  DABL-JP031; Darkwing Blast; Common
   | supports              = 
   * Fish
   * Normal Monster
@@ -46,7 +46,6 @@ wikitext: |-
   * Special Summons from your Graveyard
   * Special Summons Tokens
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17786
   | tcg_status            = Not yet released
   }}

@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = SacredSpiritVesselThesea-JP-OP.png
+  | image               = SacredSpiritVesselThesea-DABL-JP-C.png
   | attribute           = EARTH
   | types               = Fairy / Effect
   | level               = 4
   | atk                 = 1000
   | def                 = 1000
-  | password            = 
+  | password            = 54092240
   | effect_types        = Ignition, Ignition, Condition, Condition
   | lore                = If you [[control]] an "[[Adventurer Token]]": You can [[Special Summon]] this card from your [[hand]]. You can [[reveal]] 1 card that mentions "Adventurer Token" in your [[hand]]; [[Add a card|add]] 1 non-Normal Spell that mentions "Adventurer Token" from your [[Main Deck|Deck]] to your hand. You cannot Special Summon monsters the turn you [[activate]] this [[effect]], except "Adventurer Token" and monsters that mention it. You can only use each effect of "Sacred Spirit Vessel Thesea" [[once per turn]].
   | fr_lore             = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「勇者トークン」が存在する場合に発動できる。このカードを手札から特殊召喚する。②：「勇者トークン」のトークン名が記された手札のカード１枚を相手に見せて発動できる。通常魔法カード以外の、「勇者トークン」のトークン名が記された魔法カード１枚をデッキから手札に加える。この効果を発動するターン、自分は「勇者トークン」及びそのトークン名が記されたモンスターしか特殊召喚できない。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP028; Darkwing Blast; 
+  DABL-JP028; Darkwing Blast; Common
   | supports            = Adventurer Token
   | archseries          = Adventurer Token (series)
   | action              = 
@@ -44,7 +44,6 @@ wikitext: |-
   * Requires control of specific card
   * Mentions
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17784
   | tcg_status          = Not yet released
   }}

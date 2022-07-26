@@ -14,21 +14,21 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = ArametirtheForbiddenSpell-DABL-JP-OP.png
+  | image               = ArametirtheForbiddenSpell-DABL-JP-C.png
   | card_type           = Spell
   | property            = Continuous
-  | password            = 
-  | effect_types        = 
+  | password            = 34690953
+  | effect_types        = Ignition-like, Condition, Trigger-like, Condition
   | lore                = During your [[Main Phase]]: You can [[Special Summon]] 1 "[[Adventurer Token]]" ([[Fairy]]/[[EARTH]]/[[Level]] 4/[[ATK]] 2000/[[DEF]] 2000) to either [[field]], then [[send]] 1 card from your [[hand]] to the [[GY]]. You cannot Special Summon monsters the [[turn]] you [[activate]] this effect, except "Adventurer Token" and [[Monster Card|monsters]] that [[mention]] it. If a monster(s) you [[control]] is [[destroyed by battle]] or [[card effect]]: You can Special Summon 1 "Adventurer Token" to either field. You can only use each effect of "Arametir, the Forbidden Spell" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分または相手フィールドに「勇者トークン」（天使族・地・星４・攻／守２０００）１体を特殊召喚する。その後、自分の手札を１枚選んで墓地へ送る。この効果を発動するターン、自分は「勇者トークン」及びそのトークン名が記されたモンスターしか特殊召喚できない。②：自分フィールドのモンスターが戦闘・効果で破壊された場合に発動できる。自分または相手フィールドに「勇者トークン」１体を特殊召喚する。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP067; Darkwing Blast; 
+  DABL-JP067; Darkwing Blast; Common
   | supports            = Adventurer Token
   | archseries          = Adventurer Token (series)
   | action              = 
@@ -42,7 +42,6 @@ wikitext: |-
   | misc                = 
   * Mentions
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17822
   | tcg_status          = Not yet released
   }}

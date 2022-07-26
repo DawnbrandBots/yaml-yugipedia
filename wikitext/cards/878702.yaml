@@ -1,7 +1,5 @@
-title: Morphtronic Convert Unit
+title: Morphtronic Converter
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name          = Deformer Convert Unit
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = MorphtronicConvertUnit-DP27-JP-SR.png
+  | image               = MorphtronicConverter-DP27-JP-SR.png
   | card_type           = Spell
   | property            = Normal
   | password            = 90659259
   | effect_types        = Effect, Condition
-  | lore                = [[Target]] 1 [[Machine]] [[monster]] you [[control]]; apply this [[effect]] based on its [[battle position]].<br />● [[Attack Position]]: [[Special Summon]] 1 "[[Morphtronic]]" monster with a different name from your [[Main Deck|Deck]], then place the targeted monster on the top of the Deck.<br />● [[Defense Position]]: Change it to Attack Position, and if you do, Special Summon 1 [[Level]] 4 or lower Machine monster from your [[hand]].<br />You can only [[activate]] 1 "Morphtronic Convert Unit" per turn.
+  | lore                = [[Target]] 1 [[Machine]] [[monster]] you [[control]]; apply the following [[effect]] depending on its [[battle position]].<br />● [[Attack Position]]: [[Special Summon]] 1 "[[Morphtronic]]" monster from your [[Main Deck|Deck]] with a different name than that targeted monster, then place that targeted monster on top of the Deck.<br />● [[Defense Position]]: Change that targeted monster to Attack Position, and if you do, Special Summon 1 [[Level]] 4 or lower Machine monster from your [[hand]].<br />You can only [[activate]] 1 "Morphtronic Converter" per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -26,6 +24,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの機械族モンスター１体を対象として発動できる。そのモンスターの表示形式によって以下の効果を適用する。<br />●攻撃表示：対象のモンスターとはカード名が異なる「Ｄ」モンスター１体をデッキから特殊召喚する。その後、対象のモンスターを持ち主のデッキの一番上に戻す。<br />●守備表示：対象のモンスターを攻撃表示にし、手札からレベル４以下の機械族モンスター１体を特殊召喚する。
   | ko_lore             = 
+  | en_sets               = 
+  POTE-EN098; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR098; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE098; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT098; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT098; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP098; Power of the Elements; Common
   | jp_sets             = 
   DP27-JP006; Duelist Pack: Duelists of Pyroxene; Super Rare, Secret Rare
   | supports            = Machine

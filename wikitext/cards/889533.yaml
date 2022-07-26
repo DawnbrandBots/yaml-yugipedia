@@ -19,19 +19,29 @@ wikitext: |-
   | level                 = 2
   | atk                   = 0
   | def                   = 700
-  | password              = 
+  | password              = 53154400
   | effect_types          = Trigger, Trigger
-  | lore                  = If this card is [[Special Summon]]ed: You can roll a six-sided die, and if you roll 1 or 6, [[destroy]] up to 2 cards on the [[field]]. If this card is [[sent]] to the [[GY]]: You can roll a six-sided die, and if you roll 2, 3, 4, or 5, Special Summon this card, also you cannot Special Summon monsters from the [[Extra Deck]] while this card is face-up in the [[Monster Zone]].
+  | lore                  = If this card is [[Special Summon]]ed: You can roll a six-sided die, and if you roll 1 or 6, [[destroy]] 1 or 2 cards on the [[field]]. If this card is [[sent]] to the [[GY]]: You can roll a six-sided die, and if you roll 2, 3, 4, or 5, Special Summon this card, and if you do, you cannot Special Summon monsters from the [[Extra Deck]] while this card is face-up in the [[Monster Zone]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = ①：このカードが特殊召喚に成功した場合に発動できる。サイコロを１回振る。１・６が出た場合、フィールドのカードを２枚まで選んで破壊する。②：このカードが墓地へ送られた場合に発動できる。サイコロを１回振る。２～５が出た場合、このカードを特殊召喚する。この効果で特殊召喚したこのカードがモンスターゾーンに表側表示で存在する限り、自分はＥＸデッキからモンスターを特殊召喚できない。
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP035; Darkwing Blast; Common
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Prevents the player's Special Summons from the Extra Deck
+  | misc                  = Die roll
+  | database_id           = 17790
   | tcg_status            = Not yet released
   }}

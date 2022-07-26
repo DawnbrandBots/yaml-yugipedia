@@ -1,7 +1,5 @@
 title: Instant Contact
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 16169772
   | effect_types          = Effect, Condition
-  | lore                  = [[Pay]] 1000 [[LP]]; [[Special Summon]] 1 [[Level]] 7 or lower "[[Elemental HERO]]" or "[[Neo-Spacian]]" [[monster]] from your [[Extra Deck]], [[ignoring its Summoning conditions]], but if you do not have "[[Elemental HERO Neos]]" on your [[field]] or in your [[GY]], the Summoned monster cannot [[attack]], its [[effect]]s are [[negate]]d, also [[return]] it to the Extra Deck during the [[End Phase]]. You can only [[activate]] 1 "Instant Contact" per turn.
+  | lore                  = [[Pay]] 1000 [[LP]]; [[Special Summon]] 1 [[Level]] 7 or lower "[[Elemental HERO]]" or "[[Neo-Spacian]]" [[monster]] from your [[Extra Deck]], [[ignoring its Summoning conditions]]. While "[[Elemental HERO Neos]]" is neither on your [[field]] nor in your [[GY]], the Summoned monster cannot [[attack]], its [[effect]]s are [[negate]]d, also it [[return]]s to the Extra Deck during the [[End Phase]]. You can only [[activate]] 1 "Instant Contact" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：１０００ＬＰを払って発動できる。レベル７以下の、「Ｅ・ＨＥＲＯ」モンスターまたは「Ｎ」モンスター１体を召喚条件を無視してＥＸデッキから特殊召喚する。自分のフィールド及び墓地に「Ｅ・ＨＥＲＯ ネオス」が存在しない場合、この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに持ち主のＥＸデッキに戻る。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN052; Power of the Elements; Secret Rare
+  | fr_sets               = 
+  POTE-FR052; Power of the Elements; Secret Rare
+  | de_sets               = 
+  POTE-DE052; Power of the Elements; Secret Rare
+  | it_sets               = 
+  POTE-IT052; Power of the Elements; Secret Rare
+  | pt_sets               = 
+  POTE-PT052; Power of the Elements; Secret Rare
+  | sp_sets               = 
+  POTE-SP052; Power of the Elements; Secret Rare
   | jp_sets               = 
   POTE-JP052; Power of the Elements; Rare
+  | kr_sets               = 
+  POTE-KR052; Power of the Elements; Rare
   | archseries            = Contact (series)
   | supports              = Elemental HERO Neos
   | supports_archetypes   = 

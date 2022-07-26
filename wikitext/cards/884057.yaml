@@ -13,24 +13,24 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = KshatriLaOgre-DABL-JP-OP.png
+  | image               = KshatriLaOgre-DABL-JP-C.png
   | attribute           = WATER
   | types               = Psychic / Effect
   | level               = 7
   | atk                 = 2800
   | def                 = 1000
-  | password            = 
+  | password            = 94392192
   | effect_types        = Unclassified, Condition, Ignition, Trigger
-  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Ogre" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" [[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]]: You can [[excavate]] the top 5 cards of your opponent's Deck, and if you do, [[banish]] 1 of them [[face-down]], also place the rest on the top of the Deck in the same order.
+  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Ogre" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" [[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]] (except during the [[Damage Step]]): You can [[excavate]] the top 5 cards of your opponent's Deck, and if you do, [[banish]] 1 of them [[face-down]], also place the rest on the top of the Deck in the same order.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：自分メインフェイズに発動できる。デッキから「クシャトリラ」罠カード１枚を手札に加える。③：このカードの攻撃宣言時、または相手がモンスターの効果を発動した場合に発動できる。相手のデッキの上からカードを５枚までめくり、その中から１枚を選んで裏側表示で除外する。残りのカードを元の順番でデッキの上に戻す。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP014; Darkwing Blast; 
+  DABL-JP014; Darkwing Blast; Common
   | archseries          = Kshatri-La
   | supports_archetypes = Kshatri-La
   | action              = 
@@ -45,7 +45,6 @@ wikitext: |-
   | misc                = 
   * Requires control of no monsters
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17770
   | tcg_status          = Not yet released
   }}

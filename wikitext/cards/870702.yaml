@@ -1,7 +1,5 @@
-title: Branded Central Dogmatika
+title: Branded in Central Dogmatika
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -15,12 +13,12 @@ wikitext: |-
   | trans_name            = Branded Central Dragma
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = BrandedCentralDogmatika-POTE-JP-C.png
+  | image                 = BrandedinCentralDogmatika-POTE-JP-C.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 14220547
   | effect_types          = Trigger-like, Trigger-like, Condition
-  | lore                  = If you [[Special Summon]] 1 [[Ritual Monster]] with a [[Spell]] effect (and no other monsters) (except during the [[Damage Step]]): You can look at either [[Extra Deck]] and [[send]] 1 [[monster]] from it to the [[GY]]. If you Special Summon 1 [[Fusion Monster]] with a Spell effect (and no other monsters) (except during the Damage Step): You can [[target]] that monster; until the end of this [[turn]], it gains [[ATK]] equal to its [[original ATK]], but it cannot [[attack]], except to attack an opponent's [[Attack Position]] monster. You can only use each effect of "Branded Central Dogmatika" once per turn.
+  | lore                  = If you [[Special Summon]] 1 [[Ritual Monster]] (and no other cards) by a [[Spell Card]] or effect (except during the [[Damage Step]]): You can look at either player's [[Extra Deck]], and [[send]] 1 [[monster]] from it to the [[GY]]. If you Special Summon 1 [[Fusion Monster]] (and no other cards) by a Spell Card or effect (except during the Damage Step): You can [[target]] that monster; for the rest of this [[turn]], it gains [[ATK]] equal to its [[original ATK]], also it can only [[attack]] [[Attack Position]] monsters your opponent [[control]]s. You can only use each effect of "Branded in Central Dogmatika" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +26,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が魔法カードの効果で儀式モンスター１体のみを特殊召喚した場合に発動できる。自分または相手のＥＸデッキを確認し、その内のモンスター１体を選んで墓地へ送る。②：自分が魔法カードの効果で融合モンスター１体のみを特殊召喚した場合、そのモンスター１体を対象として発動できる。そのモンスターはターン終了時まで、攻撃力が自身の元々の攻撃力分アップし、相手フィールドの攻撃表示モンスターにしか攻撃できない。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN058; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR058; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE058; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT058; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT058; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP058; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP058; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR058; Power of the Elements; Common
   | supports              = 
   * Ritual Monster
   * Fusion Monster

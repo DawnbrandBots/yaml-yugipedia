@@ -19,7 +19,7 @@ wikitext: |-
   | rank                  = 6
   | atk                   = 2400
   | def                   = 1300
-  | password              = 
+  | password              = 45935145
   | effect_types          = Continuous, Quick, Condition
   | materials             = 2 or more Level 6 monsters
   | lore                  = 2+ [[Level]] 6 [[monsters]]<br />Monsters you [[control]] gain 100 [[ATK]]/[[DEF]] for each card in your opponent's [[GY]]. ([[Quick Effect]]): You can [[target]] 1 card in your opponent's [[GY]], then [[detach]] 1 or 2 [[material]]s from this card to [[activate]] the appropriate [[effect]];<br />● 1: [[Shuffle]] it into the [[Main Deck|Deck]].<br />● 2: If it is a monster, [[Special Summon]] it to your [[field]] in [[face-up]] [[Attack Position]], face-up [[Defense Position]], or [[face-down]] Defense Position. Otherwise, [[Set]] it to your field.<br />You can only use this [[effect]] of "Volo, the Doom-Originator Vassal Dragon" [[once per turn]].
@@ -28,7 +28,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = レベル６モンスター×２体以上<br />このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターの攻撃力・守備力は、相手の墓地のカードの数×１００アップする。②：相手の墓地のカード１枚を対象とし、このカードのＸ素材を以下の数だけ取り除き、その効果を発動できる。この効果は相手ターンでも発動できる。●１つ：そのカードをデッキに戻す。●２つ：そのカードがモンスターの場合、自分フィールドに表側表示または裏側守備表示で特殊召喚する。それ以外の場合、自分フィールドにセットする。
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP047; Darkwing Blast; Rare
@@ -42,10 +42,9 @@ wikitext: |-
   | summoning             = 
   * 2+ Xyz Materials
   * Does not require specific Xyz Materials
-  * Special Summons from your opponent's Graveyard
+  * Special Summons from your opponent's Graveyard to your field
   * Special Summons face-down
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17802
   | tcg_status            = Not yet released
   }}

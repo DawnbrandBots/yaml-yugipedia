@@ -1,7 +1,5 @@
-title: Tearalaments Crime
+title: Tearlaments Cryme
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +12,12 @@ wikitext: |-
   | romaji_name           = Tiaramentsu Kuraimu
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TearalamentsCrime-POTE-JP-C.png
+  | image                 = TearlamentsCryme-POTE-JP-C.png
   | card_type             = Trap
   | property              = Counter
   | password              = 01329620
   | effect_types          = Effect, Trigger-like, Condition
-  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a "[[Tearalaments]]" [[monster]] or "[[Visas Starfrost]]": [[Negate]] the activation, and if you do, [[shuffle]] that card into the [[Main Deck|Deck]], then [[send]] 1 monster from your [[hand]] to the [[GY]]. If this card is sent to the GY by card [[effect]]: You can [[target]] 1 of your banished "Tearalaments" monsters; [[Add a card|add]] it to your hand. You can only use 1 "Tearalaments Crime" effect per [[turn]], and only once that turn.
+  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d, while you [[control]] a "[[Tearlaments]]" [[monster]] or "[[Visas Starfrost]]": [[Negate]] the activation, and if you do, [[shuffle]] that card into the [[Main Deck|Deck]], then [[send]] 1 monster from your [[hand]] to the [[GY]]. If this card is sent to the GY by card [[effect]]: You can [[target]] 1 of your banished "Tearlaments" monsters; [[Add a card|add]] it to your hand. You can only use 1 "Tearlaments Cryme" effect per [[turn]], and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -27,11 +25,25 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「ティアラメンツ」モンスターまたは「ヴィサス＝スタフロスト」が存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし、そのカードを持ち主のデッキに戻す。その後、自分の手札からモンスター１体を選んで墓地へ送る。②：このカードが効果で墓地へ送られた場合、除外されている自分の「ティアラメンツ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN073; Power of the Elements; 
+  | fr_sets               = 
+  POTE-FR073; Power of the Elements; 
+  | de_sets               = 
+  POTE-DE073; Power of the Elements; 
+  | it_sets               = 
+  POTE-IT073; Power of the Elements; 
+  | pt_sets               = 
+  POTE-PT073; Power of the Elements; 
+  | sp_sets               = 
+  POTE-SP073; Power of the Elements; 
   | jp_sets               = 
   POTE-JP073; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR073; Power of the Elements; Common
   | supports              = Visas Starfrost
-  | archseries            = Tearalaments
-  | supports_archetypes   = Tearalaments
+  | archseries            = Tearlaments
+  | supports_archetypes   = Tearlaments
   | action                = 
   * Returns negated activations to Deck
   * Sends from your hand to your Graveyard

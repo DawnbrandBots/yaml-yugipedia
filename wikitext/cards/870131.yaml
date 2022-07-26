@@ -1,7 +1,5 @@
 title: Ravenous Vendread
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property              = Ritual
   | password              = 13386407
   | effect_types          = Effect, Condition
-  | lore                  = This card can be used to [[Ritual Summon]] any "[[Vendread]]" [[Ritual Monster]]. [[Special Summon]] 1 "[[Vendread]]" [[Monster Card|monster]] from your [[hand]], [[Main Deck|Deck]], or [[GY]] in [[face-down]] [[Defense Position]], except "[[Vendread Scarvenger]]", then Ritual Summon 1 "Vendread" Ritual Monster from your hand or GY, by [[Tribute|Tributing]] monsters from your [[field]], including the [[Summon]]ed monster, whose total [[Level]]s equal or exceed the Level of the Ritual Monster you Ritual Summon. You can only [[activate]] 1 "Ravenous Vendread" per turn.
+  | lore                  = [[Special Summon]] 1 "[[Vendread]]" [[Monster Card|monster]] from your [[hand]], [[Main Deck|Deck]], or [[GY]] in [[face-down]] [[Defense Position]], except "[[Vendread Scarvenger]]", then apply the following [[effect]].<br />● [[Ritual Summon]] any 1 "Vendread" [[Ritual Monster]] from your hand or GY by [[Tribute|Tributing]] monsters you [[control]], including the monster Special Summoned by this card, whose total [[Level]]s equal or exceed the Level of the Ritual Monster.<br />You can only [[activate]] 1 "Ravenous Vendread" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 「ヴェンデット」儀式モンスターの降臨に必要。このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・デッキ・墓地から「ヴェンデット・スカヴェンジャー」以外の「ヴェンデット」モンスター１体を選んで裏側守備表示で特殊召喚する。その後、以下の効果を適用する。●レベルの合計が儀式召喚するモンスターのレベル以上になるように、この効果で特殊召喚したモンスターを含む自分フィールドのモンスターをリリースし、自分の手札・墓地から「ヴェンデット」儀式モンスター１体を儀式召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN064; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR064; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE064; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT064; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT064; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP064; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP064; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR064; Power of the Elements; Common
   | supports              = 
   * Ritual Monster
   * Vendread Scarvenger

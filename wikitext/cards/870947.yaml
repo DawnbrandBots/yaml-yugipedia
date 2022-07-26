@@ -1,7 +1,5 @@
-title: Melffy Sealy
+title: Melffy Pinny
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,9 +8,10 @@ wikitext: |-
   | es_name               = 
   | ja_name               = メルフィー・ラッシィ
   | romaji_name           = Merufī Rasshī
+  | trans_name            = Melffy Sealy
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = MelffySealy-POTE-JP-C.png
+  | image                 = MelffyPinny-POTE-JP-C.png
   | attribute             = WATER
   | types                 = Beast / Tuner / Effect
   | level                 = 2
@@ -20,16 +19,31 @@ wikitext: |-
   | def                   = 100
   | password              = 34800281
   | effect_types          = Quick, Trigger, Condition
-  | lore                  = If a [[face-up]] [[Beast]] [[monster]](s) you [[control]] other than "Melffy Sealy" was [[return]]ed to the [[hand]] this [[turn]] ([[Quick Effect]]): You can [[Special Summon]] this card from your hand, then, immediately after this [[effect]] [[resolve]]s, you can [[Synchro Summon]] using only "[[Melffy]]" monsters in your hand and this card as [[material]]. During your [[End Phase]], if this card is in your [[GY]]: You can [[target]] 1 Beast [[Xyz Monster]] you control; [[attach]] this card to it as material. You can only use each effect of "Melffy Sealy" once per turn.
+  | lore                  = If a [[face-up]] [[Beast]] [[monster]] you [[control]] was [[return]]ed to the [[hand]] this [[turn]], except "Melffy Pinny" ([[Quick Effect]]): You can [[Special Summon]] this card from your hand, then immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] 1 [[Synchro Monster]] using only this card you control and "[[Melffy]]" monsters in your hand. During your [[End Phase]], if this card is in your [[GY]]: You can [[target]] 1 Beast [[Xyz Monster]] you control; [[attach]] this card to it as [[material]]. You can only use each effect of "Melffy Pinny" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「メルフィー・ラッシィ」以外の自分フィールドの表側表示の獣族モンスターが手札に戻ったターンに発動できる。このカードを手札から特殊召喚する。その後、このカードと手札の「メルフィー」モンスターのみを素材としてＳ召喚できる。この効果は相手ターンでも発動できる。②：自分エンドフェイズにこのカードが墓地に存在する場合、自分フィールドの獣族Ｘモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてＸ素材とする。
+  | trans_lore            = If a face-up Beast monster you control was returned to the hand this turn, except "Melffy Pinny" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, '''you can''' Synchro Summon 1 Synchro Monster using only this card you control and "Melffy" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of "Melffy Pinny" once per turn.
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN023; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR023; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE023; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT023; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT023; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP023; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP023; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR023; Power of the Elements; Common
   | supports              = 
   * Beast
   * Xyz Monster

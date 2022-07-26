@@ -1,4 +1,4 @@
-title: Tearalaments Scream
+title: Tearlaments Scream
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
@@ -14,24 +14,24 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = TearalamentsScream-DABL-JP-OP.png
+  | image               = TearlamentsScream-DABL-JP-C.png
   | card_type           = Spell
   | property            = Continuous
-  | password            = 
+  | password            = 06767771
   | effect_types        = Trigger-like, Trigger-like, Condition
-  | lore                = If a [[monster]](s) is [[Normal Summon|Normal]] or [[Special Summon]]ed, and you [[control]] a "[[Tearalaments]]" monster or "[[Visas Starfrost]]": You can [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[GY]], also all face-up monsters your opponent controls will lose 500 [[ATK]] for the rest of this [[turn]]. If this card is sent to the GY by card [[effect]]: You can [[Add a card|add]] 1 "Tearalaments" [[Trap]] from your Deck to your [[hand]]. You can only use each effect of "Tearalaments Scream" [[once per turn]].
+  | lore                = If a [[monster]](s) is [[Normal Summon|Normal]] or [[Special Summon]]ed, and you [[control]] a "[[Tearlaments]]" monster or "[[Visas Starfrost]]" (except during the [[Damage Step]]): You can [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[GY]], also all face-up monsters your opponent controls will lose 500 [[ATK]] for the rest of this [[turn]]. If this card is sent to the GY by card [[effect]]: You can [[Add a card|add]] 1 "Tearlaments" [[Trap]] from your Deck to your [[hand]]. You can only use each effect of "Tearlaments Scream" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドにモンスターが召喚・特殊召喚された場合に、自分フィールドに「ティアラメンツ」モンスターまたは「ヴィサス＝スタフロスト」が存在していれば発動できる。自分のデッキの上からカードを３枚墓地へ送る。このターン、相手フィールドのモンスターの攻撃力は５００ダウンする。②：このカードが効果で墓地へ送られた場合に発動できる。デッキから「ティアラメンツ」罠カード１枚を手札に加える。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP058; Darkwing Blast; 
+  DABL-JP058; Darkwing Blast; Common
   | supports            = Visas Starfrost
-  | archseries          = Tearalaments
-  | supports_archetypes = Tearalaments
+  | archseries          = Tearlaments
+  | supports_archetypes = Tearlaments
   | action              = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
@@ -43,7 +43,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific card
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17813
   | tcg_status          = Not yet released
   }}

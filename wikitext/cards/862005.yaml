@@ -1,7 +1,5 @@
 title: Favorite Contact
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 75047173
   | effect_types          = Effect, Condition
-  | lore                  = [[Special Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]] that lists a "[[HERO]]" monster as [[material]], by placing the materials listed on it on the bottom of the [[Main Deck|Deck]] in any order, from among the cards in your [[hand]], on your [[field]], in your [[GY]], and/or your [[face-up]] [[banish]]ed cards, [[ignoring its Summoning conditions]], and if you placed "[[Elemental HERO Neos]]", the Summoned monster cannot be returned to the [[Extra Deck]]. You can only [[activate]] 1 "Favorite Contact" per turn.
+  | lore                  = [[Special Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]] that mentions a "[[HERO]]" monster as [[material]], [[ignoring its Summoning conditions]], by placing the Fusion Materials mentioned on it on the bottom of the [[Main Deck|Deck]] in any order, from among cards in your [[hand]], [[field]], [[GY]], and/or your [[banish]]ed cards. If you placed "[[Elemental HERO Neos]]" into the Deck, neither player can [[return]] the monster Special Summoned by this [[effect]] to the [[Extra Deck]]. You can only [[activate]] 1 "Favorite Contact" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールド・墓地のモンスター及び除外されている自分のモンスターの中から、融合モンスターカードによって決められた融合素材モンスターを好きな順番で持ち主のデッキの下に戻し、「ＨＥＲＯ」モンスターを融合素材とするその融合モンスター１体をＥＸデッキから召喚条件を無視して特殊召喚する。「Ｅ・ＨＥＲＯ ネオス」をデッキに戻した場合、この効果で特殊召喚したモンスターをお互いにＥＸデッキに戻す事はできない。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN069; Power of the Elements; Ultra Rare
+  | fr_sets               = 
+  POTE-FR069; Power of the Elements; Ultra Rare
+  | de_sets               = 
+  POTE-DE069; Power of the Elements; Ultra Rare
+  | it_sets               = 
+  POTE-IT069; Power of the Elements; Ultra Rare
+  | pt_sets               = 
+  POTE-PT069; Power of the Elements; Ultra Rare
+  | sp_sets               = 
+  POTE-SP069; Power of the Elements; Ultra Rare
   | jp_sets               = 
   POTE-JP069; Power of the Elements; Rare
+  | kr_sets               = 
+  POTE-KR069; Power of the Elements; Rare
   | supports              = 
   * Elemental HERO Neos
   * Fusion Monster

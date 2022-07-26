@@ -13,25 +13,25 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = KshatriLaShangriLa-DABL-JP-OP.png
+  | image               = KshatriLaShangriLa-DABL-JP-R.png
   | attribute           = FIRE
   | types               = Psychic / Xyz / Effect
   | rank                = 7
   | atk                 = 0
   | def                 = 3000
-  | password            = 
+  | password            = 73542331
   | materials           = 2 or more Level 7 monsters
   | effect_types        = Ignition, Condition, Trigger, Continuous
-  | lore                = 2+ [[Level]] 7 [[monsters]]<br />During the [[Standby Phase]]: You can [[Special Summon]] 1 "[[Kshatri-La]]" [[monster]] from your [[Main Deck|Deck]]. You can only use this [[effect]] of "Kshatri-La Shangri-La" [[once per turn]]. Each time an opponent's card(s) is [[banish]]ed [[face-down]]: You can choose 1 unused [[Main Monster Zone]] or [[Spell & Trap Zone]]; it cannot be used while this monster is [[face-up]] on the [[field]]. If this card on the field would be [[destroyed by battle]] or card effect, you can [[detach]] 1 [[material]] from it instead.
+  | lore                = 2+ [[Level]] 7 [[monsters]]<br />During the [[Standby Phase]]: You can [[Special Summon]] 1 "[[Kshatri-La]]" [[monster]] from your [[Main Deck|Deck]]. You can only use this [[effect]] of "Kshatri-La Shangri-La" [[once per turn]]. Each time an opponent's card(s) is [[banish]]ed [[face-down]] (except during the [[Damage Step]]): You can choose 1 unused [[Main Monster Zone]] or [[Spell & Trap Zone]]; it cannot be used while this monster is [[face-up]] on the [[field]]. If this card on the field would be [[destroyed by battle]] or card effect, you can [[detach]] 1 [[material]] from it instead.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = レベル７モンスター×２体以上<br />このカード名の①の効果は１ターンに１度しか使用できない。①：自分・相手のスタンバイフェイズに発動できる。デッキから「クシャトリラ」モンスター１体を特殊召喚する。②：相手のカードが裏側表示で除外される度に、使用していないメインモンスターゾーンまたは魔法＆罠ゾーンを１ヵ所指定して発動できる。指定したゾーンはこのモンスターが表側表示で存在する間は使用できない。③：フィールドのこのカードが戦闘・効果で破壊される場合、代わりにこのカードのＸ素材を１つ取り除く事ができる。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP045; Darkwing Blast; 
+  DABL-JP045; Darkwing Blast; Rare
   | archseries          = Kshatri-La
   | supports_archetypes = Kshatri-La
   | action              = Detaches Xyz Materials for effect
@@ -47,7 +47,6 @@ wikitext: |-
   * Special Summons from your Deck
   | attack              = Cannot be destroyed by battle
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17800
   | tcg_status          = Not yet released
   }}

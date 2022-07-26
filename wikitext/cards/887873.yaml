@@ -19,18 +19,18 @@ wikitext: |-
   | level               = 6
   | atk                 = 2500
   | def                 = 2000
-  | password            = 
-  | effect_types        = Ignition, Trigger, Condition
+  | password            = 60242223
+  | effect_types        = Ignition, Condition, Trigger, Condition
   | lore                = You can [[target]] 1 [[LIGHT]] or [[DARK]] [[monster]] in either [[GY]]; [[banish]] it, and if you do, [[Special Summon]] this card from your [[hand]]. This is a [[Quick Effect]] if your opponent [[control]]s a monster. If this card is [[sent]] to the GY: You can send 1 "[[Byssted]]" monster, except "Byssted Saronir", or 1 "[[Branded]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to the GY. You can only use each [[effect]] of "Byssted Saronir" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地の、光・闇属性モンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札から特殊召喚する。相手フィールドにモンスターが存在する場合、この効果は相手ターンでも発動できる。②：このカードが墓地へ送られた場合に発動できる。「深淵の獣サロニール」以外の「ビーステッド」モンスター１体または「烙印」魔法・罠カード１枚をデッキから墓地へ送る。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP007; Darkwing Blast; 
+  DABL-JP007; Darkwing Blast; Common
   | supports            = 
   * LIGHT
   * DARK
@@ -50,7 +50,6 @@ wikitext: |-
   | misc                = 
   * Can be activated during either player's turn
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17763
   | tcg_status          = Not yet released
   }}

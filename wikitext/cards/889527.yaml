@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 4
   | atk                   = 1400
   | def                   = 1400
-  | password              = 
+  | password              = 15947754
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: [[Equip]] the top card of your [[Main Deck|Deck]] to this card as a [[face-down]] [[Equip Spell]] that gives it 500 [[ATK]]. During the [[End Phase]]: Your opponent calls the original type of card ([[Monster]], [[Spell]], or [[Trap]]) equipped by this [[effect]], and if they call it right, [[send]] this card to the [[GY]]. Otherwise, [[discard]] 1 [[random]] card from your opponent's [[hand]], and if you do, [[return]] this card to the hand. You can only use this effect of "Omerta - Calupoh" [[once per turn]].
   | fr_lore               = 
@@ -26,11 +26,25 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動する。自分のデッキの一番上のカードを攻撃力５００アップの装備カード扱いとして裏側表示でこのカードに装備する。②：自分・相手のエンドフェイズに発動する。相手はこのカードの①の効果で装備しているカードの元々の種類（モンスター・魔法・罠）を当てる。当たった場合、このカードを墓地へ送る。ハズレの場合、相手の手札をランダムに１枚選んで捨て、このカードを持ち主の手札に戻す。
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP037; Darkwing Blast; Normal Rare
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Equips from the top of player's Deck to itself
+  * Grants effect to Equip Spell Card
+  * Declares a card type
+  * Sends itself from field to Graveyard
+  * Your opponent discards
+  * Returns itself from field to hand
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = 
+  * Treats monsters as Equip Cards
+  * Treats Spell Cards as Equip Cards
+  * Treats Trap Cards as Equip Cards
+  | misc                  = Only once per turn
+  | database_id           = 17792
   | tcg_status            = Not yet released
   }}

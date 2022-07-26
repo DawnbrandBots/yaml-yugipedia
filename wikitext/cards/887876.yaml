@@ -19,18 +19,18 @@ wikitext: |-
   | level               = 6
   | atk                 = 2500
   | def                 = 2000
-  | password            = 
-  | effect_types        = Ignition, Trigger, Condition
+  | password            = 06637331
+  | effect_types        = Ignition, Condition, Trigger, Condition
   | lore                = You can [[target]] 1 [[LIGHT]] or [[DARK]] [[monster]] in either [[GY]]; [[banish]] it, and if you do, [[Special Summon]] this card from your [[hand]]. This is a [[Quick Effect]] if your opponent [[control]]s a monster. If this card is [[sent]] from the [[field]] to the GY: You can target 1 opponent's Special Summoned monster; [[send]] it to the GY. You can only use each [[effect]] of "Byssted Druidwurm" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地の、光・闇属性モンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札から特殊召喚する。相手フィールドにモンスターが存在する場合、この効果は相手ターンでも発動できる。②：このカードがフィールドから墓地へ送られた場合、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを墓地へ送る。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP008; Darkwing Blast; 
+  DABL-JP008; Darkwing Blast; Common
   | supports            = 
   * LIGHT
   * DARK
@@ -47,7 +47,6 @@ wikitext: |-
   | misc                = 
   * Can be activated during either player's turn
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17764
   | tcg_status          = Not yet released
   }}

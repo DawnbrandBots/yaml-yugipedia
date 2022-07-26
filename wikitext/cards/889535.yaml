@@ -19,19 +19,28 @@ wikitext: |-
   | level                 = 3
   | atk                   = 500
   | def                   = 1500
-  | password              = 
+  | password              = 16769305
   | effect_types          = Trigger, Quick, Condition
-  | lore                  = FLIP: You can [[declare]] a [[Level]] from 1 to 9; this card becomes that Level until the end of this [[turn]].<br />During the [[Main Phase]], if you control this card that was flipped [[face-up]] ([[Quick Effect]]): You can [[target]] 1 other face-up [[monster]] on the [[field]]; immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] using only this card and that target. You can only use 1 "Doom-Tune - GT19" effect per turn, and only once that turn.
+  | lore                  = FLIP: You can [[declare]] a [[Level]] from 1 to 9; this card becomes that Level until the end of this [[turn]].<br />During the [[Main Phase]], if you control this card that was flipped [[face-up]] ([[Quick Effect]]): You can [[target]] 1 other face-up [[monster]] on either player's [[field]]; immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] using only this card and that target. You can only use 1 "Doom-Tune - GT19" effect per turn, and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、１～９までの任意のレベルを宣言して発動できる。このカードのレベルはターン終了時まで宣言したレベルになる。②：リバースしたこのカードが表側表示で存在する場合、自分・相手のメインフェイズに、このカード以外の自分・相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのみを素材としてＳ召喚する。
   | ko_lore               = 
   | jp_sets               = 
   DABL-JP034; Darkwing Blast; Common
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17789
+  | action                = 
+  * Activates upon being flipped face-up
+  * Declares a Level
+  * Uses itself as a Synchro Material
+  * Uses the opponent's monsters as Synchro Materials
+  | stat_change           = Changes own Level
+  | summoning             = 
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Only 1 effect once per turn
   | tcg_status            = Not yet released
   }}

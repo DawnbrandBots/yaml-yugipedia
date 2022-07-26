@@ -12,21 +12,21 @@ wikitext: |-
   | romaji_name           = Fukurakuin
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = Rebranded-DABL-JP-OP.png
+  | image                 = Rebranded-DABL-JP-R.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 34090915
   | effect_types          = Trigger-like, Condition, Trigger-like, Condition
-  | lore                  = If a [[LIGHT]] and/or [[DARK]] [[monster]](s) is [[banish]]ed: You can [[target]] 1 of those monsters; place it on the bottom of the [[Main Deck|Deck]], and if you do, [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Rebranded" [[once per turn]]. Once per turn, if your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a monster(s): You can [[target]] 1 "[[Byssted]]" monster in your [[GY]]; [[Special Summon]] it. You can only use this effect of "Rebranded" once per Chain.
+  | lore                  = If a [[LIGHT]] and/or [[DARK]] [[monster]](s) is [[banish]]ed (except during the [[Damage Step]]): You can [[target]] 1 of those monsters; place it on the bottom of the [[Main Deck|Deck]], and if you do, [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Rebranded" [[once per turn]]. Once per turn, if your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a monster(s) (except during the [[Damage Step]]): You can [[target]] 1 "[[Byssted]]" monster in your [[GY]]; [[Special Summon]] it. You can only use this effect of "Rebranded" once per Chain.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の、①の効果は１ターンに１度しか使用できず、②の効果は同一チェーン上では１度しか発動できない。①：光・闇属性モンスターが除外された場合、そのモンスター１体を対象として発動できる。そのモンスターを持ち主のデッキの一番下に戻し、自分はデッキから１枚ドローする。②：１ターンに１度、相手がモンスターの召喚・特殊召喚に成功した場合、自分の墓地の「ビーステッド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  DABL-JP053; Darkwing Blast; 
+  DABL-JP053; Darkwing Blast; Rare
   | supports            = 
   * LIGHT
   * DARK
@@ -46,7 +46,6 @@ wikitext: |-
   * Only once per turn
   * Limited activations
   * Once per Chain
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17808
   | tcg_status            = Not yet released
   }}

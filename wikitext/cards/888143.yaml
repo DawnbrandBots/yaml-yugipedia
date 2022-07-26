@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name          = Soul Scissor
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = SoulScissors-DABL-JP-OP.png
+  | image               = SoulScissors-DABL-JP-C.png
   | attribute           = DARK
   | types               = Fiend / Effect
   | level               = 2
   | atk                 = 550
   | def                 = 350
-  | password            = 
+  | password            = 12061457
   | effect_types        = Trigger, Trigger, Condition
   | lore                = If a [[monster]](s) on the [[field]] is [[destroyed by battle]] or card [[effect]] and sent to the [[GY]], while this card is in your GY: You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]]. If this card is Special Summoned from the GY: You can [[target]] 1 monster your opponent [[control]]s; [[destroy]] it. You can only use each effect of "Soul Scissors" [[once per turn]].
   | fr_lore             = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地に存在する状態で、フィールドのモンスターが戦闘・効果で破壊され墓地へ送られた場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが墓地からの特殊召喚に成功した場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP029; Darkwing Blast; 
+  DABL-JP029; Darkwing Blast; Common
   | action              = 
   * Activates if destroyed by battle
   * Activates if destroyed by card effect
@@ -40,7 +40,6 @@ wikitext: |-
   | summoning           = Special Summons itself from your Graveyard
   | banished            = Banishes itself when it leaves the field
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 5051
   | tcg_status          = Not yet released
   }}

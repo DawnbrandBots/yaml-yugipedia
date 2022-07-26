@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name          = Valiants-Wake - Solo Activate
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = VaylantzVakeningSoloActivation-DABL-JP-OP.png
+  | image               = VaylantzVakeningSoloActivation-DABL-JP-R.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 60095092
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = Place 1 "[[Vaylantz]]" [[Pendulum Monster]] from your [[Main Deck|Deck]] in your [[Pendulum Zone]]. If a card is in a [[Field Zone]]: You can [[banish]] this card from your [[GY]], then [[target]] 1 "Vaylantz" monster in your [[Main Monster Zone]]; move that monster you control to an adjacent (horizontal) [[Monster Zone]]. You can only use each [[effect]] of "Vaylantz Vakening - Solo Activation" [[once per turn]].
   | fr_lore             = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「ヴァリアンツ」Ｐモンスター１体を選んで自分のＰゾーンに置く。②：フィールドゾーンにカードが存在する場合、墓地のこのカードを除外し、自分のメインモンスターゾーンの「ヴァリアンツ」モンスター１体を対象として発動できる。その自分のモンスターの位置を、その隣のモンスターゾーンに移動する。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP068; Darkwing Blast; 
+  DABL-JP068; Darkwing Blast; Rare
   | supports            = Pendulum Monster
   | archseries          = Vaylantz
   | supports_archetypes = Vaylantz
@@ -37,7 +37,6 @@ wikitext: |-
   | m/s/t               = Changes Monster Zone
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17823
   | tcg_status          = Not yet released
   }}

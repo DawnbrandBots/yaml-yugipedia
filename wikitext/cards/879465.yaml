@@ -13,11 +13,11 @@ wikitext: |-
   | trans_name            = Black Noble
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = BlackShadowSquall-OW.png
+  | image                 = BlackShadowSquall-DABL-JP-C.png
   | card_type             = Trap
   | property              = Counter
-  | password              = 
-  | effect_types          = Effect, Quick-like, Condition
+  | password              = 96367119
+  | effect_types          = Activation requirement, Cost, Effect, Quick-like, Condition
   | lore                  = When a [[Spell]]/[[Trap Card]] is [[activate]]d: Remove 1 [[Black Feather Counter]] from your [[field]]; [[negate]] the activation, and if you do, [[destroy]] that card. If you [[control]] "[[Black-Winged Dragon]]": You can [[Set]] this card from your GY, but [[banish]] it when it [[leaves the field]]. You can only use 1 "Black Shadow Squall" [[effect]] per [[turn]], and only once that turn.
   | fr_lore               = 
   | de_lore               = 
@@ -27,7 +27,7 @@ wikitext: |-
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：魔法・罠カードが発動した時、自分フィールドの黒羽カウンターを１つ取り除いて発動できる。その発動を無効にし破壊する。②：自分フィールドに「ブラックフェザー・ドラゴン」が存在する場合に発動できる。墓地のこのカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
   | ko_lore               = 
   | jp_sets               = 
-  DABL-JP072; Darkwing Blast; 
+  DABL-JP072; Darkwing Blast; Common
   | supports              = Black-Winged Dragon
   | related_to_archseries = 
   * Signature move
@@ -47,7 +47,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific card
   * Only 1 effect once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17827
   | tcg_status            = Not yet released
   }}

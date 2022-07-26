@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name          = Gunmetal Ninja - Kagero
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = MusketNinjaKagero-DABL-JP-OP.png
+  | image               = MusketNinjaKagero-DABL-JP-C.png
   | attribute           = FIRE
   | types               = Warrior / Effect
   | level               = 4
   | atk                 = 1600
   | def                 = 2000
-  | password            = 
+  | password            = 20065259
   | effect_types        = Trigger, Quick, Condition
   | lore                = If this card is [[Summon]]ed or [[flip]]ped [[face-up]]: You can [[Special Summon]] 1 "[[Ninja]]" [[Monster Card|monster]] from your [[hand]] or [[GY]] in [[face-down]] [[Defense Position]], except "Musket Ninja Kagero". When your opponent [[activate]]s a card or [[effect]] that [[target]]s 1 "Ninja" card or face-down Defense Position monster you [[control]] (and no other cards), while this card is in your GY ([[Quick Effect]]): You can Special Summon this card in face-down Defense Position, and if you do, [[return]] the targeted card to the hand. You can only use each effect of "Musket Ninja Kagero" [[once per turn]].
   | fr_lore             = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚・リバースした場合に発動できる。自分の手札・墓地から「銃の忍者－火光」以外の「忍者」モンスター１体を選んで裏側守備表示で特殊召喚する。②：このカードが墓地に存在し、自分フィールドの、「忍者」カード１枚のみまたは裏側守備表示モンスター１体のみを対象とする相手の効果が発動した時に発動できる。このカードを裏側守備表示で特殊召喚し、その対象となったカードを持ち主の手札に戻す。
   | ko_lore             = 
   | jp_sets             = 
-  DABL-JP018; Darkwing Blast; 
+  DABL-JP018; Darkwing Blast; Common
   | archseries          = Ninja
   | supports_archetypes = Ninja
   | action              = 
@@ -50,7 +50,6 @@ wikitext: |-
   | misc                = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17774
   | tcg_status          = Not yet released
   }}

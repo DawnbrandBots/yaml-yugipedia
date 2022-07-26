@@ -13,21 +13,21 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = KshatriLaFenrir-DABL-JP-OP.png
+  | image               = KshatriLaFenrir-DABL-JP-R.png
   | attribute           = EARTH
   | types               = Psychic / Effect
   | level               = 7
   | atk                 = 2400
   | def                 = 2400
-  | password            = 
+  | password            = 32909498
   | effect_types        = Unclassified, Condition, Ignition, Trigger
-  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Fenrir" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" monster from your [[Main Deck|Deck]] to your hand. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]]: You can [[target]] 1 [[face-up]] card your opponent controls; [[banish]] it [[face-down]].
+  | lore                = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Kshatri-La Fenrir" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Kshatri-La]]" monster from your [[Main Deck|Deck]] to your hand. When this card [[declare]]s an [[attack]], OR if your opponent [[activate]]s a [[monster effect]] (except during the [[Damage Step]]): You can [[target]] 1 [[face-up]] card your opponent controls; [[banish]] it [[face-down]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：自分メインフェイズに発動できる。デッキから「クシャトリラ」モンスター１体を手札に加える。③：このカードの攻撃宣言時、または相手がモンスターの効果を発動した場合、相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードを裏側表示で除外する。
   | ko_lore             = 
   | jp_sets             = 
   DABL-JP012; Darkwing Blast; Rare
@@ -43,7 +43,6 @@ wikitext: |-
   | misc                = 
   * Requires control of no monsters
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 17768
   | tcg_status          = Not yet released
   }}

@@ -1,7 +1,5 @@
-title: Subspecies King Asura-Oh
+title: Ashura King
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -9,11 +7,11 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|亜種羅王|アシュラオウ}}
+  | base_trans_name       = Subspecies​ King
   | romaji_name           = Ashuraou
-  | trans_name            = Asura-Oh
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SubspeciesKingAsuraOh-POTE-JP-R.png
+  | image                 = AshuraKing-POTE-JP-R.png
   | attribute             = EARTH
   | types                 = Warrior / Xyz / Effect
   | rank                  = 3
@@ -22,7 +20,7 @@ wikitext: |-
   | materials             = 3 or more Level 3 monsters
   | password              = 80993256
   | effect_types          = Continuous, Trigger, Quick, Condition
-  | lore                  = 3+ [[Level]] 3 [[monsters]]<br />While this card has [[material]], it can [[attack]] a number of times each [[Battle Phase]], up to the number of materials [[attach]]ed to it. At the start of the [[Damage Step]], if this card [[battle]]s: It gains 200 [[ATK]]. When another monster's effect is activated ([[Quick Effect]]): You can [[detach]] 1 material from this card; [[negate]] the activation, and if you do, [[destroy]] that monster. You can only use this effect of "Subspecies King Asura-Oh" [[once per turn]].
+  | lore                  = 3+ [[Level]] 3 [[monsters]]<br />While this card has [[material]], it can [[attack]] a number of times each [[Battle Phase]], up to the number of materials [[attach]]ed to it. At the start of the [[Damage Step]], if this card [[battle]]s: It gains 200 [[ATK]]. When another monster's effect is activated ([[Quick Effect]]): You can [[detach]] 1 material from this card; [[negate]] the activation, and if you do, [[destroy]] that card. You can only use this effect of "Ashura King" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,8 +28,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = レベル３モンスター×３体以上<br />このカード名の③の効果は１ターンに１度しか使用できない。①：Ｘ素材を持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。②：このカードが戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力は２００アップする。③：このカード以外のモンスターの効果が発動した時、このカードのＸ素材を１つ取り除いて発動できる。その発動を無効にし破壊する。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN048; Power of the Elements; Secret Rare
+  | fr_sets               = 
+  POTE-FR048; Power of the Elements; Secret Rare
+  | de_sets               = 
+  POTE-DE048; Power of the Elements; Secret Rare
+  | it_sets               = 
+  POTE-IT048; Power of the Elements; Secret Rare
+  | pt_sets               = 
+  POTE-PT048; Power of the Elements; Secret Rare
+  | sp_sets               = 
+  POTE-SP048; Power of the Elements; Secret Rare
   | jp_sets               = 
   POTE-JP048; Power of the Elements; Rare
+  | kr_sets               = 
+  POTE-KR048; Power of the Elements; Rare
   | action                = Applies effects if Xyz Material is attached
   | stat_change           = This card gains ATK
   | m/s/t                 = 

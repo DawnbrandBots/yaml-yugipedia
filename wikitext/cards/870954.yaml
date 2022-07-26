@@ -1,7 +1,5 @@
 title: Melffy Staring Contest
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 76981308
   | effect_types          = Ignition-like, Condition, Trigger-like, Continuous-like
-  | lore                  = You can [[reveal]] 1 [[Beast]] [[monster]] in your [[hand]]; [[Add a card|add]] 1 "[[Melffy]]" monster with a different name from your [[Main Deck|Deck]] or [[GY]] to your hand, and if you do, place the revealed monster on the bottom of the Deck. You can only use this [[effect]] of "Melffy Staring Contest" [[once per turn]]. At the start of your opponent's [[Battle Phase]]: You can reveal any number of "Melffy" [[monsters]] in your hand and keep them revealed during the [[Battle Phase]]. Monsters your opponent [[control]]s lose [[ATK]] equal to the combined [[ATK]] and [[DEF]] of all monsters being revealed by this effect.
+  | lore                  = You can [[reveal]] 1 [[Beast]] [[monster]] in your [[hand]]; [[Add a card|add]] 1 "[[Melffy]]" monster with a different name from your [[Main Deck|Deck]] or [[GY]] to your hand and place that revealed monster on the bottom of the Deck. You can only use this [[effect]] of "Melffy Staring Contest" [[once per turn]]. At the start of your opponent's [[Battle Phase]]: You can reveal any number of "Melffy" [[monsters]] in your hand and keep them revealed during this [[Battle Phase]] only. Monsters your opponent [[control]]s lose [[ATK]] equal to the combined [[ATK]] and [[DEF]] of the monsters revealed by this effect.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：手札の獣族モンスター１体を相手に見せて発動できる。それとはカード名が異なる「メルフィー」モンスター１体を自分のデッキ・墓地から選んで手札に加え、見せたモンスターをデッキの一番下に戻す。②：相手バトルフェイズ開始時に発動できる。手札の「メルフィー」モンスターを任意の数だけ相手に見せ、バトルフェイズの間だけ公開する。③：相手フィールドのモンスターの攻撃力は、このカードの②の効果で公開しているモンスターの攻撃力・守備力の合計分だけダウンする。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN063; Power of the Elements; Super Rare
+  | fr_sets               = 
+  POTE-FR063; Power of the Elements; Super Rare
+  | de_sets               = 
+  POTE-DE063; Power of the Elements; Super Rare
+  | it_sets               = 
+  POTE-IT063; Power of the Elements; Super Rare
+  | pt_sets               = 
+  POTE-PT063; Power of the Elements; Super Rare
+  | sp_sets               = 
+  POTE-SP063; Power of the Elements; Super Rare
   | jp_sets               = 
   POTE-JP063; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR063; Power of the Elements; Common
   | supports              = Beast
   | archseries            = Melffy
   | supports_archetypes   = Melffy

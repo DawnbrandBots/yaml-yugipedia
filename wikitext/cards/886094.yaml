@@ -1,6 +1,7 @@
 title: Green Ninja
 wikitext: |-
   {{Unofficial name|English}}
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -12,21 +13,21 @@ wikitext: |-
   | romaji_name         = Gurīn Ninja
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = GreenNinja-VJMP-JP-OP.png
+  | image               = GreenNinja-VJMP-JP-UR.png
   | attribute           = WIND
   | types               = Warrior / Effect
   | level               = 2
   | atk                 = 600
   | def                 = 600
-  | password            = 
-  | effect_types        = 
-  | lore                = If a [[Monster Card|monster]](s) is [[Special Summon]]ed to your [[field]] [[face-up]]: You can [[target]] 1 of them; Special Summon this card from your hand, and if you do, change that monster to [[face-down]] [[Defense Position]]. If this card is [[send|sent]] from the [[hand]] or [[field]] to the [[GY]]: You can target 1 monster on the field; change it to [[face-up]] [[Attack Position]] or face-down Defense Position. You can only use each effect of "Green Ninja" [[once per turn]].
+  | password            = 15198996
+  | effect_types        = Trigger, Trigger, Condition
+  | lore                = If a [[Monster Card|monster]](s) is [[Special Summon]]ed to your [[field]] [[face-up]] (except during the [[Damage Step]]): You can [[target]] 1 of them; Special Summon this card from your hand, and if you do, change that monster to [[face-down]] [[Defense Position]]. If this card is [[send|sent]] from the [[hand]] or [[field]] to the [[GY]]: You can target 1 monster on the field; change it to [[face-up]] [[Attack Position]] or face-down Defense Position. You can only use each effect of "Green Ninja" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが表側表示で特殊召喚された場合、そのモンスター１体を対象として発動できる。このカードを手札から特殊召喚し、対象のモンスターを裏側守備表示にする。②：このカードが手札・フィールドから墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターを表側攻撃表示または裏側守備表示にする。
   | ko_lore             = 
   | jp_sets             = 
   VJMP-JP220; V Jump September 2022 promotional card; Ultra Rare
@@ -40,7 +41,6 @@ wikitext: |-
   * Flips monsters face-up
   | summoning           = Special Summons itself from your hand
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 18027
   | tcg_status          = Not yet released
   }}

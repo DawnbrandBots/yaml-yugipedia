@@ -13,14 +13,14 @@ wikitext: |-
   | trans_name            = Ignis Phoenix, the Dragon Swordsman
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = IgnisPhoenixtheDracoslayer-DABL-JP-OP.png
+  | image                 = IgnisPhoenixtheDracoslayer-DABL-JP-SR.png
   | attribute             = FIRE
   | types                 = Warrior / Pendulum / Effect
   | level                 = 4
   | atk                   = 1700
   | def                   = 1900
   | pendulum_scale        = 7
-  | password              = 
+  | password              = 56347375
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Trigger, Condition
   | pendulum_effect       = During your [[Main Phase]]: You can [[shuffle]] 1 [[face-up]] [[Pendulum Monster]] from your [[Extra Deck]] into the [[Main Deck|Deck]], then [[Add a card|add]] 1 "[[Dracoslayer]]" or "[[Igknight]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except a [[Pendulum Monster]]. You can only use this [[effect]] of "Ignis Phoenix, the Dracoslayer" once per turn.
@@ -35,12 +35,13 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のＥＸデッキから表側表示のＰモンスター１体をデッキに戻す。その後、Ｐモンスター以外の、「竜剣士」モンスターまたは「イグナイト」モンスター１体をデッキから手札に加える。
+  | ja_lore               = このカード名はルール上「イグナイト」カードとしても扱う。このカード名のモンスター効果は１ターンに１度しか使用できない。①：フィールドのこのカードが戦闘・効果で破壊された場合に発動できる。デッキから「竜剣士イグニスＰ」以外の、「竜剣士」モンスターまたは「イグナイト」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはチューナーとして扱う。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
-  DABL-JP022; Darkwing Blast; 
+  DABL-JP022; Darkwing Blast; Super Rare, Secret Rare, Prismatic Secret Rare
+  DABL-JP022; Darkwing Blast +1 Bonus Pack; Super Rare, Prismatic Secret Rare
   | supports              = Pendulum Monster
   | archseries            = 
   * Dracoslayer
@@ -59,7 +60,6 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Archetype condition
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 17778
   | tcg_status            = Not yet released
   }}

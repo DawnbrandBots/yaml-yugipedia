@@ -1,7 +1,5 @@
 title: Cross Keeper
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +18,7 @@ wikitext: |-
   | def                   = 400
   | password              = 40740224
   | effect_types          = Ignition, Trigger, Condition
-  | lore                  = You can [[send]] this card from your [[hand]] or [[field]] to the [[GY]]; [[Special Summon]] 1 "[[Elemental HERO]]" or "[[Neo-Spacian]]" [[monster]] from your hand or [[GY]], but if you Special Summoned it from the GY, [[negate]] its [[effect]]s. If you Special Summon an "Elemental HERO" [[Fusion Monster]](s) while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; [[Draw a card|draw]] 2 cards, then place 1 card from your hand on the bottom of the [[Main Deck|Deck]]. You can only use each effect of "Cross Keeper" [[once per turn]].
+  | lore                  = You can [[send]] this card from your [[hand]] or [[field]] to the [[GY]]; [[Special Summon]] 1 "[[Elemental HERO]]" [[monster]] or 1 "[[Neo-Spacian]]" monster from your hand or [[GY]], but [[negate]] its [[effect]]s if Summoned from the GY. If you Special Summon an "Elemental HERO" [[Fusion Monster]], while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; [[Draw a card|draw]] 2 cards, then place 1 card from your hand on the bottom of the [[Main Deck|Deck]]. You can only use each effect of "Cross Keeper" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +26,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・フィールドのこのカードを墓地へ送って発動できる。自分の手札・墓地から「Ｅ・ＨＥＲＯ」モンスターまたは「Ｎ」モンスター１体を選んで特殊召喚する。この効果で墓地から特殊召喚したモンスターの効果は無効化される。②：このカードが墓地に存在する状態で、自分が「Ｅ・ＨＥＲＯ」融合モンスターの特殊召喚に成功した場合、このカードを除外して発動できる。自分はデッキから２枚ドローし、その後手札を１枚選んでデッキの一番下に戻す。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN002; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR002; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE002; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT002; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT002; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP002; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP002; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR002; Power of the Elements; Common
   | supports              = Fusion Monster
   | supports_archetypes   = 
   * Elemental HERO

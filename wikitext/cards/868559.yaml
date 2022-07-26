@@ -1,7 +1,5 @@
 title: Amaze Attraction Thrill Train
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 36591747
   | effect_types          = Effect, Quick-like, Condition
-  | lore                  = [[Target]] 1 "[[Amazement]]" [[monster]] you [[control]] or 1 [[face-up]] monster your opponent controls; equip this card to it. You can [[activate]] the following [[effect]], based on which player controls the equipped monster;<br />● You: Change the equipped monster's [[battle position]], and if you do, your opponent chooses 1 "[[Attraction]]" [[Trap]] in your [[GY]] for you to [[Set]] on your [[field]].<br />● Your opponent: [[Banish]] the equipped monster until the [[End Phase]].<br />You can only use this effect of "Amaze Attraction Thrill Train" [[once per turn]].
+  | lore                  = [[Target]] 1 "[[Amazement]]" [[monster]] you [[control]] or 1 [[face-up]] monster your opponent controls; equip this card to it. You can [[activate]] the following [[effect]], based on which player controls the equipped monster;<br />● You: Change the equipped monster's [[battle position]], then, your opponent chooses 1 "[[Attraction]]" [[Trap]] in your [[GY]], and you [[Set]] it to your [[field]].<br />● Your opponent: [[Banish]] the equipped monster until the [[End Phase]].<br />You can only use this effect of "Amaze Attraction Thrill Train" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドの「アメイズメント」モンスターまたは相手フィールドの表側表示モンスター１体を対象としてこのカードを発動できる。このカードを装備カード扱いとしてそのモンスターに装備する。②：装備モンスターのコントローラーによって以下の効果を発動できる。<br />●自分：装備モンスターの表示形式を変更し、自分の墓地の「アトラクション」罠カード１枚を相手が選ぶ。そのカードを自分フィールドにセットする。<br />●相手：装備モンスターをエンドフェイズまで除外する。
   | ko_lore               = 
+  | en_sets               = 
+  POTE-EN077; Power of the Elements; Common
+  | fr_sets               = 
+  POTE-FR077; Power of the Elements; Common
+  | de_sets               = 
+  POTE-DE077; Power of the Elements; Common
+  | it_sets               = 
+  POTE-IT077; Power of the Elements; Common
+  | pt_sets               = 
+  POTE-PT077; Power of the Elements; Common
+  | sp_sets               = 
+  POTE-SP077; Power of the Elements; Common
   | jp_sets               = 
   POTE-JP077; Power of the Elements; Common
+  | kr_sets               = 
+  POTE-KR077; Power of the Elements; Common
   | archseries            = Attraction
   | supports_archetypes   = 
   * Amazement
