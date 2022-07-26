@@ -9,6 +9,12 @@ on:
       grccontinue:
         description: Mediawiki API grccontinue parameter
         required: false
+  # Note: cron schedule is highly unreliable
+  repository_dispatch:
+    types:
+      - update
+  schedule:
+    - cron: "0 */4 * * *"
 
 jobs:
   download:
