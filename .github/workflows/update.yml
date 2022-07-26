@@ -23,6 +23,8 @@ jobs:
       # https://docs.github.com/en/rest/actions/workflow-runs#list-workflow-runs-for-a-repository
       - name: Get the last time this workflow ran
         id: last-run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TIMESTAMP=$(gh api /repos/${{ github.repository }}/actions/runs | jq '[.workflow_runs[] | select(.path == ".github/workflows/update.yml")][0].created_at')
           echo "::set-output name=timestamp::$TIMESTAMP"
