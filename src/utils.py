@@ -23,6 +23,9 @@ def download(client: httpx.Client, yaml: YAML, continue_key: str, url: str, skip
     if not result.get("batchcomplete"):
         print(f"batchcomplete != true | {url}", flush=True)
     continue_value = result["continue"][continue_key] if result.get("continue") else None
+    if "query" not in result:
+        print(f"No results! | {url}", flush=True)
+        return
     for page in result["query"]["pages"]:
         if skip_condition is not None and skip_condition(page):
             continue
