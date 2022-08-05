@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-Licence-Identifier: LGPL-3.0-or-later
 import random
 import sys
 from time import sleep

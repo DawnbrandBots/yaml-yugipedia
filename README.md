@@ -7,3 +7,7 @@ collection of wikitexts from Yugipedia of cards for intake and transformation in
 All files under [`/wikitext`](/wikitext) are downloaded using the Mediawiki API and copyright belongs to their original
 holders. Any Yugipedia-original content is licensed under [CC BY-SA 4.0](https://yugipedia.com/wiki/Yugipedia:Licensing)
 but most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
+
+The remaining files — the actual source code of this stage of the pipeline — are available under the
+GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)
+for more details.
