@@ -60,7 +60,9 @@ wikitext: |-
   * Adds from Deck to hand
   * Adds from Graveyard to hand
   | misc                  = Treated as Equip Card
-  | summoning             = Special Summons from your Deck
+  | summoning             = 
+  * Special Summons from your Deck
+  * Equips to Summoned monster
   | stat_change           = Equipped gains ATK
   | database_id           = 13168
   }}

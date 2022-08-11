@@ -56,7 +56,9 @@ wikitext: |-
   * Activates from your Graveyard
   * Equips self from Graveyard
   | m/s/t                 = Treated as Equip Card
-  | summoning             = Special Summons from your Extra Deck
+  | summoning             =
+  * Special Summons from your Extra Deck
+  * Equips to Summoned monster
   | misc                  = 
   * Archetype-exclusion condition
   * Only once per turn
