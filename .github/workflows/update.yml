@@ -46,3 +46,7 @@ jobs:
           git commit -m "Yugipedia recent changes"
           git pull --rebase
           git push
+      - name: Trigger yaml-yugi workflow
+        env:
+          GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: gh workflow run merge.yaml --repo DawnbrandBots/yaml-yugi
