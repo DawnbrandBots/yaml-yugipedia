@@ -48,11 +48,7 @@ wikitext: |-
   MGP3-SC058; Mega Pack 03; Common
   | archseries            = Altergeist
   | supports_archetypes   = Altergeist
-  | m/s/t                 = 
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
-  * Cannot be targeted by card effects
-  | attack                = Manages attack targets
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | attack                = Prevents other cards being targeted for attacks
   | database_id           = 14255
   }}

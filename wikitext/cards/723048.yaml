@@ -52,11 +52,7 @@ wikitext: |-
   | action                = 
   * Tributes for Special Summon
   * Tributes Fusion Materials for Contact Fusion
-  | m/s/t                 = 
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
-  * Cannot be targeted by card effects
+  | m/s/t                 = Prevents other cards being targeted by card effects
   | summoning             = 
   * 2 Fusion Materials
   * Requires Type specific Fusion Materials
@@ -69,6 +65,6 @@ wikitext: |-
   * Treated as multiple Tributes
   | attack                = 
   * Cannot be destroyed by battle
-  * Manages attack targets
+  * Prevents other cards being targeted for attacks
   | database_id           = 15332
   }}

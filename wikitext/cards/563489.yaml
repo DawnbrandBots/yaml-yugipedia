@@ -64,18 +64,14 @@ wikitext: |-
   * Activates from your Graveyard
   * Adds from Deck to hand
   | stat_change           = This card gains ATK
-  | m/s/t                 = 
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
-  * Cannot be targeted by card effects
+  | m/s/t                 = Prevents other cards being targeted by card effects
   | summoning             = 
   * 2+ Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires Link Monsters as Fusion Materials
   | attack                = 
   * Prevents your monsters from attacking
-  * Manages attack targets
+  * Prevents other cards being targeted for attacks
   | misc                  = Cover card
   | database_id           = 13921
   }}

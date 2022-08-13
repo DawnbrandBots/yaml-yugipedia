@@ -59,9 +59,9 @@ wikitext: |-
   | action                = 
   * Activates upon attack declaration
   * Activates from your Graveyard
-  | m/s/t                 = Cannot be targeted by card effects
+  | m/s/t                 = Prevents other cards being targeted by card effects
   | summoning             = Special Summons itself from your Graveyard
-  | attack                = Manages attack targets
+  | attack                = Prevents other cards being targeted for attacks
   | banished              = Banishes itself when it leaves the field
   | misc                  = Field-Unique
   | database_id           = 9973

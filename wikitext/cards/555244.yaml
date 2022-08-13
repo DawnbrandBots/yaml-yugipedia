@@ -64,12 +64,8 @@ wikitext: |-
   | action                = 
   * Activates if destroyed by card effect
   * Adds from Deck to hand
-  | m/s/t                 = 
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
-  * Cannot be targeted by card effects
-  | attack                = Manages attack targets
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | attack                = Prevents other cards being targeted for attacks
   | stat_change           = This card gains ATK
   | life_points           = 
   * Reduces battle damage

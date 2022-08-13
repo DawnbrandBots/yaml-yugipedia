@@ -65,7 +65,7 @@ wikitext: |-
   * Destroys battling monster at the start of the Damage Step
   | attack                = 
   * Must attack
-  * Manages attack targets
+  * Prevents other cards being targeted for attacks
   | misc                  = 
   * Variable effects
   | database_id           = 11252

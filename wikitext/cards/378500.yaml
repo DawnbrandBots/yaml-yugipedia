@@ -59,7 +59,9 @@ wikitext: |-
   * Cannot be Normal Set
   * Nomi
   * Special Summons itself from your hand
-  | attack                = Manages attack targets
+  | attack                = 
+  * Prevents other cards being targeted for attacks
+  * Prevents direct attacks
   | misc                  = Special Summon Monster
   | database_id           = 12429
   }}
