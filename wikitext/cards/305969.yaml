@@ -52,7 +52,7 @@ wikitext: |-
   * Flips monsters face-down
   | attack                = 
   * Prevents your monsters from attacking
-  * Manages attack targets
-  * Allows direct attacks
+  * Prevents other cards being targeted for attacks
+  * Does not prevent the opponent from attacking directly
   | database_id           = 10950
   }}

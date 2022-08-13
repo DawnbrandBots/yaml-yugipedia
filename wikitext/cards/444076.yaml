@@ -61,11 +61,9 @@ wikitext: |-
   | m/s/t                 = 
   * Treats Trap Cards as monsters
   * Treats monsters as Equip Cards
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
+  * Prevents other cards being targeted by card effects
   | summoning             = Special Summons itself from your Spell & Trap Zone
-  | attack                = Manages attack targets
+  | attack                = Prevents other cards being targeted for attacks
   | misc                  = Requires control of specific Type
   | database_id           = 12513
   }}

@@ -60,7 +60,7 @@ wikitext: |-
   * Reduces DEF to 0
   * Your monsters lose DEF
   * Your opponent's monsters lose DEF
-  | attack                = Manages attack targets
+  | attack                = Prevents other cards being targeted for attacks
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
   | database_id           = 12349

@@ -52,8 +52,8 @@ wikitext: |-
   | action                = 
   * Activates cards from your hand
   * Activates cards from your Deck
-  | m/s/t                 = Cannot be targeted by card effects
-  | attack                = Manages attack targets
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | attack                = Prevents other cards being targeted for attacks
   | misc                  = Only once per turn
   | database_id           = 14718
   }}

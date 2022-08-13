@@ -51,8 +51,8 @@ wikitext: |-
   * Sends itself from field to Graveyard for cost
   * Sends from field to Graveyard for cost
   * Returns from field to hand
-  | attack                = Manages attack targets
-  | m/s/t                 = Cannot be targeted by card effects
+  | attack                = Prevents other cards being targeted for attacks
+  | m/s/t                 = Prevents other cards being targeted by card effects
   | life_points           = 
   * Damages you
   * Damages your opponent

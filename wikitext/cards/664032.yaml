@@ -58,9 +58,7 @@ wikitext: |-
   * Activates while banished
   * You draw cards
   | stat_change           = Your monsters gain ATK
-  | attack                = 
-  * Must attack
-  * Manages attack targets
+  | attack                = Must attack particular monster
   | misc                  = 
   * Requires control of specific archetype
   * Only once per turn

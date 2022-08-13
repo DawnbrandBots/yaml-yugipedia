@@ -54,7 +54,8 @@ wikitext: |-
   '''[[Wonderous Sorcery (NTR-BP)|Wonderous Sorcery]]'''
   | action                = Activates upon attack declaration
   | attack                = 
-  * Manage attack targets
-  * Must attack
+  * Must attack particular monster
+  * Prevents other cards being targeted for attacks
+  * Prevents direct attacks
   | database_id           = 5737
   }}

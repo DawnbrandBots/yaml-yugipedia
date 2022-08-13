@@ -1,6 +1,5 @@
 title: Ghostrick Mansion
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Manoir Fantôruse
   | de_name               = Geistertrick-Villa
@@ -49,8 +48,8 @@ wikitext: |2-
   | archseries            = Ghostrick
   | supports_archetypes   = Ghostrick
   | attack                = 
-  * Manages attack targets
-  * Allows direct attacks
+  * Prevents other cards being targeted for attacks
+  * Does not prevent the opponent from attacking directly
   | life_points           = 
   * Reduces battle damage
   * Reduces effect damage

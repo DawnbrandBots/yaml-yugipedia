@@ -49,12 +49,12 @@ wikitext: |-
   * Sends itself from hand to Graveyard for cost
   * Sends itself from field to Graveyard for cost
   | m/s/t                 = 
-  * Manages effect targets of Effect Monsters
-  * Manages effect targets of Spell Cards
-  * Manages effect targets of Trap Cards
+  * Changes the targets of monster effects
+  * Changes the targets of Spell Cards
+  * Changes the targets of Trap Cards
   * Cannot be destroyed by card effects
   | attack                = 
-  * Manages attack targets
+  * Changes attack targets
   * Cannot be destroyed by battle
   | database_id           = 12873
   }}
