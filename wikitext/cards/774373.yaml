@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 1000
   | password              = 95974848
   | effect_types          = Continuous, Quick, Condition
-  | lore                  = Your opponent cannot [[target]] any of their [[monsters]] in the same column as one of your "[[S-Force]]" monsters with [[card effect]]s. When a monster your opponent controls [[activate]]s its effect ([[Quick Effect]]): You can [[banish]] 1 "S-Force" card from your [[hand]]; [[destroy]] that monster. You can only use this effect of "S-Force Orrafist" [[once per turn]].
+  | lore                  = Your opponent cannot [[target]] any of their [[monsters]] in the same [[column]] as one of your "[[S-Force]]" monsters with [[card effect]]s. When a monster your opponent controls [[activate]]s its effect ([[Quick Effect]]): You can [[banish]] 1 "S-Force" card from your [[hand]]; [[destroy]] that monster. You can only use this effect of "S-Force Orrafist" [[once per turn]].
   | fr_lore               = Votre adversaire ne peut cibler aucun de ses monstres dans la même colonne qu'un de vos monstres "Force-S" avec des effets de carte. Lorsqu'un monstre contrôlé par votre adversaire active son effet (Effet Rapide) : vous pouvez bannir 1 carte "Force-S" depuis votre main ; détruisez le monstre. Vous ne pouvez utiliser cet effet de "Orrafist de la Force-S" qu'une fois par tour.
   | de_lore               = Dein Gegner kann keins seiner Monster in derselben Spalte wie eins deiner „S-Kraft“-Monster als Ziel für Karteneffekte wählen. Wenn der Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird (Schnelleffekt): Du kannst 1 „S-Kraft“-Karte von deiner Hand verbannen; zerstöre das Monster. Du kannst diesen Effekt von „S-Kraft Orrafist“ nur einmal pro Spielzug verwenden.
   | it_lore               = Il tuo avversario non può scegliere come bersaglio nessuno dei suoi mostri nella stessa colonna di uno dei tuoi mostri "S-Forza" con gli effetti delle carte. Quando un mostro controllato dal tuo avversario attiva il suo effetto (Effetto Rapido): puoi bandire 1 carta "S-Forza" dalla tua mano; distruggi quel mostro. Puoi utilizzare questo effetto di "S-Forza Orrafist" una sola volta per turno.
@@ -46,7 +46,7 @@ wikitext: |-
   | archseries            = S-Force
   | supports_archetypes   = S-Force
   | m/s/t                 = 
-  * Cannot be targeted by card effects
+  * Prevents other cards being targeted by card effects
   * Destroys your opponent's Monster Cards
   | banished              = Banishes from hand for cost
   | misc                  = 

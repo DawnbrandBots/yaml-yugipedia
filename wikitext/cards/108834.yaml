@@ -1,6 +1,5 @@
 title: Ritual Cage
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Cage Rituelle
   | de_name               = Ritualkäfig
@@ -48,8 +47,8 @@ wikitext: |2-
   | supports              = Ritual Monster
   | anti-supports         = Effect Monster
   | m/s/t                 = 
-  * Cannot be targeted by card effects
-  * Cannot be destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  * Prevents other cards being destroyed by card effects
   | life_points           = Prevents battle damage
   | database_id           = 8671
   }}

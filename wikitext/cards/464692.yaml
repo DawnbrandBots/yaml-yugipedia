@@ -77,7 +77,7 @@ wikitext: |-
   * Equips from the player's Deck to itself
   * Equips from the player's Graveyard to itself
   * Returns from your field to your hand
-  | m/s/t                 = Manages effect targets of Spell Cards
+  | m/s/t                 = Prevents other cards being targeted by card effects
   | misc                  = 
   * Limited activations
   | database_id           = 12770

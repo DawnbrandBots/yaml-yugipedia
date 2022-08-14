@@ -1,6 +1,5 @@
 title: Alpacaribou, Mystical Beast of the Forest
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Alpacaribou, Bête Mystique de la Forêt
   | de_name               = Alpakaribu, mystisches Ungeheuer des Waldes
@@ -56,9 +55,9 @@ wikitext: |2-
   * Winged Beast
   | archseries            = Mystical Beast of the Forest
   | m/s/t                 = 
-  * Cannot be destroyed by card effects
-  * Cannot be targeted by card effects
-  | attack                = Cannot be destroyed by battle
+  * Prevents other cards being destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  | attack                = Prevents other cards being destroyed by battle
   | misc                  = Variable effects
   | database_id           = 10105
   }}

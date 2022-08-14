@@ -54,8 +54,8 @@ wikitext: |-
   * Returns from your opponent's Graveyard to your opponent's Deck
   | stat_change           = Your monsters gain ATK
   | m/s/t                 = 
-  * Cannot be destroyed by card effects
-  * Cannot be targeted by card effects
+  * Prevents other cards being destroyed by card effects
+  * Prevents other cards being targeted by card effects
   | misc                  = Variable effects
   | database_id           = 11746
   }}

@@ -73,12 +73,12 @@ wikitext: |-
   * Resolves as another card's effect
   | m/s/t                 = 
   * Unaffected by Trap Cards
-  * Cannot be destroyed by card effects
-  * Cannot be targeted by card effects
+  * Prevents other cards being destroyed by card effects
+  * Prevents other cards being targeted by card effects
   | summoning             = 
   * 2 Xyz Materials
   * Does not require specific Xyz Materials
-  | attack                = Cannot be destroyed by battle
+  | attack                = Prevents other cards being destroyed by battle
   | misc                  = 
   * Limited activations
   | database_id           = 12026

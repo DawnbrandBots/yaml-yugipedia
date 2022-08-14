@@ -64,7 +64,9 @@ wikitext: |-
   | stat_change           = 
   * This card gains ATK
   * Your monsters gain ATK
-  | m/s/t                 = Cannot be targeted by card effects
+  | m/s/t                 = 
+  * Cannot be targeted by card effects
+  * Prevents other cards being targeted by card effects
   | misc                  = 
   * Co-linked
   * Only once per turn
