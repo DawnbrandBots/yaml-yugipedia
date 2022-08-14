@@ -62,7 +62,9 @@ wikitext: |-
   * Activates upon Set
   * Goes to Pendulum Zone
   * Places from Graveyard to Pendulum Zone
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | m/s/t                 = Prevents activation of Effect Monsters
   | stat_change           = Changes ATK value
   | misc                  = Variable effects

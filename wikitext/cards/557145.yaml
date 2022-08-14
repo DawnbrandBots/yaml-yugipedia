@@ -64,7 +64,9 @@ wikitext: |-
   * Activates upon Special Summon
   * Adds from Deck to hand
   | stat_change           = This card gains ATK
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Only once per turn
   | database_id           = 13760
   }}

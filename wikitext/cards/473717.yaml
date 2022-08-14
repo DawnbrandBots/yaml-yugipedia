@@ -59,7 +59,9 @@ wikitext: |-
   | action                = 
   * Sends from hand to Graveyard for cost
   * Sends from Deck to Graveyard for cost
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Only once per turn
   | database_id           = 12587
   }}

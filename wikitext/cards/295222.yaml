@@ -44,6 +44,8 @@ wikitext: |-
   | stat_change           = 
   * All monsters gain ATK
   * All monsters gain DEF
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | database_id           = 10998
   }}

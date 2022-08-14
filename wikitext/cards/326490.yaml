@@ -1,6 +1,5 @@
 title: Performapal Partnaga
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Partenaga Potartiste
   | de_name               = Künstlerkumpel Partnatter
@@ -71,7 +70,9 @@ wikitext: |2-
   * Activates upon Normal Summon
   * Activates upon Special Summon
   | stat_change           = Your monsters gain ATK
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Limited activations
   | database_id           = 11522
   }}

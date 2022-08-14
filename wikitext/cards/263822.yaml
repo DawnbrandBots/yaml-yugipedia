@@ -60,7 +60,9 @@ wikitext: |-
   * Activates if battle positions change
   * Changes battle positions
   | m/s/t                 = Negates the effects of Effect Monsters
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Limited activations
   | database_id           = 10583
   }}

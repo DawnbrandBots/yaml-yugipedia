@@ -1,6 +1,5 @@
 title: Grisaille Prison
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Prison Grisaille
   | de_name               = Grisaille-Gefängnis
@@ -56,6 +55,8 @@ wikitext: |2-
   | summoning             = 
   * Prevents Xyz Summons
   * Prevents Synchro Summons
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | database_id           = 10809
   }}

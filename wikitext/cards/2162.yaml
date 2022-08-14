@@ -69,7 +69,9 @@ wikitext: |-
   | m/s/t                 = 
   * Remains on the field
   * Destroys itself
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Turn limited effects
   | database_id           = 5120
   }}

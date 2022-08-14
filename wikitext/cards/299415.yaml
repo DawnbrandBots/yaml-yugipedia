@@ -44,8 +44,8 @@ wikitext: |-
   * Activates upon attack declaration
   * Adds from Deck to hand
   | attack                = 
-  * Prevents attacks
-  * Allows direct attacks
+  * Prevents other cards being targeted for attacks
+  * Does not prevent the opponent from attacking directly
   | life_points           = 
   * Prevents battle damage
   * Prevents effect damage

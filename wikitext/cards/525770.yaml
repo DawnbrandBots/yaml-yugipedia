@@ -71,7 +71,9 @@ wikitext: |-
   | summoning             = 
   * Special Summons from your hand
   * Ignoring the Summoning conditions
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Only once per turn
   | tcg_speed_duel_status = Unlimited
   | database_id           = 13468

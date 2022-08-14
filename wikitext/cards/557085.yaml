@@ -68,7 +68,9 @@ wikitext: |-
   * 2+ Link Materials
   * Requires Effect Monsters as Link Materials
   * Requires Link Monsters as Link Materials
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | misc                  = Limited activations
   | database_id           = 13761
   }}

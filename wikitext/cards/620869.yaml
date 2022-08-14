@@ -52,8 +52,9 @@ wikitext: |-
   * 2 Xyz Materials
   * Does not require specific Xyz Materials
   | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   * Allows direct attacks
-  * Prevents attacks
   | action                = Changes control
   | misc                  = Only once per turn
   | database_id           = 14563

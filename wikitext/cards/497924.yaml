@@ -68,7 +68,9 @@ wikitext: |-
   | m/s/t                 = 
   * Destroys itself
   * Negates the effects of Effect Monsters
-  | attack                = Prevents attacks
+  | attack                = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | action                = 
   * Activates if targeted by card effect
   * Activates if destroyed by battle
