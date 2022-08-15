@@ -32,8 +32,20 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP027; Deck Build Pack: Amazing Defenders; Ultra Rare, Secret Rare
+  | supports            = Equip Spell Card
   | archseries          = Mikanko
   | supports_archetypes = Mikanko
+  | action              = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Equips from the player's Graveyard
+  | attack              = Cannot be destroyed by battle
+  | life_points         = 
+  * Prevents battle damage
+  * Your opponent takes battle damage
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

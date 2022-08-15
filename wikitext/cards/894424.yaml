@@ -29,6 +29,15 @@ wikitext: |-
   DBAD-JP029; Deck Build Pack: Amazing Defenders; 
   | archseries          = Mikanko
   | supports_archetypes = Mikanko
+  | action              = 
+  * Returns from your field to your hand
+  * Activates from your Graveyard
+  * Sends from your Deck to your Graveyard
+  | summoning           = 
+  * Special Summons from your hand
+  * Ignoring the Summoning conditions
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

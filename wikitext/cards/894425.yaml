@@ -29,6 +29,16 @@ wikitext: |-
   DBAD-JP030; Deck Build Pack: Amazing Defenders; 
   | archseries          = Mikanko
   | supports_archetypes = Mikanko
+  | action              = Equips self from field
+  | m/s/t               = 
+  * Negates the effects of the Summoned monsters
+  * Equipped cannot be destroyed by card effects
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Equips to Summoned monster
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -32,6 +32,14 @@ wikitext: |-
   DBAD-JP003; Deck Build Pack: Amazing Defenders; 
   | archseries          = Rescue-ACE
   | supports_archetypes = Rescue-ACE
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Tributes itself for cost
+  * Activates from your hand
+  | summoning           = Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

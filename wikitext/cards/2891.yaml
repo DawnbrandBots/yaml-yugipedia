@@ -61,9 +61,8 @@ wikitext: |-
   | archseries            = Flint (series)
   | action                = 
   * Prevents battle position changes
-  * Activates if destroyed by battle
-  * Activates if destroyed by card effect
-  * Equips self from field
+  * Activates from your Graveyard
+  * Equips self from Graveyard
   | stat_change           = Equipped loses ATK
   | attack                = Prevents equipped monster from attacking
   | misc                  = Konami Arcade Games
