@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 100
   | password            = 
   | effect_types        = Trigger, Quick
-  | material            = 
+  | material            = 2 Level 2 monsters
   | lore                = 2 [[Level]] 2 [[monsters]]<br />At the end of the [[Damage Step]], if this card [[battle]]d: You can [[Add a card|add]] 1 "[[Purery]]" card from your [[Main Deck|Deck]] to your [[hand]], also if this card has "[[Purery Happy Memory]]" as [[material]], you can halve the ATK of 1 [[face-up]] monster on the [[field]]. Thrice per [[turn]], when you [[activate]] a "Purery" [[Quick-Play Spell Card]] ([[Quick Effect]]): You can [[attach]] that card on the field to this card as material, then you can [[return]] 1 [[Spell]]/[[Trap]] your opponent [[control]]s to the hand.
   | fr_lore             = 
   | de_lore             = 
@@ -31,9 +31,27 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP014; Deck Build Pack: Amazing Defenders; 
-  | supports            = Purery Happy Memory
+  | supports            = 
+  * Purery Happy Memory
+  * Quick-Play Spell Card
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Adds from Deck to hand
+  * Applies effects if specific Xyz Material is attached
+  * Attaches from your field as Xyz Material
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change         = 
+  * Halves ATK
+  * Your monsters lose ATK
+  * Your opponent's monsters lose ATK
+  | m/s/t               = Does not have effects which detach Xyz Materials for cost
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                = 
+  * Limited activations
+  * Can be activated during either player's turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

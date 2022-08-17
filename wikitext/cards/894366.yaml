@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 100
   | password            = 
   | effect_types        = Trigger, Ignition
-  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[excavate]] the top 3 cards of your [[Main Deck|Deck]], and if you do, you can [[Add a card|add]] 1 excavated "[[Purery]]" [[Spell]]/[[Trap]] to your [[hand]], also place the rest on the bottom of the Deck in any order. [[Once per turn]]: You can [[reveal]] 1 "Purery" Quick-Play Spell in your hand, and if you do, Special Summon 1 [[Xyz Monster]] that mentions it from your [[Extra Deck]], by using this face-up card you [[control]] as [[material]], and if you do, [[attach]] the revealed card to the Summoned monster as additional material. (This is treated as an [[Xyz Summon]].)
+  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[excavate]] the top 3 cards of your [[Main Deck|Deck]], and if you do, you can [[Add a card|add]] 1 excavated "[[Purery]]" [[Spell]]/[[Trap]] to your [[hand]], also place the rest on the bottom of the Deck in any order. [[Once per turn]]: You can [[reveal]] 1 "Purery" Quick-Play Spell in your hand, and if you do, Special Summon 1 [[Xyz Monster]] that [[mentions]] it from your [[Extra Deck]], by using this face-up card you [[control]] as [[material]], and if you do, [[attach]] the revealed card to the Summoned monster as additional material. (This is treated as an [[Xyz Summon]].)
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,8 +30,25 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP013; Deck Build Pack: Amazing Defenders; 
+  | supports            = 
+  * Quick-Play Spell Card
+  * Xyz Monster
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  * Reveals your hand for effect
+  * Attaches from your hand as Xyz Material
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  | misc                = 
+  * Limited activations
+  * Mentions
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

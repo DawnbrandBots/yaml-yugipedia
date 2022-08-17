@@ -20,13 +20,28 @@ wikitext: |-
   | def                 = 1100
   | password            = 
   | effect_types        = Ignition, Condition, Quick
-  | material            = 
+  | material            = 2 Level 2 monsters
   | lore                = 2 [[Level]] 2 [[monsters]]<br />[[Once per turn]]: You can [[target]] 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] its [[effect]]s until the end of this [[turn]]. This is a [[Quick Effect]] if this card has "[[Purery Pretty Memory]]" as [[material]]. Thrice per [[turn]], when you [[activate]] a "Purery" [[Quick-Play Spell Card]] (Quick Effect): You can [[attach]] that card on the field to this card as material, then you can change the [[battle position]] of 1 monster your opponent controls.
   | jp_sets             = 
   DBAD-JP015; Deck Build Pack: Amazing Defenders; 
-  | supports            = Purery Pretty Memory
+  | supports            = 
+  * Purery Pretty Memory
+  * Quick-Play Spell Card
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Applies effects if specific Xyz Material is attached
+  * Attaches from your field as Xyz Material
+  * Changes battle positions
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Does not have effects which detach Xyz Materials for cost
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                = 
+  * Limited activations
+  * Can be activated during either player's turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

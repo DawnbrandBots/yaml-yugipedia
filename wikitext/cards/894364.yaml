@@ -27,8 +27,23 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP024; Deck Build Pack: Amazing Defenders; 
+  | supports            = Xyz Monster
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Returns from your field to your Extra Deck
+  * Transfers
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  * Performs Xyz Evolution
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Field
   | password            = 
   | effect_types        = Continuous-like, Trigger-like, Trigger-like
-  | lore                = Your opponent cannot [[target]] "[[Purery]]" [[monsters]] you [[control]] with card [[effect]]s during the [[turn]] they were [[Special Summon]]ed. [[Once per turn]], if a [[face-up]] "[[Purery]]" [[Xyz Monster]](s) you control [[leaves the field]] by an opponent's card: Special Summon 1 [[Level]] 1 "Purery" monster from your [[Main Deck|Deck]] or [[GY]]. Once per turn, during the [[End Phase]]: You can target 1 "Purery" Xyz Monster on the [[field]]; attach 1 "Purery" Quick-Play Spell from your Deck or GY to it as material.
+  | lore                = Your opponent cannot [[target]] "[[Purery]]" [[monsters]] you [[control]] with card [[effect]]s during the [[turn]] they were [[Special Summon]]ed. [[Once per turn]], if a [[face-up]] "[[Purery]]" [[Xyz Monster]](s) you control [[leaves the field]] by an opponent's card: Special Summon 1 [[Level]] 1 "Purery" monster from your [[Main Deck|Deck]] or [[GY]]. Once per turn, during the [[End Phase]]: You can target 1 "Purery" Xyz Monster on the [[field]]; [[attach]] 1 "Purery" [[Quick-Play Spell]] from your Deck or GY to it as material.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -27,8 +27,23 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP019; Deck Build Pack: Amazing Defenders; 
+  | supports            = 
+  * Xyz Monster
+  * Quick-Play Spell Card
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Activates if it leaves the field
+  * Attaches from your Deck as Xyz Material
+  * Attaches from your Graveyard as Xyz Material
+  | m/s/t               = Cannot be targeted by card effects
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

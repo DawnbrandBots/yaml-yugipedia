@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 1100
   | password            = 
   | effect_types        = Summoning condition, Ignition, Condition, Trigger
-  | material            = 
+  | material            = 2 Level 7 monsters
   | lore                = 2 [[Level]] 7 [[monsters]]<br />You can also [[Xyz Summon]] this card by using 1 [[Rank]] 2 monster you control with 5 or more [[material]]s. ([[Transfer]] its materials to this card.) During your [[Main Phase]]: You can [[detach]] 1 material from this card, and if you do, [[negate]] the [[effect]]s of all [[face-up]] monsters your opponent currently controls, until the end of this [[turn]]. If this card has a [[Level]] 1 "[[Purery]]" monster as material, your opponent cannot [[activate]] cards or effects in response to this effect's activation. When an [[attack]] is declared involving this card with 5 or more materials: Inflict 1500 [[Effect damage|damage]] to your opponent.
   | fr_lore             = 
   | de_lore             = 
@@ -32,8 +32,27 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   DBAD-JP017; Deck Build Pack: Amazing Defenders; Ultra Rare, Secret Rare
+  | supports            = Xyz Monster
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Transfers
+  * Detaches Xyz Materials for effect
+  * Applies effects if specific Xyz Material is attached
+  * Activates upon attack declaration
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Does not have effects which detach Xyz Materials for cost
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Prevents responding to its activation
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Xyz Evolution
+  | life_points         = Damages your opponent
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

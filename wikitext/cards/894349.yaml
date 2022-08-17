@@ -20,13 +20,29 @@ wikitext: |-
   | def                 = 2100
   | password            = 
   | effect_types        = Ignition, Condition, Quick
-  | material            = 
+  | material            = 2 Level 2 monsters
   | lore                = 2 [[Level]] 2 [[monsters]]<br />[[Once per turn]]: You can [[target]] up to 2 [[Spells]]/[[Traps]] in any [[GY]](s); [[attach]] them to this card as [[material]]. This is a [[Quick Effect]] if this card has "[[Purery Delicious Memory]]" as material. Thrice per [[turn]], when you [[activate]] a "Purery" [[Quick-Play Spell Card]] (Quick Effect): You can attach that card on the field to this card as material, then you can [[banish]] 1 monster on the field until the [[End Phase]].
   | jp_sets             = 
   DBAD-JP016; Deck Build Pack: Amazing Defenders; 
-  | supports            = Purery Delicious Memory
+  | supports            = 
+  * Purery Delicious Memory
+  * Quick-Play Spell Card
   | archseries          = Purery
   | supports_archetypes = Purery
+  | action              = 
+  * Attaches from your Graveyard as Xyz Material
+  * Attaches from your opponent's Graveyard as Xyz Material
+  * Applies effects if specific Xyz Material is attached
+  * Attaches from your field as Xyz Material
+  * Returns banished cards to the field
+  | m/s/t               = Does not have effects which detach Xyz Materials for cost
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | banished            = Banishes from field
+  | misc                = 
+  * Limited activations
+  * Can be activated during either player's turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
