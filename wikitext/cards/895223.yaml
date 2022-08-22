@@ -31,12 +31,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP044; Photon Hypernova; 
+  | supports              = LIGHT
   | archseries            = 
   * Galaxy
   * Photon
   | supports_archetypes   = 
   * Galaxy
   * Photon
+  | action                = 
+  * Adds from Deck to hand
+  * Sends from your Deck to your Graveyard
+  * Activates upon Special Summon
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Changes Levels
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

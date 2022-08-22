@@ -32,7 +32,16 @@ wikitext: |-
   | supports_archetypes   = 
   * Photon
   * Galaxy
-  * Number
+  | anti-supports_archetypes = Number
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Activates upon Special Summon
+  * Reveals your opponent's Extra Deck
+  | summoning             = Special Summons from your opponent's Extra Deck
+  | banished              = Banishes from your opponent's Extra Deck
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

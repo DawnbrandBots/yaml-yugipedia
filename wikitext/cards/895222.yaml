@@ -30,14 +30,34 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP003; Photon Hypernova; 
-  | supports              = Galaxy-Eyes Photon Dragon
+  | supports              = 
+  * Galaxy-Eyes Photon Dragon
+  * Xyz Monster
   | archseries            = 
   * Galaxy
   * Kuriboh (archetype)
   | supports_archetypes   = 
   * Galaxy
   * Photon
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates upon attack declaration
+  * Activates from your hand
+  * Discards itself for cost
+  * Attaches itself from your Graveyard as Xyz Material
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Redirects destruction
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | attack                = 
+  * Changes attack targets
+  * Cannot be destroyed by battle
+  | banished              = Banishes itself from your Graveyard
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Monster card type
+  * Requires control of specific archetype
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

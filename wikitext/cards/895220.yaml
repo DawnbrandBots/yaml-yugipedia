@@ -30,10 +30,20 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP001; Photon Hypernova; Rare
+  | supports              = LIGHT
   | archseries            = Photon
   | supports_archetypes   = 
   * Galaxy
   * Photon
+  | action                = 
+  * Activates if sent to the Graveyard
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Allows multiple Normal Summons
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
+  * Gain this effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

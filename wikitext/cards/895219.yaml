@@ -35,6 +35,7 @@ wikitext: |-
   PHHY-JP043; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
   PHHY-JP043; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = 
+  * LIGHT
   * Galaxy-Eyes Photon Dragon
   * Number 62: Galaxy-Eyes Prime Photon Dragon
   | archseries            = 
@@ -45,7 +46,18 @@ wikitext: |-
   * Number
   * Number C
   * Photon
-  | supports_archetypes   = 
+  | action                = Transfers
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Gains effects if specific Xyz Material is attached
+  * Unaffected by the opponent's Monster Cards
+  | summoning             = 
+  * 3 Xyz Materials
+  * Requires Attribute specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Xyz Evolution
+  | attack                = Can make multiple attacks on monsters
+  | misc                  = Cover card
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

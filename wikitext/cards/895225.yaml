@@ -27,12 +27,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP052; Photon Hypernova; 
+  | supports              = 
+  * LIGHT
+  * Dragon
+  * Xyz Monster
+  | anti-supports         = 
+  * LIGHT
+  * Dragon
   | archseries            = 
   * Galaxy
   * Galaxy-Eyes
   * Numeron
   | supports_archetypes   = Number
-  | misc                  = Archetype condition
+  | action                = Attaches itself from your field as Xyz Material
+  | summoning             = Special Summons from your Extra Deck
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
