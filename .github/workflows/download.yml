@@ -5,6 +5,14 @@ name: Download wikitext from Yugipedia
 on:
   workflow_dispatch:
     inputs:
+      category:
+        description: Yugipedia category
+        default: Duel_Monsters_cards
+        required: false
+      subdirectory:
+        description: Destination wikitext/ subdirectory
+        default: cards
+        required: false
       gcmcontinue:
         description: Mediawiki API gcmcontinue parameter
         required: false
@@ -19,7 +27,9 @@ jobs:
           python-version: "3.8"
           cache: pip
       - run: pip install -r src/requirements.txt
-      - run: cd wikitext/cards && python3 ../../src/main.py "${{ github.event.inputs.gcmcontinue }}"
+      - run: |
+          cd "wikitext/${{ github.event.inputs.subdirectory }}" \
+          && python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
       - name: Commit
         if: ${{ always() }}
         run: |

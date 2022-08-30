@@ -11,11 +11,15 @@ from utils import download
 
 
 def main():
+    if len(sys.argv) < 2:
+        sys.exit(f"Usage: {sys.argv[0]} <category>\ne.g. Duel_Monsters_cards, Skill_Cards, Rush_Duel_cards, Yu-Gi-Oh!_Duel_Links_Skills")
+    category = sys.argv[1]
     with httpx.Client(http2=True) as client:
         yaml = YAML()
-        url = "https://yugipedia.com/api.php?action=query&redirects=true&generator=categorymembers&prop=revisions&rvprop=content&format=json&formatversion=2&gcmtitle=Category:Duel%20Monsters%20cards&gcmlimit=50"
-        if len(sys.argv) > 1:
-            gcmcontinue = sys.argv[1]
+        url = "https://yugipedia.com/api.php?action=query&redirects=true&generator=categorymembers&prop=revisions&rvprop=content&format=json&formatversion=2&gcmlimit=50"
+        url += f"&gcmtitle=Category:{category}"
+        if len(sys.argv) > 2:
+            gcmcontinue = sys.argv[2]
         else:
             gcmcontinue = download(client, yaml, "gcmcontinue", url)
         while gcmcontinue is not None:
