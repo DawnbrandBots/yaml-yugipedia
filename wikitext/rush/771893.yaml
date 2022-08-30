@@ -1,0 +1,42 @@
+title: Printing Presser
+wikitext: |-
+  {{CardTable2
+  | fr_name        = Presseur Imprimeur
+  | de_name        = Druckerpresse
+  | it_name        = Pressa da Stampa
+  | es_name        = Prensa de Impresión
+  | ja_name        = {{Ruby|特|とく}}{{Ruby|報|ほう}}マシン・タフロイド
+  | romaji_name    = Tokuhō Mashin Tafuroido
+  | trans_name     = News Flash Machine Toughroid
+  | image          = PrintingPresser-RDSD02-JP-C.png
+  | attribute      = EARTH
+  | types          = Machine / Effect
+  | level          = 8
+  | atk            = 2300
+  | def            = 1600
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Your opponent [[excavate]]s the top 5 cards of their Deck. This card gains [[ATK]] equal to [the number of excavated monsters] x 100 until the end of this [[turn]]. Your opponent places the excavated cards on the bottom of their Deck in any order.
+  | fr_requirement = Envoyez la carte du dessus de votre Deck au Cimetière.
+  | fr_lore        = Votre adversaire dévoile les 5 cartes du dessus de son Deck. Cette carte gagne une ATK égale au [nombre de monstres dévoilés] x 100 jusqu'à la fin de ce tour. Votre adversaire place les cartes dévoilées au-dessous de son Deck dans l'ordre de son choix.
+  | de_requirement = Lege die oberste Karte deines Decks auf den Friedhof.
+  | de_lore        = Dein Gegner gräbt die obersten 5 Karten seines Decks aus. Diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe [der Anzahl der ausgegrabenen Monster] x 100. Dein Gegner legt die ausgegrabenen Karten in beliebiger Reihenfolge unter das Deck.
+  | it_requirement = Manda la prima carta del tuo Deck al Cimitero.
+  | it_lore        = Il tuo avversario dissotterra le prime 5 carte del suo Deck. Questa carta guadagna ATK pari [al numero dei mostri dissotterrati] x 100 fino alla fine di questo turno. Il tuo avversario mette le carte dissotterrate in fondo al suo Deck in qualsiasi ordine.
+  | es_requirement = Manda al Cementerio la carta de la parte superior de tu Deck.
+  | es_lore        = Tu adversario excava las primeras 5 cartas de su Deck. Esta carta gana ATK igual [al número de monstruos excavados] x 100 hasta el final de este turno. Tu adversario pone las cartas excavadas en la parte inferior de su Deck, en cualquier orden.
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore        = 相手は自身のデッキの上からカードを５枚めくり、お互いに確認する。このカードの攻撃力はターン終了時まで、［めくったカードの中のモンスターの数］×１００アップする。相手はめくったカードを好きな順番でデッキの下に戻す。
+  | jp_sets        = 
+  RD/KP03-JP032; Deck Modification Pack - Fantastrike Mirage Impact!!; Super Rare
+  RD/SD02-JP003; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
+  | kr_sets        = 
+  RD/KP03-KR032; Deck Modification Pack - Fantastrike Mirage Impact!!; Super Rare
+  | archseries     = Newspaper
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the bottom of the Deck
+  | stat_change    = This card gains ATK
+  | fm_for         = Lightning Speed, the Rumbling Report Warship
+  | database_id    = 15597
+  }}

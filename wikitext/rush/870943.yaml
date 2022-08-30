@@ -1,0 +1,26 @@
+title: Lightning Braver
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name          = ライトニングブレイバー
+  | romaji_name      = Raitoningu Bureibā
+  | image            = LightningBraver-RDGRD2-JP-C.png
+  | attribute        = LIGHT
+  | types            = Thunder / Effect
+  | level            = 3
+  | atk              = 1200
+  | def              = 700
+  | requirement      = [[Shuffle]] 3 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = Change 1 [[face-down]] [[Defense Position]] monster on your opponent's [[field]] to [[face-up]] Defense Position. Then, you can make all face-up monsters on your opponent's field lose 800 [[DEF]] until the end of this [[turn]].
+  | ja_requirement   = 自分の墓地のモンスター３体をデッキに戻して発動できる。
+  | ja_lore          = 相手フィールドの裏側守備表示モンスター１体を選んで表側守備表示にする。その後、相手フィールドの全ての表側表示モンスターの守備力をターン終了時まで８００ダウンできる。
+  | jp_sets          = 
+  RD/GRD2-JP018; Go Rush Deck - Jointech Attack; Common
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips monsters face-up
+  | stat_change      = Your opponent's monsters lose DEF
+  | database_id      = 17592
+  }}

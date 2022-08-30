@@ -1,0 +1,27 @@
+title: Universe Dea
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name                = ユニヴァース・デーア
+  | romaji_name            = Yunivāsu Dēa
+  | image                  = UniverseDea-RDGRD1-JP-C.png
+  | attribute              = LIGHT
+  | types                  = Galaxy / Effect
+  | level                  = 7
+  | atk                    = 2200
+  | def                    = 2000
+  | requirement            = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore                   = 1 [[face-up]] [[monster]] on your opponent's [[field]] loses 800 [[ATK]] until the end of this [[turn]]. Then, if you sent a [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] to the Graveyard to meet the requirement, gain 800 [[LP]].
+  | ja_requirement         = 手札１枚を墓地へ送って発動できる。
+  | ja_lore                = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで８００ダウンする。この効果の条件で通常モンスター（ギャラクシー族）を墓地へ送った場合、さらに自分は８００ＬＰ回復する。
+  | jp_sets                = 
+  RD/GRD1-JP002; Go Rush Deck - Galactica Arrive; Common
+  | supports               = 
+  * Galaxy (Type)
+  * Normal Monster
+  | action                 = Sends from hand to Graveyard for cost
+  | stat_change            = Your opponent's monsters lose ATK
+  | life_points            = You gain Life Points
+  | database_id            = 17566
+  }}

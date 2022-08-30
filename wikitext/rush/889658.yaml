@@ -1,0 +1,26 @@
+title: Fire Fall Blaze Barrier
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name                = {{Ruby|火|か}}{{Ruby|降|こう}}{{Ruby|焼|しょう}}{{Ruby|壁|へき}}
+  | romaji_name            = Kakōshōheki
+  | image                  = FireFallBlazeBarrier-RDSD04-JP-C.png
+  | card_type              = Trap
+  | property               = Normal
+  | requirement            = When an opponent's [[Level]] 8 or lower [[monster]] declares an [[attack]] while you have a [[face-up]] Level 7 or higher [[Pyro]] [[Type]] monster on your [[field]].
+  | lore                   = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, all face-up Level 8 or lower monsters on your opponent's field lose [[ATK]] equal to [the number of Pyro Type monsters sent to the Graveyard by this [[effect]]] x 400 until the end of this [[turn]].
+  | ja_requirement         = 自分フィールドに表側表示モンスター（レベル７以上／炎族）がいる場合、相手モンスター（レベル８以下）の攻撃宣言時に発動できる。
+  | ja_lore                = 自分のデッキの上からカード３枚を墓地へ送る。その後、相手フィールドの全ての表側表示モンスター（レベル８以下）の攻撃力はターン終了時まで、［この効果で墓地へ送ったモンスター（炎族）の数］×４００ダウンする。
+  | jp_sets                = 
+  RD/SD04-JP032; Strongest Battle Deck Manabu - Chemist-Meow Draw of Flames!; Common
+  | supports               = Pyro
+  | action                 = 
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change            = Your opponent's monsters lose ATK
+  | misc                   = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  | database_id            = 17965
+  }}

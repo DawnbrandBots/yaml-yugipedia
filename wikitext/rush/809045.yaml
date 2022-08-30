@@ -1,0 +1,30 @@
+title: Straight Pierce
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name                = Transperce en Ligne Droite
+  | de_name                = Gerader Durchschlag
+  | it_name                = Perforazione Diretta
+  | es_name                = Atraviesa Directo
+  | ja_name                = {{Ruby|一|いっ}}{{Ruby|気|き}}{{Ruby|貫|かん}}{{Ruby|通|つう}}
+  | romaji_name            = Ikkikantsū
+  | image                  = StraightPierce-RDMAX2-JP-C.png
+  | card_type              = Spell
+  | property               = Normal
+  | requirement            = [[Shuffle]] 5 [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Deck]].
+  | lore                   = This [[turn]], 1 [[face-up]] [[Level]] 7 or 8 monster on your [[field]] gains 2000 [[ATK]], and if it [[attack]]s a Defense Position monster, inflict [[piercing]] [[battle damage]] (if the ATK of the [[attack]]ing monster exceeds the [[DEF]] of the attack target, inflict the difference).
+  | ja_requirement         = 自分の墓地のモンスター（風属性／戦士族）５体をデッキに戻して発動できる。
+  | ja_lore                = 自分フィールドの表側表示モンスター（レベル７・８）１体を選ぶ。このターン、そのモンスターの攻撃力は２０００アップし、その攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
+  | jp_sets                = 
+  RD/MAX2-JP036; Maximum Ultra Evolution Pack; Common
+  | kr_sets                = 
+  RD/MAX2-KR036; Maximum Ultra Evolution Pack; Common
+  | supports               = 
+  * WIND
+  * Warrior
+  | action                 = Returns from Graveyard to Deck for cost
+  | stat_change            = Your monsters gain ATK
+  | attack                 = Piercing
+  | misc                   = Requires control of specific Level
+  | database_id            = 16603
+  }}

@@ -1,0 +1,31 @@
+title: Cross Target
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = {{Ruby|未知との邂逅|クロスターゲット}}
+  | base_trans_name       = Encounter with the Unknown
+  | romaji_name           = Kurosutāgetto
+  | image                 = CrossTarget-RDMRP1-JP-SR.png
+  | card_type             = Trap
+  | property              = Normal
+  | requirement           = When an opponent's [[Level]] 8 or lower [[monster]] [[declare]]s an [[attack]] while you have a [[face-up]] Level 7 or higher [[Omega Psychic]] or [[Psychic]] [[Type]] monster on your [[field]].
+  | lore                  = [[Return]] the attacking monster to the owner's [[hand]]. Then, if you have a [[face-up]] "[[Handy Lady]]" on your field, you can [[Add a card|add]] 1 Level 3 or lower monster from your [[Graveyard]] to your hand.
+  | ja_requirement        = 自分フィールドに表側表示モンスター（レベル７以上／オメガサイキック族・サイキック族）がいる場合、相手モンスター（レベル８以下）の攻撃宣言時に発動できる。
+  | ja_lore               = 攻撃してきたモンスターを持ち主の手札に戻す。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに自分の墓地のモンスター（レベル３以下）１体を選んで手札に加える事ができる。
+  | jp_sets               = 
+  RD/MRP1-JP048; Megaroad Pack; Super Rare
+  | supports              = 
+  * Psychic
+  * Omega Psychic
+  * Handy Lady
+  | action                = 
+  * Activates upon attack declaration
+  * Returns from your opponent's field to your opponent's hand
+  * Adds from Graveyard to hand
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Requires control of specific card
+  | database_id           = 17686
+  }}

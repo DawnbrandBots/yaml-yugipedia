@@ -1,0 +1,25 @@
+title: Kappa's River Flow
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name                = かっぱの{{Ruby|川|かわ}}{{Ruby|流|なが}}し
+  | romaji_name            = Kappa no Kawanagashi
+  | image                  = KappasRiverFlow-RDKP10-JP-C.png
+  | card_type              = Trap
+  | property               = Normal
+  | requirement            = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 2 [[Aqua]] [[Type]] [[monster]]s from your [[Graveyard]] into the [[Deck]].
+  | lore                   = The attacking monster loses 800 [[ATK]] until the end of this [[turn]]. Then, you can make 1 [[face-up]] [[Normal Monster]] on your opponent's [[field]] lose 800 ATK until the end of this turn.
+  | ja_requirement         = 相手モンスターの攻撃宣言時、自分の墓地のモンスター（水族）２体をデッキに戻して発動できる。
+  | ja_lore                = 攻撃してきたモンスターの攻撃力はターン終了時まで８００ダウンする。その後、相手フィールドの表側表示の通常モンスター１体を選んでその攻撃力をターン終了時まで８００ダウンできる。
+  | jp_sets                = 
+  RD/KP10-JP060; Deck Modification Pack - Requiem of Destruction!!; Common
+  | supports               = Aqua
+  | anti-supports          = Normal Monster
+  | archseries             = Kappa
+  | action                 =
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change            = Your opponent's monsters lose ATK
+  | database_id            = 17908
+  }}

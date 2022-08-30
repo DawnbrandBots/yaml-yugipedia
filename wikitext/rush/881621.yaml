@@ -1,0 +1,26 @@
+title: Gradually Approaching Footsteps
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name                = ひたひたと{{Ruby|迫|せま}}る{{Ruby|足|あし}}{{Ruby|音|おと}}
+  | romaji_name            = Hitahita to Semaru Ashioto
+  | image                  = GraduallyApproachingFootsteps-RDMRP1-JP-C.png
+  | card_type              = Trap
+  | property               = Normal
+  | requirement            = When your opponent [[Draw a card|draws]] for their [[normal draw]] in their [[Draw Phase]] while you have a [[face-up]] [[Zombie]] [[Type]] [[monster]] on your [[field]].
+  | lore                   = Look at your opponent's [[hand]]. You can choose up to 3 [[Spell]]/[[Trap Card]]s from their hand. If you do, your opponent Sets those cards to their [[field]], and they take [[Effect damage|damage]] equal to [the number of cards Set by this [[effect]]] x 300.
+  | ja_requirement         = 自分フィールドに表側表示モンスター（アンデット族）がいる場合、相手がドローフェイズに通常のドローをした時に発動できる。
+  | ja_lore                = 相手の手札を確認する。自分はその中から魔法・罠カードを３枚まで選ぶ事ができる。選んだ場合、相手はそのカードを自身のフィールドにセットし、［この効果でセットしたカードの数］×３００ダメージを相手は受ける。
+  | jp_sets                = 
+  RD/MRP1-JP085; Megaroad Pack; Common
+  | supports               = Zombie
+  | archseries             = Ghost Story
+  | action                 = 
+  * Activates if your opponent draws a card
+  * Reveals your opponent's hand
+  * Sets from your opponent's hand to your opponent's field
+  | life_points            = Damages your opponent
+  | misc                   = Requires control of specific Type
+  | database_id            = 17711
+  }}
