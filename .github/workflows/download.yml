@@ -36,6 +36,6 @@ jobs:
           git config user.name GitHub Actions
           git config user.email noreply@github.com
           git add .
-          git commit -m "Yugipedia download"
+          git commit -m 'Yugipedia download: ${{ github.event.inputs.category }}'
           git pull --rebase
           git push
