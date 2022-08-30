@@ -1,0 +1,42 @@
+title: High and Low (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | image                 = HighandLow-DULI-EN-VG.png
+  | ja_image              = HighandLow-DULI-JP-VG.png
+  | card_type             = Trap
+  | property              = Normal
+  | rarity                = SR
+  | number                = 3798
+  | effect_types          = Effect
+  | lore                  = When your [[face-up]] [[Monster Card|monster]] is [[target]]ed for an [[attack]]: Apply the following [[effect]] up to 3 times while you [[control]] that face-up [[attack target]].<br />●[[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]], and if it is a monster, the attack target gains [[ATK]] equal to the ATK of the monster you sent to the Graveyard, but if the attack target's ATK is higher than the attacking monster's ATK, [[destroy]] the attack target.
+  | ja_lore               = 自分フィールド上の表側表示モンスターが攻撃対象に選択された時に発動できる。その表側表示の攻撃対象モンスターが存在する限り、以下の効果を３回まで適用できる。●自分のデッキの一番上のカードを墓地へ送る。それがモンスターだった場合、ターン終了時まで攻撃対象モンスターの攻撃力を墓地へ送られたモンスターの攻撃力分アップし、攻撃対象モンスターの攻撃力が攻撃モンスターの攻撃力より高い場合、攻撃対象モンスターを破壊する。
+  | releases              = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=6|foil=Prismatic|release_date=2020-11-11|removal_date=2020-11-22}}
+  {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=1|foil=Glossy|release_date=2020-11-11|removal_date=2020-11-22}}
+  {{Duel Links release table|type=card_ticket|KC Cup Sep. 2020|quantity=6|foil=Prismatic|release_date=2020-09-08|removal_date=2020-09-20}}
+  {{Duel Links release table|type=card_ticket|KC Cup Sep. 2020|quantity=1|foil=Glossy|release_date=2020-09-08|removal_date=2020-09-20}}
+  {{Duel Links release table|type=card_trader_ex|Leo and Luna's Duel Carnival|version=4|100}}
+  {{Duel Links release table|type=event|Leo and Luna's Duel Carnival|version=4|Gold Treasure Box}}
+  {{Duel Links release table|type=lottery|Tag Duel Tournament X}}
+  {{Duel Links release table|type=card_trader_ex|Tag Duel Tournament X|100}}
+  {{Duel Links release table|type=event|Tag Duel Tournament X|Completion Reward|quantity=1|foil=Glossy}}
+  {{Duel Links release table|type=event|Tag Duel Tournament IX|Completion Reward|quantity=1|release_date=2020-08-22}}
+  {{Duel Links release table|type=lottery|Tag Duel Tournament IX}}
+  {{Duel Links release table|type=card_trader_ex|Tag Duel Tournament IX|100}}
+  {{Duel Links release table|type=event|Pick-a-Gift Campaign|Campaign Reward|quantity=1|release_date=2020-08-11|removal_date=2020-08-22}}
+  {{Duel Links release table|type=lottery|Tag Duel Tournament VIII}}
+  {{Duel Links release table|type=card_trader_ex|Tag Duel Tournament VIII|100}}
+  {{Duel Links release table|type=event|Tag Duel Tournament VIII|Completion Reward|quantity=1|foil=Glossy}}
+  {{Duel Links release table|type=card_trader_ex|Tag Duel Tournament VII|100}}
+  {{Duel Links release table|type=lottery|Tag Duel Tournament VII}}
+  {{Duel Links release table|type=event|Tag Duel Tournament VII|Completion Reward|quantity=1}}
+  {{Duel Links release table/footer}}
+  | action                =
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change           = 
+  * Your monsters gain ATK
+  | m/s/t                 =
+  * Destroys your monsters
+  }}
