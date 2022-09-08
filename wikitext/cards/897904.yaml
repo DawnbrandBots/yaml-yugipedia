@@ -19,8 +19,8 @@ wikitext: |-
   | atk                   = 1600
   | def                   = 600
   | password              = 
-  | effect_types          =
-  | lore                  = You can target 1 banished LIGHT or DARK monster; Special Summon it to your field, but its effects are negated, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT and DARK Synchro Monsters. If this card is sent to the GY as Synchro Material: You can target cards your opponent controls up to the number of other materials used for that Synchro Summon; banish them. You can only use each effect of "Chaos Mirage Dragon" once per turn.
+  | effect_types          = Ignition, Trigger, Condition
+  | lore                  = You can [[target]] 1 [[banish]]ed [[LIGHT]] or [[DARK]] [[monster]]; [[Special Summon]] it to your [[field]], but [[negate]] its [[effect]]s, also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except LIGHT and DARK [[Synchro Monster]]s. If this card is [[sent]] to the [[GY]] as [[Synchro Material]]: You can target cards your opponent controls, up to the number of other materials used for that [[Synchro Summon]]; [[banish]] them. You can only use each effect of "Chaos Mirage Dragon" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,15 +34,7 @@ wikitext: |-
   * LIGHT
   * DARK
   * Synchro Monster
-  | archseries            = 
-  * Chaos
-  | supports_archetypes   = 
-  | action                = 
-  | m/s/t                 = 
-  | summoning             = 
-  | attack                = 
-  | banished              = 
-  | misc                  = 
+  | archseries            = Chaos
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

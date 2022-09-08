@@ -21,8 +21,8 @@ wikitext: |-
   | def                   = 1800
   | materials             = 1 LIGHT Tuner + 1+ non-Tuner DARK monsters
   | password              = 
-  | effect_types          = 
-  | lore                  = 1 LIGHT Tuner + 1+ non-Tuner DARK monsters<br/>Gains 2000 ATK during the turn a card(s) is banished. This card can attack all opponent's monsters once each, also monsters destroyed by battle with this card are banished instead of being sent to the GY. If this card in its owner's control leaves the field by their opponent: You can Special Summon 1 "Chaos" Synchro Monster from your Extra Deck, except "Chaos Archfiend". You can only use this effect of "Chaos Archfiend" once per turn.
+  | effect_types          = Continuous, Continuous, Trigger, Condition
+  | lore                  = 1 [[LIGHT]] [[Tuner]] + 1+ non-Tuner [[DARK]] [[monsters]]<br/>Gains 2000 [[ATK]] during the [[turn]] a card(s) is [[banish]]ed. This card can [[attack]] all your opponent's monsters once each, also banish any monster [[destroyed by battle]] with this card. If this card in its owner's [[control]] [[leaves the field]] by an opponent's card: You can [[Special Summon]] 1 "[[Chaos]]" [[Synchro Monster]] from your [[Extra Deck]], except "Chaos Archfiend". You can only use this [[effect]] of "Chaos Archfiend" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -32,18 +32,13 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP039; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  PHHY-JP039; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = 
   * Synchro Monster
   | archseries            = 
   * Chaos
   * Archfiend
-  | supports_archetypes   = 
-  | action                = 
-  | m/s/t                 = 
-  | summoning             = 
-  | attack                = 
-  | banished              = 
-  | misc                  = 
+  | supports_archetypes   = Chaos
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
