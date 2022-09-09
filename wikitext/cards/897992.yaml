@@ -1,6 +1,5 @@
-title: Grim Gishki
+title: Gishki Grim
 wikitext: |-
-  {{Rename|Gishki Grim|[[Gishki Vision]] and [[Gishki Shadow|Shadow]].}}
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
@@ -14,7 +13,7 @@ wikitext: |-
   | trans_name            = Grim Ritua
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = GrimGishki-PHHY-JP-OP.png
+  | image                 = GishkiGrim-PHHY-JP-OP.png
   | attribute             = WATER
   | types                 = Fish / Effect
   | level                 = 2
@@ -22,7 +21,7 @@ wikitext: |-
   | def                   = 700
   | password              = 
   | effect_types          = Unclassified, Trigger, Condition
-  | lore                  = If you [[Ritual Summon]] exactly 1 [[WATER]] [[Ritual Monster]] with a card [[effect]] that requires use of [[Monster Card|monsters]], this card can be used as the entire requirement. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 "[[Gishki]]" monster from your [[Main Deck|Deck]], except "Grim Gishki", also you cannot [[declare]] [[attack]]s for the rest of this [[turn]], except with Ritual Monsters. You can only use this effect of "Grim Gishki" [[once per turn]].
+  | lore                  = If you [[Ritual Summon]] exactly 1 [[WATER]] [[Ritual Monster]] with a card [[effect]] that requires use of [[Monster Card|monsters]], this card can be used as the entire requirement. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 "[[Gishki]]" monster from your [[Main Deck|Deck]], except "Gishki Grim", also you cannot [[declare]] [[attack]]s for the rest of this [[turn]], except with Ritual Monsters. You can only use this effect of "Gishki Grim" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -37,6 +36,14 @@ wikitext: |-
   * Ritual Monster
   | archseries            = Gishki
   | supports_archetypes   = Gishki
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | summoning             = 
+  * Can be used as entire Ritual Summon requirement
+  * Special Summons from your Deck
+  | attack                = Prevents your monsters from attacking
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

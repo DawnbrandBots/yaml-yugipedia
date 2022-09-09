@@ -29,12 +29,21 @@ wikitext: |-
   | jp_sets               = 
   PHHY-JP067; Photon Hypernova; 
   | supports              = 
-  * Spell Card
-  * Trap Card
+  * WATER
+  * Ritual Monster
   | archseries            = Aquamirror
   | supports_archetypes   = 
   * Aquamirror
   * Gishki
+  | action                = 
+  * Adds from Deck to hand
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
