@@ -17,8 +17,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Ritual
   | password              = 
-  | effect_types          = 
-  | lore                  = This card can be used to [[Ritual Summon]] any "[[Gishki]]" [[Ritual Monster]]. You must also [[Tribute]] either 1 [[Face-up|face-up]] [[Monster Card|monster]] your opponent [[Control|controls]], OR monsters from your [[Hand|hand]] or [[Field|field]] whose total [[Level|Levels]] exactly equal its Level. If you do, you lose [[LP]] equal to the Summoned monster's [[Original ATK and DEF|original ATK]]. If this card is in your [[Graveyard|GY]]: You can [[Target|target]] 1 "Gishki" monster in your GY; place it on the top of the [[Main Deck|Deck]], and if you do, place this card on the bottom of the Deck.
+  | effect_types          = Effect, Ignition-like
+  | lore                  = This card can be used to [[Ritual Summon]] any "[[Gishki]]" [[Ritual Monster]]. You must also [[Tribute]] either 1 [[face-up]] [[Monster Card|monster]] your opponent [[control]]s, OR monsters from your [[hand]] or [[field]] whose total [[Level]]s exactly equal the Level of the Ritual Monster you Ritual Summon. If you do, you lose [[LP]] equal to the Summoned monster's [[Original ATK and DEF|original ATK]]. If this card is in your [[Graveyard|GY]]: You can [[target]] 1 "Gishki" monster in your GY; place it on top of the [[Main Deck|Deck]], and if you do, place this card on the bottom of the Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,10 +31,6 @@ wikitext: |-
   | supports              = Ritual Monster
   | archseries            = Gishki
   | supports_archetypes   = Gishki
-  | action                = 
-  | summoning             = 
-  | banished              = 
-  | misc                  = 
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

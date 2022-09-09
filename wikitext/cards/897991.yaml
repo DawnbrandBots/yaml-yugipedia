@@ -20,8 +20,8 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 1800
   | password              = 
-  | effect_types          = 
-  | lore                  = You can [[Ritual Summon]] this card with any "[[Gishki]]" [[Ritual Spell Card|Ritual Spell]]. If this card is Ritual Summoned: You can [[Target|target]] 1 [[WATER]] [[Monster Card|monster]] in your [[Graveyard|GY]]; [[Special Summon]] it. Cannot be [[Destroyed by battle|destroyed by battle]] with a monster Special Summoned from the [[Extra Deck]]. [[Once per turn]], when your opponent [[Activate|activates]] a [[Monster effect|monster effect]] ([[Quick Effect]]): You can [[Return|return]] 1 "Gishki" [[Ritual Monster]] you [[Control|control]] to the [[Hand|hand]], and if you do, [[Negate|negate]] the activation, and if you do that, [[Shuffle|shuffle]] that card into the [[Main Deck|Deck]].
+  | effect_types          = Summoning condition, Trigger, Continuous, Quick
+  | lore                  = You can [[Ritual Summon]] this card with any "[[Gishki]]" [[Ritual Spell Card|Ritual Spell]]. If this card is Ritual Summoned: You can [[target]] 1 [[WATER]] [[Monster Card|monster]] in your [[Graveyard|GY]]; [[Special Summon]] it. Cannot be [[destroyed by battle]] with a monster Special Summoned from the [[Extra Deck]]. [[Once per turn]], when your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can [[return]] 1 "Gishki" [[Ritual Monster]] you [[control]] to the [[hand]], and if you do, [[negate]] the activation, and if you do that, [[shuffle]] that card into the [[Main Deck|Deck]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,13 +31,10 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP032; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  PHHY-JP032; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = WATER
   | archseries            = Gishki
-  | supports_archetypes   = 
-  | action                = 
-  | stat_change           = 
-  | summoning             = 
-  | misc                  = 
+  | supports_archetypes   = Gishki
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

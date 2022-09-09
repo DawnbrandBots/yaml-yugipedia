@@ -17,8 +17,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Normal
   | password              = 
-  | effect_types          = 
-  | lore                  = [[Add a card|Add]] 1 "[[Gishki]]" [[Monster Card|monster]] from your [[Main Deck|Deck]] to your [[Hand|hand]]. During the [[End Phase]], if you [[Control|control]] a [[WATER]] [[Ritual Monster]]: You can [[Banish|banish]] this card from your [[Graveyard|GY]]; [[Set]] 1 "[[Aquamirror]]" [[Spell Card|Spell]]/[[Trap Card|Trap]] from your Deck or GY, except "Aquamirror Focalization".
+  | effect_types          = Effect, Trigger-like, Condition
+  | lore                  = [[Add a card|Add]] 1 "[[Gishki]]" [[Monster Card|monster]] from your [[Main Deck|Deck]] to your [[hand]]. During the [[End Phase]], if you [[control]] a [[WATER]] [[Ritual Monster]]: You can [[banish]] this card from your [[Graveyard|GY]]; [[Set]] 1 "[[Aquamirror]]" [[Spell Card|Spell]]/[[Trap Card|Trap]] from your Deck or GY, except "Aquamirror Focalization". You can only use this [[effect]] of "Aquamirror Focalization" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,10 +35,6 @@ wikitext: |-
   | supports_archetypes   = 
   * Aquamirror
   * Gishki
-  | action                = 
-  | summoning             = 
-  | banished              = 
-  | misc                  = 
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
