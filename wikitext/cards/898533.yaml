@@ -20,8 +20,8 @@ wikitext: |-
   | atk                   = 1000
   | def                   = 2000
   | password              = 
-  | effect_types          = 
-  | lore                  = If this card is in your [[hand]] or [[Graveyard|GY]], and you [[control]] an "[[Evil Eye]]" [[Monster Card|monster]] ([[Quick Effect]]): You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]]. During your opponent’s [[turn]], you can (Quick Effect): Immediately after this [[effect]] [[resolve]]s, [[Link Summon]] 1 "Evil Eye" monster using [[material]]s you control. When you do, you can treat "Evil Eye" [[Equip Spell Card|Equip Spells]] you control as "Evil Eye" monsters and use them as material. You can only use each effect of "Basiltrice, Familiar of the Evil Eye" once per turn.
+  | effect_types          = Quick, Quick, Condition
+  | lore                  = If this card is in your [[hand]] or [[Graveyard|GY]], and you [[control]] an "[[Evil Eye]]" [[Monster Card|monster]] ([[Quick Effect]]): You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]]. During your opponent's [[turn]], you can (Quick Effect): Immediately after this [[effect]] [[resolve]]s, [[Link Summon]] 1 "Evil Eye" monster using [[material]]s you control. When you do, you can treat "Evil Eye" [[Equip Spell Card|Equip Spells]] you control as "Evil Eye" monsters and use them as material. You can only use each effect of "Basiltrice, Familiar of the Evil Eye" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,9 +34,6 @@ wikitext: |-
   | supports              = Link Monster
   | archseries            = Evil Eye
   | supports_archetypes   = Evil Eye
-  | action                = 
-  | summoning             = 
-  | attack                = 
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
