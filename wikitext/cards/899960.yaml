@@ -20,9 +20,9 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2500
   | password              = 
-  | effect_types          = 
+  | effect_types          = Unclassified, Continuous, Quick
   | materials             = 2+ Level 9 monsters
-  | lore                  = 2+ [[Level]] 9 [[Monster Card|monsters]]<br />You can only [[control]] 1 "Laevateinn, Generaider Boss of Shadows". All monsters your opponent controls lose 1000 [[ATK]]/[[DEF]]. ([[Quick Effect]]): You can [[Tribute]] this [[Xyz Summon]]ed card; [[Special Summon]] 1 non-[[Fairy]] "[[Generaider]]" [[Xyz Monster]] from your [[Extra Deck]], then you can [[attach]] cards from the [[field]] and/or any [[Graveyard|GY]](s) to it as [[material]] up to the number of materials this card had.
+  | lore                  = 2+ [[Level]] 9 [[Monster Card|monsters]]<br />You can only [[control]] 1 "Laevateinn, Generaider Boss of Shadows". All monsters your opponent controls lose 1000 [[ATK]]/[[DEF]]. ([[Quick Effect]]): You can [[Tribute]] this [[Xyz Summon]]ed card; [[Special Summon]] 1 non-[[Fairy]] "[[Generaider]]" [[Xyz Monster]] from your [[Extra Deck]], then you can [[attach]] cards from the [[field]] and/or any [[Graveyard|GY]](s) to it as [[material]], up to the number of materials this card had.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,9 +35,6 @@ wikitext: |-
   | supports              = Xyz Monster
   | archseries            = Generaider
   | supports_archetypes   = Generaider
-  | action                = 
-  | summoning             = 
-  | misc                  = 
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
