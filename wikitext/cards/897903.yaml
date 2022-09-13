@@ -35,6 +35,16 @@ wikitext: |-
   * LIGHT
   * DARK
   | related_to_archseries = Chaos
+  | action                = Returns the player's banished cards to the Graveyard
+  | stat_change           = 
+  * This card gains Levels
+  * This card loses Levels
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
