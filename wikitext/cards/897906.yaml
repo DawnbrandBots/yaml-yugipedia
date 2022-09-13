@@ -19,7 +19,7 @@ wikitext: |-
   | level                 = 8
   | atk                   = 2500
   | def                   = 1800
-  | materials             = 1 LIGHT Tuner + 1+ non-Tuner DARK monsters
+  | materials             = 1 LIGHT Tuner + 1 or more non-Tuner DARK monsters
   | password              = 
   | effect_types          = Continuous, Continuous, Trigger, Condition
   | lore                  = 1 [[LIGHT]] [[Tuner]] + 1+ non-Tuner [[DARK]] [[monsters]]<br/>Gains 2000 [[ATK]] during the [[turn]] a card(s) is [[banish]]ed. This card can [[attack]] all your opponent's monsters once each, also banish any monster [[destroyed by battle]] with this card. If this card in its owner's [[control]] [[leaves the field]] by an opponent's card: You can [[Special Summon]] 1 "[[Chaos]]" [[Synchro Monster]] from your [[Extra Deck]], except "Chaos Archfiend". You can only use this [[effect]] of "Chaos Archfiend" [[once per turn]].
@@ -34,11 +34,23 @@ wikitext: |-
   PHHY-JP039; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
   PHHY-JP039; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = 
+  * LIGHT
+  * DARK
   * Synchro Monster
   | archseries            = 
   * Chaos
   * Archfiend
   | supports_archetypes   = Chaos
+  | action                = Activates if it leaves the field
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * Requires Attribute specific Tuner Synchro Materials
+  * Requires Attribute specific non-Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Extra Deck
+  | attack                = Can make multiple attacks on monsters
+  | banished              = Banishes cards that would be sent to the Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
