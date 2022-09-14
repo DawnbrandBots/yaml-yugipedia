@@ -33,7 +33,20 @@ wikitext: |-
   PHHY-JP020; Photon Hypernova; 
   | archseries            = Generaider
   | supports_archetypes   = Generaider
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Sends from hand to Graveyard for cost
+  * Activates upon Special Summon
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Control only one
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

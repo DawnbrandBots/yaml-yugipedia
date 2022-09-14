@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 2500
   | password              = 
   | effect_types          = Unclassified, Continuous, Quick
-  | materials             = 2+ Level 9 monsters
+  | materials             = 2 or more Level 9 monsters
   | lore                  = 2+ [[Level]] 9 [[Monster Card|monsters]]<br />You can only [[control]] 1 "Laevateinn, Generaider Boss of Shadows". All monsters your opponent controls lose 1000 [[ATK]]/[[DEF]]. ([[Quick Effect]]): You can [[Tribute]] this [[Xyz Summon]]ed card; [[Special Summon]] 1 non-[[Fairy]] "[[Generaider]]" [[Xyz Monster]] from your [[Extra Deck]], then you can [[attach]] cards from the [[field]] and/or any [[Graveyard|GY]](s) to it as [[material]], up to the number of materials this card had.
   | fr_lore               = 
   | de_lore               = 
@@ -32,11 +32,24 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP047; Photon Hypernova; 
-  | supports              = 
-  * Fairy
-  * Xyz Monster
+  | supports              = Xyz Monster
   | archseries            = Generaider
   | supports_archetypes   = Generaider
+  | action                = 
+  * Tributes itself for cost
+  * Attaches from your field as Xyz Material
+  * Attaches from your opponent's field as Xyz Material
+  * Attaches from your Graveyard as Xyz Material
+  * Attaches from your opponent's Graveyard as Xyz Material
+  | m/s/t                 = Does not have effects which detach Xyz Materials for cost
+  | stat_change           = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your Extra Deck
+  | misc                  = Control only one
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
