@@ -29,6 +29,17 @@ wikitext: |-
   PHHY-JP057; Photon Hypernova; 
   | supports_archetypes   = Kshatri-La
   | archseries            = Kshatri-La
+  | action                = Activates while banished
+  | stat_change           = All monsters gain ATK
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | banished              = 
+  * Banishes from your hand
+  * Banishes from your Graveyard
+  * Banishes from your field
+  * Banishes from your opponent's field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -28,8 +28,23 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP075; Photon Hypernova; 
-  | supports_archetypes   = Kshatri-La
+  | supports              = Xyz Monster
+  | anti-supports         = Xyz Monster
   | archseries            = Kshatri-La
+  | supports_archetypes   = Kshatri-La
+  | anti-supports_archetypes = Kshatri-La
+  | action                = 
+  * Activates while banished
+  * Adds Xyz Materials to the hand
+  | summoning             = Special Summons from your hand
+  | banished              = 
+  * Makes the player banish from the field
+  * Makes the opponent banish from the field
+  * Banishes face-down
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
