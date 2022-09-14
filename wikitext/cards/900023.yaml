@@ -20,9 +20,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
-  | effect_types          = 
+  | effect_types          = Summoning condition, Continuous, Trigger, Quick
   | materials             = 3 Level 7 monsters
-  | lore                  = 3 [[Level]] 7 [[Monster Card|monster]]s<br />You can also [[Xyz Summon]] "Kshatri-La Ariseheart" [[once per turn]] during a [[turn]] the [[effect]]s of "[[Kshatri-La Shangri-La]]" are [[activate]]d, using a "[[Kshatri-La]]" monster you [[control]] as [[material]]. Cards [[Send|sent]] to the [[Graveyard|GY]] are [[banish]]ed instead. Once per [[Chain]], each time a card(s) is banished: [[Attach]] 1 banished card to this card as material. Once per turn ([[Quick Effect]]): You can [[detach]] 3 materials from this card, then [[target]] 1 card on the [[field]]; banish that card [[face-down]].
+  | lore                  = 3 [[Level]] 7 [[Monster Card|monster]]s<br />[[Once per turn]], if "[[Kshatri-La Shangri-La]]" [[activate]]d its [[effect]](s) this [[turn]], you can also [[Xyz Summon]] "Kshatri-La Ariseheart" by using a "[[Kshatri-La]]" monster you [[control]]. ([[Transfer]] its materials to this card.) Any card [[Send|sent]] to the [[Graveyard|GY]] is [[banish]]ed instead. Once per [[Chain]], each time a card(s) is banished: [[Attach]] 1 banished card to this card as [[material]]. Once per turn ([[Quick Effect]]): You can [[detach]] 3 materials from this card, then [[target]] 1 card on the [[field]]; banish it [[face-down]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,7 +31,8 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP046; Photon Hypernova; 
+  PHHY-JP046; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  PHHY-JP046; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = Kshatri-La Shangri-La
   | archseries            = Kshatri-La
   | supports_archetypes   = Kshatri-La
