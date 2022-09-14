@@ -33,6 +33,18 @@ wikitext: |-
   * Link Monster
   | archseries            = Evil Eye
   | supports_archetypes   = Evil Eye
+  | action                = 
+  * Sends from Deck to Graveyard for cost
+  * Adds from Deck to hand
+  * Activates upon Link Summon
+  * Activates from your Graveyard
+  * Equips from the player's Graveyard
+  | life_points           = You lose Life Points
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

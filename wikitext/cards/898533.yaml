@@ -31,10 +31,24 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP019; Photon Hypernova; 
-  | supports              = Link Monster
+  | supports              = 
+  * Link Monster
+  * Equip Spell Card
   | archseries            = Evil Eye
   | supports_archetypes   = Evil Eye
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Uses Spell Cards as Link Materials
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Performs a Link Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
