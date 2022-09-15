@@ -1,7 +1,5 @@
-title: Crystal Protection
+title: Crystal Aegis
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name          = Gem Protection
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = CrystalProtection-SD44-JP-C.png
+  | image               = CrystalAegis-SD44-JP-C.png
   | card_type           = Spell
   | property            = Normal
   | password            = 58371671
   | effect_types        = Effect, Trigger, Condition
-  | lore                = [[Target]] 1 "[[Crystal Beast]]" [[Monster Card]] you [[control]]; [[destroy]] it, then [[Special Summon]] 1 "[[Crystal Beast Token]]" with the same original [[Type]], [[Attribute]], [[Level]], and [[ATK]]/[[DEF]]. If a "Crystal Beast" card(s) is placed in your [[Spell & Trap Zone]] and this card is in your [[GY]] (even during the [[Damage Step]]): You can [[banish]] this card; Special Summon 1 "Crystal Beast" Monster Card from your Spell & Trap Zone. You can only use this [[effect]] of "Crystal Protection" [[once per turn]].
+  | lore                = [[Target]] 1 "[[Crystal Beast]]" [[Monster Card]] you [[control]]; [[destroy]] it, then [[Special Summon]] 1 "[[Crystal Beast Token]]" with the destroyed monster's original [[Type]], [[Attribute]], [[Level]], and [[ATK]]/[[DEF]]. If a "Crystal Beast" card(s) is placed in your [[Spell & Trap Zone]] while this card is in your [[GY]], even during the [[Damage Step]]: You can [[banish]] this card; Special Summon 1 "Crystal Beast" Monster Card from your Spell & Trap Zone. You can only use this [[effect]] of "Crystal Aegis" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -26,6 +24,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドの「宝玉獣」モンスターカード１枚を対象として発動できる。そのカードを破壊する。その後、そのカードの元々の種族・属性・レベル・攻撃力・守備力を持つ「宝玉獣トークン」１体を自分フィールドに特殊召喚する。②：このカードが墓地に存在し、自分の魔法＆罠ゾーンに「宝玉獣」カードが置かれた場合、このカードを除外して発動できる（ダメージステップでも発動可能）。自分の魔法＆罠ゾーンの「宝玉獣」モンスターカード１枚を選んで特殊召喚する。
   | ko_lore             = 
+  | en_sets             = 
+  SDCB-EN017; Structure Deck: Legend of the Crystal Beasts; Common
+  | fr_sets             = 
+  SDCB-FR017; Structure Deck: Legend of the Crystal Beasts; Common
+  | de_sets             = 
+  SDCB-DE017; Structure Deck: Legend of the Crystal Beasts; Common
+  | it_sets             = 
+  SDCB-IT017; Structure Deck: Legend of the Crystal Beasts; Common
+  | pt_sets             = 
+  SDCB-PT017; Structure Deck: Legend of the Crystal Beasts; Common
+  | sp_sets             = 
+  SDCB-SP017; Structure Deck: Legend of the Crystal Beasts; Common
   | jp_sets             = 
   SD44-JP017; Structure Deck: Legend of the Crystals; Common
   | archseries          = Crystal
