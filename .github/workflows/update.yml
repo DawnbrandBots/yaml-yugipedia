@@ -16,7 +16,7 @@ on:
     types:
       - update
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 2/4 * * *"
 
 jobs:
   download:
