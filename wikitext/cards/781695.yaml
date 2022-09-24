@@ -46,7 +46,9 @@ wikitext: |-
   * Equips self from field
   * Changes battle positions
   * Returns from your opponent's Graveyard to your opponent's Deck
-  | stat_change           = Your opponent's monsters gain Levels
+  | stat_change           = 
+  * Your opponent's monsters gain Levels
+  * Equipped gains Levels
   | m/s/t                 = Treated as Equip Card
   | misc                  = 
   * Requires control of specific archetype
