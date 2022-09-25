@@ -1,16 +1,16 @@
 title: Reinforce Truth
 wikitext: |-
   {{CardTable2
-  | zh_name               = 休战增援
   | fr_name               = Trêve Solide
   | de_name               = Treue bekräftigen
   | it_name               = Rinforzare la Verità
-  | ko_name               = 트루스 리인포스
   | pt_name               = Verdade Reforçada
   | es_name               = Reforzar la Verdad
   | ja_name               = トゥルース・リインフォース
   | romaji_name           = Turūsu Riinfōsu
   | trans_name            = Truth Reinforce
+  | ko_name               = 트루스 리인포스
+  | sc_name               = 休战增援
   | image                 = ReinforceTruth-YS11-EN-C-1E.png
   | card_type             = Trap
   | property              = Normal
@@ -24,6 +24,7 @@ wikitext: |-
   | es_lore               = Invoca de Modo Especial, desde tu Deck, 1 monstruo de Tipo Guerrero de Nivel 2 o menor. No puedes realizar tu Battle Phase el turno en que activaste esta carta.
   | ja_lore               = このカードを発動するターン、自分は[[Battle Phase|バトルフェイズ]]を行えない。①：[[Main Deck|デッキ]]から[[Level|レベル]]２以下の[[Warrior|戦士]]族モンスター１体を[[Special Summon|特殊召喚]]する。
   | ko_lore               = 자신의 덱에서 레벨 2 이하의 전사족 몬스터 1장을 특수 소환한다. 이 카드를 발동하는 턴, 자신은 배틀 페이즈를 실행할 수 없다.
+  | sc_lore               = 发动此卡的回合中，自己无法进行战斗阶段。①：从牌组将1只等级2以下的战士族怪兽特殊召唤。
   | en_sets               = 
   ANPR-EN064; Ancient Prophecy; Rare
   DP09-EN027; Duelist Pack: Yusei 2; Common
@@ -56,6 +57,8 @@ wikitext: |-
   ANPR-KR064; Ancient Prophecy; Rare
   DP09-KR027; Duelist Pack: Yusei 2; Common
   YSD6-KR040; Starter Deck 2011; Common
+  | sc_sets               = 
+  SCTP-SC147; Entry Pack Volume 9; Common
   | supports              = 
   * Level 1 Monster Cards
   * Level 2 Monster Cards
