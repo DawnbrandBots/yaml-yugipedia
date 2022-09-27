@@ -1,7 +1,6 @@
 title: Green Gadget
 wikitext: |-
   {{CardTable2
-  | tc_name               = 綠色齒輪
   | fr_name               = Gadget Vert
   | de_name               = Grüner Apparat
   | it_name               = Congegno Verde
@@ -11,6 +10,8 @@ wikitext: |-
   | romaji_name           = Gurīn Gajetto
   | ko_name               = 그린 가제트
   | ko_rr_name            = Geurin Gajeteu
+  | tc_name               = 綠色齒輪
+  | sc_name               = 绿色小工具
   | image                 = GreenGadget-FIGA-EN-SR-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_lore               = ①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「レッド・ガジェット」１体を手札に加える。
   | ko_lore               = ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 덱에서 "레드 가제트" 1장을 패에 넣는다.
   | tc_lore               = 当此卡成功召唤、特殊召唤时，可从牌组中抽取1只「紅色齒輪」加入手牌。
+  | sc_lore               = ①：此卡召唤・特殊召唤成功时可以发动。从牌组将1只"红色小工具"加入手牌。
   | en_sets               = 
   SD10-EN006; Structure Deck: Machine Re-Volt; Common
   HL05-EN002; Hobby League 5 participation card B; Ultra Parallel Rare
@@ -97,8 +99,6 @@ wikitext: |-
   DS14-JPM06; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
   15AY-JPC16; Memories of the Duel King: Ceremonial Battle Arc; Common
   DP17-JP021; Duelist Pack: Pharaoh's Memories; Common
-  | tc_sets               = 
-  SD18-TC015; Structure Deck: Machiners Command; Common
   | kr_sets               = 
   PP01-KR003; Premium Pack Vol.1; Ultra Rare
   SD10-KR006; Structure Deck: Machine Re-Volt; Common
@@ -106,6 +106,10 @@ wikitext: |-
   DS14-KRM06; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
   DP17-KR021; Duelist Pack: Pharaoh's Memories; Common
   15AY-KRC16; Memories of the Duel King: Ceremonial Battle Arc; Common
+  | tc_sets               = 
+  SD18-TC015; Structure Deck: Machiners Command; Common
+  | sc_sets               = 
+  TM01-SC040; Theme Pack: War of Infinite Machine; Common
   | supports              = Red Gadget
   | archseries            = Gadget
   | related_to_archseries = Ancient Gear
