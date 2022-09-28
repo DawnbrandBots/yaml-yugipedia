@@ -44,17 +44,20 @@ wikitext: |-
   DP18-JP031; Duelist Pack: Legend Duelist; Super Rare
   | kr_sets               = 
   DP18-KR031; Duelist Pack: Legend Duelist; Super Rare
+  | supports              = Fusion Monster
   | archseries            = roid
   | supports_archetypes   = roid
+  | action                = 
+  * Adds from Deck to hand
+  * Sends from Deck to Graveyard for cost
   | m/s/t                 = 
   * Destroys your Monster Cards
   * Destroys your Spell Cards
   * Destroys your Trap Cards
-  | action                = 
-  * Adds from Deck to hand
-  * Sends from your Deck to your Graveyard
   | stat_change           = Switches ATK and DEF
-  | misc                  = Only once per turn
   | summoning             = Restricts the player's Special Summons from the Extra Deck
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 13186
   }}
