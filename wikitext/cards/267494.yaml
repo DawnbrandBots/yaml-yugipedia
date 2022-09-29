@@ -1,7 +1,6 @@
 title: Geargiagear
 wikitext: |-
   {{CardTable2
-  | tc_name               = 齒輪齒輪齒輪
   | fr_name               = Geargiagrenage
   | de_name               = Getriebriagetriebe
   | it_name               = Ingranaggianingranaggio
@@ -10,6 +9,8 @@ wikitext: |-
   | es_name               = Engranaji-equipo
   | ja_name               = ギアギアギア
   | romaji_name           = Giagiagia
+  | tc_name               = 齒輪齒輪齒輪
+  | sc_name               = 齿轮齿轮齿轮
   | image                 = Geargiagear-SDGR-EN-C-1E.png
   | card_type             = Trap
   | property              = Normal
@@ -24,6 +25,7 @@ wikitext: |-
   | ja_lore               = デッキから「ギアギアーノ」と名のついたモンスター２体を特殊召喚する。この効果で特殊召喚したモンスターのレベルは１つ上がる。「ギアギアギア」は１ターンに１枚しか発動できない。
   | ko_lore               = 덱에서 "기아기아노" 라는 이름이 붙은 몬스터 2장을 특수 소환한다. 이 효과로 특수 소환한 몬스터의 레벨은 1개 올린다. "기아기아기아" 는 1턴에 1장밖에 발동할 수 없다.
   | tc_lore               = 从牌组特殊召唤2只冠有「齒輪齒輪」之名的怪兽。以此效果特殊召唤的怪兽等级上升1。「齒輪齒輪齒輪」1回合只可发动1张。
+  | sc_lore               = 此卡名的卡1回合仅可发动1张。①：从牌组将2只"齿轮齿轮人"怪兽特殊召唤。以此效果特殊召唤的怪兽的等级上升1。
   | en_sets               = 
   LTGY-EN077; Lord of the Tachyon Galaxy; Super Rare
   MP14-EN052; 2014 Mega-Tin Mega Pack; Super Rare
@@ -51,11 +53,13 @@ wikitext: |-
   | jp_sets               = 
   LTGY-JP077; Lord of the Tachyon Galaxy; Common
   DS14-JPM25; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
-  | tc_sets               = 
-  LTGY-TC077; Lord of the Tachyon Galaxy; Common
   | kr_sets               = 
   LTGY-KR077; Lord of the Tachyon Galaxy; Common
   DS14-KRM28; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
+  | tc_sets               = 
+  LTGY-TC077; Lord of the Tachyon Galaxy; Common
+  | sc_sets               = 
+  TM01-SC067; Theme Pack: War of Infinite Machine; Common
   | archseries            = Geargia
   | supports_archetypes   = Geargiano (archetype)
   | stat_change           = Your monsters gain Levels
