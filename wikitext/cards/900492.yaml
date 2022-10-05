@@ -1,6 +1,7 @@
-title: Armored Insect Combination Zekstagger
+title: Beetle Amalgamaton Zekstagger
 wikitext: |-
   {{Unofficial name|English}}
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -11,7 +12,7 @@ wikitext: |-
   | romaji_name         = Kōchū Gattai Zekusutaggā
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = ArmoredInsectCombinationZekstagger-VJMP-JP-OP.png
+  | image               = BeetleAmalgamatonZekstagger-VJMP-JP-OP.png
   | attribute           = WIND
   | types               = Insect / Effect
   | level               = 8
@@ -19,7 +20,22 @@ wikitext: |-
   | def                 = 2600
   | password            = 
   | effect_types        = 
-  | lore                = 
+  | lore                = Gains 300 [[ATK]] for every other [[Insect]] [[monster]] on the [[field]]. You can only use each of the following [[Effect|effects]] of "Beetle Amalgamaton Zekstagger" [[once per turn]]. If an Insect monster(s) is [[Special Summon|Special Summoned]]: You can Special Summon this card from your [[hand]]. During each [[End Phase]]: Each player can Special Summon 1 Insect monster from their hand or [[Graveyard|GY]], but its effects are negated.
+  | action              = 
+  * Activates upon Special Summon
+  | supports            = Insect
+  | stat_change         = This card gains ATK
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Your opponent Special Summons
+  * Special Summons from your opponent's hand to your opponent's field
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  * Special Summons from your Graveyard 
+  * Special Summons from your hand
+  | m/s/t               = Negates the effects of the Summoned monsters
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific Monster type
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
