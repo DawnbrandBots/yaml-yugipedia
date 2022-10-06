@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2000
   | def                   = 2000
   | password              = 
+  | materials             = 2 "Ninja" monsters with different Types
   | effect_types          = Summoning condition, Trigger, Ignition, Condition
   | lore                  = 2 "[[Ninja]]" [[monsters]] with different [[Type]]s<br />Must first be either [[Fusion Summon]]ed, or [[Special Summon]]ed from your [[Extra Deck]] by Tributing the above cards you [[control]]. If this card is Special Summoned or flipped [[face-up]]: You can [[banish]] 1 other "Ninja" or "[[Ninjitsu Art]]" card from your [[hand]], [[GY]], or face-up [[field]], then [[target]] 1 card on the field; banish it. You can only use this [[effect]] of "Yaguramaru the Armored Ninja" [[once per turn]].
   | fr_lore               = 
@@ -35,6 +36,26 @@ wikitext: |-
   | supports_archetypes   = 
   * Ninja
   * Ninjitsu Art
+  | action              = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Activates upon Special Summon
+  * Activates upon being flipped face-up
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summon-only monster
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  * Banishes from field for cost
+  * Banishes from field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

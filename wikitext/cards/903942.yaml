@@ -20,7 +20,7 @@ wikitext: |-
   | atk                   = 2300
   | def                   = 2900
   | password              = 
-  | effect_types          = Trigger, Trigger, Condition
+  | effect_types          = Trigger, Lingering, Trigger, Condition
   | lore                  = If this card is [[Normal Summon]]ed, [[Special Summon]]ed, or [[flip]]ped [[face-up]]: You can [[target]] up to 2 [[face-up]] [[monsters]] on the [[field]]; change them to [[face-down]] [[Defense Position]]. Opponent's monsters changed to face-down Defense Position by this [[effect]] cannot change their [[battle position]]s. If another monster(s) on the field is flipped face-up while this monster is face-up on the field: You can target 1 card your opponent controls; [[destroy]] it. You can only use each effect of "Jio the Weighted Ninja" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
@@ -32,6 +32,18 @@ wikitext: |-
   | jp_sets               = 
   PHHY-JP017; Photon Hypernova; 
   | archseries            = Ninja
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates upon being flipped face-up
+  * Changes battle positions
+  * Flips monsters face-down
+  * Prevents battle position changes
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
