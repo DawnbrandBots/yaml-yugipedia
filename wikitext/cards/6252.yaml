@@ -9,15 +9,15 @@ wikitext: |-
   | ko_name               = 구급로이드
   | es_name               = Ambulanceroid
   | romaji_name           = Kyūkyūroido
-  | image                 = Ambulanceroid-YSDS-EN-C-1E.png
+  | image                 = Ambulanceroid-SGX2-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
+  | level                 = 3
   | atk                   = 300
   | def                   = 1200
-  | level                 = 3
   | password              = 36378213
   | effect_types          = Trigger
-  | lore                  = When a "[[roid]]" [[Monster Card|monster]] is [[Add a card|added]] from your [[Graveyard]] to your [[hand]], you can [[Special Summon]] that monster.
+  | lore                  = When a "[[roid]]" [[monster]](s) is [[Add a card|added]] from your [[GY]] to your [[hand]] (except during the [[Damage Step]]): You can [[Special Summon]] it.
   | fr_lore               = Lorsqu'un monstre qui inclut "roid" dans son nom de carte est ajouté à votre main depuis votre Cimetière, vous pouvez faire l'invocation Spéciale de ce monstre.
   | de_lore               = Wenn ein Monster, dessen Kartenname „roid“ enthält, aus deinem Friedhof deiner Hand hingefügt wird, kannst du dieses Monster als Spezialbeschwörung beschwören.
   | it_lore               = Quando un mostro che include "roid" nel suo nome viene aggiunto dal tuo Cimitero alla tua mano, puoi Evocare tramite Evocazione Speciale quel mostro.
@@ -57,5 +57,5 @@ wikitext: |-
   | summoning             = Special Summons from your hand
   | fm_for                = Ambulance Rescueroid
   | database_id           = 6736
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

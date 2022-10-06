@@ -10,15 +10,15 @@ wikitext: |-
   | es_name               = Stealthroid
   | ja_name               = ステルスロイド
   | romaji_name           = Suterusuroido
-  | image                 = Stealthroid-GLAS-EN-C-1E.png
+  | image                 = Stealthroid-SGX2-EN-C-1E.png
   | attribute             = DARK
   | types                 = Machine / Effect
+  | level                 = 4
   | atk                   = 1200
   | def                   = 0
-  | level                 = 4
   | password              = 98049038
   | effect_types          = Trigger
-  | lore                  = If this card [[attack]]s, [[destroy]] 1 [[Spell Card|Spell]] or [[Trap Card]] at the end of the [[Battle Phase]] if you [[control]] another "[[roid]]" [[Monster Card|monster]].
+  | lore                  = At the end of your [[Battle Phase]], if this card [[battle]]d: [[Target]] 1 [[Spell]]/[[Trap]] on the [[field]]; [[destroy]] that target. You must [[control]] another "[[roid]]" [[monster]] to [[activate]] and to [[resolve]] this [[effect]].
   | fr_lore               = Si cette carte attaque, détruisez 1 Carte Magie ou Piège à la fin de la Battle Phase si vous contrôlez un autre monstre "roid".
   | de_lore               = Falls diese Karte angreift, zerstöre 1 Zauber- oder Fallenkarte am Ende der Battle Phase, falls du ein anderes „roid“-Monster kontrollierst.
   | it_lore               = Se questa carta attacca, distruggi 1 Carta Magia o Trappola alla fine della Battle Phase se controlli un altro mostro "roid".
@@ -58,5 +58,5 @@ wikitext: |-
   * Destroys Trap Cards
   | fm_for                = Super Vehicroid - Stealth Union
   | database_id           = 6741
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

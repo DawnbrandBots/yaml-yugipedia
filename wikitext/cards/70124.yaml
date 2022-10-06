@@ -10,7 +10,7 @@ wikitext: |-
   | ja_name               = コアラッコ
   | romaji_name           = Koarakko
   | trans_name            = Koala-Otter
-  | image                 = SeaKoala-BP03-EN-C-1E.png
+  | image                 = SeaKoala-SGX2-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Beast / Effect
   | level                 = 2
@@ -18,7 +18,7 @@ wikitext: |-
   | def                   = 1600
   | password              = 87685879
   | effect_types          = Ignition
-  | lore                  = [[Once per turn]]: You can [[target]] 1 [[Monster Card|monster]] your opponent [[control]]s; change its [[ATK]] to 0 until the end of this turn. You must control a [[Beast]]-[[Type]] monster (other than this card) to [[activate]] and to [[resolve]] this [[effect]].
+  | lore                  = [[Once per turn]]: You can [[target]] 1 [[face-up]] [[Monster Card|monster]] your opponent [[control]]s; change that target's [[ATK]] to 0 until the end of this turn. You must control another [[Beast]] monster to [[activate]] and to [[resolve]] this [[effect]].
   | fr_lore               = Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0. Vous devez contrôler un monstre de Type Bête (cette carte exclue) pour activer et résoudre cet effet.
   | de_lore               = Einmal pro Spielzug, falls du ein anderes Monster vom Typ Ungeheuer kontrollierst, kannst du die ATK eines Monsters, das dein Gegner kontrolliert, bis zur End Phase auf 0 reduzieren.
   | it_lore               = Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; riduci il suo ATK a 0 fino alla fine di questo turno. Devi controllare un mostro di Tipo Bestia (oltre a questa carta) per attivare e risolvere questo effetto.
@@ -66,5 +66,5 @@ wikitext: |-
   * Limited activations
   * Requires control of specific Type
   | database_id           = 7437
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

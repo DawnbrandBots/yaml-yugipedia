@@ -9,7 +9,7 @@ wikitext: |-
   | es_name               = Catapulta Oscura
   | ja_name               = ダーク・カタパルター
   | romaji_name           = Dāku Kataparutā
-  | image                 = DarkCatapulter-DR04-NA-C-UE.png
+  | image                 = DarkCatapulter-SGX2-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
   | level                 = 4
@@ -17,7 +17,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 33875961
   | effect_types          = Trigger, Ignition
-  | lore                  = During your [[Standby Phase]], if this card is in [[Defense Position]], put 1 [[Counter (counter)|counter]] on this card. You can [[Banish|remove from play]] a number of card(s) in your [[Graveyard]] equal to the number of counters on this card to [[destroy]] that many [[Spell Card|Spell]] or [[Trap Card]](s) on the [[field]]. Then remove all counter(s) from this card.
+  | lore                  = [[Once per turn]], during your [[Standby Phase]], if this card is in [[Defense Position]]: Place 1 [[Counter (counter)|counter]] on this card. You can [[banish]] cards in your [[GY]] equal to the number of counters on this card, then [[target]] that many Spells/[[Traps]] on the [[field]]; [[destroy]] them, then remove all counters from this card.
   | fr_lore               = Durant votre Standby Phase, si cette carte est en Position de Défense, mettez 1 compteur sur cette carte. Retirez du jeu un nombre de cartes de votre Cimetière égal au nombre de compteurs sur cette carte pour détruire le même nombre de Cartes Magie ou Piège sur le Terrain. Retirez ensuite tous les compteurs de cette carte.
   | de_lore               = Während deiner Standby Phase, falls diese Karte in Verteidigungsposition ist, lege 1 Zählmarke auf diese Karte. Entferne eine Anzahl von Karten in Höhe der Zählmarken auf dieser Karte aus deinem Friedhof aus dem Spiel, um die gleiche Anzahl von Zauber- oder Fallenkarten auf dem Spielfeld zu zerstören. Dann entferne alle Zählmarken von dieser Karte.
   | it_lore               = Durante la tua Standby Phase, se questa carta è in Posizione di Difesa, metti 1 Segnalino su questa carta. Rimuovi dal gioco un numero di carte nel tuo Cimitero pari al numero di Segnalini su questa carta per distruggere lo stesso numero di Carte Magia o Trappola sul Terreno. Dopo di che rimuovi tutti i Segnalini da questa carta.
@@ -69,5 +69,5 @@ wikitext: |-
   * Destroys Trap Cards
   | banished              = Banishes from your Graveyard
   | database_id           = 6392
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

@@ -10,15 +10,15 @@ wikitext: |-
   | ja_name               = {{Ruby|雷|らい}}{{Ruby|魔|ま}}{{Ruby|神|しん}}－サンガ
   | romaji_name           = Raimashin - Sanga
   | trans_name            = Demonic Thunder Deity - Sanga
-  | image                 = SangaoftheThunder-LCJW-EN-C-1E.png
+  | image                 = SangaoftheThunder-SGX2-EN-C-1E.png
   | attribute             = LIGHT
   | types                 = Thunder / Effect
   | level                 = 7
   | atk                   = 2600
   | def                   = 2200
   | password              = 25955164
-  | effect_types          = Quick, Condition
-  | lore                  = During [[damage calculation]] in your opponent's [[turn]], if this card is being [[attack]]ed: You can [[target]] the attacking [[monster]]; make that target's [[ATK]] 0 during damage calculation only (this is a [[Quick Effect]]). This [[effect]] can only be used once while this card is [[face-up]] on the [[field]].
+  | effect_types          = Quick
+  | lore                  = Once while [[face-up]] on the [[field]], during [[damage calculation]] in your opponent's [[turn]], if this card is being [[attack]]ed ([[Quick Effect]]): You can [[target]] the attacking [[monster]]; make that target's [[ATK]] 0 during damage calculation only.
   | fr_lore               = Durant le calcul des dommages du tour de votre adversaire, si cette carte est attaquée : vous pouvez cibler le monstre attaquant ; durant le calcul des dommages uniquement, l'ATK de la cible devient 0 (ceci est un Effet Rapide). Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.
   | de_lore               = Während der Schadensberechnung im Spielzug deines Gegners, falls diese Karte angegriffen wird: Du kannst das angreifende Monster wählen; die ATK des gewählten Ziels werden nur während der Schadensberechnung zu 0. (Dies ist ein Schnelleffekt.) Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.
   | it_lore               = Durante il calcolo dei danni nel turno del tuo avversario, se questa carta sta venendo attaccata: puoi scegliere come bersaglio il mostro attaccante; fai diventare 0 l'ATK di quel bersaglio solamente durante il calcolo dei danni (questo è un Effetto Rapido). Questo effetto può essere utilizzato una sola volta mentre questa carta è scoperta sul Terreno.
@@ -81,5 +81,5 @@ wikitext: |-
   | stat_change           = Reduces ATK to 0
   | misc                  = Once while face-up on the field
   | database_id           = 4377
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

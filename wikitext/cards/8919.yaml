@@ -8,12 +8,12 @@ wikitext: |-
   | ja_name               = {{Ruby|幻|げん}}{{Ruby|惑|わく}}の{{Ruby|巻|まき}}{{Ruby|物|もの}}
   | romaji_name           = Genwaku no Makimono
   | it_name               = Pergamena della Malia
-  | image                 = ScrollofBewitchment-DB1-EN-C-UE.jpg
+  | image                 = ScrollofBewitchment-SGX2-EN-C-1E.png
   | property              = Equip
   | card_type             = Spell
   | password              = 10352095
   | effect_types          = Continuous-like
-  | lore                  = [[Select]] 1 [[Attribute]]. Change the Attribute of the [[equip]]ped [[monster]] to the one you select.
+  | lore                  = [[Activate]] this card by declaring 1 Attribute; the [[equip]]ped [[monster]] becomes that Attribute.
   | fr_lore               = Sélectionnez 1 Attribut lorsque vous Activez cette carte. Changez l'Attribut du monstre équipé par celui que vous avez sélectionné.
   | de_lore               = Wähle 1 Eigentschaft, wenn du diese Karte aktivierst. Ändere die Eigentschaft des Monsters, das mit dieser Karte ausgerüstet wird, in die gewählte Eigentschaft.
   | it_lore               = Seleziona 1 Attributo quando attivi questa carta. Cambia l'Attributo del Mostro equipaggiato con quello da te selezionato.
@@ -61,5 +61,5 @@ wikitext: |-
   | action                = Declares an Attribute
   | stat_change           = Changes Attribute
   | database_id           = 5211
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

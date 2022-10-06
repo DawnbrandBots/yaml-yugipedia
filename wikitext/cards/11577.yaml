@@ -1,6 +1,5 @@
 title: Pikeru's Circle of Enchantment
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Cercle d'Enchantement de Pikeru
   | de_name               = Pikerus Kreis der Verzauberung
@@ -11,12 +10,12 @@ wikitext: |2-
   | ja_name               = ピケルの{{Ruby|魔|ま}}{{Ruby|法|ほう}}{{Ruby|陣|じん}}
   | romaji_name           = Pikeru no Mahōjin
   | trans_name            = Pikeru's Magic Circle
-  | image                 = PikerusCircleofEnchantment-CP03-EN-R-UE.jpg
+  | image                 = PikerusCircleofEnchantment-SGX2-EN-C-1E.png
   | card_type             = Trap
   | property              = Normal
   | password              = 74270067
   | effect_types          = Effect
-  | lore                  = [[Damage]] to you from card [[effect]]s becomes 0 until the end of this [[turn]].
+  | lore                  = You take no [[effect damage]] until the end of this [[turn]].
   | fr_lore               = Jusqu'à la fin de ce tour, les dommages qui vous sont infligés par des effets de cartes deviennent 0.
   | de_lore               = Schaden durch Karteneffekte, der dem Spieler, der diese Karte kontrolliert, bis zur End Phase dieses Spielzugs zugefügt wird, wird zu 0.
   | it_lore               = Il danno al controllore di questa carta per gli effetti di carte diventa 0 fino alla End Phase di questo turno.
@@ -66,5 +65,5 @@ wikitext: |2-
   '''[[Pack 34 (YGOO-BP)|Pack 34]]'''
   | life_points           = Prevents effect damage
   | database_id           = 6224
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

@@ -12,15 +12,15 @@ wikitext: |-
   | es_name               = Rescueroid
   | ja_name               = レスキューロイド
   | romaji_name           = Resukyūroido
-  | image                 = Rescueroid-YSDS-EN-C-1E.png
+  | image                 = Rescueroid-SGX2-EN-C-1E.png
   | attribute             = FIRE
   | types                 = Machine / Effect
+  | level                 = 6
   | atk                   = 1600
   | def                   = 1800
-  | level                 = 6
   | password              = 24311595
   | effect_types          = Trigger
-  | lore                  = When a "[[roid]]" [[Monster Card|monster]] you [[control]] is [[destroyed by battle]] and [[sent]] to the [[Graveyard]], you can [[return]] that monster to its [[owner]]'s [[hand]].
+  | lore                  = When a "[[roid]]" [[monster]] you [[control]] is [[destroyed by battle]] and [[sent]] to the [[GY]]: You can [[return]] that monster to the [[hand]]. You must control this [[face-up]] card on the [[field]] to [[activate]] and to [[resolve]] this [[effect]].
   | fr_lore               = Tant que cette carte est face recto sur votre Terrain, lorsqu'un monstre sur votre Terrain qui inclut "roid" dans son nom de carte est détruit à l'issue d'un combat et envoyé au Cimetière, vous pouvez renvoyer ce monstre dans la main.
   | de_lore               = Solange diese Karte offen auf deiner Spielfeldseite liegt und wenn ein Monster auf deiner Spielfeldseite, dessen Kartenname „roid“ enthält, als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, kannst du dieses Monster auf die Hand zurückgeben.
   | it_lore               = Fino a quando questa carta è scoperta sul tuo Terreno, quando un mostro sul tuo Terreno che include "roid" nel suo nome viene distrutto in seguito ad una battaglia e mandato al Cimitero, puoi far ritornare quel mostro nella tua mano.
@@ -64,5 +64,5 @@ wikitext: |-
   * Adds from Graveyard to hand
   | fm_for                = Ambulance Rescueroid
   | database_id           = 6745
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

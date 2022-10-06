@@ -9,18 +9,18 @@ wikitext: |-
   | es_name               = Luchador UFOroid
   | ja_name               = ユーフォロイド・ファイター
   | romaji_name           = Yūforoido Faitā
-  | image                 = UFOroidFighter-DR04-NA-R-UE.png
+  | image                 = UFOroidFighter-SGX2-EN-C-1E.png
   | attribute             = LIGHT
   | types                 = Machine / Fusion / Effect
+  | level                 = 10
   | atk                   = ?
   | def                   = ?
-  | level                 = 10
   | password              = 32752319
   | fusion_material       = 
   * UFOroid
   | materials             = "UFOroid" + 1 Warrior-Type monster
   | effect_types          = Summoning condition, Continuous
-  | lore                  = "[[UFOroid]]" + 1 [[Warrior]]-[[Type]] [[monster]]<br />A [[Fusion Summon]] of this card can only be conducted with the above [[Fusion Material|Fusion Material Monsters]]. The [[original ATK and DEF]] of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.
+  | lore                  = "[[UFOroid]]" + 1 [[Warrior]] [[monster]]<br />A [[Fusion Summon]] of this card can only be done with the above [[Fusion Material]]s. The [[original ATK and DEF|original ATK/DEF]] of this card become the combined original ATK of the 2 materials used for its Fusion Summon.
   | fr_lore               = "UFOroid" + 1 monstre de Type Guerrier<br />Une Invocation Fusion de cette carte ne peut être réalisée qu'avec les Monstres-Matériels de Fusion ci-dessus. L'ATK et la DEF d'origine de cette carte sont égales à l'ATK originale combinée des 2 Monstres-Matériels de Fusion utilisés pour l'Invocation Fusion de cette carte.
   | de_lore               = „UFOroid“ + 1 Monster vom Typ Krieger<br />Eine Fusionsbeschwörung dieses Monsters kann nur mit den oben genannten Fusionsmaterial-Monstern durchgeführt werden. Die Grund-ATK und -DEF dieser Karte werden zur Summe der Grund-ATK der beiden Fusionsmaterial-Monster, die du für die Fusionsbeschwörung dieser Karte benutzt hast.
   | it_lore               = "UFOroid" + 1 mostro di Tipo Guerriero<br />L'Evocazione per Fusione di questa carta può essere effettuata solo con i Mostri Materiale da Fusione sopra riportati. ATK e DEF originali di questa carta diventano la somma degli ATK originali dei 2 Mostri Materiale da Fusione usati per l'Evocazione per Fusione di questa carta.
@@ -72,5 +72,5 @@ wikitext: |-
   * Requires Type specific Fusion Materials
   * Must be Fusion Summoned with listed Fusion Materials
   | database_id           = 6395
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

@@ -1,6 +1,5 @@
 title: Unshaven Angler
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Baudroie Barbue
   | de_name               = Bärtiger Anglerfisch
@@ -11,15 +10,15 @@ wikitext: |2-
   | ja_name               = ヒゲアンコウ
   | romaji_name           = Higeankou
   | trans_name            = Bearded Anglerfish
-  | image                 = UnshavenAngler-DR3-EN-C-UE.png
+  | image                 = UnshavenAngler-SGX2-EN-C-1E.png
   | attribute             = WATER
   | types                 = Fish / Effect
+  | level                 = 4
   | atk                   = 1500
   | def                   = 1600
-  | level                 = 4
   | password              = 92084010
   | effect_types          = Unclassified
-  | lore                  = When [[Tribute Summon]]ing a [[WATER]] [[monster]], you can treat this 1 monster as 2 [[Tribute]]s.
+  | lore                  = This card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[WATER]] [[monster]].
   | fr_lore               = Si vous faites l'Invocation Sacrifice d'un monstre EAU, vous pouvez traiter cet unique monstre comme 2 Monstres Sacrifices pour l'Invocation Sacrifice.
   | de_lore               = Wenn du ein WASSER Monster als Tributbeschwörung beschwörst, kannst du dieses Monster als 2 Tributmonster für diese Tributbeschwörung behandeln.
   | it_lore               = Se Evochi con una Evocazione tramite Tributo un mostro ACQUA, puoi considerare questo mostro come 2 Tributi per l'Evocazione tramite Tributo.
@@ -69,5 +68,5 @@ wikitext: |2-
   | supports              = WATER
   | summoning             = Treated as multiple Tributes
   | database_id           = 6120
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

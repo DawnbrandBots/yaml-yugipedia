@@ -1,22 +1,20 @@
 title: Labyrinth of Nightmare (card)
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Labyrinthe du Cauchemar
   | ko_name               = 악몽의 미궁
-  | name                  = Labyrinth of Nightmare
   | de_name               = Labyrinth des Alptraums
   | it_name               = Labirinto dell'Incubo
   | pt_name               = Labirinto do Pesadelo
   | es_name               = Laberinto de la Pesadilla
   | ja_name               = {{Ruby|悪|あく}}{{Ruby|夢|む}}の{{Ruby|迷|めい}}{{Ruby|宮|きゅう}}
   | romaji_name           = Akumu no Meikyū
-  | image                 = LabyrinthofNightmare-BP02-EN-C-1E.png
+  | image                 = LabyrinthofNightmare-SGX2-EN-C-1E.png
   | card_type             = Trap
   | property              = Continuous
   | password              = 66526672
   | effect_types          = Trigger-like
-  | lore                  = [[Once per turn]], during each player's [[End Phase]]: Change the [[battle position]]s of all [[face-up]] [[monster]]s the [[turn player]] [[control]]s.
+  | lore                  = [[Once per turn]], during the [[End Phase]]: Change the [[battle position]]s of all [[face-up]] [[monster]]s the [[turn player]] [[control]]s.
   | fr_lore               = Une fois par tour, durant la End Phase de chaque joueur : changez la position de combat de tous les monstres face recto contrôlés par le joueur du tour.
   | de_lore               = Ändere während der End Phase jedes Spielzugs die Positionen aller offenen Monster auf der Spielfeldseite des Spielers, der am Zug ist.
   | it_lore               = Una volta per turno, durante l'End Phase di ogni giocatore: cambia la posizione di tutti i mostri scoperti che il giocatore di turno controlla.
@@ -66,5 +64,5 @@ wikitext: |2-
   '''[[Roar of Demise (NTR-BP)|Roar of Demise]]'''
   | action                = Changes battle positions
   | database_id           = 6070
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

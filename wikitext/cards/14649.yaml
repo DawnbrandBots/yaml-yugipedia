@@ -1,6 +1,5 @@
 title: Supercharge
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Super Charge
   | de_name               = Superladung
@@ -10,12 +9,12 @@ wikitext: |2-
   | es_name               = Súper Carga
   | ja_name               = スーパーチャージ
   | romaji_name           = Sūpāchāji
-  | image                 = Supercharge-HSRD-EN-C-1E.png
+  | image                 = Supercharge-SGX2-EN-C-1E.png
   | card_type             = Trap
   | property              = Normal
   | password              = 97705809
   | effect_types          = Activation requirement, Effect
-  | lore                  = When your opponent [[declare]]s an [[attack]] while the only [[Monster Card|monsters]] you [[control]] are [[Machine]]-[[Type]] "[[roid]]" monster(s): [[Draw a card|Draw]] 2 cards.
+  | lore                  = If an opponent's [[monster]] [[declare]]s an [[attack]] while all [[monsters]] you [[control]] are [[Machine]] "[[roid]]" monsters (min. 1): [[Draw a card|Draw]] 2 cards.
   | fr_lore               = Lorsque votre adversaire déclare une attaque tant que les seuls monstres que vous contrôlez sont des monstres "roid" de Type Machine : piochez 2 cartes.
   | de_lore               = Wenn dein Gegner einen Angriff deklariert, solange die einzigen Monster, die du kontrollierst, ein oder mehr „roid“-Monster vom Typ Maschine sind: Ziehe 2 Karten.
   | it_lore               = Quando il tuo avversario [[Declare|dichiara]] un attacco mentre i soli mostri che [[control]]li sono mostri "[[roid]]" di Tipo [[Machine|Macchina]]: [[Draw a card|pesca]] 2 carte.
@@ -69,5 +68,5 @@ wikitext: |2-
   * Activates upon attack declaration
   * You draw cards
   | database_id           = 6747
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

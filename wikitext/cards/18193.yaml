@@ -1,6 +1,5 @@
 title: Weapon Change
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Changement d'Arme
   | de_name               = Waffenwechsel
@@ -10,12 +9,12 @@ wikitext: |2-
   | es_name               = Cambio de Arma
   | ja_name               = ウェポンチェンジ
   | romaji_name           = Wepon Chenji
-  | image                 = WeaponChange-SD10-EN-C-UE.png
+  | image                 = WeaponChange-SGX2-EN-C-1E.png
   | card_type             = Spell
   | property              = Continuous
-  | effect_types          = Trigger-like
   | password              = 10035717
-  | lore                  = Once during each of your [[Standby Phase]]s: You can [[pay]] 700 [[Life Points]], then [[target]] 1 [[Warrior]] or [[Machine]]-[[Type]] [[Monster Card|monster]] you [[control]]; switch the current [[ATK]] and [[DEF]] of that target until the end of your opponent's next [[turn]].
+  | effect_types          = Trigger-like
+  | lore                  = Once during each of your [[Standby Phase]]s: You can [[pay]] 700 [[LP]], then [[target]] 1 [[Warrior]] or [[Machine]] [[monster]] you [[control]]; switch the current [[ATK]] and [[DEF]] of that target until the end of your opponent's next [[turn]].
   | fr_lore               = Une fois uniquement durant chacune de vos Standby Phases, Vous pouvez payer 700 Life Points pour activer l'effet de cette carte. Echangez l'ATK et la DEF d'1 monstre de Type Guerrier ou Machine sur votre Terrain jusqu'à la fin du prochain tour de votre adversaire. Lorsque cette carte est détruite, l'effet est annulé.
   | de_lore               = Du kannst einmal in deinem [[Turn|Spielzug]] während deiner [[Standby Phase]] 700 [[Life Points]] zahlen, um den [[Effect|Effekt]] dieser Karte zu [[Activate|aktivieren]]. Tausche die [[ATK]] und [[DEF]] eines [[Monster Card|Monsters]] vom [[Type|Typ]] [[Warrior|Krieger]] oder [[Machine|Maschine]] auf deiner [[Field|Spielfeldseite]] bis zum Ende des nächsten Spielzugs deines Gegners. Wenn diese Karte [[Destroy|zerstört]] wird, wird dieser Effekt [[Negate|annulliert]].
   | it_lore               = Una volta durante ogni tua Standby Phase, puoi pagare 700 Life Points per attivare l'effetto di questa carta. Scambia ATK e DEF di 1 mostro di Tipo Guerriero o Macchina sul tuo Terreno, fino alla fine del prossimo turno del tuo avversario. Quando questa carta viene distrutta, l'effetto è annullato.
@@ -72,5 +71,5 @@ wikitext: |2-
   * Limited activations
   * Requires control of specific Type
   | database_id           = 5981
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}
