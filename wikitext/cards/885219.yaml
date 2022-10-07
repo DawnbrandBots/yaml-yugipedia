@@ -1,7 +1,5 @@
 title: Dragonic Pendulum
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property            = Field
   | password            = 71817640
   | effect_types        = Continuous-like, Condition, Trigger-like, Trigger-like
-  | lore                = All "[[Dracoslayer]]" [[monsters]] on the field gain 300 [[ATK]]/[[DEF]]. You can only use each of the following [[effect]]s of "Dragonic Pendulum" [[once per turn]]. If a [[Dragon]] "Dracoslayer" monster you control [[activate]]s its [[effect]]: You can [[target]] 1 card on the [[field]]; [[destroy]] it. If this card on the field is destroyed: You can take 1 "Dracoslayer" or "[[Dracoverlord]]" monster from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it.
+  | lore                = All "[[Dracoslayer]]" [[monsters]] on the field gain 300 [[ATK]]/[[DEF]]. You can only use each of the following [[effect]]s of "Dragonic Pendulum" [[once per turn]]. If a [[Dragon]] "Dracoslayer" monster you control [[activate]]s its [[effect]] (except during the [[Damage Step]]): You can [[target]] 1 card on the [[field]]; [[destroy]] it. If this card on the field is destroyed: You can either [[Add a card|add]] to your [[hand]] or [[Special Summon]] 1 "Dracoslayer" or "[[Dracoverlord]]" monster from your [[Main Deck|Deck]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -26,6 +24,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドの「竜剣士」モンスターの攻撃力・守備力は３００アップする。②：自分フィールドのドラゴン族の「竜剣士」モンスターが効果を発動した場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。③：フィールドのこのカードが破壊された場合に発動できる。デッキから「竜剣士」モンスターまたは「竜魔王」モンスター１体を選び、手札に加えるか特殊召喚する。
   | ko_lore             = 
+  | en_sets               = 
+  DABL-EN065; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR065; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE065; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT065; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT065; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP065; Darkwing Blast; Common
   | jp_sets             = 
   DABL-JP065; Darkwing Blast; Common
   | supports            = Dragon

@@ -1,7 +1,5 @@
-title: Tearlaments Heartbeats
+title: Tearlaments Heartbeat
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = TearlamentsHeartbeats-DABL-JP-C.png
+  | image               = TearlamentsHeartbeat-DABL-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
   | password            = 60362066
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = [[Target]] 1 [[Spell]]/[[Trap]] on the [[field]], or up to 2 instead if you [[control]] "[[Visas Starfrost]]"; [[shuffle]] them into the [[Main Deck|Deck]], then [[send]] 1 card from your [[hand]] to the [[GY]]. If this card is sent to the GY by card [[effect]]: You can target 1 "[[Tearlaments]]" Trap in your GY; [[Add a card|add]] it to your hand. You can only use 1 "Tearlaments Heartbeats" effect per [[turn]], and only once that turn.
+  | lore                = [[Target]] 1 [[Spell]]/[[Trap]] on the [[field]], or you can target 2 if you [[control]] "[[Visas Starfrost]]"; [[shuffle]] them into the [[Main Deck|Deck]], then [[send]] 1 card from your [[hand]] to the [[GY]]. If this card is sent to the GY by card [[effect]]: You can target 1 "[[Tearlaments]]" Trap in your GY; [[Add a card|add]] it to your hand. You can only use 1 "Tearlaments Heartbeat" effect per [[turn]], and only once that turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -27,6 +25,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを持ち主のデッキに戻す。その後、自分の手札を１枚選んで墓地へ送る。自分フィールドに「ヴィサス＝スタフロスト」が存在する場合、この効果の対象を２枚にできる。②：このカードが効果で墓地へ送られた場合、自分の墓地の「ティアラメンツ」罠カード１枚を対象として発動できる。そのカードを手札に加える。
   | ko_lore             = 
+  | en_sets               = 
+  DABL-EN057; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR057; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE057; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT057; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT057; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP057; Darkwing Blast; Common
   | jp_sets             = 
   DABL-JP057; Darkwing Blast; Common
   | supports            = Visas Starfrost

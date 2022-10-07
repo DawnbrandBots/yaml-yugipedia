@@ -1,7 +1,5 @@
 title: Han-Shi Kyudo Spirit
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -23,8 +21,8 @@ wikitext: |-
   | password              = 53270092
   | pendulum_effect_types = Trigger-like
   | effect_types          = Trigger, Trigger
-  | pendulum_effect       = If a [[Monster Card|monster]](s) is [[Pendulum Summon]]ed: [[Return]] this card from the [[Pendulum Zone]] to the [[hand]].
-  | lore                  = When this card is [[Normal Summon]]ed: You can return as many of your cards in the same [[column]]s as your cards in the Pendulum Zone as possible to the hand, then you can [[add]] 1 monster with 2400 ATK/1000 DEF from your [[Main Deck|Deck]] to your hand, except "Han-Shi Kyudo Spirit". [[Once per turn]], during the [[End Phase]], if this card was Normal Summoned or [[flip]]ped [[face-up]] this [[turn]]: Return this card to the [[hand]].
+  | pendulum_effect       = If a [[Monster Card|monster]](s) is [[Pendulum Summon]]ed: [[Return]] this card to the [[hand]].
+  | lore                  = When this card is [[Normal Summon]]ed: You can return all cards you [[control]] in the same [[column]] as the cards in your Pendulum Zones to the hand (including the Pendulum Zone cards themselves), then you can [[add]] 1 monster with 2400 ATK/1000 DEF from your [[Main Deck|Deck]] to your hand, except "Han-Shi Kyudo Spirit". [[Once per turn]], during the [[End Phase]], if this card was Normal Summoned or [[flip]]ped [[face-up]] this [[turn]]: Return this card to the [[hand]].
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -39,6 +37,18 @@ wikitext: |-
   | ja_lore               = ①：このカードが召喚に成功した時に発動できる。自分のＰゾーンのカードと同じ縦列の自分のカードを全て持ち主の手札に戻す。その後、デッキから「キュウドウ魂 ＨＡＮ－ＳＨＩ」以外の攻撃力２４００／守備力１０００のモンスター１体を手札に加える事ができる。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。
   | ko_pendulum_effect    = 
   | ko_lore               = 
+  | en_sets               = 
+  DABL-EN032; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR032; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE032; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT032; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT032; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP032; Darkwing Blast; Common
   | jp_sets               = 
   DABL-JP032; Darkwing Blast; Common
   | archseries            = Martial Art Spirit

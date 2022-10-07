@@ -1,7 +1,5 @@
-title: Simult Archfiends
+title: Simul Archfiends
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name            = Simult Daemons
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SimultArchfiends-DABL-JP-R.png
+  | image                 = SimulArchfiends-DABL-JP-R.png
   | card_type             = Trap
   | property              = Normal
   | password              = 94423983
-  | effect_types          = 
-  | lore                  = Neither player can [[Special Summon]] [[Monster Card|monsters]] of the same type ([[Ritual Monster|Ritual]]/[[Fusion Monster|Fusion]]/[[Synchro Monster|Synchro]]/[[Xyz Monster|Xyz]]/[[Link Monster|Link]]) as a monster they [[control]] for the rest of this [[turn]], also, unless you control 2 or more monsters of the same type (Ritual/Fusion/Synchro/Xyz/Link), all Ritual, Fusion, Synchro, Xyz, and Link Monsters you currently control gain 500 [[ATK]]. You can only activate 1 "Simult Archfiends" per turn.
+  | effect_types          = Effect, Condition
+  | lore                  = This [[turn]], neither player can [[Special Summon]] [[Monster Card|monsters]] with the same card types ([[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster|Link]]) they already [[control]]. If you do not control 2 or more of the same card types (Ritual, Fusion, Synchro, Xyz, or Link), all Ritual, Fusion, Synchro, Xyz, and Link Monsters you currently control gain 500 [[ATK]]. You can only activate 1 "Simul Archfiends" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +24,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このターン、お互いに自身のフィールドのモンスターと同じ種類（儀式・融合・Ｓ・Ｘ・リンク）のモンスターを特殊召喚できない。自分フィールドに儀式・融合・Ｓ・Ｘ・リンクモンスターのいずれも２体以上存在しない場合、自分フィールドの全ての儀式・融合・Ｓ・Ｘ・リンクモンスターの攻撃力は５００アップする。
   | ko_lore               = 
+  | en_sets               = 
+  DABL-EN078; Darkwing Blast; Super Rare
+  | fr_sets               = 
+  DABL-FR078; Darkwing Blast; Super Rare
+  | de_sets               = 
+  DABL-DE078; Darkwing Blast; Super Rare
+  | it_sets               = 
+  DABL-IT078; Darkwing Blast; Super Rare
+  | pt_sets               = 
+  DABL-PT078; Darkwing Blast; Super Rare
+  | sp_sets               = 
+  DABL-SP078; Darkwing Blast; Super Rare
   | jp_sets               = 
   DABL-JP078; Darkwing Blast; Rare
   | supports              = 

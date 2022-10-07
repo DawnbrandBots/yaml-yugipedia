@@ -1,6 +1,5 @@
 title: Turbo-Tainted Hot Rod GT19
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +19,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 16769305
   | effect_types          = Trigger, Quick, Condition
-  | lore                  = FLIP: You can [[declare]] a [[Level]] from 1 to 9; this card becomes that Level until the end of this [[turn]].<br />During the [[Main Phase]], if you control this card that was flipped [[face-up]] ([[Quick Effect]]): You can [[target]] 1 other face-up [[monster]] on either player's [[field]]; immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] using only this card and that target. You can only use 1 "Turbo-Tainted Hot Rod GT19" effect per turn, and only once that turn.
+  | lore                  = FLIP: You can [[declare]] a [[Level]] from 1 to 9; this card becomes that Level until the end of this [[turn]].<br />After this card has been flipped [[face-up]], during any [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 other face-up [[monster]] on either [[field]]; immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] 1 monster using only this card and that target. You can only use 1 "Turbo-Tainted Hot Rod GT19" effect per turn, and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,6 +27,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、１～９までの任意のレベルを宣言して発動できる。このカードのレベルはターン終了時まで宣言したレベルになる。②：リバースしたこのカードが表側表示で存在する場合、自分・相手のメインフェイズに、このカード以外の自分・相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのみを素材としてＳ召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  DABL-EN034; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR034; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE034; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT034; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT034; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP034; Darkwing Blast; Common
   | jp_sets               = 
   DABL-JP034; Darkwing Blast; Common
   | database_id           = 17789

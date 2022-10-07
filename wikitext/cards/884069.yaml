@@ -1,7 +1,5 @@
 title: Scareclaw Twinsaw
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -19,7 +17,7 @@ wikitext: |-
   | property            = Normal
   | password            = 95245571
   | effect_types        = Effect, Quick-like, Condition
-  | lore                = [[Tribute]] 1 "[[Scareclaw]]" [[monster]], then [[target]] 2 cards your opponent [[control]]s; [[destroy]] them, and if you [[control]] "[[Visas Starfrost]]", [[banish]] them. If a [[Link Rating|Link]]-3 or higher monster is on the [[field]]: You can banish this card from your [[GY]]; neither player can [[activate]] the [[effect]]s of [[Link Monster]]s on the field this [[turn]]. You can only activate 1 "Scareclaw Twinsaw" per turn.
+  | lore                = [[Tribute]] 1 "[[Scareclaw]]" [[monster]], then [[target]] 2 cards your opponent [[control]]s; [[destroy]] them, and if you do, if you [[control]] "[[Visas Starfrost]]", [[banish]] those destroyed cards instead of sending them to the [[GY]]. If a [[Link Rating|Link]]-3 or higher monster is on the [[field]]: You can banish this card from your [[GY]]; for the rest of this [[turn]], neither player can [[activate]] the [[effect]]s of [[Link Monster]]s on the field. You can only activate 1 "Scareclaw Twinsaw" per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -27,6 +25,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「スケアクロー」モンスター１体をリリースし、相手フィールドのカード２枚を対象として発動できる。そのカードを破壊する。自分フィールドに「ヴィサス＝スタフロスト」が存在する場合、この効果で破壊したカードは墓地へは行かず除外される。②：フィールドにリンク３以上のモンスターが存在する場合、墓地のこのカードを除外して発動できる。このターン、フィールドのリンクモンスターは効果を発動できない。
   | ko_lore             = 
+  | en_sets               = 
+  DABL-EN075; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR075; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE075; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT075; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT075; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP075; Darkwing Blast; Common
   | jp_sets             = 
   DABL-JP075; Darkwing Blast; Common
   | supports            = 

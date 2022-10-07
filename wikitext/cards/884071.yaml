@@ -1,7 +1,5 @@
-title: Kshatri-La Prepare
+title: Kashtira Preparations
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = KshatriLaPrepare-DABL-JP-C.png
+  | image               = KashtiraPreparations-DABL-JP-C.png
   | card_type           = Trap
   | property            = Continuous
   | password            = 21639276
   | effect_types        = Quick-like, Trigger-like, Condition
-  | lore                = During either player's [[turn]]: You can [[Special Summon]] 1 of your "[[Kshatri-La]]" [[monsters]] that is [[banish]]ed or in your [[hand]]. If your opponent [[activate]]s a [[Trap Card]] or [[effect]] while this card is already [[face-up]] in your [[Spell & Trap Zone]], and you [[control]] a "Kshatri-La" monster (except during the [[Damage Step]]): You can look at your opponent's hand and banish 1 card from it [[face-down]]. You can only use each [[effect]] of "Kshatri-La Prepare" [[once per turn]].
+  | lore                = During either player's [[turn]]: You can [[Special Summon]] 1 of your "[[Kashtira]]" [[monsters]] that is [[banish]]ed or in your [[hand]]. If your opponent [[activate]]s a [[Trap Card]] or [[effect]], you [[control]] a "Kashtira" monster, and this card is already [[face-up]] in your [[Spell & Trap Zone]]: You can look at your opponent's hand, and if you do, banish 1 card from it [[face-down]]. You can only use each [[effect]] of "Kashtira Preparations" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -26,10 +24,22 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに発動できる。手札のモンスター及び除外されている自分のモンスターの中から、「クシャトリラ」モンスター１体を選んで特殊召喚する。②：このカードが既に魔法＆罠ゾーンに存在する状態で、相手が罠カードの効果を発動した場合に、自分フィールドに「クシャトリラ」モンスターが存在していれば発動できる。相手の手札を確認し、その内の１枚を選んで裏側表示で除外する。
   | ko_lore             = 
+  | en_sets               = 
+  DABL-EN076; Darkwing Blast; Common
+  | fr_sets               = 
+  DABL-FR076; Darkwing Blast; Common
+  | de_sets               = 
+  DABL-DE076; Darkwing Blast; Common
+  | it_sets               = 
+  DABL-IT076; Darkwing Blast; Common
+  | pt_sets               = 
+  DABL-PT076; Darkwing Blast; Common
+  | sp_sets               = 
+  DABL-SP076; Darkwing Blast; Common
   | jp_sets             = 
   DABL-JP076; Darkwing Blast; Common
-  | archseries          = Kshatri-La
-  | supports_archetypes = Kshatri-La
+  | archseries          = Kashtira
+  | supports_archetypes = Kashtira
   | action              = Reveals your opponent's hand
   | summoning           = 
   * Special Summons the player's banished monsters
