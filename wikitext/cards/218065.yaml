@@ -1,15 +1,16 @@
 title: Planet Pathfinder
 wikitext: |-
   {{CardTable2
-  | tc_name               = 行星探查車
   | fr_name               = Explorateur Planétaire
   | de_name               = Planetenerkunder
   | it_name               = Ricognitore Planetario
-  | ko_name               = 플래닛 패스파인더
   | pt_name               = Explorador Planetário
   | es_name               = Pathfinder Planetario
   | ja_name               = {{Ruby|惑星探査車|プラネット・パスファインダー}}
   | romaji_name           = Puranetto Pasufaindā
+  | ko_name               = 플래닛 패스파인더
+  | tc_name               = 行星探查車
+  | sc_name               = 行星探查车
   | image                 = PlanetPathfinder-MAGO-EN-R-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
@@ -27,6 +28,7 @@ wikitext: |-
   | ja_lore               = ①：このカードをリリースして発動できる。デッキからフィールド魔法カード１枚を手札に加える。
   | ko_lore               = ①: 이 카드를 릴리스하고 발동할 수 있다. 덱에서 필드 마법 카드 1장을 패에 넣는다.
   | tc_lore               = 可释放此卡并发动。从牌组将1张场地魔法卡加入手牌。
+  | sc_lore               = ①：解放此卡可以发动。从牌组将1张场地魔法卡加入手牌。
   | en_sets               = 
   ABYR-EN010; Abyss Rising; Common
   SR03-EN013; Machine Reactor Structure Deck; Common
@@ -54,11 +56,13 @@ wikitext: |-
   ABYR-JP010; Abyss Rising; Common
   SR03-JP013; Structure Deck R: Machine Dragon Re-Volt; Common
   21TP-JP205; Tournament Pack 2021 Vol.2; Common
-  | tc_sets               = 
-  ABYR-TC010; Abyss Rising; Common
   | kr_sets               = 
   ABYR-KR010; Abyss Rising; Common
   SR03-KR013; Structure Deck R: Machine Dragon Re-Volt; Common
+  | tc_sets               = 
+  ABYR-TC010; Abyss Rising; Common
+  | sc_sets               = 
+  TM01-SC088; Theme Pack: War of Infinite Machine; Rare
   | supports              = Field Spell Card
   | action                = 
   * Tributes itself for cost
