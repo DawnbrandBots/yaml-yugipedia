@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 200
   | password              = 
   | effect_types          = Ignition, Trigger, Condition
-  | lore                  = You can reveal this card and 1 Fiend monster in your hand; Special Summon 1 of them and discard the other. When a monster is destroyed by battle involving your Fiend monster, while this card is in your GY: You can add this card to your hand. You can only use each effect of "Zalamander Catalyzer" once per turn.
+  | lore                  = You can [[reveal]] this card and 1 [[Fiend]] [[Monster Card|monster]] in your [[hand]]; [[Special Summon]] 1 of them and [[discard]] the other. When a monster is [[destroyed by battle]] involving your Fiend monster, while this card is in your [[GY]]: You can [[add]] this card to your hand. You can only use each [[effect]] of "Zalamander Catalyzer" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -39,6 +39,20 @@ wikitext: |-
   DABL-PT082; Darkwing Blast; Common
   | sp_sets               = 
   DABL-SP082; Darkwing Blast; Common
+  | supports              = Fiend
+  | action                = 
+  * Reveals itself in the hand for cost
+  * Reveals your hand for cost
+  * Activates from your hand
+  * Discards itself as an effect
+  * You discard as an effect
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

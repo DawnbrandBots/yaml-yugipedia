@@ -16,13 +16,12 @@ wikitext: |-
   | image                 = AbyssActorSuperProducer-PHHY-JP-OP.png
   | attribute             = DARK
   | types                 = Fiend / Link / Effect
-  | link_rating           = 2
   | link_arrows           = Bottom-Left, Bottom-Right
   | atk                   = 1600
   | password              = 
   | effect_types          = 
   | materials             = 2 monsters, including a Fiend monster
-  | lore                  = 2 monsters, including a Fiend monster<br/>During the Main Phase (Quick Effect): You can target 1 face-up card you control; destroy it, then you can apply 1 of these effects.<br/>● Place 1 "Abyss Playhouse - Fantastic Theater" from your Deck in your Field Zone.<br/>● Place 1 "Abyss Actor" Pendulum Monster from your Deck in your Pendulum Zone.<br/>You can only use this effect of "Abyss Actor - Super Producer" once per turn.
+  | lore                  = 2 [[Monster Card|monsters]], including a [[Fiend]] monster<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 [[face-up]] card you [[control]]; [[destroy]] it, then you can apply 1 of these [[effect]]s.<br />● Place 1 "[[Abyss Playhouse - Fantastic Theater]]" from your [[Main Deck|Deck]] in your [[Field Zone]].<br />● Place 1 "[[Abyss Actor]]" [[Pendulum Monster]] from your Deck in your Pendulum Zone.<br />You can only use this effect of "Abyss Actor - Super Producer" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -39,10 +38,18 @@ wikitext: |-
   | archseries            = Abyss Actor
   | supports_archetypes   = Abyss Actor
   | action                = 
-  | stat_change           = 
+  * Places cards from Deck in Field Zone
+  * Places from Deck to Pendulum Zone
   | m/s/t                 = 
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
   | summoning             = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
   | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

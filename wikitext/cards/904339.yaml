@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Normal 
   | password              = 
   | effect_types          = Effect, Trigger-like, Condition
-  | lore                  = Target 1 "Abyss Actor" Pendulum Monster you control; Special Summon 1 "Abyss Actor" Pendulum Monster with a different name from your Deck, then either place the targeted monster in your Pendulum Zone or destroy it. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up "Abyss Actor" Pendulum Monster in your Extra Deck: You can return up to 2 cards on the field to the hand. You can only activate 1 "Abyss Script - Dramatic Story" per turn.
+  | lore                  = [[Target]] 1 "[[Abyss Actor]]" [[Pendulum Monster]] you [[control]]; [[Special Summon]] 1 "[[Abyss Actor]]" Pendulum Monster with a different name from your [[Main Deck|Deck]], then either place the targeted monster in your [[Pendulum Zone]] or [[destroy]] it. If this [[Set]] card in its [[owner]]'s control is destroyed by an opponent's [[card effect]], and you have a [[face-up]] "Abyss Actor" Pendulum Monster in your [[Extra Deck]]: You can [[return]] up to 2 cards on the [[field]] to the [[hand]]. You can only [[activate]] 1 "Abyss Script - Dramatic Story" [[once per turn|per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,8 +31,16 @@ wikitext: |-
   | archseries            = Abyss Script
   | supports_archetypes   = Abyss Actor
   | action                = 
-  | m/s/t                 = 
+  * Places from field to Pendulum Zone
+  * Activates if destroyed while Set
+  * Activates if destroyed by card effect
+  * Returns from field to hand
+  | m/s/t                 = Destroys your face-up Monster Cards
+  | summoning             = Special Summons from your Deck
   | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

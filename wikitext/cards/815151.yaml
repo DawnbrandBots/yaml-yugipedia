@@ -16,7 +16,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect
-  | lore                  = All face-up monsters your opponent currently controls cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon, until the end of this turn.
+  | lore                  = All [[face-up]] [[Monster Card|monsters]] your opponent currently [[control]]s cannot be [[Tribute]]d, or used as [[material]] for a [[Fusion Summon|Fusion]], [[Synchro Summon|Synchro]], [[Xyz Summon|Xyz]], or [[Link Summon]], until the end of this [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -36,6 +36,12 @@ wikitext: |-
   DABL-PT000; Darkwing Blast; Secret Rare
   | sp_sets               = 
   DABL-SP000; Darkwing Blast; Secret Rare
+  | action                = Cannot be Tributed
+  | summoning             = 
+  * Cannot be used as a Fusion Material
+  * Cannot be used as a Synchro Material
+  * Cannot be used as an Xyz Material
+  * Cannot be used as a Link Material
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

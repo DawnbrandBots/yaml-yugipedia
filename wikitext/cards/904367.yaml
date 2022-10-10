@@ -18,8 +18,9 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 1600
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Trigger, Condition
-  | lore                  = 1 Tuner + 1+ non-Tuner monsters<br />If this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower Pendulum Monster from your hand or face-up from your Extra Deck. At the end of the Damage Step, when this card or your Pendulum Monster battles an opponent's monster, but the opponent's monster was not destroyed by the battle: You can destroy that opponent's monster. You can only use each effect of "Tilting Entrainment" once per turn.
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[Monster Card|monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Special Summon]] 1 [[Level]] 4 or lower [[Pendulum Monster]] from your [[hand]] or [[face-up]] from your [[Extra Deck]]. At the end of the [[Damage Step]], when this card or your Pendulum Monster [[battle]]s an opponent's monster, but the opponent's monster was not [[destroyed by battle|destroyed by the battle]]: You can [[destroy]] that opponent's monster. You can only use each [[effect]] of "Tilting Entrainment" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -39,19 +40,16 @@ wikitext: |-
   DABL-PT083; Darkwing Blast; Common
   | sp_sets               = 
   DABL-SP083; Darkwing Blast; Common
-  | database_id           = 
-  | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   | supports              = Pendulum Monster
-  | action                = 
-  * Activates upon Synchro Summon
+  | action                = Activates upon Synchro Summon
+  | m/s/t                 = Destroys your opponent's Monster Cards
   | summoning             = 
   * 1 or more non-Tuner Synchro Materials
-  * Does not require specific Tuner Synchro Materials
   * Does not require specific Synchro Materials
   * Special Summons from your hand
   * Special Summons from your Extra Deck
-  | m/s/t                 = 
-  * Destroys your opponent's Monster Cards
   | misc                  = Only once per turn
+  | database_id           = 
+  | tcg_status            = Not yet released
+  | ocg_status            = Not yet released
   }}
