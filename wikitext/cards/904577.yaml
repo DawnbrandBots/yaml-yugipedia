@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 
   | effect_types          = Summoning condition, Ignition, Trigger, Condition
-  | materials             = 2+ Level 8 monsters
+  | materials             = 2 or more Level 8 monsters
   | lore                  = 2+ [[Level]] 8 [[Monster Card|monster]]s<br />[[Once per turn]], you can also [[Xyz Summon]] "Gigantic "Champion" Sargas" by using 1 "[[Springans]]" [[Xyz Monster]] you [[control]]. ([[Transfer]] its [[material]]s to this card.) If this card has material: You can [[Add a card|add]] 1 "Springans" or "[[Therion]]" card from your [[Main Deck|Deck]] to your [[hand]]. If a material(s) is [[detach]]ed from a monster on the [[field]]: You can [[target]] 1 card on the field; either [[destroy]] it or [[return]] it to the hand. You can only use each effect of "Gigantic "Champion" Sargas" once per turn.
   | fr_lore               = 
   | de_lore               = 
@@ -32,10 +32,28 @@ wikitext: |-
   | jp_sets               = 
   PHHY-JP045; Photon Hypernova; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
   PHHY-JP045; Photon Hypernova +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
+  | supports              = Xyz Monster
   | supports_archetypes   = 
   * Springans
   * Therion
   | related_to_archseries = Spright
+  | action                = 
+  * Transfers
+  * Applies effects if Xyz Material is attached
+  * Adds from Deck to hand
+  * Returns from field to hand
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Does not have effects which detach Xyz Materials for cost
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

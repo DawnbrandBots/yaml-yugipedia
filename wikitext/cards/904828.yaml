@@ -27,10 +27,24 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP077; Photon Hypernova; 
+  | supports              = Fiend
   | archseries            = 
   * Labrynth
   * Welcome Labrynth (archetype)
   | supports_archetypes   = Labrynth
+  | action                = 
+  * Returns from your field to your hand
+  * Activates from your Graveyard
+  * Returns from your opponent's field to your opponent's hand
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Level
+  * Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
