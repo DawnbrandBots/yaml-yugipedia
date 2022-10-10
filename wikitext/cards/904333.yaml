@@ -23,8 +23,8 @@ wikitext: |-
   | password              = 
   | pendulum_effect_types = 
   | effect_types          = 
-  | pendulum_effect       = When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of "Abyss Actor - Liberty Dramatist" once per turn. 
-  | lore                  = If this card is Special Summoned from the Pendulum Zone: This card's owner reveals 3 "Abyss Script" Spells from their Deck, their opponent randomly picks 1 of them for this card's owner to Set to their field (but it is destroyed during the End Phase), also the rest are shuffled back into the Deck. If this card is destroyed: You can shuffle 1 "Abyss Script" Spell from your GY into the Deck. You can only use each effect of "Abyss Actor - Liberty Dramatist" once per turn.
+  | pendulum_effect       = When a [[Monster Card|monster]] [[declare]]s an [[attack]]: You can [[discard]] 1 card; [[Special Summon]] this card to your opponent's [[field]]. You can only use this [[effect]] of "Abyss Actor - Liberty Dramatist" [[once per turn]].
+  | lore                  = If this card is [[Special Summon]]ed from the [[Pendulum Zone]]: This card's [[owner]] [[reveal]]s 3 "[[Abyss Script]]" [[Spell]]s from their [[Main Deck|Deck]], their opponent randomly picks 1 of them for this card's owner to [[Set]] to their [[field]] (but it is [[destroy]]ed during the [[End Phase]]), also the rest are [[shuffle]]d back into the Deck. If this card is destroyed: You can shuffle 1 "Abyss Script" Spell from your [[GY]] into the Deck. You can only use each [[effect]] of "Abyss Actor - Liberty Dramatist" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,14 +34,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP016; Photon Hypernova; 
-  | supports              = 
   | archseries            = Abyss Actor
   | supports_archetypes   = Abyss Script
   | action                = 
-  | stat_change           = 
-  | m/s/t                 = 
-  | summoning             = 
-  | misc                  = 
+  * Activates upon attack declaration
+  * You discard for cost
+  * Activates upon Special Summon
+  * Reveals cards from your Deck
+  * Sets from your Deck
+  * Activates if destroyed
+  * Returns from your Graveyard to your Deck
+  | m/s/t                 = Destroys your Spell Cards
+  | summoning             = Special Summons itself from your Pendulum Zone to your opponent's field
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
