@@ -28,8 +28,23 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP073; Photon Hypernova; 
+  | supports              = 
+  * LIGHT
+  * DARK
+  | anti-supports         = 
+  * LIGHT
+  * DARK
   | archseries            = Branded
   | supports_archetypes   = Bystial
+  | action                = Activates if targeted by card effect
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | banished              = Banishes from Graveyard
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

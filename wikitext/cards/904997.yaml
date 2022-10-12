@@ -19,7 +19,8 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2000
   | password              = 
-  | materials             = "Fallen of Albaz" + 1 Beast, Beast-Warrior, or Winged Beast monster
+  | fusion_material       = Fallen of Albaz
+  | materials             = "Fallen of Albaz" + 1 Beast, Beast-Warrior, or Winged Beast-Type monster
   | effect_types          = Quick, Quick, Condition
   | lore                  = "[[Fallen of Albaz]]" + 1 [[Beast]], [[Beast-Warrior]], or [[Winged Beast]] [[monster]]<br />When a [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]]'s effect is [[activate]]d ([[Quick Effect]]): You can [[negate]] that effect, then you can [[return]] 1 monster on the [[field]] to the [[hand]]. During your opponent's [[turn]], if this card is in your [[GY]] (Quick Effect): You can [[target]] 1 "Fallen of Albaz" in your GY; if both are still in your GY, [[Special Summon]] either that monster or this card, and if you do, [[banish]] the other. You can only use each [[effect]] of "Lindwurm the Gunhammer Dragon" [[once per turn]].
   | fr_lore               = 
@@ -31,11 +32,34 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP034; Photon Hypernova; 
-  | supports              = Fallen of Albaz
+  | supports              = 
+  * Fallen of Albaz
+  * Beast
+  * Beast-Warrior
+  * Winged Beast
+  | anti-supports         = 
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
   | archseries            = Albaz Dragon
   | related_to_archseries =
   * Springans
   * Tri-Brigade
+  | action                = 
+  * Returns from field to hand
+  * Activates from your Graveyard
+  | m/s/t                 = Negates the effects of Effect Monsters
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons itself from your Graveyard
+  | banished              = 
+  * Banishes from your Graveyard
+  * Banishes itself from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
