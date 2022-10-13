@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 1500
   | password            = 
   | effect_types        = Quick, Condition, Continuous, Continuous
-  | lore                = During the Main Phase, if you control a "Traptrix" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect and Plant monsters. You can only use this effect of "Traptrix Arachnocampa" once per turn. Unaffected by the effects of "Hole" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed.
+  | lore                = During the [[Main Phase]], if you [[control]] a "[[Traptrix]]" [[Monster Card|monster]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]], also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except [[Insect]] and [[Plant]] monsters. You can only use this [[effect]] of "Traptrix Arachnocampa" [[once per turn]]. [[Unaffected]] by the effects of "[[Hole]]" [[Normal Trap]]s. The first time each [[Set]] card in your [[Spell & Trap Zone]] would be [[destroy]]ed by card effect each [[turn]], it is not destroyed.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,11 +31,25 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   SD45-JP002; Structure Deck: Forest of the Traptrix; 
+  | supports            = 
+  * Insect
+  * Plant
   | archseries          = Traptrix
   | supports_archetypes = 
   * Hole
   * Trap Hole (archetype)
   * Traptrix
+  | action              = Activates from your hand
+  | m/s/t               = 
+  * Unaffected by Trap Cards
+  * Prevents other cards being destroyed by card effects
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
