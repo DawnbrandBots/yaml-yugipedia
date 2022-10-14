@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 3
   | atk                   = 500
   | def                   = 100
-  | password              = 
+  | password              = 99801464
   | effect_types          = Quick, Condition
   | lore                  = ([[Quick Effect]]): You can [[target]] 1 [[face-up]] [[monster]] on the [[field]]; [[equip]] this card from your [[hand]] or [[field]] to it as an [[Equip Spell]] that gives it 100 [[ATK]]/[[DEF]]. You can only use this [[effect]] of "Silver-Winged AXE-Sarry" [[once per turn]].
   | fr_lore               = 
@@ -30,6 +30,15 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP026; Photon Hypernova; Common
+  | action                = 
+  * Activates from your hand
+  * Equips self from hand
+  * Equips self from field
+  | m/s/t                 = Treated as Equip Card
+  | stat_change           = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

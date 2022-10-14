@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 1
   | atk                   = 0
   | def                   = 0
-  | password              = 
+  | password              = 52254878
   | effect_types          = Continuous, Ignition, Condition
   | lore                  = Cannot be [[destroyed by battle]] with a [[monster]] with the same [[Type]] or [[Attribute]]. You can [[declare]] 1 Type and 1 Attribute; this card becomes that Type and Attribute, until the end of your opponent's [[turn]]. You can only use this [[effect]] of "Dimensional Isoallotope Varis" [[once per turn]].
   | fr_lore               = 
@@ -30,6 +30,16 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP028; Photon Hypernova; Common
+  | action                = 
+  * Declares a Type
+  * Declares an Attribute
+  | stat_change           = 
+  * Changes own Type
+  * Changes own Attribute
+  | attack                = Cannot be destroyed by battle
+  | misc                  = 
+  * Turn limited effects
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

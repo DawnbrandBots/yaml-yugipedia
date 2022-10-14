@@ -20,7 +20,8 @@ wikitext: |-
   | atk                   = 2900
   | def                   = 2400
   | password              = 
-  | materials             = "Dark Magician" + 1 Level 7 or higher Dragon or Warrior monster
+  | fusion_material       = Dark Magician
+  | materials             = "Dark Magician" + 1 Level 7 or higher Dragon or Warrior-Type monster
   | effect_types          = Continuous, Trigger, Trigger
   | lore                  = "[[Dark Magician]]" + 1 [[Level]] 7 or higher [[Dragon]] or [[Warrior]] [[monster]]<br />If your monster [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent. [[Once per turn]], when your monster [[destroy]]s an opponent's monster [[Destroyed by battle|by battle]]: You can inflict [[Effect damage|damage]] to your opponent equal to the destroyed monster's [[original ATK]]. If this card is destroyed: You can [[Special Summon]] 1 "Dark Magician" and 1 "[[Gaia the Dragon Champion]]" from your [[hand]], [[Main Deck|Deck]], [[Extra Deck]], and/or [[GY]].
   | fr_lore               = 
@@ -34,11 +35,31 @@ wikitext: |-
   SUB1-JP001; Secret Utility Box; Super Rare, Secret Rare
   | supports              = 
   * Dark Magician
+  * Dragon
+  * Warrior
   * Gaia the Dragon Champion
-  | archseries            = Dark Magician (archetype)
+  | archseries            = 
+  * Dark Magician (archetype)
+  * Prophecy
   | related_to_archseries = 
   * Gaia the Dragon Champion (archetype)
+  * Gaia The Fierce Knight (archetype)
   * Ultimate Magical
+  | action                = 
+  * Activates if it destroys a monster by battle
+  * Activates if destroyed
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | attack                = Piercing
+  | life_points           = Damages your opponent
+  | misc                  = Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

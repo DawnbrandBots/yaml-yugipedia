@@ -19,7 +19,7 @@ wikitext: |-
   | level                 = 6
   | atk                   = 1400
   | def                   = 1000
-  | password              = 
+  | password              = 90027012
   | effect_types          = Trigger, Condition
   | lore                  = If this card is [[Summon]]ed: You can [[Add a card|add]] 1 [[Ritual Monster]] and 1 [[Ritual Spell]] from your [[Main Deck|Deck]] to your hand. You can only use this [[effect]] of "Choju of the Trillion Hands" [[once per turn]].
   | fr_lore               = 
@@ -31,6 +31,15 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP023; Photon Hypernova; 
+  | supports              = 
+  * Ritual Monster
+  * Ritual Spell Card
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

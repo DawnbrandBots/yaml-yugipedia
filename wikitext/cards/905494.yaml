@@ -19,7 +19,7 @@ wikitext: |-
   | level                 = 6
   | atk                   = 2300
   | def                   = 1000
-  | password              = 
+  | password              = 64538914
   | effect_types          = Ignition, Ignition, Condition
   | lore                  = During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Fissure]]" or 1 "[[Smashing Ground]]" from your [[Main Deck|Deck]] to your [[hand]]. If this card is in your [[GY]]: You can [[banish]] 1 "Fissure" or 1 "Smashing Ground" from your hand or GY; [[Special Summon]] this card. You can only use each [[effect]] of "Manticore of Smashing" [[once per turn]].
   | fr_lore               = 
@@ -34,6 +34,14 @@ wikitext: |-
   | supports              = 
   * Fissure
   * Smashing Ground
+  | action                = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | summoning             = Special Summons itself from your Graveyard
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from field for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

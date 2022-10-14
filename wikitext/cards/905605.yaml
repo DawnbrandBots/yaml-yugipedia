@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 流星連打－シロクロイド
-  | romaji_name           = 
+  | ja_name               = {{Ruby|流星連打|メテオラッシュ}}－シロクロイド
+  | romaji_name           = Meteorasshu - Shirokuroido
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = MeteorushBlackwhiteroid-PHHY-JP-NR.png
@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 10
   | atk                   = 0
   | def                   = 0
-  | password              = 
+  | password              = 99748883
   | effect_types          = Quick, Condition, Continuous
   | lore                  = During the [[Battle Phase]], if 5 or more [[attack]]s were [[declare]]d this [[turn]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. You can only use this [[effect]] of "Meteorush - Blackwhiteroid" [[once per turn]]. If this card [[battle]]s, it gains 1000 [[ATK]] for each attack the [[turn player]] declared this turn, during the [[Damage Step]] only.
   | fr_lore               = 
@@ -31,6 +31,10 @@ wikitext: |-
   | jp_sets               = 
   PHHY-JP029; Photon Hypernova; Normal Rare
   | archseries            = roid
+  | action                = Activates from your hand
+  | stat_change           = This card gains ATK
+  | summoning             = Special Summons itself from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

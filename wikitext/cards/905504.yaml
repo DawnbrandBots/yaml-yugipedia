@@ -17,7 +17,7 @@ wikitext: |-
   | types                 = Cyberse / Link / Effect
   | link_arrows           = Bottom-Center, Top-Center
   | atk                   = 2200
-  | password              = 
+  | password              = 73898890
   | effect_types          = Trigger, Quick, Condition
   | materials             = 2 monsters, including a Ritual Monster
   | lore                  = 2 [[Monster Card|monsters]], including a [[Ritual Monster]]<br />If this card is [[Special Summon]]ed: You can [[target]] 1 card on the [[field]] and 1 [[Ritual Monster]] in your [[GY]]; [[shuffle]] both cards into the [[Main Deck|Deck]]. During your opponent's turn ([[Quick Effect]]): You can [[Tribute]] this card, then target 1 Ritual Monster in your GY; either [[Add a card|add]] it to your [[hand]] or Special Summon it. You can only use each effect of "Dyna Mond" [[once per turn]].
@@ -30,6 +30,18 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP050; Photon Hypernova; 
+  | supports              = Ritual Monster
+  | action                = 
+  * Activates upon Special Summon
+  * Returns from field to Deck
+  * Returns from your Graveyard to your Deck
+  * Tributes itself for cost
+  * Adds from Graveyard to hand
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Ritual Monsters as Link Materials
+  * Special Summons from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -8,15 +8,15 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 
-  | romaji_name           = Tochi Korogashi
+  | ja_name               = {{Ruby|土|と}}{{Ruby|地|ち}}ころがし
+  | romaji_name           = Tochikorogashi
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = RepeatedLandTransaction-PHHY-JP-NR.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 61264008
   | effect_types          = Effect, Condition
   | lore                  = [[Target]] 1 [[face-up]] card in the [[Field Zone]]; [[banish]] it, then place it face-up in the Field Zone of the opponent of the player who [[control]]led it, then you can choose 1 Field Spell with a different original name in the [[GY]] of the player who now controls the first card and place it face-up in the Field Zone of the player who controlled the first card when it was banished. You can only [[activate]] 1 "Repeated Land Transaction" per [[turn]].
   | fr_lore               = 
@@ -30,11 +30,13 @@ wikitext: |-
   PHHY-JP070; Photon Hypernova; 
   | supports              = Field Spell
   | anti-supports         = Field Spell
-  | archseries            = 
   | action                = 
+  * Returns banished cards to the field
+  * Places cards from your Graveyard in your opponent's Field Zone
+  * Places cards from your opponent's Graveyard in your Field Zone
+  | banished              = 
   * Banishes from your field
   * Banishes from your opponent's field
-  | summoning             = 
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
