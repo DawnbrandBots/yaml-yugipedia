@@ -1,7 +1,7 @@
 title: Cyber Blade Fusion
 wikitext: |-
   {{CardTable2
-  | fr_name             = 
+  | fr_name             = Fusion Cyber Lame
   | de_name             = Fusion der Cyber-Klinge
   | it_name             = 
   | pt_name             = 
@@ -12,8 +12,8 @@ wikitext: |-
   | types               = Alexis / Skill
   | skill_activation    = Flip this card over when you activate this Skill.
   | lore                = [[Once per turn]], you can [[discard]] 1 card to [[Fusion Summon]] 1 "[[Cyber Blader]]" by sending either "[[Etoile Cyber]]" or "[[Blade Skater]]" from your [[field]] to the [[GY]] as 1 [[Fusion Material]], and the other material from your [[hand]], field, or [[Main Deck|Deck]] to the GY. That "Cyber Blader" gains 400 [[ATK]]. This Skill can be used twice per Duel.
-  | fr_skill_activation = 
-  | fr_lore             = 
+  | fr_skill_activation = Retournez cette carte lorsque vous activez cette Compétence.
+  | fr_lore             = Une fois par tour, vous pouvez défausser 1 carte pour Invoquer par Fusion 1 "Cyber Trancheuse" en envoyant soit "Cyber, Danseuse Étoile" soit "Patineuse à Lame" depuis votre Terrain au Cimetière comme 1 Matériel Fusion, et l'autre Matériel depuis votre main, Terrain ou Deck au Cimetière. Ce "Cyber Trancheuse" gagne 400 ATK. Cette Compétence peut être utilisée deux fois par Duel.
   | de_skill_activation = Drehe diese Karte um, wenn du diese Fähigkeit aktivierst.
   | de_lore             = Einmal pro Spielzug kannst du 1 Karte abwerfen, um 1 „Cyber-Klingen“ als Fusionsbeschwörung zu beschwören, indem du entweder „Etoile Cyber“ oder „Klingenläuferin“ von deiner Spielfeldseite als Fusionsmaterial auf den Friedhof und das andere Material von deiner Hand, deiner Spielfeldseite oder deinem Deck auf den Friedhof legst. Der „Cyber-Klingen“ erhält 400 ATK. Diese Fähigkeit kann zweimal pro Duell verwendet werden.
   | it_skill_activation = 
@@ -52,6 +52,7 @@ wikitext: |-
   * Uses cards on the player's field as Fusion Materials
   * Uses cards in the hand as Fusion Materials
   * Uses cards in the player's Deck as Fusion Materials
+  * Must include particular Fusion Materials
   | stat_change         = Your monsters gain ATK
   | summoning           = 
   * Performs a Fusion Summon

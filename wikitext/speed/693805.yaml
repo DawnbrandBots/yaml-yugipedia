@@ -1,5 +1,6 @@
 title: Ritual Ceremony
 wikitext: |-
+  {{Unprinted erratum|the [https://yugiohblog.konami.com/2022/09/skill-card-text-update/ Skill Card Text Update]}}
   {{CardTable2
   | fr_name             = Cérémonie Rituelle
   | de_name             = Ritualzeremonie
@@ -11,7 +12,7 @@ wikitext: |-
   | character           = Emma (Duel Links)
   | types               = Emma / Skill
   | skill_activation    = Flip this card over when you activate this Skill.
-  | lore                = [[Activate]] this [[Skill Card|Skill]] during your [[Main Phase]]. You can [[reveal]] 1 [[Ritual Monster]] from your [[hand]], then [[Add a card|add]] 1 [[Ritual Spell Card|Ritual Spell]] from your [[Main Deck|Deck]] to your hand whose name is listed on that Ritual Monster. This Skill can only be used once per Duel.
+  | lore                = Once per Duel, during your [[Main Phase]], you can [[reveal]] 1 [[Ritual Monster]] from your [[hand]], [[Add a card|add]] 1 [[Ritual Spell]] from your [[Main Deck|Deck]] to your hand whose name is mentioned on that Ritual Monster, then place 1 card from your hand on the bottom of your Deck.
   | fr_skill_activation = Retournez cette carte lorsque vous activez cette Compétence.
   | fr_lore             = Activez cette Compétence durant votre Main Phase. Vous pouvez révéler 1 Monstre Rituel depuis votre main, puis ajoutez 1 Magie Rituelle depuis votre Deck à votre Main dont le nom est listé sur le Monstre Rituel. Cette Compétence ne peut être utilisée qu'une fois par Duel.
   | de_skill_activation = Drehe diese Karte um, wenn du diese Fähigkeit aktivierst.
@@ -25,26 +26,33 @@ wikitext: |-
   | en_sets             = 
   SBTK-ENSP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-ENS18; Speed Duel: Battle City Box; Common
+  STP4-ENS06; Speed Duel Tournament Pack 4; 
   | fr_sets             = 
   SBTK-FRSP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-FRS18; Speed Duel: Battle City Box; Common
+  STP4-FRS06; Speed Duel Tournament Pack 4; 
   | de_sets             = 
   SBTK-DESP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-DES18; Speed Duel: Battle City Box; Common
+  STP4-DES06; Speed Duel Tournament Pack 4; 
   | it_sets             = 
   SBTK-ITSP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-ITS18; Speed Duel: Battle City Box; Common
+  STP4-ITS06; Speed Duel Tournament Pack 4; 
   | pt_sets             = 
   SBTK-PTSP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
+  STP4-PTS06; Speed Duel Tournament Pack 4; 
   | sp_sets             = 
   SBTK-SPSP7; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-SPS18; Speed Duel: Battle City Box; Common
+  STP4-SPS06; Speed Duel Tournament Pack 4; 
   | supports            = 
   * Ritual Monster
   * Ritual Spell Card
   | action              = 
   * Reveals your hand for cost
   * Adds from Deck to hand
+  * Places cards from the player's hand on the bottom of the Deck
   | misc                = 
   * Mentions
   * Only once per Duel

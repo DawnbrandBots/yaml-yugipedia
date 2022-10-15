@@ -1,5 +1,6 @@
 title: Fusion Party!
 wikitext: |-
+  {{Unprinted erratum|the [https://yugiohblog.konami.com/2022/09/skill-card-text-update/ Skill Card Text Update]}}
   {{CardTable2
   | fr_name             = Fête de la Fusion !
   | de_name             = Fusionsparty!
@@ -11,7 +12,7 @@ wikitext: |-
   | character           = Christine
   | types               = Christine / Skill
   | skill_activation    = Flip this card over when you activate this Skill.
-  | lore                = [[Activate]] this [[Skill Card|Skill]] during your [[Main Phase]]. You can [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using [[Monster Card|monsters]] from your [[hand]] or [[field]] as [[Fusion Material]]. This Skill can only be used once per Duel.
+  | lore                = Once per Duel, during your [[Main Phase]], you can [[discard]] 1 card, then [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[hand]] or [[field]] as [[material]].
   | fr_skill_activation = Retournez cette carte lorsque vous activez cette Compétence.
   | fr_lore             = Activez cette Compétence durant votre Main Phase. Vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain comme Matériel Fusion. Cette Compétence ne peut être utilisée qu'une fois par Duel.
   | de_skill_activation = Drehe diese Karte um, wenn du diese Fähigkeit aktivierst.
@@ -25,22 +26,29 @@ wikitext: |-
   | en_sets             = 
   SBTK-ENSP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-ENS17; Speed Duel: Battle City Box; Common
+  STP4-ENS04; Speed Duel Tournament Pack 4; 
   | fr_sets             = 
   SBTK-FRSP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-FRS17; Speed Duel: Battle City Box; Common
+  STP4-FRS04; Speed Duel Tournament Pack 4; 
   | de_sets             = 
   SBTK-DESP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-DES17; Speed Duel: Battle City Box; Common
+  STP4-DES04; Speed Duel Tournament Pack 4; 
   | it_sets             = 
   SBTK-ITSP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-ITS17; Speed Duel: Battle City Box; Common
+  STP4-ITS04; Speed Duel Tournament Pack 4; 
   | pt_sets             = 
   SBTK-PTSP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
+  STP4-PTS04; Speed Duel Tournament Pack 4; 
   | sp_sets             = 
   SBTK-SPSP6; Speed Duel: Trials of the Kingdom Sneak Peek participation cards; Common
   SBCB-SPS17; Speed Duel: Battle City Box; Common
+  STP4-SPS04; Speed Duel Tournament Pack 4; 
   | supports              = Fusion Monster
   | action                = 
+  * You discard as an effect
   * Sends from your hand to your Graveyard
   * Sends from your field to your Graveyard
   * Uses cards on the player's field as Fusion Materials

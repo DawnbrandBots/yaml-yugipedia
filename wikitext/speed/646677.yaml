@@ -1,5 +1,6 @@
 title: Spell Proof Armor
 wikitext: |-
+  {{Unprinted erratum|the [https://yugiohblog.konami.com/2022/09/skill-card-text-update/ Skill Card Text Update]}}
   {{CardTable2
   | fr_name             = Armure Pare-Magie
   | de_name             = Zaubersichere Rüstung
@@ -9,12 +10,12 @@ wikitext: |-
   | image               = SpellProofArmor-SBSC-EN-SR-1E.png
   | image2              = BanditKeith-SkillCard-EN-Back.png
   | character           = Bandit Keith
-  | types                 = Keith / Skill
+  | types               = Keith / Skill
   | skill_activation    = Flip this card over when you activate this Skill.
-  | lore                = [[Activate]] this [[Skill Card|Skill]] during your [[Main Phase]]. All [[Machine]] [[Monster Card|monsters]] you [[control]] are [[unaffected]] by your opponent's [[Spell Card|Spell]] [[effect]]s. You can [[Normal Summon]] Machine [[Normal Monster]]s with 1 less Tribute. If a non-Machine monster is in your [[Graveyard|GY]], flip this Skill over. This Skill can only be used once per Duel.
+  | lore                = [[Activate]] this [[Skill Card|Skill]] during your [[Main Phase]] and apply the following:<br />● [[Machine]] [[Normal Monster]]s you [[control]] are [[unaffected]] by your opponent's [[Spell Card]]s or [[effect]]s.<br />● While you control no [[monsters]], you can [[Normal Summon]] Machine Normal Monsters with 1 less Tribute.<br />If you have a non-Machine monster on your [[field]] or [[GY]], flip this card over. This Skill can only be used once per Duel.
   | fr_skill_activation = 
   | fr_lore             = Activez cette Compétence durant votre Main Phase. Tous les monstres Machine que vous contrôlez ne sont pas affectés par les effets de Magie de votre adversaire. Vous pouvez Invoquer Normalement les Monstres Normaux Machine avec 1 Sacrifice en moins. Si un monstre non-Machine est dans votre Cimetière, retournez cette Compétence. Cette Compétence ne peut être utilisée qu'une fois par Duel.
-  | de_skill_activation = 
+  | de_skill_activation = Drehe diese Karte um, wenn du diese Fähigkeit aktivierst.
   | de_lore             = Aktiviere diese Fähigkeit während deiner Main Phase. Alle Maschine-Monster, die du kontrollierst, bleiben von Zaubereffekten deines Gegner unberührt. Du kannst Normale Maschine-Monster mit 1 Tribut weniger als Normalbeschwörung beschwören. Falls ein Nicht-Maschine-Monster in deinem Friedhof liegt, drehe diese Fähigkeit um. Diese Fähigkeit kann nur einmal pro Duell verwendet werden.
   | it_skill_activation = 
   | it_lore             = Attiva questa Abilità durante la tua Main Phase. Tutti i mostri Macchina se controlli sono immuni agli effetti delle Magie del tuo avversario. Puoi Evocare Normalmente 1 Mostri Macchina Normali con 1 Tributo in meno. Se nel tuo Cimitero c'è un mostro non-Macchina, gira questa Abilità. Questa Abilità può essere utilizzata una sola volta per Duello.
@@ -24,16 +25,22 @@ wikitext: |-
   | es_lore             = Activa esta Habilidad durante tu Main Phase. Todos los monstruos Máquina que controlas no son afectados por los efectos de Mágicas de tu adversario. Puedes Invocar de Modo Normal Monstruos Normales Máquina con 1 Sacrificio menos. Si un monstruos que no sea Máquina está en tu Cementerio, voltea esta Habilidad. Esta Habilidad sólo puede ser usada una vez por Duelo.
   | en_sets             = 
   SBSC-ENS02; Speed Duel: Scars of Battle; Super Rare
+  STP4-ENS03; Speed Duel Tournament Pack 4; 
   | fr_sets          = 
   SBSC-FRS02; Speed Duel: Scars of Battle; Super Rare
+  STP4-FRS03; Speed Duel Tournament Pack 4; 
   | de_sets          = 
   SBSC-DES02; Speed Duel: Scars of Battle; Super Rare
+  STP4-DES03; Speed Duel Tournament Pack 4; 
   | it_sets          = 
   SBSC-ITS02; Speed Duel: Scars of Battle; Super Rare
+  STP4-ITS03; Speed Duel Tournament Pack 4; 
   | pt_sets           = 
   SBSC-PTS02; Speed Duel: Scars of Battle; Super Rare
+  STP4-PTS03; Speed Duel Tournament Pack 4; 
   | sp_sets           = 
   SBSC-SPS02; Speed Duel: Scars of Battle; Super Rare
+  STP4-SPS03; Speed Duel Tournament Pack 4; 
   | supports          = 
   * Machine
   * Normal Monster
@@ -41,4 +48,5 @@ wikitext: |-
   * Normal Summon without Tribute
   * Normal Summon with 1 Tribute
   | m/s/t             = Unaffected by the opponent's Spell Cards
+  | misc              = Requires control of no monsters
   }}
