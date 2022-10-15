@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Ceremonial Water Mirror Focalization
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = AquamirrorFocalization-PHHY-JP-OP.png
+  | image                 = AquamirrorFocalization-PHHY-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 72386290
   | effect_types          = Effect, Trigger-like, Condition
   | lore                  = [[Add a card|Add]] 1 "[[Gishki]]" [[Monster Card|monster]] from your [[Main Deck|Deck]] to your [[hand]]. During the [[End Phase]], if you [[control]] a [[WATER]] [[Ritual Monster]]: You can [[banish]] this card from your [[Graveyard|GY]]; [[Set]] 1 "[[Aquamirror]]" [[Spell Card|Spell]]/[[Trap Card|Trap]] from your Deck or GY, except "Aquamirror Focalization". You can only use this [[effect]] of "Aquamirror Focalization" [[once per turn]].
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：デッキから「リチュア」モンスター１体を手札に加える。②：自分フィールドに水属性の儀式モンスターが存在する場合、自分・相手のエンドフェイズに、墓地のこのカードを除外して発動できる。自分のデッキ・墓地から「儀水鏡の集光」以外の「儀水鏡」魔法・罠カード１枚を選んで自分フィールドにセットする。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP067; Photon Hypernova; 
+  PHHY-JP067; Photon Hypernova; Common
   | supports              = 
   * WATER
   * Ritual Monster
@@ -44,7 +44,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 18212
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

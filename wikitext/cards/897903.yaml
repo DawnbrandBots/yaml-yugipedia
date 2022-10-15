@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Mental Tuner
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = MindTuner-PHHY-JP-OP.png
+  | image                 = MindTuner-PHHY-JP-C.png
   | attribute             = LIGHT
   | types                 = Psychic / Tuner / Effect
   | level                 = 3
   | atk                   = 200
   | def                   = 2100
-  | password              = 
+  | password              = 30291086
   | effect_types          = Ignition, Condition
   | lore                  = You can [[activate]] 1 of these [[effect]]s. You can only use this effect of "Mind Tuner" [[once per turn]].<br />● [[Banish]] up to 2 monsters from your hand and/or GY (1 [[LIGHT]] and 1 [[DARK]]); increase or decrease this card's [[Level]] by the number banished, until the end of this [[turn]].<br />● [[Target]] up to 2 of your banished monsters (1 LIGHT and 1 DARK); [[return]] them to the GY, and if you do, increase or decrease this card's Level by the number returned, until the end of this turn.
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。●光・闇属性モンスターをそれぞれ１体まで、自分の手札・墓地から除外して発動できる。ターン終了時までこのカードのレベルを、除外した数だけ上げる、または下げる。●除外されている自分の光・闇属性モンスターをそれぞれ１体まで対象として発動できる。そのモンスターを墓地に戻し、ターン終了時までこのカードのレベルを、戻した数だけ上げる、または下げる。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP012; Photon Hypernova; 
+  PHHY-JP012; Photon Hypernova; Common
   | supports              = 
   * LIGHT
   * DARK
@@ -45,7 +45,6 @@ wikitext: |-
   | misc                  = 
   * Variable effects
   * Only once per turn
-  | database_id           = 
+  | database_id           = 18157
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Giant Messiah
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = GiantAntlion-PHHY-JP-OP.png
+  | image                 = GiantAntlion-PHHY-JP-C.png
   | attribute             = EARTH
   | types                 = Insect / Effect
   | level                 = 3
   | atk                   = 1200
   | def                   = 1500
-  | password              = 
+  | password              = 39078434
   | effect_types          = Trigger, Condition, Trigger, Trigger
   | lore                  = [[Once per turn]], at the start of the [[Damage Step]], if an [[Insect]] [[monster]] [[battle]]s: You can [[target]] 1 card you [[control]] and 1 card your opponent controls; [[destroy]] them. You can only use each of the following [[effect]]s of "Giant Antlion" once per turn. When an opponent's monster declares an [[attack]]: You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[equip]] 1 Insect monster from your hand or [[GY]] to this card as an Equip Spell that gives it 500 [[ATK]]/[[DEF]].
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・墓地から昆虫族モンスター１体を選び、攻撃力・守備力５００アップの装備カード扱いとしてこのカードに装備する。③：１ターンに１度、昆虫族モンスターが戦闘を行うダメージステップ開始時に、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP015; Photon Hypernova; 
+  PHHY-JP015; Photon Hypernova; Common
   | supports              = Insect
   | anti-supports         = Insect
   | action                = 
@@ -57,7 +57,6 @@ wikitext: |-
   * Limited activations
   * Requires control of specific Type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 18160
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

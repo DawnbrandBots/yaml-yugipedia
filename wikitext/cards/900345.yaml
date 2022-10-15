@@ -13,21 +13,21 @@ wikitext: |-
   | romaji_name           = Tiaramentsu Peruregia
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TearlamentsPerlregia-PHHY-JP-OP.png
+  | image                 = TearlamentsPerlregia-PHHY-JP-R.png
   | card_type             = Spell
   | property              = Field
-  | password              = 
+  | password              = 34225426
   | effect_types          = Continuous-like, Trigger-like, Condition
-  | lore                  = [[Fusion Monster]]s and "[[Tearlaments]]" [[monsters]] you [[control]] gain 500 [[ATK]]. If an [[Aqua]] "Tearlaments" monster(s) is [[sent]] to your [[GY]] by card [[effect]]: You can [[send]] 1 Level 4 or lower Aqua monster from your [[Main Deck|Deck]] to the GY, but if it is not a "Tearlaments" monster, you cannot activate cards, or the effects of cards, with that name for the rest of this [[turn]]. You can only use this effect of "Tearlaments Perlregia" [[once per turn]].
+  | lore                  = [[Fusion Monster]]s and "[[Tearlaments]]" [[monsters]] you [[control]] gain 500 [[ATK]]. If an [[Aqua]] "Tearlaments" monster(s) is [[sent]] to your [[GY]] by card [[effect]] (except during the [[Damage Step]]): You can [[send]] 1 Level 4 or lower Aqua monster from your [[Main Deck|Deck]] to the GY, but if it is not a "Tearlaments" monster, you cannot activate cards, or the effects of cards, with that name for the rest of this [[turn]]. You can only use this effect of "Tearlaments Perlregia" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドの融合モンスター及び「ティアラメンツ」モンスターの攻撃力は５００アップする。②：水族の「ティアラメンツ」モンスターが効果で自分の墓地へ送られた場合に発動できる。デッキからレベル４以下の水族モンスター１体を墓地へ送る。この効果で「ティアラメンツ」モンスター以外のモンスターを墓地へ送った場合、このターン、自分はこの効果で墓地へ送ったカード及びその同名カードの効果を発動できない。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP061; Photon Hypernova; 
+  PHHY-JP061; Photon Hypernova; Rare
   | supports              = 
   * Fusion Monster
   * Aqua
@@ -40,7 +40,6 @@ wikitext: |-
   * Prevents activation of your Spell Cards
   * Prevents activation of your Trap Cards
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18206
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

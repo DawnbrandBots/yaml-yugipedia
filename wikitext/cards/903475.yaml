@@ -13,22 +13,22 @@ wikitext: |-
   | trans_name            = Icejade Cry Aegir Gymir
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = IcejadeAegirineGymir-PHHY-JP-OP.png
+  | image                 = IcejadeAegirineGymir-PHHY-JP-SR.png
   | attribute             = WATER
   | types                 = Aqua / Synchro / Effect
   | level                 = 10
   | atk                   = 3000
   | def                   = 1500
   | materials             = 1 WATER Tuner + 1 or more non-Tuner monsters
-  | password              = 
+  | password              = 86682165
   | effect_types          = Quick, Trigger, Condition
-  | lore                  = 1 [[WATER]] [[Tuner]] + 1+ non-Tuner [[monsters]]<br />([[Quick Effect]]): You can make [[face-up]] monsters you [[control]] become unable to be [[destroy]]ed, or [[banish]]ed, by your opponent's card effects for the rest of this [[turn]], then, if this effect was [[activate]]d in response to the activation of an opponent's card or effect, you can banish all cards with that name on your opponent's field and in their GY. If a card(s) is banished by an opponent's card effect while this card is in your GY: You can [[Special Summon]] this card. You can only use each effect of "Icejade Aegirine Gymir" [[once per turn]].
+  | lore                  = 1 [[WATER]] [[Tuner]] + 1+ non-Tuner [[monsters]]<br />([[Quick Effect]]): You can make [[face-up]] monsters you [[control]] become unable to be [[destroy]]ed, or [[banish]]ed, by your opponent's card effects for the rest of this [[turn]], then, if this effect was [[activate]]d in response to the activation of an opponent's card or effect, you can banish all cards with that name on your opponent's field and in their GY. If a card(s) is banished by an opponent's card effect while this card is in your GY (except during the [[Damage Step]]): You can [[Special Summon]] this card. You can only use each effect of "Icejade Aegirine Gymir" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 水属性チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに発動できる。このターン、自分フィールドの表側表示モンスターは相手の効果では破壊されず、相手の効果では除外できない。相手の効果の発動にチェーンしてこの効果を発動し、その同名カードが相手のフィールド・墓地に存在する場合、さらにその同名カードを全て除外できる。②：このカードが墓地に存在し、相手の効果でカードが除外された場合に発動できる。このカードを特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP038; Photon Hypernova; SR, ScR, PScR
@@ -49,7 +49,6 @@ wikitext: |-
   * Banishes from your opponent's field
   * Banishes from your opponent's Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18183
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -13,21 +13,21 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TripleTacticTasking-PHHY-JP-OP.png
+  | image                 = TripleTacticTasking-PHHY-JP-R.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
-  | effect_types          = 
+  | password              = 35269904
+  | effect_types          = Effect, Condition
   | lore                  = If your opponent has [[activate]]d a [[monster effect]] this [[turn]]: [[Set]] 1 [[Normal Spell]]/[[Normal Trap|Trap]] directly from your [[Main Deck|Deck]], except "Triple Tactic Tasking" (it cannot be activated this turn), or, if your opponent [[control]]s a monster, you can [[add]] that card to your [[hand]] instead. You can only activate 1 "Triple Tactic Tasking" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このターンに相手がモンスターの効果を発動している場合に発動できる。デッキから「三戦の号」以外の通常魔法・通常罠カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。相手フィールドにモンスターが存在する場合、代わりに選んだカードを手札に加える事もできる。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP069; Photon Hypernova; 
+  PHHY-JP069; Photon Hypernova; Rare
   | supports              = 
   * Normal Spell Card
   * Normal Trap Card
@@ -38,7 +38,6 @@ wikitext: |-
   * Prevents activation of your Spell Cards
   * Prevents activation of your Trap Cards
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18214
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

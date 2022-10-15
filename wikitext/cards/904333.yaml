@@ -13,27 +13,34 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = AbyssActorLibertyDramatist-PHHY-JP-OP.png
+  | image                 = AbyssActorLibertyDramatist-PHHY-JP-C.png
   | attribute             = DARK
   | types                 = Fiend / Pendulum / Effect
   | level                 = 4
   | atk                   = 1500
   | def                   = 1500
   | pendulum_scale        = 8
-  | password              = 
-  | pendulum_effect_types = 
-  | effect_types          = 
+  | password              = 65477143
+  | pendulum_effect_types = Trigger, Condition
+  | effect_types          = Trigger, Trigger, Condition
   | pendulum_effect       = When a [[Monster Card|monster]] [[declare]]s an [[attack]]: You can [[discard]] 1 card; [[Special Summon]] this card to your opponent's [[field]]. You can only use this [[effect]] of "Abyss Actor - Liberty Dramatist" [[once per turn]].
   | lore                  = If this card is [[Special Summon]]ed from the [[Pendulum Zone]]: This card's [[owner]] [[reveal]]s 3 "[[Abyss Script]]" [[Spell]]s from their [[Main Deck|Deck]], their opponent randomly picks 1 of them for this card's owner to [[Set]] to their [[field]] (but it is [[destroy]]ed during the [[End Phase]]), also the rest are [[shuffle]]d back into the Deck. If this card is destroyed: You can shuffle 1 "Abyss Script" Spell from your [[GY]] into the Deck. You can only use each [[effect]] of "Abyss Actor - Liberty Dramatist" [[once per turn]].
+  | fr_pendulum_effect    = 
   | fr_lore               = 
+  | de_pendulum_effect    = 
   | de_lore               = 
+  | it_pendulum_effect    = 
   | it_lore               = 
+  | pt_pendulum_effect    = 
   | pt_lore               = 
+  | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分または相手のモンスターの攻撃宣言時、手札を１枚捨てて発動できる。このカードを相手フィールドに特殊召喚する。
+  | ja_lore               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＰゾーンからの特殊召喚に成功した場合に発動する。このカードの元々の持ち主は、自身のデッキから「魔界台本」魔法カード３枚を相手に見せ、相手はその中からランダムに１枚選ぶ。そのカード１枚を自身のフィールドにセットし、残りのカードはデッキに戻す。この効果でセットしたカードはエンドフェイズに破壊される。②：このカードが破壊された場合に発動できる。自分の墓地から「魔界台本」魔法カード１枚を選んでデッキに戻す。
+  | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP016; Photon Hypernova; 
+  PHHY-JP016; Photon Hypernova; Common
   | archseries            = Abyss Actor
   | supports_archetypes   = Abyss Script
   | action                = 
@@ -47,7 +54,6 @@ wikitext: |-
   | m/s/t                 = Destroys your Spell Cards
   | summoning             = Special Summons itself from your Pendulum Zone to your opponent's field
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18161
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

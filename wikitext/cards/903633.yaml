@@ -13,7 +13,7 @@ wikitext: |-
   | trans_name            = Valiants of the Wireframe Abyss - Arctus XII
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = VaylantzoftheWireframeAbyssArctusXII-PHHY-JP-OP.png
+  | image                 = VaylantzoftheWireframeAbyssArctusXII-PHHY-JP-SR.png
   | attribute             = EARTH
   | types                 = Fairy / Fusion / Pendulum / Effect
   | level                 = 12
@@ -21,17 +21,24 @@ wikitext: |-
   | def                   = 3000
   | pendulum_scale        = 12
   | materials             = 2 Level 5 or higher "Vaylantz" monsters
-  | password              = 
+  | password              = 50687050
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Quick, Trigger, Condition
   | pendulum_effect       = You can [[activate]] 1 of these [[effect]]s;<br />● [[Special Summon]] this card to your [[Main Monster Zone]] in its same [[column]].<br />● Move 1 monster in your [[Main Monster Zone]] to an adjacent (horizontal) Monster Zone.<br />You can only use this effect of "Vaylantz of the Wireframe Abyss - Arctus XII" [[once per turn]].
   | lore                  = 2 [[Level]] 5 or higher "[[Vaylantz]]" [[monsters]]<br />This [[face-down]] card in the [[Extra Deck]] must first be [[Special Summon]]ed by Tributing the above cards you [[control]].  You can only use each of the following [[effect]]s of "Vaylantz of the Wireframe Abyss - Arctus XII" [[once per turn]]. ([[Quick Effect]]): You can switch the locations of 2 monsters in your [[Main Monster Zone]] or 2 monsters in your opponent's Main Monster Zone. If a card(s) in the [[Monster Zone]] moves to another Monster Zone: You can [[destroy]] 1 card on the field.
+  | fr_pendulum_effect    = 
   | fr_lore               = 
+  | de_pendulum_effect    = 
   | de_lore               = 
+  | it_pendulum_effect    = 
   | it_lore               = 
+  | pt_pendulum_effect    = 
   | pt_lore               = 
+  | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。●このカードを正面の自分のメインモンスターゾーンに特殊召喚する。●自分のメインモンスターゾーンのモンスター１体を選び、その位置をその隣のモンスターゾーンに移動する。
+  | ja_lore               = レベル５以上の「ヴァリアンツ」モンスター×２<br />ＥＸデッキの裏側表示のこのカードは、自分フィールドの上記カードをリリースした場合のみＥＸデッキから特殊召喚できる。このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに発動できる。自分のモンスター２体または相手のモンスター２体をメインモンスターゾーンから選び、その２体の位置を入れ替える。②：モンスターゾーンのカードが他のモンスターゾーンに移動した場合に発動できる。フィールドのカード１枚を選んで破壊する。
+  | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
   PHHY-JP037; Photon Hypernova; SR, ScR, PScR
@@ -60,7 +67,6 @@ wikitext: |-
   * Variable effects
   * Only once per turn
   * Fusion Pendulum Monster
-  | database_id           = 
+  | database_id           = 18182
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

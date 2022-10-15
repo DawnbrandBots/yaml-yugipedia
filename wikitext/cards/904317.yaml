@@ -13,24 +13,24 @@ wikitext: |-
   | trans_name            = Hiding G
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = HidingC-PHHY-JP-OP.png
+  | image                 = HidingC-PHHY-JP-NR.png
   | attribute             = EARTH
   | types                 = Insect / Effect
   | level                 = 7
   | atk                   = 1300
   | def                   = 2500
-  | password              = 
+  | password              = 25137581
   | effect_types          = Trigger, Condition, Trigger
-  | lore                  = When your opponent [[Special Summon]]s a [[monster]](s): You can [[Special Summon]] this card from your [[hand]] in [[face-down]] [[Defense Position]], and if you do, change it to [[face-up]] [[Defense Position]] during the [[End Phase]] of this [[turn]]. You can only use this [[effect]] of "Hiding "C"" [[once per turn]]. If this card is flipped face-up during the End Phase: [[Destroy]] all Special Summoned monsters on the [[field]].
+  | lore                  = When your opponent [[Special Summon]]s a [[monster]](s) (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[hand]] in [[face-down]] [[Defense Position]], and if you do, change it to [[face-up]] [[Defense Position]] during the [[End Phase]] of this [[turn]]. You can only use this [[effect]] of "Hiding "C"" [[once per turn]]. If this card is flipped face-up during the End Phase: [[Destroy]] all Special Summoned monsters on the [[field]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：相手がモンスターの特殊召喚に成功した時に発動できる。このカードを手札から裏側守備表示で特殊召喚する。この効果で特殊召喚したこのカードは、このターンのエンドフェイズに表側守備表示になる。②：このカードがエンドフェイズにリバースした場合に発動する。フィールドの特殊召喚されたモンスターを全て破壊する。
   | ko_lore               = 
   | jp_sets               = 
-  PHHY-JP030; Photon Hypernova; 
+  PHHY-JP030; Photon Hypernova; Normal Rare
   | archseries            = "C"
   | action                = 
   * Activates upon Special Summon
@@ -43,7 +43,6 @@ wikitext: |-
   * Special Summons itself from your hand
   * Special Summons itself face-down
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18175
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
