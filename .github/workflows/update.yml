@@ -32,7 +32,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TIMESTAMP=$(gh api /repos/${{ github.repository }}/actions/runs | jq --raw-output '[.workflow_runs[] | select(.path == ".github/workflows/update.yml" and .conclusion == "success")][0].created_at')
-          echo "::set-output name=timestamp::$TIMESTAMP"
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
       - working-directory: wikitext/cards
         run: python3 ../../src/incremental.py Duel_Monsters_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - working-directory: wikitext/duel-links-cards
