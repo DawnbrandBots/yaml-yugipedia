@@ -16,13 +16,14 @@ def skip_condition(page) -> bool:
 
 def main():
     if len(sys.argv) < 2:
-        exit(f"Usage: {sys.argv[0]} <start time: MediaWiki timestamp>")
+        exit(f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]")
     with httpx.Client(http2=True) as client:
         yaml = YAML()
-        url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions|categories&grctype=new|edit|categorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max&clcategories=Category:Duel%20Monsters%20cards"
-        url += f"&grcstart={sys.argv[1]}"
-        if len(sys.argv) > 2:
-            grccontinue = sys.argv[2]
+        url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions|categories&grctype=new|edit|categorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max"
+        url += f"&clcategories=Category:{sys.argv[1]}"
+        url += f"&grcstart={sys.argv[2]}"
+        if len(sys.argv) > 3:
+            grccontinue = sys.argv[3]
         else:
             grccontinue = download(client, yaml, "grccontinue", url, skip_condition)
         while grccontinue is not None:

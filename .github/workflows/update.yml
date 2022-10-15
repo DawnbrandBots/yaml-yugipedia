@@ -8,9 +8,6 @@ on:
       since:
         description: Mediawiki API timestamp for change log start time
         required: false
-      grccontinue:
-        description: Mediawiki API grccontinue parameter
-        required: false
   # Note: cron schedule is highly unreliable
   repository_dispatch:
     types:
@@ -36,7 +33,16 @@ jobs:
         run: |
           TIMESTAMP=$(gh api /repos/${{ github.repository }}/actions/runs | jq --raw-output '[.workflow_runs[] | select(.path == ".github/workflows/update.yml" and .conclusion == "success")][0].created_at')
           echo "::set-output name=timestamp::$TIMESTAMP"
-      - run: cd wikitext/cards && python3 ../../src/incremental.py "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}" # "${{ github.event.inputs.grccontinue }}"
+      - working-directory: wikitext/cards
+        run: python3 ../../src/incremental.py Duel_Monsters_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/duel-links-cards
+        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/duel-links-skills
+        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_Skills" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/rush
+        run: python3 ../../src/incremental.py Rush_Duel_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/speed
+        run: python3 ../../src/incremental.py Skill_Cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - name: Commit
         if: ${{ always() }}
         run: |
