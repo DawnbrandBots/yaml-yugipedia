@@ -6,7 +6,7 @@ wikitext: |-
   {{CardTable2
   | ja_name           = サルヴェージ・ヴォルフィッシュ
   | romaji_name       = Saruvēji Vorufisshu
-  | image             = SalvageWolfish-RDKP11-JP-OP.png
+  | image             = SalvageWolfish-RDKP11-JP-R.png
   | attribute         = WATER
   | types             = Sea Serpent / Effect
   | level             = 8
@@ -14,10 +14,10 @@ wikitext: |-
   | def               = 2000
   | requirement       = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
   | lore              = [[Add a card|Add]] 1 [[WATER]] [[Attribute]] [[Sea Serpent]] [[Type]] [[monster]] from your [[Graveyard]] to your hand. Then, if you added "[[U.M.U. - Unidentified Mysterious Urchin]]" to your hand by this [[effect]], this card gains 1400 [[ATK]] until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = このカードを召喚・特殊召喚した自分メインフェイズに、手札１枚をデッキの下に戻して発動できる。
+  | ja_lore           = 自分の墓地のモンスター（水属性／海竜族）１体を選んで手札に加える。この効果で「海胆確認生物」を手札に加えた場合、さらにこのカードの攻撃力はターン終了時まで１４００アップする。
   | jp_sets           = 
-  RD/KP11-JP036; Deck Modification Pack - Fortissimo of the Whirlwinds!!; Rare
+  RD/KP11-JP036; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Rare
   | supports          =
   * WATER
   * Sea Serpent
@@ -27,7 +27,6 @@ wikitext: |-
   * Activates during the turn in which it was Special Summoned
   * Places cards from the player's hand on the bottom of the Deck for cost
   * Adds from Graveyard to hand
-  | misc              = Turn limited effects
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | stat_change       = This card gains ATK
+  | database_id       = 18268
   }}

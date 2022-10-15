@@ -1,0 +1,27 @@
+title: Shadow Flower Sewing
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name           = {{Ruby|花|か}}{{Ruby|牙|げ}}{{Ruby|縫|ぬ}}い
+  | romaji_name       = Kagenui
+  | trans_name        = Shadow Flower Fang Sewing
+  | image             = ShadowFlowerSewing-RDKP11-JP-C.png
+  | card_type         = Spell
+  | property          = Normal
+  | requirement       = If you have a [[Plant]] [[Type]] [[Normal Monster]] in your [[Graveyard]], [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore              = 1 [[face-up]] [[monster]] on your opponent's [[field]] loses [[ATK]] equal to [the number of Plant Type Normal Monsters in your Graveyard] x 100 until the end of this [[turn]]. Then, if you have a [[Level]] 5 Normal Monster in your Graveyard, you can destroy all face-up Level 7 or higher Normal Monsters on your opponent's field.
+  | ja_requirement    = 自分の墓地に通常モンスター（植物族）がいる場合、デッキの上からカード３枚を墓地へ送って発動できる。
+  | ja_lore           = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分の墓地の通常モンスター（植物族）の数］×１００ダウンする。自分の墓地に通常モンスター（レベル５）がいる場合、さらに相手フィールドの表側表示の通常モンスター（レベル７以上）を全て破壊できる。
+  | jp_sets           = 
+  RD/KP11-JP048; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Common
+  | supports          =
+  * Plant
+  * Normal Monster
+  | anti-supports     = Normal Monster
+  | archseries        = Shadow Flower
+  | action            = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change       = Your opponent's monsters lose ATK
+  | m/s/t             = Destroys your opponent's face-up Monster Cards
+  | database_id       = 18280
+  }}

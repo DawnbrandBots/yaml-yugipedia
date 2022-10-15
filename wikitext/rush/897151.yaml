@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name           = {{Ruby|闘|とう}}{{Ruby|奏|そう}}のバンディージョ
   | romaji_name       = Tōsō no Bandījo
-  | image             = BandijooftheBattleBallad-RDKP11-JP-OP.png
+  | image             = BandijooftheBattleBallad-RDKP11-JP-UR.png
   | attribute         = WIND
   | types             = Psychic / Effect
   | level             = 7
@@ -13,11 +13,21 @@ wikitext: |-
   | def               = 1500
   | requirement       = During the [[turn]] you [[Normal Summon]]ed this card, [[pay]] 1000 [[LP]].
   | lore              = [[Add a card|Add]] 1 [[Level]] 2 or lower [[Psychic]] [[Type]] [[Normal Monster]] from your [[Graveyard]] to your [[hand]]. Then, this card gains [[ATK]] equal to [the total number of cards in both players' hands] x 300 until the end of this turn.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = このカードを召喚したターンに、１０００ＬＰを払って発動できる。
+  | ja_lore           = 自分の墓地の通常モンスター（レベル２以下／サイキック族）１体を選んで手札に加える。その後、このカードの攻撃力はターン終了時まで、［お互いの手札の数の合計］×３００アップする。
   | jp_sets           = 
-  RD/KP11-JP026; Deck Modification Pack - Fortissimo of the Whirlwinds!!; Ultra Rare, Rush Rare
-  | misc              = Cover card
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  RD/KP11-JP026; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Ultra Rare, Rush Rare
+  | supports          = 
+  * Psychic
+  * Normal Monster
+  | archseries        = Psychic Bandit
+  | action            =
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | stat_change       = This card gains ATK
+  | life_points       = Pays Life Points for cost
+  | misc              = 
+  * Turn limited effects
+  * Cover card
+  | database_id       = 18258
   }}

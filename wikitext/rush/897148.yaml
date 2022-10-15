@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name           = {{Ruby|風|ふう}}{{Ruby|彩|さい}}のプロフェシーフレーズ
   | romaji_name       = Fūsai no Purofeshī Furēzu
-  | image             = ProphecyPhraseoftheColorsoftheWind-RDKP11-JP-OP.png
+  | image             = ProphecyPhraseoftheColorsoftheWind-RDKP11-JP-UR.png
   | attribute         = WIND
   | types             = Psychic / Effect
   | level             = 7
@@ -13,10 +13,23 @@ wikitext: |-
   | def               = 0
   | requirement       = If the only [[face-up]] [[monsters]] on your [[field]] are [[WIND]] [[Attribute]] [[Psychic]] [[Type]] monsters, [[pay]] 1000 [[LP]].
   | lore              = Each player with cards in their [[hand]] [[send]]s their entire hand to the [[Graveyard]]. Then, inflict [[Effect damage|damage]] to your opponent equal to [the number of cards sent to the Graveyard by this [[effect]]] x 200. Then, you can make all face-up monsters on your opponent's field lose [[ATK]] equal to [the damage inflicted to your opponent by this effect] until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分フィールドの表側表示モンスターがモンスター（風属性／サイキック族）のみの場合、１０００ＬＰを払って発動できる。
+  | ja_lore           = 手札があるプレイヤーは、手札を全て墓地へ送る。その後、［この効果で墓地へ送られたカードの数］×２００ダメージを相手に与える。さらに、相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで、［この効果で相手に与えたダメージ］だけダウンできる。
   | jp_sets           = 
-  RD/KP11-JP024; Deck Modification Pack - Fortissimo of the Whirlwinds!!; Ultra Rare
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  RD/KP11-JP024; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Ultra Rare
+  | supports          = 
+  * WIND
+  * Psychic
+  | archseries        = Psychic Bandit
+  | action            = 
+  * Sends from your hand to your Graveyard
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | stat_change       = Your opponent's monsters lose ATK
+  | life_points       =
+  * Pays Life Points for cost
+  * Damages your opponent
+  | misc              = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id       = 18256
   }}

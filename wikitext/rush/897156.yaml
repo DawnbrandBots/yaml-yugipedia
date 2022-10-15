@@ -5,15 +5,21 @@ wikitext: |-
   {{CardTable2
   | ja_name           = {{Ruby|吹|ふ}}き{{Ruby|抜|ぬ}}ける{{Ruby|風|かぜ}}
   | romaji_name       = Fukinukeru Kaze
-  | image             = TheWindBlowingThrough-RDKP11-JP-OP.png
+  | image             = TheWindBlowingThrough-RDKP11-JP-R.png
   | card_type         = Spell
   | property          = Normal
   | requirement       = [[Send]] 1 [[WIND]] [[Attribute]] [[monster]] from your [[hand]] to the [[Graveyard]].
   | lore              = [[Draw a card|Draw]] 1 card. Then, if you have 2 or more [[face-up]] WIND Attribute monsters with 1800 or more [[ATK]] on your [[field]], you can draw 1 additional card.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 手札のモンスター（風属性）１体を墓地へ送って発動できる。
+  | ja_lore           = 自分は１枚ドローする。自分フィールドに表側表示モンスター（風属性／攻撃力１８００以上）が２体以上いる場合、さらに自分は１枚ドローできる。
   | jp_sets           = 
-  RD/KP11-JP056; Deck Modification Pack - Fortissimo of the Whirlwinds!!; Rare
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  RD/KP11-JP056; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Rare
+  | supports          = WIND
+  | action            =
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | misc              =
+  * Requires control of specific Attribute
+  * Requires control of specific ATK
+  | database_id      = 18288
   }}

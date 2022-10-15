@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = ドリリング・トラクタイガー
   | romaji_name            = Doriringu Torakutaigā
-  | image                  = DrillingTractiger-RDSJMP-JP-OP.png
+  | image                  = DrillingTractiger-RDSJMP-JP-NPR.png
   | attribute              = EARTH
   | types                  = Machine / Effect
   | level                  = 7
@@ -13,8 +13,8 @@ wikitext: |-
   | def                    = 1000
   | requirement            = If you have "[[Pierce!]]", "[[Powerful Pierce!!]]", or "[[Straight Pierce]]" in your [[Graveyard]], [[send]] 1 card from your [[hand]] to the Graveyard.
   | lore                   = [[Add a card|Add]] 1 "Pierce!", "Powerful Pierce!!", or "Straight Pierce" from your Graveyard to your hand.
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_requirement         = 自分の墓地に「貫通！」「大貫通！！」「一気貫通」のいずれかがある場合、手札１枚を墓地へ送って発動できる。
+  | ja_lore                = 自分の墓地の「貫通！」「大貫通！！」「一気貫通」の中から１枚を選んで手札に加える。
   | jp_sets                = 
   RD/SJMP-JP019; Saikyō Jump October 2022 promotional card; Normal Parallel Rare
   | supports               = 
@@ -24,6 +24,5 @@ wikitext: |-
   | action                 = 
   * Sends from hand to Graveyard for cost
   * Adds from Graveyard to hand
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 18028
   }}

@@ -4,17 +4,25 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name           = フォース・オブ・カジバシーフ
-  | romaji_name       = Fōsu Obu Kajiba Shīfu
+  | romaji_name       = Fōsu Obu Kajibashīfu
   | trans_name        = Force of Looting Thief
-  | image             = ForceofThief-RDKP11-JP-OP.png
+  | image             = ForceofThief-RDKP11-JP-C.png
   | card_type         = Trap
   | property          = Normal
   | requirement       = When a card in your [[Spell & Trap Zone]] is destroyed by an opponent's card [[effect]].
   | lore              = [[Set]] up to 2 [[Spell]]/[[Trap Card]]s from your [[Graveyard]] in your Spell & Trap Zone. Then, you can choose up to 3 [[face-up]] [[Level]] 7 or higher [[Psychic]] [[Type]] [[monsters]] on your [[field]]. If you do, those monsters cannot be [[destroyed by battle]] this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分の魔法＆罠ゾーンのカードが相手の効果で破壊された時に発動できる。
+  | ja_lore           = 自分の墓地の魔法・罠カードを２枚まで選んで自分の魔法＆罠ゾーンにセットする。その後、自分フィールドの表側表示モンスター（レベル７以上／サイキック族）を３体まで選ぶ事ができる。選んだ場合、このターン、そのモンスターは戦闘では破壊されない。
   | jp_sets           = 
-  RD/KP11-JP064; Deck Modification Pack - Fortissimo of the Whirlwinds!!; Common
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  RD/KP11-JP064; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Common
+  | supports          = Psychic
+  | archseries        = Psychic Bandit
+  | action            =
+  * Activates if destroyed by card effect
+  * Sets from your Graveyard
+  | attack            = Cannot be destroyed by battle
+  | misc              = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  | database_id       = 18294
   }}
