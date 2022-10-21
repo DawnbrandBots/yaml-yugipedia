@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name           = 天の選別
-  | romaji_name       = 
+  | ja_name           = {{Ruby|天|てん}}の{{Ruby|選|せん}}{{Ruby|別|べつ}}
+  | romaji_name       = Ten no Senbetsu
   | image             = HeavenlySelection-RDORP1-JP-OP.png
   | card_type         = Spell
   | property          = Normal
@@ -15,6 +15,11 @@ wikitext: |-
   | jp_sets           = 
   RD/ORP1-JP065; Over Rush Pack; Super Rare
   | archseries        = Heavenly
+  | stat_change       = Your opponent's monsters lose ATK
+  | m/s/t             = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc              = Requires control of specific Level
   | database_id       = 
   | rush_duel_status  = Not yet released
   }}
