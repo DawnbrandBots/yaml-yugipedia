@@ -16,26 +16,16 @@ wikitext: |-
   | fusion_material       = 
   * Imaginary Actor
   * Sword Dancer
-  | materials             = "Imaginary Actor" + "Sword Dancer"
-  | summoning_condition   = "[[Imaginary Actor]]" + "[[Sword Dancer]]"
-  | requirement           = 
-  | lore                  = 
-  ;'''[REQUIREMENT]'''
-  :[[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  ;'''[MULTI-CHOICE EFFECT]'''
-  :● [[Destroy]] 1 [[face-down]] card on your opponent's [[field]].<br />● 1 [[face-up]] [[Cyborg]] [[Type]] [[monster]] on your field gains [[ATK]] equal to [the total ATK of all face-up [[Warrior]] Type monsters on your opponent's field] until the end of this [[turn]].
-  | ja_requirement        = 
-  | ja_lore               = 「イマジナリー・アクター」＋「ソード・ダンサー」
-  ;【条件】
-  :デッキの一番上のカードを墓地へ送って発動できる。
-  ;【選択効果】
-  :●相手フィールドの裏側表示のカード１枚を選んで破壊する。●自分フィールドの表側表示モンスター（サイボーグ族）１体を選び、その攻撃力をターン終了時まで、［相手フィールドの表側表示モンスター（戦士族）の攻撃力の合計］だけアップする。
-  | ko_requirement        = 
-  | ko_lore               =  "이매지너리 액터" ＋ "스워드 댄서"
-  ; 【조건】
-  :덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
-  ; 【선택 효과】
-  :●상대 필드의 뒷면 표시의 카드 1장을 고르고 파괴한다. ●자신 필드의 앞면 표시 몬스터(사이보그족) 1장을 고르고, 그 공격력을 턴 종료시까지, [상대 필드의 앞면 표시 몬스터(전사족)의 공격력의 합계]만큼 올린다.
+  | effect_types          = Multi-Choice
+  | materials             = "[[Imaginary Actor]]" + "[[Sword Dancer]]"
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | lore                  = ● [[Destroy]] 1 [[face-down]] card on your opponent's [[field]].<br />● 1 [[face-up]] [[Cyborg]] [[Type]] [[monster]] on your field gains [[ATK]] equal to [the total ATK of all face-up [[Warrior]] Type monsters on your opponent's field] until the end of this [[turn]].
+  | ja_materials          =「イマジナリー・アクター」＋「ソード・ダンサー」
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = ●相手フィールドの裏側表示のカード１枚を選んで破壊する。●自分フィールドの表側表示モンスター（サイボーグ族）１体を選び、その攻撃力をターン終了時まで、［相手フィールドの表側表示モンスター（戦士族）の攻撃力の合計］だけアップする。
+  | ko_materials          = "이매지너리 액터" ＋ "스워드 댄서"
+  | ko_requirement        = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_lore               = ●상대 필드의 뒷면 표시의 카드 1장을 고르고 파괴한다. ●자신 필드의 앞면 표시 몬스터(사이보그족) 1장을 고르고, 그 공격력을 턴 종료시까지, [상대 필드의 앞면 표시 몬스터(전사족)의 공격력의 합계]만큼 올린다.
   | jp_sets               = 
   RD/EXT1-JP001; Extra Transcend Enhancement Pack; Ultra Rare, Rush Rare
   | kr_sets               = 

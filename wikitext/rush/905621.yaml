@@ -9,9 +9,8 @@ wikitext: |-
   | atk                 = 2800
   | def                 = 2100
   | fusion_material     = Cyber Dragon (Rush Duel)
-  | materials           = "Cyber Dragon" + "Cyber Dragon"
-  | continuous_effect   = true
-  | summoning_condition = "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" + "Cyber Dragon"
+  | effect_types        = Continuous
+  | materials           = "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" + "Cyber Dragon"
   | requirement         = None
   | lore                = This card can [[attack]] twice per [[turn]].
   | ja_requirement      = 

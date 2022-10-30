@@ -16,25 +16,16 @@ wikitext: |-
   | fusion_material       = 
   * Multistrike Dragon Dragias
   * The☆Dragon
-  | materials             = "Multistrike Dragon Dragias" + "The☆Dragon"
-  | summoning_condition   = "[[Multistrike Dragon Dragias]]" + "[[The☆Dragon]]"
-  | lore                  = 
-  ;'''[REQUIREMENT]'''
-  :If all [[monsters]] in your Graveyard are [[High Dragon]] and/or [[Dragon]] [[Type]] monsters, [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  ;'''[MULTI-CHOICE EFFECT]'''
-  :● This [[turn]], this card gains 900 [[ATK]], and it can make up to 2 [[attack]]s on monsters.<br />● This turn, this card can attack twice, and if it attacks a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
-  | ja_requirement        = 
-  | ja_lore               = 「連撃竜ドラギアス」＋「ザ☆ドラゴン」
-  ;【条件】
-  :自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ;【選択効果】
-  :●このターン、このカードの攻撃力は９００アップし、モンスターに２回攻撃できる。●このターン、このカードは２回攻撃でき、その攻撃は貫通する。 
-  | ko_requirement        = 
-  | ko_lore               = "연격룡 드라기아스" ＋ "더☆드래곤"
-  ;【조건】
-  : 자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
-  ;【선택 효과】
-  : ●이 턴에, 이 카드의 공격력은 900 올리고, 몬스터에 2회 공격할 수 있다. ●이 턴에, 이 카드는 2회 공격할 수 있고, 그 공격은 관통한다.
+  | effect_types          = Multi-Choice
+  | materials             = "[[Multistrike Dragon Dragias]]" + "[[The☆Dragon]]"
+  | requirement           = If all [[monsters]] in your Graveyard are [[High Dragon]] and/or [[Dragon]] [[Type]] monsters, [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | lore                  = ● This [[turn]], this card gains 900 [[ATK]], and it can make up to 2 [[attack]]s on monsters.<br />● This turn, this card can attack twice, and if it attacks a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_materials          =「連撃竜ドラギアス」＋「ザ☆ドラゴン」
+  | ja_requirement        = 自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = ●このターン、このカードの攻撃力は９００アップし、モンスターに２回攻撃できる。●このターン、このカードは２回攻撃でき、その攻撃は貫通する。 
+  | ko_materials          = "연격룡 드라기아스" ＋ "더☆드래곤"
+  | ko_requirement        = 자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_lore               = ●이 턴에, 이 카드의 공격력은 900 올리고, 몬스터에 2회 공격할 수 있다. ●이 턴에, 이 카드는 2회 공격할 수 있고, 그 공격은 관통한다.
   | jp_sets               = 
   RD/EXT1-JP022; Extra Transcend Enhancement Pack; Ultra Rare, Rush Rare
   RD/D001-JP003; Yu-Gi-Oh! SEVENS Complete Challenge 3; Rush Rare

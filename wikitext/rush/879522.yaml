@@ -15,7 +15,7 @@ wikitext: |-
   | level                  = 4
   | atk                    = 800
   | def                    = 0
-  | continuous_effect      = true
+  | effect_types           = Continuous
   | requirement            = [[Maximum Mode]]
   | lore                   = This card gains [[ATK]] equal to [the number of [[monsters]] on your opponent's [[field]]] x 500. If you have 10 or more monsters in your [[Graveyard]], this card inflicts piercing [[battle damage]] (if the [[ATK]] of the [[attack]]ing monster exceeds the [[DEF]] of the attack target, inflict the difference), if it attacks a [[Defense Position]] monster.
   | ja_requirement         = マキシマムモード

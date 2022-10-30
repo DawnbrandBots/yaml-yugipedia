@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 3
   | atk                   = 800
   | def                   = 0
-  | continuous_effect     = true
+  | effect_types          = Continuous
   | requirement           = [[Maximum Mode]]
   | lore                  = This card gains [[ATK]] equal to [the number of cards in your [[hand]]] x 300.
   | fr_requirement        = Mode Maximum

@@ -16,26 +16,16 @@ wikitext: |-
   | fusion_material       = 
   * Imaginary Actor
   * Gracesaurus
-  | materials             = "Imaginary Actor" + "Gracesaurus"
-  | summoning_condition   = "[[Imaginary Actor]]" + "[[Gracesaurus]]"
-  | requirement           = 
-  | lore                  = 
-  ;'''[REQUIREMENT]'''
-  :[[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  ;'''[MULTI-CHOICE EFFECT]'''
-  :● 1 [[face-up]] [[monster]] on your opponent's [[field]] loses 1500 [[ATK]]/[[DEF]] until the end of this [[turn]].<br />● All face-up [[Dinosaur]] [[Type]] monsters on your opponent's field lose 2000 ATK/DEF until the end of this turn.
-  | ja_requirement        = 
-  | ja_lore               = 「イマジナリー・アクター」＋「グレイスザウルス」
-  ;【条件】
-  :手札１枚を墓地へ送って発動できる。
-  ;【選択効果】
-  :●相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで１５００ダウンする。●相手フィールドの全ての表側表示モンスター（恐竜族）の攻撃力・守備力はターン終了時まで２０００ダウンする。
-  | ko_requirement        = 
-  | ko_lore               = "이매지너리 액터" ＋ "그레이스사우루스"
-  ;【조건】
-  : 패 1장을 묘지로 보내고 발동할 수 있다.
-  ; 【선택 효과】
-  : ●상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력 / 수비력을 턴 종료시까지 1500 내린다. ●상대 필드의 모든 앞면 표시 몬스터(공룡족)의 공격력 / 수비력은 턴 종료시까지 2000 내린다.
+  | effect_types          = Multi-Choice
+  | materials             = "[[Imaginary Actor]]" + "[[Gracesaurus]]"
+  | requirement           = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore                  = ● 1 [[face-up]] [[monster]] on your opponent's [[field]] loses 1500 [[ATK]]/[[DEF]] until the end of this [[turn]].<br />● All face-up [[Dinosaur]] [[Type]] monsters on your opponent's field lose 2000 ATK/DEF until the end of this turn.
+  | ja_materials          =「イマジナリー・アクター」＋「グレイスザウルス」
+  | ja_requirement        = 手札１枚を墓地へ送って発動できる。
+  | ja_lore               = ●相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで１５００ダウンする。●相手フィールドの全ての表側表示モンスター（恐竜族）の攻撃力・守備力はターン終了時まで２０００ダウンする。
+  | ko_materials          = "이매지너리 액터" ＋ "그레이스사우루스"
+  | ko_requirement        = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_lore               = ●상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력 / 수비력을 턴 종료시까지 1500 내린다. ●상대 필드의 모든 앞면 표시 몬스터(공룡족)의 공격력 / 수비력은 턴 종료시까지 2000 내린다.
   | jp_sets               = 
   RD/EXT1-JP004; Extra Transcend Enhancement Pack; Rare
   | kr_sets               = 

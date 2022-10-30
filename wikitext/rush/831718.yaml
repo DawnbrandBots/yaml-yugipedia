@@ -17,23 +17,16 @@ wikitext: |-
   | fusion_material       = 
   * Yamiruler the Dark Delayer
   * Valkyrian Sewkyrie
-  | materials             = "Yamiruler the Dark Delayer" + "Valkyrian Sewkyrie"
-  | summoning_condition   = "[[Yamiruler the Dark Delayer]]" + "[[Valkyrian Sewkyrie]]"
-  | requirement           = 
-  | lore                  = 
-  ;'''[REQUIREMENT]'''
-  :[[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  ;'''[MULTI-CHOICE EFFECT]'''
-  :● Until the end of your opponent's next [[turn]], while this card is [[face-up]], it gains 500 [[ATK]], also neither player can [[Special Summon]] [[Level]] 9 or lower [[monsters]] in face-up [[Attack Position]].<br />● Change the [[battle position]] of 1 monster on the [[field]].
-  | ja_requirement        = 
-  | ja_lore               = 「魔将ヤメルーラ」＋「戦天女ハリキリー」
-  ;'''【条件】'''
-  :デッキの一番上のカードを墓地へ送って発動できる。
-  ;'''【選択効果】'''
-  :●次の相手ターン終了時まで、このカードが表側表示の間、このカードの攻撃力は５００アップし、お互いはモンスター（レベル９以下）を表側攻撃表示で特殊召喚できない。●自分または相手フィールドのモンスター１体を選んで表示形式を変更する。
-  | ko_summoning_condition= "마장 야메룰러" ＋ "전천녀 하리키리"
+  | effect_types          = Multi-Choice
+  | materials             = "[[Yamiruler the Dark Delayer]]" + "[[Valkyrian Sewkyrie]]"
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = ● Until the end of your opponent's next [[turn]], while this card is [[face-up]], it gains 500 [[ATK]], also neither player can [[Special Summon]] [[Level]] 9 or lower [[monsters]] in face-up [[Attack Position]].<br />● Change the [[battle position]] of 1 monster on the [[field]].
+  | ja_materials          =「魔将ヤメルーラ」＋「戦天女ハリキリー」
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = ●次の相手ターン終了時まで、このカードが表側表示の間、このカードの攻撃力は５００アップし、お互いはモンスター（レベル９以下）を表側攻撃表示で特殊召喚できない。●自分または相手フィールドのモンスター１体を選んで表示形式を変更する。
+  | ko_materials          = "마장 야메룰러" ＋ "전천녀 하리키리"
   | ko_requirement        = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
-  | ko_lore               =  ●다음 상대 턴 종료시까지, 이 카드가 앞면 표시인 동안, 이 카드의 공격력은 500 올리고, 양쪽 플레이어는 몬스터(레벨 9 이하)를 앞면 공격 표시로 특수 소환할 수 없다. ●자신 또는 상대 필드의 몬스터 1장을 고르고 표시 형식을 변경한다.
+  | ko_lore               = ●다음 상대 턴 종료시까지, 이 카드가 앞면 표시인 동안, 이 카드의 공격력은 500 올리고, 양쪽 플레이어는 몬스터(레벨 9 이하)를 앞면 공격 표시로 특수 소환할 수 없다. ●자신 또는 상대 필드의 몬스터 1장을 고르고 표시 형식을 변경한다.
   | jp_sets               = 
   RD/KP07-JP036; Deck Mod Pack: Chaotic Omega Rising!!; Ultra Rare, Rush Rare
   | kr_sets               = 

@@ -16,26 +16,16 @@ wikitext: |-
   | fusion_material       = 
   * Imaginary Actor
   * Magic Juggler
-  | materials             = "Imaginary Actor" + "Magic Juggler"
-  | summoning_condition   = "[[Imaginary Actor]]" + "[[Magic Juggler]]"
-  | requirement           = 
-  | lore                  = 
-  ;'''[REQUIREMENT]'''
-  :Place 1 card from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  ;'''[MULTI-CHOICE EFFECT]'''
-  :● [[Shuffle]] up to 3 [[monster]]s from your opponent's Graveyard into the Deck.<br />● Shuffle up to 2 [[face-up]] [[Spellcaster]] [[Type]] monsters from your opponent's field into the Deck.
-  | ja_requirement        = 
-  | ja_lore               = 「イマジナリー・アクター」＋「マジック・ジャグラー」
-  ;【条件】
-  :自分の墓地のカード１枚をデッキの下に戻して発動できる。
-  ;【選択効果】
-  :●相手の墓地のモンスターを３体まで選んでデッキに戻す。●相手フィールドの表側表示モンスター（魔法使い族）を２体まで選んで持ち主のデッキに戻す。 
-  | ko_requirement        = 
-  | ko_lore               =  "이매지너리 액터" ＋ "매직 저글러"
-  ; 【조건】
-  : 자신 묘지의 카드 1장을 덱 아래로 되돌리고 발동할 수 있다.
-  【선택 효과】
-  : ●상대 묘지의 몬스터를 3장까지 고르고 덱으로 되돌린다. ●상대 필드의 앞면 표시 몬스터(마법사족)를 2장까지 고르고 주인의 덱으로 되돌린다.
+  | effect_types          = Multi-Choice
+  | materials             = "[[Imaginary Actor]]" + "[[Magic Juggler]]"
+  | requirement           = Place 1 card from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
+  | lore                  = ● [[Shuffle]] up to 3 [[monster]]s from your opponent's Graveyard into the Deck.<br />● Shuffle up to 2 [[face-up]] [[Spellcaster]] [[Type]] monsters from your opponent's field into the Deck.
+  | ja_materials          =「イマジナリー・アクター」＋「マジック・ジャグラー」
+  | ja_requirement        = 自分の墓地のカード１枚をデッキの下に戻して発動できる。
+  | ja_lore               = ●相手の墓地のモンスターを３体まで選んでデッキに戻す。●相手フィールドの表側表示モンスター（魔法使い族）を２体まで選んで持ち主のデッキに戻す。
+  | ko_materials          = "이매지너리 액터" ＋ "매직 저글러"
+  | ko_requirement        = 자신 묘지의 카드 1장을 덱 아래로 되돌리고 발동할 수 있다.
+  | ko_lore               = ●상대 묘지의 몬스터를 3장까지 고르고 덱으로 되돌린다. ●상대 필드의 앞면 표시 몬스터(마법사족)를 2장까지 고르고 주인의 덱으로 되돌린다.
   | jp_sets               = 
   RD/EXT1-JP003; Extra Transcend Enhancement Pack; Rare
   | kr_sets               = 
