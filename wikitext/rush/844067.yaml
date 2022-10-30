@@ -13,7 +13,7 @@ wikitext: |-
   | level                 = 8
   | atk                   = 2000
   | def                   = 0
-  | continuous_effect     = true
+  | effect_types          = Continuous
   | requirement           = None
   | lore                  = This card gains [[ATK]] equal to [the number of cards in your [[Graveyard]]] x 100.
   | ja_requirement        = なし

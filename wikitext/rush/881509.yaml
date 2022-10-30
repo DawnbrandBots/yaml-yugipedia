@@ -9,7 +9,7 @@ wikitext: |-
   | level                 = 5
   | atk                   = 1600
   | def                   = 1300
-  | continuous_effect     = true
+  | effect_types          = Continuous
   | requirement           = None
   | lore                  = This card gains [[ATK]] equal to [the number of [[monsters]] in your [[Graveyard]]] x 100.
   | ja_requirement        = なし
