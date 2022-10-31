@@ -11,7 +11,10 @@ wikitext: |-
   | ko_name               = 드래곤메이드의 환대
   | ko_rr_name            = Deuraegonmeideu-ui Hwandae
   | sc_name               = 龙女仆的无微不至
-  | image                 = DragonmaidHospitality-MGED-EN-R-1E.png
+  | image                 = 
+  1; DragonmaidHospitality-MGED-EN-R-1E.png; DragonmaidHospitality-MADU-EN-VG-artwork.png
+  2; DragonmaidHospitality-SLF1-JP-OP.png
+  | current_image         = 1
   | card_type             = Spell
   | property              = Normal
   | password              = 78231355
@@ -45,7 +48,7 @@ wikitext: |-
   MGED-SP149; Maximum Gold: El Dorado; Rare
   | jp_sets               = 
   DBMF-JP023; Deck Build Pack: Mystic Fighters; Super Rare
-  SLF1-JP067; Selection 5; Common, Super Rare, Secret Rare
+  SLF1-JP067; Selection 5; Normal Parallel Rare, Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
   | kr_sets               = 
   DBMF-KR023; Deck Build Pack: Mystic Fighters; Super Rare
   | sc_sets               = 
@@ -56,7 +59,6 @@ wikitext: |-
   * Special Summons from your hand
   * Special Summons from your Graveyard
   | action                = Sends from your Deck to your Graveyard
-  | misc                  = 
-  * Only once per turn
+  | misc                  = Only once per turn
   | database_id           = 14766
   }}
