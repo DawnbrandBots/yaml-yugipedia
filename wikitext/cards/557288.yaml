@@ -56,15 +56,17 @@ wikitext: |-
   CYHO-KR021; Cybernetic Horizon; Ultra Rare, Secret Rare, Ultimate Rare
   | sc_sets               = 
   MGP2-SC070; Mega Pack 02; Super Rare
-  | supports              = 
-  * Spell Card
-  * Trap Card
+  | action                = 
+  * Activates if it leaves the field
+  * Activates if sent to Graveyard
+  * Activates if banished
+  * Activates from your Graveyard
+  * Activates from your hand
+  * Sets from your Graveyard
+  * Sets the player's banished cards
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons itself from your Graveyard
-  | action                = 
-  * Sets from your Graveyard
-  * Sets the player's banished cards
   | banished              = Banishes itself when it leaves the field
   | misc                  = Only once per turn
   | database_id           = 13737
