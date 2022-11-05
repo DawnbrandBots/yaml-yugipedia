@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = RedArrows-SLF1-JP-OP.png
+  | image                 = RedArrows-SLF1-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 00844056
   | effect_types          = Effect, Condition
   | lore                  = [[Target]] up to 2 [[face-up]] [[Monster Card|monster]]s in the [[Extra Monster Zone]]; [[banish]] them until the [[End Phase]]. You can only [[activate]] 1 "Red Arrows" per [[turn]].
   | fr_lore               = 
@@ -24,7 +24,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：ＥＸモンスターゾーンの表側表示モンスターを２体まで対象として発動できる。そのモンスターをエンドフェイズまで除外する。
   | ko_lore               = 
   | jp_sets               = 
   SLF1-JP098; Selection 5; Common, Super Rare, Secret Rare
@@ -33,7 +33,6 @@ wikitext: |-
   | action                = Returns banished cards to the field
   | banished              = Banishes from field
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18319
   | tcg_status            = Not yet released
   }}
