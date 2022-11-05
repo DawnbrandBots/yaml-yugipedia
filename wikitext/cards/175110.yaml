@@ -1,6 +1,5 @@
 title: Underworld Egg Clutch
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Couvée D'Œufs Démoniaques
   | de_name               = Unterwelt-Eigelege
@@ -40,6 +39,8 @@ wikitext: |2-
   * Fish
   * Sea Serpent
   * Aqua
-  | action                = Adds from Deck to hand
+  | action                = 
+  * Activates if other cards are banished
+  * Adds from Deck to hand
   | database_id           = 9685
   }}

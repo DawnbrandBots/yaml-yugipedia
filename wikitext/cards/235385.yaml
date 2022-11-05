@@ -44,7 +44,10 @@ wikitext: |-
   * Galaxy-Eyes
   * Photon
   * Galaxy
-  | action                = Sends itself from hand to Graveyard for cost
+  | action                = 
+  * Activates if other cards are banished
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
   | life_points           = Damages your opponent
   | misc                  = Limited activations
   | database_id           = 10337

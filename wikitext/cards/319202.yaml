@@ -49,13 +49,15 @@ wikitext: |-
   * Zexal
   * ZS -
   | supports_archetypes   = Utopia (archetype)
-  | action                = You draw cards
+  | action                = 
+  * You draw cards
+  * Activates if other cards are banished
   | summoning             = Special Summons the player's banished monsters
   | banished              = 
   * Banishes itself from field for cost
   * Banishes from your opponent's field
   | misc                  = 
-  * Limited activations
+  * Requires control of specific archetype
   * Only 1 effect once per turn
   | database_id           = 11030
   }}

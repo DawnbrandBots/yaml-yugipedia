@@ -53,11 +53,12 @@ wikitext: |-
   | supports_archetypes   = 
   * PSY-Frame
   * PSY-Framegear
+  | action                = 
+  * Activates if other cards are banished
+  * Adds from Deck to hand
   | summoning             = 
   * 2 Link Materials
   * Cannot use Tokens as Link Materials for its Summon
-  | action                = Adds from Deck to hand
-  | misc                  = 
-  * Only once per turn
+  | misc                  = Only once per turn
   | database_id           = 14207
   }}

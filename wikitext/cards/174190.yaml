@@ -1,6 +1,5 @@
 title: Wingtortoise
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Tortue à Ailes
   | de_name               = Flügelschildkröte
@@ -42,7 +41,10 @@ wikitext: |2-
   * Fish
   * Sea Serpent
   * Aqua
-  | action                = Activates from your Graveyard
+  | action                = 
+  * Activates if other cards are banished
+  * Activates from your hand
+  * Activates from your Graveyard
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons itself from your Graveyard

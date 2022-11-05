@@ -55,7 +55,9 @@ wikitext: |-
   | archseries            = Swordsoul
   | supports_archetypes   = Swordsoul
   | anti-supports_archetypes = Swordsoul
-  | action                = Activates while banished
+  | action                = 
+  * Activates if other cards are banished
+  * Activates while banished
   | stat_change           = Treats monsters as Tuner monsters
   | summoning             = 
   * Special Summons Tokens
