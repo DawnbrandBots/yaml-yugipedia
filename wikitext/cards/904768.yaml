@@ -13,18 +13,18 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = LillaRap-SLF1-JP-OP.png
+  | image                 = LillaRap-SLF1-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 72233469
   | effect_types          = Trigger-like, Condition
-  | lore                  = [[Once per turn]], if you [[Special Summon]] a [[monster]](s) from the [[GY]]: You can make your opponent lose 1000 [[LP]], and if they do, you gain 500 LP. You can only [[activate]] the [[effect]] of "Lil-la-Rap" [[once per Chain]].
+  | lore                  = [[Once per turn]], if you [[Special Summon]] a [[monster]](s) from the [[GY]] (except during the [[Damage Step]]): You can make your opponent lose 1000 [[LP]], and if they do, you gain 500 LP. You can only [[activate]] the [[effect]] of "Lil-la-Rap" [[once per Chain]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の効果は同一チェーン上では１度しか発動できない。①：１ターンに１度、自分が墓地からモンスターを特殊召喚した場合に発動できる。相手は１０００ＬＰを失い、自分は５００ＬＰ回復する。
   | ko_lore               = 
   | jp_sets               = 
   SLF1-JP100; Selection 5; Common, Super Rare, Secret Rare
@@ -39,7 +39,6 @@ wikitext: |-
   * Your opponent loses Life Points
   * You gain Life Points
   | misc                  = Limited activations
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18321
   | tcg_status            = Not yet released
   }}
