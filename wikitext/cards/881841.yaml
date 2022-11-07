@@ -1,6 +1,5 @@
 title: Dice Dungeon
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -16,7 +15,7 @@ wikitext: |-
   | property              = Field
   | password              = 11808215
   | effect_types          = Effect, Trigger-like
-  | lore                  = When this card is [[activate]]d: You can add 1 "[[Dimension Dice]]" from your [[Main Deck|Deck]] to your [[hand]]. At the start of the [[Battle Phase]]: You can make each player roll a six-sided die and apply their result to all monsters they control until the end of this [[turn]].<br />● 1: They lose 1000 [[ATK]].<br />● 2: They gain 1000 ATK.<br />● 3: They lose 500 ATK.<br />● 4: They gain 500 ATK.<br />● 5: Their current ATK become halved.<br />● 6: Their current ATK become doubled.
+  | lore                  = When this card is [[activate]]d: You can add 1 "[[Dimension Dice]]" from your [[Main Deck|Deck]] to your [[hand]]. At the start of the [[Battle Phase]]: You can [[activate]] this [[effect]]; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this [[turn]].<br />● 1: Lose 1000 [[ATK]].<br />● 2: Gain 1000 ATK.<br />● 3: Lose 500 ATK.<br />● 4: Gain 500 ATK.<br />● 5: Halve their ATK.<br />● 6: Double their ATK.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -24,6 +23,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：このカードの発動時の効果処理として、デッキから「ディメンジョン・ダイス」１枚を手札に加える事ができる。②：自分・相手のバトルフェイズ開始時に発動できる。お互いはそれぞれ、サイコロを１回振り、自身のフィールドの全てのモンスターの攻撃力にターン終了時まで、出た目の効果を適用する。<br />●１：１０００ダウンする。●２：１０００アップする。<br />●３：５００ダウンする。●４：５００アップする。<br />●５：半分にする。●６：倍にする。
   | ko_lore               = ①: 이 카드의 발동시의 효과 처리로서, 덱에서 "디멘션 다이스" 1장을 패에 넣을 수 있다. ②: 자신 / 상대의 배틀 페이즈 개시시에 발동할 수 있다. 양쪽 플레이어는 각각, 주사위를 1회 던지고, 자신 필드의 모든 몬스터의 공격력에 턴 종료시까지, 나온 눈의 효과를 적용한다.<br />●1: 1000 내린다.<br />●2: 1000 올린다.<br />●3: 500 내린다.<br />●4: 500 올린다.<br />●5: 절반이 된다.<br />●6: 배가 된다.
+  | en_sets               = 
+  BLCR-EN005; Battles of Legend: Crystal Revenge; Ultra Rare
+  | fr_sets               = 
+  BLCR-FR005; Battles of Legend: Crystal Revenge; Ultra Rare
+  | de_sets               = 
+  BLCR-DE005; Battles of Legend: Crystal Revenge; Ultra Rare
+  | it_sets               = 
+  BLCR-IT005; Battles of Legend: Crystal Revenge; Ultra Rare
+  | pt_sets               = 
+  BLCR-PT005; Battles of Legend: Crystal Revenge; Ultra Rare
+  | sp_sets               = 
+  BLCR-SP005; Battles of Legend: Crystal Revenge; Ultra Rare
   | jp_sets               = 
   AC02-JP005; Animation Chronicle 2022; Common, Normal Parallel Rare
   | kr_sets               = 
