@@ -3,8 +3,9 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name             = 破滅の竜魔導士
-  | romaji_name         = 
+  | ja_name             = {{Ruby|破|は}}{{Ruby|滅|めつ}}の{{Ruby|竜|りゅう}}{{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|士|し}}
+  | romaji_name         = Hametsu no Ryūmadōshi
+  | trans_name          = Dragon Sorcerer of Destruction
   | image               = DestroyerofDragonSorcerers-RDORP1-JP-OP.png
   | attribute           = DARK
   | types               = Spellcaster / Effect
@@ -17,7 +18,14 @@ wikitext: |-
   | ja_lore             = 
   | jp_sets             = 
   RD/ORP1-JP049; Over Rush Pack; Over Rush Rare
-  | supports            = Dark Revelation
+  | supports            = 
+  * Spellcaster
+  * Dragon
+  * Dark Revelation
+  | action              = 
+  * Returns from Graveyard to Deck for cost
+  * Sets from your Graveyard
+  | m/s/t               = Prevents other cards being destroyed by card effects
   | database_id         = 
   | rush_duel_status    = Not yet released
   }}
