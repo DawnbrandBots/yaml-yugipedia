@@ -11,6 +11,7 @@ wikitext: |-
   | trans_name          = Witchcraft Confusion
   | ko_name             = 위치크래프트 컨퓨전
   | ko_rr_name          = Wichikeuraepeuteu Keonpyujeon
+  | sc_name             = 魔女工艺・混乱结合
   | image               = WitchcrafterConfusionConfession-MAMA-EN-UR-1E.png
   | card_type           = Spell
   | property            = Normal
@@ -24,17 +25,18 @@ wikitext: |-
   | es_lore             = Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos en tu mano o Campo como material, incluyendo un monstruo "Artibruja". Durante tu End Phase, si controlas un monstruo "Artibruja" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano. Sólo puedes usar 1 efecto de "Confesión Confusión Artibruja" por turno, y sólo una vez ese turno.
   | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分の手札・フィールドから、融合モンスターカードによって決められた、「ウィッチクラフト」モンスターを含む融合素材モンスターを墓地へ送り、その融合モンスター１体をＥＸデッキから融合召喚する。②：このカードが墓地に存在し、自分フィールドに「ウィッチクラフト」モンスターが存在する場合、自分エンドフェイズに発動できる。このカードを手札に加える。
   | ko_lore             = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신의 패 / 필드에서, 융합 몬스터 카드에 기재된, "위치크래프트" 몬스터를 포함하는 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. ②: 이 카드가 묘지에 존재하고, 자신 필드에 "위치크래프트" 몬스터가 존재할 경우, 자신 엔드 페이즈에 발동할 수 있다. 이 카드를 패에 넣는다.
-  | en_sets               = 
+  | sc_lore             = 此卡名的①②效果1回合1次，仅可使用其中1个。①：从自己的手牌・场上，将由融合怪兽卡决定的、包含"魔女工艺"怪兽在内的融合素材怪兽送至墓地，从额外牌组将1只该融合怪兽融合召唤。②：此卡存在于墓地，自己场上有"魔女工艺"怪兽存在的情况下，在自己的结束阶段可以发动。将此卡加入手牌。
+  | en_sets             = 
   MAMA-EN021; Magnificent Mavens; Ultra Rare
-  | fr_sets               = 
+  | fr_sets             = 
   MAMA-FR021; Magnificent Mavens; Ultra Rare
-  | de_sets               = 
+  | de_sets             = 
   MAMA-DE021; Magnificent Mavens; Ultra Rare
-  | it_sets               = 
+  | it_sets             = 
   MAMA-IT021; Magnificent Mavens; Ultra Rare
-  | pt_sets               = 
+  | pt_sets             = 
   MAMA-PT021; Magnificent Mavens; Ultra Rare
-  | sp_sets               = 
+  | sp_sets             = 
   MAMA-SP021; Magnificent Mavens; Ultra Rare
   | jp_sets             = 
   SSB1-JP006; Secret Shiny Box; Super Rare
@@ -42,15 +44,17 @@ wikitext: |-
   | kr_sets             = 
   SSB1-KR006; Secret Shiny Box; Super Rare
   SSB1-KRS06; Secret Shiny Box; Secret Rare
+  | sc_sets             = 
+  CL02-SC070; Classic Pack 02; Super Rare
   | supports            = Fusion Monster
   | archseries          = 
   * Fusion (archetype)
   * Witchcrafter
   | supports_archetypes = Witchcrafter
-  | summoning             = 
+  | summoning           = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
-  | action                = 
+  | action              = 
   * Sends from your hand to your Graveyard
   * Sends from your field to your Graveyard
   * Uses cards on the player's field as Fusion Materials
