@@ -1,7 +1,5 @@
-title: Performapal Greatest Duelist
+title: Performapal Duelist Extraordinaire
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,7 +11,7 @@ wikitext: |-
   | trans_name            = Entermate Greatest Duelist
   | ko_name               = {{Ruby|EM|엔터메이트|lang=ko}} 희대의 듀얼리스트
   | ko_rr_name            = Enteomeiteu Huidae-ui Dyueolliseuteu
-  | image                 = PerformapalGreatestDuelist-HC01-JP-SR.png
+  | image                 = PerformapalDuelistExtraordinaire-HC01-JP-SR.png
   | attribute             = LIGHT
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 4
@@ -23,8 +21,8 @@ wikitext: |-
   | password              = 92644052
   | pendulum_effect_types = Trigger-like
   | effect_types          = Trigger, Trigger, Trigger
-  | pendulum_effect       = [[Once per turn]], at the start of the [[Damage Step]], if a monster [[battle]]s another monster: You can [[return]] this card to the [[hand]], and if you do, [[banish]] 1 [[Spell]] from your [[Main Deck|Deck]], also your monster cannot be destroyed by that battle, also the [[battle damage]] you take from it is halved.
-  | lore                  = When this card inflicts [[battle damage]] to your opponent: You can [[Add a card|add]] 1 "[[Supreme King Dragon]]" [[monster]], 1 "[[Supreme King Gate]]" monster, or 1 "[[The Supreme King's Soul]]" from your [[Main Deck|Deck]] to your [[hand]]. [[Once per turn]], during each [[Standby Phase]]: [[Activate]] this [[effect]]; each player can [[banish]] 1 [[Spell]] from their Deck. Once per turn, if a monster declares an [[attack]]: Activate this effect; the attacked player can apply this effect.<br />● Add 1 of your banished Spells to your hand, then [[discard]] it, and if you do, [[negate]] that attack.
+  | pendulum_effect       = [[Once per turn]], at the start of the [[Damage Step]], if a monster [[battle]]s a monster: You can [[return]] this card to the [[hand]], and if you do, [[banish]] 1 [[Spell]] from your [[Main Deck|Deck]]. For that battle, your monster cannot be destroyed, also the [[battle damage]] you take is halved.
+  | lore                  = When this card inflicts [[battle damage]] to your opponent: You can [[Add a card|add]] 1 "[[Supreme King Dragon]]" [[monster]], "[[Supreme King Gate]]" monster, or "[[Soul of the Supreme King]]" from your [[Main Deck|Deck]] to your [[hand]]. [[Once per turn]], during the [[Standby Phase]]: [[Activate]] this [[effect]]; each player can [[banish]] 1 [[Spell]] from their Deck. Once per turn, when a monster declares an [[attack]]: Activate this effect; the attacked player can apply the following effect.<br />● Add 1 of your banished Spells to your hand, then [[discard]] it, and if you do, [[negate]] that attack.
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -43,7 +41,7 @@ wikitext: |-
   HC01-JP034; History Archive Collection; Super Rare, Secret Rare, Ultimate Rare, Prismatic Secret Rare
   | kr_sets               = 
   HC01-KR034; History Archive Collection; Super Rare, Secret Rare, Ultimate Rare, Prismatic Secret Rare
-  | supports              = The Supreme King's Soul
+  | supports              = Soul of the Supreme King
   | archseries            = Performapal
   | supports_archetypes   = 
   * Supreme King Dragon
