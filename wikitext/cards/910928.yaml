@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = 
-  | lore                  = Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or 1 of your banished Normal Traps; place it on the bottom of the Deck. You can only use each effect of "Traptrix Allure" once per turn.
+  | lore                  = [[Discard]] 1 [[Level]] 4 [[Insect]] or [[Plant]] [[Monster Card|monster]], or 1 [[Normal Trap]]; [[draw]] 2 cards. You can [[banish]] this card from your [[GY]], then [[target]] 1 of your banished Level 4 Insect or Plant monsters, or 1 of your banished Normal Traps; place it on the bottom of the [[Deck]]. You can only use each effect of "Traptrix Allure" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,6 +34,12 @@ wikitext: |-
   * Plant
   * Normal Trap Card
   | related_to_archseries = Traptrix
+  | action                = 
+  * You discard for cost
+  * You draw cards
+  * Activates from your Graveyard
+  * Places the player's banished cards on the bottom of the Deck
+  | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
