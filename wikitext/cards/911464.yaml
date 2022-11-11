@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 300
   | password              = 
   | effect_types          = Unclassified, Condition, Unclassified, Continuous
-  | lore                  = If this card is used for the [[Link Summon]] of a "[[Borrel]]" [[monster]], it is treated as a [[Dragon]] monster. You can only use each of the following [[effect]]s of "Rokket Coder" [[once per turn]]. If a [[Cyberse]] monster you [[control]] would be used as [[Link Material]] for a "[[Code Talker]]" monster, this card in your hand can also be used as material. If this card you control would be used as Link Material for a "Borrel" monster, you can also use 1 [[DARK]] monster in your hand as material.
+  | lore                  = If this card is used for the [[Link Summon]] of a "[[Borrel]]" [[monster]], it is treated as a [[Dragon]] monster. You can only use each of the following [[effect]]s of "Rokket Coder" [[once per turn]]. If a [[Cyberse]] monster you [[control]] would be used as [[Link Material]] for a "[[Code Talker (archetype)|Code Talker]]" monster, this card in your hand can also be used as material. If this card you control would be used as Link Material for a "Borrel" monster, you can also use 1 [[DARK]] monster in your hand as material.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,7 +38,12 @@ wikitext: |-
   | archseries            = Rokket
   | supports_archetypes   = 
   * Borrel
-  * Code Talker
+  * Code Talker (archetype)
+  | action                = Uses cards in the hand as Link Materials
+  | stat_change           = Treated as alternate Type
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

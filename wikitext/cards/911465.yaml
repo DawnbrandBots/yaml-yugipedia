@@ -35,7 +35,17 @@ wikitext: |-
   * Number (Spell/Trap archetype)
   * Utopic
   | supports_archetypes   = Number
-  | misc                  = Archetype condition
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Prevents the player's Special Summons from the Extra Deck
+  * Special Summons from your Graveyard
+  * Performs an Xyz Summon
+  | life_points           = 
+  * Pays Life Points for cost
+  * Halves the player's LP
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
