@@ -20,7 +20,7 @@ wikitext: |-
   | materials             = 2+ Effect Monsters
   | password              = 
   | effect_types          = Continuous, Quick, Condition
-  | lore                  = 2+ [[Effect Monster]]s<br />Your opponent cannot [[target]] [[Link Rating|Link]]-4 or higher [[Link Monster]]s you [[control]] with card [[effect]]s, also they cannot be [[destroyed by battle]]. If you control a "[[Firewall (archetype)|Firewall]]" Link Monster ([[Quick Effect]]): You can [[banish]] any number of Link Monsters from your [[GY]] whose total Link Ratings exactly equal 3; [[Special Summon]] this card from your GY, but banish it when it [[leaves the field]]. You can only use each effect of "Protectcode Talker" [[once per turn]].
+  | lore                  = 2+ [[Effect Monster]]s<br />Your opponent cannot [[target]] [[Link Rating|Link]]-4 or higher [[Link Monster]]s you [[control]] with card [[effect]]s, also they cannot be [[destroyed by battle]]. If you control a "[[Firewall (archetype)|Firewall]]" Link Monster ([[Quick Effect]]): You can [[banish]] any number of Link Monsters from your [[GY]] whose total Link Ratings exactly equal 3; [[Special Summon]] this card from your GY, but banish it when it [[leaves the field]]. You can only use this effect of "Protectcode Talker" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,6 +33,20 @@ wikitext: |-
   | supports              = Link Monster
   | archseries            = Code Talker (archetype)
   | supports_archetypes   = Firewall (archetype)
+  | action                = Activates from your Graveyard
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Special Summons itself from your Graveyard
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

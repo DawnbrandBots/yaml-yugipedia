@@ -37,6 +37,14 @@ wikitext: |-
   * Firewall (archetype)
   * Phantom Knights
   | supports_archetypes   = Cynet
+  | action                = 
+  * Activates from your Graveyard
+  * Activates if used as Link Material
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Returns from your Graveyard to your Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

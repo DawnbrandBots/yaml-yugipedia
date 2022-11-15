@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 6
   | atk                   = 2300
   | def                   = 1500
-  | materials             = 1 Cyberse Ritual, Fusion, Synchro, Xyz, or Link Monster + 1 Cyberse monster
+  | materials             = 1 Cyberse-Type Ritual, Fusion, Synchro, Xyz, or Link Monster + 1 Cyberse-Type monster
   | password              = 
   | effect_types          = Ignition, Quick, Condition
   | lore                  = 1 [[Cyberse]] [[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]] + 1 Cyberse [[monster]]<br />During your [[Main Phase]]: You can [[Special Summon]] 1 Cyberse monster from your [[hand]], then you can make this card's [[Level]] become that monster's. When your opponent [[activate]]s a [[Spell]]/[[Trap Card]] or [[effect]] while you [[control]] a [[Link Rating|Link]]-4 or higher Cyberse monster ([[Quick Effect]]): You can [[banish]] this card from your [[field]] or [[GY]]; [[negate]] the activation. You can only use each effect of "Cyberse Disabwurm" [[once per turn]].
@@ -35,6 +35,27 @@ wikitext: |-
   * Link Monster
   * Cyberse
   | archseries            = Cyber
+  | action                = Activates from your Graveyard
+  | stat_change           = Changes own Level
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Ritual Monsters as Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Synchro Monsters as Fusion Materials
+  * Requires Xyz Monsters as Fusion Materials
+  * Requires Link Monsters as Fusion Materials
+  * Special Summons from your hand
+  | banished              = 
+  * Banishes itself from field for cost
+  * Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Link Rating
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
