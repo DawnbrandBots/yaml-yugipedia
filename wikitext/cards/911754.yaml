@@ -15,12 +15,12 @@ wikitext: |-
   | image                 = ProtectcodeTalker-CYAC-JP-OP.png
   | attribute             = DARK
   | types                 = Cyberse / Link / Effect
-  | link_arrows           = Middle-Left, Top-Center, Middle-Right
+  | link_arrows           = Middle-Left, Middle-Right, Top-Center
   | atk                   = 2300
   | materials             = 2+ Effect Monsters
   | password              = 
-  | effect_types          = 
-  | lore                  = 2+ Effect Monsters<br />Your opponent cannot target Link-4 or higher Link Monsters you control with card effects, also they cannot be destroyed by battle. If you control a "Firewall" Link Monster (Quick Effect): You can banish any number of Link Monsters from your GY whose total Link Ratings exactly equal 3; Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of "Protectcode Talker" once per turn.
+  | effect_types          = Continuous, Quick, Condition
+  | lore                  = 2+ [[Effect Monster]]s<br />Your opponent cannot [[target]] [[Link Rating|Link]]-4 or higher [[Link Monster]]s you [[control]] with card [[effect]]s, also they cannot be [[destroyed by battle]]. If you control a "[[Firewall (archetype)|Firewall]]" Link Monster ([[Quick Effect]]): You can [[banish]] any number of Link Monsters from your [[GY]] whose total Link Ratings exactly equal 3; [[Special Summon]] this card from your GY, but banish it when it [[leaves the field]]. You can only use each effect of "Protectcode Talker" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,7 +33,6 @@ wikitext: |-
   | supports              = Link Monster
   | archseries            = Code Talker (archetype)
   | supports_archetypes   = Firewall (archetype)
-  | misc                  = 
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

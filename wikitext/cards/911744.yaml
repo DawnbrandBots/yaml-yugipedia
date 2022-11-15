@@ -19,8 +19,9 @@ wikitext: |-
   | atk                   = 0
   | def                   = 0
   | password              = 
-  | effect_types          = 
-  | lore                  = You can Ritual Summon this card with "Cynet Ritual". You can only use each of the following effects of "Cyberse Sage" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your field and/or GY, including a Cyberse monster. If this card is sent to the GY as Synchro Material: You can target 1 Cyberse monster or 1 Ritual Spell in your GY; add it to your hand.
+  | ritualcard            = Cynet Ritual
+  | effect_types          = Summoning condition, Condition, Ignition, Trigger
+  | lore                  = You can [[Ritual Summon]] this card with "[[Cynet Ritual]]". You can only use each of the following [[effect]]s of "Cyberse Sage" [[once per turn]]. During your [[Main Phase]]: You can [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], by [[banish]]ing [[Fusion Material]]s mentioned on it from your [[field]] and/or [[GY]], including a [[Cyberse]] [[monster]]. If this card is [[sent]] to the [[GY]] as [[Synchro Material]]: You can [[target]] 1 Cyberse monster or 1 [[Ritual Spell]] in your GY; [[Add a card|add]] it to your hand.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,15 +30,13 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP033; Cyberstorm Access; Rare
+  CYAC-JP033; Cyberstorm Access; 
   | supports              = 
   * Fusion Monster
   * Synchro Monster
   * Cyberse
   | archseries            = Cyber
-  | action                = 
-  | summoning             = 
-  | misc                  = 
   | database_id           = 
+  | tcg_status            = Not yet released
   | ocg_status            = Not yet released
   }}

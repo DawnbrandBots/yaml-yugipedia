@@ -15,12 +15,12 @@ wikitext: |-
   | image                 = FirewallDragonSingularity-CYAC-JP-OP.png
   | attribute             = DARK
   | types                 = Cyberse / Link / Effect
-  | link_arrows           = Top-Left, Top-Center, Top-Right, Middle-Left, Middle-Right, Bottom-Center
+  | link_arrows           = Top-Left, Middle-Left, Bottom-Center, Middle-Right, Top-Right, Top-Center
   | atk                   = 3500
   | materials             = 3+ Effect Monsters
   | password              = 
-  | effect_types          = 
-  | lore                  = 3+ Effect Monsters<br/>(Quick Effect): You can target cards your opponent controls and/or in their GY, up to the number of different types of monsters (Ritual/Fusion/Synchro/Xyz) you control and in your GY; return them to the hand, and if you do, this card gains 500 ATK for each card returned. If a monster(s) this card points to is destroyed by battle or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of "Firewall Dragon Singularity" once per turn.
+  | effect_types          = Quick, Trigger, Condition
+  | lore                  = 3+ [[Effect Monster]]s<br/>([[Quick Effect]]): You can [[target]] cards your opponent [[control]]s and/or in their [[GY]], up to the number of different types of monsters ([[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]]) you control and in your GY; [[return]] them to the [[hand]], and if you do, this card gains 500 [[ATK]] for each card returned. If a monster(s) this card [[points to]] is [[destroyed by battle]] or [[sent]] to the GY: You can target 1 [[Cyberse]] monster in your GY; [[Special Summon]] it. You can only use each [[effect]] of "Firewall Dragon Singularity" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +29,8 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP047; Cyberstorm Access; UR, UtR, ScR, PScR
-  CYAC-JP047; Cyberstorm Access +1 Bonus Pack; UR, PScR
+  CYAC-JP047; Cyberstorm Access; Ultra Rare, Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  CYAC-JP047; Cyberstorm Access +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | supports              = 
   * Cyberse
   * Fusion Monster
@@ -38,7 +38,7 @@ wikitext: |-
   * Ritual Monster
   * Xyz Monster
   | archseries            = Firewall (archetype)
-  | misc                  = 
   | database_id           = 
+  | tcg_status            = Not yet released
   | ocg_status            = Not yet released
   }}
