@@ -1,4 +1,4 @@
-title: Love Magi - Ciela
+title: Love Magus - Ciela
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
@@ -12,7 +12,7 @@ wikitext: |-
   | romaji_name         = Jiai no Kenja - Shiera
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = LoveMagiCiela-YOS1-JP-OP.png
+  | image               = LoveMagusCiela-YOS1-JP-OP.png
   | attribute           = WATER
   | types               = Machine / Effect
   | level               = 6
@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 1000
   | password            = 
   | effect_types        = Condition, Ignition, Ignition, Trigger, Condition
-  | lore                = (This card is always treated as a "[[Sky Striker]]" card.)<br />You can [[discard]] 1 [[Spell]]; [[Special Summon]] this card from your [[hand]]. You can [[banish]] 1 Spell from your [[GY]]; give control of this card to your opponent, and if you do, Special Summon 1 "[[Sky Striker Ace]]" [[monster]] from your GY. If this card is [[destroyed by battle]] or card [[effect]] and sent to the GY: You can [[target]] 1 of your banished "Sky Striker" Spells; [[Add a card|add]] it to your hand. You can only use each [[effect]] of "Love Magi - Ciela" [[once per turn]].
+  | lore                = (This card is always treated as a "[[Sky Striker]]" card.)<br />You can [[discard]] 1 [[Spell]]; [[Special Summon]] this card from your [[hand]]. You can [[banish]] 1 Spell from your [[GY]]; give control of this card to your opponent, and if you do, Special Summon 1 "[[Sky Striker Ace]]" [[monster]] from your GY. If this card is [[destroyed by battle]] or card [[effect]] and sent to the GY: You can [[target]] 1 of your banished "Sky Striker" Spells; [[Add a card|add]] it to your hand. You can only use each [[effect]] of "Love Magus - Ciela" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,7 +34,21 @@ wikitext: |-
   | supports_archetypes = 
   * Sky Striker
   * Sky Striker Ace
-  | misc                = Archetype condition
+  | action              = 
+  * Activates from your hand
+  * You discard for cost
+  * Changes control
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Adds banished cards to the hand
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  | banished            = Banishes from Graveyard for cost
+  | misc                = 
+  * Archetype condition
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
