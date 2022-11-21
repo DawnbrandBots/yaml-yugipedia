@@ -12,15 +12,15 @@ wikitext: |-
   | romaji_name           = Bu no Kenja - Ākasu
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = WarMagusAakas.png
-  | attribute             = ???
+  | image                 = WarMagusAakas-23PP-JP-OP.png
+  | attribute             = FIRE
   | types                 = Machine / Effect
   | level                 = 5
-  | atk                   = ???
-  | def                   = ???
+  | atk                   = 2400
+  | def                   = 200
   | password              = 
   | effect_types          = 
-  | lore                  = You can [[discard]] 1 [[Spell]]; [[Special Summon]] this card from your [[hand]]. ''Other effects unknown''
+  | lore                  = (This card is always treated as a "Sky Striker" card.)<br/>You can [[discard]] 1 [[Spell]]; [[Special Summon]] this card from your [[hand]]. If a Link Monster(s) you control would be destroyed by battle or card effect, you can banish 1 Spell from your GY instead. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 of your banished "Sky Striker" Spells; add it to your hand. You can only use each effect of "War Magus - Aakas" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +29,10 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  23PP-JP0??; Premium Pack 2023; 
-  | related_to_archseries = Sky Striker
+  23PP-JP018; Premium Pack 2023; 
+  | archseries          = Sky Striker
+  | supports_archetypes = 
+  * Sky Striker
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
