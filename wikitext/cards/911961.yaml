@@ -30,9 +30,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   23PP-JP018; Premium Pack 2023; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports              = Link Monster
   | archseries            = Sky Striker
   | supports_archetypes   = Sky Striker
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates from your hand
+  * You discard for cost
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Adds banished cards to the hand
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning             = Special Summons itself from your hand
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = Banishes from your Graveyard
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

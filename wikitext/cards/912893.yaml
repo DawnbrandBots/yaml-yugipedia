@@ -16,7 +16,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Ignition-like, Condition, Condition
-  | lore                  = [[Target]] 1 [[DARK]] [[monster]] you [[control]]; [[Special Summon]] 1 [[LIGHT]] monster with the same original [[Type]] and [[Level]] from your [[Main Deck|Deck]] or [[Extra Deck]]. You can [[banish]] this card from your [[GY]]; during your [[Main Phase]] this [[turn]], you can [[Normal Summon]] 1 LIGHT or DARK monster in addition to your Normal Summon/[[Set]].  (You can only gain this [[effect]] [[once per turn]].) You can only use each [[effect]] of "Shadow's Light" once per turn. You cannot conduct your [[Battle Phase]] the turn you activate either of this card's effects.
+  | lore                  = [[Target]] 1 [[DARK]] [[monster]] you [[control]]; [[Special Summon]] 1 [[LIGHT]] monster with the same original [[Type]] and [[Level]] from your [[Main Deck|Deck]] or [[Extra Deck]]. You can [[banish]] this card from your [[GY]]; during your [[Main Phase]] this [[turn]], you can [[Normal Summon]] 1 LIGHT or DARK monster in addition to your Normal Summon/[[Set]]. (You can only gain this [[effect]] [[once per turn]].) You can only use each [[effect]] of "Shadow's Light" once per turn. You cannot conduct your [[Battle Phase]] the turn you activate either of this card's effects.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,6 +30,18 @@ wikitext: |-
   * LIGHT
   * DARK
   | related_to_archseries = Chaos
+  | action                = 
+  * Activates from your Graveyard
+  * Cannot conduct Battle Phase
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Allows multiple Normal Summons
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Gain this effect once per turn
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

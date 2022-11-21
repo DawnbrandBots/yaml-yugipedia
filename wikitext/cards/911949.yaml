@@ -33,7 +33,17 @@ wikitext: |-
   | supports_archetypes   = 
   * Photon
   * Galaxy
-  | misc                  = Cover card
+  | action                = 
+  * Activates upon attack declaration
+  * Activates from your hand
+  * Skips Battle Phase
+  * Ends the Battle Phase
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Only once per turn
+  * Cover card
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -27,13 +27,17 @@ wikitext: |-
   | jp_sets               = 
   23PP-JP017; Premium Pack 2023; Common, Normal Parallel Rare, Super Rare, Secret Rare
   | supports              = Synchro Monster
-  | anti-supports         = 
-  * Fusion Monster
-  * Link Monster
-  * Xyz Monster
-  * Normal Monster
-  * Ritual Monster
   | archseries            = Synchro (series)
+  | action                = 
+  * Activates if other cards are sent to the GY
+  * Sends itself from field to Graveyard for cost
+  | stat_change           = Treats monsters as Tuner monsters
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | attack                = Prevents attacks
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
