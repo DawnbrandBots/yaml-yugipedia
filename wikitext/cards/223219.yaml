@@ -53,9 +53,6 @@ wikitext: |-
   | tc_sets               = 
   ABYR-TC059; Abyss Rising; Common
   | supports              = Spellcaster
-  | anti-supports         = 
-  * Spell Card
-  * Trap Card
   | archseries            = 
   * Spellbook
   * Prophecy
@@ -63,10 +60,14 @@ wikitext: |-
   | action                = 
   * Returns from field to hand
   * Changes battle positions
+  * Flips monsters face-down
+  * Flips monsters face-up
   | banished              = 
   * Banishes from Graveyard for cost
   * Banishes from your opponent's field
   | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   * Variable effects
   | database_id           = 10281
   }}
