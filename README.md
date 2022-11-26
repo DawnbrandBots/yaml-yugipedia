@@ -19,3 +19,10 @@ The categories being downloaded are
 The remaining files — the actual source code of this stage of the pipeline — are available under the
 GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)
 for more details.
+
+## Adding a new category
+
+1. Create a new directory in Git under [`/wikitext`](/wikitext) by committing a blank `.gitkeep` file. e.g. `mkdir wikitext/example && touch wikitext/example/.gitkeep && git add wikitext/example`
+1. Run the [download workflow](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/download.yml), setting "Destination wikitext/ subdirectory" to the subdirectory created and "Yugipedia category" to the name of the category page without the `Category:`
+1. Add a new step to the [update workflow](https://github.com/DawnbrandBots/yaml-yugipedia/blob/master/.github/workflows/update.yml) to automatically update the saved wikitexts with any new changes.
+1. Remove the `.gitkeep` file from Git.
