@@ -14,10 +14,10 @@ wikitext: |-
   | def                 = 200
   | requirement         = You have 3 or more [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monsters]] in your [[Graveyard]].
   | lore                = Change 1 [[face-up]] [[Level]] 4 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can [[Special Summon]] 1 Level 5 Machine Type monster from your [[hand]] face-up to your field.
-  | ja_requirement      = 
-  | ja_lore             = 
+  | ja_requirement      = 自分の墓地にモンスター（光属性／機械族）が３体以上いる場合に発動できる。
+  | ja_lore             = 相手フィールドの表側表示モンスター（レベル４以下）１体を選んで裏側守備表示にする。その後、手札のモンスター（レベル５／機械族）１体を自分フィールドに表側表示で特殊召喚できる。
   | jp_sets             = 
-  RD/ORP1-JP050; Over Rush Pack; Common
+  RD/ORP1-JP050; Over Rush Pack; Common, Secret Rare
   | supports            = 
   * LIGHT
   * Machine
@@ -26,6 +26,5 @@ wikitext: |-
   * Changes battle positions
   * Flips monsters face-down
   | summoning           = Special Summons from your hand
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18379
   }}

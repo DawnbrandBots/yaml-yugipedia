@@ -13,14 +13,13 @@ wikitext: |-
   | def               = 1600
   | requirement       = If you have another [[face-up]] [[Dinosaur]] [[Type]] [[monster]] on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore              = All face-up monsters with the highest [[ATK]] on your opponent's field lose ATK equal to [the [[DEF]] of the face-up monster with the highest DEF on your field] until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分フィールドにこのカード以外の表側表示モンスター（恐竜族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore           = 相手フィールドの攻撃力が一番高い表側表示モンスター全ての攻撃力はターン終了時まで、［自分フィールドの守備力が一番高い表側表示モンスターの守備力］だけダウンする。
   | jp_sets           = 
-  RD/ORP1-JP056; Over Rush Pack; Super Rare
+  RD/ORP1-JP056; Over Rush Pack; Super Rare, Secret Rare
   | supports          = Dinosaur
   | action            = Sends from the top of your Deck to your Graveyard for cost
   | stat_change       = Your opponent's monsters lose ATK
   | misc              = Requires control of specific Type
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18385
   }}

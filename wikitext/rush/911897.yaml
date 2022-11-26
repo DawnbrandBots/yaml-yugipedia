@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[reveal]]ing 1 other [[Level]] 6 [[monster]] with 500 [[DEF]] in your hand.
   | requirement            = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore                   = Gain 500 [[LP]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカード以外の手札のモンスター（レベル６／守備力５００）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement         = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore                = 自分は５００ＬＰ回復する。
   | jp_sets                = 
   RD/ORP1-JP037; Over Rush Pack; Common
   | archseries             = Excutie
@@ -25,6 +25,5 @@ wikitext: |-
   * Sends from the top of your Deck to your Graveyard for cost
   | summoning              = Special Summons itself from your hand
   | life_points            = You gain Life Points
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 18366
   }}
