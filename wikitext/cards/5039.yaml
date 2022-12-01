@@ -12,20 +12,20 @@ wikitext: |-
   | ko_name               = 암흑계의 척후 스카아
   | ko_rr_name            = Amheukgye-ui Cheokhu Seukaa
   | tc_name               = 暗黑界之斥侯 猩紅卡
-  | image                 = ScarrScoutofDarkWorld-LCJW-EN-C-1E.png
+  | image                 = ScarrScoutofDarkWorld-SR13-EN-C-1E.png
   | attribute             = DARK
   | types                 = Fiend / Effect
+  | level                 = 2
   | atk                   = 500
   | def                   = 500
-  | level                 = 2
   | password              = 05498296
   | effect_types          = Trigger
-  | lore                  = When this card is [[destroyed by battle]] and [[sent]] to the [[Graveyard]]: [[Add a card|Add]] 1 [[Level]] 4 or lower "[[Dark World]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]].
-  | fr_lore               = Lorsque cette carte est détruite au combat et envoyée au Cimetière : ajoutez 1 monstre "Monde Ténébreux" de max. Niveau 4 depuis votre Deck à votre main.
-  | de_lore               = Wenn diese Karte als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, füge 1 Monster der Stufe 4 oder niedriger, dessen Name "Finsteren Welt" enthält, aus deinem Deck deiner Hand hinzu.
-  | it_lore               = Quando questa carta viene distrutta in battaglia e mandata al Cimitero: aggiungi 1 mostro "Mondo Oscuro" di Livello 4 o inferiore dal tuo Deck alla tua mano.
-  | pt_lore               = Quando este card for destruído em batalha e enviado para o Cemitério: adicione 1 monstro "Mundo Negro" de Nível 4 ou menos do seu Deck à sua mão.
-  | es_lore               = Cuando esta carta es destruida en batalla y mandada al Cementerio: añade a tu mano, desde tu Deck, 1 monstruo "Mundo Oscuro" de Nivel 4 o menor.
+  | lore                  = If this card is [[destroyed by battle]] and [[sent]] to the [[GY]]: [[Add a card|Add]] 1 [[Level]] 4 or lower "[[Dark World]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]].
+  | fr_lore               = Si cette carte est détruite au combat et envoyée au Cimetière : ajoutez 1 monstre "Monde Ténébreux" de max. Niveau 4 depuis votre Deck à votre main.
+  | de_lore               = Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Füge deiner Hand 1 „Finsteren Welt“-Monster der Stufe 4 oder niedriger von deinem Deck hinzu.
+  | it_lore               = Se questa carta viene distrutta in battaglia e mandata al Cimitero: aggiungi 1 mostro "Mondo Oscuro" di Livello 4 o inferiore dal tuo Deck alla tua mano.
+  | pt_lore               = Se este card for destruído em batalha e enviado para o Cemitério: adicione 1 monstro "Mundo Negro" de Nível 4 ou menos do seu Deck à sua mão.
+  | es_lore               = Si esta carta es destruida en batalla y mandada al Cementerio: añade a tu mano 1 monstruo "Mundo Oscuro" de Nivel 4 o menor en tu Deck.
   | ja_lore               = ①：このカードが戦闘で破壊され墓地へ送られた場合に発動する。デッキからレベル４以下の「暗黒界」モンスター１体を手札に加える。
   | ko_lore               = ①: 이 카드가 전투로 파괴되어 묘지로 보내졌을 경우에 발동한다. 덱에서 레벨 4 이하의 "암흑계" 몬스터 1장을 패에 넣는다.
   | tc_lore               = 此卡因战斗被破坏并送入墓地时，从我方牌组中将1只等级4或以下冠有「暗黑界」之名的怪兽加入手牌。
@@ -64,14 +64,15 @@ wikitext: |-
   EE04-JP085; Expert Edition Volume 4; Common
   SD21-JP004; Structure Deck: Devil's Gate; Common
   SR13-JP012; Structure Deck R: Devil's Gate; Common
-  | tc_sets               = 
-  SD21-TC011; Structure Deck: Devil's Gate; Common
-  | ae_sets               = 
-  EEN-AE025; Elemental Energy; Common
   | kr_sets               = 
   EEN-KR025; Elemental Energy; Common
   HGP4-KR085; Expert Edition Volume 4; Common
   SD21-KR004; Structure Deck: Devil's Gate; Common
+  SR13-KR012; Structure Deck R: Devil's Gate; Common
+  | tc_sets               = 
+  SD21-TC011; Structure Deck: Devil's Gate; Common
+  | ae_sets               = 
+  EEN-AE025; Elemental Energy; Common
   | archseries            = Dark World
   | supports_archetypes   = Dark World
   | action                = 
