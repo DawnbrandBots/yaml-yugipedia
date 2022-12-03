@@ -12,21 +12,21 @@ wikitext: |-
   | romaji_name         = Putika no Kowakuma
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = TraptrixPudica-SD45-JP-OP.png
+  | image               = TraptrixPudica-SD45-JP-SR.png
   | attribute           = EARTH
   | types               = Plant / Effect
   | level               = 4
   | atk                 = 900
   | def                 = 1900
-  | password            = 
-  | effect_types        = 
+  | password            = 49027020
+  | effect_types        = Continuous, Condition, Trigger, Trigger
   | lore                = [[Unaffected]] by the [[effect]]s of "[[Hole]]" [[Normal Trap]]s. You can only use each of the following effects of "Traptrix Pudica" [[once per turn]]. When this card is [[Normal Summon]]ed: You can [[add]] 1 "[[Traptrix Orchard]]" from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[Special Summon]]ed: You can [[target]] 1 opponent's [[Special Summon]]ed [[Monster Card|monster]]; [[banish]] it, and if you do, during the next [[Standby Phase]], your opponent can Special Summon 1 of their banished monsters.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「蟲惑の園」１枚を手札に加える。②：このカードが特殊召喚に成功した場合、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを除外する。次のスタンバイフェイズに、相手は除外されている自身のモンスター１体を選んで特殊召喚できる。③：このカードはモンスターゾーンに存在する限り、「ホール」通常罠カード及び「落とし穴」通常罠カードの効果を受けない。
   | ko_lore             = 
   | jp_sets             = 
   SD45-JP001; Structure Deck: Forest of the Traptrix; Super Rare
@@ -47,7 +47,6 @@ wikitext: |-
   * Your opponent Special Summons
   | banished            = Banishes from your opponent's field
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 18308
   | tcg_status          = Not yet released
   }}
