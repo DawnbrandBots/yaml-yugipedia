@@ -14,18 +14,18 @@ wikitext: |-
   | trans_name            = Entrapping Allure
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TraptrixAllure-SD45-JP-OP.png
+  | image                 = TraptrixAllure-SD45-JP-SR.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
-  | effect_types          = 
+  | password              = 48805472
+  | effect_types          = Effect, Ignition-like, Condition
   | lore                  = [[Discard]] 1 [[Level]] 4 [[Insect]] or [[Plant]] [[Monster Card|monster]], or 1 [[Normal Trap]]; [[draw]] 2 cards. You can [[banish]] this card from your [[GY]], then [[target]] 1 of your banished Level 4 Insect or Plant monsters, or 1 of your banished Normal Traps; place it on the bottom of the [[Deck]]. You can only use each effect of "Traptrix Allure" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：昆虫族・植物族のレベル４モンスター１体または通常罠カード１枚を手札から捨てて発動できる。自分はデッキから２枚ドローする。②：墓地のこのカードを除外し、除外されている自分の、昆虫族・植物族のレベル４モンスター１体または通常罠カード１枚を対象として発動できる。そのカードをデッキの一番下に戻す。
   | ko_lore               = 
   | jp_sets               = 
   SD45-JP024; Structure Deck: Forest of the Traptrix; Super Rare
@@ -41,7 +41,6 @@ wikitext: |-
   * Places the player's banished cards on the bottom of the Deck
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18311
   | tcg_status            = Not yet released
   }}
