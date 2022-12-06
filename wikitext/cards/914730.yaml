@@ -15,8 +15,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Equip
   | password              = 
-  | effect_types          = 
-  | lore                  = ''Effects unknown.''
+  | effect_types          = Condition, Effect, Condition
+  | lore                  = (This card is always treated as a "[[Crystal]]" card.)<br />Place 2 "[[Crystal Beast]]" monsters from your Deck face-up in your Spell & Trap Zone as Continuous Spells, then Special Summon 1 "Crystal Beast" monster from your hand or GY with a different name from those cards, and if you do, equip it with this card. When this card leaves the field, destroy that monster. You can only activate 1 "Golden Rule" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +26,8 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   23PP-JP004; Premium Pack 2023; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | archseries            = Crystal
+  | supports_archetypes   = Crystal Beast
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
