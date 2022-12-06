@@ -21,8 +21,8 @@ wikitext: |-
   | password              = 
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Summoning condition, Trigger, Trigger
-  | pendulum_effect       = You can target 1 card in your opponent's Pendulum Zone; Special Summon this card, and if you do, place that card in your Pendulum Zone, and if you do that, destroy it during the End Phase of the next turn. You can only use this effect of "D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox" once per turn.
-  | lore                  = Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Pendulum Summon a monster(s) and the total Pendulum Scales of the cards in your Pendulum Zone are higher than the total Levels of the Pendulum Summoned monsters: You can Special Summon this card from your hand, and if you do, destroy as many other cards on the field as possible, then you can place this card in your Pendulum Zone. Once per turn, if another face-up "[[D/D/D]]" monster(s) you control leaves the field by Spell effect: This card's ATK becomes 6000.
+  | pendulum_effect       = You can [[target]] 1 card in your opponent's [[Pendulum Zone]]; [[Special Summon]] this card, and if you do, place that card in your Pendulum Zone, and if you do that, [[destroy]] it during the [[End Phase]] of the next [[turn]]. You can only use this [[effect]] of "D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox" [[once per turn]].
+  | lore                  = Cannot be [[Normal Summon]]ed/[[Normal Set|Set]]. Must be [[Special Summon]]ed by its own [[effect]]. When you [[Pendulum Summon]] a [[Monster Card|monster]](s) and the total [[Pendulum Scale]]s of the cards in your [[Pendulum Zone]] are higher than the total Levels of the Pendulum Summoned monsters: You can Special Summon this card from your [[hand]], and if you do, [[destroy]] as many other cards on the [[field]] as possible, then you can place this card in your Pendulum Zone. [[Once per turn]], if another [[face-up]] "[[D/D/D]]" monster(s) you [[control]] [[leaves the field]] by [[Spell]] [[effect]]: This card's [[ATK]] becomes 6000.
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -43,7 +43,29 @@ wikitext: |-
   * D/D
   * D/D/D
   | supports_archetypes   = D/D/D
-  | misc                  = Special Summon Monster
+  | action                = 
+  * Places from field to Pendulum Zone
+  * Activates upon Pendulum Summon
+  * Activates from your hand
+  * Goes to Pendulum Zone
+  * Activates if it leaves the field
+  | stat_change           = Changes own ATK value
+  | m/s/t                 = 
+  * Destroys your Spell Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  | misc                  = 
+  * Special Summon Monster
+  * Only once per turn
+  * Limited activations
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

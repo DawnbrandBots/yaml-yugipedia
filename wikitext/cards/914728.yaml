@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Ignition, Ignition, Condition
-  | lore                  = You can Tribute 1 DARK monster that has a Level; increase the Levels of each "Baby Spider" you currently control by the Level the Tributed monster had on the field. You can pay half your LP, banish this card from your GY, and detach 1 material from your DARK Xyz Monster, then target 1 DARK monster in your GY; Special Summon it. You can only use each effect of "Baby Spider" once per turn.
+  | lore                  = You can [[Tribute]] 1 [[DARK]] [[Monster Card|monster]] that has a [[Level]]; increase the Levels of each "Baby Spider" you currently [[control]] by the Level the Tributed monster had on the [[field]]. You can pay half your [[LP]], [[banish]] this card from your GY, and [[detach]] 1 [[material]] from your DARK [[Xyz Monster]], then [[target]] 1 DARK monster in your GY; [[Special Summon]] it. You can only use each [[effect]] of "Baby Spider" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,7 +29,25 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   23PP-JP014; Premium Pack 2023; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports              = 
+  * DARK
+  * Baby Spider
+  * Xyz Monster
   | archseries            = Spider
+  | action                = 
+  * Tributes for cost
+  * Activates from your Graveyard
+  * Detaches Xyz Materials for cost
+  | stat_change           = Your monsters gain Levels
+  | summoning             = Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | life_points           = 
+  * Pays Life Points for cost
+  * Halves LP
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
