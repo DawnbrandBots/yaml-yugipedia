@@ -18,6 +18,7 @@ wikitext: |-
   | link_arrows         = Top-Left, Bottom-Right
   | atk                 = 1500
   | password            = 
+  | materials           = 2 LIGHT and/or DARK monsters
   | effect_types        = 
   | lore                = 2 [[LIGHT]] and/or [[DARK]] [[monster]]s<br />Must be [[Link Summon]]ed. You can only [[Special Summon]] "Sky Striker Ace - Azalea(s)" [[once per turn]]. If this card is Special Summoned: You can [[target]] 1 card on the field; [[destroy]] it, then, if you have 3 or less [[Spell Card|Spells]] in your [[Graveyard|GY]], send this card to the GY. Once per turn, at the start of the [[Damage Step]], if this card battles an opponent's monster: You can [[banish]] 1 Spell from your GY; destroy that opponent's monster.
   | fr_lore             = 
@@ -29,9 +30,27 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   VJMP-JP228; V Jump February 2023 promotional card; Ultra Rare
+  | supports            = 
+  * LIGHT
+  * DARK
   | archseries          = 
   * Sky Striker
   * Sky Striker Ace
+  | action              = 
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys battling monster at the start of the Damage Step
+  | summoning           = 
+  * 2 Link Materials
+  * Requires Attribute specific Link Materials
+  * Nomi
+  * Special Summon once per turn
+  | banished            = Banishes from Graveyard for cost
+  | misc                = Limited activations
   | database_id         = 
   | tcg_status          = Not yet released
   | ocg_status          = Not yet released
