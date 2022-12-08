@@ -1,7 +1,7 @@
 title: Odd-Eyes Rebellion Xyz Dragon
 wikitext: |-
-  {{Unofficial name| English}}
-  {{Unofficial lore| English}}
+  {{Unofficial name| Korean, English}}
+  {{Unofficial lore| Korean, English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -11,7 +11,7 @@ wikitext: |-
   | ja_name               = {{Ruby|覇|は}}{{Ruby|王|おう}}{{Ruby|黒|こく}}{{Ruby|竜|りゅう}}オッドアイズ・リベリオン・エクシーズ・ドラゴン
   | romaji_name           = Haōkokuryū Oddoaizu Riberion Ekushīzu Doragon
   | trans_name            = Supreme King Black Dragon, Odd-Eyes Rebellion Xyz Dragon
-  | ko_name               = 
+  | ko_name               = 패왕흑룡 오드아이즈 리벨리온 엑시즈 드래곤
   | ko_rr_name            = 
   | image                 = OddEyesRebellionXyzDragon-SUB1-JP-OP.png
   | attribute             = DARK
@@ -24,7 +24,24 @@ wikitext: |-
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Condition, Ignition, Condition, Trigger
   | pendulum_effect       = During your [[Main Phase]]: You can [[Special Summon]] this card, then you can [[attach]] 1 [[DARK]] [[monster]] from your [[GY]] to this card as [[material]]. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]].
-  | lore                  =  2 [[Level]] 7 [[Pendulum Monster]]s<br />If you can [[Pendulum Summon]] Level 7, you can Pendulum Summon this [[face-up]] card in your [[Extra Deck]]. Cannot be used as [[material]] for an [[Xyz Summon]] the [[turn]] it is Xyz Summoned. You can [[detach]] 1 material from this card, then [[target]] up to 2 [[monsters]] your opponent [[control]]s with 3000 or less [[ATK]]; [[destroy]] them. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]]. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
+  | lore                  = 2 [[Level]] 7 [[Pendulum Monster]]s<br />If you can [[Pendulum Summon]] Level 7, you can Pendulum Summon this [[face-up]] card in your [[Extra Deck]]. Cannot be used as [[material]] for an [[Xyz Summon]] the [[turn]] it is Xyz Summoned. You can [[detach]] 1 material from this card, then [[target]] up to 2 [[monsters]] your opponent [[control]]s with 3000 or less [[ATK]]; [[destroy]] them. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]]. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
+  | supports              = 
+  * DARK
+  * Pendulum Monster
+  | action                = 
+  * Attaches from your Graveyard as Xyz Material
+  * Activates if destroyed
+  * Goes to Pendulum Zone
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * 2 Xyz Materials
+  * Requires Pendulum Monsters as Xyz Materials
+  * Cannot be used as an Xyz Material
+  | misc                  = 
+  * Xyz Pendulum Monster
+  * Only once per turn
+  * Pendulum Summoning condition
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -37,8 +54,8 @@ wikitext: |-
   | es_lore               = 
   | ja_pendulum_effect    = 
   | ja_lore               = 
-  | ko_pendulum_effect    = 
-  | ko_lore               = 
+  | ko_pendulum_effect    = 이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 이 카드를 특수 소환한다. 그 후, 자신 묘지에서 어둠 속성 몬스터 1장을 고르고 이 카드의 아래에 겹쳐 엑시즈 소재로 할 수 있다.
+  | ko_lore               = 레벨 7 인 몬스터 × 2<br />레벨 7 이 펜듈럼 소환 가능한 경우에 엑스트라 덱의 앞면 표시의 이 카드는 펜듈럼 소환할 수 있다. 이 카드는 엑시즈 소환된 턴에는 엑시즈 소환의 소재로 할 수 없다. 이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 공격력 3000 이하인 몬스터를 2장까지 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다. ②: 몬스터 존의 이 카드가 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
   | jp_sets               = 
   SUB1-JP005; Secret Utility Box; Super Rare, Secret Rare
   | archseries            = 
