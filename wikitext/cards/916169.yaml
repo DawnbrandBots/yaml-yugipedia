@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|超|ちょう}}{{Ruby|重|じゅう}}{{Ruby|武|む}}{{Ruby|者|しゃ}}{{Ruby|装|そう}}{{Ruby|留|る}}ガイア・ブースター 
-  | romaji_name           = Chōjū Musha Sōru Gaia Būsutā
+  | romaji_name           = Chōjūmusha Sōru Gaia Būsutā
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -35,6 +35,16 @@ wikitext: |-
   * Superheavy Samurai
   * Superheavy Samurai Soul
   | supports_archetypes   = Superheavy Samurai
+  | action                = 
+  * Activates from your hand
+  * Equips self from hand
+  * Equips self from field
+  | stat_change           = Treats monsters as Tuner monsters
+  | m/s/t                 = Treated as Equip Card
+  | summoning             = Special Summons itself from your Spell & Trap Zone
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
