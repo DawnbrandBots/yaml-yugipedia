@@ -22,6 +22,7 @@ wikitext: |-
   | pendulum_scale        = 1
   | password              = 
   | pendulum_effect_types = Trigger-like, Condition
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Quick
   | pendulum_effect       = When an opponent's [[monster]] declares an [[attack]]: You can [[Special Summon]] this card, then, if you have no [[Spells]]/[[Traps]] in your [[GY]], change that opponent's monster's [[ATK]] to 0, also its [[effect]]s are [[negate]]d. You can only use this effect of "Superheavy Samurai General Shanao" [[once per turn]].
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />This card can [[attack]] while in [[face-up]] [[Defense Position]]. If it does, apply its [[DEF]] for [[damage calculation]]. [[Once per turn]], during the [[Battle Phase]], if you [[control]] this [[Synchro Summon]]ed card ([[Quick Effect]]): You can [[Special Summon]] 1 "[[Superheavy Samurai]]" Monster Card from your [[GY]] or [[face-up]] [[Spell & Trap Zone]], then you can place this card in your [[Pendulum Zone]].
@@ -43,7 +44,28 @@ wikitext: |-
   CYAC-JP040; Cyberstorm Access; 
   | archseries            = Superheavy Samurai
   | supports_archetypes   = Superheavy Samurai
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates upon attack declaration
+  * Goes to Pendulum Zone
+  | stat_change           = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your Spell & Trap Zone
+  | attack                = 
+  * Defense Position attacker
+  * Applies DEF for damage calculation
+  | misc                  = 
+  * Synchro Pendulum Monster
+  * Only once per turn
+  * Archetype condition
+  * Limited activations
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

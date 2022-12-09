@@ -21,6 +21,7 @@ wikitext: |-
   | def                   = 4000
   | password              = 
   | effect_types          = Continuous, Continuous, Trigger
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />This card can [[attack]] while in [[face-up]] [[Defense Position]]. If it does, apply its DEF for [[damage calculation]]. If a "[[Superheavy Samurai]]" monster(s) you control would be [[destroyed by battle]] or card [[effect]], you can [[destroy]] 1 "Superheavy Samurai" card you control instead. [[Once per turn]], if your opponent activates a [[Spell]]/[[Trap Card]] or effect: You can [[Draw a card|draw]] until you have 3 cards in your [[hand]].
   | fr_lore               = 
   | de_lore               = 
@@ -34,7 +35,23 @@ wikitext: |-
   CYAC-JP039; Cyberstorm Access +1 Bonus Pack; Ultra Rare, Prismatic Secret Rare
   | archseries            = Superheavy Samurai
   | supports_archetypes   = Superheavy Samurai
-  | misc                  = Archetype condition
+  | action                = You draw cards
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | attack                = 
+  * Defense Position attacker
+  * Applies DEF for damage calculation
+  * Prevents other cards being destroyed by battle
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
