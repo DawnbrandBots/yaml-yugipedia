@@ -1,6 +1,7 @@
 title: Gagaga Magician
 wikitext: |-
   {{Not archetype member|Magician|{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}}}
+
   {{CardTable2
   | fr_name               = Magicien Gagaga
   | de_name               = Gagaga-Magier
@@ -11,6 +12,7 @@ wikitext: |-
   | romaji_name           = Gagaga Majishan
   | ko_name               = 가가가 매지션
   | ko_rr_name            = Gagaga Maejisyeon
+  | sc_name               = 我我我魔术师
   | image                 = GagagaMagician-PGLD-EN-GUR-1E.png
   | attribute             = DARK
   | types                 = Spellcaster / Effect
@@ -27,6 +29,7 @@ wikitext: |-
   | es_lore               = Una vez por turno: puedes declarar un Nivel del 1 al 8; esta carta se convierte en una de ese Nivel hasta la End Phase. Sólo puedes controlar 1 "Mago Gagaga". Esta carta no puede ser usada como Monstruo Material de Sincronía.
   | ja_lore               = このカードはＳ素材にできない。①：「ガガガマジシャン」は自分フィールドに１体しか表側表示で存在できない。②：１ターンに１度、１～８までの任意のレベルを宣言して発動できる。このカードのレベルはターン終了時まで宣言したレベルになる。
   | ko_lore               = 이 카드는 싱크로 소재로 할 수 없다. ①: "가가가 매지션"은 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 1턴에 1번, 1~8 까지의 임의의 레벨을 선언하고 발동할 수 있다. 이 카드의 레벨은 턴 종료시까지 선언한 레벨이 된다.
+  | sc_lore               = 此卡不可作为同步素材。①："我我我魔术师"在自己场上仅可有1只以表侧表示存在。②：1回合1次，宣言1～8之间的任意等级可以发动。此卡的等级直至回合结束时为止，变为所宣言的等级。
   | en_sets               = 
   GENF-EN001; Generation Force; Super Rare
   BP01-EN218; Battle Pack: Epic Dawn; Common, Starfoil Rare
@@ -85,6 +88,8 @@ wikitext: |-
   ST13-KR009; Starter Deck 2013; Common
   CHBI-KRB22; Chronicle Binder; Normal Parallel Rare
   SD42-KR004; Structure Deck: Overlay Universe; Common
+  | sc_sets               = 
+  SD42-SC004; Structure Deck: Overlay Universe; Common
   | archseries            = Gagaga
   | action                = Declares a Level
   | stat_change           = Changes own Level

@@ -26,8 +26,21 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP058; Cyberstorm Access; 
-  | supports              = Visas Starfrost
+  | supports              = 
+  * Visas Starfrost
+  * LIGHT
+  * Tuner monster
+  | archseries            = World Destruction
   | supports_archetypes   = Manadome
+  | action                = 
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

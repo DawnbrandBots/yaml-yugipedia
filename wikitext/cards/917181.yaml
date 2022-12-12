@@ -29,6 +29,18 @@ wikitext: |-
   | supports              = Visas Starfrost
   | archseries            = Manadome
   | supports_archetypes   = Manadome
+  | related_to_archseries = Heart
+  | action                = 
+  * Reveals your hand for cost
+  * You draw cards
+  * Places cards from the player's hand on the bottom of the Deck
+  * Activates from your Graveyard
+  | stat_change           = Treats monsters as Tuner monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
