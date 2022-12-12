@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = マナドゥム・プライムハート
-  | romaji_name           = 
+  | romaji_name           = Manadumu Puraimuhāto
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = ManadomePrimeHeart-CYAC-JP-OP.png
@@ -19,8 +19,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
+  | materials             = 1 or more Tuners + 1 LIGHT monster
   | effect_types          = Continuous, Continuous, Trigger
-  | lore                  = 1+ [[Tuners]] + 1 [[LIGHT]] [[monster]]<br />This card can [[attack]] a number of times each [[Battle Phase]], up to the number of [[Tuners]] used as [[Synchro Material]] for this card. Your opponent cannot [[target]] this card that was [[Synchro Summon]]ed using a "[[Manadome]]" Tuner as material with card [[effect]]s. If this [[face-up]] Synchro Summoned card in its owner's [[control]] [[leaves the field]] because of an opponent's card: You can [[Special Summon]] 1 of your "[[Visas Starfrost]]" or monsters with 1500 [[ATK]]/2100 [[DEF]] that is banished or in your GY.
+  | lore                  = 1+ [[Tuners]] + 1 [[LIGHT]] [[monster]]<br />This card can [[attack]] a number of times each [[Battle Phase]], up to the number of [[Tuners]] used as its [[Synchro Material]]. Your opponent cannot [[target]] this card [[Synchro Summon]]ed using a "[[Manadome]]" Tuner as material with card [[effect]]s. If this [[face-up]] Synchro Summoned card in its owner's [[control]] [[leaves the field]] by an opponent's card: You can [[Special Summon]] 1 of your "[[Visas Starfrost]]" or 1 of your monsters with 1500 [[ATK]]/2100 [[DEF]] that is banished or in your GY.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,9 +31,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP043; Cyberstorm Access; 
-  | supports              = Visas Starfrost
-  | archseries            = Manadome
+  | supports              = 
+  * LIGHT
+  * Tuner monster
+  * Visas Starfrost
+  | archseries            = 
+  * Manadome
+  * Heart
   | supports_archetypes   = Manadome
+  | action                = 
+  * Gains effects if Synchro Summoned using specific Synchro Material
+  * Activates if it leaves the field
+  | m/s/t                 = Cannot be targeted by card effects
+  | summoning             = 
+  * 1 or more Tuner Synchro Materials
+  * Does not require specific Tuner Synchro Materials
+  * Requires Attribute specific Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | attack                = Multiple attacker
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

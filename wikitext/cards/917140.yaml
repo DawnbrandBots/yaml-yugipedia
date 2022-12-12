@@ -18,6 +18,7 @@ wikitext: |-
   | level                 = 8
   | atk                   = 3000
   | def                   = 3000
+  | fusion_material       = Visas Starfrost
   | materials             = "Visas Starfrost" + 1 monster with 1500 ATK/2100 DEF
   | password              = 
   | effect_types          = Summoning condition, Trigger, Continuous
@@ -37,6 +38,23 @@ wikitext: |-
   * Kashtira
   * Scareclaw
   * Tearlaments
+  | action                = Activates upon Special Summon
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Destroys Monster Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires ATK specific Fusion Materials
+  * Requires DEF specific Fusion Materials
+  * Nomi
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  | attack                = Cannot be destroyed by battle
+  | banished              = 
+  * Banishes Fusion Materials for Contact Fusion
+  * Banishes from field for Summon
+  * Banishes from Graveyard for Summon
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
