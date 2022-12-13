@@ -30,11 +30,16 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP019; Cyberstorm Access; Rare
-  | supports              = 
-  * Equip Card
-  * Trap Card
+  | supports              = Equip Card
   | archseries            = Mikanko
   | supports_archetypes   = Mikanko
+  | action                = Adds from Deck to hand
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | attack                = Cannot be destroyed by battle
+  | life_points           = 
+  * Prevents battle damage
+  * Your opponent takes battle damage
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

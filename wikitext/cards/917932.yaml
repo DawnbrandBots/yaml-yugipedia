@@ -28,10 +28,21 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP075; Cyberstorm Access; 
-  | supports              = Trap Card
   | archseries            = Rescue-ACE
   | supports_archetypes   = Rescue-ACE
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates from your Graveyard
+  * Sets from your Graveyard
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | m/s/t                 = Unaffected by the opponent's Monster Cards
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

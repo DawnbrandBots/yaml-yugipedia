@@ -18,7 +18,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect, Lingering, Unclassified, Trigger
-  | lore                  = Apply this effect, then you can discard 1 card, and if you do, Special Summon 1 Level 1 "[[Purrely]]" monster from your Deck. Once applied, the next battle or effect damage you take this turn becomes 0. A "Purrely" Xyz Monster that has this card as material gains this effect.<br />● Once per turn, during your opponent's Standby Phase: You can draw 1 card.
+  | lore                  = Apply this [[effect]], then you can [[discard]] 1 card, and if you do, [[Special Summon]] 1 [[Level]] 1 "[[Purrely]]" [[Monster Card|monster]] from your [[Main Deck|Deck]]. Once applied, the next [[battle damage|battle]] or [[effect damage]] you take this [[turn]] becomes 0. A "Purrely" [[Xyz Monster]] that has this card as [[material]] gains this effect.<br />● [[Once per turn]], during your opponent's [[Standby Phase]]: You can [[draw]] 1 card.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -32,6 +32,14 @@ wikitext: |-
   | archseries            = Purrely
   | supports_archetypes   = Purrely
   | action                = 
+  * You discard as an effect
+  * Grants effect while attached as Xyz Material
+  * You draw cards
+  | summoning             = Special Summons from your Deck
+  | life_points           = 
+  * Reduces battle damage
+  * Reduces effect damage
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
