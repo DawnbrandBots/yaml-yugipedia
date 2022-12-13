@@ -29,36 +29,50 @@ wikitext: |-
   ===Members===
   ====Effect Monsters====
   {| class="wikitable" style="text-align: center"
-  ! Level
+  ! Attribute
   ! Mikanko
-  ! Motif
-  ! Imperial Regalia
   ! Name origin
+  ! Animal
+  ! Imperial Regalia
+  ! Associated Equip Spell
   |-
-  | rowspan="2" | 3
+  | [[FIRE]] [[File:FIRE.svg|24px]]
   | [[Hare the Sword Mikanko|Hare the Sword]]
+  | ''[[wikipedia:Emperor Jimmu|Iwarebiko-no-Mikoto]]''<br/>(磐余彦尊)
   | Rat
   | ''[[wikipedia:Kusanagi no Tsurugi|Kusanagi-no-Tsurugi]]''
-  | ''[[wikipedia:Emperor Jimmu|Iwarebiko-no-Mikoto]]'' (磐余彦尊)
+  | [[Blazing Dance of the Mikanko]]<br/>[[Purifying Dance of the Mikanko]]
   |-
+  | [[WATER]] [[File:WATER.svg|24px]]
   | [[Nini the Mirror Mikanko|Nini the Mirror]]
+  | ''[[wikipedia:Ninigi-no-Mikoto|Ninigi-no-Mikoto]]''<br/>(瓊瓊杵尊)
   | Cat
   | ''[[wikipedia:Yata no Kagami|Yata-no-Kagami]]''
-  | ''[[wikipedia:Ninigi-no-Mikoto|Ninigi-no-Mikoto]]'' (瓊瓊杵尊)
+  | [[Arabesque of the Mikanko]]<br/>[[Inviting Rondo of the Mikanko]]
+  |-
+  | [[WIND]] [[File:WIND.svg|24px]]
+  | [[Furi the Orb Mikanko|Furi the Orb]]
+  | ''[[wikipedia:Hoori|Hoori-no-Mikoto]]''<br/>(火遠理命)
+  | Fox
+  | ''[[wikipedia:Magatama#Yasakani no Magatama|Yasakani-no-Magatama]]''
+  | [[Dance of the Mikanko - Fascinating Bird]]
   |}
+
   ====Ritual Monsters====
   {| class="wikitable" style="text-align: center"
-  ! Level
+  ! Attribute
   ! Mikanko
-  ! Motif
-  ! Imperial Regalia
   ! Name origin
+  ! Animal
+  ! Imperial Regalia
+  ! Associated Ritual Spell
   |-
-  | 6
-  | [[Ohime the Manifested Mikanko|Ohime]]
-  | Rooster<br/>''[[wikipedia:Citrus unshiu|Mikan]]''
+  | [[LIGHT]] [[File:LIGHT.svg|24px]]
+  | [[Ohime the Manifested Mikanko|Ohime the Manifested]]
+  | ''[[wikipedia:Amaterasu|Ōhime]]'' (大日女)
+  | Rooster
   | ''[[wikipedia:Kusanagi no Tsurugi|Kusanagi-no-Tsurugi]]''<br/>''[[wikipedia:Yata no Kagami|Yata-no-Kagami]]''
-  | ''Ōhime'' (大日女, another name for ''[[wikipedia:Amaterasu|Amaterasu]]'')
+  | [[Mikanko Kagura]]
   |}
 
 
@@ -71,6 +85,7 @@ wikitext: |-
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
 
   |effect monsters =
+  * [[Furi the Orb Mikanko]]
   * [[Hare the Sword Mikanko]]
   * [[Nini the Mirror Mikanko]]
   * [[Brave Beauty of Ruby Regard - Bradamante]]
@@ -101,6 +116,7 @@ wikitext: |-
   |spells =
   * [[Arabesque of the Mikanko]]
   * [[Blazing Dance of the Mikanko]]
+  * [[Dance of the Mikanko - Fascinating Bird]]
   * [[Doorway of the Celestial Mikanko]]
   * [[Inviting Rondo of the Mikanko]]
   * [[Mikanko Kagura]]
@@ -118,6 +134,7 @@ wikitext: |-
   ** [[Stonehenge]]
   * [[Burning Bamboo Sword]]
   * [[Golden Bamboo Sword]]
+  * [[Emergency Teleport]]
   * [[Foolish Burial Goods]]
   * [[Hidden Armory]]
   * [[Piri Reis Map]]
