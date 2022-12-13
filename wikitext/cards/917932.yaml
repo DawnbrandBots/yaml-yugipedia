@@ -17,8 +17,8 @@ wikitext: |-
   | card_type             = Trap
   | property              = Normal
   | password              = 
-  | effect_types          = 
-  | lore                  = (This card is always treated as a "[[Rescue-ACE]]" card.)<br/>Target 1 "Rescue-ACE" monster you control; until the end of this turn, it gains 1500 ATK/DEF, it is unaffected by your opponent's monster effects, also the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 "Rescue-ACE" Spell in your GY; Set it to your field. You can only use this effect of "REINFORCE!" once per turn.
+  | effect_types          = Condition, Effect, Condition
+  | lore                  = (This card is always treated as a "[[Rescue-ACE]]" card.)<br />[[Target]] 1 "[[Rescue-ACE]]" [[monster]] you [[control]]; until the end of this [[turn]], that monster you control gains 1500 [[ATK]]/[[DEF]], it is [[unaffected]] by your opponent's [[monster effect]]s, also the next time it would be [[destroyed by battle]], it is not destroyed. You can [[banish]] this card from your [[GY]], then target 1 "Rescue-ACE" [[Spell]] in your GY; [[Set]] it to your field. You can only use this [[effect]] of "REINFORCE!" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,7 +31,7 @@ wikitext: |-
   | supports              = Trap Card
   | archseries            = Rescue-ACE
   | supports_archetypes   = Rescue-ACE
-  | action                = 
+  | misc                  = Archetype condition
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

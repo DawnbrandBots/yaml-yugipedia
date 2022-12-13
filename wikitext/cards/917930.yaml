@@ -17,8 +17,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Equip
   | password              = 
-  | effect_types          = Continuous, Condition, Trigger-like, Ignition-like
-  | lore                  = The equipped monster cannot be destroyed by card effects. You can only use each of the following effects of "Dance of the Mikanko - Fascinating Bird" once per turn. If your "Mikanko" monster battles, at the end of the Damage Step: You can target 1 card on the field; return it to the hand. If this card is in your GY: You can target 1 "Mikanko" monster in your GY; Special Summon it, and if you do, equip it with this card, also banish that monster when it leaves the field.
+  | effect_types          = Continuous-like, Condition, Trigger-like, Ignition-like
+  | lore                  = The [[equip]]ped [[monster]] cannot be [[destroy]]ed by card [[effect]]s. You can only use each of the following [[effect]]s of "Dance of the Mikanko - Fascinating Bird" [[once per turn]]. If your "[[Mikanko]]" monster [[battle]]s, at the end of the [[Damage Step]]: You can [[target]] 1 card on the [[field]]; [[return]] it to the [[hand]]. If this card is in your [[GY]]: You can target 1 "Mikanko" monster in your GY; [[Special Summon]] it (but [[banish]] it when it [[leaves the field]]), and if you do, equip it with this card.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,7 +30,6 @@ wikitext: |-
   CYAC-JP062; Cyberstorm Access; 
   | archseries            = Mikanko
   | supports_archetypes   = Mikanko
-  | action                = 
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
