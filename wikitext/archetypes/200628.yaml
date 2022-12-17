@@ -98,9 +98,9 @@ wikitext: |-
   {| class="wikitable" style="text-align: center"
   ! Hieratic !! Trigger Effect Summon
   |-
-  | [[Hieratic Dragon of Gebeb|Gebeb]] || "Hieratic" Normal Monster<sup>1</sup>
+  | [[Hieratic Dragon of Gebeb|Gebeb]] || "Hieratic" Normal Monster<ref group="lower-alpha">The only monster fitting this criteria is "[[Hieratic Seal of the Sun Dragon Overlord]]", who has 0 ATK/DEF.</ref>
   |-
-  | [[Hieratic Dragon of Eset|Eset]] || rowspan = 4 | Dragon Normal Monster<sup>2</sup>
+  | [[Hieratic Dragon of Eset|Eset]] || rowspan = 4 | Dragon Normal Monster<ref group="lower-alpha" name="Zeroed ATK-DEF">Make the summoned monster's ATK/DEF 0.</ref>
   |-
   | [[Hieratic Dragon of Nebthet|Nebthet]]
   |-
@@ -108,13 +108,9 @@ wikitext: |-
   |-
   | [[Hieratic Dragon of Tefnuit|Tefnuit]]
   |-
-  | [[Hieratic Seal of the Heavenly Spheres|Heavenly Spheres]] || Dragon monster<sup>2, 3</sup>
+  | [[Hieratic Seal of the Heavenly Spheres|Heavenly Spheres]] || Dragon monster<ref group="lower-alpha" name="Zeroed ATK-DEF"/><ref group="lower-alpha">"Heavenly Spheres" cannot summon from GY with this effect; it can only summon from hand or Deck.</ref>
   |}
-  <small>
-  # The only monster fitting this criteria is "[[Hieratic Seal of the Sun Dragon Overlord]]", who has 0 ATK/DEF.
-  # Make the summoned monster's ATK/DEF 0.<br />
-  # "Heavenly Spheres" cannot summon from GY with this effect; it can only summon from hand or Deck.
-  </small>
+  <references group="lower-alpha"/>
 
   This effect allows "Hieratic" monsters to compensate for the costs of being used as tribute fodder. The replacement monster would typically be summoned from the Deck, and would typically be a Normal Monster with some beneficial properties. Common options include Level 5 or 6 Dragon Normal Monsters to enable Rank 5/6 Xyz plays, or [[Tuner]] Dragon Normal monsters (e.g. "[[Galaxy Serpent]]") to enable Synchro plays.
 
