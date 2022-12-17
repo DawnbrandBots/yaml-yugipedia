@@ -15,9 +15,9 @@ wikitext: |-
   | materials           = "[[Tamabot]]" + "Tamabot"
   | requirement         = None
   | lore                = Your opponent [[Draw a card|draws]] 1 card and shows it. Then, if that card is a [[monster]], this card gains [[ATK]] equal to [the shown monster's [[ATK]]] until the end of this [[turn]].
-  | ja_materials        = 
-  | ja_requirement      = 
-  | ja_lore             = 
+  | ja_materials        = 「タマボット」＋「タマボット」
+  | ja_requirement      = なし
+  | ja_lore             = 相手は１枚ドローし、お互いに確認する。そのカードがモンスターだった場合、さらにこのカードの攻撃力はターン終了時まで、［確認したモンスターの攻撃力］だけアップする。
   | jp_sets             = 
   RD/23PR-JP003; Rush Duel Promotion Pack 2023; Normal Parallel Rare
   | action              = 
@@ -28,6 +28,5 @@ wikitext: |-
   * 2 Fusion Materials
   * Requires only specific Normal Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18579
   }}
