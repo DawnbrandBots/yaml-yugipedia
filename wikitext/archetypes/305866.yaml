@@ -77,14 +77,16 @@ wikitext: |-
   ===Members===
   Each Main Deck "Satellarknight" monster is based on one of the brightest stars from the [[wikipedia:IAU designated constellations|88 constellations]] (primarily the constellations established by [[wikipedia:Ptolemy|Ptolemy]]).
 
-  "[[Stellarknight Zefraxciton]]" is the only Main Deck "Tellarknight" that is not a "Satellarknight". Instead of a specific star, "Zefraxciton" is based on one of the constellations themselves.
+  "[[Stellarknight Zefraxciton]]" is the only Main Deck "Tellarknight" that is called a "Stellarknight". Instead of a specific star, "Zefraxciton" is based on one of the constellations themselves.
   ====Main Deck Monsters====
   {| class="wikitable" style="text-align: center"
   ! Tellarknight !! Astronomical origin
   |-
   | [[Satellarknight Alsahm|Alsahm]] || [[wikipedia:Alpha Sagittae|Alsahm (α Sagittae)]]
   |-
-  | [[Satellarknight Altair|Altair]] || [[wikipedia:Altair|Altair (α Aquilae)]]
+  | [[Satellarknight Altair|Altair]] || rowspan="2" | [[wikipedia:Altair|Altair (α Aquilae)]]
+  |-
+  | [[Tellarknight Altea|Altea]]
   |-
   | [[Satellarknight Betelgeuse|Betelgeuse]] || [[wikipedia:Betelgeuse|Betelgeuse (α Orionis)]]
   |-
@@ -100,7 +102,9 @@ wikitext: |-
   |-
   | [[Satellarknight Unukalhai|Unukalhai]] || [[wikipedia:Alpha Serpentis|Unukalhai (α Serpentis)]]
   |-
-  | [[Satellarknight Vega|Vega]] || [[wikipedia:Vega|Vega (α Lyrae)]]
+  | [[Satellarknight Vega|Vega]] || rowspan="2" | [[wikipedia:Vega|Vega (α Lyrae)]]
+  |-
+  | [[Tellarknight Lyra|Lyra]]
   |-
   | [[Satellarknight Zefrathuban|Zefrathuban]] || [[wikipedia:Thuban|Thuban (α Draconis)]]
   |-
@@ -110,17 +114,17 @@ wikitext: |-
   {| class="wikitable" style="text-align: center"
   ! Tellarknight !! Visual components !! Astronomical origin
   |-
+  | [[Darktellarknight Batlamyus|Batlamyus]] || [[Shaddoll Construct]] || ''Batlamyus'' (بَطْلُمْيوس; Arabic for "[[wikipedia:Ptolemy|Ptolemy]]")
+  |-
   | [[Stellarknight Constellar Diamond|Constellar Diamond]] || [[Gem-Knight Master Diamond]] + [[Constellar Aldebaran]] + [[Constellar Pollux]] +<br/>[[Satellarknight Capella]] + [[Satellarknight Procyon]] + [[Satellarknight Rigel]] + [[Satellarknight Sirius]] || [[wikipedia:Winter Hexagon|Winter Hexagon]]
   |-
   | [[Stellarknight Delteros|Delteros]] || [[Satellarknight Altair]] + [[Satellarknight Deneb]] + [[Satellarknight Vega]] || [[wikipedia:Summer Triangle|Summer Triangle]]
   |-
   | [[Stellarknight Triverr|Triverr]] || [[Satellarknight Betelgeuse]] + [[Satellarknight Procyon]] + [[Satellarknight Sirius]] || [[wikipedia:Winter Triangle|Winter Triangle]]
   |-
+  | [[Tellarknight Constellar Caduceus|Constellar Caduceus]] || [[Constellar Caduceus]] + [[Tellarknight Altea]] + [[Tellarknight Lyra]] || -
+  |-
   | [[Tellarknight Ptolemaeus|Ptolemaeus]] || [[Constellar Sombre]] + [[Stellarknight Constellar Diamond]] + all of the remaining "Tellarknights" || [[wikipedia:Geocentric model#Ptolemaic system|Ptolemaic system]]
-  |-
-  | [[Darktellarknight Batlamyus|Batlamyus]] || [[Shaddoll Construct]] || ''Batlamyus'' (بَطْلُمْيوس; Arabic for "[[wikipedia:Ptolemy|Ptolemy]]")
-  |-
-
   |}
 
   ====Spells====
@@ -135,8 +139,9 @@ wikitext: |-
   |-
   | [[Stellarnova Wave]] || [[wikipedia:Northern Cross (asterism)|Northern Cross]]
   |-
-  | [[Tellarknight Genesis]] || -
+  | [[Tellarknight Constellar]] || -
   |-
+  | [[Tellarknight Genesis]] || -
   |}
 
   ==Playing style==
