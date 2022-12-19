@@ -12,7 +12,10 @@ wikitext: |-
   | ko_name               = 솔도레미코드 그레이시아
   | ko_rr_name            = Soldoremikodeu Geureisia
   | sc_name               = 索音服和弦・格蕾西娅
-  | image                 = SolSolfachordGracia-ANGU-EN-SR-1E.png
+  | image                 = 
+  1;   SolSolfachordGracia-DBAG-JP-SR.png   ; SolSolfachordGracia-MADU-JP-VG-artwork.png
+  1.1; SolSolfachordGracia-ANGU-EN-SR-1E.png; SolSolfachordGracia-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
   | attribute             = WATER
   | types                 = Fairy / Pendulum / Effect
   | level                 = 5
@@ -71,6 +74,7 @@ wikitext: |-
   * Prevents activation of your opponent's Trap Cards
   | summoning             = Prevents activations upon Summon
   | misc                  = 
+  * Requires control of specific Pendulum Scale
   * Only once per turn
   * Requires control of specific archetype
   * Requires control of specific Monster type

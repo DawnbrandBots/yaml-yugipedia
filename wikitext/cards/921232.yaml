@@ -19,8 +19,8 @@ wikitext: |-
   | rank                  = 4
   | atk                   = 2500
   | def                   = 1650
-  | materials             = 2+ Level 4 monsters
   | password              = 
+  | materials             = 2 or more Level 4 monsters
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = 2+ [[Level]] 4 [[monster]]s<br />If this card is [[Xyz Summon]]ed: You can [[target]] 1 "[[tellarknight]]" card and/or 1 "[[Constellar]]" card in your [[GY]]; [[add]] them to your [[hand]]. You can [[banish]] 1 "tellarknight" or "Constellar" monster from your hand or [[Main Deck|Deck]], then [[detach]] 1 [[Xyz Material|material]] from this card; this [[effect]] becomes that banished monster's [[activate]]d effect when that monster is [[Normal Summon]]ed. You can only use each effect of "Tellarknight Constellar Caduceus" [[once per turn]].
   | fr_lore               = 
@@ -38,6 +38,17 @@ wikitext: |-
   | supports_archetypes    = 
   * Constellar
   * tellarknight
+  | action                = 
+  * Activates upon Xyz Summon
+  * Adds from Graveyard to hand
+  * Resolves as another card's effect
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from Deck for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

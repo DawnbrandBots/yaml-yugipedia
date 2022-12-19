@@ -12,7 +12,10 @@ wikitext: |-
   | ko_name               = 도레미코드 엘레강스
   | ko_rr_name            = Doremikodeu Ellegangseu
   | sc_name               = 音服和弦・优雅
-  | image                 = SolfachordElegance-ANGU-EN-SR-1E.png
+  | image                 = 
+  1;   SolfachordElegance-DBAG-JP-SR.png   ; SolfachordElegance-MADU-JP-VG-artwork.png
+  1.1; SolfachordElegance-ANGU-EN-SR-1E.png; SolfachordElegance-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
   | card_type             = Spell
   | property              = Normal
   | password              = 27870337
@@ -55,6 +58,7 @@ wikitext: |-
   * You draw cards
   | misc                  = 
   * Variable effects
+  * Requires control of specific Pendulum Scale
   * Only once per turn
   | database_id           = 16092
   }}

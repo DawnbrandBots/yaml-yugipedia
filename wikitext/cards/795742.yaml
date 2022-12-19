@@ -12,7 +12,10 @@ wikitext: |-
   | ko_name               = 도도레미코드 쿨리아
   | ko_rr_name            = Dodoremikodeu Kullia
   | sc_name               = 哆音服和弦・克理娅
-  | image                 = DoSolfachordCoolia-ANGU-EN-UR-1E.png
+  | image                 = 
+  1;   DoSolfachordCoolia-DBAG-JP-UR.png   ; DoSolfachordCoolia-OW.png
+  1.1; DoSolfachordCoolia-ANGU-EN-UR-1E.png; DoSolfachordCoolia-OW-2.png
+  | current_image         = 1.1
   | attribute             = WIND
   | types                 = Fairy / Pendulum / Effect
   | level                 = 8
@@ -75,6 +78,7 @@ wikitext: |-
   * Special Summons itself from your hand
   | misc                  = 
   * Requires control of specific Monster type
+  * Requires control of specific Pendulum Scale
   * Only once per turn
   * Cover card
   | database_id           = 16091

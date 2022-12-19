@@ -36,6 +36,21 @@ wikitext: |-
   * GranSolfachord
   * Solfachord
   | supports_archetypes   = Solfachord
+  | action                = 
+  * Prevents the negation of card effects
+  * Adds from Deck to Extra Deck
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Pendulum Monsters as Link Materials
+  * Special Summons from your Pendulum Zone
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific Pendulum Scale
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

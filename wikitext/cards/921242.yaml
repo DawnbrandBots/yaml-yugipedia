@@ -33,6 +33,19 @@ wikitext: |-
   | supports_archetypes    = 
   * Solfachord
   * GranSolfachord
+  | action                = You draw cards
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = Special Summons from your Extra Deck
+  | misc                  = 
+  * Variable effects
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Requires control of specific Pendulum Scale
+  * Only once per turn
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
   }}

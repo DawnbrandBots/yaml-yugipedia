@@ -40,7 +40,22 @@ wikitext: |-
   | supports_archetypes    = 
   * Constellar
   * tellarknight
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | attack                = Prevents your monsters from attacking
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

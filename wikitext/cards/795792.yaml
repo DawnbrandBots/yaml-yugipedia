@@ -12,7 +12,10 @@ wikitext: |-
   | ko_name               = 시도레미코드 뷰티아
   | ko_rr_name            = Sidoremikodeu Byutia
   | sc_name               = 西音服和弦・尤提娅
-  | image                 = TiSolfachordBeautia-ANGU-EN-UR-1E.png
+  | image                 = 
+  1;   TiSolfachordBeautia-DBAG-JP-C.png    ; TiSolfachordBeautia-MADU-JP-VG-artwork.png
+  1.1; TiSolfachordBeautia-ANGU-EN-UR-1E.png; TiSolfachordBeautia-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
   | attribute             = EARTH
   | types                 = Fairy / Pendulum / Effect
   | level                 = 7
@@ -70,6 +73,7 @@ wikitext: |-
   | summoning             = Prevents activations upon Summon
   | banished              = Banishes cards when they leave the field
   | misc                  = 
+  * Requires control of specific Pendulum Scale
   * Only once per turn
   * Limited activations
   | database_id           = 16090
