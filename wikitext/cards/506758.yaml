@@ -1,7 +1,6 @@
 title: Yellow Gadget
 wikitext: |-
   {{CardTable2
-  | tc_name               = 黃色齒輪
   | fr_name               = Gadget Jaune
   | de_name               = Gelber Apparat
   | it_name               = Congegno Giallo
@@ -11,6 +10,8 @@ wikitext: |-
   | romaji_name           = Ierō Gajetto
   | ko_name               = 옐로 가제트
   | ko_rr_name            = Yello Gajeteu
+  | tc_name               = 黃色齒輪
+  | sc_name               = 黄色小工具
   | image                 = YellowGadget-FIGA-EN-SR-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_lore               = ①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「グリーン・ガジェット」１体を手札に加える。
   | ko_lore               = ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 덱에서 "그린 가제트" 1장을 패에 넣는다.
   | tc_lore               = 此卡召唤、特殊召唤成功时，能够从牌组中将1只「綠色齒輪」加入手牌。
+  | sc_lore               = ①：此卡召唤・特殊召唤成功时可以发动。从牌组将1只"绿色小工具"加入手牌。
   | en_sets               = 
   SD10-EN008; Structure Deck: Machine Re-Volt; Common
   HL07-EN006; Hobby League 7 participation card F; Ultra Parallel Rare
@@ -97,8 +99,6 @@ wikitext: |-
   DS14-JPM08; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
   15AY-JPC18; Memories of the Duel King: Ceremonial Battle Arc; Common
   DP17-JP023; Duelist Pack: Pharaoh's Memories; Common
-  | tc_sets               = 
-  SD18-TC017; Structure Deck: Machiners Command; Common
   | kr_sets               = 
   PP01-KR005; Premium Pack Vol.1; Ultra Rare
   SD10-KR008; Structure Deck: Machine Re-Volt; Common
@@ -106,6 +106,10 @@ wikitext: |-
   DS14-KRM08; Duelist Set: Version Machine-Gear Troopers; Ultra Rare
   DP17-KR023; Duelist Pack: Pharaoh's Memories; Common
   15AY-KRC18; Memories of the Duel King: Ceremonial Battle Arc; Common
+  | tc_sets               = 
+  SD18-TC017; Structure Deck: Machiners Command; Common
+  | sc_sets               = 
+  TM01-SC042; Theme Pack: War of Infinite Machine; Common
   | supports              = Green Gadget
   | archseries            = Gadget
   | related_to_archseries = Ancient Gear

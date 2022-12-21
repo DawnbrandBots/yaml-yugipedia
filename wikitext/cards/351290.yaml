@@ -4,12 +4,13 @@ wikitext: |-
   | fr_name               = Robobureau 005
   | de_name               = Büroboter 005
   | it_name               = Deskbot 005
-  | ko_name               = 분보그{{Ruby|0|제로|lang=ko}}{{Ruby|0|제로|lang=ko}}{{Ruby|5|파이브|lang=ko}}
   | pt_name               = Robô-secretário 005
   | es_name               = Escritoriobot 005
   | ja_name               = ブンボーグ{{Ruby|０|ゼロ}}{{Ruby|０|ゼロ}}{{Ruby|５|ファイブ}}
   | romaji_name           = Bunbōgu Zero Zero Faibu
   | trans_name            = Bunborg 005
+  | ko_name               = 분보그{{Ruby|0|제로|lang=ko}}{{Ruby|0|제로|lang=ko}}{{Ruby|5|파이브|lang=ko}}
+  | sc_name               = 文具博格００５
   | image                 = Deskbot005-MP16-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Machine / Pendulum / Effect
@@ -36,6 +37,8 @@ wikitext: |-
   | ja_lore               = 「ブンボーグ００５」の③のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。②：このカードの攻撃力は、自分のエクストラデッキの表側表示の「ブンボーグ」モンスターの数×５００アップする。③：このカードが{{Ruby|Ｐ|ペンデュラム}}ゾーンで破壊された場合、自分の墓地の「ブンボーグ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   | ko_pendulum_effect    = ① : 자신은 "분보그" 몬스터 밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
   | ko_lore               = "분보그 005"의 ③의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환 / 특수 소환에 성공한 경우, 필드의 마법 / 함정 카드 1장을 대상으로 발동할 수 있다. 이 카드를 파괴한다. ② : 이 카드의 공격력은, 자신의 엑스트라 덱의 앞면 표시의 "분보그" 몬스터의 수 × 500 올린다. ③ : 이 카드가 펜듈럼 존에서 파괴된 경우, 자신 묘지의 "분보그" 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  | sc_pendulum_effect    = ①：自己仅可灵摆召唤"文具博格"怪兽。此效果不会被无效化。
+  | sc_lore               = 此卡名的③怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下，以场上1张魔法・陷阱卡为对象可以发动。将该卡破坏。②：此卡的攻击力上升相当于自己额外牌组表侧表示"文具博格"怪兽数量×500的数值。③：此卡在灵摆区域被破坏的情况下，以自己墓地的1只"文具博格"怪兽为对象可以发动。将该怪兽特殊召唤。
   | en_sets               = 
   CORE-EN044; Clash of Rebellions; Common
   MP16-EN075; 2016 Mega-Tin Mega Pack; Common
@@ -58,6 +61,8 @@ wikitext: |-
   CORE-JP044; Clash of Rebellions; Common
   | kr_sets               = 
   CORE-KR044; Clash of Rebellions; Common
+  | sc_sets               = 
+  TM01-SC077; Theme Pack: War of Infinite Machine; Common
   | archseries            = Deskbot
   | supports_archetypes   = Deskbot
   | action                = 

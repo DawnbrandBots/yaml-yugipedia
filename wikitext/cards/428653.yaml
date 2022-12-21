@@ -4,12 +4,13 @@ wikitext: |-
   | fr_name               = Robobureau 008
   | de_name               = Büroboter 008
   | it_name               = Deskbot 008
-  | ko_name               = 분보그{{Ruby|0|제로|lang=ko}}{{ruby|0|제로|lang=ko}}{{Ruby|8|에이트|lang=ko}}
   | pt_name               = Robô-secretário 008
   | es_name               = Escritoriobot 008
   | ja_name               = ブンボーグ{{Ruby|０|ゼロ}}{{Ruby|０|ゼロ}}{{Ruby|８|エイト}}
   | romaji_name           = Bunbōgu Zero Zero Eito
   | trans_name            = Bunborg 008
+  | ko_name               = 분보그{{Ruby|0|제로|lang=ko}}{{ruby|0|제로|lang=ko}}{{Ruby|8|에이트|lang=ko}}
+  | sc_name               = 文具博格００８
   | image                 = Deskbot008-MP16-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Machine / Pendulum / Effect
@@ -36,6 +37,8 @@ wikitext: |-
   | ja_lore               = ①：このカードの攻撃力は、自分の墓地の「ブンボーグ」カードの数×５００アップする。②：このカードがモンスターゾーンに存在する限り、相手は他の「ブンボーグ」カードを効果の対象にできない。③：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   | ko_pendulum_effect    = ①: 자신은 "분보그" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
   | ko_lore               = ①: 이 카드의 공격력은, 자신 묘지의 "분보그" 카드의 수 × 500 올린다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 "분보그" 카드를 효과의 대상으로 할 수 없다. ③: 이 카드는 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다.
+  | sc_pendulum_effect    = ①：自己仅可灵摆召唤"文具博格"怪兽。此效果不会被无效化。
+  | sc_lore               = ①：此卡的攻击力上升相当于自己墓地"文具博格"卡数量×500的数值。②：只要此卡存在于怪兽区域，对手不可将其他"文具博格"卡作为效果的对象。③：此卡在1次战斗阶段中最多可攻击怪兽2次。
   | en_sets               = 
   BOSH-EN040; Breakers of Shadow; Common
   MP16-EN207; 2016 Mega-Tin Mega Pack; Common
@@ -58,6 +61,8 @@ wikitext: |-
   BOSH-JP040; Breakers of Shadow; Common
   | kr_sets               = 
   BOSH-KR040; Breakers of Shadow; Common
+  | sc_sets               = 
+  TM01-SC080; Theme Pack: War of Infinite Machine; Common
   | archseries            = Deskbot
   | supports_archetypes   = Deskbot
   | action                = Effect that cannot be negated
