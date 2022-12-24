@@ -13,14 +13,14 @@ wikitext: |-
   | trans_name            = Supreme King Black Dragon, Odd-Eyes Rebellion Xyz Dragon
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = OddEyesRebellionXyzDragon-SUB1-JP-OP.png
+  | image                 = OddEyesRebellionXyzDragon-SUB1-JP-SR.png
   | attribute             = DARK
   | types                 = Dragon / Xyz / Pendulum / Effect
   | rank                  = 7
   | atk                   = 3000
   | def                   = 2500
   | pendulum_scale        = 4
-  | password              = 
+  | password              = 30095833
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Condition, Ignition, Condition, Trigger
   | pendulum_effect       = During your [[Main Phase]]: You can [[Special Summon]] this card, then you can [[attach]] 1 [[DARK]] [[monster]] from your [[GY]] to this card as [[material]]. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]].
@@ -52,8 +52,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを特殊召喚する。その後、自分の墓地から闇属性モンスター１体を選んでこのカードの下に重ねてＸ素材にできる。
+  | ja_lore               = レベル７のＰモンスター×２<br />レベル７がＰ召喚可能な場合にＥＸデッキの表側表示のこのカードはＰ召喚できる。このカードはＸ召喚されたターンにはＸ召喚の素材にできない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除き、相手フィールドの攻撃力３０００以下のモンスターを２体まで対象として発動できる。そのモンスターを破壊する。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
@@ -69,7 +69,6 @@ wikitext: |-
   * Four Dimensional Dragons
   * Pendulum (archetype)
   * Pendulum Dragon
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18429
   | tcg_status            = Not yet released
   }}
