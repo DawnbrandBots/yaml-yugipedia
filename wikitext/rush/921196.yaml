@@ -2,7 +2,10 @@ title: Widespread Ruin (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image             = WidespreadRuin-RD23PR-JP-NPR.png
+  | image             = 
+  1; WidespreadRuin-RD23PR-JP-NPR.png
+  2; WidespreadRuin-RDB224-JP-OP.png
+  | current_image     = 1
   | card_type         = Trap
   | property          = Normal
   | requirement       = When an opponent's [[monster]] declares an [[attack]].
@@ -11,6 +14,7 @@ wikitext: |-
   | ja_lore           = 相手フィールドの攻撃表示モンスターの内、攻撃力が一番高いモンスター１体を選んで破壊する。
   | jp_sets           = 
   RD/23PR-JP005; Rush Duel Promotion Pack 2023; Normal Parallel Rare
+  RD/B224-JP001; Battle Pack 2022 Vol.4; Common, Super Rare, Ultra Rare
   | action            = Activates upon attack declaration
   | m/s/t             = Destroys your opponent's face-up Monster Cards
   | database_id       = 18581

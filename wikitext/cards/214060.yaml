@@ -7,13 +7,14 @@ wikitext: |-
   | fr_name               = La Force des Générations
   | de_name               = Generation Stärke
   | it_name               = Generazione Forza
-  | tc_name               = 世代之力
-  | ko_name               = 제너레이션 포스
   | pt_name               = Força de Geração
   | es_name               = Fuerza Generación
   | name                  = Generation Force
   | ja_name               = ジェネレーション・フォース
   | romaji_name           = Jenerēshon Fōsu
+  | ko_name               = 제너레이션 포스
+  | tc_name               = 世代之力
+  | sc_name               = 世代之力
   | image                 = GenerationForce-REDU-EN-C-1E.png
   | card_type             = Spell
   | property              = Normal
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_lore               = ①：自分フィールドにＸモンスターが存在する場合に発動できる。デッキから「エクシーズ」カード１枚を手札に加える。
   | ko_lore               = ①: 자신 필드에 엑시즈 몬스터가 존재할 경우에 발동할 수 있다. 덱에서 "엑시즈" 카드 1장을 패에 넣는다.
   | tc_lore               = 我方场上存在超量怪兽的场合可发动。从牌组将1张冠有「超量」之名的卡牌加入手牌。
+  | sc_lore               = ①：自己场上有超量怪兽存在的情况下可以发动。从牌组将1张"超量"卡加入手牌。
   | en_sets               = 
   REDU-EN063; Return of the Duelist; Common
   | fr_sets               = 
@@ -41,11 +43,13 @@ wikitext: |-
   | jp_sets               = 
   REDU-JP063; Return of the Duelist; Rare
   20TP-JP313; Tournament Pack 2020 Vol.3; C
+  | kr_sets               = 
+  REDU-KR063; Return of the Duelist; Rare
   | tc_sets               = 
   ST14-TC020; Duel Starter Deck; Common
   REDU-TC063; Return of the Duelist; Rare
-  | kr_sets               = 
-  REDU-KR063; Return of the Duelist; Rare
+  | sc_sets               = 
+  SCTP-SC158; Entry Pack Volume 10; Common
   | supports              = Xyz Monster
   | supports_archetypes   = Xyz (archetype)
   | action                = Adds from Deck to hand
