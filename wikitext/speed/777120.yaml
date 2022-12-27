@@ -32,4 +32,9 @@ wikitext: |-
   SBCB-ITS12; Speed Duel: Battle City Box; Common
   | sp_sets             = 
   SBCB-SPS12; Speed Duel: Battle City Box; Common
+  | stat_change         = Your monsters gain ATK
+  | action              = 
+  * Negates the activation of Trap Cards
+  * Sets negated activations
+  | misc                = Only once per turn
   }}

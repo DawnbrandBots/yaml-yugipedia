@@ -32,4 +32,16 @@ wikitext: |-
   SBCB-ITS05; Speed Duel: Battle City Box; Common
   | sp_sets             = 
   SBCB-SPS05; Speed Duel: Battle City Box; Common
+  | action              = 
+  * Declares a card type
+  * Reveals face-down cards
+  * Reveals your opponent's hand
+  | m/s/t               =
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | life_points           = 
+  * Halves the player's LP
+  * Pays Life Points for cost
+  * Damages your opponent
+  | misc                  = Only once per Duel
   }}
