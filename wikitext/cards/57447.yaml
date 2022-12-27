@@ -52,7 +52,9 @@ wikitext: |-
   * Counter (counter)
   * Places counters on itself
   * Removes counters from itself
-  | m/s/t                 = Destroys itself
+  | m/s/t                 = 
+  * Destroys itself
+  * Destroys battling monster at the end of the Damage Step
   | summoning             = Normal Summon without Tribute
   | action                = Activates upon Special Summon
   | attack                = Cannot be destroyed by battle

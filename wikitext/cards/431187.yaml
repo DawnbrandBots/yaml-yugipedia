@@ -66,7 +66,9 @@ wikitext: |-
   * Reveals your hand for effect
   * Activates if destroyed by battle
   | stat_change           = Modifies the Levels of monsters in the hand
-  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys battling monster at the end of the Damage Step
   | misc                  = Limited activations
   | database_id           = 12113
   }}

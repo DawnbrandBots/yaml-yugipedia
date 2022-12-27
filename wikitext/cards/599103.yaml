@@ -64,7 +64,9 @@ wikitext: |-
   * Counter (counter)
   * Places counters on itself
   * Removes counters from itself
-  | m/s/t                 = Destroys itself
+  | m/s/t                 = 
+  * Destroys itself
+  * Destroys battling monster at the end of the Damage Step
   | attack                = Cannot be destroyed by battle
   | misc                  = From Konami Video Games
   | database_id           = 14471

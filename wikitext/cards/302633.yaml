@@ -1,6 +1,5 @@
 title: Bujingi Raven
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Bujingi Corbeau
   | de_name               = Bujingi Rabe
@@ -54,6 +53,8 @@ wikitext: |2-
   | action                = 
   * Activates if destroyed by battle
   * Sends itself from hand to Graveyard for cost
-  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys battling monster at the end of the Damage Step
   | database_id           = 10872
   }}

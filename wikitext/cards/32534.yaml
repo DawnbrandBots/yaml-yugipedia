@@ -1,6 +1,5 @@
 title: Telepathic Power
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Pouvoir Télépathique
   | de_name               = Telepathische Kraft
@@ -48,7 +47,9 @@ wikitext: |2-
   '''[[Pack 49 (YGOO-BP)|Pack 49]]'''
   | supports              = Psychic
   | action                = Activates if destroyed by battle
-  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys battling monster at the end of the Damage Step
   | life_points           = You gain Life Points
   | database_id           = 7761
   }}
