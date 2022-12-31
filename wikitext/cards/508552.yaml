@@ -1,10 +1,6 @@
 title: Kojikocy
 wikitext: |-
-  {{Unofficial name|Chinese}}
-  {{Unofficial lore|Chinese}}
-
   {{CardTable2
-  | zh_name               = 魔物狩人
   | fr_name               = Kojikocy
   | de_name               = Kojikocy
   | it_name               = Kojikocy
@@ -18,9 +14,9 @@ wikitext: |-
   | image                 = Kojikocy-DB1-EN-C-UE.png
   | attribute             = EARTH
   | types                 = Warrior
+  | level                 = 4
   | atk                   = 1500
   | def                   = 1200
-  | level                 = 4
   | password              = 01184620
   | lore                  = ''A man-hunter with powerful arms that can crush boulders.''
   | de_lore               = ''Ein Menschenjäger mit starken Armen, die große Steinbrocken zermalmen können.''
@@ -28,7 +24,6 @@ wikitext: |-
   | pt_lore               = ''Um caçador de homens com poderosos braços que podem quebrar pedras.''
   | it_lore               = ''Un cacciatore di uomini le cui potenti braccia possono stritolare macigni.''
   | es_lore               = ''Un cazador de hombres con brazos poderosos capaces de triturar rocas.''
-  | zh_lore               = 獵殺人類的獵手，具有連岩石都能擊碎的力量。
   | ja_lore               = 人を狩る凶悪な狩人。岩をも砕く強い力を持つ。
   | ko_lore               = 사람을 사냥하는 흉악한 사냥꾼. 암석도 부수는 강한 힘을 갖고 있다.
   | en_sets               = 
@@ -42,7 +37,7 @@ wikitext: |-
   SDK-E008; Starter Deck: Kaiba; Common
   MRD-E010; Metal Raiders; Common
   | au_sets               = 
-  SDK-009; Starter Deck: Kaiba; Common
+  SDK-A009; Starter Deck: Kaiba; Common
   | fr_sets               = 
   DDK-F008; Starter Deck: Kaiba; Common
   MRD-F010; Metal Raiders; Common
