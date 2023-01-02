@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 2000
   | materials             = 1 "Beetrooper" monster + 1 Insect monster
   | password              = 
-  | effect_types          = 
+  | effect_types          = Continuous, Condition, Trigger, Trigger
   | lore                  = 1 "[[Beetrooper]]" [[Monster Card|monster]] + 1 [[Insect]] monster<br />You cannot [[Special Summon]] monsters, except Insect monsters. You can only use each of the following [[effect]]s of "Beetrooper Cruel Saturn" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[add]] 1 "Beetrooper" card from your [[Main Deck|Deck]] to your [[hand]]. If an Insect monster(s) is [[banish]]ed [[face-up]]: You can [[target]] 1 of your banished "Beetrooper" monsters; Special Summon it.
   | fr_lore               = 
   | de_lore               = 
@@ -30,7 +30,7 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP037; Cyberstorm Access; 
+  CYAC-JP037; Cyberstorm Access; Rare
   | supports              = Insect
   | anti-supports         = Insect
   | archseries            = Beetrooper
