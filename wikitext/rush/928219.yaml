@@ -14,8 +14,8 @@ wikitext: |-
   | def               = 1300
   | requirement       = You have no other [[monsters]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card.
   | lore              = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. [[Send]] all excavated [[Galaxy (Type)|Galaxy]] [[Type]] monsters to the [[Graveyard]]. Place the remaining cards on the bottom of your Deck in any order.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = このカードを召喚したターンに、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  | ja_lore           = 自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（ギャラクシー族）を全て墓地へ送る。残りのカードを好きな順番でデッキの下に戻す。
   | jp_sets           = 
   RD/RLP2-JP001; Yu-Gi-Oh! Rush Duel LP Volume 2 promotional card; Ultra Rare
   | supports          = Galaxy (Type)
@@ -24,7 +24,6 @@ wikitext: |-
   * Excavates from the player's Deck
   * Sends excavated cards to the Graveyard
   * Places excavated cards on the bottom of the Deck
-  | misc              = Requires control of no monsters
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | misc              = Requires control of no other monsters
+  | database_id       = 18446
   }}

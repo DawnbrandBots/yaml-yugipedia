@@ -48,6 +48,7 @@ wikitext: |-
   * Number
   * Number (Spell/Trap archetype)
   * Evolving Numbers
+  | action                = Activates if it inflicts battle damage
   | summoning             = 
   * 2 Xyz Materials
   * Does not require specific Xyz Materials
@@ -55,6 +56,6 @@ wikitext: |-
   | life_points           = 
   * Reduces battle damage
   * Damages your opponent
-  | action                = Activates if it inflicts battle damage
+  | misc                  = Requires control of no other monsters
   | database_id           = 12890
   }}
