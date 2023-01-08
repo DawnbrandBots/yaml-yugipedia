@@ -39,6 +39,21 @@ wikitext: |-
   * Dual Avatar Fists - Yuhi
   | archseries            = Dual Avatar
   | supports_archetypes   = Dual Avatar
+  | action                = 
+  * Applies effects if Special Summoned using specific Fusion Material
+  * Activates if destroyed
+  | stat_change           = Changes ATK value
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summons from your Deck
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = Banishes from field
+  | misc                  = 
+  * Variable effects
+  * Requires control of specific archetype
+  * Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

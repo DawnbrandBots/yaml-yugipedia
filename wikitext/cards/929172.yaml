@@ -18,10 +18,10 @@ wikitext: |-
   | types                 = Cyberse / Link / Effect
   | link_arrows           = Bottom-Center
   | atk                   = 800
-  | materials             = 
+  | materials             = 1 non-Link "S-Force" monster
   | password              = 
   | effect_types          = Continuous, Quick, Condition
-  | lore                  = 1 non-[[Link Monster|Link]] "[[S-Force]]" [[monster]]<br />Each of your opponent's monsters in the same [[column]] as one of your "S-Force" monsters cannot [[target]] monsters in its same column for attacks. During the [[Main Phase]] ([[Quick Effect]]): You can target 1 "S-Force" monster you [[control]]; [[shuffle]] it into the [[Main Deck|Deck]], then you can [[Special Summon]] 1 of your [[banish]]ed "S-Force" monsters. You can only use this [[effect]] of "S-Force Nightchaser" once per turn.
+  | lore                  = 1 non-[[Link Monster|Link]] "[[S-Force]]" [[Monster Card|monster]]<br />Each of your opponent's monsters in the same [[column]] as one of your "S-Force" monsters cannot [[target]] monsters in its same column for attacks. During the [[Main Phase]] ([[Quick Effect]]): You can target 1 "S-Force" monster you [[control]]; [[shuffle]] it into the [[Main Deck|Deck]], then you can [[Special Summon]] 1 of your [[banish]]ed "S-Force" monsters. You can only use this [[effect]] of "S-Force Nightchaser" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,6 +33,16 @@ wikitext: |-
   CYAC-JP050; Cyberstorm Access; 
   | archseries            = S-Force
   | supports_archetypes   = S-Force
+  | action                = Returns from your field to your Deck
+  | summoning             = 
+  * 1 Link Material
+  * Cannot use Link Monsters as Link Materials for its Summon
+  * Requires archetype specific Link Materials
+  * Special Summons the player's banished monsters
+  | attack                = Prevents other cards being targeted for attacks
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
