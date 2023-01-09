@@ -1,7 +1,5 @@
 title: Mikanko Promise
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -16,8 +14,8 @@ wikitext: |-
   | card_type           = Trap
   | property            = Normal
   | password            = 42705243
-  | effect_types        = Effect, Condition
-  | lore                = [[Special Summon]] 1 "[[Mikanko]]" [[monster]] from your [[hand]] or [[Main Deck|Deck]] (but [[banish]] it when it [[leaves the field]]), then you can [[equip]] it with 1 appropriate [[Equip Spell]] from your hand or [[GY]]. You can only [[activate]] 1 "Mikanko Promise" per [[turn]].
+  | effect_types        = Effect, Lingering, Condition
+  | lore                = [[Special Summon]] 1 "[[Mikanko]]" [[monster]] from your [[hand]] or [[Main Deck|Deck]], then you can [[equip]] it with 1 [[Equip Spell]] from your hand or [[GY]] that can equip to that monster. [[Banish]] that monster when it [[leaves the field]]. You can only [[activate]] 1 "Mikanko Promise" per [[turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -25,6 +23,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名のカードは１ターンに１枚しか発動できない。①：手札・デッキから「御巫」モンスター１体を特殊召喚する。その後、そのモンスターが装備可能な装備魔法カード１枚を自分の手札・墓地から選んでそのモンスターに装備できる。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
   | ko_lore             = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패 / 덱에서 "미캉코" 몬스터 1장을 특수 소환한다. 그 후, 그 몬스터가 장착 가능한 장착 마법 카드 1장을 자신의 패 / 묘지에서 고르고 그 몬스터에 장착할 수 있다. 이 효과로 특수 소환한 몬스터는, 필드에서 벗어났을 경우에 제외된다.
+  | en_sets             = 
+  AMDE-EN035; Amazing Defenders; Rare
+  | fr_sets             = 
+  AMDE-FR035; Amazing Defenders; Rare
+  | de_sets             = 
+  AMDE-DE035; Amazing Defenders; Rare
+  | it_sets             = 
+  AMDE-IT035; Amazing Defenders; Rare
+  | pt_sets             = 
+  AMDE-PT035; Amazing Defenders; Rare
+  | sp_sets             = 
+  AMDE-SP035; Amazing Defenders; Rare
   | jp_sets             = 
   DBAD-JP035; Deck Build Pack: Amazing Defenders; Common, Normal Parallel Rare
   | kr_sets             = 

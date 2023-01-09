@@ -1,7 +1,5 @@
-title: Inviting Rondo of the Mikanko
+title: Mikanko Reflection Rondo
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,14 +8,15 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|御巫|みかんこ}}の{{Ruby|誘|いざな}}い{{Ruby|輪舞|ロンド}}
   | romaji_name         = Mikanko no Izanai Rondo
+  | trans_name          = Mikanko Invitation Rondo
   | ko_name             = 미캉코의 유혹하는 론도
   | ko_rr_name          = Mikangko-ui Yuhokha-neun Rondo
-  | image               = InvitingRondooftheMikanko-DBAD-JP-C.png
+  | image               = MikankoReflectionRondo-DBAD-JP-C.png
   | card_type           = Spell
   | property            = Equip
   | password            = 79912449
-  | effect_types        = Condition, Continuous-like, Continuous-like, Unclassified, Condition
-  | lore                = [[Equip]] to an opponent's [[monster]]. Take [[control]] of it while you control a "[[Mikanko]]" monster, but it cannot [[activate]] its [[effect]]s while you control it. When this card [[leaves the field]], send the equipped monster to the GY. You can only control 1 "Inviting Rondo of the Mikanko". You can only activate 1 "Inviting Rondo of the Mikanko" per turn.
+  | effect_types        = Condition, Continuous-like, Continuous-like, Continuous-like, Unclassified, Condition
+  | lore                = [[Equip]] only to an opponent's [[monster]]. While you [[control]] a "[[Mikanko]]" monster, take control of that equipped monster. Neither player can [[activate]] the [[effect]]s of the equipped monster while you control it. When this card [[leaves the field]], send the equipped monster to the GY. You can only control 1 "Mikanko Reflection Rondo". You can only activate 1 "Mikanko Reflection Rondo" per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -25,6 +24,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = 相手フィールドのモンスターに装備できる。このカード名のカードは１ターンに１枚しか発動できない。①：「御巫の誘い輪舞」は自分フィールドに１枚しか表側表示で存在できない。②：自分フィールドに「御巫」モンスターが存在する限り、装備モンスターのコントロールを得る。③：装備モンスターは自分フィールドに存在する限り、効果を発動できない。④：このカードがフィールドから離れた時に装備モンスターは墓地へ送られる。
   | ko_lore             = 상대 필드의 몬스터에 장착할 수 있다. 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: "미캉코의 유혹하는 론도"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 필드에 "미캉코" 몬스터가 존재하는 한, 장착 몬스터의 컨트롤을 얻는다. ③: 장착 몬스터는 자신 필드에 존재하는 한, 효과를 발동할 수 없다. ④: 이 카드가 필드에서 벗어났을 때에 장착 몬스터는 묘지로 보내진다.
+  | en_sets             = 
+  AMDE-EN033; Amazing Defenders; Rare, Collector's Rare
+  | fr_sets             = 
+  AMDE-FR033; Amazing Defenders; Rare, Collector's Rare
+  | de_sets             = 
+  AMDE-DE033; Amazing Defenders; Rare, Collector's Rare
+  | it_sets             = 
+  AMDE-IT033; Amazing Defenders; Rare, Collector's Rare
+  | pt_sets             = 
+  AMDE-PT033; Amazing Defenders; Rare, Collector's Rare
+  | sp_sets             = 
+  AMDE-SP033; Amazing Defenders; Rare, Collector's Rare
   | jp_sets             = 
   DBAD-JP033; Deck Build Pack: Amazing Defenders; Common, Normal Parallel Rare
   | kr_sets             = 
