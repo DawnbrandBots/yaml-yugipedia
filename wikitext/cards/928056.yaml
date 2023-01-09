@@ -36,7 +36,9 @@ wikitext: |-
   * LIGHT
   * Spellcaster
   | archseries            = Despia
-  | action                = Activates from your Graveyard
+  | action                = 
+  * Activates if a card leaves the Extra Deck
+  * Activates from your Graveyard
   | stat_change           = Your monsters gain ATK
   | m/s/t                 = 
   * Negates the effects of Effect Monsters

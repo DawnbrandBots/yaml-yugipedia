@@ -36,6 +36,16 @@ wikitext: |-
   * WATER
   | archseries            = Icejade
   | supports_archetypes   = Icejade
+  | action                = 
+  * Activates from your hand
+  * You discard for cost
+  | stat_change           = Changes own name while on the field
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons Tokens
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
