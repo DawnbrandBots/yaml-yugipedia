@@ -1,6 +1,5 @@
 title: Ghostrick-Go-Round
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | de_name               = Geistertrick-Karussell
   | fr_name               = Manège Fantôruse
@@ -50,8 +49,10 @@ wikitext: |2-
   | supports_archetypes   = Ghostrick
   | action                = 
   * Changes battle positions
-  * Flips monsters face-down
-  * Flips monsters face-up
+  * Flips your monsters face-down
+  * Flips your opponent's monsters face-up
+  * Flips your monsters face-up
+  * Flips your opponent's monsters face-down
   | misc                  = 
   * Limited activations
   * Variable effects
