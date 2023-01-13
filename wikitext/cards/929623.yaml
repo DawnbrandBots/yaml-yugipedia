@@ -33,6 +33,16 @@ wikitext: |-
   | supports              = 
   * Cyberse
   * Link Monster
+  | action                = 
+  * Activates from your hand
+  * Activates if sent to Graveyard
+  | stat_change           = Your monsters gain ATK
+  | summoning             = Special Summons itself from your hand
+  | attack                = Allows multiple attacks on monsters
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Type
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

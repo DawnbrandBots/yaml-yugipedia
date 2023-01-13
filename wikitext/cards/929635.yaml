@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 愉怪な燐のきつねびゆらら
-  | romaji_name           = 
+  | ja_name               = {{Ruby|愉|ゆ}}{{Ruby|怪|かい}}な{{Ruby|燐|りん}}のきつねびゆらら
+  | romaji_name           = Yukai na Rin no Kitsunebi Yurara
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = YukainaRinnoKitsunebiYurara-CYAC-JP-C.png
@@ -30,6 +30,12 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP028; Cyberstorm Access; Common
+  | supports              = FIRE
+  | anti-supports         = FIRE
+  | action                = Activates from your Graveyard
+  | stat_change           = Changes Attribute
+  | summoning             = Special Summons itself from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

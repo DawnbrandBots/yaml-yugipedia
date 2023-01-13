@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name                = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}{{Ruby|天|てん}}{{Ruby|使|し}} ソレイル
-  | romaji_name            = Sōkyū Tenshi Soreiru
+  | romaji_name            = Sōkyūtenshi Soreiru
   | image                  = SoleiltheSkysaviorAngel-RDKP12-JP-OP.png
   | attribute              = LIGHT
   | types                  = Fairy / Effect
@@ -17,8 +17,20 @@ wikitext: |-
   | ja_lore                = 
   | jp_sets                = 
   RD/KP12-JP020; Deck Mod Pack: Double Star of the Assault!!; Rare
-  | supports               = Fusion (Rush Duel)
+  | supports               = 
+  * Warrior
+  * Lua the Skysavior Angel
+  * Fusion (Rush Duel)
   | archseries             = Skysavior
+  | action                 = 
+  * Reveals your hand for cost
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | stat_change            = Changes own name while on the field
+  | fm_for                 = 
+  * Digrace the Skysavior Radiance
+  * Solcier the Skysavior Lightflash
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

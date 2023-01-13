@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = 蒼救騎士 シエーラ
-  | romaji_name            = 
+  | ja_name                = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}{{Ruby|騎|き}}{{Ruby|士|し}} シエーラ
+  | romaji_name            = Sōkyūkishi Shiēra
   | image                  = CielatheSkysaviorKnight-RDKP12-JP-OP.png
   | attribute              = WATER
   | types                  = Warrior / Effect
@@ -17,7 +17,17 @@ wikitext: |-
   | ja_lore                = 
   | jp_sets                = 
   RD/KP12-JP024; Deck Mod Pack: Double Star of the Assault!!; Rare
+  | supports               = 
+  * Celestial Warrior
+  * Warrior
+  * Fairy
   | archseries             = Skysavior
+  | action                 = Reveals your Extra Deck for cost
+  | stat_change            = Your opponent's monsters lose ATK
+  | attack                 = Prevents your monsters from attacking
+  | fm_for                 = 
+  * Altierra the Skysavior Transience
+  * Solcier the Skysavior Lightflash
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

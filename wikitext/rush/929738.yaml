@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = 蒼救騎士 ランガ
-  | romaji_name            = 
+  | ja_name                = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}{{Ruby|騎|き}}{{Ruby|士|し}} ランガ
+  | romaji_name            = Sōkyūkishi Ranga
   | image                  = RangatheSkysaviorKnight-RDKP12-JP-OP.png
   | attribute              = WATER
   | types                  = Warrior / Effect
@@ -23,6 +23,10 @@ wikitext: |-
   * Skysavior Prayer
   * Soleil the Skysavior Angel
   | archseries             = Skysavior
+  | action                 = 
+  * Activates during the turn in which it was Normal Summoned
+  * Reveals your hand for cost
+  | summoning              = Special Summons from your Graveyard
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

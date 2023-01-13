@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = ペンデュラムーン
-  | romaji_name           = 
+  | romaji_name           = Pendyuramūn
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = Pendulumoon-CYAC-JP-C.png
@@ -40,8 +40,15 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   CYAC-JP030; Cyberstorm Access; Common
+  | supports              = Pendulum Monster
   | archseries            = Pendulum (archetype)
   | supports_archetypes   = Pendulum (archetype)
+  | action                = Adds from Extra Deck to hand
+  | m/s/t                 = 
+  * Destroys itself
+  * Prevents activation of your Effect Monsters
+  * Negates the effects of your Spell Cards
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

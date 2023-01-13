@@ -19,12 +19,16 @@ wikitext: |-
   | action                = 
   * Activates during the turn in which it was Normal Summoned
   * Returns itself from field to hand
+  * Reveals itself in the hand for cost
+  * Activates from your hand
   * Activates if Tributed
   * Adds from Graveyard to hand
   | summoning             = 
   * Cannot be Special Summoned
-  * Allows multiple Normal Summons
   * Performs a Normal Summon
+  | misc                  = 
+  * Limited activations
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

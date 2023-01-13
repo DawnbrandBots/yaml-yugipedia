@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = 蒼救騎士 セイル
-  | romaji_name            = 
+  | ja_name                = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}{{Ruby|騎|き}}{{Ruby|士|し}} セイル
+  | romaji_name            = Sōkyūkishi Seiru
   | image                  = SeirtheSkysaviorKnight-RDKP12-JP-OP.png
   | attribute              = WATER
   | types                  = Warrior / Effect
@@ -21,6 +21,10 @@ wikitext: |-
   * Fusion (Rush Duel)
   * Skysavior Prayer
   | archseries             = Skysavior
+  | action                 = 
+  * Activates during the turn in which it was Normal Summoned
+  * Reveals your hand for cost
+  * You draw cards
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
