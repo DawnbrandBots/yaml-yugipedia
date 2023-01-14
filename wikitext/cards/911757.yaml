@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Cybenet Circuit
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = CynetCircuit-CYAC-JP-OP.png
+  | image                 = CynetCircuit-CYAC-JP-C.png
   | card_type             = Trap
   | property              = Normal
-  | password              = 
+  | password              = 82886276
   | effect_types          = Effect, Quick-like, Condition
   | lore                  = [[Target]] 1 "[[Firewall (archetype)|Firewall]]" [[Link Monster]] you [[control]]; [[Special Summon]] any number of [[monsters]] from your [[GY]] to either [[field]] so they are [[linked]] to it. If your [[LP]] are 2000 or less: You can [[banish]] this card from your GY; [[return]] 1 "Firewall" Link Monster from your GY to the [[Extra Deck]], then you can Special Summon it from your Extra Deck. You can only use each [[effect]] of "Cynet Circuit" [[once per turn]].
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「ファイアウォール」リンクモンスター１体を対象として発動できる。自分の墓地からモンスターを任意の数だけ選び、対象のモンスターとリンク状態になるように自分または相手フィールドに特殊召喚する。②：自分のＬＰが２０００以下の場合、墓地のこのカードを除外して発動できる。自分の墓地から「ファイアウォール」リンクモンスター１体を選んでＥＸデッキに戻す。その後、そのモンスターをＥＸデッキから特殊召喚できる。
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP069; Cyberstorm Access; 
+  CYAC-JP069; Cyberstorm Access; Common
   | supports              = Link Monster
   | archseries            = Cynet
   | supports_archetypes   = Firewall (archetype)
@@ -44,7 +44,6 @@ wikitext: |-
   * Requires control of specific Monster card type
   * Requires specific LP
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18532
   | tcg_status            = Not yet released
   }}
