@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 5
   | atk                   = 2000
   | def                   = 1300
-  | password              = 
+  | password              = 57940938
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = If this card is [[sent]] to the [[GY]] as [[Link Material]] for a [[Cyberse]] [[monster]]: You can [[Add a card|add]] 1 "[[Cynet]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]], then [[discard]] 1 card. You can [[banish]] this card from your GY; during the [[End Phase]] of this [[turn]], [[shuffle]] 1 Cyberse monster from your GY into the Deck. You can only use each [[effect]] of "Firewall Phantom" once per turn.
   | fr_lore               = 
@@ -26,10 +26,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがサイバース族リンクモンスターのリンク素材として墓地へ送られた場合に発動できる。デッキから「サイバネット」魔法・罠カード１枚を手札に加える。その後、自分の手札を１枚選んで捨てる。②：墓地のこのカードを除外して発動できる。このターンのエンドフェイズに、自分の墓地からサイバース族モンスター１体を選んでデッキに戻す。
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP002; Cyberstorm Access
+  CYAC-JP002; Cyberstorm Access; Common
   | supports              = 
   * Link Monster
   * Cyberse
@@ -45,7 +45,6 @@ wikitext: |-
   * Returns from your Graveyard to your Deck
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 18465
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

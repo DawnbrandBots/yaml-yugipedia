@@ -12,13 +12,13 @@ wikitext: |-
   | romaji_name           = Teranaito Arutea
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TellarknightAltea-CYAC-JP-OP.png
+  | image                 = TellarknightAltea-CYAC-JP-C.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 4
   | atk                   = 1700
   | def                   = 1300
-  | password              = 
+  | password              = 42822433
   | effect_types          = Condition, Trigger, Trigger, Condition
   | lore                  = (This card is always treated as a "[[Constellar]]" card.)<br />If this card is [[Summon]]ed: You can [[target]] cards on the [[field]] up to the number of [[LIGHT]] and [[DARK]] [[Xyz Monster]]s you [[control]]; [[destroy]] them. If a "[[tellarknight]]" and/or "Constellar" [[monster]](s) other than "Tellarknight Altea" is [[Special Summon]]ed to your [[field]]: You can Special Summon this card from your [[GY]], also you cannot declare an [[attack]] for the rest of this [[turn]], except with [[Xyz Monster]]s. You can only use each effect of "Tellarknight Altea" [[once per turn]].
   | fr_lore               = 
@@ -26,10 +26,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名はルール上「セイクリッド」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・反転召喚・特殊召喚に成功した場合、自分フィールドの光・闇属性Ｘモンスターの数までフィールドのカードを対象として発動できる。そのカードを破壊する。②：自分フィールドに「星騎士 アルテア」以外の「テラナイト」、「セイクリッド」モンスターが特殊召喚された場合に発動できる。このカードを墓地から特殊召喚する。このターン、自分はＸモンスターでしか攻撃宣言できない。
   | ko_lore               = 
   | jp_sets               = 
-  CYAC-JP020; Cyberstorm Access; 
+  CYAC-JP020; Cyberstorm Access; Common
   | supports              = 
   * Xyz Monster
   * LIGHT
@@ -56,7 +56,6 @@ wikitext: |-
   * Requires control of specific Monster card type
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
+  | database_id           = 18483
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

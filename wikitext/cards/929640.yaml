@@ -19,7 +19,7 @@ wikitext: |-
   | atk                   = 200
   | def                   = 700
   | pendulum_scale        = 0
-  | password              = 
+  | password              = 66150724
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Ignition, Condition
   | pendulum_effect       = During your [[Main Phase]]: You can [[Add a card|add]] 1 [[face-up]] "[[Pendulum (archetype)|Pendulum]]" [[Pendulum Monster]] from your [[Extra Deck]] to your [[hand]], then [[destroy]] this card. You can only use this [[effect]] of "Pendulumoon" [[once per turn]].
@@ -34,8 +34,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のＥＸデッキから表側表示の「ペンデュラム」Ｐモンスター１体を手札に加える。その後、このカードを破壊する。
+  | ja_lore               = このカード名のモンスター効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のＥＸデッキから、自分のＰゾーンのカード２枚のＰスケールでＰ召喚可能なレベルを持つ表側表示のＰモンスターを２体まで手札に加える。この効果の発動後、ターン終了時まで自分はＰ召喚に成功しない限り、モンスターの効果を発動できず、自分のＰゾーンのカードの効果は無効化される。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
@@ -49,7 +49,6 @@ wikitext: |-
   * Prevents activation of your Effect Monsters
   * Negates the effects of your Spell Cards
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18493
   | tcg_status            = Not yet released
   }}

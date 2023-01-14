@@ -20,7 +20,7 @@ wikitext: |-
   | atk                   = 1000
   | def                   = 1500
   | pendulum_scale        = 8
-  | password              = 
+  | password              = 82112494
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Ignition, Trigger, Condition
   | pendulum_effect       = If you have no [[Spells]]/[[Traps]] in your [[GY]]: You can place 1 "[[Superheavy Samurai]]" [[Pendulum Monster]] from your [[Main Deck|Deck]] in your [[Pendulum Zone]], except "Superheavy Samurai Prodigy Wakaushi", then [[Special Summon]] this card. You can only use this [[effect]] of "Superheavy Samurai Prodigy Wakaushi" [[once per turn]].
@@ -35,8 +35,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の墓地に魔法・罠カードが存在しない場合に発動できる。「超重神童ワカ－Ｕ４」以外の「超重武者」Ｐモンスター１体をデッキから選んで自分のＰゾーンに置く。その後、このカードを特殊召喚する。
+  | ja_lore               = このカード名はルール上「超重武者」カードとしても扱う。このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地に魔法・罠カードが存在しない場合、手札からモンスター１体を捨てて発動できる。手札・デッキから「超重武者」モンスター１体を守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は「超重武者」モンスターしか特殊召喚できない。②：このカードがＳ素材としてＥＸデッキに表側表示で加わった場合に発動できる。このカードを自分のPゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
@@ -59,7 +59,6 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Archetype condition
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18469
   | tcg_status            = Not yet released
   }}
