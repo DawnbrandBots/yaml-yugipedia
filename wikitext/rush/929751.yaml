@@ -10,8 +10,8 @@ wikitext: |-
   | property          = Equip
   | requirement       = If your opponent has a [[face-up]] [[monster]] on their [[field]], [[equip]] this card to 1 face-up [[Celestial Warrior]], [[Warrior]], or [[Fairy]] [[Type]] monster on your [[field]].
   | lore              = The equipped monster gains [[ATK]] equal to [its [[Level]]] x 100.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 相手フィールドに表側表示モンスターがいる場合、自分フィールドの表側表示モンスター（天界戦士族・戦士族・天使族）１体に装備できる。
+  | ja_lore           = 装備モンスターの攻撃力は［そのモンスターのレベル］×１００アップする。
   | jp_sets           = 
   RD/KP12-JP054; Deck Mod Pack: Double Star of the Assault!!; Common
   | supports          = 
@@ -23,6 +23,5 @@ wikitext: |-
   | misc              = 
   * Equips only to a specific target
   * Requires control of specific Type
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18636
   }}

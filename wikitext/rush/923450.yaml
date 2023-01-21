@@ -11,8 +11,8 @@ wikitext: |-
   | property              = Normal
   | requirement           = You have 2 or more [[face-up]] monsters with the same name on your [[field]].
   | lore                  = [[Add a card|Add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your [[Graveyard]] to your [[hand]]. Then, if you have 2 or more [[Normal Monster]]s with the same name in your Graveyard, you can add 1 of them to your hand.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分フィールドに同名の表側表示モンスターが２体以上いる場合に発動できる。
+  | ja_lore               = 自分の墓地の「フュージョン」１枚を選んで手札に加える。自分の墓地に同名の通常モンスターが２体以上いる場合、さらにその中から１体を選んで手札に加える事ができる。
   | jp_sets               = 
   RD/KP12-JP047; Deck Mod Pack: Double Star of the Assault!!; Common
   | supports              = 
@@ -22,6 +22,5 @@ wikitext: |-
   * Fusion (archetype)
   * The
   | action                = Adds from Graveyard to hand
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 18629
   }}

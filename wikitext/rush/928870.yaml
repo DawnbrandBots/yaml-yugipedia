@@ -11,8 +11,8 @@ wikitext: |-
   | property              = Normal
   | requirement           = Place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
   | lore                  = [[Special Summon]] up to 2 [[Beast]] and/or [[Warrior]] [[Type]] [[monsters]] with 200 [[DEF]] from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]]. This [[turn]], you can only [[attack]] with monsters with 200 DEF.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 手札１枚をデッキの下に戻して発動できる。
+  | ja_lore               = 自分の墓地のモンスター（獣族または戦士族／守備力２００）を合計２体まで選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（守備力２００以外）で攻撃できない。
   | jp_sets               = 
   RD/KP12-JP049; Deck Mod Pack: Double Star of the Assault!!; Rare
   | supports              = 
@@ -22,6 +22,5 @@ wikitext: |-
   | action                = Places cards from the player's hand on the bottom of the Deck for cost
   | summoning             = Special Summons from your Graveyard
   | attack                = Prevents your monsters from attacking
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 18631
   }}

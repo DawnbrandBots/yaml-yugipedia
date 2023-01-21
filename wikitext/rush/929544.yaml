@@ -12,8 +12,8 @@ wikitext: |-
   | property          = Normal
   | requirement       = [[Send]] 3 [[FIRE]] [[Attribute]] [[Maximum Monster]]s from your [[hand]] to the [[Graveyard]].
   | lore              = [[Shuffle]] all [[face-up]] monsters on your opponent's [[field]] into the owner's [[Main Deck|Deck]]. Then, you can make 1 face-up Maximum Monster on your field gain 1000 [[ATK]] until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 手札のマキシマムモンスター（炎属性）３体を墓地へ送って発動できる。
+  | ja_lore           = 相手フィールドの表側表示モンスターを全て持ち主のデッキに戻す。その後、自分フィールドの表側表示のマキシマムモンスター１体を選んでその攻撃力をターン終了時まで１０００アップできる。
   | jp_sets           = 
   RD/KP12-JP051; Deck Mod Pack: Double Star of the Assault!!; Rare
   | supports          = 
@@ -25,6 +25,5 @@ wikitext: |-
   * Returns from your opponent's field to your opponent's Deck
   | stat_change       = Your monsters gain ATK
   | misc              = Requires control of specific Monster card type
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18633
   }}

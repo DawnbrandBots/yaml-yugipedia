@@ -10,8 +10,8 @@ wikitext: |-
   | property          = Normal
   | requirement       = When an opponent's [[Level]] 8 or lower [[monster]] declares an [[attack]].
   | lore              = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. This [[turn]], you take no [[battle damage]]. Also, if your [[LP]] are 3000 or more, take 2000 [[Effect damage|damage]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 相手モンスター（レベル８以下）の攻撃宣言時に発動できる。
+  | ja_lore           = 自分のデッキの一番上のカードを墓地へ送る。このターン、自分は戦闘ダメージを受けない。自分のＬＰが３０００以上の場合、さらに自分は２０００ダメージを受ける。
   | jp_sets           = 
   RD/KP12-JP064; Deck Mod Pack: Double Star of the Assault!!; Rare
   | action            = 
@@ -21,6 +21,5 @@ wikitext: |-
   * Prevents battle damage
   * Damages you
   | misc              = Requires specific LP
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18646
   }}

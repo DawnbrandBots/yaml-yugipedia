@@ -11,10 +11,10 @@ wikitext: |-
   | level             = 3
   | atk               = 1300
   | def               = 200
-  | requirement       = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | requirement       = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed.
   | lore              = [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your [[Graveyard]] in your [[Spell & Trap Zone]]. This [[turn]], you can only attack directly with [[Fusion Monster]]s.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_lore           = 自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。このターン、自分はフュージョンモンスターでしか直接攻撃できない。
   | jp_sets           = 
   RD/KP12-JP026; Deck Mod Pack: Double Star of the Assault!!; Super Rare
   | supports          = 
@@ -25,6 +25,5 @@ wikitext: |-
   * Activates during the turn in which it was Special Summoned
   * Sets from your Graveyard
   | attack            = Prevents your monsters from attacking
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18608
   }}
