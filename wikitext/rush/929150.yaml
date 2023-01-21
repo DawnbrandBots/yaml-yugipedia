@@ -13,8 +13,8 @@ wikitext: |-
   | def               = 2000
   | requirement       = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | lore              = Change 1 [[Attack Position]] [[monster]] on your opponent's [[field]] to [[face-up]] [[Defense Position]]. Then, that monster loses 2000 [[DEF]] until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 手札１枚を墓地へ送って発動できる。
+  | ja_lore           = 相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。その後、そのモンスターの守備力をターン終了時まで２０００ダウンする。
   | jp_sets           = 
   RD/KP12-JP006; Deck Mod Pack: Double Star of the Assault!!; Rare
   | archseries        = Jointech
@@ -22,6 +22,5 @@ wikitext: |-
   * Sends from hand to Graveyard for cost
   * Changes battle positions
   | stat_change       = Your opponent's monsters lose DEF
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18588
   }}
