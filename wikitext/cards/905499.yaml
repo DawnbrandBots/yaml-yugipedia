@@ -1,7 +1,5 @@
-title: Weight Measuring
+title: Weighbridge
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,14 +8,15 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|台|だい}}{{Ruby|貫|かん}}{{Ruby|計|けい}}{{Ruby|量|りょう}}
   | romaji_name           = Daikankeiryō
+  | trans_name            = Weighbridge Measure
   | ko_name               = 대관계량
   | ko_rr_name            = Daegwangyeryang
-  | image                 = WeightMeasuring-PHHY-JP-C.png
+  | image                 = Weighbridge-PHHY-JP-C.png
   | card_type             = Trap
   | property              = Normal
   | password              = 39103226
   | effect_types          = Effect
-  | lore                  = If your opponent [[control]]s at least 2 more [[monsters]] than you do: They must [[send]] monsters they control to the [[GY]] so they control only 1.
+  | lore                  = If your opponent [[control]]s 2 or more [[monsters]] than you do: Your opponent must [[send]] monsters they control to the [[GY]] so they only control 1 monster.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：相手フィールドのモンスターの数が自分フィールドのモンスターより２体以上多い場合に発動できる。相手は自身のフィールドのモンスターが１体になるように墓地へ送らなければならない。
   | ko_lore               = ①: 상대 필드의 몬스터의 수가 자신 필드의 몬스터보다 2장 이상 많을 경우에 발동할 수 있다. 상대는 자신 필드의 몬스터가 1장이 되도록 묘지로 보내야 한다.
+  | en_sets               = 
+  PHHY-EN078; Photon Hypernova; Secret Rare
+  | fr_sets               = 
+  PHHY-FR078; Photon Hypernova; Secret Rare
+  | de_sets               = 
+  PHHY-DE078; Photon Hypernova; Secret Rare
+  | it_sets               = 
+  PHHY-IT078; Photon Hypernova; Secret Rare
+  | pt_sets               = 
+  PHHY-PT078; Photon Hypernova; Secret Rare
+  | sp_sets               = 
+  PHHY-SP078; Photon Hypernova; Secret Rare
   | jp_sets               = 
   PHHY-JP078; Photon Hypernova; Common
+  | kr_sets               = 
+  PHHY-KR078; Photon Hypernova; Common
   | action                = Makes your opponent send from the field to the Graveyard
   | database_id           = 18223
   | tcg_status            = Not yet released

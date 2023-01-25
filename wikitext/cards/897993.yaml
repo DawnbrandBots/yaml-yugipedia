@@ -1,7 +1,5 @@
-title: Gishki Icemirror
+title: Gishki Nekromirror
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name            = Ritua Ice Magic Mirror
   | ko_name               = 리추어의 빙마경
   | ko_rr_name            = Richueo-ui Bingmagyeong
-  | image                 = GishkiIcemirror-PHHY-JP-R.png
+  | image                 = GishkiNekromirror-PHHY-JP-R.png
   | card_type             = Spell
   | property              = Ritual
   | password              = 36982581
   | effect_types          = Effect, Ignition-like
-  | lore                  = This card can be used to [[Ritual Summon]] any "[[Gishki]]" [[Ritual Monster]]. You must also [[Tribute]] either 1 [[face-up]] [[Monster Card|monster]] your opponent [[control]]s, OR monsters from your [[hand]] or [[field]] whose total [[Level]]s exactly equal the Level of the Ritual Monster you Ritual Summon. If you do, you lose [[LP]] equal to the Summoned monster's [[Original ATK and DEF|original ATK]]. If this card is in your [[Graveyard|GY]]: You can [[target]] 1 "Gishki" monster in your GY; place it on top of the [[Main Deck|Deck]], and if you do, place this card on the bottom of the Deck.
+  | lore                  = This card can be used to [[Ritual Summon]] any "[[Gishki]]" [[Ritual Monster]]. You must also [[Tribute]] [[monsters]] from your [[hand]] or [[field]], whose total [[Level]]s exactly equal the Level of the Ritual Monster you Ritual Summon, OR Tribute 1 [[face-up]] monster your opponent [[control]]s. If you Ritual Summon using this card, you lose [[LP]] equal to the [[Original ATK and DEF|original ATK]] of the Ritual Summoned monster. If this card is in your [[Graveyard|GY]]: You can [[target]] 1 "Gishki" monster in your GY; place that card on top of the [[Main Deck|Deck]], and if you do, place this card on the bottom of the Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 「リチュア」儀式モンスターの降臨に必要。①：相手フィールドの表側表示モンスター１体をリリース、またはレベルの合計が儀式召喚するモンスターと同じになるように自分の手札・フィールドのモンスターをリリースし、手札から「リチュア」儀式モンスター１体を儀式召喚し、自分はその元々の攻撃力分のＬＰを失う。②：このカードが墓地に存在する場合、自分の墓地の「リチュア」モンスター１体を対象として発動できる。そのモンスターをデッキの一番上に戻し、このカードをデッキの一番下に戻す。
   | ko_lore               = "리추어" 의식 몬스터의 의식 소환에 필요. ①: 상대 필드의 앞면 표시 몬스터 1장을 릴리스, 또는 레벨의 합계가 의식 소환할 몬스터와 같아지도록 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 "리추어" 의식 몬스터 1장을 의식 소환하고, 자신은 그 원래 공격력만큼의 LP를 상실한다. ②: 이 카드가 묘지에 존재할 경우, 자신 묘지의 "리추어" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱 맨 위로 되돌리고, 이 카드를 덱 맨 아래로 되돌린다.
+  | en_sets               = 
+  PHHY-EN066; Photon Hypernova; 
+  | fr_sets               = 
+  PHHY-FR066; Photon Hypernova; 
+  | de_sets               = 
+  PHHY-DE066; Photon Hypernova; 
+  | it_sets               = 
+  PHHY-IT066; Photon Hypernova; 
+  | pt_sets               = 
+  PHHY-PT066; Photon Hypernova; 
+  | sp_sets               = 
+  PHHY-SP066; Photon Hypernova; 
   | jp_sets               = 
   PHHY-JP066; Photon Hypernova; Rare
+  | kr_sets               = 
+  PHHY-KR066; Photon Hypernova; Rare
   | supports              = Ritual Monster
   | archseries            = Gishki
   | supports_archetypes   = Gishki

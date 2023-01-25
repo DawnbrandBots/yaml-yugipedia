@@ -1,7 +1,5 @@
 title: Trivikarma
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 07436169
   | effect_types          = Effect, Quick-like, Condition
-  | lore                  = [[Target]] 1 "[[Visas Starfrost]]" you [[control]] and 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] that opponent's monster's [[effect]]s, and if you do, your monster gains [[ATK]] equal to half of that opponent's monster's original ATK or DEF (whichever is higher, your choice if tied). You can [[banish]] this card from your [[GY]]; [[Add a card|add]] 1 [[Spell]]/[[Trap]] that mentions "Visas Starfrost" from your [[Main Deck|Deck]] to your [[hand]], except "Trivikarma". You can only use 1 "Trivikarma" effect per turn, and only once that turn.
+  | lore                  = [[Target]] 1 "[[Visas Starfrost]]" in your [[Monster Zone]] and 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] that opponent's monster's [[effect]]s, and if you do, your targeted monster gains [[ATK]] equal to half the original ATK or DEF of that monster (whichever is higher). You can [[banish]] this card from your [[GY]]; [[Add a card|add]] 1 [[Spell]]/[[Trap]] that mentions "Visas Starfrost" from your [[Main Deck|Deck]] to your [[hand]], except "Trivikarma". You can only use 1 "Trivikarma" effect per turn, and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドの「ヴィサス＝スタフロスト」１体と相手フィールドの効果モンスター１体を対象として発動できる。その相手モンスターの効果を無効にし、その元々の攻撃力と元々の守備力の内、高い方の数値の半分だけ対象の自分のモンスターの攻撃力をアップする。②：墓地のこのカードを除外して発動できる。「トリヴィカルマ」以外の「ヴィサス＝スタフロスト」のカード名が記された魔法・罠カード１枚をデッキから手札に加える。
   | ko_lore               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신 필드의 "비서스＝스타프로스트" 1장과 상대 필드의 효과 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 몬스터의 효과를 무효로 하고, 그 원래 공격력과 원래 수비력 중, 높은 쪽의 수치의 절반만큼 대상의 자신 몬스터의 공격력을 올린다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. "트리비카르마" 이외의 "비서스＝스타프로스트"의 카드명이 쓰여진 마법 / 함정 카드 1장을 덱에서 패에 넣는다.
+  | en_sets               = 
+  PHHY-EN074; Photon Hypernova; Ultra Rare
+  | fr_sets               = 
+  PHHY-FR074; Photon Hypernova; Ultra Rare
+  | de_sets               = 
+  PHHY-DE074; Photon Hypernova; Ultra Rare
+  | it_sets               = 
+  PHHY-IT074; Photon Hypernova; Ultra Rare
+  | pt_sets               = 
+  PHHY-PT074; Photon Hypernova; Ultra Rare
+  | sp_sets               = 
+  PHHY-SP074; Photon Hypernova; Ultra Rare
   | jp_sets               = 
   PHHY-JP074; Photon Hypernova; Common
+  | kr_sets               = 
+  PHHY-KR074; Photon Hypernova; Common
   | supports              = Visas Starfrost
   | related_to_archseries = Heart
   | m/s/t                 = Negates the effects of your opponent's Effect Monsters
