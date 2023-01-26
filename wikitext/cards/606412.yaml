@@ -46,7 +46,9 @@ wikitext: |-
   | supports              = Synchro Monster
   | archseries            = Performapal
   | supports_archetypes   = Odd-Eyes
-  | action                = Uses itself as a Synchro Material
+  | action                = 
+  * Uses itself as a Synchro Material
+  * Can only use certain Synchro Materials
   | summoning             = 
   * Special Summons from your Graveyard
   * Performs a Synchro Summon
@@ -54,7 +56,7 @@ wikitext: |-
   | m/s/t                 = Negates the effects of the Summoned monsters
   | attack                = 
   * Cannot be targeted for attacks
-  * Cannot be destroyed by battle
+  * Prevents other cards being destroyed by battle
   | life_points           = Prevents battle damage
   | misc                  = 
   * Only once per turn
