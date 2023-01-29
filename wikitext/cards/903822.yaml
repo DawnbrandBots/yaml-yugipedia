@@ -1,7 +1,5 @@
-title: Circle of Faerie
+title: Circle of the Fairies
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,9 +8,10 @@ wikitext: |-
   | es_name               = 
   | ja_name               = サークル・オブ・フェアリー
   | romaji_name           = Sākuru Obu Fearī
+  | trans_name            = Circle of Fairy
   | ko_name               = 서클 오브 페어리
   | ko_rr_name            = Seokeul Obeu Peeori
-  | image                 = CircleofFaerie-PHHY-JP-R.png
+  | image                 = CircleoftheFairies-PHHY-JP-R.png
   | attribute             = WIND
   | types                 = Plant / Synchro / Effect
   | level                 = 7
@@ -21,7 +20,7 @@ wikitext: |-
   | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | password              = 12954226
   | effect_types          = Continuous, Trigger, Condition
-  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />During your [[Main Phase]], you can [[Normal Summon]] 1 [[Insect]] or [[Plant]] monster in addition to your Normal Summon/[[Set]]. (You can only gain this [[effect]] [[once per turn]].) When a monster(s) is [[destroyed by battle|destroyed by a battle]] involving your Insect or Plant monster and [[sent]] to the [[GY]]: You can [[target]] 1 of those destroyed monsters; inflict [[Effect damage|damage]] to your opponent equal to half the [[ATK]] it had on the field, then you gain [[LP]] equal to the damage inflicted. You can only use this effect of "Circle of Faerie" [[once per turn]].
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />During your [[Main Phase]], you can [[Normal Summon]] 1 [[Insect]] or [[Plant]] monster in addition to your Normal Summon/[[Set]]. (You can only gain this [[effect]] [[once per turn]].) When a monster is [[destroyed by battle]] involving your Insect or Plant monster, and [[sent]] to the [[GY]]: You can [[target]] 1 of those destroyed monsters; inflict [[Effect damage|damage]] to your opponent equal to half its [[ATK]], then gain [[LP]] equal to the damage inflicted to your opponent. You can only use this effect of "Circle of the Fairies" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +28,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに昆虫族・植物族モンスター１体を召喚できる。②：自分の昆虫族・植物族モンスターの戦闘でモンスターが破壊され墓地へ送られた時、その破壊されたモンスター１体を対象として発動できる。そのモンスターの攻撃力の半分のダメージを相手に与える。その後、与えたダメージの数値分だけ自分のＬＰを回復する。
   | ko_lore               = 튜너 ＋ 튜너 이외의 몬스터 1장 이상<br />이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 통상 소환 외에도 1번만, 자신 메인 페이즈에 곤충족 / 식물족 몬스터 1장을 일반 소환할 수 있다. ②: 자신의 곤충족 / 식물족 몬스터의 전투로 몬스터가 파괴되어 묘지로 보내졌을 때, 그 파괴된 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력 절반의 데미지를 상대에게 준다. 그 후, 준 데미지의 수치만큼만 자신의 LP를 회복한다.
+  | en_sets               = 
+  PHHY-EN042; Photon Hypernova; Common
+  | fr_sets               = 
+  PHHY-FR042; Photon Hypernova; Common
+  | de_sets               = 
+  PHHY-DE042; Photon Hypernova; Common
+  | it_sets               = 
+  PHHY-IT042; Photon Hypernova; Common
+  | pt_sets               = 
+  PHHY-PT042; Photon Hypernova; Common
+  | sp_sets               = 
+  PHHY-SP042; Photon Hypernova; Common
   | jp_sets               = 
   PHHY-JP042; Photon Hypernova; Rare
+  | kr_sets               = 
+  PHHY-KR042; Photon Hypernova; Rare
   | supports              = 
   * Insect
   * Plant

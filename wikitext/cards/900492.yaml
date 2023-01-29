@@ -1,6 +1,5 @@
 title: Humongous Hive Hegemon - Zexstagger
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -9,6 +8,7 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|甲|こう}}{{Ruby|虫|ちゅう}}{{Ruby|合|がっ}}{{Ruby|体|たい}}ゼクスタッガー
   | romaji_name         = Kōchū Gattai Zekusutaggā
+  | trans_name          = Beetle Combination - Zexstagger
   | ko_name             = 
   | ko_rr_name          = 
   | image               = HumongousHiveHegemonZexstagger-VJMP-JP-UR.png
@@ -19,7 +19,7 @@ wikitext: |-
   | def                 = 2600
   | password            = 09627468
   | effect_types        = Continuous, Condition, Trigger, Trigger
-  | lore                = Gains 300 [[ATK]] for every other [[Insect]] [[monster]] on the [[field]]. You can only use each of the following [[Effect|effects]] of "Humongous Hive Hegemon - Zexstagger" [[once per turn]]. If an Insect monster(s) is [[Special Summon|Special Summoned]] (except during the [[Damage Step]]): You can Special Summon this card from your [[hand]]. During each [[End Phase]]: Each player can Special Summon 1 Insect monster from their hand or [[Graveyard|GY]], but its effects are negated.
+  | lore                = Gains 300 [[ATK]] for each [[Insect]] [[monster]] on the [[field]], except this card. You can only use each of the following [[effect]]s of "Humongous Hive Hegemon - Zexstagger" [[once per turn]]. If an Insect monster(s) is [[Special Summon]]ed (except during the [[Damage Step]]): You can Special Summon this card from your [[hand]]. During the [[End Phase]]: [[Activate]] this effect; each player can Special Summon 1 Insect monster from their hand or [[Graveyard|GY]], but [[negate]] its effects.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -27,6 +27,18 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：昆虫族モンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：このカードの攻撃力は、フィールドの他の昆虫族モンスターの数×３００アップする。③：自分・相手のエンドフェイズに発動する。お互いは自身の手札・墓地から昆虫族モンスター１体を選んで特殊召喚できる。この効果で特殊召喚したモンスターの効果は無効化される。
   | ko_lore             = 
+  | en_sets             = 
+  PHHY-EN099; Photon Hypernova; Super Rare
+  | fr_sets             = 
+  PHHY-FR099; Photon Hypernova; Super Rare
+  | de_sets             = 
+  PHHY-DE099; Photon Hypernova; Super Rare
+  | it_sets             = 
+  PHHY-IT099; Photon Hypernova; Super Rare
+  | pt_sets             = 
+  PHHY-PT099; Photon Hypernova; Super Rare
+  | sp_sets             = 
+  PHHY-SP099; Photon Hypernova; Super Rare
   | jp_sets             = 
   VJMP-JP226; V Jump December 2022 promotional card; Ultra Rare
   | supports            = Insect

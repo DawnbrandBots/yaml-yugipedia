@@ -1,7 +1,5 @@
-title: Dimensional Isoallotope Varis
+title: Dimensional Allotrope Varis
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,9 +8,10 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|次|じ}}{{Ruby|元|げん}}{{Ruby|同|どう}}{{Ruby|異|い}}{{Ruby|体|たい}}ヴァリス
   | romaji_name           = Jigendōitai Varisu
+  | trans_name            = Dimensional Isoallotope Varis
   | ko_name               = 차원동이체 바리스
   | ko_rr_name            = Chawondong-iche Bariseu
-  | image                 = DimensionalIsoallotopeVaris-PHHY-JP-C.png
+  | image                 = DimensionalAllotropeVaris-PHHY-JP-C.png
   | attribute             = LIGHT
   | types                 = Psychic / Tuner / Effect
   | level                 = 1
@@ -20,7 +19,7 @@ wikitext: |-
   | def                   = 0
   | password              = 52254878
   | effect_types          = Continuous, Ignition, Condition
-  | lore                  = Cannot be [[destroyed by battle]] with a [[monster]] with the same [[Type]] or [[Attribute]]. You can [[declare]] 1 Type and 1 Attribute; this card becomes that Type and Attribute, until the end of your opponent's [[turn]]. You can only use this [[effect]] of "Dimensional Isoallotope Varis" [[once per turn]].
+  | lore                  = Cannot be [[destroyed by battle]] with a [[monster]] with the same [[Type]] or [[Attribute]] as this card. You can [[declare]] 1 Monster Type and 1 Attribute; this card becomes that Type and Attribute until the end of your opponent's [[turn]]. You can only use this [[effect]] of "Dimensional Allotrope Varis" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは、このカードと種族または属性が同じモンスターとの戦闘では破壊されない。②：種族と属性を１つずつ宣言して発動できる。このカードは相手ターン終了時まで宣言した種族・属性になる。
   | ko_lore               = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는, 이 카드와 종족 또는 속성이 같은 몬스터와의 전투로는 파괴되지 않는다. ②: 종족과 속성을 1개씩 선언하고 발동할 수 있다. 이 카드는 상대 턴 종료시까지 선언한 종족 / 속성이 된다.
+  | en_sets               = 
+  PHHY-EN028; Photon Hypernova; Super Rare
+  | fr_sets               = 
+  PHHY-FR028; Photon Hypernova; Super Rare
+  | de_sets               = 
+  PHHY-DE028; Photon Hypernova; Super Rare
+  | it_sets               = 
+  PHHY-IT028; Photon Hypernova; Super Rare
+  | pt_sets               = 
+  PHHY-PT028; Photon Hypernova; Super Rare
+  | sp_sets               = 
+  PHHY-SP028; Photon Hypernova; Super Rare
   | jp_sets               = 
   PHHY-JP028; Photon Hypernova; Common
+  | kr_sets               = 
+  PHHY-KR028; Photon Hypernova; Common
   | action                = 
   * Declares a Type
   * Declares an Attribute

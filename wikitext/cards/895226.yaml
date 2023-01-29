@@ -1,7 +1,5 @@
-title: Photon Deceleration
+title: Photon Timestop
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name            = Photon Retardation
   | ko_name               = 포톤 리타데이션
   | ko_rr_name            = Poton Ritadeisyeon
-  | image                 = PhotonDeceleration-PHHY-JP-C.png
+  | image                 = PhotonTimestop-PHHY-JP-C.png
   | card_type             = Trap
   | property              = Normal
   | password              = 08653757
   | effect_types          = Effect, Trigger-like
-  | lore                  = Take 1 "[[Photon]]" or "[[Galaxy]]" [[Continuous Spell]]/[[Continuous Trap Card|Trap]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or place it [[face-up]] on your [[field]]. If this [[Set]] card in its owner's [[control]] is destroyed by an opponent's card [[effect]] during their [[turn]], and you [[control]] "[[Galaxy-Eyes Photon Dragon]]" or an Xyz Monster that has it as material: You can make it become the [[End Phase]].
+  | lore                  = Take 1 "[[Photon]]" or "[[Galaxy]]" [[Continuous Spell]]/[[Continuous Trap Card|Trap]] from your [[Main Deck|Deck]] and either [[Add a card|add]] it to your [[hand]] or place it [[face-up]] on your [[field]]. If this [[Set]] card in its owner's [[control]] is destroyed by your opponent's card [[effect]] during your opponent's [[turn]] and you [[control]] "[[Galaxy-Eyes Photon Dragon]]" or an Xyz Monster that has it as material: You can [[activate]] this effect; it becomes the [[End Phase]] of this turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,7 +24,21 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：「フォトン」永続魔法・永続罠カードまたは「ギャラクシー」永続魔法・永続罠カード１枚をデッキから選び、手札に加えるか自分フィールドに表側表示で置く。②：セットされたこのカードが相手ターンに相手の効果で破壊された場合、自分フィールドに「銀河眼の光子竜」または「銀河眼の光子竜」をＸ素材としているＸモンスターが存在すれば発動できる。このターンのエンドフェイズになる。
   | ko_lore               = ①: "포톤" 지속 마법 / 지속 함정 카드 또는 "갤럭시" 지속 마법 / 지속 함정 카드 1장을 덱에서 고르고, 패에 넣거나 자신 필드에 앞면 표시로 놓는다. ②: 세트된 이 카드가 상대 턴에 상대의 효과로 파괴되었을 경우, 자신 필드에 "갤럭시아이즈 포톤 드래곤" 또는 "갤럭시아이즈 포톤 드래곤"을 엑시즈 소재로 하고 있는 엑시즈 몬스터가 존재하면 발동할 수 있다. 이 턴의 엔드 페이즈가 된다.
+  | en_sets               = 
+  PHHY-EN071; Photon Hypernova; Common
+  | fr_sets               = 
+  PHHY-FR071; Photon Hypernova; Common
+  | de_sets               = 
+  PHHY-DE071; Photon Hypernova; Common
+  | it_sets               = 
+  PHHY-IT071; Photon Hypernova; Common
+  | pt_sets               = 
+  PHHY-PT071; Photon Hypernova; Common
+  | sp_sets               = 
+  PHHY-SP071; Photon Hypernova; Common
   | jp_sets               = 
+  PHHY-JP071; Photon Hypernova; Common
+  | kr_sets               = 
   PHHY-JP071; Photon Hypernova; Common
   | supports              = 
   * Continuous Spell Card

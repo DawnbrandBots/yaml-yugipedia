@@ -1,7 +1,5 @@
 title: Chaos Witch
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -19,8 +17,8 @@ wikitext: |-
   | atk                   = 1500
   | def                   = 1500
   | password              = 30327674
-  | effect_types          = Ignition, Trigger, Condition, Condition
-  | lore                  = You can [[Tribute]] this card; [[Special Summon]] 2 "[[Black Beast Token]]s" ([[Fiend]]/[[DARK]]/[[Level]] 2/[[ATK]] 1000/[[DEF]] 500). If this card is [[banish]]ed from the [[hand]] or [[GY]]: You can Special Summon 2 "[[White Beast Token]]s" ([[Fairy]]/[[Tuner]]/[[LIGHT]]/Level 2/ATK 500/DEF 1000). You can only use 1 "Chaos Witch" [[effect]] per turn, and only once that turn. You cannot Special Summon monsters from the [[Extra Deck]] the turn you [[activate]] either of this card's effects, except LIGHT and DARK [[Synchro Monster]]s.
+  | effect_types          = Ignition, Trigger, Condition
+  | lore                  = You can [[Tribute]] this card; [[Special Summon]] 2 "[[Dark Beast Token]]s" ([[Fiend]]/[[DARK]]/[[Level]] 2/[[ATK]] 1000/[[DEF]] 500). If this card is [[banish]]ed from the [[hand]] or [[GY]]: You can Special Summon 2 "[[Light Beast Token]]s" ([[Fairy]]/[[Tuner]]/[[LIGHT]]/Level 2/ATK 500/DEF 1000). You can only use 1 "Chaos Witch" [[effect]] per turn, and only once that turn, also you cannot Special Summon monsters from the [[Extra Deck]], except LIGHT or DARK [[Synchro Monster]]s, the turn you [[activate]] either effect.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,9 +26,24 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できず、発動するターン、自分は光・闇属性のＳモンスターしかＥＸデッキから特殊召喚できない。①：このカードをリリースして発動できる。自分フィールドに「黒き獣トークン」（悪魔族・闇・星２・攻１０００／守５００）２体を特殊召喚する。②：このカードが手札・墓地から除外された場合に発動できる。自分フィールドに「白き獣トークン」（天使族・チューナー・光・星２・攻５００／守１０００）２体を特殊召喚する。
   | ko_lore               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없으며, 발동하는 턴에, 자신은 빛 / 어둠 속성의 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. ①: 이 카드를 릴리스하고 발동할 수 있다. 자신 필드에 "검은 짐승 토큰"(악마족 / 어둠 / 레벨 2 / 공 1000 / 수 500) 2장을 특수 소환한다. ②: 이 카드가 패 / 묘지에서 제외되었을 경우에 발동할 수 있다. 자신 필드에 "하얀 짐승 토큰"(천사족 / 튜너 / 빛 / 레벨 2 / 공 500 / 수 1000) 2장을 특수 소환한다.
+  | en_sets               = 
+  PHHY-EN009; Photon Hypernova; Super Rare
+  | fr_sets               = 
+  PHHY-FR009; Photon Hypernova; Super Rare
+  | de_sets               = 
+  PHHY-DE009; Photon Hypernova; Super Rare
+  | it_sets               = 
+  PHHY-IT009; Photon Hypernova; Super Rare
+  | pt_sets               = 
+  PHHY-PT009; Photon Hypernova; Super Rare
+  | sp_sets               = 
+  PHHY-SP009; Photon Hypernova; Super Rare
   | jp_sets               = 
   PHHY-JP009; Photon Hypernova; Super Rare, Secret Rare, Prismatic Secret Rare
   PHHY-JP009; Photon Hypernova +1 Bonus Pack; Super Rare, Prismatic Secret Rare
+  | kr_sets               = 
+  PHHY-KR009; Photon Hypernova; Super Rare, Secret Rare, Prismatic Secret Rare
+  PHHY-KR009; Photon Hypernova +1 Bonus Pack; Super Rare, Prismatic Secret Rare
   | supports              = 
   * LIGHT
   * DARK

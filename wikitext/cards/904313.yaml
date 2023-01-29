@@ -1,7 +1,5 @@
-title: Giant Ballshoot
+title: Giant Ballgame
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,15 +8,15 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|Ｇ|ジャイアント}}・ボール・シュート
   | romaji_name           = Jaianto Bōru Shūto
-  | trans_name            = 
+  | trans_name            = Giant Ball Shoot
   | ko_name               = {{Ruby|G|자이언트|lang=ko}} 볼 슛
   | ko_rr_name            = Jaieonteu Bol Syut
-  | image                 = GiantBallshoot-PHHY-JP-C.png
+  | image                 = GiantBallgame-PHHY-JP-C.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 60619435
   | effect_types          = Ignition-like, Ignition-like, Condition
-  | lore                  = During your [[Main Phase]], if this card was [[activate]]d this [[turn]]: You can [[Special Summon]] 1 [[Level]] 6 or lower [[Insect]] [[monster]] from your [[GY]]. You can [[reveal]] 1 Insect monster in your [[hand]], then [[target]] 1 [[face-up]] monster your opponent [[control]]s and 1 Insect monster you control with lower [[ATK]] than the revealed monster; switch control of both monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 "Giant Ballshoot" [[effect]] per turn, and [[Once per turn|only once that turn]].
+  | lore                  = During your [[Main Phase]], if this card was [[activate]]d this [[turn]]: You can [[Special Summon]] 1 [[Level]] 6 or lower [[Insect]] [[monster]] from your [[GY]]. You can [[reveal]] 1 Insect monster in your [[hand]], then [[target]] 1 [[face-up]] monster your opponent [[control]]s, and 1 Insect monster you control with less [[ATK]] than the revealed monster; switch control of those monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 "Giant Ballgame" [[effect]] per turn, and [[Once per turn|only once that turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードを発動したターンの自分メインフェイズに発動できる。自分の墓地からレベル６以下の昆虫族モンスター１体を選んで特殊召喚する。②：手札の昆虫族モンスター１体を相手に見せ、相手フィールドの表側表示モンスター１体と、見せたモンスターより低い攻撃力を持つ自分フィールドの昆虫族モンスター１体を対象として発動できる。そのモンスター２体のコントロールを入れ替える。この効果で自分がコントロールを得たモンスターは昆虫族になる。
   | ko_lore               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드를 발동한 턴의 자신 메인 페이즈에 발동할 수 있다. 자신 묘지에서 레벨 6 이하의 곤충족 몬스터 1장을 고르고 특수 소환한다. ②: 패의 곤충족 몬스터 1장을 상대에게 보여주고, 상대 필드의 앞면 표시 몬스터 1장과, 보여준 몬스터보다 낮은 공격력을 가지는 자신 필드의 곤충족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 이 효과로 자신이 컨트롤을 얻은 몬스터는 곤충족이 된다.
+  | en_sets               = 
+  PHHY-EN062; Photon Hypernova; Common
+  | fr_sets               = 
+  PHHY-FR062; Photon Hypernova; Common
+  | de_sets               = 
+  PHHY-DE062; Photon Hypernova; Common
+  | it_sets               = 
+  PHHY-IT062; Photon Hypernova; Common
+  | pt_sets               = 
+  PHHY-PT062; Photon Hypernova; Common
+  | sp_sets               = 
+  PHHY-SP062; Photon Hypernova; Common
   | jp_sets               = 
   PHHY-JP062; Photon Hypernova; Common
+  | kr_sets               = 
+  PHHY-KR062; Photon Hypernova; Common
   | supports              = Insect
   | action                = 
   * Reveals your hand for cost

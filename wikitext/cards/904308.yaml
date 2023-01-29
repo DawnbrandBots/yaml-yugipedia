@@ -1,7 +1,5 @@
-title: Giant Antlion
+title: Infinite Antlion
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,7 +11,7 @@ wikitext: |-
   | trans_name            = Giant Messiah
   | ko_name               = 자이언트 메시아
   | ko_rr_name            = Jaieonteu Mesia
-  | image                 = GiantAntlion-PHHY-JP-C.png
+  | image                 = InfiniteAntlion-PHHY-JP-C.png
   | attribute             = EARTH
   | types                 = Insect / Effect
   | level                 = 3
@@ -21,7 +19,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 39078434
   | effect_types          = Trigger, Condition, Trigger, Trigger
-  | lore                  = [[Once per turn]], at the start of the [[Damage Step]], if an [[Insect]] [[monster]] [[battle]]s: You can [[target]] 1 card you [[control]] and 1 card your opponent controls; [[destroy]] them. You can only use each of the following [[effect]]s of "Giant Antlion" once per turn. When an opponent's monster declares an [[attack]]: You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[equip]] 1 Insect monster from your hand or [[GY]] to this card as an Equip Spell that gives it 500 [[ATK]]/[[DEF]].
+  | lore                  = [[Once per turn]], at the start of the [[Damage Step]], when an [[Insect]] [[monster]] [[battle]]s: You can [[target]] 1 card you [[control]] and 1 card your opponent controls; [[destroy]] them. You can only use each of the following [[effect]]s of "Infinite Antlion" once per turn. When an opponent's monster declares an [[attack]]: You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[equip]] 1 Insect monster from your hand or [[GY]] to this card as an Equip Spell that gives it 500 [[ATK]]/[[DEF]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・墓地から昆虫族モンスター１体を選び、攻撃力・守備力５００アップの装備カード扱いとしてこのカードに装備する。③：１ターンに１度、昆虫族モンスターが戦闘を行うダメージステップ開始時に、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。
   | ko_lore               = 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 몬스터의 공격 선언시에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 자신의 패 / 묘지에서 곤충족 몬스터 1장을 고르고, 공격력 / 수비력 500 올리는 장착 카드로 취급하여 이 카드에 장착한다. ③: 1턴에 1번, 곤충족 몬스터가 전투를 실행하는 데미지 스텝 개시시에, 자신 및 상대 필드의 카드를 1장씩 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  | en_sets               = 
+  PHHY-EN015; Photon Hypernova; Common
+  | fr_sets               = 
+  PHHY-FR015; Photon Hypernova; Common
+  | de_sets               = 
+  PHHY-DE015; Photon Hypernova; Common
+  | it_sets               = 
+  PHHY-IT015; Photon Hypernova; Common
+  | pt_sets               = 
+  PHHY-PT015; Photon Hypernova; Common
+  | sp_sets               = 
+  PHHY-SP015; Photon Hypernova; Common
   | jp_sets               = 
   PHHY-JP015; Photon Hypernova; Common
+  | kr_sets               = 
+  PHHY-KR015; Photon Hypernova; Common
   | supports              = Insect
   | anti-supports         = Insect
   | action                = 

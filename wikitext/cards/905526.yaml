@@ -1,7 +1,5 @@
-title: Repeated Land Transaction
+title: Land Flipping
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,15 +8,14 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|土|と}}{{Ruby|地|ち}}ころがし
   | romaji_name           = Tochikorogashi
-  | trans_name            = 
   | ko_name               = 토지 전매
   | ko_rr_name            = Toji Jeonmae
-  | image                 = RepeatedLandTransaction-PHHY-JP-NR.png
+  | image                 = LandFlipping-PHHY-JP-NR.png
   | card_type             = Spell
   | property              = Normal
   | password              = 61264008
   | effect_types          = Effect, Condition
-  | lore                  = [[Target]] 1 [[face-up]] card in the [[Field Zone]]; [[banish]] it, then place it face-up in the Field Zone of the opponent of the player who [[control]]led it, then you can choose 1 Field Spell with a different original name in the [[GY]] of the player who now controls the first card and place it face-up in the Field Zone of the player who controlled the first card when it was banished. You can only [[activate]] 1 "Repeated Land Transaction" per [[turn]].
+  | lore                  = [[Target]] 1 [[face-up]] card in a [[Field Zone]]; [[banish]] it, then place it face-up in the other Field Zone, then, you can choose 1 Field Spell with a different original name in the current controller's [[GY]], and place it face-up in the Field Zone of the player whose card was banished. You can only [[activate]] 1 "Land Flipping" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分または相手のフィールドゾーンの表側表示のカード１枚を対象として発動できる。そのカードを除外する。その後、この効果で除外したカードを除外されたプレイヤーから見て相手のフィールドゾーンに表側表示で置く。その後、置いたカードとは元々のカード名が異なるフィールド魔法カード１枚を置かれたプレイヤーの墓地から選んでこの効果でカードを除外されたプレイヤーのフィールドゾーンに表側表示で置く事ができる。
   | ko_lore               = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 또는 상대의 필드 존의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 제외한다. 그 후, 이 효과로 제외한 카드를 제외된 쪽 플레이어의 상대의 필드 존에 앞면 표시로 놓는다. 그 후, 놓은 카드와는 원래의 카드명이 다른 필드 마법 카드 1장을 놓여진 플레이어의 묘지에서 고르고 이 효과로 카드를 제외된 쪽 플레이어의 필드 존에 앞면 표시로 놓을 수 있다.
+  | en_sets               = 
+  PHHY-EN070; Photon Hypernova; Common
+  | fr_sets               = 
+  PHHY-FR070; Photon Hypernova; Common
+  | de_sets               = 
+  PHHY-DE070; Photon Hypernova; Common
+  | it_sets               = 
+  PHHY-IT070; Photon Hypernova; Common
+  | pt_sets               = 
+  PHHY-PT070; Photon Hypernova; Common
+  | sp_sets               = 
+  PHHY-SP070; Photon Hypernova; Common
   | jp_sets               = 
   PHHY-JP070; Photon Hypernova; Normal Rare
+  | kr_sets               = 
+  PHHY-KR070; Photon Hypernova; Normal Rare
   | supports              = Field Spell
   | anti-supports         = Field Spell
   | action                = 
