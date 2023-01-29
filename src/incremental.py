@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
+from platform import python_version
 import random
 import sys
 from time import sleep
@@ -10,6 +11,10 @@ from ruamel.yaml import YAML
 from utils import download
 
 
+# User agents containing the substring "python" in any casing are forbidden after 2023-01-28
+user_agent = f"https://github.com/DawnbrandBots/yaml-yugipedia httpx/{httpx.__version__} py/{python_version()}"
+
+
 def skip_condition(page) -> bool:
     return "categories" not in page
 
@@ -17,7 +22,7 @@ def skip_condition(page) -> bool:
 def main():
     if len(sys.argv) < 2:
         exit(f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]")
-    with httpx.Client(http2=True) as client:
+    with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
         yaml = YAML()
         url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions|categories&grctype=new|edit|categorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max"
         url += f"&clcategories=Category:{sys.argv[1]}"
