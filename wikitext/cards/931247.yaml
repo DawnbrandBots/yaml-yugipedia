@@ -18,6 +18,7 @@ wikitext: |-
   | def                   = 2200
   | password              = 
   | effect_types          = Trigger, Ignition, Condition
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[send]] [[Insect]] and/or [[Plant]] monsters from your [[Main Deck|Deck]] to the [[GY]] up to the number of non-Tuners used for its [[Synchro Summon]]. If you [[control]] this Synchro Summoned card: You can [[target]] 1 Insect or Plant monster you control; treat it as a Tuner until the end of this [[turn]]. You can only use each [[effect]] of "Diabolantis the Menacing Mantis" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
@@ -38,6 +39,19 @@ wikitext: |-
   PHHY-PT083; Photon Hypernova; Common
   | sp_sets               = 
   PHHY-SP083; Photon Hypernova; Common
+  | supports              = 
+  * Insect
+  * Plant
+  | action                = 
+  * Activates upon Synchro Summon
+  * Sends from your Deck to your Graveyard
+  | stat_change           = Treats monsters as Tuner monsters
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

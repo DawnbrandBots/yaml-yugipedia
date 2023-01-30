@@ -38,6 +38,21 @@ wikitext: |-
   PHHY-PT082; Photon Hypernova; Ultra Rare
   | sp_sets               = 
   PHHY-SP082; Photon Hypernova; Ultra Rare
+  | supports              = 
+  * LIGHT
+  * DARK
+  | stat_change           = This card gains ATK
+  | action                = Activates if it destroys a monster by battle
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  | attack                = Can make multiple attacks on monsters
+  | banished              = 
+  * Banishes from hand for Summon
+  * Banishes from Graveyard for Summon
+  * Banishes battling monster after damage calculation
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
