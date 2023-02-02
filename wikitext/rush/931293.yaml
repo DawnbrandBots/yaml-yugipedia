@@ -17,6 +17,11 @@ wikitext: |-
   | supports          = 
   * Legend Card
   * Normal Monster
+  | action            = Activates upon attack declaration
+  | stat_change       = Your opponent's monsters lose ATK
+  | m/s/t             = Destroys your opponent's Monster Cards
+  | life_points       = Pays Life Points for cost
+  | misc              = Requires control of specific Monster type
   | database_id       = 
   | rush_duel_status  = Not yet released
   }}
