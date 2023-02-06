@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 3600
   | def                   = 2700
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Continuous, Trigger, Condition
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />Cannot be [[destroyed by battle]]. Your opponent cannot [[target]] your [[Dinosaur]] monsters Special Summoned from the [[GY]] with card [[effect]]s, also they cannot be [[destroy]]ed by your opponent's card effects. If this card is destroyed: You can [[shuffle]] 1 [[Normal Monster]] from your GY into the [[Main Deck|Deck]], then you can Special Summon this card. You can only use this effect of "Transcendrake Glacesaurus" [[once per turn]].
   | fr_lore               = 
@@ -30,8 +31,23 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DBWS-JP004; Deck Build Pack: Wild Survivors; 
+  | supports              = 
+  * Dinosaur
+  * Normal Monster
+  | archseries            = Transcendrake
+  | action                = 
+  * Activates if destroyed
+  * Returns from your Graveyard to your Deck
+  | m/s/t                 = 
+  * Prevents other cards being targeted by card effects
+  * Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons itself from your Graveyard
+  | attack                = Cannot be destroyed by battle
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
-  | archseries            = Transcendrake
   }}

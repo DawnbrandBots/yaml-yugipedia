@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 3800
   | def                   = 2000
   | password              = 
+  | materials             = 1 Dinosaur-Type monster + 1 Normal Monster
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = 1 [[Dinosaur]] [[monster]] + 1 [[Normal Monster]]<br />If this card is [[Special Summon]]ed: You can [[target]] 1 Dinosaur monster in your [[GY]]; [[Add a card|add]] it to your [[hand]], then, if this card was Special Summoned from the GY, you can [[destroy]] both 1 card you [[control]] or in your hand and 1 card your opponent controls. If this card is destroyed: You can [[shuffle]] 1 Normal Monster from your GY into the [[Main Deck|Deck]], then you can Special Summon this card. You can only use each [[effect]] of "Transcendrake Gigantozowler" once per turn.
   | fr_lore               = 
@@ -30,7 +31,29 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DBWS-JP003; Deck Build Pack: Wild Survivors; 
+  | supports              = 
+  * Dinosaur
+  * Normal Monster
   | archseries            = Transcendrake
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Graveyard to hand
+  * Activates if destroyed
+  * Returns from your Graveyard to your Deck
+  | m/s/t                 = 
+  * Destroys hand
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Normal Monsters as Fusion Materials
+  * Special Summons itself from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
