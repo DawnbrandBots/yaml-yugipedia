@@ -1,6 +1,5 @@
 title: Spirit of the Pot of Greed
-wikitext: |2-
-
+wikitext: |-
   {{CardTable2
   | fr_name               = Esprit du Pot du Cupidité
   | de_name               = Geist des Topf der Gier
@@ -12,9 +11,9 @@ wikitext: |2-
   | image                 = SpiritofthePotofGreed-DR2-EN-C-UE.png
   | attribute             = LIGHT
   | types                 = Fairy / Effect
+  | level                 = 1
   | atk                   = 100
   | def                   = 100
-  | level                 = 1
   | password              = 04896788
   | effect_types          = Trigger
   | lore                  = While this card is in [[face-up]] [[Attack Position]] on the [[field]], if a player [[activate]]s "[[Pot of Greed]]", they can [[Draw a card|draw]] 1 more card.
@@ -28,6 +27,7 @@ wikitext: |2-
   | en_sets               = 
   IOC-EN009; Invasion of Chaos; Short Print
   DR2-EN009; Dark Revelation Volume 2; Common
+  ????-EN???; The Pot Collection; Ultra Parallel Rare
   | na_sets               = 
   IOC-009; Invasion of Chaos; Short Print
   | fr_sets               = 
@@ -45,12 +45,14 @@ wikitext: |2-
   | jp_sets               = 
   306-009; Controller of Chaos; Common
   EE2-JP009; Expert Edition Volume.2; Common
-  TBC1-JP012; Pot Collection; Ultra Parallel Rare
-  | ae_sets               = 
-  IOC-AE009; Invasion of Chaos; Common
+  TBC1-JP012; The Pot Collection; Ultra Parallel Rare
   | kr_sets               = 
   IOC-KR009; Invasion of Chaos; Common
   HGP2-KR009; Expert Edition Volume.2; Common
+  | sc_sets               =
+  TBC1-SCS12; The Pot Collection; Ultra Parallel Rare
+  | ae_sets               = 
+  IOC-AE009; Invasion of Chaos; Common
   | supports              = Pot of Greed
   | archseries            = Greed (series)
   | action                = 
