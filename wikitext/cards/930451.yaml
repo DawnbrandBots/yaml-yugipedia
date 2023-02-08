@@ -1,6 +1,7 @@
 title: Saincred Magician
 wikitext: |-
   {{Unofficial name|English}}
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -19,7 +20,7 @@ wikitext: |-
   | def                 = 800
   | password            = 
   | effect_types        = Trigger, Condition
-  | lore                = FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 "[[Magician of Faith]]" or "Saincred Magician" from your Deck in face-down Defense Position. You can only use this effect of "Saincred Magician" once per turn.
+  | lore                = [[FLIP]]: You can [[target]] 1 [[Spell]] in your [[GY]]; [[add]] it to your [[hand]], then you can [[Special Summon]] 1 "[[Magician of Faith]]" or "Saincred Magician" from your [[Main Deck|Deck]] in [[face-down]] [[Defense Position]]. You can only use this [[effect]] of "Saincred Magician" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -29,6 +30,14 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   VJMP-JP230; V Jump April 2023 promotional card; Ultra Rare
+  | action              = 
+  * Activates upon being flipped face-up
+  * Adds from Graveyard to hand
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons copies of itself
+  * Special Summons face-down
+  | misc                = Only once per turn
   | database_id         = 
   | tcg_status          = Not yet released
   | ocg_status          = Not yet released
