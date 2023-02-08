@@ -1,6 +1,5 @@
 title: Mysterious Puppeteer
 wikitext: |-
-  {{Not archetype member|Puppet|パペット}}
   {{CardTable2
   | fr_name               = Marionnettiste Mystérieux
   | de_name               = Mysteriöser Puppenspieler
@@ -10,15 +9,15 @@ wikitext: |-
   | es_name               = Titiritero Misterioso
   | ja_name               = {{Ruby|謎|なぞ}}の{{Ruby|傀|く}}{{Ruby|儡|ぐつ}}{{Ruby|師|し}}
   | romaji_name           = Nazo no Kugutsushi
-  | image                 = MysteriousPuppeteer-SKE-EN-C-1E.jpg
+  | image                 = MysteriousPuppeteer-OP21-EN-C-UE.png
   | attribute             = EARTH
   | types                 = Warrior / Effect
   | level                 = 4
   | atk                   = 1000
   | def                   = 1500
   | password              = 54098121
-  | effect_types          = Trigger
-  | lore                  = Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.
+  | effect_types          = Condition, Trigger
+  | lore                  = (This card is not treated as a "[[Puppet]]" card.)<br />If another [[monster]] is [[Normal Summon|Normal]] or [[Flip Summon]]ed: Gain 500 [[LP]].
   | fr_lore               = Tant que cette carte reste face recto sur le Terrain, les Life Points du contrôleur de cette carte augmentent de 500 points pour chaque monstre additionnel Invoqué (incluant les monstres de votre adversaire mais excluant les Invocations Spéciales).
   | de_lore               = Solange diese Karte offen auf dem Spielfeld liegt, erhöhen sich die Life Points des kontrollierenden Spielers für jedes beschworene Monster (auch für Monster deines Gegners, aber nicht für Spezialbeschwörung) um 500 Punkte.
   | it_lore               = Fino a quando questa carta resta scoperta sul Terreno, aumenta i tuoi Life Points di 500 punti per ciascun mostro addizionale evocato (escludendo le Evocazioni Speciali ma includendo i mostri dell'avversario).
@@ -29,7 +28,7 @@ wikitext: |-
   | gx1_lore              = As long as this card remains face-up on the field, the Life Points of this card's controller increase by 500 points for each additional monster summoned (excluding Special Summon, but including your opponent's monsters).
   | en_sets               = 
   SKE-017; Starter Deck: Kaiba Evolution; Common
-  OP21-EN???; OTS Tournament Pack 21; Common
+  OP21-EN013; OTS Tournament Pack 21; Common
   | na_sets               = 
   SDK-043; Starter Deck: Kaiba; Common
   | eu_sets               = 
@@ -39,25 +38,25 @@ wikitext: |-
   | fr_sets               = 
   DDK-F040; Starter Deck: Kaiba; Common
   SKE-FR017; Starter Deck: Kaiba Evolution; Common
-  OP21-EN???; OTS Tournament Pack 21; Common
+  OP21-FR013; OTS Tournament Pack 21; Common
   | fc_sets               = 
   DDK-C043; Starter Deck: Kaiba; Common
   | de_sets               = 
   SDK-G040; Starter Deck: Kaiba; Common
   SKE-DE017; Starter Deck: Kaiba Evolution; Common
-  OP21-DE???; OTS Tournament Pack 21; Common
+  OP21-DE013; OTS Tournament Pack 21; Common
   | it_sets               = 
   MIK-I040; Starter Deck: Kaiba; Common
   SKE-IT017; Starter Deck: Kaiba Evolution; Common
-  OP21-IT???; OTS Tournament Pack 21; Common
+  OP21-IT013; OTS Tournament Pack 21; Common
   | pt_sets               = 
   DIK-P043; Starter Deck: Kaiba; Common
   SKE-PT017; Starter Deck: Kaiba Evolution; Common
-  OP21-PT???; OTS Tournament Pack 21; Common
+  OP21-PT013; OTS Tournament Pack 21; Common
   | sp_sets               = 
   BIK-S043; Starter Deck: Kaiba; Common
   SKE-SP017; Starter Deck: Kaiba Evolution; Common
-  OP21-SP???; OTS Tournament Pack 21; Common
+  OP21-SP013; OTS Tournament Pack 21; Common
   | jp_sets               = 
   ; Booster 5; Common
   ; EX Starter Box; Common
@@ -85,5 +84,6 @@ wikitext: |-
   | gx1_dp                = 1000
   | gx1_number            = 0068
   | life_points           = You gain Life Points
+  | misc                  = Archetype-exclusion condition
   | database_id           = 4172
   }}
