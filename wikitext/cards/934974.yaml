@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = コンフィラス・ド・ヌーベルズ
-  | romaji_name           = Konfirasu do Nūberuzu
+  | romaji_name           = Konfirasu Do Nūberuzu
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = ConfitrasdeNouvellez-DBWS-JP-OP.png
@@ -19,8 +19,8 @@ wikitext: |-
   | atk                   = 800
   | def                   = 1850
   | password              = 
-  | effect_types          = 
-  | lore                  = You can Ritual Summon this card with any "Recipe" card. You can only use each of the following effects of "Confitras de Nouvellez" once per turn. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy it. When a card or effect is activated that targets this card, or when this card is targeted for an attack (Quick Effect): You can Tribute both this card and 1 other Attack Position monster on either field, and if you do, Special Summon 1 Level 3 or 4 "Nouvellez" Ritual Monster from your hand or Deck.
+  | effect_types          = Summoning condition, Condition, Trigger, Quick
+  | lore                  = You can [[Ritual Summon]] this card with any "[[Recipe]]" card. You can only use each of the following [[effect]]s of "Confitras de Nouvellez" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[target]] 1 [[Spell]]/[[Trap]] on the [[field]]; [[destroy]] it. When a card or [[effect]] is activated that [[target]]s this card, or when this card is targeted for an [[attack]] ([[Quick Effect]]): You can [[Tribute]] both this card and 1 other [[Attack Position]] monster on either [[field]], and if you do, Special Summon 1 [[Level]] 3 or 4 "Nouvellez" [[Ritual Monster]] from your hand or Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,15 +29,12 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  DBWS-JP030; Deck Build Pack: Wild Survivors;
-  | supports              = Ritual Monster 
+  DBWS-JP030; Deck Build Pack: Wild Survivors; 
+  | supports              = Ritual Monster
   | archseries            = Nouvellez
   | supports_archetypes   = 
   * Nouvellez
-  | action                = 
-  | m/s/t                 = 
-  | summoning             = 
-  | misc                  = 
+  * Recipe
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
