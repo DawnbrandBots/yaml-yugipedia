@@ -60,7 +60,9 @@ wikitext: |-
   * Sends from your Deck to your Graveyard
   | stat_change           = This card loses Levels
   | m/s/t                 = Prevents activation of your Effect Monsters
-  | summoning             = Performs a Synchro Summon
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * Performs a Synchro Summon
   | misc                  = 
   * Only once per turn
   * Once per Chain

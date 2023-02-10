@@ -30,6 +30,15 @@ wikitext: |-
   | supports              = Ritual Monster
   | archseries            = Nouvellez
   | supports_archetypes   = Recipe
+  | action                = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * You draw cards
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | misc                  = 
+  * Limited activations
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
