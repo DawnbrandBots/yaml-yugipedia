@@ -27,8 +27,23 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   ????-JP0??; Duelist Nexus; 
-  | supports              = The Crimson Dragon
+  | supports              = 
+  * Tuner monster
+  * Synchro Monster
+  * The Crimson Dragon
   | archseries            = Synchro (series)
+  | counter               = 
+  * Signal Counter
+  * Places counters on itself
+  * Removes counters for cost
+  | action                = Activates if destroyed by card effect
+  | stat_change           = 
+  * Your monsters gain Levels
+  * Your monsters lose Levels
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons from your Extra Deck
+  | misc                  = Variable effects
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

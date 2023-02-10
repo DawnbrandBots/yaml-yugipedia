@@ -35,7 +35,18 @@ wikitext: |-
   * Dragon
   | archseries            = Synchron
   | supports_archetypes   = Power Tool
-  | misc                  = Only once per turn
+  | related_to_archseries = Signer Dragon
+  | action                = 
+  * Uses cards in the hand as Synchro Materials
+  * Activates from your Graveyard
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change           = Changes own Level
+  | summoning             = Special Summons itself from your Graveyard
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Level
+  * Requires control of specific Monster card type
+  * Only once per Duel
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

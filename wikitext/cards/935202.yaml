@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 4000
   | password              = 
   | effect_types          = Summoning condition, Ignition, Condition, Quick
-  | materials             = 1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters
+  | materials             = 1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
   | lore                  = 1 [[Tuner]] [[Synchro Monster]] + 2+ non-Tuner Synchro Monsters<br />Must first be [[Synchro Summon]]ed with the above [[Synchro Material]]s. [[Once per turn]]: You can [[target]] [[face-up]] cards on the [[field]], up to the number of monsters used as Synchro Materials for this card + 1; [[negate]] their effects. This effect's activation and effect cannot be negated. ([[Quick Effect]]): You can [[banish]] this Synchro Summoned card; [[Special Summon]] 1 [[Dragon]] Synchro Monster from your [[Extra Deck]] that lists 2 or more non-Tuner Synchro Monsters as material. (This is treated as a Synchro Summon.)
   | fr_lore               = 
   | de_lore               = 
@@ -31,8 +31,30 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   ????-JP0??; Duelist Nexus; 
-  | supports              = Synchro Monster
-  | misc                  = Only once per turn
+  | supports              = 
+  * Synchro Monster
+  * Dragon
+  | archseries            = Cosmic Synchro Monster
+  | related_to_archseries = 
+  * Signer Dragon
+  * Stardust (archetype)
+  | action                = 
+  * Activation cannot be negated
+  * Effect that cannot be negated
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning             = 
+  * Requires both Tuner and non-Tuner Synchro Monsters as Synchro Materials
+  * 2 or more non-Tuner Synchro Materials
+  * Special Summon-only
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | banished              = Banishes itself from field for cost
+  | misc                  = 
+  * Limited activations
+  * Cover card
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
