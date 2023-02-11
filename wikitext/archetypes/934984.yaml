@@ -23,67 +23,78 @@ wikitext: |-
   "Nouvellez" is named after [[wikipedia:Nouvelle cuisine|nouvelle cuisine]], a style of French cuisine characterized by delicate dishes that emphasize presentation.
 
   ===Members===
-  Each of the "Nouvellez" monsters (except the "[[Nouvellez Token]]") is based on both a demon (principally from the ''Ars Goetia'') and an aspect of French cuisine. They all have 1850 [[DEF]], similar to the related "[[Hungry Burger]]".
+  Each of the "Nouvellez" monsters (except the "[[Nouvellez Token]]") are based on both a demon (principally from the ''[[wikipedia:Ars Goetia|Ars Goetia]]'') and an aspect of French cuisine. Their names are a combination of the name of the demon and the French name of the aspect of French cuisine.
+
+  They all have 1850 [[DEF]], the same as the related "[[Hungry Burger]]".
 
   {| class="wikitable" style="text-align: center"
   ! rowspan="2" | Level
   ! rowspan="2" | Nouvellez
-  ! colspan="2" | Name origin
+  ! rowspan="2" | Demon
+  ! colspan="2" | French cuisine
   |-
-  ! Demon
-  ! French cuisine
+  ! French name
+  ! English translation
   |-
   | 1
   | [[Buerillabaisse de Nouvellez|Buerillabaisse]]
   | [[wikipedia:Buer (demon)|Buer]]
-  | ''[[wikipedia:Bouillabaisse|Bouillabaisse]]''
+  | colspan=2 | ''[[wikipedia:Bouillabaisse|Bouillabaisse]]''
   |-
   | 2
   | [[Confitras de Nouvellez|Confitras]]
   | [[wikipedia:Foras|Foras]]
-  | ''[[wikipedia:Confit|Confit]]''
+  | colspan=2 | ''[[wikipedia:Confit|Confit]]''
   |-
   | 3
   | [[Poêlétis de Nouvellez|Poêlétis]]
   | [[wikipedia:Botis|Botis]]
-  | ''[[wikipedia:fr:Poêle (cuisine)|Poêle]]''
+  | ''Poêle''
+  | [[wikipedia:Frying pan|Frying pan]]
   |-
   | 4
   | [[Foie Glasya de Nouvellez|Foie Glasya]]
   | [[wikipedia:Glasya-Labolas|Glasya-Labolas]]
-  | ''[[wikipedia:Foie gras|Foie gras]]''
+  | colspan=2 | ''[[wikipedia:Foie gras|Foie gras]]''
   |-
   | 5
   | [[Balameuniere de Nouvellez|Balameuniere]]
   | [[wikipedia:Balam (demon)|Balam]]
-  | ''[[wikipedia:Meunière sauce|Meunière]]''
+  | ''Beurre meunière''
+  | [[wikipedia:Meunière sauce|''Meunière'' sauce]]
   |-
   | 6
   | [[Baegriller de Nouvellez|Baegriller]]
   | [[wikipedia:Bael (demon)|Bael]]
-  | ''[[wikipedia:fr:Grillade|Griller]]''
+  | ''Griller''
+  | [[wikipedia:Grilling|Grilling]]
   |}
-  ====Support====
+
+  ===Recipes===
   {{Main|Recipe}}
+  In Japanese, each of the "Recipe" cards that support the "Nouvellez" archetype are named twice: Once in French and once in Japanese.
+
   {| class="wikitable" style="text-align: center"
-  ! Recipe
-  ! colspan="2" | Name origin
+  ! rowspan=2 | "Recipe" card
+  ! colspan=2 | Name origin
   |-
-  | [[Hamburger Recipe|Hamburger]]
-  | colspan="2" | [[wikipedia:Hamburger|Hamburger]]
+  ! French name
+  ! English translation
   |-
-  | [[Recette de Personnel - Cook's Recipe|Recette de Personnel - Cook's]]
-  | rowspan="4" | ''[[wikipedia:fr:Recette de cuisine|Recette<br/>de cuisine]]''
-  | -
+  | [[Recette de Personnel - Cook's Recipe|Recette de Personnel - Cook's Recipe]]
+  | colspan=2 | N/A
   |-
-  | [[Recette de Poisson - Fish Recipe|Recette de Poisson - Fish]]
-  | ''[[wikipedia:fr:Poisson (aliment)|Poisson]]''
+  | [[Recette de Poisson - Fish Recipe|Recette de Poisson - Fish Recipe]]
+  | ''Poisson''
+  | [[wikipedia:Fish as food|Fish]]
   |-
-  | [[Recette de Spécialité - Chef's Specialty Recipe|Recette de Spécialité - Chef's Specialty]]
-  | ''[[wikipedia:fr:Spécialité culinaire|Spécialité<br/>culinaire]]''
+  | [[Recette de Spécialité - Chef's Specialty Recipe|Recette de Spécialité - Chef's Specialty Recipe]]
+  | ''[[wikipedia:fr:Spécialité culinaire|Spécialité culinaire]]''
+  | Chef's special
   |-
-  | [[Recette de Viande - Meat Recipe|Recette de Viande - Meat]]
-  | ''[[wikipedia:fr:Viande|Viande]]''
+  | [[Recette de Viande - Meat Recipe|Recette de Viande - Meat Recipe]]
+  | ''Viande''
+  | [[wikipedia:Meat|Meat]]
   |}
 
   ==Playing style==
@@ -117,6 +128,7 @@ wikitext: |-
   |link monsters = 
   * [[Cross-Sheep]]
   * [[Dyna Mondo]]
+  * [[Nephthys, the Sacred Flame]]
 
   | normal spells =
   * [[Pre-Preparation of Rites]]
