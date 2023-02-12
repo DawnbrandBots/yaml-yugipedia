@@ -32,6 +32,9 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   VX03-JP001; The Valuable Book EX 3 promotional cards; Ultra Rare
+  | supports              = 
+  * Normal Monster
+  * Special Summon Monster
   | archseries            = 
   * Elemental HERO
   * HERO
@@ -40,6 +43,20 @@ wikitext: |-
   | supports_archetypes  = 
   * Elemental HERO
   * Favorite
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Tributes itself for cost
+  * Applies effects if Special Summoned using specific Fusion Material
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Nomi
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Ignoring the Summoning conditions
   | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
