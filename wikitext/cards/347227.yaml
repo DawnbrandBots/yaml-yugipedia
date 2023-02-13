@@ -9,6 +9,7 @@ wikitext: |-
   | es_name               = Mago Nobledragón
   | ja_name               = {{Ruby|貴|き}}{{Ruby|竜|りゅう}}の{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}
   | romaji_name           = Kiryū no Majutsushi
+  | sc_name               = 贵龙的魔术师
   | image                 = NobledragonMagician-LEDD-EN-C-1E.png
   | attribute             = FIRE
   | types                 = Spellcaster / Pendulum / Tuner / Effect
@@ -33,8 +34,10 @@ wikitext: |-
   | es_lore                  = No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un Monstruo de Sincronía Dragón. Si esta carta es utilizada como Material de Sincronía, a menos que todos los demás Materiales de Sincronía sean monstruos "Ojos Anómalos", pon esta carta en el fondo del Deck. Si esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo "Ojos Anómalos" de Nivel 7 o superior que controles; reduce su Nivel en 3 y, si lo haces, Invoca esta carta de Modo Especial.
   | ja_pendulum_effect    = ①：もう片方の自分のＰゾーンに「魔術師」カードが存在しない場合にこのカードは破壊される。
   | ja_lore               = このカードをＳ素材とする場合、ドラゴン族モンスターのＳ召喚にしか使用できず、他のＳ素材に「オッドアイズ」モンスター以外のモンスターを使用した場合、このカードを持ち主のデッキの一番下に戻す。①：このカードが手札・墓地に存在する場合、自分フィールドのレベル７以上の「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターのレベルを３つ下げ、このカードを特殊召喚する。
-  | ko_pendulum_effect    = ① : 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드가 존재하지 않을 경우에 이 카드는 파괴된다.
-  | ko_lore               = 이 카드를 싱크로 소재로할 경우, 드래곤족 몬스터의 싱크로 소환으로밖에 사용할 수 없으며, 다른 싱크로 소재에 "오드아이즈" 몬스터 이외의 몬스터를 사용했을 경우, 이 카드를 주인의 덱 맨 아래로 되돌린다. ① : 이 카드가 패 / 묘지에 존재할 경우, 자신 필드의 레벨 7 이상의 "오드아이즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 레벨을 3개 내리고, 이 카드를 특수 소환한다.
+  | ko_pendulum_effect    = ①: 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드가 존재하지 않을 경우에 이 카드는 파괴된다.
+  | ko_lore               = 이 카드를 싱크로 소재로 할 경우, 드래곤족 몬스터의 싱크로 소환으로밖에 사용할 수 없으며, 다른 싱크로 소재에 "오드아이즈" 몬스터 이외의 몬스터를 사용했을 경우, 이 카드를 주인의 덱 맨 아래로 되돌린다. ①: 이 카드가 패 / 묘지에 존재할 경우, 자신 필드의 레벨 7 이상의 "오드아이즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 레벨을 3개 내리고, 이 카드를 특수 소환한다.
+  | sc_pendulum_effect    = ①：另一方自己的灵摆区域没有“魔术师”卡存在的情况下，此卡将被破坏。
+  | sc_lore               = 以此卡作为同步素材的情况下，仅可用于龙族怪兽的同步召唤，其他同步素材使用了“异色眼”怪兽以外的怪兽的情况下，将此卡放回持有者牌组最下面。①：此卡存在于手牌・墓地的情况下，以自己场上的１只等级７以上“异色眼”怪兽为对象可以发动。该怪兽的等级下降３，将此卡特殊召唤。
   | en_sets               = 
   SDMP-EN003; Master of Pendulum Structure Deck; Super Rare
   PEVO-EN015; Pendulum Evolution; Super Rare
@@ -63,6 +66,8 @@ wikitext: |-
   SD29-JP003; Structure Deck: Master of Pendulum; Super Rare
   | kr_sets               = 
   SD29-KR003; Structure Deck: Master of Pendulum; Super Rare
+  |sc_sets =
+  SD29-SC003; Structure Deck: Master of Pendulum; Super Rare
   | supports              = Dragon
   | archseries            = Magician
   | supports_archetypes   = 

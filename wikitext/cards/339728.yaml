@@ -9,6 +9,7 @@ wikitext: |-
   | es_name               = Llamada del Péndulo
   | ja_name               = ペンデュラム・コール
   | romaji_name           = Pendyuramu Kōru
+  | sc_name               = 灵摆呼叫
   | image                 = PendulumCall-MAMA-EN-UR-1E.png
   | card_type             = Spell
   | property              = Normal
@@ -22,6 +23,7 @@ wikitext: |-
   | es_lore               = Descarta 1 carta; añade a tu mano 2 Monstruos de Péndulo "Mago/a" con nombres diferentes en tu Deck, y además, hasta el final del próximo turno de tu adversario después de que esta carta se resuelva, las cartas "Mago/a" en tus Zonas de Péndulo no pueden ser destruidas por efectos de cartas. Sólo puedes activar 1 "Llamada del Péndulo" por turno. No puedes activar esta carta si activaste el Efecto de Péndulo de un monstruo "Mago/a" en este turno.
   | ja_lore               = 「ペンデュラム・コール」は１ターンに１枚しか発動できず、「魔術師」{{Ruby|Ｐ|ペンデュラム}}モンスターの{{Ruby|Ｐ|ペンデュラム}}効果を発動したターンには発動できない。①：手札を１枚捨てて発動できる。カード名が異なる「魔術師」{{Ruby|Ｐ|ペンデュラム}}モンスター２体をデッキから手札に加える。このカードの発動後、次の相手ターン終了時まで自分のＰゾーンの「魔術師」カードは効果では破壊されない。
   | ko_lore               = "펜듈럼 콜"은 1턴에 1장밖에 발동할 수 없으며, "마술사" 펜듈럼 몬스터의 펜듈럼 효과를 발동한 턴에는 발동할 수 없다. ①: 패를 1장 버리고 발동할 수 있다. 카드명이 다른 "마술사" 펜듈럼 몬스터 2장을 덱에서 패에 넣는다. 이 효과를 발동 후, 다음 상대 턴 종료시까지 자신 펜듈럼 존의 "마술사" 카드는 효과로는 파괴되지 않는다.
+  | sc_lore               = 此卡名的卡１回合仅可发动１张，在发动过“魔术师”灵摆怪兽的灵摆效果的回合不可发动。①：舍弃１张手牌可以发动。将２只卡名不同的“魔术师”灵摆怪兽从牌组加入手牌。此卡发动后，直至下一个对手回合结束时为止，自己灵摆区域的“魔术师”卡不会因效果被破坏。
   | en_sets               = 
   SDMP-EN026; Master of Pendulum Structure Deck; Common
   PEVO-EN036; Pendulum Evolution; Super Rare
@@ -50,6 +52,8 @@ wikitext: |-
   SD29-JP026; Structure Deck: Master of Pendulum; Normal Parallel Rare
   | kr_sets               = 
   SD29-KR026; Structure Deck: Master of Pendulum; Normal Parallel Rare
+  | sc_sets               = 
+  SD29-SC026; Structure Deck: Master of Pendulum; Normal Parallel Rare
   | supports              = Pendulum Monster
   | archseries            = Pendulum (archetype)
   | supports_archetypes   = Magician
@@ -57,7 +61,6 @@ wikitext: |-
   * You discard for cost
   * Adds from Deck to hand
   | m/s/t                 = Cannot be destroyed by card effects
-  | misc                  = 
-  * Only once per turn
+  | misc                  = Only once per turn
   | database_id           = 11940
   }}
