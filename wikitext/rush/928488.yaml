@@ -3,21 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = フラパン
-  | romaji_name            = Furapan
-  | image                  = Flapun-OW.png
-  | attribute              = ???
-  | types                  = ???
-  | level                  = ???
-  | atk                    = ???
-  | def                    = ???
-  | effect_types           = 
-  | requirement            = 
-  | lore                   = 
-  | ja_requirement         = 
-  | ja_lore                = 
-  | jp_sets                = 
-  RD/????-JP0??; Legend Awakening Pack; 
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | ja_name           = フラパン
+  | romaji_name       = Furapan
+  | image             = Flapun-RDLGP1-JP-OP.png
+  | attribute         = EARTH
+  | types             = Beast / Effect
+  | level             = 1
+  | atk               = 700
+  | def               = 200
+  | requirement       = If you have another [[face-up]] [[Beast]] [[Type]] [[monster]] on your [[field]], place 1 Beast Type monster from your [[Graveyard]] on top of the [[Main Deck|Deck]].
+  | lore              = 1 face-up monster on your opponent's field loses 400 [[ATK]] until the end of this [[turn]].
+  | ja_requirement    = 
+  | ja_lore           = 
+  | jp_sets           = 
+  RD/LGP1-JP041; Legend Awakening Pack; Common
+  | supports          = Beast
+  | action            = Places cards from the player's Graveyard on the top of the Deck for cost
+  | stat_change       = Your opponent's monsters lose ATK
+  | misc              = Requires control of specific Type
+  | database_id       = 
+  | rush_duel_status  = Not yet released
   }}
