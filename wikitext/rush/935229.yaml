@@ -11,8 +11,8 @@ wikitext: |-
   | property          = Equip
   | requirement       = Equip this card to 1 [[face-up]] [[monster]] on your [[field]].
   | lore              = The equipped monster gains 200 [[ATK]]/[[DEF]]. Also, if the equipped monster is "[[Master Craftsman Kotetsu]]" or a [[Legend Card|Legend]] monster whose original [[Level]] is 4 or lower, it gains ATK equal to [its [[original ATK]]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分フィールドの表側表示モンスター１体に装備できる。
+  | ja_lore           = 装備モンスターの攻撃力・守備力は２００アップする。装備モンスターが「名匠 虎鉄」または元々のレべルが４以下のレジェンドモンスターの場合、さらに攻撃力を［そのモンスターの元々の攻撃力］だけアップする。
   | jp_sets           = 
   RD/LGP1-JP045; Legend Awakening Pack; Common
   | supports          = 
@@ -22,6 +22,5 @@ wikitext: |-
   * Equipped gains ATK
   * Equipped gains DEF
   | misc              = Equips only to a specific target
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18719
   }}

@@ -16,9 +16,9 @@ wikitext: |-
   | summoning_condition    = This card's name becomes "[[Buster Blader (Rush Duel)|Buster Blader]]" while in the [[Graveyard]].
   | requirement            = None
   | lore                   = This card cannot attack directly. This card gains [[ATK]] equal to [the number of [[face-up]] [[Dragon]] [[Type]] [[monsters]] on your opponent's [[field]]] x 500.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 墓地にいるこのカードのカード名は「バスター・ブレイダー」になる。
+  | ja_requirement         = なし
+  | ja_lore                = このカードは直接攻撃できない。このカードの攻撃力は、［相手フィールドの表側表示モンスター（ドラゴン族）の数］×５００アップする。
   | jp_sets                = 
   RD/LGP1-JP007; Legend Awakening Pack; Super Rare
   | supports               = Buster Blader (Rush Duel)
@@ -27,6 +27,5 @@ wikitext: |-
   * Changes own name while in the GY
   * This card gains ATK
   | attack                 = Cannot attack directly
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 18687
   }}

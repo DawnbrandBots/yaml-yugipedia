@@ -13,8 +13,8 @@ wikitext: |-
   | def               = 300
   | requirement       = You have "[[Malevolent Catastrophe (Rush Duel)|Malevolent Catastrophe]]" in your [[Graveyard]].
   | lore              = [[Destroy]] 1 [[face-up]] [[Level]] 8 or lower [[monster]] on your opponent's [[field]]. Then, you can [[Add a card|add]] 1 [[Legend Card]] from your Graveyard to your [[hand]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分の墓地に「邪神の大災害」がある場合に発動できる。
+  | ja_lore           = 相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地のレジェンドカード１枚を選んで手札に加える事ができる。
   | jp_sets           = 
   RD/LGP1-JP040; Legend Awakening Pack; Common
   | supports          = 
@@ -22,6 +22,5 @@ wikitext: |-
   * Legend Card
   | action            = Adds from Graveyard to hand
   | m/s/t             = Destroys your opponent's face-up Monster Cards
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18715
   }}

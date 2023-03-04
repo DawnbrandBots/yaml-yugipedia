@@ -13,8 +13,8 @@ wikitext: |-
   | def               = 400
   | requirement       = If you have "[[The Warrior Returning Alive (Rush Duel)|The Warrior Returning Alive]]" or "[[Trap Hole (Rush Duel)|Trap Hole]]" in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | lore              = 1 [[face-up]] [[monster]] on your opponent's field loses [[ATK]] equal to [the total number of "The Warrior Returning Alive" and "Trap Hole" in your Graveyard] x 1000 until the end of this [[turn]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 自分の墓地に「戦士の生還」または「落とし穴」がある場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore           = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分の墓地の「戦士の生還」「落とし穴」の数の合計］×１０００ダウンする。
   | jp_sets           = 
   RD/LGP1-JP033; Legend Awakening Pack; Common
   | supports          = 
@@ -22,6 +22,5 @@ wikitext: |-
   * Trap Hole (Rush Duel)
   | action            = Sends from the top of your Deck to your Graveyard for cost
   | stat_change       = Your opponent's monsters lose ATK
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18708
   }}

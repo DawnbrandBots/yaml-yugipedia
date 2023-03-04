@@ -13,8 +13,8 @@ wikitext: |-
   | def               = 700
   | requirement       = Your opponent has a [[monster]] on their [[field]].
   | lore              = Toss a coin. If the result is heads, this card gains 1000 [[ATK]] until the end of this [[turn]]. If the result is tails, [[send]] this card from your [[field]] to the [[Graveyard]] and [[Draw a card|draw]] 1 card.
-  | ja_requirement    = 
-  | ja_lore           = 
+  | ja_requirement    = 相手フィールドにモンスターがいる場合に発動できる。
+  | ja_lore           = コイントスを１回行う。表だった場合、このカードの攻撃力はターン終了時まで１０００アップする。裏だった場合、自分フィールドのこのカードを墓地へ送り、自分は１枚ドローする。
   | jp_sets           = 
   RD/LGP1-JP011; Legend Awakening Pack; Super Rare, Secret Rare
   | action            = 
@@ -22,6 +22,5 @@ wikitext: |-
   * You draw cards
   | stat_change       = This card gains ATK
   | misc              = Coin toss
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | database_id       = 18691
   }}
