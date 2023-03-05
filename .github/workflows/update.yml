@@ -12,8 +12,9 @@ on:
   repository_dispatch:
     types:
       - update
-  schedule:
-    - cron: "0 2/4 * * *"
+  # Suspended: https://github.com/DawnbrandBots/bastion-bot/issues/293
+  # schedule:
+  #   - cron: "0 2/4 * * *"
 
 jobs:
   download:
