@@ -15,6 +15,8 @@ The categories being downloaded are
 - [Rush Duel cards](https://yugipedia.com/wiki/Category:Rush_Duel_cards): [`/wikitext/rush`](/wikitext/rush)
 - [Skill Cards](https://yugipedia.com/wiki/Category:Skill_Cards): [`/wikitext/speed`](/wikitext/speed)
 - [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg) (to be replaced by the official sources if possible)
+- [TCG_and_OCG_archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes): [`/wikitext/archetypes`](/wikitext/archetypes)
+- [Yu-Gi-Oh!_Master_Duel_cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards): [`/wikitext/master-duel-cards`](/wikitext/master-duel-cards)
 
 The remaining files — the actual source code of this stage of the pipeline — are available under the
 GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)
