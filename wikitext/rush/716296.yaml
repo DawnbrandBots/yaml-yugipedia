@@ -1,0 +1,26 @@
+title: Primordial Slash
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name           = {{Ruby|原|げん}}{{Ruby|初|しょ}}の{{Ruby|一|ひと}}{{Ruby|振|ふ}}り
+  | romaji_name       = Gensho no Hitofuri
+  | image             = PrimordialSlash-RDLGP1-JP-R.png
+  | card_type         = Trap
+  | property          = Normal
+  | requirement       = When an opponent's [[monster]] [[declare]]s an [[attack]], [[pay]] 400 [[LP]].
+  | lore              = The attacking monster loses 700 [[ATK]] until the end of this [[turn]]. Then, if you have a [[face-up]] [[Legend Card|Legend]] [[Normal Monster]] on your [[field]], you can [[destroy]] 1 monster on your opponent's field.
+  | ja_requirement    = 相手モンスターの攻撃宣言時、４００ＬＰを払って発動できる。
+  | ja_lore           = 攻撃してきたモンスターの攻撃力はターン終了時まで７００ダウンする。自分フィールドに表側表示のレジェンド通常モンスターがいる場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
+  | jp_sets           = 
+  RD/LGP1-JP026; Legend Awakening Pack; Rare
+  | supports          = 
+  * Legend Card
+  * Normal Monster
+  | action            = Activates upon attack declaration
+  | stat_change       = Your opponent's monsters lose ATK
+  | m/s/t             = Destroys your opponent's Monster Cards
+  | life_points       = Pays Life Points for cost
+  | misc              = Requires control of specific Monster type
+  | database_id       = 18703
+  }}
