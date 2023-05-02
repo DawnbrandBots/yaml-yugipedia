@@ -1,7 +1,5 @@
 title: Tri-Brigade Roar
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|鉄獣の咆哮|トライブリゲード・ロアー}}
   | romaji_name           = Toraiburigēdo Roā
-  | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = TriBrigadeRoar-CYAC-JP-R.png
@@ -18,7 +15,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 10793085
   | effect_types          = Effect, Condition
-  | lore                  = If you [[control]] a [[Link Monster]]: [[Send]] 1 "[[Tri-Brigade]]" card from your [[Main Deck|Deck]] or [[Extra Deck]] to the [[GY]], then target 1 [[Effect Monster]] on the field; apply this effect based on the type of card sent.<br />● [[Monster Card|Monster]]: Change the targeted monster's [[ATK]] to 0 until the end of this [[turn]].<br />● [[Spell]]: [[Negate]] the targeted monster's effects until the end of this turn.<br />● [[Trap]]: Return the targeted monster to the [[hand]].<br />You can only [[activate]] 1 "Tri-Brigade Roar" per turn.
+  | lore                  = If you [[control]] a [[Link Monster]]: [[Send]] 1 "[[Tri-Brigade]]" card from your [[Main Deck|Deck]] or [[Extra Deck]] to the [[GY]], then target 1 [[Effect Monster]] on the field; apply the following effect based on the type of card sent to the GY.<br />● [[Monster Card|Monster]]: Change the targeted monster's [[ATK]] to 0 until the end of this [[turn]].<br />● [[Spell]]: [[Negate]] that monster's effects until the end of this turn.<br />● [[Trap]]: Return that monster to the [[hand]].<br />You can only [[activate]] 1 "Tri-Brigade Roar" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドにリンクモンスターが存在する場合、デッキ・ＥＸデッキから「トライブリゲード」カード１枚を墓地へ送り、フィールドの効果モンスター１体を対象として発動できる。墓地へ送ったカードの種類によって以下の効果を適用する。<br />●モンスター：対象のモンスターの攻撃力はターン終了時まで０になる。<br />●魔法：対象のモンスターの効果をターン終了時まで無効にする。<br />●罠：対象のモンスターを持ち主の手札に戻す。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN053; Cyberstorm Access; Super Rare
+  | fr_sets               = 
+  CYAC-FR053; Cyberstorm Access; Super Rare
+  | de_sets               = 
+  CYAC-DE053; Cyberstorm Access; Super Rare
+  | it_sets               = 
+  CYAC-IT053; Cyberstorm Access; Super Rare
+  | pt_sets               = 
+  CYAC-PT053; Cyberstorm Access; Super Rare
+  | sp_sets               = 
+  CYAC-SP053; Cyberstorm Access; Super Rare
   | jp_sets               = 
   CYAC-JP053; Cyberstorm Access; Rare
+  | kr_sets               = 
+  CYAC-KR053; Cyberstorm Access; Rare
   | supports              = Link Monster
   | archseries            = Tri-Brigade
   | supports_archetypes   = Tri-Brigade

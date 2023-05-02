@@ -1,6 +1,7 @@
 title: Mystic Potato
 wikitext: |-
   {{Unofficial name|English}}
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = MysticPotato-VJMP-JP-OP.png
+  | image               = MysticPotato-VJMP-JP-UR.png
   | attribute           = DARK
   | types               = Plant / Effect
   | level               = 4
   | atk                 = 1400
   | def                 = 1100
-  | password            = 
+  | password            = 97534104
   | effect_types        = Trigger
   | lore                = If this card on the [[field]] is [[destroy]]ed by card [[effect]] and [[Send|sent]] to the [[Graveyard|GY]]: You can [[Special Summon]] 1 [[DARK]] [[Monster Card|monster]] with 1500 or less [[ATK]] from your [[Main Deck|Deck]] in [[Attack Position]], except "Mystic Potato".
   | fr_lore             = 
@@ -27,7 +28,7 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = ①：フィールドのこのカードが効果で破壊され墓地へ送られた場合に発動できる。「キラー・ポテト」を除く、攻撃力１５００以下の闇属性モンスター１体をデッキから攻撃表示で特殊召喚する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -38,7 +39,6 @@ wikitext: |-
   * Activates if destroyed by card effect
   * Activates from your Graveyard
   | summoning           = Special Summons from your Deck
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 18898
   | tcg_status          = Not yet released
   }}

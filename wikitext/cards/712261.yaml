@@ -1,7 +1,5 @@
 title: Protectcode Talker
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +18,7 @@ wikitext: |-
   | materials             = 2+ Effect Monsters
   | password              = 58036229
   | effect_types          = Continuous, Quick, Condition
-  | lore                  = 2+ [[Effect Monster]]s<br />Your opponent cannot [[target]] [[Link Rating|Link]]-4 or higher [[Link Monster]]s you [[control]] with card [[effect]]s, also they cannot be [[destroyed by battle]]. If you control a "[[Firewall (archetype)|Firewall]]" Link Monster ([[Quick Effect]]): You can [[banish]] any number of Link Monsters from your [[GY]] whose total Link Ratings exactly equal 3; [[Special Summon]] this card from your GY, but banish it when it [[leaves the field]]. You can only use this effect of "Protectcode Talker" [[once per turn]].
+  | lore                  = 2+ [[Effect Monster]]s<br />Your opponent cannot [[target]] [[Link Rating|Link]]-4 or higher [[monsters]] you [[control]] with card [[effect]]s, also they cannot be [[destroyed by battle]]. If you control a "[[Firewall (archetype)|Firewall]]" [[Link Monster]] ([[Quick Effect]]): You can [[banish]] Link Monsters from your [[GY]] whose combined Link Ratings equal exactly 3; [[Special Summon]] this card from your GY, but banish it when it [[leaves the field]]. You can only use this effect of "Protectcode Talker" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,9 +26,24 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 効果モンスター２体以上<br />このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのリンク４以上のリンクモンスターは相手の効果の対象にならず、戦闘では破壊されない。②：自分フィールドに「ファイアウォール」リンクモンスターが存在する場合、リンクマーカーの合計が３になるように、自分の墓地からリンクモンスターを任意の数だけ除外して発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。この効果は相手ターンでも発動できる。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN048; Cyberstorm Access; Super Rare
+  | fr_sets               = 
+  CYAC-FR048; Cyberstorm Access; Super Rare
+  | de_sets               = 
+  CYAC-DE048; Cyberstorm Access; Super Rare
+  | it_sets               = 
+  CYAC-IT048; Cyberstorm Access; Super Rare
+  | pt_sets               = 
+  CYAC-PT048; Cyberstorm Access; Super Rare
+  | sp_sets               = 
+  CYAC-SP048; Cyberstorm Access; Super Rare
   | jp_sets               = 
-  CYAC-JP048; Cyberstorm Access; SR, ScR, PScR
-  CYAC-JP048; Cyberstorm Access +1 Bonus Pack; SR, PScR
+  CYAC-JP048; Cyberstorm Access; Super Rare, Secret Rare, Prismatic Secret Rare
+  CYAC-JP048; Cyberstorm Access +1 Bonus Pack; Super Rare, Prismatic Secret Rare
+  | kr_sets               = 
+  CYAC-KR048; Cyberstorm Access; Super Rare, Secret Rare, Prismatic Secret Rare
+  CYAC-KR048; Cyberstorm Access +1 Bonus Pack; Super Rare, Prismatic Secret Rare
   | supports              = Link Monster
   | archseries            = Code Talker (archetype)
   | supports_archetypes   = Firewall (archetype)

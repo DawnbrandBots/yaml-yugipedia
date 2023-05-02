@@ -1,7 +1,5 @@
-title: Manadome Reframing
+title: Mannadium Reframing
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,25 +11,41 @@ wikitext: |-
   | romaji_name           = Manadumu Rifurēmingu
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = ManadomeReframing-CYAC-JP-C.png
+  | image                 = MannadiumReframing-CYAC-JP-C.png
   | card_type             = Trap
   | property              = Counter
   | password              = 18158393
   | effect_types          = Effect, Quick-like, Condition
-  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a [[Synchro Monster]]: [[Negate]] the activation, then, if you have "[[Visas Starfrost]]" or a [[monster]] with 1500 [[ATK]]/2100 [[DEF]] on your [[field]] or in your [[GY]], you can [[destroy]] that card. You can [[banish]] this card from your [[GY]], then [[target]] up to 3 "[[Manadome]]" monsters in your GY; [[shuffle]] them into the [[Main Deck|Deck]]. You can only use each [[effect]] of "Manadome Reframing" [[once per turn]].
+  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a [[Synchro Monster]]: [[Negate]] the activation, then if you have "[[Visas Starfrost]]", or a [[monster]] with 1500 [[ATK]]/2100 [[DEF]], on your [[field]] or in your [[GY]], you can [[destroy]] that negated card. You can [[banish]] this card from your [[GY]], then [[target]] up to 3 "[[Mannadium]]" monsters in your GY; [[shuffle]] them into the [[Main Deck|Deck]]. You can only use each [[effect]] of "Mannadium Reframing" [[once per turn]].
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにＳモンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にする。自分のフィールドまたは墓地に、「ヴィサス＝スタフロスト」または攻撃力１５００／守備力２１００のモンスターが存在する場合、さらにその無効にしたカードを破壊できる。②：墓地のこのカードを除外し、自分の墓地の「マナドゥム」モンスターを３体まで対象として発動できる。そのモンスターをデッキに戻す。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN073; Cyberstorm Access; 
+  | fr_sets               = 
+  CYAC-FR073; Cyberstorm Access; 
+  | de_sets               = 
+  CYAC-DE073; Cyberstorm Access; 
+  | it_sets               = 
+  CYAC-IT073; Cyberstorm Access; 
+  | pt_sets               = 
+  CYAC-PT073; Cyberstorm Access; 
+  | sp_sets               = 
+  CYAC-SP073; Cyberstorm Access; 
   | jp_sets               = 
   CYAC-JP073; Cyberstorm Access; Common
+  | kr_sets               = 
+  CYAC-KR073; Cyberstorm Access; Common
   | supports              = 
   * Synchro Monster
   * Visas Starfrost
-  | archseries            = Manadome
-  | supports_archetypes   = Manadome
-  | related_to_archseries = Heart
+  | archseries            = Mannadium
+  | supports_archetypes   = Mannadium
+  | related_to_archseries = 
+  * Heart
+  * Visas
   | action                = 
   * Activates from your Graveyard
   * Returns from your Graveyard to your Deck

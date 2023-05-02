@@ -12,28 +12,30 @@ wikitext: |-
   | romaji_name           = Vēda=Kāranta
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = VedaKarantha-DUNE-JP-OP.png
+  | image                 = VedaKarantha-DUNE-JP-R.png
   | attribute             = DARK
   | types                 = Warrior / Effect
   | level                 = 8
   | atk                   = 2500
   | def                   = 2100
-  | password              = 
+  | password              = 27015862
   | effect_types          = Trigger, Trigger, Condition
-  | lore                  = If a card(s) on the [[field]] is [[destroy]]ed by card [[effect]] and "[[Visas Starfrost]]" is on the [[field]]: You can [[Special Summon]] this card from your [[hand]], then you can [[Add a card|add]] 1 "[[Clear New World]]" from your [[Main Deck|Deck]] or [[GY]] to your hand. If another monster(s) in your possession is destroyed by card effect: You can [[target]] 1 monster your opponent [[control]]s; [[destroy]] it, and if you do, this card gains [[ATK]] equal to that monster's [[original ATK]] until the end of this [[turn]]. You can only use each effect of "Veda Karantha" [[once per turn]].
+  | lore                  = If a card(s) on the [[field]] is [[destroy]]ed by card [[effect]] and "[[Visas Starfrost]]" is on the [[field]] (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[hand]], then you can [[Add a card|add]] 1 "[[Clear New World]]" from your [[Main Deck|Deck]] or [[GY]] to your hand. If another monster(s) in your possession is destroyed by card effect (except during the Damage Step): You can [[target]] 1 monster your opponent [[control]]s; [[destroy]] it, and if you do, this card gains [[ATK]] equal to that monster's [[original ATK]] until the end of this [[turn]]. You can only use each effect of "Veda Karantha" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのカードが効果で破壊された場合、フィールドに「ヴィサス＝スタフロスト」が存在していれば発動できる。このカードを手札から特殊召喚する。その後、自分のデッキ・墓地から「新世壊」１枚を手札に加える事ができる。②：このカード以外の自分のモンスターが効果で破壊された場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、その元々の攻撃力分このカードの攻撃力をターン終了時までアップする。
   | ko_lore               = 
   | jp_sets               = 
   DUNE-JP012; Duelist Nexus; Rare
   | supports              = 
   * Clear New World
   * Visas Starfrost
-  | related_to_archseries = Visas
+  | related_to_archseries = 
+  * Broken World
+  * Visas
   | action                = 
   * Activates if destroyed by card effect
   * Activates from your hand
@@ -43,7 +45,6 @@ wikitext: |-
   | m/s/t                 = Destroys your opponent's Monster Cards
   | summoning             = Special Summons itself from your hand
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 18799
   | tcg_status            = Not yet released
   }}

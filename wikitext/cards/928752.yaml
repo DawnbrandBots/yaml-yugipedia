@@ -12,23 +12,34 @@ wikitext: |-
   | romaji_name           = Yūgō Kyōhei
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = FusionReinforcement-DUNE-JP-OP.png
+  | image                 = FusionReinforcement-DUNE-JP-SR.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 61070601
   | effect_types          = Effect, Condition
-  | lore                  = [[Reveal]] 1 [[Fusion Monster]] in your [[Extra Deck]] and [[Special Summon]] 1 of the [[Fusion Material]]s mentioned on it from your [[Extra Deck]] or [[GY]], but until the end of your opponent's [[turn]], it cannot [[attack]], also its [[effect]]s are [[negate]]d. You can only [[activate]] 1 "Fusion Reinforcement" per turn.
+  | lore                  = [[Reveal]] 1 [[Fusion Monster]] in your [[Extra Deck]] and [[Special Summon]] 1 of the [[Fusion Material]]s [[mention]]ed on it from your [[Extra Deck]] or [[GY]], but until the end of your opponent's [[turn]], it cannot [[attack]], also its [[effect]]s are [[negate]]d. You can only [[activate]] 1 "Fusion Reinforcement" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：ＥＸデッキの融合モンスター１体を相手に見せ、そのモンスターにカード名が記された融合素材モンスター１体を自分のＥＸデッキ・墓地から特殊召喚する。この効果で特殊召喚したモンスターは相手ターン終了時まで、攻撃できず、効果は無効化される。
   | ko_lore               = 
   | jp_sets               = 
-  DUNE-JP061; Duelist Nexus; 
+  DUNE-JP061; Duelist Nexus; Super Rare, Secret Rare, Quarter Century Secret Rare
+  DUNE-JP061; Duelist Nexus +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
+  | supports              = Fusion Monster
   | archseries            = Polymerization (archetype)
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | action                = Reveals your Extra Deck
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | attack                = Prevents your monsters from attacking
+  | misc                  = 
+  * Mention
+  * Turn limited effects
+  * Only once per turn
+  | database_id           = 18848
   | tcg_status            = Not yet released
   }}

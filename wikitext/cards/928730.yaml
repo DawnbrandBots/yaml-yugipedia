@@ -28,6 +28,16 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC03-JP028; Animation Chronicle 2023; 
+  | supports              = Normal Trap Card
+  | anti-supports         = Normal Trap Card
+  | action                = 
+  * Resolves as another card's effect
+  * Activates from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | life_points           = 
+  * Pays Life Points for cost
+  * Halves the player's LP
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

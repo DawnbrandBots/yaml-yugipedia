@@ -1,7 +1,5 @@
 title: REINFORCE!
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property              = Normal
   | password              = 71948047
   | effect_types          = Condition, Effect, Condition
-  | lore                  = (This card is always treated as a "[[Rescue-ACE]]" card.)<br />[[Target]] 1 "[[Rescue-ACE]]" [[monster]] you [[control]]; until the end of this [[turn]], that monster you control gains 1500 [[ATK]]/[[DEF]], it is [[unaffected]] by your opponent's [[monster effect]]s, also the next time it would be [[destroyed by battle]], it is not destroyed. You can [[banish]] this card from your [[GY]], then target 1 "Rescue-ACE" [[Spell]] in your GY; [[Set]] it to your field. You can only use this [[effect]] of "REINFORCE!" [[once per turn]].
+  | lore                  = (This card is always treated as a "[[Rescue-ACE]]" card.)<br />[[Target]] 1 "[[Rescue-ACE]]" [[monster]] you [[control]]; for the rest of this [[turn]], that monster you control gains 1500 [[ATK]]/[[DEF]], is [[unaffected]] by your opponent's [[monster effect]]s, and the next time it would be [[destroyed by battle]], it is not destroyed. You can [[banish]] this card from your [[GY]], then target 1 "Rescue-ACE" [[Spell]] in your GY; [[Set]] that card. You can only use this [[effect]] of "REINFORCE!" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名はルール上「Ｒ－ＡＣＥ」カードとしても扱う。このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドの「Ｒ－ＡＣＥ」モンスター１体を対象として発動できる。その自分のモンスターはこのターン、攻撃力・守備力が１５００アップし、相手モンスターの効果を受けず、１度だけ戦闘では破壊されない。②：墓地のこのカードを除外し、自分の墓地の「Ｒ－ＡＣＥ」魔法カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN075; Cyberstorm Access; Common
+  | fr_sets               = 
+  CYAC-FR075; Cyberstorm Access; Common
+  | de_sets               = 
+  CYAC-DE075; Cyberstorm Access; Common
+  | it_sets               = 
+  CYAC-IT075; Cyberstorm Access; Common
+  | pt_sets               = 
+  CYAC-PT075; Cyberstorm Access; Common
+  | sp_sets               = 
+  CYAC-SP075; Cyberstorm Access; Common
   | jp_sets               = 
   CYAC-JP075; Cyberstorm Access; Common
+  | kr_sets               = 
+  CYAC-KR075; Cyberstorm Access; Common
   | archseries            = Rescue-ACE
   | supports_archetypes   = Rescue-ACE
   | action                = 

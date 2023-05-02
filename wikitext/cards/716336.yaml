@@ -1,7 +1,5 @@
 title: Purrely Sleepy Memory
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,8 +15,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Quick-Play
   | password              = 21347668
-  | effect_types          = Effect, Lingering, Unclassified, Trigger
-  | lore                  = Apply this [[effect]], then you can [[discard]] 1 card, and if you do, [[Special Summon]] 1 [[Level]] 1 "[[Purrely]]" [[Monster Card|monster]] from your [[Main Deck|Deck]]. Once applied, the next [[battle damage|battle]] or [[effect damage]] you take this [[turn]] becomes 0. A "Purrely" [[Xyz Monster]] that has this card as [[material]] gains this effect.<br />● [[Once per turn]], during your opponent's [[Standby Phase]]: You can [[draw]] 1 card.
+  | effect_types          = Effect, Condition, Trigger
+  | lore                  = The next [[battle damage|battle]] or [[effect damage]] you take this [[turn]] will become 0. You can also immediately apply the following [[effect]].<br />● [[Discard]] 1 card, and if you do, [[Special Summon]] 1 [[Level]] 1 "[[Purrely]]" [[Monster Card|monster]] from your [[Main Deck|Deck]].<br />A "Purrely" [[Xyz Monster]] that has this card as [[material]] gains the following effect.<br />● [[Once per turn]], during your opponent's [[Standby Phase]]: You can [[draw]] 1 card.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：このターン、自分が受ける戦闘・効果ダメージは１度だけ０になる。さらに、以下の効果を適用できる。●自分の手札を１枚選んで捨て、デッキからレベル１の「ピュアリィ」モンスター１体を特殊召喚する。②：このカードを素材として持っている「ピュアリィ」Ｘモンスターは以下の効果を得る。●相手スタンバイフェイズに発動できる。自分はデッキから１枚ドローする。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN061; Cyberstorm Access; Common
+  | fr_sets               = 
+  CYAC-FR061; Cyberstorm Access; Common
+  | de_sets               = 
+  CYAC-DE061; Cyberstorm Access; Common
+  | it_sets               = 
+  CYAC-IT061; Cyberstorm Access; Common
+  | pt_sets               = 
+  CYAC-PT061; Cyberstorm Access; Common
+  | sp_sets               = 
+  CYAC-SP061; Cyberstorm Access; Common
   | jp_sets               = 
   CYAC-JP061; Cyberstorm Access; Common
+  | kr_sets               = 
+  CYAC-KR061; Cyberstorm Access; Common
   | supports              = Xyz Monster
   | archseries            = Purrely
   | supports_archetypes   = Purrely

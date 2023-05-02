@@ -1,7 +1,5 @@
-title: The Boundless Open Land
+title: New Frontier
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,14 +8,15 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|開|ひら}}かれし{{Ruby|大|だい}}{{Ruby|地|ち}}
   | romaji_name           = Hirakareshi Daichi
+  | trans_name            = Opened Land
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TheBoundlessOpenLand-CYAC-JP-R.png
+  | image                 = NewFrontier-CYAC-JP-R.png
   | card_type             = Spell
   | property              = Field
   | password              = 56787189
-  | effect_types          = Trigger-like
-  | lore                  = If your opponent [[Special Summon]]s a [[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]](s) (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s (but you can only use each effect of "The Boundless Open Land" [[once per turn]]);<br />● [[Add a card|Add]] 1 "[[Fallen of Albaz]]", or 1 monster that mentions it, from your [[Main Deck|Deck]] to your [[hand]].<br />● Special Summon 1 "[[Fallen of Albaz]]", or 1 monster that mentions it, from your hand.
+  | effect_types          = Trigger-like, Condition
+  | lore                  = If your opponent [[Special Summon]]s a [[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], and/or [[Link Monster]](s) (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s;<br />● [[Add a card|Add]] 1 "[[Fallen of Albaz]]", or 1 monster that mentions it, from your [[Main Deck|Deck]] to your [[hand]].<br />● Special Summon 1 "[[Fallen of Albaz]]", or 1 monster that mentions it, from your hand.<br />You can only use each effect of "New Frontier" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：相手が儀式・融合・Ｓ・Ｘ・リンクモンスターの特殊召喚に成功した場合、以下の効果から１つを選択して発動できる。「開かれし大地」の以下の効果はそれぞれ１ターンに１度しか選択できない。<br />●デッキから「アルバスの落胤」１体またはそのカード名が記されたモンスター１体を手札に加える。<br />●手札から「アルバスの落胤」１体またはそのカード名が記されたモンスター１体を特殊召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN054; Cyberstorm Access; 
+  | fr_sets               = 
+  CYAC-FR054; Cyberstorm Access; 
+  | de_sets               = 
+  CYAC-DE054; Cyberstorm Access; 
+  | it_sets               = 
+  CYAC-IT054; Cyberstorm Access; 
+  | pt_sets               = 
+  CYAC-PT054; Cyberstorm Access; 
+  | sp_sets               = 
+  CYAC-SP054; Cyberstorm Access; 
   | jp_sets               = 
   CYAC-JP054; Cyberstorm Access; Rare
+  | kr_sets               = 
+  CYAC-KR054; Cyberstorm Access; Rare
   | supports              = Fallen of Albaz
   | anti-supports         = 
   * Ritual Monster

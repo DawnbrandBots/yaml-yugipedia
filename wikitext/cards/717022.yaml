@@ -1,7 +1,5 @@
-title: Tellarknight Altea
+title: Tellarknight Altairan
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,9 +8,10 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|星騎士|テラナイト}} アルテア
   | romaji_name           = Teranaito Arutea
+  | trans_name            = Tellarknight Altair
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TellarknightAltea-CYAC-JP-C.png
+  | image                 = TellarknightAltairan-CYAC-JP-C.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 4
@@ -20,7 +19,7 @@ wikitext: |-
   | def                   = 1300
   | password              = 42822433
   | effect_types          = Condition, Trigger, Trigger, Condition
-  | lore                  = (This card is always treated as a "[[Constellar]]" card.)<br />If this card is [[Summon]]ed: You can [[target]] cards on the [[field]] up to the number of [[LIGHT]] and [[DARK]] [[Xyz Monster]]s you [[control]]; [[destroy]] them. If a "[[tellarknight]]" and/or "Constellar" [[monster]](s) other than "Tellarknight Altea" is [[Special Summon]]ed to your [[field]] (except during the [[Damage Step]]): You can Special Summon this card from your [[GY]], also you cannot declare an [[attack]] for the rest of this [[turn]], except with [[Xyz Monster]]s. You can only use each effect of "Tellarknight Altea" [[once per turn]].
+  | lore                  = (This card is always treated as a "[[Constellar]]" card.)<br />If this card is [[Summon]]ed: You can [[target]] cards on the [[field]], up to the number of [[LIGHT]] and [[DARK]] [[Xyz Monster]]s you [[control]]; [[destroy]] them. If a "[[tellarknight]]" or "Constellar" [[monster]](s) is [[Special Summon]]ed to your [[field]], except "Tellarknight Altairan" (except during the [[Damage Step]]): You can Special Summon this card from your [[GY]], also you cannot declare [[attack]]s for the rest of this [[turn]], except with [[Xyz Monster]]s. You can only use each effect of "Tellarknight Altairan" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名はルール上「セイクリッド」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・反転召喚・特殊召喚に成功した場合、自分フィールドの光・闇属性Ｘモンスターの数までフィールドのカードを対象として発動できる。そのカードを破壊する。②：自分フィールドに「星騎士 アルテア」以外の「テラナイト」、「セイクリッド」モンスターが特殊召喚された場合に発動できる。このカードを墓地から特殊召喚する。このターン、自分はＸモンスターでしか攻撃宣言できない。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN020; Cyberstorm Access; Super Rare
+  | fr_sets               = 
+  CYAC-FR020; Cyberstorm Access; Super Rare
+  | de_sets               = 
+  CYAC-DE020; Cyberstorm Access; Super Rare
+  | it_sets               = 
+  CYAC-IT020; Cyberstorm Access; Super Rare
+  | pt_sets               = 
+  CYAC-PT020; Cyberstorm Access; Super Rare
+  | sp_sets               = 
+  CYAC-SP020; Cyberstorm Access; Super Rare
   | jp_sets               = 
   CYAC-JP020; Cyberstorm Access; Common
+  | kr_sets               = 
+  CYAC-KR020; Cyberstorm Access; Common
   | supports              = 
   * Xyz Monster
   * LIGHT

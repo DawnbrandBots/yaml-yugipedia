@@ -1,7 +1,5 @@
-title: Tellarknight Lyra
+title: Tellarknight Lyran
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,9 +8,10 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|星騎士|テラナイト}} リュラ
   | romaji_name           = Teranaito Ryura
+  | trans_name            = Tellarknight Lyra
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TellarknightLyra-CYAC-JP-R.png
+  | image                 = TellarknightLyran-CYAC-JP-R.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 4
@@ -20,7 +19,7 @@ wikitext: |-
   | def                   = 1600
   | password              = 79210531
   | effect_types          = Condition, Trigger, Trigger, Condition
-  | lore                  = (This card is always treated as a "[[Constellar]]" card.)<br />If a "[[tellarknight]]" and/or "Constellar" [[Monster Card|monster]] other than "Tellarknight Lyra" is [[Normal Summon]]ed to your [[field]]: You can [[Special Summon]] this card from your [[hand]]. If this card is [[Summon]]ed: You can [[add]] 1 "tellarknight" [[Spell]] from your [[Main Deck|Deck]] to your hand. You can only use each [[effect]] of "Tellarknight Lyra" [[once per turn]].
+  | lore                  = (This card is always treated as a "[[Constellar]]" card.)<br />If a "[[tellarknight]]" or "Constellar" [[Monster Card|monster]] is [[Normal Summon]]ed to your [[field]], except "Tellarknight Lyran" (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[hand]]. If this card is [[Summon]]ed: You can [[add]] 1 "tellarknight" [[Spell]] from your [[Main Deck|Deck]] to your hand. You can only use each [[effect]] of "Tellarknight Lyran" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名はルール上「セイクリッド」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「星騎士 リュラ」以外の「テラナイト」、「セイクリッド」モンスターが召喚された場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・反転召喚・特殊召喚に成功した場合に発動できる。デッキから「テラナイト」魔法カード１枚を手札に加える。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN021; Cyberstorm Access; Super Rare
+  | fr_sets               = 
+  CYAC-FR021; Cyberstorm Access; Super Rare
+  | de_sets               = 
+  CYAC-DE021; Cyberstorm Access; Super Rare
+  | it_sets               = 
+  CYAC-IT021; Cyberstorm Access; Super Rare
+  | pt_sets               = 
+  CYAC-PT021; Cyberstorm Access; Super Rare
+  | sp_sets               = 
+  CYAC-SP021; Cyberstorm Access; Super Rare
   | jp_sets               = 
   CYAC-JP021; Cyberstorm Access; Rare
+  | kr_sets               = 
+  CYAC-KR021; Cyberstorm Access; Rare
   | archseries            = 
   * Constellar
   * tellarknight

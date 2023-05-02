@@ -1,7 +1,5 @@
-title: Ton-Ton
+title: Pig Iron vs. Pen Peg
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,21 +8,36 @@ wikitext: |-
   | es_name               = 
   | ja_name               = トン＝トン
   | romaji_name           = Ton=Ton
+  | trans_name            = Pig-Ton
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TonTon-CYAC-JP-NR.png
+  | image                 = PigIronvsPenPeg-CYAC-JP-NR.png
   | card_type             = Spell
   | property              = Quick-Play
   | password              = 46497537
   | effect_types          = Effect, Ignition-like, Condition
-  | lore                  = [[Target]] 1 [[face-up]] [[monster]] on the [[field]]; its [[ATK]]/[[DEF]]/[[Level]] that are higher than their original ATK/DEF/Level become their original ATK/DEF/Level, then pay [[LP]] in multiples of 100 (max. 1000). During your [[Main Phase]], if this card is in your [[GY]] and your [[LP]] are equal to your opponent's: You can [[Set]] this card. You can only use this effect of "Ton-Ton" [[once per turn]].
+  | lore                  = [[Target]] 1 [[face-up]] [[monster]] on the [[field]]; if that monster's [[ATK]], [[DEF]], or [[Level]] is higher than its original value, it becomes its original value, then pay [[LP]] in multiples of 100 (min. 100, max. 1000). During your [[Main Phase]], if both players have the same LP and this card is in your [[GY]]: You can [[Set]] this card. You can only use this effect of "Pig Iron vs. Pen Peg" [[once per turn]].
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
   | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力・レベルの内、元々の数値より高い数値は、元々の数値になる。その後、１００の倍数のＬＰを払う（最大１０００まで）。②：このカードが墓地に存在し、自分のＬＰが相手と同じ場合、自分メインフェイズに発動できる。このカードを自分フィールドにセットする。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN068; Cyberstorm Access; Common
+  | fr_sets               = 
+  CYAC-FR068; Cyberstorm Access; Common
+  | de_sets               = 
+  CYAC-DE068; Cyberstorm Access; Common
+  | it_sets               = 
+  CYAC-IT068; Cyberstorm Access; Common
+  | pt_sets               = 
+  CYAC-PT068; Cyberstorm Access; Common
+  | sp_sets               = 
+  CYAC-SP068; Cyberstorm Access; Common
   | jp_sets               = 
   CYAC-JP068; Cyberstorm Access; Normal Rare
+  | kr_sets               = 
+  CYAC-KR068; Cyberstorm Access; Normal Rare
   | action                = 
   * Activates from your Graveyard
   * Sets itself from your Graveyard

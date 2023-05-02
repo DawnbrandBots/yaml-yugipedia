@@ -28,7 +28,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC03-JP029; Animation Chronicle 2023; 
+  | supports              = 
+  * Cyberse
+  * Link Monster
   | supports_archetypes   = Code Talker (archetype)
+  | action                = Activates from your Graveyard
+  | stat_change           = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  * Your monsters gain ATK
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = Banishes itself from Graveyard for cost
+  | life_points           = Prevents battle damage
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

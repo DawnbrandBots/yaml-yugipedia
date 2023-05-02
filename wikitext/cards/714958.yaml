@@ -1,8 +1,5 @@
-title: First Purchase of the Year
+title: Hatsugai
 wikitext: |-
-  {{Rename|Hatsugai|[[Fukubiki]], [[Kingyo Sukui]], [[Yaminabe Party]]}}
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -11,14 +8,15 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|初|はつ}}{{Ruby|買|が}}い
   | romaji_name           = Hatsugai
+  | trans_name            = First Purchase of the Year
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = FirstPurchaseoftheYear-CYAC-JP-NR.png
+  | image                 = Hatsugai-CYAC-JP-NR.png
   | card_type             = Trap
   | property              = Normal
   | password              = 43618262
   | effect_types          = Effect
-  | lore                  = [[Excavate]] the top 5 cards of your opponent's [[Main Deck|Deck]], and if you do, choose 1 excavated card and [[declare]] a multiple of 100 (max. 3000). Your opponent can gain that much [[LP]], and if they do, you lose that much LP, and if you do, [[Add a card|add]] the chosen card to your [[hand]], also place the rest on top of the Deck in the same order. Otherwise, place the excavated cards on top of the Deck in the same order.
+  | lore                  = [[Excavate]] the top 5 cards of your opponent's [[Main Deck|Deck]] (or as many as possible), choose 1 excavated card, and [[declare]] a number in multiples of 100 (min. 100, max. 3000). Your opponent can choose to gain [[LP]] equal to the declared number. If they gained LP, you lose that amount of LP, and if you do, [[Add a card|add]] that chosen card to your [[hand]], also place the rest on top of the Deck in the same order. If they did not, place the excavated cards on top of the Deck in the same order.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：相手のデッキの上からカードを５枚めくり、自分はその中から１枚を選んで１００の倍数の数を宣言する（最大３０００まで）。相手はその数値分のＬＰを回復できる。回復した場合、自分はその数値分のＬＰを失い、選んだカードを自分の手札に加え、残りのカードを元の順番でデッキの上に戻す。回復しなかった場合、めくったカードを元の順番でデッキの上に戻す。
   | ko_lore               = 
+  | en_sets               = 
+  CYAC-EN080; Cyberstorm Access; Common
+  | fr_sets               = 
+  CYAC-FR080; Cyberstorm Access; Common
+  | de_sets               = 
+  CYAC-DE080; Cyberstorm Access; Common
+  | it_sets               = 
+  CYAC-IT080; Cyberstorm Access; Common
+  | pt_sets               = 
+  CYAC-PT080; Cyberstorm Access; Common
+  | sp_sets               = 
+  CYAC-SP080; Cyberstorm Access; Common
   | jp_sets               = 
   CYAC-JP080; Cyberstorm Access; Normal Rare
+  | kr_sets               = 
+  CYAC-KR080; Cyberstorm Access; Normal Rare
   | action                = 
   * Excavates from the opponent's Deck
   * Declares Life Points

@@ -12,7 +12,7 @@ wikitext: |-
   | romaji_name           = Sōru Rizonētā
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SoulResonator-OW.png
+  | image                 = SoulResonator-SD46-JP-OP.png
   | attribute             = FIRE
   | types                 = Fiend / Tuner / Effect
   | level                 = 3
@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 200
   | password              = 
   | effect_types          = Trigger, Unclassified, Condition
-  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 [[Level]] 4 or lower [[Fiend]] [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "Soul Resonator", also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except [[DARK]] [[Synchro Monster]]s. If a card(s) you [[control]] would be destroyed by card [[effect]] while you control "[[Red Dragon Archfiend]]" or a Synchro Monster that mentions it, you can [[banish]] this card from your [[GY]] instead. You can only use each effect of "Soul Resonator" [[once per turn]].
+  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 [[Level]] 4 or lower [[Fiend]] [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "Soul Resonator", also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except [[DARK]] [[Synchro Monster]]s. If a card(s) you [[control]] would be destroyed by card [[effect]] while you control "[[Red Dragon Archfiend]]" or a Synchro Monster that [[mention]]s it, you can [[banish]] this card from your [[GY]] instead. You can only use each effect of "Soul Resonator" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,8 +30,29 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   SD46-JP0??; Structure Deck: Pulse of the King; 
-  | supports              = Red Dragon Archfiend
+  | supports              = 
+  * Fiend
+  * DARK
+  * Synchro Monster
+  * Red Dragon Archfiend
   | archseries            = Resonator
+  | related_to_archseries = Red Dragon Archfiend (archetype)
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning             = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes itself from Graveyard
+  | misc                  = 
+  * Requires control of specific card
+  * Requires control of specific Monster card type
+  * Mention
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
