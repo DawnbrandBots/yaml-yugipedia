@@ -12,9 +12,8 @@ on:
   repository_dispatch:
     types:
       - update
-  # Suspended: https://github.com/DawnbrandBots/bastion-bot/issues/293
-  # schedule:
-  #   - cron: "0 2/4 * * *"
+  schedule:
+    - cron: "0 2/4 * * *"
 
 jobs:
   download:
@@ -36,18 +35,18 @@ jobs:
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
       - working-directory: wikitext/cards
         run: python3 ../../src/incremental.py Duel_Monsters_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      - working-directory: wikitext/duel-links-cards
-        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      - working-directory: wikitext/duel-links-skills
-        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_Skills" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      # - working-directory: wikitext/duel-links-cards
+      #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      # - working-directory: wikitext/duel-links-skills
+      #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_Skills" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - working-directory: wikitext/rush
         run: python3 ../../src/incremental.py Rush_Duel_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      - working-directory: wikitext/speed
-        run: python3 ../../src/incremental.py Skill_Cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      - working-directory: wikitext/archetypes
-        run: python3 ../../src/incremental.py TCG_and_OCG_archetypes "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      - working-directory: wikitext/master-duel-cards
-        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      # - working-directory: wikitext/speed
+      #   run: python3 ../../src/incremental.py Skill_Cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      # - working-directory: wikitext/archetypes
+      #   run: python3 ../../src/incremental.py TCG_and_OCG_archetypes "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      # - working-directory: wikitext/master-duel-cards
+      #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - name: Commit
         if: ${{ always() }}
         run: |
