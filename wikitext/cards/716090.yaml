@@ -1,6 +1,5 @@
 title: Odd-Eyes Rebellion Xyz Dragon
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -23,24 +22,7 @@ wikitext: |-
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Condition, Ignition, Condition, Trigger
   | pendulum_effect       = During your [[Main Phase]]: You can [[Special Summon]] this card, then you can [[attach]] 1 [[DARK]] [[monster]] from your [[GY]] to this card as [[material]]. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]].
-  | lore                  = 2 [[Level]] 7 [[Pendulum Monster]]s<br />If you can [[Pendulum Summon]] Level 7, you can Pendulum Summon this [[face-up]] card in your [[Extra Deck]]. Cannot be used as [[material]] for an [[Xyz Summon]] the [[turn]] it is Xyz Summoned. You can [[detach]] 1 material from this card, then [[target]] up to 2 [[monsters]] your opponent [[control]]s with 3000 or less [[ATK]]; [[destroy]] them. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]]. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
-  | supports              = 
-  * DARK
-  * Pendulum Monster
-  | action                = 
-  * Attaches from your Graveyard as Xyz Material
-  * Activates if destroyed
-  * Goes to Pendulum Zone
-  | m/s/t                 = Destroys your opponent's face-up Monster Cards
-  | summoning             = 
-  * Special Summons itself from your Pendulum Zone
-  * 2 Xyz Materials
-  * Requires Pendulum Monsters as Xyz Materials
-  * Cannot be used as an Xyz Material
-  | misc                  = 
-  * Xyz Pendulum Monster
-  * Only once per turn
-  * Pendulum Summoning condition
+  | lore                  = 2 [[Level]] 7 [[Pendulum Monster]]s<br />If you can [[Pendulum Summon]] Level 7, you can Pendulum Summon this [[face-up]] card from your [[Extra Deck]]. This card cannot be used as [[material]] for an [[Xyz Summon]] the [[turn]] it was Xyz Summoned. You can [[detach]] 1 material from this card, then [[target]] up to 2 [[monsters]] your opponent [[control]]s with 3000 or less [[ATK]]; [[destroy]] them. You can only use this [[effect]] of "Odd-Eyes Rebellion Xyz Dragon" [[once per turn]]. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -57,6 +39,9 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   SUB1-JP005; Secret Utility Box; Super Rare, Secret Rare
+  | supports              = 
+  * DARK
+  * Pendulum Monster
   | archseries            = 
   * Odd-Eyes
   * Rebellion (archetype)
@@ -68,6 +53,20 @@ wikitext: |-
   * Four Dimensional Dragons
   * Pendulum (archetype)
   * Pendulum Dragon
+  | action                = 
+  * Attaches from your Graveyard as Xyz Material
+  * Activates if destroyed
+  * Goes to Pendulum Zone
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * 2 Xyz Materials
+  * Requires Pendulum Monsters as Xyz Materials
+  * Cannot be used as an Xyz Material
+  | misc                  = 
+  * Xyz Pendulum Monster
+  * Only once per turn
+  * Pendulum Summoning condition
   | database_id           = 18429
   | tcg_status            = Not yet released
   }}
