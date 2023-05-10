@@ -22,7 +22,7 @@ wikitext: |-
   | password              = 
   | materials             = 1 "Earthbound" Fusion Monster + 1 "Earthbound" Synchro Monster
   | effect_types          = Summoning condition, Trigger, Trigger, Condition, Trigger
-  | lore                  = 1 "[[Earthbound]]" [[Fusion Monster]] + 1 "Earthbound" [[Synchro Monster]]<br />Must be [[Fusion Summon]]ed.  At the start of the [[Damage Step]], if this card [[battle]]s a [[monster]]: Change that monster's [[ATK]]/[[DEF]] to 0. If an opponent's monster(s) is [[destroyed by battle]] or card [[effect]]: You can [[destroy]] all cards your opponent [[control]]s. You can only use this effect of "Earthbound Servant Geo Grasha" [[once per turn]]. If this [[face-up]] card in its [[owner]]'s control [[leaves the field]] because of an opponent's card: You can [[Special Summon]] 1 "Earthbound" monster from your [[Main Deck|Deck]] or [[Extra Deck]].
+  | lore                  = 1 "[[Earthbound]]" [[Fusion Monster]] + 1 "Earthbound" [[Synchro Monster]]<br />Must be [[Fusion Summon]]ed. At the start of the [[Damage Step]], if this card [[battle]]s a [[monster]]: Change that monster's [[ATK]]/[[DEF]] to 0. If an opponent's monster(s) is [[destroyed by battle]] or card [[effect]]: You can [[destroy]] all cards your opponent [[control]]s. You can only use this effect of "Earthbound Servant Geo Grasha" [[once per turn]]. If this [[face-up]] card in its [[owner]]'s control [[leaves the field]] because of an opponent's card: You can [[Special Summon]] 1 "Earthbound" monster from your [[Main Deck|Deck]] or [[Extra Deck]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,7 +35,30 @@ wikitext: |-
   AC03-JP021; Animation Chronicle 2023; Ultra Rare
   | archseries            = Earthbound
   | supports_archetypes   = Earthbound
-  | misc                  = Cover card
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates if it leaves the field
+  | stat_change           = 
+  * Changes ATK value
+  * Changes DEF value
+  * Reduces ATK to 0
+  * Reduces DEF to 0
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Synchro Monsters as Fusion Materials
+  * Nomi
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Only once per turn
+  * Cover card
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

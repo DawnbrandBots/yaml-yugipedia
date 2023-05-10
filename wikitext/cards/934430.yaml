@@ -30,8 +30,29 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   AC03-JP022; Animation Chronicle 2023; 
+  | supports            = 
+  * DARK
+  * Fusion Monster
   | archseries          = Earthbound
   | supports_archetypes = Earthbound
+  | action              = 
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  | m/s/t               = Destroys your opponent's face-up Monster Cards
+  | summoning           = 
+  * Requires Attribute specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific non-Tuner Synchro Materials
+  | banished            = 
+  * Banishes from your hand
+  * Banishes from your field
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | life_points         = You gain Life Points
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
