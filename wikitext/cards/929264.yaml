@@ -20,8 +20,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 1800
   | password              = 
-  | effect_types          = 
-  | lore                  = ''Effects unknown.''
+  | materials             = 1 "Earthbound" Fusion Monster + 1 "Earthbound" Synchro Monster
+  | effect_types          = Summoning condition, Trigger, Trigger, Condition, Trigger
+  | lore                  = 1 "[[Earthbound]]" [[Fusion Monster]] + 1 "Earthbound" [[Synchro Monster]]<br />Must be [[Fusion Summon]]ed.  At the start of the [[Damage Step]], if this card [[battle]]s a [[monster]]: Change that monster's [[ATK]]/[[DEF]] to 0. If an opponent's monster(s) is [[destroyed by battle]] or card [[effect]]: You can [[destroy]] all cards your opponent [[control]]s. You can only use this effect of "Earthbound Servant Geo Grasha" [[once per turn]]. If this [[face-up]] card in its [[owner]]'s control [[leaves the field]] because of an opponent's card: You can [[Special Summon]] 1 "Earthbound" monster from your [[Main Deck|Deck]] or [[Extra Deck]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,7 +32,9 @@ wikitext: |-
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC03-JP0??; Animation Chronicle 2023; 
+  AC03-JP021; Animation Chronicle 2023; Ultra Rare
+  | archseries            = Earthbound
+  | supports_archetypes   = Earthbound
   | misc                  = Cover card
   | database_id           = 
   | ocg_status            = Not yet released
