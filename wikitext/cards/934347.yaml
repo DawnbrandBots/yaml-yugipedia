@@ -30,7 +30,14 @@ wikitext: |-
   | supports              = FIRE
   | archseries            = Salamangreat
   | supports_archetypes   = Salamangreat
+  | action                = 
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  | stat_change           = Your monsters gain ATK
+  | summoning             = Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
   | misc                  = 
+  * Requires control of specific archetype
   * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released

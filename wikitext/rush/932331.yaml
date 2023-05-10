@@ -15,7 +15,14 @@ wikitext: |-
   | lore                = This card gains 300 [[ATK]] until the end of this [[turn]]. Then, if you have 5 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] in your [[Graveyard]], you can [[Add a card|add]] 1 Galaxy Type [[Normal Monster]] and/or 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]].
   | jp_sets             = 
   RD/KP13-JP031; Oblivion of the Flash; Common
-  | supports            = Fusion (Rush Duel)
+  | supports            = 
+  * Galaxy (Type)
+  * Normal Monster
+  * Fusion (Rush Duel)
+  | action              = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change         = This card gains ATK
   | fm_for              = Space Fusion - EXTRAplasmer
   | database_id         = 
   | rush_duel_status    = Not yet released

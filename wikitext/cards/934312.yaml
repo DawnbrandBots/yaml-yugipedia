@@ -18,6 +18,7 @@ wikitext: |-
   | link_arrows           = Top-Center, Bottom-Left, Bottom-Center, Bottom-Right
   | atk                   = 2800
   | password              = 
+  | materials             = 2+ FIRE Effect Monsters
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = 2+ [[FIRE]] [[Effect Monster]]s<br />If this card is [[Link Summon]]ed using "Salamangreat Raging Phoenix" as [[material]]: You can add 1 "[[Salamangreat]]" card from your [[Main Deck|Deck]] to your [[hand]]. If a [[face-up]] FIRE [[monster]](s) you control is [[destroy]]ed by [[battle]] or [[card effect]] while this card is in your [[Graveyard|GY]]: You can target 1 of them; Special Summon this card, and if you do, it gains [[ATK]] equal to that monster's. You can only use each effect of "Salamangreat Raging Phoenix" [[once per turn]].
   | fr_lore               = 
@@ -29,8 +30,25 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DP28-JP005; Duelist Pack: Duelists of Explosion; Ultra Rare, Secret Rare
+  | supports              = 
+  * FIRE
+  * Salamangreat Raging Phoenix
   | archseries            = Salamangreat
   | supports_archetypes   = Salamangreat
+  | action                = 
+  * Activates upon Link Summon
+  * Applies effects if Link Summoned using specific Link Material
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Attribute specific Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Special Summons itself from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

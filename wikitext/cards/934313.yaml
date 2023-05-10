@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 2000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br/>If this card is [[Synchro Summon]]ed using "Salamangreat Burst Gryphon" as [[material]]: You can [[activate]] this [[effect]]; during the next [[Standby Phase]], [[Special Summon]] 1 monster from your [[Graveyard|GY]]. You can target 1 [[Level]] 7 or lower FIRE monster in your GY; you cannot Special Summon monsters for the rest of this [[turn]], except [[FIRE]] monsters, also Special Summon that monster, and if you do, reduce this card's [[Level]] by that monster's original Level. You can only use each effect of "Salamangreat Burst Gryphon" [[once per turn]].
   | fr_lore               = 
@@ -30,7 +31,20 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DP28-JP004; Duelist Pack: Duelists of Explosion; 
+  | supports              = 
+  * Salamangreat Burst Gryphon
+  * FIRE
   | archseries            = Salamangreat
+  | action                = 
+  * Activates upon Synchro Summon
+  * Gains effects if Synchro Summoned using specific Synchro Material
+  | stat_change           = This card loses Levels
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
