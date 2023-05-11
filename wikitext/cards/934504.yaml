@@ -32,6 +32,16 @@ wikitext: |-
   | supports            = 
   * Illusion
   * Spellcaster
+  | action              = 
+  * Changes control
+  * Activates upon attack declaration
+  | attack              = 
+  * Prevents other cards being destroyed by battle
+  * Changes attack targets
+  * Conducts damage calculation
+  | misc                = 
+  * Requires control of specific Type
+  * Variable effects
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
