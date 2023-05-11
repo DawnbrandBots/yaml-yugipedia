@@ -68,20 +68,19 @@ wikitext: |-
   | supports              = 
   * FIRE
   * Effect Monster
-  * Salamangreat Sunlight Wolf
   | archseries            = Salamangreat
   | supports_archetypes   = Salamangreat
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Applies effects if Link Summoned using specific Link Material
+  * Adds from Graveyard to hand
   | summoning             = 
   * 2 Link Materials
   * Requires Attribute specific Link Materials
   * Requires Effect Monsters as Link Materials
   * Restricts the player's Normal Summons
   * Restricts the player's Special Summons
-  | action                = 
-  * Activates upon Normal Summon
-  * Activates upon Special Summon
-  * Applies effects if Link Summoned using specific Link Material
-  * Adds from Graveyard to hand
   | misc                  = Only once per turn
   | database_id           = 14125
   }}

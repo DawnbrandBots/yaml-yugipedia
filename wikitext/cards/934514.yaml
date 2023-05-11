@@ -28,7 +28,24 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC03-JP026; Animation Chronicle 2023; 
+  | supports              = 
+  * Warrior
+  * FIRE
   | related_to_archseries = Gearfried
+  | action                = 
+  * Sends itself from field to Graveyard for cost
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  * Activates while banished
+  * Returns itself from Graveyard to hand
+  * Returns itself to hand while banished
+  | stat_change           = Equipped gains ATK
+  | attack                = Allows multiple attacks
+  | misc                  = 
+  * Equips only to a specific target
+  * Requires control of specific Type
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
