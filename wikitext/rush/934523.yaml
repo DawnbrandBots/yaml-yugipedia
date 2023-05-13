@@ -11,8 +11,8 @@ wikitext: |-
   | property              = Normal
   | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]].
   | lore                  = Gain 800 [[LP]]. Then, [[Draw a card|draw]] 1 card and [[Reveal|show]] it. Then, if that card is a [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] with 1600 or more [[ATK]], [[negate]] the [[attack]].
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 相手モンスターの直接攻撃宣言時に発動できる。
+  | ja_lore               = 自分は８００ＬＰ回復する。その後、自分は１枚ドローし、お互いに確認する。そのカードが通常モンスター（ギャラクシー族／攻撃力１６００以上）だった場合、さらにその攻撃を無効にする。
   | jp_sets               = 
   RD/KP13-JP058; Oblivion of the Flash; Common
   | supports              = 
@@ -25,6 +25,5 @@ wikitext: |-
   * Shows the player's drawn cards
   | attack                = Negates attacks
   | life_points           = You gain Life Points
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 18987
   }}

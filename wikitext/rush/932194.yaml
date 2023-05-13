@@ -5,19 +5,21 @@ wikitext: |-
   {{CardTable2
   | ja_name               = ライステラス・クライシス
   | romaji_name           = Raisu Terasu Kuraishisu
-  | image                 = RiceTerraceCrisis-RDKP13-JP-SR.png
+  | image                 = 
+  1; RiceTerraceCrisis-RDKP13-JP-SR.png
+  2; RiceTerraceCrisis-RDKP13-JP-ScR-AA.png
+  | current_image         = 1
   | card_type             = Trap
   | property              = Normal
   | requirement           = When your opponent [[Special Summon]]s a [[monster]] from the [[hand]] or [[Graveyard]].
   | lore                  = Change up to 2 [[face-up]] monsters on your opponent's [[field]] to [[face-down]] [[Defense Position]], whose total Levels equal 12 or less.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 相手が手札または墓地からモンスターを特殊召喚した時に発動できる。
+  | ja_lore               = レベルの合計が１２以下になるように、相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
   | jp_sets               = 
   RD/KP13-JP066; Oblivion of the Flash; Super Rare, Secret Rare
   | action                = 
   * Activates upon Special Summon
   * Flips your opponent's monsters face-down
   * Changes battle positions
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 18995
   }}

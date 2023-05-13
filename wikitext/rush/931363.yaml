@@ -10,6 +10,8 @@ wikitext: |-
   | property            = Normal
   | requirement         = When your opponent [[Normal Summon]]s a monster, [[shuffle]] 2 [[LIGHT]] [[Attribute]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore                = This [[turn]], 1 face-up LIGHT Attribute monster on your [[field]] gains [[ATK]] equal to [the ATK of that Normal Summoned monster] and cannot be destroyed by your opponent's card effects.
+  | ja_requirement      = 相手がモンスターを召喚した時、自分の墓地のモンスター（光属性）２体をデッキに戻して発動できる。
+  | ja_lore             = 自分フィールドの表側表示モンスター（光属性）１体を選ぶ。このターン、そのモンスターの攻撃力は［その召喚されたモンスターの攻撃力］だけアップし、相手の効果では破壊されない。
   | jp_sets             = 
   RD/KP13-JP064; Oblivion of the Flash; Rare
   | supports            = LIGHT
@@ -19,6 +21,5 @@ wikitext: |-
   | stat_change         = Your monsters gain ATK
   | m/s/t               = Prevents other cards being destroyed by card effects
   | misc                = Requires control of specific Attribute
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18993
   }}
