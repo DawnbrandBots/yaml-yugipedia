@@ -13,6 +13,8 @@ wikitext: |-
   | def                 = 1300
   | requirement         = [[Send]] 1 [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]] or 1 [[Spell Card]] from your [[hand]] to the [[Graveyard]].
   | lore                = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. If a LIGHT Attribute Spellcaster Type monster(s) is among the cards sent, you can [[Add a card|add]] 1 [[Equip Spell Card]] from your Graveyard to your hand.
+  | ja_requirement      = 手札のモンスター（光属性／魔法使い族）１体または魔法カード１枚を墓地へ送って発動できる。
+  | ja_lore             = 自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（光属性／魔法使い族）がいた場合、さらに自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
   | jp_sets             = 
   RD/KP13-JP024; Oblivion of the Flash; Common
   | supports            = 
@@ -23,6 +25,5 @@ wikitext: |-
   * Sends from hand to Graveyard for cost
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18953
   }}

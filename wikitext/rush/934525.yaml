@@ -11,8 +11,8 @@ wikitext: |-
   | property              = Normal
   | requirement           = You have no [[monsters]] on your [[field]].
   | lore                  = Choose 1 [[face-up]] monster on your opponent's field, and [[send]] monsters from your [[hand]] to the [[Graveyard]] whose total Levels equal the chosen monster's Level. This [[turn]], if you would [[Tribute Summon]] a monster, you can Tribute the chosen opponent's face-up monster instead of 1 monster on your field.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分フィールドにモンスターがいない場合に発動できる。
+  | ja_lore               = 相手フィールドの表側表示モンスター１体を選び、レベルの合計がそのモンスターのレベルと同じになるように自分は手札のモンスターを墓地へ送る。このターン、自分がモンスターをアドバンス召喚する場合、自分フィールドのモンスター１体の代わりに選んだ相手の表側表示モンスターをリリースできる。
   | jp_sets               = 
   RD/KP13-JP046; Oblivion of the Flash; Super Rare, Secret Rare
   | related_to_archseries = Monarch (Rush Duel series)
@@ -20,6 +20,5 @@ wikitext: |-
   * Sends from your hand to your Graveyard
   * Tributes opponent's monsters
   | misc                  = Requires control of no monsters
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 18975
   }}

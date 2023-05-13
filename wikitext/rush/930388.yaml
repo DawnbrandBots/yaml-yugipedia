@@ -5,7 +5,10 @@ wikitext: |-
   {{CardTable2
   | ja_name             = スター・リプレイサー
   | romaji_name         = Sutā Ripureisā
-  | image               = StarReplacer-RDKP13-JP-SR.png
+  | image               = 
+  1; StarReplacer-RDKP13-JP-SR.png
+  2; StarReplacer-RDKP13-JP-ScR-AA.png
+  | current_image       = 1
   | attribute           = LIGHT
   | types               = Dragon / Effect
   | level               = 1
@@ -13,6 +16,8 @@ wikitext: |-
   | def                 = 1000
   | requirement         = If you have no other [[monsters]] on your [[field]], [[return]] this card from your [[field]] to the owner's [[hand]].
   | lore                = [[Special Summon]] 1 [[Level]] 4 or lower monster from your [[Graveyard]] to your field in [[face-down]] [[Defense Position]]. For the rest of this [[turn]], you cannot Special Summon monsters from your hand or Graveyard.
+  | ja_requirement      = 自分フィールドにこのカード以外のモンスターがいない場合、自分フィールドのこのカードを持ち主の手札に戻して発動できる。
+  | ja_lore             = 自分の墓地のモンスター（レベル４以下）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は自分の手札・墓地からモンスターを特殊召喚できない。
   | jp_sets             = 
   RD/KP13-JP022; Oblivion of the Flash; Super Rare, Secret Rare
   | action              = Returns itself from field to hand for cost
@@ -21,6 +26,5 @@ wikitext: |-
   * Special Summons face-down
   * Prevents the player's Special Summons
   | misc                = Requires control of no other monsters
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18592
   }}

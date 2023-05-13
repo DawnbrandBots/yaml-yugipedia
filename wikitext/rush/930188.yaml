@@ -13,6 +13,8 @@ wikitext: |-
   | def                 = 0
   | requirement         = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] up to 2 [[monsters]] with 0 [[DEF]] in your [[hand]].
   | lore                = [[Special Summon]] monsters with 0 DEF from your [[Graveyard]], up to [the number of monsters revealed to meet the requirement], to your [[field]] in [[face-down]] [[Defense Position]]. For the rest of this [[turn]], you cannot Normal Summon [[Level]] 9 or lower monsters nor [[Set]] monsters from the hand.
+  | ja_requirement      = このカードを召喚したターンに、手札のモンスター（守備力０）を２体まで相手に見せて発動できる。
+  | ja_lore             = 自分の墓地のモンスター（守備力０）を［この効果の条件で見せたモンスターの数］だけ選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスター（レベル９以下）を召喚できず、手札のモンスターをセットできない。
   | jp_sets             = 
   RD/KP13-JP026; Oblivion of the Flash; Common
   | action              = 
@@ -22,6 +24,5 @@ wikitext: |-
   * Special Summons from your Graveyard
   * Prevents the player's Normal Summons
   * Prevents your Sets
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18955
   }}

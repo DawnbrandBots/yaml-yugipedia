@@ -10,8 +10,8 @@ wikitext: |-
   | property            = Normal
   | requirement         = [[Send]] 1 [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]] or 1 [[Equip Spell Card]] from your [[hand]] to the [[Graveyard]].
   | lore                = [[Draw a card|Draw]] 1 card. Then, if you have 4 or more monsters in your Graveyard, draw 1 additional card.
-  | ja_requirement      = 
-  | ja_lore             = 
+  | ja_requirement      = 手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を墓地へ送って発動できる。
+  | ja_lore             = 自分は１枚ドローする。自分の墓地にモンスターが４体以上いる場合、さらに自分は１枚ドローする。
   | jp_sets             = 
   RD/KP13-JP052; Oblivion of the Flash; Ultra Rare, Secret Rare, Over Rush Rare
   | supports            = 
@@ -21,6 +21,5 @@ wikitext: |-
   | action              = 
   * Sends from hand to Graveyard for cost
   * You draw cards
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | database_id         = 18981
   }}
