@@ -10,15 +10,15 @@ wikitext: |-
   | es_name               = Castillo de las Ilusiones Oscuras
   | ja_name               = {{Ruby|闇|やみ}}{{Ruby|晦|くら}}ましの{{Ruby|城|しろ}}
   | romaji_name           = Yamikuramashi no Shiro
-  | image                 = CastleofDarkIllusions-MRD-NA-C-UE.png
+  | image                 = CastleofDarkIllusions-MRD-EN-C-UE-25thAnniversaryEdition.png
   | attribute             = DARK
-  | types                 = Fiend / Effect
+  | types                 = Fiend / Flip / Effect
+  | level                 = 4
   | atk                   = 920
   | def                   = 1930
-  | level                 = 4
   | password              = 00062121
-  | effect_types          = Flip, Trigger, Condition
-  | lore                  = [[Flip effect|FLIP]]: All [[Zombie]]-[[Type]] [[monster]]s gain 200 [[ATK]] and [[DEF]]. During each of your next 4 [[Standby Phase]]s, each of those Zombie-Type monsters gains 200 more ATK and DEF. These [[effect]]s last as long as this card is [[face-up]] on the [[field]].
+  | effect_types          = Trigger, Trigger, Condition
+  | lore                  = [[Flip effect|FLIP]]: Increases the [[ATK]] and [[DEF]] of all [[Zombie]]-[[Type]] [[monsters]] by 200 points. As long as this card remains [[face-up]] on the [[field]], the ATK and DEF of Zombie-Type monsters continues to increase by 200 points during each of your [[Standby Phase]]s. This [[effect]] continues until your 4th turn after the card is [[activate]]d.
   | fr_lore               = FLIP : Augmentez de 200 points l'ATK et la DEF de tous les monstres de Type Zombie face recto sur le Terrain. Tant que cette carte reste face recto sur le Terrain, l'ATK et la DEF des monstres de Type Zombie continuent d'augmenter de 200 points supplémentaires durant chacune de vos Standby Phases. Cet effet continuera jusqu'à votre 4ème tour inclu suivant le tour de son activation.
   | de_lore               = FLIPP: Erhöht die ATK und DEF aller offenen Monster vom Typ Zombie um 200 Punkte. Solange diese Karte offen auf dem Spielfeld liegt, erhöht sich in jeder Standby Phase des Spielers, der diese Karte kontrolliert, die ATK und DEF aller Monster vom Typ Zombie um je 200 Punkte. Dieser Effekt hält bis zum vierten Zug nach Aktivierung der Karte an.
   | it_lore               = SCOPRI: Aumenta di 200 punti ATK e DEF di tutti i mostri di Tipo Zombie scoperti sul Terreno. Fino a quando questa carta resta scoperta sul Terreno, ATK e DEF dei mostri di Tipo Zombie continuano ad aumentare di 200 punti addizionali durante ogni tua Standby Phase. Quest'effetto continua fino al quarto turno successivo all'attivazione di questa carta.
@@ -28,20 +28,26 @@ wikitext: |-
   | ko_lore               = 리버스 : 필드 위에 앞면 표시로 존재하는 모든 언데드족 몬스터의 공격력과 수비력은 200 포인트 올린다. 또한, 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신의 스텐바이 페이즈마다 다시 200 포인트씩 올린다. 이 효과는 자신의 4번째 스텐바이 페이즈까지 계속된다.
   | en_sets               = 
   MRD-EN073; Metal Raiders; Common
+  MRD-EN073; Metal Raiders (25th Anniversary Edition); Common
   | na_sets               = 
   MRD-073; Metal Raiders; Common
   | eu_sets               = 
   MRD-E073; Metal Raiders; Common
   | fr_sets               = 
   MRD-F073; Metal Raiders; Common
+  MRD-FR073; Metal Raiders (25th Anniversary Edition); Common
   | de_sets               = 
   MRD-G073; Metal Raiders; Common
+  MRD-DE073; Metal Raiders (25th Anniversary Edition); Common
   | it_sets               = 
   PMT-I073; Metal Raiders; Common
+  MRD-IT073; Metal Raiders (25th Anniversary Edition); Common
   | pt_sets               = 
   PMT-P073; Metal Raiders; Common
+  MRD-PT073; Metal Raiders (25th Anniversary Edition); Common
   | sp_sets               = 
   PMT-S073; Metal Raiders; Common
+  MRD-SP073; Metal Raiders (25th Anniversary Edition); Common
   | jp_sets               = 
   ; Booster 7; Common
   ME-13; Metal Raiders (Japanese); Common

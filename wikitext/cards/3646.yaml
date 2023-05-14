@@ -12,14 +12,16 @@ wikitext: |-
   | trans_name            = Mister Bomber
   | image                 = 
   1;   BlastJuggler-BE01-JP-C.png  ; BlastJuggler-TF04-JP-VG.png
-  1.1; BlastJuggler-DB1-EN-C-UE.png; BlastJuggler-TF04-EN-VG.jpg
+  1.1; BlastJuggler-MRD-EN-C-UE-25thAnniversaryEdition.png; BlastJuggler-TF04-EN-VG.jpg
   | current_image         = 1.1
   | attribute             = FIRE
   | types                 = Machine / Effect
+  | level                 = 3
   | atk                   = 800
   | def                   = 900
-  | level                 = 3
-  | lore                  = You can only [[activate]] this [[effect]] during your [[Standby Phase]]. [[Tribute]] this [[face-up]] card to [[select]] and [[destroy]] 2 face-up [[monster]]s with an [[ATK]] 1000 or less.
+  | password              = 70138455
+  | effect_types          = Trigger
+  | lore                  = You can only [[activate]] this [[effect]] during your [[Standby Phase]]. Offer this [[face-up]] card as a [[Tribute]] to [[select]] and [[destroy]] 2 face-up monsters with an [[ATK]] 1000 or less.
   | fr_lore               = Vous ne pouvez activer cet effet que durant votre Standby Phase. Sélectionnez et détruisez 2 monstres face recto avec une ATK de 1000 points ou moins en sacrifiant cette carte face recto.
   | de_lore               = Du kannst diesen Effekt nur in deiner Standby Phase aktivieren. Biete diese Karte als Tribut an, um 2 offen liegende Monster mit jeweils 1000 ATK oder weniger zu zerstören.
   | it_lore               = Puoi attivare questo effetto solo durante la tua Standby Phase. Scegli e distruggi 2 mostri scoperti con ATK di 1000 o inferiore offrendo come Tributo questa carta scoperta.
@@ -28,27 +30,31 @@ wikitext: |-
   | ja_lore               = 自分のスタンバイフェイズ時にのみ発動する事ができる。このカードをリリースする事で、フィールド上に表側表示で存在する攻撃力１０００以下のモンスター２体を選択して破壊する。
   | ko_lore               = 자신의 스텐바이 페이즈에만 발동할 수 있다. 앞면 표시의 이 카드를 제물로 바치고, 공격력 1000 이하의 앞면 표시 몬스터 2장을 선택하여 파괴한다.
   | gx1_lore              = Offer this card as a Tribute during your Standby Phase if face-up to destroy 2 face-up monsters with an ATK of 1000 or less.
-  | effect_types          = Trigger
-  | password              = 70138455
   | en_sets               = 
   DB1-EN161; Dark Beginning 1; Common
   MRD-EN034; Metal Raiders; Common
+  MRD-EN034; Metal Raiders (25th Anniversary Edition); Common
   | na_sets               = 
   MRD-034; Metal Raiders; Common
   | eu_sets               = 
   MRD-E034; Metal Raiders; Common
   | fr_sets               = 
   MRD-F034; Metal Raiders; Common
+  MRD-FR034; Metal Raiders (25th Anniversary Edition); Common
   | de_sets               = 
   MRD-G034; Metal Raiders; Common
   DB1-DE161; Dark Beginning 1; Common
+  MRD-DE034; Metal Raiders (25th Anniversary Edition); Common
   | it_sets               = 
   PMT-I034; Metal Raiders; Common
+  MRD-IT034; Metal Raiders (25th Anniversary Edition); Common
   | pt_sets               = 
   PMT-P034; Metal Raiders; Common
+  MRD-PT034; Metal Raiders (25th Anniversary Edition); Common
   | sp_sets               = 
   PMT-S034; Metal Raiders; Common
   DB1-SP161; Dark Beginning 1; Common
+  MRD-SP034; Metal Raiders (25th Anniversary Edition); Common
   | jp_sets               = 
   ; Vol.5; Common
   RB-34; Revival of Black Demons Dragon; Rare
