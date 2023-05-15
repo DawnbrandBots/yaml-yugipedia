@@ -46,7 +46,22 @@ wikitext: |-
   * Supreme King Gate
   * Synchro Dragon
   * Xyz Dragon
-  | misc                  = Only once per turn
+  | action                = 
+  * Places from hand to Pendulum Zone
+  * Places from Deck to Pendulum Zone
+  * Activates if other Pendulum Zone is occupied by specific card
+  * Activates from your hand
+  * Sends from your hand to your Graveyard
+  * Sends from your Extra Deck to your Graveyard
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | m/s/t                 = Destroys itself
+  | summoning             = Special Summons itself from your hand
+  | banished              = Prevents cards from being banished
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
+  * Mentions
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
