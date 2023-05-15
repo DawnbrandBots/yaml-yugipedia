@@ -31,7 +31,7 @@ wikitext: |-
   | supports              =
   * Supreme King Z-ARC
   * Spellcaster
-  * Fusion Monster
+  * Pendulum Monster
   | archseries            = Supreme King
   | supports_archetypes   = 
   * Fusion Dragon
@@ -39,7 +39,29 @@ wikitext: |-
   * Synchro Dragon
   * Xyz Dragon
   | related_to_archseries = Four Dimensional Dragons
-  | misc                  = Only once per turn
+  | action                = 
+  * Tributes for cost
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards in the player's Deck as Fusion Materials
+  * Uses cards in the player's Extra Deck as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = 
+  * Banishes from your hand
+  * Banishes from your Deck
+  * Banishes from your Extra Deck
+  * Banishes from your field
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -32,7 +32,14 @@ wikitext: |-
   * Supreme King Z-ARC
   | archseries            = Pendulum (archetype)
   | related_to_archseries = Supreme King
-  | misc                  = Only once per turn
+  | action                = 
+  * Returns from hand to Deck for cost
+  * Adds from Deck to hand
+  | summoning             = Performs a Pendulum Summon
+  | attack                = Allows multiple attacks on monsters
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
