@@ -31,9 +31,20 @@ wikitext: |-
   | archseries          = 
   * Sky Striker
   * Sky Striker Ace
-  | supports            = Spell Card
   | supports_archetypes = Sky Striker
-  | misc                = Only once per turn
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Changes control
+  | summoning           = 
+  * 2 Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Special Summon-only
+  * Special Summon once per turn
+  * Special Summons itself from your Graveyard to your opponent's field
+  | misc                = Limited activations
   | database_id         = 
   | tcg_status          = Not yet released
   | ocg_status          = Not yet released
