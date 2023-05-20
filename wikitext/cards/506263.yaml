@@ -17,10 +17,10 @@ wikitext: |-
   | effect_types          = Effect
   | lore                  = Increase your [[Life Points]] by 600 points.
   | fr_lore               = Augmente vos Life Points de 600 points.
-  | de_lore               = Erhöhe deine Life Points um 600 Punkte.
-  | es_lore               = Aumenta tus Life Points en 600 puntos.
+  | de_lore               = (Diese Karte wird immer als „Goblin“-Karte behandelt.)<br />Erhöhe deine Life Points um 600 Punkte.
   | it_lore               = Aumenta i tuoi Life Points di 600 punti.
   | pt_lore               = Aumente em 600 pontos os pontos de vida de qualquer jogador.
+  | es_lore               = (Esta carta se trata siempre como una carta "Goblin").<br />Aumenta tus Life Points en 600 puntos.
   | ja_lore               = ①：自分は６００ＬＰ回復する。
   | ko_lore               = 자신은 라이프 포인티를 600 포인트 회복한다.
   | tc_lore               = 恢复我方600点生命点数。
@@ -82,5 +82,6 @@ wikitext: |-
   | gx1_number            = 0145
   | archseries            = Goblin
   | life_points           = You gain Life Points
+  | misc                  = Archetype condition
   | database_id           = 4346
   }}
