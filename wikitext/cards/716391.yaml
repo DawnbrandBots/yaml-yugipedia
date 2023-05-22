@@ -1,6 +1,5 @@
 title: Recette de Personnel (Staff Recipe)
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | name                  = Recette de Personnel (Staff Recipe)
   | fr_name               = 
@@ -18,7 +17,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 40551410
   | effect_types          = Quick-like, Quick-like, Condition
-  | lore                  = You can [[target]] 1 [[Ritual Monster]] you [[control]]; [[Special Summon]] 1 "[[Nouvelles Token]]" ([[Fiend]]/[[DARK]]/[[Level]] 1/50 [[ATK]]/50 [[DEF]]), and if you do, its Level becomes that monster's. You can [[send]] this [[face-up]] card from your [[Spell & Trap Zone]] to the [[GY]]; [[Ritual Summon]] 1 "[[Nouvelles]]" Ritual Monster from your [[hand]], by Tributing [[monsters]] from your hand or [[field]] whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon. You can only use each [[effect]] of "Recette de Personnel (Staff Recipe)" [[once per turn]].
+  | lore                  = You can [[target]] 1 [[Ritual Monster]] you [[control]]; [[Special Summon]] 1 "[[Nouvelles Token]]" ([[Fiend]]/[[DARK]]/[[Level]] 1/50 [[ATK]]/50 [[DEF]]). This Token's Level becomes the same as that monster's. You can [[send]] this [[face-up]] card from your [[Spell & Trap Zone]] to the [[GY]]; [[Ritual Summon]] 1 "[[Nouvelles]]" Ritual Monster from your [[hand]] by Tributing [[monsters]] from your hand or [[field]] whose total Levels exactly equal the Level of that Ritual Monster. You can only use each [[effect]] of "Recette de Personnel (Staff Recipe)" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +25,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの儀式モンスター１体を対象として発動できる。自分フィールドに「ヌーベルズトークン」（悪魔族・闇・星１・攻／守５０）１体を特殊召喚する。このトークンのレベルは、対象のモンスターと同じになる。②：魔法＆罠ゾーンの表側表示のこのカードを墓地へ送って発動できる。レベルの合計が儀式召喚するモンスターと同じになるように、自分の手札・フィールドのモンスターをリリースし、手札から「ヌーベルズ」儀式モンスター１体を儀式召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  WISU-EN039; Wild Survivors; Rare
+  | fr_sets               = 
+  WISU-FR039; Wild Survivors; Rare
+  | de_sets               = 
+  WISU-DE039; Wild Survivors; Rare
+  | it_sets               = 
+  WISU-IT039; Wild Survivors; Rare
+  | pt_sets               = 
+  WISU-PT039; Wild Survivors; Rare
+  | sp_sets               = 
+  WISU-SP039; Wild Survivors; Rare
   | jp_sets               = 
   DBWS-JP039; Deck Build Pack: Wild Survivors; Common, Normal Parallel Rare
   | supports              = Ritual Monster

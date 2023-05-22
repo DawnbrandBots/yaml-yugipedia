@@ -1,6 +1,5 @@
 title: Baelgrill de Nouvelles
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,15 +17,28 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 1850
   | password              = 88890658
-  | effect_types          = Summoning condition, Condition, Trigger, Quick
-  | lore                  = You can [[Ritual Summon]] this card with any "[[Recipe]]" card. You can only use each of the following [[effect]]s of "Baegriller Nouvelles" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[negate]] the effects of as many [[face-up]] cards your opponent currently controls as possible (until the end of this [[turn]]), then, if this card was Special Summoned by a "[[Nouvelles]]" monster's effect, [[Tribute]] as many monsters your opponent controls as possible. ([[Quick Effect]]): You can [[target]] 1 opponent's [[Attack Position]] monster; Tribute it, and if you do, Special Summon 1 "[[Hungry Burger]]" from your [[hand]] or [[Main Deck|Deck]].
+  | effect_types          = Summoning condition, Trigger, Quick, Condition
+  | lore                  = You can [[Ritual Summon]] this card with a "[[Recipe]]" card. If this card is [[Special Summon]]ed: You can [[negate]] the effects of all [[face-up]] cards your opponent currently controls (until the end of this [[turn]]), then, if this card was Special Summoned by the effect of a "[[Nouvelles]]" monster, you can [[Tribute]] as many monsters your opponent controls as possible. ([[Quick Effect]]): You can [[target]] 1 [[Attack Position]] monster your opponent controls; Tribute it, and if you do, Special Summon 1 "[[Hungry Burger]]" from your [[hand]] or [[Main Deck|Deck]]. You can only use each [[effect]] of "Baelgrill de Nouvelles" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
   | ja_lore               = 「レシピ」カードにより降臨。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。相手フィールドの全ての表側表示のカードの効果をターン終了時まで無効にする。「ヌーベルズ」モンスターの効果で特殊召喚した場合、さらに相手フィールドのモンスターを可能な限りリリースする。②：自分・相手ターンに、相手フィールドの攻撃表示モンスター１体を対象として発動できる。そのモンスターをリリースし、手札・デッキから「ハングリーバーガー」１体を特殊召喚する。
+  | trans_lore            = You can Ritual Summon this card with a "Recipe" card. If this card is Special Summoned: You can negate the effects of all face-up cards your opponent currently controls (until the end of this turn), then, if this card was Special Summoned by the effect of a "Nouvelles" monster, Tribute as many monsters your opponent controls as possible. (Quick Effect): You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 "Hungry Burger" from your hand or Deck. You can only use each effect of "Baelgrill de Nouvelles" once per turn.
   | ko_lore               = 
+  | en_sets               = 
+  WISU-EN034; Wild Survivors; Super Rare
+  | fr_sets               = 
+  WISU-FR034; Wild Survivors; Super Rare
+  | de_sets               = 
+  WISU-DE034; Wild Survivors; Super Rare
+  | it_sets               = 
+  WISU-IT034; Wild Survivors; Super Rare
+  | pt_sets               = 
+  WISU-PT034; Wild Survivors; Super Rare
+  | sp_sets               = 
+  WISU-SP034; Wild Survivors; Super Rare
   | jp_sets               = 
   DBWS-JP034; Deck Build Pack: Wild Survivors; Ultra Rare, Secret Rare
   | supports              = Hungry Burger

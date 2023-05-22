@@ -1,7 +1,5 @@
 title: Buerillabaisse de Nouvelles
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -19,8 +17,8 @@ wikitext: |-
   | atk                   = 400
   | def                   = 1850
   | password              = 26223582
-  | effect_types          = Summoning condition, Condition, Trigger, Quick
-  | lore                  = You can [[Ritual Summon]] this card with any "[[Recipe]]" card. You can only use each of the following [[effect]]s of "Buerillabaisse de Nouvelles" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[excavate]] the top 5 cards of your [[Main Deck|Deck]], and if you do, you can [[Add a card|add]] 1 excavated "[[Nouvelles]]" card to your [[hand]], also shuffle the rest into the Deck. When a card or [[effect]] is activated that [[target]]s this card, or when this card is targeted for an [[attack]] ([[Quick Effect]]): You can [[Tribute]] both this card and 1 other [[Attack Position]] monster on either [[field]], and if you do, Special Summon 1 [[Level]] 2 or 3 "Nouvelles" [[Ritual Monster]] from your hand or Deck.
+  | effect_types          = Summoning condition, Trigger, Quick, Condition
+  | lore                  = You can [[Ritual Summon]] this card with a "[[Recipe]]" card. If this card is [[Special Summon]]ed: You can [[excavate]] the top 5 cards of your [[Main Deck|Deck]], and if you do, you can [[Add a card|add]] 1 excavated "[[Nouvelles]]" card to your [[hand]], also shuffle the rest into the Deck. When a card or [[effect]] is activated that [[target]]s this card on the [[field]], or when this card is targeted for an [[attack]] ([[Quick Effect]]): You can [[Tribute]] this card and 1 [[Attack Position]] monster on either field, and if you do, Special Summon 1 [[Level]] 2 or 3 "Nouvelles" [[Ritual Monster]] from your hand or Deck. You can only use each [[effect]] of "Buerillabaisse de Nouvelles" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 「レシピ」カードにより降臨。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。自分のデッキの上からカードを５枚めくる。その中から「ヌーベルズ」カード１枚を選んで手札に加える事ができる。残りはデッキに戻す。②：フィールドのこのカードが攻撃・効果の対象になった時に発動できる。このカードと自分・相手フィールドの攻撃表示モンスター１体をリリースし、手札・デッキからレベル２・３の「ヌーベルズ」儀式モンスター１体を特殊召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  WISU-EN029; Wild Survivors; Rare
+  | fr_sets               = 
+  WISU-FR029; Wild Survivors; Rare
+  | de_sets               = 
+  WISU-DE029; Wild Survivors; Rare
+  | it_sets               = 
+  WISU-IT029; Wild Survivors; Rare
+  | pt_sets               = 
+  WISU-PT029; Wild Survivors; Rare
+  | sp_sets               = 
+  WISU-SP029; Wild Survivors; Rare
   | jp_sets               = 
   DBWS-JP029; Deck Build Pack: Wild Survivors; Common, Normal Parallel Rare
   | supports              = Ritual Monster

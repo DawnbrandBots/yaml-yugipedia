@@ -1,6 +1,5 @@
 title: Nouvelles Restaurant "At Table"
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +16,7 @@ wikitext: |-
   | property              = Field
   | password              = 15388353
   | effect_types          = Effect, Ignition-like, Trigger-like, Condition
-  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Recipe]]" card from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. [[Once per turn]]: You can place 1 [[Ritual Monster]] from your [[hand]] on the bottom of the Deck; [[Draw a card|draw]] 1 card. Once per turn, during your [[End Phase]]: You can [[target]] 2 cards in your GY, including a "Recipe" card; place them on the bottom of the Deck in any order, then draw 1 card. You can only activate 1 "Nouvelles Restaurant "At Table"" per [[turn]].
+  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Recipe]]" card from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. [[Once per turn]]: You can place 1 [[Ritual Monster]] from your [[hand]] on the bottom of the Deck; [[Draw a card|draw]] 1 card. Once per turn, during your [[End Phase]]: You can [[target]] 2 cards in your GY, including a "Recipe" card; place them on the bottom of your Deck in any order, then draw 1 card. You can only activate 1 "Nouvelles Restaurant "At Table"" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,6 +24,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、自分のデッキ・墓地から「レシピ」カード１枚を選んで手札に加える事ができる。②：１ターンに１度、手札から儀式モンスター１体をデッキの一番下に戻して発動できる。自分はデッキから１枚ドローする。③：自分エンドフェイズに、「レシピ」カードを含む自分の墓地のカード２枚を対象として発動できる。そのカードを好きな順番でデッキの下に戻す。その後、自分はデッキから１枚ドローする。
   | ko_lore               = 
+  | en_sets               = 
+  WISU-EN035; Wild Survivors; Ultra Rare
+  | fr_sets               = 
+  WISU-FR035; Wild Survivors; Ultra Rare
+  | de_sets               = 
+  WISU-DE035; Wild Survivors; Ultra Rare
+  | it_sets               = 
+  WISU-IT035; Wild Survivors; Ultra Rare
+  | pt_sets               = 
+  WISU-PT035; Wild Survivors; Ultra Rare
+  | sp_sets               = 
+  WISU-SP035; Wild Survivors; Ultra Rare
   | jp_sets               = 
   DBWS-JP035; Deck Build Pack: Wild Survivors; Super Rare
   | supports              = Ritual Monster
