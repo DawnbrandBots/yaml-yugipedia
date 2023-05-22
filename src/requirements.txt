@@ -18,16 +18,14 @@ hpack==4.0.0
     # via h2
 httpcore==0.16.3
     # via httpx
-httpx[http2]==0.23.3
+httpx[http2]==0.24.1
     # via -r src/requirements.in
 hyperframe==6.0.1
     # via h2
 idna==3.4
     # via
     #   anyio
-    #   rfc3986
-rfc3986[idna2008]==1.5.0
-    # via httpx
+    #   httpx
 ruamel-yaml==0.17.26
     # via -r src/requirements.in
 ruamel-yaml-clib==0.2.7
