@@ -30,8 +30,24 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DP28-JP001; Duelist Pack: Duelists of Explosion; Ultra Rare, Secret Rare
+  | supports              = 
+  * FIRE
+  * Cyberse
   | archseries            = Salamangreat
   | supports_archetypes   = Salamangreat
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Destroys battling monster at the start of the Damage Step
+  * Destroys your face-up Monster Cards
+  | summoning             = Restricts the player's Special Summons to Attribute specific monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -60,7 +60,9 @@ wikitext: |-
   * Activates upon Special Summon
   * Adds from Deck to hand
   * Activates from your Graveyard
-  | m/s/t                 = Destroys your face-up Monster Cards
+  | m/s/t                 = 
+  * Destroys battling monster at the start of the Damage Step
+  * Destroys your face-up Monster Cards
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
   | database_id           = 14813
