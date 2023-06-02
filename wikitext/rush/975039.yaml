@@ -26,6 +26,18 @@ wikitext: |-
   * Fusion (Rush Duel)
   * Straight Pierce
   | archseries       = Music Princess
+  | action           = 
+  * Places cards from the player's Graveyard on the top of the Deck for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * You draw cards
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires only specific monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
