@@ -13,8 +13,8 @@ wikitext: |-
   | def              = 0
   | requirement      = [[Pay]] 300 [[LP]].
   | lore             = 1 [[face-up]] [[monster]] on your opponent's [[field]] loses [[ATK]] equal to [the number of face-up [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] monsters on your field] x 300 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = ３００ＬＰを払って発動できる。
+  | ja_lore          = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドの表側表示モンスター（光属性／魔法使い族）の数］×３００ダウンする。
   | jp_sets          = 
   RD/SJMP-JP028; Saikyō Jump July 2023 promotional card; Normal Parallel Rare
   | supports         = 
@@ -22,6 +22,5 @@ wikitext: |-
   * Spellcaster
   | stat_change      = Your opponent's monsters lose ATK
   | life_points      = Pays Life Points for cost
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19091
   }}
