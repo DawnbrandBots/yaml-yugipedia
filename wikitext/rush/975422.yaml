@@ -11,8 +11,8 @@ wikitext: |-
   | level            = 7
   | atk              = 2000
   | def              = 2500
-  | requirement      = You have 10 or more cards in your [[Main Deck|Deck]] and no other [[monsters]] on your [[field]].
-  | lore             = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if your opponent has a [[face-up]] monster with 3000 or more [[ATK]] on their field, you can [[Draw a card|draw]] 3 cards.
+  | requirement      = You have 10 or more cards in your [[Main Deck|Deck]] and no other [[Monster Card|monster]]s on your [[field]].
+  | lore             = [[Send]] the top 3 cards of your Deck to the [[Graveyard]]. Then, if your opponent has a [[face-up]] monster with 3000 or more [[ATK]] on their field, you can [[Draw a card|draw]] 3 cards.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -21,7 +21,7 @@ wikitext: |-
   | action           = 
   * Sends from the top of your Deck to your Graveyard
   * You draw cards
-  | database_id      = 
   | misc             = Requires control of no other monsters
   | rush_duel_status = Not yet released
+  | database_id      = 
   }}
