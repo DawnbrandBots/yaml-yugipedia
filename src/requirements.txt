@@ -26,7 +26,7 @@ idna==3.4
     # via
     #   anyio
     #   httpx
-ruamel-yaml==0.17.28
+ruamel-yaml==0.17.31
     # via -r src/requirements.in
 ruamel-yaml-clib==0.2.7
     # via ruamel-yaml
