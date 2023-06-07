@@ -1,5 +1,7 @@
 title: Flametongue the Blazing Magical Blade
 wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -9,16 +11,16 @@ wikitext: |-
   | ja_name             = 炎魔刃フレイムタン
   | romaji_name         = 
   | trans_name          = 
-  | ko_name             =
+  | ko_name             = 
   | ko_rr_name          = 
   | image               = FlametonguetheBlazingMagicalBlade-YO07-JP-OP.png
   | attribute           = FIRE
   | types               = Warrior / Link / Effect
   | link_arrows         = Bottom-Left, Bottom-Right
   | atk                 = 1400
-  | password            =
-  | effect_types        = 
-  | lore                = 2 FIRE monsters<br/>Face-up Spells/Traps you control cannot be destroyed by your opponent's effects. You can target 1 of your banished FIRE monsters; add it to your hand, and if you do, you cannot activate the effects of cards with that name for the rest of this turn. You can only use this effect of "Flametongue the Blazing Magical Blade" once per turn.
+  | password            = 
+  | effect_types        = Continuous, Ignition, Condition
+  | lore                = 2 [[FIRE]] [[monsters]]<br />[[Face-up]] [[Spells]]/[[Traps]] you [[control]] cannot be [[destroy]]ed by your opponent's card [[effect]]s. You can [[target]] 1 of your [[banish]]ed FIRE monsters; [[Add a card|add]] it to your [[hand]], and if you do, you cannot [[activate]] cards, or the effects of cards, with that name for the rest of this [[turn]]. You can only use this effect of "Flametongue the Blazing Magical Blade" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -29,13 +31,12 @@ wikitext: |-
   | jp_sets             = 
   YO07-JP001; Yu-Gi-Oh! OCG Structures Volume 7 promotional card; Ultra Rare
   | supports            = 
-  *  FIRE
-  *  Spell Cards
-  *  Trap Cards
+  * FIRE
+  * Spell Cards
+  * Trap Cards
   | misc                = 
   * Only once per turn
   | database_id         = 
   | tcg_status          = Not yet released
   | ocg_status          = Not yet released
-
   }}
