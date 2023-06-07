@@ -18,7 +18,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = 
-  | lore                = You can activate 1 of these effects;<br />● Reveal 1 Fusion Monster in your Extra Deck and send 1 of the Fusion Materials mentioned on it by name from your Deck to the GY, and if you do, you cannot Special Summon monsters with that name, nor activate their monster effects, for the rest of this turn.<br />● Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your GY.<br />You can only use each effect of "Over Future Fusion" once per turn.
+  | lore                = You can [[activate]] 1 of these [[effect]]s;<br />● [[Reveal]] 1 [[Fusion Monster]] in your [[Extra Deck]] and [[send]] 1 of the [[Fusion Material]]s [[mention]]ed on it by name from your [[Main Deck|Deck]] to the [[GY]], and if you do, you cannot [[Special Summon]] [[Monster Card|monsters]] with that name, nor activate their [[monster effect]]s, for the rest of this [[turn]].<br />● [[Fusion Summon]] 1 [[DARK]] [[Machine]] Fusion Monster from your Extra Deck, by [[banish]]ing Fusion Materials mentioned on it from your GY.<br />You can only use each effect of "Over Future Fusion" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -28,9 +28,29 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   VJMP-JP237; V Jump August 2023 promotional card; Ultra Rare
+  | supports            = 
+  * Fusion Monster
+  * DARK
+  * Machine
   | archseries          = 
   * Polymerization (archetype)
   * Fusion (archetype)
+  | action              = 
+  * Reveals your Extra Deck
+  * Sends from your Deck to your Graveyard
+  * Uses cards in the player's Graveyard as Fusion Materials
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | summoning           = 
+  * Prevents the player's Special Summons
+  * Special Summons from your Extra Deck
+  * Performs a Fusion Summon
+  | banished            = 
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                = 
+  * Variable effects
+  * Mentions
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

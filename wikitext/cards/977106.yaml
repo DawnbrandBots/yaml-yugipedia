@@ -8,8 +8,8 @@ wikitext: |-
   | it_name             = 
   | pt_name             = 
   | es_name             = 
-  | ja_name             = 炎魔刃フレイムタン
-  | romaji_name         = 
+  | ja_name             = {{Ruby|炎|えん}}{{Ruby|魔|ま}}{{Ruby|刃|じん}}フレイムタン
+  | romaji_name         = Enmajin Fureimutan
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
@@ -19,6 +19,7 @@ wikitext: |-
   | link_arrows         = Bottom-Left, Bottom-Right
   | atk                 = 1400
   | password            = 
+  | materials           = 2 FIRE monsters
   | effect_types        = Continuous, Ignition, Condition
   | lore                = 2 [[FIRE]] [[monsters]]<br />[[Face-up]] [[Spells]]/[[Traps]] you [[control]] cannot be [[destroy]]ed by your opponent's card [[effect]]s. You can [[target]] 1 of your [[banish]]ed FIRE monsters; [[Add a card|add]] it to your [[hand]], and if you do, you cannot [[activate]] cards, or the effects of cards, with that name for the rest of this [[turn]]. You can only use this effect of "Flametongue the Blazing Magical Blade" [[once per turn]].
   | fr_lore             = 
@@ -30,12 +31,14 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   YO07-JP001; Yu-Gi-Oh! OCG Structures Volume 7 promotional card; Ultra Rare
-  | supports            = 
-  * FIRE
-  * Spell Cards
-  * Trap Cards
-  | misc                = 
-  * Only once per turn
+  | supports            = FIRE
+  | action              = Adds banished cards to the hand
+  | m/s/t               = 
+  * Prevents other cards being destroyed by card effects
+  * Prevents activation of your Effect Monsters
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | misc                = Only once per turn
   | database_id         = 
   | tcg_status          = Not yet released
   | ocg_status          = Not yet released
