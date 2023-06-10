@@ -12,10 +12,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = TriangleO-AC03-JP-OP.png
+  | image               = TriangleO-AC03-JP-NPR.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 11489642
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = If you [[control]] "[[Crystal Skull]]", "[[Ashoka Pillar]]", and "[[Cabrera Stone]]": [[Destroy]] all cards on the [[field]], also, this [[turn]], your opponent takes any [[effect damage]] you would have taken instead. You can [[banish]] this card from your [[GY]], then [[target]] 1 "Crystal Skull", 1 "Ashoka Pillar", and 1 "Cabrera Stone" in your GY; [[shuffle]] them into the [[Main Deck|Deck]], then [[Draw a card|draw]] 3 cards. You can only use 1 "Triangle O" [[effect]] per turn, and only once that turn.
   | fr_lore             = 
@@ -23,11 +23,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「水晶ドクロ」「アショカ・ピラー」「カブレラストーン」が全て存在する場合に発動できる。フィールドのカードを全て破壊する。このターン、自分が受ける効果ダメージは代わりに相手が受ける。②：墓地のこのカードを除外し、自分の墓地の「水晶ドクロ」「アショカ・ピラー」「カブレラストーン」を１体ずつ対象として発動できる。そのモンスターをデッキに戻す。その後、自分は３枚ドローする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  AC03-JP010; Animation Chronicle 2023; 
+  AC03-JP010; Animation Chronicle 2023; Normal Parallel Rare, Secret Rare
   | supports            = 
   * Ashoka Pillar
   * Cabrera Stone
@@ -48,7 +48,6 @@ wikitext: |-
   | misc                = 
   * Requires control of specific card
   * Only 1 effect once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19031
   | tcg_status          = Not yet released
   }}

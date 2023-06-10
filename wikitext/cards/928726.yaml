@@ -12,13 +12,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = CombatWheel-AC03-JP-OP.png
+  | image               = CombatWheel-AC03-JP-SR.png
   | attribute           = EARTH
   | types               = Machine / Synchro / Effect
   | level               = 6
   | atk                 = 2500
   | def                 = 1200
-  | password            = 
+  | password            = 12501230
   | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Continuous, Quick, Trigger
   | lore                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />The first time this card would be [[destroy]]ed by an opponent's card [[effect]] each [[turn]], it is not destroyed. Once per opponent's [[Battle Phase]] ([[Quick Effect]]): You can [[discard]] 1 card; this card gains [[ATK]] equal to half the total ATK of all other [[face-up]] monsters you currently control, then place 1 [[counter]] on this card, also your opponent's monsters cannot [[target]] monsters for [[attack]]s this turn, except this one. If this card with a counter is [[destroyed by battle]]: Destroy all monsters you control.
@@ -27,11 +27,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = チューナー＋チューナー以外のモンスター１体以上<br />①：フィールドのこのカードは１ターンに１度だけ相手の効果では破壊されない。②：相手バトルフェイズに１度、手札を１枚捨てて発動できる。このカードの攻撃力は、自分フィールドの他のモンスターの攻撃力を合計した数値の半分アップする。その後、このカードにカウンターを１つ置く。このターン中、相手モンスターは他のモンスターを攻撃対象に選択できない。③：カウンターが置かれているこのカードが戦闘で破壊された場合に発動する。自分フィールドのモンスターを全て破壊する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  AC03-JP007; Animation Chronicle 2023; 
+  AC03-JP007; Animation Chronicle 2023; Super Rare
   | counter             = 
   * Counter (counter)
   * Places counters on itself
@@ -46,7 +46,6 @@ wikitext: |-
   * Does not require specific Synchro Materials
   * 1 or more non-Tuner Synchro Materials
   | attack              = Prevents other cards being targeted for attacks
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19028
   | tcg_status          = Not yet released
   }}

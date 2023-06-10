@@ -12,10 +12,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = TotemPole-AC03-JP-OP.png
+  | image                 = TotemPole-AC03-JP-NPR.png
   | card_type             = Trap
   | property              = Continuous
-  | password              = 
+  | password              = 47873397
   | effect_types          = Continuous-like, Quick-like, Continuous-like, Quick-like
   | lore                  = Your opponent cannot [[target]] [[Rock]] [[monsters]] you [[control]] with 0 [[original ATK]] with card [[effect]]s. Once per [[attack]], when an opponent's [[monster]] [[declare]]s an attack: You can [[negate]] that attack, then place 1 [[counter]] on this card. If this card has 3 counters, [[send]] it to the [[GY]]. If you have 3 or more monsters with 0 [[ATK]] and different names in your [[GY]]: You can [[banish]] this card from your GY; any [[effect damage]] your opponent takes this [[turn]] is doubled.
   | fr_lore               = 
@@ -23,11 +23,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = ①：自分フィールドの元々の攻撃力が０の岩石族モンスターを相手は効果の対象にできない。②：相手モンスターの攻撃宣言時に１度、発動できる。その攻撃を無効にし、このカードにカウンターを１つ置く。③：このカードにカウンターが３つ置かれている場合、このカードは墓地へ送られる。④：自分の墓地に攻撃力０の岩石族モンスターが３種類以上存在する場合、墓地のこのカードを除外して発動できる。このターン、相手が受ける効果ダメージは倍になる。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC03-JP011; Animation Chronicle 2023; 
+  AC03-JP011; Animation Chronicle 2023; Normal Parallel Rare
   | supports              = Rock
   | related_to_archseries = Ancient Treasure
   | counter               = 
@@ -41,7 +41,6 @@ wikitext: |-
   | banished              = Banishes itself from Graveyard for cost
   | life_points           = Increases effect damage
   | misc                  = Limited activations
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19032
   | tcg_status            = Not yet released
   }}

@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = RingAnnouncer-AC03-JP-OP.png
+  | image               = RingAnnouncer-AC03-JP-NPR.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 19544412
   | effect_types        = Condition, Effect, Condition
   | lore                = (This card is always treated as a "[[Battlin' Boxing]]" card.)<br />[[Special Summon]] 1 "[[Battlin' Boxer]]" [[monster]] from your [[hand]], then you can [[destroy]] [[Spells]]/[[Traps]] on the [[field]], up to the number of [[Xyz Monster]]s you [[control]]. You can only [[activate]] 1 "Ring Announcer" per [[turn]].
   | fr_lore             = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名はルール上「バーニングナックル」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できない。①：手札から「ＢＫ」モンスター１体を特殊召喚する。その後、自分フィールドのＸモンスターの数までフィールドの魔法・罠カードを破壊できる。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  AC03-JP016; Animation Chronicle 2023; 
+  AC03-JP016; Animation Chronicle 2023; Normal Parallel Rare
   | supports            = Xyz Monster
   | archseries          = Battlin' Boxing
   | supports_archetypes = Battlin' Boxer
@@ -40,7 +40,6 @@ wikitext: |-
   * Archetype condition
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19037
   | tcg_status          = Not yet released
   }}

@@ -12,13 +12,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = PhotonDeltaWing-AC03-JP-OP.png
+  | image               = PhotonDeltaWing-AC03-JP-SR.png
   | attribute           = LIGHT
   | types               = Machine / Effect
   | level               = 4
   | atk                 = 1800
   | def                 = 900
-  | password            = 
+  | password            = 47051709
   | effect_types        = Trigger, Continuous
   | lore                = If this card is [[Normal Summon]]ed: You can [[Special Summon]] 1 "Photon Delta Wing" from your [[hand]] or [[Main Deck|Deck]] in [[Defense Position]], also you cannot Special Summon monsters for the rest of this [[turn]], except [[LIGHT]] [[monsters]]. While you control another "Photon Delta Wing", your opponent cannot [[declare]] an [[attack]].
   | fr_lore             = 
@@ -26,7 +26,7 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = ①：このカードが召喚した場合に発動できる。手札・デッキから「フォトン・デルタ・ウィング」１体を守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は光属性モンスターしか特殊召喚できない。②：自分フィールドに他の「フォトン・デルタ・ウィング」が存在する場合、相手は攻撃宣言できない。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -41,7 +41,6 @@ wikitext: |-
   * Restricts the player's Special Summons to Attribute specific monsters
   | attack              = Prevents your opponent's monsters from attacking
   | misc                = Requires control of specific card
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19035
   | tcg_status          = Not yet released
   }}

@@ -12,10 +12,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PhoenixGearblade-AC03-JP-OP.png
+  | image                 = PhoenixGearblade-AC03-JP-NPR.png
   | card_type             = Spell
   | property              = Equip
-  | password              = 
+  | password              = 33872334
   | effect_types          = Condition, Continuous-like, Trigger-like, Trigger-like, Condition
   | lore                  = Equip only to a [[Warrior]] or [[FIRE]] [[monster]]. It gains 300 [[ATK]]. If the equipped monster [[attack]]ed, at the end of the [[Damage Step]]: You can [[send]] this card to the [[GY]]; each of your Warrior and FIRE monsters can make a second attack during this [[Battle Phase]]. If this card is sent to the [[GY]], or [[banish]]ed, to [[activate]] a [[monster effect]]: You can [[Add a card|add]] this card to your hand. You can only use this [[effect]] of "Phoenix Gearblade" [[once per turn]].
   | fr_lore               = 
@@ -23,11 +23,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 戦士族モンスターか炎属性モンスターにのみ装備可能。このカード名の③の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は３００アップする。②：装備モンスターが攻撃したダメージステップ終了時、このカードを墓地へ送って発動できる。このバトルフェイズ中、自分の戦士族モンスター及び炎属性モンスターはそれぞれ２回攻撃できる。③：このカードがモンスターの効果を発動するために、墓地へ送られた場合または除外された場合に発動できる。このカードを手札に加える。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC03-JP026; Animation Chronicle 2023; 
+  AC03-JP026; Animation Chronicle 2023; Normal Parallel Rare
   | supports              = 
   * Warrior
   * FIRE
@@ -46,7 +46,6 @@ wikitext: |-
   * Requires control of specific Type
   * Requires control of specific Attribute
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19047
   | tcg_status            = Not yet released
   }}
