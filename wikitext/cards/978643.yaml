@@ -37,7 +37,33 @@ wikitext: |-
   AGOV-JP005; Age of Overlord +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | archseries            = Veda
   | supports_archetypes   = Veda
-  | misc                  = Only once per turn
+  | counter               = 
+  * Counter (counter)
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action                = 
+  * Activates if destroyed
+  * Activates upon Special Summon
+  * Ends your opponent's turn
+  * Returns itself from field to hand
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summon once per turn
+  * Special Summons the player's banished monsters
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
+  * Banishes face-down
+  | misc                  = 
+  * Once per Chain
+  * Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

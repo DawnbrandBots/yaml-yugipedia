@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 1300
   | password              = 
   | effect_types          = Trigger, Ignition, Condition
-  | materials             = 1 Tuner + 1+ non-Tuner monsters
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[target]] 1 [[Level]] 2 Tuner in your [[GY]]; [[Special Summon]] it, but its [[effect]]s are [[negate]]d. You can target any number of Tuners you [[control]]; their Levels become 2, also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except [[Synchro Monster]]s. You can only use each effect of "Mannadium Trilosukda" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
@@ -36,16 +36,18 @@ wikitext: |-
   * Tuner monster
   * Synchro Monster
   | archseries            = Mannadium
+  | related_to_archseries = Tearlaments
+  | action                = Activates upon Synchro Summon
+  | stat_change           = Changes Levels
+  | m/s/t                 = Negates the effects of the Summoned monsters
   | summoning             =
   * 1 or more non-Tuner Synchro Materials
-  * Does not require specific Synchro Materials for its Synchro Summon
+  * Does not require specific Synchro Materials
   * Special Summons from your Graveyard
   * Restricts the player's Special Summons from the Extra Deck
-  | m/s/t                 = Negates the effects of your Effect Monsters
-  | stat_change           = Changes Levels
-  | related_to_archseries = Tearlaments
   | misc                  = 
   * Tuner Synchro Monster
+  * Requires control of specific Monster type
   * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released

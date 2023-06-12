@@ -28,8 +28,20 @@ wikitext: |-
   | jp_sets               = 
   AGOV-JP072; Age of Overlord; 
   | supports              = Visas Starfrost
+  | anti-supports         = Visas Starfrost
   | supports_archetypes   = Veda
+  | anti-supports_archetypes = Veda
   | related_to_archseries = Visas
+  | action                = 
+  * Returns from field to Deck
+  * Adds from Deck to hand
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | misc                  = 
+  * Requires control of specific card
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

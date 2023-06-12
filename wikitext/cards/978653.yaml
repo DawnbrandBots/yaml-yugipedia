@@ -31,8 +31,19 @@ wikitext: |-
   | supports              = 
   * Visas Starfrost
   * Tuner monster
+  | anti-supports         = Visas Starfrost
   | supports_archetypes   = Veda
   | related_to_archseries = Visas
+  | action                = 
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Adds banished cards to the hand
+  * Adds from Graveyard to hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

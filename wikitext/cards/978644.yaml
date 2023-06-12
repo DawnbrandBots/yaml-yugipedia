@@ -40,6 +40,16 @@ wikitext: |-
   * Scareclaw
   * Tearlaments
   * Mannadium
+  | action                = 
+  * Returns the player's banished cards to the Deck
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  | stat_change           = 
+  * Changes own name while on the field
+  * Changes own name while in the GY
+  * This card gains ATK
+  * Treats itself as a non-Tuner monster
+  | summoning             = Special Summons itself from your hand
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
