@@ -1,7 +1,5 @@
-title: Rainbowlution Lab
+title: RGB Rainbowlution
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -11,14 +9,15 @@ wikitext: |-
   | ja_name               = {{Ruby|千六百七十七万工房|レインボリューション・ラボ}}
   | base_trans_name       = 16,770,000 Workshop
   | romaji_name           = Reinboryūshon Rabo
+  | trans_name            = Rainbowlution Lab
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = RainbowlutionLab-23PR-JP-NPR.png
+  | image                 = RGBRainbowlution-23PR-JP-NPR.png
   | card_type             = Trap
   | property              = Continuous
   | password              = 01259814
   | effect_types          = Quick-like
-  | lore                  = [[Once per turn]]: You can [[target]] 1 [[face-up]] [[monster]] on the [[field]]; it becomes a [[Machine]] [[monster]], also its [[Attribute]] is also treated as [[LIGHT]], [[DARK]], [[EARTH]], [[WATER]], [[FIRE]], and [[WIND]].
+  | lore                  = [[Once per turn]]: You can [[target]] 1 [[face-up]] [[monster]] on the [[field]]; its [[Type]] is changed to [[Machine]], also it gains the [[LIGHT]]/[[DARK]]/[[EARTH]]/[[WATER]]/[[FIRE]]/[[WIND]] [[Attribute]]s (even if this card [[leaves the field]]).
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +25,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの種族は機械族になり、その属性は「光」「闇」「地」「水」「炎」「風」としても扱う。
   | ko_lore               = 
+  | en_sets               = 
+  BLMR-EN011; Battles of Legend: Monstrous Revenge; Secret Rare
+  | fr_sets               = 
+  BLMR-FR011; Battles of Legend: Monstrous Revenge; Secret Rare
+  | de_sets               = 
+  BLMR-DE011; Battles of Legend: Monstrous Revenge; Secret Rare
+  | it_sets               = 
+  BLMR-IT011; Battles of Legend: Monstrous Revenge; Secret Rare
+  | pt_sets               = 
+  BLMR-PT011; Battles of Legend: Monstrous Revenge; Secret Rare
+  | sp_sets               = 
+  BLMR-SP011; Battles of Legend: Monstrous Revenge; Secret Rare
   | jp_sets               = 
   23PR-JP005; Promotion Pack 2023; Normal Parallel Rare
   | supports              = 
