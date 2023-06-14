@@ -38,7 +38,22 @@ wikitext: |-
   | supports_archetypes  = 
   * Nouvelles
   * Recipe
-  | misc                  = Only once per turn
+  | action                = 
+  * Changes battle positions
+  * Activates if Tributed
+  * Activates from your Extra Deck
+  * Goes to Pendulum Zone
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * Special Summons from your hand
+  | banished              = Banishes from your Graveyard
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
+  * Variable effects
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

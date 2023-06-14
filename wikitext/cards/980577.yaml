@@ -34,6 +34,18 @@ wikitext: |-
   * Nouvelles
   * Recipe
   * Patissciel
+  | action                = Activates from your Graveyard
+  | stat_change           = All monsters gain ATK
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Special Summons from your hand to your opponent's field
+  * Special Summons from your Deck to your opponent's field
+  * Special Summons from your Extra Deck to your opponent's field
+  * Restricts usage of other Materials
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
