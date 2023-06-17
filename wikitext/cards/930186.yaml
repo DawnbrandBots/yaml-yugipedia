@@ -34,6 +34,17 @@ wikitext: |-
   VJMP-JP2??; V Jump Fall 2023 subscription bonus; Ultra Rare
   | supports            = Synchro Monster
   | archseries          = Junk
+  | action              = 
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | stat_change         = Your monsters gain ATK
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
