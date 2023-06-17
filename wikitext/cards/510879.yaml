@@ -61,16 +61,21 @@ wikitext: |-
   SD38-KR005; Structure Deck: Sacred Beasts of Chaos; Common
   | sc_sets               = 
   SD38-SC005; Structure Deck: Sacred Beasts of Chaos; Common
-  | related_to_archseries = Sacred Beast
-  | supports              = 
+  | mentions              = 
   * Uria, Lord of Searing Flames
   * Hamon, Lord of Striking Thunder
   * Raviel, Lord of Phantasms
+  | related_to_archseries = Sacred Beast
+  | action                = 
+  * Tributes itself for cost
+  * Activates from your Graveyard
+  * Adds from Deck to hand
   | summoning             = 
   * Special Summons from your hand
   * Special Summons from your Deck
   * Ignoring the Summoning conditions
-  | action                = Tributes itself for cost
+  | attack                = Prevents your monsters from attacking
+  | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
   | tcg_speed_duel_status = Unlimited
   | database_id           = 12903
