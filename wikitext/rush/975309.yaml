@@ -13,17 +13,25 @@ wikitext: |-
   | atk                    = 2400
   | def                    = 0
   | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Blazebolt Chemistorm Fenghuang Volcalize Phoenix (L)|Blazebolt Chemistorm Fenghuang Volcalize Phoenix [L]]]" and "[[Blazebolt Chemistorm Fenghuang Volcalize Phoenix (R)|Blazebolt Chemistorm Fenghuang Volcalize Phoenix [R]]]".
-  | requirement            = [[Maximum Mode]]: [[Send]] 1 [[FIRE]] [[Attribute]] or [[Pyro]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore                   = Inflict 1000 [[Effect damage|damage]] to your opponent. Then, this [[turn]], this card cannot be destroyed by your opponent's [[Trap Card]] [[effect]]s, and if it [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the attack target, inflict the difference).
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | requirement            = [[Maximum Mode]]: [[Send]] 1 [[FIRE]] [[Attribute]] or [[Pyro]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore                   = [[Damage|Inflict]] 1000 [[Effect damage|damage]] to your opponent. Also, this [[turn]], this card cannot be [[destroy]]ed by your opponent's [[Trap Card]] [[effect]]s, and if it [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_summoning_condition = 「火轟嵐凰ヴォルカライズ・フェニックス［Ｌ］」「火轟嵐凰ヴォルカライズ・フェニックス［Ｒ］」と揃えてマキシマム召喚できる。
+  | ja_requirement         = マキシマムモード：手札のモンスター（炎属性または炎族）１体を墓地へ発動できる。
+  | ja_lore                = 相手に１０００ダメージを与える。さらにこのターン、このカードは相手の罠カードの効果では破壊されず、その攻撃は貫通する。
   | jp_sets                = 
   RD/KP14-JP0??; Phoenix of the Roaring Flame; 
   | mentions               = 
   * Blazebolt Chemistorm Fenghuang Volcalize Phoenix (L)
   * Blazebolt Chemistorm Fenghuang Volcalize Phoenix (R)
+  | supports               = 
+  * FIRE
+  * Pyro
   | archseries             = Chemistry
+  | action                 = Sends from hand to Graveyard for cost
+  | m/s/t                  = Cannot be destroyed by card effects
+  | attack                 = Piercing
+  | life_points            = Damages your opponent
+  | misc                   = Requires Maximum Mode
   | rush_duel_status       = Not yet released
   | database_id            = 
   }}

@@ -13,13 +13,21 @@ wikitext: |-
   | level            = 10
   | atk              = 2000
   | def              = 0
-  | requirement      = [[Shuffle]] 1 [[FIRE]] [[Attribute]] [[Thunder]] [[Type]] [[monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement      = [[Shuffle]] 1 [[FIRE]] [[Attribute]] [[Thunder]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = [[Destroy]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]]. Then, if this card is in [[Maximum Mode]], you can destroy 1 monster on your opponent's field.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の墓地のモンスター（炎属性／雷族）１体をデッキに戻して発動できる。
+  | ja_lore          = 相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
   | jp_sets          = 
   RD/KP14-JP0??; Phoenix of the Roaring Flame; 
+  | supports         = 
+  * FIRE
+  * Thunder
   | archseries       = Chemistry
+  | action           = Returns from Graveyard to Deck for cost
+  | m/s/t            = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's Monster Cards
+  | misc             = Requires Maximum Mode
   | rush_duel_status = Not yet released
   | database_id      = 
   }}

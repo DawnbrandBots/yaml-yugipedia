@@ -13,13 +13,21 @@ wikitext: |-
   | level            = 10
   | atk              = 2000
   | def              = 0
-  | requirement      = [[Shuffle]] 1 [[FIRE]] [[Attribute]] [[Aqua]] [[Type]] [[monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]]. Then, if this card is in [[Maximum Mode]], you can destroy 1 Spell/Trap Card on your opponent's field.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = [[Shuffle]] 1 [[FIRE]] [[Attribute]] [[Aqua]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]]. Then, if this card is in [[Maximum Mode]], you can destroy 1 Spell/Trap Card on your opponent's field.
+  | ja_requirement   = 自分の墓地のモンスター（炎属性／水族）１体をデッキに戻して発動できる。
+  | ja_lore          = 相手フィールドの魔法・罠カード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
   | jp_sets          = 
   RD/KP14-JP0??; Phoenix of the Roaring Flame; 
+  | supports         = 
+  * FIRE
+  * Aqua
   | archseries       = Chemistry
+  | action           = Returns from Graveyard to Deck for cost
+  | m/s/t            = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc             = Requires Maximum Mode
   | rush_duel_status = Not yet released
   | database_id      = 
   }}
