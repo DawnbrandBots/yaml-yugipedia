@@ -10,8 +10,8 @@ wikitext: |-
   | property         = Normal
   | requirement      = If you have a [[face-up]] [[FIRE]] [[Attribute]] [[Monster Card|monster]] on your [[field]], [[shuffle]] 1 [[Aqua]], [[Pyro]], or [[Thunder]] [[Type]] monster from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, if you have a monster in [[Maximum Mode]] or a face-up [[Equip Spell Card]] on your field, you can draw 1 additional card.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドに表側表示モンスター（炎属性）がいる場合、自分の墓地のモンスター（炎族・水族・雷族）１体をデッキに戻して発動できる。
+  | ja_lore          = 自分は１枚ドローする。自分フィールドにマキシマムモードのモンスターまたは表側表示の装備魔法カードがある場合、さらに自分は１枚ドローできる。
   | jp_sets          = 
   RD/KP14-JP048; Phoenix of the Roaring Flame; Common
   | supports         = 
@@ -19,15 +19,14 @@ wikitext: |-
   * Aqua
   * Pyro
   * Thunder
-  * Maximum Monster
   * Equip Spell Card
   | archseries       = Chemistry
   | action           = 
   * Returns from Graveyard to Deck for cost
   * You draw cards
   | misc             = 
-  * Requires control of specific Type
-  * Requires control of specific Monster type
+  * Requires control of specific Attribute
+  * Requires Maximum Mode
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
