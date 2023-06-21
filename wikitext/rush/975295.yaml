@@ -3,20 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ケミスペット・ニャンコ
   | romaji_name      = Kemisupetto Nyanko
-  | image            = ChemispetNyanko-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = [TBA]
-  | ja_lore          = 
+  | image            = ChemispetNyanko-RDKP14-JP-OP.png
+  | attribute        = FIRE
+  | types            = Thunder / Effect
+  | level            = 1
+  | atk              = 600
+  | def              = 0
+  | requirement      = If you have a [[Pyro]], [[Aqua]], or [[Thunder]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = Gain 400 [[LP]]. Then, you can place 1 Pyro, Aqua, or Thunder Type monster from your Graveyard on top of your Deck.
+  | ja_requirement   = 自分の墓地にモンスター（炎族・水族・雷族）のいずれかがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = 自分は４００ＬＰ回復する。その後、自分の墓地のモンスター（炎族・水族・雷族）１体を選んでデッキの上に戻す事ができる。
   | jp_sets          = 
-  RD/KP14-JP0??; Phoenix of the Roaring Flame; 
+  RD/KP14-JP009; Phoenix of the Roaring Flame; Common
+  | supports         = 
+  * Pyro
+  * Aqua
+  * Thunder
   | archseries       = Chemistry
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Places cards from the player's Graveyard on the top of the Deck
+  | life_points      = You gain Life Points
   | rush_duel_status = Not yet released
   | database_id      = 
   }}
