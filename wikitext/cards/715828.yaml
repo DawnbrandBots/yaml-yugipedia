@@ -17,7 +17,7 @@ wikitext: |-
   | atk                   = 3200
   | def                   = 2600
   | password              = 63101468
-  | materials             = 1 Tuner + 1+ non-Tuner Fairy monsters
+  | materials             = 1 Tuner + 1 or more non-Tuner Fairy-Type monsters
   | effect_types          = Ignition, Quick, Condition
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[Fairy]] [[monsters]]<br />You can [[send]] 1 "[[The Agent]]" monster, or 1 monster that mentions "[[The Sanctuary in the Sky]]", from your [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] to the [[GY]]; until the [[End Phase]], this card's name becomes that monster's original name, and replace this [[effect]] with that monster's original effects. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[banish]] 1 Fairy monster from your hand or GY, then [[target]] 1 card on the [[field]]; banish it. You can only use each effect of "Masterflare Hyperion" [[once per turn]].
   | fr_lore               = 1 Syntoniseur + 1+ monstre non-Syntoniseur Elfe<br />Vous pouvez envoyer 1 monstre "Agent", ou 1 monstre qui mentionne "Le Sanctuaire Céleste", depuis votre main, Deck ou Extra Deck au Cimetière ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine du monstre, et remplacez cet effet avec les effets d'origine du monstre. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez bannir 1 monstre Elfe depuis votre main ou Cimetière, puis ciblez 1 carte sur le Terrain ; bannissez-la. Vous ne pouvez utiliser chaque effet de "Maître Flamboyant Hypérion" qu'une fois par tour.
@@ -43,9 +43,8 @@ wikitext: |-
   SR12-JPP01; Structure Deck R: Lost Sanctuary Arrival of the Sun God Pack; Ultra Rare, Secret Rare
   | kr_sets               = 
   SR12-KRP01; Structure Deck R: Lost Sanctuary Arrival of the Sun God Pack; Ultra Rare, Secret Rare
-  | supports              = 
-  * Fairy
-  * The Sanctuary in the Sky
+  | mentions              = The Sanctuary in the Sky
+  | supports              = Fairy
   | archseries            = Hyperion
   | supports_archetypes   = The Agent
   | related_to_archseries = The Sanctuary in the Sky (series)
