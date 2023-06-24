@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name          = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|竜|りゅう}}バクハムート
   | romaji_name      = Genkairyū Bakuhamūto
   | trans_name       = Mythic Demolition Dragon Blasthamut
-  | image            = DemolitionDragonBlasthamut-RDTB01-JP-OP.png
+  | image            = DemolitionDragonBlasthamut-RDTB01-JP-SR.png
   | attribute        = FIRE
   | types            = Wyrm / Effect
   | level            = 8
@@ -14,8 +14,8 @@ wikitext: |-
   | def              = 2000
   | requirement      = If a card is in a [[Field Zone]], [[send]] 2 cards from your [[hand]] to the [[Graveyard]], including a [[Wyrm]] [[Type]] [[monster]].
   | lore             = [[Destroy]] all face-up [[Level]] 8 or lower monsters on your opponent's [[field]]. Then, inflict [[Effect damage|damage]] to your opponent equal to [the number of monsters destroyed by this [[effect]]] x 300.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分または相手のフィールドゾーンにカードがある場合、モンスター（幻竜族）を含む手札２枚を墓地へ送って発動できる。
+  | ja_lore          = 相手フィールドの表側表示モンスター（レベル８以下）を全て破壊する。その後、［この効果で破壊したモンスターの数］×３００ダメージを相手に与える。
   | jp_sets          = 
   RD/TB01-JP040; Triple Build Pack: Godbreath Wing; Super Rare, Over Rush Rare
   | supports         = Wyrm
@@ -24,6 +24,5 @@ wikitext: |-
   | m/s/t            = Destroys your opponent's face-up Monster Cards
   | life_points      = Damages your opponent
   | fm_for           = Demolition Charge Dragon Dangerous Blasthamut
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19124
   }}

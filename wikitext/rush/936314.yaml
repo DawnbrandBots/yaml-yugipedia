@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name          = ハーピィ・レジーナ
   | romaji_name      = Hāpyi Rejīna
-  | image            = HarpieRegina-RDTB01-JP-OP.png
+  | image            = HarpieRegina-RDTB01-JP-NPR.png
   | attribute        = WIND
   | types            = Winged Beast / Effect
   | level            = 4
@@ -13,10 +13,10 @@ wikitext: |-
   | def              = 300
   | requirement      = If you have another [[face-up]] [[WIND]] [[Attribute]] [[Winged Beast]] [[Type]] [[monster]] on your [[field]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, if you have a face-up [[Normal Monster]] on your field, you can [[Add a card|add]] 1 "[[Harpie Lady (Rush Duel)|Harpie Lady]]" or "[[Harpie Ladies]]" from your Graveyard to your hand.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドにこのカード以外の表側表示モンスター（風属性／鳥獣族）がいる場合、手札１枚を墓地へ送って発動できる。
+  | ja_lore          = 自分は１枚ドローする。自分フィールドに表側表示の通常モンスターがいる場合、さらに自分の墓地の「ハーピィ・レディ」または「ハーピィ三姉妹」１体を選んで手札に加える事ができる。
   | jp_sets          = 
-  RD/TB01-JP008; Triple Build Pack: Godbreath Wing; Normal Parallel Rare
+  RD/TB01-JP008; Triple Build Pack: Godbreath Wing; Normal Parallel Rare, Secret Rare
   | mentions         = 
   * Harpie Lady (Rush Duel)
   * Harpie Ladies
@@ -33,6 +33,5 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Type
   * Requires control of specific Monster type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19102
   }}

@@ -5,7 +5,7 @@ wikitext: |-
   | ja_name          = {{Ruby|獣|じゅう}}{{Ruby|楽|がっ}}{{Ruby|鬼|き}}トランペット{{Ruby|虎|タイガー}}
   | romaji_name      = Jūgakki Toranpetto Taigā
   | trans_name       = Trumpetiger the Beast Music Oni
-  | image            = TrumpetigertheMusicFiend-RDTB01-JP-OP.png
+  | image            = TrumpetigertheMusicFiend-RDTB01-JP-C.png
   | attribute        = WIND
   | types            = Beast / Effect
   | level            = 7
@@ -13,8 +13,8 @@ wikitext: |-
   | def              = 1500
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore             = This card gains 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Special Summon]] 1 [[Level]] 8 or lower [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] from your [[hand]] [[face-up]] to your [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このカードの攻撃力はターン終了時まで３００アップする。その後、手札のモンスター（レベル８以下／風属性／戦士族）１体を自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/TB01-JP022; Triple Build Pack: Godbreath Wing; Common
   | supports         = 
@@ -24,6 +24,5 @@ wikitext: |-
   | action           = Sends from the top of your Deck to your Graveyard for cost
   | stat_change      = This card gains ATK
   | summoning        = Special Summons from your hand
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19112
   }}

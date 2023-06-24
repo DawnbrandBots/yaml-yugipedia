@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = ハーピィ{{Ruby|三姉妹|レディース}}
   | romaji_name            = Hāpyi Redīsu
-  | image                  = HarpieLadies-RDTB01-JP-OP.png
+  | image                  = HarpieLadies-RDTB01-JP-SR.png
   | attribute              = WIND
   | types                  = Winged Beast / Maximum / Effect
   | level                  = 5
@@ -15,9 +15,9 @@ wikitext: |-
   | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Harpie Ladies (L)|Harpie Ladies [L]]]" and "[[Harpie Ladies (R)|Harpie Ladies [R]]]".
   | requirement            = [[Shuffle]] 2 [[WIND]] [[Attribute]] [[Winged Beast]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore                   = 1 [[face-up]] monster on your [[field]] gains 500 [[ATK]] until the end of this [[turn]]. Then, if this card is in [[Maximum Mode]], inflict 500 [[Effect damage|damage]] to your opponent.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 「ハーピィ三姉妹［Ｌ］」「ハーピィ三姉妹［Ｒ］」と揃えてマキシマム召喚できる。
+  | ja_requirement         = 自分の墓地のモンスター（風属性／鳥獣族）２体をデッキに戻して発動できる。
+  | ja_lore                = 自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで５００アップする。このカードがマキシマムモードの場合、さらに相手に５００ダメージを与える。
   | jp_sets                = 
   RD/TB01-JP002; Triple Build Pack: Godbreath Wing; Super Rare, Over Rush Rare
   | supports               = 
@@ -31,6 +31,5 @@ wikitext: |-
   | stat_change            = Your monsters gain ATK
   | life_points            = Damages your opponent
   | misc                   = Requires Maximum Mode
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 19097
   }}

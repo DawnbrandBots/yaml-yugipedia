@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name          = {{Ruby|幻|げん}}{{Ruby|刃|ば}}{{Ruby|歩|ほ}}{{Ruby|哨|しょう}}ドラグライン
   | romaji_name      = Genbahoshō Doragurain
   | trans_name       = Mythic Sword Sentry Dragline
-  | image            = ConstructorSentryDragline-RDTB01-JP-OP.png
+  | image            = ConstructorSentryDragline-RDTB01-JP-SR.png
   | attribute        = EARTH
   | types            = Wyrm / Effect
   | level            = 4
@@ -14,10 +14,10 @@ wikitext: |-
   | def              = 1300
   | requirement      = [[Shuffle]] 3 [[Wyrm]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = [[Special Summon]] 1 [[Level]] 8 Wyrm Type monster from your Graveyard [[face-up]] to your [[field]]. Then, if you Special Summoned "[[Constructor Wyrm Buildragon]]" by this [[effect]], you can [[Add a card|add]] 1 Wyrm Type monster with 0 [[DEF]] from your Graveyard to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の墓地のモンスター（幻竜族）３体をデッキに戻して発動できる。
+  | ja_lore          = 自分の墓地のモンスター（レベル８／幻竜族）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で「幻刃竜ビルド・ドラゴン」を特殊召喚した場合、さらに自分の墓地のモンスター（幻竜族／守備力０）１体を選んで手札に加える事ができる。
   | jp_sets          = 
-  RD/TB01-JP042; Triple Build Pack: Godbreath Wing; Super Rare
+  RD/TB01-JP042; Triple Build Pack: Godbreath Wing; Super Rare, Secret Rare
   | supports         = 
   * Wyrm
   * Constructor Wyrm Buildragon
@@ -27,6 +27,5 @@ wikitext: |-
   * Adds from Graveyard to hand
   | summoning        = Special Summons from your Graveyard
   | misc             = Requires control of specific card
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19126
   }}
