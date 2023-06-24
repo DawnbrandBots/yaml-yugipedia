@@ -1,7 +1,6 @@
 title: Nightmare Magician
 wikitext: |-
-  {{Not archetype member|Magician (archetype)|{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}}}
-  {{Unofficial lore|English}}
+  {{Not archetype member|Magician|{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -21,7 +20,7 @@ wikitext: |-
   | def                   = 2000
   | password              = 40221691
   | effect_types          = Continuous, Trigger, Trigger
-  | lore                  = If this card [[battle]]s a [[monster]], neither monster can be destroyed by that battle. At the end of the [[Damage Step]], if this card battled an opponent's monster: You can take control of that opponent's monster. [[Once per turn]], at the start of the Damage Step, if another monster [[attack]]s: You can destroy 1 card on the [[field]].
+  | lore                  = If this card [[battle]]s a [[monster]], neither can be destroyed by that battle. At the end of the [[Damage Step]], if this card battled an opponent's monster: You can take control of that opponent's monster. [[Once per turn]], at the start of the Damage Step, if another monster [[attack]]s: You can destroy 1 card on the [[field]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,9 +28,24 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動できる。その相手モンスターのコントロールを得る。③：１ターンに１度、このカード以外のモンスターが攻撃するダメージステップ開始時に発動できる。フィールドのカード１枚を破壊する。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN025; Duelist Nexus; Secret Rare
+  | fr_sets               = 
+  DUNE-FR025; Duelist Nexus; Secret Rare
+  | de_sets               = 
+  DUNE-DE025; Duelist Nexus; Secret Rare
+  | it_sets               = 
+  DUNE-IT025; Duelist Nexus; Secret Rare
+  | pt_sets               = 
+  DUNE-PT025; Duelist Nexus; Secret Rare
+  | sp_sets               = 
+  DUNE-SP025; Duelist Nexus; Secret Rare
   | jp_sets               = 
   DUNE-JP025; Duelist Nexus; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   DUNE-JP025; Duelist Nexus +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | kr_sets               = 
+  DUNE-KR025; Duelist Nexus; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
+  DUNE-KR025; Duelist Nexus +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | action                = Changes control
   | m/s/t                 = 
   * Destroys Monster Cards
