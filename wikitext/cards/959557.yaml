@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = AbsolutePowerforce-SD46-JP-OP.png
+  | image                 = AbsolutePowerforce-SD46-JP-NPR.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 51779204
   | effect_types          = Effect
   | lore                  = [[Target]] 1 "[[Red Dragon Archfiend]]" you [[control]]; if it [[battle]]s an opponent's monster this [[turn]] while you control it, apply these [[effect]]s until the end of the [[Damage Step]].<br />● It gains 1000 [[ATK]].<br />● Your opponent cannot [[activate]] cards or effects.<br />● If it [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.<br />● Any [[battle damage]] your opponent takes from that battle is doubled.
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = ①：自分フィールドの「レッド・デーモンズ・ドラゴン」１体を対象として発動できる。このターン、その自分のモンスターが相手モンスターと戦闘を行う場合、ダメージステップ終了時まで以下の効果を適用する。<br />●対象のモンスターの攻撃力は１０００アップする。<br />●相手は魔法・罠・モンスターの効果を発動できない。<br />●対象のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。<br />●その戦闘で発生する相手への戦闘ダメージは倍になる。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  SD46-JP025; Structure Deck: Pulse of the King; 
+  SD46-JP025; Structure Deck: Pulse of the King; Normal Parallel Rare
   | mentions              = Red Dragon Archfiend
   | archseries            = Signature move
   | related_to_archseries = 
@@ -42,10 +42,7 @@ wikitext: |-
   * Prevents activation of your opponent's Trap Cards
   | attack                = Piercing
   | life_points           = Increases battle damage
-  | misc                  = 
-  * Requires control of specific card
-  * Variable effects
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | misc                  = Requires control of specific card
+  | database_id           = 19017
   | tcg_status            = Not yet released
   }}
