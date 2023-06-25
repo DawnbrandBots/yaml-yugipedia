@@ -69,7 +69,9 @@ wikitext: |-
   * Dark Magic Attack
   * Thousand Knives
   | related_to_archseries = Dark Magician (archetype)
-  | action                = Adds from Deck to hand
+  | action                = 
+  * Activates if it leaves the field
+  * Adds from Deck to hand
   | m/s/t                 = 
   * Unaffected by the opponent's card effects
   * Destroys your Monster Cards
@@ -77,6 +79,7 @@ wikitext: |-
   * Special Summons from your hand
   * Special Summons from your Graveyard
   | misc                  = 
+  * Requires control of specific card
   * Only once per turn
   * Variable effects
   | database_id           = 11672
