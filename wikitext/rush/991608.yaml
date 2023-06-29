@@ -12,13 +12,21 @@ wikitext: |-
   | atk              = 2500
   | def              = 1500
   | requirement      = During the [[turn]] you [[Normal Summon]]ed this card by [[Tribute|Tributing]] "[[Jointech Ace]]", [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card gains 1500 [[ATK]] until the end of this turn. Then, you can [[Add a card|add]] 1 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = This card gains 1500 [[ATK]] until the end of this turn. Then, you can [[Add a card|add]] 1 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your Graveyard to your [[hand]].
+  | ja_requirement   = 「ジョインテック・エース」をリリースしてこのカードを召喚したターンに、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このカードの攻撃力はターン終了時まで１５００アップする。その後、自分の墓地のモンスター（地属性／機械族）１体を選んで手札に加える事ができる。
   | jp_sets          = 
   RD/KP14-JP008; Phoenix of the Roaring Flame; Rare
   | mentions         = Jointech Ace
+  | supports         = 
+  * EARTH
+  * Machine
   | archseries       = Jointech
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change      = This card gains ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
