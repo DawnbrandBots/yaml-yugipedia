@@ -20,7 +20,7 @@ wikitext: |-
   | password              = 97864322
   | materials             = 1 Level 9 "Infernoble Knight Emperor Charles" equipped with an Equip Card
   | effect_types          = Trigger, Quick
-  | lore                  = 1 [[Level]] 9 "[[Infernoble Knight Emperor Charles]]" equipped with an Equip Card<br />If this card is [[Link Summon]]ed: You can [[target]] 1 "Infernoble Knight Emperor Charles" in your [[GY]]; this card's name becomes that monster's original name, and replace this [[effect]] with that monster's original effects, then [[equip]] it to this card as an [[Equip Spell]] that gives it 500 [[ATK]]. [[Once per turn]], when a [[Spell]]/[[Trap Card]] or effect is activated ([[Quick Effect]]): You can [[send]] 1 [[Equip Spell]] from your [[hand]] or [[face-up]] [[field]] to the GY; [[negate]] the activation, and if you do, [[destroy]] that card.
+  | lore                  = 1 [[Level]] 9 "[[Infernoble Knight Emperor Charles]]" equipped with an Equip Card<br />If this card is [[Link Summon]]ed: You can [[target]] 1 "Infernoble Knight Emperor Charles" in your [[GY]]; this card's name becomes that monster's original name, and replace this [[effect]] with that monster's original effects, then [[equip]] it to this card as an [[Equip Spell Card|Equip Spell]] that gives it 500 [[ATK]]. [[Once per turn]], when a [[Spell Card|Spell]]/[[Trap Card]] or effect is activated ([[Quick Effect]]): You can [[send]] 1 Equip Spell from your [[hand]] or [[face-up]] [[field]] to the GY; [[negate]] the activation, and if you do, [[destroy]] that card.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -32,7 +32,9 @@ wikitext: |-
   DUNE-JP048; Duelist Nexus; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   DUNE-JP048; Duelist Nexus +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | mentions              = Infernoble Knight Emperor Charles
-  | supports              = Equip Spell
+  | supports              = 
+  * Equip Card
+  * Equip Spell Card
   | related_to_archseries = 
   * Infernoble Knight
   * Noble Knight
