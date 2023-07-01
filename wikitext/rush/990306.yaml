@@ -12,8 +12,8 @@ wikitext: |-
   | def              = 1000
   | requirement      = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | lore             = 1 [[face-up]] [[Monster Card|monster]] on your [[field]] gains [[ATK]] equal to [the number of face-up [[Dragon]] [[Type]] [[Normal Monster]]s on your field] x 400 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 手札１枚を墓地へ送って発動できる。
+  | ja_lore          = 自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドの表側表示の通常モンスター（ドラゴン族）の数］×４００アップする。
   | jp_sets          = 
   RD/B232-JP008; Battle Pack 2023 Vol.2; Common
   | supports         = 
@@ -24,6 +24,5 @@ wikitext: |-
   | misc             = 
   * Requires control of specific Type
   * Requires control of specific Monster type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id      = 19268
   }}
