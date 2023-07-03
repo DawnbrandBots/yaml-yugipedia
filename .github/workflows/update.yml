@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 name: Update wikitext from Yugipedia with recent changes
 
@@ -49,10 +49,10 @@ jobs:
       #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - id: commit
         uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
-        if: ${{ always() }}
+        if: always()
         with:
           message: "Yugipedia recent changes: ${{ github.run_number }} (${{ github.run_id }})"
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         name: Trigger yaml-yugi workflow
         env:
           GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
