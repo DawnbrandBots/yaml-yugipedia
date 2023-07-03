@@ -121,7 +121,7 @@ wikitext: |-
   | gx1_dp                = 1000
   | gx1_number            = 0127
   | action                = 
-  * Returns itself from Graveyard to Deck
+  * Places itself from the player's Graveyard on the top of the Deck
   * Activates from your Graveyard
   | stat_change           = Equipped gains ATK
   | life_points           = Pays Life Points for cost

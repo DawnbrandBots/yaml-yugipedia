@@ -66,7 +66,7 @@ wikitext: |-
   * Sends from hand to Graveyard for cost
   * Sends from Deck to Graveyard for cost
   * Returns itself from hand to Deck
-  * Returns itself from Graveyard to Deck
+  * Places itself from the player's Graveyard on the bottom of the Deck
   * You draw cards
   | stat_change           = 
   * Changes own name while on the field
