@@ -41,12 +41,14 @@ jobs:
       #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Duel_Links_Skills" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - working-directory: wikitext/rush
         run: python3 ../../src/incremental.py Rush_Duel_cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      # - working-directory: wikitext/speed
-      #   run: python3 ../../src/incremental.py Skill_Cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      # - working-directory: wikitext/archetypes
-      #   run: python3 ../../src/incremental.py TCG_and_OCG_archetypes "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
-      # - working-directory: wikitext/master-duel-cards
-      #   run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/speed
+        run: python3 ../../src/incremental.py Skill_Cards "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/archetypes
+        run: python3 ../../src/incremental.py TCG_and_OCG_archetypes "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/master-duel-cards
+        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/master-duel-limit-regulation
+        run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - id: commit
         uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
         if: always()
