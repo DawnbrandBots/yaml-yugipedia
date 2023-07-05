@@ -10,13 +10,14 @@ but most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
 
 The categories being downloaded are
 - [Duel Monsters cards](https://yugipedia.com/wiki/Category:Duel_Monsters_cards): [`/wikitext/cards`](/wikitext/cards)
-- [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards): [`/wikitext/duel-links-cards`](/wikitext/duel-links-cards)
-- [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills): [`/wikitext/duel-links-skills`](/wikitext/duel-links-skills)
 - [Rush Duel cards](https://yugipedia.com/wiki/Category:Rush_Duel_cards): [`/wikitext/rush`](/wikitext/rush)
 - [Skill Cards](https://yugipedia.com/wiki/Category:Skill_Cards): [`/wikitext/speed`](/wikitext/speed)
-- [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg) (to be replaced by the official sources if possible)
-- [TCG_and_OCG_archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes): [`/wikitext/archetypes`](/wikitext/archetypes)
-- [Yu-Gi-Oh!_Master_Duel_cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards): [`/wikitext/master-duel-cards`](/wikitext/master-duel-cards)
+- [TCG and OCG archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes): [`/wikitext/archetypes`](/wikitext/archetypes)
+- [Yu-Gi-Oh! Master Duel cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards): [`/wikitext/master-duel-cards`](/wikitext/master-duel-cards)
+- [Yu-Gi-Oh! Master Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists): [`/wikitext/master-duel-limit-regulation`](/wikitext/master-duel-limit-regulation)
+- ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards): [`/wikitext/duel-links-cards`](/wikitext/duel-links-cards)
+- ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills): [`/wikitext/duel-links-skills`](/wikitext/duel-links-skills)
+- NOT UPDATING: [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg)
 
 The remaining files — the actual source code of this stage of the pipeline — are available under the
 GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)

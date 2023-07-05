@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 name: Download wikitext from Yugipedia
 
@@ -31,6 +31,6 @@ jobs:
           cd "wikitext/${{ github.event.inputs.subdirectory }}" \
           && python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
       - uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
-        if: ${{ always() }}
+        if: always()
         with:
           message: "Yugipedia download ${{ github.run_number }} (${{ github.run_id }}): ${{ github.event.inputs.category }}"
