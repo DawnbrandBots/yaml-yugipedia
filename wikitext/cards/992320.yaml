@@ -31,8 +31,22 @@ wikitext: |-
   | jp_sets               = 
   AGOV-JP008; Age of Overlord; 
   | mentions              = Snake-Eye Oark
+  | supports              = FIRE
   | archseries            = Snake-Eye
   | supports_archetypes   = Snake-Eye
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds banished cards to the hand
+  * Adds from Graveyard to hand
+  * Sends itself from field to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | summoning             = 
+  * Special Summons the player's banished monsters
+  * Special Summons from your Graveyard
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

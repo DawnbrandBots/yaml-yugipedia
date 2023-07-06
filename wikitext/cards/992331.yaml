@@ -27,8 +27,27 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP056; Age of Overlord; 
+  | supports              = 
+  * FIRE
+  * Continuous Spell Cards
+  | anti-supports         = Continuous Spell Cards
   | archseries            = Snake-Eye
   | supports_archetypes   = Snake-Eye
+  | action                = 
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from your hand in your opponent's Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = Treats monsters as Continuous Spell Cards
+  | summoning             = 
+  * Special Summons from your Spell & Trap Zone
+  * Special Summons from your opponent's Spell & Trap Zone to your field
+  | misc                  = 
+  * Limited activations
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

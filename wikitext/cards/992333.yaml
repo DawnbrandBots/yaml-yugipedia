@@ -28,12 +28,23 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP057; Age of Overlord; 
+  | supports              = FIRE
   | archseries            = 
   * Snake-Eye
   * Tainted Treasure
   | supports_archetypes   = 
   * Diabellestarr
   * Snake-Eye
+  | action                = 
+  * Sends from field to Graveyard for cost
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
