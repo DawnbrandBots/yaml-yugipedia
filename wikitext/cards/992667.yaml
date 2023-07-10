@@ -30,8 +30,27 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP031; Age of Overlord; 
-  | archseries            = Earthbound
+  | supports              = 
+  * DARK
+  * Synchro Monster
+  | archseries            = 
+  * Earthbound
+  * Earthbound Servant
   | supports_archetypes   = Earthbound
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if destroyed by card effect
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack                = Allows direct attacks
+  | life_points           = Damages your opponent
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
