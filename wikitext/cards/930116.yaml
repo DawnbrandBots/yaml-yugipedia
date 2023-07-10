@@ -1,7 +1,5 @@
 title: Altergeist Malwisp
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +18,7 @@ wikitext: |-
   | def                   = 0
   | password              = 27132400
   | effect_types          = Trigger, Trigger, Condition
-  | lore                  = If this card is [[Add a card|added]] to your [[hand]], except by drawing it: You can [[Special Summon]] it. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[target]] 1 "[[Altergeist]]" [[monster]] in your [[GY]], except "Altergeist Malwisp"; Special Summon it in [[Defense Position]], but it cannot [[activate]] its [[effect]]s this [[turn]]. You can only use each [[effect]] of "Altergeist Malwisp" [[once per turn]].
+  | lore                  = If this card is [[Add a card|added]] to your [[hand]], except by drawing it: You can [[Special Summon]] it. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[target]] 1 "[[Altergeist]]" [[monster]] in your [[GY]], except "Altergeist Malwisp"; Special Summon it in [[Defense Position]], but for the rest of this [[turn]], it cannot [[activate]] its [[effect]]s. You can only use each [[effect]] of "Altergeist Malwisp" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +26,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがドロー以外の方法で手札に加わった場合に発動できる。このカードを特殊召喚する。②：このカードが召喚・特殊召喚した場合、「オルターガイスト・マルウィスプ」以外の自分の墓地の「オルターガイスト」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。このターン、この効果で特殊召喚したモンスターの効果は発動できない。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN009; Duelist Nexus; 
+  | fr_sets               = 
+  DUNE-FR009; Duelist Nexus; 
+  | de_sets               = 
+  DUNE-DE009; Duelist Nexus; 
+  | it_sets               = 
+  DUNE-IT009; Duelist Nexus; 
+  | pt_sets               = 
+  DUNE-PT009; Duelist Nexus; 
+  | sp_sets               = 
+  DUNE-SP009; Duelist Nexus; 
   | jp_sets               = 
   DUNE-JP009; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR009; Duelist Nexus; Common
   | archseries            = Altergeist
   | supports_archetypes   = Altergeist
   | action                = 

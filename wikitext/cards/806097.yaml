@@ -1,7 +1,5 @@
-title: The Noble Arms Museum
+title: Noble Arms Museum
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,12 @@ wikitext: |-
   | trans_name            = The Great Holy Sword Museum
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TheNobleArmsMuseum-DUNE-JP-C.png
+  | image                 = NobleArmsMuseum-DUNE-JP-C.png
   | card_type             = Spell
   | property              = Field
   | password              = 25807544
   | effect_types          = Continuous-like, Ignition-like, Ignition-like
-  | lore                  = [[FIRE]] [[Warrior]] [[monsters]] you [[control]] gain 500 [[ATK]]. [[Once per turn]]: You can pay 1200 [[LP]]; [[Add a card|add]] 1 "[[Noble Arms]]" card from your [[Main Deck|Deck]] to your [[hand]], except "The Noble Arms Museum". Once per turn, if this effect was applied this [[turn]]: You can [[target]] 1 "[[Noble Knight]]" Monster Card in your [[Spell & Trap Zone]]; [[Special Summon]] it, also, if you did not control "[[Infernoble Knight Emperor Charles]]" at activation, you cannot Special Summon monsters for the rest of this turn, except Warrior monsters.
+  | lore                  = All [[FIRE]] [[Warrior]] [[monsters]] you [[control]] gain 500 [[ATK]]. [[Once per turn]]: You can pay 1200 [[LP]]; [[Add a card|add]] 1 "[[Noble Arms]]" card from your [[Main Deck|Deck]] to your [[hand]], except "Noble Arms Museum". Once per turn, if the previous [[effect]] was applied this [[turn]]: You can [[target]] 1 "[[Noble Knight]]" Monster Card in your [[Spell & Trap Zone]]; [[Special Summon]] it, also, if you [[activate]]d this effect while you did not control "[[Infernoble Knight Emperor Charles]]", you cannot Special Summon monsters for the rest of this turn, except Warrior monsters.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,9 +24,25 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：自分フィールドの戦士族・炎属性モンスターの攻撃力は５００アップする。②：１ターンに１度、１２００ＬＰを払って発動できる。デッキから「大聖剣博物館」以外の「聖剣」カード１枚を手札に加える。③：このカードの②の効果を適用したターンに１度、自分の魔法＆罠ゾーンの「聖騎士」モンスターカード１枚を対象として発動できる。そのカードを特殊召喚する。自分フィールドに「焔聖騎士帝－シャルル」が存在しない状態でこの効果を発動した場合、ターン終了時まで自分は戦士族モンスターしか特殊召喚できない。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
+  | fr_sets               = 
+  DUNE-FR057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  DUNE-DE057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  DUNE-IT057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  DUNE-PT057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  DUNE-SP057; Duelist Nexus; Ultra Rare, Quarter Century Secret Rare
   | jp_sets               = 
   DUNE-JP057; Duelist Nexus; Common
-  | mentions              = Infernoble Knight Emperor Charles
+  | kr_sets               = 
+  DUNE-KR057; Duelist Nexus; Common
+  | mentions              = 
+  * Infernoble Knight Emperor Charles
+  * Noble Arms Museum
   | supports              = 
   * FIRE
   * Warrior
