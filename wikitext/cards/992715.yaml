@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = メメント・フラクチャー・ダンス
-  | romaji_name           = 
+  | romaji_name           = Memento Furakuchā Dansu
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -32,6 +32,19 @@ wikitext: |-
   | mentions              = Mementoral Tectolica, the Netherskull Dragon
   | archseries            = Memento
   | supports_archetypes   = Memento
+  | action                = 
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | stat_change           = Your opponent's monsters lose ATK
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
