@@ -12,14 +12,19 @@ wikitext: |-
   | level                 = 4
   | atk                   = 1000
   | def                   = 1300
-  | requirement           = You have 3 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] in your [[Graveyard]] during your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed.
+  | requirement           = You have 3 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]] during your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed.
   | lore                  = [[Add a card|Add]] 1 "[[Galactica Xiphos]]" from your Graveyard to your [[hand]].
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分の墓地にモンスター（ギャラクシー族）が３体以上いる場合、このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_lore               = 自分の墓地の「ギャラクティカ・サイフォス」１枚を選んで手札に加える。
   | jp_sets               = 
   RD/KP14-JP038; Phoenix of the Roaring Flame; Common
   | mentions              = Galactica Xiphos
+  | supports              = Galaxy (Type)
   | related_to_archseries = Galactica
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
   | rush_duel_status      = Not yet released
   | database_id           = 
   }}
