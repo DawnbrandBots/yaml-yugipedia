@@ -30,8 +30,32 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   SR14-JP001; Structure Deck R: Onslaught of the Fire Kings; Ultra Rare
-  | supports              = FIRE
+  | mentions              = Sacred Fire King Garunix
+  | supports              = 
+  * FIRE
+  * Beast
+  * Beast-Warrior
+  * Winged Beast
   | archseries            = Fire King
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys hand
+  * Destroys Main Deck
+  * Destroys your face-up Monster Cards
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

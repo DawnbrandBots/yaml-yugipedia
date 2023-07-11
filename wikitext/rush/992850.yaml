@@ -8,12 +8,18 @@ wikitext: |-
   | image            = AutomaticAccidentPrevention-RDKP14-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Draw a card|draw]]s for their [[normal draw]] in their [[Draw Phase]] while you have 2 or more cards in your hand.
-  | lore             = [[Draw a card|Draw]] 2 cards. Then, you can [[Special Summon]] up to 3 [[monsters]] from your [[hand]] to your [[field]] in [[face-down]] [[Defense Position]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = When your opponent [[Draw a card|draw]]s for their [[normal draw]] in their [[Draw Phase]] while you have 2 or more cards in your [[hand]].
+  | lore             = Draw 2 cards. Then, you can [[Special Summon]] up to 3 [[Monster Card|monster]]s from your hand to your [[field]] in [[face-down]] [[Defense Position]].
+  | ja_requirement   = 相手がドローフェイズに通常のドローをした時、自分の手札が２枚以上の場合に発動できる。
+  | ja_lore          = 自分は２枚ドローする。その後、手札のモンスターを３体まで自分フィールドに裏側守備表示で特殊召喚できる。
   | jp_sets          = 
   RD/KP14-JP066; Phoenix of the Roaring Flame; Rare
+  | action           = 
+  * Activates if your opponent draws a card
+  * You draw cards
+  | summoning        = 
+  * Special Summons from your hand
+  * Special Summons face-down
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
