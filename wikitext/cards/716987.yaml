@@ -1,7 +1,5 @@
 title: Synchro World
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -16,8 +14,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Field
   | password              = 36742774
-  | effect_types          = Continuous-like, Ignition-like, Trigger-like
-  | lore                  = Each time a [[monster]](s) is [[Synchro Summon]]ed, place 2 [[Signal Counter]]s on this card. You can remove 4, 7, or 10 Signal Counters from your [[field]] to activate 1 of these [[effect]]s;<br />● 4: Increase or reduce the Level of 1 [[face-up]] monster you [[control]] by 1.<br />● 7: [[Special Summon]] 1 Tuner from your [[GY]].<br />● 10: Special Summon 1 [[Synchro Monster]] from your GY.<br />If this card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 "[[Crimson Dragon (card)|Crimson Dragon]]" from your [[Extra Deck]].
+  | effect_types          = Continuous-like, Trigger-like, Ignition-like
+  | lore                  = Each time a [[monster]] is [[Synchro Summon]]ed, place 2 [[Signal Counter]]s on this card. If this card in its [[owner]]'s [[control]] is [[destroy]]ed by an opponent's card [[effect]]: You can [[Special Summon]] 1 "[[Crimson Dragon (card)|Crimson Dragon]]" from your [[Extra Deck]]. You can remove 4, 7, or 10 Signal Counters from your [[field]]; apply the appropriate effect.<br />● 4: Increase or decrease the Level of 1 [[face-up]] monster you control by 1.<br />● 7: Special Summon 1 Tuner from your [[GY]].<br />● 10: Special Summon 1 [[Synchro Monster]] from your GY.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：モンスターがＳ召喚される度にこのカードにシグナルカウンターを２つ置く。②：自分フィールドのシグナルカウンターを以下の数だけ取り除き、その効果を発動できる。●４：自分フィールドの表側表示モンスター１体のレベルを１つ上げるか下げる。●７：自分の墓地からチューナー１体を特殊召喚する。●１０：自分の墓地からＳモンスター１体を特殊召喚する。③：フィールドのこのカードが相手の効果で破壊された場合に発動できる。ＥＸデッキから「赤き竜」１体を特殊召喚する。
   | ko_lore               = 
+  | en_sets             = 
+  DUNE-EN051; Duelist Nexus; 
+  | fr_sets             = 
+  DUNE-FR051; Duelist Nexus; 
+  | de_sets             = 
+  DUNE-DE051; Duelist Nexus; 
+  | it_sets             = 
+  DUNE-IT051; Duelist Nexus; 
+  | pt_sets             = 
+  DUNE-PT051; Duelist Nexus; 
+  | sp_sets             = 
+  DUNE-SP051; Duelist Nexus; 
   | jp_sets               = 
   DUNE-JP051; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR051; Duelist Nexus; Common
   | mentions              = Crimson Dragon (card)
   | supports              = 
   * Tuner monster
