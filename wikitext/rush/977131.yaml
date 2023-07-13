@@ -3,19 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
-  | ja_name          = {{Ruby|射|しゃ}}{{Ruby|出|しゅつ}}のカタパルト・タートル 
-  | romaji_name      = Shashutsu no Kataparuto Tātoru
-  | image            = LauncherCatapultTurtle-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = [TBA]
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP14-JP0??; Phoenix of the Roaring Flame; 
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | ja_name                = {{Ruby|射|しゃ}}{{Ruby|出|しゅつ}}のカタパルト・タートル 
+  | romaji_name            = Shashutsu no Kataparuto Tātoru
+  | image                  = LauncherCatapultTurtle-RDKP14-JP-OP.png
+  | attribute              = WATER
+  | types                  = Aqua / Effect
+  | level                  = 5
+  | atk                    = 1000
+  | def                    = 2000
+  | summoning_condition    = If you have no [[Attack Position]] [[monsters]] on your [[field]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your field.
+  | requirement            = [[Send]] 1 face-up [[Fusion Monster]] from your field to the [[Graveyard]].
+  | lore                   = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field. Then, if you have "[[Gaia the Dragon Champion (Rush Duel)|Gaia the Dragon Champion]]" in your Graveyard, you can destroy 1 card on your opponent's field.
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP14-JP030; Phoenix of the Roaring Flame; Common
+  | mentions               = Gaia the Dragon Champion (Rush Duel)
+  | rush_duel_status       = Not yet released
+  | database_id            = 
   }}
