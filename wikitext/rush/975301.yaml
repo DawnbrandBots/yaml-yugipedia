@@ -12,16 +12,29 @@ wikitext: |-
   | level                  = 7
   | atk                    = 2300
   | def                    = 2100
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[face-up]] [[Level]] 5 or higher [[monster]].
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[face-up]] [[Level]] 5 or higher [[Monster Card|monster]].
   | requirement            = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                   = This card's name becomes "[[Gaia The Fierce Knight (Rush Duel)|Gaia The Fierce Knight]]" this [[turn]]. Then, you can [[Fusion Summon]] by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as [[material]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | lore                   = This card's name becomes "[[Gaia The Fierce Knight (Rush Duel)|Gaia The Fierce Knight]]" this [[turn]]. Then, you can [[Fusion Summon]] by [[Shuffle|shuffling]] this card from your [[field]] and 1 monster from your field or Graveyard into the [[owner]]'s Deck as [[material]].
+  | ja_summoning_condition = このカードは表側表示モンスター（レベル５以上）１体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement         = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore                = このカードのカード名はこのターン、「暗黒騎士ガイア」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
   | jp_sets                = 
   RD/KP14-JP032; Phoenix of the Roaring Flame; Super Rare, Secret Rare
   | mentions               = Gaia The Fierce Knight (Rush Duel)
   | archseries             = Gaia (series)
+  | action                 = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  | stat_change            = Changes own name while on the field
+  | summoning              = 
+  * Normal Summon with 1 Tribute
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                   = Requires control of specific Level
   | rush_duel_status       = Not yet released
   | database_id            = 
   }}

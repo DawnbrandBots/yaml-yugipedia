@@ -1,7 +1,5 @@
 title: Purrely Sharely!?
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 10780049
   | effect_types          = Effect
-  | lore                  = [[Target]] 1 "[[Purrely]]" [[Xyz Monster]] you [[control]]; [[Special Summon]] 1 [[Level]] 1 "Purrely" [[monster]] from your [[Main Deck|Deck]] (but [[negate]] its effects), and if you do, Special Summon from your [[Extra Deck]], 1 "Purrely" Xyz Monster with the same [[Rank]] as the targeted monster but a different [[Attribute]], by using the Summoned monster as [[material]] (this is treated as an [[Xyz Summon]]), then you can apply this [[effect]].<br />● [[Attach]] to the Xyz Summoned monster as material, 1 card from your Deck with the same name as a "Purrely" Quick-Play Spell attached to the targeted monster.
+  | lore                  = [[Target]] 1 "[[Purrely]]" [[Xyz Monster]] you [[control]]; [[Special Summon]] 1 [[Level]] 1 "Purrely" [[monster]] from your [[Main Deck|Deck]], but [[negate]] its effects, then Special Summon from your [[Extra Deck]], 1 "Purrely" Xyz Monster with the same [[Rank]] but a different [[Attribute]] than the targeted monster, by using that Special Summoned monster as [[material]]. (This is treated as an [[Xyz Summon]].) Then, you can [[attach]] 1 card from your Deck to that Xyz Summoned monster, with the same name as a "Purrely" Quick-Play Spell attached to the targeted monster.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：自分フィールドの「ピュアリィ」Ｘモンスター１体を対象として発動できる。デッキからレベル１の「ピュアリィ」モンスター１体を効果を無効にして特殊召喚し、対象のモンスターとは属性が異なり、ランクが同じ「ピュアリィ」Ｘモンスター１体をその特殊召喚したモンスターの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚する。その後、以下の効果を適用できる。<br />●対象のモンスターがＸ素材としている「ピュアリィ」速攻魔法カードの同名カード１枚をデッキから選び、そのＸ召喚したモンスターのＸ素材とする。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN075; Duelist Nexus; 
+  | fr_sets               = 
+  DUNE-FR075; Duelist Nexus; 
+  | de_sets               = 
+  DUNE-DE075; Duelist Nexus; 
+  | it_sets               = 
+  DUNE-IT075; Duelist Nexus; 
+  | pt_sets               = 
+  DUNE-PT075; Duelist Nexus; 
+  | sp_sets               = 
+  DUNE-SP075; Duelist Nexus; 
   | jp_sets               = 
   DUNE-JP075; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR075; Duelist Nexus; Common
   | supports              = 
   * Xyz Monster
   * Quick-Play Spell Card

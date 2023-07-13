@@ -28,9 +28,27 @@ wikitext: |-
   | jp_sets               = 
   AGOV-JP071; Age of Overlord; 
   | supports              = Xyz Monster
+  | anti-supports         = Xyz Monster
   | archseries            = 
   * Xyz (archetype)
   * Armored Xyz (archetype)
+  | action                = 
+  * Activates from your Graveyard
+  * Equips monsters from the player's field
+  * Equips monsters from the player's Graveyard
+  * Grants effect to Equip Spell Card
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = 
+  * Treats monsters as Equip Cards
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  * Destroys itself
+  | summoning             = 
+  * Performs an Xyz Summon
+  * Special Summons from your Extra Deck
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Requires control of specific Monster card type
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

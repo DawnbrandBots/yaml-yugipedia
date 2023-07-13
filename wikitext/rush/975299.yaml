@@ -11,13 +11,29 @@ wikitext: |-
   | level                  = 5
   | atk                    = 2000
   | def                    = 1500
-  | summoning_condition    = If you have no [[monsters]] on your [[field]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your field.
+  | summoning_condition    = If you have no [[Monster Card|monster]]s on your [[field]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your field.
   | requirement            = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                   = This card's name becomes "[[Curse of Dragon (Rush Duel)|Curse of Dragon]]" this [[turn]]. Then, you can [[Fusion Summon]] by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as [[material]].
+  | lore                   = This card's name becomes "[[Curse of Dragon (Rush Duel)|Curse of Dragon]]" this [[turn]]. Then, you can [[Fusion Summon]] by [[Shuffle|shuffling]] this card from your field and 1 monster from your field or Graveyard into the [[owner]]'s Deck as [[material]].
+  | ja_summoning_condition = 自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement         = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore                = このカードのカード名はこのターン、「カース・オブ・ドラゴン」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
   | jp_sets                = 
   RD/KP14-JP031; Phoenix of the Roaring Flame; Super Rare, Secret Rare
   | mentions               = Curse of Dragon (Rush Duel)
   | archseries             = Gaia (series)
+  | action                 = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  | stat_change            = Changes own name while on the field
+  | summoning              = 
+  * Special Summons itself from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                   = Requires control of no monsters
   | rush_duel_status       = Not yet released
   | database_id            = 
   }}

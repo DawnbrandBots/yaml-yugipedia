@@ -30,6 +30,14 @@ wikitext: |-
   | supports              = Xyz Monster
   | archseries            = Xyz (archetype)
   | supports_archetypes   = Armored Xyz (archetype)
+  | action                = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Activates from your Graveyard
+  | stat_change           = Changes Levels
+  | summoning             = Special Summons from your Spell & Trap Zone
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
