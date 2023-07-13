@@ -1,6 +1,5 @@
-title: Egomorph
+title: Overexaggeration
 wikitext: |-
-  {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
@@ -13,12 +12,12 @@ wikitext: |-
   | trans_name            = Hyperbolizing
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = Egomorph-DUNE-JP-C.png
+  | image                 = Overexaggeration-DUNE-JP-C.png
   | card_type             = Spell
   | property              = Quick-Play
   | password              = 96352712
   | effect_types          = Effect, Condition
-  | lore                  = At the start of the [[Damage Step]], if a [[monster]] [[battle]]s another monster: [[Activate]] 1 of these [[effect]]s;<br />● Change the [[attack]]ing monster to [[Defense Position]].<br />● [[Return]] the [[attack target]] to the [[hand]].<br />● [[Destroy]] both battling monsters.<br />You can only activate 1 "Egomorph" per [[turn]].
+  | lore                  = At the start of the [[Damage Step]], if a [[monster]] [[battle]]s another monster: [[Activate]] 1 of these [[effect]]s;<br />● Change the [[attack]]ing monster to [[Defense Position]].<br />● [[Return]] the [[attack target]] to the [[hand]].<br />● [[Destroy]] both battling monsters.<br />You can only activate 1 "Overexaggeration" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +25,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：モンスター同士が戦闘を行うダメージステップ開始時に、以下の効果から１つを選択して発動できる。<br />●その攻撃モンスターを守備表示にする。<br />●その攻撃対象モンスターを手札に戻す。<br />●その戦闘を行うモンスター２体を破壊する。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN065; Duelist Nexus; 
+  | fr_sets               = 
+  DUNE-FR065; Duelist Nexus; 
+  | de_sets               = 
+  DUNE-DE065; Duelist Nexus; 
+  | it_sets               = 
+  DUNE-IT065; Duelist Nexus; 
+  | pt_sets               = 
+  DUNE-PT065; Duelist Nexus; 
+  | sp_sets               = 
+  DUNE-SP065; Duelist Nexus; 
   | jp_sets               = 
   DUNE-JP065; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR065; Duelist Nexus; Common
   | action                = 
   * Changes battle positions
   * Returns from field to hand

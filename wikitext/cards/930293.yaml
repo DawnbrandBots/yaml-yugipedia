@@ -1,6 +1,5 @@
-title: Pod of Greed
+title: Greed Jar
 wikitext: |-
-  {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
@@ -12,7 +11,7 @@ wikitext: |-
   | romaji_name           = Gōyoku na Poddo
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = PodofGreed-DUNE-JP-C.png
+  | image                 = GreedJar-DUNE-JP-C.png
   | attribute             = EARTH
   | types                 = Rock / Flip / Effect
   | level                 = 3
@@ -20,7 +19,7 @@ wikitext: |-
   | def                   = 800
   | password              = 76593718
   | effect_types          = Trigger, Condition
-  | lore                  = [[FLIP]]: Apply these [[effect]]s, in sequence.<br />● [[Excavate]] cards from the top of your [[Main Deck|Deck]], up to the number of cards your opponent [[control]]s, [[Add a card|add]] 1 excavated card to your [[hand]], also [[send]] the rest to the [[GY]].<br />● Send monsters from your [[Extra Deck]] to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.<br />You can only use this effect of "Pod of Greed" [[once per turn]].
+  | lore                  = [[FLIP]]: Apply these [[effect]]s, in sequence.<br />● [[Excavate]] cards from the top of your [[Main Deck|Deck]], up to the number of cards your opponent [[control]]s, [[Add a card|add]] 1 excavated card to your [[hand]], also [[send]] the rest to the [[GY]].<br />● Send monsters from your [[Extra Deck]] to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.<br />You can only use this effect of "Greed Jar" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,8 +27,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の効果は１ターンに１度しか使用できない。①：このカードがリバースした場合に発動する。以下の効果をそれぞれ適用する。<br />●相手フィールドのカードの数まで自分のデッキの上からカードをめくり、その中から１枚を選んで手札に加え、残りを墓地へ送る。<br />●ＥＸデッキから特殊召喚された相手フィールドのモンスターの数まで、自分のＥＸデッキからモンスターを墓地へ送る。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN029; Duelist Nexus; 
+  | fr_sets               = 
+  DUNE-FR029; Duelist Nexus; 
+  | de_sets               = 
+  DUNE-DE029; Duelist Nexus; 
+  | it_sets               = 
+  DUNE-IT029; Duelist Nexus; 
+  | pt_sets               = 
+  DUNE-PT029; Duelist Nexus; 
+  | sp_sets               = 
+  DUNE-SP029; Duelist Nexus; 
   | jp_sets               = 
   DUNE-JP029; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR029; Duelist Nexus; Common
   | archseries            = Jar
   | action                = 
   * Activates upon being flipped face-up
