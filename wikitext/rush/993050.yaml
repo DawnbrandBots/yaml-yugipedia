@@ -9,15 +9,17 @@ wikitext: |-
   | card_type        = Spell
   | property         = Field
   | requirement      = None
-  | lore             = While this card is [[face-up]] in the [[Field Zone]], face-up [[monsters]] on the [[field]] with 2100 [[original DEF]] gain 500 [[ATK]], and if "[[Gaia The Fierce Knight (Rush Duel)|Gaia The Fierce Knight]]" or "[[Gaia the Dragon Champion (Rush Duel)|Gaia the Dragon Champion]]" [[attack]]s a [[Defense Position]] monster, inflict piercing [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the attack target, inflict the difference).
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = While this card is [[face-up]] in the [[Field Zone]], face-up [[Monster Card|monster]]s on the [[field]] with 2100 [[Original ATK and DEF|original DEF]] gain 500 [[ATK]], and if "[[Gaia The Fierce Knight (Rush Duel)|Gaia The Fierce Knight]]" or "[[Gaia the Dragon Champion (Rush Duel)|Gaia the Dragon Champion]]" [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_requirement   = なし
+  | ja_lore          = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が２１００の表側表示モンスターの攻撃力は５００アップし、お互いの「暗黒騎士ガイア」「竜騎士ガイア」の攻撃は貫通する。
   | jp_sets          = 
   RD/KP14-JP053; Phoenix of the Roaring Flame; Common
   | mentions         = 
   * Gaia The Fierce Knight (Rush Duel)
   * Gaia the Dragon Champion (Rush Duel)
   | archseries       = Gaia (series)
+  | stat_change      = All monsters gain ATK
+  | attack           = Piercing
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
