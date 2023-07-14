@@ -3,19 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = {{Ruby|清|せい}}{{Ruby|浄|じょう}}の{{Ruby|蛇|へび}}{{Ruby|姫|ひめ}}
   | romaji_name      = Seijō no Hebihime
-  | image            = SnakePrincessofPurity-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = [TBA]
+  | image            = SnakePrincessofPurity-RDKP14-JP-OP.png
+  | attribute        = LIGHT
+  | types            = Reptile / Effect
+  | level            = 7
+  | atk              = 2500
+  | def              = 1500
+  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = 1 [[face-up]] [[monster]] on your opponent's [[field]] loses [[ATK]] equal to [the number of face-up [[LIGHT]] [[Attribute]] monsters on your field] x 600 until the end of this [[turn]]. Then, if you have 3 face-up monsters on your field, [[Draw a card|draw]] 1 card.
+  | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP14-JP0??; Phoenix of the Roaring Flame; 
+  RD/KP14-JP042; Phoenix of the Roaring Flame; Ultra Rare, Secret Rare, Over Rush Rare
   | rush_duel_status = Not yet released
   | database_id      = 
   }}
