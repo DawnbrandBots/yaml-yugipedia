@@ -28,8 +28,20 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP049; Age of Overlord; 
+  | supports              = Machine
   | archseries            = T.G.
   | supports_archetypes   = T.G.
+  | action                = 
+  * You discard for cost
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  * Adds from Graveyard to hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

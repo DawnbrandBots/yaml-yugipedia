@@ -28,8 +28,28 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP070; Age of Overlord; 
+  | supports              = 
+  * Machine
+  * Synchro Monster
+  | anti-supports         = Synchro Monster
   | archseries            = T.G.
   | supports_archetypes   = T.G.
+  | action                = 
+  * Activates from your Graveyard
+  * Activates if other cards are banished
+  * Sets itself from your Graveyard
+  | m/s/t                 = 
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  * Negates the activation of Effect Monster's effect
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys Monster Cards
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

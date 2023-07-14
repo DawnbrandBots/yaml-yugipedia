@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 4000
   | password              = 
   | effect_types          = Summoning condition, Quick, Condition, Trigger
-  | materials             = 1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters
+  | materials             = 1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
   | lore                  = 1 [[Tuner]] [[Synchro Monster]] + 2+ non-Tuner Synchro Monsters<br />Must be [[Synchro Summon]]ed. ([[Quick Effect]]): You can [[target]] 1 [[monster]] on the [[field]] [[Special Summon]]ed from the [[Extra Deck]]; [[banish]] it. This effect can be used a number of times per [[turn]] up to the number of non-Tuner Synchro Monsters used as Synchro Material for this card. [[Once per turn]], if a monster(s) is banished [[face-up]]: You can target 1 of them; Special Summon it to your field, [[ignoring its Summoning conditions]].
   | fr_lore               = 
   | de_lore               = 
@@ -35,6 +35,16 @@ wikitext: |-
   AGOV-JP036; Age of Overlord +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | supports              = Synchro Monster
   | archseries            = T.G.
+  | action                = Activates if other cards are banished
+  | summoning             = 
+  * Requires both Tuner and non-Tuner Synchro Monsters as Synchro Materials
+  * 2 or more non-Tuner Synchro Materials
+  * Nomi
+  * Special Summons the player's banished monsters
+  * Special Summons the opponent's banished monsters
+  * Ignoring the Summoning conditions
+  | banished              = Banishes from field
+  | misc                  = Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

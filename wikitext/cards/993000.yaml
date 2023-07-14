@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Quick, Condition, Trigger, Trigger
-  | materials             = 
+  | materials             = 1 Tuner + 1 non-Tuner monster
   | lore                  = 1 [[Tuner]] + 1 non-Tuner [[monster]]<br />[[Once per turn]], during your opponent's [[Main Phase]], you can ([[Quick Effect]]): Immediately after this [[effect]] [[resolve]]s, Synchro Summon using this card you [[control]]. You can only use each of the following effects of "T.G. Mighty Striker" once per turn. If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] 1 "[[T.G.]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is sent from the [[Monster Zone]] to the [[GY]]: You can [[send]] 1 "T.G." card from your Deck to the GY.
   | fr_lore               = 
   | de_lore               = 
@@ -35,6 +35,22 @@ wikitext: |-
   | supports              = Synchro Monster
   | archseries            = T.G.
   | supports_archetypes   = T.G.
+  | action                = 
+  * Uses itself as a Synchro Material
+  * Activates upon Synchro Summon
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  * Sends from your Deck to your Graveyard
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 non-Tuner Synchro Material
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Tuner Synchro Monster
+  * Limited activations
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
