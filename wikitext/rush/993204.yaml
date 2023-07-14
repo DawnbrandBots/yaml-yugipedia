@@ -11,13 +11,22 @@ wikitext: |-
   | level            = 7
   | atk              = 2300
   | def              = 1000
-  | requirement      = [[Shuffle]] 2 other [[face-up]] [[Reptile]] [[Type]] [[monsters]] from your [[field]] and 1 card from your [[hand]] into the [[owner]]'s [[Main Deck|Deck]].
+  | requirement      = [[Shuffle]] 2 other [[face-up]] [[Reptile]] [[Type]] [[Monster Card|monster]]s from your [[field]] and 1 card from your [[hand]] into the [[owner]]'s [[Main Deck|Deck]].
   | lore             = This card gains 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Special Summon]] up to 2 [[Level]] 7 or higher Reptile Type monsters from your hand and/or [[Graveyard]] face-up to your field.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = このカード以外の自分フィールドの表側表示モンスター（爬虫類族）２体と手札１枚を持ち主のデッキに戻して発動できる。
+  | ja_lore          = このカードの攻撃力はターン終了時まで３００アップする。その後、自分の手札・墓地のモンスター（レベル７以上／爬虫類族）を２体まで選んで自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/KP14-JP022; Phoenix of the Roaring Flame; Rare, Secret Rare
+  | supports         = Reptile
   | archseries       = Secret Investigator
+  | action           = 
+  * Returns from field to Deck for cost
+  * Returns from hand to Deck for cost
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

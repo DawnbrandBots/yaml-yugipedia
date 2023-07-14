@@ -1,7 +1,5 @@
 title: Vaylantz Wave - Master Phase
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 84281045
   | effect_types          = Trigger-like
-  | lore                  = [[Once per turn]], if a card in the [[Monster Zone]] moves to another Monster Zone (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s.<br />● All [[Level]] 5 or higher "[[Vaylantz]]" [[monsters]] you currently [[control]] gain 1200 [[ATK]] until the end of this [[turn]].<br />● [[Send]] this [[face-up]] card from your [[Spell & Trap Zone]] to the [[GY]], then [[target]] 1 [[Effect Monster]] in your opponent's [[Main Monster Zone]]; place that opponent's monster face-up as a [[Continuous Spell]] in their Spell & Trap Zone in its same [[column]]. (If the zone is occupied, destroy the occupying card.)
+  | lore                  = [[Once per turn]], if a card in the [[Monster Zone]] moves to another Monster Zone (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s.<br />● [[Level]] 5 or higher "[[Vaylantz]]" [[monsters]] you currently [[control]] gain 1200 [[ATK]] until the end of this [[turn]].<br />● [[Send]] this [[face-up]] card from the [[Spell & Trap Zone]] to the [[GY]], then [[target]] 1 [[Effect Monster]] in your opponent's [[Main Monster Zone]]; place that opponent's monster face-up as a [[Continuous Spell]] in their Spell & Trap Zone in its same [[column]]. (If the zone is occupied, destroy the occupying card.)
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,8 +24,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：１ターンに１度、モンスターゾーンのカードが他のモンスターゾーンに移動した場合、以下の効果から１つを選択して発動できる。●自分フィールドの全てのレベル５以上の「ヴァリアンツ」モンスターの攻撃力はターン終了時まで１２００アップする。●魔法＆罠ゾーンの表側表示のこのカードを墓地へ送り、相手のメインモンスターゾーンの効果モンスター１体を対象として発動できる。その相手モンスターをそれと同じ縦列の相手の魔法＆罠ゾーンに永続魔法カード扱いで表側表示で置く（置く先にあるカードは破壊される）。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN074; Duelist Nexus; Common
+  | fr_sets               = 
+  DUNE-FR074; Duelist Nexus; Common
+  | de_sets               = 
+  DUNE-DE074; Duelist Nexus; Common
+  | it_sets               = 
+  DUNE-IT074; Duelist Nexus; Common
+  | pt_sets               = 
+  DUNE-PT074; Duelist Nexus; Common
+  | sp_sets               = 
+  DUNE-SP074; Duelist Nexus; Common
   | jp_sets               = 
   DUNE-JP074; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR074; Duelist Nexus; Common
   | archseries            = Vaylantz
   | supports_archetypes   = Vaylantz
   | action                = 

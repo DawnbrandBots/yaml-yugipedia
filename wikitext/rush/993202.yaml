@@ -13,11 +13,18 @@ wikitext: |-
   | def              = 300
   | requirement      = If you have another [[face-up]] [[Reptile]] [[Type]] [[Monster Card|monster]] on your [[field]], [[pay]] 300 [[LP]].
   | lore             = [[Battle position change|Change]] 1 [[face-down]] [[Defense Position]] monster on either side of the field to face-up [[Attack Position]]. Then, this card loses 1300 [[ATK]] until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドにこのカード以外の表側表示モンスター（爬虫類族）がいる場合、３００ＬＰを払って発動できる。
+  | ja_lore          = 自分または相手フィールドの裏側表示モンスター１体を選んで表側攻撃表示にする。その後、このカードの攻撃力はターン終了時まで１３００ダウンする。
   | jp_sets          = 
   RD/KP14-JP021; Phoenix of the Roaring Flame; Common
+  | supports         = Reptile
   | archseries       = Secret Investigator
+  | action           = 
+  * Changes battle positions
+  * Flips monsters face-up
+  | stat_change      = This card loses ATK
+  | life_points      = Pays Life Points for cost
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

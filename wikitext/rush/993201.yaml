@@ -11,13 +11,16 @@ wikitext: |-
   | level            = 3
   | atk              = 1300
   | def              = 300
-  | requirement      = If your opponent has a [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]] on their [[field]], [[send]] 1 [[Level]] 3 or lower [[Reptile]] [[Type]] monster from your [[hand]] to the [[Graveyard]].
+  | requirement      = If your opponent has a [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]] on their [[field]], [[send]] 1 Level 3 or lower [[Reptile]] [[Type]] monster from your [[hand]] to the [[Graveyard]].
   | lore             = [[Special Summon]] 1 Level 7 Reptile Type monster from your Graveyard to your field in face-up [[Attack Position]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 相手フィールドに表側表示モンスター（レベル７以上）がいる場合、手札のモンスター（レベル３以下／爬虫類族）１体を墓地へ送って発動できる。
+  | ja_lore          = 自分の墓地のモンスター（レベル７／爬虫類族）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。
   | jp_sets          = 
   RD/KP14-JP020; Phoenix of the Roaring Flame; Common
+  | supports         = Reptile
   | archseries       = Secret Investigator
+  | action           = Sends from hand to Graveyard for cost
+  | summoning        = Special Summons from your Graveyard
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
