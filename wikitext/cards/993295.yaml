@@ -18,7 +18,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Ignition, Quick, Condition
-  | lore                  = If you control a "Tistina" card: You can Special Summon this card from your hand, then you can add 1 "Tistina" Spell/Trap from your Deck to your hand. During your opponent's turn, if you control "Crystal God Tistina" (Quick Effect): You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each effect of "Demigod of the Tistina" once per turn.
+  | lore                  = If you [[control]] a "[[Tistina]]" card: You can [[Special Summon]] this card from your [[hand]], then you can [[add]] 1 "Tistina" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your hand. During your opponent's [[turn]], if you control "[[Crystal God Tistina]]" ([[Quick Effect]]): You can change as many monsters your opponent controls as possible to [[face-down]] [[Defense Position]], then you can [[send]] all [[face-up]] cards your opponent controls to the [[GY]]. You can only use each [[effect]] of "Demigod of the Tistina" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,17 @@ wikitext: |-
   | mentions              = Crystal God Tistina
   | archseries            = Tistina
   | supports_archetypes   = Tistina
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Sends from your opponent's field to your opponent's Graveyard
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

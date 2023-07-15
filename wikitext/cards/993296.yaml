@@ -18,7 +18,7 @@ wikitext: |-
   | def                   = 3000
   | password              = 
   | effect_types          = Ignition, Trigger, Condition
-  | lore                  = During your Main Phase: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. If this card in its owner's possession is destroyed by an opponent's card: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each effect of "Crystal God Tistina" once per turn.
+  | lore                  = During your [[Main Phase]]: You can change as many [[Monster Card|monsters]] your opponent [[control]]s as possible to [[face-down]] [[Defense Position]], then you can [[send]] all [[face-up]] cards your opponent controls to the [[GY]]. If this card in its [[own]]er's [[possess]]ion is [[destroy]]ed by an opponent's card: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each [[effect]] of "Crystal God Tistina" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -39,6 +39,13 @@ wikitext: |-
   | sp_sets               = 
   DUNE-SP089; Duelist Nexus; Secret Rare, Quarter Century Secret Rare
   | archseries            = Tistina
+  | action                = 
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
