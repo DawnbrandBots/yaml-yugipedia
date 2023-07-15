@@ -18,8 +18,11 @@ wikitext: |-
   | def                   = 2500
   | password              = 24232799
   | effect_types          = Continuous, Ignition, Condition
+  | fusion_material       = 
+  * Trifortressops
+  * Stegocyber
   | materials             = "Trifortressops" or "Stegocyber" + 1 Machine-Type or Dinosaur-Type monster
-  | lore                  = "[[Trifortressops]]" or "[[Stegocyber]]" + 1 [[Machine]] or [[Dinosaur]] [[Monster Card|monster]]<br />Cannot be destroyed by battle while a monster Special Summoned from the GY is on the field. If a monster(s) is Special Summoned from the hand while this monster is on the field (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of "Storagepod" once per turn.
+  | lore                  = "[[Trifortressops]]" or "[[Stegocyber]]" + 1 [[Machine]] or [[Dinosaur]] [[Monster Card|monster]]<br />Cannot be [[destroyed by battle]] while a monster [[Special Summon]]ed from the [[GY]] is on the [[field]]. If a monster(s) is Special Summoned from the [[hand]] while this monster is on the field (except during the [[Damage Step]]): You can target 1 card you [[control]] and 1 card your opponent controls; [[destroy]] them. You can only use this [[effect]] of "Storagepod" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -45,6 +48,20 @@ wikitext: |-
   | supports              = 
   * Machine
   * Dinosaur
+  | action                = Activates upon Special Summon
+  | m/s/t                 = 
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack                = Cannot be destroyed by battle
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

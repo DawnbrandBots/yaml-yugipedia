@@ -15,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Condition
-  | lore                  = Target monsters on the field, up to the number of Synchro Monsters with different names you control; return them to the hand. You can only activate 1 "Synchro Forceback" per turn.
+  | lore                  = [[Target]] [[Monster Card|monsters]] on the [[field]], up to the number of [[Synchro Monster]]s with different names you [[control]]; [[return]] them to the [[hand]]. You can only [[activate]] 1 "Synchro Forceback" [[Once per turn|per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,7 +35,12 @@ wikitext: |-
   DUNE-PT085; Duelist Nexus; Super Rare
   | sp_sets               = 
   DUNE-SP085; Duelist Nexus; Super Rare
+  | supports              = Synchro Monster
   | archseries            = Synchro (archetype)
+  | action                = Returns from field to hand
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

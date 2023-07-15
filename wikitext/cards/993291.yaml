@@ -18,7 +18,7 @@ wikitext: |-
   | def                   = 1400
   | password              = 
   | effect_types          = Ignition, Ignition, Condition
-  | lore                  = If this card is in your hand or GY and you control a LIGHT "Tistina" monster: You can Special Summon this card. You can target 1 "Tistina" monster or 1 face-down card you control; destroy it, then add 1 "Tistina" card from your Deck to your hand. You can only use each effect of "Sentinel of the Tistina" once per turn.
+  | lore                  = If this card is in your [[hand]] or [[GY]] and you [[control]] a [[LIGHT]] "[[Tistina]]" [[Monster Card|monster]]: You can [[Special Summon]] this card. You can [[target]] 1 "Tistina" monster or 1 [[face-down]] card you control; [[destroy]] it, then [[add]] 1 "Tistina" card from your [[Main Deck|Deck]] to your hand. You can only use each [[effect]] of "Sentinel of the Tistina" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,8 +38,25 @@ wikitext: |-
   DUNE-PT086; Duelist Nexus; Super Rare
   | sp_sets               = 
   DUNE-SP086; Duelist Nexus; Super Rare
+  | supports              = LIGHT
   | archseries            = Tistina
   | supports_archetypes   = Tistina
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | m/s/t                 = 
+  * Destroys your face-up Monster Cards
+  * Destroys your face-down Monster Cards
+  * Destroys your face-down Spell Cards
+  * Destroys your face-down Trap Cards
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
