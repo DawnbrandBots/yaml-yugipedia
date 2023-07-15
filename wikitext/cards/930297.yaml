@@ -1,9 +1,5 @@
-title: Little Opposition
+title: Small Scuffle
 wikitext: |-
-  {{Rename|Small Scuffle|Official TCG name}}
-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +10,12 @@ wikitext: |-
   | romaji_name           = Ritoru Opojishon
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = LittleOpposition-DUNE-JP-C.png
+  | image                 = SmallScuffle-DUNE-JP-C.png
   | card_type             = Trap
   | property              = Normal
   | password              = 15967552
   | effect_types          = Effect, Condition
-  | lore                  = Choose 2 unused [[Main Monster Zone]]s in the same [[column]]; apply this [[effect]], then your opponent can apply it for themselves.<br />● [[Special Summon]] 1 [[Level]] 2 or lower [[monster]] from your [[hand]] or [[Main Deck|Deck]] to your chosen zone in [[Attack Position]] or [[face-down]] [[Defense Position]].<br />You can only [[activate]] 1 "Little Opposition" per [[turn]].
+  | lore                  = Choose 2 unused [[Main Monster Zone]]s in the same [[column]]; [[Special Summon]] 1 [[Level]] 2 or lower [[monster]] from your [[hand]] or [[Main Deck|Deck]] in [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]] in your chosen Main Monster Zone, then your opponent can do the same from their hand or Deck to theirs. You can only [[activate]] 1 "Small Scuffle" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -27,8 +23,22 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：同じ縦列の使用していないメインモンスターゾーンを２ヵ所指定して発動できる。自分は以下の効果を適用する。その後、相手は以下の効果を適用できる。<br />●自身の手札・デッキからレベル２以下のモンスター１体を選び、指定された自身のメインモンスターゾーンに表側攻撃表示か裏側守備表示で特殊召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  DUNE-EN078; Duelist Nexus; Common
+  | fr_sets               = 
+  DUNE-FR078; Duelist Nexus; Common
+  | de_sets               = 
+  DUNE-DE078; Duelist Nexus; Common
+  | it_sets               = 
+  DUNE-IT078; Duelist Nexus; Common
+  | pt_sets               = 
+  DUNE-PT078; Duelist Nexus; Common
+  | sp_sets               = 
+  DUNE-SP078; Duelist Nexus; Common
   | jp_sets               = 
   DUNE-JP078; Duelist Nexus; Common
+  | kr_sets               = 
+  DUNE-KR078; Duelist Nexus; Common
   | summoning             = 
   * Special Summons from your hand
   * Special Summons from your Deck
