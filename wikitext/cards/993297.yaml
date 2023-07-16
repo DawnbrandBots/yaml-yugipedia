@@ -15,7 +15,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Continuous-like, Ignition-like, Condition
-  | lore                  = During your Main Phase, you can Normal Summon 1 "Tistina" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 1 face-up monster you control, or if you control a LIGHT "Tistina" monster, you can target 1 face-up monster on the field instead; change that monster to face-down Defense Position, then add 1 "Tistina" card from your Deck to your hand, except "Breath of the Tistina". You can only use this effect of "Breath of the Tistina" once per turn.
+  | lore                  = During your [[Main Phase]], you can [[Normal Summon]] 1 "[[Tistina]]" [[Monster Card|monster]], in addition to your Normal Summon/[[Normal Set|Set]]. (You can only gain this [[effect]] [[once per turn]].) You can [[target]] 1 [[face-up]] monster you [[control]], or if you control a [[LIGHT]] "Tistina" monster, you can target 1 face-up monster on the [[field]] instead; change that monster to [[face-down]] [[Defense Position]], then [[add]] 1 "Tistina" card from your Deck to your [[hand]], except "Breath of the Tistina". You can only use this effect of "Breath of the Tistina" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,8 +35,21 @@ wikitext: |-
   DUNE-PT091; Duelist Nexus; Common
   | sp_sets               = 
   DUNE-SP091; Duelist Nexus; Common
+  | mentions              = Breath of the Tistina
+  | supports              = LIGHT
   | archseries            = Tistina
   | supports_archetypes   = Tistina
+  | action                = 
+  * Changes battle positions
+  * Flips your monsters face-down
+  * Flips your opponent's monsters face-down
+  * Adds from Deck to hand
+  | summoning             = Allows multiple Normal Summons
+  | misc                  = 
+  * Gain this effect once per turn
+  * Requires control of specific Attribute
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

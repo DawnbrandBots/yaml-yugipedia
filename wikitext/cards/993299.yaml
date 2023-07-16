@@ -15,7 +15,7 @@ wikitext: |-
   | property              = Field
   | password              = 
   | effect_types          = Ignition-like, Condition, Trigger-like
-  | lore                  = During your Main Phase: You can send 1 "Tistina" monster from your Deck to your GY, then if your opponent controls 3 or more face-up cards, you can Special Summon 1 "Crystal God Tistina" from your hand or Deck. You can only use this effect of "Divine Domain Baatistina" once per turn. If this card in your Field Zone is destroyed by your opponent's card effect: You can Special Summon 1 "Tistina" monster from your Deck or GY.
+  | lore                  = During your [[Main Phase]]: You can [[send]] 1 "[[Tistina]]" [[Monster Card|monster]] from your [[Main Deck|Deck]] to your [[GY]], then if your opponent [[control]]s 3 or more [[face-up]] cards, you can [[Special Summon]] 1 "[[Crystal God Tistina]]" from your [[hand]] or Deck. You can only use this effect of "Divine Domain Baatistina" [[once per turn]]. If this card in your [[Field Zone]] is [[destroy]]ed by your opponent's [[card effect]]: You can Special Summon 1 "Tistina" monster from your Deck or GY.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,6 +38,14 @@ wikitext: |-
   | mentions              = Crystal God Tistina
   | archseries            = Tistina
   | supports_archetypes   = Tistina
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed by card effect
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
