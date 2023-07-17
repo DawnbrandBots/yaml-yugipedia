@@ -10,11 +10,20 @@ wikitext: |-
   | property         = Normal
   | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Pyro]] [[Type]] monster.
   | lore             = [[Negate]] the attack. Then, if the attack target's [[Level]] is higher than the attacking monster's, you can [[destroy]] the attacking monster.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の表側表示モンスター（炎族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  | ja_lore          = その攻撃を無効にする。攻撃を受けるモンスターのレベルが攻撃してきたモンスターより高い場合、さらに攻撃してきたモンスターを破壊できる。
   | jp_sets          = 
   RD/KP14-JP059; Phoenix of the Roaring Flame; Common
+  | supports         = Pyro
   | archseries       = Chemistry
+  | action           = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | m/s/t            = Destroys your opponent's Monster Cards
+  | attack           = Negates attacks
+  | misc             = 
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
