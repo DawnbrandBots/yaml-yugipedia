@@ -10,7 +10,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|奇跡の魔導剣士|エクシード・ザ・ペンデュラム}}
   | romaji_name           = Ekushīdo Za Pendyuramu
-  | base_romaji_name       = Kiseki no Madō Kenshi
+  | base_romaji_name      = Kiseki no Madō Kenshi
   | base_trans_name       = Magical Swordswoman of Miracles
   | ko_name               = 
   | ko_rr_name            = 
@@ -32,7 +32,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP045; Age of Overlord; 
+  | supports              = Pendulum Monster
   | archseries            = Pendulum (archetype)
+  | action                = 
+  * Activates upon Link Summon
+  * Adds from Extra Deck to hand
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Requires Pendulum Monsters as Link Materials
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
