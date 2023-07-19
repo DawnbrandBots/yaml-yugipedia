@@ -8,13 +8,20 @@ wikitext: |-
   | image            = Psymprinting-RDKP14-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = You have a [[face-up]] [[Level]] 7 or higher [[WIND]] [[Attribute]] [[monster]] on your [[field]].
+  | requirement      = You have a [[face-up]] [[Level]] 7 or higher [[WIND]] [[Attribute]] [[Monster Card|monster]] on your [[field]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, if you have "[[Handy Lady]]" face-up on your field, you can [[Special Summon]] 1 monster from your [[hand]] face-up to your field.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドに表側表示モンスター（レベル７以上／風属性）がいる場合に発動できる。
+  | ja_lore          = 自分は１枚ドローする。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/KP14-JP056; Phoenix of the Roaring Flame; Super Rare, Secret Rare
   | mentions         = Handy Lady
+  | supports         = WIND
+  | action           = You draw cards
+  | summoning        = Special Summons from your hand
+  | misc             = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific card
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
