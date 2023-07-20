@@ -16,9 +16,6 @@ wikitext: |-
   | atk                   = 2000
   | def                   = 2100
   | password              = 58859575
-  | fusion_material       = 
-  * V-Tiger Jet
-  * W-Wing Catapult
   | materials             = "V-Tiger Jet" + "W-Wing Catapult"
   | effect_types          = Summoning condition, Ignition
   | lore                  = "[[V-Tiger Jet]]" + "[[W-Wing Catapult]]"<br />Must first be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards you [[control]]. You can [[discard]] 1 card, then [[target]] 1 [[monster]] your opponent controls; change that target's [[battle position]]. ([[Flip effect]]s are not [[activate]]d.)
@@ -94,7 +91,6 @@ wikitext: |-
   | banished              = 
   * Banishes Fusion Materials for Contact Fusion
   * Banishes from field for Summon
-  | fm_for                = VWXYZ-Dragon Catapult Cannon
   | tcg_speed_duel_status = Unlimited
   | database_id           = 6483
   }}
