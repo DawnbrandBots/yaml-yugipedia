@@ -61,7 +61,7 @@ jobs:
         run: gh workflow run merge.yaml --repo DawnbrandBots/yaml-yugi
   validate:
     needs: download
-    if: !cancelled()
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
