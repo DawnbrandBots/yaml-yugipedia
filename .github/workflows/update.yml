@@ -59,3 +59,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
         run: gh workflow run merge.yaml --repo DawnbrandBots/yaml-yugi
+  validate:
+    needs: download
+    if: !cancelled()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Duel Monsters cards do not contain Rush Duel cards (naïve check)
+        run: |
+          ! grep RD/ -R wikitext/cards --include='*.yaml'
