@@ -12,10 +12,10 @@ wikitext: |-
   | level                  = 10
   | atk                    = 3000
   | def                    = 2500
+  | effect_types           = Multi-Choice
   | fusion_material        = 
   * Sevens Road Magician
   * Multistrike Dragon Dragias
-  | effect_types           = Multi-Choice
   | materials              = "[[Sevens Road Magician]]" + "[[Multistrike Dragon Dragias]]"
   | requirement            = If your opponent has a [[face-up]] [[Level]] 7 or higher [[monster]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore                   = ● This [[turn]], this card gains [[ATK]] equal to [the number of different [[Type]]s in your Graveyard] x 700, and it can make up to 2 attacks on monsters.<br />● [[Destroy]] all face-up cards on the field.
@@ -29,6 +29,9 @@ wikitext: |-
   RD/KP09-JP037; Deck Mod Pack: Galaxy of Fate!!; Ultra Rare, Rush Rare
   | kr_sets                = 
   RD/KP09-KR037; Deck Mod Pack: Galaxy of Fate!!; Ultra Rare, Rush Rare
+  | mentions               = 
+  * Sevens Road Magician
+  * Multistrike Dragon Dragias
   | related_to_archseries  = 
   * Sevens Road
   * Strike Dragon
@@ -42,8 +45,8 @@ wikitext: |-
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   | attack                 = Can make multiple attacks on monsters
-  | misc                   =
-  * Cover card
+  | misc                   = 
   * Variable effects
+  * Cover card
   | database_id            = 17523
   }}

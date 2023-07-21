@@ -12,10 +12,10 @@ wikitext: |-
   | level                 = 7
   | atk                   = 2300
   | def                   = 1600
+  | effect_types          = Multi-Choice
   | fusion_material       = 
   * Dragon Knight of Darkness
   * Dragon Bat
-  | effect_types          = Multi-Choice
   | materials             = "[[Dragon Knight of Darkness]]" + "[[Dragon Bat]]"
   | requirement           = [[Send]] 1 card from your [[hand]] to the [[Graveyard]], except "[[Fusion (Rush Duel)|Fusion]]".
   | lore                  = ● [[Special Summon]] 1 [[High Dragon]] [[Type]] [[monster]] from your Graveyard [[face-up]] to your [[field]].<br />● [[Add a card|Add]] 1 "Fusion" from your Graveyard to your hand.
@@ -29,7 +29,10 @@ wikitext: |-
   RD/EXT1-JP023; Extra Transcend Enhancement Pack; Super Rare
   | kr_sets               = 
   RD/EXT1-KR023; Extra Transcend Enhancement Pack; Super Rare
-  | mentions              = Fusion (Rush Duel)
+  | mentions              = 
+  * Dragon Knight of Darkness
+  * Dragon Bat
+  * Fusion (Rush Duel)
   | supports              = High Dragon
   | action                = 
   * Sends from hand to Graveyard for cost

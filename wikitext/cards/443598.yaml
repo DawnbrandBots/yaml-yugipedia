@@ -17,6 +17,10 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2800
   | password              = 01561110
+  | fusion_material       = 
+  * A-Assault Core
+  * B-Buster Drake
+  * C-Crush Wyvern
   | material              = "A-Assault Core" + "B-Buster Drake" + "C-Crush Wyvern"
   | effect_types          = Summoning condition, Quick, Quick
   | lore                  = "[[A-Assault Core]]" + "[[B-Buster Drake]]" + "[[C-Crush Wyvern]]"<br />Must first be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards you [[control]] and/or from your [[GY]]. (You do not use "[[Polymerization]]".) [[Once per turn]] ([[Quick Effect]]): You can [[discard]] 1 card, then [[target]] 1 card on the [[field]]; banish it. During your opponent's turn (Quick Effect): You can [[Tribute]] this card, then target 3 of your banished [[LIGHT]] [[Machine]] [[Union monster]]s with different names; Special Summon them.
@@ -85,6 +89,7 @@ wikitext: |-
   * Banishes from your field
   * Banishes from your opponent's field
   | ocg_status            = Limited
+  | fm_for                = A-to-Z-Dragon Buster Cannon
   | misc                  = Limited activations
   | database_id           = 12590
   }}

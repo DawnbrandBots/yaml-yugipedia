@@ -23,6 +23,10 @@ wikitext: |-
   | level                 = 8
   | atk                   = 2800
   | def                   = 2600
+  | fusion_material       = 
+  * X-Head Cannon
+  * Y-Dragon Head
+  * Z-Metal Tank
   | materials             = "X-Head Cannon" + "Y-Dragon Head" + "Z-Metal Tank"
   | password              = 91998119
   | effect_types          = Summoning condition, Summoning condition, Ignition
@@ -130,6 +134,9 @@ wikitext: |-
   | banished              = 
   * Banishes Fusion Materials for Contact Fusion
   * Banishes from field for Summon
+  | fm_for                = 
+  * A-to-Z-Dragon Buster Cannon
+  * VWXYZ-Dragon Catapult Cannon
   | misc                  = Special Summon-only monster
   | database_id           = 5556
   | tcg_speed_duel_status = Unlimited

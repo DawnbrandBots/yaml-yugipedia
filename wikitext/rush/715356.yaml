@@ -12,10 +12,10 @@ wikitext: |-
   | level                 = 9
   | atk                   = 3000
   | def                   = 2000
-  | fusion_material       = 
+  | effect_types          = Multi-Choice
+  | fusion_material        = 
   * Multistrike Dragon Dragias
   * The Dragon
-  | effect_types          = Multi-Choice
   | materials             = "[[Multistrike Dragon Dragias]]" + "[[The Dragon]]"
   | requirement           = If all [[monsters]] in your Graveyard are [[High Dragon]] and/or [[Dragon]] [[Type]] monsters, [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | lore                  = ● This [[turn]], this card gains 900 [[ATK]], and it can make up to 2 [[attack]]s on monsters.<br />● This turn, this card can attack twice, and if it attacks a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
@@ -31,6 +31,9 @@ wikitext: |-
   RD/SA03-JP002; Secret Ace Pack Vol.3; Secret Rare
   | kr_sets               = 
   RD/EXT1-KR022; Extra Transcend Enhancement Pack; Ultra Rare, Rush Rare
+  | mentions              = 
+  * Multistrike Dragon Dragias
+  * The Dragon
   | supports              = 
   * High Dragon
   * Dragon
