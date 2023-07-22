@@ -8,7 +8,7 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = {{Ruby|ＴＧ|テックジーナス}} — ブレイクリミッター
+  | ja_name               = {{Ruby|ＴＧ|テックジーナス}}－ブレイクリミッター
   | romaji_name           = Tekku Jīnasu - Bureiku Rimittā
   | trans_name            = Tech Genus - Break Limiter
   | ko_name               = 
@@ -16,7 +16,7 @@ wikitext: |-
   | image                 = TGBreakLimiter-AGOV-JP-R.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 28189908
   | effect_types          = Effect, Ignition-like, Condition
   | lore                  = [[Discard]] 1 card; [[Add a card|add]] 2 "[[T.G.]]" [[monsters]] with different names from your [[Main Deck|Deck]] to your [[hand]]. You can [[banish]] this card from your [[GY]], then [[target]] 1 "T.G." monster in your [[GY]]; [[shuffle]] it into the Deck, or, if you [[control]] a [[Machine]] "T.G." monster, you can add it to your hand instead. You can only use 1 "T.G. Break Limiter" [[effect]] per turn, and only once that turn.
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：手札を１枚捨てて発動できる。デッキから「ＴＧ」モンスター２体を手札に加える（同名カードは１枚まで）。②：墓地のこのカードを除外し、自分の墓地の「ＴＧ」モンスター１体を対象として発動できる。そのモンスターをデッキに戻す。自分フィールドに機械族の「ＴＧ」モンスターが存在する場合、デッキに戻さず手札に加える事もできる。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP049; Age of Overlord; 
+  AGOV-JP049; Age of Overlord; Rare
   | supports              = Machine
   | archseries            = T.G.
   | supports_archetypes   = T.G.
@@ -42,7 +42,6 @@ wikitext: |-
   * Requires control of specific Type
   * Requires control of specific archetype
   * Only 1 effect once per turn
-  | database_id           = 
+  | database_id           = 19191
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

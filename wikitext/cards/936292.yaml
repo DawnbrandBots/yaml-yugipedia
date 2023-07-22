@@ -46,11 +46,11 @@ wikitext: |-
   * Xyz Monster
   * Pendulum Monster
   * DARK
-  | archseries            = 
-  * Odd-Eyes
+  | archseries            = <!-- The name condition makes it so that this is never treated as an Odd-Eyes card. Do not add that to this list -->
   * Supreme King
   * -Eyes Dragon
   | related_to_archseries = 
+  * Odd-Eyes
   * Pendulum Dragon
   * Xyz Dragon
   * Synchro Dragon

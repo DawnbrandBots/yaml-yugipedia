@@ -15,7 +15,7 @@ wikitext: |-
   | image                 = FireRecovery-AGOV-JP-R.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 42516299
   | effect_types          = Effect, Ignition-like, Condition
   | lore                  = [[Target]] 1 [[FIRE]] [[monster]] in your [[GY]]; [[send]] 1 card from your [[hand]] to the GY, and if you do, [[Special Summon]] the targeted monster. You can [[banish]] this card from your GY, then target 3 of your FIRE monsters that are [[banish]]ed and/or in your GY; [[shuffle]] them into the [[Main Deck|Deck]], then [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Fire Recovery" [[once per turn]].
   | fr_lore               = 
@@ -23,10 +23,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：自分の墓地の炎属性モンスター１体を対象として発動できる。自分の手札を１枚選んで墓地へ送り、対象のモンスターを特殊召喚する。②：墓地のこのカードを除外し、自分の墓地・除外状態の炎属性モンスター３体を対象として発動できる。そのモンスターをデッキに戻す。その後、自分は１枚ドローする。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP059; Age of Overlord; 
+  AGOV-JP059; Age of Overlord; Rare
   | supports              = FIRE
   | action                = 
   * Sends from your hand to your Graveyard
@@ -37,7 +37,6 @@ wikitext: |-
   | summoning             = Special Summons from your Graveyard
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 19201
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -8,7 +8,7 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = {{Ruby|ＴＧ|テックジーナス}} — クローズ
+  | ja_name               = {{Ruby|ＴＧ|テックジーナス}}－クローズ
   | romaji_name           = Tekku Jīnasu - Kurōzu
   | trans_name            = Tech Genus - Close
   | ko_name               = 
@@ -16,7 +16,7 @@ wikitext: |-
   | image                 = TGClose-AGOV-JP-C.png
   | card_type             = Trap
   | property              = Counter
-  | password              = 
+  | password              = 02339825
   | effect_types          = Effect, Trigger-like, Condition
   | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a [[Machine]] "[[T.G.]]" [[monster]]: [[Negate]] the activation, and if you do, [[destroy]] that card. If a [[Synchro Monster]](s) is [[banish]]ed while this card is in your GY (except during the [[Damage Step]]): You can [[Set]] this card, but banish it when it [[leaves the field]]. You can only use 1 "T.G. - Close" effect per turn, and only once that turn.
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに機械族の「ＴＧ」モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在する状態で、Ｓモンスターが除外された場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP070; Age of Overlord; 
+  AGOV-JP070; Age of Overlord; Common
   | supports              = 
   * Machine
   * Synchro Monster
@@ -50,7 +50,6 @@ wikitext: |-
   * Requires control of specific Type
   * Requires control of specific archetype
   * Only 1 effect once per turn
-  | database_id           = 
+  | database_id           = 19212
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
