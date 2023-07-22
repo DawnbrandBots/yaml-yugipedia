@@ -21,7 +21,7 @@ wikitext: |-
   | pendulum_scale        = 13
   | atk                   = 4000
   | def                   = 4000
-  | password              = 
+  | password              = 06218704
   | pendulum_effect_types = Ignition-like, Condition
   | materials             = 4 Dragon-Type monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)
   | effect_types          = Condition, Summoning condition, Trigger, Trigger
@@ -32,7 +32,8 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分のＰゾーンにカードが２枚存在する場合に発動できる。このカードを特殊召喚する。その後、以下を適用できる。●自分のＰゾーンのカード１枚をデッキに戻す。自分のＥＸデッキに戻った場合、さらにそのモンスターを召喚条件を無視して特殊召喚できる。
+  | ja_lore               = ドラゴン族の融合・Ｓ・Ｘ・Ｐモンスター１体ずつ合計４体<br />このカード名はルール上「覇王龍ズァーク」として扱う。ＥＸデッキの裏側のこのカードは、融合召喚及び以下の方法でのみ特殊召喚できる。●自分フィールドの闇属性・レベル１２の「覇王龍ズァーク」１体をリリースした場合にＥＸデッキから特殊召喚できる。①：このカードがＥＸデッキから特殊召喚した場合に発動できる。デッキからＰモンスター１体を自分のＰゾーンに置く。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP030; Age of Overlord; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
@@ -79,7 +80,6 @@ wikitext: |-
   * Special Summons itself from your Extra Deck
   * Special Summon-only monster
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 19172
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

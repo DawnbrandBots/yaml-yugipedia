@@ -1,6 +1,5 @@
 title: Poissoniere de Nouvelles
 wikitext: |-
-  {{Rename|Poissonniere de Nouvelles|Misspelled, the word has two n's.}}
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
@@ -20,7 +19,7 @@ wikitext: |-
   | pendulum_scale        = 8
   | atk                   = 700
   | def                   = 1700
-  | password              = 
+  | password              = 46485778
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Trigger, Trigger, Condition
   | pendulum_effect       = If you [[control]] a [[Ritual Monster]]: You can [[target]] 1 [[monster]] on the [[field]]; [[Special Summon]] this card, then change the targeted monster's [[battle position]]. You can only use this [[effect]] of "Poissoniere de Nouvelles" [[once per turn]].
@@ -30,10 +29,12 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドに儀式モンスターが存在する場合、フィールドのモンスター１体を対象として発動できる。このカードを特殊召喚する。その後、対象のモンスターの表示形式を変更する。
+  | ja_lore               = このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、以下の効果から１つを選択して発動できる。●レベル１の儀式モンスター１体または「レシピ」カード１枚をデッキから手札に加える。●自分の墓地から「レシピ」カードを任意の数だけ除外し、その数と同じレベルを持つ「ヌーベルズ」儀式モンスター１体を手札から特殊召喚する。②：フィールドのこのカードがリリースされＥＸデッキに表側で加わった場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP019; Age of Overlord; 
+  AGOV-JP019; Age of Overlord; Super Rare, Secret Rare, Quarter Century Secret Rare
+  AGOV-JP019; Age of Overlord +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | supports              = Ritual Monster
   | archseries            = Nouvelles
   | supports_archetypes  = 
@@ -55,7 +56,6 @@ wikitext: |-
   * Requires control of specific Monster card type
   * Only once per turn
   * Variable effects
-  | database_id           = 
+  | database_id           = 19161
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 3
   | atk                   = 0
   | def                   = 2100
-  | password              = 
+  | password              = 71545247
   | effect_types          = Trigger, Trigger, Trigger
   | lore                  = When you [[Draw a card|draw]] this card: You can [[reveal]] it; [[Special Summon]] it. At the start of the [[Battle Phase]]: If you have more cards in your [[Main Deck|Deck]] than your opponent does, this card gains [[ATK]] equal to the current difference x 300 until the end of this [[turn]]. [[Once per turn]], during the [[End Phase]], if this card is in your [[GY]] because it was sent there this turn: Place this card on top of the Deck.
   | fr_lore               = 
@@ -26,7 +26,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = ①：このカードをドローした時、このカードを相手に見せて発動できる。このカードを特殊召喚する。②：自分・相手のバトルフェイズ開始時に発動する。自分のデッキの枚数が相手よりも多い場合、このカードの攻撃力はターン終了時まで、その差の数×３００アップする。③：このカードが墓地へ送られたターンのエンドフェイズに発動する。このカードをデッキの一番上に戻す。
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP026; Age of Overlord; Common
@@ -40,7 +40,6 @@ wikitext: |-
   | misc                  = 
   * At the start of the Battle Phase
   * Limited activations
-  | database_id           = 
+  | database_id           = 19168
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

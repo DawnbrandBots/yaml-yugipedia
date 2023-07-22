@@ -19,7 +19,7 @@ wikitext: |-
   | pendulum_scale        = 1
   | atk                   = 2500
   | def                   = 2000
-  | password              = 
+  | password              = 14513273
   | pendulum_effect_types = Continuous-like, Ignition-like, Condition
   | effect_types          = Ignition, Trigger, Condition
   | pendulum_effect       = "[[Supreme King Z-ARC]]" you [[control]] cannot be [[banish]]ed by your opponent's card [[effect]]s. During your [[Main Phase]]: You can [[destroy]] this card, and if you do, place 1 "[[Supreme King Gate]]" [[Pendulum Monster]] from your [[hand]] or [[Main Deck|Deck]] in your [[Pendulum Zone]], except "Supreme King Gate Magician". You can only use this effect of "Supreme King Gate Magician" [[once per turn]].
@@ -29,10 +29,12 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名の②のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの「覇王龍ズァーク」は相手の効果では除外できない。②：自分メインフェイズに発動できる。このカードを破壊し、手札・デッキから「覇王門の魔術師」以外の「覇王門」Ｐモンスター１体を自分のＰゾーンに置く。
+  | ja_lore               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分のＰゾーンに「覇王門の魔術師」以外の「覇王門」カードが存在する場合に発動できる。手札・ＥＸデッキから「ペンデュラム・ドラゴン」「エクシーズ・ドラゴン」「シンクロ・ドラゴン」「フュージョン・ドラゴン」モンスターの内１体を墓地へ送り、このカードを手札から特殊召喚する。②：このカードが特殊召喚した場合に発動できる。魔法使い族モンスターを除く、「覇王龍ズァーク」のカード名が記されたカード１枚をデッキから手札に加える。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP001; Age of Overlord; 
+  AGOV-JP001; Age of Overlord; Super Rare, Secret Rare, Quarter Century Secret Rare
+  AGOV-JP001; Age of Overlord +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | mentions              = 
   * Supreme King Z-ARC
   * Supreme King Gate Magician
@@ -63,7 +65,6 @@ wikitext: |-
   * Only once per turn
   * Requires control of specific archetype
   * Mentions
-  | database_id           = 
+  | database_id           = 19143
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

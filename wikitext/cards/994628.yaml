@@ -18,7 +18,7 @@ wikitext: |-
   | level                 = 1
   | atk                   = 100
   | def                   = 0
-  | password              = 
+  | password              = 07930346
   | effect_types          = Ignition, Trigger
   | lore                  = [[Once per turn]]: You can toss a coin until the result is tails, and if you do, [[Draw a card|draw]] 1 card for every 2 heads. Each time either player tosses a coin(s) while this monster is on the [[field]]: Its ATK is doubled a number of times equal to the number of heads.
   | fr_lore               = 
@@ -26,7 +26,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = ①：１ターンに１度、自分メインフェイズに発動できる。裏が出るまでコイントスを行う。表が出た数２回につき１枚、自分はドローする。②：このカードがモンスターゾーンに存在する状態で、自分・相手がコイントスを行う度に発動する。そのコイントスで表が出た数１回につき１度、このカードの攻撃力は倍になる。
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP027; Age of Overlord; Normal Rare
@@ -38,7 +38,6 @@ wikitext: |-
   | misc                  = 
   * Limited activations
   * Coin toss
-  | database_id           = 
+  | database_id           = 19169
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

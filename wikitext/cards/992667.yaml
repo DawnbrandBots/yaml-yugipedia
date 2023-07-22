@@ -17,7 +17,7 @@ wikitext: |-
   | level                 = 6
   | atk                   = 2000
   | def                   = 1000
-  | password              = 
+  | password              = 33202303
   | materials             = 1 "Earthbound" monster + 1 DARK monster
   | effect_types          = Trigger, Ignition, Trigger, Condition
   | lore                  = 1 "[[Earthbound]]" [[monster]] + 1 [[DARK]] monster<br />If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "Earthbound" monster from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 DARK [[Synchro Monster]] you [[control]]; it can [[attack directly]] this [[turn]]. If a monster(s) your opponent controls is [[destroy]]ed by an "Earthbound" card's effect: You can target 1 of those destroyed monsters; inflict [[Effect damage|damage]] to your opponent equal to its [[original ATK]]. You can only use each effect of "Earthbound Servant Geo Gremlina" [[once per turn]].
@@ -26,10 +26,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 「地縛」モンスター＋闇属性モンスター<br />このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから「地縛」モンスター１体を手札に加える。②：自分フィールドの闇属性Ｓモンスター１体を対象として発動できる。このターン、そのモンスターは直接攻撃できる。③：相手フィールドのモンスターが「地縛」カードの効果で破壊された場合、その破壊されたモンスター１体を対象として発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP031; Age of Overlord; 
+  AGOV-JP031; Age of Overlord; Common
   | supports              = 
   * DARK
   * Synchro Monster
@@ -51,7 +51,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19173
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -20,7 +20,7 @@ wikitext: |-
   | pendulum_scale        = 0
   | atk                   = 0
   | def                   = 4000
-  | password              = 
+  | password              = 40785230
   | pendulum_effect_types = Trigger-like, Continuous-like, Ignition-like
   | effect_types          = Summoning condition, Summoning condition, Condition, Trigger, Trigger
   | pendulum_effect       = Once per [[Chain]], if a [[monster]](s) is [[destroy]]ed: Place 3 [[counters]] on this card. This card's [[Pendulum Scale]] is increased by the number of counters on it. You can remove 12 counters from this card; [[Special Summon]] it.
@@ -30,7 +30,8 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = ①：自分か相手のモンスターが破壊された場合に発動する（同一チェーン上では１度まで）。このカードにカウンターを３つ置く。②：このカードのＰスケールはこのカードのカウンターの数だけ上がる。③：このカードのカウンターを１２個取り除いて発動できる。このカードを特殊召喚する。
+  | ja_lore               = このカードは通常召喚できず、このカードのＰ効果でのみ特殊召喚できる。自分は「ヴェーダ＝ウパニシャッド」を１ターンに１度しか特殊召喚できない。①：１ターンに１度、相手がＥＸデッキからモンスターを特殊召喚した場合、自分の手札・フィールド・墓地からカード１２枚を裏側で除外して発動できる。このターンのエンドフェイズになる。②：自分スタンバイフェイズに発動する。このカードを手札に戻す。その後、自分の手札・デッキ・墓地・除外状態の「ヴェーダ」モンスター１体を特殊召喚できる。
   | ko_lore               = 
   | jp_sets               = 
   AGOV-JP005; Age of Overlord; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
@@ -65,7 +66,6 @@ wikitext: |-
   * Special Summon Monster
   * Once per Chain
   * Limited activations
-  | database_id           = 
+  | database_id           = 19147
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

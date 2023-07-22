@@ -20,7 +20,7 @@ wikitext: |-
   | pendulum_scale        = 8
   | atk                   = 1200
   | def                   = 1800
-  | password              = 
+  | password              = 41908872
   | pendulum_effect_types = Trigger-like, Condition
   | effect_types          = Trigger, Trigger, Condition
   | pendulum_effect       = If a [[monster]](s) is [[Special Summon]]ed, and you [[control]] "[[Supreme King Z-ARC]]" and another [[Pendulum Monster]]: You can Special Summon this card, then you can choose 1 other Pendulum Monster you control, and the [[Attribute]] and [[Level]] of that monster or this card become the Attribute and Level of the other. You can only use this [[effect]] of "Supreme King Dragon Lightwurm" [[once per turn]].
@@ -30,10 +30,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：モンスターが特殊召喚された場合、自分フィールドに「覇王龍ズァーク」とＰモンスターがそれぞれ存在すれば発動できる。このカードを特殊召喚する。その後、自分フィールドのＰモンスター１体とこのカードの内、１体の属性・レベルをもう１体と同じにできる。
+  | ja_lore               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。自分のＥＸデッキ（表側）から「覇王眷竜」Ｐモンスターか「覇王門」Ｐモンスター１体を手札に加える。その後、「覇王眷竜」Ｓモンスター１体のＳ召喚または「覇王眷竜」Ｘモンスター１体のＸ召喚を行う事ができる。②：このカードがＥＸデッキに表側で存在する状態で、自分フィールドの表側表示のＰモンスターが戦闘・効果で破壊された場合に発動できる。このカードを手札に加える。
   | ko_lore               = 
   | jp_sets               = 
-  AGOV-JP002; Age of Overlord; 
+  AGOV-JP002; Age of Overlord; Common
   | mentions              = Supreme King Z-ARC
   | supports              = 
   * Pendulum Monster
@@ -66,7 +67,6 @@ wikitext: |-
   * Requires control of specific card
   * Requires control of specific Monster type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19144
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
