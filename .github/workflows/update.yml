@@ -59,9 +59,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
         run: gh workflow run merge.yaml --repo DawnbrandBots/yaml-yugi
+    outputs:
+      status: ${{ steps.commit.outputs.status }}
   validate:
     needs: download
-    if: ${{ !cancelled() }}
+    if: needs.download.outputs.status > 0 && !cancelled()
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
