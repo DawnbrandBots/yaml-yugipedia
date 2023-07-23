@@ -14,12 +14,20 @@ wikitext: |-
   | atk              = 1300
   | def              = 0
   | requirement      = None
-  | lore             = Each player [[shuffle]]s 3 [[monsters]] from their opponent's [[Graveyard]] into the owner's [[Main Deck|Deck]]. Then, if this card is in [[Maximum Mode]], it gains [[ATK]] equal to [the total [[Level]]s of the [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monsters shuffled by this [[effect]]] x 100 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = Each [[Duelist|player]] [[shuffle]]s 3 [[Monster Card|monster]]s from their opponent's [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]]. Then, if this card is in [[Maximum Mode]], it gains [[ATK]] equal to [the total [[Level]]s of the [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monsters shuffled by this [[effect]]] x 100 until the end of this [[turn]].
+  | ja_requirement   = なし
+  | ja_lore          = お互いはそれぞれ相手の墓地のモンスター３体を選び、持ち主のデッキに戻す。このカードがマキシマムモードの場合、さらにこのカードの攻撃力はターン終了時まで、［この効果で戻したモンスター（地属性／機械族）のレベルの合計］×１００アップする。
   | jp_sets          = 
   RD/KP14-JP005; Phoenix of the Roaring Flame; Rare
+  | supports         = 
+  * EARTH
+  * Machine
   | archseries       = Jointech
+  | action           = 
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change      = This card gains ATK
+  | misc             = Requires Maximum Mode
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
