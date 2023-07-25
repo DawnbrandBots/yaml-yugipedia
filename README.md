@@ -17,6 +17,8 @@ The categories being downloaded are
 - [TCG and OCG archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes): [`/wikitext/archetypes`](/wikitext/archetypes)
 - [Yu-Gi-Oh! Master Duel cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards): [`/wikitext/master-duel-cards`](/wikitext/master-duel-cards)
 - [Yu-Gi-Oh! Master Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists): [`/wikitext/master-duel-limit-regulation`](/wikitext/master-duel-limit-regulation)
+- [Tokens](https://yugipedia.com/wiki/Category:Tokens): [`/wikitext/tokens`](/wikitext/tokens)
+- [Cards by Konami index number](https://yugipedia.com/wiki/Category:Cards_by_Konami_index_number): [`/wikitext/konami-index`](/wikitext/konami-index)
 - ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards): [`/wikitext/duel-links-cards`](/wikitext/duel-links-cards)
 - ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills): [`/wikitext/duel-links-skills`](/wikitext/duel-links-skills)
 - NOT UPDATING: [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg)
