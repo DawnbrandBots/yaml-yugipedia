@@ -49,6 +49,10 @@ jobs:
         run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_cards" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - working-directory: wikitext/master-duel-limit-regulation
         run: python3 ../../src/incremental.py "Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists" "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/tokens
+        run: python3 ../../src/incremental.py Tokens "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - working-directory: wikitext/konami-index
+        run: python3 ../../src/incremental.py Cards_by_Konami_index_number "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - id: commit
         uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
         if: always()
