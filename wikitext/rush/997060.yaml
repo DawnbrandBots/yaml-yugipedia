@@ -12,11 +12,17 @@ wikitext: |-
   | atk              = 1100
   | def              = 800
   | requirement      = If you have a [[Dinosaur]] [[Type]] [[Normal Monster]] in your [[Graveyard]], [[send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard.
-  | lore             = 1 [[face-up]] Dinosaur Type monster on your [[field]] gains [[ATK]] equal to [the number of Dinosaur Type Normal Monsters in your Graveyard] x 300 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = 1 [[face-up]] Dinosaur Type [[Monster Card|monster]] on your [[field]] gains [[ATK]] equal to [the number of Dinosaur Type Normal Monsters in your Graveyard] x 300 until the end of this [[turn]].
+  | ja_requirement   = 自分の墓地に通常モンスター（恐竜族）がいる場合、デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_lore          = 自分フィールドの表側表示モンスター（恐竜族）１体を選び、その攻撃力をターン終了時まで、［自分の墓地の通常モンスター（恐竜族）の数］×３００アップする。
   | jp_sets          = 
   RD/KP14-JP039; Phoenix of the Roaring Flame; Common
+  | supports         = 
+  * Dinosaur
+  * Normal Monster
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = Your monsters gain ATK
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
