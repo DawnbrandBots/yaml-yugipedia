@@ -16,8 +16,8 @@ wikitext: |-
   | effect_types          = Multi-Choice
   | fusion_material       = Ray Dragon
   | materials             = "[[Ray Dragon]]" + "Ray Dragon"
-  | requirement           = If the only monsters in your [[Graveyard]] are [[Dragon]] and/or [[High Dragon]] [[Type]] [[monsters]], pay 500 [[LP]].
-  | lore                  = ● 1 [[face-up]] [[Normal Monster]] on your [[field]] can attack twice this [[turn]].<br />● [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard in your [[Spell & Trap Zone]].
+  | requirement           = If the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Dragon]] and/or [[High Dragon]] [[Type]] monsters, [[pay]] 500 [[LP]].
+  | lore                  = ● 1 [[face-up]] [[Normal Monster]] on your [[field]] can [[attack]] twice this [[turn]].<br />● [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard in your [[Spell & Trap Zone]].
   | ja_materials          = 「レイ・ドラゴン」＋「レイ・ドラゴン」
   | ja_requirement        = 自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、５００ＬＰを払って発動できる。
   | ja_lore               = ●自分フィールドの表側表示の通常モンスター１体を選ぶ。このターン、そのモンスターは２回攻撃できる。●自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。
@@ -35,12 +35,15 @@ wikitext: |-
   * Dragon
   * High Dragon
   * Normal Monster
+  | related_to_archseries = Fusion (archetype)
   | action                = Sets from your Graveyard
   | summoning             = 
   * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
   * Requires only specific Normal Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
   | attack                = Allows multiple attacks
   | life_points           = Pays Life Points for cost
+  | misc                  = Requires control of specific Monster type
   | database_id           = 18616
   }}

@@ -3,43 +3,44 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|環|かん}}{{Ruby|幻|げん}}{{Ruby|楽|がっ}}{{Ruby|姫|き}}アクションメロディ
-  | romaji_name      = Kangengakki Akushon Merodi
-  | trans_name       = Axetion Melody the Phantasmagorical Music Princess
-  | image            = AxetionMelodytheMusicPrincess-RDTB01-JP-SR.png
-  | attribute        = WIND
-  | types            = Warrior / Fusion / Effect
-  | level            = 8
-  | atk              = 2800
-  | def              = 2800
-  | fusion_material  = 
+  | ja_name               = {{Ruby|環|かん}}{{Ruby|幻|げん}}{{Ruby|楽|がっ}}{{Ruby|姫|き}}アクションメロディ
+  | romaji_name           = Kangengakki Akushon Merodi
+  | trans_name            = Axetion Melody the Phantasmagorical Music Princess
+  | image                 = AxetionMelodytheMusicPrincess-RDTB01-JP-SR.png
+  | attribute             = WIND
+  | types                 = Warrior / Fusion / Effect
+  | level                 = 8
+  | atk                   = 2800
+  | def                   = 2800
+  | fusion_material       = 
   * Tubardiche the Music Princess
   * Boton the Music Princess
-  | materials        = "[[Tubardiche the Music Princess]]" + "[[Boton the Music Princess]]"
-  | requirement      = Place 1 [[Spell Card]] from your [[Graveyard]] on either the top or bottom of the [[Main Deck|Deck]].
-  | lore             = 1 [[face-up]] [[monster]] on your opponent's [[field]] loses 2000 [[ATK]]/[[DEF]] until the end of your opponent's next [[turn]]. Then, if you placed "[[Straight Pierce]]" or "[[Fusion (Rush Duel)|Fusion]]" to meet the requirement, you can [[Draw a card|draw]] 1 card.
-  | ja_materials     = 「振楽姫チューバルディッシュ」＋「揮楽姫コンタクト」
-  | ja_requirement   = 自分の墓地の魔法カード１枚をデッキの上か下に戻して発動できる。
-  | ja_lore          = 相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力を次の相手ターン終了時まで２０００ダウンする。この効果の条件で「一気貫通」または「フュージョン」を戻した場合、さらに自分は１枚ドローできる。
-  | jp_sets          = 
+  | materials             = "[[Tubardiche the Music Princess]]" + "[[Boton the Music Princess]]"
+  | requirement           = Place 1 [[Spell Card]] from your [[Graveyard]] on either the top or bottom of the [[Main Deck|Deck]].
+  | lore                  = 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] loses 2000 [[ATK]]/[[DEF]] until the end of your opponent's next [[turn]]. Then, if you placed "[[Straight Pierce]]" or "[[Fusion (Rush Duel)|Fusion]]" to meet the [[Activation condition|requirement]], you can [[Draw a card|draw]] 1 card.
+  | ja_materials          = 「振楽姫チューバルディッシュ」＋「揮楽姫コンタクト」
+  | ja_requirement        = 自分の墓地の魔法カード１枚をデッキの上か下に戻して発動できる。
+  | ja_lore               = 相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力を次の相手ターン終了時まで２０００ダウンする。この効果の条件で「一気貫通」または「フュージョン」を戻した場合、さらに自分は１枚ドローできる。
+  | jp_sets               = 
   RD/TB01-JP020; Triple Build Pack: Godbreath Wing; Super Rare, Over Rush Rare
-  | mentions         = 
+  | mentions              = 
   * Tubardiche the Music Princess
   * Boton the Music Princess
   * Straight Pierce
   * Fusion (Rush Duel)
-  | archseries       = Music Princess
-  | action           = 
+  | archseries            = Music Princess
+  | related_to_archseries = Fusion (archetype)
+  | action                = 
   * Places cards from the player's Graveyard on the top of the Deck for cost
   * Places cards from the player's Graveyard on the bottom of the Deck for cost
   * You draw cards
-  | stat_change      = 
+  | stat_change           = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | summoning        = 
+  | summoning             = 
   * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
-  * Requires only specific monsters as Fusion Materials
-  | database_id      = 19111
+  | database_id           = 19111
   }}

@@ -9,7 +9,7 @@ wikitext: |-
   | card_type             = Spell
   | property              = Normal
   | requirement           = None
-  | lore                  = [[Fusion Summon]] by shuffling [[monsters]] from your [[field]] and/or [[Graveyard]] into the owner's [[Main Deck|Deck]] as [[material]], including "[[Sevens Road Magician]]".
+  | lore                  = [[Fusion Summon]] by [[Shuffle|shuffling]] [[Monster Card|monster]]s from your [[field]] and/or [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]], including "[[Sevens Road Magician]]".
   | ja_requirement        = なし
   | ja_lore               = 「セブンスロード・マジシャン」を含む自分のフィールド・墓地のモンスターを素材として持ち主のデッキに戻し、フュージョン召喚する。
   | jp_sets               = 
@@ -23,9 +23,10 @@ wikitext: |-
   * Uses cards on the player's field as Fusion Materials
   * Uses cards in the player's Graveyard as Fusion Materials
   * Returns Fusion Materials used in a Fusion Summon to Deck
-  * Can only use certain Fusion Materials
+  * Must include particular Fusion Materials
   | summoning             = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
+  | misc                  = Requires control of specific card
   | database_id           = 18983
   }}
