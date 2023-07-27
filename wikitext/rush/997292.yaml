@@ -11,12 +11,19 @@ wikitext: |-
   | level            = 2
   | atk              = 400
   | def              = 200
-  | requirement      = If you have 3 or more [[Insect]] [[Type]] [[monster]]s in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | requirement      = If you have 3 or more [[Insect]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | lore             = This [[turn]], 1 [[face-up]] [[Level]] 8 or lower Insect Type monster on your [[field]] gains 200 [[ATK]] and can make up to 2 [[attack]]s on monsters.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の墓地にモンスター（昆虫族）が３体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = 自分フィールドの表側表示モンスター（レベル８以下／昆虫族）１体を選ぶ。このターン、そのモンスターの攻撃力は２００アップし、モンスターに２回攻撃できる。
   | jp_sets          = 
   RD/KP14-JP033; Phoenix of the Roaring Flame; Common
+  | supports         = Insect
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = Your monsters gain ATK
+  | attack           = Allows multiple attacks on monsters
+  | misc             = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
