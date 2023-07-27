@@ -45,6 +45,8 @@ wikitext: |-
   * Adds from Graveyard to hand
   * Returns the player's banished cards to the Graveyard
   * Sends itself from field to Graveyard
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Standby Phase Activation
   | database_id           = 11748
   }}
