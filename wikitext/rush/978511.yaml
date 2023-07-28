@@ -3,22 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = エクスキューティー・ライディング！
-  | romaji_name    = Ekusukyūtī Raidingu!
-  | ko_name        = 
-  | ko_rr_name     = 
-  | image          = ExcutieRiding-RDKP14-JP-OP.png
-  | card_type      = Trap
-  | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s an [[Effect Monster]] [[face-up]].
-  | lore           = Special Summon 1 monster with [[ATK]] less than or equal to that monster from your [[Graveyard]] to your [[field]] in face-up [[Attack Position]]. Then, you can make up to 2 face-up monsters on your opponent's field lose 1800 ATK until the end of this [[turn]].
-  | ja_requirement = 
-  | ja_lore        = 
-  | ko_requirement = 
-  | ko_lore        = 
-  | jp_sets        = 
+  | ja_name          = エクスキューティー・ライディング！
+  | romaji_name      = Ekusukyūtī Raidingu!
+  | ko_name          = 
+  | ko_rr_name       = 
+  | image            = ExcutieRiding-RDKP14-JP-OP.png
+  | card_type        = Trap
+  | property         = Normal
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s an [[Effect Monster]] [[face-up]].
+  | lore             = Special Summon 1 [[Monster Card|monster]] with [[ATK]] less than or equal to that monster from your [[Graveyard]] to your [[field]] in face-up [[Attack Position]]. Then, you can make up to 2 face-up monsters on your opponent's field lose 1800 ATK until the end of this [[turn]].
+  | ja_requirement   = 相手が効果モンスターを表側表示で召喚・特殊召喚した時に発動できる。
+  | ja_lore          = そのモンスターの攻撃力以下の自分の墓地のモンスター１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを２体まで選んでその攻撃力をターン終了時まで１８００ダウンできる。
+  | ko_requirement   = 
+  | ko_lore          = 
+  | jp_sets          = 
   RD/KP14-JP064; Phoenix of the Roaring Flame; Ultra Rare, Secret Rare, Over Rush Rare
-  | archseries     = Excutie
-  | database_id    = 
+  | archseries       = Excutie
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change      = Your opponent's monsters lose ATK
+  | summoning        = Special Summons from your Graveyard
+  | database_id      = 
   | rush_duel_status = Not yet released
   }}
