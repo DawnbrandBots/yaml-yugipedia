@@ -1,7 +1,5 @@
 title: Salamangreat Burst Gryphon
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,8 +18,8 @@ wikitext: |-
   | def                   = 2000
   | password              = 10140443
   | materials             = 1 Tuner + 1 or more non-Tuner monsters
-  | effect_types          = Trigger, Ignition, Condition
-  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />If this card is [[Synchro Summon]]ed using "Salamangreat Burst Gryphon" as [[material]]: You can [[activate]] this [[effect]]; during the next [[Standby Phase]], [[Special Summon]] 1 monster from your [[Graveyard|GY]]. You can target 1 [[Level]] 7 or lower FIRE monster in your GY; you cannot Special Summon monsters for the rest of this [[turn]], except [[FIRE]] monsters, also Special Summon that monster, and if you do, reduce this card's [[Level]] by that monster's original Level. You can only use each effect of "Salamangreat Burst Gryphon" [[once per turn]].
+  | effect_types          = Ignition, Trigger, Condition
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />You can target 1 [[Level]] 7 or lower [[FIRE]] monster in your [[GY]]; [[Special Summon]] it, and if you do, reduce this card's [[Level]] by that monster's original Level, also you cannot Special Summon monsters for the rest of this [[turn]], except FIRE monsters. If this card is [[Synchro Summon]]ed using "Salamangreat Burst Gryphon" as [[material]]: You can [[activate]] this [[effect]]; during the next [[Standby Phase]], Special Summon 1 monster from your GY. You can only use each effect of "Salamangreat Burst Gryphon" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,6 +27,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地のレベル７以下の炎属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚し、そのモンスターの元々のレベル分だけこのカードのレベルを下げる。このターン、自分は炎属性モンスターしか特殊召喚できない。②：このカードが「転生炎獣バースト・グリフォン」を素材としてＳ召喚した場合に発動できる。次のスタンバイフェイズに自分の墓地からモンスター１体を特殊召喚する。
   | ko_lore               = 
+  | en_sets               = 
+  LD10-EN004; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | fr_sets               = 
+  LD10-FR004; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | de_sets               = 
+  LD10-DE004; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | it_sets               = 
+  LD10-IT004; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | pt_sets               = 
+  LD10-PT004; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | sp_sets               = 
+  LD10-SP004; Legendary Duelists: Soulburning Volcano; Ultra Rare
   | jp_sets               = 
   DP28-JP004; Duelist Pack: Duelists of Explosion; Super Rare, Secret Rare
   | mentions              = Salamangreat Burst Gryphon
@@ -43,7 +53,9 @@ wikitext: |-
   * Does not require specific Synchro Materials
   * Special Summons from your Graveyard
   * Restricts the player's Special Summons to Attribute specific monsters
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Standby Phase Activation
   | database_id           = 18911
   | tcg_status            = Not yet released
   }}

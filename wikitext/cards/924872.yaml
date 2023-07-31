@@ -1,7 +1,5 @@
 title: Fire Ejection
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 11654067
   | effect_types          = Effect, Condition
-  | lore                  = [[Send]] 1 [[Pyro]] [[monster]] from your [[Main Deck|Deck]] to the [[GY]], then, if it is a "[[Volcanic]]" monster, you can apply 1 of these [[effect]]s.<br />● Inflict [[Effect damage|damage]] to your opponent equal to its [[Level]] x 100.<br />● [[Special Summon]] 1 "[[Bomb Token]]" ([[FIRE]]/[[Pyro]]/[[Level]] 1/[[ATK]] 1000/[[DEF]] 1000) to your opponent's field. When this Token is destroyed, its [[controller]] takes 500 damage.<br />You can only [[activate]] 1 "Fire Ejection" per [[turn]].
+  | lore                  = [[Send]] 1 [[Pyro]] [[monster]] from your [[Main Deck|Deck]] to the [[GY]], then, if you sent a "[[Volcanic]]" monster to the GY, you can apply 1 of these [[effect]]s.<br />● Inflict [[Effect damage|damage]] to your opponent equal to its [[Level]] x 100.<br />● [[Special Summon]] 1 "[[Bomb Token]]" ([[FIRE]]/[[Pyro]]/[[Level]] 1/[[ATK]] 1000/[[DEF]] 1000) to your opponent's field. Each time 1 is destroyed, its [[controller]] takes 500 damage.<br />You can only [[activate]] 1 "Fire Ejection" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,6 +23,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：デッキから炎族モンスター１体を墓地へ送る。この効果で「ヴォルカニック」モンスターを墓地へ送った場合、さらに以下の効果から１つを選んで適用できる。<br />●そのレベル×１００ダメージを相手に与える。<br />●相手フィールドに「ボムトークン」（炎族・炎・星１・攻／守１０００）１体を特殊召喚する。このトークンが破壊された時にそのコントローラーは５００ダメージを受ける。
   | ko_lore               = 
+  | en_sets               = 
+  LD10-EN022; Legendary Duelists: Soulburning Volcano; Super Rare
+  | fr_sets               = 
+  LD10-FR022; Legendary Duelists: Soulburning Volcano; Super Rare
+  | de_sets               = 
+  LD10-DE022; Legendary Duelists: Soulburning Volcano; Super Rare
+  | it_sets               = 
+  LD10-IT022; Legendary Duelists: Soulburning Volcano; Super Rare
+  | pt_sets               = 
+  LD10-PT022; Legendary Duelists: Soulburning Volcano; Super Rare
+  | sp_sets               = 
+  LD10-SP022; Legendary Duelists: Soulburning Volcano; Super Rare
   | jp_sets               = 
   DP28-JP022; Duelist Pack: Duelists of Explosion; Rare
   | mentions              = Bomb Token

@@ -1,7 +1,5 @@
 title: Volcanic Emission
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +15,7 @@ wikitext: |-
   | property              = Normal
   | password              = 58143766
   | effect_types          = Effect, Condition
-  | lore                  = [[Activate]] 1 of these [[effect]]s.<br />● Take 1 "[[Volcanic]]" [[monster]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it, [[ignoring its Summoning conditions]], but [[return]] it to the hand during the [[End Phase]].<br />● [[Target]] 1 [[Pyro]] monster on the [[field]]; inflict [[Effect damage|damage]] to your opponent equal to its [[original ATK]]. If you targeted a monster you [[control]], the damage inflicted by this [[effect]] is halved.<br />You can only use each [[effect]] of "Volcanic Emission" [[once per turn]].
+  | lore                  = [[Activate]] 1 of these [[effect]]s (but you can only use each [[effect]] of "Volcanic Emission" [[once per turn]]);<br />● Take 1 "[[Volcanic]]" [[monster]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it, [[ignoring its Summoning conditions]], but [[return]] it to the hand during the [[End Phase]].<br />● [[Target]] 1 [[Pyro]] monster on the [[field]]; inflict [[Effect damage|damage]] to your opponent equal to that monster's [[original ATK]], or if you targeted a monster you [[control]], the damage is halved.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,6 +23,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = ①：以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。<br />●デッキから「ヴォルカニック」モンスター１体を選び、手札に加えるか召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに手札に戻る。<br />●フィールドの炎族モンスター１体を対象として発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。自分フィールドのモンスターを対象として発動した場合、この効果で与えるダメージは半分になる。
   | ko_lore               = 
+  | en_sets               = 
+  LD10-EN023; Legendary Duelists: Soulburning Volcano; Super Rare
+  | fr_sets               = 
+  LD10-FR023; Legendary Duelists: Soulburning Volcano; Super Rare
+  | de_sets               = 
+  LD10-DE023; Legendary Duelists: Soulburning Volcano; Super Rare
+  | it_sets               = 
+  LD10-IT023; Legendary Duelists: Soulburning Volcano; Super Rare
+  | pt_sets               = 
+  LD10-PT023; Legendary Duelists: Soulburning Volcano; Super Rare
+  | sp_sets               = 
+  LD10-SP023; Legendary Duelists: Soulburning Volcano; Super Rare
   | jp_sets               = 
   DP28-JP023; Duelist Pack: Duelists of Explosion; Super Rare, Secret Rare
   | supports              = Pyro

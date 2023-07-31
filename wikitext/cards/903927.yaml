@@ -1,7 +1,5 @@
 title: Battlin' Boxer Chief Second
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,8 +18,8 @@ wikitext: |-
   | atk                   = 500
   | def                   = 2000
   | password              = 47921178
-  | effect_types          = Trigger, Condition, Continuous
-  | lore                  = When an opponent's [[monster]] [[declare]]s an [[attack]] and you [[control]] a [[FIRE]] and/or [[Warrior]] [[monster]]: You can [[Special Summon]] this card from your [[hand]], and if you do, [[negate]] the attack, then [[banish]] 1 monster on the [[field]] until the [[End Phase]]. You can only use this [[effect]] of "Battlin' Boxer Chief Second" [[once per turn]]. During your [[Main Phase]], you can Normal Summon 1 "[[Battlin' Boxer]]" monster in addition to your [[Normal Summon]]/[[Set]]. (You can only gain this effect once per turn.)
+  | effect_types          = Continuous, Trigger, Condition
+  | lore                  = During your [[Main Phase]], you can [[Normal Summon]] 1 "[[Battlin' Boxer]]" [[monster]] in addition to your [[Normal Summon]]/[[Set]]. (You can only gain this effect once per turn.) When an opponent's monster [[declare]]s an [[attack]], while you [[control]] a [[Warrior]] or [[FIRE]] monster: You can [[Special Summon]] this card from your [[hand]], and if you do, [[negate]] that attack, then [[banish]] 1 monster on the [[field]] until the [[End Phase]]. You can only use this [[effect]] of "Battlin' Boxer Chief Second" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,6 +27,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時、自分フィールドに戦士族モンスターか炎属性モンスターが存在していれば発動できる。このカードを手札から特殊召喚し、その攻撃を無効にする。その後、フィールドのモンスター１体をエンドフェイズまで除外する。②：このカードがモンスターゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに「ＢＫ」モンスター１体を召喚できる。
   | ko_lore               = 
+  | en_sets               = 
+  LD10-EN033; Legendary Duelists: Soulburning Volcano; Rare
+  | fr_sets               = 
+  LD10-FR033; Legendary Duelists: Soulburning Volcano; Rare
+  | de_sets               = 
+  LD10-DE033; Legendary Duelists: Soulburning Volcano; Rare
+  | it_sets               = 
+  LD10-IT033; Legendary Duelists: Soulburning Volcano; Rare
+  | pt_sets               = 
+  LD10-PT033; Legendary Duelists: Soulburning Volcano; Rare
+  | sp_sets               = 
+  LD10-SP033; Legendary Duelists: Soulburning Volcano; Rare
   | jp_sets               = 
   DP28-JP033; Duelist Pack: Duelists of Explosion; Rare
   | supports              = 

@@ -1,7 +1,5 @@
 title: Volcanic Trooper
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +18,7 @@ wikitext: |-
   | def                   = 1000
   | password              = 22411609
   | effect_types          = Trigger, Ignition, Condition
-  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Volcanic]]" card from your [[Main Deck|Deck]] to your [[hand]], except "Volcanic Trooper". You can [[discard]] 1 card; Special Summon 1 "[[Bomb Token]]" ([[Pyro]]/[[FIRE]]/[[Level]] 1/[[ATK]] 1000/[[DEF]] 1000) to your opponent's [[field]]. When this Token is destroyed, its [[controller]] takes 500 damage. You can only use each [[effect]] of "Volcanic Trooper" [[once per turn]].
+  | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Volcanic]]" card from your [[Main Deck|Deck]] to your [[hand]], except "Volcanic Trooper". You can [[discard]] 1 card; Special Summon 1 "[[Bomb Token]]" ([[Pyro]]/[[FIRE]]/[[Level]] 1/[[ATK]] 1000/[[DEF]] 1000) to your opponent's [[field]]. Each time 1 is destroyed, its [[controller]] takes 500 damage. You can only use each [[effect]] of "Volcanic Trooper" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「ヴォルカニック・トルーパー」以外の「ヴォルカニック」カード１枚を手札に加える。②：手札を１枚捨てて発動できる。相手フィールドに「ボムトークン」（炎族・炎・星１・攻／守１０００）１体を特殊召喚する。このトークンが破壊された時にそのコントローラーは５００ダメージを受ける。
   | ko_lore               = 
+  | en_sets               = 
+  LD10-EN019; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | fr_sets               = 
+  LD10-FR019; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | de_sets               = 
+  LD10-DE019; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | it_sets               = 
+  LD10-IT019; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | pt_sets               = 
+  LD10-PT019; Legendary Duelists: Soulburning Volcano; Ultra Rare
+  | sp_sets               = 
+  LD10-SP019; Legendary Duelists: Soulburning Volcano; Ultra Rare
   | jp_sets               = 
   DP28-JP019; Duelist Pack: Duelists of Explosion; Super Rare, Secret Rare
   | mentions              = Bomb Token
