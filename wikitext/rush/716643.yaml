@@ -19,7 +19,7 @@ wikitext: |-
   | effect_types          = Multi-Choice
   | materials             = "[[Sevens Road Magician]]" + "[[Swordsman of Roadstar]]"
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                  = ● This card gains [[ATK]] equal to [the number of different [[Attribute]]s in both players' Graveyards] x 400 until the end of this [[turn]].<br />● [[Shuffle]] 1 monster from your Graveyard into the Deck, then [[Draw a card|draw]] 1 card.
+  | lore                  = ● This card gains [[ATK]] equal to [the number of different [[Attribute]]s in both [[Duelist|player]]s' Graveyards] x 400 until the end of this [[turn]].<br />● [[Shuffle]] 1 [[Monster Card|monster]] from your Graveyard into the Deck. Then, you can [[Draw a card|draw]] 1 card.
   | ja_materials          = 「セブンスロード・マジシャン」＋「ロードスターの剣士」
   | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_lore               = ●このカードの攻撃力はターン終了時まで、［お互いの墓地のモンスターの属性の種類］×４００アップする。●自分の墓地のモンスター１体を選んでデッキに戻す。その後、自分は１枚ドローできる。
@@ -32,17 +32,20 @@ wikitext: |-
   RD/SA03-JP001; Secret Ace Pack Vol.3; Secret Rare
   | kr_sets               = 
   RD/EXT1-KR015; Extra Transcend Enhancement Pack; Ultra Rare, Rush Rare
+  | mentions              = 
+  * Sevens Road Magician
+  * Swordsman of Roadstar
   | related_to_archseries = Sevens Road
   | action                = 
   * Sends from the top of your Deck to your Graveyard for cost
   * Returns from your Graveyard to your Deck
   * You draw cards
   | stat_change           = This card gains ATK
-  | summoning              = 
+  | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
-  * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
   | misc                  = Variable effects
   | database_id           = 16900
   }}
