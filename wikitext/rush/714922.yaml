@@ -14,12 +14,12 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2000
   | effect_types          = Multi-Choice
-  | fusion_material        = 
+  | fusion_material       = 
   * Illusion Strike Dragon Miragias
   * The Dragon
   | materials             = "[[Illusion Strike Dragon Miragias]]" + "[[The Dragon]]"
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                  = ● Up to 3 [[face-up]] monsters on your opponent's [[field]] lose 1500 [[ATK]] until the end of this [[turn]]. This turn, this card can make up to 2 attacks on monsters.<br />● This turn, this card can attack directly.
+  | lore                  = ● Up to 3 [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 1500 [[ATK]] until the end of this [[turn]]. This turn, this card can make up to 2 [[attack]]s on monsters.<br />● This turn, this card can attack [[Direct attack|directly]].
   | ja_materials          = 「幻撃竜ミラギアス」＋「ザ☆ドラゴン」
   | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_lore               = ●相手フィールドの表側表示モンスターを３体まで選び、その攻撃力をターン終了時まで１５００ダウンする。このターン、このカードはモンスターに２回攻撃できる。●このターン、このカードは直接攻撃できる。
@@ -36,13 +36,13 @@ wikitext: |-
   * The Dragon
   | archseries            = Strike Dragon
   | related_to_archseries = The
-  | action                = Sends from the top of your Deck to your Graveyard
+  | action                = Sends from the top of your Deck to your Graveyard for cost
   | stat_change           = Your opponent's monsters lose ATK
   | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
-  * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
   | attack                = 
   * Can make multiple attacks on monsters
   * Direct attacker

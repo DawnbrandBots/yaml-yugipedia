@@ -20,8 +20,8 @@ wikitext: |-
   * CAN:D
   * Psypickupper
   | materials             = "[[CAN:D]]" + "[[Psypickupper]]"
-  | requirement           = Your opponent has a [[monster]] on their [[field]].
-  | lore                  = ● Take 2000 [[Effect damage|damage]], then you can make all [[face-up]] monsters on your opponent's field lose 3000 [[ATK]] until the end of this [[turn]].<br />● Gain 1000 [[LP]], then you can [[Special Summon]] 1 [[Level]] 7 or higher [[Psychic]] [[Type]] monster from your [[Graveyard]] face-up to your field.
+  | requirement           = Your opponent has a [[Monster Card|monster]] on their [[field]].
+  | lore                  = ● [[Damage|Take]] 2000 [[Effect damage|damage]]. Then, you can make all [[face-up]] monsters on your opponent's field lose 3000 [[ATK]] until the end of this [[turn]].<br />● Gain 1000 [[LP]]. Then, you can [[Special Summon]] 1 [[Level]] 7 or higher [[Psychic]] [[Type]] monster from your [[Graveyard]] face-up to your field.
   | ja_materials          =「ＣＡＮ：Ｄ」＋「サイピックアッパー」
   | ja_requirement        = 相手フィールドにモンスターがいる場合に発動できる。
   | ja_lore               = ●自分は２０００ダメージを受ける。その後、相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで３０００ダウンできる。●自分は１０００ＬＰ回復する。その後、自分の墓地のモンスター（レベル７以上／サイキック族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
@@ -39,6 +39,7 @@ wikitext: |-
   * Psypickupper
   | supports              = Psychic
   | archseries            = JAM
+  | related_to_archseries = Psychic Musician
   | stat_change           = Your opponent's monsters lose ATK
   | summoning             = 
   * 2 Fusion Materials

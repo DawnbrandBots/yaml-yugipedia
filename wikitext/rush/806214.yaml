@@ -3,34 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name             = ヴォイドヴェルグ・ギガントマキア
-  | romaji_name         = Voidoverugu Gigantomakia
-  | image               = VoidvelgrGigantomachia-RDKP13-JP-UR.png
-  | attribute           = DARK
-  | types               = Galaxy / Fusion / Effect
-  | level               = 9
-  | atk                 = 3400
-  | def                 = 2500
-  | fusion_material     = 
+  | ja_name         = ヴォイドヴェルグ・ギガントマキア
+  | romaji_name     = Voidoverugu Gigantomakia
+  | image           = VoidvelgrGigantomachia-RDKP13-JP-UR.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 9
+  | atk             = 3400
+  | def             = 2500
+  | fusion_material = 
   * Voidvelgr Requiem
   * Voidvelgr Chrysaor
-  | materials           = "[[Voidvelgr Requiem]]" + "[[Voidvelgr Chrysaor]]"
-  | requirement         = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore                = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on either [[field]]. Then, this [[turn]], this card gains 500 [[ATK]] and can [[attack]] twice.
-  | ja_materials        = 「ヴォイドヴェルグ・レクイエム」＋「ヴォイドヴェルグ・クリュサオル」
-  | ja_requirement      = 手札１枚を墓地へ送って発動できる。
-  | ja_lore             = 自分または相手フィールドの魔法・罠カード１枚を選んで破壊する。さらにこのターン、このカードの攻撃力は５００アップし、２回攻撃できる。
-  | jp_sets             = 
+  | materials       = "[[Voidvelgr Requiem]]" + "[[Voidvelgr Chrysaor]]"
+  | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore            = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on either [[field]]. Then, this [[turn]], this card gains 500 [[ATK]] and can [[attack]] twice.
+  | ja_materials    = 「ヴォイドヴェルグ・レクイエム」＋「ヴォイドヴェルグ・クリュサオル」
+  | ja_requirement  = 手札１枚を墓地へ送って発動できる。
+  | ja_lore         = 自分または相手フィールドの魔法・罠カード１枚を選んで破壊する。さらにこのターン、このカードの攻撃力は５００アップし、２回攻撃できる。
+  | jp_sets         = 
   RD/KP13-JP040; Oblivion of the Flash; Ultra Rare, Secret Rare, Over Rush Rare
-  | archseries          = Voidvelgr
-  | action              = Sends from hand to Graveyard for cost
-  | stat_change         = This card gains ATK
-  | m/s/t               = 
+  | mentions        = 
+  * Voidvelgr Requiem
+  * Voidvelgr Chrysaor
+  | archseries      = Voidvelgr
+  | action          = Sends from hand to Graveyard for cost
+  | stat_change     = This card gains ATK
+  | m/s/t           = 
   * Destroys Spell Cards
   * Destroys Trap Cards
-  | summoning           = 
+  | summoning       = 
   * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
-  | attack              = Multiple attacker
-  | database_id         = 18969
+  | attack          = Multiple attacker
+  | database_id     = 18969
   }}
