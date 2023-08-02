@@ -3,16 +3,17 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = キャットロワ チョイス
   | romaji_name      = Kyattorowa Choisu
-  | image            = CattroisChoice-OW.png
-  | card_type        = ???
-  | property         = ???
-  | lore             = [TBA]
+  | image            = CattroisChoice-RDKP14-JP-OP.png
+  | card_type        = Spell
+  | property         = Normal
+  | requirement      = Your opponent has a [[monster]] on their [[field]].
+  | lore             = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have 3 or less monsters in your Graveyard, you can [[Add a card|add]] 1 card from your Graveyard to your [[hand]].
+  | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP14-JP0??; Phoenix of the Roaring Flame; 
+  RD/KP14-JP055; Phoenix of the Roaring Flame; Rare
   | rush_duel_status = Not yet released
   | database_id      = 
   }}
