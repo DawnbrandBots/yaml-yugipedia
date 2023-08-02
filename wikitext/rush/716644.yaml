@@ -13,7 +13,7 @@ wikitext: |-
   | atk            = 1200
   | def            = 100
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore           = [[Return]] 1 [[face-up]] non-[[Level]] 3 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from either side of the [[field]] to the [[hand]]. Then, if you returned "[[Sevens Road Magician]]" to the hand by this [[effect]], you can [[Draw a card|draw]] 1 card.
+  | lore           = [[Return]] 1 [[face-up]] non-[[Level]] 3 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from either side of the [[field]] to the [[owner]]'s [[hand]]. Then, if you returned "[[Sevens Road Magician]]" to the hand by this [[effect]], you can [[Draw a card|draw]] 1 card.
   | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_lore        = 自分または相手フィールドの表側表示モンスター（レベル３以外／魔法使い族）１体を選んで持ち主の手札に戻す。この効果で「セブンスロード・マジシャン」を手札に戻した場合、さらに自分は１枚ドローできる。
   | ko_requirement = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
@@ -33,6 +33,5 @@ wikitext: |-
   | misc           = 
   * Requires control of specific Level
   * Requires control of specific Type
-  * Requires control of specific card
   | database_id    = 16953
   }}
