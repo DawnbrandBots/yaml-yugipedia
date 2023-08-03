@@ -17,7 +17,7 @@ wikitext: |-
   | atk            = 500
   | def            = 0
   | requirement    = If your [[LP]] are lower than your opponent's, [[pay]] 500 LP.
-  | lore           = [[Send]] the top 3 cards of your [[Deck]] to the [[Graveyard]]. If a [[Psychic]] [[Type]] [[monster]](s) is among the cards sent, [[add]] 1 Psychic Type monster from the Graveyard to your [[hand]].
+  | lore           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. If a [[Psychic]] [[Type]] [[Monster Card|monster]](s) is among the cards sent, [[Add a card|add]] 1 Psychic Type monster from the Graveyard to your [[hand]].
   | fr_requirement = Si vos LP sont inférieurs à ceux de votre adversaire, payez 500 LP.
   | fr_lore        = Envoyez les 3 cartes du dessus de votre Deck au Cimetière. Si un ou plusieurs monstres de Type Psychique se trouvent parmi les cartes envoyées, ajoutez 1 monstre de Type Psychique depuis le Cimetière dans votre main.
   | de_requirement = Falls du weniger LP hast als dein Gegner, zahle 500 LP.
@@ -44,9 +44,8 @@ wikitext: |-
   | action         = 
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
-  | life_points    = 
-  * Requires specific LP
-  * Pays Life Points for cost
+  | life_points    = Pays Life Points for cost
   | fm_for         = Endless Romance Blitz
+  | misc           = Requires specific LP
   | database_id    = 15433
   }}

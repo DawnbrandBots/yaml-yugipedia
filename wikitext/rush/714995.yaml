@@ -17,7 +17,7 @@ wikitext: |-
   | atk            = 2300
   | def            = 0
   | requirement    = Your opponent's [[LP]] are at least 2000 higher than yours.
-  | lore           = Inflict 1500 [[Effect damage|damage]] to the opponent.
+  | lore           = [[Damage|Inflict]] 1500 [[Effect damage|damage]] to the opponent.
   | fr_requirement = Votre adversaire a min. 2000 LP de plus que vous.
   | fr_lore        = Infligez 1500 points de dommages à l'adversaire.
   | de_requirement = Dein Gegner hat mindestens 2000 mehr LP als du.
@@ -37,9 +37,8 @@ wikitext: |-
   RD/CP01-KR028; Character Pack - Gavin/Roa/Romin; Ultra Rare, Secret Rare
   RD/MRP1-KR031; Megaroad Pack; Common
   | archseries     = Psychic Musician
-  | life_points    = 
-  * Requires specific LP
-  * Damages your opponent
+  | life_points    = Damages your opponent
   | fm_for         = Endless Romance Blitz
+  | misc           = Requires specific LP
   | database_id    = 15676
   }}
