@@ -8,22 +8,22 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               =
+  | ja_name               = {{Ruby|天使の聲|アンジェロ・ヴァルモニカ}}
   | romaji_name           = 
-  | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = AngeloValmonica-DBVS-JP-OP.png
   | attribute             = DARK
   | types                 = Fairy / Pendulum / Effect
-  | pendulum_scale        = 3 
+  | level                 = 4
+  | pendulum_scale        = 3
   | atk                   = 1200
-  | def                   = 1200
+  | def                   = 2100
   | password              = 
-  | pendulum_effect_types = 
-  | effect_types          = 
-  | pendulum_effect        = While you have a Fiend monster in your other Pendulum Zone, each time you gain LP, place 1 Resonance Counter on this card. Once per turn, when an opponent's monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 "Valmonica" monster.
-  | lore                  = If this card is in your hand: You can discard 1 other card; place this card and 1 "Demone Valmonica" from your Deck in your Pendulum Zone. During the Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 "Valmonica" Normal Spell/Trap from your GY; this effect becomes that card's LP gain effect when that card is activated. You can only use each effect of "Angelo Valmonica" once per turn.
+  | pendulum_effect_types = Continuous-like, Trigger-like
+  | effect_types          = Ignition, Ignition, Condition
+  | pendulum_effect        = While you have a [[Fiend]] [[Monster Card]] in your other [[Pendulum Zone]], each time you gain [[LP]], place 1 [[Resonance Counter]] on this card. [[Once per turn]], when an opponent's monster [[declare]]s an [[attack]], you can: Immediately after this [[effect]] [[resolve]]s, [[Link Summon]] 1 "[[Valmonica]]" monster.
+  | lore                  = If this card is in your [[hand]]: You can [[discard]] 1 other card; place both this card and 1 "[[Demone Valmonica]]" from your [[Main Deck|Deck]] in your [[Pendulum Zone]]. During your [[Main Phase]], if this card was [[Normal Summon|Normal]] or [[Special Summon]]ed this [[turn]]: You can [[banish]] 1 "Valmonica" [[Normal Spell]]/[[Normal Trap|Trap]] from your [[GY]]; apply that Spell/Trap's LP gain effect when that card is activated. You can only use each [[monster effect]] of "Angelo Valmonica" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,10 +33,10 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DBVS-JP031; Deck Build Pack: Valiant Smashers; 
+  | mentions              = Demone Valmonica
   | supports              = 
   * Fiend
   * Pendulum Monster
-  * Demone Valmonica
   | archseries            = Valmonica
   | supports_archetypes   = Valmonica
   | misc                  = Cover card

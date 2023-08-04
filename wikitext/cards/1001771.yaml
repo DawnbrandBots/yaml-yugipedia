@@ -8,22 +8,22 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               =
+  | ja_name               = {{Ruby|悪魔の聲|デモーネ・ヴァルモニ}}
   | romaji_name           = 
-  | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = DemoneValmonica-DBVS-JP-OP.png
   | attribute             = LIGHT
   | types                 = Fiend / Pendulum / Effect
-  | pendulum_scale        = 5 
+  | level                 = 4
+  | pendulum_scale        = 5
   | atk                   = 1200
-  | def                   = 1200
+  | def                   = 2100
   | password              = 
-  | pendulum_effect_types = 
-  | effect_types          = 
-  | pendulum_effect        = While you have a Fairy monster in your other Pendulum Zone, each time you take effect damage, place 1 Resonance Counter on this card. Monsters your opponent controls lose 100 ATK for each Resonance Counter on cards you control. 
-  | lore                  = If this card is in your hand: You can discard 1 other card; place this card and 1 "Angelo Valmonica" from your Deck in your Pendulum Zone. During the Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 "Valmonica" Normal Spell/Trap from your GY; this effect becomes that card’s damage-inflicting effect when that card is activated. You can only use each effect of "Demone Valmonica" once per turn.
+  | pendulum_effect_types = Continuous-like, Trigger-like
+  | effect_types          = Ignition, Ignition, Condition
+  | pendulum_effect        = While you have a [[Fairy]] [[Monster Card]] in your other [[Pendulum Zone]], each time you take [[effect damage]], place 1 [[Resonance Counter]] on this card. Monsters your opponent [[control]]s lose 100 [[ATK]] for each Resonance Counter on your [[field]].
+  | lore                  = If this card is in your [[hand]]: You can [[discard]] 1 other card; place both this card and 1 "[[Angelo Valmonica]]" from your [[Main Deck|Deck]] in your [[Pendulum Zone]]. During your [[Main Phase]], if this card was [[Normal Summon|Normal]] or [[Special Summon]]ed this [[turn]]: You can [[banish]] 1 "[[Valmonica]]" [[Normal Spell]]/[[Normal Trap|Trap]] from your [[GY]]; apply that Spell/Trap’s damage-inflicting [[effect]] when that card is activated. You can only use each [[monster effect]] of "Demone Valmonica" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,10 +33,10 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   DBVS-JP032; Deck Build Pack: Valiant Smashers; 
+  | mentions              = Angelo Valmonica
   | supports              = 
   * Fairy
   * Pendulum Monster
-  * Angelo Valmonica
   | archseries            = Valmonica
   | supports_archetypes   = Valmonica
   | misc                  = Cover card
