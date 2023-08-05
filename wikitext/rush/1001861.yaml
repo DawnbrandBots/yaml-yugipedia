@@ -9,11 +9,16 @@ wikitext: |-
   | card_type        = Spell
   | property         = Normal
   | requirement      = None
-  | lore             = Up to 3 [[face-up]] [[Effect Monster]]s on your opponent's [[field]] lose 400 [[ATK]]/[[DEF]] until the end of this [[turn]]. Then, if your [[LP]] are lower than your opponent's, you can [[Special Summon]] 1 [[Level]] 7 monster from your [[hand]] face-up to your field.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = Up to 3 [[face-up]] [[Effect Monster]]s on your opponent's [[field]] lose 400 [[ATK]]/[[DEF]] until the end of this [[turn]]. Then, if your [[LP]] are lower than your opponent's, you can [[Special Summon]] 1 [[Level]] 7 [[Monster Card|monster]] from your [[hand]] face-up to your field.
+  | ja_requirement   = なし
+  | ja_lore          = 相手フィールドの表側表示の効果モンスターを３体まで選び、その攻撃力・守備力をターン終了時まで４００ダウンする。自分のＬＰが相手より少ない場合、さらに手札のモンスター（レベル７）１体を自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/KP14-JP054; Phoenix of the Roaring Flame; Super Rare, Secret Rare
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning        = Special Summons from your hand
+  | misc             = Requires specific LP
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
