@@ -33,6 +33,18 @@ wikitext: |-
   | supports              = FIRE
   | archseries            = Fire King
   | supports_archetypes   = Fire King
+  | action                = 
+  * Activates if destroyed by card effect
+  * Activates from your hand
+  | m/s/t                 = 
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  * Destroys your face-up Monster Cards
+  * Destroys hand
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

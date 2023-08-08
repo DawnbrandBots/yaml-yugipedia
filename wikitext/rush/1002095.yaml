@@ -10,15 +10,28 @@ wikitext: |-
   | card_type              = Spell
   | property               = Normal
   | summoning_condition    = This card's name becomes "[[Dark Hole (Rush Duel)|Dark Hole]]" while in the [[Graveyard]].
-  | requirement            = [[Send]] 3 [[DARK]] [[Attribute]] [[Galaxy]] [[Type]] [[monsters]] from your [[hand]] to the [[Graveyard]], or have a [[face-up]] DARK Attribute Galaxy Type [[Fusion Monster]] on your [[field]].
+  | requirement            = [[Send]] 3 [[DARK]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]]s from your [[hand]] to the Graveyard, or have a [[face-up]] DARK Attribute Galaxy Type [[Fusion Monster]] on your [[field]].
   | lore                   = [[Destroy]] all monsters on the field. Then, you can [[Add a card|add]] 1 Galaxy Type monster from your Graveyard to your hand.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 墓地にあるこのカードのカード名は「ブラック・ホール」になる。
+  | ja_requirement         = 手札のモンスター（闇属性／ギャラクシー族）３体を墓地へ送るか、自分フィールドに表側表示のフュージョンモンスター（闇属性／ギャラクシー族）がいる場合に発動できる。
+  | ja_lore                = お互いのフィールドのモンスターを全て破壊する。その後、自分の墓地のモンスター（ギャラクシー族）１体を選んで手札に加える事ができる。
   | jp_sets                = 
   RD/KP14-JP050; Phoenix of the Roaring Flame; Rare
   | mentions               = Dark Hole (Rush Duel)
+  | supports               = 
+  * DARK
+  * Galaxy (Type)
+  * Fusion Monster
   | related_to_archseries  = Voidvelgr
+  | action                 = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change            = Changes own name while in the GY
+  | m/s/t                  = Destroys Monster Cards
+  | misc                   = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
