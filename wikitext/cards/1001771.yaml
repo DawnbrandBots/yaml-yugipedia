@@ -37,9 +37,27 @@ wikitext: |-
   | supports              = 
   * Fairy
   * Pendulum Monster
+  * Normal Spell Card
+  * Normal Trap Card
   | archseries            = Valmonica
   | supports_archetypes   = Valmonica
-  | misc                  = Cover card
+  | counter               = 
+  * Places counters on itself
+  * Resonance Counter
+  | action                = 
+  * Activates from your hand
+  * You discard for cost
+  * Places from hand to Pendulum Zone
+  * Places from Deck to Pendulum Zone
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Resolves as another card's effect
+  | stat_change           = Your opponent's monsters lose ATK
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
+  * Cover card
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
