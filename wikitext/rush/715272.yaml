@@ -10,16 +10,17 @@ wikitext: |-
   | card_type             = Trap
   | property              = Normal
   | requirement           = When a [[monster]](s) on your [[field]] is [[destroy]]ed by an opponent's [[attack]] or their card [[effect]] and you have no other monsters on your field.
-  | lore                  = Change 1 [[face-up]] monster on your opponent's field to [[face-down]] [[Defense Position]]. Then, if a [[Level]] 10 monster was destroyed, you can destroy 1 face-down card on your opponent's field.
+  | lore                  = Change 1 [[face-up]] monster on your opponent's field to [[face-down]] [[Defense Position]]. Then, if the [[original Level]] of the destroyed monster is 10, you can destroy 1 face-down card on your opponent's field.
   | ja_requirement        = 自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時、自分フィールドに他のモンスターがいない場合に発動できる。
-  | ja_lore               = 相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。破壊されたモンスターのレベルが１０の場合、さらに相手フィールドの裏側表示のカード１枚を選んで破壊できる。
+  | ja_lore               = 相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。破壊されたモンスターの元々のレベルが１０の場合、さらに相手フィールドの裏側表示のカード１枚を選んで破壊できる。
   | ko_requirement        = 자신 필드의 몬스터가 상대의 공격 또는 상대의 효과로 파괴되었을 때, 자신 필드에 다른 몬스터가 없을 경우에 발동할 수 있다.
-  | ko_lore               = 상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 파괴된 몬스터가 레벨 10 일 경우, 추가로 상대 필드의 뒷면 표시의 카드 1장을 고르고 파괴할 수 있다.
+  | ko_lore               = 상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 파괴된 몬스터의 원래 레벨이 10 일 경우, 추가로 상대 필드의 뒷면 표시의 카드 1장을 고르고 파괴할 수 있다.
   | jp_sets               = 
   RD/GRP1-JP033; Gold Rush Pack; Super Rare
   RD/VSP1-JP056; Versus Pack Maximum Force; Common
   | kr_sets               = 
   RD/GRP1-KR033; Grand Rush Pack; Super Rare
+  RD/VSP1-KR056; Versus Pack Maximum Force; Common
   | archseries            = Heavenly
   | action                = 
   * Activates if destroyed by battle
