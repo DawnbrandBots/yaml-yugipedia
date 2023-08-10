@@ -50,6 +50,7 @@ wikitext: |-
   DP21-KR049; Duelist Pack: Legend Duelist 4; Rare
   | sc_sets               = 
   DP21-SC062; Duelist Pack: Legend Duelist 4; Rare
+  | mentions              = Lunalight Token
   | supports              = Fusion Monster
   | archseries            = Lunalight
   | supports_archetypes   = Lunalight
@@ -57,12 +58,11 @@ wikitext: |-
   * Activates upon Fusion Summon
   * Activates from your Graveyard
   * Sends from hand to Graveyard
+  | stat_change           = Your monsters gain ATK
   | summoning             = 
   * Special Summons Tokens to your opponent's field
   * Special Summons from your Deck
-  | stat_change           = Your monsters gain ATK
   | banished              = Banishes itself from Graveyard for cost
-  | misc                  = 
-  * Only once per turn
+  | misc                  = Only once per turn
   | database_id           = 14189
   }}
