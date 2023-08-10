@@ -1,6 +1,5 @@
 title: Volcanic Eruption
 wikitext: |-
-  {{Not archetype member|Volcanic|ヴォルカニック}}
   {{CardTable2
   | fr_name               = Éruption Volcanique
   | de_name               = Vulkanausbruch
@@ -11,12 +10,12 @@ wikitext: |-
   | ja_name               = {{Ruby|大|だい}}{{Ruby|噴|ふん}}{{Ruby|火|か}}
   | romaji_name           = Daifunka
   | trans_name            = Great Volcanic Eruption
-  | image                 = VolcanicEruption-LCJW-EN-C-1E.png
+  | image                 = VolcanicEruption-LD10-EN-C-1E.png
   | card_type             = Trap
   | property              = Normal
   | password              = 42175079
-  | effect_types          = Activation requirement, Effect
-  | lore                  = During your [[End Phase]], if you [[control]] "[[Jurassic World]]": [[Destroy]] all cards on the [[field]].
+  | effect_types          = Condition, Activation requirement, Effect
+  | lore                  = (This card is not treated as a "[[Volcanic]]" card.)<br />During your [[End Phase]], if you [[control]] "[[Jurassic World]]": [[Destroy]] all cards on the [[field]].
   | fr_lore               = Durant votre End Phase, si vous contrôlez "Monde Jurassique" : détruisez toutes les cartes sur le Terrain.
   | de_lore               = Während deiner End Phase, falls du „Jurassische Welt“ kontrollierst: Zerstöre alle Karten auf dem Spielfeld.
   | it_lore               = Durante la tua End Phase, se controlli "Mondo Giurassico": distruggi tutte le carte sul Terreno.
@@ -56,5 +55,6 @@ wikitext: |-
   * Destroys Monster Cards
   * Destroys Spell Cards
   * Destroys Trap Cards
+  | misc                  = Archetype-exclusion condition
   | database_id           = 6824
   }}
