@@ -31,6 +31,16 @@ wikitext: |-
   | supports              = Synchro Monster
   | archseries            = Centurion
   | supports_archetypes   = Centurion
+  | action                = Activates from your Graveyard
+  | stat_change           = Your monsters lose ATK
+  | summoning             = 
+  * Special Summons the player's banished monsters
+  * Special Summons the opponent's banished monsters to the opponent's field
+  * Special Summons from your Graveyard
+  | banished              = 
+  * Banishes from field
+  * Banishes itself from Graveyard for cost
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

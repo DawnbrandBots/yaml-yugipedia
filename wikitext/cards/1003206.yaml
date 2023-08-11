@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 2000
   | password              = 
   | effect_types          = Continuous, Condition, Trigger, Trigger
-  | materials             = 1 Tuner + 1+ non-Tuner monsters
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />Your monsters with 2000 or less [[ATK]] cannot be [[destroyed by battle]]. You can only use each of the following [[effect]]s of "Centurion Legatia" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[Draw a card|draw]] 1 card, then you can [[destroy]] the 1 monster your opponent controls with the highest ATK (your choice, if tied). During the End Phase: You can place 1 non-[[Synchro Monster|Synchro]] "[[Centurion]]" monster from your [[hand]] or [[GY]] [[face-up]] in your [[Spell & Trap Zone]] as a [[Continuous Trap]].
   | fr_lore               = 
   | de_lore               = 
@@ -34,6 +34,19 @@ wikitext: |-
   DBVS-JP019; Deck Build Pack: Valiant Smashers; 
   | archseries            = Centurion
   | supports_archetypes   = Centurion
+  | action                = 
+  * Activates upon Special Summon
+  * You draw cards
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Treated as Continuous Trap Card
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | attack                = Prevents other cards being destroyed by battle
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

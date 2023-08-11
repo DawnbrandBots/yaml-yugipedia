@@ -31,6 +31,17 @@ wikitext: |-
   | supports              = Synchro Monster
   | archseries            = Centurion
   | supports_archetypes   = Centurion
+  | action                = 
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | m/s/t                 = Treated as Continuous Trap Card
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
