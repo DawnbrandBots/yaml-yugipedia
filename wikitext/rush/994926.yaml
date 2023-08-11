@@ -12,19 +12,19 @@ wikitext: |-
   | atk             = 3000
   | def             = 2500
   | fusion_material = 
-  * Jointech Spike Centipede
   * Jointech Arc Scorpio
-  | materials       = "[[Jointech Spike Centipede]]" + "[[Jointech Arc Scorpio]]"
+  * Jointech Spike Centipede
+  | materials       = "[[Jointech Arc Scorpio]]" + "[[Jointech Spike Centipede]]"
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore            = All [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]] equal to [the number of monsters on your opponent's field] x 700 until the end of this [[turn]]. Then, you gain [[LP]] equal to [the number of monsters on your opponent's field] x 700.
-  | ja_materials    = 「ジョインテック・スパイクセンチピード」＋「ジョインテック・アークスコーピオ」
+  | ja_materials    = 「ジョインテック・アークスコーピオ」＋「ジョインテック・スパイクセンチピード」
   | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_lore         = 相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［相手フィールドのモンスターの数］×７００ダウンする。その後、自分は［相手フィールドのモンスターの数］×７００ＬＰ回復する。
   | jp_sets         = 
   RD/KP14-JP044; Phoenix of the Roaring Flame; Rare
   | mentions        = 
-  * Jointech Spike Centipede
   * Jointech Arc Scorpio
+  * Jointech Spike Centipede
   | archseries      = Jointech
   | action          = Sends from the top of your Deck to your Graveyard for cost
   | stat_change     = Your opponent's monsters lose ATK

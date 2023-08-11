@@ -5,9 +5,10 @@ wikitext: |-
   {{CardTable2
   | ja_name        = アミュージー・アノイアンス
   | romaji_name    = Amyūjī Anoiansu
-  | ko_name        = 
-  | ko_rr_name     = 
-  | image          = AmusiAnnoyance-RDKP14-JP-OP.png
+  | image          = 
+  1; AmusiAnnoyance-RDKP14-JP-SR.png; AmusiAnnoyance-OW.png
+  2; AmusiAnnoyance-RDKP14-JP-ScR-AA.png
+  | current_image  = 1
   | card_type      = Trap
   | property       = Normal
   | requirement    = When a card is [[Send|sent]] to your opponent's [[Graveyard]] during their [[Main Phase]].
@@ -23,6 +24,5 @@ wikitext: |-
   * Activates if other cards are sent to the Graveyard
   * Sends from your opponent's hand to your opponent's Graveyard
   | life_points    = Damages your opponent
-  | database_id    = 
-  | rush_duel_status = Not yet released
+  | database_id    = 19340
   }}
