@@ -3,26 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ニゲイター・ドラゴン
-  | romaji_name      = Nigeitā Doragon
-  | image            = NegatworDragon-RDKP14-JP-OP.png
-  | attribute        = DARK
-  | types            = Dragon / Effect
-  | level            = 4
-  | atk              = 900
-  | def              = 1000
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore             = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have "[[Negate Attack (Rush Duel)|Negate Attack]]" in your Graveyard, you can make up to 3 [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 2000 [[ATK]] until the end of your opponent's next turn.
-  | ja_requirement   = このカードを召喚したターンに発動できる。
-  | ja_lore          = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地に「攻撃の無力化」がある場合、相手フィールドの表側表示モンスターを３体まで選んでその攻撃力を次の相手ターン終了時まで２０００ダウンできる。
-  | jp_sets          = 
+  | ja_name        = ニゲイター・ドラゴン
+  | romaji_name    = Nigeitā Doragon
+  | image          = NegatworDragon-RDKP14-JP-C.png
+  | attribute      = DARK
+  | types          = Dragon / Effect
+  | level          = 4
+  | atk            = 900
+  | def            = 1000
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
+  | lore           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have "[[Negate Attack (Rush Duel)|Negate Attack]]" in your Graveyard, you can make up to 3 [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 2000 [[ATK]] until the end of your opponent's next turn.
+  | ja_requirement = このカードを召喚したターンに発動できる。
+  | ja_lore        = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地に「攻撃の無力化」がある場合、相手フィールドの表側表示モンスターを３体まで選んでその攻撃力を次の相手ターン終了時まで２０００ダウンできる。
+  | jp_sets        = 
   RD/KP14-JP034; Phoenix of the Roaring Flame; Common
-  | mentions         = Negate Attack (Rush Duel)
-  | action           = 
+  | mentions       = Negate Attack (Rush Duel)
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Sends from the top of your Deck to your Graveyard
-  | stat_change      = Your opponent's monsters lose ATK
-  | misc             = Turn limited effects
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | stat_change    = Your opponent's monsters lose ATK
+  | misc           = Turn limited effects
+  | database_id    = 19311
   }}

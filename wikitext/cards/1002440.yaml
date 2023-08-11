@@ -28,9 +28,27 @@ wikitext: |-
   | jp_sets               = 
   PHNI-JP055; Phantom Nightmare; 
   | mentions              = 
-  * Super Polymerization
   * Yubel
+  * Super Polymerization
   | supports_archetypes   = Yubel (archetype)
+  | counter               = 
+  * Chronicle Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action                = 
+  * Adds banished cards to the hand
+  * Adds from Deck to hand
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = Special Summons from your Graveyard
+  | banished              = Banishes from your Deck
+  | misc                  = 
+  * Requires control of specific archetype
+  * Mentions
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -3,26 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
-  | ja_name          = {{Ruby|鋼|こう}}{{Ruby|鉄|てつ}}{{Ruby|兵|へい}}ゲール・ヴァイナリー
-  | romaji_name      = Kōtetsuhei Gēru Vainarī
-  | image            = SteelSoldierGaleVinary-RDKP14-JP-OP.png
-  | attribute        = EARTH
-  | types            = Machine / Effect
-  | level            = 3
-  | atk              = 1200
-  | def              = 1000
-  | requirement      = None
-  | lore             = Toss a coin. If the result is heads, all [[face-up]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]] until the end of this [[turn]]. If the result is tails, you can make 1 face-up monster on your opponent's field lose 800 ATK/[[DEF]] until the end of this turn.
-  | ja_requirement   = なし
-  | ja_lore          = コイントスを１回行う。表だった場合、自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。裏だった場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで８００ダウンできる。
-  | jp_sets          = 
+  | rush_duel      = true
+  | ja_name        = {{Ruby|鋼|こう}}{{Ruby|鉄|てつ}}{{Ruby|兵|へい}}ゲール・ヴァイナリー
+  | romaji_name    = Kōtetsuhei Gēru Vainarī
+  | image          = 
+  1; SteelSoldierGaleVinary-RDKP14-JP-SR.png
+  2; SteelSoldierGaleVinary-RDKP14-JP-ScR-AA.png
+  | current_image  = 1
+  | attribute      = EARTH
+  | types          = Machine / Effect
+  | level          = 3
+  | atk            = 1200
+  | def            = 1000
+  | requirement    = None
+  | lore           = Toss a coin. If the result is heads, all [[face-up]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]] until the end of this [[turn]]. If the result is tails, you can make 1 face-up monster on your opponent's field lose 800 ATK/[[DEF]] until the end of this turn.
+  | ja_requirement = なし
+  | ja_lore        = コイントスを１回行う。表だった場合、自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。裏だった場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで８００ダウンできる。
+  | jp_sets        = 
   RD/KP14-JP036; Phoenix of the Roaring Flame; Super Rare, Secret Rare
-  | stat_change      = 
+  | stat_change    = 
   * Your monsters gain ATK
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | misc             = Coin toss
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | misc           = Coin toss
+  | database_id    = 19313
   }}

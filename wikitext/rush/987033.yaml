@@ -3,28 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ケミカライズ・ストラクチャーフォース
-  | romaji_name      = Kemikaraizu Sutorakuchā Fōsu
-  | image            = ChemicalizeStructureForce-RDKP14-JP-OP.png
-  | card_type        = Spell
-  | property         = Equip
-  | requirement      = [[Equip]] this card to 1 [[face-up]] [[Aqua]], [[Pyro]], or [[Thunder]] [[Type]] [[Monster Card|monster]] on your [[field]].
-  | lore             = The equipped monster gains [[ATK]] equal to [the number of different Types on the field] x 300. Then, if the equipped monster is a [[Maximum Monster]], it cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_requirement   = 自分フィールドの表側表示モンスター（炎族・水族・雷族）１体に装備できる。
-  | ja_lore          = 装備モンスターの攻撃力は、［お互いのフィールドの表側表示モンスターの種族の種類］×３００アップする。装備モンスターがマキシマムモンスターの場合、さらにそのモンスターは相手の効果では破壊されない。
-  | jp_sets          = 
+  | ja_name        = ケミカライズ・ストラクチャーフォース
+  | romaji_name    = Kemikaraizu Sutorakuchā Fōsu
+  | image          = ChemicalizeStructureForce-RDKP14-JP-C.png
+  | card_type      = Spell
+  | property       = Equip
+  | requirement    = [[Equip]] this card to 1 [[face-up]] [[Aqua]], [[Pyro]], or [[Thunder]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = The equipped monster gains [[ATK]] equal to [the number of different Types on the field] x 300. Then, if the equipped monster is a [[Maximum Monster]], it cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_requirement = 自分フィールドの表側表示モンスター（炎族・水族・雷族）１体に装備できる。
+  | ja_lore        = 装備モンスターの攻撃力は、［お互いのフィールドの表側表示モンスターの種族の種類］×３００アップする。装備モンスターがマキシマムモンスターの場合、さらにそのモンスターは相手の効果では破壊されない。
+  | jp_sets        = 
   RD/KP14-JP049; Phoenix of the Roaring Flame; Common
-  | supports         = 
+  | supports       = 
   * Aqua
   * Pyro
   * Thunder
   * Maximum Monster
-  | archseries       = Chemistry
-  | stat_change      = Equipped gains ATK
-  | m/s/t            = Equipped cannot be destroyed by card effects
-  | misc             = 
+  | archseries     = Chemistry
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = Equipped cannot be destroyed by card effects
+  | misc           = 
   * Equips only to a specific target
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 19326
   }}
