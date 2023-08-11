@@ -50,20 +50,24 @@ wikitext: |-
   JOTL-KR022; Judgment of the Light; Rare
   | mentions              = Mecha Phantom Beast Token
   | supports              = 
-  * WIND
   * Machine
-  * Token Monster
+  * WIND
+  * Monster Token
   | archseries            = 
   * Phantom Beast
   * Mecha Phantom Beast
   | supports_archetypes   = Mecha Phantom Beast
-  | action                = Tributes for cost
+  | action                = 
+  * Applies effect when used as Synchro Material
+  * Tributes for cost
   | stat_change           = This card gains Levels
   | m/s/t                 = Cannot be destroyed by card effects
   | summoning             = 
   * Special Summons Tokens
   * Restricts the player's Special Summons to Attribute specific monsters
   | attack                = Cannot be destroyed by battle
-  | misc                  = Only 1 effect once per turn
+  | misc                  = 
+  * Requires control of specific Monster type
+  * Only 1 effect once per turn
   | database_id           = 10625
   }}

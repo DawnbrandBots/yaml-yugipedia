@@ -67,12 +67,14 @@ wikitext: |-
   | sc_sets               = 
   TM01-SC069; Theme Pack: War of Infinite Machine; Common
   | mentions              = Mecha Phantom Beast Token
+  | supports              = Monster Token
   | archseries            = 
   * Phantom Beast
   * Mecha Phantom Beast
   | supports_archetypes   = Mecha Phantom Beast
-  | supports              = Token Monster
-  | action                = Tributes for cost
+  | action                = 
+  * Activates upon Special Summon
+  * Tributes for cost
   | stat_change           = This card gains Levels
   | m/s/t                 = 
   * Cannot be destroyed by card effects
@@ -82,6 +84,9 @@ wikitext: |-
   | summoning             = Special Summons Tokens
   | attack                = Cannot be destroyed by battle
   | banished              = Banishes from your opponent's field
-  | misc                  = Limited activations
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Limited activations
   | database_id           = 10627
   }}

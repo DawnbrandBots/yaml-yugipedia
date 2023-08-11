@@ -57,18 +57,23 @@ wikitext: |-
   | mentions              = Mecha Phantom Beast Token
   | supports              = 
   * Machine
-  * Token Monster
+  * Monster Token
   | archseries            = 
   * Phantom Beast
   * Mecha Phantom Beast
   | supports_archetypes   = Mecha Phantom Beast
-  | action                = Uses cards in the hand as Synchro Materials
+  | action                = 
+  * Uses cards in the hand as Synchro Materials
+  * Activates from your Graveyard
   | m/s/t                 = Cannot be destroyed by card effects
   | summoning             = 
-  * Special Summons Tokens
   * Cannot be used as a Synchro Material
   * Restricts usage of other Materials
+  * Special Summons Tokens
   | attack                = Cannot be destroyed by battle
   | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster type
+  * Requires control of no monsters
   | database_id           = 10626
   }}

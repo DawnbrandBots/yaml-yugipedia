@@ -52,11 +52,11 @@ wikitext: |-
   | tc_sets               = 
   LTGY-TC021; Lord of the Tachyon Galaxy; Rare
   | mentions              = Mecha Phantom Beast Token
+  | supports              = Monster Token
   | archseries            = 
   * Phantom Beast
   * Mecha Phantom Beast
   | supports_archetypes   = Mecha Phantom Beast
-  | supports              = Token Monster
   | action                = 
   * Tributes for cost
   * Adds from Deck to hand
@@ -64,6 +64,9 @@ wikitext: |-
   | m/s/t                 = Cannot be destroyed by card effects
   | summoning             = Special Summons Tokens
   | attack                = Cannot be destroyed by battle
-  | misc                  = Limited activations
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Monster type
+  * Limited activations
   | database_id           = 10502
   }}
