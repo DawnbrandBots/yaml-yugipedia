@@ -44,13 +44,15 @@ wikitext: |-
   DBMF-KR036; Deck Build Pack: Mystic Fighters; Common, Normal Parallel Rare
   | sc_sets               = 
   DBMF-SC036; Deck Build Pack: Mystic Fighters; Common, Normal Parallel Rare
-  | supports              = Token Monster
+  | supports              = Monster Token
   | archseries            = Generaider
   | supports_archetypes   = Generaider
   | action                = 
   * Activates if destroyed by battle
   * Your opponent draws cards
   | attack                = Prevents other cards being targeted for attacks
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id           = 14779
   }}
