@@ -11,8 +11,8 @@ wikitext: |-
   | image          = AncientBarrier-RDVSP1-JP-C.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = [[Shuffle]] 2 [[monsters]] with the same [[Type]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore           = This [[turn]], up to 2 [[face-up]] [[Level]] 8 or lower monsters on your [[field]] cannot be destroyed by your opponent's [[Trap Card]] [[effect]]s.
+  | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s with the same [[Type]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = This [[turn]], up to 2 [[face-up]] [[Level]] 8 or lower monsters on your [[field]] cannot be [[destroy]]ed by your opponent's [[Trap Card]] [[effect]]s.
   | fr_requirement = Mélangez 2 monstres du même Type depuis votre Cimetière dans le Deck.
   | fr_lore        = Ce tour, max. 2 monstres de max. Niveau 8 face recto sur votre Terrain ne peuvent pas être détruits par les effets de Carte Piège de votre adversaire.
   | de_requirement = Mische 2 Monster desselben Typs von deinem Friedhof mit ins Deck.
@@ -34,7 +34,7 @@ wikitext: |-
   RD/GRP1-KR044; Grand Rush Pack; Common
   RD/VSP1-KR051; Versus Pack Maximum Force; Common
   | action         = Returns from Graveyard to Deck for cost
-  | m/s/t          = Cannot be destroyed by card effects
+  | m/s/t          = Prevents other cards being destroyed by card effects
   | misc           = Requires control of specific Level
   | database_id    = 16161
   }}
