@@ -10,10 +10,10 @@ wikitext: |-
   | atk                    = 5000
   | def                    = 5000
   | effect_types           = Continuous
-  | materials              = 5 [[Dragon]] [[Type]] [[monsters]]
+  | materials              = 5 [[Dragon]] [[Type]] [[Monster Card|monster]]s
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = None
-  | lore                   = This card cannot be [[destroyed by battle]] with a [[DARK]], [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Attribute]] [[monster]].
+  | lore                   = This card cannot be [[destroyed by battle]] with a [[DARK]], [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Attribute]] monster.
   | ja_materials           = モンスター（ドラゴン族）×５
   | ja_summoning_condition = このカードはフュージョン召喚でしか特殊召喚できない。
   | ja_requirement         = なし
@@ -38,5 +38,6 @@ wikitext: |-
   * Requires Type specific Fusion Materials
   * Nomi
   | attack                 = Cannot be destroyed by battle
+  | misc                   = Cover card
   | database_id            = 18681
   }}

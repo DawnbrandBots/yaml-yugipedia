@@ -3,26 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ヴォイドヴェルグ・グリンブルスティ
-  | romaji_name      = Voidoverugu Gurinburusuti
-  | image            = VoidvelgrGullinbursti-RDKP13-JP-C.png
-  | card_type        = Spell
-  | property         = Equip
-  | requirement      = [[Equip]] this card to 1 [[face-up]] [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] on your [[field]].
-  | lore             = The equipped monster cannot be destroyed by [[Spell Card]] [[effect]]s, also it gains 800 [[ATK]] during your [[turn]].
-  | ja_requirement   = 自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体に装備できる。
-  | ja_lore          = 装備モンスターは魔法カードの効果では破壊されず、自分ターンの間、攻撃力は８００アップする。
-  | jp_sets          = 
+  | ja_name        = ヴォイドヴェルグ・グリンブルスティ
+  | romaji_name    = Voidoverugu Gurinburusuti
+  | image          = VoidvelgrGullinbursti-RDKP13-JP-C.png
+  | card_type      = Spell
+  | property       = Equip
+  | requirement    = [[Equip]] this card to 1 [[face-up]] [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = The equipped monster cannot be [[destroy]]ed by [[Spell Card]] [[effect]]s, also it gains 800 [[ATK]] during your [[turn]].
+  | ja_requirement = 自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体に装備できる。
+  | ja_lore        = 装備モンスターは魔法カードの効果では破壊されず、自分ターンの間、攻撃力は８００アップする。
+  | jp_sets        = 
   RD/KP13-JP050; Oblivion of the Flash; Common
-  | supports         = 
+  | supports       = 
   * DARK
   * Galaxy (Type)
-  | archseries       = Voidvelgr
-  | stat_change      = Equipped gains ATK
-  | m/s/t            = Equipped cannot be destroyed by card effects
-  | misc             = 
-  * Equips only to a specific target
-  * Requires control of specific Attribute
-  * Requires control of specific Type
-  | database_id      = 18979
+  | archseries     = Voidvelgr
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = Equipped cannot be destroyed by card effects
+  | misc           = Equips only to a specific target
+  | database_id    = 18979
   }}
