@@ -8,15 +8,16 @@ wikitext: |-
   | level                  = 7
   | atk                    = 2300
   | def                    = 2100
-  | summoning_condition    = If this is the only card in your [[hand]], you can [[Normal Summon]] this card without [[Tributing]].
+  | summoning_condition    = If this is the only card in your [[hand]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement            = None
   | lore                   = None
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分の手札がこのカード１枚のみの場合、このカードはリリースなしで召喚できる。
+  | ja_requirement         = なし
+  | ja_lore                = なし
   | jp_sets                = 
   RD/ECG1-JP005; Rush Duel Card Game Gum; Normal Parallel Rare
   | archseries             = Gaia (series)
+  | summoning              = Normal Summon without Tribute
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
