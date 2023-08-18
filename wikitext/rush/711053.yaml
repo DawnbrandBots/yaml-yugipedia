@@ -15,7 +15,7 @@ wikitext: |-
   3; SevensRoadWitch-RDAKG3-JP-UR.png
   4; SevensRoadWitch-RDMRP1-JP-R.png;   SevensRoadWitch-G002-JP-VG-artwork-2.png
   5; SevensRoadWitch-RDBD07-JP-UPR.png; SevensRoadWitch-G002-JP-VG-artwork-3.png
-  6; SevensRoadWitch-RDKP13-JP-ORR.png;  SevensRoadWitch-OW-2.png
+  6; SevensRoadWitch-RDKP13-JP-ORR.png; SevensRoadWitch-OW-2.png
   | current_image         = 6
   | attribute             = DARK
   | types                 = Spellcaster / Effect
@@ -33,9 +33,9 @@ wikitext: |-
   | es_requirement        = Manda al Cementerio 1 carta en tu mano.
   | es_lore               = Invoca de Modo Especial, desde tu mano, 1 monstruo de Tipo Lanzador de Conjuros de Nivel 7 o mayor con el Atributo OSCURIDAD boca arriba en tu Campo. Si Invocaste de Modo Especial "Mago del Camino Sevens" con este efecto, esta carta gana 400 ATK hasta el final de este turno.
   | ja_requirement        = 手札１枚を墓地へ送って発動できる。
-  | ja_lore               = 手札のモンスター（レベル７以上／闇属性／魔法使い族）１体を自分フィールドに表側表示で特殊召喚する。この効果で「セブンスロード・マジシャン」を特殊召喚した場合、このカードの攻撃力はターン終了時まで４００アップする。
+  | ja_lore               = 手札のモンスター（レベル７以上／闇属性／魔法使い族）１体を自分フィールドに表側表示で特殊召喚する。この効果で「セブンスロード・マジシャン」を特殊召喚した場合、さらにこのカードの攻撃力はターン終了時まで４００アップする。
   | ko_requirement        = 패 1장을 묘지로 보내고 발동할 수 있다.
-  | ko_lore               = 패의 몬스터(레벨 7 이상 / 어둠 속성 / 마법사족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 "세븐즈로드 매지션"을 특수 소환했을 경우, 이 카드의 공격력은 턴 종료시까지 400 올린다.
+  | ko_lore               = 패의 몬스터(레벨 7 이상 / 어둠 속성 / 마법사족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 "세븐즈로드 매지션"을 특수 소환했을 경우, 추가로 이 카드의 공격력은 턴 종료시까지 400 올린다.
   | jp_sets               = 
   RD/VS01-JP001; Starter Deck Set - Yuga vs. Luke; Super Parallel Rare
   RD/KP01-JP021; Deck Mod Pack: Hyperspeed Rush Road!!; Ultra Rare
@@ -50,6 +50,7 @@ wikitext: |-
   RD/KP01-KR021; Deck Mod Pack: Hyperspeed Rush Road!!; Ultra Rare
   RD/PR01-KR007; Rush Duel Launch Commemorative Pack; Super Rare
   RD/MRP1-KR010; Megaroad Pack; Rare, Secret Rare
+  RD/KP13-KR000; Oblivion of the Flash; Over Rush Rare
   | mentions              = Sevens Road Magician
   | supports              = 
   * DARK
