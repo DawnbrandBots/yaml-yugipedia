@@ -12,13 +12,13 @@ wikitext: |-
   | trans_name            = Gun Behind Hell's Door
   | image                 = 
   1;   BarrelBehindtheDoor-EE1-JP-R.jpg    ; BarrelBehindtheDoor-MADU-JP-VG-artwork.png
-  1.1; BarrelBehindtheDoor-RP02-EN-C-UE.png; BarrelBehindtheDoor-MADU-EN-VG-artwork.png
+  1.1; BarrelBehindtheDoor-SBC1-EN-C-1E.png; BarrelBehindtheDoor-MADU-EN-VG-artwork.png
   | current_image         = 1.1
   | card_type             = Trap
   | property              = Counter
-  | effect_types          = Activation requirement, Effect
   | password              = 78783370
-  | lore                  = [[Activate]] only when a [[Effect|card's effect]] that would inflict [[Effect damage|damage]] to you is activated. Your opponent takes the damage instead.
+  | effect_types          = Activation requirement, Effect
+  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d that would inflict [[Effect damage|damage]] to you: Your opponent takes the damage instead.
   | fr_lore               = Activable uniquement lorsqu'un effet de carte qui doit vous infliger des dommages est activé. Votre adversaire subit les dommages à la place.
   | de_lore               = Aktiviere diese Karte nur, wenn ein Karteneffekt aktiviert wird, der dir Schaden zufügen würde. Stattdessen erhält dein Gegner den Schaden.
   | it_lore               = Attiva solo quando viene attivato l'effetto di una carta che ti infliggerebbe danno. Il tuo avversario subisce il danno al tuo posto.
@@ -63,5 +63,5 @@ wikitext: |-
   * Redirects effect damage
   * Damages your opponent
   | database_id           = 5543
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}
