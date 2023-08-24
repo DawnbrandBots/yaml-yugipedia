@@ -9,13 +9,15 @@ wikitext: |-
   | es_name               = Marionetta Magica
   | ja_name               = {{Ruby|魔法の操り人形|マジカル・マリオネット}}
   | romaji_name           = Majikaru Marionetto
-  | image                 = MagicalMarionette-SDSC-EN-C-UE.png
+  | image                 = MagicalMarionette-SBC1-EN-C-1E.png
   | attribute             = DARK
   | types                 = Spellcaster / Effect
+  | level                 = 5
   | atk                   = 2000
   | def                   = 1000
-  | level                 = 5
-  | lore                  = Each time a [[Spell Card]] is [[activate]]d, place 1 [[Spell Counter]] on this card when that Spell Card [[resolve]]s. This card gains 200 [[ATK]] for each Spell Counter on it. You can remove 2 Spell Counters from this card, then [[target]] 1 [[monster]] on the [[field]]; [[destroy]] that target.
+  | password              = 08034697
+  | effect_types          = Continuous, Continuous, Ignition
+  | lore                  = Each time a [[Spell Card]] is [[activate]]d, place 1 [[Spell Counter]] on this card when that Spell Card [[resolve]]s. Gains 200 [[ATK]] for each Spell Counter on it. You can remove 2 Spell Counters from this card, then [[target]] 1 [[monster]] on the [[field]]; [[destroy]] it.
   | fr_lore               = Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte. Carte carte gagne 200 points d'ATK pour chaque Compteur Magie sur elle. Vous pouvez retirer 2 Compteurs Magie de cette carte pour détruire 1 monstre sur le Terrain.
   | de_lore               = Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte. Diese Karte erhält 200 ATK für jede Zauberzählmarke auf dieser Karte. Du kannst 2 Zauberzählmarken von dieser Karte entfernen, um 1 Monster auf dem Spielfeld zu zerstören.
   | it_lore               = Ogni volta che 1 Carta Magia viene attivata, metti 1 Segnalino Magia su questa carta. Questa carta guadagna 200 ATK per ogni Segnalino Magia su di essa. Puoi rimuovere 2 Segnalini Magia da questa carta per distruggere 1 mostro sul Terreno.
@@ -23,8 +25,6 @@ wikitext: |-
   | es_lore               = Cada vez que tú o tu adversario activen 1 Carta Mágica, pon 1 Contador Mágico en esta carta. Aumenta el ATK de esta carta en 200 puntos por cada Contador Mágico en esta carta. Puedes retirar 2 Contadores Mágicos de esta carta para destruir 1 monstruo en el Campo.
   | ja_lore               = このカードがフィールド上に表側表示で存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに乘っている魔力カウンター１つにつき、このカードの攻擊力は２００ポイントアップする。また、このカードに乘っている魔力カウンターを２つ取り除く事で、フィールド上に存在するモンスター１體を破壞する。
   | ko_lore               = 자신 또는 상대가 마법을 발동할 때마다, 이 카드의 마력 카운터를 1개 얹는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 200 포인트 올린다. 또한, 마력 카운터를 2개 제거하는 것으로, 필드 위의 몬스터 1장을 파괴한다.
-  | effect_types          = Continuous, Continuous, Ignition
-  | password              = 08034697
   | en_sets               = 
   DR1-EN124; Dark Revelation Volume 1; Common
   SDSC-EN010; Spellcaster's Command Structure Deck; Common
