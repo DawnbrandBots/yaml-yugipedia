@@ -18,9 +18,9 @@ wikitext: |-
   | link_arrows           = Bottom-Right
   | atk                   = 2500
   | password              = 
-  | effect_types          = Summoning condition, Condition, Trigger, Quick
+  | effect_types          = Summoning condition, Condition, Continuous, Quick
   | materials             = 1 Effect Monster
-  | lore                  = 1 [[Effect Monster]]<br />Cannot be [[Link Summon]]ed unless you have a [[Fiend]] [[Monster Card]] with 3 or more [[Resonance Counter]]s in your [[Pendulum Zone]]. You can only [[Special Summon]] "Divine Oddity of Valmonica - Zebufera(s)" [[once per turn]]. If this card would be [[destroyed by battle]] or card [[effect]], you can remove 3 Resonance Counters from your Pendulum Zone instead. Once per opponent's turn ([[Quick Effect]]): You can [[target]] 1 of your "[[Valmonica]]" [[Normal Spell]]s/[[Normal Trap|Traps]] that is [[banish]]ed or in your [[GY]]; apply that Spell/Trap's effect when that card is activated.
+  | lore                  = 1 [[Effect Monster]]<br />Cannot be [[Link Summon]]ed unless you have a [[Fiend]] [[Monster Card]] with 3 or more [[Resonance Counter]]s in your [[Pendulum Zone]]. You can only [[Special Summon]] "Divine Oddity of Valmonica - Zebufera(s)" [[once per turn]]. If a card(s) you [[control]] would be [[destroyed by battle]] or card [[effect]], you can remove 3 Resonance Counters from your Pendulum Zone instead. Once per opponent's turn ([[Quick Effect]]): You can [[target]] 1 of your "[[Valmonica]]" [[Normal Spell]]s/[[Normal Trap|Traps]] that is [[banish]]ed or in your [[GY]]; apply that Spell/Trap's effect when that card is activated.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,7 +41,7 @@ wikitext: |-
   * Removes counters
   | action                = Resolves as another card's effect
   | m/s/t                 = 
-  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
   * Redirects destruction
   | summoning             = 
   * 1 Link Material

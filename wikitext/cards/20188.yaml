@@ -2,14 +2,15 @@ title: Warrior of Atlantis
 wikitext: |-
   {{Not archetype member|Warrior (archetype)|ウォリアー}}
   {{CardTable2
-  | tc_name               = 亞特蘭提斯的戰士
   | fr_name               = Guerrier de l'Atlantide
   | de_name               = Krieger von Atlantis
   | it_name               = Guerriero di Atlantide
-  | ko_name               = 아틀란티스의전사
+  | pt_name               = Guerreiro da Atlântida
   | es_name               = Guerrero de Atlantis
   | ja_name               = アトランティスの{{Ruby|戦|せん}}{{Ruby|士|し}}
   | romaji_name           = Atorantisu no Senshi
+  | tc_name               = 亞特蘭提斯的戰士
+  | ko_name               = 아틀란티스의전사
   | image                 = WarriorofAtlantis-SBC1-EN-C-1E.png
   | attribute             = WATER
   | types                 = Aqua / Effect
@@ -19,10 +20,11 @@ wikitext: |-
   | password              = 43797906
   | effect_types          = Ignition
   | lore                  = You can [[discard]] this card to the [[GY]]; [[Add a card|add]] 1 "[[A Legendary Ocean]]" from your [[Main Deck|Deck]] to your [[hand]].
-  | fr_lore               = Vous pouvez défausser cette carte au Cimetière ; ajoutez 1 "Océan Légendaire" depuis votre Deck à votre main.
+  | fr_lore               = (Cette carte n'est pas traitée comme une carte "[[Atlantean|Atlantide]]".)<br />Vous pouvez défausser cette carte au Cimetière ; ajoutez 1 "Océan Légendaire" depuis votre Deck à votre main.
   | de_lore               = Du kannst diese Karte auf den Friedhof abwerfen; füge deiner Hand 1 „Ein Legendärer Ozean“ von deinem Deck hinzu.
   | it_lore               = Puoi scartare questa carta al Cimitero; aggiungi 1 "Un Oceano Leggendario" dal tuo Deck alla tua mano.
-  | es_lore               = Puedes descartar esta carta al Cementerio; añade a tu mano, desde tu Deck, 1 "Un Océano Legendario".
+  | pt_lore               = Você pode descartar este card para o Cemitério; adicione 1 "Um Oceano Lendário" do seu Deck à sua mão.
+  | es_lore               = (Esta carta no se trata como una carta "[[Atlantean|Atlantis]]").<br />Puedes descartar esta carta al Cementerio; añade a tu mano, desde tu Deck, 1 "Un Océano Legendario".
   | ja_lore               = ①：このカードを手札から墓地へ捨てて発動できる。デッキから「伝説の都 アトランティス」１枚を手札に加える。
   | ko_lore               = 이 카드를 패에서 묘지에 버리고 발동할 수 있다. 덱에서 "전설의 도시 아틀란티스" 1장을 패에 넣는다.
   | tc_lore               = 可从手牌舍弃此卡至墓地并发动。从牌组将1张「傳說之都 亞特蘭提斯」加入手牌。
@@ -68,6 +70,7 @@ wikitext: |-
   * Activates from your hand
   * Discards itself for cost
   * Adds from Deck to hand
+  | misc                  = Archetype-exclusion condition
   | database_id           = 7107
   | tcg_speed_duel_status = Unlimited
   }}
