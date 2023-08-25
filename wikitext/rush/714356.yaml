@@ -12,7 +12,7 @@ wikitext: |-
   | image          = CounterShield-RDSBD2-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] targeting your [[face-up]] [[Normal Monster]], [[shuffle]] 1 Normal Monster with 1000 or more [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Normal Monster]], [[shuffle]] 1 Normal Monster with 1000 or more [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore           = The attacking monster loses 1000 [[ATK]] until the end of this [[turn]].
   | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre Monstre Normal face recto, mélangez 1 Monstre Normal avec min. 1000 DEF depuis votre Cimetière dans le Deck.
   | fr_lore        = Le monstre attaquant perd 1000 ATK jusqu'à la fin de ce tour.
@@ -35,6 +35,7 @@ wikitext: |-
   | supports       = Normal Monster
   | action         = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Returns from Graveyard to Deck for cost
   | stat_change    = Your opponent's monsters lose ATK
   | misc           = Requires control of specific Monster type

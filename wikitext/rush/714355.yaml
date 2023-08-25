@@ -11,7 +11,7 @@ wikitext: |-
   | image          = CounterPigeons-RDKP03-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] targeting your [[Attack Position]] [[Winged Beast]] [[Type]] monster.
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Attack Position]] [[Winged Beast]] [[Type]] monster.
   | lore           = The attacking monster loses [[ATK]] equal to [the [[Level]] of the attacking monster] x 100 until the end of this [[turn]].
   | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre monstre de Type Bête Ailée en Position d'Attaque.
   | fr_lore        = Le monstre attaquant perd une ATK égale au [Niveau du monstre attaquant] x 100 jusqu'à la fin de ce tour.
@@ -30,7 +30,9 @@ wikitext: |-
   | kr_sets        = 
   RD/KP03-KR057; Deck Mod Pack: Illusion Strike Mirage Impact!!; Common
   | supports       = Winged Beast
-  | action         = Activates upon attack declaration
+  | action         = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
   | stat_change    = Your opponent's monsters lose ATK
   | misc           = Requires control of specific Type
   | database_id    = 15823

@@ -10,8 +10,8 @@ wikitext: |-
   | image                 = DolphinCounterattack-RDKP07-JP-C.png
   | card_type             = Trap
   | property              = Normal
-  | requirement           = When an opponent's [[monster]] declares an [[attack]] targeting your [[face-up]] [[Fish]] or [[Sea Serpent]] [[Type]] [[monster]], [[shuffle]] 1 "[[Umi (Rush Duel)|Umi]]" or "[[Big Umi]]" from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore                  = [[Destroy]] 1 face-up monster on your opponent's [[field]] with the highest [[ATK]]. [[Draw a card|Draw]] 1 card and show it. Then, if that card is "Umi" or "Big Umi", inflict 500 [[Effect damage|damage]] to your opponent.
+  | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Fish]] or [[Sea Serpent]] [[Type]] monster, [[shuffle]] 1 "[[Umi (Rush Duel)|Umi]]" or "[[Big Umi]]" from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore                  = [[Destroy]] 1 face-up monster on your opponent's [[field]] with the highest [[ATK]]. [[Draw a card|Draw]] 1 card and show it. Then, if that card is "Umi" or "Big Umi", [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
   | ja_requirement        = 自分の表側表示モンスター（魚族または海竜族）が攻撃を受ける相手モンスターの攻撃宣言時、自分の墓地の「海」または「大海洋」１枚をデッキに戻して発動できる。
   | ja_lore               = 相手フィールドの攻撃力が一番高い表側表示モンスター１体を選んで破壊する。自分は１枚ドローし、お互いに確認する。そのカードが「海」または「大海洋」だった場合、さらに相手に５００ダメージを与える。
   | ko_requirement        = 자신의 앞면 표시 몬스터(어류족 또는 해룡족)가 공격을 받는 상대 몬스터의 공격 선언시, 자신 묘지의 "바다" 또는 "대해양" 1장을 덱으로 되돌리고 발동할 수 있다.
@@ -30,10 +30,11 @@ wikitext: |-
   | related_to_archseries = Umi (series)
   | action                = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Returns from Graveyard to Deck for cost
   * You draw cards
   * Shows the player's drawn cards
-  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | m/s/t                 = Destroys your opponent's Monster Cards
   | life_points           = Damages your opponent
   | misc                  = Requires control of specific Type
   | database_id           = 17024

@@ -7,12 +7,17 @@ wikitext: |-
   | image            = UndulatingBarrier-RDMRP2-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When an opponent's [[monster]] [[declare]]s an [[attack]] [[target]]ing your [[Defense Position]] monster.
+  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Defense Position]] monster.
   | lore             = [[Send]] the top 5 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a monster(s) is among the cards sent, the attacking monster loses [[ATK]] equal to [the total [[Level]]s of the monsters sent to the Graveyard by this [[effect]]] x 100 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  | ja_lore          = 自分のデッキの上からカード５枚を墓地へ送る。その中にモンスターがいた場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターのレベルの合計］×１００ダウンする。
   | jp_sets          = 
   RD/MRP2-JP038; Megaroad Pack 2; Rare
+  | action           = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change      = Your opponent's monsters lose ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

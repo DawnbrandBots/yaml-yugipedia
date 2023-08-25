@@ -15,7 +15,7 @@ wikitext: |-
   | image                 = PartyUp-RDMRP1-JP-C.png
   | card_type             = Trap
   | property              = Normal
-  | requirement           = When an opponent's [[monster]] [[declare]]s an [[attack]] targeting your [[face-up]] [[Aqua]] [[Type]] [[monster]].
+  | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Aqua]] [[Type]] monster.
   | lore                  = Gain [[LP]] equal to [the attacking monster's [[ATK]]].
   | fr_requirement        = 
   | fr_lore               = 
@@ -37,7 +37,9 @@ wikitext: |-
   RD/MRP1-KR067; Megaroad Pack; Common
   | related_to_archseries = Bubble Era
   | supports              = Aqua
-  | action                = Activates upon attack declaration
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
   | life_points           = You gain Life Points
   | misc                  = Requires control of specific Type
   | database_id           = 17696

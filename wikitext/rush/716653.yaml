@@ -13,8 +13,8 @@ wikitext: |-
   | image          = SeveringPsychicWall-RDSBD4-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] targeting your [[face-up]] [[Psychic]] [[Type]] monster, [[shuffle]] 1 Psychic Type monster from your [[Graveyard]] into the [[Deck]].
-  | lore           = The [[attack target]] gains 500 [[ATK]] until the end of this [[turn]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Psychic]] [[Type]] monster, [[shuffle]] 1 Psychic Type monster from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = The attack target gains 500 [[ATK]] until the end of this [[turn]].
   | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre monstre de Type Psychique face recto, mélangez 1 monstre de Type Psychique depuis votre Cimetière dans le Deck.
   | fr_lore        = La cible de l'attaque gagne 500 ATK jusqu'à la fin de ce tour.
   | de_requirement = Wenn das Monster eines Gegners einen Angriff deklariert und dabei dein offenes Monster des Typs Psi ins Visier nimmt, mischst du 1 Monster des Typs Psi von deinem Friedhof ins Deck.
@@ -36,9 +36,9 @@ wikitext: |-
   | supports       = Psychic
   | action         = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Returns from Graveyard to Deck for cost
   | stat_change    = Your monsters gain ATK
-  | misc           = 
-  * Requires control of specific Type
+  | misc           = Requires control of specific Type
   | database_id    = 15688
   }}

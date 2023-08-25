@@ -13,8 +13,8 @@ wikitext: |-
   | image             = HermitsSoul-RDSBD3-JP-C.png
   | card_type         = Trap
   | property          = Normal
-  | requirement       = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] targeting your [[face-up]] monster with 0 [[ATK]].
-  | lore              = Change the attacking monster to face-up [[Defense Position]]. If you do, [[Special Summon]] 1 [[Normal Monster]] with 0 ATK from your [[Graveyard]] face-up to your [[field]].
+  | requirement       = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] monster with 0 [[ATK]].
+  | lore              = [[Battle position change|Change]] the attacking monster to face-up [[Defense Position]]. If you do, [[Special Summon]] 1 [[Normal Monster]] with 0 ATK from your [[Graveyard]] face-up to your [[field]].
   | fr_requirement    = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre monstre face recto avec 0 ATK.
   | fr_lore           = Changez le monstre attaquant en Position de Défense face recto. Si vous le faites, Invoquez Spécialement 1 Monstre Normal avec 0 ATK depuis votre Cimetière face recto sur votre Terrain.
   | de_requirement    = Wenn das Monster eines Gegners einen Angriff deklariert und dabei dein offenes Monster mit 0 ATK als Ziel wählt.
@@ -38,6 +38,7 @@ wikitext: |-
   | supports          = Normal Monster
   | action            = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Changes battle positions
   | summoning         = Special Summons from your Graveyard
   | misc              = Requires control of specific ATK

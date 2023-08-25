@@ -13,8 +13,8 @@ wikitext: |-
   | image          = ConstructorAmbush-RDSBD7-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] targeting your [[face-up]] [[Wyrm]] [[Type]] monster on your [[field]], [[send]] 1 [[Level]] 6 or lower Wyrm Type monster from your [[hand]] to the [[Graveyard]].
-  | lore           = The attacking monster loses [[ATK]] equal to [the ATK of the monster sent to the Graveyard to meet the requirement] until the end of this [[turn]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Wyrm]] [[Type]] monster on your [[field]], [[send]] 1 [[Level]] 6 or lower Wyrm Type monster from your [[hand]] to the [[Graveyard]].
+  | lore           = The attacking monster loses [[ATK]] equal to [the ATK of the monster sent to the Graveyard to meet the [[Activation condition|requirement]]] until the end of this [[turn]].
   | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre monstre de Type Wyrm face recto sur votre Terrain, envoyez 1 monstre de Type Wyrm de max. Niveau 6 depuis votre main au Cimetière.
   | fr_lore        = Le monstre attaquant perd une ATK égale à [l'ATK du monstre envoyé au Cimetière pour remplir la condition] jusqu'à la fin de ce tour.
   | de_requirement = Wenn das Monster eines Gegners einen Angriff deklariert und dabei dein offenes Monster des Typs Wyrm auf deiner Spielfeldseite ins Visier nimmt, legst du 1 Monster des Typs Wyrm der Stufe 6 oder niedriger von deiner Hand auf den Friedhof.
@@ -37,6 +37,7 @@ wikitext: |-
   | archseries     = Constructor
   | action         = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Sends from hand to Graveyard for cost
   | stat_change    = Your opponent's monsters lose ATK
   | misc           = Requires control of specific Type

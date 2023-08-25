@@ -13,8 +13,8 @@ wikitext: |-
   | image             = BeastGearSecretArtPrimalFist-RDGRD2-JP-C.png
   | card_type         = Trap
   | property          = Normal
-  | requirement       = When an opponent's [[monster]] [[declare]]s an [[attack]] [[Attack target|targeting]] your [[face-up]] [[Level]] 7-9 [[Beast-Warrior]], [[Fiend]], or [[Machine]] [[Type]] monster.
-  | lore              = Change the attacking monster to face-up [[Defense Position]]. Then, if you changed a [[Dragon]], [[Spellcaster]], or [[Fairy]] Type monster to Defense Position by this effect, destroy 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | requirement       = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Level]] 7-9 [[Beast-Warrior]], [[Fiend]], or [[Machine]] [[Type]] monster.
+  | lore              = [[Battle position change|Change]] the attacking monster to face-up [[Defense Position]]. Then, if you changed a [[Dragon]], [[Spellcaster]], or [[Fairy]] Type monster to Defense Position by this [[effect]], [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
   | fr_requirement    = Lorsqu'un monstre de l'adversaire déclare une attaque ciblant votre monstre de Type Bête-Guerrier, Démon ou Machine de Niveau 7 à 9 face recto.
   | fr_lore           = Changez le monstre attaquant en Position de Défense face recto. Ensuite, si vous avez changé un monstre de Type Dragon, Magicien ou Elfe en Position de Défense avec cet effet, détruisez 1 Carte Magie/Piège sur le Terrain de votre adversaire.
   | de_requirement    = Wenn das Monster eines Gegners einen Angriff deklariert und dabei dein offenes Monster des Typs Ungeheuer-Krieger, Unterweltler oder Maschine der Stufe 7-9 ins Visier nimmt.
@@ -35,7 +35,6 @@ wikitext: |-
   | kr_sets           = 
   RD/KP04-KR060; Deck Mod Pack: Destined Power Destruction!!; Super Rare
   RD/GRD2-KR029; Go Rush Deck - Jointech Attack; Common
-  | archseries        = Beast Gear
   | supports          = 
   * Beast-Warrior
   * Fiend
@@ -44,8 +43,10 @@ wikitext: |-
   * Dragon
   * Spellcaster
   * Fairy
+  | archseries        = Beast Gear
   | action            = 
   * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Changes battle positions
   | m/s/t             = 
   * Destroys your opponent's Spell Cards
