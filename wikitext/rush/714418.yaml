@@ -13,9 +13,9 @@ wikitext: |-
   | atk                    = 2500
   | def                    = 800
   | effect_types           = Continuous
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[face-up]] "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]".
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[face-up]] "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]".
   | requirement            = None
-  | lore                   = If you have "Cyber Dragon" in your [[Graveyard]], this card gains 2000 [[DEF]] and cannot be destroyed by your opponent's [[monster effect]]s.
+  | lore                   = If you have "Cyber Dragon" in your [[Graveyard]], this card gains 2000 [[DEF]] and cannot be [[destroy]]ed by your opponent's [[monster effect]]s.
   | ja_summoning_condition = このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
   | ja_requirement         = なし
   | ja_lore                = 自分の墓地に「サイバー・ドラゴン」がいる場合、このカードの守備力は２０００アップし、相手モンスターの効果では破壊されない。
@@ -31,5 +31,6 @@ wikitext: |-
   | stat_change            = This card gains DEF
   | m/s/t                  = Cannot be destroyed by card effects
   | summoning              = Normal Summon with 1 Tribute
+  | misc                   = Requires control of specific card
   | database_id            = 18352
   }}
