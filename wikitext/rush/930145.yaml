@@ -13,8 +13,8 @@ wikitext: |-
   | level                  = 8
   | atk                    = 2400
   | def                    = 1000
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[face-up]] [[Level]] 5 or higher [[monster]] with 1000 [[DEF]].
-  | requirement            = During the [[turn]] you [[Tribute Summon]]ed this card in [[Attack Position]].
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[face-up]] [[Level]] 5 or higher [[Monster Card|monster]] with 1000 [[DEF]].
+  | requirement            = During the [[turn]] you Tribute Summoned this card in [[Attack Position]].
   | lore                   = Your opponent chooses 1 card on their [[field]], and you [[destroy]] 1 other card on either field.
   | ja_summoning_condition = このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
   | ja_requirement         = このカードを攻撃表示でアドバンス召喚したターンに発動できる。
@@ -33,5 +33,8 @@ wikitext: |-
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
   | summoning              = Normal Summon with 1 Tribute
+  | misc                   = 
+  * Requires control of specific Level
+  * Requires control of specific DEF
   | database_id            = 18948
   }}
