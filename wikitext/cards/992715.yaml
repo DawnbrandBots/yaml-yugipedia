@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = MementoFractureDance-DBVS-JP-OP.png
+  | image                 = MementoFractureDance-DBVS-JP-C.png
   | card_type             = Trap
   | property              = Normal
-  | password              = 
+  | password              = 43215738
   | effect_types          = Effect, Trigger-like, Condition
   | lore                  = If you [[control]] a "[[Memento]]" [[monster]]: [[Target]] 1 card on the [[field]]; [[destroy]] it, then, if you control "[[Mementoral Tecuhtlica, the Netherskull Dragon]]", you can destroy 1 more card on the field. When an [[attack]] is declared involving your "Memento" monster and an opponent's monster: You can [[banish]] this card from your [[GY]]; all [[face-up]] monsters your opponent currently controls lose 1000 [[ATK]] until the end of this [[turn]]. You can only use each [[effect]] of "Memento Fracture Dance" [[once per turn]].
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「メメント」モンスターが存在する場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。その後、自分フィールドに「冥骸合竜－メメントラル・テクトリカ」が存在する場合、フィールドのカード１枚を破壊できる。②：自分の「メメント」モンスターが相手モンスターと戦闘を行う攻撃宣言時に、墓地のこのカードを除外して発動できる。相手フィールドの全てのモンスターの攻撃力はターン終了時まで１０００ダウンする。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  DBVS-JP011; Deck Build Pack: Valiant Smashers; 
+  DBVS-JP011; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   | mentions              = Mementoral Tecuhtlica, the Netherskull Dragon
   | archseries            = Memento
   | supports_archetypes   = Memento
@@ -45,7 +45,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific card
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19370
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

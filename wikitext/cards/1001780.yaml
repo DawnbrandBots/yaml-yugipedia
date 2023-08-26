@@ -12,10 +12,10 @@ wikitext: |-
   | romaji_name           = Varumonika Verusāre
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = ValmonicaVersare-DBVS-JP-OP.png
+  | image                 = ValmonicaVersare-DBVS-JP-SR.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 42193638
   | effect_types          = Effect, Condition
   | lore                  = Apply 1 of these [[effect]]s (your opponent's choice, if you do not have a "[[Valmonica]]" card in your [[Pendulum Zone]]).<br />● Gain 500 [[LP]], then you can [[excavate]] cards from the top of your [[Main Deck|Deck]] until you excavate a "Valmonica" card, and if you do, [[Add a card|add]] it to your hand, also [[shuffle]] the rest into the Deck.<br />● Take 500 [[Effect damage|damage]], then you can [[send]] 1 "Valmonica" card from your Deck to the [[GY]], except "Valmonica Versare".<br />You can only activate 1 "Valmonica Versare" per [[turn]].
   | fr_lore               = 
@@ -23,10 +23,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選んで適用する。自分のＰゾーンに「ヴァルモニカ」カードが存在しない場合、適用する効果は相手が選ぶ。<br />●自分は５００ＬＰ回復する。その後、「ヴァルモニカ」カードが出るまで自分のデッキの上からカードをめくる事ができる。その場合、めくった「ヴァルモニカ」カードを手札に加え、残りをデッキに戻す。<br />●自分は５００ダメージを受ける。その後、デッキから「ヴァルモニカ・ヴェルサーレ」以外の「ヴァルモニカ」カード１枚を墓地へ送る事ができる。
   | ko_lore               = 
   | jp_sets               = 
-  DBVS-JP037; Deck Build Pack: Valiant Smashers; 
+  DBVS-JP037; Deck Build Pack: Valiant Smashers; Super Rare
   | mentions              = Valmonica Versare
   | archseries            = Valmonica
   | supports_archetypes   = Valmonica
@@ -41,7 +41,6 @@ wikitext: |-
   | misc                  = 
   * Variable effects
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19387
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
