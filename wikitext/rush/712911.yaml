@@ -3,25 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = エンジェルジャッジ
-  | romaji_name            = Enjeru Jajji
-  | ko_name                = 엔젤저지
-  | image                  = AngelJudge-RDMAX2-JP-R.png
-  | card_type              = Spell
-  | property               = Normal
-  | requirement            = If you have a [[face-up]] [[Fairy]] [[Type]] [[monster]] on your [[field]].
-  | lore                   = Place 1 [[Spell]]/[[Trap Card]] on your opponent's field on the bottom of the [[Main Deck|Deck]].
-  | ja_requirement         = 自分フィールドに表側表示モンスター（天使族）がいる場合に発動できる。
-  | ja_lore                = 相手フィールドの魔法・罠カード１枚を選んで持ち主のデッキの下に戻す。
-  | ko_requirement         = 자신 필드에 앞면 표시 몬스터(천사족)가 있을 경우에 발동할 수 있다.
-  | ko_lore                = 상대 필드의 마법 / 함정 카드 1장을 고르고 주인의 덱 아래로 되돌린다.
-  | jp_sets                = 
+  | ja_name        = エンジェルジャッジ
+  | romaji_name    = Enjeru Jajji
+  | ko_name        = 엔젤저지
+  | image          = AngelJudge-RDMAX2-JP-R.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = If you have a [[face-up]] [[Fairy]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = Place 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field on the bottom of the [[owner]]'s [[Main Deck|Deck]].
+  | ja_requirement = 自分フィールドに表側表示モンスター（天使族）がいる場合に発動できる。
+  | ja_lore        = 相手フィールドの魔法・罠カード１枚を選んで持ち主のデッキの下に戻す。
+  | ko_requirement = 자신 필드에 앞면 표시 몬스터(천사족)가 있을 경우에 발동할 수 있다.
+  | ko_lore        = 상대 필드의 마법 / 함정 카드 1장을 고르고 주인의 덱 아래로 되돌린다.
+  | jp_sets        = 
   RD/MAX2-JP045; Maximum Ultra Evolution Pack; Rare
-  | kr_sets                = 
+  | kr_sets        = 
   RD/MAX2-KR045; Maximum Ultra Evolution Pack; Rare
-  | supports               = Fairy
-  | action                 = Returns from your opponent's field to your opponent's Deck
-  | misc                   = 
-  * Requires control of specific Type
-  | database_id            = 16612
+  | supports       = Fairy
+  | action         = Places cards from the opponent's field on the bottom of the Deck
+  | misc           = Requires control of specific Type
+  | database_id    = 16612
   }}

@@ -12,7 +12,8 @@ wikitext: |-
   | level                  = 8
   | atk                    = 2400
   | def                    = 1600
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[face-up]] "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]".
+  | effect_types           = Summoning condition, Effect
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[face-up]] "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]".
   | requirement            = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed, place 1 card from your [[hand]] on top of the [[Main Deck|Deck]].
   | lore                   = Special Summon 1 "Cyber Dragon" from your [[Graveyard]] face-up to your [[field]].
   | ja_summoning_condition = このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
@@ -34,5 +35,6 @@ wikitext: |-
   | summoning              = 
   * Normal Summon with 1 Tribute
   * Special Summons from your Graveyard
+  | misc                   = Requires control of specific card
   | database_id            = 18463
   }}

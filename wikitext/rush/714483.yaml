@@ -10,7 +10,7 @@ wikitext: |-
   | atk                    = 2800
   | def                    = 2300
   | effect_types           = Summoning condition, Effect
-  | summoning_condition    = If you have 4 or more [[DARK]] [[Attribute]] [[monsters]] with different names in your [[Graveyard]], you can Tribute Summon this card in [[Attack Position]] by Tributing 1 DARK Attribute monster.
+  | summoning_condition    = If you have 4 or more [[DARK]] [[Attribute]] [[Monster Card|monster]]s with different names in your [[Graveyard]], you can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 DARK Attribute monster.
   | requirement            = [[Send]] 1 DARK Attribute monster from your [[hand]] to the Graveyard.
   | lore                   = [[Destroy]] all monsters on your opponent's [[field]]. Destroy this card during the [[End Phase]] of this [[turn]].
   | ja_summoning_condition = 自分の墓地にカード名が異なるモンスター（闇属性）が４体以上いる場合、このカードはモンスター（闇属性）１体をリリースして攻撃表示でアドバンス召喚できる。
@@ -29,6 +29,8 @@ wikitext: |-
   * Destroys your opponent's Monster Cards
   * Destroys itself
   | summoning              = Normal Summon with 1 Tribute
-  | misc                   = Legend Card
+  | misc                   = 
+  * Legend Card
+  * Requires control of specific Attribute
   | database_id            = 18232
   }}
