@@ -14,8 +14,8 @@ wikitext: |-
   | level          = 8
   | atk            = 2400
   | def            = 1500
-  | requirement    = [[Send]] 1 [[Pyro]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore           = [[Destroy]] all [[face-up]] [[Defense Position]] monsters on the [[field]] with the same [[Level]] as the monster sent to the Graveyard to meet the requirement.
+  | requirement    = [[Send]] 1 [[Pyro]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Destroy]] all [[face-up]] [[Defense Position]] monsters on the [[field]] with the same [[Level]] as the monster sent to the Graveyard to meet the [[Activation condition|requirement]].
   | fr_requirement = Envoyez 1 monstre de Type Pyro depuis votre main au Cimetière.
   | fr_lore        = Détruisez tous les monstres en Position de Défense face recto sur le Terrain du même Niveau que le monstre envoyé au Cimetière pour remplir la condition.
   | de_requirement = Lege 1 Monster des Typs Pyro von deiner Hand auf den Friedhof.
@@ -36,5 +36,6 @@ wikitext: |-
   | supports       = Pyro
   | action         = Sends from hand to Graveyard for cost
   | m/s/t          = Destroys face-up Defense Position Monster Cards
+  | misc           = Requires control of specific Level
   | database_id    = 16158
   }}
