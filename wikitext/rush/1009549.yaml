@@ -11,12 +11,20 @@ wikitext: |-
   | level            = 3
   | atk              = 1300
   | def              = 0
-  | requirement      = If the only [[monsters]] in your [[Graveyard]] are [[High Dragon]] and/or [[Dragon]] [[Type]] monsters, [[send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
+  | requirement      = If the only [[Monster Card|monster]]s in your [[Graveyard]] are [[High Dragon]] and/or [[Dragon]] [[Type]] monsters, [[send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
   | lore             = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 Level 7 [[EARTH]] [[Attribute]] Dragon Type monster from your Graveyard to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの上からカード３枚を墓地へ送って発動できる。
+  | ja_lore          = このカードのレベルはターン終了時まで４上がる。その後、自分の墓地のモンスター（レベル７／地属性／ドラゴン族）１体を選んで手札に加える事ができる。
   | jp_sets          = 
   RD/MRP2-JP028; Megaroad Pack 2; Super Rare
+  | supports         = 
+  * High Dragon
+  * Dragon
+  * EARTH
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change      = This card gains Levels
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
