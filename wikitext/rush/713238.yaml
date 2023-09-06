@@ -14,7 +14,7 @@ wikitext: |-
   | level          = 7
   | atk            = 2400
   | def            = 1200
-  | requirement    = Change 1 [[Attack Position]] [[Level]] 5 or higher [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] to [[face-up]] [[Defense Position]].
+  | requirement    = [[Battle position change|Change]] 1 [[Attack Position]] [[Level]] 5 or higher [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] to [[face-up]] [[Defense Position]].
   | lore           = 1 face-up monster on either side of the field gains 600 [[ATK]] until the end of this [[turn]].
   | ja_requirement = 自分フィールドの攻撃表示モンスター（レベル５以上／悪魔族）１体を表側守備表示にして発動できる。
   | ja_lore        = 自分または相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで６００アップする。
@@ -24,10 +24,12 @@ wikitext: |-
   RD/SBD5-JP002; Strongest Battle Deck Roa - Demon's Rock; Common
   | kr_sets        = 
   RD/SBD5-KR002; Strongest Battle Deck Roa - Demon's Rock; Common
-  | archseries     = Star Knight
   | supports       = Fiend
+  | archseries     = Star Knight
   | action         = Changes battle positions for cost
   | stat_change    = All monsters gain ATK
-  | misc           = Requires control of specific Type
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id    = 16787
   }}

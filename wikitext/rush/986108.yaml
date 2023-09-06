@@ -3,26 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ハーピィの{{Ruby|羽|は}}{{Ruby|根|ね}}{{Ruby|嵐|あらし}}
-  | romaji_name      = Hāpyi no Hanearashi
-  | image            = HarpiesFeatherTempest-RDTB01-JP-C.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon]]s a [[monster]], [[shuffle]] 2 "[[Harpie Lady (Rush Duel)|Harpie Lady]]" and/or "[[Harpie Ladies]]" from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Destroy]] that Normal Summoned monster. Then, if you shuffled a [[Normal Monster]] into the Deck to meet the requirement, you can change the [[battle position]] of 1 monster on your opponent's [[field]] ([[Attack Position]] becomes [[face-up]] [[Defense Position]], Defense Position becomes face-up Attack Position).
-  | ja_requirement   = 相手がモンスターを召喚した時、自分の墓地の「ハーピィ・レディ」「ハーピィ三姉妹」を合計２体デッキに戻して発動できる。
-  | ja_lore          = その召喚されたモンスターを破壊する。この効果の条件で通常モンスターをデッキに戻した場合、さらに相手フィールドのモンスター１体を選んで表示形式を変更できる（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
-  | jp_sets          = 
+  | ja_name        = ハーピィの{{Ruby|羽|は}}{{Ruby|根|ね}}{{Ruby|嵐|あらし}}
+  | romaji_name    = Hāpyi no Hanearashi
+  | image          = HarpiesFeatherTempest-RDTB01-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 "[[Harpie Lady (Rush Duel)|Harpie Lady]]" and/or "[[Harpie Ladies]]" from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Destroy]] that Normal Summoned monster. Then, if you shuffled a [[Normal Monster]] into the Deck to meet the [[Activation condition|requirement]], you can [[Battle position change|change]] the [[battle position]] of 1 monster on your opponent's [[field]] ([[Attack Position]] becomes [[face-up]] [[Defense Position]], Defense Position becomes face-up Attack Position).
+  | ja_requirement = 相手がモンスターを召喚した時、自分の墓地の「ハーピィ・レディ」「ハーピィ三姉妹」を合計２体デッキに戻して発動できる。
+  | ja_lore        = その召喚されたモンスターを破壊する。この効果の条件で通常モンスターをデッキに戻した場合、さらに相手フィールドのモンスター１体を選んで表示形式を変更できる（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
+  | jp_sets        = 
   RD/TB01-JP016; Triple Build Pack: Godbreath Wing; Common
-  | mentions         = 
-  * Harpie Ladies
+  | mentions       = 
   * Harpie Lady (Rush Duel)
-  | supports         = Normal Monster
-  | archseries       = Harpie (Rush Duel series)
-  | action           = 
+  * Harpie Ladies
+  | supports       = Normal Monster
+  | archseries     = Harpie (Rush Duel series)
+  | action         = 
   * Activates upon Normal Summon
-  * Returns from Graveyard to Deck
+  * Returns from Graveyard to Deck for cost
   * Changes battle positions
-  | m/s/t            = Destroys your opponent's face-up Monster Cards
-  | database_id      = 19108
+  * Flips your opponent's monsters face-up
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | database_id    = 19108
   }}

@@ -17,7 +17,7 @@ wikitext: |-
   | atk            = 2300
   | def            = 500
   | requirement    = [[Send]] 1 [[WATER]] [[Attribute]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
-  | lore           = Change 1 [[Defense Position]] monster on your opponent's [[field]] to [[face-up]] [[Attack Position]].
+  | lore           = [[Battle position change|Change]] 1 [[Defense Position]] monster on your opponent's [[field]] to [[face-up]] [[Attack Position]].
   | fr_requirement = Envoyez 1 monstre avec l'Attribut EAU depuis votre main au Cimetière.
   | fr_lore        = Changez 1 monstre en Position de Défense sur le Terrain de votre adversaire en Position d'Attaque face recto.
   | de_requirement = Lege 1 Monster mit der Eigenschaft WASSER von deiner Hand auf den Friedhof.
@@ -38,5 +38,6 @@ wikitext: |-
   | action         = 
   * Sends from hand to Graveyard for cost
   * Changes battle positions
+  * Flips your opponent's monsters face-up
   | database_id    = 15198
   }}
