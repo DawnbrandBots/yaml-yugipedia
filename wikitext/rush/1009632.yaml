@@ -9,13 +9,20 @@ wikitext: |-
   | image            = DarkRulerBattlegear-RDMRP2-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 1 [[Level]] 8 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
+  | requirement      = [[Send]] 1 [[Level]] 8 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
   | lore             = [[Draw a card|Draw]] 3 cards. Then, [[shuffle]] 1 card from your hand into the [[Main Deck|Deck]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 手札のモンスター（レベル８／闇属性／戦士族）１体を墓地へ送って発動できる。
+  | ja_lore          = 自分は３枚ドローする。その後、自分は手札１枚を選んでデッキに戻す。
   | jp_sets          = 
   RD/MRP2-JP057; Megaroad Pack 2; Rare
+  | supports         = 
+  * DARK
+  * Warrior
   | archseries       = Three Rulers
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Returns from your hand to your Deck
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
