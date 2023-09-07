@@ -3,22 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ロード・オブ・ドラゴン－ドラゴンの{{Ruby|絶|ぜっ}}{{Ruby|対|たい}}{{Ruby|者|しゃ}}－
-  | romaji_name      = Rōdo obu Doragon - Doragon no Zettaisha -
-  | trans_name       = Lord of Dragon - Dragon's Absolute -
-  | image            = AbsoluteLordofD-RDSD0A-JP-OP.png
-  | attribute        = DARK
-  | types            = Spellcaster / Effect
-  | level            = 4
-  | atk              = 1200
-  | def              = 1100
-  | requirement      = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed.
-  | lore             = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[monster]] and/or 1 excavated "[[The Ultimate Blue-Eyed Legend]]" to your [[hand]]. [[Shuffle]] the remaining cards into the Deck.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = ロード・オブ・ドラゴン－ドラゴンの{{Ruby|絶|ぜっ}}{{Ruby|対|たい}}{{Ruby|者|しゃ}}－
+  | romaji_name           = Rōdo obu Doragon - Doragon no Zettaisha -
+  | trans_name            = Lord of Dragon - Dragon's Absolute -
+  | image                 = AbsoluteLordofD-RDSD0A-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 1100
+  | requirement           = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed.
+  | lore                  = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]] and/or 1 excavated "[[The Ultimate Blue-Eyed Legend]]" to your [[hand]]. [[Shuffle]] the remaining cards into the Deck.
+  | ja_requirement        = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_lore               = 自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル８／光属性／ドラゴン族）と「究極の青眼伝説」をそれぞれ１枚まで選んで手札に加える事ができる。残りのカードをデッキに戻す。
+  | jp_sets               = 
   RD/SD0A-JP005; Structure Deck: Ultimate Blue-Eyes Legend; Common
-  | mentions         = The Ultimate Blue-Eyed Legend
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | mentions              = The Ultimate Blue-Eyed Legend
+  | supports              = 
+  * LIGHT
+  * Dragon
+  | related_to_archseries = Blue-Eyes (Rush Duel)
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Shuffles excavated cards into the Deck
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

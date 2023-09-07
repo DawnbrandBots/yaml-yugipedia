@@ -3,17 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|究|きゅう}}{{Ruby|極|きょく}}の{{Ruby|青|せい}}{{Ruby|眼|がん}}{{Ruby|伝|でん}}{{Ruby|説|せつ}}
-  | romaji_name      = Kyūkyoku no Seigan Densetsu
-  | image            = TheUltimateBlueEyedLegend-RDSD0A-JP-OP.png
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = None
-  | lore             = [[Fusion Summon]] a [[Level]] 10 or higher [[Dragon]] [[Type]] [[monster]] by [[send]]ing up to 3 Dragon Type monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]]. This [[turn]], the monster Special Summoned by this [[effect]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = {{Ruby|究|きゅう}}{{Ruby|極|きょく}}の{{Ruby|青|せい}}{{Ruby|眼|がん}}{{Ruby|伝|でん}}{{Ruby|説|せつ}}
+  | romaji_name           = Kyūkyoku no Seigan Densetsu
+  | image                 = TheUltimateBlueEyedLegend-RDSD0A-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = None
+  | lore                  = [[Fusion Summon]] a [[Level]] 10 or higher [[Dragon]] [[Type]] [[Monster Card|monster]] by [[send]]ing up to 3 Dragon Type monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]]. This [[turn]], the monster Special Summoned by this [[effect]] cannot be [[destroy]]ed by your opponent's card effects.
+  | ja_requirement        = なし
+  | ja_lore               = 自分の手札・フィールドのモンスター（ドラゴン族）を３体まで素材として墓地へ送り、モンスター（レベル１０以上／ドラゴン族）をフュージョン召喚する。このターン、この効果で特殊召喚したモンスターは相手の効果では破壊されない。
+  | jp_sets               = 
   RD/SD0A-JP027; Structure Deck: Ultimate Blue-Eyes Legend; Common
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | supports              = Dragon
+  | related_to_archseries = Blue-Eyes (Rush Duel)
+  | action                = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Requires control of specific Type
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}
