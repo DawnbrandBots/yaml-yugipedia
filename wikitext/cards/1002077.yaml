@@ -13,23 +13,23 @@ wikitext: |-
   | trans_name            = Flame King Beast Hanuman
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = FireKingAvatarHanuman-SR14-JP-OP.png
+  | image                 = FireKingAvatarHanuman-SR14-JP-SR.png
   | attribute             = FIRE
   | types                 = Beast-Warrior / Effect
   | level                 = 4
   | atk                   = 1600
   | def                   = 200
-  | password              = 
+  | password              = 38910263
   | effect_types          = Trigger, Quick, Condition
-  | lore                  = If a [[face-up]] "[[Fire King]]" [[monster]](s) you [[control]] is [[destroy]]ed by card [[effect]]: You can [[Special Summon]] this card from your [[hand]]. When a [[Spell]]/[[Trap Card]] or [[effect]] is activated while this monster is on the [[field]] ([[Quick Effect]]): You can [[negate]] the activation, and if you do, destroy 1 other [[FIRE]] monster in your hand or face-up [[field]]. You can only use each effect of "Fire King Avatar Hanuman" [[once per turn]].
+  | lore                  = If a [[face-up]] "[[Fire King]]" [[monster]](s) you [[control]] is [[destroy]]ed by card [[effect]] (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[hand]]. When a [[Spell]]/[[Trap Card]] or [[effect]] is activated while this monster is on the [[field]] ([[Quick Effect]]): You can [[negate]] the activation, and if you do, destroy 1 other [[FIRE]] monster in your hand or face-up [[field]]. You can only use each effect of "Fire King Avatar Hanuman" [[once per turn]].
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示の「炎王」モンスターが効果で破壊された場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在し、魔法・罠カードの効果が発動した時に発動できる。その発動を無効にし、このカード以外の自分の手札・フィールド（表側表示）の炎属性モンスター１体を破壊する。
   | ko_lore               = 
   | jp_sets               = 
-  SR14-JP003; Structure Deck R: Onslaught of the Fire Kings; 
+  SR14-JP003; Structure Deck R: Onslaught of the Fire Kings; Super Rare
   | supports              = FIRE
   | archseries            = Fire King
   | supports_archetypes   = Fire King
@@ -45,7 +45,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific Attribute
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19399
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

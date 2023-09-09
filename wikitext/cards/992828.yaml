@@ -14,22 +14,22 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = SanctuaryoftheFireKings-SR14-JP-OP.png
+  | image                 = SanctuaryoftheFireKings-SR14-JP-SR.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 65305978
   | effect_types          = Effect, Continuous-like, Trigger-like, Condition
-  | lore                  = When this card is [[activate]]d: You can place 1 "[[Fire King Island]]" from your [[Main Deck|Deck]] [[face-up]] in your [[Field Zone]]. [[Once per turn]], if a card in your Field Zone would be [[destroy]]ed by card [[effect]], you can destroy 1 [[FIRE]] [[monster]] in your [[hand]] or face-up [[field]] instead. Once per turn, if your opponent [[Special Summon]]s a monster(s), you can: Immediately after this effect [[resolve]]s, [[Xyz Summon]] 1 FIRE [[Xyz Monster]] using only "[[Fire King]]" monsters you [[control]] as [[material]]. You can only activate 1 "Sanctuary of the Fire Kings" per [[turn]].
+  | lore                  = When this card is [[activate]]d: You can place 1 "[[Fire King Island]]" from your [[Main Deck|Deck]] [[face-up]] in your [[Field Zone]]. [[Once per turn]], if a card in your Field Zone would be [[destroy]]ed by card [[effect]], you can destroy 1 [[FIRE]] [[monster]] in your [[hand]] or face-up [[field]] instead. Once per turn, if your opponent [[Special Summon]]s a monster(s), you can (except during the [[Damage Step]]): Immediately after this effect [[resolve]]s, [[Xyz Summon]] 1 FIRE [[Xyz Monster]] using only "[[Fire King]]" monsters you [[control]] as [[material]]. You can only activate 1 "Sanctuary of the Fire Kings" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「炎王の孤島」１枚を自分のフィールドゾーンに表側表示で置く事ができる。②：１ターンに１度、自分のフィールドゾーンのカードが効果で破壊される場合、代わりに自分の手札・フィールド（表側表示）の炎属性モンスター１体を破壊できる。③：１ターンに１度、相手がモンスターを特殊召喚した場合に発動できる。自分フィールドの「炎王」モンスターのみを素材として炎属性Ｘモンスター１体のＸ召喚を行う。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  SR14-JP024; Structure Deck R: Onslaught of the Fire Kings; 
+  SR14-JP024; Structure Deck R: Onslaught of the Fire Kings; Super Rare
   | mentions              = Fire King Island
   | supports              = 
   * FIRE
@@ -51,7 +51,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19400
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
