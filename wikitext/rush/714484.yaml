@@ -14,8 +14,8 @@ wikitext: |-
   | level          = 7
   | atk            = 2100
   | def            = 2300
-  | requirement    = If your opponent has a [[face-up]] [[LIGHT]] [[Attribute]] [[monster]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore           = 1 face-up [[Winged Beast]] [[Type]] monster on your [[field]] gains 1000 [[ATK]] until the end of this [[turn]].
+  | requirement    = If your opponent has a [[face-up]] [[LIGHT]] [[Attribute]] [[Monster Card|monster]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = 1 face-up [[Winged Beast]] [[Type]] monster on your field gains 1000 [[ATK]] until the end of this [[turn]].
   | fr_requirement = Si votre adversaire a un monstre possédant l'Attribut LUMIÈRE face recto sur son Terrain, envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_lore        = 1 monstre de Type Bête Ailée face recto sur votre Terrain gagne 1000 ATK jusqu'à la fin de ce tour.
   | de_requirement = Falls dein Gegner ein offenes Monster mit der Eigenschaft LICHT auf seinem Spielfeld hat, lege die oberste Karte deines Decks auf den Friedhof.
@@ -36,6 +36,7 @@ wikitext: |-
   RD/SD05-KR006; Strongest Battle Deck Zuwijo - Voidvelgr of the Empty Sky; Common
   | supports       = Winged Beast
   | anti-supports  = LIGHT
+  | archseries     = Darkness (Rush Duel series)
   | action         = Sends from the top of your Deck to your Graveyard for cost
   | stat_change    = Your monsters gain ATK
   | misc           = Requires control of specific Type
