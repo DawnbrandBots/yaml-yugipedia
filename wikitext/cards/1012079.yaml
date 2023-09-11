@@ -20,6 +20,7 @@ wikitext: |-
   | level               = 7
   | atk                 = 2050
   | def                 = 2500
+  | ritualcard          = Silenforcing Prayer
   | password            = 
   | effect_types        = Summoning condition, Continuous, Condition, Trigger, Quick
   | lore                = You can [[Ritual Summon]] this card with "[[Silenforcing Prayer]]". Gains 2050 [[ATK]] while "[[Novox, the Silenforcer Disciple]]" is on your [[field]] or in your [[GY]]. You can only use each of the following [[effect]]s of "Skull Guardian, the Silenforcing Protector" [[once per turn]]. If this card is Ritual Summoned: You can [[Add a card|add]] 1 "[[Silenforc]]" [[monster]], or 1 [[Warrior]] or [[Dragon]] [[Ritual Monster]], from your [[Main Deck|Deck]] to your [[hand]]. When your opponent activates a card or effect while you control "Novox, the Silenforcer Disciple" ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that card.
@@ -45,6 +46,20 @@ wikitext: |-
   * Skull Guardian (archetype)
   * Silenforc
   | supports_archetypes = Silenforc
+  | action              = 
+  * Activates upon Ritual Summon
+  * Adds from Deck to hand
+  | stat_change         = This card gains ATK
+  | m/s/t               = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

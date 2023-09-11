@@ -38,6 +38,22 @@ wikitext: |-
   * Ritual Spell Card
   | archseries          = Silenforc
   | supports_archetypes = Silenforc
+  | action              = 
+  * Returns from your hand to your Deck
+  * Returns from your Graveyard to your Deck
+  * Adds from Deck to hand
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Destroys itself
+  | summoning           = Special Summons from your Deck
+  | misc                = 
+  * Variable effects
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
