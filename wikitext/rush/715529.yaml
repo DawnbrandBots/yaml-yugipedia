@@ -16,8 +16,8 @@ wikitext: |-
   | level          = 8
   | atk            = 2500
   | def            = 2000
-  | requirement    = If your opponent has no [[Attack Position]] [[monsters]] on their [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore           = This [[turn]], this card can [[attack directly]], also you can only [[attack]] with [[Warrior]] [[Type]] monsters.
+  | requirement    = If your opponent has no [[Attack Position]] [[Monster Card|monster]]s on their [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = This turn, this card can [[attack]] [[Direct attack|directly]], also you can only attack with [[Warrior]] [[Type]] monsters.
   | fr_requirement = Si votre adversaire n'a aucun monstre en Position d'Attaque sur son Terrain durant le tour où vous avez Invoqué Normalement cette carte, envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_lore        = Ce tour, cette carte peut attaquer directement, et vous pouvez uniquement attaquer avec des monstres de Type Guerrier.
   | de_requirement = Falls dein Gegner während des Spielzugs, in dem du diese Karte als Normalbeschwörung beschworen hast, keine Monster in Angriffsposition auf seiner Spielfeldseite hat, lege die oberste Karte deines Decks auf den Friedhof.
@@ -44,5 +44,6 @@ wikitext: |-
   | attack         = 
   * Direct attacker
   * Prevents your monsters from attacking
+  | misc           = Cover card
   | database_id    = 15649
   }}

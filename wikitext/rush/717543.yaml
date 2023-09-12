@@ -16,8 +16,8 @@ wikitext: |-
   | level          = 8
   | atk            = 2500
   | def            = 2500
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, change its [[battle position]] ([[Attack Position]] becomes [[face-up]] [[Defense Position]], Defense Position becomes face-up Attack Position).
-  | lore           = Until the end of the opponent's next turn, while this card is face-up, neither player can [[Tribute Summon]] [[Level]] 7 or higher monsters.
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] its [[battle position]] ([[Attack Position]] becomes [[face-up]] [[Defense Position]], Defense Position becomes face-up Attack Position).
+  | lore           = Until the end of the opponent's next turn, while this card is face-up, neither [[Duelist|player]] can [[Tribute Summon]] [[Level]] 7 or higher [[Monster Card|monster]]s.
   | fr_requirement = Durant le tour où vous avez Invoqué Normalement cette carte, changez sa position de combat (Position d'Attaque devient Position de Défense face recto, Position de Défense devient Position d'Attaque face recto).
   | fr_lore        = Jusqu'à la fin du prochain tour de l'adversaire et tant que cette carte est face recto, aucun joueur ne peut Invoquer par Sacrifice de monstre de min. Niveau 7.
   | de_requirement = Während des Spielzugs, in dem du diese Karte als Normalbeschwörung beschworen hast, änderst du ihre Kampfposition (Angriffsposition wird zu offener Verteidigungsposition, Verteidigungsposition wird zu offener Angriffsposition).
@@ -46,6 +46,8 @@ wikitext: |-
   * Changes battle positions for cost
   | summoning      = Prevents Tribute Summons
   | fm_for         = Yamiterasu the Divine Ruler
-  | misc           = Turn limited effects
+  | misc           = 
+  * Turn limited effects
+  * Cover card
   | database_id    = 15194
   }}
