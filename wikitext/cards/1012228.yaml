@@ -46,11 +46,30 @@ wikitext: |-
   | jp_sets               = 
   PHNI-JP049; Phantom Nightmare; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   PHNI-JP049; Phantom Nightmare +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports              = 
+  * WIND
+  * Spellcaster
   | archseries            = Majespecter
   | supports_archetypes   = 
   * Dracoslayer
   * Majespecter
   | related_to_archseries = True Draco
+  | action                = 
+  * Activates if other Pendulum Zone is occupied by specific card
+  * Adds from Deck to hand
+  * Activates if Tributed
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Goes to Pendulum Zone
+  | m/s/t                 = Destroys your face-up Spell Cards
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your Deck
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
+  * Only twice per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
