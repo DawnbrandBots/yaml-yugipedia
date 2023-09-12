@@ -25,6 +25,7 @@ wikitext: |-
   ==Etymology==
   "Majespecter" appears to be a portmanteau of "Majestic" and "Specter".
   ==Members==
+  ===Main Deck===
   {| class="wikitable sortable"
   |-
   ! Name !! Scale !! Level !! Origin
@@ -44,6 +45,11 @@ wikitext: |-
   | 4
   | [[wikipedia:Fox spirit|Kyubi]]
   |-
+  | [[Majespecter Porcupine - Yamaarashi|Majespecter Porcupine]]
+  | 2
+  | 4
+  | [https://www.japanesewiki.com/culture/Yama-arashi.html Yamaarashi]
+  |-
   | [[Majespecter Raccoon - Bunbuku|Majespecter Raccoon]]
   | 5
   | 3
@@ -60,9 +66,32 @@ wikitext: |-
   | [[wikipedia:Qilin|Kirin]]
   |-
   |}
+
+  ===Extra Deck===
+  {| class="wikitable sortable"
+  |-
+  ! Name !! Monster Type !! Origin
+  |-
+  | [[Majespecter Draco]]
+  | [[Xyz Pendulum Monster]]
+  | [[Majesty Maiden, the True Dracocaster]]</br>[[Majespecter Unicorn - Kirin]]
+  |-
+  | [[Majespecter Orthrus - Nue|Majespecter Orthrus]]
+  | [[Link Monster]]
+  | [[wikipedia:Nue|Nue]]
+  |-
+  |}
+
   ==Playing style==
-  Almost all of the "Majespecters" have the ability to search for other "Majespecter" cards (including themselves) whenever they're Summoned. "Bunbuku" searches for monsters, "Yata" searches for Spell Cards, "Kyubi" searches for Trap Cards, "Ogama" lets you Set a Spell or Trap Card from your Deck, and "Nekomata" can search for any "Majespecter" at the cost of having to wait until the End Phase to do so. The ace monster of the archetype, "Kirin", which acts as the deck's control measure, can return both an opponent's monster and a Pendulum Monster you control to the hand (including itself). However, it's a Level 6 monster, putting it out of range of the archetype's Pendulum Scale of 2 and 5, meaning other non-Majespecter Pendulum Monsters with Pendulum Scale of 7 or higher are required to Pendulum Summon it.
-  The Spell and Trap cards mostly have various effects that activate by Tributing a WIND Spellcaster monster, but most of them revolve around handling opposing monsters in various ways. "Cyclone", "Storm", and "Tornado" remove the opponent's monster, while "Tempest" negates monster effects or Special Summons. "Majespecter" monsters Tributed this way can be Pendulum Summoned again for even more advantage. The other two "Majespecter" Spell and Trap cards do not require a Tribute, but have less substantial effects. "Sonics" doubles the ATK and DEF of a "Majespecter" monster for one turn, but at the cost of halving any battle damage it inflicts to your opponent. "Supercell" prevents the activations and effects of "Majespecter" cards from being negated, but only while you have a "Majespecter" card in your Pendulum Zone. However, it does allow you to recycle your "Majespecter" cards from the Graveyard, allowing you to recover "Majespecter" monsters that were used for Xyz Summons or recover any used Spell and Trap Cards.
+  Almost all of the "Majespecters" have the ability to search for other "Majespecter" cards (including themselves) whenever they're Summoned.
+  * "Bunbuku" searches for monsters
+  * "Yata" searches for Spell Cards
+  * "Kyubi" searches for Trap Cards
+  * "Ogama" lets you Set a Spell or Trap Card from your Deck
+  * "Nekomata" can search for any "Majespecter" at the cost of having to wait until the End Phase to do so
+  * “Porcurine” lets you Set a Spell from your GY
+  The ace monster of the archetype, "Kirin", which acts as the deck's control measure, can return both an opponent's monster and a Pendulum Monster you control to the hand (including itself). Although it's a Level 6 monster, putting it out of range of the archetype's Pendulum Scale of 2 and 5, it can now be easily brought out with the new Xyz Pendulum Monster “Draco”, which also debuted in ''Phantom Nightmare''.</br>
+  The Spell and Trap Cards mostly have various effects that activate by Tributing a WIND Spellcaster monster, but most of them revolve around handling opposing monsters in various ways. "Cyclone", "Storm", and "Tornado" remove the opponent's monster, while "Tempest" negates monster effects or Special Summons. "Majespecter" monsters Tributed this way can be Pendulum Summoned again for even more advantage. The other two "Majespecter" Spell and Trap Cards do not require a Tribute, but have less substantial effects. "Sonics" doubles the ATK and DEF of a "Majespecter" monster for one turn, but at the cost of halving any battle damage it inflicts to your opponent. "Supercell" prevents the activations and effects of "Majespecter" cards from being negated, but only while you have a "Majespecter" card in your Pendulum Zone. However, it does allow you to recycle your "Majespecter" cards from the Graveyard, allowing you to recover "Majespecter" monsters that were used for Xyz Summons or recover any used Spell and Trap Cards. "Wind" can be used as both a recovery option and a combo starter, since Tributing a monster is not neccessary to activate this card, but it will only let you Special Summon a "Majespecter" monster from your hand or GY, while Tributing a monster to activate it let you Special Summon a such monster from your Deck instead.
   === Additional Support ===
   * "[[Luster Pendulum, the Dracoslayer]]" - Allows you to destroy any card in the other Pendulum Zone to search for another copy, essentially resulting in a free +1. Also gives you access to "[[Ignister Prominence, the Blasting Dracoslayer]]" to return problem cards like "[[Kozmo Dark Destroyer]]" and "[[Kozmo Forerunner]]" to the deck. It's also a Level 4 and Scale 5 which goes well with the deck's Pendulum Summoning range.
   * "[[Archfiend Eccentrick]]" - Versatile Level 3 Pendulum Monster, which can be used to destroy any card depending on where it is; Spell/Traps while in Pendulum Zone for the cost of destroying itself, and monsters while in Monster Zone for the cost of Tributing itself. It also has a Pendulum Scale of 7, which helps for Pendulum Summoning "Kirin".
@@ -80,44 +109,53 @@ wikitext: |-
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |tuner monsters =
+  * [[Luster Pendulum, the Dracoslayer]]
   |pendulum monsters =
   * [[Majespecter Cat - Nekomata]]
   * [[Majespecter Crow - Yata]]
   * [[Majespecter Fox - Kyubi]]
+  * [[Majespecter Porcupine - Yamaarashi]]
   * [[Majespecter Raccoon - Bunbuku]]
   * [[Majespecter Toad - Ogama]]
   * [[Majesty Pegasus, the Dracoslayer]]
-  * [[Archfiend Eccentrick]]
-  * [[Luster Pendulum, the Dracoslayer]]
   * [[Master Pendulum, the Dracoslayer]]
+  * [[Archfiend Eccentrick]]
   * [[Rescue Hamster]]
   |fusion monsters = 
   * [[Dinoster Power, the Mighty Dracoslayer]]
   |synchro monsters = 
   * [[Ignister Prominence, the Blasting Dracoslayer]]
   |xyz monsters =
+  * [[Majespecter Draco]]
   * [[Majester Paladin, the Ascending Dracoslayer]]
   * [[Totem Bird]]
   |link monsters =
+  * [[Majespecter Orthrus - Nue]]
   * [[Greatfly]]
   * [[Wynn the Wind Charmer, Verdant]]
-  |spells =
-  * [[Majespecter Cyclone]]
-  * [[Majespecter Sonics]]
+  |normal spells =
   * [[Majespecter Storm]]
-  * [[Majesty's Pegasus]]
   * [[Duelist Alliance (card)|Duelist Alliance]]
   ** [[Extra Pendulum]]
   ** [[Pendulum Paradox]]
   ** [[Pendulum Treasure]]
-  * [[Secret Village of the Spellcasters]]
   * [[Terraforming]]
   * [[Ties of the Brethren]]
-  |traps =
+  |field spells =
+  * [[Majesty's Pegasus]]
+  * [[Secret Village of the Spellcasters]]
+  |quick-play spells =
+  * [[Majespecter Cyclone]]
+  * [[Majespecter Sonics]]
+  * [[Majespecter Wind]]
+  |normal traps =
   * [[Majespecter Gust]]
-  * [[Majespecter Supercell]]
-  * [[Majespecter Tempest]]
   * [[Majespecter Tornado]]
+  |counter traps =
+  * [[Majespecter Tempest]]
+  |continuous traps =
+  * [[Majespecter Supercell]]
   }}
   {{Archseries navbox}}
   [[Category:TCG and OCG archetypes]]
