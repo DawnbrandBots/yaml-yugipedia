@@ -17,7 +17,7 @@ wikitext: |-
   | types                 = Fish / Effect
   | level                 = 4
   | atk                   = 1200
-  | def                   = 1200
+  | def                   = 1000
   | password              = 
   | effect_types          = Ignition, Condition, Trigger
   | lore                  = If this card is in your [[hand]]: You can [[target]] 1 [[Level]] 4 or lower [[Fish]] [[monster]] in your [[GY]] with the same name as a card you [[control]]; [[Special Summon]] this card, and if you do, Special Summon that monster. You can only use this [[effect]] of "White Sunfish" [[once per turn]]. If this card is Special Summoned from the GY: You can treat it as a [[Tuner]] this [[turn]].
@@ -30,8 +30,11 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHNI-JP006; Phantom Nightmare; 
+  | supports              = Fish
   | archseries            = White
-  | action                = Activates upon Special Summon
+  | action                = 
+  * Activates from your hand
+  * Activates upon Special Summon
   | stat_change           = Treats itself as a Tuner monster
   | summoning             = 
   * Special Summons itself from your hand

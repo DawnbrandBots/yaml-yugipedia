@@ -31,9 +31,28 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHNI-JP041; Phantom Nightmare; Rare
+  | supports              = 
+  * WATER
+  * Fish
   | archseries            = 
   * White 
   * White Aura
+  | action                = 
+  * Activates upon Synchro Summon
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  | stat_change           = Treats itself as a Tuner monster
+  | summoning             = 
+  * Requires Attribute specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific non-Tuner Synchro Materials
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons itself from your Graveyard
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
