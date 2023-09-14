@@ -32,6 +32,12 @@ wikitext: |-
   * King's Sarcophagus
   * Horus the Black Flame Deity
   | supports_archetypes   = Horus
+  | action                = 
+  * Adds from Deck to hand
+  * Places cards from the player's hand on the bottom of the Deck
+  * You draw cards
+  | stat_change           = Changes own name while on the field
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
