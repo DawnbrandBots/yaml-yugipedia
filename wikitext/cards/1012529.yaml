@@ -28,10 +28,22 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   TW01-JP099; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  | supports              = Fiend
   | archseries            = Void
   | supports_archetypes   = 
   * Infernoid
   * Void
+  | action                = 
+  * Reveals your hand for cost
+  * You discard as an effect
+  * You draw cards
+  * Activates from your Graveyard
+  * Returns the player's banished cards to the Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of no monsters
+  * Requires control of specific Type
+  * Only once per Duel
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

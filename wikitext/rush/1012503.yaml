@@ -12,13 +12,20 @@ wikitext: |-
   | level            = 3
   | atk              = 900
   | def              = 700
-  | requirement      = [[Send]] 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
+  | requirement      = [[Send]] 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, you can [[Special Summon]] 1 "[[Dark Magician (Rush Duel)|Dark Magician]]" from your Graveyard [[face-up]] to your [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 手札のモンスター（闇属性／魔法使い族）１体を墓地へ送って発動できる。
+  | ja_lore          = 自分は１枚ドローする。その後、自分の墓地の「ブラック・マジシャン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/MRP2-JP082; Megaroad Pack 2; Common
   | mentions         = Dark Magician (Rush Duel)
+  | supports         = 
+  * DARK
+  * Spellcaster
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | summoning        = Special Summons from your Graveyard
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

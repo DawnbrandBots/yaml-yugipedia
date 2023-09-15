@@ -3,31 +3,46 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|雲|うん}}{{Ruby|針|しん}}の{{Ruby|戦|いくさ}}{{Ruby|天|てん}}{{Ruby|女|にょ}}ハゴロモ
-  | romaji_name      = Unshin no Ikusatennyo Hagoromo
-  | trans_name       = Hagoromo the Celestial Battle Maiden of the Cloud Needle
-  | image            = HagoromotheCloudleHandlingCelestialSeamstress-RDMRP2-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Fairy / Fusion / Effect
-  | level            = 8
-  | atk              = 2000
-  | def              = 2500
-  | fusion_material  = 
+  | ja_name               = {{Ruby|雲|うん}}{{Ruby|針|しん}}の{{Ruby|戦|いくさ}}{{Ruby|天|てん}}{{Ruby|女|にょ}}ハゴロモ
+  | romaji_name           = Unshin no Ikusatennyo Hagoromo
+  | trans_name            = Hagoromo the Celestial Battle Maiden of the Cloud Needle
+  | image                 = HagoromotheCloudleHandlingCelestialSeamstress-RDMRP2-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Fairy / Fusion / Effect
+  | level                 = 8
+  | atk                   = 2000
+  | def                   = 2500
+  | fusion_material       = 
   * Valkyrian Cutpasterie
   * Needlkyrie the Celestial Seamstress
-  | materials        = "[[Valkyrian Cutpasterie]]" + "[[Needlkyrie the Celestial Seamstress]]"
-  | requirement      = [[Pay]] 300 [[LP]].
-  | lore             = [[Add a card|Add]] 1 [[Level]] 4 or lower [[Warrior]] or [[Fairy]] [[Type]] [[monster]] from your [[Graveyard]] to your [[hand]]. Then, you can [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" or "[[Divine Transformation]]" from your Graveyard in your [[Spell & Trap Zone]].
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | materials             = "[[Valkyrian Cutpasterie]]" + "[[Needlkyrie the Celestial Seamstress]]"
+  | requirement           = [[Pay]] 300 [[LP]].
+  | lore                  = [[Add a card|Add]] 1 [[Level]] 4 or lower [[Warrior]] or [[Fairy]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] to your [[hand]]. Then, you can [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" or "[[Divine Transformation]]" from your Graveyard in your [[Spell & Trap Zone]].
+  | ja_materials          = 「戦天女キリハリー」＋「戦天女ハリキリー」
+  | ja_requirement        = ３００ＬＰを払って発動できる。
+  | ja_lore               = 自分の墓地のモンスター（レベル４以下／戦士族・天使族）１体を選んで手札に加える。その後、自分の墓地の「フュージョン」または「天翔変化」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
+  | jp_sets               = 
   RD/MRP2-JP042; Megaroad Pack 2; Rare
-  | mentions         = 
+  | mentions              = 
   * Valkyrian Cutpasterie
   * Needlkyrie the Celestial Seamstress
   * Fusion (Rush Duel)
   * Divine Transformation
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | supports              = 
+  * Warrior
+  * Fairy
+  | related_to_archseries = 
+  * Fusion (archetype)
+  * Three Rulers
+  | action                = 
+  * Adds from Graveyard to hand
+  * Sets from your Graveyard
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | life_points           = Pays Life Points for cost
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

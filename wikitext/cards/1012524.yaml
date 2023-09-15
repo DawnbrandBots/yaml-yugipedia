@@ -32,6 +32,21 @@ wikitext: |-
   TW01-JP098; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
   | archseries            = Infernoid
   | supports_archetypes   = Infernoid
+  | action                = 
+  * Tributes for cost
+  * Activates if other cards are banished
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Negates Special Summons
+  * Special Summons from your Deck
+  * Ignoring the Summoning conditions
+  | banished              = 
+  * Banishes negated Summons
+  * Banishes from field
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

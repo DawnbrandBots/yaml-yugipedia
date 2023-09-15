@@ -3,27 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|Ｖｉ－ＦＲＮＤ|ヴィーフレンド}}
-  | romaji_name      = Vī Furendo
-  | image            = ViFRND-RDMRP2-JP-OP.png
-  | attribute        = DARK
-  | types            = Psychic / Effect
-  | level            = 7
-  | atk              = 2500
-  | def              = 0
-  | requirement      = [[Send]] up to 5 cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, if you have "[[Giftarist]]", "[[Romic n' Roller]]", "[[Berry Bassist]]", "[[Dream Drummer]]", and "[[Keytar Kid]]" in your Graveyard, you can [[destroy]] 1 card on your opponent's [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = {{Ruby|Ｖｉ－ＦＲＮＤ|ヴィーフレンド}}
+  | romaji_name           = Vī Furendo
+  | image                 = ViFRND-RDMRP2-JP-OP.png
+  | attribute             = DARK
+  | types                 = Psychic / Effect
+  | level                 = 7
+  | atk                   = 2500
+  | def                   = 0
+  | requirement           = [[Send]] up to 5 cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, if you have "[[Giftarist]]", "[[Romic n' Roller]]", "[[Berry Bassist]]", "[[Dream Drummer]]", and "[[Keytar Kid]]" in your Graveyard, you can [[destroy]] 1 card on your opponent's [[field]].
+  | ja_requirement        = デッキの上からカードを５枚まで墓地へ送って発動できる。
+  | ja_lore               = このカードの攻撃力はターン終了時まで５００アップする。自分の墓地に「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」が全ている場合、さらに相手フィールドのカード１枚を選んで破壊できる。
+  | jp_sets               = 
   RD/MRP2-JP059; Megaroad Pack 2; Ultra Rare, Over Rush Rare
-  | mentions         = 
+  | mentions              = 
   * Giftarist
   * Romic n' Roller
   * Berry Bassist
   * Dream Drummer
   * Keytar Kid
-  | archseries       = Band Group
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | archseries            = Band Group
+  | related_to_archseries = Psychic Musician
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

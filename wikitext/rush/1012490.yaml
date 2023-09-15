@@ -18,16 +18,27 @@ wikitext: |-
   | effect_types     = Multi-Choice
   | materials        = "[[Kimeruler the Dark Raider]]" + "[[Needlkyrie the Celestial Seamstress]]"
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = ● Up to 2 [[face-up]] [[monsters]] on your [[field]] can attack directly this [[turn]].<br />● This card gains 1000 [[ATK]] until the end of your opponent's next turn.
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = ● Up to 2 [[face-up]] [[Monster Card|monster]]s on your [[field]] can [[attack]] [[Direct attack|directly]] this [[turn]].<br />● This card gains 1000 [[ATK]] until the end of your opponent's next turn.
+  | ja_materials     = 「魔将キメルーラ」＋「戦天女ハリキリー」
+  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = ●自分フィールドの表側表示モンスターを２体まで選ぶ。このターン、そのモンスターは直接攻撃できる。●このカードの攻撃力は次の相手ターン終了時まで１０００アップする。
   | jp_sets          = 
   RD/MRP2-JP040; Megaroad Pack 2; Rare
   | mentions         = 
   * Kimeruler the Dark Raider
   * Needlkyrie the Celestial Seamstress
   | archseries       = Three Rulers
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | attack           = Allows direct attacks
+  | misc             = 
+  * Variable effects
+  * Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
