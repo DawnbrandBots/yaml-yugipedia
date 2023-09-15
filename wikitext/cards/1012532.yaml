@@ -28,8 +28,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   TW01-JP100; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  | supports              = Fiend
   | archseries            = Void
   | supports_archetypes   = Infernoid
+  | action                = Adds banished cards to the hand
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Special Summons from your hand
+  * Ignoring the Summoning conditions
+  | misc                  = 
+  * Requires control of no monsters
+  * Requires control of specific Type
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
