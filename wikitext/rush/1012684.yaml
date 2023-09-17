@@ -11,12 +11,22 @@ wikitext: |-
   | level            = 3
   | atk              = 1100
   | def              = 200
-  | requirement      = [[Send]] all [[monsters]] from your [[field]] to the [[Graveyard]].
+  | requirement      = [[Send]] all [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]].
   | lore             = [[Draw a card|Draw]] 1 card. You can only [[Normal Summon|Normal]] or [[Special Summon]] [[Celestial Warrior]], [[Warrior]], or [[Fairy]] [[Type]] monsters for the rest of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドのモンスターを全て墓地へ送って発動できる。
+  | ja_lore          = 自分は１枚ドローする。この効果の発動後、ターン終了時まで自分はモンスター（天界戦士族・戦士族・天使族）しか召喚・特殊召喚できない。
   | jp_sets          = 
   RD/MRP2-JP047; Megaroad Pack 2; Common
+  | supports         = 
+  * Celestial Warrior
+  * Warrior
+  * Fairy
+  | action           = 
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  | summoning        = 
+  * Restricts the player's Normal Summons to Type specific monsters
+  * Restricts the player's Special Summons to Type specific monsters
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
