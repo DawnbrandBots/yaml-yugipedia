@@ -16,7 +16,7 @@ wikitext: |-
   | atk            = 1500
   | def            = 0
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore           = Add 1 [[Level]] 6 or higher [[Fiend]] [[Type]] [[monster]] from your [[Graveyard]] to your [[hand]]. You cannot [[attack directly]] this turn.
+  | lore           = Add 1 [[Level]] 6 or higher [[Fiend]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] to your [[hand]]. You cannot [[attack]] [[Direct attack|directly]] this turn.
   | fr_requirement = Durant le tour où vous avez Invoqué Normalement cette carte.
   | fr_lore        = Ajoutez 1 monstre de Type Démon de min. Niveau 6 depuis votre Cimetière dans votre main. Vous ne pouvez pas attaquer directement ce tour.
   | de_requirement = Während deines Spielzugs hast du mit einer Normalbeschwörung diese Karte herbeigerufen.
@@ -38,6 +38,6 @@ wikitext: |-
   | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Adds from Graveyard to hand
-  | attack         = Prevents direct attacks
+  | attack         = Cannot attack directly
   | database_id    = 15665
   }}
