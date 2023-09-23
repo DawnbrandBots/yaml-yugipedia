@@ -11,9 +11,9 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = 
-  1;   MorayofAvarice-POTE-EN-UR-1E.png; MorayofAvarice-MADU-EN-VG-artwork.png
-  1.1; MorayofAvarice-WPP4-JP-C.png    ; MorayofAvarice-MADU-JP-VG-artwork.png
-  | current_image         = 1
+  1;   MorayofAvarice-WPP4-JP-C.png;     MorayofAvarice-MADU-JP-VG-artwork.png
+  1.1; MorayofAvarice-POTE-EN-UR-1E.png; MorayofAvarice-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
   | card_type             = Spell
   | property              = Normal
   | password              = 73244186
@@ -24,7 +24,7 @@ wikitext: |-
   | it_lore               = Bandisci 1 mostro Pesce, Serpente Marino o Acqua scoperto che controlli; pesca 2 carte. Puoi attivare solo 1 "Murena dell'Avarizia" per turno.
   | pt_lore               = Bana 1 monstro Peixe, Serpente Marinha ou Aqua com a face para cima que você controla; compre 2 cards. Você só pode ativar 1 "Moreia da Avareza" por turno.
   | es_lore               = Destierra 1 monstruo Pez, Serpiente Marina o Aqua boca arriba que controles; roba 2 cartas. Sólo puedes activar 1 "Morena de la Avaricia" por turno.
-  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示の魚族・海竜族・水族モンスター１体を除外して発動できる。 自分はデッキから２枚ドローする。
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示の魚族・海竜族・水族モンスター１体を除外して発動できる。自分は２枚ドローする。
   | ko_lore               = 
   | en_sets               = 
   POTE-EN084; Power of the Elements; Ultra Rare
@@ -38,6 +38,8 @@ wikitext: |-
   POTE-PT084; Power of the Elements; Ultra Rare
   | sp_sets               = 
   POTE-SP084; Power of the Elements; Ultra Rare
+  | jp_sets               = 
+  WPP4-JP059; World Premiere Pack 2023; Common, Secret Rare
   | supports              = 
   * Fish
   * Sea Serpent
@@ -48,5 +50,4 @@ wikitext: |-
   * Requires control of specific Type
   * Only once per turn
   | database_id           = 17748
-  | ocg_status            = Not yet released
   }}
