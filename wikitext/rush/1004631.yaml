@@ -11,22 +11,33 @@ wikitext: |-
   | level                 = 9
   | atk                   = 2800
   | def                   = 2500
-  | fusion_material = 
+  | fusion_material       = 
   * Red Boot Boost Dragon
   * Darkness Drake
   | materials             = "[[Red Boot Boost Dragon]]" + "[[Darkness Drake]]"
   | requirement           = [[Shuffle]] 1 [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore                  = Choose up to 3 [[DARK]] [[Attribute]] monsters in your Graveyard. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the total [[Level]]s of the chosen monsters] x 100, and this card gains [[ATK]] equal to [the total Levels of the chosen monsters] x 100 until the end of this [[turn]]. Then, [[shuffle]] the chosen monsters into the Deck.
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | lore                  = Choose up to 3 [[DARK]] [[Attribute]] monsters in your Graveyard. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the total [[Level]]s of the chosen monsters] x 100, and this card gains [[ATK]] equal to [the total Levels of the chosen monsters] x 100 until the end of this [[turn]]. Then, shuffle the chosen monsters into the Deck.
+  | ja_materials          = 「真紅動の撃速竜」＋「ダークネス・ドレイク」
+  | ja_requirement        = 自分の墓地のモンスター１体をデッキに戻して発動できる。
+  | ja_lore               = 自分の墓地のモンスター（闇属性）を３体まで選ぶ。［選んだモンスターのレベルの合計］×１００ダメージを相手に与え、このカードの攻撃力はターン終了時まで、［選んだモンスターのレベルの合計］×１００アップする。その後、選んだモンスターをデッキに戻す。
   | jp_sets               = 
   RD/KP15-JP037; Red Reboot of Darkness; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions              = 
   * Red Boot Boost Dragon
   * Darkness Drake
+  | supports              = DARK
   | archseries            = High Tech Dragon
   | related_to_archseries = Darkness (Rush Duel series)
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Returns from your Graveyard to your Deck
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | life_points           = Damages your opponent
   | misc                  = Cover card
   | database_id           = 
   | rush_duel_status      = Not yet released
