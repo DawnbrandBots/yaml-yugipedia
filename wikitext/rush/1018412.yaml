@@ -3,23 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = フラップ・ドラゴン
-  | romaji_name           = Furappu Doragon
-  | image                 = FlapDragon-RDKP15-JP-OP.png
-  | attribute             = LIGHT
-  | types                 = Dragon / Effect
-  | level                 = 1
-  | atk                   = 0
-  | def                   = 200
-  | requirement           = [[Send]] 1 [[Dragon]] [[Type]] [[monster]] from your hand to the [[Graveyard]].
-  | lore                  = [[Battle position change|Change]] 1 [[face-down]] [[Monster Card|monster]] on your opponent's [[field]] to [[face-up]] [[Attack Position]]. Then, if the only face-up [[monsters]] on your field are [[Dragon]] [[Type]] monsters, you can [[Special Summon]] 1 "[[Flip Dragon]]" from your [[Graveyard]] to your field in [[face-up]] [[Defense Position]].
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
-  | jp_sets               = 
+  | ja_name          = フラップ・ドラゴン
+  | romaji_name      = Furappu Doragon
+  | image            = FlapDragon-RDKP15-JP-OP.png
+  | attribute        = LIGHT
+  | types            = Dragon / Effect
+  | level            = 1
+  | atk              = 0
+  | def              = 200
+  | requirement      = [[Send]] 1 [[Dragon]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore             = [[Battle position change|Change]] 1 [[face-down]] monster on your opponent's [[field]] to [[face-up]] [[Attack Position]]. Then, if the only face-up monsters on your field are Dragon Type monsters, you can [[Special Summon]] 1 "[[Flip Dragon]]" from your Graveyard to your field in face-up [[Defense Position]].
+  | ja_requirement   = 手札のモンスター（ドラゴン族）１体を墓地へ送って発動できる。
+  | ja_lore          = 相手フィールドの裏側表示モンスター１体を選んで表側攻撃表示にする。自分フィールドの表側表示モンスターがモンスター（ドラゴン族）のみの場合、さらに自分の墓地の「フリップ・ドラゴン」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  | jp_sets          = 
   RD/KP15-JP006; Red Reboot of Darkness; Common
-  | mentions              = Flip Dragon
-  | archseries            = High Tech Dragon
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | mentions         = Flip Dragon
+  | supports         = Dragon
+  | archseries       = High Tech Dragon
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | summoning        = Special Summons from your Graveyard
+  | misc             = Requires control of specific Type
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}

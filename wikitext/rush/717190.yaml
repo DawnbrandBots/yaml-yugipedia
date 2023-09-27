@@ -3,32 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = トランザム・ライカー
-  | romaji_name      = Toranzamu Raikā
-  | image            = TransamuRaiker-RDSJMP-JP-NPR.png
-  | attribute        = LIGHT
-  | types            = Galaxy / Effect
-  | level            = 4
-  | atk              = 1000
-  | def              = 1000
-  | requirement      = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore             = Choose 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] on your [[field]]. If it [[attack]]s a [[Defense Position]] monster this [[turn]], inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the attack target, inflict the difference). Also, if you have "[[Transamu Rainac]]" face-up on your field, you can change the [[battle position]] of 1 face-up monster on your opponent's field.
-  | ja_requirement   = 手札１枚を墓地へ送って発動できる。
-  | ja_lore          = 自分フィールドの表側表示モンスター（光属性／ギャラクシー族）１体を選ぶ。このターン、そのモンスターの攻撃は貫通する。自分フィールドに表側表示の「トランザム・ライナック」がいる場合、さらに相手フィールドの表側表示モンスター１体を選んで表示形式を変更できる。
-  | jp_sets          = 
+  | ja_name        = トランザム・ライカー
+  | romaji_name    = Toranzamu Raikā
+  | image          = TransamuRaiker-RDSJMP-JP-NPR.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 1000
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore           = Choose 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your [[field]]. If it [[attack]]s a [[Defense Position]] monster this [[turn]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). Then, if you have "[[Transamu Rainac]]" face-up on your field, you can [[Battle position change|change]] the [[battle position]] of 1 face-up monster on your opponent's field.
+  | ja_requirement = 手札１枚を墓地へ送って発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター（光属性／ギャラクシー族）１体を選ぶ。このターン、そのモンスターの攻撃は貫通する。自分フィールドに表側表示の「トランザム・ライナック」がいる場合、さらに相手フィールドの表側表示モンスター１体を選んで表示形式を変更できる。
+  | jp_sets        = 
   RD/SJMP-JP024; Saikyō Jump March 2023 promotional card; Normal Parallel Rare
-  | mentions         = Transamu Rainac
-  | supports         = 
+  | kr_sets        = 
+  RD/EPP1-KR018; Express Pack; Common, Secret Rare
+  | mentions       = Transamu Rainac
+  | supports       = 
   * LIGHT
   * Galaxy (Type)
-  | archseries       = Transamu
-  | action           = 
+  | archseries     = Transamu
+  | action         = 
   * Sends from hand to Graveyard for cost
   * Changes battle positions
-  | attack           = Piercing
-  | misc             = 
+  | attack         = Piercing
+  | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
   * Requires control of specific card
-  | database_id      = 18660
+  | database_id    = 18660
   }}

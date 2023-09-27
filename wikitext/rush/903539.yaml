@@ -3,22 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サテライトソルジャー
-  | romaji_name      = Sateraito Sorujā
-  | image            = SatelliteSoldier-RDSJMP-JP-NPR.png
-  | attribute        = LIGHT
-  | types            = Galaxy / Effect
-  | level            = 5
-  | atk              = 1700
-  | def              = 1000
-  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Increase the [[Level]] of 1 [[face-up]] Level 6 or lower [[Monster Card|monster]] on your field with 1000 [[DEF]] by 2 until the end of this [[turn]].
-  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
-  | ja_lore          = 自分フィールドの表側表示モンスター（レベル６以下／守備力１０００）１体を選び、そのレベルをターン終了時まで２上げる。
-  | jp_sets          = 
+  | ja_name        = サテライトソルジャー
+  | romaji_name    = Sateraito Sorujā
+  | image          = SatelliteSoldier-RDSJMP-JP-NPR.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 5
+  | atk            = 1700
+  | def            = 1000
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Increase the [[Level]] of 1 [[face-up]] Level 6 or lower [[Monster Card|monster]] on your [[field]] with 1000 [[DEF]] by 2 until the end of this [[turn]].
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター（レベル６以下／守備力１０００）１体を選び、そのレベルをターン終了時まで２上げる。
+  | jp_sets        = 
   RD/SJMP-JP027; Saikyō Jump June 2023 promotional card; Normal Parallel Rare
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change      = Your monsters gain Levels
-  | misc             = Requires control of specific DEF
-  | database_id      = 18907
+  | kr_sets        = 
+  RD/EPP1-KR021; Express Pack; Common, Secret Rare
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your monsters gain Levels
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific DEF
+  | database_id    = 18907
   }}

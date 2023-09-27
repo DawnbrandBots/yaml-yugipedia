@@ -3,24 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = ライステラス・セキュア
-  | romaji_name            = Raisuterasu Sekyua
-  | image                  = RiceTerraceSecure-RDSJMP-JP-NPR.png
-  | attribute              = WATER
-  | types                  = Aqua / Effect
-  | level                  = 4
-  | atk                    = 1200
-  | def                    = 0
-  | requirement            = [[Send]] 1 [[Level]] 5 or higher [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore                   = Change non-[[Aqua]] [[Type]] [[Attack Position]] [[monsters]] on your opponent's [[field]] to [[face-up]] [[Defense Position]], up to [the number of face-up Aqua Type monsters on your field].
-  | ja_requirement         = 手札のモンスター（レベル５以上）１体を墓地へ送って発動できる。
-  | ja_lore                = 相手フィールドの攻撃表示モンスター（水族以外）を［自分フィールドの表側表示モンスター（水族）の数］まで選んで表側守備表示にする。
-  | jp_sets                = 
+  | ja_name        = ライステラス・セキュア
+  | romaji_name    = Raisuterasu Sekyua
+  | image          = RiceTerraceSecure-RDSJMP-JP-NPR.png
+  | attribute      = WATER
+  | types          = Aqua / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 0
+  | requirement    = [[Send]] 1 [[Level]] 5 or higher [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Battle position change|Change]] non-[[Aqua]] [[Type]] [[Attack Position]] monsters on your opponent's [[field]] to [[face-up]] [[Defense Position]], up to [the number of face-up Aqua Type monsters on your field].
+  | ja_requirement = 手札のモンスター（レベル５以上）１体を墓地へ送って発動できる。
+  | ja_lore        = 相手フィールドの攻撃表示モンスター（水族以外）を［自分フィールドの表側表示モンスター（水族）の数］まで選んで表側守備表示にする。
+  | jp_sets        = 
   RD/SJMP-JP016; Saikyō Jump July 2022 promotional card; Normal Parallel Rare
-  | supports               = Aqua
-  | action                 = 
+  | kr_sets        = 
+  RD/EPP1-KR012; Express Pack; Common, Secret Rare
+  | supports       = Aqua
+  | action         = 
   * Sends from hand to Graveyard for cost
   * Changes battle positions
-  | misc                   = Requires control of specific Type
-  | database_id            = 17744
+  | misc           = Requires control of specific Type
+  | database_id    = 17744
   }}

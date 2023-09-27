@@ -4,25 +4,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name                   = Great Multistrike Dragon Dragias Burst [R]
-  | ja_name                = {{Ruby|大|だい}}{{Ruby|連|れん}}{{Ruby|撃|げき}}{{Ruby|竜|りゅう}}ドラギアス・バースト［{{Ruby|Ｒ|アール}}］
-  | romaji_name            = Dairengekiryū Doragiasu Bāsuto [Āru]
-  | image                  = GreatMultistrikeDragonDragiasBurstR-RDVP02-JP-ScR.png
-  | attribute              = LIGHT
-  | types                  = Dragon / Maximum / Effect
-  | level                  = 7
-  | atk                    = 1500
-  | def                    = 0
-  | requirement            = [[Maximum Mode]]: [[Send]] 3 cards from your [[hand]] to the [[Graveyard]].
-  | lore                   = This [[turn]], this card gains 1000 [[ATK]], and if it [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the attack target, inflict the difference).
-  | ja_requirement         = マキシマムモード：手札３枚を墓地へ送って発動できる。
-  | ja_lore                = このターン、このカードの攻撃力は１０００アップし、その攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
-  | jp_sets                = 
+  | name           = Great Multistrike Dragon Dragias Burst [R]
+  | ja_name        = {{Ruby|大|だい}}{{Ruby|連|れん}}{{Ruby|撃|げき}}{{Ruby|竜|りゅう}}ドラギアス・バースト［{{Ruby|Ｒ|アール}}］
+  | romaji_name    = Dairengekiryū Doragiasu Bāsuto [Āru]
+  | image          = GreatMultistrikeDragonDragiasBurstR-RDVP02-JP-ScR.png
+  | attribute      = LIGHT
+  | types          = Dragon / Maximum / Effect
+  | level          = 7
+  | atk            = 1500
+  | def            = 0
+  | requirement    = [[Maximum Mode]]: [[Send]] 3 cards from your [[hand]] to the [[Graveyard]].
+  | lore           = This [[turn]], this card gains 1000 [[ATK]], and if it [[attack]]s a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_requirement = マキシマムモード：手札３枚を墓地へ送って発動できる。
+  | ja_lore        = このターン、このカードの攻撃力は１０００アップし、その攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
+  | jp_sets        = 
   RD/VP02-JP003; Victory Pack Maximal Multistrike Dragon; Secret Rare
-  | archseries             = Strike Dragon
-  | action                 = Sends from hand to Graveyard for cost
-  | stat_change            = This card gains ATK
-  | attack                 = Piercing
-  | misc                   = Requires Maximum Mode
-  | database_id            = 17241
+  | kr_sets        = 
+  RD/EPP1-KR006; Express Pack; Common, Secret Rare
+  | archseries     = Strike Dragon
+  | action         = Sends from hand to Graveyard for cost
+  | stat_change    = This card gains ATK
+  | attack         = Piercing
+  | misc           = Requires Maximum Mode
+  | database_id    = 17241
   }}
