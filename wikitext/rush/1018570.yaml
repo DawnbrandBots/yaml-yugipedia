@@ -9,15 +9,19 @@ wikitext: |-
   | image            = StrayngeGathering-RDMRP2-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 1 [[Spellcaster]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
+  | requirement      = [[Send]] 1 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, if you have 2 or more "[[Straynge Cat]]" and/or "[[Furtunate Cat]]" in your Graveyard, draw 1 additional card.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 手札のモンスター（魔法使い族）１体を墓地へ送って発動できる。
+  | ja_lore          = 自分は１枚ドローする。自分の墓地に「はぐれ使い魔」「まぐれ使い魔」が合計２体以上いる場合、さらに自分は１枚ドローする。
   | jp_sets          = 
   RD/MRP2-JP019; Megaroad Pack 2; Common
   | mentions         = 
   * Straynge Cat
   * Furtunate Cat
+  | supports         = Spellcaster
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
