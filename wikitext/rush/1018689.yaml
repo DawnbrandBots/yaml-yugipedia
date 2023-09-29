@@ -13,11 +13,17 @@ wikitext: |-
   | def              = 0
   | requirement      = During the [[turn]] you [[Normal Summon]]ed this card.
   | lore             = [[Add a card|Add]] 1 "[[Shield in the Right Hand]]" or 1 [[Warrior]] [[Type]] [[Normal Monster]] with 500 or less [[ATK]] from your [[Graveyard]] to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = このカードを召喚したターンに発動できる。
+  | ja_lore          = 自分の墓地の「右手の盾」または通常モンスター（戦士族／攻撃力５００以下）１体を選んで手札に加える。
   | jp_sets          = 
   RD/MRP2-JP049; Megaroad Pack 2; Common
   | mentions         = Shield in the Right Hand
+  | supports         = 
+  * Warrior
+  * Normal Monster
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

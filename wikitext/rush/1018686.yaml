@@ -12,13 +12,20 @@ wikitext: |-
   | level            = 4
   | atk              = 0
   | def              = 0
-  | requirement      = [[Shuffle]] 1 [[LIGHT]] [[Attribute]] [[monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement      = [[Shuffle]] 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a LIGHT Attribute [[Winged Beast]] [[Type]] monster in [[Attack Position]]. Then, you can [[Add a card|add]] 1 "[[Lightning Voltcondor]]" from your Graveyard to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分の墓地のモンスター（光属性）１体をデッキに戻して発動できる。
+  | ja_lore          = このターン、モンスター（光属性／鳥獣族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。さらに、自分の墓地の「ライトニング・ボルコンドル」１体を選んで手札に加える事ができる。
   | jp_sets          = 
   RD/MRP2-JP006; Megaroad Pack 2; Common
   | mentions         = Lightning Voltcondor
+  | supports         = 
+  * LIGHT
+  * Winged Beast
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Adds from Graveyard to hand
+  | summoning        = Treated as multiple Tributes
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
