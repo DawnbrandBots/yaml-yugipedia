@@ -1,7 +1,5 @@
 title: Wattkingdom
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 41790641
   | effect_types          = Continuous-like, Ignition-like, Condition
-  | lore                  = Your opponent cannot [[activate]] the [[effect]]s of any of their monsters in the same [[column]] as this card and/or one of your "[[Watt]]" monsters, that activate when they are [[Normal Summon|Normal]] or [[Special Summon]]ed. You can [[target]] 1 "Watt" monster you [[control]]; you cannot Special Summon monsters for the rest of this [[turn]], except [[Thunder]] monsters, also Special Summon 1 "Watt" monster with a different name from your [[Main Deck|Deck]], then you lose [[LP]] equal to the Summoned monster's [[ATK]]. You can only use this effect of "Wattkingdom" [[once per turn]].
+  | lore                  = Your opponent cannot [[activate]] the [[effect]]s of a monster that activate when it is [[Normal Summon|Normal]] or [[Special Summon]]ed, while in the same [[column]] as this card or a "[[Watt]]" monster you [[control]]. You can [[target]] 1 "Watt" monster you control; Special Summon 1 "Watt" monster with a different name from your [[Main Deck|Deck]], then you lose [[LP]] equal to the Special Summoned monster's [[ATK]], also you cannot Special Summon for the rest of this [[turn]], except [[Thunder]] monsters. You can only use this effect of "Wattkingdom" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +24,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：このカード及び自分フィールドの「エレキ」モンスターの、正面の相手モンスター自身の召喚・特殊召喚成功時の効果を相手は発動できない。②：自分フィールドの「エレキ」モンスター１体を対象として発動できる。そのモンスターとはカード名が異なる「エレキ」モンスター１体をデッキから特殊召喚する。その後、自分はこの効果で特殊召喚したモンスターの攻撃力分のＬＰを失う。この効果の発動後、ターン終了時まで自分は雷族モンスターしか特殊召喚できない。
   | ko_lore               = 
+  | en_sets               = 
+  AGOV-EN062; Age of Overlord; 
+  | fr_sets               = 
+  AGOV-FR062; Age of Overlord; 
+  | de_sets               = 
+  AGOV-DE062; Age of Overlord; 
+  | it_sets               = 
+  AGOV-IT062; Age of Overlord; 
+  | pt_sets               = 
+  AGOV-PT062; Age of Overlord; 
+  | sp_sets               = 
+  AGOV-SP062; Age of Overlord; 
   | jp_sets               = 
   AGOV-JP062; Age of Overlord; Common
   | sc_sets               = 

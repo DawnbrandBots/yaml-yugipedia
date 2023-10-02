@@ -8,14 +8,14 @@ wikitext: |-
   | level            = 3
   | atk              = 1000
   | def              = 800
-  | requirement      = If your opponent has no [[face-up]] [[monsters]] with 1000 or less [[ATK]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card can attack directly this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | ko_requirement   = 
-  | ko_lore          = 
+  | requirement      = If your opponent has no [[face-up]] [[Monster Card|monster]]s with 1000 or less [[ATK]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = This card can [[attack]] [[Direct attack|directly]] this [[turn]].
+  | ja_requirement   = 相手フィールドに表側表示モンスター（攻撃力１０００以下）がいない場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このターン、このカードは直接攻撃できる。
   | jp_sets          = 
   RD/ECG1-JP004; Rush Duel Card Game Gum; Normal Parallel Rare
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | attack           = Direct attacker
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
