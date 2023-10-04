@@ -3,34 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = サイバー・サーペント
-  | romaji_name           = Saibā Sāpento
-  | ko_name               = 사이버 서펜트
-  | image                 = CyberSerpent-RDORP1-JP-C.png
-  | attribute             = LIGHT
-  | types                 = Machine / Effect
-  | level                 = 1
-  | atk                   = 0
-  | def                   = 0
-  | requirement           = You have another [[face-up]] [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monster]] on your [[field]].
-  | lore                  = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you sent 2 or more LIGHT Attribute Machine Type monsters to the Graveyard by this [[effect]], [[Draw a card|draw]] 1 card.
-  | ja_requirement        = 自分フィールドにこのカード以外の表側表示モンスター（光属性／機械族）がいる場合に発動できる。
-  | ja_lore               = 自分のデッキの上からカード３枚を墓地へ送る。この効果でモンスター（光属性／機械族）が２体以上墓地へ送られた場合、さらに自分は１枚ドローする。
-  | ko_requirement        = 자신 필드에 이 카드 이외의 앞면 표시 몬스터(빛 속성 / 기계족)가 있을 경우에 발동할 수 있다.
-  | ko_lore               = 자신의 덱 위에서 카드 3장을 묘지로 보낸다. 이 효과로 몬스터(빛 속성 / 기계족)가 2장 이상 묘지로 보내졌을 경우, 추가로 자신은 1장 드로우한다.
-  | jp_sets               = 
+  | ja_name        = サイバー・サーペント
+  | romaji_name    = Saibā Sāpento
+  | ko_name        = 사이버 서펜트
+  | image          = CyberSerpent-RDORP1-JP-C.png
+  | attribute      = LIGHT
+  | types          = Machine / Effect
+  | level          = 1
+  | atk            = 0
+  | def            = 0
+  | requirement    = You have another [[face-up]] [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you sent 2 or more LIGHT Attribute Machine Type monsters to the Graveyard by this [[effect]], [[Draw a card|draw]] 1 card.
+  | ja_requirement = 自分フィールドにこのカード以外の表側表示モンスター（光属性／機械族）がいる場合に発動できる。
+  | ja_lore        = 自分のデッキの上からカード３枚を墓地へ送る。この効果でモンスター（光属性／機械族）が２体以上墓地へ送られた場合、さらに自分は１枚ドローする。
+  | ko_requirement = 자신 필드에 이 카드 이외의 앞면 표시 몬스터(빛 속성 / 기계족)가 있을 경우에 발동할 수 있다.
+  | ko_lore        = 자신의 덱 위에서 카드 3장을 묘지로 보낸다. 이 효과로 몬스터(빛 속성 / 기계족)가 2장 이상 묘지로 보내졌을 경우, 추가로 자신은 1장 드로우한다.
+  | jp_sets        = 
   RD/ORP1-JP027; Over Rush Pack; Common
-  | kr_sets               = 
+  | kr_sets        = 
   RD/ORP1-KR027; Over Rush Pack; Common
-  | supports              = 
+  | supports       = 
   * LIGHT
   * Machine
-  | related_to_archseries = Cyber Dragon (Rush Duel series)
-  | action                = 
+  | archseries     = Cyber Dragon (Rush Duel series)
+  | action         = 
   * Sends from the top of your Deck to your Graveyard
   * You draw cards
-  | misc                  = 
+  | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id           = 18356
+  | database_id    = 18356
   }}
