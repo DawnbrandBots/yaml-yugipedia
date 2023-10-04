@@ -15,7 +15,7 @@ wikitext: |-
   | atk            = 100
   | def            = 100
   | requirement    = [[Pay]] 100 [[LP]].
-  | lore           = All [[Attack Position]] [[Insect]] [[Type]] [[monsters]] with 100 or less [[ATK]] on your [[field]] gain [[ATK]] equal to [the number of monsters on your field] x 800 until the end of this [[turn]].
+  | lore           = All [[Attack Position]] [[Insect]] [[Type]] [[Monster Card|monster]]s with 100 or less [[ATK]] on your [[field]] gain ATK equal to [the number of monsters on your field] x 800 until the end of this [[turn]].
   | fr_requirement = Payez 100 LP.
   | fr_lore        = Tous les monstres de Type Insecte en Position d'Attaque avec max. 100 ATK sur votre Terrain gagnent une ATK égale au [nombre de monstres sur votre Terrain] x 800 jusqu'à la fin de ce tour.
   | de_requirement = Zahle 100 LP.
@@ -33,9 +33,11 @@ wikitext: |-
   | kr_sets        = 
   RD/KP04-KR033; Deck Mod Pack: Destined Power Destruction!!; Common
   | supports       = Insect
+  | archseries     = Gi-ant Revolution (series)
   | stat_change    = Your monsters gain ATK
   | life_points    = Pays Life Points for cost
-  | misc           = Requires control of specific Type
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
   | database_id    = 16154
-  | archseries     = Gi-ant Revolution (series)
   }}
