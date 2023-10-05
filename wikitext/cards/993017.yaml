@@ -1,7 +1,5 @@
-title: T.G. - Close
+title: T.G. Close
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,12 +11,13 @@ wikitext: |-
   | trans_name            = Tech Genus - Close
   | ko_name               = 
   | ko_rr_name            = 
+  | sc_name               = T.G.－闭锁
   | image                 = TGClose-AGOV-JP-C.png
   | card_type             = Trap
   | property              = Counter
   | password              = 02339825
   | effect_types          = Effect, Trigger-like, Condition
-  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a [[Machine]] "[[T.G.]]" [[monster]]: [[Negate]] the activation, and if you do, [[destroy]] that card. If a [[Synchro Monster]](s) is [[banish]]ed while this card is in your GY (except during the [[Damage Step]]): You can [[Set]] this card, but banish it when it [[leaves the field]]. You can only use 1 "T.G. - Close" effect per turn, and only once that turn.
+  | lore                  = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a [[Machine]] "[[T.G.]]" [[monster]]: [[Negate]] the activation, and if you do, [[destroy]] that card. If a [[Synchro Monster]](s) is [[banish]]ed while this card is in your GY: You can [[Set]] this card, but banish it when it [[leaves the field]]. You can only use 1 "T.G. Close" effect per turn, and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +25,19 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに機械族の「ＴＧ」モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在する状態で、Ｓモンスターが除外された場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
   | ko_lore               = 
+  | sc_lore               = 此卡名的①②效果１回合１次，仅可使用其中１个。<br />①：自己场上存在机械族的“T.G.”怪兽，怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。<br />②：此卡存在于墓地的状态下，同步怪兽被除外的情况下可以发动。将此卡放置在自己场上。以此效果放置的此卡从场上离开的情况下，将其除外。
+  | en_sets               = 
+  AGOV-EN070; Age of Overlord; 
+  | fr_sets               = 
+  AGOV-FR070; Age of Overlord; 
+  | de_sets               = 
+  AGOV-DE070; Age of Overlord; 
+  | it_sets               = 
+  AGOV-IT070; Age of Overlord; 
+  | pt_sets               = 
+  AGOV-PT070; Age of Overlord; 
+  | sp_sets               = 
+  AGOV-SP070; Age of Overlord; 
   | jp_sets               = 
   AGOV-JP070; Age of Overlord; Common
   | sc_sets               = 
