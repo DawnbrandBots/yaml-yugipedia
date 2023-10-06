@@ -1,6 +1,5 @@
 title: Stars Align Above the Shrine
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +16,7 @@ wikitext: |-
   | property              = Field
   | password              = 15306543
   | effect_types          = Ignition-like, Trigger-like
-  | lore                  = [[Once per turn]]: You can [[Ritual Summon]] 1 [[WIND]] [[Ritual Monster]] from your [[Main Deck|Deck]], by Tributing [[Spirit monster]]s and/or "[[Shinobird Token]]s" you [[control]] whose total [[Level]]s equal or exceed its Level. Up to twice per turn, if a [[face-up]] WIND monster(s) you control returns to your hand (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s;<br />● [[Add a card|Add]] 1 of your Spirit monsters or [[Ritual Spell]]s that is [[banish]]ed or in your [[GY]] to your hand.<br />● [[Set]] 1 "[[Stars Align across the Milky Way]]" directly from your Deck.
+  | lore                  = [[Once per turn]]: You can [[Ritual Summon]] 1 [[WIND]] [[Ritual Monster]] from your [[Main Deck|Deck]], by Tributing [[Spirit monster]]s and/or "[[Shinobird Token]](s)" from your [[field]], whose total [[Level]]s equal or exceed the Ritual Monster's Level. Twice per turn, if a [[face-up]] WIND monster(s) you control is returned to your hand (except during the [[Damage Step]]): You can [[activate]] 1 of these [[effect]]s;<br />● [[Add a card|Add]] 1 of your Spirit monsters or [[Ritual Spell]]s that is [[banish]]ed or in your [[GY]] to your hand.<br />● [[Set]] 1 "[[Stars Align across the Milky Way]]" directly from your Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +25,18 @@ wikitext: |-
   | ja_lore               = ①：１ターンに１度、発動できる。自分フィールドのスピリットモンスター及び「霊魂鳥トークン」の中から、レベルの合計が儀式召喚するモンスターのレベル以上になるようにリリースし、デッキから風属性の儀式モンスター１体を儀式召喚する。②：１ターンに２度まで、自分フィールドの表側表示の風属性モンスターが自分の手札に戻った場合、以下の効果から１つを選択して発動できる。●自分の墓地・除外状態の、スピリットモンスター１体か儀式魔法カード１枚を手札に加える。●デッキから「星逢の天河」１枚を自分フィールドにセットする。
   | ko_lore               = 
   | sc_lore               = ①：１回合１次，可以发动。为使合计等级为仪式召唤的怪兽的等级以上，从自己场上的灵魂怪兽及“灵魂鸟衍生物”中将怪兽解放，从牌组将１只风属性仪式怪兽仪式召唤。<br />②：１回合最多２次，自己场上的表侧表示风属性怪兽被放回自己手牌的情况下，可从以下效果中选择１个发动。<br />●将自己墓地・除外状态的１只灵魂怪兽或１张仪式魔法卡加入手牌。<br />●从牌组将１张“星逢之天河”放置在自己场上。
+  | en_sets               = 
+  AGOV-EN061; Age of Overlord; Common
+  | fr_sets               = 
+  AGOV-FR061; Age of Overlord; Common
+  | de_sets               = 
+  AGOV-DE061; Age of Overlord; Common
+  | it_sets               = 
+  AGOV-IT061; Age of Overlord; Common
+  | pt_sets               = 
+  AGOV-PT061; Age of Overlord; Common
+  | sp_sets               = 
+  AGOV-SP061; Age of Overlord; Common
   | jp_sets               = 
   AGOV-JP061; Age of Overlord; Common
   | sc_sets               = 
@@ -33,7 +44,7 @@ wikitext: |-
   | supports              = 
   * WIND
   * Ritual Monster
-  * Spirit Monster
+  * Spirit monster
   | mentions              = 
   * Shinobird Token
   * Stars Align across the Milky Way

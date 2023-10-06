@@ -1,6 +1,5 @@
 title: Sinful Spoils of Doom - Rciela
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +17,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 16240772
   | effect_types          = Effect, Condition
-  | lore                  = [[Target]] 1 [[Level]] 7 or higher [[Spellcaster]] [[monster]] you [[control]]; apply these [[effect]]s, in sequence.<br />● That face-up monster is [[unaffected]] by other monsters' effects this [[turn]], but [[send]] it to the [[GY]] during the [[Standby Phase]] of the next turn.<br />● All face-up monsters your opponent currently controls lose [[ATK]] equal to that monster's ATK, then, if any of those monsters' ATK has been reduced to 0 as a result, [[destroy]] it.<br />You can only [[activate]] 1 "Sinful Spoils of Doom - Rciela" per turn.
+  | lore                  = [[Target]] 1 [[Level]] 7 or higher [[Spellcaster]] [[monster]] you [[control]]; apply the following [[effect]]s.<br />● While face-up, that monster is [[unaffected]] by other monsters' effects this [[turn]], and is [[sent]] to the [[GY]] during the [[Standby Phase]] of the next turn.<br />● All monsters your opponent currently controls lose [[ATK]] equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, [[destroy]] them.<br />You can only [[activate]] 1 "Sinful Spoils of Doom - Rciela" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -27,6 +26,18 @@ wikitext: |-
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのレベル７以上の魔法使い族モンスター１体を対象として発動できる。以下の効果をそれぞれ適用する。●対象の表側表示モンスターはこのターン、他のモンスターの効果を受けず、次のターンのスタンバイフェイズに墓地へ送られる。●相手フィールドの全てのモンスターの攻撃力は、対象のモンスターの攻撃力分ダウンする。この効果で攻撃力が０になった場合、さらにそのモンスターを破壊する。
   | ko_lore               = 
   | sc_lore               = 此卡名的卡１回合仅可发动１张。<br />①：以自己场上的１只等级７以上的魔法师族怪兽为对象可以发动。分别适用以下效果。<br />●对象的表侧表示怪兽在此回合不受其他怪兽的效果影响，且将在下个回合的准备阶段被送至墓地。<br />●对手场上所有怪兽的攻击力下降相当于对象怪兽攻击力的数值。攻击力因此效果变为０的情况下，进而将该怪兽破坏。
+  | en_sets               = 
+  AGOV-EN055; Age of Overlord; Common
+  | fr_sets               = 
+  AGOV-FR055; Age of Overlord; Common
+  | de_sets               = 
+  AGOV-DE055; Age of Overlord; Common
+  | it_sets               = 
+  AGOV-IT055; Age of Overlord; Common
+  | pt_sets               = 
+  AGOV-PT055; Age of Overlord; Common
+  | sp_sets               = 
+  AGOV-SP055; Age of Overlord; Common
   | jp_sets               = 
   AGOV-JP055; Age of Overlord; Common
   | sc_sets               = 

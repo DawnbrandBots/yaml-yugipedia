@@ -1,6 +1,5 @@
 title: UFOLight
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -8,6 +7,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|幻日灯火|ユーフォライト}}
+  | base_romaji_name      = Maboroshibi Tomoshibi
+  | base_trans_name       = Illusory Sun Lamplight
   | romaji_name           = Yūforaito
   | ko_name               = 
   | ko_rr_name            = 
@@ -20,7 +21,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 09275482
   | effect_types          = Continuous, Continuous, Trigger, Condition
-  | lore                  = Your opponent cannot [[target]] this card with card [[effect]]s, except during the [[Battle Phase]]. If this card [[battle]]s a monster, neither can be destroyed by that battle. During the [[End Phase]]: You can [[Draw a card|draw]] 1 card, then [[banish]] 1 or more cards from your [[hand]], and if you do, this card gains 500 [[ATK]] for each card banished by this effect. You can only use this effect of "UFOLight" [[once per turn]].
+  | lore                  = Your opponent cannot [[target]] this card on the [[field]] with card [[effect]]s, except during the [[Battle Phase]]. If this card [[battle]]s a monster, neither can be destroyed by that battle. During the [[End Phase]]: You can [[Draw a card|draw]] 1 card, then you must [[banish]] any number of cards from your [[hand]] (min. 1), and if you do, this card gains 500 [[ATK]] for each. You can only use this effect of "UFOLight" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,6 +30,18 @@ wikitext: |-
   | ja_lore               = このカード名の③の効果は１ターンに１度しか使用できない。①：バトルフェイズ以外では、フィールドのこのカードを相手は効果の対象にできない。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：自分・相手のエンドフェイズに発動できる。自分は１枚ドローする。その後、自分の手札を任意の数だけ選んで除外し、このカードの攻撃力はこの効果で除外したカードの数×５００アップする。
   | ko_lore               = 
   | sc_lore               = 此卡名的③效果１回合仅可使用１次。<br />①：在战斗阶段以外，对手不可将场上的此卡作为效果的对象。<br />②：此卡与怪兽进行战斗的情况下，该２只不会因该战斗被破坏。<br />③：在自己・对手的结束阶段可以发动。自己抽１张。然后，挑选任意数量的自己的手牌除外，此卡的攻击力上升相当于以此效果除外的卡的数量×５００的数值。
+  | en_sets               = 
+  AGOV-EN021; Age of Overlord; Common
+  | fr_sets               = 
+  AGOV-FR021; Age of Overlord; Common
+  | de_sets               = 
+  AGOV-DE021; Age of Overlord; Common
+  | it_sets               = 
+  AGOV-IT021; Age of Overlord; Common
+  | pt_sets               = 
+  AGOV-PT021; Age of Overlord; Common
+  | sp_sets               = 
+  AGOV-SP021; Age of Overlord; Common
   | jp_sets               = 
   AGOV-JP021; Age of Overlord; Common
   | sc_sets               = 

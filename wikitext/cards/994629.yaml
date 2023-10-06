@@ -1,7 +1,5 @@
 title: Card Scanner
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -18,7 +16,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 77066768
   | effect_types          = Ignition-like, Trigger-like
-  | lore                  = [[Once per turn]]: You can [[declare]] 1 [[card type]] ([[Monster]]/[[Spell]]/[[Trap]]); each player reveals the bottom card of their [[Main Deck|Deck]], and if they reveal a card of the declared type, they [[Add a card|add]] it to their [[hand]]. Otherwise, they place it on the top of the Deck. If this [[face-up]] card in its [[owner]]'s [[Spell & Trap Zone]] is [[destroy]]ed by an opponent's card [[effect]]: You can make your opponent place 1 card from their hand on the bottom of the Deck.
+  | lore                  = [[Once per turn]]: You can [[declare]] 1 [[card type]] ([[Monster]], [[Spell]], or [[Trap]]); both players reveal the bottom card of their [[Main Deck|Deck]]s, and if it was the declared card type, they [[Add a card|add]] it to their [[hand]]. Otherwise, they place it on top of their Deck. If this [[face-up]] card in its [[owner]]'s [[Spell & Trap Zone]] is [[destroy]]ed by an opponent's card [[effect]]: You can make your opponent place 1 card from their hand on the bottom of the Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -27,6 +25,18 @@ wikitext: |-
   | ja_lore               = ①：１ターンに１度、カードの種類（モンスター・魔法・罠）を１つ宣言して発動できる。お互いのプレイヤーは、それぞれ自身のデッキの一番下のカードをお互いに確認し、宣言した種類だった場合、そのカードを自身の手札に加える。違った場合、確認したカードを自身のデッキの一番上に置く。②：魔法＆罠ゾーンの表側表示のこのカードが相手の効果で破壊された場合に発動できる。相手は自身の手札を１枚選んでデッキの一番下に戻す。
   | ko_lore               = 
   | sc_lore               = ①：１回合１次，宣言１个卡的种类（怪兽・魔法・陷阱）可以发动。双方玩家相互确认自身牌组最下面的卡，是所宣言的种类的情况下，将该卡加入自身的手牌。不是的情况下，将所确认的卡放在自身牌组最上面。<br />②：魔法与陷阱区域的表侧表示的此卡因对手的效果被破坏的情况下可以发动。对手挑选自身的１张手牌，放回牌组最下面。
+  | en_sets               = 
+  AGOV-EN066; Age of Overlord; Common
+  | fr_sets               = 
+  AGOV-FR066; Age of Overlord; Common
+  | de_sets               = 
+  AGOV-DE066; Age of Overlord; Common
+  | it_sets               = 
+  AGOV-IT066; Age of Overlord; Common
+  | pt_sets               = 
+  AGOV-PT066; Age of Overlord; Common
+  | sp_sets               = 
+  AGOV-SP066; Age of Overlord; Common
   | jp_sets               = 
   AGOV-JP066; Age of Overlord; Common
   | sc_sets               = 

@@ -1,6 +1,5 @@
 title: Cursed Bride Doll
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -21,7 +20,7 @@ wikitext: |-
   | def                   = 2100
   | password              = 71545247
   | effect_types          = Trigger, Trigger, Trigger
-  | lore                  = When you [[Draw a card|draw]] this card: You can [[reveal]] it; [[Special Summon]] it. At the start of the [[Battle Phase]]: If you have more cards in your [[Main Deck|Deck]] than your opponent does, this card gains [[ATK]] equal to the current difference x 300 until the end of this [[turn]]. [[Once per turn]], during the [[End Phase]], if this card is in your [[GY]] because it was sent there this turn: Place this card on top of the Deck.
+  | lore                  = When you [[Draw a card|draw]] this card: You can [[reveal]] it; [[Special Summon]] this card. At the start of each [[Battle Phase]]: If there are more cards in your [[Main Deck|Deck]] than your opponent's, this card gains [[ATK]] equal to the difference x 300, until the end of this [[turn]]. [[Once per turn]], during the [[End Phase]], if this card is in the [[GY]] because it was sent there this turn: Place this card on top of the Deck.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,6 +29,18 @@ wikitext: |-
   | ja_lore               = ①：このカードをドローした時、このカードを相手に見せて発動できる。このカードを特殊召喚する。②：自分・相手のバトルフェイズ開始時に発動する。自分のデッキの枚数が相手よりも多い場合、このカードの攻撃力はターン終了時まで、その差の数×３００アップする。③：このカードが墓地へ送られたターンのエンドフェイズに発動する。このカードをデッキの一番上に戻す。
   | ko_lore               = 
   | sc_lore               = ①：抽到此卡时，向对手出示此卡可以发动。将此卡特殊召唤。<br />②：在自己・对手的战斗阶段开始时发动。自己牌组的张数多于对手的情况下，此卡的攻击力直至回合结束时为止，上升相当于张数之差×３００的数值。<br />③：在此卡被送至墓地的回合的结束阶段发动。将此卡放回牌组最上面。
+  | en_sets               = 
+  AGOV-EN026; Age of Overlord; Common
+  | fr_sets               = 
+  AGOV-FR026; Age of Overlord; Common
+  | de_sets               = 
+  AGOV-DE026; Age of Overlord; Common
+  | it_sets               = 
+  AGOV-IT026; Age of Overlord; Common
+  | pt_sets               = 
+  AGOV-PT026; Age of Overlord; Common
+  | sp_sets               = 
+  AGOV-SP026; Age of Overlord; Common
   | jp_sets               = 
   AGOV-JP026; Age of Overlord; Common
   | sc_sets               = 

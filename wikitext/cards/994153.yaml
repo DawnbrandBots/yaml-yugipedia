@@ -1,7 +1,5 @@
 title: Dark Hole Dragon
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -22,7 +20,7 @@ wikitext: |-
   | def                   = 2000
   | password              = 72880377
   | effect_types          = Continuous, Condition, Trigger, Trigger
-  | lore                  = Cannot be [[destroy]]ed by card [[effect]]s. You can only use each of the following effects of "Dark Hole Dragon" [[once per turn]]. If a [[monster]](s) on the [[field]] is [[destroy]]ed by a card effect that did not [[target]] it (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[GY]] (if it was there when the monster was destroyed) or [[hand]] (even if not). If this card is Special Summoned: You can [[activate]] this effect; during the [[End Phase]] of this [[turn]], [[Add a card|add]] 1 "[[Dark Hole]]" from your [[Main Deck|Deck]] to your hand.
+  | lore                  = Cannot be [[destroy]]ed by card [[effect]]s. You can only use each of the following effects of "Dark Hole Dragon" [[once per turn]]. If a [[monster]](s) on the [[field]] is [[destroy]]ed by a card effect that does not [[target]] it (except during the [[Damage Step]]): You can [[Special Summon]] this card from the [[GY]] (if it was there when the monster was destroyed) or [[hand]] (even if not). If this card is Special Summoned: You can [[activate]] this effect; during the [[End Phase]] of this [[turn]], [[Add a card|add]] 1 "[[Dark Hole]]" from your [[Main Deck|Deck]] to your hand.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,6 +29,18 @@ wikitext: |-
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、フィールドのモンスターが自身を対象としないカードの効果で破壊された場合に発動できる。このカードを特殊召喚する。②：このカードが特殊召喚した場合に発動できる。このターンのエンドフェイズに、デッキから「ブラック・ホール」１枚を手札に加える。③：フィールドのこのカードは効果では破壊されない。
   | ko_lore               = 
   | sc_lore               = 此卡名的①②效果１回合仅可各使用１次。<br />①：此卡存在于手牌・墓地，场上的怪兽因未以自身为对象的卡的效果被破坏的情况下可以发动。将此卡特殊召唤。<br />②：此卡特殊召唤的情况下可以发动。在此回合的结束阶段，从牌组将１张“黑洞”加入手牌。<br />③：场上的此卡不会因效果被破坏。
+  | en_sets               = 
+  AGOV-EN020; Age of Overlord; Super Rare
+  | fr_sets               = 
+  AGOV-FR020; Age of Overlord; Super Rare
+  | de_sets               = 
+  AGOV-DE020; Age of Overlord; Super Rare
+  | it_sets               = 
+  AGOV-IT020; Age of Overlord; Super Rare
+  | pt_sets               = 
+  AGOV-PT020; Age of Overlord; Super Rare
+  | sp_sets               = 
+  AGOV-SP020; Age of Overlord; Super Rare
   | jp_sets               = 
   AGOV-JP020; Age of Overlord; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   AGOV-JP020; Age of Overlord +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
