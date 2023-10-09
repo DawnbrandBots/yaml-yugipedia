@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Quick, Continuous, Ignition, Condition
-  | materials             = 2+ Level 6 monsters
+  | materials             = 2 or more Level 6 monsters
   | lore                  = 2+ [[Level]] 6 [[monsters]]<br />[[Once per turn]] ([[Quick Effect]]): You can [[target]] 1 [[Spell]]/[[Trap]] on the [[field]]; [[detach]] 2 [[material]]s from a monster(s) on the field, and if you do, [[attach]] that card to this card as material. If a monster(s) you control would be destroyed by card [[effect]], you can detach 1 material from this card instead. If this card is in your [[GY]]: You can [[Special Summon]] this card, then you can attach 1 "[[Goblin]]" monster from your GY to it as material. You can only use this effect of "Goblins' Crazy Beast" once per Duel.
   | fr_lore               = 
   | de_lore               = 
@@ -34,6 +34,23 @@ wikitext: |-
   | archseries            = Goblin
   | supports_archetypes   = Goblin
   | related_to_archseries = Goblin Rider
+  | action                = 
+  * Detaches multiple Xyz Materials for effect
+  * Attaches from your field as Xyz Material
+  * Attaches from your opponent's field as Xyz Material
+  * Detaches Xyz Materials for effect
+  * Activates from your Graveyard
+  * Attaches from your Graveyard as Xyz Material
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Graveyard
+  | misc                  = 
+  * Limited activations
+  * Only once per Duel
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -36,6 +36,17 @@ wikitext: |-
   * Goblin
   * Goblin Rider
   | supports_archetypes   = Goblin
+  | action                = 
+  * Activates upon Xyz Summon
+  * Adds from Deck to hand
+  * Activates if Xyz Material is detached
+  * Attaches from your field as Xyz Material
+  * Attaches from your opponent's field as Xyz Material
+  * Attaches from your Deck as Xyz Material
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

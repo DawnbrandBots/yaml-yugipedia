@@ -34,6 +34,16 @@ wikitext: |-
   * Goblin
   * Goblin Rider
   | supports_archetypes   = Goblin
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Detaches Xyz Materials for effect
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons itself from your Graveyard
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

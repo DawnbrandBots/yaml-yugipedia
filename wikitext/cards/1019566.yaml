@@ -27,10 +27,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHNI-JP062; Phantom Nightmare; 
-  | supports              = Continuous Spell
+  | supports              = Continuous Spell Card
   | archseries            = Snake-Eye
   | supports_archetypes   = Diabellstar
   | related_to_archseries = Sinful Spoils
+  | action                = 
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Activates from your Graveyard
+  | m/s/t                 = Treats monsters as Continuous Spell Cards
+  | summoning             = Special Summons from your Spell & Trap Zone
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
