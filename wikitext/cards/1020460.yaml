@@ -31,9 +31,24 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   PHNI-JP016; Phantom Nightmare; 
+  | mentions              = Psiics, Moonlight of the Ghoti
   | supports              = Fish
   | archseries            = Ghoti
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates while banished
+  | summoning             = Special Summons itself while banished
+  | banished              = 
+  * Banishes from your hand
+  * Banishes from your field
+  * Banishes from hand for cost
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

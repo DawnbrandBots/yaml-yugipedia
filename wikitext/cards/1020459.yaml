@@ -33,7 +33,20 @@ wikitext: |-
   PHNI-JP015; Phantom Nightmare; 
   | supports              = Fish
   | archseries            = Ghoti
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates from your hand
+  * Activates upon Special Summon
+  * Activates while banished
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons the player's banished monsters
+  * Special Summons itself while banished
+  | banished              = 
+  * Banishes from your opponent's field
+  * Banishes itself from field
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
