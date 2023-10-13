@@ -31,10 +31,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   TW01-JP053; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  | supports              = Synchro Monster
   | archseries            = 
   * Genex
   * R-Genex
   | supports_archetypes   = Genex
+  | action                = Activates from your hand
+  | stat_change           = Treated as alternate Level
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Performs a Synchro Summon
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

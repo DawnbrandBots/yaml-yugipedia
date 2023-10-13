@@ -31,10 +31,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   TW01-JP052; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  | supports              = 
+  * Tuner monster
+  * Synchro Monster
   | archseries            = 
   * Genex
   * R-Genex
+  | action                = 
+  * Returns itself from Graveyard to hand
+  * Adds from Graveyard to hand
   | supports_archetypes   = Genex
+  | stat_change           = 
+  * Treated as multiple Attributes
+  * Treats itself as a Tuner monster
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes cards that would be sent to the Graveyard
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
