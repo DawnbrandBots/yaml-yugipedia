@@ -43,7 +43,25 @@ wikitext: |-
   * LV
   * Winged Kuriboh (archetype)
   | supports_archetypes = Elemental HERO
-  | misc                = Special Summon Monster
+  | action              = 
+  * Activates upon attack declaration
+  * Tributes itself for cost
+  | m/s/t               = Destroys face-up Monster Cards
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | banished            = 
+  * Banishes from hand for Summon
+  * Banishes from field for Summon
+  * Banishes from Graveyard for Summon
+  | life_points         = Damages your opponent
+  | misc                = 
+  * Special Summon Monster
+  * Archetype condition
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

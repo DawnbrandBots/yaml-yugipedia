@@ -21,8 +21,8 @@ wikitext: |-
   | atk                   = 0
   | def                   = 0
   | password              = 
-  | effect_types          = Quick, Condition, Condition
-  | lore                  = During your opponent's [[Main Phase]], if this card is in your [[hand]] ([[Quick Effect]]): You can [[target]] 1 [[Dragon]] [[Synchro Monster]] in your [[GY]]; [[Special Summon]] this card, and if you do, Special Summon that target (but its [[effect]]s are negated), then, immediately after this effect [[resolve]]s, you can [[Synchro Summon]] 1 Dragon Synchro Monster using this card you [[control]]. You can only use this effect of "Shining Star Dragon" [[once per turn]]. A Dragon monster Synchro Summoned using this card as [[material]] cannot be [[destroyed by battle]].
+  | effect_types          = Quick, Condition, Unclassified
+  | lore                  = During your opponent's [[Main Phase]], if this card is in your [[hand]] ([[Quick Effect]]): You can [[target]] 1 [[Dragon]] [[Synchro Monster]] in your [[GY]]; [[Special Summon]] this card, and if you do, Special Summon the targeted monster (but its [[effect]]s are [[negate]]d), then, immediately after this effect [[resolve]]s, you can [[Synchro Summon]] 1 Dragon Synchro Monster using this card you [[control]]. You can only use this effect of "Shining Star Dragon" [[once per turn]]. A Dragon Synchro Monster that was Summoned using this card as [[material]] cannot be [[destroyed by battle]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -43,7 +43,7 @@ wikitext: |-
   * Applies effect when used as Synchro Material
   | m/s/t                 = Negates the effects of the Summoned monsters
   | summoning             = 
-  * Special Summons from your hand
+  * Special Summons itself from your hand
   * Special Summons from your Graveyard
   * Special Summons from your Extra Deck
   * Performs a Synchro Summon
