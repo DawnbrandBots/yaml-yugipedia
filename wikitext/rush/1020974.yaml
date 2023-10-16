@@ -13,15 +13,28 @@ wikitext: |-
   | def                   = 0
   | requirement           = [[Send]] 1 other [[face-up]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
   | lore                  = [[Fusion Summon]] a [[DARK]] [[Attribute]] monster by sending face-up monsters from your field to the Graveyard as [[material]], including this card.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = このカード以外の自分フィールドの表側表示モンスター（ギャラクシー族）１体を墓地へ送って発動できる。
+  | ja_lore               = このカードを含む自分フィールドの表側表示モンスターを素材として墓地へ送り、モンスター（闇属性）をフュージョン召喚する。
   | jp_sets               = 
   RD/KP15-JP003; Red Reboot of Darkness; Rare
+  | supports              = 
+  * Galaxy (Type)
+  * DARK
   | archseries            = Darkness (Rush Duel series)
   | related_to_archseries = Galactica
+  | action                = 
+  * Sends from field to Graveyard for cost
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
   | fm_for                = 
   * Darkness Doom Giant
   * Darkness Galactica Oblivion
+  | misc                  = Requires control of specific Type
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

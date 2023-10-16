@@ -16,10 +16,10 @@ wikitext: |-
   * Darkness Dwarf
   | materials        = "[[Galactica Oblivion]]" + "[[Darkness Dwarf]]"
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = 1 [[face-up]] [[Effect Monster]] with 100 or more [[original ATK]] on your opponent's [[field]] loses [[ATK]] equal to [its [[Original ATK and DEF|original ATK]]] until the end of this [[turn]]. Then, you can [[negate]] its [[Continuous Effect]]s until the end of this turn.
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = 1 [[face-up]] [[Effect Monster]] with 100 or more [[Original ATK and DEF|original ATK]] on your opponent's [[field]] loses [[ATK]] equal to [its original ATK] until the end of this [[turn]]. Then, you can [[negate]] its [[Continuous Effect]]s until the end of this turn.
+  | ja_materials     = 「ギャラクティカ・オブリビオン」＋「ダークネス・ドワーフ」
+  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = 相手フィールドの元々の攻撃力が１００以上の表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで、［その元々の攻撃力］だけダウンする。その後、選んだモンスターの永続効果をターン終了時まで無効にできる。
   | jp_sets          = 
   RD/KP15-JP036; Red Reboot of Darkness; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions         = 
@@ -28,6 +28,14 @@ wikitext: |-
   | archseries       = 
   * Darkness (Rush Duel series)
   * Galactica
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = Your opponent's monsters lose ATK
+  | m/s/t            = Negates the effects of your opponent's Effect Monsters
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

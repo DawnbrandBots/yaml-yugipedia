@@ -11,17 +11,26 @@ wikitext: |-
   | level                  = 8
   | atk                    = 2500
   | def                    = 1600
+  | effect_types           = Summoning condition, Effect
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 3 [[Monster Card|monster]]s with the same [[Attribute]].
   | requirement            = During the [[turn]] you [[Normal Summon]]ed this card the above way.
-  | lore                   = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can make this card gain [[ATK]] equal to [the [[original Level]] of the monster destroyed by this effect] x 200 until the end of this turn.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | lore                   = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can make this card gain [[ATK]] equal to [the [[Original Level and Rank|original Level]] of the monster destroyed by this [[effect]]] x 200 until the end of this turn.
+  | ja_summoning_condition = このカードは同じ属性を持つモンスター３体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement         = 上記の方法でこのカードを召喚したターンに発動できる。
+  | ja_lore                = 相手フィールドのカード１枚を選んで破壊する。その後、このカードの攻撃力をターン終了時まで、［この効果で破壊したモンスターの元々のレベル］×２００アップできる。
   | jp_sets                = 
   RD/KP15-JP004; Red Reboot of Darkness; Super Rare, Secret Rare
   | archseries             = 
   * Darkness (Rush Duel series)
   * Transamu
+  | action                 = Activates during the turn in which it was Normal Summoned
+  | stat_change            = This card gains ATK
+  | m/s/t                  = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning              = Normal Summon with 3 Tributes
+  | misc                   = Requires control of specific Attribute
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

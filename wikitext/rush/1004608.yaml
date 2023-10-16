@@ -3,25 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = セレブローズ・ウィズ
-  | romaji_name      = Serebu Rōzu Wizu
-  | image            = CelebRoseWiz-RDKP15-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Spellcaster / Effect
-  | level            = 1
-  | atk              = 1000
-  | def              = 0
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]] or 1 [[Equip Spell Card]] in your [[hand]] to your opponent.
-  | lore             = [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Celeb Rose Magician]]", 1 "[[Celeb Rose Witch]]", or 1 "[[Fusion (Rush Duel)|Fusion]]" from among the cards sent to the Graveyard by this [[effect]] to your hand.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = セレブローズ・ウィズ
+  | romaji_name           = Serebu Rōzu Wizu
+  | image                 = CelebRoseWiz-RDKP15-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Spellcaster / Effect
+  | level                 = 1
+  | atk                   = 1000
+  | def                   = 0
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] or 1 [[Equip Spell Card]] in your [[hand]] to your opponent.
+  | lore                  = [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Celeb Rose Magician]]", 1 "[[Celeb Rose Witch]]", or 1 "[[Fusion (Rush Duel)|Fusion]]" from among the cards sent to the Graveyard by this [[effect]] to your hand.
+  | ja_requirement        = このカードを召喚したターンに、手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を相手に見せて発動できる。
+  | ja_lore               = 自分のデッキの上からカード４枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「セレブローズ・マジシャン」「セレブローズ・ウィッチ」「フュージョン」のいずれか１枚を選んで手札に加える事ができる。
+  | jp_sets               = 
   RD/KP15-JP008; Red Reboot of Darkness; Super Rare, Secret Rare
-  | mentions         = 
+  | mentions              = 
   * Celeb Rose Magician
   * Celeb Rose Witch
   * Fusion (Rush Duel)
-  | archseries       = Celeb Rose
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | supports              = 
+  * LIGHT
+  * Spellcaster
+  * Equip Spell Card
+  | archseries            = Celeb Rose
+  | related_to_archseries = Fusion (archetype)
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Reveals your hand for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}
