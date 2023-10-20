@@ -11,13 +11,17 @@ wikitext: |-
   | level            = 2
   | atk              = 200
   | def              = 200
-  | requirement      = Your opponent has a [[face-up]] [[Level]] 7 or higher [[monster]] on their [[field]].
+  | requirement      = Your opponent has a [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]] on their [[field]].
   | lore             = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. If an [[Equip Spell Card]](s) is among the cards sent, you can [[Draw a card|draw]] 1 card.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 相手フィールドに表側表示モンスター（レベル７以上）がいる場合に発動できる。
+  | ja_lore          = 自分のデッキの上からカード２枚を墓地へ送る。その中に装備魔法カードがあった場合、さらに自分は１枚ドローできる。
   | jp_sets          = 
   RD/KP15-JP013; Red Reboot of Darkness; Common
+  | supports         = Equip Spell Card
   | archseries       = Shaman Bandit
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard
+  * You draw cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
