@@ -1,48 +1,49 @@
 title: Primal Being Token
 wikitext: |-
   {{CardTable2
-  | fr_name               = Jeton Être Primitif
-  | de_name               = Urwesen-Spielmarke
-  | it_name               = Segna-Essere Primordiale
-  | pt_name               = Ficha de Ser Primitivo
-  | es_name               = Ficha Ser Primitivo
-  | ja_name               = {{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン
-  | romaji_name           = Genshi Seimeitai Tōkun
-  | ko_name               = 원시생명체 토큰
-  | ko_rr_name            = 
-  | image                 = PrimalBeingToken-OP12-EN-SR-UE.png
-  | attribute             = LIGHT
-  | types                 = Rock / Normal
-  | level                 = 11
-  | atk                   = ?
-  | def                   = ?
-  | summon                = Nibiru, the Primal Being
-  | lore                  = This card can be used as a "Primal Being Token".<br /><br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
-  | fr_lore               = Cette carte peut être utilisée comme "Jeton Être Primitif".<br /><br /><br />*Si elle est utilisée comme un autre Jeton, appliquez les Type/Attribut/Niveau/ATK/DEF du Jeton.
-  | de_lore               = Diese Karte kann als eine „Urwesen-Spielmarke“ verwendet werden.<br /><br /><br />*Falls sie als eine andere Spielmarke verwendet wird, verwende Typ/Eigenschaft/Stufe/ATK/DEF der Spielmarke.
-  | it_lore               = Questa carta può essere utilizzata come "Segna-Essere Primordiale".<br /><br /><br />*Se viene utilizzata come un altro Segna-Mostro, applica il Tipo/Attributo/Livello/ATK/DEF di quel Segna-Mostro.
-  | pt_lore               = Este card pode ser usado como uma "Ficha de Ser Primitivo".<br /><br /><br />*Se ela for usada como outra Ficha, aplique o Tipo/Atributo/Nível/ATK/DEF dessa outra Ficha.
-  | es_lore               = Esta carta puede ser usada como una "Ficha Ser Primitivo".<br /><br /><br />*Si se usa como otra Ficha, aplica el Tipo/Atributo/Nivel/ATK/DEF de esa Ficha.
-  | ja_lore               = このカードは「{{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン」として使用する事ができる。<br /><br /><br />※「{{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
-  | ko_lore               = 이 카드는 "원시생명체 토큰"으로 사용할 수 있다.<br /><br /><br />※"원시생명체 토큰" 이외의 토큰으로 사용할 경우, 그 토큰의 종족 / 속성 / 레벨 / 공격력 / 수비력을 적용한다.
-  | en_sets               = 
+  | fr_name     = Jeton Être Primitif
+  | de_name     = Urwesen-Spielmarke
+  | it_name     = Segna-Essere Primordiale
+  | pt_name     = Ficha de Ser Primitivo
+  | es_name     = Ficha Ser Primitivo
+  | ja_name     = {{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン
+  | romaji_name = Genshi Seimeitai Tōkun
+  | ko_name     = 원시생명체 토큰
+  | ko_rr_name  = 
+  | image       = PrimalBeingToken-OP12-EN-SR-UE.png
+  | attribute   = LIGHT
+  | types       = Rock / Normal
+  | level       = 11
+  | atk         = ?
+  | def         = ?
+  | summon      = Nibiru, the Primal Being
+  | lore        = This card can be used as a "Primal Being Token".<br /><br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
+  | fr_lore     = Cette carte peut être utilisée comme "Jeton Être Primitif".<br /><br /><br />*Si elle est utilisée comme un autre Jeton, appliquez les Type/Attribut/Niveau/ATK/DEF du Jeton.
+  | de_lore     = Diese Karte kann als eine „Urwesen-Spielmarke“ verwendet werden.<br /><br /><br />*Falls sie als eine andere Spielmarke verwendet wird, verwende Typ/Eigenschaft/Stufe/ATK/DEF der Spielmarke.
+  | it_lore     = Questa carta può essere utilizzata come "Segna-Essere Primordiale".<br /><br /><br />*Se viene utilizzata come un altro Segna-Mostro, applica il Tipo/Attributo/Livello/ATK/DEF di quel Segna-Mostro.
+  | pt_lore     = Este card pode ser usado como uma "Ficha de Ser Primitivo".<br /><br /><br />*Se ela for usada como outra Ficha, aplique o Tipo/Atributo/Nível/ATK/DEF dessa outra Ficha.
+  | es_lore     = Esta carta puede ser usada como una "Ficha Ser Primitivo".<br /><br /><br />*Si se usa como otra Ficha, aplica el Tipo/Atributo/Nivel/ATK/DEF de esa Ficha.
+  | ja_lore     = このカードは「{{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン」として使用する事ができる。<br /><br /><br />※「{{Ruby|原|げん}}{{Ruby|始|し}}{{Ruby|生|せい}}{{Ruby|命|めい}}{{Ruby|態|たい}}トークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
+  | ko_lore     = 이 카드는 "원시생명체 토큰"으로 사용할 수 있다.<br /><br /><br />※"원시생명체 토큰" 이외의 토큰으로 사용할 경우, 그 토큰의 종족 / 속성 / 레벨 / 공격력 / 수비력을 적용한다.
+  | en_sets     = 
   OP12-EN026; OTS Tournament Pack 12; Super Rare
-  | fr_sets               = 
+  | fr_sets     = 
   OP12-FR026; OTS Tournament Pack 12; Super Rare
-  | de_sets               = 
+  | de_sets     = 
   OP12-DE026; OTS Tournament Pack 12; Super Rare
-  | it_sets               = 
+  | it_sets     = 
   OP12-IT026; OTS Tournament Pack 12; Super Rare
-  | pt_sets               = 
+  | pt_sets     = 
   OP12-PT026; OTS Tournament Pack 12; Super Rare
-  | sp_sets               = 
+  | sp_sets     = 
   OP12-SP026; OTS Tournament Pack 12; Super Rare
-  | jp_sets               = 
+  | jp_sets     = 
   19TP-JP416; Tournament Pack 2019 Vol.4; Common
   TK02-JP029; Token Pack Vol.2; Rare, Ultra Rare
   TK05-JP042; Token Pack Vol.5; Rare, Ultra Rare
-  | kr_sets          =  
+  | kr_sets     = 
   AE15-KR004; Advanced Event Pack 2020 Vol.1; Secret Rare
-  | sc_sets               = 
+  | sc_sets     = 
   23SP-SC104; Entry Pack 2023 Vol.1; Super Rare
+  | database_id = 14793
   }}

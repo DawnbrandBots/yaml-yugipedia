@@ -12,14 +12,14 @@ wikitext: |-
   | romaji_name           = Pendyuramu Wicchi
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = PendulumWitch-VJMP-JP-OP.png
+  | image                 = PendulumWitch-VJMP-JP-UR.png
   | attribute             = EARTH
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 3
   | pendulum_scale        = 8
   | atk                   = 1500
   | def                   = 800
-  | password              = 
+  | password              = 43502497
   | pendulum_effect_types = Trigger-like, Condition
   | effect_types          = Trigger, Condition, Trigger
   | pendulum_effect       = If a [[face-up]] [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], and/or [[Xyz Monster]](s) you [[control]] is [[destroyed by battle]] or an opponent's card [[effect]] while this card is in the [[Pendulum Zone]]: You can [[Add a card|add]] 1 [[Pendulum Monster]] with the same original [[Type]] as 1 of those monsters, from your [[Main Deck|Deck]] to your [[Extra Deck]] [[face-up]]. You can only use this [[effect]] of "Pendulum Witch" [[once per turn]].
@@ -34,8 +34,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：このカードがＰゾーンに存在する状態で、自分フィールドの表側表示の融合・Ｓ・Ｘモンスターが戦闘または相手の効果で破壊された場合に発動できる。元々の種族がその内の１体と同じとなるＰモンスター１体をデッキからＥＸデッキに表側で加える。
+  | ja_lore               = このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・Ｐ召喚した場合、自分のＰゾーンのカード１枚を対象として発動できる。そのカードとこのカードを破壊し、デッキからレベル４以下のＰモンスター１体を手札に加える。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
@@ -60,7 +60,6 @@ wikitext: |-
   * Destroys your face-up Spell Cards
   * Destroys itself
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 19716
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
