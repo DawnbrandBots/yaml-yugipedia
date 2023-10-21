@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
+import logging
 from platform import python_version
 import random
 import sys
@@ -18,6 +19,7 @@ user_agent = f"https://github.com/DawnbrandBots/yaml-yugipedia httpx/{httpx.__ve
 def main():
     if len(sys.argv) < 2:
         sys.exit(f"Usage: {sys.argv[0]} <category>\ne.g. Duel_Monsters_cards, Skill_Cards, Rush_Duel_cards, Yu-Gi-Oh!_Duel_Links_Skills")
+    logging.basicConfig(level=logging.INFO)
     category = sys.argv[1]
     with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
         yaml = YAML()
@@ -28,7 +30,7 @@ def main():
         else:
             gcmcontinue = download(client, yaml, "gcmcontinue", url)
         while gcmcontinue is not None:
-            print(f"gcmcontinue = {gcmcontinue}", flush=True)
+            logging.info(f"gcmcontinue = {gcmcontinue}")
             sleep(random.uniform(1, 2))
             gcmurl = f"{url}&gcmcontinue={gcmcontinue}"
             gcmcontinue = download(client, yaml, "gcmcontinue", gcmurl)

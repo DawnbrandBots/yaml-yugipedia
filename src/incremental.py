@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
+import logging
 from platform import python_version
 import random
 import sys
@@ -22,6 +23,7 @@ def skip_condition(page) -> bool:
 def main():
     if len(sys.argv) < 2:
         exit(f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]")
+    logging.basicConfig(level=logging.INFO)
     with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
         yaml = YAML()
         url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions|categories&grctype=new|edit|categorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max"
@@ -32,7 +34,7 @@ def main():
         else:
             grccontinue = download(client, yaml, "grccontinue", url, skip_condition)
         while grccontinue is not None:
-            print(f"grccontinue = {grccontinue}", flush=True)
+            logging.info(f"grccontinue = {grccontinue}")
             sleep(random.uniform(1, 2))
             grcurl = f"{url}&grccontinue={grccontinue}"
             grccontinue = download(client, yaml, "grccontinue", grcurl, skip_condition)
