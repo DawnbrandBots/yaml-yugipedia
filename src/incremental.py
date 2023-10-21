@@ -5,6 +5,7 @@ from platform import python_version
 import random
 import sys
 from time import sleep
+from urllib.parse import quote
 
 import httpx
 from ruamel.yaml import YAML
@@ -26,7 +27,8 @@ def main():
     logging.basicConfig(level=logging.INFO)
     with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
         yaml = YAML()
-        url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions|categories&grctype=new|edit|categorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max"
+        # Escape | as %7C ahead of time, otherwise httpx will attempt to encode the URL and double encode the category parameter
+        url = "https://yugipedia.com/api.php?format=json&formatversion=2&action=query&generator=recentchanges&prop=revisions%7Ccategories&grctype=new%7Cedit%7Ccategorize&grctoponly=true&grclimit=50&grcnamespace=0&grcdir=newer&rvprop=content&cllimit=max"
         url += f"&clcategories=Category:{sys.argv[1]}"
         url += f"&grcstart={sys.argv[2]}"
         if len(sys.argv) > 3:
@@ -36,7 +38,8 @@ def main():
         while grccontinue is not None:
             logging.info(f"grccontinue = {grccontinue}")
             sleep(random.uniform(1, 2))
-            grcurl = f"{url}&grccontinue={grccontinue}"
+            # URL encode first to prevent httpx from doing so and double-encoding earlier parts of the URL
+            grcurl = f"{url}&grccontinue={quote(grccontinue)}"
             grccontinue = download(client, yaml, "grccontinue", grcurl, skip_condition)
 
 

@@ -5,6 +5,7 @@ from platform import python_version
 import random
 import sys
 from time import sleep
+from urllib.parse import quote
 
 import httpx
 from ruamel.yaml import YAML
@@ -32,7 +33,8 @@ def main():
         while gcmcontinue is not None:
             logging.info(f"gcmcontinue = {gcmcontinue}")
             sleep(random.uniform(1, 2))
-            gcmurl = f"{url}&gcmcontinue={gcmcontinue}"
+            # URL encode first to prevent httpx from doing so and double-encoding earlier parts of the URL
+            gcmurl = f"{url}&gcmcontinue={quote(gcmcontinue)}"
             gcmcontinue = download(client, yaml, "gcmcontinue", gcmurl)
 
 
