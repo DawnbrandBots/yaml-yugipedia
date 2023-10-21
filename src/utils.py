@@ -40,7 +40,7 @@ def download(client: httpx.Client, yaml: YAML, continue_key: str, url: str, skip
     for page in result["query"]["pages"]:
         pageid = page["pageid"]
         if skip_condition is not None and skip_condition(page):
-            logger.info(f"Skipping {pageid} | {url}")
+            logger.debug(f"Skipping {pageid} | {url}")
             continue
         n_revisions = len(page["revisions"])
         contentformat = page["revisions"][0]["contentformat"]
