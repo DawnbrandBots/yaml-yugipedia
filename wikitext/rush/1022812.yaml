@@ -13,12 +13,20 @@ wikitext: |-
   | def                   = 0
   | requirement           = [[Shuffle]] 2 [[Wyrm]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore                  = [[Battle position change|Change]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, your opponent [[excavate]]s the top 3 cards of their Deck. Your opponent places the excavated cards on the top of their Deck in any order.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分の墓地のモンスター（幻竜族）２体をデッキに戻して発動できる。
+  | ja_lore               = 相手フィールドの表側表示モンスター（レベル９以下）１体を選んで裏側守備表示にする。その後、相手は自身のデッキの上からカードを３枚めくり、お互いに確認する。相手はめくったカードを好きな順番でデッキの上に戻す。
   | jp_sets               = 
   RD/KP15-JP010; Red Reboot of Darkness; Rare
+  | supports              = Wyrm
   | archseries            = Darkness (Rush Duel series)
   | related_to_archseries = Demolition
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  | fm_for                = Demolition Meltdown Dragon Darkness Blasthamut
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
