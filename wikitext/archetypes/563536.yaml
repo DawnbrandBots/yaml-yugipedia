@@ -45,11 +45,70 @@ wikitext: |-
   ==Design==
   [[wikipedia:Nephthys|Nephthys]] was an Egyptian goddess associated with birth and death, which is the reference for the [[Winged Beast]] "Nephthys" monsters. The [[Spellcaster]] ones are supposed to be her followers; they seem to worship her and perform [[Ritual Summon|Rituals]] for the sake of her rebirth.
   ===Members===
+  "Nephthys" monsters can be divided into two sub-series: "[[Sacred Phoenix of Nephthys]]" and its counterpart forms, and the [[Spellcaster]]-type human-formed "Nephthys followers".
+
+  ====Sacred Phoenix of Nephthys====
   {| class="wikitable"
   |-
-  ! scope="col" | Nephthys
-  ! scope="col" | [[Main Phase]] [[effect]]
-  ! scope="col" | [[Standby Phase]] effect
+  ! [[Monster card type|Type]]
+  ! Nephthys
+  ! Notes
+  |-
+  ! rowspan = 4 | Main Deck<br/>Effect
+  | [[Sacred Phoenix of Nephthys]]
+  | —
+  |-
+  | [[Dark Nephthys]]
+  | [[Dark counterpart]]
+  |-
+  | [[Metaphys Nephthys]]
+  | "[[Metaphys]]" counterpart
+  |-
+  | [[Chaos Nephthys]]
+  | [[Chaos (series)|Chaos series]] counterpart
+  |-
+  ! [[Link Monster|Link]]
+  | [[Nephthys, the Sacred Flame]]
+  | rowspan = 2 |—
+  |-
+  ! [[Ritual Monster|Ritual]]
+  | [[Cerulean Sacred Phoenix of Nephthys]]
+  |}
+
+  ====Spellcaster Followers====
+
+  In Japanese OCG, all "Nephthys follower" monsters are named with the title 「手」 (''te''), meaning "Hand of [action]".
+
+  {| class="wikitable"
+  |-
+  ! [[Monster card type|Type]]
+  ! Nephthys
+  ! Notes
+  |-
+  ! rowspan = 2 | [[Ritual Monster|Ritual]]
+  | [[Conductor of Nephthys|Conductor]]
+  | rowspan = 2 | —
+  |-
+  | [[Devotee of Nephthys|Devotee]]
+  |-
+  ! rowspan = 5 | Main Deck<br/>Effect
+  | [[Hand of Nephthys|Hand]] || Pre-''[[Hidden Summoners]]''.
+  |-
+  | [[Chronicler of Nephthys|Chronicler]]
+  | rowspan = 4 | First printed in ''[[Hidden Summoners]]''; features themed monster effects.
+  |-
+  | [[Defender of Nephthys|Defender]]
+  |-
+  | [[Disciple of Nephthys|Disciple]]
+  |-
+  | [[Matriarch of Nephthys|Matriarch]]
+  |}
+
+  {| class="wikitable mw-collapsible autocollapse"
+  |+ {{nowrap|Hidden Summoners Nephthys Follower Effects}}
+  ! Nephthys
+  ! [[Main Phase]] [[effect]] (Destroy 1 card in hand, then...)
+  ! [[Standby Phase]] effect (Next Standby Phase after this card was destroyed...)
   |-
   | [[Chronicler of Nephthys|Chronicler]] || [[Add a card|Add]] 1 "Nephthys" card from the [[GY]] to the [[hand]], except itself. || Add 1 "Nephthys" card from the GY to the hand, except itself.
   |-
@@ -59,6 +118,7 @@ wikitext: |-
   |-
   | [[Matriarch of Nephthys|Matriarch]] || Special Summon 1 Level 4 or lower "Nephthys" monster, except itself, from the GY in [[Defense Position]] and [[negate]] its effects || Special Summon itself
   |}
+
   ==Playing style==
   Similar to "[[Fire King]]" archetype, "Nephthys" theme is focusing on destroying its controller's monsters to trigger the destroyed monsters' effects, albeit for a longer turn (the "Nephthys" monsters activate their effect upon being destroyed by a card effect on '''its controller's''' next Standby Phase). 
   Each Level-2 Main Deck monsters (except "[[Hand of Nephthys]]") all have [[Ignition Effect]] that destroys 1 card in your hand, which if you do, may trigger various action, and another unique effect that can be used during their controller's next Standby Phase after being destroyed by a card effect. Meanwhile, most of their big monsters have effect that clears the field or to resurrect themselves from the GY, reflecting the ability of mythological phoenix that can be reborn from their ashes. Furthermore, the most recent Nephthys cards are built towards Ritual Summoning, and may also Link Summoning their exclusive Link Monsters that support Ritual Monster.
