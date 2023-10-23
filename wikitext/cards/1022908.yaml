@@ -10,7 +10,7 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|ЯＲＵＭ|ライズランクアップマジック}}－レイド・ラプターズ・フォース
   | romaji_name         = Raizu Rankuappu Majikku - Reido Raputāzu Fōsu
-  | trans_name          = Rise Rank-Up-Magic - Raid Raptor's Force
+  | trans_name          = Rise-Rank-Up-Magic - Raid Raptor's Force
   | ko_name             = 
   | ko_rr_name          = 
   | image               = RiseRankUpMagicRaidraptorsForce-PHNI-JP-OP.png
@@ -28,11 +28,24 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   PHNI-JP056; Phantom Nightmare; 
+  | supports            = Xyz Monster
   | archseries          = 
   * Raidraptor
   * Rank-Up-Magic
   | supports_archetypes = Raidraptor
-  | misc                = Archetype condition
+  | action              = 
+  * Attaches from your field as Xyz Material
+  * Attaches from your Graveyard as Xyz Material
+  * Transfer
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Performs Xyz Evolution
+  * Treats Special Summon as Xyz Summon
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 500
   | password            = 
   | effect_types        = Ignition, Ignition, Condition
-  | lore                = During your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 "Raidraptor" monster you control; add 1 "Raidraptor" monster with a different Level from your Deck to your hand. You can banish this card from your GY; increase or decrease the Levels of all "Raidraptor" monsters you currently control by 1 until the end of this turn. You can only use each effect of "Raidraptor - Noir Lanius" once per turn.
+  | lore                = During your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 "Raidraptor" monster you control; add 1 "Raidraptor" monster with a different Level from your Deck to your hand. You can banish this card from your GY; increase or decrease the Levels of all "Raidraptor" monsters you currently control by 1. You can only use each effect of "Raidraptor - Noir Lanius" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,18 @@ wikitext: |-
   PHNI-JP004; Phantom Nightmare; 
   | archseries          = Raidraptor
   | supports_archetypes = Raidraptor
+  | action              = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | stat_change         = 
+  * Your monsters gain Levels
+  * Your monsters lose Levels
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

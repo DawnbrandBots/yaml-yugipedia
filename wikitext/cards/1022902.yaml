@@ -18,7 +18,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Condition
-  | lore                = If you control a "Raidraptor" monster: Target 1 face-up monster your opponent controls, or, if you control a "Raidraptor" Xyz Monster, you can target 1 face-up card your opponent controls instead; negate its effects until the end of this turn. You can banish this card from your GY, then target 1 of your "Raidraptor" monsters that is banished or in your GY; add it to your hand. You can only use 1 "Raidraptor - Barrage" effect per turn, and only once that turn.
+  | lore                = If you control a "Raidraptor" monster: Target 1 face-up monster your opponent controls, or, if you control a "Raidraptor" Xyz Monster, you can target 1 face-up card they control instead; negate its effects until the end of this turn. You can banish this card from your GY, then target 1 of your "Raidraptor" monsters that is banished or in your GY; add it to your hand. You can only use 1 "Raidraptor - Barrage" effect per turn, and only once that turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,6 +30,19 @@ wikitext: |-
   PHNI-JP074; Phantom Nightmare; 
   | archseries          = Raidraptor
   | supports_archetypes = Raidraptor
+  | action              = 
+  * Activates from your Graveyard
+  * Adds banished cards to the hand
+  * Adds from Graveyard to hand
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

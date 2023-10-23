@@ -15,17 +15,23 @@ wikitext: |-
   * Red-Eyes Black Dragon (Rush Duel)
   * Meteor Dragon (Rush Duel)
   | materials        = "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" + "[[Meteor Dragon (Rush Duel)|Meteor Dragon]]"
-  | requirement      = If you have "Meteor Dragon" in your Graveyard, send the top card of your Deck to the Graveyard.
-  | lore             = Until the end of this turn, this card gains ATK equal to [the number of monsters in your Graveyard] x 200, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = If you have "Meteor Dragon" in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | lore             = Until the end of this [[turn]], this card gains [[ATK]] equal to [the number of [[Monster Card|monster]]s in your Graveyard] x 200, and if it [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_materials     = 「真紅眼の黒竜」＋「メテオ・ドラゴン」
+  | ja_requirement   = 自分の墓地に「メテオ・ドラゴン」がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このカードの攻撃力はターン終了時まで、［自分の墓地のモンスターの数］×２００アップし、その攻撃は貫通する。
   | jp_sets          = 
   RD/KP15-JP048; Red Reboot of Darkness; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions         = 
   * Red-Eyes Black Dragon (Rush Duel)
   * Meteor Dragon (Rush Duel)
   | archseries       = Red-Eyes (Rush Duel)
-  | rush_duel_status = Not yet released
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  | attack           = Piercing
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

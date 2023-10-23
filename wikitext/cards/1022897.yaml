@@ -18,7 +18,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Trigger-like, Ignition-like, Condition
-  | lore                = If a "Raidraptor" monster(s) is Special Summoned from the Extra Deck to your field: You can add 1 "Raidraptor" Spell/Trap from your Deck to your hand, except "Raidraptor -Roost". You can target 3 of your "Raidraptor" monsters that are banished and/or in your GY; place them on the bottom of the Deck in any order, then draw 1 card. You can only use each effect of "Raidraptor - Roost" once per turn.
+  | lore                = If a "Raidraptor" monster(s) is Special Summoned from the Extra Deck to your field: You can add 1 "Raidraptor" Spell/Trap from your Deck to your hand, except "Raidraptor - Roost". You can target 3 of your "Raidraptor" monsters that are banished and/or in your GY; place them on the bottom of the Deck in any order, then draw 1 card. You can only use each effect of "Raidraptor - Roost" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -28,8 +28,18 @@ wikitext: |-
   | ko_lore             = 
   | jp_sets             = 
   PHNI-JP057; Phantom Nightmare; 
+  | mentions            = Raidraptor - Roost
   | archseries          = Raidraptor
   | supports_archetypes = Raidraptor
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Places the player's banished cards on the bottom of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * You draw cards
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

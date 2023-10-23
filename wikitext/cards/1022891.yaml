@@ -21,6 +21,7 @@ wikitext: |-
   | def                 = 3500
   | password            = 
   | effect_types        = Trigger, Continuous, Ignition
+  | materials           = 5 Level 13 Winged Beast-Type monsters
   | lore                = 5 Level 13 Winged Beast monsters<br />If this card is Xyz Summoned: You can destroy as many cards your opponent controls as possible, then, if this card has 3 or more "Raidraptor" Xyz Monsters with different names as material, inflict damage to your opponent equal to the destroyed monsters' total original ATK. Unaffected by other cards' effects. Once per turn: You can detach 3 materials from this card, then target 1 "Raidraptor" Xyz Monster in your GY; replace this effect with that monster's original effects until the End Phase.
   | fr_lore             = 
   | de_lore             = 
@@ -32,10 +33,28 @@ wikitext: |-
   | jp_sets             = 
   PHNI-JP045; Phantom Nightmare; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   PHNI-JP045; Phantom Nightmare +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports            = 
+  * Winged Beast
+  * Xyz Monster
   | archseries          = 
   * Raidraptor
   * Rebellion (archetype)
   | supports_archetypes = Raidraptor
+  | action              = 
+  * Activates upon Xyz Summon
+  * Applies effects if specific Xyz Material is attached
+  * Detaches multiple Xyz Materials as cost
+  | stat_change         = Copies effects
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Unaffected by other card effects
+  | summoning           = 
+  * 5 Xyz Materials
+  * Requires Type specific Xyz Materials
+  | life_points         = Damages your opponent
+  | misc                = Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
