@@ -3,21 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = メテオ・ブラック・マーズドラゴン
   | romaji_name      = Meteo Burakku Māzu Doragon
-  | image            = MeteorBlackMarsDragon-OW.png
-  | attribute        = ???
-  | types            = Dragon / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | image            = MeteorBlackMarsDragon-RDKP15-JP-OP.png
+  | attribute        = FIRE
+  | types            = Dragon / Fusion / Effect
+  | level            = 8
+  | atk              = 3500
+  | def              = 2000
+  | fusion_material  = 
+  * Red-Eyes Black Dragon (Rush Duel)
+  * Meteor Dragon (Rush Duel)
+  | materials        = "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" + "[[Meteor Dragon (Rush Duel)|Meteor Dragon]]"
+  | requirement      = If you have "Meteor Dragon" in your Graveyard, send the top card of your Deck to the Graveyard.
+  | lore             = Until the end of this turn, this card gains ATK equal to [the number of monsters in your Graveyard] x 200, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP15-JP0??; Red Reboot of Darkness;
+  RD/KP15-JP048; Red Reboot of Darkness; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions         = 
+  * Red-Eyes Black Dragon (Rush Duel)
+  * Meteor Dragon (Rush Duel)
   | archseries       = Red-Eyes (Rush Duel)
   | rush_duel_status = Not yet released
   | database_id      = 

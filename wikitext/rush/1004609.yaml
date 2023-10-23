@@ -3,22 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
-  | ja_name          = メテオ・ドレイク
-  | romaji_name      = Meteo Doreiku
-  | image            = MeteorDrake-OW.png
-  | attribute        = ???
-  | types            = Dragon / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP15-JP0??; Red Reboot of Darkness;
-  | archseries       = Red-Eyes (Rush Duel)
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | ja_name                = メテオ・ドレイク
+  | romaji_name            = Meteo Doreiku
+  | image                  = MeteorDrake-RDKP15-JP-OP.png
+  | attribute              = EARTH
+  | types                  = Dragon / Effect
+  | level                  = 5
+  | atk                    = 1800
+  | def                    = 1000
+  | summoning_condition    = If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.
+  | requirement            = None
+  | lore                   = Excavate the top 4 cards of your Deck. You can add 1 excavated "[[Meteor Dragon (Rush Duel)|Meteor Dragon]]" or "[[Meteor Flare Fusion]]" to your hand. Place the remaining cards on the bottom of your Deck in any order.
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP15-JP028; Red Reboot of Darkness; Rare
+  | mentions               = 
+  * Meteor Dragon (Rush Duel)
+  * Meteor Flare Fusion
+  | archseries             = Red-Eyes (Rush Duel)
+  | rush_duel_status       = Not yet released
+  | database_id            = 
   }}
