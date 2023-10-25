@@ -5,12 +5,23 @@ wikitext: |-
   | image            = FishDepthCharge-RDKP15-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], or after your opponent [[activate]]s a [[Spell Card]], [[send]] 1 [[face-up]] [[Fish]] [[Type]] monster from your [[field]] to the [[Graveyard]].
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], or after your opponent [[activate]]s a [[Spell Card]], [[send]] 1 [[face-up]] [[Fish]] [[Type]] monster from your [[field]] to the [[Graveyard]].
   | lore             = [[Destroy]] 1 card on your opponent's field. Then, [[Draw a card|draw]] 1 card.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 相手がモンスターを召喚・特殊召喚した時、または相手が魔法カードを発動した後、自分フィールドの表側表示モンスター（魚族）１体を墓地へ送って発動できる。
+  | ja_lore          = 相手フィールドのカード１枚を選んで破壊する。その後、自分は１枚ドローする。
   | jp_sets          = 
   RD/KP15-JP062; Red Reboot of Darkness; Rare
-  | rush_duel_status = Not yet released
+  | supports         = Fish
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  | m/s/t            = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc             = Requires control of specific Type
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

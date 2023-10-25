@@ -17,15 +17,22 @@ wikitext: |-
   | effect_types     = Continuous
   | materials        = "[[Surging-Wave Swordsman Onimaru Kunituna]]" + "[[Hydro Gun Mini Bluefin]]"
   | requirement      = None
-  | lore             = If this card [[attack]]s a [[Defense Position]] [[monster]], inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). [[Face-up]] [[Fish]] [[Type]] monsters on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = If this card [[attack]]s a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). [[Face-up]] [[Fish]] [[Type]] monsters on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_materials     = 「波導刀鬼丸クニツナ」＋「波導銃ミニ・マグロム」
+  | ja_requirement   = なし
+  | ja_lore          = このカードの攻撃は貫通する。自分フィールドの表側表示モンスター（魚族）は相手の効果では破壊されない。
   | jp_sets          = 
   RD/KP15-JP045; Red Reboot of Darkness; Common
   | mentions         = 
   * Surging-Wave Swordsman Onimaru Kunituna
   * Hydro Gun Mini Bluefin
+  | supports         = Fish
   | archseries       = Surging-Wave
+  | m/s/t            = Cannot be destroyed by card effects
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | attack           = Piercing
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

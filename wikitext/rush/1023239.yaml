@@ -3,23 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name              = {{Ruby|波導銃|ハイドロガン}}ミニ・マグロム
-  | romaji_name          = Haidoro Gan Mini Maguromu
-  | trans_name           = Hydro Gun Mini Magurom
-  | image                = HydroGunMiniBluefin-RDKP15-JP-OP.png
-  | attribute            = WATER
-  | types                = Fish / Effect
-  | level                = 3
-  | atk                  = 1000
-  | def                  = 500
-  | requirement          = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                 = This card gains [[ATK]] equal to [the total [[Level]]s of the [[face-up]] [[Fish]] [[Type]] [[monsters]] on your [[field]]] x 100 until the end of this [[turn]]. Then, you can take 1 "[[Hydro Cannon Big Bluefin]]" from your Graveyard, and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it face-up to your field. 
-  | ja_requirement       = 
-  | ja_lore              = 
-  | jp_sets              = 
+  | ja_name               = {{Ruby|波導銃|ハイドロガン}}ミニ・マグロム
+  | romaji_name           = Haidoro Gan Mini Maguromu
+  | trans_name            = Hydro Gun Mini Magurom
+  | image                 = HydroGunMiniBluefin-RDKP15-JP-OP.png
+  | attribute             = WATER
+  | types                 = Fish / Effect
+  | level                 = 3
+  | atk                   = 1000
+  | def                   = 500
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = This card gains [[ATK]] equal to [the total [[Level]]s of the [[face-up]] [[Fish]] [[Type]] [[Monster Card|monster]]s on your [[field]]] x 100 until the end of this [[turn]]. Then, you can take 1 "[[Hydro Cannon Big Bluefin]]" from your Graveyard, and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it face-up to your field.
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = このカードの攻撃力はターン終了時まで、［自分フィールドの表側表示モンスター（魚族）のレベルの合計］×１００アップする。その後、自分の墓地の「波導砲ビッグ・マグロム」１体を選んで手札に加えるか自分フィールドに表側表示で特殊召喚できる。
+  | jp_sets               = 
   RD/KP15-JP017; Red Reboot of Darkness; Common
   | mentions              = Hydro Cannon Big Bluefin
-  | database_id           = 
+  | supports              = Fish
   | related_to_archseries = Surging-Wave
+  | action                = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change           = This card gains ATK
+  | summoning             = Special Summons from your Graveyard
+  | fm_for                = Pitch-Dark Surging-Wave Swordsman Onimaru Kunituna
+  | misc                  = Requires control of specific Type
+  | database_id           = 
   | rush_duel_status      = Not yet released
   }}
