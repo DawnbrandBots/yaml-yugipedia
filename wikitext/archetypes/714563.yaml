@@ -27,36 +27,46 @@ wikitext: |-
   {{Main|The Valuable Book EX 2 card storylines#No. 02: Dinomorphia}}
   ==Etymology==
   The archetype's ''[[OCG]]'' name, "Dinorphia", is a portmanteau of "dinosaur" and "dynorphin", a type of peptide produced in the body that has analgesic properties; this likely refers to the "Dinorphia" monsters' damage-suppressing and low-[[LP]] effects. The names of the "Dinorphia" monsters are based on the names of various dinosaur species. Alternatively, the Japanese archtype's name can also read as "Dinoruffian", a portmanteau of "dinosaur" and "ruffian", which refers to the depiction of monster of the archetype as outlaw criminals.
+
   The archetype's ''[[TCG]]'' name, "Dinomorphia", includes "morph-" into the ''OCG'' name's pre-existing portmanteau. "Morph-" likely refers to either "morphology", the form and structure of animals; "metamorphosis", a form of transformation or mutation which is emphasized by the hybridization of humanoids and dinosaurs in the archetype; or "[[wikipedia:Morphine|morphine]]", an addictive opiate with similar analgesic properties as dynorphins.
+
   ==Design==
   The "Dinomorphia" monsters are divided between two distinct design styles: one style that consists of human agents, and another style that consists of giant robotic creatures.
+
   The members that are human agents are equipped with mechanical augmentations based on the adaptive traits of their respective dinosaurs, while the robotic members are large robots that resemble prehistoric species of dinosaurs or non-dinosaur reptiles.
+
   All "Dinomorphia" monsters have 0 [[ATK]] or [[DEF]].
+
   {| class="wikitable"
   |-
+  ! Form
   ! Member
   ! Origin
   |-
+  | rowspan = 3 | Human
   | [[Dinomorphia Diplos|Diplos]]
   | ''[[wikipedia:Diplodocus|Diplodocus]]''
   |-
   | [[Dinomorphia Kentregina|Kentregina]]
   | ''[[wikipedia:Kentrosaurus|Kentrosaurus]]''
   |-
-  | [[Dinomorphia Shell|Shell]]/[[Dinomorphia Token|Token]]
-  | ''[[wikipedia:Archelon|Archelon]]''
+  | [[Dinomorphia Therizia|Therizia]]
+  | ''[[wikipedia:Therizinosaurus|Therizinosaurus]]''
   |-
+  | rowspan = 3 | Robot
   | [[Dinomorphia Rexterm|Rexterm]]
   | ''[[wikipedia:Tyrannosaurus Rex|Tyrannosaurus Rex]]''
   |-
   | [[Dinomorphia Stealthbergia|Stealthbergia]]
   | ''[[wikipedia:Geosternbergia|Geosternbergia]]''<br />[[wikipedia:Stealth aircraft|Stealth aircraft]]
   |-
-  | [[Dinomorphia Therizia|Therizia]]
-  | ''[[wikipedia:Therizinosaurus|Therizinosaurus]]''
+  | [[Dinomorphia Shell|Shell]]/[[Dinomorphia Token|Token]]
+  | ''[[wikipedia:Archelon|Archelon]]''
   |}
+
   ==Playing style==
   "Dinomorphia" is a [[Trap Card]] and [[Fusion Monster]]-based [[Dinosaur]] [[Deck]] focused on putting the player in a low-[[LP]], near-death game state. The archetype is primarily composed of Trap Cards that all require the player paying half of their [[LP]] to activate, with effects ranging from board building, disruption, to recovery. Meanwhile, all "Dinomorphia" monsters have effects that make the monsters stronger the lower the player's LP is, encouraging the player to reduce their LP as much as possible without dying.
+
   The Deck has 8 Traps: 4 [[Normal Trap]]s and 4 [[Counter Trap]]s.
   {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   |+ {{nowrap|Dinomorphia Traps}}
@@ -69,19 +79,19 @@ wikitext: |-
   | rowspan="4" | [[Normal Trap|Normal]]
   | [[Dinomorphia Domain|Domain]]
   | [[Fusion Summon]] 1 "Dinomorphia" Fusion Monster, using monsters from [[hand]], Deck, or [[field]] as [[material]]s
-  | Play enabler to Summon "Dinomorphia" boss monsters
+  | Play enabler
   |-
   | [[Dinomorphia Frenzy|Frenzy]]
   | [[Fusion Summon]] 1 "Dinomorphia" Fusion Monster, using 1 monster from the Deck and 1 monster from the [[Extra Deck]] as materials
-  | Play enabler to Summon "Dinomorphia" boss monsters
+  | Play enabler
   |-
   | [[Dinomorphia Alert|Alert]]
   | [[Special Summon]] up to 2 "Dinomorphia" monsters from the [[GY]], whose total [[Level]]s ≤8
-  | Monster recovery
+  | Recovery
   |-
   | [[Dinomorphia Brute|Brute]]
   | [[Destroy]] 1 "Dinomorphia" monster and 1 opponent's card.
-  | Destruction disruption; triggers "Dinomorphia" [[Floater|float]] effects
+  | Removal
   |-
   | rowspan="4" | [[Counter Trap|Counter]]
   | [[Dinomorphia Shell|Shell]]
@@ -89,25 +99,29 @@ wikitext: |-
   | Battle protection
   |-
   | [[Dinomorphia Intact|Intact]]
-  | Negate the activation of a monster's effect and destroy it, and make each instance of battle damage for the rest of the turn become half the player's LP at the moment of the attack
-  | Monster negate; prevents losing the game from attacks for the rest of the turn
+  | Negate the activation of a monster's effect and destroy it. For the rest of the turn, any battle damage the player receives becomes half the player's LP at the moment of the attack
+  | Monster negate + battle protection
   |-
   | [[Dinomorphia Reversion|Reversion]]
   | Copy the effects of 1 Counter Trap in the GY
-  | Effect varies based on the player's setup
+  | Situational variable effects
   |-
   | [[Dinomorphia Sonic|Sonic]]
   | [[Negate]] the activation of a Spell/Trap Card, then destroy 1 "Dinomorphia" monster
-  | S/T negate; triggers "Dinomorphia" [[Floater|float]] effects
+  | S/T negate
   |}
-  The Deck has 2 [[Main Deck]] monsters: "[[Dinomorphia Therizia]]" and "[[Dinomorphia Diplos]]". If Summoned, "Therizia" sets a Trap from the Deck to the field, while "Diplos" sends a "Dinomorphia" card from Deck to the GY; "Therizia" is important for initial [[Fusion Summon]] setups (setting "Domain" or "Frenzy"), while "Diplos" sets up some effects that require GY setup, such as "Kentregina's" second effect (see below).
-  The "Dinomorphia" boss monsters each reward the player for having as little LP as possible:
-  * "[[Dinomorphia Kentregina]]" is the deck's main boss monster, having versatile effects and respectable stats. It has 4000 [[ATK]], but loses ATK equal to the player's LP. Thus, it has 0 ATK if the player has 4000+ LP, and the lower the player's LP is, the higher its ATK becomes. Its second effect can copy the effect of a "Dinomorphia" Normal Trap from the Graveyard as a Quick Effect at the cost of half the LP, allowing the player to expand their board by copying "Domain" or "Frenzy", disrupt the opponent by copying "Brute", or recover monsters by copying "Alert". The effect of "Diplos" can help set up its second effect.
-  * "[[Dinomorphia Stealthbergia]]" is the deck's defensive boss monster. It lets the player activate Trap Cards or "Dinomorphia" monster effects without having to pay LP when the player has ≤2000 LP. This makes it possible to use cards like "[[Solemn Strike]]", "[[Solemn Warning]]", or "[[Appointer of the Red Lotus]]" even when the player has almost no LP left. It can also inflict damage to the opponent equal to the ATK of a monster when it activates its effect, even outside the field. Having 0 ATK and 2500 DEF, "Stealthbergia" is exclusively defense-focused.
-  * "[[Dinomorphia Rexterm]]" is the deck's main suppressive boss monster. It prevents the opponent from activating monster effects if their ATK is equal to or higher than the "Dinomorphia" player's LP. At the cost of half the LP, its Quick Effect equalizes all the opponent's monsters' ATK with the player's LP, providing both effect activation suppression and combat support.
-  All "Dinomorphia" monsters can Special Summon a different "Dinomorphia" monster from the GY if they're destroyed: "Rexsturm" floats into any Level 6 or lower "Dinomorphia" (i.e. all other "Dinomorphia" monsters), while all others float into a Level 4 or lower "Dinomorphia" (i.e. the Main Deck "Dinomorphia" monsters).
+  The Deck has 2 [[Main Deck]] monsters: "[[Dinomorphia Therizia]]" and "[[Dinomorphia Diplos]]". If Summoned, "Therizia" sets a Trap from the Deck to the field, while "Diplos" sends a "Dinomorphia" card from Deck to the GY; "Therizia" is the Deck's core starter, able to set the Fusion Traps "Domain" or "Frenzy".
+
+  The "Dinomorphia" Fusion boss monsters each reward the player for having as little LP as possible:
+  * "[[Dinomorphia Kentregina]]" is the Deck's multi-role boss monster. Starting at 0 ATK, it gains ATK (up to 4000) the lower the player's LP is. Its activated Quick Effect, costing half LP, copies the effect of a "Dinomorphia" Normal Trap from the Graveyard, letting the player to expand their board by copying "Domain" or "Frenzy", remove opposing cards by copying "Brute", or recover monsters by copying "Alert".
+  * "[[Dinomorphia Stealthbergia]]" is the deck's defensive boss monster. It has a high 2500 DEF, and lets the player activate Trap Cards or "Dinomorphia" monster effects without having to pay LP when the player has ≤2000 LP. It can also conditionally [[burn]] the opponent.
+  * "[[Dinomorphia Rexterm]]" is the deck's main board control boss monster, providing both effect and combat lockdowns. It prevents the opponent from activating monster effects if their ATK is equal to or higher than the "Dinomorphia" player's LP. Its activated Quick Effect, costing half LP, equalizes all opposing monsters' ATKs with the player's LP.
+
+  All "Dinomorphia" monsters [[float]] into a different "Dinomorphia" monster from the GY if they're destroyed: "Rexsturm" floats into any Level 6 or lower "Dinomorphia" (i.e. all other "Dinomorphia" monsters), while all others float into a Level 4 or lower "Dinomorphia" (i.e. the Main Deck "Dinomorphia" monsters).
+
   Because of the high LP costs to activate the effects of "Dinomorphia" Trap Cards/Fusion Monsters, a "Dinomorphia" player will quickly reduce themselves to a very low LP, and become vulnerable to a quick defeat from [[burn]] or battle damage. However, all Traps have a Graveyard effect that protects the player from a damage source when the player has ≤2000 LP: the [[Normal Trap]]s can prevent effect damage for one turn, while the Counter Traps can prevent battle damage from one battle.
-  Externally, the Deck benefits from other cards with half-LP costs, such as "[[Solemn Judgment]]", "[[Soul Strike]]", and "[[Red Reboot]]", as they can further push down the player's LP, and can be used regardless of how low the player's LP is. The Deck's playstyle also benefits from cards that can take advantage of the player's low LP, such as "[[Ferret Flames]]", "[[Hope for Escape]]", and "[[End of the Line]]". Finally, being a Dinosaur theme, generic support cards like "[[Miscellaneousaurus]]", "[[Souleating Oviraptor]]", "[[Ultimate Conductor Tyranno]]", and "[[Fossil Dig]]" can increase the Deck's overall consistency.
+
+  Externally, the Deck benefits from other cards with half LP costs, such as "[[Soul of the Supreme King]]", "[[Solemn Judgment]]", "[[Soul Strike]]", and "[[Red Reboot]]", as they can further push down the player's LP, and can be used regardless of how low the player's LP is. The Deck's playstyle also benefits from cards that can take advantage of the player's low LP, such as "[[Ferret Flames]]", "[[Hope for Escape]]", and "[[End of the Line]]". Finally, being a Dinosaur theme, generic support cards like "[[Miscellaneousaurus]]", "[[Souleating Oviraptor]]", "[[Ultimate Conductor Tyranno]]", and "[[Fossil Dig]]" can increase the Deck's overall consistency.
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
