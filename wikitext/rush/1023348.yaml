@@ -3,20 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・エンド
-  | romaji_name           = Zetsubōkyōma Deddo Endo
-  | image                 = DeadEndtheMadFiendofDespair-RDKP15-JP-OP.png
-  | attribute             = DARK
-  | types                 = Fiend / Effect
-  | level                 = 8
-  | atk                   = 2500
-  | def                   = 1200
-  | requirement           = [[Shuffle]] 4 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore                  = [[Destroy]] 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]]. Then, if you have 6 or more monsters with the same [[Attribute]] in your Graveyard, you can [[Special Summon]] 1 Level 7 or lower monster from your opponent's Graveyard face-up to your field.
-  | ja_requirement        = 
-  | ja_lore               = 
-  | jp_sets               = 
+  | ja_name          = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・エンド
+  | romaji_name      = Zetsubōkyōma Deddo Endo
+  | image            = DeadEndtheMadFiendofDespair-RDKP15-JP-OP.png
+  | attribute        = DARK
+  | types            = Fiend / Effect
+  | level            = 8
+  | atk              = 2500
+  | def              = 1200
+  | requirement      = [[Shuffle]] 4 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Destroy]] 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]]. Then, if you have 6 or more monsters with the same [[Attribute]] in your Graveyard, you can [[Special Summon]] 1 Level 7 or lower monster from your opponent's Graveyard face-up to your field.
+  | ja_requirement   = 自分の墓地のモンスター４体をデッキに戻して発動できる。
+  | ja_lore          = 相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地に同じ属性を持つモンスターが６体以上いる場合、相手の墓地のモンスター（レベル７以下）１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  | jp_sets          = 
   RD/KP15-JP033; Red Reboot of Darkness; Ultra Rare, Secret Rare, Over Rush Rare
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | action           = Returns from Graveyard to Deck for cost
+  | m/s/t            = Destroys your opponent's face-up Monster Cards
+  | summoning        = Special Summons from your opponent's Graveyard to your field
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}
