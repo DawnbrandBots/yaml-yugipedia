@@ -13,12 +13,18 @@ wikitext: |-
   | atk              = 2500
   | def              = 2100
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card's name becomes "[[Dark Magician (Rush Duel)|Dark Magician]]" this [[turn]]. Then, you can [[shuffle]] 10 [[Spell Card]]s from your Graveyard into the Deck. If you do, you can [[destroy]] 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = This card's name becomes "[[Dark Magician (Rush Duel)|Dark Magician]]" this [[turn]]. Then, you can [[shuffle]] 10 [[Spell Card]]s from your Graveyard into the Deck. If you do, you can [[destroy]] 1 [[face-up]] [[Level]] 8 or lower [[Monster Card|monster]] on your opponent's [[field]].
+  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このカードのカード名はこのターン、「ブラック・マジシャン」になる。その後、自分の墓地の魔法カード１０枚を選んでデッキに戻す事ができる。戻した場合、さらに相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊できる。
   | jp_sets          = 
   RD/HC01-JP035; High-Grade Collection; Over Rush Rare
   | mentions         = Dark Magician (Rush Duel)
+  | archseries       = Dark Magician (Rush Duel series)
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Returns from your Graveyard to your Deck
+  | stat_change      = Changes own name
+  | m/s/t            = Destroys your opponent's face-up Monster Cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

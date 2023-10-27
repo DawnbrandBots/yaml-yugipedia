@@ -12,18 +12,26 @@ wikitext: |-
   | maximum_atk            = 4000
   | atk                    = 2500
   | def                    = 0
+  | effect_types           = Summoning condition, Effect
   | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Super Galaxy King Lord of Galactica (L)|Super Galaxy King Lord of Galactica [L]]]" and "[[Super Galaxy King Lord of Galactica (R)|Super Galaxy King Lord of Galactica [R]]]".
   | requirement            = During the [[turn]] you [[Normal Summon]]ed this card by [[Tribute|Tributing]] a [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]].
   | lore                   = [[Add a card|Add]] 2 [[Level]] 10 [[Monster Card|monster]]s from your [[Graveyard]] to your [[hand]]. Then, [[return]] this card to the [[owner]]'s hand.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 「超銀河王ロード・オブ・ギャラクティカ［Ｌ］」「超銀河王ロード・オブ・ギャラクティカ［Ｒ］」と揃えてマキシマム召喚できる。
+  | ja_requirement         = 通常モンスター（ギャラクシー族）をリリースしてこのカードを召喚したターンに発動できる。
+  | ja_lore                = 自分の墓地のモンスター（レベル１０）２体を選んで手札に加える。その後、このカードを持ち主の手札に戻す。
   | jp_sets                = 
   RD/HC01-JP038; High-Grade Collection; Over Rush Rare
   | mentions               = 
   * Super Galaxy King Lord of Galactica (L)
   * Super Galaxy King Lord of Galactica (R)
+  | supports               = 
+  * Galaxy (Type)
+  * Normal Monster
   | archseries             = Galactica
+  | action                 = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  * Returns itself from field to hand
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

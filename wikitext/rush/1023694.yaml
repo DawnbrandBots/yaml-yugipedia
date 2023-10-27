@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name             = Super Galaxy King Lord of Galactica (R)
+  | name             = Super Galaxy King Lord of Galactica [R]
   | ja_name          = {{Ruby|超|ちょう}}{{Ruby|銀|ぎん}}{{Ruby|河|が}}{{Ruby|王|おう}}ロード・オブ・ギャラクティカ［{{Ruby|Ｒ|アール}}］
   | romaji_name      = Chōgingaō Rōdo Obu Gyarakutika [Āru]
   | image            = SuperGalaxyKingLordofGalacticaR-RDHC01-JP-OP.png
@@ -15,11 +15,15 @@ wikitext: |-
   | def              = 0
   | requirement      = [[Maximum Mode]]
   | lore             = [[Send]] [[Normal Monster]]s from your [[hand]] to the [[Graveyard]] whose total [[Level]]s equal the Level of 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]]. Then, you can make this card gain [[ATK]] equal to [the ATK of that face-up monster] until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = マキシマムモード
+  | ja_lore          = 相手フィールドの表側表示モンスター１体を選び、レベルの合計がそのモンスターのレベルと同じになるように自分は手札の通常モンスターを墓地へ送る。その後、このカードの攻撃力をターン終了時まで、［選んだ表側表示モンスターの攻撃力］だけアップできる。
   | jp_sets          = 
   RD/HC01-JP039; High-Grade Collection; Over Rush Rare
+  | supports         = Normal Monster
   | archseries       = Galactica
+  | action           = Sends from your hand to your Graveyard
+  | stat_change      = This card gains ATK
+  | misc             = Requires Maximum Mode
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
