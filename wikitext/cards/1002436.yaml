@@ -21,16 +21,16 @@ wikitext: |-
   | def                   = 300
   | password              = 
   | effect_types          = Condition, Ignition, Trigger, Trigger
-  | lore                  = You can only [[Special Summon]] "Geist Grinder Golem(s)" [[once per turn]]. You can reveal 1 "[[Yubel (archetype)|Yubel]]" [[monster]] in your [[hand]]; Special Summon this card from your hand to your opponent's [[field]], then you can Special Summon the revealed monster to your field. Once per turn, if this card [[battle]]s a "Yubel" monster, during [[damage calculation]]: Your opponent gains 3000 [[LP]]. If you Special Summon "[[Yubel]]" while this card is in your [[GY]]: You can Special Summon this card to your opponent's field.
+  | lore                  = You can only [[Special Summon]] "Geist Grinder Golem(s)" [[once per turn]]. You can reveal 1 "[[Yubel (archetype)|Yubel]]" [[monster]] in your [[hand]]; Special Summon this card from your hand to your opponent's [[field]], then you can Special Summon the revealed monster to your field. Once per turn, if this card [[battle]]s a "Yubel" monster, during [[damage calculation]]: Your opponent gains 3000 [[LP]]. If you Special Summon "[[Yubel]]" while this card is in your [[GY]] (except during the [[Damage Step]]): You can Special Summon this card to your opponent's field.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 自分は「ガイストーチ・ゴーレム」を１ターンに１度しか特殊召喚できない。①：手札の「ユベル」モンスター１体を相手に見せて発動できる。このカードを手札から相手フィールドに特殊召喚する。その後、見せたモンスターを自分フィールドに特殊召喚できる。②：１ターンに１度、このカードが「ユベル」モンスターと戦闘を行うダメージ計算時に発動する。相手は３０００ＬＰ回復する。③：このカードが墓地に存在する状態で、自分が「ユベル」を特殊召喚した場合に発動できる。このカードを相手フィールドに特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  PHNI-JP002; Phantom Nightmare; 
+  PHNI-JP002; Phantom Nightmare; Common
   | mentions              = Yubel
   | supports_archetypes   = Yubel (archetype)
   | action                = 
@@ -47,7 +47,6 @@ wikitext: |-
   | misc                  = 
   * Limited activations
   * Requires control of specific card
-  | database_id           = 
+  | database_id           = 19457
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}
