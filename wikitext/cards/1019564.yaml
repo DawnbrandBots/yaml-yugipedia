@@ -1,7 +1,5 @@
 title: Snake-Eyes Populus
 wikitext: |-
-  {{rename|Snake-Eyes Aspen|Aspen trees are part of the ''Populus'' genus, and are also named in the same folk tale as the other "Snake-Eye" monsters.}}
-  {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
@@ -13,13 +11,13 @@ wikitext: |-
   | romaji_name           = Sunēkuaizu Popurusu
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SnakeEyesPopulus-PHNI-JP-OP.png
+  | image                 = SnakeEyesPopulus-PHNI-JP-SR.png
   | attribute             = FIRE
   | types                 = Pyro / Effect
   | level                 = 1
   | atk                   = 700
   | def                   = 200
-  | password              = 
+  | password              = 90241276
   | effect_types          = Trigger, Trigger, Trigger, Condition
   | lore                  = If this card is [[Add a card|added]] to your [[hand]], except by drawing it: You can [[Special Summon]] it. If this card is [[Normal Summon|Normal]] or Special Summoned: You can add 1 "[[Snake-Eye]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[sent]] to the [[GY]]: You can [[target]] 1 [[FIRE]] [[monster]] in your GY; place it [[face-up]] in its owner's [[Spell & Trap Zone]] as a [[Continuous Spell]]. You can only use each [[effect]] of "Snake-Eyes Populus" [[once per turn]].
   | fr_lore               = 
@@ -27,10 +25,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがドロー以外の方法で手札に加わった場合に発動できる。このカードを特殊召喚する。②：このカードが召喚・特殊召喚した場合に発動できる。デッキから「スネークアイ」魔法・罠カード１枚を手札に加える。③：このカードが墓地へ送られた場合、自分の墓地の炎属性モンスター１体を対象として発動できる。そのモンスターを永続魔法カード扱いで元々の持ち主の魔法＆罠ゾーンに表側表示で置く。
   | ko_lore               = 
   | jp_sets               = 
-  PHNI-JP012; Phantom Nightmare;
+  PHNI-JP012; Phantom Nightmare; Super Rare, Secret Rare, Quarter Century Secret Rare
+  PHNI-JP012; Phantom Nightmare +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | supports              = 
   * FIRE
   * Continuous Spell Card
@@ -52,5 +51,4 @@ wikitext: |-
   | misc                  = Only once per turn
   | database_id           = 19467
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Phantasmal Summoning God
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = PhantasmalSummoningBeast-PHNI-JP-OP.png
+  | image                 = PhantasmalSummoningBeast-PHNI-JP-C.png
   | attribute             = DARK
   | types                 = Fiend / Effect
   | level                 = 7
   | atk                   = 0
   | def                   = 0
-  | password              = 
+  | password              = 53134520
   | effect_types          = Ignition, Ignition, Condition
   | lore                  = You can [[Tribute]] this card; [[Add a card|add]] 1 "[[Uria, Lord of Searing Flames]]", "[[Hamon, Lord of Striking Thunder]]", or "[[Raviel, Lord of Phantasms]]" from your [[Main Deck|Deck]] or [[GY]] to your [[hand]], then you can [[Special Summon]] 1 [[Level]] 10 [[Pyro]], [[Thunder]], or [[Fiend]] monster whose [[ATK]] [[Equal ATK and DEF|equals]] its own [[DEF]] from your hand, [[ignoring its Summoning conditions]], but it cannot [[attack directly]] this [[turn]]. You can [[banish]] this card from your GY; add 1 "[[Dimension Fusion Destruction]]" from your Deck to your hand. You can only use each effect of "Phantasmal Summoning Beast" [[once per turn]].
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをリリースして発動できる。「神炎皇ウリア」「降雷皇ハモン」「幻魔皇ラビエル」のいずれか１体を自分のデッキ・墓地から手札に加える。その後、攻撃力と守備力の数値が同じ炎族・雷族・悪魔族のレベル１０モンスター１体を手札から召喚条件を無視して特殊召喚できる。この効果で特殊召喚したモンスターはこのターン直接攻撃できない。②：墓地のこのカードを除外して発動できる。デッキから「次元融合殺」１枚を手札に加える。
   | ko_lore               = 
   | jp_sets               = 
-  PHNI-JP014; Phantom Nightmare; 
+  PHNI-JP014; Phantom Nightmare; Common
   | mentions              = 
   * Uria, Lord of Searing Flames
   * Hamon, Lord of Striking Thunder
@@ -53,7 +53,6 @@ wikitext: |-
   | attack                = Prevents direct attacks
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 19469
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

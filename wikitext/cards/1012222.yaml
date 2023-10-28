@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = MajespecterPorcupineYamaarashi-PHNI-JP-OP.png
+  | image               = MajespecterPorcupineYamaarashi-PHNI-JP-C.png
   | attribute           = WIND
   | types               = Spellcaster / Pendulum / Effect
   | level               = 4
   | pendulum_scale      = 2
   | atk                 = 1500
   | def                 = 1500
-  | password            = 
+  | password            = 51073802
   | effect_types        = Continuous, Condition, Quick, Trigger
   | lore                = While this card is in your [[Monster Zone]], your opponent cannot [[target]] it with card [[effect]]s, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of "Majespecter Porcupine - Yamaarashi" [[once per turn]]. During the [[Main Phase]], if you [[control]] a "[[Majespecter]]" [[monster]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can target 1 "Majespecter" [[Spell]] in your [[GY]]; [[Set]] it.
   | fr_lore             = 
@@ -29,11 +29,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、自分フィールドに「マジェスペクター」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚した場合、自分の墓地の「マジェスペクター」魔法カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。③：このカードがモンスターゾーンに存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  PHNI-JP023; Phantom Nightmare; 
+  PHNI-JP023; Phantom Nightmare; Common
   | archseries          = Majespecter
   | supports_archetypes = Majespecter
   | action              = 
@@ -48,7 +48,6 @@ wikitext: |-
   | misc                = 
   * Only once per turn
   * Requires control of specific archetype
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19478
   | tcg_status          = Not yet released
   }}

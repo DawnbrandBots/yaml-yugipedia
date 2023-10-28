@@ -1,6 +1,5 @@
 title: Majespecter Draco
 wikitext: |-
-  {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
@@ -14,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = MajespecterDraco-PHNI-JP-OP.png
+  | image                 = MajespecterDraco-PHNI-JP-UR.png
   | attribute             = WIND
   | types                 = Spellcaster / Xyz / Pendulum / Effect
   | rank                  = 4
   | pendulum_scale        = 5
   | atk                   = 2300
   | def                   = 2000
-  | password              = 
+  | password              = 03594985
   | materials             = 2 Level 4 monsters
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Trigger, Condition, Trigger
@@ -37,8 +36,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンに「マジェスペクター」カードか「竜剣士」カードが存在する場合に発動できる。デッキから「マジェスペクター」カード１枚を手札に加える。その後、自分のＰゾーンのカード１枚を破壊できる。
+  | ja_lore               = レベル４モンスター×２<br />レベル４がＰ召喚可能な場合にＥＸデッキの表側のこのカードはＰ召喚できる。このカード名の①のモンスター効果は１ターンに２度まで使用できる。①：このカードがモンスターゾーンに存在する状態で、モンスターがリリースされた場合、このカードのＸ素材を１つ取り除いて発動できる。デッキからレベル６以下の魔法使い族・風属性モンスター１体を特殊召喚する。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合、またはリリースされた場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
@@ -71,6 +70,5 @@ wikitext: |-
   * Only once per turn
   * Only twice per turn
   | database_id           = 19504
-  | ocg_status            = Not yet released
   | tcg_status            = Not yet released
   }}

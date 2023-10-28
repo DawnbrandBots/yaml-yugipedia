@@ -12,10 +12,10 @@ wikitext: |-
   | romaji_name         = Aroma Hīringu
   | ko_name             = 
   | ko_rr_name          = 
-  | image               = AromaHealing-PHNI-JP-OP.png
+  | image               = AromaHealing-PHNI-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 12804701
   | effect_types        = Effect, Quick-like, Condition
   | lore                = Gain 1000 [[LP]] for each "[[Aroma]]" [[monster]] with different names you [[control]]. You can [[banish]] this card from your [[GY]], then [[target]] 1 "Aroma" monster in your GY; [[Special Summon]] it (but [[banish]] it when it [[leaves the field]]), then gain 500 LP. You can only use 1 "Aroma Healing" [[effect]] per [[turn]], and [[Only 1 effect once per turn|only once that turn]].
   | fr_lore             = 
@@ -23,10 +23,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分は自分フィールドの「アロマ」モンスターの種類×１０００ＬＰ回復する。②：墓地のこのカードを除外し、自分の墓地の「アロマ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。その後、自分は５００ＬＰ回復する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
   | ko_lore             = 
   | jp_sets             = 
-  PHNI-JP077; Phantom Nightmare; 
+  PHNI-JP077; Phantom Nightmare; Common
   | archseries          = Aroma
   | supports_archetypes = Aroma
   | summoning           = Special Summons from your Graveyard
@@ -37,7 +37,6 @@ wikitext: |-
   | misc                = 
   * Requires control of specific archetype
   * Only 1 effect once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19532
   | tcg_status          = Not yet released
   }}

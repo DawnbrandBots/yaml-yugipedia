@@ -11,10 +11,10 @@ wikitext: |-
   | romaji_name           = Jibaku Yūgō
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = EarthboundFusion-PHNI-JP-OP.png
+  | image                 = EarthboundFusion-PHNI-JP-C.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 99599062
   | effect_types          = Effect, Condition, Ignition-like, Condition
   | lore                  = [[Fusion Summon]] 1 [[DARK]] [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[hand]] or [[field]] as [[Fusion Material|material]]. You can only [[activate]] this card during the [[Main Phase]], unless a card is in a [[Field Zone]]. During your Main Phase, if a card is in a Field Zone: You can [[banish]] this card from your [[GY]]; [[Special Summon]] 1 "[[Earthbound]]" monster from your hand or [[GY]], also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except Fusion and [[Synchro Monster]]s. You can only use this [[effect]] of "Earthbound Fusion" once per turn.
   | fr_lore               = 
@@ -22,10 +22,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。このカードはフィールドゾーンにカードが存在しない場合、自分・相手のメインフェイズにしか発動できない。①：自分の手札・フィールドのモンスターを融合素材とし、闇属性の融合モンスター１体を融合召喚する。②：フィールドゾーンにカードが存在する場合、自分メインフェイズに墓地のこのカードを除外して発動できる。自分の手札・墓地から「地縛」モンスター１体を特殊召喚する。このターン、自分は融合・ＳモンスターしかＥＸデッキから特殊召喚できない。
   | ko_lore               = 
   | jp_sets               = 
-  PHNI-JP064; Phantom Nightmare; 
+  PHNI-JP064; Phantom Nightmare; Common
   | supports              = 
   * DARK
   * Fusion Monster
@@ -48,7 +48,6 @@ wikitext: |-
   * Restricts the player's Special Summons from the Extra Deck
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19519
   | tcg_status            = Not yet released
   }}

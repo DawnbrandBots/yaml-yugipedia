@@ -12,13 +12,13 @@ wikitext: |-
   | romaji_name           = Memento Uramon
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = MementoAtticGhost-PHNI-JP-OP.png
+  | image                 = MementoAtticGhost-PHNI-JP-C.png
   | attribute             = DARK
   | types                 = Fiend / Effect
   | level                 = 2
   | atk                   = 550
   | def                   = 400
-  | password              = 
+  | password              = 52918032
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 "[[Memento]]" card in your [[GY]], except "Memento Attic Ghost"; [[Add a card|add]] it to your [[hand]]. If this card is [[sent]] to the GY by a "Memento" monster's effect: You can Special Summon this card. You can only use each [[effect]] of "Memento Attic Ghost" [[once per turn]].
   | fr_lore               = 
@@ -26,10 +26,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、「メメント・ウラモン」以外の自分の墓地の「メメント」カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが「メメント」モンスターの効果で墓地へ送られた場合に発動できる。このカードを特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  PHNI-JP017; Phantom Nightmare; 
+  PHNI-JP017; Phantom Nightmare; Common
   | mentions              = Memento Attic Ghost
   | archseries            = Memento
   | related_to_archseries = Kuriboh (archetype)
@@ -42,7 +42,6 @@ wikitext: |-
   * Activates from your Graveyard
   | summoning             = Special Summons itself from your Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 19472
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

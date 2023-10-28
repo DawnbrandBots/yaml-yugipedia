@@ -19,7 +19,7 @@ wikitext: |-
   | level               = 4
   | atk                 = 1600
   | def                 = 500
-  | password            = 
+  | password            = 99707692
   | effect_types        = Ignition, Ignition, Condition
   | lore                = During your [[Main Phase]], if this card was [[Normal Summon|Normal]] or [[Special Summon]]ed this [[turn]]: You can [[target]] 1 "[[Raidraptor]]" [[monster]] you [[control]]; [[add]] 1 "Raidraptor" monster with a different [[Level]] from your [[Deck]] to your [[hand]]. You can [[banish]] this card from your [[GY]]; increase or decrease the Levels of all "Raidraptor" monsters you currently control by 1. You can only use each [[effect]] of "Raidraptor - Noir Lanius" [[once per turn]].
   | fr_lore             = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚したターンの自分メインフェイズに、自分フィールドの「ＲＲ」モンスター１体を対象として発動できる。そのモンスターとはレベルが異なる「ＲＲ」モンスター１体をデッキから手札に加える。②：墓地のこのカードを除外して発動できる。自分フィールドの「ＲＲ」モンスターのレベルを全て１つ上げるか全て１つ下げる。
   | ko_lore             = 
   | jp_sets             = 
-  PHNI-JP004; Phantom Nightmare; 
+  PHNI-JP004; Phantom Nightmare; Common
   | archseries          = Raidraptor
   | supports_archetypes = Raidraptor
   | action              = 
@@ -45,7 +45,6 @@ wikitext: |-
   | misc                = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 19459
   | tcg_status          = Not yet released
   }}
