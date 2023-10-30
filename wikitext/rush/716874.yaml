@@ -3,28 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name           = {{Ruby|鋼|こう}}{{Ruby|鉄|てつ}}{{Ruby|馬|ば}}マーチン・ヴァイナリー
-  | romaji_name       = Kōtetsuba Māchin Vainarī
-  | ko_name           = 강철마 마틴 바이너리
-  | image             = SteelSteedMartinVinary-RDLGP1-JP-R.png
-  | attribute         = EARTH
-  | types             = Machine / Effect
-  | level             = 7
-  | atk               = 2400
-  | def               = 1700
-  | requirement       = None
-  | lore              = Toss a coin a number of times equal to [the number of [[face-up]] [[monsters]] on your opponent's [[field]]]. If at least 1 of the results is heads, this card can [[attack]] twice this [[turn]]. Then, if 3 of the results are heads, this card inflicts [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference), if it attacks a [[Defense Position]] monster this turn.
-  | ja_requirement    = なし
-  | ja_lore           = ［相手フィールドの表側表示モンスターの数］だけコイントスを行う。その内１回以上が表だった場合、このターン、このカードは２回攻撃できる。その内３回とも表だった場合、さらにこのターン、このカードの攻撃は貫通する。
-  | ko_requirement    = 없음
-  | ko_lore           = [상대 필드의 앞면 표시 몬스터의 수]만큼 코인 토스를 실행한다. 그 중 1회 이상이 앞면인 경우, 이 턴에, 이 카드는 2회 공격할 수 있다. 그 중 3회 모두 앞면인 경우, 추가로 이 턴에, 이 카드의 공격은 관통한다.
-  | jp_sets           = 
+  | ja_name        = {{Ruby|鋼|こう}}{{Ruby|鉄|てつ}}{{Ruby|馬|ば}}マーチン・ヴァイナリー
+  | romaji_name    = Kōtetsuba Māchin Vainarī
+  | ko_name        = 강철마 마틴 바이너리
+  | image          = SteelSteedMartinVinary-RDLGP1-JP-R.png
+  | attribute      = EARTH
+  | types          = Machine / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 1700
+  | requirement    = None
+  | lore           = Toss a coin a number of times equal to [the number of [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]]]. If at least 1 of the results is heads, this card can [[attack]] twice during this [[turn]]. Then, if 3 of the results are heads, this card [[Damage|inflict]]s [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference), if it attacks a [[Defense Position]] monster this turn.
+  | ja_requirement = なし
+  | ja_lore        = ［相手フィールドの表側表示モンスターの数］だけコイントスを行う。その内１回以上が表だった場合、このターン、このカードは２回攻撃できる。その内３回とも表だった場合、さらにこのターン、このカードの攻撃は貫通する。
+  | ko_requirement = 없음
+  | ko_lore        = [상대 필드의 앞면 표시 몬스터의 수]만큼 코인 토스를 실행한다. 그 중 1회 이상이 앞면인 경우, 이 턴에, 이 카드는 2회 공격할 수 있다. 그 중 3회 모두 앞면인 경우, 추가로 이 턴에, 이 카드의 공격은 관통한다.
+  | jp_sets        = 
   RD/LGP1-JP016; Legend Awakening Pack; Rare
-  | kr_sets           = 
+  | kr_sets        = 
   RD/LGP1-KR016; Legend Awakening Pack; Rare
-  | attack            = 
+  | attack         = 
   * Multiple attacker
   * Piercing
-  | misc              = Coin toss
-  | database_id       = 18694
+  | misc           = Coin toss
+  | database_id    = 18694
   }}
