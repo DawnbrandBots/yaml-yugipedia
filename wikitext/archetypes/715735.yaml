@@ -193,125 +193,82 @@ wikitext: |-
   |}
 
   ==Playing style==
-  "Magistus" is an archetype focused on summoning Level 4 Spellcasters, using them to perform [[Fusion Summon|Fusion]], [[Synchro Summon|Synchro]], [[Xyz Summon|Xyz]], and [[Link Summon|Link]] summons, and equipping "Magistus" monsters with Extra Deck "Magistus" monsters to grant beneficial effects.
+  "Magistus" is an archetype focused on summoning Level 4 Spellcasters, using them to perform [[Fusion Summon|Fusion]], [[Synchro Summon|Synchro]], [[Xyz Summon|Xyz]], and [[Link Summon|Link]] summons, and equipping "Magistus" monsters with Extra Deck "Magistus" monsters for beneficial effects.
 
-  The "Magistus" archetype contains 4 Main Deck Level 4 Spellcaster monsters. All "Magistus" Main Deck monsters have individual effects and a shared effect involving equipping "Magistus" monsters with "Magistus" Extra Deck monsters.
-  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Magistus Effects}}
+  All "Magistus" Main Deck monsters are Level 4 Spellcasters, each with individual effect(s) and a shared effect that equips "Magistus" monsters with "Magistus" Extra Deck monsters.
+
+  {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   ! Magistus
   ! Equip effect
   ! Individual effect
-  ! Notes
   |-
   | [[Zoroa, the Magistus of Flame|Zoroa]]
-  | rowspan = 2 | Equip 1 friendly "Magistus" monster with 1 [Extra Deck] "Magistus" monster in the [[Extra Deck]].
-  | If this card becomes equipped with a "Magistus" monster, Special Summon 1 Level 4 Spellcaster from Hand/GY (in Defense, except "Zoroa", effects negated).
-  |
-  * Important combo extender, able to set up Synchro{{efn|"Zoroa" is the archetype's sole [[Tuner monster]].}} or Xyz summons by itself.
+  | rowspan = 2 | (Activate on field) Equip an ED "Magistus" in the [[Extra Deck]].
+  | Field swarming
   |-
   | [[Endymion, the Magistus of Mastery|Endymion]]
-  | Destroy 1 friendly face-up Spell, draw 1 card, then return 1 card from hand to Deck.
-  |
-  * Situational hand-fixing.
+  | Mulligan with cost
   |-
   | [[Crowley, the Magistus of Grimoires|Crowley]]
-  | rowspan = 2 | ([[Banish]] this card from GY,)<br/>Equip 1 friendly "Magistus" monster with 1 [Extra Deck]{{efn|Technically, the monster being equipped is a non-Level 4 "Magistus" monster. However, because all Main Deck "Magistus" monsters are Level 4, while all Extra Deck "Magistus" monsters are not, this effect can only equip Extra Deck "Magistus" monsters in the GY.}} "Magistus" monster in the [[GY]].
-  |
-  * Send 1 Spellcaster from Hand/face-up field to GY, Special Summon this card from Hand.
-  * Change this card's Attribute this turn.
-  |
-  * Searchable Special Summon extender.
-  * Attribute changing effect is irrelevant for in-archetype combos, but may be useful for external combos.
+  | rowspan = 2 | (Activate in [[GY]]) Equip an ED "Magistus" in the [[Graveyard]].{{efn|Technically, the monster being equipped is a non-Level 4 "Magistus" monster. However, because all Main Deck "Magistus" monsters are Level 4, while all Extra Deck "Magistus" monsters are not, this effect can only equip Extra Deck "Magistus" monsters in the GY.}}
+  | Extension with cost / [[Changes own Attribute|change attribute]]
   |-
   | [[Rilliona, the Magistus of Verre|Rilliona]]
-  |
-  * If Summoned:
-  ** Search 1 "Magistus" Spell/Trap, or
-  ** Return 1 Level ≤4 Spellcaster from banish pile to GY.
-  |
-  * Important searcher. Can search for extension ("[[Trismagistus]]", "[[Magistus Vritra]]") or "[[Magistus Invocation]]" for Fusion setups.
-  * Second effect is situationally useful to extend the grind game by returning banished "Magistus" monsters to the GY for more activations.
+  | Search "Magistus" Spell/Traps / recover from banished
   |}
-  The "Magistus" archetype contains multiple Extra Deck monsters of various [[Monster card type]]s, including [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]] (all Level 8), [[Xyz Monster|Xyz]] (all Rank 4), and [[Link Monster]]s. With the exception of "[[Zoroa, the Magistus Conflagrant Calamity]]", each "Magistus" Extra Deck monster has one or more effects that are only usable when they're equipped to any monster as an [[Equip Card]], along with normal monster effects usable when they're summoned.
 
-  The "Magistus" Extra Deck monsters' Equip effects provide either [[Continuous-like Effect|Continuous]] protection or [[Ignition-like Effect|Ignition]] searching and removal. Among these Equip effects, the Ignition searching effect of "Artemis" the most important, as it generates free advantage, while the other equip effects are far more situational.
-  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Magistus Extra Deck Equip Effects}}
+  "Magistus" Extra Deck monsters cover multiple [[monster card type]]s, including [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]] (all Level 8), [[Xyz Monster|Xyz]] (all Rank 4), and [[Link Monster|Link]]. With the exception of [[Zoroa, the Magistus Conflagrant Calamity|Synchro Zoroa]], each "Magistus" Extra Deck monster can apply effects ([[Continuous-like Effect|continuous]] and/or activated) when Equipped as [[Equip Card]]s, alongside normal monster effects.
+
+  {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   ! rowspan = 2 | Magistus
+  ! rowspan = 2 | [[Monster card type|Type]]
   ! colspan = 2 | Equip Effects
+  ! rowspan = 2 | Monster Effects
   |-
   ! [[Continuous-like Effect|Continuous]]
-  ! [[Ignition-like Effect|Ignition]]
-  |-
-  | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
-  | The equipped monster gains 1000 ATK/DEF.
-  | -
-  |-
-  | [[Vahram, the Magistus Divinity Dragon|Vahram]]
-  | The equipped monster cannot be destroyed by your opponent's Spell/Trap effects.
-  | At the start of the Damage Step, if the monster this card is equipped to battles an opponent's monster: You can destroy that opponent's monster.
-  |-
-  | [[Ninaruru, the Magistus Glass Goddess|Ninaruru]]
-  | The equipped monster can make up to 2 attacks on monsters during each Battle Phase.
-  | You can target 1 "Magistus" card in your Spell & Trap Zone and 1 Spell/Trap your opponent controls; destroy them.
-  |-
-  | [[Rilliona, the Wondrous Magistus Witch Wardrobe|Rilliona (powered)]]
-  | -
-  | You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn.
-  |-
-  | [[Artemis, the Magistus Moon Maiden|Artemis]]
-  | -
-  | You can add 1 "Magistus" monster from your Deck to your hand.
-  |}
-  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Magistus Extra Deck Monster Effects}}
-  ! Magistus
-  ! Type
-  ! Effect
-  ! Notes
+  ! Activated
   |-
   | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
   | [[Fusion Monster|Fusion]]
-  | In the Main Phase (Quick Effect): Equip this card to 1 other monster.<br/>If it was an opponent's monster, take control of it (it cannot activate its effects).
-  |
-  * Powerful Quick Effect disruption.
-  * Being a Fusion Monster, it requires more setup to make compared to other Extra Deck monsters.
+  | Gives + 1000 ATK/DEF
+  | -
+  | Spell Speed 2 monster steal
   |-
   | [[Vahram, the Magistus Divinity Dragon|Vahram]]
   | [[Synchro Monster|Synchro]]
-  | If this Synchro Summoned card is destroyed, destroy all opposing face-up cards.
-  |
-  * Highly situational "last resort" board clearer.
+  | Gives protection against Spell/Trap destruction
+  | Damage step monster removal
+  | Board wipe when destroyed
   |-
   | [[Zoroa, the Magistus Conflagrant Calamity|Zoroa (powered)]]
   | [[Synchro Monster|Synchro]]
-  |
-  * If this card is Synchro Summoned, equip 1 "Magistus" monster from Extra Deck to this card.
-  * Your opponent cannot activate the effects of monsters with the same card type as a "Magistus" Monster Card in your S/T Zone.
-  * If this card is in your GY, target and destroy 1 friendly "Magistus" card, and Special Summon this card.
-  |
-  * Main boss monster of the deck. Second effect provides Extra Deck suppression, while third effect provides self-revival on the crackback.
+  | -
+  | -
+  | Equip from Extra Deck, anti-Extra Deck effect floodgate, and GY self-revival
   |-
   | [[Ninaruru, the Magistus Glass Goddess|Ninaruru]]
   | [[Xyz Monster|Xyz]]
-  | Detach 1 material, add 1 Level ≥4 Spellcaster monster from GY to hand.
-  |
-  * Situational recovery. Usually superseded by the GY revival effect of [[Zoroa, the Magistus of Flame|Zoroa]], but may be useful for external combos.
+  | Gives [[Allows multiple attacks on monsters|2 attacks on monsters]]
+  | Spell/Trap removal with cost
+  | GY recovery
   |-
   | [[Rilliona, the Wondrous Magistus Witch Wardrobe|Rilliona (powered)]]
   | [[Xyz Monster|Xyz]]
-  | Detach 1 material, Special Summon 1 "Magistus" monster from Deck.<br/>(Applies Extra Deck Special Summoning restriction for rest of turn, to "Magistus" monsters only)
-  |
-  * Powerful Extra Deck consistency tool. Greatly increases the Deck's consistency, at the cost of limiting the player's potential boss options.
+  | -
+  | Spell Speed 1 monster negate
+  | Summon from Deck. Applies ED [[xenolock|lock]]
   |-
   | [[Artemis, the Magistus Moon Maiden|Artemis]]
   | [[Link Monster|Link]]
-  |
-  * Can only be Special Summoned once per turn.
-  * If another "Magistus" monster is summoned, equip this card to it.
-  | 
-  * Situational combo enabler.
+  | -
+  | Search "Magistus" monsters
+  | Equip to another "Magistus"
   |}
+
+  "Magistus" Spell/Traps provide varied utility and combo tools, including Special Summons from hand ("[[Trismagistus]]"), more ED equipping ("[[Magistus Theurgy]]"), Fusion Summoning ("[[Magistus Invocation]]"), and GY revival ("[[Magistus Vritra]]")
+
+  Generally, the deck aims to go first, and use its core searchers (Xyz "Rilliona" in particular, but also Main Deck "Rilliona" and "Artemis") and combo enablers ("Magistus" S/T, Main Deck "Zoroa") to turbo out Synchro "Zoroa", who acts as a floodgating boss monster; good hands can sometimes also allow an "Aiwass" to be summoned for an extra disruption.
+
   The deck has good consistency and recursion, but average boss monsters, and thus often has to be supported by other decks such as "[[Invoked]]" or "[[Dogmatika]]", who also feature Level 4 Spellcaster monsters. Rather unsurprisingly, "Crowley" has synergies with the "Invoked" archetype, with his effect being able to support the Fusion Summon of "Invoked" monsters. "Crowley" can also be used to change its Attribute to WATER and overlay with "Endymion" into "[[Bahamut Shark]]" to make a "[[Toadally Awesome]]". Other generic [[Rank 4]] options may be a good idea to look into for potential synergies.
 
   ===Recommended cards===
