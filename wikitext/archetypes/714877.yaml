@@ -105,10 +105,8 @@ wikitext: |-
   All "Exosister" Main Deck monsters have two effects: a shared 1-card-Xyz [[Trigger Effect]] that can be used if a card is moved out of a GY, and an individual effect.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Shared 1-card-Xyz effect}}
-  ! rowspan = 2 | Exosister
-  ! colspan = 2 | Effect summary
-  |-
+  |+ {{nowrap|Shared effect}}
+  ! Exosister
   ! Trigger Condition
   ! Effect
   |-
@@ -125,35 +123,32 @@ wikitext: |-
   | [[Exosister Martha|Martha]]
   | [If <u>either player</u> moves a card out of either GY,]
   |}
-
-  The shared 1-card-Xyz effect allows Main Deck "Exosister" monsters to immediately turn into Xyz boss monsters (see below) with disruptive or suppressive effects if the opponent moves any card out of either GY.
-
-  The condition of "the opponent moving a card out of either GY" can be triggered by the opponent moving cards via a card's [[cost]], [[effect]], or [[Summoning condition]]s (e.g. "[[ABC-Dragon Buster]]"). The opponent must be involved in the action; if the "Exosister" monster's controller moves a card out of their opponent's GY (e.g.: with "[[D.D. Crow]]"), this effect will not trigger.
-
   {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Individual effects summary}}
+  |+ {{nowrap|Individual effects}}
   ! Exosister
   ! Effect summary
-  ! Notes
+  ! Role
   |-
   | [[Exosister Elis|Elis]]
-  | rowspan = 2 | Conditionally Special Summon 1 "Exosister" from hand
-  | rowspan = 2 | Situational extension effects.
+  | rowspan = 2 | Conditionally summons 1 "Exosister" from hand
+  | rowspan = 2 | Extension
   |-
   | [[Exosister Stella|Stella]]
   |-
   | [[Exosister Irene|Irene]]
   | rowspan = 2 | Conditional card draw/cycling
-  | rowspan = 2 | Situational hand fixing effects.
+  | rowspan = 2 | Hand fixing
   |-
   | [[Exosister Sophia|Sophia]]
   |-
   | [[Exosister Martha|Martha]]
-  | Special Summons itself from hand and "Elis" from the Deck, with restrictive conditions:
-  * the player must control no monsters or only Xyz Monsters to activate this effect
-  * the player is locked into only Special Summoning "Exosister" monsters for the turn
-  | Vitally important 1-card combo starter; core of the Deck's combos.
+  | Summons itself from hand & "Elis" from Deck, with restrictive activation conditions:
+  * the player must control no monsters or only Xyz Monsters
+  * the player must only Special Summon "Exosister" monsters this turn
+  | Double extension
   |}
+
+  The shared 1-card-Xyz effect allows Main Deck "Exosister" monsters to immediately turn into Xyz boss monsters (see below) with board control effects, even in the opponent's turn, if the opponent moves any card out of either GY. The condition of "the opponent moving a card out of either GY" can be triggered by the opponent moving cards via a card's [[cost]], [[effect]], or [[Summoning condition]]s (e.g. "[[ABC-Dragon Buster]]"). The opponent must be involved in the action; if the "Exosister" monster's controller moves a card out of their opponent's GY (e.g.: with "[[D.D. Crow]]"), this effect will not trigger.
 
   Each Rank 4 "Exosister" Xyz Monster has 3 effects:
   * A [[Continuous Effect]] that protects against monsters Special Summoned from the GY
@@ -167,28 +162,28 @@ wikitext: |-
   ! Ignition
   |-
   | [[Exosister Mikailis|Mikailis]]
-  | rowspan = 2 | Cannot be destroyed by battle with a monster summoned from GY.
-  | (Quick) Target 1 card in the opponent's field/GY; banish it.
+  | rowspan = 2 | Battle protection against revived monsters.
+  | Banish 1 card.
   | Search 1 "Exosister" Spell/Trap.
   |-
   | [[Exosister Kaspitell|Kaspitell]]
-  | (Trigger) Neither player can summon monsters from the GYs this turn.
+  | GY summon lingering floodgate.
   | Search 1 "Exosister" monster.
   |-
   | [[Exosister Gibrine|Gibrine]]
-  | rowspan = 2 | Cannot be destroyed by the activated effects of monsters summoned from GY. 
-  | (Quick) Target 1 opposing Effect Monster; negate its effects this turn.
-  | All friendly Xyz Monsters gain 800 ATK this turn.
+  | rowspan = 2 | Effect destruction protection against revived monsters.
+  | Negate 1 monster.
+  | Friendly Xyz Monsters gain 800 ATK.
   |-
   | [[Exosister Asophiel|Asophiel]]
-  | (Trigger) Neither player can activate card effects in the GY this turn.
-  | Target 1 opposing monster; return it to the hand.
+  | GY effect lingering floodgate.
+  | [[List of unofficial terms#Bounce|Bounce]] 1 monster.
   |}
-  The Rank 8 "[[Exosisters Magnifica]]" requires 2 "Exosister" Rank 4 Xyz monsters to summon, and cannot be summoned by "Exosister" 1-card-Xyz effects. It has double attack, Quick Effect (non-targeting) banish, and Quick Effect 1-card-Xyz effects, making for a potent game finisher.
+  The Rank 8 "[[Exosisters Magnifica]]" is the deck's ultimate boss monster, requiring 2 "Exosister" Rank 4 Xyz Monsters to summon, and cannot be summoned by "Exosister" 1-card-Xyz effects. It has potent board control and OTK effects, having double attack, Quick Effect (non-targeting) banish, and a Quick Effect to 1-card-Xyz one of its materials.
 
   "Exosister" Spell/Traps provide diverse removal, utility, and consistency options. "[[Exosister Pax|Pax]]" provides Spell Speed 2 searching and conditional special summoning. "[[Exosister Arment|Arment]]" provides a conditional Spell Speed 2 manual 1-card Xyz effect. "[[Exosister Carpedivem|Carpedivem]]" provides Continuous protection, conditional "[[Prohibition]]" effect, and S/T removal. "[[Exosister Vadis|Vadis]]" is a trap that special summons 2 "Exosister" monsters from Deck with return-to-deck restrictions, incentivizing the player to time the trap's activation correctly and immediately use the summoned monsters' effects to perform 1-card-Xyz summons. "[[Exosister Returnia|Returnia]]" provides targeted banish removal, and provides additional combo or removal if conditions are met.
 
-  "Exosister" setup combos focus on swarming Level 4 Spellcaster monsters, in order to summon "[[Exosister Mikailis]]" and search for a S/T for use as disruption on the opponent's turn (typically "[[Exosister Returnia|Returnia]]"). If possible, the Deck will typically extend into another "Exosister" Xyz monster to then summon "[[Exosisters Magnifica]]" for more disruptions. "[[Exosister Martha]]", with its double summon effect, thus becomes central to the swarming strategy; it is searchable by "[[Exosister Kaspitell]]", so making a single "Kaspitell" guarantees the full combo of summoning "Mikailis" and then "Magnifica".
+  "Exosister" setup combos generally focus on swarming Level 4 monsters to set up disruptions, via the Spell/Traps searched by "[[Exosister Mikailis|Mikailis]]" and the on-field effects of "[[Exosisters Magnifica|Magnifica]]". "[[Exosister Martha|Martha]]", with its double summon effect, is key to the Level 4 swarming; it is searchable by "[[Exosister Kaspitell|Kaspitell]]", so summoning a single "Kaspitell" guarantees the full combo of summoning "Mikailis" and then "Magnifica".
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -203,6 +198,7 @@ wikitext: |-
   * [[Diana the Light Spirit]]
   * [[Honest]]
   * [[Photon Delta Wing]]
+  * [[Sakitama]]
   |tuner monsters =
   * [[Zoroa, the Magistus of Flame]]
   |xyz monsters =
