@@ -12,12 +12,18 @@ wikitext: |-
   | atk               = 600
   | def               = 800
   | requirement       = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore              = [[Add a card|Add]] 1 [[EARTH]] [[Attribute]] [[Dragon]] [[Type]] [[monster]] with 1800 [[ATK]] from your [[Graveyard]] to your [[hand]].
-  | ja_requirement    = 
-  | ja_lore           = 
+  | lore              = [[Add a card|Add]] 1 [[EARTH]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]] with 1800 [[ATK]] from your [[Graveyard]] to your [[hand]].
+  | ja_requirement    = このカードを召喚したターンに発動できる。
+  | ja_lore           = 自分の墓地のモンスター（地属性／ドラゴン族／攻撃力１８００）１体を選んで手札に加える。
   | jp_sets           = 
   RD/KP15-JP024; Red Reboot of Darkness; Common
+  | supports          = 
+  * EARTH
+  * Dragon
   | archseries        = Red-Eyes (Rush Duel)
+  | action            = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
   | database_id       = 
   | rush_duel_status  = Not yet released
   }}

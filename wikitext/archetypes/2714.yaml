@@ -122,18 +122,13 @@ wikitext: |-
   |}
 
   ==Playing style==
-  "Dark World" cards are generally intended to gain advantage by [[Summon]]ing, [[Searcher|searching]] and [[destroy]]ing cards when they are [[discard]]ed from the [[hand]] by a card effect. (They do not activate if discarded as a cost, such as with "[[Knightmare]]" monsters.) This results in a playstyle that can rapidly and aggressively [[swarm]] the [[field]] and overwhelm the opponent by disrupting their card advantage. The deck's main boss monster, "[[Grapha, Dragon Lord of Dark World]]", destroys cards when it is discarded and has the ability to [[Special Summon]] itself from the [[GY]]; coupled with its high [[ATK]], it is the key card in any "Dark World" Deck. In addition, "[[Snoww, Unlight of Dark World]]" and "[[Reign-Beaux, Overking of Dark World]]" can provide quick searching and [[Deck]] thinning, allowing the archetype to get whichever card is needed for the situation; the latter also has the ability to Special Summon itself from the GY.
+  "Dark World" is a discard-focused archetype; almost all of its monsters have [[Trigger Effect]]s that provide advantage when they are when they are [[discard]]ed from the [[hand]] by a card [[effect]] (and importantly, not when they are discarded a cost, such as with "[[Knightmare]]" monsters), and provide additional advantage when said discard effect was an opponent's effect.
 
-  In order to enable their effects, "Dark World" Decks use multiple cards with effects to discard cards while gaining additional advantage. "[[Dark World Dealings]]" and their [[Field Spell Card]] "[[The Gates of Dark World]]" are some of their most versatile cards for discarding, while other cards like "[[Charge Into a Dark World]]" or "[[Dark Smog]]" provide additional field presence and disruptive banishing, respectively. The archetype also benefits from some non-archetypal [[Extra Deck]] monsters that can discard cards, such as "[[Muckraker From the Underworld]]" and "[[Number 60: Dugares the Timeless]]", as well as other archetypes that focus on discarding, such as the "[[Danger!]]" archetype.
+  While earlier "Dark World" decks are [[beatdown]] decks revolving around "[[Grapha, Dragon Lord of Dark World]]", most "Dark World" decks in 2023 are combo decks focused on [[swarm]]ing monsters to make generic Extra Deck boss monsters and [[handloop]] the opponent with "[[Sillva, Warlord of Dark World]]".
 
-  Many "Dark World" monsters also gain extra effects if discarded by an opponent's effect. This can be achieved by Summoning "[[Ceruli, Guru of Dark World]]" to their field, at which point its mandatory effect activates and allows the "Dark World" player to discard a card; as it is on the opponent's field, it is counted as a discard by an opponent's effect. It can also be achieved by using a card that changes an opponent's card effect to one that causes the player to discard, such as "[[Dark World Brainwashing]]", "[[Dark Deal]]", and their main [[Fusion Monster]], "[[Grapha, Dragon Overlord of Dark World]]".
-
-  Since the archetype's two strongest [[Main Deck]] monsters are Level 8 and can Special Summon themselves, Rank 8 monsters can also be included. "[[Coach King Giantrainer]]" can be helpful, since it can draw 3 cards and putting all of those monsters back in the GY to allow them to Summon themselves again.
-
-  ===Discard effects===
-  This section shows which effects are activated when a "Dark World" monster is discarded, and the additional effect that applies when it was discarded by an opponent's card.
+  The main "Dark World" monster discard trigger effects are as follows:
   <!-- This is not a Decklist. Please only add "Dark World" monsters with effects that activate under conditions in which it was discarded.-->
-  {| class="wikitable"
+  {| class="wikitable" style="text-align: center"
   ! rowspan="2" | Dark World
   ! colspan="2" | [[Effect]] after being [[discard]]ed by…
   |-
@@ -141,56 +136,89 @@ wikitext: |-
   ! an ''opponent's'' card effect
   |-
   | [[Reign-Beaux, Overking of Dark World|Reign-Beaux (Overking)]]
-  | Adds 1 Level 5 or higher "Dark World" monster from the Deck to the hand, except "Reign-Beaux, Overking of Dark World".
-  | Special Summons 1 Level 4 or lower "Dark World" monster from the Deck or GY to either player's field.
+  | Search 1 high level "Dark World".<ref group="lower-alpha" name="ExceptItself"/>
+  | Summon 1 low level "Dark World" from Deck/GY to either field.
   |-
   | [[Reign-Beaux, Overlord of Dark World|Reign-Beaux (Overlord)]]
-  | N/A
-  | Special Summons itself, then destroys all of the opponent's monsters OR Spells/Traps.
+  | —
+  | Summon itself.<ref group="lower-alpha" name="SummonTriggerEffect"/>
   |-
   | [[Broww, Huntsman of Dark World|Broww]]
-  | [[Draw a card|Draw]] 1 card.
-  | Draw 1 more card (simultaneously, in addition to the 1st effect).
+  | [[Draw a card|Draw]] 1.
+  | Draw 1.
   |-
   | [[Grapha, Dragon Lord of Dark World|Grapha]]
-  | Destroys a card the opponent controls.
-  | Looks at 1 random card in your opponent's [[hand]]; if it is a monster, that monster can be Special Summoned to the player's field.
+  | Destroy 1 card.
+  | (Chance to) Summon 1 monster from opponent's [[hand]] to player's field.
   |-
   | [[Parl, Hermit of Dark World|Parl]]
-  | Target 1 "Dark World" monster in your GY, except "Parl, Hermit of Dark World"; Special Summon it to either field.
-  | You can Special Summon 1 of your Fiend monsters that is banished, in your hand, or in your GY to either field.
+  | Summon 1 "Dark World" from GY<ref group="lower-alpha" name="ExceptItself"/> to either field.
+  | Summon 1 Fiend from banished/hand/GY to either field.
   |-
   | [[Snoww, Unlight of Dark World|Snoww]]
-  | Adds a "Dark World" card from the Deck to the hand.
-  | Special Summons a monster from the opponent's Graveyard to the player's field in face-up Defense Position.
+  | Search 1 "Dark World" card.
+  | Summon 1 monster from opponent's GY to player's field.
   |-
   | [[Goldd, Wu-Lord of Dark World|Goldd]]
-  | rowspan=5| [[Special Summon]]s itself.
-  | [[Destroy]]s up to two cards the opponent controls.
+  | rowspan=5| [[Special Summon|Summon]] itself.
+  | [[Destroy]] up to 2 cards.
   |-
   | [[Latinum, Exarch of Dark World|Latinum]]
-  | 1 [[Fiend]] monster gains 500 [[ATK]].
+  | Give 1 [[Fiend]] +500 [[ATK]].
   |-
   | [[Lucent, Netherlord of Dark World|Lucent]]
-  | Special Summons a Fiend monster from the [[Main Deck|Deck]] to either field.
+  | Summon 1 [[Fiend]] from [[Main Deck|Deck]] to either field.
   |-
   | [[Sillva, Warlord of Dark World|Sillva]]
-  | The opponent [[return]]s two cards from their hand to the bottom of their [[Main Deck|Deck]] in any order.
+  | Opponent [[return]]s two cards from hand to [[Main Deck|Deck]].
   |-
   | [[Beiige, Vanguard of Dark World|Beiige]]
-  | rowspan=4| N/A
+  | rowspan=4| —
   |-
   | [[Ceruli, Guru of Dark World|Ceruli]]
-  | Special Summons itself to the opponent's field in [[Defense Position]].
+  | Summon itself to opponent's field.<ref group="lower-alpha" name="SummonTriggerEffect"/>
   |-
   | [[Gren, Tactician of Dark World|Gren]]
-  | Destroys a Spell/Trap on the field.
+  | Destroy 1 Spell/Trap.
   |-
   | [[Kahkki, Guerilla of Dark World|Kahkki]]
-  | Destroys a monster on the field.
+  | Destroy 1 monster.
   |}
+  <references group="lower-alpha">
+  <ref name="ExceptItself">Except another copy of itself.</ref>
+  <ref name="SummonTriggerEffect">Then it can or must activate its on-field Trigger Effect triggered when it is summoned this way.</ref>
+  </references>
+
+  Many of these effects are not once per turn, meaning that, as long as the player has the discard outlet and recovery, they can repeatedly trigger "Dark World" trigger effects and repeatedly gain advantage. In-archetype, the "recovery" comes from "[[Grapha, Dragon Lord of Dark World]]" and "[[Reign-Beaux, Overking of Dark World]]"; both can revive themselves by bouncing a friendly "Dark World" monster. The player can thus discard a self-reviving "Dark World" and then bounce it with "Grapha"/"Reign-Beaux", allowing it to be discarded again for more advantage.
+
+  "Dark World" Decks require cards that discard as an effect to enable their trigger effects. In-archetype, this is primarily enabled by:
+  * "[[Dark World Dealings]]" (2 for 1 card cycling)
+  * "[[The Gates of Dark World]]" (searchable by "[[Genta, Gateman of Dark World]]"; 1 for 1 cycling)
+  * "[[Charge Into a Dark World]]" (revive)
+  * "[[Dark World Lightning]]" (destroy backrow)
+  * "[[Dark Corridor]]" (search "Dark World" monster)
+  * "[[Dark World Puppetry]]" (banish from opponent's GY)
+  * "[[Dark World Accession]]" (Fusion Summon with discards, and discard to add itself from GY to hand)
+  * "[[Dark World Archives]]" (give ATK, and 1 for 2 card cycling)
+  * "[[Dark World Punishment]]" (monster summon negate)
+
+  Externally, other cards that discard as an effect and provide advantage include:
+  * "[[Muckraker From the Underworld]]" (revive)
+  * "[[Number 60: Dugares the Timeless]]" (1 for 2 card cycling)
+  * "[[Danger!]]" monsters (summon "Danger!" monsters and draw)
+  * "[[Dark Smog]]" (banish from opponent's GY)
+
+  Because of the rarity of card effects that discard from the opponent's hand, several "Dark World" cards can artificially create such effects to trigger the stronger "Dark World" Trigger Effects. These include: 
+  * "[[Ceruli, Guru of Dark World]]": By summoning "Ceruli" to the opponent's field with a "Dark World" card effect (including its own), "Ceruli" will activate its mandatory effect to make the "Dark World" player discard 1 card. As it is on the opponent's field, it counts as a discard by an opponent's card effect.
+  * "[[Dark World Brainwashing]]", "[[Grapha, Dragon Overlord of Dark World]]": They each can change an opponent's card effect to one that causes the player to discard. This functionally also acts as a [[negate]]; the [[Fusion Monster]] "Grapha, Dragon Overlord" in particular is a de facto omni-negate.
+
+  Externally, "[[Fabled Dianaira]]" and "[[Dark Deal]]" can also change effects into discard effects, but as they are not in-archetype, they are unsearchable and thus less reliable.
+
+  Typically, a "Dark World" deck is played alongside "Danger!" monsters to mass swarm monsters, using them to make generic Link/Xyz Extra Deck boss monsters, and also to Fusion Summon "[[Grapha, Dragon Overlord of Dark World]]" with "[[Dark World Accession]]". The "Danger Dark World" deck often also aims to summon "Ceruli" to the opponent's field and use it to discard "Sillva" twice per turn, handlooping the opponent for 4.
 
   ===Additional synergies===
+  * Since the archetype's two strongest [[Main Deck]] monsters are Level 8 and can Special Summon themselves, Rank 8 monsters can also be included.
+  ** "[[Coach King Giantrainer]]" can be helpful, since it can draw 3 cards and putting all of those monsters back in the GY to allow them to Summon themselves again.
   * "[[Akashic Magician]]" can return a "Ceruli" on the opponent's field to the hand for reuse.
   * Some "[[Fabled]]" monsters also activate effects when they are discarded, enabling [[Synchro Summon]]s. "[[Fabled Raven]]" also discards cards as an effect to enable multiple "Dark World" activations.
   * The effect of "Ceruli" from the opponent's field will allow a player to activate "[[Triple Tactics Talent]]" and "[[Triple Tactics Thrust]]".
@@ -352,15 +380,13 @@ wikitext: |-
   }}
 
   ===Weaknesses and counter-strategies===
-  * The ultimate threats to "Dark World" decks are cards that [[Banishes cards that would be sent to the Graveyard|banish cards that would be sent to the GY]]: "[[Dimensional Fissure]]", "[[Karma Cut]]", "[[Kashtira Arise-Heart]]", "[[Masked HERO Dark Law]]", "[[Banisher of the Radiance]]", "[[Banisher of the Light]]" or "[[Macro Cosmos]]".
-  ** Any Decks that stop discarding effects will also completely shut down "Dark World" decks.
-  * "[[Droll & Lock Bird]]" will immediately shut down the effects of searchers such as "Snoww, Unlight of Dark World", "Reign-Beaux, Overking of Dark World" or "Genta, Gateman of Dark World" and may leave the player vulnerable.
+  * Floodgates this deck is weak to:
+  ** Anti-GY floodgates (e.g. "[[Macro Cosmos]]", "[[Abyss Dweller]]").
+  ** Anti-Special Summoning floodgates (e.g. "[[Fossil Dyna Pachycephalo]]")
+  ** Anti-DARK floodgates (e.g. "[[Consecrated Light]]")
+  * Because "Danger Dark World" depends on drawing many times a turn, it is weak to "[[Droll & Lock Bird]]".
   * "[[Magical Thorn]]" can inflict severe damage by forcing the opponent to take 500 damage every time they discard a card.
-  * "[[Abyss Dweller]]", "[[The End of Anubis]]", "[[Shadow-Imprisoning Mirror]]", "[[Soul Drain]]", "[[Necrovalley]]", or "[[Gravekeeper's Trap]]" will [[Negate|negate]] or prevent activated GY effects, making most "Dark World" cards nearly useless.
-  ** The above cards besides "Gravekeeper's Trap" '''do not''' prevent the Summon of "Grapha" or "Reign-Beaux Overking", as their Summoning condition is not an ''activated'' effect.
-  * "[[Consecrated Light]]" prevents DARK monsters from [[attack]]ing or being Summoned.
   * In a [[Mirror Match]] against another "Dark World" Deck, any cards that make both players discard will become a double-edged sword.
-  * Like all Special Summon-based decks, cards that [[prevents Special Summons|prevent Special Summons]] will slow this deck down.
   * Due to the possible sequence of multiple effects or Special Summons performed in a single turn, "[[Nibiru, the Primal Being]]" could also be dangerous to this Deck.
 
   {{Archseries navbox}}
