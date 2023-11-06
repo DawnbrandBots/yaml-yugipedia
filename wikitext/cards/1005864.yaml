@@ -1,6 +1,5 @@
 title: Emblema Oath
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +16,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 77765207
   | effect_types          = Effect, Condition
-  | lore                  = [[Activate]] 1 of these [[effect]]s;<br />● Place 1 "[[Centur-Ion]]" [[monster]] from your [[Main Deck|Deck]] [[face-up]] in your [[Spell & Trap Zone]] as a [[Continuous Trap]], and if you do, you cannot [[Special Summon]] monsters from the [[Extra Deck]] for the rest of this [[turn]], except "Centur-Ion" monsters, while you control a face-up card with the same original name as the placed card.<br />● [[Set]] 1 "Centur-Ion" [[Spell]]/[[Trap]] directly from your Deck.<br />You can only activate 1 "Emblema Oath" per turn.
+  | lore                  = [[Activate]] 1 of these [[effect]]s;<br />● Place 1 "[[Centur-Ion]]" [[monster]] from your [[Main Deck|Deck]] in your [[Spell & Trap Zone]] as a [[face-up]] [[Continuous Trap]]. For the rest of this [[turn]], while you control that card, or any card with that same original name, you cannot [[Special Summon]] from the [[Extra Deck]], except "Centur-Ion" monsters.<br />● [[Set]] 1 "Centur-Ion" [[Spell]]/[[Trap]] directly from your Deck.<br />You can only activate 1 "Emblema Oath" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,6 +24,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。●デッキから「センチュリオン」モンスター１体を永続罠カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。このターン、この効果で置いたカードまたはそのカードと元々のカード名が同じカードが自分フィールドに表側表示で存在する間、自分は「センチュリオン」モンスターしかＥＸデッキから特殊召喚できない。●デッキから「センチュリオン」魔法・罠カード１枚を自分フィールドにセットする。
   | ko_lore               = 
+  | en_sets               = 
+  VASM-EN021; Valiant Smashers; Ultra Rare
+  | fr_sets               = 
+  VASM-FR021; Valiant Smashers; Ultra Rare
+  | de_sets               = 
+  VASM-DE021; Valiant Smashers; Ultra Rare
+  | it_sets               = 
+  VASM-IT021; Valiant Smashers; Ultra Rare
+  | pt_sets               = 
+  VASM-PT021; Valiant Smashers; Ultra Rare
+  | sp_sets               = 
+  VASM-SP021; Valiant Smashers; Ultra Rare
   | jp_sets               = 
   DBVS-JP021; Deck Build Pack: Valiant Smashers; Ultra Rare, Secret Rare
   | supports_archetypes   = Centur-Ion

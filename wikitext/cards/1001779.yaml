@@ -1,6 +1,5 @@
 title: Vaalmonica, the Agathokakological Voice
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -17,7 +16,7 @@ wikitext: |-
   | property              = Field
   | password              = 39210885
   | effect_types          = Effect, Trigger-like, Condition, Condition
-  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Vaalmonica]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. If the 3rd [[Resonance Counter]] is placed on a card in your [[Pendulum Zone]] (except during the [[Damage Step]]): You can [[target]] 1 monster your opponent [[control]]s; take control of it until the [[End Phase]], but it cannot [[declare]] an [[attack]]. You can only use this [[effect]] of "Vaalmonica, the Agathokakological Voice" [[once per turn]]. You can only activate 1 "Vaalmonica, the Agathokakological Voice" per turn.
+  | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Vaalmonica]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. If a card in your [[Pendulum Zone]] has a 3rd [[Resonance Counter]] placed on it: You can [[target]] 1 monster your opponent [[control]]s; take control of it until the [[End Phase]], but it cannot [[declare]] an [[attack]]. You can only use this [[effect]] of "Vaalmonica, the Agathokakological Voice" [[once per turn]]. You can only activate 1 "Vaalmonica, the Agathokakological Voice" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -25,6 +24,18 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「ヴァルモニカ」モンスター１体を手札に加える事ができる。②：自分のＰゾーンのカードに響鳴カウンターが置かれ、そのカードの響鳴カウンターが３つになった場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールをエンドフェイズまで得る。この効果でコントロールを得たモンスターは攻撃宣言できない。
   | ko_lore               = 
+  | en_sets               = 
+  VASM-EN035; Valiant Smashers; Ultra Rare
+  | fr_sets               = 
+  VASM-FR035; Valiant Smashers; Ultra Rare
+  | de_sets               = 
+  VASM-DE035; Valiant Smashers; Ultra Rare
+  | it_sets               = 
+  VASM-IT035; Valiant Smashers; Ultra Rare
+  | pt_sets               = 
+  VASM-PT035; Valiant Smashers; Ultra Rare
+  | sp_sets               = 
+  VASM-SP035; Valiant Smashers; Ultra Rare
   | jp_sets               = 
   DBVS-JP035; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   | archseries            = Vaalmonica
