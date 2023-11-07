@@ -22,7 +22,7 @@ wikitext: |-
   | password              = 
   | materials             = 2+ monsters, including a Link Monster
   | effect_types          = Condition, Summoning condition, Continuous, Quick, Condition
-  | lore                  = 2+ monsters, including a Link Monster<br />(This card is always treated as a "[[Sky Striker Ace]]" card.)<br />Must first be Link Summoned. Loses 3000 ATK while you have no Spells in your GY. When your opponent activates a card or effect as Chain Link 2 or higher (Quick Effect): You can banish 2 Spells from your hand and/or GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use this effect of "Surgical Striker - S.P.E.C.T.R.A." once per turn.
+  | lore                  = 2+ [[monster]]s, including a [[Link Monster]]<br />(This card is always treated as a "[[Sky Striker Ace]]" card.)<br />Must first be [[Link Summon]]ed. Loses 3000 [[ATK]] while you have no [[Spell]]s in your [[GY]]. When your opponent [[activate]]s a card or [[effect]] as [[Chain Link]] 2 or higher ([[Quick Effect]]): You can [[banish]] 2 Spells from your [[hand]] and/or GY; [[negate]] that effect, then you can [[destroy]] 1 card your opponent [[control]]s. You can only use this effect of "Surgical Striker - S.P.E.C.T.R.A." [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,9 +33,28 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   VJMP-JP248; V Jump January 2024 promotional card; Ultra Rare
+  | supports              = Link Monster
   | archseries            = 
   * Sky Striker
   * Sky Striker Ace
+  | stat_change           = This card loses ATK
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Link Monsters as Link Materials
+  * Special Summon-only monster
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
