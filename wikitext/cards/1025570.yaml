@@ -10,7 +10,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|覇|は}}{{Ruby|王|おう}}{{Ruby|龍|りゅう}}ズァーク－シンクロ・ユニバース
   | romaji_name           = Haōryū Zāku - Shinkuro Yunibāsu
-  | trans_name            = Supreme King Dragon Z-ARC - Synchro Universe
+  | trans_name            = Supreme King Dragon Zarc - Synchro Universe
   | ko_name               = 
   | ko_rr_name            = 
   | image                 = SupremeKingZARCSynchroUniverse-QCDB-JP-OP.png
@@ -21,11 +21,11 @@ wikitext: |-
   | def                   = 4000
   | pendulum_scale        = 1
   | password              = 
-  | material              = 1 Tuner + 1+ non-Tuner DARK Pendulum Monsters
+  | material              = 1 Tuner + 1 or more non-Tuner DARK Pendulum Monsters
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Continuous, Trigger, Trigger
   | pendulum_effect       = You can [[Tribute]] 1 "[[Supreme King Dragon]]" or "[[Supreme King Gate]]" [[Pendulum Monster]]; [[Special Summon]] this card. You can only use this [[effect]] of "Supreme King Z-ARC - Synchro Universe" [[once per turn]].
-  | lore                  = 1 [[Tuner]] + 1 or more non-Tuner [[DARK]] Pendulum Monsters<br />This card's name becomes "Supreme King Z-ARC" while on the [[field]]. After [[damage calculation]], when this card [[destroy]]s an opponent's monster by battle or inflicts [[battle damage]] to your opponent: You can Special Summon up to 2 “Supreme King Dragon” monsters from your [[Deck]], [[Extra Deck]], and/or [[GY]] in [[Defense Position]]. If this card in the [[Monster Zone]] is destroyed by battle or card effect: You can place this card in your [[Pendulum Zone]].
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[DARK]] Pendulum Monsters<br />This card's name becomes "Supreme King Z-ARC" while on the [[field]]. After [[damage calculation]], when this card [[destroy]]s an opponent's monster by battle or inflicts [[battle damage]] to your opponent: You can Special Summon up to 2 "Supreme King Dragon" monsters from your [[Deck]], [[Extra Deck]], and/or [[GY]] in [[Defense Position]]. If this card in the [[Monster Zone]] is destroyed by battle or card effect: You can place this card in your [[Pendulum Zone]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -36,10 +36,13 @@ wikitext: |-
   | jp_sets               = 
   QCDB-JP005; Quarter Century Duelist Box; Ultra Rare, Secret Rare
   | mentions              = Supreme King Z-ARC
+  | supports              = 
+  * DARK
+  * Pendulum Monster
   | archseries            = 
   * Supreme King
   * Synchro (archetype)
-  | supports_archetypes   =
+  | supports_archetypes   = 
   * Supreme King Dragon
   * Supreme King Gate
   | related_to_archseries = 
@@ -61,12 +64,15 @@ wikitext: |-
   * Does not require specific Tuner Synchro Materials
   * Requires Attribute specific non-Tuner Synchro Materials
   * Requires Pendulum Monsters as non-Tuner Synchro Materials
-  * Special Summon once per turn
-  * Special Summons from your Pendulum Zone
+  * Special Summons itself from your Pendulum Zone
   * Special Summons from your Deck
   * Special Summons from your Extra Deck
   * Special Summons from your Graveyard
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only once per turn
+  * Synchro Pendulum Monster
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
