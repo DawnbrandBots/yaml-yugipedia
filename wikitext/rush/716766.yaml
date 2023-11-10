@@ -11,8 +11,8 @@ wikitext: |-
   | image          = SoulofaReporter-RDKP03-JP-SR.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an [[Attack Position]] [[monster]](s) on your [[field]] is [[destroy]]ed by an opponent's [[attack]] or their card [[effect]].
-  | lore           = [[Special Summon]] either 1 "[[Printing Presser]]" or 1 "[[Scoop Scooter]]" from your [[Graveyard]] [[face-up]] to your [[field]].
+  | requirement    = When an [[Attack Position]] [[Monster Card|monster]](s) on your [[field]] is [[destroy]]ed by an opponent's [[attack]] or their card [[effect]].
+  | lore           = [[Special Summon]] either 1 "[[Printing Presser]]" or 1 "[[Scoop Scooter]]" from your [[Graveyard]] [[face-up]] to your field.
   | fr_requirement = Lorsqu'un ou plusieurs monstres en Position d'Attaque sur votre Terrain sont détruits par une attaque ou un effet de carte de l'adversaire.
   | fr_lore        = Invoquez Spécialement 1 "Presseur Imprimeur" ou 1 "Scoop Scooter" depuis votre Cimetière face recto sur votre Terrain.
   | de_requirement = Wenn ein oder mehrere Monster in Angriffsposition auf deiner Spielfeldseite durch einen Angriff oder Karteneffekt eines Gegners zerstört werden.
@@ -33,9 +33,9 @@ wikitext: |-
   * Printing Presser
   * Scoop Scooter
   | archseries     = Newspaper
-  | action         = Activates if destroyed by battle
+  | action         = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
   | summoning      = Special Summons from your Graveyard
-  | misc           = 
-  * Requires control of specific Type
   | database_id    = 15822
   }}

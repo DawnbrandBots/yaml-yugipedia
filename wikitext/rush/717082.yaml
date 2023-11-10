@@ -13,7 +13,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | lore           = 1 [[Attack Position]] [[monster]] on your opponent's [[field]] loses [[ATK]] equal to [the number of [[face-up]] [[Pyro]] [[Type]] monsters on your field] x 400 until the end of this [[turn]].
+  | lore           = 1 [[Attack Position]] [[Monster Card|monster]] on your opponent's [[field]] loses [[ATK]] equal to [the number of [[face-up]] [[Pyro]] [[Type]] monsters on your field] x 400 until the end of this [[turn]].
   | fr_requirement = Aucune
   | fr_lore        = 1 monstre en Position d'Attaque sur le Terrain de votre adversaire perd une ATK égale au [nombre de monstres de Type Pyro face recto sur votre Terrain] x 400 jusqu'à la fin de ce tour.
   | de_requirement = Keine
@@ -33,5 +33,6 @@ wikitext: |-
   | supports       = Pyro
   | archseries     = Noodle Ninja
   | stat_change    = Your opponent's monsters lose ATK
+  | misc           = Requires control of specific Type
   | database_id    = 15611
   }}

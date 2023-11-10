@@ -16,8 +16,8 @@ wikitext: |-
   | level          = 4
   | atk            = 1200
   | def            = 0
-  | requirement    = [[Shuffle]] 1 [[monster]] with 0 [[ATK]] from your [[Graveyard ]] into the [[Main Deck|Deck]].
-  | lore           = Choose 1 [[face-up]] [[Warrior]] [[Type]] monster on your [[field]]. Your opponent cannot [[activate]] [[Trap Card]]s when it declares an [[attack]] this [[turn]].
+  | requirement    = [[Shuffle]] 1 [[Monster Card|monster]] with 0 [[ATK]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = Choose 1 [[face-up]] [[Warrior]] [[Type]] monster on your [[field]]. Your opponent cannot [[activate]] [[Trap Card]]s when it [[declare]]s an [[attack]] this [[turn]].
   | fr_requirement = Mélangez 1 monstre avec 0 ATK depuis votre Cimetière dans le Deck.
   | fr_lore        = Choisissez 1 monstre de Type Guerrier face recto sur votre Terrain. Votre adversaire ne peut pas activer de Cartes Piège lorsqu'il déclare une attaque ce tour.
   | de_requirement = Mische 1 Monster mit 0 ATK von deinem Friedhof in das Deck.
@@ -37,7 +37,6 @@ wikitext: |-
   RD/CP01-KR004; Character Pack - Gavin/Roa/Romin; Common
   RD/SBD3-KR012; Strongest Battle Deck Gavin - Demon Commander Three Legions; Common
   | supports       = Warrior
-  | anti-supports  = Trap Card
   | action         = Returns from Graveyard to Deck for cost
   | m/s/t          = Prevents activation of your opponent's Trap Cards
   | misc           = Requires control of specific Type
