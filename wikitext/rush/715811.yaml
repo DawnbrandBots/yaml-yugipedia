@@ -16,7 +16,7 @@ wikitext: |-
   | atk            = 1500
   | def            = 1000
   | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore           = Change the [[original ATK]] of 1 [[face-up]] [[Level]] 6 or lower [[Monster Card|monster]] on your opponent's [[field]] to 1500 until the end of this [[turn]].
+  | lore           = Change the [[Original ATK and DEF|original ATK]] of 1 [[face-up]] [[Level]] 6 or lower [[Monster Card|monster]] on your opponent's [[field]] to 1500 until the end of this [[turn]].
   | fr_requirement = Envoyez 1 carte depuis votre main au Cimetière.
   | fr_lore        = Changez l'ATK d'origine d'1 monstre face recto de max. Niveau 6 sur le Terrain de votre adversaire à 1500 jusqu'à la fin de ce tour.
   | de_requirement = Lege 1 Karte von deiner Hand auf den Friedhof.
@@ -34,6 +34,8 @@ wikitext: |-
   | kr_sets        = 
   RD/KP01-KR034; Deck Mod Pack: Hyperspeed Rush Road!!; Rare
   | action         = Sends from hand to Graveyard for cost
-  | stat_change    = Changes original ATK
+  | stat_change    = 
+  * Changes original ATK
+  * Changes ATK value
   | database_id    = 15327
   }}

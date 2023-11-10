@@ -17,7 +17,7 @@ wikitext: |-
   | atk            = 2200
   | def            = 0
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore           = All [[face-up]] [[Pyro]] [[Type]] [[Monster Card|monsters]] on your [[field]] gain [[ATK]] equal to [the number of [[Normal Monster]]s in your Graveyard] x 100 until the end of this [[turn]].
+  | lore           = All [[face-up]] [[Pyro]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain [[ATK]] equal to [the number of [[Normal Monster]]s in your Graveyard] x 100 until the end of this [[turn]].
   | fr_requirement = Envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_lore        = Jusqu'à la fin de ce tour, tous les monstres de Type Pyro face recto sur votre Terrain gagnent une ATK égale au [nombre de Monstres Normaux présents dans votre Cimetière] x 100.
   | de_requirement = Lege die oberste Karte deines Decks auf den Friedhof.
@@ -39,8 +39,9 @@ wikitext: |-
   | supports       = 
   * Pyro
   * Normal Monster
+  | archseries     = Noodle Ninja
   | action         = Sends from the top of your Deck to your Graveyard for cost
   | stat_change    = Your monsters gain ATK
-  | archseries     = Noodle Ninja
+  | misc           = Requires control of specific Type
   | database_id    = 15196
   }}

@@ -13,8 +13,8 @@ wikitext: |-
   | image          = VengefulDragonsCounterattack-RDSD03-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When a [[Dragon]] [[Type]] [[Monster Card|monster]] on your [[field]] is [[Destroyed by battle|destroyed]] by an opponent's [[attack]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore           = [[Destroy]] 1 monster on your opponent's field.
+  | requirement    = When a [[Dragon]] [[Type]] [[Monster Card|monster]] on your [[field]] is [[destroy]]ed by an opponent's [[attack]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore           = Destroy 1 monster on your opponent's field.
   | fr_requirement = Lorsqu'un monstre de Type Dragon sur votre Terrain est détruit par une attaque de l'adversaire, envoyez 1 carte depuis votre main au Cimetière.
   | fr_lore        = Détruisez 1 monstre sur le Terrain de votre adversaire.
   | de_requirement = Wenn ein Monster des Typs Drache auf deiner Spielfeldseite durch einen Angriff eines Gegners zerstört wird, lege 1 Karte von deiner Hand auf den Friedhof.
@@ -38,5 +38,6 @@ wikitext: |-
   * Activates if destroyed by battle
   * Sends from hand to Graveyard for cost
   | m/s/t          = Destroys your opponent's Monster Cards
+  | misc           = Requires control of specific Type
   | database_id    = 15177
   }}
