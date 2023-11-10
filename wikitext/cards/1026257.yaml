@@ -8,7 +8,7 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = {{Ruby|破|は}}{{Ruby|壊|かい}}{{Ruby|竜|りゅう}}ガンドラ{{Ruby|G|ギアス}}
+  | ja_name               = {{Ruby|破|は}}{{Ruby|壊|かい}}{{Ruby|竜|りゅう}}ガンドラ{{Ruby|Ｇ|ギアス}}
   | romaji_name           = Hakairyū Gandora Giasu
   | ko_name               = 
   | ko_rr_name            = 
@@ -32,19 +32,18 @@ wikitext: |-
   LEDE-JP001; Legacy of Destruction; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   LEDE-JP001; Legacy of Destruction +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | mentions              = Gold Sarcophagus of Light
-  | supports              = 
   | archseries            = 
   * Gandora (archetype)
   * Gold Sarcophagus of Light (series)
-  | supports_archetypes   = Gold Sarcophagus of Light (series)
   | related_to_archseries = 
-  | action                = 
-  * Activates from your hand
+  | action                = Activates from your hand
   | m/s/t                 = 
   * Destroys Spell Cards
   * Destroys Trap Cards
   * Destroys Monster Cards
-  | stat_change           = This card gains ATK
+  | stat_change           = 
+  * This card gains ATK
+  * Your monsters gain Levels
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons from your Deck
@@ -56,6 +55,9 @@ wikitext: |-
   * Pays Life Points for cost
   | misc                  = 
   * Only once per turn
+  * Requires control of specific card
+  * Mentions
+  * Cover card
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

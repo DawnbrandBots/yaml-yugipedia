@@ -32,13 +32,9 @@ wikitext: |-
   LEDE-JP005; Legacy of Destruction; 
   | mentions              = Gold Sarcophagus of Light
   | archseries            = Gold Sarcophagus of Light (series)
-  | supports_archetypes   = 
   | action                = 
   * Activates from your hand
   * Activates if destroyed by card effect
-  | m/s/t                 = 
-  * Cannot be destroyed by battle
-  * Prevents other cards being targeted for attacks
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons copies of itself
@@ -46,6 +42,9 @@ wikitext: |-
   * Special Summons from your hand
   * Special Summons from your Deck
   * Special Summons from your Graveyard
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Prevents other cards being targeted for attacks
   | life_points           = Damages your opponent
   | misc                  = 
   * Requires control of specific card

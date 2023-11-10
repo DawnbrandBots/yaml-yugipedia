@@ -31,13 +31,10 @@ wikitext: |-
   | jp_sets               = 
   LEDE-JP002; Legacy of Destruction; 
   | mentions              = Gold Sarcophagus of Light
-  | supports              = 
   | archseries            = 
   * Silent Swordsman (archetype)
   * Gold Sarcophagus of Light (series)
-  | supports_archetypes   = Gold Sarcophagus of Light (series)
-  | related_to_archseries = 
-  | action                = 
+  | action                = Activates if targeted by card effect
   | m/s/t                 = 
   * Negates the activation of your opponent's Spell Cards
   * Negates the activation of your opponent's Trap Cards
@@ -45,9 +42,10 @@ wikitext: |-
   | stat_change           = 
   * This card gains Levels
   * This card gains ATK
-  | summoning             = 
   | misc                  = 
-  * Once per turn
+  * Limited activations
+  * Requires control of specific card
+  * Mentions
   * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released

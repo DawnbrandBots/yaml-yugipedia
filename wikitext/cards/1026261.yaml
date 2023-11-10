@@ -34,16 +34,13 @@ wikitext: |-
   | archseries            = 
   * Silent Magician (archetype)
   * Gold Sarcophagus of Light (series)
-  | supports_archetypes   = Gold Sarcophagus of Light (series)
-  | action                =
-  * Activates if your opponent draws a card
-  | m/s/t                 = 
-  * Negates the activation of your opponent's Spell Cards
-  * Negates the activation of your opponent's Effect Monster's effect
+  | action                = Activates if your opponent draws a card
   | stat_change           = 
   * This card gains Levels
   * This card gains ATK
+  | m/s/t                 = Negates the activation of your opponent's Spell Cards
   | misc                  = 
+  * Requires control of specific card
   * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
