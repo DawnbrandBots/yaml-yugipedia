@@ -39,36 +39,46 @@ wikitext: |-
   '''"Gandora"''' (ガンドラ, ''Gandora'') is an [[archetype]] of [[Level]] 8 [[DARK]] [[Dragon]] [[Monster Card|monsters]] with 0 [[ATK]] and [[DEF]] used by [[Yugi Muto]], which consists of the original "[[Gandora the Dragon of Destruction]]" and its [[Card evolutions|retrains]].
   Members have existed since [[The Valuable Book 8 promotional cards]], but didn't receive support until the [[V Jump February 2017 promotional card]].
   ==Members==
-  {| class="wikitable sortable"
-  ! rowspan="2" | Monster
-  ! colspan="2" | [[Monster effect|Effect]]
+  {| class="wikitable"
+  ! rowspan=2 | Monster
+  ! colspan=4 | [[Monster effect|Effect]]
   |-
+  ! Half LP
   ! [[Nuke|Nuking]]
   ! [[This card gains ATK|Boosting]]
+  ! Other effect notes
   |-
-  | [[Gigarays Gandora the Dragon of Destruction]]
-  | Varies depending on the number of "Gandora" monsters with different names in its controller's Graveyard after paying half of their LP once per turn.
-  *1: All other cards on the field are destroyed.
-  *2: All other cards on the field are banished.
-  *3: All other cards on the field and in the Graveyards are banished.
-  | 300 ATK for each card banished.
+  | [[Gigarays Gandora the Dragon of Destruction|Gigarays Gandora]]
+  | [[Cost]] for nuking
+  | Conditionally:
+  * Destroy all other cards
+  * Banish all other cards
+  * Banish all other cards and cards in GY
+  | +300 ATK per banished card
+  | Supports "Gandora"
   |-
-  | [[Gandora the Dragon of Destruction]]
-  | All other cards on the field are first destroyed and then banished after its controller pays half of their LP; sent to the Graveyard at the End Phase of the turn it is Normal Summoned.
-  | 300 ATK for each card destroyed by its 1st effect.
+  | [[Gandora the Dragon of Destruction|Gandora]]
+  | [[Cost]] for nuking
+  | Destroy & banish all other cards
+  | +300 ATK per card destroyed by effect
+  | [[Send]]s itself in the End Phase of the turn it's summoned
   |-
-  | [[Gandora-X the Dragon of Demolition]]
-  | All other monsters on the field are destroyed, with damage inflicted to opponent equal to the monster with the highest original ATK, after being Normal or Special Summoned.
-  | ATK equal to the damage inflicted to opponent by its 1st effect.
+  | [[Gandora-X the Dragon of Demolition|Gandora-X]]
+  | [[Mandatory Effect]] in [[End Phase]]
+  | Destroy all other monsters
+  | +ATK equal to the highest original ATK among destroyed monsters
+  | [[Burn]]s equal to the highest original ATK among destroyed monsters
   |-
-  | [[Geas Gandora the Dragon of Destruction]]
-  | All other cards on the field are first destroyed and then banished after its controller pays half of their LP, then Special Summons a Level 7 or lower monster from the Deck that mentions "[[Gold Sarcophagus of Light]]" and increases that monster's Level by the number of cards destroyed.
-  | 300 ATK for each card banished.
+  | [[Geas Gandora the Dragon of Destruction|Geas Gandora]]
+  | [[Cost]] for nuking
+  | Destroy & banish all other cards
+  | +300 ATK per banished card
+  | Supports [[Gold Sarcophagus of Light (series)]]
   |}
+
   ==Playing style==
-  So far, all "Gandora" monsters have a [[nuke|nuking]] effect followed by an [[ATK]] gain, and the downside of [[Halves LP|halving]] the player's own [[LP]].
-  Since the nuking effect of "[[Gigarays Gandora the Dragon of Destruction]]" becomes more potent the more unique "Gandora" monsters in the [[Graveyard]], using cards like "[[Foolish Burial]]" or "[[Trade-In]]" helps with consistency and power simultaneously.
-  Note that even if cards like "[[Macro Cosmos]]" help you to increase the ATK of "Gandora Giga Rays", they aren't recommended because they also prevent you from Special Summoning it.
+  All "Gandora" monsters have a [[nuke|nuking]] effect followed by an [[ATK]] gain, and the downside of [[Halves LP|halving]] the player's own [[LP]]. Due to lacking in-archetype searching, summoning, or utility-based support, "Gandora" does not form a themed strategy by itself. Instead, they can be played as generic boss monsters for Decks that can tutor them, such as [[Dragon Link]].
+
   ===Recommended cards===
   {{Decklist|
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
