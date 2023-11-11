@@ -3,26 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サイバー・フィッシュ
-  | romaji_name      = Saibā Fisshu
-  | image            = CyberFish-RDKP15-JP-OP.png
-  | attribute        = WATER
-  | types            = Fish / Effect
-  | level            = 4
-  | atk              = 1000
-  | def              = 1200
-  | requirement      = [[Send]] 1 [[WATER]] [[Attribute]] [[Fish]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Draw a card|Draw]] 1 card.
-  | ja_requirement   = 手札のモンスター（水属性／魚族）１体を墓地へ送って発動できる。
-  | ja_lore          = 自分は１枚ドローする。
-  | jp_sets          = 
+  | ja_name        = サイバー・フィッシュ
+  | romaji_name    = Saibā Fisshu
+  | image          = CyberFish-RDKP15-JP-C.png
+  | attribute      = WATER
+  | types          = Fish / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 1200
+  | requirement    = [[Send]] 1 [[WATER]] [[Attribute]] [[Fish]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Draw a card|Draw]] 1 card.
+  | ja_requirement = 手札のモンスター（水属性／魚族）１体を墓地へ送って発動できる。
+  | ja_lore        = 自分は１枚ドローする。
+  | jp_sets        = 
   RD/KP15-JP020; Red Reboot of Darkness; Common
-  | supports         = 
+  | supports       = 
   * WATER
   * Fish
-  | action           = 
+  | action         = 
   * Sends from hand to Graveyard for cost
   * You draw cards
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 19655
   }}
