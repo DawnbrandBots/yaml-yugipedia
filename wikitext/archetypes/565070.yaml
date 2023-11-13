@@ -48,14 +48,18 @@ wikitext: |-
   | manga        = [[Yu-Gi-Oh! OCG Structures]]
   }}
   "'''Thunder Dragon'''" (サンダー・ドラゴン ''Sandā Doragon'') is an [[archetype]] of [[LIGHT]] and [[DARK]] [[Thunder]] [[Monster Card|monsters]]. The archetype originates from the monster "[[Thunder Dragon]]", which was introduced in the ''[[Vol.7]]'' [[Booster Pack]] in 2000 and only had one related monster: "[[Twin-Headed Thunder Dragon]]". The "series" was massively expanded in 2018's ''[[Soul Fusion]]'', giving "Thunder Dragon" a set of [[Main Deck]] and [[Extra Deck]] monsters and supporting [[Spell]] and [[Trap Card]]s.
+
   ==Design==
   The general design and effect of each "Thunder Dragon" monster is derived from the original "Thunder Dragon": all of them are depicted as electric dragons with a color scheme incorporating green, yellow, black and/or gray. "[[Thunder Dragon Titan]]" resembles a three-headed "Thunder Dragon", similar to the design of "[[Blue-Eyes Ultimate Dragon]]". "[[Thunder Dragondark]]" is a directly [[retrained]] [[counterpart]] of the original "Thunder Dragon", with the same [[Type]], [[Level]], [[original ATK and DEF]], but the opposite Attribute; it also has a similar effect that can search a copy of itself.
+
   ==Playing style==
-  The "Thunder Dragon" archetype revolves around using its supporting monsters' [[discard]] and [[banish]] effects to set up the field and Graveyard, in order to summon its powerful boss monsters. The Deck's boss monsters have effects revolving around banishing friendly cards in the GY, and applying effects after a Thunder monster activates its effect in the hand, tying themselves back to the effects of their supporting monsters.
+  "Thunder Dragon" revolves around Thunder monsters with [[discard]], [[floater|floating]], and [[banish]]-activated effects, in order to set up resource recursion and summon conditions for boss monsters.
+
   The archetype has 5 (relatively low-Level) Main Deck monsters with Levels under 6, who serve as combo pieces to bring out the archetype's boss monsters. Almost all of them have two effects: an [[Ignition Effect]] activated by [[discard]]ing them, and a [[Trigger Effect]] that can be activated when they are [[banish]]ed or sent from the field to the Graveyard. These effects provide search power and field setup, and also sets up the GY with monsters for the archetype's other effects.
+
   {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   |+ {{nowrap|Thunder Dragon Effect Summary}}
-  ! Thunder Dragon !! Attribute !! Discard Effect || Banish/Sent from field to GY Effect
+  ! Thunder Dragon !! Attribute !! Discard Effect || Banish/Floating Effect
   |-
   | [[Thunder Dragon]] || {{Attribute|LIGHT|size=24}} || [[Searcher#Adds to the hand|Search]] up to 2 "[[Thunder Dragon]]". || -
   |-
@@ -69,8 +73,10 @@ wikitext: |-
   |-
   | colspan = 4 | <small>Except "[[Thunder Dragon]]", all the above effects are [[only 1 effect once per turn]].</small>
   |}
-  Of these monsters, "Thunder Dragonmatrix" is the only one that is under Level 4, making it the only one that can be Normal Summoned without Tributes.
-  The archetype has two pairs of commonly-used boss monsters: the Main Deck [[Special Summon-only monster]]s, "[[Thunder Dragonduo]]" and "[[Thunder Dragonlord]]", and the Extra Deck [[Fusion Monster]]s, "[[Thunder Dragon Colossus]]" and "[[Thunder Dragon Titan]]". Their summoning conditions involve banishing friendly cards in the hand/GY for the Main Deck members, and either conventional [[Fusion Summon]]ing or pseudo-[[Contact Fusion]] for the Fusion members.
+  Of these monsters, "Thunder Dragonmatrix" is the only one under Level 4, making it the only one that can be Normal Summoned without Tributes.
+
+  "Thunder Dragon" boss monsters consist of both Main Deck [[Special Summon-only monster]]s ("[[Thunder Dragonduo|Dragonduo]]" and "[[Thunder Dragonlord|Dragonlord]]") and Extra Deck [[Fusion Monster]]s ("[[Thunder Dragon Colossus|Colossus]]" and "[[Thunder Dragon Titan|Titan]]"). The former are summoned from the hand by banishing friendly cards in the hand/GY, while the latter are summoned with [[Fusion Summon]]ing or pseudo-[[Contact Fusion]].
+
   {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   |+ {{nowrap|Thunder Dragon Boss Summoning Conditions}}
   ! Main Deck Thunder Dragon !! Attribute !! colspan = 2| Summoning Condition
@@ -85,14 +91,18 @@ wikitext: |-
   |-
   | [[Thunder Dragon Titan|Titan]] || {{Attribute|LIGHT|size=24}} || 3 "Thunder Dragon" monsters || Banish 1 Thunder monster from your hand and 1 Thunder Fusion Monster you control, except "Thunder Dragon Titan".
   |}
-  The Main Deck "Thunder Dragon" boss monsters have on-field effects focusing on protection and resource cycling, while the Fusion "Thunder Dragon" boss monsters are the main board presence, providing offensive and floodgating effects. All of their effects involve banishing cards from the GY; this can be used to trigger the banish effects of the low-Level "Thunder Dragon" monsters, generating more resources.
-  * "[[Thunder Dragonduo]]" can search any Thunder monster after destroying a monster by battle, which can give access to otherwise hard-to-search monsters, such as "[[Thunder King Rai-Oh]]" and "[[Denko Sekka]]". In the opponent's End Phase, it can also put a banished card to the top or the bottom of the deck, to either draw into it or recycle it for later use.
-  * "[[Thunder Dragonlord]]" has a [[Quick Effect]] that grants a friendly Thunder monster immunity against card effect targeting for 1 turn. In the player's End Phase, it can send a "Thunder Dragon" card from Deck to GY.
-  * "[[Thunder Dragon Colossus]]" has a one-sided "[[Mistake]]" effect, and can protect itself from battle or effect destruction by banishing 1 Thunder monster from GY. Its floodgate effect shuts off many decks' pathways into consistent combos, and its destruction prevention effect makes it very hard to remove.
-  * "[[Thunder Dragon Titan]]" can destroy cards on the field when a Thunder monster activates its effect in the hand, a non-once-per-turn effect that can be used multiple times and in the opponent's turn. It can protect itself from effect destruction by banishing 2 cards in the GY.
+  On the field, the Main Deck bosses provide protection ("[[Thunder Dragonlord]]") or card resource cycling ("[[Thunder Dragonduo]]"), while the Fusion bosses provide removal/interruption ("[[Thunder Dragon Titan]]") or floodgating ("[[Thunder Dragon Colossus]]"). Each has one effect that banishes cards from the player's GY, possibly even in the opponent's turn, providing more triggers for "Thunder Dragon" banish effects.
+
   "[[Thunder Dragon Fusion]]", the archetype's Fusion Spell, works with the archetype's discard and banish effects by Fusion Summoning through shuffling materials from the field, GY, or banished cards into the Deck. It can also banish itself from the GY (except on the turn it was sent there) to search out 1 Thunder monster, providing additional follow-up.
-  The Deck's main combo enabler is the banish/sent-to-GY search effect of "[[Thunder Dragondark]]", and secondarily that of "[[Thunder Dragonroar]]". "Dragondark" can search "[[Thunder Dragon Fusion]]" for Fusion Summons, "[[Thunder Dragonhawk]]" for its discard effect (which summons a monster and enables the "activate in hand" condition for the summon of "Colossus"), or the Main Deck boss monsters, while "Dragonroar" provides more swarming and puts more "Thunder Dragon" monsters into circulation. As they're both high-Level monsters, it is easier to trigger their search effects by banishing them, which can be done in a variety of ways. These include "[[Gold Sarcophagus]]", "[[Allure of Darkness]]", "[[Aloof Lupine]]", the Summoning conditions of "[[Thunder Dragonduo]]" and "[[Thunder Dragonlord]]", and the Summoning condition of "[[Thunder Dragon Titan]]", which can be established by using "[[Instant Fusion]]" or "[[Ready Fusion]]" to summon "[[Kaminari Attack]]".
-  As the archetype is composed of LIGHT and DARK monsters that benefit from being banished, it synergizes very well with the [[Chaos#Light and Dark Chaos|Chaos]] series. 1-banish Chaos monsters such as "[[White Dragon Wyverburster]]" and "[[Chaos Valkyria]]" combo well with "[[Batteryman Solar]]" (who sends a Thunder monster to GY on summon), as they can immediately banish a "Thunder Dragondark" or "Thunder Dragonroar" to trigger their searches. The Chaos searcher "[[Chaos Space]]" provides more GY setup and search power, and 2-banish Chaos cards like "[[Chaos Dragon Levianeer]]" and "[[The Chaos Creator]]" can provide more explosive combo plays if the player has the resources for them.
+
+  Because almost all "Thunder Dragon" non-boss monsters require setup/external combos to be summoned, their Trigger Effects are more easily triggered by banishing them. This can be achieved with:
+  * Banish from Deck: "[[Gold Sarcophagus]]", "[[Aloof Lupine]]"
+  * Banish from hand: "[[Allure of Darkness]]",  Summon procedure of "[[Thunder Dragonlord]]", alternate Summon procedure of "[[Thunder Dragon Titan]]"
+  ** The alternate summon procedure of "Titan" can be established by using "[[Instant Fusion]]" or "[[Ready Fusion]]" to summon "[[Kaminari Attack]]"
+  * Banish from GY: Summon procedure of "[[Thunder Dragonduo]]", [[Chaos (series)|Chaos]] series monsters, "[[Bystial]]" monsters
+
+  Generally, the Deck aims to turbo out one or more of its boss monsters, primarily (in formats where it's available) the high-power and easy-to-summon "[[Thunder Dragon Colossus]]", and back them up with other generic field presence and searchable follow-up. The Deck's main searchers are the banish/floating effects of "[[Thunder Dragondark]]" and "[[Thunder Dragonroar]]", while its main source of swarming are the effects of "Dragonroar" and "[[Thunder Dragonhawk]]".
+
   === Recommended cards ===
   {{Decklist|
   |effect monsters =
@@ -158,9 +168,9 @@ wikitext: |-
   }}
 
   ===Weaknesses===
-  Despite the Deck's sheer versatility, it still has many great weaknesses. Since the deck is so reliant on banishing cards, a well timed "[[Imperial Iron Wall]]" or "[[Chaos Hunter]]" can completely shut the Deck down; because it is also reliant on Special Summoning constantly to achieve swarming and field control, cards like "[[Vanity's Ruler]]", "[[Vanity's Fiend]]", and "[[Fossil Dyna Pachycephalo]]" can severely slow down the strategy.
-  The inherent card effect protection of the "Thunder Dragon" Fusion monsters can also be bypassed by various cards: "[[Invoked Raidjin]]", "[[Kaiju]]" monsters, "[[Castel, the Skyblaster Musketeer]]", "[[Book of Moon]]", "[[Cyberse Quantum Dragon]]", etc. Curiously, effects that banish them can also be helpful, since the Fusions themselves cannot be Summoned once they are banished and do not trigger any effect upon being banished. One-turn options to stop the Deck also include "[[Dimensional Barrier]]" and "[[Artifact Lancea]]".
-  Finally, all three of the "[[Drain]]" Continuous Trap Cards can put a complete seal on these Decks. In addition to the on-field effect negation of "[[Skill Drain]]", "[[Soul Drain]]" will prevent the triggering of effects of "Thunder Dragon" that hit the Graveyard or are banished, and "[[Mind Drain]]" prevents "Thunder Dragons" from activating their effects in the hand.
+  * As the deck is reliant on banishing, it is weak to anti-banishing floodgates. (e.g. "[[Imperial Iron Wall]]", "[[Artifact Lancea]]", "[[Soul Drain]]")
+  * As the deck is reliant on Summoning, it is weak to anti-summoning floodgates. (e.g. "[[Fossil Dyna Pachycephalo]]")
+
   {{Archseries navbox}}
   {{Archseries navbox (anime)}}
   {{Archseries navbox (OCG Structures)}}

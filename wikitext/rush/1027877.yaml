@@ -17,16 +17,23 @@ wikitext: |-
   * Red-Eyes Black Dragon (Rush Duel)
   | materials             = "[[Summoned Skull (Rush Duel)|Summoned Skull]]" + "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]"
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                  = All [[face-up]] monsters on your [[field]] gain 500 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] all face-up monsters with 3100 or less [[ATK]] on your opponent's field.
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | lore                  = All [[face-up]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] all face-up monsters with 3100 or less ATK on your opponent's field.
+  | ja_materials          = 「デーモンの召喚」＋「真紅眼の黒竜」
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = 自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。その後、相手フィールドの表側表示モンスター（攻撃力３１００以下）を全て破壊できる。
   | jp_sets               = 
   RD/HC01-JP020; High-Grade Collection; Ultra Rare, Over Rush Rare
-  | related_to_archseries = Red-Eyes (Rush Duel)
   | mentions              = 
   * Summoned Skull (Rush Duel)
   * Red-Eyes Black Dragon (Rush Duel)
+  | related_to_archseries = Red-Eyes (Rush Duel)
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  | misc                  = Cover card
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
