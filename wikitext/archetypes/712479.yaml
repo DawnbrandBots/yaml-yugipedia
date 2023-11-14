@@ -55,8 +55,10 @@ wikitext: |-
   | [[File:FIRE.svg|24px]] [[FIRE]]
   |}
   ==Playing style==
-  The "Adamancipator" archetype revolves around [[Excavate|excavating]] the top cards of the player's Deck to perform beneficial actions, with a general Synchro and Link Summoning-based swarming and combo playstyle. The usage of excavation effect, in particular by the "Adamancipator" Tuner monsters, reflects their lore as cave explorers; they 'explore' (excavate) into 'caves' (the player's Deck) and 'discover' (Special Summon) magical crystal monsters.
+  "Adamancipator" revolves around [[Excavate|excavating]] the top 5 cards of the player's Deck to perform beneficial actions, with a general Synchro and Link Summoning-based swarming and combo playstyle. The usage of excavation effect, in particular by the "Adamancipator" Tuner monsters, reflects their lore as cave explorers; they 'explore' (excavate) into 'caves' (the player's Deck) and 'discover' (Special Summon) magical crystal monsters.
+
   Each "Adamancipator" Tuner monster has an [[only once per turn]] effect to excavate the top 5 cards of the player's Deck, and Special Summon an excavated Level 4 or lower Rock non-Tuner monster. This shared effect enables rapid swarming of Rock monsters, with the downside of potential inconsistency due to random chance. Summoning "Adamancipator" Tuners and successfully resolving their individual excavation effects as many times as possible is central to the deck's swarming and combo capabilities.
+
   Each "Adamancipator" Tuner has another effect that lets them Special Summon themselves from the hand, if conditions are met.
   {| class="wikitable"
   |-
@@ -77,7 +79,9 @@ wikitext: |-
   | [[Adamancipator Seeker|Seeker]]
   | If you control an "Adamancipator" monster, except "Adamancipator Seeker".
   |}
-  In-archetype, the intended targets for the "Adamancipator" Tuner monsters' excavation effects are the "Adamancipator Crystal" monsters, who can trigger a positive effect upon being summoned by "Adamancipator" cards. Each of them also have a GY effect that lets them recycle themselves, along with a Synchro monster with their Attribute (in-archetype, this can be their "Adamancipator Risen" counterparts), from the GY back into the Deck.
+
+  In-archetype, the intended targets for the "Adamancipator" Tuners' excavation effects are the "Adamancipator Crystal" monsters, who can trigger a positive effect upon being summoned by "Adamancipator" cards. Each of them also have a GY effect that lets them recycle themselves, along with a Synchro monster with their Attribute (in-archetype, this can be their "Adamancipator Risen" counterparts), from the GY back into the Deck.
+
   {| class="wikitable"
   |-
   ! Crystal
@@ -98,40 +102,21 @@ wikitext: |-
   | {{Attribute|FIRE|size=24px}}
   | Place 1 "Adamancipator" card from your hand or GY on top of the Deck. 
   |}
-  The "Adamancipator Risen" are the main boss monsters of the archetype. Each of them have two effects: one [[Ignition Effect]] involving excavating 5 cards from the top of the Deck, and a [[Quick Effect]] that requires another monster with their Attribute in the GY to be used.
-  {| class="wikitable"
-  |-
-  ! Risen
-  ! Level
-  ! Attribute
-  ! Ignition Effect (Excavate 5)
-  ! Quick Effect Summary
-  |-
-  | [[Adamancipator Risen - Dragite|Dragite]]
-  | 8
-  | {{Attribute|WATER|size=24px}}
-  | Return cards your opponent controls to the hand, up to the number of excavated Rock monsters.
-  | When your opponent activates a Spell/Trap Card or effect, you can negate the activation and destroy it.
-  |-
-  | [[Adamancipator Risen - Raptite|Raptite]]
-  | rowspan = 2 | 6
-  | {{Attribute|WIND|size=24px}}
-  | Special Summon 1 excavated Rock monster in Defense Position.
-  | During your opponent's turn, you can target and banish 1 card in your opponent's GY.
-  |-
-  | [[Adamancipator Risen - Leonite|Leonite]]
-  | {{Attribute|FIRE|size=24px}}
-  | Add 1 excavated "Adamancipator" card to your hand.
-  | During your opponent's turn, you can target and Special Summon 1 Rock monster in your GY.
-  |}
+
+  The "Adamancipator Risen" are the main boss monsters of the archetype. Each has two effects: an [[Ignition Effect]] involving excavating 5 cards, and a [[Quick Effect]] that requires another monster with their Attribute in the GY as a precondition. "[[Adamancipator Risen - Dragite|Dragite]]" bounces with excavation and has a Spell/Trap negate, "[[Adamancipator Risen - Raptite|Raptite]]" Summons a Rock with excavation (like the "Adamancipator" Tuners) and has a GY banish interruption, and "[[Adamancipator Risen - Leonite|Leonite]]" adds 1 "Adamancipator" card with excavation and has a GY revival effect in the opponent's turn. 
+
   In terms of Spell and Trap support, all of the archetype's Spells provide extra consistency for finding and resolving the effects of "Adamancipator" Tuner monsters, by placing cards on the top of the Deck and situationally searching or recovering individual Rock monsters. The archetype's Trap cards supplement their effect lineup with card destruction and monster effect negation, which the "Adamancipator Risen" monsters lack.
+
   Externally, many non-"Adamancipator" Rock monsters can also be summoned by "Adamancipator" Tuners, allowing much more varied deck builds.
   * The "[[Koa'ki Meiru]]" cards, in particular the Level 4 monsters with negation effects (i.e. "[[Koa'ki Meiru Guardian|Guardian]]", "[[Koa'ki Meiru Overload|Overload]]", "[[Koa'ki Meiru Sandman|Sandman]]", "[[Koa'ki Meiru Wall|Wall]]"), provide additional pieces of interruption and work well with the archetype's Level needs.
   * "[[Koa'ki Meiru Supplier]]" is an additional extender with searching capabilities.
   * "[[Doki Doki]]" can be used to Special Summon additional Rock monsters from the Deck, including more "Adamancipator" Tuners.
   * "[[Prank-Kids Rocksies]]" can be used to provide more bodies by linking it into "[[Prank-Kids Meow-Meow-Mu]]".
-  Generally, an "Adamancipator" deck aims to maximize the "Adamancipator" Tuners' excavation effects, in order to swarm the field and perform Synchro and Link Summoning combos with the swarmed materials. The inherent randomness and inconsistency within the the excavation effects is typically addressed in one of two ways: including and using "Adamancipator" Spell cards, or by fine-tuning deck composition to include a critical mass of Rock monsters. "Adamancipator" end boards typically include "[[Adamancipator Risen - Dragite]]", along with other high-power generic boss monsters such as "[[Apollousa, Bow of the Goddess]]", "[[Borreload Savage Dragon]]", or "[[Accesscode Talker]]".
-  The deck at its peak performance relied heavily on "[[Block Dragon]]" to search out "Adamancipator" Tuner monsters and provide extra extenders for even bigger boards, making the deck extremely resilient, consistent, and powerful. Following the ban of "Block Dragon" in the ''TCG'', the ''TCG'' deck has had to rely on other less consistent support engines, though "Block Dragon" is not banned in the ''OCG''.
+
+  Generally, an "Adamancipator" deck aims to maximize the "Adamancipator" Tuners' (& "Raptite"'s) excavation effects, in order to swarm the field and Synchro/Link climb into boss monsters. The inherent inconsistency within the excavation effects is typically addressed in one of two ways: including and using "Adamancipator" Spell cards, or by fine-tuning deck composition to include a critical mass of Rock monsters. "Adamancipator" end boards typically include "[[Adamancipator Risen - Dragite]]", along with other high-power generic boss monsters such as "[[Apollousa, Bow of the Goddess]]", "[[Borreload Savage Dragon]]", or "[[Accesscode Talker]]".
+
+  In formats where the card is/was available, "[[Block Dragon]]" is a critical extender for "Adamancipator" combos, as it could search out all of the "Adamancipator" Tuners and non-OPT revive itself for Link/Synchro climbing.
+
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
