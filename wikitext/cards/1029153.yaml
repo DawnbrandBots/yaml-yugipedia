@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 
   | effect_types          = Condition, Ignition, Trigger, Ignition, Condition
-  | lore                  = (This card is always treated as a "Sky Striker" card.)<br />You can discard 1 Spell; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Special Summon 1 "Sky Striker Ace - Roze" from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Machine monsters. You can banish this card from your GY; take 1 of your "Sky Striker Ace - Roze" that is banished or in your GY, and either add it to your hand or Special Summon it. You can only use each effect of "Pillar of the Future - Cyanos" once per turn.
+  | lore                  = (This card is always treated as a "[[Sky Striker]]" card.)<br />You can [[discard]] 1 [[Spell]]; [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 "[[Sky Striker Ace - Roze]]" from your [[Deck]] or [[GY]], also you cannot Special Summon [[monster]]s from the [[Extra Deck]] for the rest of this [[turn]], except [[Machine]] monsters. You can [[banish]] this card from your GY; take 1 of your "Sky Striker Ace - Roze" that is banished or in your GY, and either [[add]] it to your hand or Special Summon it. You can only use each [[effect]] of "Pillar of the Future - Cyanos" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,8 +33,29 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   24PP-JP018; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | mentions              = Sky Striker Ace - Roze
+  | supports              = Machine
   | archseries            = Sky Striker
   | related_to_archseries = Sky Striker Ace
+  | action                =
+  * Activates from your hand
+  * Discards for cost
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Adds banished cards to the hand
+  * Adds from Graveyard to hand
+  | summoning             =
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Special Summons banished monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

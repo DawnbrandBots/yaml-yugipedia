@@ -22,7 +22,7 @@ wikitext: |-
   | password            = 
   | materials           = 2+ monsters, including a Link Monster
   | effect_types        = Summoning condition, Trigger, Condition, Trigger
-  | lore                = 2+ monsters, including a Link Monster<br />Must first be Link Summoned. If this card is Special Summoned: You can banish 1 Spell from your hand or GY, then target 1 monster your opponent controls with 2500 or less ATK; equip that face-up monster to this card as an Equip Spell. You can only use this effect of "Sky Striker Ace - Azalea Temperance" once per turn. When this card is destroyed by battle: You can Special Summon 1 other "Sky Striker" monster from your hand or GY.
+  | lore                = 2+ [[monster]]s, including a [[Link Monster]]<br />Must first be Link Summoned. If this card is [[Special Summon]]ed: You can [[banish]] 1 [[Spell]] from your [[hand]] or [[GY]], then [[target]] 1 monster your opponent [[control]]s with 2500 or less [[ATK]]; [[equip]] that [[face-up]] monster to this card as an [[Equip Spell]]. You can only use this [[effect]] of "Sky Striker Ace - Azalea Temperance" [[once per turn]]. When this card is [[destroyed by battle]]: You can Special Summon 1 other "[[Sky Striker]]" monster from your [[hand]] or GY.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,6 +37,20 @@ wikitext: |-
   * Sky Striker
   * Sky Striker Ace
   | supports_archetypes = Sky Striker
+  | action              = 
+  * Activates upon Special Summon
+  * Equips monsters from the opponent's field to itself
+  | m/s/t               = Treats monsters as Equip Cards
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires Link Monsters as Link Materials
+  * Special Summon-only monster
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished            = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
