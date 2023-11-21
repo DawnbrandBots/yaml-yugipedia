@@ -26,6 +26,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP016; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports              = Fish
+  | action                = 
+  * Activates upon attack declaration
+  * Discards for cost
+  * Changes battle positions
+  * Activates if destroyed by battle
+  * Activates if other cards are sent to the Graveyard
+  * Sends itself from field to Graveyard for cost
+  | stat_change           = Treats monsters as Tuner monsters
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | archseries            = White
   | database_id           = 
   | ocg_status            = Not yet released
