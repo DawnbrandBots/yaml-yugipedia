@@ -30,18 +30,20 @@ wikitext: |-
   | archseries            = Toy
   | supports_archetypes   = Toy
   | action                = 
+  * Activates upon attack declaration
   * Sends from field to Graveyard for cost
   * Sets from your hand
   * Sets from your Deck
   * Sets from your field to Spell & Trap Zone
   * Sets from your Graveyard
-  | attack                = Activates upon attack declaration
   | m/s/t                 = 
   * Destroys your opponent's Monster Cards
   * Treats monsters as Spell Cards
   * Destroys your Spell Cards
   * Destroys your Trap Cards
-  | misc                  = Once per turn
+  | misc                  = 
+  * Limited activations
+  * Variable effects
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

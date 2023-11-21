@@ -35,13 +35,15 @@ wikitext: |-
   | archseries            = Toy
   | action                = 
   * Sets itself from the hand as a Spell Card
-  * Activates if destroyed while Set
+  * Activates if sent to the Graveyard
   * Activates from your Graveyard
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Adds from Deck to hand
   | summoning             = Special Summons itself from your Graveyard
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
