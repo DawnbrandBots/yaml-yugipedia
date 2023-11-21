@@ -54,10 +54,11 @@ wikitext: |-
   | archseries            = Artifact
   | supports_archetypes   = Artifact
   | action                = 
-  * Sets self from hand as Spell Card
+  * Sets itself from the hand as a Spell Card
   * Activates if destroyed while Set
   * Activates from your Graveyard
   * Activates upon Special Summon
+  * Sets from your Graveyard
   | m/s/t                 = Treats monsters as Spell Cards
   | summoning             = Special Summons itself from your Graveyard
   | database_id           = 11042

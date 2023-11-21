@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Trigger-like, Ignition-like
-  | lore                  =  Once per turn, when an opponent's monster declares an attack: You can send 1 face-down card you control to the GY; destroy that opponent's monster. Once per turn: You can activate 1 of these effects;<br />● Set to your Spell & Trap Zone as Spells, up to 2 monsters from your hand, Deck, face-up Monster Zone, and/or GY that have "Toy" in their original names and an effect to Set themselves in the Spell & Trap Zone as a Spell.<br />● Destroy up to 2 cards in your Spell & Trap Zone.
+  | lore                  = [[Once per turn]], when an opponent's [[monster]] [[declare]]s an [[attack]]: You can [[send]] 1 [[face-down]] card you [[control]] to the [[GY]]; [[destroy]] that opponent's monster. Once per turn: You can [[activate]] 1 of these effects;<br />● [[Set]] to your [[Spell & Trap Zone]] as [[Spell]]s, up to 2 monsters from your [[hand]], [[Deck]], [[face-up]] [[Monster Zone]], and/or GY that have "[[Toy]]" in their original names and an effect to Set themselves in the Spell & Trap Zone as a Spell.<br />● Destroy up to 2 cards in your Spell & Trap Zone.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,6 +29,19 @@ wikitext: |-
   24PP-JP003; Premium Pack 2024; 
   | archseries            = Toy
   | supports_archetypes   = Toy
+  | action                = 
+  * Sends from field to Graveyard for cost
+  * Sets from your hand
+  * Sets from your Deck
+  * Sets from your field to Spell & Trap Zone
+  * Sets from your Graveyard
+  | attack                = Activates upon attack declaration
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Treats monsters as Spell Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | misc                  = Once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
