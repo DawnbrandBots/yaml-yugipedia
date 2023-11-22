@@ -7,13 +7,24 @@ wikitext: |-
   | image            = KingsGreed-RDHC01-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 1 [[Level]] 5 or higher [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]], or [[shuffle]] 3 Level 7 or higher LIGHT Attribute Fiend Type monsters from your Graveyard into the [[Main Deck|Deck]].
-  | lore             = Change 1 [[Attack Position]] LIGHT Attribute Fiend Type monster on your [[field]] to [[face-up]] [[Defense Position]]. Then, you can [[Draw a card|draw]] 2 cards.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = [[Send]] 1 [[Level]] 5 or higher [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]], or [[shuffle]] 3 Level 7 or higher LIGHT Attribute Fiend Type monsters from your Graveyard into the [[Main Deck|Deck]].
+  | lore             = [[Battle position change|Change]] 1 [[Attack Position]] LIGHT Attribute Fiend Type monster on your [[field]] to [[face-up]] [[Defense Position]]. Then, you can [[Draw a card|draw]] 2 cards.
+  | ja_requirement   = 手札のモンスター（レベル５以上／光属性／悪魔族）１体を墓地へ送るか、自分の墓地のモンスター（レベル７以上／光属性／悪魔族）３体をデッキに戻して発動できる。
+  | ja_lore          = 自分フィールドの攻撃表示モンスター（光属性／悪魔族）１体を選んで表側守備表示にする。その後、自分は２枚ドローできる。
   | jp_sets          = 
   RD/HC01-JP083; High-Grade Collection; Common
+  | supports         = 
+  * LIGHT
+  * Fiend
   | archseries       = King's
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * You draw cards
+  | misc             = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
