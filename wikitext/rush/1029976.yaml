@@ -4,20 +4,30 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name          = ロイヤルデモンズ・プログレッシブ
-  | romaji_name      = 
+  | romaji_name      = Roiyaru Demonzu Puroguresshibu
+  | trans_name       = Royal Demon's Progressive
   | image            = RoyalRebelsProgressive-RDHC01-JP-OP.png
   | attribute        = LIGHT
   | types            = Fiend / Effect
   | level            = 8
   | atk              = 2500
   | def              = 0
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card by Tributing a [[Level]] 5 or higher [[monster]].
-  | lore             = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]]. Then, you can destroy 1 [[face-down]] card on your opponent's field. You can only [[attack]] with [[Fiend]] [[Type]] monsters this turn.
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card by [[Tribute|Tributing]] a [[Level]] 5 or higher [[Monster Card|monster]].
+  | lore             = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]]. Then, you can destroy 1 [[face-down]] card on your opponent's field. You can only [[attack]] with [[Fiend]] [[Type]] monsters this turn.
+  | ja_requirement   = モンスター（レベル５以上）をリリースしてこのカードを召喚したターンに発動できる。
+  | ja_lore          = 相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、相手フィールドの裏側表示のカード１枚を選んで破壊できる。このターン、自分はモンスター（悪魔族以外）で攻撃できない。
   | jp_sets          = 
   RD/HC01-JP017; High-Grade Collection; Ultra Rare, Over Rush Rare
+  | supports         = Fiend
   | archseries       = Royal Rebel's
+  | action           = Activates during the turn in which it was Normal Summoned
+  | m/s/t            = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | attack           = Prevents your monsters from attacking
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
