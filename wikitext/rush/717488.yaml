@@ -9,15 +9,17 @@ wikitext: |-
   | romaji_name    = Jaei Dāku Rūkā
   | ko_name        = 사영 다크 루커
   | ko_rr_name     = 
-  | image          = WickedShadowDarkLurker-RDMRP1-JP-R.png
+  | image          = 
+  1; WickedShadowDarkLurker-RDMRP1-JP-R.png; WickedShadowDarkLurker-DBR-JP-VG-artwork.png
+  2; WickedShadowDarkLurker-RDS23P-JP-OP.png
+  | current_image  = 1
   | attribute      = DARK
   | types          = Zombie / Effect
   | level          = 7
   | atk            = 100
   | def            = 2600
-  | requirement    = [[Send]] the top card of your [[Deck]] to the [[Graveyard]].
-  | lore           = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]] and if you do, inflict 1000 [[Effect damage|damage]] to your opponent. Then, [[return]] this card to the [[owner]]'s [[hand]].
-  | archseries     = Ghost Story
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]] and if you do, [[Damage|inflict]] 1000 [[Effect damage|damage]] to your opponent. Then, [[return]] this card to the [[owner]]'s [[hand]].
   | fr_requirement = Envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_lore        = Détruisez 1 Carte Magie/Piège sur le Terrain de votre adversaire, et si vous le faites, infligez 1000 points de dommages à votre adversaire. Ensuite, renvoyez cette carte dans la main de son propriétaire.
   | de_requirement = Lege die oberste Karte deines Decks auf den Friedhof.
@@ -37,6 +39,7 @@ wikitext: |-
   | kr_sets        = 
   RD/KP02-KR030; Deck Mod Pack: Shocking Lightning Attack!!; Super Rare
   RD/MRP1-KR072; Megaroad Pack; Rare
+  | archseries     = Ghost Story
   | action         = 
   * Sends from the top of your Deck to your Graveyard for cost
   * Returns itself from field to hand
