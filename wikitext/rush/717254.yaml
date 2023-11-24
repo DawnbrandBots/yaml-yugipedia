@@ -12,7 +12,7 @@ wikitext: |-
   | image          = TripleTrio-RDKP03-JP-C.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] while you have 3 [[face-up]] [[Level]] 3 [[Normal Monster]]s on your [[field]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have 3 [[face-up]] [[Level]] 3 [[Normal Monster]]s on your [[field]].
   | lore           = All face-up monsters on your field gain 900 [[ATK]]/[[DEF]] until the end of this [[turn]].
   | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque alors que vous avez 3 Monstres Normaux de Niveau 3 face recto sur votre Terrain.
   | fr_lore        = Tous les monstres face recto sur votre Terrain gagnent 900 ATK/DEF jusqu'à la fin de ce tour.
@@ -32,9 +32,11 @@ wikitext: |-
   RD/KP03-KR059; Deck Mod Pack: Illusion Strike Mirage Impact!!; Common
   | supports       = Normal Monster
   | action         = Activates upon attack declaration
-  | stat_change    = Your monsters gain ATK
+  | stat_change    = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
   | misc           = 
-  * Requires control of specific Monster type
   * Requires control of specific Level
+  * Requires control of specific Monster type
   | database_id    = 15825
   }}
