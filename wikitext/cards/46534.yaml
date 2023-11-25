@@ -13,22 +13,22 @@ wikitext: |-
   | image                 = GenexTurbine-HA02-EN-SR-1E.png
   | attribute             = EARTH
   | types                 = Machine / Effect
+  | level                 = 4
   | atk                   = 1400
   | def                   = 1300
-  | level                 = 4
+  | password              = 52222372
+  | effect_types          = Continuous
   | lore                  = All face-up "[[Genex]]" [[monster]]s you [[control]] gain 400 [[ATK]].<!-- Please, do not change this text to the one found in the card database under Hidden Arsenal 2 as many of them have their old text instead of the latest text. -->
   | fr_lore               = Tous les monstres "Genex" face recto que vous contrôlez gagnent 400 points d'ATK.
   | de_lore               = Alle offenen "Genex"-Monster, die du kontrollierst erhalten 400 ATK.
   | it_lore               = Tutti i mostri "Genex" scoperti che controlli guadagnano 400 ATK.
   | pt_lore               = 
   | es_lore               = Todos los monstruos "Genex" boca arriba que controles ganan 400 ATK.
-  | ja_lore               = このカードが自分フィールド上に表側表示で存在する限り、自分フィールド上に表側表示で存在する「ジェネクス」と名のついた モンスターの攻撃力は４００ポイントアップする。
-  | ko_lore               = 이 카드가 자신 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 앞면 표시로 존재하는 '제넥스' 라는 이름이 붙은 몬스터의 공격력은 400 포인트 올린다.
-  | effect_types          = Continuous
-  | password              = 52222372
-  | en_sets                = 
+  | ja_lore               = ①：このカードがモンスターゾーンに存在する限り、自分フィールドの「ジェネクス」モンスターの攻撃力は４００アップする。
+  | ko_lore               = 이 카드가 자신 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 앞면 표시로 존재하는 "제넥스"라는 이름이 붙은 몬스터의 공격력은 400 포인트 올린다.
+  | en_sets               = 
   HA02-EN008; Hidden Arsenal 2; Super Rare
-  | na_sets                = 
+  | na_sets               = 
   DT02-EN014; Duel Terminal 2; Duel Terminal Rare Parallel Rare
   | fr_sets               = 
   HA02-FR008; Hidden Arsenal 2; Super Rare
@@ -41,6 +41,7 @@ wikitext: |-
   | jp_sets               = 
   DT03-JP014; Duel Terminal - Justice Strikes Back!!; Duel Terminal Rare Parallel Rare
   DTC1-JP064; Duel Terminal Chronicle 1 - Chapter of Awakening; Duel Terminal Rare Parallel Rare
+  TW01-JP063; Terminal World (set); Common, Normal Parallel Rare
   | kr_sets               = 
   HA02-KR008; Hidden Arsenal 2; Super Rare
   | ygo_sets              = 

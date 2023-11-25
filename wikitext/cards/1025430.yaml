@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Spirit Beast Sacred Inheritance
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = RitualBeastInheritance-TW01-JP-OP.png
+  | image                 = RitualBeastInheritance-TW01-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 22501005
   | effect_types          = Continuous-like, Condition, Ignition-like, Trigger-like
   | lore                  = [[Monsters]] your opponent [[control]]s lose 200 [[ATK]] for each different [[Type]] among the "[[Ritual Beast]]" monsters you control. You can only use each of the following [[effect]]s of "Ritual Beast Inheritance" [[once per turn]]. You can [[reveal]] 1 "Ritual Beast" monster in your [[hand]]; [[Add a card|add]] 1 "Ritual Beast" monster with a different Type from your [[Main Deck|Deck]] to your hand, then [[discard]] 1 card. If 2 or more monsters are [[Special Summon]]ed to your [[field]] at the same time: You can [[target]] 1 monster on the field; change its [[battle position]].
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの攻撃力は、自分フィールドの「霊獣」モンスターの種族の種類×２００ダウンする。②：手札の「霊獣」モンスター１体を相手に見せて発動できる。そのモンスターとは種族が異なる「霊獣」モンスター１体をデッキから手札に加える。その後、自分の手札を１枚選んで捨てる。③：自分フィールドにモンスターが２体以上同時に特殊召喚された場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。
   | ko_lore               = 
   | jp_sets               = 
-  TW01-JP125; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  TW01-JP125; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare, Quarter Century Secret Rare
   | archseries            = Ritual Beast
   | supports_archetypes   = Ritual Beast
   | action                = 
@@ -40,7 +40,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19634
   | tcg_status            = Not yet released
   }}

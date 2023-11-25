@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ArmsofGenexReturnZero-TW01-JP-OP.png
+  | image                 = ArmsofGenexReturnZero-TW01-JP-C.png
   | attribute             = DARK
   | types                 = Machine / Synchro / Effect
   | level                 = 10
   | atk                   = 3100
   | def                   = 2950
-  | password              = 
+  | password              = 61775475
   | materials             = 1 DARK Tuner + 1 or more non-Tuner monsters
   | effect_types          = Quick, Ignition
   | lore                  = 1 [[DARK]] [[Tuner]] + 1+ non-Tuner [[monster]]s<br />When your opponent [[activate]]s a monster effect ([[Quick Effect]]): You can [[banish]] 1 monster from your [[GY]] with the same [[Attribute]] as that monster, but a different one than those banished to activate this [[effect]] of "Arms of Genex Return Zero" this turn; [[negate]] the activation, and if you do, [[destroy]] that monster. [[Once per turn]]: You can [[target]] up to 6 of your "Genex" monsters with different Attributes that are banished and/or in your GY; [[shuffle]] them into the [[Deck]], then you can destroy up to that many cards in the [[Spell & Trap Zone]].
@@ -29,11 +29,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 闇属性チューナー＋チューナー以外のモンスター１体以上<br />①：相手がモンスターの効果を発動した時、属性がそのモンスターと同じとなるモンスター１体を自分の墓地から除外して発動できる（このターン、このカード名のこの効果を発動するために同じ属性のモンスターを除外できない）。その発動を無効にし破壊する。②：１ターンに１度、自分の墓地・除外状態の「ジェネクス」モンスターを６体まで対象として発動できる（同じ属性は１体まで）。そのモンスターをデッキに戻す。その後、その数まで魔法＆罠ゾーンのカードを破壊できる。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  TW01-JP050; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare
+  TW01-JP050; Terminal World (set); Common, Normal Parallel Rare, Ultra Rare, Ultra Parallel Rare, Secret Rare, Secret Parallel Rare, Quarter Century Secret Rare
   | supports              = DARK
   | archseries            = Genex
   | supports_archetypes   = Genex
@@ -52,7 +52,6 @@ wikitext: |-
   * 1 or more non-Tuner Synchro Materials
   | banished              = Banishes from Graveyard for cost
   | misc                  = Limited activations
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19623
   | tcg_status            = Not yet released
   }}
