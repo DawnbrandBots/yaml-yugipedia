@@ -59,19 +59,23 @@ wikitext: |-
   SECE-KR051; Secrets of Eternity; Ultra Rare, Secret Rare
   | sc_sets               = 
   CL04-SC182; Classic Pack 04; Ultra Rare, Secret Rare
-  | supports              = LIGHT
+  | mentions              = Stellarknight Constellar Diamond
+  | supports              = 
+  * LIGHT
+  * Xyz Monster
   | anti-supports         = DARK
   | archseries            = 
   * Constellar
   * Stellarknight
   * tellarknight
   | supports_archetypes   = tellarknight
-  | m/s/t                 = 
-  * Negates the activation of your opponent's Effect Monster's effect
-  * Destroys your opponent's Monster Cards
   | action                = 
   * Transfers
   * Applies effects if Xyz Material is attached
+  * Prevents sending cards from Deck to Graveyard
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Destroys your opponent's Monster Cards
   | summoning             = 
   * 3+ Xyz Materials
   * Requires Attribute specific Xyz Materials
