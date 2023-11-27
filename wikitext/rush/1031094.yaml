@@ -3,23 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ロイヤルデモンズ・エリートアンプ
-  | romaji_name      = Roiyaru Demonzu Erīto Anpu
-  | trans_name       = Royal Demon's Elite Amp
-  | image            = RoyalRebelsEliteAmp-RDHC01-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Fiend / Effect
-  | level            = 4
-  | atk              = 1200
-  | def              = 0
-  | requirement      = You have 3 or more [[Fiend]] [[Type]] monsters in your [[Graveyard]], or you have "[[King's Greed]]" in your Graveyard.
-  | lore             = [[Add a card|Add]] 1 [[Level]] 5 or higher Fiend Type monster with 0 or 2000 [[DEF]] from your Graveyard to your [[hand]]. You can only [[attack]] with Fiend Type monsters this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = ロイヤルデモンズ・エリートアンプ
+  | romaji_name           = Roiyaru Demonzu Erīto Anpu
+  | trans_name            = Royal Demon's Elite Amp
+  | image                 = RoyalRebelsEliteAmp-RDHC01-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Fiend / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 0
+  | requirement           = You have 3 or more [[Fiend]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], or you have "[[King's Greed]]" in your Graveyard.
+  | lore                  = [[Add a card|Add]] 1 [[Level]] 5 or higher Fiend Type monster with 0 or 2000 [[DEF]] from your Graveyard to your [[hand]]. You can only [[attack]] with Fiend Type monsters this [[turn]].
+  | ja_requirement        = 自分の墓地にモンスター（悪魔族）が３体以上いる場合、または自分の墓地に「キングス・グリード」がある場合に発動できる。
+  | ja_lore               = 自分の墓地のモンスター（レベル５以上／悪魔族／守備力０または２０００）１体を選んで手札に加える。このターン、自分はモンスター（悪魔族以外）で攻撃できない。
+  | jp_sets               = 
   RD/HC01-JP048; High-Grade Collection; Super Rare
-  | mentions         = King's Greed
-  | archseries       = Royal Rebel's
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | mentions              = King's Greed
+  | supports              = Fiend
+  | archseries            = Royal Rebel's
+  | related_to_archseries = King's
+  | action                = Adds from Graveyard to hand
+  | attack                = Prevents your monsters from attacking
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}
