@@ -12,15 +12,26 @@ wikitext: |-
   | level                  = 10
   | atk                    = 2500
   | def                    = 0
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[Maximum  Monster]].
-  | requirement            = You have 3 or more [[Fiend]] [[Type]] [[monsters]] in your [[Graveyard]].
-  | lore                   = Take 1 [[FIRE]] [[Attribute]] Maximum Monster from your Graveyard, and either [[Add a card|add]] it to your hand or [[Special Summon]] it [[face-up]] to your [[field]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Maximum  Monster]].
+  | requirement            = You have 3 or more [[Fiend]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]].
+  | lore                   = Take 1 [[FIRE]] [[Attribute]] Maximum Monster from your Graveyard, and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it [[face-up]] to your [[field]].
+  | ja_summoning_condition = このカードはマキシマムモンスター１体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement         = 自分の墓地にモンスター（悪魔族）が３体以上いる場合に発動できる。
+  | ja_lore                = 自分の墓地のマキシマムモンスター（炎属性）１体を選び、手札に加えるか自分フィールドに表側表示で特殊召喚する。
   | jp_sets                = 
   RD/HC01-JP036; High-Grade Collection; Super Rare, Over Rush Rare
+  | supports               = 
+  * Maximum Monster
+  * Fiend
+  * FIRE
   | archseries             = Blaze Fiend
+  | action                 = Adds from Graveyard to hand
+  | summoning              = 
+  * Normal Summon with 1 Tribute
+  * Special Summons from your Graveyard
+  | misc                   = 
+  * Requires control of specific Monster type
+  * Cover card
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
