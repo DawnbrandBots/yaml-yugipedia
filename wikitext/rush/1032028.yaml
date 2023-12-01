@@ -9,13 +9,21 @@ wikitext: |-
   | card_type             = Spell
   | property              = Equip
   | requirement           = [[Equip]] this card to 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] on your [[field]].
-  | lore                  = The equipped monster gains 400 [[ATK]] and cannot be [[destroy]]ed by your opponent's card [[effect]]s. If you use the equipped monster as [[material]] for a [[Fusion Summon]] while you have "[[Celeb Rose Magician]]" in your [[Graveyard]], its name can be treated as "Celeb Rose Magician".
-  | ja_requirement        = 
-  | ja_lore               = 
+  | lore                  = The equipped monster gains 400 [[ATK]], and it cannot be [[destroy]]ed by your opponent's card [[effect]]s. If you use the equipped monster as [[material]] for a [[Fusion Summon]] while you have "[[Celeb Rose Magician]]" in your [[Graveyard]], its name can be treated as "Celeb Rose Magician".
+  | ja_requirement        = 自分フィールドの表側表示モンスター（光属性／魔法使い族）１体に装備できる。
+  | ja_lore               = 装備モンスターの攻撃力は４００アップし、そのモンスターは相手の効果では破壊されない。自分の墓地に「セレブローズ・マジシャン」がいて、自分が装備モンスターをフュージョン召喚の素材とする場合、そのカード名を「セレブローズ・マジシャン」にできる。
   | jp_sets               = 
   RD/HC01-JP087; High-Grade Collection; Common
   | mentions              = Celeb Rose Magician
+  | supports              = 
+  * LIGHT
+  * Spellcaster
   | related_to_archseries = Celeb Rose
+  | stat_change           = 
+  * Equipped gains ATK
+  * Treated as alternate name
+  | m/s/t                 = Equipped cannot be destroyed by card effects
+  | misc                  = Equips only to a specific target
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

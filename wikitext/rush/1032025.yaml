@@ -10,11 +10,23 @@ wikitext: |-
   | property              = Normal
   | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have a [[face-up]] [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] monster on your [[field]], [[shuffle]] 1 face-up [[Equip Spell Card]] from your field or 4 LIGHT Attribute Spellcaster Type monsters from your [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]].
   | lore                  = [[Return]] up to 3 [[Attack Position]] monsters from your opponent's field to the owner's [[hand]].
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分フィールドに表側表示モンスター（光属性／魔法使い族）がいる場合、相手モンスターの攻撃宣言時、自分フィールドの表側表示の装備魔法カード１枚または自分の墓地のモンスター（光属性／魔法使い族）４体を持ち主のデッキに戻して発動できる。
+  | ja_lore               = 相手フィールドの攻撃表示モンスターを３体まで選んで持ち主の手札に戻す。
   | jp_sets               = 
   RD/HC01-JP022; High-Grade Collection; Ultra Rare, Over Rush Rare
+  | supports              = 
+  * LIGHT
+  * Spellcaster
+  * Equip Spell Card
   | related_to_archseries = Celeb Rose
+  | action                = 
+  * Activates upon attack declaration
+  * Returns from field to Deck for cost
+  * Returns from Graveyard to Deck for cost
+  * Returns from your opponent's field to your opponent's hand
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

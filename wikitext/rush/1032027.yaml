@@ -11,12 +11,20 @@ wikitext: |-
   | property              = Equip
   | requirement           = [[Equip]] this card to 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] on your [[field]].
   | lore                  = The equipped monster gains 400 [[ATK]], and if it [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). If you use the equipped monster as [[material]] for a [[Fusion Summon]] while you have "[[Celeb Rose Witch]]" in your [[Graveyard]], its name can be treated as "Celeb Rose Witch".
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分フィールドの表側表示モンスター（光属性／魔法使い族）１体に装備できる。
+  | ja_lore               = 装備モンスターの攻撃力は４００アップし、その攻撃は貫通する。自分の墓地に「セレブローズ・ウィッチ」がいて、自分が装備モンスターをフュージョン召喚の素材とする場合、そのカード名を「セレブローズ・ウィッチ」にできる。
   | jp_sets               = 
   RD/HC01-JP086; High-Grade Collection; Common
   | mentions              = Celeb Rose Witch
+  | supports              = 
+  * LIGHT
+  * Spellcaster
   | related_to_archseries = Celeb Rose
+  | stat_change           = 
+  * Equipped gains ATK
+  * Treated as alternate name
+  | attack                = Piercing
+  | misc                  = Equips only to a specific target
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
