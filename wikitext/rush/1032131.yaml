@@ -11,16 +11,26 @@ wikitext: |-
   | level            = 9
   | atk              = 3400
   | def              = 2500
-  | materials        = "[[Voidvelgr Requiem]]" + 1 [[Level]] 8 or higher [[DARK]] [[Attribute]] [[monster]]
+  | materials        = "[[Voidvelgr Requiem]]" + 1 [[Level]] 8 or higher [[DARK]] [[Attribute]] [[Monster Card|monster]]
   | requirement      = [[Shuffle]] 2 DARK Attribute monsters with different [[Type]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = Shuffle up to 2 [[face-up]] cards from your opponent's [[field]] into the [[owner]]'s Deck.
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_materials     = 「ヴォイドヴェルグ・レクイエム」＋モンスター（レベル８以上／闇属性）
+  | ja_requirement   = 自分の墓地の種族が異なるモンスター（闇属性）２体をデッキに戻して発動できる。
+  | ja_lore          = 相手フィールドの表側表示のカードを２枚まで選んで持ち主のデッキに戻す。
   | jp_sets          = 
   RD/HC01-JP019; High-Grade Collection; Ultra Rare, Over Rush Rare
   | mentions         = Voidvelgr Requiem
+  | supports         = DARK
   | archseries       = Voidvelgr
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Returns from your opponent's field to your opponent's Deck
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | misc             = Cover card
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

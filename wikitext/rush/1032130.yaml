@@ -8,13 +8,18 @@ wikitext: |-
   | image            = VoidvelgrMorgenstein-RDHC01-JP-OP.png
   | card_type        = Spell
   | property         = Equip
-  | requirement      = If your opponent has a [[face-down]] [[monster]] on their [[field]], [[equip]] this card to 1 [[face-up]] [[Level]] 7 or higher [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] monster on your field.
+  | requirement      = If your opponent has a [[face-down]] [[Monster Card|monster]] on their [[field]], [[equip]] this card to 1 [[face-up]] [[Level]] 7 or higher [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] monster on your field.
   | lore             = The equipped monster can [[attack]] twice per [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 相手フィールドに裏側表示モンスターがいる場合、自分フィールドの表側表示モンスター（レベル７以上／闇属性／ギャラクシー族）１体に装備できる。
+  | ja_lore          = 装備モンスターは１ターンに２回攻撃できる。
   | jp_sets          = 
   RD/HC01-JP085; High-Grade Collection; Common
+  | supports         = 
+  * DARK
+  * Galaxy (Type)
   | archseries       = Voidvelgr
+  | attack           = Allows multiple attacks
+  | misc             = Equips only to a specific target
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
