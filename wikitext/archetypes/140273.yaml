@@ -62,16 +62,40 @@ wikitext: |-
   ==Members==
   {| class="wikitable"
   ! [[Level]]
+  ! [[Attribute]]
   ! Resonator
   |-
-  | [[Level 1 Monster Cards|1]]
-  | [[Barrier Resonator|Barrier]], [[Chain Resonator|Chain]], [[Double Resonator|Double]], [[Mirror Resonator|Mirror]], [[Synkron Resonator|Synkron]]
+  | rowspan=3 | [[Level 1 Monster Cards|1]]
+  | [[LIGHT]]
+  | [[Barrier Resonator|Barrier]], [[Chain Resonator|Chain]], [[Mirror Resonator|Mirror]]
   |-
-  | [[Level 2 Monster Cards|2]]
-  | [[Crimson Resonator|Crimson]], [[Force Resonator|Force]], [[Red Resonator|Red]], [[Vision Resonator|Vision]]
+  | [[FIRE]]
+  | [[Double Resonator|Double]]
   |-
-  | [[Level 3 Monster Cards|3]]
-  | [[Clock Resonator|Clock]], [[Creation Resonator|Creation]], [[Dark Resonator|Dark]], [[Flare Resonator|Flare]], [[Net Resonator|Net]], [[Soul Resonator|Soul]]
+  | rowspan=2 | [[DARK]]
+  | [[Synkron Resonator|Synkron]]
+  |-
+  | rowspan=3 | [[Level 2 Monster Cards|2]]
+  | [[Crimson Resonator|Crimson]], [[Vision Resonator|Vision]]
+  |-
+  | [[WATER]]
+  | [[Force Resonator|Force]]
+  |-
+  | FIRE
+  | [[Red Resonator|Red]]
+  |-
+  | rowspan=4 | [[Level 3 Monster Cards|3]]
+  | [[EARTH]]
+  | [[Clock Resonator|Clock]]
+  |-
+  | [[WIND]]
+  | [[Creation Resonator|Creation]]
+  |-
+  | DARK
+  | [[Dark Resonator|Dark]]
+  |-
+  | FIRE
+  | [[Flare Resonator|Flare]], [[Net Resonator|Net]], [[Soul Resonator|Soul]]
   |}
 
   ==Playing style==

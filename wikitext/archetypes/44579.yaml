@@ -111,43 +111,79 @@ wikitext: |-
   ====[[Main Deck]]====
   {| class="wikitable"
   ! [[Level]]
+  ! [[Attribute]]
   ! Synchron
   |-
-  | [[Level 1 Monster Cards|1]]
-  | [[Changer Synchron|Changer]], [[Cyberse Synchron|Cyberse]], [[Jet Synchron|Jet]], [[Mach Synchron|Mach]], [[Mono Synchron|Mono]], [[Rokket Synchron|Rokket]], [[Turbo Synchron|Turbo]], [[Unknown Synchron|Unknown]]
+  | rowspan=3 | [[Level 1 Monster Cards|1]]
+  | [[DARK]]
+  | [[Changer Synchron|Changer]], [[Cyberse Synchron|Cyberse]], [[Mono Synchron|Mono]], [[Rokket Synchron|Rokket]], [[Unknown Synchron|Unknown]]
   |-
-  | [[Level 2 Monster Cards|2]]
-  | [[Assault Synchron|Assault]], [[Fleur Synchron|Fleur]], [[Necro Synchron|Necro]], [[Nitro Synchron|Nitro]], [[Performapal Odd-Eyes Synchron|Performapal Odd-Eyes]], [[Satellite Synchron|Satellite]]
+  | [[FIRE]]
+  | [[Jet Synchron|Jet]]
   |-
-  | [[Level 3 Monster Cards|3]]
-  | [[Drill Synchron|Drill]], [[Junk Synchron|Junk]], [[Revolution Synchron|Revolution]], [[Steam Synchron|Steam]]
+  | [[WIND]]
+  | [[Mach Synchron|Mach]], [[Turbo Synchron|Turbo]]
   |-
-  | [[Level 4 Monster Cards|4]]
-  | [[Bri Synchron|Bri]], [[Hyper Synchron|Hyper]], [[Road Synchron|Road]], [[Stardust Synchron|Stardust]]
+  | rowspan=3 | [[Level 2 Monster Cards|2]]
+  | DARK
+  | [[Assault Synchron|Assault]], [[Necro Synchron|Necro]], [[Performapal Odd-Eyes Synchron|Performapal Odd-Eyes]], [[Satellite Synchron|Satellite]]
   |-
-  | [[Level 5 Monster Cards|5]]
-  | [[Quickdraw Synchron|Quickdraw]], [[Wheel Synchron|Wheel]]
+  | [[LIGHT]]
+  | [[Fleur Synchron|Fleur]]
+  |-
+  | FIRE
+  | [[Nitro Synchron|Nitro]]
+  |-
+  | rowspan=3 | [[Level 3 Monster Cards|3]]
+  | [[EARTH]]
+  | [[Drill Synchron|Drill]], [[Revolution Synchron|Revolution]]
+  |-
+  | DARK
+  | [[Junk Synchron|Junk]]
+  |-
+  | [[WATER]]
+  | [[Steam Synchron|Steam]]
+  |-
+  | rowspan=2 | [[Level 4 Monster Cards|4]]
+  | EARTH
+  | [[Bri Synchron|Bri]]
+  |-
+  | LIGHT
+  | [[Hyper Synchron|Hyper]], [[Road Synchron|Road]], [[Stardust Synchron|Stardust]]
+  |-
+  | rowspan=2 | [[Level 5 Monster Cards|5]]
+  | WIND
+  | [[Quickdraw Synchron|Quickdraw]]
+  |-
+  | LIGHT
+  | [[Wheel Synchron|Wheel]]
   |}
   ====[[Extra Deck]]====
   {| class="wikitable"
   ! [[Level]]
+  ! [[Attribute]]
   ! Synchron
   |-
   | [[Level 2 Monster Cards|2]]
+  | [[LIGHT]]
   | [[Formula Synchron|Formula]]
   |-
   | [[Level 5 Monster Cards|5]]
+  | [[DARK]]
   | [[Accel Synchron|Accel]]
   |}
   ===Non-Tuner===
   {| class="wikitable"
   ! [[Level]]
+  ! [[Attribute]]
   ! Synchron
   |-
   | [[Level 2 Monster Cards|2]]
-  | [[Synchron Carrier|Carrier]], [[Synchron Explorer|Explorer]]
+  | [[EARTH]]
+  | [[Synchron Carrier|Carrier]], [[Synchron Explorer|Explorer]], [[Synchron Token|Token]]
   |-
   | [[Level 5 Monster Cards|5]]
+  | [[DARK]]
   | [[Synchron Keeper|Keeper]]
   |}
   ===Synchro Monsters===
