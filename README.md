@@ -11,17 +11,20 @@ holders. Any Yugipedia-original content is licensed under [CC BY-SA 4.0](https:/
 but most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
 
 The categories being downloaded are
-- [Duel Monsters cards](https://yugipedia.com/wiki/Category:Duel_Monsters_cards): [`/wikitext/cards`](/wikitext/cards)
-- [Rush Duel cards](https://yugipedia.com/wiki/Category:Rush_Duel_cards): [`/wikitext/rush`](/wikitext/rush)
-- [Skill Cards](https://yugipedia.com/wiki/Category:Skill_Cards): [`/wikitext/speed`](/wikitext/speed)
-- [TCG and OCG archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes): [`/wikitext/archetypes`](/wikitext/archetypes)
-- [Yu-Gi-Oh! Master Duel cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards): [`/wikitext/master-duel-cards`](/wikitext/master-duel-cards)
-- [Yu-Gi-Oh! Master Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists): [`/wikitext/master-duel-limit-regulation`](/wikitext/master-duel-limit-regulation)
-- [Tokens](https://yugipedia.com/wiki/Category:Tokens): [`/wikitext/tokens`](/wikitext/tokens)
-- [Cards by Konami index number](https://yugipedia.com/wiki/Category:Cards_by_Konami_index_number): [`/wikitext/konami-index`](/wikitext/konami-index)
-- ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards): [`/wikitext/duel-links-cards`](/wikitext/duel-links-cards)
-- ON HOLD DUE TO OUTAGE: [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills): [`/wikitext/duel-links-skills`](/wikitext/duel-links-skills)
-- NOT UPDATING: [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg)
+- [Duel Monsters cards](https://yugipedia.com/wiki/Category:Duel_Monsters_cards)
+- [Rush Duel cards](https://yugipedia.com/wiki/Category:Rush_Duel_cards)
+- [Skill Cards](https://yugipedia.com/wiki/Category:Skill_Cards)
+- [TCG and OCG archetypes](https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes)
+- [Yu-Gi-Oh! Master Duel cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_cards)
+- [Yu-Gi-Oh! Master Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists)
+- [Tokens](https://yugipedia.com/wiki/Category:Tokens)
+- [Cards by Konami index number](https://yugipedia.com/wiki/Category:Cards_by_Konami_index_number)
+
+These categories were downloaded but are not automatically updating.
+The Duel Links categories remain damaged since the March 2023 outage and the remaining is no longer needed downstream.
+- [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards): [`/wikitext/duel-links-cards`](/wikitext/duel-links-cards)
+- [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills): [`/wikitext/duel-links-skills`](/wikitext/duel-links-skills)
+- [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists): [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg)
 
 The remaining files — the actual source code of this stage of the pipeline — are available under the
 GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)
@@ -29,7 +32,7 @@ for more details.
 
 ## Adding a new category
 
-1. Create a new directory in Git under [`/wikitext`](/wikitext) by committing a blank `.gitkeep` file. e.g. `mkdir wikitext/example && touch wikitext/example/.gitkeep && git add wikitext/example`
-1. Run the [download workflow](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/download.yml), setting "Destination wikitext/ subdirectory" to the subdirectory created and "Yugipedia category" to the name of the category page without the `Category:`
-1. Add a new step to the [update workflow](https://github.com/DawnbrandBots/yaml-yugipedia/blob/master/.github/workflows/update.yml) to automatically update the saved wikitexts with any new changes.
-1. Remove the `.gitkeep` file from Git.
+1. Run the [download workflow](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/download.yml) with the URL-encoded title of the category page without the `Category:` as input, e.g. `Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists`.
+1. Add this URL-encoded category title to the [update list](/src/categories.txt) for the saved wikitexts automatically receive new changes via the [update workflow](https://github.com/DawnbrandBots/yaml-yugipedia/blob/master/.github/workflows/update.yml).
+
+You can request to include a category by opening a pull request adding an entry to the [update list](/src/categories.txt).

@@ -6,13 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       category:
-        description: Yugipedia category
+        description: URL-encoded Yugipedia category
         default: Duel_Monsters_cards
-        required: false
-      subdirectory:
-        description: Destination wikitext/ subdirectory
-        default: cards
-        required: false
+        required: true
       gcmcontinue:
         description: Mediawiki API gcmcontinue parameter
         required: false
@@ -28,8 +24,9 @@ jobs:
           cache: pip
       - run: pip install -r src/requirements.txt
       - run: |
-          cd "wikitext/${{ github.event.inputs.subdirectory }}" \
-          && python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
+          mkdir -p "wikitext/${{ github.event.inputs.category }}"
+          cd "wikitext/${{ github.event.inputs.category }}"
+          python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
       - uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
         if: always()
         with:
