@@ -3,21 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ギャラクテリアル・ピック
-  | romaji_name      = Gyarakuteriaru Pikku
-  | image            = GalacterialPick-RDHC01-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Galaxy / Effect
-  | level            = 4
-  | atk              = 800
-  | def              = 1300
-  | requirement      = [[Send]] 1 [[Level]] 8 or lower [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Add a card|Add]] 1 [[Level]] 10 Galaxy Type [[Maximum Monster]] from your Graveyard to your hand.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = ギャラクテリアル・ピック
+  | romaji_name           = Gyarakuteriaru Pikku
+  | image                 = GalacterialPick-RDHC01-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Galaxy / Effect
+  | level                 = 4
+  | atk                   = 800
+  | def                   = 1300
+  | requirement           = [[Send]] 1 [[Level]] 8 or lower [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore                  = [[Add a card|Add]] 1 Level 10 Galaxy Type [[Maximum Monster]] from your Graveyard to your hand.
+  | ja_requirement        = 手札のモンスター（レベル８以下／ギャラクシー族）１体を墓地へ送って発動できる。
+  | ja_lore               = 自分の墓地のマキシマムモンスター（レベル１０／ギャラクシー族）１体を選んで手札に加える。
+  | jp_sets               = 
   RD/HC01-JP076; High-Grade Collection; Common
+  | supports              = 
+  * Galaxy (Type)
+  * Maximum Monster
   | related_to_archseries = Galactica
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}
