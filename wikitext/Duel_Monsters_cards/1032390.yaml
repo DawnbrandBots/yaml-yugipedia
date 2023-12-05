@@ -16,7 +16,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Trigger-like, Trigger-like, Condition
-  | lore                  = If a [[monster]](s) on the [[field]] [[Special Summon]]ed from the [[Extra Deck]] is [[destroy]]ed by card [[effect]]: You can [[target]] 1 of them; each player takes [[Effect damage|damage]] equal to half its [[ATK]]. When your [[DARK]] [[Synchro Monster]] Special Summoned from the Extra Deck is targeted for an [[attack]]: You can target 1 card on the field; [[destroy]] it. You can only use each effect of "Earthbound Resonance" [[once per turn]].
+  | lore                  = If a [[monster]](s) [[Special Summon]]ed from the [[Extra Deck]] is [[destroy]]ed by card [[effect]]: You can [[target]] 1 of them; each player takes [[Effect damage|damage]] equal to half its [[ATK]]. When your [[DARK]] [[Synchro Monster]] Special Summoned from the Extra Deck is targeted for an [[attack]]: You can target 1 card on the field; [[destroy]] it. You can only use each effect of "Earthbound Resonance" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,7 +26,21 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP011; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports              = 
+  * DARK
+  * Synchro Monster
   | archseries            = Earthbound
+  | action                = 
+  * Activates if destroyed by card effect
+  * Activates if targeted for an attack
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | life_points           = 
+  * Damages you
+  * Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

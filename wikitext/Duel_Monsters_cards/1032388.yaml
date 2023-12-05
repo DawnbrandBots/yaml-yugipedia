@@ -16,7 +16,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Ignition-like, Continuous-like, Trigger-like
-  | lore                  = You can [[banish]] 1 [[monster]] you [[control]] and 1 "[[Power Tool]]" [[Synchro Monster]] or 1 [[Level]] 7 or 8 [[Dragon]] Synchro Monster in your [[GY]], then [[target]] 1 card your opponent controls; [[destroy]] it. Level 7 or higher Synchro Monsters you control gain 400 [[ATK]] for each of your banished Level 7 or higher Synchro Monsters. [[Once per turn]], when an opponent’s monster declares an [[attack]] while you have a banished Synchro Monster: You can [[negate]] the attack.
+  | lore                  = You can [[banish]] 1 [[monster]] you [[control]] and 1 "[[Power Tool]]" [[Synchro Monster]] or 1 [[Level]] 7 or 8 [[Dragon]] Synchro Monster in your [[GY]], then [[target]] 1 card your opponent controls; [[destroy]] it. Level 7 or higher Synchro Monsters you control gain 400 [[ATK]] for each of your banished Level 7 or higher Synchro Monsters. [[Once per turn]], when an opponent's monster declares an [[attack]] while you have a banished Synchro Monster: You can [[negate]] the attack.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,7 +26,22 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP010; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports              = 
+  * Synchro Monster
+  * Dragon
   | supports_archetypes   = Power Tool
+  | related_to_archseries = Duel Dragon
+  | action                = Activates upon attack declaration
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | attack                = Negates attacks
+  | banished              = 
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

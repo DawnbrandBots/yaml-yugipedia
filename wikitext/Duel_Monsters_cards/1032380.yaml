@@ -18,7 +18,7 @@ wikitext: |-
   | atk                   = 200
   | def                   = 200
   | password              = 
-  | effect_types          = Ignition, Trigger, Condition
+  | effect_types          = Ignition, Lingering, Trigger, Condition
   | lore                  = You can [[Tribute]] all [[face-up]] "Division" you [[control]]; [[Special Summon]] "[[Machine Token]]s" ([[Machine]]/[[FIRE]]/[[Level]] 1/[[ATK]] 200/[[DEF]] 200) up to twice the number Tributed. Each time 1 is destroyed, your opponent takes 500 [[Effect damage|damage]]. If this card is [[banish]]ed: You can [[target]] any number of Tokens you control; [[destroy]] them. You can only use each [[effect]] of "Division" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
@@ -29,6 +29,17 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP005; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | mentions              = 
+  * Division
+  * Machine Token
+  | supports              = Monster Token
+  | action                = 
+  * Tributes for cost
+  * Activates while banished
+  | m/s/t                 = Destroys your face-up Monster Cards
+  | summoning             = Special Summons Tokens
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
