@@ -27,7 +27,7 @@ jobs:
           mkdir -p "wikitext/${{ github.event.inputs.category }}"
           cd "wikitext/${{ github.event.inputs.category }}"
           python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
-      - uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
+      - uses: DawnbrandBots/.github/actions/commit-push@main
         if: always()
         with:
           message: "Yugipedia download ${{ github.run_number }} (${{ github.run_id }}): ${{ github.event.inputs.category }}"

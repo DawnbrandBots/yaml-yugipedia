@@ -36,7 +36,7 @@ jobs:
       - name: Download incremental changes since last time for targeted categories
         run: <./src/categories.txt ./src/incremental.sh "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
       - id: commit
-        uses: DawnbrandBots/yaml-yugi/.github/actions/commit-push@master
+        uses: DawnbrandBots/.github/actions/commit-push@main
         if: always()
         with:
           message: "Yugipedia recent changes: ${{ github.run_number }} (${{ github.run_id }})"
