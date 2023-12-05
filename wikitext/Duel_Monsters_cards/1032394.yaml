@@ -18,8 +18,8 @@ wikitext: |-
   | atk                   = 300
   | def                   = 100
   | password              = 
-  | effect_types          = 
-  | lore                  = ''TBA''
+  | effect_types          = Trigger, Ignition, Condition
+  | lore                  = If this card is [[Normal Summon]]ed: You can make this card become [[Level]] 4, then you can [[Add a card|add]] 1 "[[Spirit Converter]]" from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can [[target]] 1 other card you [[control]]; [[send]] both it and this card to the GY, and if you do, [[Draw a card|draw]] 1 card. You can only use each [[effect]] of "Electrode Beast Anion" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,7 +28,8 @@ wikitext: |-
   | ja_lore               = 
   | ko_lore               = 
   | jp_sets               = 
-  24PP-JP013; Premium Pack 2024; 
+  24PP-JP013; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | mentions              = Spirit Converter
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
