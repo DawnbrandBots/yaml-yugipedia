@@ -31,14 +31,30 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   YO08-JP001; Yu-Gi-Oh! OCG Structures Volume 8 promotional card; Ultra Rare
-  | mentions              = Fire King High Avatar Garunix
+  | mentions              = 
+  * Fire King Consort Ulkanix
+  * Fire King High Avatar Garunix
   | supports              = 
   * FIRE
   * Beast
   * Beast-Warrior
   * Winged Beast
   | archseries            = Fire King
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if destroyed
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  | stat_change           = Changes own Level
+  | m/s/t                 = 
+  * Destroys hand
+  * Destroys your face-up Monster Cards
+  | summoning             = Special Summons from your Deck
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
