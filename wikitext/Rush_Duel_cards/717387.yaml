@@ -25,6 +25,9 @@ wikitext: |-
   * Normal Monster
   | stat_change    = Equipped gains ATK
   | attack         = Prevents equipped monster from attacking
-  | misc           = Equips only to a specific target
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  * Equips only to a specific target
   | database_id    = 18630
   }}
