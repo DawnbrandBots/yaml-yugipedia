@@ -17,13 +17,13 @@ wikitext: |-
   | sc_name               = 
   | image                 = MoonoftheClosedSky-VJMP-JP-OP.png
   | attribute             = LIGHT
-  | types                 = ??? / Link / Effect
-  | atk                   = ???
+  | types                 = Fiend / Link / Effect
+  | atk                   = 1200
   | link_arrows           = Top-Right, Top-Center
   | password              = 
-  | materials             = 
-  | effect_types          = 
-  | lore                  = ''TBA''
+  | materials             = 2 Effect Monsters
+  | effect_types          = Ignition, Condition
+  | lore                  = 2 [[Effect Monster]]s<br />You can [[target]] 1 [[face-up]] opponent's [[Monster Card|monster]] this card [[points to]]; this [[turn]], if you [[Link Summon]] a [[Link Rating|Link]]-5 monster using this card you [[control]] as [[material]], you can also use that opponent's monster as material. You can only use this [[effect]] of "Moon of the Closed Sky" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,6 +34,11 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   VJMP-JP249; V Jump February 2024 promotional card; Ultra Rare
+  | action                = Uses cards on the opponent's field as Link Materials
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Effect Monsters as Link Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
