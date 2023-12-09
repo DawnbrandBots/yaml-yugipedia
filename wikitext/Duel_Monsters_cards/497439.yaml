@@ -58,6 +58,9 @@ wikitext: |-
   * Activates if it destroys a monster by battle
   * Uses itself as a Synchro Material
   | stat_change           = Your monsters lose Levels
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Requires having no Spells in Graveyard
+  * Requires having no Traps in Graveyard
   | database_id           = 13135
   }}
