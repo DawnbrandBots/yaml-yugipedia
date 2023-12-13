@@ -8,13 +8,20 @@ wikitext: |-
   | image            = ShadowFlowerDance-RDHC01-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = If you have a [[monster]] on your [[field]], [[shuffle]] 3 [[Plant]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement      = If you have a [[Monster Card|monster]] on your [[field]], [[shuffle]] 3 [[Plant]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, you can make up to 3 [[face-up]] non-Plant Type monsters on your opponent's field lose 300 [[ATK]]/[[DEF]] until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | ja_requirement   = 自分フィールドにモンスターがいる場合、自分の墓地のモンスター（植物族）３体をデッキに戻して発動できる。
+  | ja_lore          = 自分は１枚ドローする。その後、相手フィールドの表側表示モンスター（植物族以外）を３体まで選んでその攻撃力・守備力をターン終了時まで３００ダウンできる。
   | jp_sets          = 
   RD/HC01-JP067; High-Grade Collection; Common
+  | supports         = Plant
   | archseries       = Shadow Flower
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * You draw cards
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

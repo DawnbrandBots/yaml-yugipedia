@@ -11,13 +11,22 @@ wikitext: |-
   | level            = 8
   | atk              = 2500
   | def              = 1500
-  | requirement      = If your [[LP]] are equal to or higher than your opponent's LP during the [[turn]] you [[Normal Summon]]ed this card, change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | lore             = Until the end of your opponent's next turn, while your LP are equal to or higher than your opponent's LP, this card cannot be [[destroyed by battle]]. Then, if you have 3 or more monsters in your [[Graveyard]], you can [[Special Summon]] 1 [[Plant]] [[Type]] monster from your Graveyard face-up to your [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | requirement      = If your [[LP]] are equal to or higher than your opponent's LP during the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | lore             = Until the end of your opponent's next turn, while your LP are equal to or higher than your opponent's LP, this card cannot be [[destroyed by battle]]. Then, if you have 3 or more [[Monster Card|monster]]s in your [[Graveyard]], you can [[Special Summon]] 1 [[Plant]] [[Type]] monster from your Graveyard face-up to your [[field]].
+  | ja_requirement   = このカードを召喚したターンに、自分のＬＰが相手のＬＰ以上の場合、攻撃表示のこのカードを表側守備表示にして発動できる。
+  | ja_lore          = 次の相手ターン終了時まで、自分のＬＰが相手のＬＰ以上の間、このカードは戦闘では破壊されない。自分の墓地にモンスターが３体以上いる場合、さらに自分の墓地のモンスター（植物族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
   | jp_sets          = 
   RD/HC01-JP072; High-Grade Collection; Common
+  | supports         = Plant
   | archseries       = Shadow Flower
+  | action           = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  | summoning        = Special Summons from your Graveyard
+  | attack           = Cannot be destroyed by battle
+  | misc             = 
+  * Requires specific LP
+  * Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
