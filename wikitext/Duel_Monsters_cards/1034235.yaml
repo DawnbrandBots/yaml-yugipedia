@@ -27,8 +27,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP059; Legacy of Destruction; 
+  | supports              = 
+  * FIRE
+  * Dragon
+  * Synchro Monster
   | archseries            = Brightfleet
   | supports_archetypes   = Bestowed Dragon
+  | action                = 
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates if destroyed
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Doubles ATK
+  | m/s/t                 = 
+  * Unaffected by the opponent's card effects
+  * Unaffected by activated card effects
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

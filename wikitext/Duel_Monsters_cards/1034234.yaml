@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
+  | materials             = 1 Dragon-Type Tuner + 1 or more non-Tuner Dragon-Type monsters
   | effect_types          = Trigger, Continuous, Quick, Condition
   | lore                  = 1 [[Dragon]] [[Tuner]] + 1+ non-Tuner Dragon [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can change all monsters on the [[field]] to [[Attack Position]]. All your opponent's monsters must attack, if able, also your opponent cannot [[activate]] cards or effects during the [[Battle Phase]]. If 3 or more [[attack]]s have been declared this [[turn]] ([[Quick Effect]]): You can Special Summon this card from your GY, then you can [[destroy]] 1 card on the [[field]]. You can only use this effect of "Brightfleet Superdragon Transcend Dragion" once per Duel.
   | fr_lore               = 
@@ -31,7 +32,28 @@ wikitext: |-
   | jp_sets               = 
   LEDE-JP040; Legacy of Destruction; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   LEDE-JP040; Legacy of Destruction +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports              = 
+  * FIRE
+  * Dragon
   | archseries            = Brightfleet
+  | action                = 
+  * Activates upon Synchro Summon
+  * Changes battle positions
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Requires Type specific Tuner Synchro Materials
+  * Requires Type specific non-Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons itself from your Graveyard
+  | attack                = Must attack
+  | misc                  = Only once per Duel
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
