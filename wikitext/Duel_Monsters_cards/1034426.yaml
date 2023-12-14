@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 1500
   | password              = 
+  | materials             = 1 "Melodious Maestra" monster + 2 "Melodious" monsters
   | effect_types          = Quick, Condition, Trigger
   | lore                  = 1 "[[Melodious Maestra]]" [[monster]] + 2 "[[Melodious]]" monsters<br />([[Quick Effect]]): You can [[banish]] any number of "Melodious" monsters you [[control]] (until the [[End Phase]]), then you can [[return]] up to that many [[face-up]] cards your opponent controls to the [[hand]]. You can only use this effect of "Flowering Etoile the Melodious Grand Choir" [[once per turn]]. If this [[face-up]] [[Fusion Summon]]ed card in its [[owner]]'s control [[leaves the field]] because of an opponent's card: You can [[Special Summon]] 1 "Melodious" monster from your [[Main Deck|Deck]] or [[Extra Deck]], except "Flowering Etoile the Melodious Grand Choir".
   | fr_lore               = 
@@ -31,10 +32,22 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP036; Legacy of Destruction; 
+  | mentions              = Flowering Etoile the Melodious Grand Choir
   | archseries            = Melodious
   | supports_archetypes   = 
   * Melodious
   * Melodious Maestra
+  | action                = 
+  * Returns banished cards to the field
+  * Returns from your opponent's field to your opponent's hand
+  * Activates if it leaves the field
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  | banished              = Banishes from your field
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

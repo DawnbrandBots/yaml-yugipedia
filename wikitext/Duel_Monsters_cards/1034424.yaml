@@ -40,8 +40,27 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP010; Legacy of Destruction; 
+  | supports              = 
+  * LIGHT
+  * Fusion Monster
   | archseries            = Melodious
   | supports_archetypes   = Melodious
+  | action                = 
+  * Effect that cannot be negated
+  * Adds from Deck to hand
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  | summoning             = 
+  * Restricts the player's Pendulum Summons to archetype specific monsters
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Activates upon Special Summon
+  * Activates from your Extra Deck
+  * Goes to Pendulum Zone
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
