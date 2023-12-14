@@ -10,7 +10,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Field
   | requirement    = None
-  | lore           = While this card is [[face-up]] in the [[Field Zone]], [[face-up]] [[Warrior]] and [[Beast-Warrior]] [[Type]] [[monsters]] on the [[field]] gain 200 [[ATK]]/[[DEF]].
+  | lore           = While this card is [[face-up]] in the [[Field Zone]], face-up [[Warrior]] and [[Beast-Warrior]] [[Type]] [[Monster Card|monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
   | fr_requirement = Aucune
   | fr_lore        = Tant que cette carte est face recto sur la Zone Terrain, les monstres de Type Guerrier et Bête-Guerrier face recto sur le Terrain gagnent 200 ATK/DEF.
   | de_requirement = Keine
@@ -28,8 +28,9 @@ wikitext: |-
   | kr_sets        = 
   RD/KP04-KR050; Deck Mod Pack: Destined Power Destruction!!; Rare
   | supports       = 
-  * Beast-Warrior
   * Warrior
+  * Beast-Warrior
+  | archseries     = Type Booster
   | stat_change    = 
   * All monsters gain ATK
   * All monsters gain DEF

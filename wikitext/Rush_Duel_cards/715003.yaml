@@ -10,7 +10,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Field
   | requirement    = None
-  | lore           = While this card is [[face-up]] in the [[Field Zone]], face-up [[Insect]], [[Beast]], [[Plant]], and [[Beast-Warrior]] [[Type]] [[monsters]] on the [[field]] gain 200 [[ATK]]/[[DEF]].
+  | lore           = While this card is [[face-up]] in the [[Field Zone]], face-up [[Insect]], [[Beast]], [[Plant]], and [[Beast-Warrior]] [[Type]] [[Monster Card|monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
   | ja_requirement = なし
   | fr_requirement = Aucune
   | fr_lore        = Tant que cette carte est face recto sur la Zone Terrain, les monstres de Type Insecte, Bête, Plante et Bête-Guerrier face recto sur le Terrain gagnent 200 ATK/DEF.
@@ -33,6 +33,7 @@ wikitext: |-
   * Beast
   * Plant
   * Beast-Warrior
+  | archseries     = Type Booster
   | stat_change    = 
   * All monsters gain ATK
   * All monsters gain DEF
