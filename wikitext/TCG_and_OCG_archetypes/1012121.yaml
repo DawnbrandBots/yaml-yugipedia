@@ -13,7 +13,9 @@ wikitext: |-
   | ko_romanized = 
   | pt_name = 
   | es_name = 
-  | sets    = [[Phantom Nightmare]]
+  | sets    = 
+  * [[Phantom Nightmare]]
+  * [[Legacy of Destruction]]
   }}
 
   "'''Silenforc'''" ({{Ruby|粛|しゅく}}{{Ruby|声|せい}} ''Shukusei'') is an [[archetype]] of [[LIGHT]] monsters introduced in ''[[Phantom Nightmare]]''. It is related to the "[[Skull Guardian (archetype)|Skull Guardian]]" [[Ritual Monster|Ritual]] archetype.
@@ -23,29 +25,35 @@ wikitext: |-
   The theme's Japanese name is a play on 粛正 (''shukusei'', "regulation"), where the first kanji can mean "solemn" or "quiet", and the second one is replaced with 声 ("voice"). It may be a reference to the ''TCG'' name of "[[Novox's Prayer]]", as "Novox" can be interpreted as "no vox" (from ''vōx'', Latin for "voice").
 
   ===Members===
-  All members share the same [[Attribute]], [[Type]], [[Level]], [[ATK]], and [[DEF]] as their original counterparts (except for "Novox", whose counterpart is a [[Ritual Spell Card|Ritual Spell]]).
+  The base forms of all members share the same [[Attribute]], [[Type]], [[Level]], [[ATK]], and [[DEF]] as their original counterparts (except for "Novox", whose counterpart is a [[Ritual Spell Card|Ritual Spell]]).
 
   {| class="wikitable" style="text-align: center"
-  ! Level
-  ! Silenforc
-  ! Type
-  ! Original card
+  ! rowspan="2" | Level
+  ! colspan="2" | Silenforc
+  ! rowspan="2" | Type
+  ! rowspan="2" | Original card
+  |-
+  ! Base form
+  ! Ritual form
   |-
   | 1
   | [[Novox, the Silenforcer Disciple|Novox, the Disciple]]
+  | -
   | [[Fairy]]
   | [[Novox's Prayer]]
   |-
   | 6
   | [[Saffira, the Wise Silenforcer Queen|Saffira, the Wise Queen]]
+  | [[Saffira, the Silenforcing Deity of Dragons|Saffira, the Deity of Dragons]]<br/><small>(Level 7)</small>
   | rowspan="2" | [[Dragon]]
   | [[Saffira, Queen of Dragons]]
   |-
   | rowspan="2" | 7
   | [[Sauravis, the Sagely Silenforcer Dragon|Sauravis, the Sagely Dragon]]
+  | -
   | [[Sauravis, the Ancient and Ascended]]
   |-
-  | [[Skull Guardian, the Silenforcing Protector|Skull Guardian, the Protector]]
+  | colspan="2" | [[Skull Guardian, the Silenforcing Protector|Skull Guardian, the Protector]]
   | [[Warrior]]
   | [[Skull Guardian]]
   |}
@@ -82,6 +90,7 @@ wikitext: |-
   ** [[Ghost Ogre & Snow Rabbit]]
 
   |ritual monsters =
+  * [[Saffira, the Silenforcing Deity of Dragons]]
   * [[Skull Guardian, the Silenforcing Protector]]
   * [[Odd-Eyes Pendulumgraph Dragon]]
   * [[Saffira, Queen of Dragons]]
@@ -106,6 +115,7 @@ wikitext: |-
   * [[Nephthys, the Sacred Flame]]
   * [[Lyna the Light Charmer, Lustrous]]
   * [[Hip Hoshiningen]]
+  * [[Hieratic Seal of the Heavenly Spheres]]
 
   |normal spells =
   * [[One for One]]
@@ -125,6 +135,7 @@ wikitext: |-
 
   |continuous spells =
   * [[Silenforcing Barrier]]
+  * [[Silenforcing Blessing]]
 
   |counter traps =
   * [[Drytron Meteor Shower]]
