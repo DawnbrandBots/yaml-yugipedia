@@ -8,11 +8,14 @@ wikitext: |-
   | card_type        = Spell
   | property         = Normal
   | requirement      = None
-  | lore             = [[Destroy]] [[face-up]] [[monsters]] on your opponent's [[field]] whose original [[Level]] is 6 or lower, up to [the number of face-up [[Spellcaster]] [[Type]] monsters on your field].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = [[Destroy]] [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] whose [[Original Level and Rank|original Level]] is 6 or lower, up to [the number of face-up [[Spellcaster]] [[Type]] monsters on your field].
+  | ja_requirement   = なし
+  | ja_lore          = 相手フィールドの元々のレベルが６以下の表側表示モンスターを［自分フィールドの表側表示モンスター（魔法使い族）の数］まで選んで破壊する。
   | jp_sets          = 
   RD/HC01-JP084; High-Grade Collection; Common
+  | supports         = Spellcaster
+  | m/s/t            = Destroys your opponent's face-up Monster Cards
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

@@ -12,11 +12,17 @@ wikitext: |-
   | atk              = 1200
   | def              = 200
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Increase this card's [[Level]] by 2 until the end of this [[turn]]. Then, if you sent a [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] to the Graveyard to meet the requirement, this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a LIGHT Attribute Galaxy Type monster in [[Attack Position]].
-  | ja_requirement   = 
-  | ja_lore          = 
+  | lore             = Increase this card's [[Level]] by 2 until the end of this [[turn]]. Then, if you sent a [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] to the Graveyard to meet the [[Activation condition|requirement]], this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a LIGHT Attribute Galaxy Type monster in [[Attack Position]].
+  | ja_requirement   = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore          = このカードのレベルはターン終了時まで２上がる。この効果の条件でモンスター（光属性／ギャラクシー族）が墓地へ送られた場合、さらにこのターン、モンスター（光属性／ギャラクシー族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
   | jp_sets          = 
-  RD/HC01-JP075; High-Grade Collection; Common
+  RD/HC01-JP075; High-Grade Collection; Common, Super Rare
+  | supports         = 
+  * LIGHT
+  * Galaxy (Type)
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = This card gains Levels
+  | summoning        = Treated as multiple Tributes
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
