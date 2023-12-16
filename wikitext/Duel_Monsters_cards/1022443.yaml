@@ -19,13 +19,13 @@ wikitext: |-
   | def                   = 1400
   | password              = 
   | effect_types          = Trigger, Condition, Trigger
-  | lore                  = If you [[Normal Summon|Normal]] or [[Special Summon]] a [[FIRE]] [[monster]](s): You can [[Special Summon]] this card from your [[hand]], then you can [[send]] 1 [[Level]] 8 [[Pyro]] monster from your [[Main Deck|Deck]] to the [[GY]]. You can only use this [[effect]] of "Electro Gunner" [[once per turn]]. Once per turn, if a [[Spell Card]] is activated: You can make all FIRE monsters you currently [[control]] gain 300 [[ATK]].
+  | lore                  = If you [[Normal Summon|Normal]] or [[Special Summon]] a [[FIRE]] [[monster]](s): You can [[Special Summon]] this card from your [[hand]], then you can [[send]] 1 [[Level]] 8 [[Pyro]] monster from your [[Main Deck|Deck]] to the [[GY]]. You can only use this [[effect]] of "Electro Gunner" [[once per turn]]. Once per turn, if a [[Spell Card]] is activated (except during the [[Damage Step]]): You can make all FIRE monsters you currently [[control]] gain 300 [[ATK]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：自分が炎属性モンスターを召喚・特殊召喚した場合に発動できる。このカードを手札から特殊召喚する。その後、デッキから炎族・レベル８モンスター１体を墓地へ送る事ができる。②：１ターンに１度、魔法カードが発動した場合に発動できる。自分フィールドの全ての炎属性モンスターの攻撃力は３００アップする。
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP004; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
@@ -43,7 +43,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Only once per turn
   * Limited activations
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 8927
   | tcg_status            = Not yet released
   }}

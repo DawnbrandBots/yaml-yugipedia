@@ -16,13 +16,13 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Trigger-like, Trigger-like, Condition
-  | lore                  = If a [[monster]](s) [[Special Summon]]ed from the [[Extra Deck]] is [[destroy]]ed by card [[effect]]: You can [[target]] 1 of them; each player takes [[Effect damage|damage]] equal to half its [[ATK]]. When your [[DARK]] [[Synchro Monster]] Special Summoned from the Extra Deck is targeted for an [[attack]]: You can target 1 card on the field; [[destroy]] it. You can only use each effect of "Earthbound Resonance" [[once per turn]].
+  | lore                  = If a [[monster]](s) [[Special Summon]]ed from the [[Extra Deck]] is [[destroy]]ed by card [[effect]] (except during the [[Damage Step]]): You can [[target]] 1 of them; each player takes [[Effect damage|damage]] equal to half its [[ATK]]. When your [[DARK]] [[Synchro Monster]] Special Summoned from the Extra Deck is targeted for an [[attack]]: You can target 1 card on the field; [[destroy]] it. You can only use each effect of "Earthbound Resonance" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：ＥＸデッキから特殊召喚されたフィールドのモンスターが効果で破壊された場合、その内の１体を対象として発動できる。お互いにそのモンスターの攻撃力の半分のダメージを受ける。②：ＥＸデッキから特殊召喚された自分の闇属性Ｓモンスターが攻撃対象に選択された時、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。 
   | ko_lore               = 
   | jp_sets               = 
   24PP-JP011; Premium Pack 2024; Common, Normal Parallel Rare, Super Rare, Secret Rare
@@ -41,7 +41,6 @@ wikitext: |-
   * Damages you
   * Damages your opponent
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19745
   | tcg_status            = Not yet released
   }}
