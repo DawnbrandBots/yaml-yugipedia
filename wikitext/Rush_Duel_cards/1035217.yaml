@@ -3,21 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = 電脳加速器
-  | romaji_name            = 
-  | trans_name             = 
+  | ja_name                = {{Ruby|電|でん}}{{Ruby|脳|のう}}{{Ruby|加|か}}{{Ruby|速|そく}}{{Ruby|器|き}}
+  | romaji_name            = Dennō Kasokuki
+  | trans_name             = Cyber Accelerator
   | image                  = Accelerator-RDKP16-JP-OP.png
   | card_type              = Spell
   | property               = Equip
   | summoning_condition    = This card's [[effect]] cannot be [[negate]]d.
-  | requirement            = [[Equip]] this card to 1 [[face-up]] [[Machine]] [[Type]] [[monster]] on your [[field]].
+  | requirement            = [[Equip]] this card to 1 [[face-up]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
   | lore                   = The equipped monster gains 300 [[ATK]]. If the equipped monster's original name is "[[Jinzo (Rush Duel)|Jinzo]]", its [[Continuous Effect]] becomes "Your opponent cannot activate [[Trap Card]]s, and their Trap Card effects are negated".
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP16-JP056; Transamu of Transcendence; Common
-  | mentions                 = Jinzo (Rush Duel)
-  | database_id              = 
-  | rush_duel_status         = Not yet released
+  | mentions               = Jinzo (Rush Duel)
+  | supports               = Machine
+  | archseries             = Jinzo (Rush Duel series)
+  | action                 = 
+  * Effect that cannot be negated
+  * Overwrites card effects
+  | stat_change            = Equipped gains ATK
+  | misc                   = Equips only to a specific target
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}

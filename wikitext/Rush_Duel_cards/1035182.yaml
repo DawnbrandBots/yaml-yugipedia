@@ -8,15 +8,23 @@ wikitext: |-
   | level                  = 7
   | atk                    = 2400
   | def                    = 1500
-  | summoning_condition    = If a player has a [[Trap Card]] in their [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | summoning_condition    = If a [[Duelist|player]] has a [[Trap Card]] in their [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement            = [[Send]] this face-up card from your field to the Graveyard.
-  | lore                   = [[Special Summon]] 1 "[[Jinzo (Rush Duel)|Jinzo]]" from your Graveyard face-up to your field. Then, you can look at all [[face-down]] cards in your opponent's [[Spell & Trap Zone]], then [[return]] them to their original positions. If you do, destroy all Trap Cards among them.
+  | lore                   = Special Summon 1 "[[Jinzo (Rush Duel)|Jinzo]]" from your Graveyard face-up to your field. Then, you can [[look]] at all [[face-down]] cards in your opponent's [[Spell & Trap Zone]], then [[return]] them to their original positions. If you do, [[destroy]] all Trap Cards among them.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP16-JP028; Transamu of Transcendence; Super Rare, Secret Rare
-  | mentions                 = Jinzo (Rush Duel)
-  | database_id              = 
-  | rush_duel_status         = Not yet released
+  | mentions               = Jinzo (Rush Duel)
+  | archseries             = Jinzo (Rush Duel series)
+  | action                 = 
+  * Sends itself from field to Graveyard for cost
+  * Reveals face-down cards
+  | m/s/t                  = Destroys your opponent's face-down Trap Cards
+  | summoning              = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}

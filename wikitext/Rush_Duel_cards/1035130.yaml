@@ -17,7 +17,7 @@ wikitext: |-
   * Lindo the Shadow Flower Warrior
   | materials        = "[[Flower Fan Clematis]]" + "[[Lindo the Shadow Flower Warrior]]"
   | requirement      = None
-  | lore             = 1 [[face-up]] [[monster]] on your [[field]] gains [[ATK]] equal to [the number of monsters on your field] x 500 until the end of this [[turn]]. Then, inflict 700 [[Effect damage|damage]] to your opponent.
+  | lore             = 1 [[face-up]] [[Monster Card|monster]] on your [[field]] gains [[ATK]] equal to [the number of monsters on your field] x 500 until the end of this [[turn]]. Then, [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -27,6 +27,13 @@ wikitext: |-
   * Flower Fan Clematis
   * Lindo the Shadow Flower Warrior
   | archseries       = Shadow Flower
+  | stat_change      = Your monsters gain ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | life_points      = Damages your opponent
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
