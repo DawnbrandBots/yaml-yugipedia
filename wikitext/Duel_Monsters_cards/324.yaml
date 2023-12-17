@@ -23,8 +23,7 @@ wikitext: |-
   | atk                   = 4500
   | def                   = 3800
   | password              = 23995346
-  | fusion_material       = 
-  * Blue-Eyes White Dragon
+  | fusion_material       = Blue-Eyes White Dragon
   | materials             = "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
   | lore                  = "[[Blue-Eyes White Dragon]]" + "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
   | fr_lore               = "Dragon Blanc aux Yeux Bleus" + "Dragon Blanc aux Yeux Bleus" + "Dragon Blanc aux Yeux Bleus"
@@ -142,7 +141,9 @@ wikitext: |-
   * 3 Fusion Materials
   * Requires only specific Normal Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
-  | fm_for                = Dragon Master Knight
+  | fm_for                = 
+  * Dragon Magia Master
+  * Dragon Master Knight
   | misc                  = 
   * Non-Effect Monster
   * Cover card
