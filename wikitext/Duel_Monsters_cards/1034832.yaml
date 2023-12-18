@@ -26,10 +26,23 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = レベル４モンスター×２体以上<br />①：フィールドのこのカードは他のカードの効果を受けない。②：このカードがＸ召喚した場合、または自分スタンバイフェイズに発動する。自分のデッキの上からカードを３枚このカードのＸ素材にする。その後、このカードがＸ素材としているモンスターの数によって、以下の効果を適用する。<br />●４体以下：このカードのコントロールを相手に移す。<br />●５体以上：自分はこのカードが持っているＸ素材の数×４００ダメージを受け、自分フィールドのモンスターを全て破壊する。
+  | ja_lore               = レベル４モンスター×２体以上<br />①：フィールドのこのカードは他のカードの効果を受けない。②：このカードがＸ召喚した場合、または自分スタンバイフェイズに発動する。自分のデッキの上からカードを３枚このカードのＸ素材にする。その後、このカードがＸ素材としているモンスターの数によって、以下の効果を適用する。●４体以下：このカードのコントロールを相手に移す。●５体以上：自分はこのカードが持っているＸ素材の数×４００ダメージを受け、自分フィールドのモンスターを全て破壊する。
   | ko_lore               = 
   | jp_sets               = 
   24PR-JP003; Promotion Pack 2024; Normal Parallel Rare
+  | action                = 
+  * Activates upon Xyz Summon
+  * Attaches from your Deck as Xyz Material
+  * Attaches from your opponent's Deck as Xyz Material
+  * Changes control
+  | m/s/t                 = 
+  * Unaffected by other card effects
+  * Destroys your Monster Cards
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | life_points           = Damages you
+  | misc                  = Variable effects
   | database_id           = 19936
   | tcg_status            = Not yet released
   }}
