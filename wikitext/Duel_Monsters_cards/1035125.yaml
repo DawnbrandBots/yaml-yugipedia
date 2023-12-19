@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 1800
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Condition, Trigger, Ignition
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />"[[Lightsworn]]" monsters you [[control]] cannot be [[banish]]ed by card [[effect]]s. You can only use each of the following [[effect]]s of "Minerva, Lightsworn Athena" [[once per turn]]. If this card is [[Synchro Summon]]ed: You can [[send]] "Lightsworn" monsters with different [[Type]]s from your [[Main Deck|Deck]] to the [[GY]], up to the number of "Lightsworn" monsters used as [[material]] for this card's Summon. You can banish up to 4 "Lightsworn" monsters from your GY; send that many cards from the top of your Deck to the GY.
   | fr_lore               = 
@@ -34,6 +35,17 @@ wikitext: |-
   LEDE-JP043; Legacy of Destruction +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | archseries            = Lightsworn
   | supports_archetypes   = Lightsworn
+  | action                = 
+  * Activates upon Synchro Summon
+  * Sends from your Deck to your Graveyard
+  * Sends from the top of your Deck to your Graveyard
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  | banished              = 
+  * Prevents cards from being banished
+  * Banishes from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

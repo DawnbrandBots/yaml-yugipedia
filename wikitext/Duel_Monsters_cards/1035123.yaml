@@ -22,6 +22,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
+  | materials             = "Judgment Dragon" + "Punishment Dragon"
   | effect_types          = Summoning condition, Quick, Trigger, Trigger
   | lore                  = "[[Judgment Dragon]]" + "[[Punishment Dragon]]"<br />Must be [[Special Summon]]ed by [[banish]]ing the above cards, 1 each from your [[field]] and [[GY]]. [[Once per turn]] ([[Quick Effect]]): You can [[pay]] 2000 [[LP]]; banish all other cards on the field and in the GYs. Once per turn, during your [[End Phase]]: [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the GY. If this card in its [[owner]]'s [[possess]]ion is destroyed by an opponent's card: You can [[Add a card|add]] 1 each of your banished "Judgment Dragon" and "Punishment Dragon" to your [[hand]], then you can Special Summon both, [[ignoring their Summoning conditions]].
   | fr_lore               = 
@@ -37,6 +38,28 @@ wikitext: |-
   * Judgment Dragon
   * Punishment Dragon
   | related_to_archseries = Lightsworn
+  | action                = 
+  * Sends from the top of your Deck to your Graveyard
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Adds banished cards to the hand
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Nomi
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your hand
+  * Ignoring the Summoning conditions
+  | banished              = 
+  * Banishes Fusion Materials for Contact Fusion
+  * Banishes from field for Summon
+  * Banishes from Graveyard for Summon
+  * Banishes from field
+  * Banishes from Graveyard
+  | life_points           = Pays Life Points for cost
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
