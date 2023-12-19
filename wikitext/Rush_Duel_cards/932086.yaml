@@ -1,7 +1,5 @@
 title: Plaster Scout
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = {{Ruby|石膏の斥候|プラスター・スカウト}}
   | romaji_name    = Purasutā Sukauto
@@ -14,7 +12,7 @@ wikitext: |-
   | def            = 1000
   | effect_types   = Continuous
   | requirement    = None
-  | lore           = You [[Damage|take]] no [[Effect damage|damage]] from your opponent's card [[effect]]s during their [[Main Phase]] only.
+  | lore           = During your opponent's [[Main Phase]], you take no [[effect damage]] from your opponent.
   | ja_requirement = なし
   | ja_lore        = 相手メインフェイズの間、自分は相手の効果ではダメージを受けない。
   | ko_requirement = 없음
