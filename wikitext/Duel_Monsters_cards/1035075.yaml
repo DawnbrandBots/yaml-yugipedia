@@ -31,9 +31,27 @@ wikitext: |-
   | jp_sets               = 
   LEDE-JP008; Legacy of Destruction; 
   | mentions              = Ancient Gear Golem
+  | supports              = Continuous Trap Card
   | archseries            = Ancient Gear
   | supports_archetypes   = Ancient Gear
   | related_to_archseries = Ancient Gear Golem (archetype)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Places cards from hand in Spell & Trap Zone
+  | summoning             = 
+  * Performs a Normal Summon
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Ignoring the Summoning conditions
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
