@@ -8,12 +8,20 @@ wikitext: |-
   | image            = SunsetRebirth-RDKP16-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Draw a card|draws]] a card during their [[turn]], or when a [[monster]] on your [[field]] is [[destroy]]ed by an opponent's card [[effect]].
-  | lore             = [[Special Summon]] 1 monster from your [[hand]] or [[Graveyard]] to your field in [[face-down]] [[Defense Position]]. Then, up to 3 other cards on your field cannot be destroyed by your opponent's card [[effect]]s this turn.
+  | requirement      = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when a [[Monster Card|monster]](s) on your [[field]] is [[destroy]]ed by an opponent's card [[effect]].
+  | lore             = [[Special Summon]] 1 monster from your [[hand]] or [[Graveyard]] to your field in [[face-down]] [[Defense Position]]. Then, up to 3 other cards on your field cannot be destroyed by your opponent's card effects this turn.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP16-JP066; Transamu of Transcendence; Ultra Rare, Over Rush Rare
+  RD/KP16-JP066; Transamu of Transcendence; Ultra Rare, Secret Rare, Over Rush Rare
+  | action           = 
+  * Activates if your opponent draws a card
+  * Activates if destroyed by card effect
+  | m/s/t            = Prevents other cards being destroyed by card effects
+  | summoning        = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons face-down
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
