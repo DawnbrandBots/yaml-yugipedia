@@ -16,13 +16,13 @@ wikitext: |-
   | sc_name               = 
   | base_romaji_name      = Kyūkyokuryū Madōshi
   | base_trans_name       = Ultimate Dragon Mage
-  | image                 = DragonMagiaMaster-QCDB-JP-OP.png
+  | image                 = DragonMagiaMaster-QCDB-JP-UR.png
   | attribute             = LIGHT
   | types                 = Dragon / Fusion / Effect
   | level                 = 12
   | atk                   = 5000
   | def                   = 4000
-  | password              = 
+  | password              = 12381100
   | fusion_material       = Blue-Eyes Ultimate Dragon
   | materials             = "Blue-Eyes Ultimate Dragon" (or 3 "Blue-Eyes" monsters) + 1 "Chaos" or "Black Luster Soldier" Ritual Monster
   | effect_types          = Summoning condition, Quick, Condition, Trigger
@@ -32,17 +32,16 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 「青眼の究極竜」（または「ブルーアイズ」モンスター×３）＋「カオス」儀式モンスター<br />このカードは融合召喚でしか特殊召喚できない。①：相手が効果を発動した時に発動できる（このカード名のこの効果は魔法・罠・モンスターの効果に対してそれぞれ１ターンに１度しか発動できない）。その発動を無効にし破壊する。②：表側表示のこのカードが相手によってフィールドから離れた場合に発動できる。自分のＥＸデッキ・墓地から「ブルーアイズ」モンスターか「カオス」儀式モンスター１体を特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  QCDB-JP001; Quarter Century Duelist Box; Ultra Rare, Secret Rare
+  QCDB-JP001; Quarter Century Duelist Box; Ultra Rare, Secret Rare, Quarter Century Secret Rare
   | mentions              = Blue-Eyes Ultimate Dragon
   | supports              = Ritual Monster
   | supports_archetypes   = 
   * Blue-Eyes
   * Chaos
-  * Black Luster Soldier (archetype)
   | action                = Activates if it leaves the field
   | m/s/t                 = 
   * Negates the activation of your opponent's Effect Monster's effect
@@ -61,7 +60,6 @@ wikitext: |-
   * Nomi
   * Special Summons from your Extra Deck
   * Special Summons from your Graveyard
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19718
   | tcg_status            = Not yet released
   }}

@@ -13,28 +13,35 @@ wikitext: |-
   | trans_name            = Supreme King Dragon Zarc - Synchro Universe
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SupremeKingZARCSynchroUniverse-QCDB-JP-OP.png
+  | image                 = SupremeKingZARCSynchroUniverse-QCDB-JP-UR.png
   | attribute             = DARK
   | types                 = Dragon / Synchro / Pendulum / Effect
   | level                 = 12
   | atk                   = 4000
   | def                   = 4000
   | pendulum_scale        = 1
-  | password              = 
+  | password              = 48654267
   | material              = 1 Tuner + 1 or more non-Tuner DARK Pendulum Monsters
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Continuous, Trigger, Trigger
   | pendulum_effect       = You can [[Tribute]] 1 "[[Supreme King Dragon]]" or "[[Supreme King Gate]]" [[Pendulum Monster]]; [[Special Summon]] this card. You can only use this [[effect]] of "Supreme King Z-ARC - Synchro Universe" [[once per turn]].
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[DARK]] Pendulum Monsters<br />This card's name becomes "[[Supreme King Z-ARC]]" while on the [[field]]. After [[damage calculation]], when this card [[destroy]]s an opponent's monster by battle or inflicts [[battle damage]] to your opponent: You can Special Summon up to 2 "Supreme King Dragon" monsters from your [[Deck]], [[Extra Deck]], and/or [[GY]] in [[Defense Position]]. If this card in the [[Monster Zone]] is destroyed by battle or card effect: You can place this card in your [[Pendulum Zone]].
+  | fr_pendulum_effect    = 
   | fr_lore               = 
+  | de_pendulum_effect    = 
   | de_lore               = 
+  | it_pendulum_effect    = 
   | it_lore               = 
+  | pt_pendulum_effect    = 
   | pt_lore               = 
+  | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの、「覇王眷竜」Ｐモンスターか「覇王門」Ｐモンスター１体をリリースして発動できる。このカードを特殊召喚する。
+  | ja_lore               = チューナー＋チューナー以外の闇属性Ｐモンスター１体以上<br />①：このカードはモンスターゾーンに存在する限り、カード名を「覇王龍ズァーク」として扱う。②：このカードが、戦闘で相手モンスターを破壊したダメージ計算後、または相手に戦闘ダメージを与えた時に発動できる。自分のデッキ・ＥＸデッキ・墓地から「覇王眷竜」モンスターを２体まで守備表示で特殊召喚する。③：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
+  | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
-  QCDB-JP005; Quarter Century Duelist Box; Ultra Rare, Secret Rare
+  QCDB-JP005; Quarter Century Duelist Box; Ultra Rare, Secret Rare, Quarter Century Secret Rare
   | mentions              = Supreme King Z-ARC
   | supports              = 
   * DARK
@@ -73,7 +80,6 @@ wikitext: |-
   * Requires control of specific Monster type
   * Only once per turn
   * Synchro Pendulum Monster
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19722
   | tcg_status            = Not yet released
   }}
