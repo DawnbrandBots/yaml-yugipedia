@@ -20,8 +20,10 @@ hpack==4.0.0
     # via h2
 httpcore==1.0.2
     # via httpx
-httpx[http2]==0.25.2
-    # via -r requirements.in
+httpx[http2]==0.26.0
+    # via
+    #   -r requirements.in
+    #   httpx
 hyperframe==6.0.1
     # via h2
 idna==3.6
