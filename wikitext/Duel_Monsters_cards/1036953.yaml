@@ -31,6 +31,12 @@ wikitext: |-
   | archseries            = 
   * Earthbound
   * Trap Monster
+  | action                = Activates if destroyed by battle
+  | m/s/t                 = Treats Trap Cards as monsters
+  | summoning             = Special Summons itself from your Spell & Trap Zone
+  | attack                = Must attack particular monster
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
