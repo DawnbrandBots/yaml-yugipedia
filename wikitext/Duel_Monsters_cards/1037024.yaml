@@ -17,6 +17,7 @@ wikitext: |-
   | atk                   = 1700
   | def                   = 1600
   | password              = 
+  | materials             = 1 Dragon-Type monster + 1 FIRE Warrior-Type monster
   | effect_types          = Quick, Condition, Continuous-like
   | lore                  = 1 [[Dragon]] [[monster]] + 1 [[FIRE]] [[Warrior]] monster<br />Except during the [[Damage Step]] ([[Quick Effect]]): You can [[target]] 1 Warrior [[Fusion Monster]] you [[control]]; [[equip]] this card from your [[field]] or [[GY]] to that monster you control as an [[Equip Spell]]. You can only use this [[effect]] of "Fighting Flame Dragon" [[once per turn]]. While this card is equipped to "[[Flame Swordsman]]" or a monster that mentions it, the equipped monster gains 700 [[ATK]] and can make a second [[attack]] during each [[Battle Phase]].
   | fr_lore               = 
@@ -39,7 +40,28 @@ wikitext: |-
   | sp_sets               = 
   MZMI-SP005; Maze of Millennia; 
   | mentions              = Flame Swordsman
+  | supports              = 
+  * Dragon
+  * FIRE
+  * Warrior
+  * Fusion Monster
   | archseries            = Flame Swordsman (series)
+  | action                = 
+  * Activates from your Graveyard
+  * Equips self from field
+  * Equips self from Graveyard
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = Treated as Equip Card
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack                = Allows multiple attacks
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
+  * Mentions
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
