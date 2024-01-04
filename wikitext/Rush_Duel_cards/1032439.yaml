@@ -3,23 +3,22 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ジェスペル・ウィザード
-  | romaji_name      = Jesuperu Wizādo
-  | image            = JespellWizard-RDSJMP-JP-OP.png
-  | attribute        = DARK
-  | types            = Spellcaster / Effect
-  | level            = 4
-  | atk              = 1300
-  | def              = 600
-  | requirement      = You have 10 or more [[Spell Card]]s in your [[Graveyard]].
-  | lore             = [[Shuffle]] 2 Spell Cards from your Graveyard into the [[Main Deck|Deck]], and this card gains 500 [[ATK]] until the end of your opponent's next [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ジェスペル・ウィザード
+  | romaji_name    = Jesuperu Wizādo
+  | image          = JespellWizard-RDSJMP-JP-OP.png
+  | attribute      = DARK
+  | types          = Spellcaster / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 600
+  | requirement    = You have 10 or more [[Spell Card]]s in your [[Graveyard]].
+  | lore           = [[Shuffle]] 2 Spell Cards from your Graveyard into the [[Main Deck|Deck]], and this card gains 500 [[ATK]] until the end of your opponent's next [[turn]].
+  | ja_requirement = 自分の墓地に魔法カードが１０枚以上ある場合に発動できる。
+  | ja_lore        = 自分の墓地の魔法カード２枚を選んでデッキに戻し、このカードの攻撃力は次の相手ターン終了時まで５００アップする。
+  | jp_sets        = 
   RD/SJMP-JP035; Saikyō Jump February 2024 promotional card; Normal Parallel Rare
-  | action           = Returns from your Graveyard to your Deck
-  | stat_change      = This card gains ATK
-  | misc             = Turn limited effects
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action         = Returns from your Graveyard to your Deck
+  | stat_change    = This card gains ATK
+  | misc           = Turn limited effects
+  | database_id    = 19939
   }}
