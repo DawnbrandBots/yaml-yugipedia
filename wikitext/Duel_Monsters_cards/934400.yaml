@@ -1,6 +1,5 @@
 title: Earthbound Prisoner Ground Keeper
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -11,7 +10,7 @@ wikitext: |-
   | romaji_name         = Jibakushūjin Gurando Kīpā
   | ko_name             = 
   | ko_rr_name          = 
-  | sc_name               = 地缚囚人 大地看守者
+  | sc_name             = 地缚囚人 大地看守者
   | image               = EarthboundPrisonerGroundKeeper-AC03-JP-NPR.png
   | attribute           = DARK
   | types               = Fiend / Tuner / Effect
@@ -20,7 +19,7 @@ wikitext: |-
   | def                 = 300
   | password            = 46939151
   | effect_types        = Trigger, Condition, Continuous
-  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 [[Level]] 5 or lower "[[Earthbound]]" [[monster]] from your [[Main Deck|Deck]] or [[GY]], except "Earthbound Prisoner Ground Keeper", also you cannot Special Summon monsters from the [[Extra Deck]] for the rest of this [[turn]], except [[Fusion Monster|Fusion]] and [[Synchro Monster]]s. You can only use this [[effect]] of "Earthbound Prisoner Ground Keeper" [[once per turn]]. "Earthbound" monsters you [[control]] cannot be [[destroyed by battle]] or card effects while a card is in a [[Field Zone]].
+  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 [[Level]] 5 or lower "[[Earthbound]]" [[monster]] from your [[Main Deck|Deck]] or [[GY]], except "Earthbound Prisoner Ground Keeper", also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Fusion Monster|Fusion]] or [[Synchro Monster]]s. You can only use this [[effect]] of "Earthbound Prisoner Ground Keeper" [[once per turn]]. "Earthbound" monsters you [[control]] cannot be [[destroyed by battle]] or card effects while there is a card in a [[Field Zone]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -28,12 +27,24 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。「地縛囚人 グランド・キーパー」を除く、レベル５以下の「地縛」モンスター１体を自分のデッキ・墓地から特殊召喚する。この効果の発動後、ターン終了時まで自分は融合・ＳモンスターしかＥＸデッキから特殊召喚できない。②：フィールドゾーンにカードが存在する限り、自分フィールドの「地縛」モンスターは戦闘・効果では破壊されない。
   | ko_lore             = 
-  | sc_lore               = 此卡名的①效果１回合仅可使用１次。<br />①：此卡召唤・特殊召唤的情况下可以发动。从自己的牌组・墓地将“地缚囚人 大地看守者”以外的１只等级５以下的“地缚”怪兽特殊召唤。此效果发动后，直至回合结束时为止，自己从额外牌组仅可特殊召唤融合・同步怪兽。<br />②：只要场地区域存在卡，自己场上的“地缚”怪兽不会因战斗・效果被破坏。
+  | sc_lore             = 此卡名的①效果１回合仅可使用１次。<br />①：此卡召唤・特殊召唤的情况下可以发动。从自己的牌组・墓地将“地缚囚人 大地看守者”以外的１只等级５以下的“地缚”怪兽特殊召唤。此效果发动后，直至回合结束时为止，自己从额外牌组仅可特殊召唤融合・同步怪兽。<br />②：只要场地区域存在卡，自己场上的“地缚”怪兽不会因战斗・效果被破坏。
+  | en_sets             = 
+  MZMI-EN027; Maze of Millennia; Rare
+  | fr_sets             = 
+  MZMI-FR027; Maze of Millennia; Rare
+  | de_sets             = 
+  MZMI-DE027; Maze of Millennia; Rare
+  | it_sets             = 
+  MZMI-IT027; Maze of Millennia; Rare
+  | pt_sets             = 
+  MZMI-PT027; Maze of Millennia; Rare
+  | sp_sets             = 
+  MZMI-SP027; Maze of Millennia; Rare
   | jp_sets             = 
   AC03-JP017; Animation Chronicle 2023; Normal Parallel Rare
   | kr_sets             = 
   AC03-KR017; Animation Chronicle 2023; Normal Parallel Rare
-  | sc_sets               = 
+  | sc_sets             = 
   AGOV-SC082; Age of Overlord; Common
   | mentions            = Earthbound Prisoner Ground Keeper
   | supports            = 
