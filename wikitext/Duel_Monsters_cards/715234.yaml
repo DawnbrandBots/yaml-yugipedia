@@ -53,7 +53,9 @@ wikitext: |-
   * Equip Spell Card
   | archseries          = Mikanko
   | supports_archetypes = Mikanko
-  | action              = Adds from Deck to hand
+  | action              = 
+  * Applies effect while equipped with an Equip Card
+  * Adds from Deck to hand
   | attack              = Cannot be destroyed by battle
   | life_points         = 
   * Prevents battle damage

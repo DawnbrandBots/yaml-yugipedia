@@ -52,7 +52,9 @@ wikitext: |-
   | supports              = Equip Card
   | archseries            = Mikanko
   | supports_archetypes   = Mikanko
-  | action                = Adds from Deck to hand
+  | action                = 
+  * Applies effect while equipped with an Equip Card
+  * Adds from Deck to hand
   | m/s/t                 = Prevents other cards being targeted by card effects
   | attack                = Cannot be destroyed by battle
   | life_points           = 

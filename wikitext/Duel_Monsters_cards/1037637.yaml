@@ -36,7 +36,29 @@ wikitext: |-
   | sp_sets               = 
   MZMI-SP006; Maze of Millennia; Super Rare
   | mentions              = Flame Swordsman
+  | supports              = 
+  * FIRE
+  * Warrior
   | archseries            = Flame Swordsman (series)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Activates upon attack declaration
+  | stat_change           = 
+  * Your monsters lose ATK
+  * Your monsters gain ATK
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | summoning             = 
+  * Prevents activations upon Summon
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Fusion Summon
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

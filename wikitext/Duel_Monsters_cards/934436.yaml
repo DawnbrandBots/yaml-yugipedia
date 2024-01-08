@@ -1,6 +1,5 @@
 title: Earthbound Prison
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -11,13 +10,13 @@ wikitext: |-
   | romaji_name         = Jibakurō
   | ko_name             = 
   | ko_rr_name          = 
-  | sc_name               = 地缚牢
+  | sc_name             = 地缚牢
   | image               = EarthboundPrison-AC03-JP-NPR.png
   | card_type           = Spell
   | property            = Field
   | password            = 71089030
   | effect_types        = Effect, Continuous-like, Continuous-like, Trigger-like
-  | lore                = When this card is [[activate]]d: You can [[target]] 1 [[Effect Monster]] your opponent [[control]]s; this card gains this [[effect]].<br />● While this card is in the Field Zone, [[negate]] that Effect Monster's [[effect]]s.<br />During your [[Main Phase]], you can [[Normal Summon]] 1 "[[Earthbound]]" monster in addition to your Normal Summon/[[Set]]. (You can only gain this effect [[once per turn]].) If this card in its [[owner]]'s [[possess]]ion is destroyed by an opponent's card effect and you have an "Earthbound" monster on your [[field]] and/or in your [[GY]]: Halve your opponent's [[LP]], and if you do, negate the effects of all [[face-up]] cards your opponent currently controls until the end of this [[turn]].
+  | lore                = When this card is [[activate]]d: You can [[target]] 1 [[Effect Monster]] your opponent [[control]]s; this card gains this [[effect]].<br />● While this card is in the Field Zone, [[negate]] the [[effect]]s of that [[face-up]] Effect Monster while it is on the [[field]].<br />During your [[Main Phase]], you can [[Normal Summon]] 1 "[[Earthbound]]" monster in addition to your Normal Summon/[[Set]]. (You can only gain this effect [[once per turn]].) If this card in your [[possess]]ion is destroyed by an opponent's card effect, and you have an "Earthbound" monster in your field or [[GY]]: Halve your opponent's [[LP]], and if you do, negate the effects of all face-up cards your opponent currently controls, until the end of this [[turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -26,11 +25,23 @@ wikitext: |-
   | ja_lore             = ①：このカードの発動時に、相手フィールドの効果モンスター１体を対象にできる。その場合、このカードは以下の効果を得る。●このカードがフィールドゾーンに存在する限り、対象の効果モンスターの効果は無効化される。②：自分は通常召喚に加えて１度だけ、自分メインフェイズに「地縛」モンスター１体を召喚できる。③：このカードが相手の効果で破壊された場合、自分のフィールドか墓地に「地縛」モンスターが存在していれば発動する。相手のＬＰを半分にし、相手フィールドの全ての表側表示カードの効果をターン終了時まで無効にする。
   | ko_lore             = 
   | sc_lore               = ①：此卡发动时，可将对手场上的１只效果怪兽作为对象。该情况下，此卡获得以下效果。<br />●只要此卡存在于场地区域，对象的效果怪兽的效果无效化。<br />②：自己除通常召唤外仅可追加１次，在自己的主要阶段召唤１只“地缚”怪兽。<br />③：此卡因对手的效果被破坏的情况下，只要自己场上或墓地存在“地缚”怪兽则发动。将对手的LP改成一半，将对手场上的所有表侧表示卡的效果直至回合结束时为止无效。
+  | en_sets             = 
+  MZMI-EN034; Maze of Millennia; Super Rare
+  | fr_sets             = 
+  MZMI-FR034; Maze of Millennia; Super Rare
+  | de_sets             = 
+  MZMI-DE034; Maze of Millennia; Super Rare
+  | it_sets             = 
+  MZMI-IT034; Maze of Millennia; Super Rare
+  | pt_sets             = 
+  MZMI-PT034; Maze of Millennia; Super Rare
+  | sp_sets             = 
+  MZMI-SP034; Maze of Millennia; Super Rare
   | jp_sets             = 
   AC03-JP024; Animation Chronicle 2023; Normal Parallel Rare, Secret Rare
   | kr_sets             = 
   AC03-KR024; Animation Chronicle 2023; Normal Parallel Rare, Secret Rare
-  | sc_sets               = 
+  | sc_sets             = 
   AGOV-SC108; Age of Overlord; Rare
   | archseries          = Earthbound
   | supports_archetypes = Earthbound
