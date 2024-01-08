@@ -119,11 +119,29 @@ wikitext: |-
   ! High-Level Summon conditions
   ! High-Level Effect conditions
   |-
-  | [[Ultimate Insect]]
-  | [[Ultimate Insect LV1|LV1]], [[Ultimate Insect LV3|LV3]], [[Ultimate Insect LV5|LV5]], [[Ultimate Insect LV7|LV7]]
-  | In your Standby Phase, [Level Up].
+  | [[Allure Queen]]
+  | [[Allure Queen LV3|LV3]], [[Allure Queen LV5|LV5]], [[Allure Queen LV7|LV7]]
+  | In your Standby Phase, while this card has a card Equipped by its effect, [Level Up].
   | -
   | Only gain effects if Summoned by predecessors.
+  |-
+  | [[Armed Dragon]]
+  | [[Armed Dragon LV3|LV3]], [[Armed Dragon LV5|LV5]], [[Armed Dragon LV7|LV7]]
+  | LV3: In your Standby Phase, [Level Up].<br/>LV5: In the End Phase, if this card destroyed a monster by battle this turn, [Level Up].
+  | LV7: [[Nomi]]
+  | -
+  |-
+  | [[Dark Lucius]]
+  | [[Dark Lucius LV4|LV4]], [[Dark Lucius LV6|LV6]], [[Dark Lucius LV8|LV8]]
+  | In your next Standby Phase after this card has destroyed a monster by battle, [Level Up].<!--LV6's effect is technically different, but it's functionally the same; destroy a monster by battle and then it levels up-->
+  | -
+  | Only gain effects if Summoned by predecessors.
+  |-
+  | [[Dark Mimic]]
+  | [[Dark Mimic LV1|LV1]], [[Dark Mimic LV3|LV3]]
+  | In your Standby Phase, [Level Up].
+  | -
+  | Gains an improved effect if Summoned by predecessor.
   |-
   | [[Horus the Black Flame Dragon]]
   | [[Horus the Black Flame Dragon LV4|LV4]], [[Horus the Black Flame Dragon LV6|LV6]], [[Horus the Black Flame Dragon LV8|LV8]]
@@ -135,18 +153,6 @@ wikitext: |-
   | [[Mystic Swordsman LV2|LV2]], [[Mystic Swordsman LV4|LV4]], [[Mystic Swordsman LV6|LV6]]
   | In the End Phase, if this card destroyed a monster by battle this turn, [Level Up].
   | Cannot be Normal Summoned, but can be Normal Set.
-  | -
-  |-
-  | [[Dark Mimic]]
-  | [[Dark Mimic LV1|LV1]], [[Dark Mimic LV3|LV3]]
-  | In your Standby Phase, [Level Up].
-  | -
-  | Gains an improved effect if Summoned by predecessor.
-  |-
-  | [[Armed Dragon]]
-  | [[Armed Dragon LV3|LV3]], [[Armed Dragon LV5|LV5]], [[Armed Dragon LV7|LV7]]
-  | LV3: In your Standby Phase, [Level Up].<br/>LV5: In the End Phase, if this card destroyed a monster by battle this turn, [Level Up].
-  | LV7: [[Nomi]]
   | -
   |-
   | [[Silent Magician (archetype)|Silent Magician]]
@@ -161,18 +167,13 @@ wikitext: |-
   | LV7: [[Nomi]]
   | -
   |-
-  | [[Allure Queen]]
-  | [[Allure Queen LV3|LV3]], [[Allure Queen LV5|LV5]], [[Allure Queen LV7|LV7]]
-  | In your Standby Phase, while this card has a card Equipped by its effect, [Level Up].
-  | -
-  | Only gain effects if Summoned by predecessors.
-  |-
-  | [[Dark Lucius]]
-  | [[Dark Lucius LV4|LV4]], [[Dark Lucius LV6|LV6]], [[Dark Lucius LV8|LV8]]
-  | In your next Standby Phase after this card has destroyed a monster by battle, [Level Up].<!--LV6's effect is technically different, but it's functionally the same; destroy a monster by battle and then it levels up-->
+  | [[Ultimate Insect]]
+  | [[Ultimate Insect LV1|LV1]], [[Ultimate Insect LV3|LV3]], [[Ultimate Insect LV5|LV5]], [[Ultimate Insect LV7|LV7]]
+  | In your Standby Phase, [Level Up].
   | -
   | Only gain effects if Summoned by predecessors.
   |}
+
   ===OCG/TCG (Non-Level Up Effect)===
   There are several "LV" monsters who do not use or are not specified in any "Level Up" effect. Because they are not specified in any card text, they cannot be [[Special Summoned]] with "[[Level Up!]]".
   * [[Armed Dragon]]
