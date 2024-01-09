@@ -18,6 +18,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Left, Bottom-Center, Bottom-Right, Middle-Right
   | atk                   = 3300
   | password              = 
+  | materials             = 2+ monsters, including an Insect, Plant, or Reptile monster
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = 2+ [[Insect]], [[Plant]], and/or [[Reptile]] [[monsters]]<br />If a monster(s) is [[Special Summon]]ed from your opponent's [[Main Deck|Deck]] and/or [[Extra Deck]]: You can [[destroy]] 2 monsters on the [[field]]. If this card is in your [[GY]]: You can [[target]] 1 Insect, Plant, or Reptile monster you [[control]]; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon monsters for the rest of this turn, except Insect, Plant, and Reptile monsters. You can only use each [[effect]] of "Raika no Daiouga" [[once per turn]].
   | fr_lore               = 
@@ -30,7 +31,24 @@ wikitext: |-
   | jp_sets               = 
   LEDE-JP050; Legacy of Destruction; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   LEDE-JP050; Legacy of Destruction +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports              = 
+  * Insect
+  * Plant
+  * Reptile
   | archseries            = Raika
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Places cards from the player's field on the bottom of the Deck
+  | m/s/t                 = Destroys Monster Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

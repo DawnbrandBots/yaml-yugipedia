@@ -27,7 +27,25 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP076; Legacy of Destruction; 
+  | supports              = 
+  * Insect
+  * Plant
+  * Reptile
+  * Link Monster
   | archseries            = Raika
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

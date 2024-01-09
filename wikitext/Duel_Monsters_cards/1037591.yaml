@@ -18,6 +18,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Center, Bottom-Right
   | atk                   = 2300
   | password              = 
+  | materials             = 2+ monsters, including an Insect, Plant, or Reptile monster
   | effect_types          = Ignition, Ignition, Condition
   | lore                  = 2+ [[monsters]], including an [[Insect]], [[Plant]], or [[Reptile]] monster<br />You can [[banish]] 2 Insect, Plant, and/or Reptile monsters from your [[GY]]; [[Add a card|add]] 1 "[[Raika]]" [[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is in your GY: You can [[target]] 1 Insect, Plant, or Reptile monster you [[control]]; place it on the bottom of the Deck, and if you do, [[Special Summon]] this card, also you cannot Special Summon monsters for the rest of this turn, except Insect, Plant, and Reptile monsters. You can only use each [[effect]] of "Raika no Oogaminushi" [[once per turn]].
   | fr_lore               = 
@@ -29,8 +30,25 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP048; Legacy of Destruction; 
+  | supports              = 
+  * Insect
+  * Plant
+  * Reptile
   | archseries            = Raika
   | supports_archetypes   = Raika
+  | action                = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Places cards from the player's field on the bottom of the Deck
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

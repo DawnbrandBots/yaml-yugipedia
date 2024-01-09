@@ -27,8 +27,27 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP058; Legacy of Destruction; 
+  | supports              = 
+  * Insect
+  * Plant
+  * Reptile
   | archseries            = Raika
   | supports_archetypes   = Raika
+  | action                = 
+  * Adds from Deck to hand
+  * You discard as an effect
+  | stat_change           = 
+  * All monsters gain ATK
+  * All monsters gain DEF
+  * All monsters lose ATK
+  * All monsters lose DEF
+  | summoning             = 
+  * Special Summons the player's banished monsters
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
