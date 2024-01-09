@@ -28,11 +28,26 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP073; Legacy of Destruction; 
+  | supports              = Xyz Monster
   | archseries            = 
   * Goblin
   * Goblin Biker
   | supports_archetypes   = Goblin
-  | misc                  = Only once per turn
+  | action              = 
+  * Transfers
+  * Attaches itself from your field as Xyz Material
+  * Activates from your Graveyard
+  * Attaches from your Graveyard as Xyz Material
+  * Attaches from your opponent's Graveyard as Xyz Material
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  * Performs Xyz Evolution
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

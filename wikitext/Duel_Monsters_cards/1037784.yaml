@@ -3,35 +3,47 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
-  | ja_name               = {{ruby|罪|ざい}}{{Ruby|宝|ほう}}{{Ruby|合|がっ}}{{Ruby|戦|せん}}
-  | romaji_name           = Zaihō Gassen
-  | trans_name            = Battle of the Sinful Treasure
-  | ko_name               = 
-  | ko_rr_name            = 
-  | image                 = BattleoftheSinfulSpoils-LEDE-JP-OP.png
-  | card_type             = Spell
-  | property              = Quick-Play
-  | password              = 
-  | effect_types          = Effect, Trigger-like, Condition
-  | lore                  = [[Target]] cards you [[control]] up to the number of your "[[Sinful Spoils]]" cards that are [[banish]]ed and/or in your [[GY]], and/or cards your opponent controls up to the number of their "Sinful Spoils" cards that are banished and/or in their GY; [[destroy]] them. If this [[Set]] card in its [[owner]]'s control is destroyed, or banished, by an opponent's [[activate]]d [[effect]]: You can [[shuffle]] up to 2 cards on the field into the [[Main Deck|Deck]]. You can only activate 1 "Battle of the Sinful Spoils" per turn.
-  | fr_lore               = 
-  | de_lore               = 
-  | it_lore               = 
-  | pt_lore               = 
-  | es_lore               = 
-  | ja_lore               = 
-  | ko_lore               = 
-  | jp_sets               = 
+  | fr_name                  = 
+  | de_name                  = 
+  | it_name                  = 
+  | pt_name                  = 
+  | es_name                  = 
+  | ja_name                  = {{ruby|罪|ざい}}{{Ruby|宝|ほう}}{{Ruby|合|がっ}}{{Ruby|戦|せん}}
+  | romaji_name              = Zaihō Gassen
+  | trans_name               = Battle of the Sinful Treasure
+  | ko_name                  = 
+  | ko_rr_name               = 
+  | image                    = BattleoftheSinfulSpoils-LEDE-JP-OP.png
+  | card_type                = Spell
+  | property                 = Quick-Play
+  | password                 = 
+  | effect_types             = Effect, Trigger-like, Condition
+  | lore                     = [[Target]] cards you [[control]] up to the number of your "[[Sinful Spoils]]" cards that are [[banish]]ed and/or in your [[GY]], and/or cards your opponent controls up to the number of their "Sinful Spoils" cards that are banished and/or in their GY; [[destroy]] them. If this [[Set]] card in its [[owner]]'s control is destroyed, or banished, by an opponent's [[activate]]d [[effect]]: You can [[shuffle]] up to 2 cards on the field into the [[Main Deck|Deck]]. You can only activate 1 "Battle of the Sinful Spoils" per turn.
+  | fr_lore                  = 
+  | de_lore                  = 
+  | it_lore                  = 
+  | pt_lore                  = 
+  | es_lore                  = 
+  | ja_lore                  = 
+  | ko_lore                  = 
+  | jp_sets                  = 
   LEDE-JP057; Legacy of Destruction; 
-  | archseries            = Sinful Spoils
-  | supports_archetypes   = Sinful Spoils
-  | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
-  | tcg_status            = Not yet released
+  | archseries               = Sinful Spoils
+  | supports_archetypes      = Sinful Spoils
+  | anti-supports_archetypes = Sinful Spoils
+  | action                   = 
+  * Activates if destroyed while Set
+  * Activates while banished
+  * Returns from field to Deck
+  | m/s/t                    = 
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc                     = Only once per turn
+  | database_id              = 
+  | ocg_status               = Not yet released
+  | tcg_status               = Not yet released
   }}

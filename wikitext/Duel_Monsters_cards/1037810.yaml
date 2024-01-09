@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 2700
   | def                   = 1700
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Quick, Condition, Trigger
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />During your opponent's [[turn]] ([[Quick Effect]]): You can [[target]] 1 [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]] on the [[field]], or up to 2 instead if your [[LP]] are lower than your opponent's; [[destroy]] them. You can only use this [[effect]] of "Gold Pride - Annihilator" [[once per turn]]. Once per turn, during the [[End Phase]], if the previous effect was activated this turn: [[Return]] this card to the [[Extra Deck]], and if you do, [[Special Summon]] 1 "[[Gold Pride - Assassinator]]" from your [[Main Deck|Deck]] or [[GY]].
   | fr_lore               = 
@@ -31,7 +32,28 @@ wikitext: |-
   | jp_sets               = 
   LEDE-JP041; Legacy of Destruction; 
   | mentions              = Gold Pride - Assassinator
+  | supports              = 
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
+  | anti-supports         = 
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
   | archseries            = Gold Pride
+  | action                = Returns itself from field to Extra Deck
+  | m/s/t                 = Destroys face-up Monster Cards
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Requires specific LP
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

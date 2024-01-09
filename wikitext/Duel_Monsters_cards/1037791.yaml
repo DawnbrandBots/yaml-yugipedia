@@ -40,7 +40,20 @@ wikitext: |-
   * Goblin
   * Goblin Biker
   | supports_archetypes   = Goblin
-  | misc                  = Once per turn
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Detaches Xyz Materials for effect
+  * Changes battle positions
+  * Activates upon attack declaration
+  | m/s/t                 = Does not have effects which detach Xyz Materials for cost
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | attack                = 
+  * Allows direct attacks
+  * Negates attacks
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
