@@ -3,42 +3,54 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
-  | ja_name               = {{Ruby|原罪|げんざい}}のディアベルゼ
-  | romaji_name           = Genzai no Diaberuze
-  | ko_name               = 
-  | ko_rr_name            = 
-  | sc_name               = 
-  | image                 = DiabellzeoftheOriginalSin-LEDE-JP-OP.png
-  | attribute             = Light
-  | types                 = Illusion / Effect
-  | level                 = 7
-  | atk                   = 2500
-  | def                   = 2000
-  | password              = 
-  | effect_types          = Unclassified, Condition, Continuous, Trigger, Condition
-  | lore                  = If a "[[Sinful Spoils]]" card is in either [[GY]], you can [[Special Summon]] this card (from your [[hand]]). You can only [[Special Summon]] "Diabellze of the Original Sin" [[once per turn]] this way. Your opponent cannot [[activate]] [[Spell]]/[[Trap Card]]s that were not [[Set]]. If either player Sets a Spell/Trap(s) to the [[field]] while this monster is on the field: You can [[target]] 1 card you control and 1 card your opponent controls; [[destroy]] them. You can only use this [[effect]] of "Diabellze of the Original Sin" [[once per turn]].
-  | fr_lore               = 
-  | de_lore               = 
-  | it_lore               = 
-  | pt_lore               = 
-  | es_lore               = 
-  | ja_lore               = 
-  | ko_lore               = 
-  | sc_lore               = 
-  | jp_sets               = 
+  | fr_name                  = 
+  | de_name                  = 
+  | it_name                  = 
+  | pt_name                  = 
+  | es_name                  = 
+  | ja_name                  = {{Ruby|原罪|げんざい}}のディアベルゼ
+  | romaji_name              = Genzai no Diaberuze
+  | ko_name                  = 
+  | ko_rr_name               = 
+  | sc_name                  = 
+  | image                    = DiabellzeoftheOriginalSin-LEDE-JP-OP.png
+  | attribute                = LIGHT
+  | types                    = Illusion / Effect
+  | level                    = 7
+  | atk                      = 2500
+  | def                      = 2000
+  | password                 = 
+  | effect_types             = Unclassified, Condition, Continuous, Trigger, Condition
+  | lore                     = If a "[[Sinful Spoils]]" card is in either [[GY]], you can [[Special Summon]] this card (from your [[hand]]). You can only [[Special Summon]] "Diabellze of the Original Sin" [[once per turn]] this way. Your opponent cannot [[activate]] [[Spell]]/[[Trap Card]]s that were not [[Set]]. If either player Sets a Spell/Trap(s) to the [[field]] while this monster is on the field: You can [[target]] 1 card you control and 1 card your opponent controls; [[destroy]] them. You can only use this [[effect]] of "Diabellze of the Original Sin" [[once per turn]].
+  | fr_lore                  = 
+  | de_lore                  = 
+  | it_lore                  = 
+  | pt_lore                  = 
+  | es_lore                  = 
+  | ja_lore                  = 
+  | ko_lore                  = 
+  | sc_lore                  = 
+  | jp_sets                  = 
   LEDE-JP012; Legacy of Destruction; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   LEDE-JP012; Legacy of Destruction +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | mentions              = Diabellze of the Original Sin
   | supports_archetypes      = Sinful Spoils
   | anti-supports_archetypes = Sinful Spoils
-  | related_to_archseries = Diabellstar
-  | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
-  | tcg_status            = Not yet released
+  | related_to_archseries    = Diabellstar
+  | action                   = Activates upon Set
+  | m/s/t                    = 
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning                = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                     = Only once per turn
+  | database_id              = 
+  | ocg_status               = Not yet released
+  | tcg_status               = Not yet released
   }}
