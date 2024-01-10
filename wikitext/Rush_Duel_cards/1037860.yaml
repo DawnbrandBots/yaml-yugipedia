@@ -11,7 +11,7 @@ wikitext: |-
   | image            = DreamLive-RDTDPR-JP-OP.png
   | card_type        = Spell
   | property         = Field
-  | requirement      = [[Activate]] this card by shuffling 5 [[monsters]] with 0 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement      = [[Activate]] this card by shuffling 5 [[Monster Card|monster]]s with 0 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore             = While this card is [[face-up]] in the [[Field Zone]], face-up monsters on the [[field]] gain 500 [[ATK]].
   | ja_requirement   = 
   | ja_lore          = 
@@ -19,6 +19,8 @@ wikitext: |-
   | ko_lore          = 
   | jp_sets          = 
   RD/TDPR-JP004; Rush Duel The Legend of Duelist Promotion Pack; Normal Parallel Rare
+  | action           = Returns from Graveyard to Deck for cost
+  | stat_change      = All monsters gain ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

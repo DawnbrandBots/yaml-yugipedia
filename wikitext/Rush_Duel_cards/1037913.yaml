@@ -11,14 +11,19 @@ wikitext: |-
   | image            = CheatersHiddenBallTrick-RDTDPR-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When an opponent's [[monster]] [[declare]]s an [[attack]], [[shuffle]] 20 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Destroy]] the attacking monster. You take no [[battle damage]] this [[turn]].
+  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 20 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Destroy]] the attacking monster. You [[Damage|take]] no [[battle damage]] this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | ko_requirement   = 
   | ko_lore          = 
   | jp_sets          = 
   RD/TDPR-JP005; Rush Duel The Legend of Duelist Promotion Pack; Normal Parallel Rare
+  | action           = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | m/s/t            = Destroys your opponent's Monster Cards
+  | life_points      = Prevents battle damage
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

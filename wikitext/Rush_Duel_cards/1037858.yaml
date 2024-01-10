@@ -15,13 +15,16 @@ wikitext: |-
   | atk              = 0
   | def              = 0
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This [[turn]], 1 [[face-up]] [[monster]] on your opponent's [[field]] gains 1000 [[ATK]] and cannot be [[destroyed by battle]].
+  | lore             = This [[turn]], 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] gains 1000 [[ATK]], and cannot be [[destroyed by battle]].
   | ja_requirement   = 
   | ja_lore          = 
   | ko_requirement   = 
   | ko_lore          = 
   | jp_sets          = 
   RD/TDPR-JP003; Rush Duel The Legend of Duelist Promotion Pack; Normal Parallel Rare
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = Your opponent's monsters gain ATK
+  | attack           = Prevents other cards being destroyed by battle
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
