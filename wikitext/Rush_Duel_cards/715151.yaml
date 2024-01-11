@@ -13,7 +13,7 @@ wikitext: |-
   | atk            = 1000
   | def            = 700
   | requirement    = Your opponent has a [[Monster Card|monster]] on their [[field]].
-  | lore           = Toss a coin. If the result is heads, this card gains 1000 [[ATK]] until the end of this [[turn]]. If the result is tails, [[send]] this card from your [[field]] to the [[Graveyard]], and [[Draw a card|draw]] 1 card.
+  | lore           = Toss a coin. This card gains 1000 [[ATK]] until the end of this [[turn]] if the result is heads. [[Send]] this card from your [[field]] to the [[Graveyard]], and [[Draw a card|draw]] 1 card, if the result is tails.
   | ja_requirement = 相手フィールドにモンスターがいる場合に発動できる。
   | ja_lore        = コイントスを１回行う。表だった場合、このカードの攻撃力はターン終了時まで１０００アップする。裏だった場合、自分フィールドのこのカードを墓地へ送り、自分は１枚ドローする。
   | ko_requirement = 상대 필드에 몬스터가 있을 경우에 발동할 수 있다.
