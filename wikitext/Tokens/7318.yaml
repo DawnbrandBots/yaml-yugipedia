@@ -2,34 +2,39 @@ title: Ojama Token
 wikitext: |-
   {{About|the Token Card named "Ojama Token"|the Token Cards with an "Ojama" monster in their artworks '''named "Token"'''|[[Token]]}}
   {{CardTable2
-  | fr_name               = Jeton Ojama
-  | de_name               = Ojama-Spielmarke
-  | it_name               = Segna-Ojama
-  | ko_name               = 방해꾼 토큰
-  | pt_name               = Ficha de Ojama
-  | es_name               = Ficha de Ojama
-  | ja_name               = おジャマトークン
-  | romaji_name           = Ojama Tōkun
-  | image                 = OjamaToken-TK03-JP-R-OjamaYellow.png
-  | attribute             = LIGHT
-  | types                 = Beast / Normal
-  | level                 = 2
-  | atk                   = 0
-  | def                   = 1000
-  | summoned_by           =
+  | fr_name       = Jeton Ojama
+  | de_name       = Ojama-Spielmarke
+  | it_name       = Segna-Ojama
+  | ko_name       = 방해꾼 토큰
+  | pt_name       = Ficha de Ojama
+  | es_name       = Ficha de Ojama
+  | ja_name       = おジャマトークン
+  | romaji_name   = Ojama Tōkun
+  | image         = 
+  1; OjamaToken-TK03-JP-R-OjamaYellow.png; OjamaToken-MADU-EN-VG-artwork-Yellow.png
+  2; OjamaToken-TK03-JP-R-OjamaGreen.png; OjamaToken-MADU-EN-VG-artwork-Green.png
+  3; OjamaToken-TK03-JP-R-OjamaBlack.png; OjamaToken-MADU-EN-VG-artwork-Black.png
+  4; OjamaToken-17TP-JP-C.png; OjamaToken-MADU-EN-VG-artwork-Red.png
+  | current_image = 1
+  | attribute     = LIGHT
+  | types         = Beast / Normal
+  | level         = 2
+  | atk           = 0
+  | def           = 1000
+  | summoned_by   = 
   * Ojama Duo
   * Ojama Trio
-  | lore                  = This card can be used as an "Ojama Token".<br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
-  | ja_lore               = このカードは「おジャマトークン」として使用する事ができる。<br /><br />※「おジャマトークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
-  | dar_lore              = [[Special Summon]]ed with the [[effect]] of "[[Ojama Trio]]". This [[Monster Token|Token]] cannot be used as a [[Tribute]] for a [[Tribute Summon]]. When it is [[destroy]]ed, the controller takes 300 [[Effect damage|damage]].
-  | jp_sets               = 
+  | lore          = This card can be used as an "Ojama Token".<br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
+  | ja_lore       = このカードは「おジャマトークン」として使用する事ができる。<br /><br />※「おジャマトークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
+  | dar_lore      = [[Special Summon]]ed with the [[effect]] of "[[Ojama Trio]]". This [[Monster Token|Token]] cannot be used as a [[Tribute]] for a [[Tribute Summon]]. When it is [[destroy]]ed, the controller takes 300 [[Effect damage|damage]].
+  | jp_sets       = 
   17TP-JP315; Tournament Pack 2017 Vol.3; Common
   TK03-JP026; Token Pack Vol.3; Rare, Ultra Rare
   TK03-JP027; Token Pack Vol.3; Rare, Ultra Rare
   TK03-JP028; Token Pack Vol.3; Rare, Ultra Rare
-  | kr_sets               = 
+  | kr_sets       = 
   TK03-KR025; Token Pack Vol.3; Rare, Ultra Rare
   TK03-KR026; Token Pack Vol.3; Rare, Ultra Rare
   TK03-KR027; Token Pack Vol.3; Rare, Ultra Rare
-  | archseries            = Ojama
+  | archseries    = Ojama
   }}
