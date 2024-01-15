@@ -12,11 +12,14 @@ wikitext: |-
   | atk              = 600
   | def              = 2400
   | requirement      = None
-  | lore             = Roll a six-sided die. This card can [[attack]] a number of times equal to [the result] during this [[turn]]. Then, if the result was 3 or lower, you can [[Draw a card|draw]] 1 card.
+  | lore             = Roll a six-sided die. This card can [[attack]] a number of times equal to [the result] during this [[turn]]. Then, you can [[Draw a card|draw]] 1 card if the result is 3 or lower.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP011; Transamu of Transcendence; Common
+  | action           = You draw cards
+  | attack           = Multiple attacker
+  | misc             = Die roll
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

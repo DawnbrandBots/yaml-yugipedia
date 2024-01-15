@@ -12,11 +12,15 @@ wikitext: |-
   | atk              = 2400
   | def              = 1600
   | requirement      = None
-  | lore             = Roll a six-sided die and apply the result until the end of this [[turn]].<br />● 1 or 2: This card loses 1000 [[ATK]].<br />● 3 or 4: This card gains 600 ATK.<br />● 5 or 6: This card gains ATK equal to [the [[original ATK]] of 1 [[face-up]] [[monster]] on your opponent's [[field]]].
+  | lore             = Roll a six-sided die and apply the result until the end of this [[turn]].<br />● 1 or 2: This card loses 1000 [[ATK]].<br />● 3 or 4: This card gains 600 ATK.<br />● 5 or 6: This card gains ATK equal to [the [[Original ATK and DEF|original ATK]] of 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP016; Transamu of Transcendence; Super Rare, Secret Rare
+  | stat_change      = 
+  * This card loses ATK
+  * This card gains ATK
+  | misc             = Die roll
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
