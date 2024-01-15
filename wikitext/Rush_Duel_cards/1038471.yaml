@@ -12,12 +12,17 @@ wikitext: |-
   | atk              = 600
   | def              = 0
   | requirement      = [[Send]] 1 card from your [[hand]] to the [[Graveyard]], except "[[Skull Dice (Rush Duel)|Skull Dice]]".
-  | lore             = [[Add a card|Add]] 1 "Skull Dice" from your Graveyard to your hand. Then, if your opponent has 2 or more monsters on their [[field]], roll a six-sided die. If you roll a number other than 1, inflict 600 [[Effect damage|damage]] to your opponent.
+  | lore             = [[Add a card|Add]] 1 "Skull Dice" from your Graveyard to your hand. Then, if your opponent has 2 or more [[Monster Card|monster]]s on their [[field]], roll a six-sided die. [[Damage|Inflict]] 600 [[Effect damage|damage]] to your opponent if you roll a number other than 1.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP010; Transamu of Transcendence; Common
   | mentions         = Skull Dice (Rush Duel)
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | life_points      = Damages your opponent
+  | misc             = Die roll
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
