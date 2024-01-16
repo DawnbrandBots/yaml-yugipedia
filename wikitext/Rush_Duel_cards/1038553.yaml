@@ -13,18 +13,25 @@ wikitext: |-
   | def              = 200
   | effect_types     = Continuous
   | fusion_material  = Praime Claw Girl
-  | materials        = "[[Praime Claw Girl]]" + 1 [[LIGHT]] [[Attribute]] [[monster]]
+  | materials        = "[[Praime Claw Girl]]" + 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]]
   | requirement      = None
-  | lore             = [[Face-up]] [[Level]] 7 or higher LIGHT Attribute monsters on your [[field]] gain 200 [[ATK]] and cannot be destroyed by your opponent's card [[effect]]s.
+  | lore             = [[Face-up]] [[Level]] 7 or higher LIGHT Attribute monsters on your [[field]] gain 200 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP038; Transamu of Transcendence; Rare
   | mentions         = Praime Claw Girl
+  | supports         = LIGHT
   | archseries       = 
   * Cat (Rush Duel series)
   * Praime
+  | stat_change      = Your monsters gain ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
