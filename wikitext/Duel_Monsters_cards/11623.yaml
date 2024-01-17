@@ -70,7 +70,10 @@ wikitext: |-
   * FIRE
   * Pyro
   | related_to_archseries = Bonding
-  | action                = Activates from your Graveyard
+  | action                = 
+  * Activates from your Graveyard
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
   | stat_change           = Reduces ATK to 0
   | summoning             = 
   * Cannot be Normal Summoned

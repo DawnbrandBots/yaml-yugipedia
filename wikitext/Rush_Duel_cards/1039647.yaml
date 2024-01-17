@@ -8,8 +8,8 @@ wikitext: |-
   | image            = FusionicDefense-RDKP16-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
-  | lore             = [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" or 1 "[[Fusion Cancel]]" from your [[Graveyard]] in your [[Spell & Trap Zone]]. Then, you can choose 1 [[face-up]] monster on your [[field]]. If you do, it cannot be [[destroyed by battle]] or card [[effect]]s this [[turn]].
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | lore             = [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" or 1 "[[Fusion Cancel]]" from your [[Graveyard]] in your [[Spell & Trap Zone]]. Then, you can choose 1 [[face-up]] monster on your [[field]]. If you do, that monster cannot be [[destroyed by battle]] or card [[effect]]s this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -17,6 +17,12 @@ wikitext: |-
   | mentions         = 
   * Fusion (Rush Duel)
   * Fusion Cancel
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sets from your Graveyard
+  | m/s/t            = Prevents other cards being destroyed by card effects
+  | attack           = Prevents other cards being destroyed by battle
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
