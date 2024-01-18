@@ -16,7 +16,7 @@ wikitext: |-
   * Celeb Rose Wiz
   | materials        = "[[Celeb Rose Enchanter]]" + "[[Celeb Rose Wiz]]"
   | requirement      = None
-  | lore             = Place 1 [[monster]] from your opponent's [[Graveyard]] on the bottom of the [[Main Deck|Deck]], and this card gains [[ATK]] equal to [the [[Level]] of the monster placed by this [[effect]]] x 200 until the end of this turn. Then, if this card is equipped with an [[Equip Spell Card]], this [[turn]], this card cannot be destroyed by card effects and can make up to 2 [[attack]]s on monsters.
+  | lore             = Place 1 [[Monster Card|monster]] from your opponent's [[Graveyard]] on the bottom of their [[Main Deck|Deck]], and this card gains [[ATK]] equal to [the [[Level]] of the monster placed by this [[effect]]] x 200 until the end of this [[turn]]. Then, if this card is [[equip]]ped with an [[Equip Spell Card]], this turn, this card cannot be [[destroy]]ed by card [[effect]]s, and can make up to 2 [[attack]]s on monsters.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -25,7 +25,17 @@ wikitext: |-
   | mentions         = 
   * Celeb Rose Enchanter
   * Celeb Rose Wiz
+  | supports         = Equip Spell Card
   | archseries       = Celeb Rose
+  | action           = 
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
+  * Applies effect while equipped with an Equip Card
+  | stat_change      = This card gains ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | attack           = Can make multiple attacks on monsters
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
