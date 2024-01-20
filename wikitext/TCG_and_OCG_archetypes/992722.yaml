@@ -32,51 +32,52 @@ wikitext: |-
   All monsters share the same [[Attribute]], [[Type]], [[Level]], [[ATK]], and [[DEF]] as their original counterparts.
   {| class="wikitable" style="text-align: center"
   ! Level
-  ! Crystal Color
+  ! colspan="2" | Crystal color
   ! Memento
   ! Original form
   |-
   | rowspan="2" | 1
-  | Blue
+  | colspan="2" style="background-color:#9FF" | Blue
   | [[Mementotlan Goblin|Goblin]]
   | [[Goblin Calligrapher]]
   |-
-  | Violet
+  | colspan="2" style="background-color:#F9C" | Magenta
   | [[Mementotlan Mace|Mace]]
   | [[Key Mace]]
   |-
   | 2
-  | Green
+  | colspan="2" style="background-color:#9F9" | Green
   | [[Memento Attic Ghost|Attic Ghost]]
   | [[Wretched Ghost of the Attic]]
   |-
   | 3
-  | Yellow
+  | colspan="2" style="background-color:#FF9" | Yellow
   | [[Mementotlan Angwitch|Angwitch]]
   | [[Fairywitch]]
   |-
   | 4
-  | Orange
+  | colspan="2" style="background-color:#FC9" | Orange
   | [[Mementotlan Dark Blade|Dark Blade]]
   | [[Dark Blade]]
   |-
   | 5
-  | Indigo
+  | colspan="2" style="background-color:#C9F" | Violet
   | [[Mementotlan Tatsunootoshigo|Tatsunootoshigo]]
   | [[Tatsunootoshigo]]
   |-
   | 7
-  | Green and Yellow
+  | style="background-color:#9F9" | Green
+  | style="background-color:#FF9" | Yellow
   | [[Mementotlan Twin Dragon|Twin Dragon]]
   | [[Twin-Headed Thunder Dragon]]
   |-
   | 8
-  | Red
+  | colspan="2" style="background-color:#F99" | Red
   | [[Mementotlan-Horned Dragon|Horned Dragon]]
   | [[Tri-Horned Dragon]]
   |-
   | 11
-  | Rainbow
+  | colspan="2" style="background-color:#FFF" | Rainbow
   | [[Mementoal Tecuhtlica - Combined Creation|Mementoal Tecuhtlica -</br>Combined Creation]]
   | ''<span style="color: grey;">None</span>''
   |}
