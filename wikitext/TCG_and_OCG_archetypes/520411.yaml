@@ -32,13 +32,23 @@ wikitext: |-
   }}
   "[[Mythical Beast]]" is an [[archetype]] of [[Spellcaster]] [[Monster Card|monsters]] that debuted in ''[[Structure Deck: Spellcaster's Judgment]]'', with further members and support introduced in the Booster Pack ''[[Extreme Force]]''. This archetype consists of "[[Mythical Beast Cerberus]]" and [[Pendulum Monster]]s based on it.
   "[[Gazelle the King of Mythical Beasts]]" and "[[Chimera the Flying Mythical Beast]]" are not members of the archetype. However, because support for this archetype only works on [[Pendulum Monster]]s in the [[Pendulum Zone]] or [[Extra Deck]], and [[Effect Monster]]s in the [[Main Deck]], neither will be an issue.
+
   ==Lore==
   {{Main|Master Guide 6 card storylines#The "Mighty Master of Magic" Presses Forward with "Mythicalization" Experiments}}
+
   ==Playing style==
-  The "Mythical Beast" archetype revolves around gaining [[Spell Counter]]s and removing them to activate monster effects. The "Mythical Beast" monsters have monster effects that gain Spell Counters each time a Spell Card is activated. The lower-Level monsters gain 1 per Spell Card activation, while the higher-Level monsters gain 2 per activation. Their individual monster effects, which require removing Spell Counters to activate, include searching, recovery, card negates, and card removal.
-  Though the archetype consists primarily of [[Pendulum Monster]]s, it is very ineffective at performing [[Pendulum Summon]]s. All "Mythical Beast" Pendulum Monsters have the same [[Pendulum Scale]] of 4, making it impossible to Pendulum Summon with just these cards, and complicating Pendulum Summons with other Pendulum Scales since 4 is a middling number. Their nature as Pendulum Monsters is instead meant to support their Spell Counter playstyle, as they can be activated in the [[Pendulum Zone]] as Spell Cards to generate Spell Counters for "Mythical Beasts" in the [[Monster Zone]]s.
-  The [[Pendulum Effect]]s of "Mythical Beast" Pendulum Monsters provide more searching, recovery, and a Spell/Trap removal. Their Pendulum Effects destroy the card itself as part of its effect, freeing up the Pendulum Zone for more activations. However, these Pendulum Effects can only be activated if the player controls no cards in the other [[Pendulum Zone]].
-  The archetype synergizes well with the "[[Endymion]]" archetype. "Endymion" provides better Pendulum Scales for Pendulum Summoning, has a need for Spell Counters which the "Mythical Beast" archetype can rapidly generate, and also revolves around Spellcaster-Type Pendulum Monsters that can have Spell Counters placed on them, opening up more combo plays.
+  The "Mythical Beast" archetype revolves around gaining [[Spell Counter]]s and removing them to activate monster effects. The "Mythical Beast" monsters have monster effects that gain Spell Counters each time a Spell Card is activated. The Level 4 and lower monsters gain 1 per Spell Card activation, while the Level 6 and higher monsters gain 2 per activation. Their individual monster effects, which require removing Spell Counters to activate, include searching ("[[Mythical Beast Jackal|Jackal]]"), recovery ("[[Mythical Beast Bashilisk|Bahilisk]]"), card negates ("[[Mythical Beast Jackal King|Jackal King]]"), and card removal ("[[Mythical Beast Master Cerberus|Master Cerberus]]" and ("[[Mythical Beast Garuda|Garuda]]").
+
+  Though the archetype consists primarily of [[Pendulum Monster]]s, it is very ineffective at performing [[Pendulum Summon]]s; all "Mythical Beast" Pendulum Monsters have the same [[Pendulum Scale]] of 4, making it impossible to Pendulum Summon with just these cards, and complicating Pendulum Summons with other Pendulum Scales since 4 is a middling number. Their nature as Pendulum Monsters is instead meant to support their Spell Counter playstyle, as they can be activated in the [[Pendulum Zone]] as Spell Cards to generate Spell Counters for "Mythical Beasts" in the [[Monster Zone]]s. The [[Pendulum Effect]]s of "Mythical Beast" Pendulum Monsters provide more searching ("Master Ceberus", recovery ("Jackal King" and "[[Mythical Beast Medusa|Medusa]]"), and a Spell/Trap removal ("Garuda"). Their Pendulum Effects destroy the card itself as part of its effect, freeing up the Pendulum Zone for more activations. However, these Pendulum Effects can only be activated if the player controls no cards in the other [[Pendulum Zone]]. 
+
+  The destruction of the "Mythical Beast" cards can also fuel up Spell Counters for "[[Mythical Institution]]" which can then search or recover a monster that can have a Spell Counter.
+
+  The archetype synergizes well with the "[[Endymion]]" archetype. "Endymion": 
+
+  * Spellcaster-Type Pendulum Monsters that can have Spell Counters placed on them (thus allowing them to be searched or recovered by "Mythical Instituion").
+  * Better Pendulum Scales for Pendulum Summoning
+  * Fufill both archetypes' needs for Spell Counters which the "Mythical Beast" archetype and "[[Magical Citadel of Endymion]]" can rapidly generate.
+
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -57,6 +67,10 @@ wikitext: |-
   * [[Mythical Beast Jackal King]]
   * [[Mythical Beast Master Cerberus]]
   * [[Mythical Beast Medusa]]
+  * [[Endymion, the Mighty Master of Magic]]
+  * [[Magister of Endymion]]
+  * [[Reflection of Endymion]]
+  * [[Servant of Endymion]]
   * [[Magical Abductor]]
   * [[Odd-Eyes Pendulum Dragon]]
   * [[Pendulumucho]]
@@ -76,39 +90,45 @@ wikitext: |-
   * [[Majester Paladin, the Ascending Dracoslayer]]
   |link monsters =
   * [[Akashic Magician]]
+  * [[Beyond the Pendulum]]
   * [[Day-Breaker the Shining Magical Warrior]]
+  * [[Exceed the Pendulum]]
   * [[Heavymetalfoes Electrumite]] (OCG or Traditional Format only)
   * [[Hip Hoshiningen]]
   * [[Linkerbell]]
   * [[Selene, Queen of the Master Magicians]]
   * [[Wee Witch's Apprentice]]
-  |spells =
-  * [[Beast Magic Attack]]
-  * [[Mythical Institution]]
-  * [[Arcane Barrier]]
+  |normal spells =
   * [[Duelist Alliance]]
   * [[Pendulum Paradox]]
   * [[Pendulum Rising]]
-  * [[Pendulum Shift]]
-  * [[Emergency Teleport]]
-  * [[Magical Citadel of Endymion]]
-  * [[Magical Dimension]]
   * [[Miracle Synchro Fusion]]
   * [[Mythical Bestiary]]
-  * [[One Day of Peace]] / [[Upstart Goblin]]
   * [[Spell Power Grasp]]
+  * [[Spell Power Mastery]]
   * [[Terraforming]]
   * [[Toon Table of Contents]]
+  |continuous spells = 
+  * [[Mythical Institution]]
+  * [[Arcane Barrier]]
+  * [[Endymion's Lab]]
+  |field spells =
+  * [[Magical Citadel of Endymion]]
+  |quick-play spells = 
+  * [[Beast Magic Attack]]
   * [[Wavering Eyes]]
-  |traps =
-  * [[Extra Buck]]
+  * [[Magical Dimension]]
+  |normal traps =
   * [[Magician's Circle]]
   * [[Magicians' Defense]]
   * [[Metaverse]]
-  * [[Mythical Bestiamorph]]
-  * [[Pitch-Black Power Stone]]
   * [[Pendulum Reborn]]
+  |continuous traps = 
+  * [[Extra Buck]]
+  * [[Mythical Bestiamorph]]
   * [[Pendulum Switch]]
+  * [[Pitch-Black Power Stone]]
   }}
+
   {{Archseries navbox}}
   [[Category:TCG and OCG archetypes]]
