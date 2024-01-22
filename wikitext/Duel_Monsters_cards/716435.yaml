@@ -60,10 +60,10 @@ wikitext: |-
   | supports_archetypes = Rescue-ACE
   | action              = Adds from Deck to hand
   | m/s/t               = 
-  * Prevents other cards being targeted by card effects
+  * Cannot be targeted by card effects
   * Allows activation of Quick-Play Spell Cards the turn they were Set
   * Allows activation of Trap Cards the turn they were Set
-  | attack              = Prevents other cards being targeted for attacks
+  | attack              = Cannot be targeted for attacks
   | misc                = 
   * Requires control of specific archetype
   * Only once per turn

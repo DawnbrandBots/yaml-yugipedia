@@ -28,8 +28,22 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP064; Legacy of Destruction; 
+  | mentions              = 
+  * Centur-Ion Token
+  * Wake Up Centur-Ion!
   | archseries            = Centur-Ion
   | supports_archetypes   = Centur-Ion
+  | action                = 
+  * Declares a Level
+  * Activates from your Graveyard
+  * Sends from your Deck to your Graveyard
+  | stat_change           = Changes Levels
+  | summoning             = 
+  * Special Summons Tokens
+  * Cannot be used as a Fusion Material
+  * Cannot be used as a Link Material
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

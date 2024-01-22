@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Condition, Trigger, Trigger
   | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />[[Face-up]] cards in your [[Spell & Trap Zone]] cannot be [[destroy]]ed by card [[effect]]s. You can only use each of the following effects of "Centur-Ion Arkcoela" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Centur-Ion]]" card from your [[Main Deck|Deck]] to your [[hand]]. During the [[End Phase]]: You can place 1 of your non-[[Synchro Monster|Synchro]] "Centur-Ion" monsters that is [[banish]]ed or in your [[GY]] face-up in your [[Spell & Trap Zone]] as a [[Continuous Trap]].
   | fr_lore               = 
@@ -34,6 +35,19 @@ wikitext: |-
   LEDE-JP042; Legacy of Destruction; 
   | archseries            = Centur-Ion
   | supports_archetypes   = Centur-Ion
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Places the player's banished cards in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Treated as Continuous Trap Card
+  * Treats monsters as Continuous Trap Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

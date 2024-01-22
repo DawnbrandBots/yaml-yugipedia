@@ -9,6 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|天魔の聲選姫|セレトリーチェ・ヴァルモニカ}}
+  | base_romaji_name      = Tenma no Sesenhime
+  | base_trans_name       = Voice Selection Princess of the Heavenly Demon
   | romaji_name           = Seretorīche Varumonika
   | trans_name            = Selettrice Varmonica
   | ko_name               = 
@@ -31,8 +33,19 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP022; Legacy of Destruction; 
+  | mentions              = Selettrice Vaalmonica
   | archseries            = Vaalmonica
   | supports_archetypes   = Vaalmonica
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Pendulum Summon
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  * Returns itself from Graveyard to hand
+  | attack                = Cannot be targeted for attacks
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
