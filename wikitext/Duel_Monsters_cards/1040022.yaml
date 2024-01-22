@@ -28,11 +28,28 @@ wikitext: |-
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP063; Legacy of Destruction; 
+  | supports              = Fusion Monster
   | archseries            = 
   * Fusion (archetype)
   * Memento
   * Polymerization (archetype)
   | supports_archetypes   = Memento
+  | action                = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | m/s/t                 = Destroys your Monster Cards
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
