@@ -41,7 +41,18 @@ wikitext: |-
   PHNI-PT090; Phantom Nightmare; Secret Rare, Quarter Century Secret Rare
   | sp_sets               = 
   PHNI-SP090; Phantom Nightmare; Secret Rare, Quarter Century Secret Rare
+  | supports              = Continuous Trap Card
   | supports_archetypes   = Ashened
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Sets from your Deck
+  * Activates if sent to the Graveyard
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Monster Cards
+  | summoning             = Special Summons itself from your hand to your opponent's field
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

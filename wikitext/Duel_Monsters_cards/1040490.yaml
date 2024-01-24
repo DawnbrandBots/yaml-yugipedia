@@ -41,6 +41,14 @@ wikitext: |-
   | mentions              = Obsidim, the Ashened City
   | archseries            = Ashened
   | supports_archetypes   = Ashened
+  | action                = 
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * You draw cards
+  * Activates if destroyed
+  * Activates while banished
+  | stat_change           = Changes Type
+  | summoning             = Special Summons from your Deck
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

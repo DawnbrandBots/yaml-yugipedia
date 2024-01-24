@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 2100
   | password              = 
   | effect_types          = Unclassified, Condition, Quick, Condition
-  | lore                  = If "[[Obsidim, the Ashened City]]" is in the [[Field Zone]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Hero of the Ashened City" [[once per turn]] this way. During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 [[Pyro]] [[monster]] on the [[field]]; [[destroy]] it, then if you destroyed "[[Veidos the Eruption Dragon of Extinction]]" by this [[effect]], you can place 1 "Obsidim, the Ashened City from your [[Main Deck|Deck]] face-up in your Field Zone. You can only use this effect of "Hero of the Ashened City" once per turn.
+  | lore                  = If "[[Obsidim, the Ashened City]]" is in the [[Field Zone]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Hero of the Ashened City" [[once per turn]] this way. During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 [[Pyro]] [[monster]] on the [[field]]; [[destroy]] it, then if you destroyed "[[Veidos the Eruption Dragon of Extinction]]" by this [[effect]], you can place 1 "Obsidim, the Ashened City" from your [[Main Deck|Deck]] face-up in your Field Zone. You can only use this effect of "Hero of the Ashened City" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -44,7 +44,17 @@ wikitext: |-
   | mentions              = 
   * Obsidim, the Ashened City
   * Veidos the Eruption Dragon of Extinction
+  | supports              = Pyro
+  | anti-supports         = Pyro
   | archseries            = Ashened
+  | action                = Places cards from your Deck in your Field Zone
+  | m/s/t                 = Destroys face-up Monster Cards
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
