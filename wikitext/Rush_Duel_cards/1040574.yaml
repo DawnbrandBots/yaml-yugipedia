@@ -13,9 +13,9 @@ wikitext: |-
   | def                   = 3000
   | fusion_material       = Jointech Nesstrydar Tank
   | effect_types          = Continuous
-  | materials             = "[[Jointech Nesstrydar Tank]]" + 2 non-[[Machine]] [[Type]] [[monster]]s
+  | materials             = "[[Jointech Nesstrydar Tank]]" + 2 non-[[Machine]] [[Type]] [[Monster Card|monster]]s
   | requirement           = None
-  | lore                  = If this card [[attack]]s a [[Defense Position]] [[monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). This card can make up to 3 [[attack]]s during the [[turn]] it was [[Fusion Summon]]ed by [[send]]ing monsters whose original names are "[[Voidvelgr Requiem]]" and "[[Abysslayer Leviaknight]]" to the [[Graveyard]] as [[material]].
+  | lore                  = If this card [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). This card can make a second and third attack during the [[turn]] it was [[Fusion Summon]]ed by [[send]]ing monsters whose original names are "[[Voidvelgr Requiem]]" and "[[Abysslayer Leviaknight]]" to the [[Graveyard]] as [[material]].
   | ja_materials          = 
   | ja_requirement        = 
   | ja_lore               = 
@@ -26,7 +26,17 @@ wikitext: |-
   * Voidvelgr Requiem
   * Abysslayer Leviaknight
   | archseries            = Jointech
-  | related_to_archseries = Darkness (Rush Duel series)
+  | related_to_archseries = 
+  * Abysslayer
+  * Darkness (Rush Duel series)
+  * Voidvelgr
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack                = 
+  * Piercing
+  * Multiple attacker
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
