@@ -1,7 +1,5 @@
-title: Majespecter Porcupine - Yamaarashi
+title: Majespecter Porcupine - Yamarashi
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,7 +12,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 威风魔灵・山颪豪猪
-  | image               = MajespecterPorcupineYamaarashi-PHNI-JP-C.png
+  | image               = MajespecterPorcupineYamarashi-PHNI-JP-C.png
   | attribute           = WIND
   | types               = Spellcaster / Pendulum / Effect
   | level               = 4
@@ -22,8 +20,8 @@ wikitext: |-
   | atk                 = 1500
   | def                 = 1500
   | password            = 51073802
-  | effect_types        = Continuous, Condition, Quick, Trigger
-  | lore                = While this card is in your [[Monster Zone]], your opponent cannot [[target]] it with card [[effect]]s, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of "Majespecter Porcupine - Yamaarashi" [[once per turn]]. During the [[Main Phase]], if you [[control]] a "[[Majespecter]]" [[monster]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can target 1 "Majespecter" [[Spell]] in your [[GY]]; [[Set]] it.
+  | effect_types        = Quick, Trigger, Condition, Continuous
+  | lore                = During the [[Main Phase]], if you [[control]] a "[[Majespecter]]" [[monster]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can target 1 "Majespecter" [[Spell]] in your [[GY]]; [[Set]] it. You can only use each of the previous effects of "Majespecter Porcupine - Yamarashi" [[once per turn]]. While this card is in your [[Monster Zone]], your opponent cannot [[target]] it with card [[effect]]s, also it cannot be destroyed by your opponent's card effects.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -32,11 +30,23 @@ wikitext: |-
   | ja_lore             = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、自分フィールドに「マジェスペクター」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚した場合、自分の墓地の「マジェスペクター」魔法カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。③：このカードがモンスターゾーンに存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。
   | ko_lore             = 
   | sc_lore             = 此卡名的①②怪兽效果１回合仅可各使用１次。<br />①：在自己・对手的主要阶段，自己场上存在“威风魔灵”怪兽的情况下可以发动。从手牌将此卡特殊召唤。<br />②：此卡召唤・特殊召唤的情况下，以自己墓地的１张“威风魔灵”魔法卡为对象可以发动。将该卡放置在自己场上。<br />③：只要此卡存在于怪兽区域，此卡不会因对手的效果被破坏，对手不可将此卡作为效果的对象。
+  | en_sets             = 
+  PHNI-EN023; Phantom Nightmare; 
+  | fr_sets             = 
+  PHNI-FR023; Phantom Nightmare; 
+  | de_sets             = 
+  PHNI-DE023; Phantom Nightmare; 
+  | it_sets             = 
+  PHNI-IT023; Phantom Nightmare; 
+  | pt_sets             = 
+  PHNI-PT023; Phantom Nightmare; 
+  | sp_sets             = 
+  PHNI-SP023; Phantom Nightmare; 
   | jp_sets             = 
   PHNI-JP023; Phantom Nightmare; Common
   | kr_sets             = 
   PHNI-KR023; Phantom Nightmare; Common
-  | sc_sets               = 
+  | sc_sets             = 
   PHNI-SC023; Phantom Nightmare; Common
   | archseries          = Majespecter
   | supports_archetypes = Majespecter

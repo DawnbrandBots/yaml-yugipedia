@@ -1,7 +1,5 @@
 title: Raidraptor - Rising Rebellion Falcon
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,7 +11,7 @@ wikitext: |-
   | trans_name          = Raid Raptors - Rising Rebellion Falcon
   | ko_name             = 
   | ko_rr_name          = 
-  | sc_name               = 急袭猛禽－起升反叛猎鹰
+  | sc_name             = 急袭猛禽－起升反叛猎鹰
   | image               = RaidraptorRisingRebellionFalcon-PHNI-JP-UR.png
   | attribute           = DARK
   | types               = Winged Beast / Xyz / Effect
@@ -21,9 +19,9 @@ wikitext: |-
   | atk                 = 4000
   | def                 = 3500
   | password            = 71222868
-  | effect_types        = Trigger, Continuous, Ignition
+  | effect_types        = Continuous, Trigger, Ignition
   | materials           = 5 Level 13 Winged Beast-Type monsters
-  | lore                = 5 Level 13 [[Winged Beast]] [[monster]]s<br />If this card is [[Xyz Summon]]ed: You can [[destroy]] as many cards your opponent [[control]]s as possible, then, if this card has 3 or more "[[Raidraptor]]" [[Xyz Monster]]s with different names as [[Xyz Material|material]], [[inflict]] [[damage]] to your opponent equal to the destroyed monsters' total [[Original ATK and DEF|original ATK]]. Unaffected by other cards' [[effect]]s. Once per [[turn]]: You can [[detach]] 3 materials from this card, then [[target]] 1 "Raidraptor" Xyz Monster in your [[GY]]; replace this effect with that monster's effects until the [[End Phase]].
+  | lore                = 5 Level 13 [[Winged Beast]] [[monster]]s<br />Unaffected by other cards' [[effect]]s. If this card is [[Xyz Summon]]ed: You can [[destroy]] as many cards your opponent [[control]]s as possible, then if this card has 3 or more "[[Raidraptor]]" [[Xyz Monster]]s with different names as [[Xyz Material|material]], [[inflict]] [[damage]] to your opponent equal to the combined [[Original ATK and DEF|original ATK]] of the destroyed monsters. Once per [[turn]]: You can [[detach]] 3 materials from this card, then [[target]] 1 "Raidraptor" Xyz Monster in your [[GY]]; this card gains that monster's effects until the [[End Phase]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,14 +29,26 @@ wikitext: |-
   | es_lore             = 
   | ja_lore             = 鳥獣族レベル１３モンスター×５<br />①：このカードがＸ召喚した場合に発動できる。相手フィールドのカードを全て破壊する。その後、このカードが「ＲＲ」Ｘモンスターを３種類以上素材としている場合、この効果で破壊したモンスターの元々の攻撃力の合計分のダメージを相手に与える。②：フィールドのこのカードは他のカードの効果を受けない。③：１ターンに１度、このカードのＸ素材を３つ取り除き、自分の墓地の「ＲＲ」Ｘモンスター１体を対象として発動できる。エンドフェイズまで、このカードはそのモンスターと同じ効果を得る。
   | ko_lore             = 
-  | sc_lore               = 鸟兽族等级１３怪兽×５<br />①：此卡超量召唤的情况下可以发动。将对手场上的卡全部破坏。然后，此卡持有３种以上的“急袭猛禽”超量怪兽作为素材的情况下，给予对手相当于以此效果破坏的怪兽的原本攻击力合计数值的伤害。<br />②：场上的此卡不受其他卡的效果影响。<br />③：１回合１次，去除此卡的３个超量素材，以自己墓地的１只“急袭猛禽”超量怪兽为对象可以发动。直至结束阶段为止，此卡获得与该怪兽相同的效果。
+  | sc_lore             = 鸟兽族等级１３怪兽×５<br />①：此卡超量召唤的情况下可以发动。将对手场上的卡全部破坏。然后，此卡持有３种以上的“急袭猛禽”超量怪兽作为素材的情况下，给予对手相当于以此效果破坏的怪兽的原本攻击力合计数值的伤害。<br />②：场上的此卡不受其他卡的效果影响。<br />③：１回合１次，去除此卡的３个超量素材，以自己墓地的１只“急袭猛禽”超量怪兽为对象可以发动。直至结束阶段为止，此卡获得与该怪兽相同的效果。
+  | en_sets             = 
+  PHNI-EN045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
+  | fr_sets             = 
+  PHNI-FR045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
+  | de_sets             = 
+  PHNI-DE045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
+  | it_sets             = 
+  PHNI-IT045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
+  | pt_sets             = 
+  PHNI-PT045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
+  | sp_sets             = 
+  PHNI-SP045; Phantom Nightmare; Ultra Rare, Quarter Century Secret Rare
   | jp_sets             = 
   PHNI-JP045; Phantom Nightmare; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   PHNI-JP045; Phantom Nightmare +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | kr_sets             = 
   PHNI-KR045; Phantom Nightmare; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   PHNI-KR045; Phantom Nightmare +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | sc_sets               = 
+  | sc_sets             = 
   PHNI-SC045; Phantom Nightmare; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   PHNI-SC045; Phantom Nightmare +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | supports            = 
