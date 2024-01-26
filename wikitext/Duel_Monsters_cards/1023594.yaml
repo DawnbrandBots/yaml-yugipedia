@@ -1,6 +1,5 @@
 title: Flock Together
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -9,6 +8,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|目|め}}{{Ruby|白|じろ}}{{Ruby|圧|お}}し
   | romaji_name           = Mejiro Oshi
+  | trans_name            = White-Eye Pressure
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 熙攘攒动绣眼鸟
@@ -16,8 +16,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Normal
   | password              = 50134646
-  | effect_types          = Effect, Ignition-like, Condition
-  | lore                  = Place 1 [[monster]] from your [[Main Deck|Deck]] [[face-up]] in your [[Spell & Trap Zone]] as a [[Continuous Spell]]. You can [[banish]] this card from your [[GY]]; place 1 monster from your Deck face-up in your Spell & Trap Zone as a [[Continuous Trap]]. You can only use 1 "Flock Together" effect per turn, and only once that turn, and can only activate them if the combined number of cards in the Monster Zone and face-up Monster Cards in the Spell & Trap Zone equals 10 or more.
+  | effect_types          = Effect, Ignition-like, Condition, Condition
+  | lore                  = Place 1 [[monster]] from your [[Main Deck|Deck]] in your [[Spell & Trap Zone]] as a [[face-up]] [[Continuous Spell]]. You can [[banish]] this card from your [[GY]]; place 1 monster from your Deck in your Spell & Trap Zone as a face-up [[Continuous Trap]]. You can only use 1 "Flock Together" effect per turn, and only once that turn. The total number of cards in the Monster Zones and face-up Monster Cards in the Spell & Trap Zones must be 10 or more to activate either of this card's effects.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +26,18 @@ wikitext: |-
   | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できず、モンスターゾーンのカードと魔法＆罠ゾーンの表側表示のモンスターカードが合計１０枚以上存在する場合にしか発動できない。①：デッキからモンスター１体を永続魔法カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。②：墓地のこのカードを除外して発動できる。デッキからモンスター１体を永続罠カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。
   | ko_lore               = 
   | sc_lore               = 此卡名的①②效果１回合１次，仅可使用其中１个，仅可在怪兽区域的卡和魔法与陷阱区域表侧表示的怪兽卡合计存在１０张以上的情况下发动。<br />①：从牌组将１只怪兽视为永续魔法卡，以表侧表示放在自己的魔法与陷阱区域。<br />②：将墓地的此卡除外可以发动。从牌组将１只怪兽视为永续陷阱卡，以表侧表示放在自己的魔法与陷阱区域。
+  | en_sets               = 
+  PHNI-EN072; Phantom Nightmare; 
+  | fr_sets               = 
+  PHNI-FR072; Phantom Nightmare; 
+  | de_sets               = 
+  PHNI-DE072; Phantom Nightmare; 
+  | it_sets               = 
+  PHNI-IT072; Phantom Nightmare; 
+  | pt_sets               = 
+  PHNI-PT072; Phantom Nightmare; 
+  | sp_sets               = 
+  PHNI-SP072; Phantom Nightmare; 
   | jp_sets               = 
   PHNI-JP072; Phantom Nightmare; Normal Rare
   | kr_sets               = 

@@ -1,6 +1,5 @@
 title: Materialization
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -9,6 +8,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|変|へん}}{{Ruby|幻|げん}}
   | romaji_name           = Hengen
+  | trans_name            = Transformation
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 变幻
@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 24649931
   | effect_types          = Effect, Condition
-  | lore                  = [[Target]] 1 [[face-up]] [[Monster Card]] in the [[Spell & Trap Zone]] to [[activate]] 1 of these [[effect]]s;<br />● [[Special Summon]] it to its owner's [[field]].<br />● [[Return]] it to the [[hand]].<br />● [[Destroy]] it, then you can destroy 1 monster on the field with an equal or lower [[Level]].<br />You can only activate 1 "Materialization" per turn.
+  | lore                  = [[Target]] 1 [[face-up]] [[Monster Card]] in any [[Spell & Trap Zone]], then [[activate]] 1 of these [[effect]]s;<br />● [[Special Summon]] it to its owner's [[field]].<br />● [[Return]] it to the [[hand]].<br />● [[Destroy]] it, then you can destroy 1 monster on the field with an equal or lower [[Level]].<br />You can only activate 1 "Materialization" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -26,6 +26,18 @@ wikitext: |-
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分か相手の魔法＆罠ゾーンの表側表示のモンスターカード１枚を対象とし、以下の効果から１つを選択して発動できる。<br />●対象のカードを元々の持ち主のフィールドに特殊召喚する。<br />●対象のカードを手札に戻す。<br />●対象のカードを破壊する。その後、そのカードのレベル以下のレベルを持つフィールドのモンスター１体を破壊できる。
   | ko_lore               = 
   | sc_lore               = 此卡名的卡１回合仅可发动１张。<br />①：以自己或对手的魔法与陷阱区域的１张表侧表示怪兽卡为对象，可从以下效果中选择１个发动。<br />●将对象卡特殊召唤至原本持有者的场上。<br />●将对象卡放回手牌。<br />●破坏对象卡。然后，可将场上１只等级在该卡等级以下的怪兽破坏。
+  | en_sets               = 
+  PHNI-EN071; Phantom Nightmare; 
+  | fr_sets               = 
+  PHNI-FR071; Phantom Nightmare; 
+  | de_sets               = 
+  PHNI-DE071; Phantom Nightmare; 
+  | it_sets               = 
+  PHNI-IT071; Phantom Nightmare; 
+  | pt_sets               = 
+  PHNI-PT071; Phantom Nightmare; 
+  | sp_sets               = 
+  PHNI-SP071; Phantom Nightmare; 
   | jp_sets               = 
   PHNI-JP071; Phantom Nightmare; Common
   | kr_sets               = 

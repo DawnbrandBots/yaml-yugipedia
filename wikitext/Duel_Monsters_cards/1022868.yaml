@@ -1,6 +1,5 @@
 title: Aromalilith Magnolia
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -21,7 +20,7 @@ wikitext: |-
   | password            = 73167098
   | materials           = 1 "Aroma" monster + 1 Plant-Type monster
   | effect_types        = Continuous, Ignition, Trigger
-  | lore                = 1 "[[Aroma]]" [[monster]] + 1 [[Plant]] monster<br />While your [[LP]] are higher than your opponent's, Plant monsters you [[control]] cannot be [[destroy]]ed by your opponent's [[card effect]]s. [[Once per turn]]: You can pay 2000 LP; [[banish]] cards on the field equal to the total number of "[[Humid Winds]]", "[[Dried Winds]]", and "[[Blessed Winds]]" you control. Once per turn, if you gain LP (even during the [[Damage Step]]): You can make all Plant monsters you currently control gain an equal amount of [[ATK]] until the end of this [[turn]].
+  | lore                = 1 "[[Aroma]]" [[monster]] + 1 [[Plant]] monster<br />While your [[LP]] are higher than your opponent's, Plant monsters you [[control]] cannot be [[destroy]]ed by your opponent's [[card effect]]s. [[Once per turn]]: You can pay 2000 LP; [[banish]] cards on the field equal to the number of "[[Humid Winds]]", "[[Dried Winds]]", and "[[Blessed Winds]]" you control. Once per turn, if you gain LP, even during the [[Damage Step]]: You can make all Plant monsters you currently control gain [[ATK]] equal to the LP gained, until the end of this [[turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,6 +29,18 @@ wikitext: |-
   | ja_lore             = 「アロマ」モンスター＋植物族モンスター<br />①：自分のＬＰが相手より多く、このカードがモンスターゾーンに存在する限り、自分フィールドの植物族モンスターは相手の効果では破壊されない。②：１ターンに１度、２０００ＬＰを払って発動できる。自分フィールドの「潤いの風」「渇きの風」「恵みの風」の数だけ、フィールドのカードを除外する。③：１ターンに１度、自分のＬＰが回復した場合に発動できる（ダメージステップでも発動可能）。その数値分だけ、自分フィールドの全ての植物族モンスターの攻撃力はターン終了時までアップする。
   | ko_lore             = 
   | sc_lore             = “芬芳”怪兽＋植物族怪兽<br />①：只要自己的LP多于对手，且此卡存在于怪兽区域，自己场上的植物族怪兽不会因对手的效果被破坏。<br />②：１回合１次，支付２０００LP可以发动。依自己场上的“润泽之风”、“干渴之风”、“惠畅之风”的数量，将场上的卡除外。<br />③：１回合１次，自己的LP恢复的情况下可以发动（在伤害步骤也可以发动）。自己场上所有植物族怪兽的攻击力直至回合结束时为止上升相同数值。
+  | en_sets               = 
+  PHNI-EN039; Phantom Nightmare; 
+  | fr_sets               = 
+  PHNI-FR039; Phantom Nightmare; 
+  | de_sets               = 
+  PHNI-DE039; Phantom Nightmare; 
+  | it_sets               = 
+  PHNI-IT039; Phantom Nightmare; 
+  | pt_sets               = 
+  PHNI-PT039; Phantom Nightmare; 
+  | sp_sets               = 
+  PHNI-SP039; Phantom Nightmare; 
   | jp_sets             = 
   PHNI-JP039; Phantom Nightmare; Rare
   | kr_sets             = 
