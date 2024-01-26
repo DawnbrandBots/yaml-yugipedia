@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Trigger, Trigger, Condition
-  | lore                  = If a monster(s) in your possession is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is sent from the field to the GY: You can target 1 monster in your GY with both the same Type and Attribute as a monster you control; add that monster to your hand. You can only use each effect of "Tricorn the Cacophonous Concert" once per turn.
+  | lore                  = If a [[monster]](s) in your [[possess]]ion is [[destroyed by battle]] or [[card effect]]: You can [[Special Summon]] this card from your [[hand]]. If this card is [[Send|sent]] from the [[field]] to the [[GY]]: You can [[target]] 1 monster in your GY with both the same [[Type]] and [[Attribute]] as a monster you [[control]]; [[add]] that monster to your hand. You can only use each [[effect]] of "Tricorn the Cacophonous Concert" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,14 @@ wikitext: |-
   PHNI-PT087; Phantom Nightmare; Common
   | sp_sets               = 
   PHNI-SP087; Phantom Nightmare; Common
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your hand
+  * Activates if sent to the Graveyard
+  * Adds from Graveyard to hand
+  | summoning             = Special Summons itself from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

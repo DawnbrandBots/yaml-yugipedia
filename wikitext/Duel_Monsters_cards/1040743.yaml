@@ -19,7 +19,7 @@ wikitext: |-
   | property            = Field
   | password            = 
   | effect_types        = Ignition-like, Condition, Trigger-like
-  | lore                = During the Main Phase: The turn player can excavate cards from the top of their Deck up to the number of cards their opponent controls, and if they do, they add 1 excavated card to their hand, then they place the rest and 1 card from their hand on the bottom of the Deck in any order. This effect of "Where There's a Will, There's a Way Out" can only be used once per turn. Once per turn, during the End Phase, if the turn player excavated 9 or more cards with this card's effect this turn: They can activate this effect; shuffle all cards on their opponent's field and GY into the Deck.
+  | lore                = During the [[Main Phase]]: The turn player can [[excavate]] cards from the top of their [[Main Deck|Deck]] up to the number of cards their opponent [[control]]s, and if they do, they [[add]] 1 excavated card to their [[hand]], then they place the rest and 1 card from their hand on the bottom of the Deck in any order. This [[effect]] of "Where There's a Will, There's a Way Out" can only be used [[once per turn]]. Once per turn, during the [[End Phase]], if the turn player excavated 9 or more cards with this card's effect this [[turn]]: They can activate this effect; [[shuffle]] all cards on their opponent's [[field]] and [[GY]] into the Deck.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,6 +30,20 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   LEDE-JP067; Legacy of Destruction; Common
+  | action              = 
+  * Excavates from the player's Deck
+  * Excavates from the opponent's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  * Places cards from the player's hand on the bottom of the Deck
+  * Places cards from the opponent's hand on the bottom of the Deck
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's field to your opponent's Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | misc                = 
+  * Only once per turn
+  * Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

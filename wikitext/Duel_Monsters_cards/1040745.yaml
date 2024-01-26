@@ -19,7 +19,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect
-  | lore                = If a card(s) other than "One by One We Walk, Frosty Forest Frolicking, Treading in the Tracks" is sent to the GY: Banish up to 5 cards from your GY face-down, then, if you have 7 or more face-down banished cards, your opponent banishes as many cards from their GY as possible face-down (max. 5).
+  | lore                = If a card(s) other than "One by One We Walk, Frosty Forest Frolicking, Treading in the Tracks" is [[Send|sent]] to the [[GY]]: [[Banish]] up to 5 cards from your GY [[face-down]], then, if you have 7 or more face-down banished cards, your opponent banishes as many cards from their GY as possible face-down (max. 5).
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,6 +30,12 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   LEDE-JP070; Legacy of Destruction; Common
+  | mentions            = One by One We Walk, Frosty Forest Frolicking, Treading in the Tracks
+  | action              = Activates if other cards are sent to the Graveyard
+  | banished            = 
+  * Banishes from your Graveyard
+  * Banishes face-down
+  * Makes the opponent banish from the Graveyard
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

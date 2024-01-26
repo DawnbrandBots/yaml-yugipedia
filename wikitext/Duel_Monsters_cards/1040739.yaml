@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 1500
   | password            = 
   | effect_types        = Trigger, Trigger
-  | lore                = If a player gains LP: You can Special Summon this card from your hand. Once per turn, if a player gains LP while this monster is on the field: You can make either player gain 1000 LP.
+  | lore                = If a player gains [[LP]]: You can [[Special Summon]] this card from your [[hand]]. [[Once per turn]], if a player gains LP while this [[monster]] is on the [[field]]: You can make either player gain 1000 LP.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,15 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   LEDE-JP033; Legacy of Destruction; Normal Rare
+  | action              = 
+  * Activates if you gain Life Points
+  * Activates if your opponent gains Life Points
+  * Activates from your hand
+  | summoning           = Special Summons itself from your hand
+  | life_points         = 
+  * You gain Life Points
+  * Your opponent gains Life Points
+  | misc                = Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

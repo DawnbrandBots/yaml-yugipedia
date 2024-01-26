@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 2200
   | password            = 
   | effect_types        = Ignition, Ignition, Condition, Condition
-  | lore                = If you control 2 or more Dinosaur monsters: You can Special Summon this card from your hand. You can Tribute 1 Level 4 or lower monster; Special Summon 1 Dinosaur monster from your Deck that is 2 Levels higher or lower than the Tributed monster, but destroy it during the End Phase. You can only use this effect of "Dinovader Docus" once per turn. You can only Special Summon "Dinovader Docus(s)" once per turn.
+  | lore                = If you [[control]] 2 or more [[Dinosaur]] [[Monster Card|monsters]]: You can [[Special Summon]] this card from your [[hand]]. You can [[Tribute]] 1 [[Level]] 4 or lower monster; Special Summon 1 Dinosaur monster from your [[Main Deck|Deck]] that is 2 Levels higher or lower than the Tributed monster, but [[destroy]] it during the [[End Phase]]. You can only use this [[effect]] of "Dinovader Docus" [[once per turn]]. You can only Special Summon "Dinovader Docus(s)" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,18 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   LEDE-JP030; Legacy of Destruction; Common
+  | supports            = Dinosaur
+  | action              = 
+  * Activates from your hand
+  * Tributes for cost
+  | m/s/t               = Destroys your Monster Cards
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Special Summon once per turn
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
