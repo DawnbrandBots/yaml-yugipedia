@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Metatronios
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = Metaltronios-LEDE-JP-OP.png
+  | image                 = Metaltronios-LEDE-JP-SR.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 64664373
   | effect_types          = Effect, Condition, Condition
   | lore                  = [[Target]] 1 [[face-up]] non-[[Monster Token|Token]] [[Monster]] your opponent [[control]]s; [[Special Summon]] 1 monster from your [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] that has 2 or more of the same [[Type]], [[Attribute]], and/or [[ATK]] (its [[effect]]s are [[negate]]d), and if you do, negate the targeted monster's effects, then, if those 2 monsters have the same name, you can [[banish]] both, [[face-down]]. Your opponent cannot activate the targeted monster's effects in response to this card's activation. You can only activate 1 "Metaltronios" per [[turn]].
   | fr_lore               = 
@@ -24,10 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：トークン以外の相手フィールドの表側表示モンスター１体を対象として発動できる（このカードの発動に対して、相手は対象のモンスターの効果を発動できない）。種族・属性・攻撃力の内、２つ以上が対象のモンスターと同じモンスター１体を手札・デッキ・ＥＸデッキから効果を無効にして特殊召喚し、対象のモンスターの効果を無効にする。この効果で特殊召喚したモンスターと対象のモンスターのカード名が同じ場合、さらにその２体を裏側で除外できる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP069; Legacy of Destruction; 
+  LEDE-JP069; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
+  LEDE-JP069; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | m/s/t                 = 
   * Negates the effects of the Summoned monsters
   * Negates the effects of your opponent's Effect Monsters
@@ -42,7 +43,6 @@ wikitext: |-
   * Banishes from your opponent's field
   * Banishes face-down
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19910
   | tcg_status            = Not yet released
   }}

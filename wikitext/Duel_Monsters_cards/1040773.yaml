@@ -18,7 +18,7 @@ wikitext: |-
   | rank                  = 1
   | atk                   = 0
   | def                   = 0
-  | password              = 
+  | password              = 07020743
   | materials             = 2 Level 1 monsters
   | effect_types          = Trigger, Condition, Continuous, Continuous, Quick
   | lore                  = 2 [[Level]] 1 monsters<br />Once per [[Chain]], if the activation of a card or [[effect]] is [[negate]]d: You can [[attach]] up to 1 card from each [[GY]] to this card as [[material]]. This card gains these effects based on the number of materials attached to it.<br />● 1+: Gains 700 [[ATK]]/[[DEF]] for each material attached to it.<br />● 4+: Cannot be [[destroyed by battle]] or card effects.<br />● 8+: ([[Quick Effect]]): You can [[detach]] 4 materials from this card; [[destroy]] all cards on the [[field]].
@@ -27,7 +27,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = レベル１モンスター×２<br />①：カードの効果の発動が無効になった場合に発動できる（同一チェーン上では１度まで）。自分及び相手の墓地のカードをそれぞれ１枚までこのカードのＸ素材とする。②：このカードが持っているＸ素材の数によって、このカードは以下の効果を得る。●１つ以上：このカードの攻撃力・守備力は、このカードのＸ素材の数×７００アップする。●４つ以上：このカードは戦闘・効果では破壊されない。●８つ以上：自分・相手ターンに、このカードのＸ素材を４つ取り除いて発動できる。フィールドのカードを全て破壊する。
   | ko_lore               = 
   | jp_sets               = 
   LEDE-JP046; Legacy of Destruction; Normal Rare
@@ -50,7 +50,6 @@ wikitext: |-
   | misc                  = 
   * Once per Chain
   * Variable effects
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19887
   | tcg_status            = Not yet released
   }}

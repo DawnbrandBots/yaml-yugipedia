@@ -12,21 +12,22 @@ wikitext: |-
   | romaji_name           = Naitomea Surōn
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = NightmareThrone-LEDE-JP-OP.png
+  | image                 = NightmareThrone-LEDE-JP-SR.png
   | card_type             = Spell
   | property              = Field
-  | password              = 
+  | password              = 93729896
   | effect_types          = Effect, Trigger-like, Condition
-  | lore                  = When this card is [[activate]]d: You can take 1 [[Fiend]] [[monster]] with 0 [[ATK]]/[[DEF]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[destroy]] it. [[Once per turn]], if a [[face-up]] "[[Yubel (archetype)|Yubel]]" monster(s) you [[control]] [[leaves the field]] by card [[effect]]: You can add to your hand, 1 of your "Yubel" monsters that is banished or in your Deck or GY, whose original Level is 1 higher or 1 lower than 1 of those monsters that left the field, then you can [[Special Summon]] it, [[ignoring its Summoning conditions]]. You can only activate 1 "Nightmare Throne" per turn.
+  | lore                  = When this card is [[activate]]d: You can take 1 [[Fiend]] [[monster]] with 0 [[ATK]]/[[DEF]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[destroy]] it. [[Once per turn]], if a [[face-up]] "[[Yubel (archetype)|Yubel]]" monster(s) you [[control]] [[leaves the field]] by card [[effect]]: You can add 1 "Yubel" monster from your Deck, [[Graveyard|GY]], or [[banish]]ment to your hand whose original Level is 1 higher or 1 lower than 1 of those monsters that left the field, then you can [[Special Summon]] it, [[ignoring its Summoning conditions]]. You can only activate 1 "Nightmare Throne" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、以下の効果を適用できる。●攻撃力と守備力が０の悪魔族モンスター１体をデッキから選び、手札に加えるか破壊する。②：１ターンに１度、自分フィールドの表側表示の「ユベル」モンスターが効果でフィールドから離れた場合に発動できる。その内の１体より元々のレベルが１つ高いか１つ低い「ユベル」モンスター１体を、自分のデッキ・墓地・除外状態から手札に加える。その後、そのモンスターを召喚条件を無視して特殊召喚できる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP061; Legacy of Destruction; 
+  LEDE-JP061; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
+  LEDE-JP061; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | supports              = Fiend
   | supports_archetypes   = Yubel (archetype)
   | action                = 
@@ -41,7 +42,6 @@ wikitext: |-
   | misc                  = 
   * Limited activations
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19902
   | tcg_status            = Not yet released
   }}

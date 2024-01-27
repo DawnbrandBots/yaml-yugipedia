@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Varmonica Disarmonia
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = VaalmonicaDisarmonia-LEDE-JP-OP.png
+  | image                 = VaalmonicaDisarmonia-LEDE-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 65496951
   | effect_types          = Effect, Condition
   | lore                  = Place 1 [[Resonance Counter]] on 1 card in your [[Pendulum Zone]] that you can place a Resonance Counter on, then apply 1 of these [[effect]]s.<br />● Gain 500 [[LP]], then you can [[Add a card|add]] 1 of your [[banish]]ed "[[Vaalmonica]]" cards to your [[hand]], except "Vaalmonica Disarmonia".<br />● Take 500 [[Effect damage|damage]], then you can add 1 "Vaalmonica" card from your [[GY]] to your hand, except "Vaalmonica Disarmonia".<br />You can only activate 1 "Vaalmonica Disarmonia" per [[turn]].
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：響鳴カウンターを置く事ができる自分のＰゾーンのカード１枚に響鳴カウンターを１つ置く。その後、以下の効果から１つを選んで適用する。<br />●自分は５００ＬＰ回復する。その後、「ヴァルモニカ・ディサルモニア」以外の自分の除外状態の「ヴァルモニカ」カード１枚を手札に加える事ができる。<br />●自分は５００ダメージを受ける。その後、「ヴァルモニカ・ディサルモニア」以外の自分の墓地の「ヴァルモニカ」カード１枚を手札に加える事ができる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP066; Legacy of Destruction; 
+  LEDE-JP066; Legacy of Destruction; Common
   | mentions              = Vaalmonica Disarmonia
   | archseries            = Vaalmonica
   | supports_archetypes   = Vaalmonica
@@ -43,7 +43,6 @@ wikitext: |-
   | misc                  = 
   * Variable effects
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19907
   | tcg_status            = Not yet released
   }}

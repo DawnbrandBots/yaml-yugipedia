@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Antique Gear Tanker
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = AncientGearTanker-LEDE-JP-OP.png
+  | image                 = AncientGearTanker-LEDE-JP-C.png
   | attribute             = EARTH
   | types                 = Machine / Effect
   | level                 = 4
   | atk                   = 1300
   | def                   = 1300
-  | password              = 
+  | password              = 91098230
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can Special Summon 1 "Ancient Gear" [[monster]] from your [[hand]], except "Ancient Gear Tanker", [[ignoring its Summoning conditions]], or, if your opponent [[control]]s a monster, you can Special Summon it from your [[GY]] instead. You can [[target]] 1 face-up card you control; [[destroy]] it, and if you do, for the rest of this [[turn]], all monsters you control that are "[[Ancient Gear Golem]]" or mention it will gain 600 [[ATK]]. You can only use each effect of "Ancient Gear Tanker" [[once per turn]].
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。手札から「古代の機械戦車兵」以外の「アンティーク・ギア」モンスター１体を召喚条件を無視して特殊召喚する。相手フィールドにモンスターが存在する場合、代わりに自分の墓地から選ぶ事もできる。②：自分フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊する。このターン中は自分フィールドの「古代の機械巨人」及びそのカード名が記されたモンスターの攻撃力が６００アップする。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP007; Legacy of Destruction; 
+  LEDE-JP007; Legacy of Destruction; Common
   | mentions              =
   * Ancient Gear Tanker
   * Ancient Gear Golem
@@ -52,7 +52,6 @@ wikitext: |-
   | misc                  = 
   * Mentions
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19848
   | tcg_status            = Not yet released
   }}

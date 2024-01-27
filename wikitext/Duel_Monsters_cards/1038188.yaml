@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Hell Grave Squirmer
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = InfernalGraveSquirmer-LEDE-JP-OP.png
+  | image                 = InfernalGraveSquirmer-LEDE-JP-C.png
   | attribute             = DARK
   | types                 = Fiend / Effect
   | level                 = 1
   | atk                   = 0
   | def                   = 0
-  | password              = 
+  | password              = 24215921
   | effect_types          = Quick, Ignition, Condition
   | lore                  = If you [[control]] a [[Fiend]] [[monster]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]], then you can [[destroy]] 1 monster you control that is "[[Yubel]]" or mentions it. You can [[banish]] this card from your [[GY]]; Special Summon 1 Fiend monster with 0 [[ATK]]/[[DEF]] from your hand or GY, except "Infernal Grave Squirmer". You can only use each [[effect]] of "Infernal Grave Squirmer" [[once per turn]].
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、自分フィールドに悪魔族モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。その後、自分フィールドの、「ユベル」またはそのカード名が記されたモンスター１体を破壊できる。②：墓地のこのカードを除外して発動できる。自分の手札・墓地から「ヘルグレイブ・スクワーマー」以外の攻撃力と守備力が０の悪魔族モンスター１体を特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP019; Legacy of Destruction; 
+  LEDE-JP019; Legacy of Destruction; Common
   | supports              = Fiend
   | mentions              = 
   * Yubel
@@ -50,7 +50,6 @@ wikitext: |-
   * Requires control of specific card
   * Mentions
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19860
   | tcg_status            = Not yet released
   }}

@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 2800
   | password              = 
   | effect_types          = Trigger, Quick, Condition
-  | lore                  = FLIP: You can Special Summon 1 Level 5 or higher Flip monster from your Deck in face-down Defense Position, except "Conbirdable".<br />During the Battle Phase, if this card is in your hand (Quick Effect): You can target 1 face-down monster on the field; send it to the GY, and if you do, Special Summon this card in face-down Defense Position. You can only use each effect of "Conbirdable" once per turn.
+  | lore                  = [[FLIP]]: You can [[Special Summon]] 1 [[Level]] 5 or higher [[Flip monster]] from your [[Main Deck|Deck]] in [[face-down]] [[Defense Position]], except "Conbirdable".<br />During the [[Battle Phase]], if this card is in your [[hand]] ([[Quick Effect]]): You can [[target]] 1 face-down monster on the [[field]]; [[send]] it to the [[GY]], and if you do, Special Summon this card in face-down Defense Position. You can only use each [[effect]] of "Conbirdable" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,18 @@ wikitext: |-
   PHNI-PT084; Phantom Nightmare; Common
   | sp_sets               = 
   PHNI-SP084; Phantom Nightmare; Common
+  | mentions              = Conbirdable
+  | supports              = Flip monster
+  | action                = 
+  * Activates upon being flipped face-up
+  * Activates from your hand
+  * Sends from field to Graveyard
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons face-down
+  * Special Summons itself from your hand
+  * Special Summons itself face-down
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

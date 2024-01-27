@@ -12,13 +12,13 @@ wikitext: |-
   | romaji_name           = Sairento Sōdoman Zero
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SilentSwordsmanZero-LEDE-JP-OP.png
+  | image                 = SilentSwordsmanZero-LEDE-JP-C.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 4
   | atk                   = 1000
   | def                   = 1000
-  | password              = 
+  | password              = 39321065
   | effect_types          = Trigger, Continuous, Quick, Condition
   | lore                  = [[Once per turn]], during the [[Standby Phase]]: Increase this card's [[Level]] by 1. While this card's current Level is higher than its [[original Level]], it gains [[ATK]] equal to the difference x 500. When your opponent activates a card or [[effect]] that [[target]]s "[[Gold Sarcophagus of Light]]", and/or a [[monster]](s) that mentions it, you [[control]] ([[Quick Effect]]): You can [[negate]] the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Swordsman Zero" [[once per turn]].
   | fr_lore               = 
@@ -26,10 +26,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の③の効果は１ターンに１度しか使用できない。①：自分・相手のスタンバイフェイズに発動する。このカードのレベルを１つ上げる。②：このカードのレベルが元々のレベルより高い場合、その差分×５００だけこのカードの攻撃力はアップする。③：自分フィールドの、「光の黄金櫃」またはそのカード名が記されたモンスターを対象とする効果を相手が発動した時に発動できる。その発動を無効にし、このカードのレベルを１つ上げる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP002; Legacy of Destruction; 
+  LEDE-JP002; Legacy of Destruction; Common
   | mentions              = Gold Sarcophagus of Light
   | archseries            = 
   * Silent Swordsman (archetype)
@@ -47,7 +47,6 @@ wikitext: |-
   * Requires control of specific card
   * Mentions
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19843
   | tcg_status            = Not yet released
   }}

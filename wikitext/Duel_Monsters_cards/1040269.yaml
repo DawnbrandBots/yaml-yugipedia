@@ -14,13 +14,13 @@ wikitext: |-
   | trans_name            = Centurion Gargoyle Zwei
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = CenturIonGargoyleII-LEDE-JP-OP.png
+  | image                 = CenturIonGargoyleII-LEDE-JP-C.png
   | attribute             = DARK
   | types                 = Dragon / Effect
   | level                 = 8
   | atk                   = 2000
   | def                   = 3000
-  | password              = 
+  | password              = 97698279
   | effect_types          = Ignition, Trigger, Quick-like, Condition
   | lore                  = You can [[send]] 1 [[face-up]] "[[Centur-Ion]]" card you [[control]] to the [[GY]]; [[Special Summon]] this card from your [[hand]], also you cannot Special Summon "Centur-Ion Gargoyle II" for the rest of this [[turn]]. If this card is [[sent]] to the GY as [[Synchro Material]]: You can [[Add a card|add]] this card to your hand. During the [[Main Phase]], if this card is a [[Continuous Trap]]: You can Special Summon this card, then you can decrease its [[Level]] by 4. You can only use each [[effect]] of "Centur-Ion Gargoyle II" [[once per turn]].
   | fr_lore               = 
@@ -28,10 +28,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示の「センチュリオン」カード１枚を墓地へ送って発動できる。このカードを手札から特殊召喚する。このターン、自分は「竜騎兵ガーゴイルⅡ」を特殊召喚できない。②：このカードがＳ素材として墓地へ送られた場合に発動できる。このカードを手札に加える。③：このカードが永続罠カード扱いの場合、自分・相手のメインフェイズに発動できる。このカードを特殊召喚する。その後、このカードのレベルを４つ下げる事ができる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP021; Legacy of Destruction; 
+  LEDE-JP021; Legacy of Destruction; Common
   | archseries            = Centur-Ion
   | supports_archetypes   = Centur-Ion
   | action                = 
@@ -47,7 +47,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19862
   | tcg_status            = Not yet released
   }}

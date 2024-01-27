@@ -12,13 +12,13 @@ wikitext: |-
   | romaji_name           = Sairento Majishan Zero
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SilentMagicianZero-LEDE-JP-OP.png
+  | image                 = SilentMagicianZero-LEDE-JP-SR.png
   | attribute             = LIGHT
   | types                 = Spellcaster / Effect
   | level                 = 4
   | atk                   = 1000
   | def                   = 1000
-  | password              = 
+  | password              = 65726770
   | effect_types          = Trigger, Continuous, Quick, Condition
   | lore                  = If your opponent [[Draw a card|draws]] a card(s): Increase this card's [[Level]] by the number drawn. While this card's current Level is higher than its [[original Level]], it gains [[ATK]] equal to the difference x 500. When your opponent activates a [[Spell Card]] or [[effect]] while you [[control]] "[[Gold Sarcophagus of Light]]" ([[Quick Effect]]): You can [[negate]] the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Magician Zero" [[once per turn]].
   | fr_lore               = 
@@ -26,10 +26,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の③の効果は１ターンに１度しか使用できない。①：相手がドローした場合に発動する。ドローした枚数分だけ、このカードのレベルを上げる。②：このカードのレベルが元々のレベルより高い場合、その差分×５００だけこのカードの攻撃力はアップする。③：自分フィールドに「光の黄金櫃」が存在し、相手が魔法カードの効果を発動した時に発動できる。その発動を無効にし、このカードのレベルを１つ上げる。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP003; Legacy of Destruction; 
+  LEDE-JP003; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
+  LEDE-JP003; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | mentions              = Gold Sarcophagus of Light
   | archseries            = 
   * Silent Magician (archetype)
@@ -42,7 +43,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific card
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19844
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

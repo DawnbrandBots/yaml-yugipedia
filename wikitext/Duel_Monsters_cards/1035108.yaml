@@ -13,13 +13,13 @@ wikitext: |-
   | trans_name            = Lightroad Daemon Weiss
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = WeissLightswornArchfiend-LEDE-JP-OP.png
+  | image                 = WeissLightswornArchfiend-LEDE-JP-C.png
   | attribute             = LIGHT
   | types                 = Fiend / Tuner / Effect
   | level                 = 4
   | atk                   = 0
   | def                   = 1700
-  | password              = 
+  | password              = 96576187
   | effect_types          = Ignition, Trigger, Condition
   | lore                  = You can place 1 other "[[Lightsworn]]" card from your [[hand]] on top of the [[Main Deck|Deck]]; [[Special Summon]] this card from your hand, then [[send]] the top 2 cards of your Deck to the [[GY]]. If this card is sent from the Deck to the GY: You can [[target]] 1 "Lightsworn" [[monster]] in your GY, except "Weiss, Lightsworn Archfiend"; Special Summon it. You can only use each [[effect]] of "Weiss, Lightsworn Archfiend" [[once per turn]].
   | fr_lore               = 
@@ -27,10 +27,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から他の「ライトロード」カード１枚をデッキの一番上に戻して発動できる。このカードを手札から特殊召喚する。その後、自分のデッキの上からカードを２枚墓地へ送る。②：このカードがデッキから墓地へ送られた場合、「ライトロード・デーモン ヴァイス」以外の自分の墓地の「ライトロード」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP024; Legacy of Destruction; 
+  LEDE-JP024; Legacy of Destruction; Common
   | mentions              = Weiss, Lightsworn Archfiend
   | archseries            = 
   * Archfiend
@@ -47,7 +47,6 @@ wikitext: |-
   * Special Summons itself from your hand
   * Special Summons from your Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19865
   | tcg_status            = Not yet released
   }}

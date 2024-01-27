@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 500
   | password              = 
   | effect_types          = Trigger, Condition, Ignition
-  | lore                  = If this card is flipped face-up: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. You can only use this effect of "Swarm of Centipedes" once per turn. Once per turn, during your Main Phase: You can change this card to face-down Defense Position.
+  | lore                  = If this card is [[flip]]ped [[face-up]]: You can [[target]] 1 other [[monster]] on the [[field]]; change it to face-up [[Attack Position]] or [[face-down]] [[Defense Position]]. You can only use this [[effect]] of "Swarm of Centipedes" [[once per turn]]. Once per turn, during your [[Main Phase]]: You can change this card to face-down Defense Position.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,16 @@ wikitext: |-
   PHNI-PT085; Phantom Nightmare; Common
   | sp_sets               = 
   PHNI-SP085; Phantom Nightmare; Common
+  | action                = 
+  * Activates upon being flipped face-up
+  * Changes battle positions
+  * Flips monsters face-up
+  * Flips monsters face-down
+  * Changes own battle position
+  * Flips itself face-down
+  | misc                  = 
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -12,21 +12,21 @@ wikitext: |-
   | romaji_name           = Shukuseinaru Shukufuku
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = BlessingoftheVoicelessVoice-LEDE-JP-OP.png
+  | image                 = BlessingoftheVoicelessVoice-LEDE-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 39114494
   | effect_types          = Ignition-like, Trigger-like, Condition
-  | lore                  = You can [[target]] 1 of your "[[Voiceless Voice]]" cards that is [[banish]]ed or in your [[GY]], except "Blessing of the Voiceless Voice"; [[Add a card|add]] it to your [[hand]]. If a non-[[Ritual Monster]](s) is [[Normal Summon|Normal]] or [[Special Summon]]ed [[face-up]]: You can [[Ritual Summon]] 1 [[LIGHT]] [[Warrior]] or [[Dragon]] Ritual Monster from your [[hand]], by Tributing monsters from your hand and/or [[field]] whose total Levels equal or exceed the Ritual Monster's Level, and if you do, it cannot be [[destroyed by battle]]. You can only use each [[effect]] of "Blessing of the Voiceless Voice" [[once per turn]].
+  | lore                  = You can [[target]] 1 "[[Voiceless Voice]]" card in your [[GY]] or [[banish]]ment, except "Blessing of the Voiceless Voice"; [[Add a card|add]] it to your [[hand]]. If a non-[[Ritual Monster]](s) is [[Normal Summon|Normal]] or [[Special Summon]]ed [[face-up]]: You can [[Ritual Summon]] 1 [[LIGHT]] [[Warrior]] or [[Dragon]] Ritual Monster from your [[hand]], by Tributing monsters from your hand and/or [[field]] whose total Levels equal or exceed the Ritual Monster's Level, and if you do, it cannot be [[destroyed by battle]]. You can only use each [[effect]] of "Blessing of the Voiceless Voice" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「粛声なる祝福」以外の自分の墓地・除外状態の「粛声」カード１枚を対象として発動できる。そのカードを手札に加える。②：儀式モンスター以外のモンスターが表側表示で召喚・特殊召喚された場合に発動できる。レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から戦士族・ドラゴン族で光属性の儀式モンスター１体を儀式召喚する。この効果で特殊召喚したモンスターは戦闘では破壊されない。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP062; Legacy of Destruction; 
+  LEDE-JP062; Legacy of Destruction; Common
   | mentions              = Blessing of the Voiceless Voice
   | supports              = 
   * LIGHT
@@ -46,7 +46,6 @@ wikitext: |-
   * Special Summons from your hand
   | attack                = Prevents other cards being destroyed by battle
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19903
   | tcg_status            = Not yet released
   }}

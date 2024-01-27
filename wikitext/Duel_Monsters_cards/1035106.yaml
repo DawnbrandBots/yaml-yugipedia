@@ -15,13 +15,13 @@ wikitext: |-
   | trans_name            = Dragoon of Lightroad
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = DragonofLightsworn-LEDE-JP-OP.png
+  | image                 = DragonofLightsworn-LEDE-JP-C.png
   | attribute             = LIGHT
   | types                 = Dragon / Effect
   | level                 = 4
   | atk                   = 1500
   | def                   = 1300
-  | password              = 
+  | password              = 59481082
   | effect_types          = Ignition, Trigger, Trigger, Condition
   | lore                  = If you have a "[[Lightsworn]]" [[monster]] in your [[GY]]: You can [[Special Summon]] this card from your [[hand]]. If this card is Special Summoned: You can [[send]] 1 "Lightsworn" card from your [[Main Deck|Deck]] to the GY, except "Dragon of Lightsworn". If this card is sent to the GY: You can [[Add a card|add]] 1 [[Dragon]] monster with 3000 [[ATK]]/2600 [[DEF]] from your Deck to your hand. You can only use each [[effect]] of "Dragon of Lightsworn" [[once per turn]].
   | fr_lore               = 
@@ -29,10 +29,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地に「ライトロード」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚した場合に発動できる。デッキから「光道の龍」以外の「ライトロード」カード１枚を墓地へ送る。③：このカードが墓地へ送られた場合に発動できる。デッキから攻撃力３０００／守備力２６００のドラゴン族モンスター１体を手札に加える。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP023; Legacy of Destruction; 
+  LEDE-JP023; Legacy of Destruction; Common
   | mentions              = Dragon of Lightsworn
   | archseries            = Lightsworn
   | supports_archetypes   = Lightsworn
@@ -45,7 +45,6 @@ wikitext: |-
   * Adds from Deck to hand
   | summoning             = Special Summons itself from your hand
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19864
   | tcg_status            = Not yet released
   }}

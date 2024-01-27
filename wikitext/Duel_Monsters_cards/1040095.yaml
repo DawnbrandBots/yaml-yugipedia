@@ -15,13 +15,13 @@ wikitext: |-
   | trans_name            = Selettrice Varmonica
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SelettriceVaalmonica-LEDE-JP-OP.png
+  | image                 = SelettriceVaalmonica-LEDE-JP-SR.png
   | attribute             = WATER
   | types                 = Spellcaster / Effect
   | level                 = 4
   | atk                   = 1200
   | def                   = 1200
-  | password              = 
+  | password              = 23093373
   | effect_types          = Continuous, Condition, Trigger, Trigger
   | lore                  = While you [[control]] a [[monster]] other than "Selettrice Vaalmonica", your opponent's monsters cannot [[target]] this card for [[attack]]s. You can only use each of the following [[effect]]s of "Selettrice Vaalmonica" [[once per turn]]. If this card is [[Normal Summon|Normal]] or [[Pendulum Summon]]ed: You can [[Add a card|add]] 1 "[[Vaalmonica]]" card from your [[Main Deck|Deck]] to your [[hand]], except "Selettrice Vaalmonica". If this card is [[sent]] to the [[GY]] and you have 2 "Vaalmonica" cards in your [[Pendulum Zone]]s: You can add this card to your hand.
   | fr_lore               = 
@@ -29,10 +29,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・Ｐ召喚した場合に発動できる。デッキから「天魔の聲選姫」以外の「ヴァルモニカ」カード１枚を手札に加える。②：自分フィールドに「天魔の聲選姫」以外のモンスターが存在する限り、相手モンスターはこのカードを攻撃対象に選択できない。③：このカードが墓地へ送られた場合、自分のＰゾーンに「ヴァルモニカ」カードが２枚存在していれば発動できる。このカードを手札に加える。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP022; Legacy of Destruction; 
+  LEDE-JP022; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
+  LEDE-JP022; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | mentions              = Selettrice Vaalmonica
   | archseries            = Vaalmonica
   | supports_archetypes   = Vaalmonica
@@ -46,7 +47,6 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Requires control of specific archetype
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19863
   | tcg_status            = Not yet released
   }}

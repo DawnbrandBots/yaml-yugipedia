@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Ignition-like, Condition
-  | lore                  = Send 1 "Xyz" card from your Deck to the GY, except "Xyz Force", or if an Xyz Monster is on the field that has an Xyz Monster as material, you can add the "Xyz" card to your hand instead. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; detach 1 material from an Xyz Monster on either field, then if the detached material was an Xyz Monster, you can Special Summon that monster from your GY or your banishment, in Defense Position. You can only use each effect of "Xyz Force" once per turn.
+  | lore                  = [[Send]] 1 "[[Xyz (archetype)|Xyz]]" card from your [[Main Deck|Deck]] to the [[GY]], except "Xyz Force", or if an [[Xyz Monster]] is on the [[field]] that has an Xyz Monster as [[material]], you can [[add]] the "Xyz" card to your [[hand]] instead. During your [[Main Phase]], except the [[turn]] this card was sent to the GY: You can [[banish]] this card from your GY; [[detach]] 1 material from an Xyz Monster on either field, then if the detached material was an Xyz Monster, you can [[Special Summon]] that monster from your GY or your [[banish]]ment, in [[Defense Position]]. You can only use each [[effect]] of "Xyz Force" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,8 +38,23 @@ wikitext: |-
   PHNI-PT089; Phantom Nightmare; Common
   | sp_sets               = 
   PHNI-SP089; Phantom Nightmare; Common
+  | mentions              = Xyz Force
+  | supports              = Xyz Monster
+  | anti-supports         = Xyz Monster
   | archseries            = Xyz (archetype)
   | supports_archetypes   = Xyz (archetype)
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Detaches Xyz Materials for effect
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

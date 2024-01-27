@@ -12,14 +12,14 @@ wikitext: |-
   | romaji_name           = Gensō no Utahime Rufuran
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = RefraintheMelodiousSongstress-LEDE-JP-OP.png
+  | image                 = RefraintheMelodiousSongstress-LEDE-JP-R.png
   | attribute             = LIGHT
   | types                 = Fairy / Pendulum / Effect
   | level                 = 4
   | pendulum_scale        = 1
   | atk                   = 1600
   | def                   = 800
-  | password              = 
+  | password              = 64881644
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Trigger, Trigger, Condition
   | pendulum_effect       = You can [[target]] 1 "[[Melodious]]" [[Fusion Monster]] you [[control]]; [[send]] 1 "Melodious" monster from your [[Main Deck|Deck]] to the [[GY]], and if you do, the targeted monster gains [[ATK]] equal to the sent monster's [[Level]] x 200 until the end of this [[turn]]. You can only use this [[effect]] of "Refrain the Melodious Songstress" [[once per turn]].
@@ -34,8 +34,8 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの「幻奏」融合モンスター１体を対象として発動できる。デッキから「幻奏」モンスター１体を墓地へ送り、対象のモンスターの攻撃力をターン終了時まで、墓地へ送ったモンスターのレベル×２００アップする。
+  | ja_lore               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「幻奏の歌姫ルフラン」以外の「幻奏」モンスター１体を手札に加える。②：このカードがＥＸデッキに表側で存在する状態で、自分フィールドに「幻奏」融合モンスターが特殊召喚された場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | jp_sets               = 
@@ -56,7 +56,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19850
   | tcg_status            = Not yet released
   }}

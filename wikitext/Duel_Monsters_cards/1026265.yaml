@@ -13,10 +13,10 @@ wikitext: |-
   | trans_name            = Silence of Time - Turn Silence
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = TurnSilence-LEDE-JP-OP.png
+  | image                 = TurnSilence-LEDE-JP-C.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 05786513
   | effect_types          = Effect, Trigger-like, Condition
   | lore                  = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; increase its [[Level]] by 3, and if you [[activate]]d this card in response to your opponent's monster effect activation while you controlled "[[Gold Sarcophagus of Light]]" and a monster that mentions it, [[negate]] that opponent's effect. During [[damage calculation]], if your monster that mentions "Gold Sarcophagus of Light" [[battle]]s: You can banish this card from your [[GY]]; end the [[Battle Phase]]. You can only activate 1 "Turn Silence" per [[turn]].
   | fr_lore               = 
@@ -24,10 +24,10 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルを３つ上げる。自分フィールドに「光の黄金櫃」及びそのカード名が記されたモンスターが存在する状態で、相手モンスターの効果の発動にチェーンしてこのカードを発動した場合、その相手の効果を無効にする。②：「光の黄金櫃」のカード名が記された自分のモンスターが戦闘を行うダメージ計算時に、墓地のこのカードを除外して発動できる。そのバトルフェイズを終了する。
   | ko_lore               = 
   | jp_sets               = 
-  LEDE-JP052; Legacy of Destruction; 
+  LEDE-JP052; Legacy of Destruction; Common
   | mentions              = Gold Sarcophagus of Light
   | archseries            = Gold Sarcophagus of Light (series)
   | action                = 
@@ -40,7 +40,6 @@ wikitext: |-
   * Requires control of specific card
   * Mentions
   * Only once per turn
-  | database_id           = 
+  | database_id           = 19893
   | tcg_status            = Not yet released
-  | ocg_status            = Not yet released
   }}

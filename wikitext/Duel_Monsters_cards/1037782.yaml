@@ -16,13 +16,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = SnakeEyesDiabellstar-LEDE-JP-OP.png
+  | image                 = SnakeEyesDiabellstar-LEDE-JP-SR.png
   | attribute             = FIRE
   | types                 = Spellcaster / Effect
   | level                 = 8
   | atk                   = 2800
   | def                   = 2600
-  | password              = 
+  | password              = 27260347
   | effect_types          = Trigger, Ignition-like, Condition
   | lore                  = When an [[attack]] is [[declare]]d involving this card and an opponent's [[monster]]: You can place both that opponent's monster and this card [[face-up]] in their owners' [[Spell & Trap Zone]] as [[Continuous Spell]]s. While this card is treated as a Continuous Spell: You can [[target]] 1 [[FIRE]] monster in your [[GY]], except "Snake-Eyes Diabellstar"; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each [[effect]] of "Snake-Eyes Diabellstar" [[once per turn]].
   | fr_lore               = 
@@ -30,11 +30,12 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その相手モンスターとこのカードをそれぞれ永続魔法カード扱いで元々の持ち主の魔法＆罠ゾーンに表側表示で置く。②：このカードが永続魔法カード扱いの場合、「蛇眼の大炎魔」以外の自分の墓地の炎属性モンスター１体を対象として発動できる。そのモンスターを永続魔法カード扱いで元々の持ち主の魔法＆罠ゾーンに表側表示で置き、このカードを特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  LEDE-JP011; Legacy of Destruction;
+  LEDE-JP011; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
+  LEDE-JP011; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | mentions              = Snake-Eyes Diabellstar
   | supports              = FIRE
   | archseries            = 
@@ -49,7 +50,6 @@ wikitext: |-
   | m/s/t                 = Treats monsters as Continuous Spell Cards
   | summoning             = Special Summons itself from your Spell & Trap Zone
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 19852
   | tcg_status            = Not yet released
   }}
