@@ -15,11 +15,11 @@ wikitext: |-
   | current_image         = 1.1
   | attribute             = WIND
   | types                 = Dragon / Tuner
+  | level                 = 3
   | atk                   = 300
   | def                   = 900
-  | level                 = 3
-  | effect_types          = Ignition
   | password              = 54936498
+  | effect_types          = Ignition
   | lore                  = [[Once per turn]]: You can [[target]] 1 [[face-up]] [[monster]] you [[control]]; it becomes [[Dragon]]-[[Type]] until the [[End Phase]].
   | fr_lore               = Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la End Phase, il devient de Type Dragon.
   | de_lore               = Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es wird bis zur End Phase zum Typ Drache.
@@ -39,6 +39,8 @@ wikitext: |-
   GAOV-SP093; Galactic Overlord; Common
   | jp_sets               = 
   TF06-JP002; Yu-Gi-Oh! 5D's Tag Force 6 promotional cards; Ultra Rare
+  | ja_sets               = 
+  24HP-JA102; Hidden Chapter Pack 2024 Vol.1; Super Rare
   | kr_sets               = 
   PP13-KR017; Premium Pack Vol.13; Normal Parallel Rare, Super Rare
   | stat_change           = Changes Type
