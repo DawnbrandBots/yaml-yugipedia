@@ -11,13 +11,19 @@ wikitext: |-
   | level            = 2
   | atk              = 600
   | def              = 700
-  | requirement      = You have 2 or less [[monsters]] on your [[field]].
-  | lore             = [[Send]] cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]] equal to [the number of [[face-up]] [[Pyro]], [[Aqua]], and/or [[Thunder]] [[Type]] monsters on your field] x 2.
+  | requirement      = You have 2 or less [[Monster Card|monster]]s on your [[field]].
+  | lore             = [[Send]] cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]] equal to [the number of [[face-up]] [[Pyro]]/[[Aqua]]/[[Thunder]] [[Type]] monsters on your field] x 2.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP019; Transamu of Transcendence; Common
+  | supports         = 
+  * Pyro
+  * Aqua
+  * Thunder
   | archseries       = Chemistry
+  | action           = Sends from the top of your Deck to your Graveyard
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
