@@ -16,7 +16,7 @@ wikitext: |-
   * Super Assistant Achi
   | materials        = "[[Chromatographagas]]" + "[[Super Assistant Achi]]"
   | requirement      = Place 1 [[Level]] 7 [[Pyro]] [[Type]] [[Normal Monster]] from your [[Graveyard]] on top of your [[Main Deck|Deck]].
-  | lore             = This card gains 2500 [[ATK]] until the end of this [[turn]]. Then, you can make 1 [[face-up]] Level 9 or lower monster on your opponent's [[field]] lose 1500 ATK until the end of this turn.
+  | lore             = This card gains 2500 [[ATK]] until the end of this [[turn]]. Then, you can make 1 [[face-up]] Level 9 or lower [[Monster Card|monster]] on your opponent's [[field]] lose 1500 ATK until the end of this turn.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -25,7 +25,17 @@ wikitext: |-
   | mentions         = 
   * Chromatographagas
   * Super Assistant Achi
+  | supports         = 
+  * Pyro
+  * Normal Monster
   | archseries       = Chemistry
+  | action           = Places cards from the player's Graveyard on the top of the Deck for cost
+  | stat_change      = 
+  * This card gains ATK
+  * Your opponent's monsters lose ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
