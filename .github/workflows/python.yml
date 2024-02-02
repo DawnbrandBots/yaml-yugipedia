@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: © 2024 Kevin Lu
+# SPDX-Licence-Identifier: LGPL-3.0-or-later
+name: Lint
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  # https://github.com/DataDog/guarddog
+  guarddog:
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install guarddog
+      - run: guarddog pypi verify src/requirements.txt --output-format sarif --exclude-rules repository_integrity_mismatch > guarddog.sarif
+      - uses: github/codeql-action/upload-sarif@v3
+        with:
+          category: guarddog-builtin
+          sarif_file: guarddog.sarif
+  # https://github.com/astral-sh/ruff
+  ruff:
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install ruff
+      - run: ruff format --check src
+      - run: ruff check --output-format=github src
+        if: ${{ !cancelled() }}
+      - run: ruff check --output-format=sarif src > ruff.sarif
+      - uses: github/codeql-action/upload-sarif@v3
+        with:
+          category: ruff
+          sarif_file: ruff.sarif

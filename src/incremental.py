@@ -23,7 +23,9 @@ def skip_condition(page) -> bool:
 
 def main():
     if len(sys.argv) < 2:
-        exit(f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]")
+        exit(
+            f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]"
+        )
     logging.basicConfig(level=logging.INFO)
     with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
         yaml = YAML()

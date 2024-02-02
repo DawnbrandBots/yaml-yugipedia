@@ -19,7 +19,9 @@ user_agent = f"https://github.com/DawnbrandBots/yaml-yugipedia httpx/{httpx.__ve
 
 def main():
     if len(sys.argv) < 2:
-        sys.exit(f"Usage: {sys.argv[0]} <category>\ne.g. Duel_Monsters_cards, Skill_Cards, Rush_Duel_cards, Yu-Gi-Oh!_Duel_Links_Skills")
+        sys.exit(
+            f"Usage: {sys.argv[0]} <category>\ne.g. Duel_Monsters_cards, Skill_Cards, Rush_Duel_cards, Yu-Gi-Oh!_Duel_Links_Skills"
+        )
     logging.basicConfig(level=logging.INFO)
     category = sys.argv[1]
     with httpx.Client(http2=True, headers={"User-Agent": user_agent}) as client:
