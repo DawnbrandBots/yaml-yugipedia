@@ -3,30 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = トランザム・スクライド
-  | romaji_name      = Toranzamu Sukuraido
-  | image            = TransamuScraied-RDSJMP-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Galaxy / Effect
-  | level            = 5
-  | atk              = 1600
-  | def              = 500
-  | requirement      = None
-  | lore             = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. If you [[sent]] a [[LIGHT]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]] to the [[Graveyard]] by this [[effect]], you can choose up to 3 [[face-up]] monsters on your [[field]]. If you do, those monsters [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference), if they attack a [[Defense Position]] monster this [[turn]]. Then, if it was "[[Transamu Rainac]]", you can [[Battle position change|change]] all [[Attack Position]] monsters on your opponent's field to face-up Defense Position.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = トランザム・スクライド
+  | romaji_name    = Toranzamu Sukuraido
+  | image          = TransamuScraied-RDSJMP-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 5
+  | atk            = 1600
+  | def            = 500
+  | requirement    = None
+  | lore           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. If you [[sent]] a [[LIGHT]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]] to the [[Graveyard]] by this [[effect]], you can choose up to 3 [[face-up]] monsters on your [[field]]. If you do, those monsters [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference), if they attack a [[Defense Position]] monster this [[turn]]. Then, if it was "[[Transamu Rainac]]", you can [[Battle position change|change]] all [[Attack Position]] monsters on your opponent's field to face-up Defense Position.
+  | ja_requirement = なし
+  | ja_lore        = 自分のデッキの一番上のカードを墓地へ送る。この効果でモンスター（光属性／ギャラクシー族）が墓地へ送られた場合、自分フィールドの表側表示モンスターを３体まで選ぶ事ができる。選んだ場合、このターン、選んだモンスターの攻撃は貫通する。この効果で「トランザム・ライナック」を選んだ場合、さらに相手フィールドの攻撃表示モンスターを全て表側守備表示にできる。
+  | jp_sets        = 
   RD/SJMP-JP036; Saikyō Jump March 2024 promotional card; Normal Parallel Rare
-  | mentions         = Transamu Rainac
-  | supports         = 
+  | mentions       = Transamu Rainac
+  | supports       = 
   * LIGHT
   * Galaxy (Type)
-  | archseries       = Transamu
-  | action           = 
+  | archseries     = Transamu
+  | action         = 
   * Sends from the top of your Deck to your Graveyard
   * Changes battle positions
-  | attack           = Piercing
-  | misc             = Requires control of specific card
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | attack         = Piercing
+  | misc           = Requires control of specific card
+  | database_id    = 20035
   }}
