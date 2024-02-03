@@ -41,6 +41,20 @@ wikitext: |-
   * Dark Magician (archetype)
   * Gold Sarcophagus of Light (series)
   * Magician
+  | action                = 
+  * Activates from your hand
+  * Activates if destroyed by card effect
+  * Sets from your Deck
+  | stat_change           = Changes own name while on the field
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons itself while banished
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific card
+  * Requires control of specific Level
+  * Mentions
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

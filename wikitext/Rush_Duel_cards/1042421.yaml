@@ -3,23 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = オールラヴ・ゴッデス
-  | romaji_name            = Ōru Ravu Goddesu
-  | image                  = AllLoveGoddess-ORP2-JP-OP.png
-  | attribute              = LIGHT
-  | types                  = Fairy / Effect
-  | level                  = 8
-  | atk                    = 0
-  | def                    = 0
-  | effect_types           = Continuous
-  | summoning_condition    = If you have a [[face-up]] [[Monster Card|monster]] with 0 [[Original ATK and DEF|original ATK]] on your [[field]], you can [[Normal Summon]] this card without [[Tributing]].
-  | requirement            = None
-  | lore                   = This card gains ATK equal to [the number of face-up monsters with 0 original ATK on your field] x 1000. You [[Damage|take]] no [[battle damage]] from [[battle]]s involving your monsters with 0 ATK.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name             = オールラヴ・ゴッデス
+  | romaji_name         = Ōru Ravu Goddesu
+  | image               = AllLoveGoddess-ORP2-JP-OP.png
+  | attribute           = LIGHT
+  | types               = Fairy / Effect
+  | level               = 8
+  | atk                 = 0
+  | def                 = 0
+  | effect_types        = Continuous
+  | summoning_condition = If you have a [[face-up]] [[Monster Card|monster]] with 0 [[Original ATK and DEF|original ATK]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
+  | requirement         = None
+  | lore                = This card gains [[ATK]] equal to [the number of face-up monsters with 0 original ATK on your field] x 1000. You [[Damage|take]] no [[battle damage]] from [[battle]]s involving your monsters with 0 ATK.
+  | ja_requirement      = 
+  | ja_lore             = 
+  | jp_sets             = 
   RD/ORP2-JP039; Over Rush Pack 2; Over Rush Rare
-  | archseries       = Love
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | archseries          = Love
+  | stat_change         = This card gains ATK
+  | summoning           = Normal Summon without Tribute
+  | life_points         = Prevents battle damage
+  | misc                = Requires control of specific ATK
+  | database_id         = 
+  | rush_duel_status    = Not yet released
   }}
