@@ -36,7 +36,22 @@ wikitext: |-
   | supports_archetypes   = 
   * Exodia
   * Forbidden One
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Returns from your Graveyard to your Deck
+  * Returns the player's banished cards to the Deck
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific archetype
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -33,6 +33,26 @@ wikitext: |-
   | supports_archetypes   = 
   * Exodia
   * Forbidden One
+  | action                = 
+  * Grants effect to other cards
+  * Equips monsters from the player's hand to itself
+  * Equips monsters from the player's Deck to itself
+  * Grants effect to Equip Spell Card
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Treats monsters as Equip Cards
+  * Prevents activation of your Effect Monsters
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | attack                = Piercing
+  | life_points           = 
+  * Pays Life Points for cost
+  * Halves LP
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

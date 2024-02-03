@@ -32,6 +32,13 @@ wikitext: |-
   | supports_archetypes   = 
   * Millennium
   * Sennen
+  | action                = 
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from field in Spell & Trap Zone
+  * Places destroyed cards in Spell & Trap Zone
+  | m/s/t                 = Treats monsters as Continuous Spell Cards
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

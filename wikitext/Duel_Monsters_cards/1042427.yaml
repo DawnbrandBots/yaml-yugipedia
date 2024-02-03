@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = ?
   | def                   = 0
   | password              = 
+  | materials             = 5 "Forbidden One" monsters
   | effect_types          = Continuous, Quick, Quick, Trigger, Trigger
   | lore                  = 5 "[[Forbidden One]]" [[monsters]]<br />Cannot be [[destroy]]ed by your opponent's card [[effect]]s. [[Once per turn]], if this card [[battle]]s, during [[damage calculation]] ([[Quick Effect]]): You can make this card gain [[ATK]] equal to your current [[LP]]. Once per turn, when a [[Spell]]/[[Trap Card]] or effect is activated (Quick Effect): You can negate the activation. Once per turn, during the [[End Phase]]: You can [[Set]] 1 "[[Exodo]]" Spell/Trap or 1 "[[Obliterate!!!]]" directly from your [[Main Deck|Deck]]. Once per turn, during your [[Standby Phase]]: You lose 1000 LP.
   | fr_lore               = 
@@ -38,6 +39,18 @@ wikitext: |-
   | supports_archetypes   = 
   * Exodo
   * Forbidden One
+  | related_to_archseries = Sennen
+  | action                = Sets from your Deck
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | summoning             = 
+  * 5 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  | life_points           = You lose Life Points
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
