@@ -3,27 +3,21 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|曲|くせ}}{{Ruby|者|もの}}の{{Ruby|隠|かく}}し{{Ruby|玉|たま}}
-  | romaji_name      = Kusemono no Kakushidama
-  | trans_name       = 
-  | ko_name          = 
-  | ko_rr_name       = 
-  | image            = CheatersHiddenBallTrick-RDTDPR-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 20 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Destroy]] the attacking monster. You [[Damage|take]] no [[battle damage]] this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | ko_requirement   = 
-  | ko_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|曲|くせ}}{{Ruby|者|もの}}の{{Ruby|隠|かく}}し{{Ruby|玉|たま}}
+  | romaji_name    = Kusemono no Kakushidama
+  | image          = CheatersHiddenBallTrick-RDTDPR-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 20 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Destroy]] the attacking monster. You [[Damage|take]] no [[battle damage]] this [[turn]].
+  | ja_requirement = 相手モンスターの攻撃宣言時、自分の墓地のモンスター２０体をデッキに戻して発動できる。
+  | ja_lore        = 攻撃してきたモンスターを破壊する。このターン、自分は戦闘ダメージを受けない。
+  | jp_sets        = 
   RD/TDPR-JP005; Rush Duel The Legend of Duelist Promotion Pack; Normal Parallel Rare
-  | action           = 
+  | action         = 
   * Activates upon attack declaration
   * Returns from Graveyard to Deck for cost
-  | m/s/t            = Destroys your opponent's Monster Cards
-  | life_points      = Prevents battle damage
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | life_points    = Prevents battle damage
+  | database_id    = 20054
   }}
