@@ -8,13 +8,20 @@ wikitext: |-
   | image            = SecretAlteration-RDKP16-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 3 cards from your [[hand]] to the [[Graveyard]], including 2 [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[monsters]].
+  | requirement      = [[Send]] 3 cards from your [[hand]] to the [[Graveyard]], including 2 [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[Monster Card|monster]]s.
   | lore             = [[Draw a card|Draw]] 3 cards. Then, you can make 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]] lose 1300 [[ATK]] until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP16-JP053; Transamu of Transcendence; Common
+  | supports         = 
+  * LIGHT
+  * Reptile
   | archseries       = Secret Investigator
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | stat_change      = Your opponent's monsters lose ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
