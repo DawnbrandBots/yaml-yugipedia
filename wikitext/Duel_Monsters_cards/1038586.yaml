@@ -20,7 +20,7 @@ wikitext: |-
   | property     = Normal
   | password     = 
   | effect_types = Effect, Trigger-like, Condition
-  | lore         = Immediately after this effect [[resolve]]s, [[Tribute Summon]] 1 monster, and if you do, it cannot be [[Tribute]]d this turn. When you do, you can Tribute a monster(s) your opponent [[control]]s, even though you do not control them. If this card is [[sent]] from the [[field]] to the [[GY]]: [[Activate]] this effect; your opponent can apply this card's previous effect. [[Only once per turn|You can only activate]] 1 "Spell Card: "Soul Exchange"" per turn.
+  | lore         = Immediately after this effect [[resolve]]s, [[Tribute Summon]] 1 monster, and if you do, it cannot be [[Tribute]]d this turn. When you do, you can Tribute a monster(s) your opponent [[control]]s, even though you do not control them. If this card is [[sent]] from the [[field]] to the [[GY]]: [[Activate]] this effect; your opponent can apply this card's previous effect. You can only activate 1 "Spell Card: "Soul Exchange"" [[Only once per turn|per turn]].
   | fr_lore      = 
   | de_lore      = 
   | it_lore      = 
@@ -31,6 +31,12 @@ wikitext: |-
   | sc_lore      = 
   | jp_sets      = 
   VJMP-JP251; V Jump April 2024 promotional card; Ultra Rare
+  | action       = 
+  * Cannot be Tributed
+  * Tributes opponent's monsters
+  * Activates if sent to the Graveyard
+  | summoning    = Performs a Tribute Summon
+  | misc         = Only once per turn
   | database_id  = 
   | ocg_status   = Not yet released
   | tcg_status   = Not yet released
