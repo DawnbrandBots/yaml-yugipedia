@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = ジョインテック・トライ・ダイナベース
   | romaji_name           = Jointekku Torai Dainabēsu
-  | image                 = JointechTridynabase-RDKP16-JP-OP.png
+  | image                 = JointechTridynabase-RDKP16-JP-R.png
   | attribute             = DARK
   | types                 = Machine / Fusion / Effect
   | level                 = 9
@@ -16,9 +16,9 @@ wikitext: |-
   | materials             = "[[Jointech Nesstrydar Tank]]" + 2 non-[[Machine]] [[Type]] [[Monster Card|monster]]s
   | requirement           = None
   | lore                  = If this card [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). This card can make a second and third attack during the [[turn]] it was [[Fusion Summon]]ed by [[send]]ing monsters whose original names are "[[Voidvelgr Requiem]]" and "[[Abysslayer Leviaknight]]" to the [[Graveyard]] as [[material]].
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_materials          = 「ジョインテック・ネストライダー・タンク」＋モンスター（機械族以外）×２
+  | ja_requirement        = なし
+  | ja_lore               = このカードの攻撃は貫通する。元々のカード名が「ヴォイドヴェルグ・レクイエム」「アビスレイヤー・リヴァイアナイト」のモンスターをそれぞれ素材として墓地へ送ってこのカードをフュージョン召喚したターン、このカードは３回攻撃できる。
   | jp_sets               = 
   RD/KP16-JP041; Transamu of Transcendence; Rare
   | mentions              = 
@@ -37,6 +37,5 @@ wikitext: |-
   | attack                = 
   * Piercing
   * Multiple attacker
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 19989
   }}

@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = トランザムヴェルグ・ライナック
   | romaji_name           = Toranzamuverugu Rainakku
-  | image                 = TransamuvelgrRainac-RDKP16-JP-OP.png
+  | image                 = TransamuvelgrRainac-RDKP16-JP-SR.png
   | attribute             = LIGHT
   | types                 = Galaxy / Fusion / Effect
   | level                 = 9
@@ -17,9 +17,9 @@ wikitext: |-
   | materials             = "[[Transamu Rainac]]" + "[[Voidvelgr Requiem]]"
   | requirement           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore                  = This card gains 900 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you sent a [[LIGHT]] [[Attribute]] or [[DARK]] Attribute [[Monster Card|monster]] to the Graveyard to meet the [[Activation condition|requirement]], you can make all [[face-up]] monsters on your opponent's [[field]] lose 1000 ATK until the end of your opponent's next turn.
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_materials          = 「トランザム・ライナック」＋「ヴォイドヴェルグ・レクイエム」
+  | ja_requirement        = デッキの上からカード３枚を墓地へ送って発動できる。
+  | ja_lore               = このカードの攻撃力は次の相手ターン終了時まで９００アップする。この効果の条件でモンスター（光属性・闇属性）が墓地へ送られた場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力を次の相手ターン終了時まで１０００ダウンできる。
   | jp_sets               = 
   RD/KP16-JP040; Transamu of Transcendence; Super Rare, Secret Rare
   | mentions              = 
@@ -40,6 +40,5 @@ wikitext: |-
   * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   | misc                  = Turn limited effects
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 19988
   }}
