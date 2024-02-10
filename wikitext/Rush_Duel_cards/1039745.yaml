@@ -3,29 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|ＣＡＮ|キャン}}－{{Ruby|Ｓｔ：Ｄ|スタディー}}
-  | romaji_name      = Kyan-Sutadī
-  | image            = CANStD-RDKP16-JP-OP.png
-  | attribute        = EARTH
-  | types            = Psychic / Effect
-  | level            = 7
-  | atk              = 2400
-  | def              = 1600
-  | requirement      = If the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Omega Psychic]] [[Type]] and/or [[Psychic]] Type, [[send]] 1 card from your [[hand]] to the Graveyard.
-  | lore             = [[Return]] 1 [[face-up]] monster from your opponent's [[field]] to the [[owner]]'s hand. Then, if you have "[[CAN:D]]" in your Graveyard, gain 700 [[LP]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|ＣＡＮ|キャン}}－{{Ruby|Ｓｔ：Ｄ|スタディー}}
+  | romaji_name    = Kyan-Sutadī
+  | image          = CANStD-RDKP16-JP-UR.png
+  | attribute      = EARTH
+  | types          = Psychic / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 1600
+  | requirement    = If the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Omega Psychic]] [[Type]] and/or [[Psychic]] Type, [[send]] 1 card from your [[hand]] to the Graveyard.
+  | lore           = [[Return]] 1 [[face-up]] monster from your opponent's [[field]] to the [[owner]]'s hand. Then, if you have "[[CAN:D]]" in your Graveyard, gain 700 [[LP]].
+  | ja_requirement = 自分の墓地のモンスターがオメガサイキック族・サイキック族のみの場合、手札１枚を墓地へ送って発動できる。
+  | ja_lore        = 相手フィールドの表側表示モンスター１体を選んで持ち主の手札に戻す。自分の墓地に「ＣＡＮ：Ｄ」がいる場合、さらに自分は７００ＬＰ回復する。
+  | jp_sets        = 
   RD/KP16-JP025; Transamu of Transcendence; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions         = CAN:D
-  | supports         = 
+  | mentions       = CAN:D
+  | supports       = 
   * Omega Psychic
   * Psychic
-  | archseries       = JAM
-  | action           = 
+  | archseries     = JAM
+  | action         = 
   * Sends from hand to Graveyard for cost
   * Returns from your opponent's field to your opponent's hand
-  | life_points      = You gain Life Points
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | life_points    = You gain Life Points
+  | database_id    = 19973
   }}

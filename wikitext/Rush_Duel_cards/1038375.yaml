@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = プライム・ディアン・ケト
   | romaji_name            = Puraimu Dian Keto
-  | image                  = PraimeDianKeto-RDKP16-JP-OP.png
+  | image                  = PraimeDianKeto-RDKP16-JP-C.png
   | attribute              = LIGHT
   | types                  = Aqua / Effect
   | level                  = 8
@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1000.
   | requirement            = [[Send]] 1 monster from your [[hand]] to the [[Graveyard]].
   | lore                   = Gain 1000 [[LP]], and this card gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Praime Call]]" from your Graveyard to your hand.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は１０００になる。
+  | ja_requirement         = 手札のモンスター１体を墓地へ送って発動できる。
+  | ja_lore                = 自分は１０００ＬＰ回復し、このカードの攻撃力はターン終了時まで１０００アップする。その後、自分の墓地の「プライム・コール」１枚を選んで手札に加える事ができる。
   | jp_sets                = 
   RD/KP16-JP007; Transamu of Transcendence; Common
   | mentions               = Praime Call
@@ -31,6 +31,5 @@ wikitext: |-
   * This card gains ATK
   | summoning              = Normal Summon with 1 Tribute
   | life_points            = You gain Life Points
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 19955
   }}

@@ -3,26 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サイコロの{{Ruby|大|だい}}{{Ruby|悪|あく}}{{Ruby|魔|ま}}
-  | romaji_name      = Saikoro no Daiakuma
-  | image            = DiceArchdemon-RDKP16-JP-OP.png
-  | attribute        = DARK
-  | types            = Fiend / Effect
-  | level            = 7
-  | atk              = 2400
-  | def              = 1500
-  | requirement      = None
-  | lore             = Roll a six-sided die. Until the end of this [[turn]], all [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100, or [the result] x 200 instead if you have "[[Skull Dice (Rush Duel)|Skull Dice]]" in your [[Graveyard]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = サイコロの{{Ruby|大|だい}}{{Ruby|悪|あく}}{{Ruby|魔|ま}}
+  | romaji_name    = Saikoro no Daiakuma
+  | image          = DiceArchdemon-RDKP16-JP-C.png
+  | attribute      = DARK
+  | types          = Fiend / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 1500
+  | requirement    = None
+  | lore           = Roll a six-sided die. Until the end of this [[turn]], all [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100, or [the result] x 200 instead if you have "[[Skull Dice (Rush Duel)|Skull Dice]]" in your [[Graveyard]].
+  | ja_requirement = なし
+  | ja_lore        = サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。自分の墓地に「悪魔のサイコロ」がある場合、代わりに［出た目の数］×２００ダウンする。
+  | jp_sets        = 
   RD/KP16-JP013; Transamu of Transcendence; Common
-  | mentions         = Skull Dice (Rush Duel)
-  | stat_change      = 
+  | mentions       = Skull Dice (Rush Duel)
+  | archseries     = Dice (series)
+  | stat_change    = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | misc             = Die roll
-  | archseries       = Dice (series)
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc           = Die roll
+  | database_id    = 19961
   }}

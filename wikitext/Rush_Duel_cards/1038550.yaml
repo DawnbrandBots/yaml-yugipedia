@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = プライムクロー・ガール
   | romaji_name            = Puraimukurō Gāru
-  | image                  = PraimeClawGirl-RDKP16-JP-OP.png
+  | image                  = PraimeClawGirl-RDKP16-JP-C.png
   | attribute              = LIGHT
   | types                  = Warrior / Effect
   | level                  = 7
@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 200.
   | requirement            = Place 2 cards from your [[hand]] on the bottom of the [[Main Deck|Deck]] in any order.
   | lore                   = [[Special Summon]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は２００になる。
+  | ja_requirement         = 手札２枚を好きな順番でデッキの下に戻して発動できる。
+  | ja_lore                = 自分の墓地の通常モンスター（光属性）１体を選び、自分フィールドに表側守備表示で特殊召喚する。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
   | jp_sets                = 
   RD/KP16-JP004; Transamu of Transcendence; Common
   | mentions               = Fusion (Rush Duel)
@@ -35,6 +35,5 @@ wikitext: |-
   * Normal Summon with 1 Tribute
   * Special Summons from your Graveyard
   | fm_for                 = Praime Cat Straynya
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 19952
   }}

@@ -3,32 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|秘|ひ}}{{Ruby|密|みつ}}{{Ruby|捜|そう}}{{Ruby|査|さ}}{{Ruby|官|かん}}ミスファイア
-  | romaji_name      = Himitsu Sōsakan Misufaia
-  | image            = SecretInvestigatorMisfire-RDKP16-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Reptile / Effect
-  | level            = 3
-  | atk              = 1300
-  | def              = 300
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, [[pay]] 300 [[LP]].
-  | lore             = [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the number of [[face-up]] [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[Monster Card|monster]]s on your [[field]]] x 300. You can only [[attack]] with Reptile Type monsters this turn.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|秘|ひ}}{{Ruby|密|みつ}}{{Ruby|捜|そう}}{{Ruby|査|さ}}{{Ruby|官|かん}}ミスファイア
+  | romaji_name    = Himitsu Sōsakan Misufaia
+  | image          = SecretInvestigatorMisfire-RDKP16-JP-R.png
+  | attribute      = LIGHT
+  | types          = Reptile / Effect
+  | level          = 3
+  | atk            = 1300
+  | def            = 300
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[pay]] 300 [[LP]].
+  | lore           = [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the number of [[face-up]] [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[Monster Card|monster]]s on your [[field]]] x 300. You can only [[attack]] with Reptile Type monsters this turn.
+  | ja_requirement = このカードを召喚したターンに、３００ＬＰを払って発動できる。
+  | ja_lore        = ［自分フィールドの表側表示モンスター（光属性／爬虫類族）の数］×３００ダメージを相手に与える。このターン、自分はモンスター（爬虫類族以外）で攻撃できない。
+  | jp_sets        = 
   RD/KP16-JP022; Transamu of Transcendence; Rare
-  | supports         = 
+  | supports       = 
   * LIGHT
   * Reptile
-  | archseries       = Secret Investigator
-  | action           = Activates during the turn in which it was Normal Summoned
-  | attack           = Prevents your monsters from attacking
-  | life_points      = 
+  | archseries     = Secret Investigator
+  | action         = Activates during the turn in which it was Normal Summoned
+  | attack         = Prevents your monsters from attacking
+  | life_points    = 
   * Pays Life Points for cost
   * Damages your opponent
-  | misc             = 
+  | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 19970
   }}

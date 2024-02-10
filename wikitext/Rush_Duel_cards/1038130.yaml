@@ -3,29 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|秘|ひ}}{{Ruby|密|みつ}}{{Ruby|基地|ベース}}{{Ruby|守護神|ガーディアン}}ミスショット
-  | romaji_name      = Himitsu Bēsu Gādian Misushotto
-  | image            = SecretBaseGuardianMisshot-RDKP16-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Reptile / Effect
-  | level            = 7
-  | atk              = 300
-  | def              = 2300
-  | requirement      = [[Shuffle]] 3 [[Level]] 3 [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = This card gains 3000 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this [[effect]] during the turn you [[Normal Summon]]ed this card by [[Tribute|Tributing]] "[[Elite Secret Investigator Mystery]]", you can [[destroy]] up to 3 [[face-up]] Level 8 or lower monsters on your opponent's [[field]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|秘|ひ}}{{Ruby|密|みつ}}{{Ruby|基地|ベース}}{{Ruby|守護神|ガーディアン}}ミスショット
+  | romaji_name    = Himitsu Bēsu Gādian Misushotto
+  | image          = SecretBaseGuardianMisshot-RDKP16-JP-C.png
+  | attribute      = LIGHT
+  | types          = Reptile / Effect
+  | level          = 7
+  | atk            = 300
+  | def            = 2300
+  | requirement    = [[Shuffle]] 3 [[Level]] 3 [[LIGHT]] [[Attribute]] [[Reptile]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = This card gains 3000 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this [[effect]] during the turn you [[Normal Summon]]ed this card by [[Tribute|Tributing]] "[[Elite Secret Investigator Mystery]]", you can [[destroy]] up to 3 [[face-up]] Level 8 or lower monsters on your opponent's [[field]].
+  | ja_requirement = 自分の墓地のモンスター（レベル３／光属性／爬虫類族）３体をデッキに戻して発動できる。
+  | ja_lore        = このカードの攻撃力は次の相手ターン終了時まで３０００アップする。「エリート秘密捜査官ミステリー」をリリースしてこのカードを召喚したターンにこの効果を発動した場合、さらに相手フィールドの表側表示モンスター（レベル８以下）を３体まで選んで破壊できる。
+  | jp_sets        = 
   RD/KP16-JP023; Transamu of Transcendence; Common
-  | mentions         = Elite Secret Investigator Mystery
-  | supports         = 
+  | mentions       = Elite Secret Investigator Mystery
+  | supports       = 
   * LIGHT
   * Reptile
-  | archseries       = Secret Investigator
-  | action           = Returns from Graveyard to Deck for cost
-  | stat_change      = This card gains ATK
-  | m/s/t            = Destroys your opponent's face-up Monster Cards
-  | misc             = Turn limited effects
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | archseries     = Secret Investigator
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | misc           = Turn limited effects
+  | database_id    = 19971
   }}

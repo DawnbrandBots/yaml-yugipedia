@@ -3,24 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サイコロの{{Ruby|大|だい}}{{Ruby|剣|けん}}{{Ruby|士|し}}
-  | romaji_name      = Saikoro no Daikenshi
-  | image            = DiceArchswordsman-RDKP16-JP-OP.png
-  | attribute        = EARTH
-  | types            = Warrior / Effect
-  | level            = 7
-  | atk              = 600
-  | def              = 2400
-  | requirement      = None
-  | lore             = Roll a six-sided die. This card can [[attack]] a number of times equal to [the result] during this [[turn]]. Then, you can [[Draw a card|draw]] 1 card if the result is 3 or lower.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = サイコロの{{Ruby|大|だい}}{{Ruby|剣|けん}}{{Ruby|士|し}}
+  | romaji_name    = Saikoro no Daikenshi
+  | image          = DiceArchswordsman-RDKP16-JP-C.png
+  | attribute      = EARTH
+  | types          = Warrior / Effect
+  | level          = 7
+  | atk            = 600
+  | def            = 2400
+  | requirement    = None
+  | lore           = Roll a six-sided die. This card can [[attack]] a number of times equal to [the result] during this [[turn]]. Then, you can [[Draw a card|draw]] 1 card if the result is 3 or lower.
+  | ja_requirement = なし
+  | ja_lore        = サイコロを１回振る。このターン、このカードは［出た目の数］まで攻撃できる。３以下が出た場合、さらに自分は１枚ドローできる。
+  | jp_sets        = 
   RD/KP16-JP011; Transamu of Transcendence; Common
-  | action           = You draw cards
-  | attack           = Multiple attacker
-  | misc             = Die roll
-  | archseries       = Dice (series)
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | archseries     = Dice (series)
+  | action         = You draw cards
+  | attack         = Multiple attacker
+  | misc           = Die roll
+  | database_id    = 19959
   }}

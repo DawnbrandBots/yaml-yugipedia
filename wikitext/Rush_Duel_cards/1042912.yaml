@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = セブンスフィアー・マジシャン
   | romaji_name           = Sebunsu Fiā Majishan
-  | image                 = SevensFearMagician-RDKP16-JP-OP.png
+  | image                 = SevensFearMagician-RDKP16-JP-SR.png
   | attribute             = DARK
   | types                 = Spellcaster / Effect
   | level                 = 7
@@ -13,8 +13,8 @@ wikitext: |-
   | def                   = 1500
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | lore                  = This card's name becomes "[[Sevens Road Magician]]" this [[turn]]. Then, you can make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose [[ATK]] equal to [the number of different [[Attribute]]s in your Graveyard] x 300 until the end of this turn.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore               = このカードのカード名はこのターン、「セブンスロード・マジシャン」になる。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで［自分の墓地のモンスターの属性の種類］×３００ダウンできる。
   | jp_sets               = 
   RD/KP16-JP024; Transamu of Transcendence; Super Rare, Secret Rare
   | mentions              = Sevens Road Magician
@@ -23,6 +23,5 @@ wikitext: |-
   | stat_change           = 
   * Changes own name while on the field
   * Your opponent's monsters lose ATK
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 19972
   }}
