@@ -6,15 +6,15 @@ wikitext: |-
   | ja_name                = {{Ruby|電|でん}}{{Ruby|脳|のう}}{{Ruby|加|か}}{{Ruby|速|そく}}{{Ruby|器|き}}
   | romaji_name            = Dennō Kasokuki
   | trans_name             = Cyber Accelerator
-  | image                  = Accelerator-RDKP16-JP-OP.png
+  | image                  = Accelerator-RDKP16-JP-C.png
   | card_type              = Spell
   | property               = Equip
   | summoning_condition    = This card's [[effect]] cannot be [[negate]]d.
   | requirement            = [[Equip]] this card to 1 [[face-up]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
   | lore                   = The equipped monster gains 300 [[ATK]]. If the equipped monster's original name is "[[Jinzo (Rush Duel)|Jinzo]]", its [[Continuous Effect]] becomes "Your opponent cannot activate [[Trap Card]]s, and their Trap Card effects are negated".
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードの効果は無効化されない。
+  | ja_requirement         = 自分フィールドの表側表示モンスター（機械族）１体に装備できる。
+  | ja_lore                = 装備モンスターの攻撃力は３００アップする。装備モンスターの元々のカード名が「人造人間－サイコ・ショッカー」の場合、その永続効果は「相手は罠カードを発動できず、相手の罠カードの効果は無効化される」として適用される。
   | jp_sets                = 
   RD/KP16-JP056; Transamu of Transcendence; Common
   | mentions               = Jinzo (Rush Duel)
@@ -28,6 +28,5 @@ wikitext: |-
   * Prevents activation of your opponent's Trap Cards
   * Negates the effects of your opponent's Trap Cards
   | misc                   = Equips only to a specific target
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20004
   }}

@@ -3,28 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|阿|あ}}{{Ruby|修|しゅ}}{{Ruby|羅|ラ}}のサイコロ
-  | romaji_name      = Ashura no Saikoro
-  | image            = AsuraDice-RDKP16-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] [[face-up]].
-  | lore             = Roll a six-sided die. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the result] x 100, and all face-up monsters on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]]. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|阿|あ}}{{Ruby|修|しゅ}}{{Ruby|羅|ラ}}のサイコロ
+  | romaji_name    = Ashura no Saikoro
+  | image          = AsuraDice-RDKP16-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] [[face-up]].
+  | lore           = Roll a six-sided die. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the result] x 100, and all face-up monsters on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]]. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  | ja_requirement = 相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。
+  | ja_lore        = サイコロを１回振る。［出た目の数］×１００ダメージを相手に与え、相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。その後、自分フィールドの全ての表側表示モンスターの攻撃力・守備力をターン終了時まで、［出た目の数］×１００アップできる。
+  | jp_sets        = 
   RD/KP16-JP063; Transamu of Transcendence; Common
-  | action           = 
+  | archseries     = Dice (series)
+  | action         = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
-  | stat_change      = 
+  | stat_change    = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
   * Your monsters gain ATK
   * Your monsters gain DEF
-  | life_points      = Damages your opponent
-  | misc             = Die roll
-  | archseries       = Dice (series)
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | life_points    = Damages your opponent
+  | misc           = Die roll
+  | database_id    = 20011
   }}

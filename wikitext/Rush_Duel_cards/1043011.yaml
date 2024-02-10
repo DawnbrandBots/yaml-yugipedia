@@ -3,39 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|晦|かい}}{{Ruby|冥|めい}} ネルクリタ
-  | romaji_name      = Sōkyū no Kaimei Nerukurita
-  | image            = NelkritatheSkysaviorHadal-RDKP16-JP-OP.png
-  | attribute        = DARK
-  | types            = Celestial Warrior / Fusion / Effect
-  | level            = 9
-  | atk              = 2800
-  | def              = 2300
-  | fusion_material  = 
+  | ja_name         = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|晦|かい}}{{Ruby|冥|めい}} ネルクリタ
+  | romaji_name     = Sōkyū no Kaimei Nerukurita
+  | image           = NelkritatheSkysaviorHadal-RDKP16-JP-C.png
+  | attribute       = DARK
+  | types           = Celestial Warrior / Fusion / Effect
+  | level           = 9
+  | atk             = 2800
+  | def             = 2300
+  | fusion_material = 
   * Seir the Skysavior Knight
   * Lua the Skysavior Angel
-  | effect_types     = Continuous
-  | materials        = "[[Seir the Skysavior Knight]]" + "[[Lua the Skysavior Angel]]"
-  | requirement      = None
-  | lore             = If your [[Celestial Warrior]]/[[Warrior]]/[[Fairy]] [[Type]] [[Monster Card|monster]] [[equip]]ped with an [[Equip Spell Card]] [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | effect_types    = Continuous
+  | materials       = "[[Seir the Skysavior Knight]]" + "[[Lua the Skysavior Angel]]"
+  | requirement     = None
+  | lore            = If your [[Celestial Warrior]]/[[Warrior]]/[[Fairy]] [[Type]] [[Monster Card|monster]] [[equip]]ped with an [[Equip Spell Card]] [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_materials    = 「蒼救騎士 セイル」＋「蒼救天使 ルーア」
+  | ja_requirement  = なし
+  | ja_lore         = 装備魔法カードを装備している自分のモンスター（天界戦士族・戦士族・天使族）の攻撃は貫通する。
+  | jp_sets         = 
   RD/KP16-JP046; Transamu of Transcendence; Common
-  | mentions         = 
+  | mentions        = 
   * Seir the Skysavior Knight
   * Lua the Skysavior Angel
-  | supports         = 
+  | supports        = 
   * Celestial Warrior
   * Warrior
   * Fairy
   * Equip Spell Card
-  | archseries       = Skysavior
-  | summoning        = 
+  | archseries      = Skysavior
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
-  | attack           = Piercing
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | attack          = Piercing
+  | database_id     = 19994
   }}

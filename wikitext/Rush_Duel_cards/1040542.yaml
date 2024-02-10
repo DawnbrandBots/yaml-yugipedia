@@ -3,26 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ジョインテック・ジョイント
-  | romaji_name      = Jointekku Jointo
-  | image            = 
-  1; JointechJoint-RDKP16-JP-OP.png
+  | ja_name        = ジョインテック・ジョイント
+  | romaji_name    = Jointekku Jointo
+  | image          = 
+  1; JointechJoint-RDKP16-JP-SR.png
   2; JointechJoint-RDKP16-JP-ScR-AA.png
-  | current_image    = 1
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Battle position change|Change]] 1 monster on your opponent's [[field]] to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, you can [[Fusion Summon]] 1 [[Level]] 9 or lower [[EARTH]] [[Attribute]] or [[DARK]] Attribute [[Machine]] [[Type]] monster by [[send]]ing monsters from your [[hand]] and/or field to the Graveyard as [[material]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | current_image  = 1
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Battle position change|Change]] 1 monster on your opponent's [[field]] to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, you can [[Fusion Summon]] 1 [[Level]] 9 or lower [[EARTH]] [[Attribute]] or [[DARK]] Attribute [[Machine]] [[Type]] monster by [[send]]ing monsters from your [[hand]] and/or field to the Graveyard as [[material]].
+  | ja_requirement = 自分の墓地のモンスター２体をデッキに戻して発動できる。
+  | ja_lore        = 相手フィールドのモンスター１体を選んで表側攻撃表示または裏側守備表示にする。その後、自分の手札・フィールドのモンスターを素材として墓地へ送ってモンスター（レベル９以下／地属性・闇属性／機械族）をフュージョン召喚できる。
+  | jp_sets        = 
   RD/KP16-JP058; Transamu of Transcendence; Super Rare, Secret Rare
-  | supports         = 
+  | supports       = 
   * EARTH
   * DARK
   * Machine
-  | archseries       = Jointech
-  | action           = 
+  | archseries     = Jointech
+  | action         = 
   * Returns from Graveyard to Deck for cost
   * Changes battle positions
   * Flips your opponent's monsters face-up
@@ -31,9 +31,8 @@ wikitext: |-
   * Sends from your field to your Graveyard
   * Uses cards in the hand as Fusion Materials
   * Uses cards on the player's field as Fusion Materials
-  | summoning        = 
+  | summoning      = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20006
   }}

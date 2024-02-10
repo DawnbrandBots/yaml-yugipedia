@@ -2,21 +2,20 @@ title: Skull Dice (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image            = SkullDice-RDKP16-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
-  | lore             = Roll a six-sided die. All [[face-up]] monsters on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | image          = SkullDice-RDKP16-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
+  | lore           = Roll a six-sided die. All [[face-up]] monsters on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]].
+  | ja_requirement = 相手モンスターの攻撃宣言時に発動できる。
+  | ja_lore        = サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。
+  | jp_sets        = 
   RD/KP16-JP062; Transamu of Transcendence; Common
-  | action           = Activates upon attack declaration
-  | stat_change      = 
+  | archseries     = Dice (series)
+  | action         = Activates upon attack declaration
+  | stat_change    = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | misc             = Die roll
-  | archseries       = Dice (series)
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc           = Die roll
+  | database_id    = 20010
   }}
