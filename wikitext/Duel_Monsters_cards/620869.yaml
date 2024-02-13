@@ -55,7 +55,9 @@ wikitext: |-
   * Prevents your monsters from attacking
   * Prevents your opponent's monsters from attacking
   * Allows direct attacks
-  | action                = Changes control
+  | action                = 
+  * Gives control of your monster
+  * Takes control of an opponent's monster
   | misc                  = 
   * At the start of the Battle Phase
   * Only once per turn

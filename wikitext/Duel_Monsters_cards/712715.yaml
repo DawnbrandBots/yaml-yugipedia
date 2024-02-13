@@ -46,7 +46,7 @@ wikitext: |-
   | action                = 
   * Equips self from field
   * Activates upon attack declaration
-  * Changes control
+  * Takes control of equipped
   * Returns from field to hand
   | m/s/t                 = Treated as Equip Card
   | attack                = Negates attacks
