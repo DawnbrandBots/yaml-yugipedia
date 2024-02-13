@@ -54,7 +54,8 @@ wikitext: |-
   | archseries            = Vampire
   | supports_archetypes   = Vampire
   | action                = 
-  * Changes control
+  * Gives control of your monster
+  * Takes control of an opponent's monster
   * Activates if it destroys a monster by battle
   | life_points           = Pays Life Points for cost
   | summoning             = 
@@ -62,6 +63,7 @@ wikitext: |-
   * Special Summons from your opponent's Graveyard to your field
   | misc                  = 
   * Limited activations
+  * Requires control of specific archetype
   * At the end of the Battle Phase
   | database_id           = 13649
   }}
