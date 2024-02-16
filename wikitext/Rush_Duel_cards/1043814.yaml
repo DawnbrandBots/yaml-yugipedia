@@ -3,17 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name           = ラヴ・セーフティ
-  | romaji_name       = Ravu Sēfuti
-  | image             = LoveSafety-RDORP2-JP-OP.png
-  | card_type         = Spell
-  | property          = Equip
-  | requirement       = [[Equip]] this card to 1 [[face-up]] [[Fairy]] [[Type]] [[monster]] on your [[field]] with 0 original ATK and DEF.
-  | lore              = The equipped monster and [[face-down]] cards in your [[Spell & Trap Zone]] cannot be destroyed by your opponent's card [[effect]]s. While the equipped monster is [[face-up]] on your field, your opponent cannot declare an attack on monsters that are not equipped with an [[Equip Spell Card]].
-  | ja_lore           = 
-  | jp_sets           = 
+  | ja_name          = ラヴ・セーフティ
+  | romaji_name      = Ravu Sēfuti
+  | image            = LoveSafety-RDORP2-JP-OP.png
+  | card_type        = Spell
+  | property         = Equip
+  | requirement      = [[Equip]] this card to 1 [[face-up]] [[Fairy]] [[Type]] [[Monster Card|monster]] on your [[field]] with 0 [[original ATK and DEF]].
+  | lore             = The equipped monster and [[face-down]] cards in your [[Spell & Trap Zone]] cannot be [[destroy]]ed by your opponent's card [[effect]]s. While the equipped monster is face-up on your field, your opponent cannot [[declare]] an [[attack]] on monsters that are not equipped with an [[Equip Spell Card]].
+  | ja_lore          = 
+  | jp_sets          = 
   RD/ORP2-JP051; Over Rush Pack 2; Common
-  | archseries        = Love
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | supports         = Fairy
+  | archseries       = Love
+  | m/s/t            = 
+  * Equipped cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
+  | attack           = Prevents other cards being targeted for attacks
+  | misc             = Equips only to a specific target
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}

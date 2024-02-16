@@ -3,17 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name           = ラヴ・シュート
-  | romaji_name       = Ravu Shūto
-  | image             = LoveShoot-RDORP2-JP-OP.png
-  | card_type         = Spell
-  | property          = Normal
-  | requirement       = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]
-  | lore              = This [[turn]], 1 [[face-up]] [[Fairy]] [[Type]] [[monster]] on your [[field]] with 0 [[original ATK]] gains 100 [[ATK]] and can attack directly. You can only attack directly with 1 monster this turn.
-  | ja_lore           = 
-  | jp_sets           = 
+  | ja_name          = ラヴ・シュート
+  | romaji_name      = Ravu Shūto
+  | image            = LoveShoot-RDORP2-JP-OP.png
+  | card_type        = Spell
+  | property         = Normal
+  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = This [[turn]], 1 [[face-up]] [[Fairy]] [[Type]] [[Monster Card|monster]] on your [[field]] with 0 [[Original ATK and DEF|original ATK]] gains 100 [[ATK]], and can [[attack]] [[Direct attack|directly]]. You can only attack directly with 1 monster this turn.
+  | ja_lore          = 
+  | jp_sets          = 
   RD/ORP2-JP048; Over Rush Pack 2; Super Rare
-  | archseries        = Love
-  | database_id       = 
-  | rush_duel_status  = Not yet released
+  | supports         = Fairy
+  | archseries       = Love
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = Your monsters gain ATK
+  | attack           = 
+  * Allows direct attacks
+  * Prevents direct attacks
+  | misc             = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}
