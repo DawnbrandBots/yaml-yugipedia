@@ -27,7 +27,7 @@ wikitext: |-
   The name of the theme likely derives from those of real-life Roman centurions, or commanders of a group of 100 men known as a "century". Each monster has the "Centurion" katakana applied over its individual kanji name, which denotes its "rank" within the theme.
 
   ==Design==
-  [[File:Crest-Centurion.png|thumb|left|100px|The "Centur-Ion" crest.]]
+  <div style="float:right">[[File:Crest-Centurion.png|thumb|left|100px|The "Centur-Ion" crest.]]</div>
   The archetype's design seems to be inspired from various examples of mecha in media, such as anime produced by [[wikipedia:Gainax|Gainax]] and its successor [[wikipedia:Studio Trigger|Studio Trigger]]. In particular ''[[wikipedia:Gunbuster|Gunbuster]]'', ''[[wikipedia:Tengen Toppa Gurren Lagann|Tengen Toppa Gurren Lagann]]'', and ''[[wikipedia:Darling in the Franxx|Darling in the Franxx]]''. It also seems to reference SD Mecha series, particularly Haō Taikei Ryū Knight, as well as the [[wikipedia:Sakura Wars|Sakura Wars]] series of games.
 
   ===Members===
@@ -63,9 +63,30 @@ wikitext: |-
 
   The Deck's ability to consistently Summon "Primera", a Level 4 Tuner, and Level 8 monsters, results in an efficient gameplay loop of Synchro Summoning multiple Level 12 Synchro Monsters. Among them, the two most notable ones are the archetype's boss monster, "Centur-Ion Legatia", and "[[Crimson Dragon (card)|Crimson Dragon]]". "Legatia" can produce advantage by drawing a card and (optionally) [[destroy]]ing the opponent's monsters with the highest [[ATK]] when it is Special Summoned, and can also place "Centur-Ion" monsters from the hand or GY back in the Spell & Trap Zone, enabling more Synchro Summons. "Crimson Dragon" works as a bridge to even more powerful Level 12 [[Dragon]] Synchro Monsters, since it can Summon them while bypassing their material requirements, all while simply requiring the player to control another Level 12 Synchro Monster.
 
-  "[[Hot Red Dragon Archfiend King Calamity]]" is a particularly powerful card to Summon with this archetype, as it can prevent the opponent from activating effects for the remainder of the turn when it is Synchro Summoned. Combined with "Stand Up Centur-Ion!", it can shut down the opponent's turn as early as during their Main Phase 1. In order to do this, the only requirements are "Stand Up Centur-Ion!" and a card in hand to [[send]] to the [[GY]] to use its effect. It can place "Centur-Ion Primera" in the Spell & Trap Zone, from where it can Special Summon itself and add "Centur-Ion Trudea" to the hand. "Trudea" can be Normal Summoned, and then place itself plus "Centur-Ion Emeth VI" from the Deck in the Spell & Trap Zone. "Emet VI" can Summon itself, and it can be used with "Primera" to Synchro Summon "Centur-Ion Legatia", and during the End Phase, its effect can place "Primeira" from the GY into the Spell & Trap Zone. During the opponent's Main Phase 1, when the opponent performs any action, "Trudea" and "Primeira" can Special Summon themselves, and "Emet VI" can place "Trudea" back in the Spell & Trap Zone to Summon itself from the GY. This will trigger "Stand Up Centur-Ion!", allowing the Synchro Summon of "Crimson Dragon", which can use its effect by targeting "Legatia" to return itself to the [[Extra Deck]] and Special Summon "Hot Red Dragon Archfiend King Calamity", treating it as a Synchro Summon.
+  "[[Hot Red Dragon Archfiend King Calamity]]" is a particularly powerful card to Summon with this archetype, as it can prevent the opponent from activating effects for the remainder of the turn when it is Synchro Summoned. Combined with "Stand Up Centur-Ion!", it can shut down the opponent's turn as early as during their Main Phase 1, a process which requires only "Stand Up Centur-Ion!" (as detailed [[#Sample combos|below]]).
 
   The archetype also has multiple Spells/Traps that work as extenders or as removal, all of which can be consistently and repeatedly searched by "Primera". "[[Centur-Ion True Awakening]]" can negate the activation of a card effect by sending a monster from the Spell & Trap Zone to the GY, which is easily achieved by other "Centur-Ion" cards. "[[Centur-Ion Bonds]]" can place any "Centur-Ion" monster from the hand or GY in the Spell & Trap Zone, and it can do it once more with its GY effect when the player Summons a "Centur-Ion" Synchro Monster. "[[Centur-Ion Phalanx]]" can [[banish]] a [[Monster Card]] on the field, and Summon it back to its owner's field during the [[Standby Phase]] of the next turn, which can be used to disrupt the opponent's plays, or to Summon a "Centur-Ion" Monster Card from the player's Spell & Trap Zone.
+
+  ===Sample combos===
+  One of the Deck's most important plays is a 1.5-card combo to Summon "[[Hot Red Dragon Archfiend King Calamity]]" during the opponent's turn, which can shut down nearly all of their plays.
+  {{Combo steps
+  | opening = "[[Stand Up Centur-Ion!]]" + 1 card
+  | end     = "[[Centur-Ion Legatia]]" + 1 draw + "[[Centur-Ion Trudea]]" in S/T Zone + (during opponent's turn) "[[Hot Red Dragon Archfiend King Calamity]]"
+  | steps   = 
+  # Activate "[[Stand Up Centur-Ion!]]" by sending 1 card the GY to place "[[Centur-Ion Primera]]" from the Deck in the Spell & Trap Zone
+  # Activate "Primera" to Summon itself and add "[[Centur-Ion Trudea]]" to the hand
+  # Normal Summon "Trudea"
+  # Activate "Trudea" to place itself and "[[Centur-Ion Emeth VI]]" from the Deck in the Spell & Trap Zone
+  # Activate "Emet VI" to Summon itself
+  # Synchro Summon "[[Centur-Ion Legatia]]" by using "Primera" and "Emet VI"
+  # Activate "Legatia" to draw 1 card
+  # During the End Phase, activate "Legatia" to place "Primera" from the GY in the Spell & Trap Zone
+  # During the opponent's Main Phase 1, activate "Trudea" and "Primera" to Summon themselves from the Spell & Trap Zone
+  # Activate "Emet VI" to Summon itself from the GY by placing "Trudea" in the Spell & Trap Zone
+  # Activate "Stand Up Centur-Ion!" to Synchro Summon "[[Crimson Dragon (card)|Crimson Dragon]]" by using "Primera" and "Emet VI"
+  # Activate "Crimson Dragon" by targeting Legatia to return itself to the Extra Deck and Summon "[[Hot Red Dragon Archfiend King Calamity]]" from the Extra Deck
+  # Activate "King Calamity"
+  }}
 
   ===Recommended cards===
   {{Decklist|Recommended cards
