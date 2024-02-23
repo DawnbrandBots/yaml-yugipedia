@@ -8,13 +8,21 @@ wikitext: |-
   | image            = RepulsiveForce-RDORP2-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], or when an opponent's monster declares an [[attack]], [[shuffle]] 3 [[Rock]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = Change 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], or when an opponent's monster [[declare]]s an [[attack]], [[shuffle]] 3 [[Rock]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Battle position change|Change]] 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP038; Over Rush Pack 2; Common
+  | supports         = Rock
   | archseries       = Magnet Warrior (Rush Duel)
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

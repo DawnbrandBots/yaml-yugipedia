@@ -13,8 +13,8 @@ wikitext: |-
   | atk              = 1800
   | def              = 2100
   | fusion_material  = Alpha The Magnet Warrior (Rush Duel)
-  | materials        = "[[Alpha The Magnet Warrior (Rush Duel)|Alpha The Magnet Warrior]]" + 1 [[Level]] 4 or lower [[Rock]] [[Type]] [[monster]]
-  | requirement      = During your [[Main Phase]] this card was [[Special Summon]]ed.
+  | materials        = "[[Alpha The Magnet Warrior (Rush Duel)|Alpha The Magnet Warrior]]" + 1 [[Level]] 4 or lower [[Rock]] [[Type]] [[Monster Card|monster]]
+  | requirement      = During your [[Main Phase]] that you [[Special Summon]]ed this card.
   | lore             = [[Set]] 1 "[[Magnet Twin Saber]]" and/or 1 "[[Repulsive Force]]" from your [[Graveyard]] in your [[Spell & Trap Zone]].
   | ja_materials     = 
   | ja_requirement   = 
@@ -25,7 +25,16 @@ wikitext: |-
   * Alpha The Magnet Warrior (Rush Duel)
   * Magnet Twin Saber
   * Repulsive Force
+  | supports         = Rock
   | archseries       = Magnet Warrior (Rush Duel)
+  | action           = 
+  * Activates during the turn in which it was Special Summoned
+  * Sets from your Graveyard
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
