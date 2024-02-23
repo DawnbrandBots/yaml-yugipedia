@@ -33,10 +33,10 @@ wikitext: |-
   | pt_lore                  = Você pode [[Discard|descartar]] este card; [[Reveal|revele]] 1 [[Monster Card|monstro]] "[[Performapal|Camarartista]]" ou "[[Odd-Eyes|Olhos Anômalos]]" na sua [[Hand|mão]] e, se isso acontecer, pelo resto deste [[turn]]o, reduza em 1 o [[Level|Nível]] dos monstros na sua mão com esse nome (mesmo depois que eles forem [[Summon|Invocados]]/[[Set|Baixados]]).
   | es_pendulum_effect       = A menos que tengas una carta "Artistamigo" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 4. Durante tu Main Phase, si esta carta fue activada este turno: puedes añadir a tu mano 1 monstruo "Artistamigo" de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de "Artistamigo Teclamono" una vez por turno.
   | es_lore               = Puedes descartar esta carta; muestra 1 monstruo "Artistamigo" u "Ojos Anómalos" en tu mano y, si lo haces, por el resto de este turno reduce en 1 los Niveles de los monstruos en tu mano con ese nombre (aún después de que hayan sido Invocados/Colocados).
-  | ja_pendulum_effect    = 「ＥＭモンキーボード」の②のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンに「ＥＭ」カードが存在しない場合、このカードのＰスケールは４になる。②：このカードを発動したターンの自分メインフェイズに発動できる。デッキからレベル４以下の「ＥＭ」モンスター１体を手札に加える。
-  | ja_lore               = ①：このカードを手札から捨てて発動できる。手札の「ＥＭ」モンスターまたは「オッドアイズ」モンスター１体を相手に見せる。このターン、そのモンスター及び自分の手札の同名モンスターのレベルを１つ下げる。
-  | ko_pendulum_effect    = "EM(엔터메이트) 몽키보드"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 "EM(엔터메이트)" 카드가 존재하지 않을 경우, 이 카드의 펜듈럼 스케일은 4 가 된다. ②: 이 카드를 발동한 턴의 자신 메인 페이즈에 발동할 수 있다. 덱에서 레벨 4 이하의 "EM(엔터메이트)" 몬스터 1장을 패에 넣는다.
-  | ko_lore               = ①: 이 카드를 패에서 버리고 발동할 수 있다. 패의 "EM(엔터메이트)" 몬스터 또는 "오드아이즈" 몬스터 1장을 상대에게 보여준다. 이 턴에, 그 몬스터 및 자신의 패의 같은 이름의 몬스터의 레벨을 1개 내린다.
+  | ja_pendulum_effect    = このカード名の②のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンに「ＥＭ」カードが存在しない場合、このカードのＰスケールは４になる。②：このカードを発動したターンの自分メインフェイズに発動できる。デッキからレベル４以下の「ＥＭ」モンスター１体を手札に加える。
+  | ja_lore               = ①：このカードを手札から捨てて発動できる。手札の「ＥＭ」モンスターか「オッドアイズ」モンスター１体を相手に見せる。このターン、そのモンスター及び自分の手札の同名モンスターのレベルを１つ下げる。
+  | ko_pendulum_effect    = "EM(엔터메이트) 멍키보드"의 ②의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 "EM(엔터메이트)" 카드가 존재하지 않을 경우, 이 카드의 펜듈럼 스케일은 4 가 된다. ②: 이 카드를 발동한 턴의 자신 메인 페이즈에 발동할 수 있다. 덱에서 레벨 4 이하의 "EM(엔터메이트)" 몬스터 1장을 패에 넣는다.
+  | ko_lore               = ①: 이 카드를 패에서 버리고 발동할 수 있다. 패의 "EM(엔터메이트)" 몬스터 또는 "오드아이즈" 몬스터 1장을 상대에게 보여준다. 이 턴에, 그 몬스터 및 자신 패의 같은 이름의 몬스터의 레벨을 1개 내린다.
   | sc_pendulum_effect    = 此卡名的②灵摆效果１回合仅可使用１次。①：另一方自己的灵摆区域不存在“娱乐伙伴”卡的情况下，此卡的灵摆刻度变为４。②：在发动了此卡的回合的自己的主要阶段可以发动。从牌组将等级４以下的１只“娱乐伙伴”怪兽加入手牌。
   | sc_lore               = ①：从手牌将此卡舍弃可以发动。将手牌的１只“娱乐伙伴”怪兽或“异色眼”怪兽出示给对手。此回合，该怪兽及自己手牌的同名怪兽的等级下降１。
   | en_sets               = 
@@ -59,6 +59,7 @@ wikitext: |-
   OP01-SP008; OTS Tournament Pack 1; Super Rare
   | jp_sets               = 
   BOSH-JP003; Breakers of Shadow; Common
+  QCCU-JP082; Quarter Century Chronicle side:Unity; Super Rare, Secret Rare, Quarter Century Secret Rare
   | kr_sets               = 
   BOSH-KR003; Breakers of Shadow; Common
   AE19-KR011; Advanced Event Pack 2023 Vol.2 Version 1; Super Rare

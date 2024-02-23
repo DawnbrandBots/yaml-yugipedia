@@ -23,7 +23,7 @@ wikitext: |-
   | it_lore               = Quando viene attivata una Carta Magia/Trappola o l'effetto di un mostro, mentre controlli un Mostro Xyz "Numero": annulla l'attivazione e, se lo fai, distruggi quella carta. Se uno o più Mostri Xyz "Numero" che controlli vengono distrutti in battaglia o dall'effetto di una carta, mentre questa carta è nel tuo Cimitero: puoi Posizionare questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare solo 1 effetto di "Protezione di Numeri" per turno, e solo una volta in quel turno.
   | pt_lore               = Quando um Card de Magia/Armadilha, ou efeito de monstro, for ativado, enquanto você controlar um Monstro Xyz "Número": negue a ativação e, se isso acontecer, destrua esse card. Se um ou mais Monstros Xyz "Número" que você controla forem destruídos em batalha ou por um efeito de card, enquanto este card estiver no seu Cemitério: você pode Baixar este card, mas bana-o quando ele deixar o campo. Você só pode usar 1 efeito de "Proteção de Números" por turno e apenas uma vez por turno.
   | es_lore               = Cuando es activada una Carta Mágica/de Trampa, o efecto de monstruo, mientras controles un Monstruo Xyz "Número": niega la activación y, si lo haces, destruye esa carta. Si uno o más Monstruos Xyz "Número" que controles son destruidos en batalla o por el efecto de una carta, mientras esta carta está en tu Cementerio: puedes Colocar esta carta, pero destiérrala cuando deje el Campo. Sólo puedes usar 1 efecto de "Protección de Números" por turno, y sólo una vez ese turno.
-  | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「Ｎｏ．」Ｘモンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在し、自分フィールドの「Ｎｏ．」Ｘモンスターが戦闘・効果で破壊された場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
+  | ja_lore               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「Ｎｏ．」Ｘモンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在する状態で、自分フィールドの表側表示の「Ｎｏ．」Ｘモンスターが戦闘・効果で破壊された場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
   | ko_lore               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신 필드에 "No." 엑시즈 몬스터가 존재하고, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ②: 이 카드가 묘지에 존재하고, 자신 필드의 "No." 엑시즈 몬스터가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신 필드에 세트한다. 이 효과로 세트한 이 카드는 필드에서 벗어났을 경우에 제외된다.
   | sc_lore               = 此卡名的①②效果１回合１次，仅可使用其中１个。①：自己场上有“编号”超量怪兽存在，怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。②：此卡存在于墓地，自己场上的“编号”超量怪兽因战斗・效果被破坏的情况下可以发动。将此卡放置在自己场上。以此效果放置的此卡离开场上的情况下，将其除外。
   | en_sets               = 
@@ -40,11 +40,12 @@ wikitext: |-
   BROL-SP056; Brothers of Legend; Ultra Rare
   | jp_sets               = 
   SD42-JP037; Structure Deck: Overlay Universe; Normal Parallel Rare
+  QCCU-JP076; Quarter Century Chronicle side:Unity; Super Rare, Secret Rare, Quarter Century Secret Rare
   | kr_sets               = 
   SD42-KR037; Structure Deck: Overlay Universe; Normal Parallel Rare
-  |sc_sets = 
+  | sc_sets               = 
   SD42-SC037; Structure Deck: Overlay Universe; Normal Parallel Rare
-  | archseries           = Number (Spell/Trap archetype)
+  | archseries            = Number (Spell/Trap archetype)
   | supports              = Xyz Monster
   | supports_archetypes   = Number
   | action                = 
