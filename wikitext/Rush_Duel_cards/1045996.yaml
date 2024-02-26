@@ -12,13 +12,18 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 0
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                  = This card's name becomes "[[Space Yggdrago]]" this [[turn]]. Then, you can [[Add a card|add]] 1 non-[[Level]] 8 [[Cyberse]] [[Type]] [[monster]] with 0 [[DEF]] from your Graveyard to your [[hand]].
+  | lore                  = This card's name becomes "[[Space Yggdrago]]" this [[turn]]. Then, you can [[Add a card|add]] 1 non-[[Level]] 8 [[Cyberse]] [[Type]] [[Monster Card|monster]] with 0 [[DEF]] from your Graveyard to your [[hand]].
   | ja_lore               = 
   | jp_sets               = 
   RD/ORP2-JP010; Over Rush Pack 2; Super Rare
   | mentions              = Space Yggdrago
+  | supports              = Cyberse
   | archseries            = Space
   | related_to_archseries = Tron (series)
+  | action                = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change           = Changes own name while on the field
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

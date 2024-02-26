@@ -12,12 +12,18 @@ wikitext: |-
   | level            = 1
   | atk              = 0
   | def              = 1000
-  | requirement      = You have a [[face-up]] [[Level]] 7 or higher [[monster]] on your [[field]] and the only monsters in your [[Graveyard]] are [[Cyberse]] [[Type]].
-  | lore             = [[Add a card|Add]] 1 [[Level]] 2 or higher [[LIGHT]] or [[DARK]] [[Attribute]] monster with 0 [[DEF]] from your [[Graveyard]] to your [[hand]].
+  | requirement      = You have a [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]] on your [[field]] and the only monsters in your [[Graveyard]] are [[Cyberse]] [[Type]].
+  | lore             = [[Add a card|Add]] 1 Level 2 or higher [[LIGHT]] [[Attribute]] or [[DARK]] Attribute monster with 0 [[DEF]] from your Graveyard to your [[hand]].
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP016; Over Rush Pack 2; Common
+  | supports         = 
+  * Cyberse
+  * LIGHT
+  * DARK
   | archseries       = Space
+  | action           = Adds from Graveyard to hand
+  | misc             = Requires control of specific Level
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
