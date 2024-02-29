@@ -11,11 +11,16 @@ wikitext: |-
   | level            = 3
   | atk              = 500
   | def              = 500
-  | requirement      = [[Send]] 1 [[monster]] from your [[field]] to the [[Graveyard]].
+  | requirement      = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
   | lore             = This [[turn]], 1 [[face-up]] [[Cyberse]] [[Type]] monster on your field gains 300 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP014; Over Rush Pack 2; Common
+  | supports         = Cyberse
+  | action           = Sends from field to Graveyard for cost
+  | stat_change      = Your monsters gain ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
