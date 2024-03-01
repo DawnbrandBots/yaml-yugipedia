@@ -12,12 +12,16 @@ wikitext: |-
   | level            = 8
   | atk              = 2500
   | def              = 1000
-  | requirement      = If your [[LP]] are lower than your opponent's LP, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | requirement      = If your [[LP]] are lower than your opponent's, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
   | lore             = Gain 1000 [[LP]]. Then, this card gains 1000 [[ATK]] until the end of this [[turn]].
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP065; Over Rush Pack 2; Common
   | archseries       = Bubble Actress
+  | action           = Sends from hand to Graveyard for cost
+  | stat_change      = This card gains ATK
+  | life_points      = You gain Life Points
+  | misc             = Requires specific LP
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
