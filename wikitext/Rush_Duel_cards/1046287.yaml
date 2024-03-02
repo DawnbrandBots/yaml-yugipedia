@@ -16,7 +16,7 @@ wikitext: |-
   * Super Assistant Hiya
   | materials        = "[[Chromatographagas]]" + "[[Super Assistant Hiya]]"
   | requirement      = If your opponent has a [[face-up]] card on their [[field]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore             = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, your opponent [[return]]s as many face-up cards from their field to the owner's hand as possible, up to [the number of different [[Type]]s among the [[FIRE]] [[Attribute]] [[monsters]] sent to the Graveyard by this [[effect]]].
+  | lore             = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, your opponent [[return]]s as many face-up cards from their field to the [[owner]]'s hand as possible, up to [the number of different [[Type]]s among the [[FIRE]] [[Attribute]] [[Monster Card|monster]]s sent to the Graveyard by this [[effect]]].
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -25,7 +25,17 @@ wikitext: |-
   | mentions         = 
   * Chromatographagas
   * Super Assistant Hiya
+  | supports         = FIRE
   | archseries       = Chemistry
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Returns from your opponent's field to your opponent's hand
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
