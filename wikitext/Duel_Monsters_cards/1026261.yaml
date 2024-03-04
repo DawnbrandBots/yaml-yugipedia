@@ -1,7 +1,5 @@
 title: Silent Magician Zero
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -12,7 +10,7 @@ wikitext: |-
   | romaji_name           = Sairento Majishan Zero
   | ko_name               = 
   | ko_rr_name            = 
-  | image                 = SilentMagicianZero-LEDE-JP-SR.png
+  | image                 = SilentMagicianZero-LEDE-EN-LE-OP.png
   | attribute             = LIGHT
   | types                 = Spellcaster / Effect
   | level                 = 4
@@ -20,7 +18,7 @@ wikitext: |-
   | def                   = 1000
   | password              = 65726770
   | effect_types          = Trigger, Continuous, Quick, Condition
-  | lore                  = If your opponent [[Draw a card|draws]] a card(s): Increase this card's [[Level]] by the number drawn. While this card's current Level is higher than its [[original Level]], it gains [[ATK]] equal to the difference x 500. When your opponent activates a [[Spell Card]] or [[effect]] while you [[control]] "[[Gold Sarcophagus of Light]]" ([[Quick Effect]]): You can [[negate]] the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Magician Zero" [[once per turn]].
+  | lore                  = If your opponent [[Draw a card|draws]] a card(s): Increase this card's [[Level]] by the number drawn. While this card's Level is higher than its [[original Level]], it gains [[ATK]] equal to the difference x 500. When your opponent activates a [[Spell Card]] or [[effect]], while you [[control]] "[[Shining Sarcophagus]]" ([[Quick Effect]]): You can [[negate]] the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Magician Zero" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,13 +26,31 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = このカード名の③の効果は１ターンに１度しか使用できない。①：相手がドローした場合に発動する。ドローした枚数分だけ、このカードのレベルを上げる。②：このカードのレベルが元々のレベルより高い場合、その差分×５００だけこのカードの攻撃力はアップする。③：自分フィールドに「光の黄金櫃」が存在し、相手が魔法カードの効果を発動した時に発動できる。その発動を無効にし、このカードのレベルを１つ上げる。
   | ko_lore               = 
+  | en_sets               = 
+  LEDE-ENSP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-EN003; Legacy of Destruction; 
+  | fr_sets               = 
+  LEDE-FRSP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-FR003; Legacy of Destruction; 
+  | de_sets               = 
+  LEDE-DESP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-DE003; Legacy of Destruction; 
+  | it_sets               = 
+  LEDE-ITSP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-IT003; Legacy of Destruction; 
+  | pt_sets               = 
+  LEDE-PTSP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-PT003; Legacy of Destruction; 
+  | sp_sets               = 
+  LEDE-SPSP1; Legacy of Destruction Premiere! promotional card; Ultra Rare
+  LEDE-SP003; Legacy of Destruction; 
   | jp_sets               = 
   LEDE-JP003; Legacy of Destruction; Super Rare, Secret Rare, Quarter Century Secret Rare
   LEDE-JP003; Legacy of Destruction +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
-  | mentions              = Gold Sarcophagus of Light
+  | mentions              = Shining Sarcophagus
   | archseries            = 
   * Silent Magician (archetype)
-  * Gold Sarcophagus of Light (series)
+  * Shining Sarcophagus (series)
   | action                = Activates if your opponent draws a card
   | stat_change           = 
   * This card gains Levels
