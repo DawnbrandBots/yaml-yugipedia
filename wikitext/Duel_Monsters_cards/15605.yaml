@@ -18,6 +18,7 @@ wikitext: |-
   | password              = 78387742
   | effect_types          = Effect
   | lore                  = [[Special Summon]] 1 "[[Elemental HERO]]" [[Monster Card|monster]] from your [[hand]], but it cannot [[attack]], also [[return]] it to the hand during the [[End Phase]].
+  | trans_lore            = Special Summon 1 "Elemental HERO" monster from your hand, but it cannot attack, also return it to the hand during the End Phase '''of this turn'''.
   | fr_lore               = Invoquez Spécialement 1 monstre "HÉROS Élémentaire" depuis votre main, mais il ne peut pas attaquer, et aussi, renvoyez-le à la main durant la End Phase.
   | de_lore               = Beschwöre 1 „Elementar-HELD“-Monster als Spezialbeschwörung von deiner Hand. Das Monster kann nicht angreifen und gib es während der End Phase auf die Hand zurück.
   | it_lore               = Evoca Specialmente 1 mostro "EROE Elementale" dalla tua mano. Quel mostro non può attaccare, e ritorna nella mano durante la End Phase.
@@ -61,7 +62,7 @@ wikitext: |-
   | ygo_sets              = 
   '''[[Pack 41 (YGOO-BP)|Pack 41]]'''
   | supports_archetypes   = Elemental HERO
-  | action                = Returns from your field to your hand
+  | action                = Returns from field to hand
   | summoning             = Special Summons from your hand
   | attack                = Prevents your monsters from attacking
   | database_id           = 6779
