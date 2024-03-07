@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 2500
   | password              = 
   | effect_types          = Summoning condition, Unclassified, Quick, Condition
-  | lore                  = Cannot be Special Summoned. If you control no monsters, or only EARTH Machine monsters, you can Normal Summon this card without Tributing. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Machine monster from your hand or face-up field, or 1 "Ancient Gear Golem" from your Deck, to the GY; negate that effect. You can only use this effect of "Ancient Gear Dragon" once per turn.
+  | lore                  = Cannot be [[Special Summon]]ed. If you [[control]] no [[monster]]s, or only [[EARTH]] [[Machine]] monsters, you can [[Normal Summon]] this card without [[Tribute|Tributing]]. When your opponent [[activate]]s a [[Spell]]/[[Trap Card]] or [[effect]] ([[Quick Effect]]): You can [[send]] 1 Machine monster from your [[hand]] or [[face-up]] [[field]], or 1 "[[Ancient Gear Golem]]" from your [[Main Deck|Deck]], to the [[GY]]; [[negate]] that [[effect]]. You can only use this effect of "Ancient Gear Dragon" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,10 +35,28 @@ wikitext: |-
   | jp_sets               = 
   VJMP-JP252; V Jump May 2024 promotional card; Ultra Rare
   | mentions              = Ancient Gear Golem
+  | supports              = 
+  * EARTH
+  * Machine
   | archseries            = Ancient Gear
   | related_to_archseries = 
   * Cyber
   * Cyber Dragon (archetype)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning             = 
+  * Cannot be Special Summoned
+  * Normal Summon without Tribute
+  | misc                  = 
+  * Requires control of no monsters
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
