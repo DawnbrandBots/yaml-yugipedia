@@ -8,11 +8,19 @@ wikitext: |-
   | image            = ShinyShady-RDORP2-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]] during their [[turn]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore             = Change up to 2 [[face-up]] [[Effect Monster]]s on the [[field]] to [[face-down]] [[Defense Position]]. Then, if you changed to face-down Defense Position a monster with 2600 or more original ATK on your opponent's field, gain 1500 [[LP]].
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their [[turn]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore             = [[Battle position change|Change]] up to 2 [[face-up]] [[Effect Monster]]s on the [[field]] to [[face-down]] [[Defense Position]]. Then, if you changed a monster with 2600 or more [[Original ATK and DEF|original ATK]] on your opponent's field to face-down Defense Position by this [[effect]], gain 1500 [[LP]].
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP079; Over Rush Pack 2; Over Rush Rare
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Changes battle positions
+  * Flips monsters face-down
+  | life_points      = You gain Life Points
+  | misc             = Requires control of specific Monster type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
