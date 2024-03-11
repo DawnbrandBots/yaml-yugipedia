@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔の鎮魂棺|デモンスミス・レクイエム}}
-  | romaji_name           = 
-  | trans_name            = 
+  | romaji_name           = Demonsumisu Rekuiemu
+  | trans_name            = Demonsmith Requiem
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -33,8 +33,30 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP046; The Infinite Forbidden; 
+  | mentions              = Fiendsmith Requiem
+  | supports              = 
+  * LIGHT
+  * Fiend
   | archseries            = Fiendsmith
   | supports_archetypes   = Fiendsmith
+  | action                = 
+  * Tributes itself for cost
+  * Activates from your Graveyard
+  * Equips self from field
+  * Equips self from Graveyard
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = Treated as Equip Card
+  | summoning             = 
+  * 1 Link Material
+  * Requires Attribute specific Link Materials
+  * Requires Type specific Link Materials
+  * Special Summon once per turn
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔|デモンスミス}}ディエスイレ
-  | romaji_name           = 
-  | trans_name            = 
+  | romaji_name           = Demonsumisu Diesu Ire
+  | trans_name            = Demonsmith Dies Irae
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,9 +21,9 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 2400
   | password              = 
-  | materials             = "The Fiendsmith" + 2 LIGHT Fiend monsters
+  | materials             = "The Fiendsmith" + 2 LIGHT Fiend-Type monsters
   | effect_types          = Quick, Trigger, Condition
-  | lore                  = "[[The Fiendsmith]]" + 2 [[LIGHT]] [[Fiend]] [[monsters]]<br />([[Quick Effect]]): You can [[negate]] the [[effect]]s of a number of [[face-up]] cards on the [[field]] until the end of this [[turn]], up to the total [[Link Rating]] of the [[Link Monster]]s [[equip]]ped to this card. If this card is [[sent]] to the [[GY]]: You can [[shuffle]] 1 other LIGHT Fiend monster from your [[GY]] into the [[Main Deck|Deck]]/[[Extra Deck]], then [[target]] 1 card on the field; [[send]] it to the GY. You can only use each effect of "Fiendsmith Dies Irae" [[once per turn]].
+  | lore                  = "[[The Fiendsmith]]" + 2 [[LIGHT]] [[Fiend]] [[monsters]]<br />([[Quick Effect]]): You can [[negate]] the [[effect]]s of a number of [[face-up]] cards on the [[field]] up to the total [[Link Rating]]s of the [[Link Monster]]s [[equip]]ped to this card, until the end of this [[turn]]. If this card is [[sent]] to the [[GY]]: You can [[shuffle]] 1 other LIGHT Fiend monster from your [[GY]] into the [[Main Deck|Deck]]/[[Extra Deck]], then [[target]] 1 card on the field; [[send]] it to the GY. You can only use each effect of "Fiendsmith Dies Irae" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,8 +34,27 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP036; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Fiend
+  * Link Monster
   | mentions              = The Fiendsmith
   | archseries            = Fiendsmith
+  | action                = 
+  * Activates if sent to the Graveyard
+  * Returns from Graveyard to Deck for cost
+  * Returns from Graveyard to Extra Deck for cost
+  * Sends from field to Graveyard
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 魔を刻むデモンスミス
+  | ja_name               = {{Ruby|魔|ま}}を{{Ruby|刻|きざ}}むデモンスミス
   | romaji_name           = Ma o Kizamu Demonsumisu
-  | trans_name            = Demon Carver Demonsmith
+  | trans_name            = Demon-Carving Demonsmith
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -34,8 +34,24 @@ wikitext: |-
   | jp_sets               = 
   INFO-JP017; The Infinite Forbidden; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   INFO-JP017; Infinite Forbidden +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports              = 
+  * LIGHT
+  * Fiend
   | archseries            = Fiendsmith
   | supports_archetypes   = Fiendsmith
+  | action                = 
+  * Activates from your hand
+  * Discards itself for cost
+  * Adds from Deck to hand
+  * Sends from your field to your Graveyard
+  * Sends from field to Graveyard
+  * Activates from your Graveyard
+  * Returns from Graveyard to Deck for cost
+  * Returns from Graveyard to Extra Deck for cost
+  | summoning             = Special Summons itself from your Graveyard
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

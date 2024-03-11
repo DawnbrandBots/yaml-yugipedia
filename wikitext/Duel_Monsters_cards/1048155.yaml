@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔の大聖棺|デモンスミス・セクエンツィア}}
-  | romaji_name           = 
-  | trans_name            = 
+  | romaji_name           = Demonsumisu Sekuentsia
+  | trans_name            = Demonsmith Sequentia
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -33,7 +33,30 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP047; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Fiend
+  * Fusion Monster
   | archseries            = Fiendsmith
+  | action                = 
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Activates from your Graveyard
+  * Equips self from field
+  * Equips self from Graveyard
+  | m/s/t                 = 
+  * Treated as Equip Card
+  * Prevents other cards being targeted by card effects
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Attribute specific Link Materials
+  * Requires Type specific Link Materials
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔|デモンスミス}}ラクリモーサ
-  | romaji_name           = 
-  | trans_name            = 
+  | romaji_name           = Demonsumisu Rakurimōsa
+  | trans_name            = Demonsmith Lacrimosa
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,7 +21,7 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 2400
   | password              = 
-  | materials             = 2 LIGHT Fiend monsters
+  | materials             = 2 LIGHT Fiend-Type monsters
   | effect_types          = Continuous, Condition, Trigger, Trigger
   | lore                  = 2 [[LIGHT]] [[Fiend]] [[monsters]]<br />Monsters your opponent [[control]]s lose 600 [[ATK]]. You can only use each of the following [[effect]]s of "Fiendsmith Lacrimosa" [[once per turn]]. If this card is [[Fusion Summon]]ed: You can [[target]] 1 LIGHT Fiend [[monster]] in your [[GY]] or [[banish]]ment; either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it. If this card is sent to the GY: You can [[shuffle]] 1 other LIGHT Fiend monster from your GY into the [[Main Deck|Deck]]/[[Extra Deck]]; inflict 1200 [[Effect damage|damage]] to your opponent.
   | fr_lore               = 
@@ -34,7 +34,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP035; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Fiend
   | archseries            = Fiendsmith
+  | stat_change           = Your opponent's monsters lose ATK
+  | action                = 
+  * Activates upon Fusion Summon
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  * Activates if sent to the Graveyard
+  * Returns from Graveyard to Deck for cost
+  * Returns from Graveyard to Extra Deck for cost
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
