@@ -10,7 +10,9 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔の讃聖|デモンスミス・サンクトゥス}}
   | romaji_name           = Demonsumisu Sankutusu
+  | base_romaji_name      = Kizamareshi Ma no Sansei
   | trans_name            = Demonsmith Sanctus
+  | base_trans_name       = 
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -30,8 +32,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP062; The Infinite Forbidden; 
+  | mentions              = Fiendsmith Token
+  | supports              = 
+  * LIGHT
+  * Fiend
   | archseries            = Fiendsmith
   | supports_archetypes   = Fiendsmith
+  | action                = 
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | summoning             = Special Summons Tokens
+  | attack                = Prevents your monsters from attacking
+  | misc                  = 
+  * Requires control of no monsters
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

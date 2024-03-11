@@ -10,7 +10,9 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔の楽園|デモンスミス・イン・パラディズム}}
   | romaji_name           = Demonsumisu in Paradizumu
+  | base_romaji_name      = Kizamareshi Ma no Rakuen
   | trans_name            = Demonsmith in Paradisum
+  | base_trans_name       = Engraved Demon's Paradise
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -30,8 +32,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP072; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Fiend
   | archseries            = Fiendsmith
   | supports_archetypes   = Fiendsmith
+  | action                = 
+  * Sends from field to Graveyard
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Sends from your Extra Deck to your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

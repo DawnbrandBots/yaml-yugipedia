@@ -10,7 +10,9 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|刻まれし魔の詠聖|デモンスミス・トラクトゥス}}
   | romaji_name           = Demonsumisu Torakutusu
+  | base_romaji_name      = Kizamareshi Ma no Eisei
   | trans_name            = Demonsmith Tractus
+  | base_trans_name       = 
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -30,8 +32,25 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP061; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Fiend
+  * Fusion Monster
   | archseries            = Fiendsmith
   | supports_archetypes   = Fiendsmith
+  | action                = 
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the hand as Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
