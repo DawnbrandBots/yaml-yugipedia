@@ -24,6 +24,9 @@ wikitext: |-
   "'''Fiendsmith'''", known as "'''Demonsmith'''" (デモンスミス ''Demonsumisu'') in Japan, is an [[archetype]] of [[LIGHT]] [[Fiend]] monsters introduced in ''[[The Infinite Forbidden]]''.
 
   == Design ==
+
+  Visually, the archetype seems to take influence from the ''[[wikipedia: Devil May Cry|Devil May Cry]]'' series with both "[[The Fiendsmith]]" bearing resemblance to its protagonist ''[[wikipedia: Dante (Devil May Cry)|Dante]]'' and the use of demon-powered weaponry existing across both mediums. Additionally, the archetype's [[Fusion Monsters]] can be compared to the ''Devil Trigger'' ability from the same series.
+
   ===Etymology===
   Aside from the exception of the titular "[[The Fiendsmith]]", all cards in the archetype are named after various Latin hymns and liturgical rites from [[wikipedia:Western Christianity|Western Christianity]].
 
@@ -45,12 +48,31 @@ wikitext: |-
 
   "[[Fiendsmith in Paradisum]]" is a [[Trap]] that targets a [[Level 7]] Fiend monster (i.e. the archetype's Fusion Monsters) to send all other cards on the field to the GY. Should the opponent Special Summon while this Trap is in the GY, it can be banished to send a "Fiendsmith" monster from the Deck or Extra Deck to the GY, most likely "Lacrimosa" or "Dies Irae" for their respective burn and removal effects.
 
-
-  Due to "Tractus" being able to search any LIGHT Fiend as opposed to merely "Fiendsmith" monsters, the archetype has synergy with "[[Fabled]]" and "[[Magical Musket]][[Magical Musketeer|(eer)]]". In the former's case, seeing as "Tractus" discards a card after searching, it is possible to search and then immediately discard "[[Fabled Lurrie]]" or "[[Fabled Krus]]" for their respective revival effects. As for the latter, "Magical Musket" and its own Spells/Traps provide the Deck with chainable disruption/removal it otherwise would not have, such as "[[Magical Musket - Cross-Domination|Cross Domination]]" or "[[Magical Musket - Desperado]]". "[[Magical Musketeer Max]]" can also be used as [[Link Material]] for "Requiem" after searching or reviving "Magical Musket" cards, effectively Summoning and supporting both archetypes with a single Main Deck "Magical Musketeer" monster.
+  Due to "Tractus" being able to search any LIGHT Fiend as opposed to merely "Fiendsmith" monsters, the archetype has synergy with "[[Fabled]]" and "[[Magical Musket]][[Magical Musketeer|(eer)]]". In the former's case, seeing as "Tractus" discards a card after searching, it is possible to search and then immediately discard "[[Fabled Lurrie]]" or "[[Fabled Krus]]" for their respective revival effects. As for the latter, "Magical Musket" and its own Spells/Traps provide the Deck with chainable disruption/removal it otherwise would not have, such as "[[Magical Musket - Cross-Domination|Cross Domination]]" or "[[Magical Musket - Desperado|Desperado]]". "[[Magical Musketeer Max]]" can also be used as [[Link Material]] for "Requiem" after searching or reviving "Magical Musket" cards, effectively Summoning and supporting both archetypes with a single Main Deck "Magical Musketeer" monster.
 
   Generic LIGHT Fiends with disruptive effects like "[[Santa Claws]]" and "[[Amanokujaki]]" can also be searched this way and be immediately made use of.
 
-  ==Recommended cards==
+  === Sample combos ===
+  The "Fiendsmith" archetype can function quite well as an engine, being able to Summon their boss monster "Fiendsmith Dies Irae" without using a [[Normal Summon]], or restricting the player's Summons to certain types of monsters. One such way is by simply opening with "[[Fiendsmith Tractus]]".
+  {{Combo steps
+  | opening = "[[Fiendsmith Tractus]]" + 1 card
+  | end     = "[[Fiendsmith Dies Irae]]" equipped with "[[Fiendsmith Sequentia]]" + "[[Fiendsmith Sanctus]]" in GY
+  | steps   = 
+  # Activate "[[Fiendsmith Tractus]]" to search "[[The Fiendsmith]]" and discard 1 other card.
+  # Discard "The Fiendsmith" to search "[[Fiendsmith Sanctus]]".
+  # Activate "Sanctus" to Special Summon 1 "[[Fiendsmith Token]]".
+  # Link Summon "[[Fiendsmith Requiem]]" by using the "Fiendsmith Token".
+  # Tribute "Requiem" to Special Summon a second "The Fiendsmith" from the Deck.
+  # Special Summon "The Fiendsmith" from the GY by shuffling "Requiem" from the GY into the Extra Deck.
+  # Activate "Tractus" from the GY to [[Fusion Summon]] "[[Fiendsmith Lacrimosa]]" by using the two copies of "The Fiendsmith".
+  # Activate "Lacrimosa" to Special Summon "The Fiendsmith" from the GY.
+  # Link Summon "[[Fiendsmith Sequentia]]" by using "Lacrimosa" and "The Fiendsmish".
+  # Activate "Sequentia" to Fusion Summon "[[Fiendsmith Dies Irae]]" by shuffling "Lacrimosa" and the two copies of "The Fiendsmith" from the GY into the Deck
+  # Activate "Sequentia" to equip itself to "Dies Irae".
+  }}
+  Following this combo, the player can still use their Normal Summon to follow up with other plays. Additionally, "Fiendsmith Sanctus" is placed in the GY, so if "Dies Irae" is destroyed by an opponent's card effect, it can Set itself back to the field, allowing for similar combos to continue during the next turn.
+
+  ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
 
@@ -58,16 +80,20 @@ wikitext: |-
   * [[The Fiendsmith]]
   * [[Evil HERO Adusted Gold]]
   * [[Fabled Lurrie]]
+  * [[Fabled Krus]]
+  * [[Fabled Grimro]]
   * [[Fabled Marcosia]]
   * [[Fabled Soulkius]]
   * [[Majesty's Fiend]]
+  * [[Ghost Ship]]
   * [[Santa Claws]]
+  * [[Amanokujaki]]
 
   |fusion monsters =
   * [[Fiendsmith Lacrimosa]]
   * [[Fiendsmith Dies Irae]]
   * [[Evil HERO Malicious Bane]]
-  * [[Soul Hunter]] (with "Ready Fusion")
+  * [[Soul Hunter]] ''(with "Ready Fusion")''
 
   |synchro monsters =
   * [[Chaos Angel]]
