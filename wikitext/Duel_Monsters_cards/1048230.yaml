@@ -8,8 +8,10 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = {{Ruby|竜輝巧|ドライトロン}}－{{Ruby|νＩＩ|ニューツー}}
-  | romaji_name           = Doraitoron - Nyūtsū
+  | ja_name               = {{Ruby|竜輝巧|ドライトロン}}－{{Ruby|ν|ニュー}}{{Ruby|Ⅱ|ツー}}
+  | romaji_name           = Doraitoron - Nyū Tsū
+  | base_romaji_name      = Ryūkikō - Nyū Tsū
+  | base_trans_name       = Draconic Bright Machine - νII
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -32,8 +34,28 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP022; The Infinite Forbidden; 
+  | mentions              = Drytron Nu2
+  | supports              = Machine
   | archseries            = Drytron
   | supports_archetypes   = Drytron
+  | anti-supports_archetypes = Drytron
+  | related_to_archseries = Ursarctic
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Ritual Summons
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
