@@ -16,8 +16,8 @@ wikitext: |-
   | level          = 7
   | atk            = 1600
   | def            = 2500
-  | requirement    = [[Send]] the top card of your [[Deck]] to the [[Graveyard]].
-  | lore           = Until the end of this [[turn]], all [[face-up]] [[monsters]] with the highest [[ATK]] on your opponent's [[field]] lose ATK equal to [the ATK of the face-up monster with the highest ATK on your field]. This card can only [[attack]] [[Attack Position]] monsters this turn.
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Until the end of this [[turn]], all [[face-up]] [[Monster Card|monster]]s with the highest [[ATK]] on your opponent's [[field]] lose ATK equal to [the ATK of the face-up monster with the highest ATK on your field]. This card can only [[attack]] [[Attack Position]] monsters this turn.
   | fr_requirement = Envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_lore        = Jusqu'à la fin de ce tour, tous les monstres face recto avec la plus haute ATK sur le Terrain de votre adversaire perdent une ATK égale à [l'ATK du monstre face recto avec la plus haute ATK sur votre Terrain]. Cette carte peut uniquement attaquer des monstres en Position d'Attaque ce tour.
   | de_requirement = Lege die oberste Karte deines Decks auf den Friedhof.
@@ -39,6 +39,6 @@ wikitext: |-
   RD/SBD2-KR004; Strongest Battle Deck Luke - Dragon's Dragons; Common
   | action         = Sends from the top of your Deck to your Graveyard for cost
   | stat_change    = Your opponent's monsters lose ATK
-  | attack         = Cannot attack
+  | attack         = Can only attack certain monsters
   | database_id    = 15431
   }}
