@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 星界樹イルミスティル
-  | romaji_name           = 
+  | ja_name               = {{Ruby|星|せい}}{{Ruby|界|かい}}{{Ruby|樹|じゅ}}イルミスティル
+  | romaji_name           = Seikaiju Irumisutiru
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -19,8 +19,9 @@ wikitext: |-
   | link_arrows           = Top-Left, Middle-Left, Bottom-Left, Bottom-Center, Bottom-Right
   | atk                   = 2000
   | password              = 
+  | materials             = 3+ Effect Monsters
   | effect_types          = Unclassified, Continuous, Quick
-  | lore                  = 3+ [[Effect Monster]]s<br />You can only [[control]] 1 "Astral World Tree Illumistil". Each time your opponent [[Special Summon]]s a [[monster]](s) [[face-up]] during the [[Main Phase]], you gain [[LP]] equal to that monster's ATK. [[Once per turn]] ([[Quick Effect]]): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
+  | lore                  = 3+ [[Effect Monster]]s<br />You can only [[control]] 1 "Astral World Tree Illumistil". Each time your opponent [[Special Summon]]s a [[monster]](s) [[face-up]] during the [[Main Phase]], you gain [[LP]] equal to its ATK. [[Once per turn]] ([[Quick Effect]]): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,6 +32,16 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP051; The Infinite Forbidden; 
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 3+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  | life_points           = 
+  * You gain Life Points
+  * Pays Life Points for cost
+  | misc                  = 
+  * Control only one
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

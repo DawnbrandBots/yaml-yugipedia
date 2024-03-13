@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 異端なるフォボスコボス
-  | romaji_name           = 
+  | ja_name               = {{Ruby|異|い}}{{Ruby|端|たん}}なるフォボスコボス
+  | romaji_name           = Itannaru Fobosukobosu
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2100
   | def                   = 1500
   | password              = 
+  | materials             = 2 Level 4 monsters
   | effect_types          = Ignition, Condition, Condition, Continuous
   | lore                  = 2 [[Level]] 4 [[monsters]]<br />You can [[target]] 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] its [[effect]]s, then, if it [[battle]]d this [[turn]], you can take control of it until the [[End Phase]]. This is a [[Quick Effect]] if this card has an [[Illusion]] monster as [[material]]. You can only use this effect of "Heretical Phoboscobos" [[once per turn]]. If this card battles a monster, neither can be destroyed by that battle.
   | fr_lore               = 
@@ -32,6 +33,22 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP045; The Infinite Forbidden; 
+  | supports              = Illusion
+  | action                = 
+  * Takes control of an opponent's monster
+  * Applies effects if specific Xyz Material is attached
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Does not have effects which detach Xyz Materials for cost
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                  = 
+  * Can be activated during either player's turn
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

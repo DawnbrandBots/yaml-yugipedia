@@ -1,4 +1,4 @@
-title: Deceiveblaster the Matchless Turret
+title: Disablaster the Matchless Turret
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
@@ -8,12 +8,12 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 無孔砲塔－ディセイブラスター
-  | romaji_name           = 
+  | ja_name               = {{Ruby|無|む}}{{Ruby|孔|こう}}{{Ruby|砲|ほう}}{{Ruby|塔|とう}}－ディセイブラスター
+  | romaji_name           = Mukō Hōtō - Diseiburasutā
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = DeceiveblastertheMatchlessTurret-INFO-JP-OP.png
+  | image                 = DisablastertheMatchlessTurret-INFO-JP-OP.png
   | attribute             = LIGHT
   | types                 = Machine / Pendulum / Effect
   | level                 = 5
@@ -24,7 +24,7 @@ wikitext: |-
   | pendulum_effect_types = Continuous-like
   | effect_types          = Unclassified, Condition, Continuous, Trigger
   | pendulum_effect       = [[Negate]] all cards and [[effect]]s [[activate]]d in this card's [[column]].
-  | lore                  = If there is a column with no cards, you can [[Special Summon]] this card (from your [[hand]]) to your zone in that column. You can only Special Summon "Deceiveblaster the Matchless Turret" [[once per turn]] this way. Negate all cards and effects activated in this card's column. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
+  | lore                  = If there is a column with no cards, you can [[Special Summon]] this card (from your [[hand]]) to that column. You can only Special Summon "Disablaster the Matchless Turret" [[once per turn]] this way. Negate all cards and effects activated in this card's column. If this card in the [[Monster Zone]] is [[destroy]]ed: You can place this card in your [[Pendulum Zone]].
   | fr_pendulum_effect    = 
   | fr_lore               = 
   | de_pendulum_effect    = 
@@ -37,12 +37,23 @@ wikitext: |-
   | es_lore               = 
   | ja_pendulum_effect    = 
   | ja_lore               = 
-  | ko_pendulum_effect    =
+  | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP026; The Infinite Forbidden; 
+  | action                = 
+  * Activates if destroyed
+  * Goes to Pendulum Zone
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon once per turn
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | misc                  = Column
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
