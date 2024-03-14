@@ -36,6 +36,18 @@ wikitext: |-
   * Gimmick Puppet
   * Puppet
   | supports_archetypes   = Gimmick Puppet
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from Deck to Graveyard for cost
+  * Activates from your Graveyard
+  | stat_change           = 
+  * Changes own Level
+  * Your monsters gain Levels
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

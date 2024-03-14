@@ -30,7 +30,20 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP056; The Infinite Forbidden; 
+  | supports              = Xyz Monster
   | supports_archetypes   = Gimmick Puppet
+  | action                = 
+  * Adds from Deck to hand
+  * Detaches Xyz Materials for cost
+  | m/s/t                 = 
+  * Unaffected by the opponent's Monster Cards
+  * Unaffected by activated card effects
+  | summoning             = Special Summons from your Graveyard to your opponent's field
+  | attack                = Prevents other cards being destroyed by battle
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

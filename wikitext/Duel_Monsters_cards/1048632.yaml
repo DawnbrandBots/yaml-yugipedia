@@ -30,8 +30,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP070; The Infinite Forbidden; 
+  | supports              = Xyz Monster
+  | anti-supports         = Xyz Monster
   | archseries            = Puppet
   | supports_archetypes   = Gimmick Puppet
+  | action                = 
+  * Takes control of an opponent's monster
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard
+  * Special Summons from your Graveyard to your opponent's field
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -32,10 +32,25 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP009; The Infinite Forbidden; 
+  | supports              = Xyz Monster
   | archseries            = 
   * Gimmick Puppet
   * Puppet
   | supports_archetypes   = Gimmick Puppet
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Detaches Xyz Materials for cost
+  * Grants effect while attached as Xyz Material
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

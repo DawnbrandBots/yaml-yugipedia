@@ -32,10 +32,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP008; The Infinite Forbidden; Rare
+  | supports              = Xyz Monster
   | archseries            = 
   * Gimmick Puppet
   * Puppet
   | supports_archetypes   = Gimmick Puppet
+  | action                = 
+  * Activates from your hand
+  * Reveals your Extra Deck for cost
+  * Activates if sent to the Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons itself from your hand
+  | misc                  = 
+  * Only once per turn
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to archetype specific monsters
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
