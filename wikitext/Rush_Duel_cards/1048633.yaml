@@ -12,9 +12,9 @@ wikitext: |-
   | atk              = 2600
   | def              = 1600
   | fusion_material  = Transamu Rainac
-  | materials        = "[[Transamu Rainac]]" + 1 [[Level]] 4 [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]]
+  | materials        = "[[Transamu Rainac]]" + 1 [[Level]] 4 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]
   | requirement      = [[Shuffle]] 2 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = This [[turn]], this card gains 1000 [[ATK]], but it cannot attack directly. Then, if you shuffled "[[Transamu Ephyrai]]" to meet the requirement, this card gains 2600 ATK this turn.
+  | lore             = This [[turn]], this card gains 1000 [[ATK]], but cannot [[attack]] [[Direct attack|directly]]. Then, if you shuffled "[[Transamu Ephyrai]]" to meet the [[Activation condition|requirement]], this card gains 2600 ATK this turn.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -23,7 +23,16 @@ wikitext: |-
   | mentions         = 
   * Transamu Rainac
   * Transamu Ephyrai
+  | supports         = Galaxy (Type)
   | archseries       = Transamu
+  | action           = Returns from Graveyard to Deck for cost
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack           = Cannot attack directly
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
