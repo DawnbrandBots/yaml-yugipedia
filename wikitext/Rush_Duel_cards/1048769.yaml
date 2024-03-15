@@ -12,11 +12,20 @@ wikitext: |-
   | atk              = 1700
   | def              = 2700
   | requirement      = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Roll a six-sided twice and apply the appropriate [[effect]] based on the total result.<br />● 7 or 11: Place 1 card from your opponent's [[field]] on the bottom of the owner's [[Main Deck|Deck]].<br />● 2, 3, or 12: Change the [[battle position]] of 1 monster on your field.<br />● Other: This card gains [[ATK]] equal to [the total result] x 200 until the end of your opponent's next [[turn]].
+  | lore             = Roll a six-sided die twice and apply the appropriate [[effect]] based on the total result.<br />● 7 or 11: Place 1 card from your opponent's [[field]] on the bottom of the [[owner]]'s Deck.<br />● 2, 3, or 12: [[Battle position change|Change]] the [[battle position]] of 1 [[Monster Card|monster]] on your field.<br />● Other: This card gains [[ATK]] equal to [the total result] x 200 until the end of your opponent's next [[turn]].
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP067; Over Rush Pack 2; Over Rush Rare
   | archseries       = Dice (series)
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Places cards from the opponent's field on the bottom of the Deck
+  * Changes battle positions
+  * Flips monsters face-up
+  | stat_change      = This card gains ATK
+  | misc             = 
+  * Die roll
+  * Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
