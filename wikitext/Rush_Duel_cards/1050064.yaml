@@ -15,15 +15,16 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 1600
   | fusion_material       = Sevens Road Witch
-  | materials             = "[[Sevens Road Witch]]" + 1 Level 1 EARTH Attribute Spellcaster Type monster
-  | requirement           = Send the top card of your Deck to the Graveyard.
-  | lore                  = Change the battle position of 1 monster your opponent controls. Then, this turn, this card inflicts piercing battle damage. Then, if "[[Sevens Road Magician]]" is in your GY, this turn, this card cannot be destroyed by card effects.
+  | materials             = "[[Sevens Road Witch]]" + 1 [[Level]] 1 [[EARTH]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]]
+  | requirement           = [[Send]] the top card of your Deck to the [[Graveyard]].
+  | lore                  = Change the [[battle position]] of 1 monster on your opponent's [[field]]. Then, this card inflicts [[piercing]] [[battle damage]] (if the ATK of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference) if it attacks a [[Defense Position]] monster this [[turn]]. Then, if you have "[[Sevens Road Magician]]" in your Graveyard, this card cannot be destroyed by card effects this turn.
   | ja_requirement        = 
   | ja_lore               = 
   | ko_requirement        = 
   | ko_lore               = 
   | jp_sets               = 
   RD/ORP2-JP062; Over Rush Pack 2; Over Rush Rare
+  | mentions              = Sevens Road Magician
   | archseries            = Sevens Road
   | related_to_archseries = Straynge Cat (series)
   | database_id           = 
