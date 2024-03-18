@@ -34,8 +34,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ????-JP0??; Duelist Pack: Duelists of Brilliance; 
+  | supports            = Link Monster
   | archseries          = Trickstar
   | supports_archetypes = Trickstar
+  | action              = 
+  * Activates upon Fusion Summon
+  * Adds from Deck to hand
+  * Activates if effect damage is inflicted
+  | stat_change         = 
+  * Your monsters gain ATK
+  * Changes ATK value
+  * Reduces ATK to 0
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
