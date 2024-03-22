@@ -38,7 +38,7 @@ wikitext: |-
 
   They appear to take inspiration from the science fiction series ''[[wikipedia:Doctor Who|Doctor Who]]'', the manhua/anime series ''[[wikipedia:Chronos Ruler|Chronos Ruler]]'', and the book series ''[[wikipedia:The Gideon Trilogy|Gideon Trilogy]]''.
 
-  ==Playing Style==
+  ===Playing Style===
   Their main strategy is to swarm the board with [[Level]] 4 monsters and [[attach]] different [[card type]]s, including the opponent's cards, to their ace monster, the [[Rank]] 4 [[Xyz Monster]] "[[Time Thief Redoer]]". The Machine members tend to [[Tribute]] themselves to aid with this. To accomplish this, "[[Time Thief Winder]]" is able to [[add]] "Time Thief" cards from the [[Deck]] to your [[hand]], making it a valuable asset. This can be done by [[Normal Summon]]ing it, or by [[Special Summon]]ing it via detaching [[material]] from an Xyz Monster you control. Alternatively, you could use the effect of "[[Time Thief Regulator]]" to Tribute itself (while controlling no other monsters) to immediately Special Summon "Winder" and another "Time Thief" from the Deck. "Regulator" can also revive itself from the [[GY]] if an Xyz Monster you control is [[destroyed by battle]], though be careful as it will [[banish]] itself when it [[leaves the field]] after doing so. "[[Time Thief Chronocorder]]" will do the same though it can Tribute itself during your opponent's [[Battle Phase]] to make them take [[battle damage]] that turn if they continue to [[attack]]. 
   "[[Time Thief Bezel Ship]]" Tributes itself to [[attach]] cards from the opponent's GY to your "Time Thief" Xyz Monsters (effectively acting as a tribal "[[D.D. Crow]]"), but can also [[detach]] those materials to bring itself back to the [[field]]. Said Xyz Monsters are "[[Time Thief Perpetua]]" and "Redoer"; "Perpetua" can Special Summon "Time Thief" Monsters from your GY during your [[Standby Phase]]s, as well as [[target]] another Xyz Monster of yours and attach 1 "Time Thief" card from your Deck to it. This makes her perfectly capable of supplying "Redoer" with the needed materials for his own effects (and other powerful Xyz Monsters, for that matter), as he is able to detach up to 3 different kinds of materials from himself to activate the corresponding effects: detaching a monster banishes "Redoer" until the [[End Phase]], a [[Spell]] will let you [[draw]] 1 card, and a [[Trap]] will place a [[face-up]] Card the opponent controls on the top of their Deck. Given this is a [[Quick Effect]], this allows "Redoer" to become tricky to deal with on top of him being able to snatch cards from the top of your opponent's Deck each Standby Phase.
 
@@ -49,6 +49,32 @@ wikitext: |-
   The archetype has great synergy with the "[[Heraldic]]" archetype, which supports both Psychic and Machine Decks. As all members are of the DARK Attribute, they also benefit from generic DARK support as well as some Machine support like "[[Gear Gigant X]]". "[[Raidraptor]]" and "[[Phantom Knights]]" can also prove a boon for the deck, by searching/tutoring other Level 4 DARK monsters to extend Special Summons and/or setting up cards in the GY and backrow to do the same. "[[Raidraptor - Force Strix]]" in particular can search extender monsters like "[[Raidraptor - Singing Lanius|Singing Lanius]]", "[[Raidraptor - Strangle Lanius|Strangle Lanius]]", and "[[Raider's Wing]]" to allow for additional Level 4 monsters with which to Xyz Summon with, while "[[The Phantom Knights of Rusty Bardiche|Rusty Bardiche]]" can send monsters like "Raider's Wing" to the GY in order to set "[[The Phantom Knights of Shade Brigandine|Shade Brigandine]]" for the same purpose.
 
   Generic Xyz Monster support can also work amazingly well with the Deck, such as "[[Overlay Regen]]" and "[[Xyz Reborn]]". This extends to other generic [[Rank 4 Monster Cards|Rank 4 monsters]] in general, including "[[Abyss Dweller]]" and "[[Number 41: Bagooska the Terribly Tired Tapir]]" to limit the opponent's actions, "[[Tornado Dragon]]" for backrow removal, and "[[Number 60: Dugares the Timeless]]" to extend the user's plays.
+
+  == Sample Combos ==
+  "Time Thief" can work well as an engine for fellow Xyz archetypes, and vice versa. Its synergy with "Raidraptor" in particular can allow for easy Summoning of "[[Cyber Dragon Infinity]]" using "[[Rank-Up-Magic Soul Shave Force]]", in addition to their existing plays.
+
+  Below is a sample combo with the following objectives:
+  # Summon "[[Time Thief Redoer]]" with "[[Time Thief Power Reserve]]" attached to act as a scout for the opponent's Deck as well as "spin" removal.
+  # Use "[[Xyz Armor Fortress]]" and "[[Full Armored Dark Knight Lancer]]" to search "[[Full-Armored Xyz]]" and subsequently "steal" an opponent's monster upon equipping one Xyz Monster to another.
+  # Summon "[[Cyber Dragon Infinity]]" as an end piece and enabler for "[[Raidraptor - Strangle Lanius]]" to make an additional Xyz Monster.
+
+  {{Combo steps
+  | opening = "[[Time Thief Regulator]]"
+  | end     = "[[Time Thief Redoer]]" and "[[Cyber Dragon Infinity]]" with "[[Time Thief Power Reserve]]" attached + "[[Time Thief Perpetua]]" + "[[Time Thief Bezel Ship]]" + "[[Full-Armored Xyz]]" in GY 
+  | steps   = 
+  # Normal Summon "[[Time Thief Regulator]]" as your only monster, Tributing it afterward to Summon "[[Time Thief Winder]]" and "[[Time Thief Adjuster]]" (or "[[Time Thief Bezel Ship]]" if "Adjuster" is in your hand).
+  # Use "Winder's" effect to search "[[Time Thief Power Reserve]]", and "Adjuster's" effect to send "[[Time Thief Bezel Ship]]" from Deck to GY.
+  # Overlay both monsters for "[[Raidraptor - Force Strix]]" and use its effect to detach one material to search "[[Raidraptor - Singing Lanius]]".
+  # Revive "Bezel Ship" in GY by detaching "Force Strix's" remaining material, then Summon "Singing Lanius" from your hand.
+  # Link Summon "[[Raidraptor - Wise Strix]]" using "Force Strix" and "Singing Lanius", then use its effect to Summon "[[Raider's Wing]]" from Deck.
+  # Overlay "Bezel Ship" and "Raider's Wing" for a second "Force Strix", then use its effect to detach "Wing" and not only search "[[Raidraptor - Strangle Lanius]]" but activate "Wise Strix's" second effect to set "[[Rank-Up-Magic Soul Shave Force]]" from Deck.
+  # Activate "Soul Shave Force" to revive the first "Force Strix" from GY and overlay it into "[[Cyber Dragon Infinity]]", who will target "Wise Strix" to attach as material and free up the Extra Monster Zone.
+  # Revive "Raider's Wing" in GY with its effect by detaching "Force Strix's" remaining material.
+  # Overlay "Force Strix" into "[[Xyz Armor Fortress]]" and use its effect to detach a material and search "[[Full-Armored Xyz]]" for you to Set. Afterwards, overlay "Fortress" into "[[Full Armored Dark Knight Lancer]]".
+  # Activate "Strangle Lanius'" effect in hand to Summon itself, then use its second effect to revive "Singing Lanius" in GY, and overlay both into "[[Time Thief Perpetua]]", whose effect you will use to attach a second "Power Reserve" from Deck to "CDI" as material.
+  # Pass turn, then during your opponent's Standby Phase activate "Power Reserve" to Summon itself and activate "Full-Armored Xyz" immediately after to overlay it and "Raider's Wing" into "[[Time Thief Redoer]]" (doing so will make "Redoer" untargetable by card effects via "Raider's Wing's" effect).
+  # Use "Redoer's" effect to attach the opponent's top card of Deck, then use "Perpetua's" to detach a material and revive "Bezel Ship" from GY.
+  # After detaching either "Power Reserve" from "Redoer" or "CDI", use either "Perpetua" or "Bezel Ship" to attach a Spell to "Redoer" or "CDI" in addition to a Trap and enable "Power Reserve's" GY effect.}}
 
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
