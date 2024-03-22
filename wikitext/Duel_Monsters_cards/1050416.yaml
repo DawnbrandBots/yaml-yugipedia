@@ -32,7 +32,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   VJMP-JP245; V Jump Spring 2024 subscription bonus; Ultra Rare
+  | supports              = 
+  * Fiend
+  * Tuner monster
   | archseries            = Fire King
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates if sent to the Graveyard
+  * Activates from your hand
+  * Activates upon Special Summon
+  | stat_change           = Your opponent's monsters lose ATK
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Type
   | database_id           = 20038
   | tcg_status            = Not yet released
   }}
