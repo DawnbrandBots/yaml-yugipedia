@@ -3,23 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
-  | ja_name          = はぐれ使い{{Ruby|魔|ま}}{{Ruby|女|じょ}}
-  | romaji_name      = Hagure Tsukamajo
-  | trans_name       = Stray Familiar Witch
-  | image            = StrayngeCatWitch-OW.png
-  | attribute        = EARTH
-  | types            = Spellcaster / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
-  | archseries       = Straynge Cat (series)
-  | rush_duel_status = Not yet released
-  | database_id      = 
+  | ja_name               = はぐれ使い{{Ruby|魔|ま}}{{Ruby|女|じょ}}
+  | romaji_name           = Hagure Tsukamajo
+  | trans_name            = Stray Familiar Witch
+  | image                 = StrayngeCatWitch-RDKP17-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Spellcaster / Effect
+  | level                 = 1
+  | atk                   = 0
+  | def                   = 1400
+  | requirement           = You have no other [[Monster Card|monster]]s on your [[field]].
+  | lore                  = [[Special Summon]] 1 "[[Sevens Road Charm Witch]]" or 1 "[[Sevens Road Witch]]" from your [[Graveyard]] [[face-up]] to your field. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]].
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
+  RD/KP17-JP007; Burst Rex of Awakening; Common
+  | mentions              = 
+  * Sevens Road Charm Witch
+  * Sevens Road Witch
+  * Fusion (Rush Duel)
+  | archseries            = Straynge Cat (series)
+  | related_to_archseries = Sevens Road
+  | action                = Adds from Graveyard to hand
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = Requires control of no other monsters
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

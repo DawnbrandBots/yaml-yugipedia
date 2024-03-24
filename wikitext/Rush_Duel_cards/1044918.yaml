@@ -3,19 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ハイブリッドライブ・バックフュージョン
   | romaji_name      = Haiburiddoraibu Bakkufyūjon
-  | image            = HybridriveBackFusion-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | lore           = (TBA)
+  | image            = HybridriveBackFusion-RDKP17-JP-OP.png
+  | card_type        = Spell
+  | property         = Normal
+  | requirement      = [[Shuffle]] 4 [[Dragon]] [[Type]] and/or [[Machine]] Type [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = Your opponent [[Special Summon]]s 1 monster from their Graveyard to their [[field]] in [[face-down]] [[Defense Position]]. Then, you can [[Fusion Summon]] by shuffling 1 Dragon Type monster and 1 Machine Type monster from your Graveyard into the Deck as [[material]]. You can only [[attack]] with [[Fusion Monster]]s until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP052; Burst Rex of Awakening; Super Rare, Secret Rare
+  | supports         = 
+  * Dragon
+  * Machine
+  * Fusion Monster
   | archseries       = Hybridrive
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | summoning        = 
+  * Your opponent Special Summons
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  * Special Summons face-down
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack           = Prevents your monsters from attacking
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

@@ -3,33 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel             = true
   | ja_name               = ブルーテック・バーストレックス
   | romaji_name           = Burūtekku Bāsutorekkusu
-  | image                 = BluetechBurstRex-OW.png
-  | attribute             = ???
-  | types                 = Dragon / Fusion / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
+  | image                 = BluetechBurstRex-RDKP17-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Dragon / Fusion / Effect
+  | level                 = 9
+  | atk                   = 3300
+  | def                   = 2500
   | fusion_material       = 
   * Blue Tooth Burst Dragon
   * Jointech Rex
   | materials             = "[[Blue Tooth Burst Dragon]]" + "[[Jointech Rex]]"
-  | requirement           = (TBA)
-  | lore                  = (TBA)
+  | requirement           = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, [[shuffle]] 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore                  = [[Destroy]] up to 3 [[face-down]] cards on your opponent's [[field]], and this card gains [[ATK]] equal to [the number of destroyed cards] x 500 until the end of this [[turn]]. Then, you can make all [[face-up]] monsters on your opponent's field lose 1000 ATK until the end of this turn.
   | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP044; Burst Rex of Awakening; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions              = 
   * Blue Tooth Burst Dragon
   * Jointech Rex
   | archseries            = High Tech Dragon
   | related_to_archseries = Jointech
+  | action                = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from Graveyard to Deck for cost
+  | stat_change           = 
+  * This card gains ATK
+  * Your opponent's monsters lose ATK
+  | m/s/t                 = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
   | summoning             = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
+  | misc                  = Cover card
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

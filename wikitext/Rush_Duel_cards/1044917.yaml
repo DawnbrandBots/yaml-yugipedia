@@ -3,22 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ハイブリッドライブ・スクリュードライバー
   | romaji_name      = Haiburiddoraibu Sukuryūdoraibā
-  | image            = HybridriveScrewdriver-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | image            = HybridriveScrewdriver-RDKP17-JP-OP.png
+  | attribute        = LIGHT
+  | types            = Dragon / Effect
+  | level            = 7
+  | atk              = 2500
+  | def              = 1600
+  | requirement      = Place 2 [[Dragon]] [[Type]] [[Monster Card|monster]]s and 2 [[Machine]] Type monsters from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]] in any order.
+  | lore             = [[Destroy]] 1 monster on the [[field]]. Then, neither [[Duelist|player]] can [[Normal Summon|Normal]] or [[Special Summon]] monsters with the same original name as the monster destroyed by this [[effect]] [[face-up]] until the end of your opponent's next [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP006; Burst Rex of Awakening; Ultra Rare, Secret Rare, Over Rush Rare
+  | supports         = 
+  * Dragon
+  * Machine
   | archseries       = Hybridrive
-  | rush_duel_status = Not yet released
+  | action           = Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t            = Destroys Monster Cards
+  | summoning        = 
+  * Prevents Normal Summons
+  * Prevents Special Summons
+  | misc             = Turn limited effects
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

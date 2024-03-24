@@ -3,22 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ハイブリッドライブ・タスク
   | romaji_name      = Haiburiddoraibu Tasuku
-  | image            = HybridriveTusk-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | image            = HybridriveTusk-RDKP17-JP-OP.png
+  | attribute        = EARTH
+  | types            = Machine / Effect
+  | level            = 3
+  | atk              = 800
+  | def              = 700
+  | requirement      = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore             = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Hybridrive Screwdriver]]" from your Graveyard to your hand.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP004; Burst Rex of Awakening; Common
+  | mentions         = Hybridrive Screwdriver
   | archseries       = Hybridrive
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}
