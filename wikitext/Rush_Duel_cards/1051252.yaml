@@ -11,13 +11,20 @@ wikitext: |-
   | level            = 3
   | atk              = 800
   | def              = 700
-  | requirement      = You have a [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[monster]] and an [[EARTH]] Attribute [[Machine]] Type monster in your [[Graveyard]].
-  | lore             = Send the top card of your [[Main Deck|Deck]] to the Graveyard. Then, this [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a Dragon Type or Machine Type monster in [[Attack Position]].
+  | requirement      = You have a [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]] and an [[EARTH]] Attribute [[Machine]] Type monster in your [[Graveyard]].
+  | lore             = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard. Then, this [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a Dragon Type or Machine Type monster in [[Attack Position]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP003; Burst Rex of Awakening; Common
+  | supports         = 
+  * LIGHT
+  * Dragon
+  * EARTH
+  * Machine
   | archseries       = Hybridrive
+  | action           = Sends from the top of your Deck to your Graveyard
+  | summoning        = Treated as multiple Tributes
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

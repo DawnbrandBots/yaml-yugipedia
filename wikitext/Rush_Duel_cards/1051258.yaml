@@ -12,11 +12,18 @@ wikitext: |-
   | atk              = 1300
   | def              = 0
   | requirement      = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore             = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. If you sent a [[Spellcaster]] [[Type]] [[Monster Card|monster]] to the Graveyard by this [[effect]], this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[DARK]] [[Attribute]] Spellcaster Type monster in [[Attack Position]].
+  | lore             = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you sent a [[Spellcaster]] [[Type]] [[Monster Card|monster]] to the Graveyard by this [[effect]], this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[DARK]] [[Attribute]] Spellcaster Type monster in [[Attack Position]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP008; Burst Rex of Awakening; Common
+  | supports         = 
+  * Spellcaster
+  * DARK
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | summoning        = Treated as multiple Tributes
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
