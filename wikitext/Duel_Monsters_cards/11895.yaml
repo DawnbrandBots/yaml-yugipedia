@@ -9,15 +9,15 @@ wikitext: |-
   | es_name               = Dragón Megaroca
   | ja_name               = メガロック・ドラゴン
   | romaji_name           = Megarokku Doragon
-  | image                 = MegarockDragon-DR3-EN-SR-UE.jpg
+  | image                 = MegarockDragon-SGX4-NA-C-1E.png
   | attribute             = EARTH
   | types                 = Rock / Effect
+  | level                 = 7
   | atk                   = ?
   | def                   = ?
-  | level                 = 7
   | password              = 71544954
   | effect_types          = Summoning condition, Summoning condition, Unclassified
-  | lore                  = This card cannot be [[Normal Summon]]ed or [[Set]]. This card cannot be [[Special Summon]]ed except by [[Banish|removing from play]] a [[Rock]]-[[Type]] [[monster]](s) in your [[Graveyard]]. The [[original ATK and DEF]] of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.
+  | lore                  = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[banish]]ing any number of [[Rock]] [[monster]](s) from your [[GY]]. The [[original ATK and DEF|original ATK/DEF]] of this card become the number of Rock monsters banished to Special Summon it x 700.
   | fr_lore               = Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale excepté en retirant du jeu un ou plusieurs monstre(s) de Type Rocher depuis votre Cimetière. L'ATK et la DEF d'origine de cette carte deviennent le nombre de monstres de Type Rocher que vous avez retiré du jeu lorsque vous avez fait l'Invocation Spéciale de cette carte x 700 points.
   | de_lore               = Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschwören werden, außer indem Monster vom Typ Fels in deinem Friedhof aus dem Spiel entfernt werden. Die Grund-ATK und -DEF dieser Karte wird zur Anzahl der Monster vom Typ Fels, die du entfernt hast, als du diese Karte als Specialbeschwörung beschworen hattest, x 700 Punkte.
   | it_lore               = Questa carta non può essere Evocata tramite Evocazione Normale o Posizionata. Questa carta non può essere Evocata tramite Evocazione Speciale se non rimuovendo dal gioco uno o più mostri di Tipo Roccia nel tuo Cimitero. L'ATK e DEF originali di questa carta diventano il numero di mostri di Tipo Roccia che hai rimosso dal gioco quando hai Evocato tramite Evocazione Speciale questa carta x 700 punti.
@@ -72,5 +72,5 @@ wikitext: |-
   | banished              = Banishes from Graveyard for Summon
   | misc                  = Special Summon Monster
   | database_id           = 6324
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

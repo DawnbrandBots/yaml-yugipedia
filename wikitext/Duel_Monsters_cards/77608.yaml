@@ -8,12 +8,12 @@ wikitext: |-
   | es_name               = Llamada Arcana
   | ja_name               = アルカナコール
   | romaji_name           = Arukanakōru
-  | image                 = ArcanaCall-LODT-EN-C-1E.png
+  | image                 = ArcanaCall-SGX4-NA-C-1E.png
   | card_type             = Trap
   | property              = Normal
   | password              = 99189322
   | effect_types          = Effect
-  | lore                  = [[Select]] 1 "[[Arcana Force]]" [[monster]] you [[control]]. [[Banish|Remove from play]] 1 "Arcana Force" monster from either player's [[Graveyard]]. Until the [[End Phase]], the selected monster's [[effect]] becomes the removed monster's effect for the same coin toss result.
+  | lore                  = [[Target]] 1 "[[Arcana Force]]" [[monster]] you [[control]] and 1 "Arcana Force" monster in either [[GY]]; [[banish]] the second target from the GY, and if you do, until the [[End Phase]], the first target's [[effect]] gained as a result of a coin toss becomes the banished monster's effect for the same coin toss result.
   | fr_lore               = Sélectionnez 1 monstre "Force Arcane" que vous contrôlez. Retirez du jeu 1 monstre "Force Arcane" depuis un des Cimetières. Jusqu'à la End Phase, l'effet du monstre sélectionné devient l'effet du monstre retiré pour le même résultat d'un lancer de pièce.
   | de_lore               = Wähle 1 "Arkane Macht"-Monster, das du kontrollierst. Entferne 1 "Arkane Macht"-Monster im Friedhof eines beliebigen Spielers aus dem Spiel. Bis zur End Phase wird der Effekt des gewählten Monsters zum Effekt des entfernten Monsters beim selben Münzwurfergebnis.
   | it_lore               = Seleziona 1 mostro "Energia Arcana" che controlli. Rimuovi dal gioco 1 mostro "Energia Arcana" dal Cimitero di un Giocatore. Fino alla End Phase, l'effetto del mostro selezionato diventa l'effetto del mostro rimosso con lo stesso risultato del lancio della moneta.
@@ -45,5 +45,5 @@ wikitext: |-
   | stat_change           = Copies effects
   | misc                  = Variable effects
   | database_id           = 7642
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

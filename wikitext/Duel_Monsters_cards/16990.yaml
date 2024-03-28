@@ -1,6 +1,5 @@
 title: Blasting Fuse
 wikitext: |-
-  {{Unprinted erratum|the {{database link|6910|Yu-Gi-Oh! Trading Card Game - Card Database}}}}
   {{CardTable2
   | fr_name               = Disjonction
   | de_name               = Sprengsicherung
@@ -9,12 +8,12 @@ wikitext: |-
   | es_name               = Fusible Explosivo
   | ja_name               = {{Ruby|爆|ばく}}{{Ruby|導|どう}}{{Ruby|索|さく}}
   | romaji_name           = Bakudōsaku
-  | image                 = BlastingFuse-CDIP-EN-R-1E.png
+  | image                 = BlastingFuse-SGX4-NA-C-1E.png
   | card_type             = Trap
   | property              = Normal
   | password              = 99788587
   | effect_types          = Activation requirement, Effect
-  | lore                  = [[Activate]] only when all [[zone]]s of this card's [[column]] are occupied. [[Destroy]] all cards in this column.
+  | lore                  = If all [[zone]]s of this card's [[column]] are occupied, while this card is [[Set]]: [[Destroy]] all cards in this column.
   | fr_lore               = Activable uniquement lorsque toutes les zones (4) de la colonne de cette carte sont occupées. Détruisez toutes les cartes de cette colonne.
   | de_lore               = Aktiviere nur, wenn alle (4) Zonen der Spalte dieser Karte belegt sind. Zerstöre alle Karten in dieser Spalte.
   | it_lore               = Attiva questa carta solo quando tutte e 4 le zone della colonna di questa carta sono occupate. Distruggi tutte le carte in questa colonna.
@@ -55,5 +54,5 @@ wikitext: |-
   | action                = Must be Set before activation
   | misc                  = Column
   | database_id           = 6910
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

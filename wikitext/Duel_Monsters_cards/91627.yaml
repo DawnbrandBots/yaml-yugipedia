@@ -10,15 +10,15 @@ wikitext: |-
   | ja_name               = クロス・ポーター
   | romaji_name           = Kurosu Pōtā
   | sc_name               = 交叉搬运员
-  | image                 = CrossPorter-LODT-EN-C-UE.png
+  | image                 = CrossPorter-SGX4-NA-C-1E.png
   | attribute             = DARK
   | types                 = Warrior / Effect
+  | level                 = 2
   | atk                   = 400
   | def                   = 400
-  | level                 = 2
   | password              = 73146473
   | effect_types          = Ignition, Trigger
-  | lore                  = You can [[send]] 1 [[monster]] you [[control]] to the [[Graveyard]] and [[Special Summon]] 1 "[[Neo-Spacian]]" monster from your [[hand]]. When this card is sent to the Graveyard, you can [[Add a card|add]] 1 "Neo-Spacian" monster from your [[Main Deck|Deck]] to your hand.
+  | lore                  = You can [[target]] 1 [[monster]] you [[control]]; [[send]] that target to the [[GY]], and if you do, [[Special Summon]] 1 "[[Neo-Spacian]]" monster from your [[hand]]. When this card is sent to the GY: You can [[Add a card|add]] 1 "Neo-Spacian" monster from your [[Main Deck|Deck]] to your hand.
   | fr_lore               = Vous pouvez envoyer 1 monstre que vous contrôlez au Cimetière et Invoquer Spécialement 1 monstre "Néo-Spacien" depuis votre main. Lorsque cette carte est envoyée au Cimetière, vous pouvez ajouter 1 monstre "Néo-Spacien" de votre Deck à votre main.
   | de_lore               = Du kannst 1 Monster, das du kontrollierst, auf den Friedhof legen und 1 „Neo-Weltraum“-Monster als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte auf den Friedhof gelegt wird, kannst du deiner Hand 1 „Neo-Weltraum“-Monster von deinem Deck hinzufügen.
   | it_lore               = Puoi mandare 1 mostro che controlli al Cimitero per Evocare tramite Evocazione Speciale 1 mostro "Neo-Spaziale" dalla tua mano. Quando questa carta viene mandata al Cimitero, puoi aggiungere 1 mostro "Neo-Spaziale" dal tuo Deck alla tua mano.
@@ -56,5 +56,5 @@ wikitext: |-
   * Adds from Deck to hand
   | summoning             = Special Summons from your hand
   | database_id           = 7575
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}
