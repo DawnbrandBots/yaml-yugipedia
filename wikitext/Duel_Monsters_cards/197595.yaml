@@ -15,7 +15,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 58531587
   | effect_types          = Continuous-like, Quick-like
-  | lore                  = [[Level]] 4 or higher [[monster]]s cannot [[attack]] [[Direct attack|directly]]. During your [[turn]]: You can [[send]] this [[face-up]] card from the [[field]] to the [[Graveyard]] to [[target]] 2 Level 3 or lower [[WATER]] monsters with the same name in your Graveyard; [[Special Summon]] those targets. Their [[effect]]s are [[negate]]d.
+  | lore                  = [[Level]] 4 or higher [[monster]]s cannot [[Direct attack|attack directly]]. During your [[turn]]: You can [[send]] this [[face-up]] card from the [[field]] to the [[Graveyard]] to [[target]] 2 Level 3 or lower [[WATER]] monsters with the same name in your Graveyard; [[Special Summon]] those targets. Their [[effect]]s are [[negate]]d.
   | fr_lore               = Les monstres de min. Niveau 4 ne peuvent pas attaquer directement. Durant votre tour : vous pouvez envoyer cette carte face recto depuis le Terrain au Cimetière pour cibler 2 monstres EAU de max. Niveau 3 de même nom dans votre Cimetière ; Invoquez Spécialement les cibles. Leurs effets sont annulés.
   | de_lore               = Monster der Stufe 4 oder höher können nicht direkt angreifen. Während deines Spielzugs: Du kannst diese offene Karte vom Spielfeld auf den Friedhof legen, um 2 WASSER Monster der Stufe 3 oder niedriger mit demselben Namen in deinem Friedhof zu wählen; beschwöre die gewählten Ziele als Spezialbeschwörung. Ihre Effekte werden annulliert.
   | it_lore               = I mostri di Livello 4 o superiore non possono attaccare direttamente. Durante il tuo turno: puoi mandare questa carta scoperta dal Terreno al Cimitero per scegliere come bersaglio 2 mostri ACQUA di Livello 3 o inferiore con lo stesso nome nel tuo Cimitero; Evoca Specialmente quei bersagli. I loro effetti vengono annullati.
@@ -45,8 +45,6 @@ wikitext: |-
   | action                = Sends itself from field to Graveyard for cost
   | m/s/t                 = Negates the effects of the Summoned monsters
   | summoning             = Special Summons from your Graveyard
-  | attack                = 
-  * Prevents your monsters from attacking
-  * Prevents your opponent's monsters from attacking
+  | attack                = Prevents direct attacks
   | database_id           = 10289
   }}
