@@ -8,13 +8,21 @@ wikitext: |-
   | image            = MagnetThunderCharge-RDORP2-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 1 [[Rock]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Draw a card|Draw]] 2 cards. Then, if you have a [[face-up]] Rock Type monster with 3500 [[original ATK]] on your [[field]], you can [[destroy]] 1 monster on your opponent's field.
+  | requirement      = [[Send]] 1 [[Rock]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore             = [[Draw a card|Draw]] 2 cards. Then, if you have a [[face-up]] Rock Type monster on your [[field]] with 3500 [[Original ATK and DEF|original ATK]], you can [[destroy]] 1 monster on your opponent's field.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/ORP2-JP035; Over Rush Pack 2; Over Rush Rare
+  | supports         = Rock
   | archseries       = Magnet Warrior (Rush Duel)
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | m/s/t            = Destroys your opponent's Monster Cards
+  | misc             = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
