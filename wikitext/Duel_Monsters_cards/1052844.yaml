@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2600
   | def                   = 0
   | password              = 
+  | materials             = 2+ Insect, Plant, and/or Reptile monsters
   | effect_types          = Ignition, Ignition, Condition
   | lore                  = 2+ [[Insect]], [[Plant]], and/or [[Reptile]] [[monsters]]<br />You can [[banish]] up to 2 monsters from your [[GY]], then [[target]] that many [[Spells]]/[[Traps]] your opponent [[control]]s; [[destroy]] them. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you [[control]]; place it on the bottom of the [[Main Deck|Deck]], and if you do, [[Special Summon]] this card, also you cannot Special Summon for the rest of this [[turn]], except Insect, Plant, and Reptile monsters. You can only use each [[effect]] of "Raika no Kurokamitsuki" [[once per turn]].
   | fr_lore               = 
@@ -33,7 +34,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP048; The Infinite Forbidden; 
+  | supports              = 
+  * Insect
+  * Plant
+  * Reptile
   | archseries            = Raika
+  | action                = 
+  * Activates from your Graveyard
+  * Places cards from the player's field on the bottom of the Deck
+  | m/s/t                 = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
