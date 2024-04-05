@@ -97,7 +97,9 @@ wikitext: |-
   * Field Searcher
   * Signature move
   * HERO
-  | stat_change           = Your monsters gain ATK
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
   | tcg_speed_duel_status = Unlimited
   | database_id           = 6399
   }}
