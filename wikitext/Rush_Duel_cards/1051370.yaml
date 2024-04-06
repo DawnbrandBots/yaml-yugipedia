@@ -5,12 +5,13 @@ wikitext: |-
   | ja_name               = {{Ruby|不条理の虚孔|アブサード・チャージホール}}
   | romaji_name           = Abusādo Chāji Hōru
   | trans_name            = Absurd Charge Hole
-  | image                 = AbsurdVoidHole-RDORP2-JP-OP.png
+  | image                 = AbsurdVoidHole-RDORP2-JP-C.png
   | card_type             = Trap
   | property              = Normal
   | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Attack Position]] [[Cyberse]] [[Type]] monster.
   | lore                  = This [[turn]], your opponent cannot declare an attack, and your monsters cannot be [[destroyed by battle]]. You can gain [[LP]] equal to [the difference between the [[ATK]] of the attack target and the ATK of the attacking monster] x 2.
-  | ja_lore               = 
+  | ja_requirement        = 自分の攻撃表示モンスター（サイバース族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  | ja_lore               = このターン、相手は攻撃宣言できず、自分のモンスターは戦闘では破壊されない。自分は［攻撃を受けるモンスターと攻撃してきたモンスターの攻撃力の差］×２だけＬＰを回復できる。
   | jp_sets               = 
   RD/ORP2-JP021; Over Rush Pack 2; Common
   | supports              = Cyberse
@@ -21,6 +22,5 @@ wikitext: |-
   * Prevents other cards being destroyed by battle
   | life_points           = You gain Life Points
   | misc                  = Requires control of specific Type
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20102
   }}

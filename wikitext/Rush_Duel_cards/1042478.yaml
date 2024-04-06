@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = ディープスペース・ユグドラゴ
   | romaji_name           = Dīpu Supēsu Yugudorago
-  | image                 = DeepSpaceYggdrago-RDORP2-JP-OP.png
+  | image                 = DeepSpaceYggdrago-RDORP2-JP-SR.png
   | attribute             = DARK
   | types                 = Cyberse / Fusion / Effect
   | level                 = 10
@@ -16,9 +16,9 @@ wikitext: |-
   | materials             = "[[Space Yggdrago]]" + "Space Yggdrago" + "Space Yggdrago"
   | requirement           = None
   | lore                  = This card cannot be [[destroy]]ed by card [[effect]]s, and if it [[attack]]s a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). [[Face-up]] [[Level]] 7 or higher monsters on your opponent's [[field]] lose 1000 ATK.
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_materials          = 「スペース・ユグドラゴ」＋「スペース・ユグドラゴ」＋「スペース・ユグドラゴ」
+  | ja_requirement        = なし
+  | ja_lore               = このカードは効果では破壊されず、その攻撃は貫通する。相手フィールドの表側表示モンスター（レベル７以上）の攻撃力は１０００ダウンする。
   | jp_sets               = 
   RD/ORP2-JP007; Over Rush Pack 2; Super Rare, Over Rush Rare
   | mentions              = Space Yggdrago
@@ -31,6 +31,5 @@ wikitext: |-
   * Requires only specific Effect Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
   | attack                = Piercing
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20090
   }}

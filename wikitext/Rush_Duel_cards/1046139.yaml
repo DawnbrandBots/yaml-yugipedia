@@ -3,24 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ガーディアン・オブ・サイバース
-  | romaji_name      = Gādian Obu Saibāsu
-  | image            = GuardianofCyberse-RDORP2-JP-OP.png
-  | attribute        = DARK
-  | types            = Cyberse / Effect
-  | level            = 3
-  | atk              = 500
-  | def              = 500
-  | requirement      = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
-  | lore             = This [[turn]], 1 [[face-up]] [[Cyberse]] [[Type]] monster on your field gains 300 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ガーディアン・オブ・サイバース
+  | romaji_name    = Gādian Obu Saibāsu
+  | image          = GuardianofCyberse-RDORP2-JP-C.png
+  | attribute      = DARK
+  | types          = Cyberse / Effect
+  | level          = 3
+  | atk            = 500
+  | def            = 500
+  | requirement    = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
+  | lore           = This [[turn]], 1 [[face-up]] [[Cyberse]] [[Type]] monster on your field gains 300 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_requirement = 自分フィールドのモンスター１体を墓地へ送って発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター（サイバース族）１体を選ぶ。このターン、そのモンスターの攻撃力は３００アップし、相手の効果では破壊されない。
+  | jp_sets        = 
   RD/ORP2-JP014; Over Rush Pack 2; Common
-  | supports         = Cyberse
-  | action           = Sends from field to Graveyard for cost
-  | stat_change      = Your monsters gain ATK
-  | m/s/t            = Cannot be destroyed by card effects
-  | misc             = Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | supports       = Cyberse
+  | action         = Sends from field to Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = Cannot be destroyed by card effects
+  | misc           = Requires control of specific Type
+  | database_id    = 20095
   }}

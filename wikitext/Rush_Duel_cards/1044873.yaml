@@ -3,23 +3,22 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|電磁双剣|マグネット・ツイン・セイバー}}
-  | romaji_name      = Magunetto Tsuin Seibā
-  | image            = MagnetTwinSaber-RDORP2-JP-OP.png
-  | card_type        = Spell
-  | property         = Equip
-  | requirement      = [[Equip]] this card to 1 [[face-up]] [[Rock]] [[Type]] [[Monster Card|monster]] on your [[field]].
-  | lore             = The equipped monster gains 300 [[ATK]]. If the equipped monster is "[[Valkyrion the Unity Warrior]]", it can make up to 2 [[attack]]s on monsters each [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|電磁双剣|マグネット・ツイン・セイバー}}
+  | romaji_name    = Magunetto Tsuin Seibā
+  | image          = MagnetTwinSaber-RDORP2-JP-C.png
+  | card_type      = Spell
+  | property       = Equip
+  | requirement    = [[Equip]] this card to 1 [[face-up]] [[Rock]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = The equipped monster gains 300 [[ATK]]. If the equipped monster is "[[Valkyrion the Unity Warrior]]", it can make up to 2 [[attack]]s on monsters each [[turn]].
+  | ja_requirement = 自分フィールドの表側表示モンスター（岩石族）１体に装備できる。
+  | ja_lore        = 装備モンスターの攻撃力は３００アップする。装備モンスターが「結束の戦士マグネット・バルキリオン」の場合、装備モンスターは１ターンに２回までモンスターに攻撃できる。
+  | jp_sets        = 
   RD/ORP2-JP037; Over Rush Pack 2; Common
-  | mentions         = Valkyrion the Unity Warrior
-  | supports         = Rock
-  | archseries       = Magnet Warrior (Rush Duel)
-  | stat_change      = Equipped gains ATK
-  | attack           = Allows multiple attacks
-  | misc             = Equips only to a specific target
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | mentions       = Valkyrion the Unity Warrior
+  | supports       = Rock
+  | archseries     = Magnet Warrior (Rush Duel)
+  | stat_change    = Equipped gains ATK
+  | attack         = Allows multiple attacks
+  | misc           = Equips only to a specific target
+  | database_id    = 20118
   }}

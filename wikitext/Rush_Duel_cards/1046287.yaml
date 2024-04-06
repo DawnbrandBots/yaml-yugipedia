@@ -3,39 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|ＳＰ|スーパー}}グラファガス・ヴェイパーランサー
-  | romaji_name      = Sūpā Gurafagasu Veipā Ransā
-  | image            = SuperGraphagasVaporLancer-RDORP2-JP-SR.png
-  | attribute        = FIRE
-  | types            = Aqua / Fusion / Effect
-  | level            = 9
-  | atk              = 3000
-  | def              = 2500
-  | fusion_material  = 
+  | ja_name         = {{Ruby|ＳＰ|スーパー}}グラファガス・ヴェイパーランサー
+  | romaji_name     = Sūpā Gurafagasu Veipā Ransā
+  | image           = SuperGraphagasVaporLancer-RDORP2-JP-SR.png
+  | attribute       = FIRE
+  | types           = Aqua / Fusion / Effect
+  | level           = 9
+  | atk             = 3000
+  | def             = 2500
+  | fusion_material = 
   * Chromatographicus
   * Super Assistant Hiya
-  | materials        = "[[Chromatographagas]]" + "[[Super Assistant Hiya]]"
-  | requirement      = If your opponent has a [[face-up]] card on their [[field]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore             = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, your opponent [[return]]s as many face-up cards from their field to the [[owner]]'s hand as possible, up to [the number of different [[Type]]s among the [[FIRE]] [[Attribute]] [[Monster Card|monster]]s sent to the Graveyard by this [[effect]]].
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | materials       = "[[Chromatographagas]]" + "[[Super Assistant Hiya]]"
+  | requirement     = If your opponent has a [[face-up]] card on their [[field]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore            = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, your opponent [[return]]s as many face-up cards from their field to the [[owner]]'s hand as possible, up to [the number of different [[Type]]s among the [[FIRE]] [[Attribute]] [[Monster Card|monster]]s sent to the Graveyard by this [[effect]]].
+  | ja_materials    = 「クロマトグラファガス」＋「ＳＰアシスタント・ヒーヤ」
+  | ja_requirement  = 相手フィールドに表側表示のカードがある場合、手札１枚を墓地へ送って発動できる。
+  | ja_lore         = 自分のデッキの上からカード３枚を墓地へ送る。その後、相手は自身のフィールドの表側表示のカードを［この効果で墓地へ送られたモンスター（炎属性）の種族の種類］まで可能な限り選んで持ち主の手札に戻す。
+  | jp_sets         = 
   RD/ORP2-JP063; Over Rush Pack 2; Super Rare, Secret Rare
-  | mentions         = 
+  | mentions        = 
   * Chromatographagas
   * Super Assistant Hiya
-  | supports         = FIRE
-  | archseries       = Chemistry
-  | action           = 
+  | supports        = FIRE
+  | archseries      = Chemistry
+  | action          = 
   * Sends from hand to Graveyard for cost
   * Sends from the top of your Deck to your Graveyard
   * Returns from your opponent's field to your opponent's hand
-  | summoning        = 
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id     = 20137
   }}

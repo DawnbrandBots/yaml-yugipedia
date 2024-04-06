@@ -10,7 +10,8 @@ wikitext: |-
   | property              = Normal
   | requirement           = [[Send]] 1 [[Cyberse]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]], or [[shuffle]] 5 Cyberse Type monsters with different [[Level]]s from your Graveyard into the [[Main Deck|Deck]].
   | lore                  = [[Draw a card|Draw]] 2 cards. If you do, you cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of Cyberse Type monsters.
-  | ja_lore               = 
+  | ja_requirement        = 手札のモンスター（サイバース族）１体を墓地へ送るか、自分の墓地のレベルが異なるモンスター（サイバース族）５体をデッキに戻して発動できる。
+  | ja_lore               = 自分は２枚ドローする。この効果の発動後、ターン終了時まで自分はモンスター（サイバース族以外）の効果を発動できない。
   | jp_sets               = 
   RD/ORP2-JP017; Over Rush Pack 2; Ultra Rare, Secret Rare
   | supports              = Cyberse
@@ -20,6 +21,5 @@ wikitext: |-
   * Returns from Graveyard to Deck for cost
   * You draw cards
   | m/s/t                 = Prevents activation of your Effect Monsters
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20098
   }}

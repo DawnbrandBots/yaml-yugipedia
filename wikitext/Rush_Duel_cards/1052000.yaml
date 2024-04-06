@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name                = マグネ・シタデルポッド
   | romaji_name            = Magune Shitaderu Poddo
   | trans_name             = Magne Citadel Pod
-  | image                  = MagnetCitadelJar-RDORP2-JP-OP.png
+  | image                  = MagnetCitadelJar-RDORP2-JP-C.png
   | attribute              = EARTH
   | types                  = Rock / Effect
   | level                  = 8
@@ -15,8 +15,9 @@ wikitext: |-
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 3 [[Rock]] [[Type]] [[Monster Card|monster]]s.
   | requirement            = During the [[turn]] you [[Normal Summon]]ed this card the above way.
   | lore                   = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can [[Draw a card|draw]] 1 card.
-  | ja_summoning_condition = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードはモンスター（岩石族）３体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement         = 上記の方法でこのカードを召喚したターンに発動できる。
+  | ja_lore                = 相手フィールドのカード１枚を選んで破壊する。その後、自分は１枚ドローできる。
   | jp_sets                = 
   RD/ORP2-JP027; Over Rush Pack 2; Common
   | supports               = Rock
@@ -30,6 +31,5 @@ wikitext: |-
   * Destroys your opponent's Trap Cards
   | summoning              = Normal Summon with 3 Tributes
   | misc                   = Requires control of specific Type
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20108
   }}

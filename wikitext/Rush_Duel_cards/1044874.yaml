@@ -3,26 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = リパルシブ・フォース
-  | romaji_name      = Riparushibu Fōsu
-  | image            = RepulsiveForce-RDORP2-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], or when an opponent's monster [[declare]]s an [[attack]], [[shuffle]] 3 [[Rock]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Battle position change|Change]] 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = リパルシブ・フォース
+  | romaji_name    = Riparushibu Fōsu
+  | image          = RepulsiveForce-RDORP2-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], or when an opponent's monster [[declare]]s an [[attack]], [[shuffle]] 3 [[Rock]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Battle position change|Change]] 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
+  | ja_requirement = 相手がモンスターを召喚・特殊召喚した時、または相手モンスターの攻撃宣言時、自分の墓地のモンスター（岩石族）３体をデッキに戻して発動できる。
+  | ja_lore        = 相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。
+  | jp_sets        = 
   RD/ORP2-JP038; Over Rush Pack 2; Common
-  | supports         = Rock
-  | archseries       = Magnet Warrior (Rush Duel)
-  | action           = 
+  | supports       = Rock
+  | archseries     = Magnet Warrior (Rush Duel)
+  | action         = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Activates upon attack declaration
   * Returns from Graveyard to Deck for cost
   * Changes battle positions
   * Flips your opponent's monsters face-down
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20119
   }}

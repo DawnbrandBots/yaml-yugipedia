@@ -3,24 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダイスキー・ネル
-  | romaji_name      = Daisukī Neru
-  | image            = DiceKeyNel-RDORP2-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Fairy / Effect
-  | level            = 3
-  | atk              = 600
-  | def              = 1200
-  | requirement      = You have a [[face-up]] [[Monster Card|monster]] with an [[effect]] that requires a die roll on your [[field]].
-  | lore             = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's field ([[Attack Position]] becomes face-up [[Defense Position]], Defense Position becomes face-up Attack Position).
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ダイスキー・ネル
+  | romaji_name    = Daisukī Neru
+  | image          = DiceKeyNel-RDORP2-JP-C.png
+  | attribute      = LIGHT
+  | types          = Fairy / Effect
+  | level          = 3
+  | atk            = 600
+  | def            = 1200
+  | requirement    = You have a [[face-up]] [[Monster Card|monster]] with an [[effect]] that requires a die roll on your [[field]].
+  | lore           = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's field ([[Attack Position]] becomes face-up [[Defense Position]], Defense Position becomes face-up Attack Position).
+  | ja_requirement = 自分フィールドにサイコロを振る効果を持つ表側表示モンスターがいる場合に発動できる。
+  | ja_lore        = 相手フィールドのモンスター１体を選んで表示形式を変更する（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
+  | jp_sets        = 
   RD/ORP2-JP068; Over Rush Pack 2; Common, Secret Rare
-  | supports         = Die roll
-  | archseries       = Dice (series)
-  | action           = 
+  | supports       = Die roll
+  | archseries     = Dice (series)
+  | action         = 
   * Changes battle positions
   * Flips your opponent's monsters face-up
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20141
   }}

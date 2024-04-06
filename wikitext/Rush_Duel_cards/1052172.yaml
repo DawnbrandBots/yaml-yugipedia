@@ -3,26 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ラヴ・ミリオン
-  | romaji_name      = Ravu Mirion
-  | image            = LoveMillion-RDORP2-JP-SR.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Fairy]] [[Type]] monster with 0 [[Original ATK and DEF|original ATK]].
-  | lore             = The attacking monster loses 1,000,000 [[ATK]] until the end of this [[turn]]. Then, if you have a face-up monster with 0 [[DEF]] on your [[field]], the attack target gains 100 ATK until the end of this turn.
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ラヴ・ミリオン
+  | romaji_name    = Ravu Mirion
+  | image          = LoveMillion-RDORP2-JP-SR.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Fairy]] [[Type]] monster with 0 [[Original ATK and DEF|original ATK]].
+  | lore           = The attacking monster loses 1,000,000 [[ATK]] until the end of this [[turn]]. Then, if you have a face-up monster with 0 [[DEF]] on your [[field]], the attack target gains 100 ATK until the end of this turn.
+  | ja_requirement = 元々の攻撃力が０の自分の表側表示モンスター（天使族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  | ja_lore        = 攻撃してきたモンスターの攻撃力はターン終了時まで１００万ダウンする。自分フィールドに表側表示モンスター（守備力０）がいる場合、さらに攻撃を受けるモンスターの攻撃力はターン終了時まで１００アップする。
+  | jp_sets        = 
   RD/ORP2-JP053; Over Rush Pack 2; Super Rare, Secret Rare
-  | supports         = Fairy
-  | archseries       = Love
-  | action           = Activates if targeted for an attack
-  | stat_change      = 
+  | supports       = Fairy
+  | archseries     = Love
+  | action         = Activates if targeted for an attack
+  | stat_change    = 
   * Your opponent's monsters lose ATK
   * Your monsters gain ATK
-  | misc             = 
+  | misc           = 
   * Requires control of specific Type
   * Requires control of specific ATK
   * Requires control of specific DEF
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20132
   }}
