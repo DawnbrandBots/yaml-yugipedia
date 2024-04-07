@@ -3,22 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = サイバースパイス・クイーンシナモン
   | romaji_name      = Saibāsupaisu Kuīn Shinamon
-  | image            = CybersepiceQueenCinnamon-OW.png
+  | image            = CybersepiceQueenCinnamon-RDKP17-JP-OP.png
   | attribute        = FIRE
-  | types            = Cyberse / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | types            = Cyberse / Fusion / Effect
+  | level            = 9
+  | atk              = 2800
+  | def              = 2500
+  | fusion_material  = 
+  * Cybersepice Cinnamon
+  * Cybersepice Hotpot
+  | materials        = "[[Cybersepice Cinnamon]]" + "[[Cybersepice Hotpot]]"
+  | requirement      = [[Shuffle]] 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = Each [[Duelist|player]] [[excavate]]s the top 2 cards of their [[Main Deck|Deck]]. Then, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the total [[Level]]s of the excavated monsters] x 100. Each player places their excavated cards on the top of their Deck in any order.
+  | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP046; Burst Rex of Awakening; Rare
+  | mentions         = 
+  * Cybersepice Cinnamon
+  * Cybersepice Hotpot
   | archseries       = Cybersepice
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Excavates from the player's Deck
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

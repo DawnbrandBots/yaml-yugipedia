@@ -3,22 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = サイバースパイス・ホットポット
   | romaji_name      = Saibāsupaisu Hottopotto
-  | image            = CybersepiceHotpot-OW.png
+  | image            = CybersepiceHotpot-RDKP17-JP-OP.png
   | attribute        = FIRE
-  | types            = Cyberse / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | types            = Cyberse / Effect
+  | level            = 1
+  | atk              = 100
+  | def              = 100
+  | requirement      = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card.
+  | lore             = [[Add a card|Add]] 1 [[Level]] 7 or higher [[FIRE]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]] or 1 "[[Spice Cross Mix]]" from your [[Graveyard]] to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP013; Burst Rex of Awakening; Common
+  | mentions         = Spice Cross Mix
+  | supports         = 
+  * FIRE
+  * Cyberse
   | archseries       = Cybersepice
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  | fm_for           = Cybersepice Queen Cinnamon
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

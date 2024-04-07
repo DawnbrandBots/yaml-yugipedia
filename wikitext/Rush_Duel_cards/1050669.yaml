@@ -3,22 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
-  | ja_name          = ウィトクロース・デメテル
-  | romaji_name      = Witokurōsu Demeteru
-  | image            = WheatclothDemeter-OW.png
-  | attribute        = FIRE
-  | types            = Cyberse / Effect
-  | level            = 7
-  | atk              = 2200
-  | def              = 0
-  | requirement      = (TBA)
-  | lore             = (TBA)
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  | ja_name               = ウィトクロース・デメテル
+  | romaji_name           = Witokurōsu Demeteru
+  | image                 = WheatclothDemeter-RDKP17-JP-OP.png
+  | attribute             = FIRE
+  | types                 = Cyberse / Effect
+  | level                 = 7
+  | atk                   = 2200
+  | def                   = 0
+  | requirement           = During a [[turn]] you have not [[Special Summon]]ed a [[Monster Card|monster]] from the [[Graveyard]].
+  | lore                  = Your opponent [[excavate]]s the top 2 cards of their [[Main Deck|Deck]]. You can Special Summon 1 monster with a [[Level]] equal to or lower than [the total Levels of the excavated monsters] from your Graveyard [[face-up]] to your [[field]]. Your opponent places the excavated cards on the top of their Deck in any order.
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
+  RD/KP17-JP017; Burst Rex of Awakening; Rare
   | related_to_archseries = Cybersepice
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action                = 
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  | summoning             = Special Summons from your Graveyard
+  | fm_for                = Cybersepice Curry Bread Pandora Drapery
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

@@ -3,22 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = サイバースパイス・ターメリック
   | romaji_name      = Saibāsupaisu Tāmerikku
-  | image            = CybersepiceTurmeric-OW.png
+  | image            = CybersepiceTurmeric-RDKP17-JP-OP.png
   | attribute        = FIRE
   | types            = Cyberse / Effect
   | level            = 2
   | atk              = 600
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | def              = 900
+  | requirement      = You have 10 or more cards in your [[Main Deck|Deck]] and have a [[face-up]] [[FIRE]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]] other than this card on your [[field]].
+  | lore             = [[Look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[Draw a card|draw]] 1 card.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP015; Burst Rex of Awakening; Rare
+  | supports         = 
+  * FIRE
+  * Cyberse
   | archseries       = Cybersepice
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Reveals face-down cards
+  * You draw cards
+  | misc             = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

@@ -3,19 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = スパイスクロース・ミックス
-  | romaji_name      = Supaisukurōsu Mikkusu
-  | image            = SpiceCrossMix-OW.png
-  | card_type        = ???
-  | property         = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | romaji_name      = Supaisu Kurōsu Mikkusu
+  | image            = SpiceCrossMix-RDKP17-JP-OP.png
+  | card_type        = Spell
+  | property         = Normal
+  | requirement      = None
+  | lore             = [[Fusion Summon]] by [[send]]ing [[FIRE]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]]s from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]]. Then, you can place 1 card from your opponent's Graveyard on top of their [[Main Deck|Deck]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP055; Burst Rex of Awakening; Rare
+  | supports         = 
+  * FIRE
+  * Cyberse
   | archseries       = Cybersepice
+  | action           = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  | summoning        = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc             = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
