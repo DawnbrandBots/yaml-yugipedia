@@ -30,8 +30,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP073; The Infinite Forbidden; 
+  | supports            = 
+  * FIRE
+  * Dragon
   | archseries          = Sangen
   | supports_archetypes = Tenpai Dragon
+  | action              = 
+  * Ends the Main Phase
+  * Activates from your Graveyard
+  * You draw cards
+  | summoning           = Special Summons from your hand
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 200
   | password            = 
   | effect_types        = Trigger, Condition, Ignition
-  | lore                = If this card is Normal Summoned: You can add 1 Level 4 or lower FIRE Dragon monster from your Deck to your hand. You can only use this effect of "Dora Draco" once per turn. Once per turn: You can excavate the top card of your Deck, and if it is a FIRE Dragon monster, send it to the GY, and if you do, this card gains 1000 ATK for each "Dora Draco" you currently control. Otherwise, place the excavated card on the bottom of the Deck.
+  | lore                = If this card is [[Normal Summon]]ed: You can [[add]] 1 [[Level]] 4 or lower [[FIRE]] [[Dragon]] [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. You can only use this [[effect]] of "Dora Draco" [[once per turn]]. Once per [[turn]]: You can [[excavate]] the top card of your Deck, and if it is a FIRE Dragon monster, [[send]] it to the [[GY]], and if you do, this card gains 1000 [[ATK]] for each "Dora Draco" you currently [[control]]. Otherwise, place the excavated card on the bottom of the Deck.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,8 +33,22 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP028; The Infinite Forbidden; 
-  | database_id         = 
+  | mentions            = Dora Draco
+  | supports            = 
+  * FIRE
+  * Dragon
   | related_to_archseries = Tenpai Dragon
+  | action              = 
+  * Activates upon Normal Summon
+  * Adds from Deck to hand
+  * Excavates from the player's Deck
+  * Sends excavated cards to the Graveyard
+  * Places excavated cards on the bottom of the Deck
+  | stat_change         = This card gains ATK
+  | misc                = 
+  * Only once per turn
+  * Limited activations
+  | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
   }}
