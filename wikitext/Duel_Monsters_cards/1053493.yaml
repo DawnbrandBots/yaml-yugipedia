@@ -33,8 +33,24 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP016; The Infinite Forbidden; 
+  | supports              = Synchro Monster
   | archseries            = White Woods
   | supports_archetypes   = White Woods
+  | action                = 
+  * Activates from your hand
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  * Activates from your Graveyard
+  * Returns from your field to your Extra Deck
+  * Returns from your Graveyard to your Extra Deck
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

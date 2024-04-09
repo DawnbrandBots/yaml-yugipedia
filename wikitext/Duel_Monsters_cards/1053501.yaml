@@ -30,8 +30,17 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP058; The Infinite Forbidden; 
+  | supports            = 
+  * Illusion
+  * Spellcaster
   | archseries          = White Woods
   | supports_archetypes = White Woods
+  | action              = 
+  * Activates if sent to the Graveyard
+  * Sets itself from your Graveyard
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

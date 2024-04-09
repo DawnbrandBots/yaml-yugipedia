@@ -34,9 +34,25 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP039; The Infinite Forbidden; Rare
+  | supports              = 
+  * LIGHT
+  * Spellcaster
+  * Illusion
+  * Synchro Monster
   | archseries            = White Woods
   | supports_archetypes   = White Woods
   | related_to_archseries = Sinful Spoils
+  | action                = 
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Adds from Deck to hand
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

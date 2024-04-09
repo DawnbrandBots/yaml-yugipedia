@@ -33,8 +33,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP013; The Infinite Forbidden; 
+  | supports              = 
+  * LIGHT
+  * Spellcaster
+  * Tuner monster
   | archseries            = White Woods
   | related_to_archseries = Diabellstar
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons itself from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
