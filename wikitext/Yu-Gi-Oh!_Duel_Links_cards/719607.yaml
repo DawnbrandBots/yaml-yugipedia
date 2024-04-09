@@ -1,0 +1,29 @@
+title: Skiel Guard (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | image                 = SkielGuard-DULI-EN-VG.png
+  | attribute             = WIND
+  | types                 = Machine / Effect
+  | atk                   = 200
+  | def                   = 300
+  | level                 = 1
+  | rarity                = SR
+  | number                = 3668
+  | lore                  = If there is no [[face-up]] "[[Meklord Emperor]]" [[Monster Card|monster]] on the [[field]], [[destroy]] this card. [[Once per turn]], when a monster you [[control]] is targeted for an attack: You can [[negate]] the attack.
+  | ja_lore               = フィールド上に「機皇帝」と名のついたモンスターが存在しない場合、このカードは破壊される。１ターンに１度、自分のモンスターが攻撃対象に選択された時に発動できる。その攻撃を無効にする。
+  | releases              = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=level_up|Aporia (Duel Links)|Level 33}}
+  {{Duel Links release table|type=level_up|Aporia (Duel Links)|Level 18}}
+  {{Duel Links release table|type=level_up|Aporia (Duel Links)|Level 7}}
+  {{Duel Links release table/footer}}
+  | supports_archetypes   = Meklord Emperor
+  | anti-supports_archetypes = Meklord Emperor
+  | related_to_archseries = Meklord
+  | action                = Activates upon attack declaration
+  | m/s/t                 = Destroys itself
+  | attack                = Negates attacks
+  | misc                  = 
+  * Requires control of specific archetype
+  * Limited activations
+  }}

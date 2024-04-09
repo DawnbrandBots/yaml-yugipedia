@@ -1,0 +1,26 @@
+title: Wisel Guard (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | image                 = WiselGuard-DULI-EN-VG.png
+  | attribute             = DARK
+  | types                 = Machine / Effect
+  | atk                   = 0
+  | def                   = 1200
+  | level                 = 1
+  | rarity                = R
+  | number                = 3663
+  | effect_types          = Continuous, Trigger
+  | lore                  = If there is no [[face-up]] "[[Meklord Emperor]]" on the [[field]], [[destroy]] this card. When an opponent's [[Monster Card|monster]] declares an attack that targets another monster you [[control]]: You can change the [[attack target]] to this card.
+  | ja_lore               = フィールド上に「機皇帝」と名のついたモンスターが存在しない場合、このカードは破壊される。自分のモンスターを攻撃対象とした相手モンスターの攻撃宣言時に発動できる。攻撃対象をこのカードに移し替える。
+  | releases              = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=level_up|Primo (Duel Links)|Level 33}}
+  {{Duel Links release table|type=level_up|Primo (Duel Links)|Level 21}}
+  {{Duel Links release table|type=level_up|Primo (Duel Links)|Level 10}}
+  {{Duel Links release table/footer}}
+  | supports_archetypes   = Meklord Emperor
+  | related_to_archseries = Meklord
+  | action                = Activates upon attack declaration
+  | m/s/t                 = Destroys itself
+  | attack                = Changes attack targets
+  }}
