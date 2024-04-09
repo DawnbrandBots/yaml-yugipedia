@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Ignition, Trigger, Condition
-  | lore                  = You can [[discard]] this card; [[Special Summon]] 1 [[Insect]], [[Plant]], or [[Reptile]] [[monster]] from your [[hand]]. If this card is [[banish]]ed from the hand or [[GY]]: You can [[activate]] this [[effect]]; during the [[End Phase]] of this [[turn]], [[Draw a card|draw]] cards equal to the number of Insect, Plant, and Reptile monsters you control with different Types. You can only use each effect of "Raika no Himejanome" [[once per turn]].
+  | lore                  = You can [[discard]] this card; [[Special Summon]] 1 [[Insect]], [[Plant]], or [[Reptile]] [[monster]] from your [[hand]]. If this card is [[banish]]ed from the hand or [[GY]]: You can [[activate]] this [[effect]]; during the [[End Phase]] of this [[turn]], [[Draw a card|draw]] cards equal to the number of different Monster Types among the monsters you control that are Insect, Plant, or Reptile. You can only use each effect of "Raika no Himejanome" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -37,7 +37,7 @@ wikitext: |-
   * Insect
   * Plant
   * Reptile
-  | archseries            = Raika
+  | archseries            = Ragnaraika
   | action                = 
   * Activates from your hand
   * Discards itself for cost
