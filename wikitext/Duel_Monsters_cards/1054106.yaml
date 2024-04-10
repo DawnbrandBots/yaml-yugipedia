@@ -13,7 +13,7 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 银河眼时空源龙
   | image                 = GalaxyEyesTachyonPrimal-DP29-JP-OP.png
   | attribute             = LIGHT
   | types                 = Dragon / Effect
@@ -30,9 +30,17 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 
   | ko_lore               = 
-  | sc_lore               = 
+  | sc_lore               = 此卡名的①②效果１回合仅可各使用１次。①：在自己・对手回合中，场上存在龙族超量怪兽的情况下可以发动。从手牌将此卡特殊召唤至自己或对手场上。②：此卡召唤・特殊召唤的情况下发动。此卡原本的持有者从自身的牌组将１张“时空”魔法・陷阱卡加入手牌。③：自己或对手的龙族超量怪兽的攻击宣言时发动。将场上的此卡作为该怪兽的超量素材。
   | jp_sets               = 
   DP29-JP001; Duelist Pack: Duelists of Brilliance; Ultra Rare, Secret Rare
+  | sc_sets               = 
+  DP29-SC001; Duelist Pack: Duelists of Brilliance; 
+  | supports              = 
+  * Dragon
+  * Xyz Monster
+  | anti-supports         = 
+  * Dragon
+  * Xyz Monster
   | archseries            = 
   * Galaxy
   * Galaxy-Eyes
@@ -44,6 +52,20 @@ wikitext: |-
   * Number
   * Number (Spell/Trap archetype)
   * Number 10X
+  | action                = 
+  * Activates upon attack declaration
+  * Attaches itself from your field as Xyz Material
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your hand to your opponent's field
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

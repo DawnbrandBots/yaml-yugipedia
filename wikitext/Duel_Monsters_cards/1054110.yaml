@@ -13,7 +13,7 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 无限龙 史瓦西
   | image                 = SchwarzschildInfinityDragon-DP29-JP-OP.png
   | attribute             = DARK
   | types                 = Dragon / Effect
@@ -30,10 +30,28 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 
   | ko_lore               = 
-  | sc_lore               = 
+  | sc_lore               = 此卡名的效果１回合仅可使用１次，发动此效果的回合中，自己从额外牌组仅可特殊召唤龙族超量怪兽。①：自己场上不存在怪兽的情况下，或对手场上存在攻击力２０００以上的怪兽的情况下可以发动。从手牌将此卡特殊召唤，从牌组将“无限龙 史瓦西”以外的１只光・暗属性的龙族・等级８怪兽以守备表示特殊召唤。以此效果从牌组特殊召唤的怪兽的效果无效化。
   | jp_sets               = 
   DP29-JP003; Duelist Pack: Duelists of Brilliance; 
+  | sc_sets               = 
+  DP29-SC003; Duelist Pack: Duelists of Brilliance; 
+  | mentions              = Schwarzschild Infinity Dragon
+  | supports              = 
+  * LIGHT
+  * DARK
+  * Dragon
+  * Xyz Monster
   | related_to_archseries = Tachyon
+  | action                = Activates from your hand
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                  = 
+  * Requires control of no monsters
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

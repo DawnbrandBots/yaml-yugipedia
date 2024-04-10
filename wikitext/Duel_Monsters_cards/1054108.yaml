@@ -13,7 +13,7 @@ wikitext: |-
   | trans_name            = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 时空云笼
   | image                 = TachyonCloudragon-DP29-JP-OP.png
   | attribute             = LIGHT
   | types                 = Dragon / Effect
@@ -30,9 +30,15 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 
   | ko_lore               = 
-  | sc_lore               = 
+  | sc_lore               = 此卡名的①②③效果１回合仅可各使用１次。①：用抽牌以外的方法将此卡加入手牌的情况下可以发动。将此卡特殊召唤。②：解放此卡可以发动。从自己的牌组・墓地将“时空云笼”以外的１只“时空”怪兽特殊召唤。③：此卡存在于手牌・墓地，且自己将龙族超量怪兽特殊召唤的情况下，以其中１只为对象可以发动。将此卡作为该怪兽的超量素材。
   | jp_sets               = 
   DP29-JP002; Duelist Pack: Duelists of Brilliance; Rare
+  | sc_sets               = 
+  DP29-SC002; Duelist Pack: Duelists of Brilliance; 
+  | mentions              = Tachyon Cloudragon
+  | supports              = 
+  * Dragon
+  * Xyz Monster
   | archseries            = Tachyon
   | supports_archetypes   = Tachyon
   | related_to_archseries = 
@@ -43,6 +49,21 @@ wikitext: |-
   * Number
   * Number (Spell/Trap archetype)
   * Number 10X
+  | action                = 
+  * Activates from your hand
+  * Tributes itself for cost
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Attaches itself from your Graveyard as Xyz Material
+  * Attaches itself from your hand as Xyz Material
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

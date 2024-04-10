@@ -13,7 +13,7 @@ wikitext: |-
   | trans_name            = Tachyon Spiral of Annihilation
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 歼灭的快子时空螺旋
   | image                 = TachyonSpiralofDestruction-DP29-JP-OP.png
   | card_type             = Spell
   | property              = Quick-Play
@@ -27,9 +27,13 @@ wikitext: |-
   | es_lore               = 
   | ja_lore               = 
   | ko_lore               = 
-  | sc_lore               = 
+  | sc_lore               = ①：可从以下效果中选择１个发动（此卡名的以下效果１回合仅可各选择１次）。●自己场上存在“银河”超量怪兽的情况下可以发动。将对手场上效果被无效化的表侧表示卡全部破坏。●以自己墓地“歼灭的快子时空螺旋”以外的１张“时空”卡为对象可以发动。将该卡加入手牌。●以自己墓地的１只龙族“编号”怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。
   | jp_sets               = 
   DP29-JP005; Duelist Pack: Duelists of Brilliance; 
+  | sc_sets               = 
+  DP29-SC005; Duelist Pack: Duelists of Brilliance; 
+  | mentions              = Tachyon Spiral of Destruction
+  | supports              = Dragon
   | archseries            = 
   * Signature move
   * Tachyon
@@ -43,6 +47,17 @@ wikitext: |-
   * Number 10X
   * Galaxy-Eyes
   * Galaxy-Eyes Tachyon Dragon
+  | action                = Adds from Graveyard to hand
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

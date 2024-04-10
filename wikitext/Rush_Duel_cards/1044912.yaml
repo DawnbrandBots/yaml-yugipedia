@@ -3,21 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ケミスペット・インコ
   | romaji_name      = Kemisupetto Inko
-  | image            = ChemispetParakeet-OW.png
+  | image            = ChemispetParakeet-RDKP17-JP-OP.png
   | attribute        = FIRE
-  | types            = Pyro / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | types            = Pyro / Effect
+  | level            = 1
+  | atk              = 600
+  | def              = 0
+  | requirement      = If you have no other [[monsters]] on your [[field]], [[reveal]] 1 [[Pyro]], [[Aqua]], or [[Thunder]] [[Type]] monster in your [[hand]].
+  | lore             = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 Pyro, Aqua, or Thunder Type monster from among the cards sent, with the same [[Level]] as [the Level of the monster revealed to meet the requirement].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP009; Burst Rex of Awakening; Rare
   | archseries       = Chemistry
   | rush_duel_status = Not yet released
   | database_id      = 
