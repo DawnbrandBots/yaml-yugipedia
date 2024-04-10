@@ -17,7 +17,9 @@ wikitext: |-
   | level                 = 10
   | atk                   = 3000
   | def                   = 1700
+  | fusion_material       = Veidos the Eruption Dragon of Extinction
   | password              = 
+  | materials             = "Veidos the Eruption Dragon of Extinction" + 2 or more Level 9 or lower Pyro-Type monsters
   | effect_types          = Continuous, Trigger, Quick, Condition
   | lore                  = "[[Veidos the Eruption Dragon of Extinction]]" + 2+ [[Level]] 9 or lower [[Pyro]] [[monsters]]<br />Cannot be [[destroy]]ed by card [[effect]]s, also your opponent cannot [[target]] it with [[monster effect]]s. If this card is [[Fusion Summon]]ed: You can destroy all [[Spells]] and [[Traps]] your opponent [[control]]s. When your opponent [[activate]]s a card or effect on the [[field]] ([[Quick Effect]]): You can [[send]] 1 [[face-up]] "[[Ashened]]" card you control to the [[GY]]; destroy that card. You can only use this effect of "Veidos the Dragon of Endless Darkness" once per turn.
   | fr_lore               = 
@@ -41,7 +43,25 @@ wikitext: |-
   | sp_sets               = 
   LEDE-SP092; Legacy of Destruction; Ultra Rare, Quarter Century Secret Rare
   | mentions              = Veidos the Eruption Dragon of Extinction
+  | supports              = Pyro
   | supports_archetypes   = Ashened
+  | action                = 
+  * Activates upon Fusion Summon
+  * Sends from field to Graveyard for cost
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Cannot be targeted by card effects
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  | summoning             = 
+  * 3+ Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
