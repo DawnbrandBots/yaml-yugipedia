@@ -91,6 +91,41 @@ wikitext: |-
 
   The Trap Cards play further into the use of "Tecuhtlica" as a defensive threat as "[[Mementotlan Cranium Burst]]" forces the opponent to only attack the "Memento" monster with the highest ATK on your field and uses the stats of "Tecuhtlica" as fuel to [[Negate|negate]] monster effects once per chain at the cost of 1000 ATK and DEF from "Tecuhtlica". In comparison, "[[Mementotlan Fracture Dance]]" is able to destroy cards on the field as well as reduce the stats of the opponent's monsters.
 
+  === Sample combos ===
+  "Memento" combos usually aim to Summon "[[Mementoal Tecuhtlica - Combined Creation]]" and setup additional forms of interaction, either by the archetype's own cards ("[[Mementotlan Fracture Dance]]" and "[[Mementotlan Cranium Burst]]"), or by cards that take make use of the Deck's ability to create card advantage (i.e. "[[I:P Masquerena]]", "[[Guardian Chimera]]").
+
+  The below combo aims to setup the following:
+  # Summon "[[Mementoal Tecuhtlica - Combined Creation]]" to use "[[Mementotlan Cranium Burst]]" and "[[Mementotlan Mace]]" to both negate the opponent's monsters, as well as take control of one of them.
+  # Use "[[I:P Masquerena]]" to [[Link Summon]] either "[[S:P Little Knight]]" or "[[Apollousa, Bow of the Goddess]]" (using a monster that "Mace" took control of) during the opponent's turn, while also preventing it from being destroyed by card effects.
+  # Prevent the opponent from attacking the player's other monsters with "Cranium Burst".
+  # Create follow-up for the next turn by re-Summoning "[[Mementotlan Angwitch]]" with "Tecuhtlica" or "[[Mementomictlan]]".
+
+  {{Combo steps
+  | opening = "[[Mementotlan Dark Blade]]"
+  | end     = "[[Mementoal Tecuhtlica - Combined Creation]]", "[[Mementotlan Cranium Burst]]", "[[I:P Masquerena]]", and "[[Mementotlan Angwitch]]" on the field + "[[Mementotlan Mace]]" in hand
+  | steps = 
+  # Normal Summon "[[Mementotlan Dark Blade]]".
+  # Activate "Dark Blade" to destroy itself and Special Summon "[[Mementotlan Angwitch]]" from the Deck.
+  # Activate "Angwitch" to seach "[[Mementotlan Tatsunootoshigo]]".
+  # Activate "Tatsunootoshigo" to Special Summon itself.
+  # Activate "Tatsunootoshigo" to destroy itself and send "[[Mementotlan Ghattic]]", "[[Mementotlan Mace]]" and "[[Mementotlan Goblin]]" from the Deck to the GY.
+  # Activate "Ghattic" to Special Summon itself.
+  # Activate "Ghattic" to return "Tatsunootoshigo" from GY to hand.
+  # Activate "Angwitch" to destroy "Ghattic" and Summon "Mace" from the GY.
+  # Activate "Mace" to destroy itself and search "[[Mementotlan Fusion]]".
+  # Activate "Fusion" to Fusion Summon "[[Mementotlan Twin Dragon]]" by shuffling "Dark Blade" and "Mace" from the GY into the Deck.
+  # Activate "Twin Dragon" to destroy "Tatsunootoshigo" and search "[[Mementotlan-Horned Dragon]]" and "Mementotlan Mace".
+  # Special Summon "Horned Dragon" from the hand with its own procedure.
+  # Activate "Fusion" from the GY by banishing itself to destroy "Twin Dragon" and search "[[Mementomictlan]]".
+  # Activate "Twin Dragon" to Special Summon "Goblin" from the GY.
+  # Activate "Mementomictlan".
+  # Activate "Goblin" to destroy "Horned Dragon" and send "[[Mementoal Tecuhtlica - Combined Creation]]" and "[[Mementotlan Cranium Burst]]" from the Deck to the GY.
+  # Activate "Mementomictlan" to Special Summon any "Memento" monster from the GY.
+  # Link Summon "[[I:P Masquerena]]" by using that monster and "Goblin".
+  # Special Summon "Tecuhtlica" with its own procedure by shuffling "Ghattic", "Mace", "Horned Dragon", "Twin Dragon" and "Tatsunootoshigo" from the GY into the Decks.
+  # During the End Phase, activate "Mementomictlan" to set "Cranium Burst" from the GY.
+  }}
+
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
