@@ -3,21 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel        = true
   | ja_name          = ダークマター・エニグマータ
   | romaji_name      = Dākumatā Enigumāta
-  | image            = DarkMatterEnigmata-OW.png
+  | image            = DarkMatterEnigmata-RDKP17-JP-OP.png
   | attribute        = DARK
   | types            = Galaxy / Fusion / Effect
   | level            = 9
   | atk              = 0
   | def              = 0
-  | requirement      = (TBA)
-  | lore             = (TBA)
+  | effect_types     = Continuous
+  | fusion_material  = Dark Matter Mist
+  | materials        = "[[Dark Matter Mist]]" + "Dark Matter Mist"
+  | requirement      = None
+  | lore             = This card gains [[ATK]] equal to [the total [[original ATK]] of the [[monsters]] used as [[material]] for its [[Fusion Summon]]]. If you have a [[face-down]] monster on your [[field]], this card cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/KP17-JP0??; Burst Rex of Awakening;
+  RD/KP17-JP048; Burst Rex of Awakening; Super Rare, Secret Rare
+  | mentions         = Dark Matter Mist
   | archseries       = Dark Matter (series)
   | rush_duel_status = Not yet released
   | database_id      = 
