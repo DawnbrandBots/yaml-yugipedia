@@ -42,8 +42,18 @@ wikitext: |-
   | sp_sets               = 
   LEDE-SP084; Legacy of Destruction; Common
   | mentions              = Multi-Universe
+  | supports              = Field Spell Card
+  | anti-supports         = Field Spell Card
   | action                = 
+  * Activates if other cards leave the field
+  * Activates from your hand
+  * Returns the player's banished cards to the Deck
+  * Returns from your Graveyard to your Deck
+  | m/s/t                 = Cannot be destroyed by card effects
   | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons the player's banished monsters
+  * Special Summons from your Graveyard
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released

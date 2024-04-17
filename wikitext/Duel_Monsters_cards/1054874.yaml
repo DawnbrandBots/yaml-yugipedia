@@ -38,8 +38,18 @@ wikitext: |-
   LEDE-PT086; Legacy of Destruction; Super Rare
   | sp_sets               = 
   LEDE-SP086; Legacy of Destruction; Super Rare
-  | supports              = 
+  | supports              = Field Spell Card
+  | anti-supports         = Field Spell Card
   | action                = 
+  * Places cards from your Graveyard in your Field Zone
+  * Places cards from your opponent's Graveyard in your Field Zone
+  * Places your banished cards in your Field Zone
+  * Places your opponent's banished cards in your Field Zone
+  | m/s/t                 = 
+  * Destroys itself
+  * Redirects destruction
+  * Prevents other cards being destroyed by card effects
+  | banished              = Banishes itself from Graveyard
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released

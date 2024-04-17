@@ -18,6 +18,7 @@ wikitext: |-
   | atk                   = 2900
   | def                   = 2400
   | password              = 
+  | materials             = 2 Pyro-Type monsters
   | effect_types          = Trigger, Trigger, Condition
   | lore                  = 2 [[Pyro]] [[monsters]]<br />If this card is [[Fusion Summon]]ed: You can [[target]] 1 [[Field Spell]] in your [[GY]]; [[Add a card|add]] it to your [[hand]]. At the start of the [[Damage Step]], if this card [[battle]]s an opponent's Pyro monster: You can [[destroy]] that opponent's monster, and if it is your [[turn]], this card can make a second [[attack]] in a row. You can only use each [[effect]] of "Embers of the Ashened" [[once per turn]].
   | fr_lore               = 
@@ -40,7 +41,18 @@ wikitext: |-
   LEDE-PT093; Legacy of Destruction; Super Rare
   | sp_sets               = 
   LEDE-SP093; Legacy of Destruction; Super Rare
+  | supports              = 
+  * Pyro
+  * Field Spell Card
+  | anti-supports         = Pyro
   | archseries            = Ashened
+  | action                = Adds from Graveyard to hand
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack                = Multiple attacker
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -37,7 +37,26 @@ wikitext: |-
   LEDE-PT095; Legacy of Destruction; Common
   | sp_sets               = 
   LEDE-SP095; Legacy of Destruction; Common
+  | supports              = 
+  * DARK
+  * Pyro
+  * Fusion Monster
   | archseries            = Ashened
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the hand as Fusion Materials
+  | summoning             = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
