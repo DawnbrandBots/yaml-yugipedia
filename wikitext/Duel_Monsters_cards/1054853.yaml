@@ -12,11 +12,11 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = Back-EN.png
+  | image                 = BattleguardEchoes-LEDE-EN-SR-1E.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 74213995
-  | effect_types          = 
+  | effect_types          = Effect, Trigger, Condition
   | lore                  = When this card is [[Activate|activated]]: You can [[Add a card|add]] 1 [[Level]] 5 [[EARTH]] [[Warrior]] monster from your [[Main Deck|Deck]] to your [[hand]], then [[discard]] 1 card. [[Once per turn]], if a monster(s) is returned from the [[field]] to the hand, even during the [[Damage Step]]: You can activate 1 of these effects;<br />● Add 1 "[[Battleguard Rage]]" or "[[Battleguard Howling]]" from your Deck to your hand.<br />● Change 1 [[face-up]] monster on the field to [[face-down]] [[Defense Position]].<br />You can only activate 1 "Battleguard Echoes" per turn.
   | fr_lore               = 
   | de_lore               = 
@@ -45,7 +45,6 @@ wikitext: |-
   * Battleguard Rage
   * Battleguard Howling
   | archseries            = Battleguard
-  | supports_archetypes   = Battleguard
   | action                = 
   * Adds from Deck to hand
   * You discard as an effect
@@ -53,5 +52,6 @@ wikitext: |-
   * Changes battle positions
   | misc                  = Only once per turn
   | database_id           = 
+  | tcg_status            = Not yet released
   | ocg_status            = Not yet released
   }}
