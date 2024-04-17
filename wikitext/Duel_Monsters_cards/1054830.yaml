@@ -41,8 +41,19 @@ wikitext: |-
   | sp_sets               = 
   LEDE-SP090; Legacy of Destruction; Super Rare
   | mentions              = Obsidim, the Ashened City
+  | supports              = Pyro
   | archseries            = Ashened
   | supports_archetypes   = Ashened
+  | action                = 
+  * Returns the player's banished cards to the Deck
+  * Returns from your Graveyard to your Deck
+  * Adds from Deck to hand
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

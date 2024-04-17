@@ -41,14 +41,26 @@ wikitext: |-
   LEDE-PT081; Legacy of Destruction; Super Rare
   | sp_sets               = 
   LEDE-SP081; Legacy of Destruction; Super Rare
+  | mentions              = 
+  * Pyrite Knight
+  * Pyrite Token
+  | supports              = 
+  * Warrior
+  * EARTH
+  * FIRE
   | action                = 
   * Activates from your hand
   * Activates from your Graveyard
+  * Returns from your field to your hand
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons itself from your Graveyard
-  * Special Summons Tokens
-  | misc                  = Only once per turn
+  * Special Summons Tokens to your opponent's field
+  * Special Summons from your hand
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
