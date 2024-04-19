@@ -14,21 +14,21 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = GalaxyWarDrake-VJMP-JP-OP.png
+  | image               = GalaxyWarDrake-VJMP-JP-UR.png
   | attribute           = LIGHT
   | types               = Dragon / Effect
   | level               = 4
   | atk                 = 1500
   | def                 = 1000
-  | password            = 
+  | password            = 19316241
   | effect_types        = Trigger, Ignition, Condition
-  | lore                = If a [[Level]] 4 [[LIGHT]] [[monster]](s) is [[Special Summon]]ed to your [[field]]: You can [[Special Summon]] this card from your [[hand]] or [[GY]], but [[banish]] it when it [[leaves the field]]. You can [[target]] 1 other Level 4 LIGHT monster you [[control]]; the Levels of both that monster and this card become 8 until the end of this [[turn]]. You can only use each [[effect]] of "Galaxy War Drake" [[once per turn]], and cannot Special Summon the turn you activate either effect, except LIGHT monsters.
+  | lore                = If a [[Level]] 4 [[LIGHT]] [[monster]](s) is [[Special Summon]]ed to your [[field]] (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[hand]] or [[GY]], but [[banish]] it when it [[leaves the field]]. You can [[target]] 1 other Level 4 LIGHT monster you [[control]]; the Levels of both that monster and this card become 8 until the end of this [[turn]]. You can only use each [[effect]] of "Galaxy War Drake" [[once per turn]], also you cannot Special Summon the turn you activate either of this card's effects, except LIGHT monsters.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果を発動するターン、自分は光属性モンスターしか特殊召喚できない。①：自分フィールドに光属性・レベル４モンスターが特殊召喚された場合に発動できる。このカードを手札・墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：自分フィールドの他の光属性・レベル４モンスター１体を対象として発動できる。そのモンスターとこのカードのレベルをターン終了時まで８にする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -51,7 +51,6 @@ wikitext: |-
   * Requires control of specific Level
   * Requires control of specific Attribute
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20276
   | tcg_status          = Not yet released
   }}
