@@ -12,13 +12,21 @@ wikitext: |-
   | atk              = 100
   | def              = 100
   | requirement      = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Dice Key Ribbon]]" or [[LIGHT]] [[Attribute]] [[monster]] with an [[effect]] that requires a die roll to your hand. Place the remaining cards on the bottom of your Deck in any order.
+  | lore             = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Dice Key Ribbon]]" or 1 excavated [[LIGHT]] [[Attribute]] [[Monster Card|monster]] with an [[effect]] that requires a die roll to your hand. Place the remaining cards on the bottom of your Deck in any order.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP010; Burst Rex of Awakening; Super Rare, Secret Rare
   | mentions         = Dice Key Ribbon
+  | supports         = 
+  * LIGHT
+  * Die roll
   | archseries       = Dice (series)
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
