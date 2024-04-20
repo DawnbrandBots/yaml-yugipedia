@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Center, Bottom-Right
   | atk                   = 2300
   | password              = 
-  | materials             = 3+ Effect Monsters
+  | materials             = 2+ Effect Monsters, including a "Madolche" monster
   | effect_types          = Trigger, Ignition, Condition
   | lore                  = 2+ [[Effect Monster]]s, including a "[[Madolche]]" [[monster]]<br />If this card is [[Link Summon]]ed: You can [[Add a card|add]] 1 "Madolche" card from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 monster in your [[GY]]; you cannot [[activate]] non-"Madolche" monster effects for the rest of this [[turn]], also [[Special Summon]] 1 "Madolche" monster from your hand, and if you do, [[shuffle]] that target into the Deck. You can only use each effect of "Madolche Mewgnard Meowcaron" [[once per turn]].
   | fr_lore               = 
@@ -35,6 +35,17 @@ wikitext: |-
   INFO-JP050; The Infinite Forbidden; 
   | archseries            = Madolche
   | supports_archetypes   = Madolche
+  | action                = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  * Returns from your Graveyard to your Deck
+  | m/s/t                 = Prevents activation of your Effect Monsters
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

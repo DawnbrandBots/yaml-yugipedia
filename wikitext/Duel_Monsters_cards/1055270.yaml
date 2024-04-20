@@ -20,6 +20,7 @@ wikitext: |-
   | atk                 = 3400
   | def                 = 3000
   | password            = 
+  | materials           = 1 Level 8 LIGHT Dragon-Type monster + 1 Level 8 DARK Dragon-Type monster
   | effect_types        = Summoning condition, Continuous, Quick, Trigger
   | lore                = 1 [[Level]] 8 [[LIGHT]] [[Dragon]] [[monster]] + 1 Level 8 [[DARK]] Dragon monster<br />Must be [[Fusion Summon]]ed. While [[face-up]] on the [[field]], this card is also [[DARK]]-[[Attribute]]. Once per [[Chain]], when a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d ([[Quick Effect]]): This card loses exactly 1000 [[ATK]]/[[DEF]], and if it does, [[negate]] the activation. If this card in its owner's [[possess]]ion is destroyed by an opponent's card: You can [[target]] 1 Dragon monster in your [[GY]]; [[Special Summon]] it.
   | fr_lore             = 
@@ -33,6 +34,26 @@ wikitext: |-
   | jp_sets             = 
   INFO-JP034; The Infinite Forbidden; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   INFO-JP034; Infinite Forbidden +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports            = 
+  * LIGHT
+  * Dragon
+  * DARK
+  | action              = Activates if destroyed
+  | stat_change         = 
+  * This card loses ATK
+  * This card loses DEF
+  * Treated as multiple Attributes
+  | m/s/t               = 
+  * Negates the activation of Effect Monster's effect
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Nomi
+  * Special Summons from your Graveyard
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

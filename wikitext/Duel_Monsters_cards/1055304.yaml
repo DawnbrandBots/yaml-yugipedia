@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Right
   | atk                   = 3000
   | password              = 
-  | materials             = 
+  | materials             = 2 monsters, including a "Vaalmonica" Link Monster
   | effect_types          = Continuous, Continuous, Quick
   | lore                  = 2 [[monsters]], including a "[[Vaalmonica]]" [[Link Monster]]<br />[[Unaffected]] by non-"Vaalmonica" cards' effects while 6 or more [[Resonance Counter]]s are on your [[field]]. This card gains 1 additional [[attack]] each [[Battle Phase]] for each [[Level]] 4 "Vaalmonica" monster you [[control]]. [[Once per turn]], when your opponent would [[Special Summon]] a monster(s) (Quick Effect): You can [[negate]] the Summon, and if you do, [[destroy]] that monster(s), then remove 3 Resonance Counters from your field.
   | fr_lore               = 
@@ -34,8 +34,28 @@ wikitext: |-
   | jp_sets               = 
   INFO-JP049; The Infinite Forbidden; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   INFO-JP049; Infinite Forbidden +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports              = Link Monster
   | archseries            = Vaalmonica
   | supports_archetypes   = Vaalmonica
+  | counter               = 
+  * Resonance Counter
+  * Removes counters
+  | m/s/t                 = 
+  * Unaffected by Monster Cards
+  * Unaffected by Spell Cards
+  * Unaffected by Trap Cards
+  * Destroys Monster Cards
+  * Destroys negated Summons
+  | summoning             = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  * Requires Link Monsters as Link Materials
+  * Negates Special Summons
+  | attack                = Multiple attacker
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific archetype
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

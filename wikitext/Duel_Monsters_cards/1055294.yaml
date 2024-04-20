@@ -29,8 +29,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP077; The Infinite Forbidden; 
+  | supports            = Xyz Monster
   | archseries          = Madolche
   | supports_archetypes = Madolche
+  | anti-supports_archetypes = Madolche
+  | action              = 
+  * Returns from field to hand
+  * Returns from field to Extra Deck
+  * Activates from your Graveyard
+  * Attaches itself from your Graveyard as Xyz Material
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Extra Deck
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

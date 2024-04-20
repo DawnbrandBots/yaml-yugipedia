@@ -33,7 +33,25 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP012; The Infinite Forbidden; 
+  | supports            = Dragon
   | archseries          = Armed Dragon
+  | action              = 
+  * Activates upon Special Summon
+  * Activates if sent to the Graveyard
+  | stat_change         = 
+  * Changes own Attribute
+  * Changes own Level
+  * Your monsters gain ATK
+  | m/s/t               = 
+  * Prevents activation of Effect Monsters
+  * Prevents activation of Spell Cards
+  * Prevents activation of Trap Cards
+  * Prevents responding to its activation
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
