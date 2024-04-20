@@ -17,7 +17,7 @@ wikitext: |-
   * Dark Matter Mist
   | materials        = "[[Dark Matter Knight]]" + "[[Dark Matter Mist]]"
   | requirement      = None
-  | lore             = This card cannot be [[destroy]]ed by your opponent's card [[effect]]s. All [[face-up]] [[Level]] 7-9 [[monsters]] on your opponent's [[field]] lose [[ATK]] equal to [the number of [[face-down]] monsters on your field] x 1000.
+  | lore             = This card cannot be [[destroy]]ed by your opponent's card [[effect]]s. All [[face-up]] [[Level]] 7-9 [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]] equal to [the number of [[face-down]] monsters on your field] x 1000.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -27,6 +27,12 @@ wikitext: |-
   * Dark Matter Knight
   * Dark Matter Mist
   | archseries       = Dark Matter (series)
+  | stat_change      = Your opponent's monsters lose ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

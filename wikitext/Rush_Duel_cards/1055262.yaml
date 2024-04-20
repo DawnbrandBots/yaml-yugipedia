@@ -12,13 +12,17 @@ wikitext: |-
   | level            = 3
   | atk              = 1200
   | def              = 1000
-  | requirement      = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 4 [[monsters]] with 1000 [[DEF]] from your [[Graveyard]] into the Deck, except monsters with 1200 [[ATK]].
+  | requirement      = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 4 [[Monster Card|monster]]s with 1000 [[DEF]] from your [[Graveyard]] into the Deck, except monsters with 1200 [[ATK]].
   | lore             = [[Draw a card|Draw]] 1 card. Then, increase this card's [[Level]] by 2 until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP031; Burst Rex of Awakening; Common
-  | archseries        = Monarch (Rush Duel series)
+  | archseries       = Monarch (Rush Duel series)
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * You draw cards
+  | stat_change      = This card gains Levels
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

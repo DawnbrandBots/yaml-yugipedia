@@ -11,8 +11,8 @@ wikitext: |-
   | level            = 5
   | atk              = 1800
   | def              = 1300
-  | requirement      = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed, [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card's name becomes "[[Dark Matter Mist]]" this [[turn]]. Then, you can add 1 "[[Dark Matter Craydoll]]" or 1 "[[Dark Matter Lockdoll]]" from your Graveyard to your [[hand]].
+  | requirement      = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card, [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = This card's name becomes "[[Dark Matter Mist]]" this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Dark Matter Craydoll]]" or 1 "[[Dark Matter Lockdoll]]" from your Graveyard to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -22,6 +22,12 @@ wikitext: |-
   * Dark Matter Craydoll
   * Dark Matter Lockdoll
   | archseries       = Dark Matter (series)
-  | rush_duel_status = Not yet released
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change      = Treated as alternate name
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

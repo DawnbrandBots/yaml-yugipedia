@@ -11,9 +11,9 @@ wikitext: |-
   | level            = 10
   | atk              = 3000
   | def              = 3000
-  | materials        = "[[Blue-Eyes White Dragon (Rush Duel)|Blue-Eyes White Dragon]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[monster]]
+  | materials        = "[[Blue-Eyes White Dragon (Rush Duel)|Blue-Eyes White Dragon]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]]
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card gains 500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have "[[Engine of Destruction]]" in your Graveyard, you can [[destroy]] 1 monster on your opponent's field.
+  | lore             = This card gains 500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have "[[Engine of Destruction]]" in your Graveyard, you can [[destroy]] 1 monster on your opponent's [[field]].
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -22,7 +22,20 @@ wikitext: |-
   | mentions         = 
   * Blue-Eyes White Dragon (Rush Duel)
   * Engine of Destruction
+  | supports         = 
+  * LIGHT
+  * Dragon
   | archseries       = Blue-Eyes (Rush Duel)
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = This card gains ATK
+  | m/s/t            = Destroys your opponent's Monster Cards
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc             = Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

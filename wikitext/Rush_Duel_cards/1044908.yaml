@@ -15,7 +15,7 @@ wikitext: |-
   | fusion_material  = Dark Matter Mist
   | materials        = "[[Dark Matter Mist]]" + "Dark Matter Mist"
   | requirement      = None
-  | lore             = This card gains [[ATK]] equal to [the total [[original ATK]] of the [[monsters]] used as [[material]] for its [[Fusion Summon]]]. If you have a [[face-down]] monster on your [[field]], this card cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | lore             = This card gains [[ATK]] equal to [the total [[Original ATK and DEF|original ATK]] of the [[Monster Card|monster]]s used as [[material]] for its [[Fusion Summon]]]. If you have a [[face-down]] monster on your [[field]], this card cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -23,6 +23,12 @@ wikitext: |-
   RD/KP17-JP048; Burst Rex of Awakening; Super Rare, Secret Rare
   | mentions         = Dark Matter Mist
   | archseries       = Dark Matter (series)
-  | rush_duel_status = Not yet released
+  | stat_change      = This card gains ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
   | database_id      = 
+  | rush_duel_status = Not yet released
   }}

@@ -13,12 +13,15 @@ wikitext: |-
   | def              = 1300
   | effect_types     = Continuous
   | requirement      = None
-  | lore             = This card gains [[ATK]] equal to [the total number of [[face-up]] [[Fusion Monster]]s on your [[field]] and [[face-down]] monsters on your field] x 500.
+  | lore             = This card gains [[ATK]] equal to [the total number of [[face-up]] [[Fusion Monster]]s on your [[field]] and [[face-down]] [[Monster Card|monster]]s on your field] x 500.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP025; Burst Rex of Awakening; Common
+  | supports         = Fusion Monster
   | archseries       = Dark Matter (series)
+  | stat_change      = This card gains ATK
+  | fm_for           = Dark Matter Enigknight Sieger
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

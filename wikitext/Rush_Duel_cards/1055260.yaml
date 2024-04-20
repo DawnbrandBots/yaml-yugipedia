@@ -12,7 +12,7 @@ wikitext: |-
   | atk              = 800
   | def              = 1000
   | requirement      = [[Send]] up to 2 cards from your [[field]] to the [[Graveyard]].
-  | lore             = [[Shuffle]] [[monsters]] from your opponent's Graveyard into the [[Main Deck|Deck]] equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can [[Add a card|add]] 1 "[[Advance Impact]]" or 1 "[[Emperor Realm]]" from your Graveyard to your [[hand]].
+  | lore             = [[Shuffle]] [[Monster Card|monster]]s from your opponent's Graveyard into the [[Main Deck|Deck]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]]. Then, you can [[Add a card|add]] 1 "[[Advance Impact]]" or 1 "[[Emperor Realm]]" from your Graveyard to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -20,7 +20,11 @@ wikitext: |-
   | mentions         = 
   * Advance Impact
   * Emperor Realm
-  | related_to_archseries = Monarch (Rush Duel series)
+  | archseries       = Monarch (Rush Duel series)
+  | action           = 
+  * Sends from field to Graveyard for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Adds from Graveyard to hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

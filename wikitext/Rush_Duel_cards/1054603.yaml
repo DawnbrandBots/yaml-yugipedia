@@ -9,7 +9,7 @@ wikitext: |-
   | card_type        = Spell
   | property         = Normal
   | requirement      = None
-  | lore             = 1 [[face-up]] "[[Dark Matter Enigmata]]" or "[[Dark Matter Enigknight Sieger]]" on your [[field]] gains [[ATK]] equal to [the [[original ATK]] of the face-up monster with the highest original ATK on your opponent's field] until the end of this [[turn]].
+  | lore             = 1 [[face-up]] "[[Dark Matter Enigmata]]" or 1 face-up "[[Dark Matter Enigknight Sieger]]" on your [[field]] gains [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the face-up [[Monster Card|monster]] with the highest original ATK on your opponent's field] until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -18,6 +18,8 @@ wikitext: |-
   * Dark Matter Enigmata
   * Dark Matter Enigknight Sieger
   | archseries       = Dark Matter (series)
+  | stat_change      = Your monsters gain ATK
+  | misc             = Requires control of specific card
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

@@ -8,13 +8,21 @@ wikitext: |-
   | image            = DarkMatterStorm-RDKP17-JP-OP.png
   | card_type        = Spell
   | property         = Normal
-  | requirement      = [[Send]] 2 [[face-down]] [[monsters]] from your [[field]] to the [[Graveyard]].
-  | lore             = [[Destroy]] all [[Spell]]/[[Trap Card]]s on your opponent's [[field]]. You can only [[attack]] with [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]]s this [[turn]].
+  | requirement      = [[Send]] 2 [[face-down]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]].
+  | lore             = [[Destroy]] all [[Spell Card|Spell]]/[[Trap Card]]s on your opponent's field. You can only [[attack]] with [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]]s this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP056; Burst Rex of Awakening; Rare
+  | supports         = 
+  * DARK
+  * Galaxy (Type)
   | archseries       = Dark Matter (series)
+  | action           = Sends from field to Graveyard for cost
+  | m/s/t            = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | attack           = Prevents your monsters from attacking
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

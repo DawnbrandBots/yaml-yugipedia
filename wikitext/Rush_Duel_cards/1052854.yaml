@@ -5,13 +5,18 @@ wikitext: |-
   | image            = MagePower-RDSJMP-JP-OP.png
   | card_type        = Spell
   | property         = Equip
-  | requirement      = [[Equip]] this card to 1 [[face-up]] [[monster]] on your [[field]].
-  | lore             = The equipped monster gains [[ATK]]/[[DEF]] equal to [the number of [[Spell]]/[[Trap Card]]s on your field] x 500.
+  | requirement      = [[Equip]] this card to 1 [[face-up]] [[Monster Card|monster]] on your [[field]].
+  | lore             = The equipped monster gains [[ATK]]/[[DEF]] equal to [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your field] x 500.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/SJMP-JP039; Saikyō Jump June 2024 promotional card; Normal Parallel Rare
-  | misc             = Legend Card
+  | stat_change      = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | misc             = 
+  * Legend Card
+  * Equips only to a specific target
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
