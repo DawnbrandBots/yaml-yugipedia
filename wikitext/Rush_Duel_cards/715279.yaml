@@ -12,7 +12,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = [[Send]] 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Normal Monster]] from your [[field]] to the [[Graveyard]].
-  | lore           = [[Special Summon]] 1 EARTH Attribute Machine Type [[Effect Monster]] from your Graveyard face-up to your field. This [[turn]], you can only [[attack]] with the monster Special Summoned by this [[effect]].
+  | lore           = [[Special Summon]] 1 EARTH Attribute Machine Type [[Effect Monster]] from your Graveyard face-up to your field. This [[turn]], you can only [[attack]] with the [[Monster Card|monster]] Special Summoned by this [[effect]].
   | fr_requirement = Envoyez 1 Monstre Normal de Type Machine possédant l'Attribut TERRE face recto depuis votre Terrain au Cimetière.
   | fr_lore        = Invoquez Spécialement 1 Monstre à Effet de Type Machine possédant l'Attribut TERRE depuis votre Cimetière face recto sur votre Terrain. Ce tour, vous pouvez uniquement attaquer avec le monstre Invoqué Spécialement par cet effet.
   | de_requirement = Lege 1 offenes Normales Monster des Typs Maschine mit der Eigenschaft ERDE von deiner Spielfeldseite auf den Friedhof.
@@ -32,15 +32,16 @@ wikitext: |-
   RD/KP04-KR046; Deck Mod Pack: Destined Power Destruction!!; Common
   RD/SD02-KR026; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
   | supports       = 
-  * Normal Monster
   * EARTH
   * Machine
+  * Normal Monster
+  * Effect Monster
   | action         = Sends from field to Graveyard for cost
   | summoning      = Special Summons from your Graveyard
   | attack         = Prevents your monsters from attacking
   | misc           = 
-  * Requires control of specific Monster type
   * Requires control of specific Attribute
   * Requires control of specific Type
+  * Requires control of specific Monster type
   | database_id    = 16168
   }}
