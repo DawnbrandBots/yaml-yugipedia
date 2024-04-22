@@ -20,7 +20,7 @@ wikitext: |-
   | password              = 
   | materials             = 2 monsters with different names
   | effect_types          = 
-  | lore                  = 2 [[monsters]] with different names<br />You can [[banish]] 1 monster from your [[face-up]] [[field]] or [[Graveyard|GY]] with 2000 or less [[ATK]], then [[target]] 1 face-up monster on the field; make its ATK become equal to the [[original ATK and DEF|original ATK]] of the monster banished to [[activate]] this [[effect]] (until the end of this [[turn]]), then if you banished a monster that was originally [[Reptile]], [[Draw a card|draw]] 1 [[card]]. You can only use this effect of "Haggard Lizardose" [[once per turn]].
+  | lore                  = 2 [[monsters]] with different names<br />You can [[banish]] 1 monster from your [[face-up]] [[field]] or [[Graveyard|GY]] with 2000 or less [[ATK]], then [[target]] 1 face-up monster on the field; make its ATK become equal to the [[original ATK and DEF|original ATK]] of the monster banished to [[activate]] this [[effect]] (until the end of this [[turn]]), then if you banished a monster that was originally [[Reptile]], [[Draw a card|draw]] 1 card. You can only use this effect of "Haggard Lizardose" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,8 +41,15 @@ wikitext: |-
   LEDE-PT089; Legacy of Destruction; Common
   | sp_sets               = 
   LEDE-SP089; Legacy of Destruction; Common
-  | action                = 
+  | supports              = Reptile
+  | action                = You draw cards
+  | stat_change           = Changes ATK value
   | summoning             = 
+  * 2 Link Materials
+  * Requires monsters with different names as Link Materials
+  | banished              = 
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
   | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
