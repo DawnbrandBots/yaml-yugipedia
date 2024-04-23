@@ -30,8 +30,20 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP075; The Infinite Forbidden; 
+  | supports              = Link Monster
   | archseries            = Vaalmonica
   | supports_archetypes   = Vaalmonica
+  | counter               = 
+  * Resonance Counter
+  * Places counters
+  | action                = 
+  * Activates upon Special Summon
+  * Activates if sent to the Graveyard
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Performs a Link Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
