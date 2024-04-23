@@ -11,8 +11,8 @@ wikitext: |-
   | ja_name             = {{Ruby|竜騎士|センチュリオン}}アトリィ
   | romaji_name         = Senchurion Atoryi
   | trans_name          = Centurion Atry
-  | base_romaji_name      = Ryūkishi Atoryi
-  | base_trans_name       = Dragon Knight Atry
+  | base_romaji_name    = Ryūkishi Atoryi
+  | base_trans_name     = Dragon Knight Atry
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
@@ -39,6 +39,15 @@ wikitext: |-
   | supports_archetypes = 
   * Centur-Ion
   * Emblema
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * You draw cards
+  | stat_change         = Treats itself as a non-Tuner monster
+  | summoning           = 
+  * Restricts the player's Special Summons
+  * Special Summons itself from your Spell & Trap Zone
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -32,6 +32,19 @@ wikitext: |-
   INFO-JP063; The Infinite Forbidden; 
   | archseries            = Emblema
   | supports_archetypes   = Centur-Ion
+  | action                = 
+  * Activates if destroyed while Set
+  * Activates while banished
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  | m/s/t                 = Treats monsters as Continuous Trap Cards
+  | banished              = 
+  * Banishes from field for cost
+  * Banishes from your opponent's field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
