@@ -19,7 +19,7 @@ wikitext: |-
   | level               = 1
   | atk                 = 0
   | def                 = 0
-  | password            = 
+  | password            = 84079032
   | effect_types        = Trigger, Trigger
   | lore                = Up to thrice per [[turn]], if your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s): You can [[target]] 1 of them; toss a coin and if the result is heads, change it to [[face-up]] [[Attack Position]], or if the result is tails, change it to [[face-down]] [[Defense Position]]. [[Once per turn]], if a monster(s) on the [[field]] is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, while this card is in the [[Monster Zone]], even during the [[Damage Step]]: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.
   | fr_lore             = 
@@ -32,6 +32,19 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP030; The Infinite Forbidden; Common
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Flips your opponent's monsters face-down
+  * Activates upon being flipped face-up
+  * Activates upon being flipped face-down
+  * Flips monsters face-up
+  * Flips monsters face-down
+  | misc                = 
+  * Limited activations
+  * Coin toss
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

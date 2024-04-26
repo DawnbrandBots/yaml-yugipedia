@@ -8,15 +8,16 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = ＢＢＳ
-  | romaji_name           = 
+  | ja_name               = {{Ruby|ＢＢＳ|ビー・バック・サイト}}
+  | romaji_name           = Bī Bakku Saito
+  | trans_name            = Be Back Site
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
   | image                 = BBSBeBackSite-INFO-JP-NR.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 97223101
   | effect_types          = Trigger-like, Continuous-like, Trigger-like, Lingering
   | lore                  = Each time a card or [[effect]] is activated, except "BBS - Be Back Site": You can place 1 [[Access Counter]] on this card (max. 10). [[Monsters]] you [[control]] gain 100 [[ATK]] for each Access Counter on this card. If the 10th Access Counter is placed on this card: You can [[return]] this card to the hand, and if you do, [[Set]] 1 [[Continuous Trap]] directly from your [[Main Deck|Deck]] with an effect that [[Special Summon]]s itself as a monster. It can be activated this turn.
   | fr_lore               = 
@@ -29,6 +30,17 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP067; The Infinite Forbidden; Normal Rare
+  | mentions              = BBS - Be Back Site
+  | supports              = Continuous Trap Card
+  | related_to_archseries = Trap Monster
+  | counter               = 
+  * Access Counter
+  * Places counters on itself
+  | action                = 
+  * Returns itself from field to hand
+  * Sets from your Deck
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = Allows activation of Trap Cards the turn they were Set
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

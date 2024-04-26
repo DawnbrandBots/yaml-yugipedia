@@ -17,7 +17,7 @@ wikitext: |-
   | image                 = InterdimensionalMatterTranslocator-INFO-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 60238002
   | effect_types          = Ignition-like, Trigger-like, Continuous-like, Condition
   | lore                  = You can [[target]] 1 [[monster]] on the [[field]]; [[banish]] it, then [[return]] it to the field. If your opponent [[activate]]s a card or [[effect]]: You can target 1 [[face-up]] monster whose effects are [[negate]]d; banish it, then return it to the field. Before resolving an opponent's card effect that targets this face-up card, banish this card until the [[End Phase]] of the next [[turn]]. You can only use each effect of "Interdimensional Matter Translocator" [[once per turn]].
   | fr_lore               = 
@@ -30,6 +30,11 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   INFO-JP066; The Infinite Forbidden; Common
+  | action                = Returns banished cards to the field
+  | banished              = 
+  * Banishes from field
+  * Banishes itself from field
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

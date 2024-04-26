@@ -19,7 +19,7 @@ wikitext: |-
   | level               = 2
   | atk                 = 100
   | def                 = 100
-  | password            = 
+  | password            = 10474647
   | effect_types        = Ignition, Trigger, Continuous, Trigger
   | lore                = If this is the only card in your [[hand]]: You can [[Special Summon]] this card. If Summoned this way: Its [[ATK]] becomes 2500 until the end of your opponent's turn. If this card [[battle]]s an opponent's [[monster]], you take any [[battle damage]] your opponent would have taken from that battle, instead. If you take damage from a battle involving this card: Change its ATK to 0, then, if your LP are 2000 or less, its ATK becomes 5000.
   | fr_lore             = 
@@ -32,6 +32,16 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   INFO-JP031; The Infinite Forbidden; Normal Rare
+  | action              = 
+  * Activates from your hand
+  * Activates upon Special Summon
+  * Activates if you take battle damage
+  | stat_change         = Changes own ATK value
+  | summoning           = Special Summons itself from your hand
+  | life_points         = 
+  * Prevents battle damage
+  * You take battle damage
+  | misc                = Requires specific LP
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
