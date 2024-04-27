@@ -27,7 +27,7 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = ①：手札がこのカード１枚のみの場合に発動できる。このカードを特殊召喚する。②：このカードの①の効果で特殊召喚した場合に発動する。このカードの攻撃力は相手ターン終了時まで２５００になる。③：このカードが相手モンスターと戦闘を行う場合、その戦闘で発生する相手への戦闘ダメージは代わりに自分が受ける。④：このカードの戦闘で自分がダメージを受けた場合に発動する。このカードの攻撃力は０になる。その後、自分のＬＰが２０００以下の場合、このカードの攻撃力は５０００になる。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -42,7 +42,6 @@ wikitext: |-
   * Prevents battle damage
   * You take battle damage
   | misc                = Requires specific LP
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20210
   | tcg_status          = Not yet released
   }}

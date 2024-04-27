@@ -20,7 +20,7 @@ wikitext: |-
   | level               = 3
   | atk                 = 800
   | def                 = 1000
-  | password            = 
+  | password            = 50042011
   | effect_types        = Quick, Trigger, Trigger, Condition
   | lore                = If a [[monster]](s) in your [[possess]]ion was destroyed by card [[effect]] this [[turn]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Fusion Summon]] 1 "[[Memento]]" [[Fusion Monster]] from your [[Extra Deck]], using monsters from your hand or [[field]] as [[material]]. If this card is [[destroyed by battle]] or card effect: You can [[send]] 1 "Memento" card from your [[Main Deck|Deck]] to the [[GY]], except "Mementotlan Mystical Sheep". You can only use each [[effect]] of "Mementotlan Mystical Sheep" [[once per turn]].
   | fr_lore             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分のモンスターが効果で破壊された自分・相手ターンに発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚した場合に発動できる。自分の手札・フィールドのモンスターを融合素材とし、「メメント」融合モンスター１体を融合召喚する。③：このカードが戦闘・効果で破壊された場合に発動できる。デッキから「メメント・スリーピィ」以外の「メメント」カード１枚を墓地へ送る。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  INFO-JP020; The Infinite Forbidden; 
+  INFO-JP020; The Infinite Forbidden; Common
   | mentions            = Mementotlan Mystical Sheep
   | supports            = Fusion Monster
   | archseries          = Memento
@@ -53,7 +53,6 @@ wikitext: |-
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20199
   | tcg_status          = Not yet released
   }}

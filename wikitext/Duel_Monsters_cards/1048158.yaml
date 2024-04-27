@@ -13,13 +13,13 @@ wikitext: |-
   | base_romaji_name      = Kizamareshi Ma no Eisei
   | trans_name            = Demonsmith Tractus
   | base_trans_name       = Carved Demon's Holy Hymn
-  | ko_name               = 데먼스미스 트락투스
+  | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
   | image                 = FiendsmithTractus-INFO-JP-R.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 98567237
   | effect_types          = Effect, Ignition-like, Condition
   | lore                  = [[Add a card|Add]] 1 [[LIGHT]] [[Fiend]] [[monster]] from your [[Main Deck|Deck]] to your [[hand]], then [[discard]] 1 card. You can [[banish]] this card from your [[GY]]; [[Fusion Summon]] 1 "[[Fiendsmith]]" [[Fusion Monster]] from your [[Extra Deck]], using monsters from your hand or [[field]] as [[material]]. You can only use each [[effect]] of "Fiendsmith Tractus" [[once per turn]].
   | fr_lore               = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
-  | ko_lore               = 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 덱에서 악마족 / 빛 속성 몬스터 1장을 패에 넣는다. 그 후, 자신의 패를 1장 고르고 버린다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. 자신의 패 / 필드의 몬스터를 융합 소재로 하여, "데먼스미스" 융합 몬스터 1장을 융합 소환한다.
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから悪魔族・光属性モンスター１体を手札に加える。その後、自分の手札を１枚選んで捨てる。②：墓地のこのカードを除外して発動できる。自分の手札・フィールドのモンスターを融合素材とし、「デモンスミス」融合モンスター１体を融合召喚する。
+  | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  INFO-JP061; The Infinite Forbidden; 
+  INFO-JP061; The Infinite Forbidden; Rare
   | supports              = 
   * LIGHT
   * Fiend
@@ -51,7 +51,6 @@ wikitext: |-
   * Special Summons from your Extra Deck
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20240
   | tcg_status            = Not yet released
   }}

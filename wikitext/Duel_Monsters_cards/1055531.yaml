@@ -22,7 +22,7 @@ wikitext: |-
   | level               = 4
   | atk                 = 1800
   | def                 = 1400
-  | password            = 
+  | password            = 96030710
   | effect_types        = Unclassified, Condition, Trigger, Quick-like
   | lore                = If this card you [[control]] would be used as [[Synchro Material]], you can treat it as a non-[[Tuner]]. You can only use each of the following [[effect]]s of "Centur-Ion Atry" [[once per turn]]. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed and you have an "[[Emblema]]" card and a "[[Centur-Ion]]" card in your [[GY]]: You can [[Draw a card|draw]] 1 card, also you cannot Special Summon "Centur-Ion Atry" for the rest of this [[turn]]. During the [[Main Phase]], if this card is a [[Continuous Trap]]: You can [[Special Summon]] this card.
   | fr_lore             = 
@@ -30,11 +30,12 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、「エンブレーマ」カードと「センチュリオン」カードがそれぞれ自分の墓地に存在していれば発動できる。自分は１枚ドローする。このターン、自分は「竜騎士アトリィ」を特殊召喚できない。②：自分フィールドのこのカードをＳ素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。③：このカードが永続罠カード扱いの場合、自分・相手のメインフェイズに発動できる。このカードを特殊召喚する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  INFO-JP021; The Infinite Forbidden; 
+  INFO-JP021; The Infinite Forbidden; Super Rare, Secret Rare, Quarter Century Secret Rare
+  INFO-JP021; Infinite Forbidden +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | archseries          = Centur-Ion
   | supports_archetypes = 
   * Centur-Ion
@@ -48,7 +49,6 @@ wikitext: |-
   * Restricts the player's Special Summons
   * Special Summons itself from your Spell & Trap Zone
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20200
   | tcg_status          = Not yet released
   }}

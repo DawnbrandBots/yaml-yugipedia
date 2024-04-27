@@ -17,7 +17,7 @@ wikitext: |-
   | image                 = MansionoftheUnderworldDolls-INFO-JP-C.png
   | card_type             = Spell
   | property              = Field
-  | password              = 
+  | password              = 36890111
   | effect_types          = Effect, Continuous-like, Ignition-like, Condition
   | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Gimmick Puppet]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. "Gimmick Puppet" monsters you [[control]] cannot be [[destroyed by battle]], also they are [[unaffected]] by your opponent's activated non-[[Xyz Monster|Xyz]] [[monster effect]]s. [[Once per turn]]: You can [[detach]] 1 Xyz Material from a monster you control, then [[target]] 1 "Gimmick Puppet" monster in your [[GY]]; [[Special Summon]] it to your opponent's [[field]] in [[Defense Position]]. You can only activate 1 "Mansion of the Underworld Dolls" per turn.
   | fr_lore               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「ギミック・パペット」モンスター１体を手札に加える事ができる。②：自分フィールドの「ギミック・パペット」モンスターは戦闘では破壊されず、Ｘモンスター以外の相手モンスターが発動した効果を受けない。③：１ターンに１度、自分フィールドのＸ素材を１つ取り除き、自分の墓地の「ギミック・パペット」モンスター１体を対象として発動できる。そのモンスターを相手フィールドに守備表示で特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  INFO-JP056; The Infinite Forbidden; 
+  INFO-JP056; The Infinite Forbidden; Common
   | supports              = Xyz Monster
   | supports_archetypes   = Gimmick Puppet
   | action                = 
@@ -44,7 +44,6 @@ wikitext: |-
   * Limited activations
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20235
   | tcg_status            = Not yet released
   }}

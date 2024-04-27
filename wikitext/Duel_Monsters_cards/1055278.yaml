@@ -16,7 +16,7 @@ wikitext: |-
   | image               = DragonsGloryofLightandDark-INFO-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 63295720
   | effect_types        = Effect
   | lore                = [[Activate]] 1 of these [[effect]]s (but you can only use each effect of "Dragon's Glory of Light and Dark" [[once per turn]]);<br />● [[Shuffle]] 1 [[Level]] 8 [[Dragon]] [[monster]] from your [[hand]] into the [[Main Deck|Deck]], and if you do, [[Add a card|add]] 1 Level 8 Dragon monster with a different [[Attribute]] from your Deck to your hand.<br />● [[Target]] 1 Dragon monster you [[control]]; it gains [[ATK]] equal to its Level x 200.<br />● When a card or effect is activated that targets a Dragon monster(s) you control: [[Negate]] that effect.
   | fr_lore             = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = ①：以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。<br />●手札のドラゴン族・レベル８モンスター１体をデッキに戻し、そのモンスターとは属性が異なるドラゴン族・レベル８モンスター１体をデッキから手札に加える。<br />●自分フィールドのドラゴン族モンスター１体を対象として発動できる。そのモンスターの攻撃力は自身のレベル×２００アップする。<br />●自分フィールドのドラゴン族モンスターを対象とするカードの効果が発動した時に発動できる。その効果を無効にする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  INFO-JP057; The Infinite Forbidden; 
+  INFO-JP057; The Infinite Forbidden; Common
   | supports            = Dragon
   | action              = 
   * Returns from your hand to your Deck
@@ -43,7 +43,6 @@ wikitext: |-
   * Only once per turn
   * Variable effects
   * Requires control of specific Type
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20236
   | tcg_status          = Not yet released
   }}

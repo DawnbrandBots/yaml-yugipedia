@@ -20,7 +20,7 @@ wikitext: |-
   | level                 = 4
   | atk                   = 1500
   | def                   = 200
-  | password              = 
+  | password              = 98385955
   | effect_types          = Trigger, Quick, Condition
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[White Woods]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is in your [[GY]] ([[Quick Effect]]): You can [[target]] 1 "White Woods" [[Synchro Monster]] you [[control]] or in your [[GY]]; [[return]] it to the [[Extra Deck]], and if you do, Special Summon this card, but [[negate]] its effects. You can only use each effect of "Silve of the White Woods" [[once per turn]].
   | fr_lore               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「白き森」魔法・罠カード１枚を手札に加える。②：自分・相手ターンに、このカードが墓地に存在する場合、自分のフィールド・墓地の「白き森」Ｓモンスター１体を対象として発動できる。そのモンスターをＥＸデッキに戻し、このカードを効果を無効にして特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  INFO-JP015; The Infinite Forbidden; 
+  INFO-JP015; The Infinite Forbidden; Common
   | supports              = Synchro Monster
   | archseries            = White Woods
   | supports_archetypes   = White Woods
@@ -46,7 +46,6 @@ wikitext: |-
   | m/s/t                 = Negates the effects of the Summoned monsters
   | summoning             = Special Summons itself from your Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20194
   | tcg_status            = Not yet released
   }}
