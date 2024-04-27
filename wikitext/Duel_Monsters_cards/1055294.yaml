@@ -16,19 +16,19 @@ wikitext: |-
   | image               = MadolcheDessert-INFO-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 51650038
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = [[Target]] 2 [[Effect Monster]]s on the [[field]], including a "[[Madolche]]" [[monster]]; return those Effect Monsters to the [[hand]]/[[Extra Deck]], then you can [[Special Summon]] 1 "Madolche" monster from your hand or Extra Deck with ATK equal to or less than the returned monsters' total [[original ATK]]. If a "Madolche" card(s) in your [[GY]] is returned to the [[Main Deck|Deck]] and/or Extra Deck while this card is in your GY: You can [[attach]] this card to 1 [[Xyz Monster]] you control as [[material]]. You can only use 1 "Madolche Dessert" effect per turn, and only once that turn.
+  | lore                = [[Target]] 2 [[Effect Monster]]s on the [[field]], including a "[[Madolche]]" [[monster]]; return those Effect Monsters to the [[hand]]/[[Extra Deck]], then you can [[Special Summon]] 1 "Madolche" monster from your hand or Extra Deck with ATK equal to or less than the returned monsters' total [[original ATK]]. If a "Madolche" card(s) in your [[GY]] is returned to the [[Main Deck|Deck]] and/or Extra Deck while this card is in your GY (except during the [[Damage Step]]): You can [[attach]] this card to 1 [[Xyz Monster]] you control as [[material]]. You can only use 1 "Madolche Dessert" effect per turn, and only once that turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：「マドルチェ」モンスターを含むフィールドの効果モンスター２体を対象として発動できる。その効果モンスターを手札・ＥＸデッキに戻す。その後、戻したモンスターの元々の攻撃力の合計以下の攻撃力の「マドルチェ」モンスター１体を手札・ＥＸデッキから特殊召喚できる。②：このカードが墓地に存在する状態で、自分の墓地の「マドルチェ」カードがデッキ・ＥＸデッキに戻った場合に発動できる。このカードを自分フィールドのＸモンスター１体のＸ素材とする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  INFO-JP077; The Infinite Forbidden; 
+  INFO-JP077; The Infinite Forbidden; Common
   | supports            = Xyz Monster
   | archseries          = Madolche
   | supports_archetypes = Madolche
@@ -44,7 +44,6 @@ wikitext: |-
   | misc                = 
   * Requires control of specific Monster card type
   * Only 1 effect once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20256
   | tcg_status          = Not yet released
   }}

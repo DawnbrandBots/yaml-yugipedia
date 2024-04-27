@@ -11,14 +11,14 @@ wikitext: |-
   | ja_name               = {{Ruby|聖王の粉砕|ドミナス・パージ}}
   | romaji_name           = Dominasu Pāji
   | base_romaji_name      = Seiō no Funsai
-  | base_trans_name       = Pulverization of the Holy King
+  | base_trans_name       = Holy King Pulverization
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
   | image                 = DominusPurge-INFO-JP-SR.png
   | card_type             = Trap
   | property              = Normal
-  | password              = 
+  | password              = 97045737
   | effect_types          = Condition, Effect, Condition
   | lore                  = If your opponent [[control]]s a card, you can [[activate]] this card from your [[hand]]. When a card or [[effect]] is activated that includes an [[effect]] that [[Add a card|adds]] a card(s) from the [[Main Deck|Deck]] to the hand: [[Negate]] that effect, then, if you have a [[Trap]] in your [[GY]], [[destroy]] that negated card. You cannot activate [[DARK]], [[WATER]], and [[FIRE]] [[monster effect]]s for the rest of this Duel after this card activated from the hand [[resolve]]s. You can only activate 1 "Dominus Purge" per [[turn]].
   | fr_lore               = 
@@ -26,7 +26,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。相手フィールドにカードが存在する場合、このカードの発動は手札からもできる。①：デッキからカードを手札に加える効果を含む、魔法・罠・モンスターの効果が発動した時に発動できる。その効果を無効にする。自分の墓地に罠カードが存在する場合、さらにその無効にしたカードを破壊する。このカードを手札から発動した場合、発動後、このデュエル中に自分は闇・水・炎属性モンスターの効果を発動できない。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
@@ -46,7 +46,6 @@ wikitext: |-
   * Destroys Trap Cards
   * Prevents activation of your Effect Monsters
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20257
   | tcg_status            = Not yet released
   }}
