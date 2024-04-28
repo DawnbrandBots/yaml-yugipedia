@@ -11,12 +11,21 @@ wikitext: |-
   | level            = 3
   | atk              = 500
   | def              = 1000
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, change the [[battle position]] of 1 [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] [[monster]] on your [[field]].
-  | lore             = Look at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
+  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] the [[battle position]] of 1 [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore             = [[Look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP035; Burst Rex of Awakening; Rare
+  | supports         = Dragon
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Changes battle positions for cost
+  * Reveals face-down cards
+  | m/s/t            = Destroys your opponent's face-down Trap Cards
+  | misc             = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
