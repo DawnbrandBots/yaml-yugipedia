@@ -11,12 +11,25 @@ wikitext: |-
   | level            = 4
   | atk              = 1300
   | def              = 0
-  | requirement      = Change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | lore             = This [[turn]], 1 [[face-up]] [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] with 0 original ATK/DEF on your [[field]] gains 1000 [[ATK]], and if it attacks a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the attack target, inflict the difference).
+  | requirement      = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | lore             = This [[turn]], 1 [[face-up]] [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] with 0 [[original ATK and DEF]] gains 1000 [[ATK]], and if it [[attack]]s a Defense Position monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP040; Burst Rex of Awakening; Common
+  | supports         = 
+  * DARK
+  * Fiend
+  | action           = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  | stat_change      = Your monsters gain ATK
+  | attack           = Piercing
+  | misc             = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Requires control of specific DEF
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
