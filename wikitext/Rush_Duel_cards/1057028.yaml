@@ -8,13 +8,22 @@ wikitext: |-
   | image            = SpiceCrossSecretRecipe-RDKP17-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], [[shuffle]] 2 [[Cyberse]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = Change 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
+  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 [[Cyberse]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Battle position change|Change]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP060; Burst Rex of Awakening; Common
+  | supports         = Cyberse
   | archseries       = Cybersepice
+  | action           = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
