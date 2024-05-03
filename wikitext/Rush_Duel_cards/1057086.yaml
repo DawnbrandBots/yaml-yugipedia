@@ -12,12 +12,22 @@ wikitext: |-
   | atk              = 2500
   | def              = 1400
   | requirement      = If you have 2 [[face-up]] [[Rock]] [[Type]] [[Normal Monster]]s on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card gains 1400 [[ATK]] until the end of this [[turn]]. Then, if you have 3 face-up [[Level]] 5-7 [[monsters]] with different Levels on your field, you can [[destroy]] all face-up Level 7 or lower monsters on your opponent's field.
+  | lore             = This card gains 1400 [[ATK]] until the end of this [[turn]]. Then, if you have 3 [[Level]] 5-7 face-up [[Monster Card|monster]]s with different Levels on your field, you can [[destroy]] all face-up Level 7 or lower monsters on your opponent's field.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP028; Burst Rex of Awakening; Rare
+  | supports         = 
+  * Rock
+  * Normal Monster
   | archseries       = Stone (Rush Duel)
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = This card gains ATK
+  | m/s/t            = Destroys your opponent's face-up Monster Cards
+  | misc             = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  * Requires control of specific Level
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

@@ -11,12 +11,17 @@ wikitext: |-
   | level            = 3
   | atk              = 800
   | def              = 700
-  | requirement      = [[Reveal]] 1 [[EARTH]] [[Attribute]] [[monster]] and 1 non-EARTH Attribute monster in your [[hand]].
+  | requirement      = [[Reveal]] 1 [[EARTH]] [[Attribute]] [[Monster Card|monster]] and 1 non-EARTH Attribute monster in your [[hand]] to your opponent.
   | lore             = [[Shuffle]] 2 cards from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, you can make 1 [[face-up]] monster on your [[field]] gain 500 [[ATK]] until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP038; Burst Rex of Awakening; Common
+  | supports         = EARTH
+  | action           = 
+  * Reveals your hand for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change      = Your monsters gain ATK
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
