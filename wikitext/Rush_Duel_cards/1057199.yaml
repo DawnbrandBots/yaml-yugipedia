@@ -13,11 +13,20 @@ wikitext: |-
   | atk              = 1200
   | def              = 1200
   | requirement      = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore             = Inflict 200 [[Effect damage|damage]] to your opponent. Then, if you have a [[Level]] 3 [[FIRE]] [[Attribute]] [[Cyberse]] [[Type]] [[monster]] or [[Equip Spell Card]] in your [[Graveyard]], you can make 1 [[face-up]] monster on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this turn.
+  | lore             = [[Damage|Inflict]] 200 [[Effect damage|damage]] to your opponent. Then, if you have a [[Level]] 3 [[FIRE]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]] or an [[Equip Spell Card]] in your [[Graveyard]], you can make 1 [[face-up]] monster on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this turn.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP17-JP039; Burst Rex of Awakening; Common
+  | supports         = 
+  * FIRE
+  * Cyberse
+  * Equip Spell Card
+  | action           = Activates during the turn in which it was Normal Summoned
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | life_points      = Damages your opponent
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
