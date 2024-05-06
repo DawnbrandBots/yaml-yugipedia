@@ -27,6 +27,7 @@ for more details.
 - [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards)
 - [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills)
 - [Yu-Gi-Oh! Master Duel accessories](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_accessories)
+- [TCG Speed Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/TCG_Speed_Duel_Forbidden_%26_Limited_Lists)
 
 [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists) was previously
 downloaded into [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg) but is no longer automatically
