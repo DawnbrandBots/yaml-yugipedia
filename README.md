@@ -1,11 +1,13 @@
 # YAML [Yugipedia](https://yugipedia.com)
 
 [![Update wikitext from Yugipedia with recent changes](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/update.yml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/update.yml)
+[![Lint](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/python.yml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/python.yml)
 
-The [YAML Yugi](https://github.com/DawnbrandBots/yaml-yugi) project aims to create a comprehensive, machine-readable,
-human-editable database of the _Yu-Gi-Oh! Trading Card Game_ and _Official Card Game_. This is an automatically-updated
-collection of wikitexts from Yugipedia of cards for intake and transformation into the final database. Storing a cache
-here reduces load on the wiki while also serving as an external backup of current wiki text.
+An automatically-updated collection of wikitexts from Yugipedia of cards for intake and transformation into the
+[YAML Yugi](https://github.com/DawnbrandBots/yaml-yugi) database. Storing a cache here reduces load on the wiki while
+also serving as an external backup of current wiki text. The YAML Yugi project aims to create a comprehensive,
+machine-readable, human-editable database of _Yu-Gi-Oh! Trading Card Game_ (TCG), _Official Card Game_ (OCG),
+_Master Duel_ video game, _Rush Duel_, and _Speed Duel_.
 
 All files under [`/wikitext`](/wikitext) are downloaded using the Mediawiki API and copyright belongs to their original
 holders. Any Yugipedia-original content is licensed under [CC BY-SA 4.0](https://yugipedia.com/wiki/Yugipedia:Licensing)
@@ -27,7 +29,7 @@ for more details.
 - [Yu-Gi-Oh! Duel Links cards](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_cards)
 - [Yu-Gi-Oh! Duel Links Skills](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_Skills)
 - [Yu-Gi-Oh! Master Duel accessories](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_Master_Duel_accessories)
-- [TCG Speed Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/TCG_Speed_Duel_Forbidden_%26_Limited_Lists)
+- [TCG Speed Duel Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:TCG_Speed_Duel_Forbidden_%26_Limited_Lists)
 
 [OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists) was previously
 downloaded into [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg) but is no longer automatically
