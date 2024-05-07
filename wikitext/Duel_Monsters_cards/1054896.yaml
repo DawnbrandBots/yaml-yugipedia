@@ -15,13 +15,13 @@ wikitext: |-
   | sc_name             = 
   | image               = DetonatingKuriboh-VJMP-JP-OP.png
   | attribute           = DARK
-  | types               = ??? / Effect
+  | types               = Fiend / Effect
   | level               = 1
-  | atk                 = ???
-  | def                 = ???
+  | atk                 = 300
+  | def                 = 200
   | password            = 
-  | effect_types        = 
-  | lore                = ''TBA''
+  | effect_types        = Ignition, Quick, Condition, Continuous-like
+  | lore                = If a "[[Kuriboh (archetype)|Kuriboh]]" Monster Card is on the field: You can Special Summon this card from your hand. When your opponent activates a monster effect on the field (Quick Effect): You can equip this card you control to that opponent's monster as an Equip Spell with this effect. You can only use each of the previous effects of "Detonating Kuriboh" once per turn.<br />● The equipped monster's effects are negated.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -35,6 +35,7 @@ wikitext: |-
   | archseries          = 
   * Kuriboh (archetype)
   * Signature move
+  | supports_archetypes = Kuriboh (archetype)
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
