@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 200
   | password            = 
   | effect_types        = Ignition, Quick, Condition, Continuous-like
-  | lore                = If a "[[Kuriboh (archetype)|Kuriboh]]" Monster Card is on the field: You can Special Summon this card from your hand. When your opponent activates a monster effect on the field (Quick Effect): You can equip this card you control to that opponent's monster as an Equip Spell with this effect. You can only use each of the previous effects of "Detonating Kuriboh" once per turn.<br />● The equipped monster's effects are negated.
+  | lore                = If a "[[Kuriboh (archetype)|Kuriboh]]" [[Monster Card]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. When your opponent [[activate]]s a [[monster effect]] on the field ([[Quick Effect]]): You can [[equip]] this card you [[control]] to that opponent's monster as an [[Equip Spell]] with this effect. You can only use each of the previous [[effect]]s of "Detonating Kuriboh" [[once per turn]].<br />● The equipped monster's effects are [[negate]]d.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -36,6 +36,14 @@ wikitext: |-
   * Kuriboh (archetype)
   * Signature move
   | supports_archetypes = Kuriboh (archetype)
+  | anti-supports_archetypes = Kuriboh (archetype)
+  | action              = 
+  * Activates from your hand
+  * Equips self from Graveyard
+  * Grants effect to Equip Spell Card
+  | summoning           = Special Summons itself from your hand
+  | m/s/t               = Negates the effects of your opponent's Effect Monsters
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
