@@ -11,7 +11,7 @@ wikitext: |-
   | level                  = 7
   | atk                    = 2300
   | def                    = 1700
-  | summoning_condition    = If you have a [[monster]] with 2700 [[DEF]] or "[[Ship of Seven Treasures]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | summoning_condition    = If you have a [[Monster Card|monster]] with 2700 [[DEF]] or "[[Ship of Seven Treasures]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement            = None
   | lore                   = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can make 1 face-up monster on your opponent's field lose 700 [[ATK]]/DEF until the end of your opponent's next [[turn]].
   | ja_summoning_condition = 
@@ -21,6 +21,12 @@ wikitext: |-
   | jp_sets                = 
   RD/KP17-JP042; Burst Rex of Awakening; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions               = Ship of Seven Treasures
+  | action                 = Sends from the top of your Deck to your Graveyard
+  | stat_change            = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning              = Special Summons itself from your hand
+  | misc                   = Turn limited effects
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
