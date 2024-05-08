@@ -32,7 +32,32 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   DP29-JP020; Duelist Pack: Duelists of Brilliance; Rare
+  | supports              = 
+  * LIGHT
+  * Machine
   | archseries            = A-to-Z
+  | action                = 
+  * Activates upon Special Summon
+  * Equips monsters from the player's hand to itself
+  * Equips monsters from the player's Graveyard to itself
+  * Equips self from field
+  | m/s/t                 = 
+  * Treats monsters as Equip Cards
+  * Treated as Equip Card
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  * Destroys itself
+  | summoning             = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  * Special Summons itself from your Spell & Trap Zone
+  | attack                = Prevents other cards being destroyed by battle
+  | fm_for                = 
+  * Union Controller
+  * XYZ-Hyper Dragon Cannon
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific Type
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

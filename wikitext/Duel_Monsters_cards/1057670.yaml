@@ -32,7 +32,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   DP29-JP019; Duelist Pack: Duelists of Brilliance; 
+  | supports              = 
+  * LIGHT
+  * Machine
+  * Fusion Monster
+  * Union Monster
   | archseries            = A-to-Z
+  | action                = 
+  * Activates from your hand
+  * Equips monsters from the player's Deck to itself
+  | m/s/t                 = Treats monsters as Equip Cards
+  | summoning             = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | fm_for                = XYZ-Hyper Dragon Cannon
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

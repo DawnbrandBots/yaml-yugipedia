@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2200
   | def                   = 1900
   | password              = 
+  | materials             = 1 LIGHT Machine-Type monster + "Y-Dragon Yearhead" or "Z-Zillion Tank"
   | effect_types          = Summoning condition, Trigger, Condition, Ignition
   | lore                  = 1 [[LIGHT]] [[Machine]] [[monster]]  + "[[Y-Dragon Yearhead]]" or "[[Z-Zillion Tank]]"<br />Must first be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards you [[control]]. If this card is Special Summoned from the [[Extra Deck]]: You can [[Add a card|add]] 1 [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]] that mentions "[[Union monster]]" in its text. You can only use this [[effect]] of "Union Controller" [[once per turn]]. Once per turn, during your [[Main Phase]]: You can Special Summon 1 LIGHT Machine [[Normal Monster|Normal]] or Union monster from your hand.
   | fr_lore               = 
@@ -32,10 +33,35 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   DP29-JP023; Duelist Pack: Duelists of Brilliance; 
+  | supports              = 
+  * LIGHT
+  * Machine
+  * Normal Monster
+  * Union Monster
   | mentions              = 
   * Y-Dragon Yearhead
   * Z-Zillion Tank
   | related_to_archseries = A-to-Z
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Special Summon-only monster
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your hand
+  | banished              = 
+  * Banishes Fusion Materials for Contact Fusion
+  * Banishes from field for Summon
+  | misc                  = 
+  * Mentions
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

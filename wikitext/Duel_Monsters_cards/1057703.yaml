@@ -32,13 +32,28 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   DP29-JP037; Duelist Pack: Duelists of Brilliance; Ultra Rare, Secret Rare
+  | supports              = Link Monster
   | archseries            = 
   * Marincess
   * Trickstar
   | supports_archetypes   = 
   * Marincess
   * Trickstar
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates if sent to the Graveyard
+  * Activates if used as Link Material
+  * Reveals your opponent's hand
+  * Reveals face-down cards
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | attack                = Prevents other cards being destroyed by battle
+  | misc                  = 
+  * Archetype condition
+  * Only once per Duel
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -19,6 +19,11 @@ wikitext: |-
   | level                 = 9
   | atk                   = 3000
   | def                   = 2800
+  | fusion_material       = 
+  * X-Cross Cannon
+  * Y-Dragon Yearhead
+  * Z-Zillion Tank
+  | materials             = "X-Cross Cannon" + "Y-Dragon Yearhead" + "Z-Zillion Tank"
   | password              = 
   | effect_types          = Summoning condition, Quick, Ignition
   | lore                  = "[[X-Cross Cannon]]" + "[[Y-Dragon Yearhead]]" + "[[Z-Zillion Tank]]"<br />Must first be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards from your [[field]] and/or [[GY]]. Once per opponent's turn ([[Quick Effect]]): You can [[discard]] 1 card, then [[target]] 1 card your opponent [[control]]s; [[destroy]] it. You can banish this card from your field or GY and [[reveal]] 1 [[Level]] 8 [[LIGHT]] [[Machine]] [[Fusion Monster]] in your Extra Deck; Special Summon up to 3 [[material]]s whose names are mentioned on that monster from your GY and/or banishment.
@@ -36,7 +41,40 @@ wikitext: |-
   * X-Cross Cannon
   * Y-Dragon Yearhead
   * Z-Zillion Tank
-  | archseries            = A-to-Z
+  | supports              = 
+  * LIGHT
+  * Machine
+  * Fusion Monster
+  | archseries            = 
+  * A-to-Z
+  * Signature move
+  | action                = 
+  * You discard for cost
+  * Activates from your Graveyard
+  * Reveals your Extra Deck for cost
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Special Summon-only monster
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | banished              = 
+  * Banishes Fusion Materials for Contact Fusion
+  * Banishes from field for Summon
+  * Banishes from Graveyard for Summon
+  * Banishes itself from field for cost
+  * Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Limited activations
+  * Mentions
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
