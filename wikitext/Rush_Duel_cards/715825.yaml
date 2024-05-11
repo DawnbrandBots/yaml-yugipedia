@@ -13,12 +13,12 @@ wikitext: |-
   | level                 = 9
   | atk                   = 3000
   | def                   = 2100
+  | effect_types          = Continuous
   | fusion_material       = 
   * Sevens Road Magician
   * Sevens Road Witch
-  | effect_types          = Continuous
-  | requirement           = None
   | materials             = "[[Sevens Road Magician]]" + "[[Sevens Road Witch]]"
+  | requirement           = None
   | lore                  = This card gains [[ATK]] equal to [the number of [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]s with different names in your [[Graveyard]]] x 300. If you have 7 or more DARK Attribute Spellcaster Type monsters in your Graveyard, this card [[Damage|inflict]]s [[piercing]] [[battle damage]] (if the ATK of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference) if it attacks a [[Defense Position]] monster.
   | ja_materials          = 「セブンスロード・マジシャン」＋「セブンスロード・ウィッチ」
   | ja_requirement        = なし
