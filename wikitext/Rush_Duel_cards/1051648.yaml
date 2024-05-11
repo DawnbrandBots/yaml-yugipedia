@@ -3,33 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = トライブミラー・ドラゴン
-  | romaji_name      = Toraibumirā Doragon
-  | image            = TribemirrorDragon-RDKP17-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Dragon / Fusion / Effect
-  | level            = 9
-  | atk              = 3300
-  | def              = 3300
-  | materials        = 1 [[Level]] 7 [[EARTH]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]] + 2 Dragon Type monsters
-  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This [[turn]], 1 [[face-up]] monster on your [[field]] cannot be [[destroy]]ed by card [[effect]]s, and if it [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = トライブミラー・ドラゴン
+  | romaji_name    = Toraibumirā Doragon
+  | image          = TribemirrorDragon-RDKP17-JP-R.png
+  | attribute      = LIGHT
+  | types          = Dragon / Fusion / Effect
+  | level          = 9
+  | atk            = 3300
+  | def            = 3300
+  | materials      = 1 [[Level]] 7 [[EARTH]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]] + 2 Dragon Type monsters
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = This [[turn]], 1 [[face-up]] monster on your [[field]] cannot be [[destroy]]ed by card [[effect]]s, and if it [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_materials   = モンスター（レベル７／地属性／ドラゴン族）＋モンスター（ドラゴン族）×２
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターは効果では破壊されず、その攻撃は貫通する。
+  | jp_sets        = 
   RD/KP17-JP051; Burst Rex of Awakening; Rare, Secret Rare
-  | supports         = 
+  | supports       = 
   * EARTH
   * Dragon
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | m/s/t            = Cannot be destroyed by card effects
-  | summoning        = 
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | m/s/t          = Cannot be destroyed by card effects
+  | summoning      = 
   * 3 Fusion Materials
   * Requires Level specific Fusion Materials
   * Requires Attribute specific Fusion Materials
   * Requires Type specific Fusion Materials
-  | attack           = Piercing
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | attack         = Piercing
+  | database_id    = 20348
   }}

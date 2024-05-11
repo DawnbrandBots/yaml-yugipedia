@@ -3,27 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダイスキー・クゥ
-  | romaji_name      = Daisukī Kwu
-  | image            = DiceKeyKuu-RDKP17-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Fairy / Effect
-  | level            = 3
-  | atk              = 300
-  | def              = 1200
-  | requirement      = During the turn you [[Normal Summon]]ed this card.
-  | lore             = [[Add a card|Add]] 1 "[[Dice Key Nel]]" from your [[Graveyard]] to your [[hand]]. Then, roll a six-sided die. You can place 1 [[face-up]] [[Defense Position]] [[Monster Card|monster]] from your opponent's [[field]] on the top of the [[owner]]'s [[Main Deck|Deck]] if the result was 6.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ダイスキー・クゥ
+  | romaji_name    = Daisukī Kwu
+  | image          = DiceKeyKuu-RDKP17-JP-C.png
+  | attribute      = LIGHT
+  | types          = Fairy / Effect
+  | level          = 3
+  | atk            = 300
+  | def            = 1200
+  | requirement    = During the turn you [[Normal Summon]]ed this card.
+  | lore           = [[Add a card|Add]] 1 "[[Dice Key Nel]]" from your [[Graveyard]] to your [[hand]]. Then, roll a six-sided die. You can place 1 [[face-up]] [[Defense Position]] [[Monster Card|monster]] from your opponent's [[field]] on the top of the [[owner]]'s [[Main Deck|Deck]] if the result was 6.
+  | ja_requirement = このカードを召喚したターンに発動できる。
+  | ja_lore        = 自分の墓地の「ダイスキー・ネル」１体を選んで手札に加える。その後、サイコロを１回振る。６が出た場合、相手フィールドの表側守備表示モンスター１体を選んで持ち主のデッキの上に戻す事ができる。
+  | jp_sets        = 
   RD/KP17-JP011; Burst Rex of Awakening; Common
-  | mentions         = Dice Key Nel
-  | archseries       = Dice (series)
-  | action           = 
+  | mentions       = Dice Key Nel
+  | archseries     = Dice (series)
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Adds from Graveyard to hand
   * Places cards from the opponent's field on the top of the Deck
-  | misc             = Die roll
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc           = Die roll
+  | database_id    = 20308
   }}

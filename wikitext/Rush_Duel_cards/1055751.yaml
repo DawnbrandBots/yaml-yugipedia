@@ -3,21 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|神|しん}}{{Ruby|疑|ぎ}}の{{Ruby|光|こう}}{{Ruby|来|らい}}
-  | romaji_name      = Shingi no Kōrai
-  | image            = AuspiciousArrivalofDivineDoubt-RDKP17-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When a [[Monster Card|monster]](s) is [[Send|sent]] from your opponent's [[field]] to the [[Graveyard]].
-  | lore             = [[Draw a card|Draw]] 2 cards. Then, you can send 1 [[random]] card from your opponent's [[hand]] to the Graveyard.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|神|しん}}{{Ruby|疑|ぎ}}の{{Ruby|光|こう}}{{Ruby|来|らい}}
+  | romaji_name    = Shingi no Kōrai
+  | image          = AuspiciousArrivalofDivineDoubt-RDKP17-JP-R.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When a [[Monster Card|monster]](s) is [[Send|sent]] from your opponent's [[field]] to the [[Graveyard]].
+  | lore           = [[Draw a card|Draw]] 2 cards. Then, you can send 1 [[random]] card from your opponent's [[hand]] to the Graveyard.
+  | ja_requirement = 相手フィールドのモンスターが墓地へ送られた時に発動できる。
+  | ja_lore        = 自分は２枚ドローする。その後、相手の手札をランダムに１枚選んで墓地へ送る事ができる。
+  | jp_sets        = 
   RD/KP17-JP065; Burst Rex of Awakening; Rare, Secret Rare
-  | action           = 
+  | action         = 
   * Activates if other cards are sent to the Graveyard
   * You draw cards
   * Sends from your opponent's hand to your opponent's Graveyard
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20362
   }}

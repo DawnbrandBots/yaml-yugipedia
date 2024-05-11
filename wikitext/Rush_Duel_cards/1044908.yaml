@@ -3,32 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダークマター・エニグマータ
-  | romaji_name      = Dākumatā Enigumāta
-  | image            = DarkMatterEnigmata-RDKP17-JP-OP.png
-  | attribute        = DARK
-  | types            = Galaxy / Fusion / Effect
-  | level            = 9
-  | atk              = 0
-  | def              = 0
-  | effect_types     = Continuous
-  | fusion_material  = Dark Matter Mist
-  | materials        = "[[Dark Matter Mist]]" + "Dark Matter Mist"
-  | requirement      = None
-  | lore             = This card gains [[ATK]] equal to [the total [[Original ATK and DEF|original ATK]] of the [[Monster Card|monster]]s used as [[material]] for its [[Fusion Summon]]]. If you have a [[face-down]] monster on your [[field]], this card cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name         = ダークマター・エニグマータ
+  | romaji_name     = Dākumatā Enigumāta
+  | image           = DarkMatterEnigmata-RDKP17-JP-SR.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 9
+  | atk             = 0
+  | def             = 0
+  | effect_types    = Continuous
+  | fusion_material = Dark Matter Mist
+  | materials       = "[[Dark Matter Mist]]" + "Dark Matter Mist"
+  | requirement     = None
+  | lore            = This card gains [[ATK]] equal to [the total [[Original ATK and DEF|original ATK]] of the [[Monster Card|monster]]s used as [[material]] for its [[Fusion Summon]]]. If you have a [[face-down]] monster on your [[field]], this card cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_materials    = 「ダークマター・ミスト」＋「ダークマター・ミスト」
+  | ja_requirement  = なし
+  | ja_lore         = このカードの攻撃力は、［このカードをフュージョン召喚する時に素材としたモンスターの元々の攻撃力の合計］だけアップする。自分フィールドに裏側表示モンスターがいる場合、このカードは相手の効果では破壊されない。
+  | jp_sets         = 
   RD/KP17-JP048; Burst Rex of Awakening; Super Rare, Secret Rare
-  | mentions         = Dark Matter Mist
-  | archseries       = Dark Matter (series)
-  | stat_change      = This card gains ATK
-  | m/s/t            = Cannot be destroyed by card effects
-  | summoning        = 
+  | mentions        = Dark Matter Mist
+  | archseries      = Dark Matter (series)
+  | stat_change     = This card gains ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id     = 20345
   }}

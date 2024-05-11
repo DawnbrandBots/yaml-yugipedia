@@ -3,20 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = スパイスクロース・シークレットレシピ
-  | romaji_name      = Supaisukurōsu Shīkuretto Reshipi
-  | image            = SpiceCrossSecretRecipe-RDKP17-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 [[Cyberse]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Battle position change|Change]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP17-JP060; Burst Rex of Awakening; Common
-  | supports         = Cyberse
-  | archseries       = Cybersepice
-  | action           = 
+  | ja_name        = スパイスクロース・シークレットレシピ
+  | romaji_name    = Supaisukurōsu Shīkuretto Reshipi
+  | image          = SpiceCrossSecretRecipe-RDKP17-JP-R.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 [[Cyberse]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Battle position change|Change]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
+  | ja_requirement = 相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター（サイバース族）２体をデッキに戻して発動できる。
+  | ja_lore        = 相手フィールドの表側表示モンスター（レベル９以下）１体を選んで裏側守備表示にする。その後、相手の墓地のカード１枚を選んでデッキの上か下に戻す事ができる。
+  | jp_sets        = 
+  RD/KP17-JP060; Burst Rex of Awakening; Rare
+  | supports       = Cyberse
+  | archseries     = Cybersepice
+  | action         = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Returns from Graveyard to Deck for cost
@@ -24,6 +24,5 @@ wikitext: |-
   * Flips your opponent's monsters face-down
   * Places cards from the opponent's Graveyard on the top of the Deck
   * Places cards from the opponent's Graveyard on the bottom of the Deck
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20357
   }}

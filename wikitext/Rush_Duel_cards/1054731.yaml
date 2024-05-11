@@ -3,31 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ドラゴニック・ドミネーション
-  | romaji_name      = Doragonikku Dominēshon
-  | image            = 
+  | ja_name        = ドラゴニック・ドミネーション
+  | romaji_name    = Doragonikku Dominēshon
+  | image          = 
   1; DragonicDomination-RDKP17-JP-SR.png
   2; DragonicDomination-RDKP17-JP-ScR-AA.png
-  | current_image    = 1
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
-  | lore             = [[Damage|Inflict]] 400 [[Effect damage|damage]] to your opponent. Then, if you have a [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] monster on your [[field]], you can [[destroy]] 1 face-up Level 8 or lower [[Effect Monster]] on your opponent's field.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | current_image  = 1
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | lore           = [[Damage|Inflict]] 400 [[Effect damage|damage]] to your opponent. Then, if you have a [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] monster on your [[field]], you can [[destroy]] 1 face-up Level 8 or lower [[Effect Monster]] on your opponent's field.
+  | ja_requirement = 相手がモンスターを召喚・特殊召喚した時に発動できる。
+  | ja_lore        = 相手に４００ダメージを与える。自分フィールドに表側表示モンスター（レベル７以上／ドラゴン族）がいる場合、さらに相手フィールドの表側表示の効果モンスター（レベル８以下）１体を選んで破壊できる。
+  | jp_sets        = 
   RD/KP17-JP064; Burst Rex of Awakening; Super Rare, Secret Rare
-  | supports         = Dragon
-  | anti-supports    = Effect Monster
-  | archseries       = Blue-Eyes (Rush Duel)
-  | action           = 
+  | supports       = Dragon
+  | anti-supports  = Effect Monster
+  | archseries     = Blue-Eyes (Rush Duel)
+  | action         = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
-  | m/s/t            = Destroys your opponent's face-up Monster Cards
-  | life_points      = Damages your opponent
-  | misc             = 
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | life_points    = Damages your opponent
+  | misc           = 
   * Requires control of specific Level
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20361
   }}

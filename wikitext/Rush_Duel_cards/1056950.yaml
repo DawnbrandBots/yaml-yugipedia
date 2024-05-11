@@ -3,33 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = タスドクロ
-  | romaji_name      = Dasudokuro
-  | image            = PlusSkull-RDKP17-JP-OP.png
-  | attribute        = DARK
-  | types            = Fiend / Effect
-  | level            = 4
-  | atk              = 1300
-  | def              = 0
-  | requirement      = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | lore             = This [[turn]], 1 [[face-up]] [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] with 0 [[original ATK and DEF]] gains 1000 [[ATK]], and if it [[attack]]s a Defense Position monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = タスドクロ
+  | romaji_name    = Dasudokuro
+  | image          = PlusSkull-RDKP17-JP-C.png
+  | attribute      = DARK
+  | types          = Fiend / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 0
+  | requirement    = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | lore           = This [[turn]], 1 [[face-up]] [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] with 0 [[original ATK and DEF]] gains 1000 [[ATK]], and if it [[attack]]s a Defense Position monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_requirement = 攻撃表示のこのカードを表側守備表示にして発動できる。
+  | ja_lore        = 自分フィールドの元々の攻撃力・守備力が０の表側表示モンスター（闇属性／悪魔族）１体を選ぶ。このターン、そのモンスターの攻撃力は１０００アップし、その攻撃は貫通する。
+  | jp_sets        = 
   RD/KP17-JP040; Burst Rex of Awakening; Common
-  | supports         = 
+  | supports       = 
   * DARK
   * Fiend
-  | action           = 
+  | action         = 
   * Changes own battle position
   * Changes battle positions for cost
-  | stat_change      = Your monsters gain ATK
-  | attack           = Piercing
-  | misc             = 
+  | stat_change    = Your monsters gain ATK
+  | attack         = Piercing
+  | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
   * Requires control of specific ATK
   * Requires control of specific DEF
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20337
   }}

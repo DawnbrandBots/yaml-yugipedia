@@ -3,28 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = アドバンス・フォーム
-  | romaji_name      = Adobansu Fōmu
-  | image            = AdvanceForm-RDKP17-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Galaxy / Effect
-  | level            = 4
-  | atk              = 800
-  | def              = 1000
-  | requirement      = [[Send]] up to 2 cards from your [[field]] to the [[Graveyard]].
-  | lore             = [[Shuffle]] [[Monster Card|monster]]s from your opponent's Graveyard into the [[Main Deck|Deck]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]]. Then, you can [[Add a card|add]] 1 "[[Advance Impact]]" or 1 "[[Emperor Realm]]" from your Graveyard to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = アドバンス・フォーム
+  | romaji_name    = Adobansu Fōmu
+  | image          = AdvanceForm-RDKP17-JP-C.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 4
+  | atk            = 800
+  | def            = 1000
+  | requirement    = [[Send]] up to 2 cards from your [[field]] to the [[Graveyard]].
+  | lore           = [[Shuffle]] [[Monster Card|monster]]s from your opponent's Graveyard into the [[Main Deck|Deck]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]]. Then, you can [[Add a card|add]] 1 "[[Advance Impact]]" or 1 "[[Emperor Realm]]" from your Graveyard to your [[hand]].
+  | ja_requirement = 自分フィールドのカードを２枚まで墓地へ送って発動できる。
+  | ja_lore        = 相手の墓地のモンスターを［この効果の条件で墓地へ送ったカードの数］だけ選んでデッキに戻す。その後、自分の墓地の「アドバンス・インパクト」または「エンペラー・レルム」１枚を選んで手札に加える事ができる。
+  | jp_sets        = 
   RD/KP17-JP032; Burst Rex of Awakening; Common
-  | mentions         = 
+  | mentions       = 
   * Advance Impact
   * Emperor Realm
-  | archseries       = Monarch (Rush Duel series)
-  | action           = 
+  | archseries     = Monarch (Rush Duel series)
+  | action         = 
   * Sends from field to Graveyard for cost
   * Returns from your opponent's Graveyard to your opponent's Deck
   * Adds from Graveyard to hand
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20329
   }}

@@ -13,8 +13,8 @@ wikitext: |-
   | def                   = 0
   | requirement           = During a [[turn]] you have not [[Special Summon]]ed a [[Monster Card|monster]] from the [[Graveyard]].
   | lore                  = Your opponent [[excavate]]s the top 2 cards of their [[Main Deck|Deck]]. You can Special Summon 1 monster with a [[Level]] equal to or lower than [the total Levels of the excavated monsters] from your Graveyard [[face-up]] to your [[field]]. Your opponent places the excavated cards on the top of their Deck in any order.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = 自分が墓地からモンスターを特殊召喚していないターンに発動できる。
+  | ja_lore               = 相手は自身のデッキの上からカードを２枚めくり、お互いに確認する。自分は［その中のモンスターのレベルの合計］以下のレベルを持つ、自分の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。相手はめくったカードを好きな順番でデッキの上に戻す。
   | jp_sets               = 
   RD/KP17-JP017; Burst Rex of Awakening; Rare, Secret Rare
   | related_to_archseries = Cybersepice
@@ -23,6 +23,5 @@ wikitext: |-
   * Places excavated cards on the top of the Deck
   | summoning             = Special Summons from your Graveyard
   | fm_for                = Cybersepice Curry Bread Pandora Drapery
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20314
   }}

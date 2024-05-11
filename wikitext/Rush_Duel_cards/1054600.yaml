@@ -3,33 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダークマター・フレイヤ
-  | romaji_name      = Dākumatā Fureiya
-  | image            = DarkMatterFreya-RDKP17-JP-OP.png
-  | attribute        = DARK
-  | types            = Galaxy / Effect
-  | level            = 5
-  | atk              = 1800
-  | def              = 1300
-  | requirement      = [[Battle position change|Change]] this card's [[battle position]].
-  | lore             = Choose 1 [[face-up]] [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your [[field]]. If it [[attack]]s a [[Defense Position]] monster this [[turn]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). Then, you can change 1 face-up monster on the field to face-up Defense Position or [[face-down]] Defense Position.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ダークマター・フレイヤ
+  | romaji_name    = Dākumatā Fureiya
+  | image          = DarkMatterFreya-RDKP17-JP-C.png
+  | attribute      = DARK
+  | types          = Galaxy / Effect
+  | level          = 5
+  | atk            = 1800
+  | def            = 1300
+  | requirement    = [[Battle position change|Change]] this card's [[battle position]].
+  | lore           = Choose 1 [[face-up]] [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your [[field]]. If it [[attack]]s a [[Defense Position]] monster this [[turn]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). Then, you can change 1 face-up monster on the field to face-up Defense Position or [[face-down]] Defense Position.
+  | ja_requirement = このカードの表示形式を変更して発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体を選ぶ。このターン、そのモンスターの攻撃は貫通する。さらに、自分または相手フィールドの表側表示モンスター１体を選んで表側守備表示または裏側守備表示にできる。
+  | jp_sets        = 
   RD/KP17-JP027; Burst Rex of Awakening; Common
-  | supports         = 
+  | supports       = 
   * DARK
   * Galaxy (Type)
-  | archseries       = Dark Matter (series)
-  | action           = 
+  | archseries     = Dark Matter (series)
+  | action         = 
   * Changes own battle position
   * Changes battle positions for cost
   * Changes battle positions
   * Flips monsters face-down
-  | attack           = Piercing
-  | misc             = 
+  | attack         = Piercing
+  | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20324
   }}

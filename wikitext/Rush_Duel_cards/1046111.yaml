@@ -3,25 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サイバースパイス・クミン
-  | romaji_name      = Saibāsupaisu Kumin
-  | image            = CybersepiceCumin-RDKP17-JP-OP.png
-  | attribute        = FIRE
-  | types            = Cyberse / Effect
-  | level            = 3
-  | atk              = 900
-  | def              = 300
-  | requirement      = None
-  | lore             = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]]. If that card is a [[Monster Card|monster]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [its [[Level]]] x 100. Your opponent places the excavated card on the top of their Deck.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = サイバースパイス・クミン
+  | romaji_name    = Saibāsupaisu Kumin
+  | image          = CybersepiceCumin-RDKP17-JP-C.png
+  | attribute      = FIRE
+  | types          = Cyberse / Effect
+  | level          = 3
+  | atk            = 900
+  | def            = 300
+  | requirement    = None
+  | lore           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]]. If that card is a [[Monster Card|monster]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [its [[Level]]] x 100. Your opponent places the excavated card on the top of their Deck.
+  | ja_requirement = なし
+  | ja_lore        = 相手は自身のデッキの一番上のカードをめくり、お互いに確認する。そのカードがモンスターだった場合、［そのレベル］×１００ダメージを相手に与える。相手はめくったカードを元に戻す。
+  | jp_sets        = 
   RD/KP17-JP016; Burst Rex of Awakening; Common
-  | archseries       = Cybersepice
-  | action           = 
+  | archseries     = Cybersepice
+  | action         = 
   * Excavates from the opponent's Deck
   * Places excavated cards on the top of the Deck
-  | life_points      = Damages your opponent
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | life_points    = Damages your opponent
+  | database_id    = 20313
   }}

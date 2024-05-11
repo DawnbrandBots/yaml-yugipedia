@@ -3,39 +3,39 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|青眼の激煌龍|ブルーアイズ・ブレイジング・ブライト・ドラゴン}}
-  | romaji_name      = Burūaizu Bureijingu Buraito Doragon
-  | image            = BlueEyesBlazingBrightDragon-RDKP17-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Dragon / Fusion / Effect
-  | level            = 10
-  | atk              = 3000
-  | def              = 3000
-  | materials        = "[[Blue-Eyes White Dragon (Rush Duel)|Blue-Eyes White Dragon]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]]
-  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card gains 500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have "[[Engine of Destruction]]" in your Graveyard, you can [[destroy]] 1 monster on your opponent's [[field]].
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name         = {{Ruby|青眼の激煌龍|ブルーアイズ・ブレイジング・ブライト・ドラゴン}}
+  | romaji_name     = Burūaizu Bureijingu Buraito Doragon
+  | image           = BlueEyesBlazingBrightDragon-RDKP17-JP-UR.png
+  | attribute       = LIGHT
+  | types           = Dragon / Fusion / Effect
+  | level           = 10
+  | atk             = 3000
+  | def             = 3000
+  | fusion_material = Blue-Eyes White Dragon (Rush Duel)
+  | materials       = "[[Blue-Eyes White Dragon (Rush Duel)|Blue-Eyes White Dragon]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[Monster Card|monster]]
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore            = This card gains 500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have "[[Engine of Destruction]]" in your Graveyard, you can [[destroy]] 1 monster on your opponent's [[field]].
+  | ja_materials    = 「青眼の白龍」＋モンスター（レベル８／光属性／ドラゴン族）
+  | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore         = このカードの攻撃力は次の相手ターン終了時まで５００アップする。自分の墓地に「エンジン・オブ・デストラクション」がある場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
+  | jp_sets         = 
   RD/KP17-JP050; Burst Rex of Awakening; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions         = 
+  | mentions        = 
   * Blue-Eyes White Dragon (Rush Duel)
   * Engine of Destruction
-  | supports         = 
+  | supports        = 
   * LIGHT
   * Dragon
-  | archseries       = Blue-Eyes (Rush Duel)
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change      = This card gains ATK
-  | m/s/t            = Destroys your opponent's Monster Cards
-  | summoning        = 
+  | archseries      = Blue-Eyes (Rush Duel)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = This card gains ATK
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | summoning       = 
   * 2 Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires Level specific Fusion Materials
   * Requires Attribute specific Fusion Materials
   * Requires Type specific Fusion Materials
-  | misc             = Turn limited effects
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc            = Turn limited effects
+  | database_id     = 20347
   }}

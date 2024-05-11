@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = ブルーテック・バーストレックス
   | romaji_name           = Burūtekku Bāsuto Rekkusu
-  | image                 = BluetechBurstRex-RDKP17-JP-OP.png
+  | image                 = BluetechBurstRex-RDKP17-JP-UR.png
   | attribute             = LIGHT
   | types                 = Dragon / Fusion / Effect
   | level                 = 9
@@ -17,9 +17,9 @@ wikitext: |-
   | materials             = "[[Blue Tooth Burst Dragon]]" + "[[Jointech Rex]]"
   | requirement           = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, [[shuffle]] 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | lore                  = [[Destroy]] up to 3 [[face-down]] cards on your opponent's [[field]], and this card gains [[ATK]] equal to [the number of destroyed cards] x 500 until the end of this [[turn]]. Then, you can make all [[face-up]] monsters on your opponent's field lose 1000 ATK until the end of this turn.
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_materials          = 「碧牙の爆速竜」＋「ジョインテック・レックス」
+  | ja_requirement        = このカードをフュージョン召喚した自分メインフェイズに、自分の墓地のモンスター３体をデッキに戻して発動できる。
+  | ja_lore               = 相手フィールドの裏側表示のカードを３枚まで選んで破壊し、このカードの攻撃力はターン終了時まで、［破壊したカードの数］×５００アップする。その後、相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで１０００ダウンできる。
   | jp_sets               = 
   RD/KP17-JP044; Burst Rex of Awakening; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions              = 
@@ -43,6 +43,5 @@ wikitext: |-
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   | misc                  = Cover card
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20341
   }}

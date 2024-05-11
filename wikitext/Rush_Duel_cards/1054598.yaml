@@ -3,30 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダークマター・ストリング
-  | romaji_name      = Dākumatā Sutoringu
-  | image            = DarkMatterString-RDKP17-JP-OP.png
-  | attribute        = DARK
-  | types            = Galaxy / Effect
-  | level            = 5
-  | atk              = 1800
-  | def              = 1300
-  | requirement      = [[Reveal]] 1 [[Level]] 5 or lower [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] with 1300 [[DEF]] in your [[hand]] to your opponent.
-  | lore             = [[Special Summon]] the monster revealed to meet the [[Activation condition|requirement]] to your [[field]] in [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, this card gains 700 [[ATK]] until the end of your opponent's next [[turn]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ダークマター・ストリング
+  | romaji_name    = Dākumatā Sutoringu
+  | image          = DarkMatterString-RDKP17-JP-C.png
+  | attribute      = DARK
+  | types          = Galaxy / Effect
+  | level          = 5
+  | atk            = 1800
+  | def            = 1300
+  | requirement    = [[Reveal]] 1 [[Level]] 5 or lower [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] with 1300 [[DEF]] in your [[hand]] to your opponent.
+  | lore           = [[Special Summon]] the monster revealed to meet the [[Activation condition|requirement]] to your [[field]] in [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, this card gains 700 [[ATK]] until the end of your opponent's next [[turn]].
+  | ja_requirement = 手札のモンスター（レベル５以下／闇属性／ギャラクシー族／守備力１３００）１体を相手に見せて発動できる。
+  | ja_lore        = この効果の条件で見せたモンスターを自分フィールドに表側攻撃表示または裏側守備表示で特殊召喚する。その後、このカードの攻撃力は次の相手ターン終了時まで７００アップする。
+  | jp_sets        = 
   RD/KP17-JP024; Burst Rex of Awakening; Common
-  | supports         = 
+  | supports       = 
   * DARK
   * Galaxy (Type)
-  | archseries       = Dark Matter (series)
-  | action           = Reveals your hand for cost
-  | stat_change      = This card gains ATK
-  | summoning        = 
+  | archseries     = Dark Matter (series)
+  | action         = Reveals your hand for cost
+  | stat_change    = This card gains ATK
+  | summoning      = 
   * Special Summons from your hand
   * Special Summons face-down
-  | misc             = Turn limited effects
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc           = Turn limited effects
+  | database_id    = 20321
   }}

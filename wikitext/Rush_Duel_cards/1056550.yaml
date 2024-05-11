@@ -3,29 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ドラゴン・リムーバー
-  | romaji_name      = Doragon Rimūbā
-  | image            = DragonRemover-RDKP17-JP-OP.png
-  | attribute        = EARTH
-  | types            = Dragon / Effect
-  | level            = 3
-  | atk              = 500
-  | def              = 1000
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] the [[battle position]] of 1 [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] [[Monster Card|monster]] on your [[field]].
-  | lore             = [[Look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = ドラゴン・リムーバー
+  | romaji_name    = Doragon Rimūbā
+  | image          = DragonRemover-RDKP17-JP-R.png
+  | attribute      = EARTH
+  | types          = Dragon / Effect
+  | level          = 3
+  | atk            = 500
+  | def            = 1000
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] the [[battle position]] of 1 [[face-up]] [[Level]] 7 or higher [[Dragon]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | lore           = [[Look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
+  | ja_requirement = このカードを召喚したターンに、自分フィールドの表側表示モンスター（レベル７以上／ドラゴン族）１体の表示形式を変更して発動できる。
+  | ja_lore        = 相手の魔法＆罠ゾーンの裏側表示のカード１枚を選んで確認する。そのカードが罠カードだった場合、さらに選んだカードを破壊する。
+  | jp_sets        = 
   RD/KP17-JP035; Burst Rex of Awakening; Rare
-  | supports         = Dragon
-  | action           = 
+  | supports       = Dragon
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Changes battle positions for cost
   * Reveals face-down cards
-  | m/s/t            = Destroys your opponent's face-down Trap Cards
-  | misc             = 
+  | m/s/t          = Destroys your opponent's face-down Trap Cards
+  | misc           = 
   * Requires control of specific Level
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20332
   }}

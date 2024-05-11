@@ -3,29 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|ＪＡＭ：Ｐ|ジャンプ}}キャッチ！
-  | romaji_name      = Janpu Kyacchi!
-  | image            = 
+  | ja_name        = {{Ruby|ＪＡＭ：Ｐ|ジャンプ}}キャッチ！
+  | romaji_name    = Janpu Kyacchi!
+  | image          = 
   1; JAMPCatch-RDKP17-JP-SR.png
   2; JAMPCatch-RDKP17-JP-ScR-AA.png
-  | current_image    = 1
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 2 to 4 [[Psychic]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = [[Battle position change|Change]] the attacking monster to [[face-up]] [[Defense Position]]. Then, if you have a Psychic Type [[Normal Monster]] in your Graveyard, you can [[Draw a card|draw]] until you have 6 cards in your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | current_image  = 1
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 2 to 4 [[Psychic]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore           = [[Battle position change|Change]] the attacking monster to [[face-up]] [[Defense Position]]. Then, if you have a Psychic Type [[Normal Monster]] in your Graveyard, you can [[Draw a card|draw]] until you have 6 cards in your [[hand]].
+  | ja_requirement = 相手モンスターの攻撃宣言時、自分の墓地のモンスター（サイキック族）２～４体をデッキに戻して発動できる。
+  | ja_lore        = 攻撃してきたモンスターを表側守備表示にする。自分の墓地に通常モンスター（サイキック族）がいる場合、さらに自分は手札が６枚になるようにドローできる。
+  | jp_sets        = 
   RD/KP17-JP063; Burst Rex of Awakening; Super Rare, Secret Rare
-  | supports         = 
+  | supports       = 
   * Psychic
   * Normal Monster
-  | archseries       = JAM
-  | action           = 
+  | archseries     = JAM
+  | action         = 
   * Activates upon attack declaration
   * Returns from Graveyard to Deck for cost
   * Changes battle positions
   * You draw cards
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20360
   }}
