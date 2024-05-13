@@ -12,14 +12,15 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = AC04-BoosterJP.png
+  | image                 = GoldenAllureQueen-AC04-JP-OP.png
   | attribute             = DARK
   | types                 = Spellcaster / Link / Effect
   | atk                   = 2500
   | link_arrows           = Middle-Left, Bottom-Center, Middle-Right
   | password              = 
-  | effect_types          = 
-  | lore                  = ''TBA''
+  | materials             = 3 Spellcaster monsters
+  | effect_types          = Trigger, Continuous, Quick
+  | lore                  = 3 [[Spellcaster]] [[monsters]]<br />If this card is [[Link Summon]]ed: You can [[Special Summon]] 1 "[[Allure Queen]]" [[monster]] from your [[Main Deck|Deck]] or [[GY]], and if you do, this gains 1500 [[ATK]] until the end of the next [[turn]]. You can [[activate]] the [[effect]]s that [[equip]] a monster(s) to themselves of monsters with "Allure Queen" in their original names as [[Quick Effect]]s. [[Once per turn]], when your opponent activates a card or effect (Quick Effect): You can [[destroy]] 1 card on the [[field]], also "Allure Queen" monsters you control cannot be destroyed by card effects for the rest of this turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +30,9 @@ wikitext: |-
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP0??; Animation Chronicle 2024; 
+  AC04-JP027; Animation Chronicle 2024; Ultra Rare
   | archseries            = Allure Queen
+  | supports_archetypes   = Allure Queen
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
