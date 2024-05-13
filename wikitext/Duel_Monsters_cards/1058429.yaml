@@ -29,6 +29,19 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP004; Animation Chronicle 2024; 
+  | supports              = 
+  * Fiend
+  * Zombie
+  | action                = 
+  * Activates upon attack declaration
+  * Sends itself from field to Graveyard
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | attack                = Negates attacks
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

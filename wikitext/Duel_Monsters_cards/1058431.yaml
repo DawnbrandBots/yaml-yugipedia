@@ -31,6 +31,12 @@ wikitext: |-
   AC04-JP029; Animation Chronicle 2024; 
   | mentions              = Allure Palace
   | supports_archetypes   = Allure Queen
+  | action                = 
+  * Adds from Deck to hand
+  * Sends from field to Graveyard for cost
+  | stat_change           = Your monsters gain ATK
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

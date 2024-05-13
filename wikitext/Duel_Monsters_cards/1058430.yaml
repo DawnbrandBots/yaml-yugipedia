@@ -29,7 +29,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP028; Animation Chronicle 2024; 
+  | supports              = Spellcaster
   | supports_archetypes   = Allure Queen
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Deck to hand
+  * Grants effect to other cards
+  * Sends from field to Graveyard for cost
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | summoning             = 
+  * Special Summons from your Deck to your opponent's field
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | misc                  = Only thrice per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
