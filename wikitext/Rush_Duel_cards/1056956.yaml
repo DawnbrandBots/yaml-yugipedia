@@ -8,12 +8,19 @@ wikitext: |-
   | level            = 1
   | atk              = 0
   | def              = 0
-  | requirement      = TBA
-  | lore             = TBA
+  | requirement      = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore             = Choose 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] with 100 or more [[Original ATK and DEF|original ATK]]. While this card is face-up, it gains [[ATK]] equal to [that monster's original ATK], and if that monster's original DEF is 100 or more, this card gains [[DEF]] equal to [that monster's original DEF].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/SJMP-JP040; Saikyō Jump July 2024 promotional card; Normal Parallel Rare
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = 
+  * This card gains ATK
+  * This card gains DEF
   | misc             = Legend Card
   | database_id      = 
   | rush_duel_status = Not yet released
