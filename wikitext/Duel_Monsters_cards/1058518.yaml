@@ -22,13 +22,13 @@ wikitext: |-
   | password              = 
   | materials             = 2 Level 3 monstes
   | effect_types          = Trigger, Ignition, Condition
-  | lore                  = 2 [[Level]] 3 [[monsters]]<br />If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Virtue Stream]]" from your [[Main Deck|Deck]] to your [[hand]]. You can [[activate]] 1 of these [[effect]]s;<br />● [[Detach]] 1 [[Xyz Material]] from a monster you [[control]]; add 1 [[Fish]], [[Sea Serpent]], or [[Aqua]] monster from your [[GY]] to your hand, except "Levirtue Dragon".<br />● [[Target]] 2 [[Xyz Monster]]s on the [[field]]; detach 1 material from 1 of them and attach it to the other as material.<br />You can only use each effect of "Levirtue Dragon" [[once per turn]].
+  | lore                  = 2 [[Level]] 3 [[monsters]]<br />If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Virtue Stream]]" from your [[Main Deck|Deck]] to your [[hand]]. You can [[activate]] 1 of these [[effect]]s;<br />● [[Detach]] 1 [[Xyz Material]] from a monster you [[control]], then add 1 [[Fish]], [[Sea Serpent]], or [[Aqua]] monster from your [[GY]] to your hand, except "Levirtue Dragon".<br />● [[Target]] 2 [[Xyz Monster]]s on the [[field]]; detach 1 material from 1 of them and attach it to the other as material.<br />You can only use each effect of "Levirtue Dragon" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = レベル３モンスター×２<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから「ヴァーチュ・ストリーム」１枚を手札に加える。②：以下の効果から１つを選択して発動できる。●自分フィールドのＸ素材を１つ取り除いて発動できる。「リヴァーチュ・ドラゴン」以外の自分の墓地の魚族・海竜族・水族モンスター１体を手札に加える。●フィールドのＸモンスター２体を対象として発動できる。その内の１体のＸ素材１つを、もう１体のＸ素材とする。
+  | ja_lore               = レベル３モンスター×２<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから「ヴァーチュ・ストリーム」１枚を手札に加える。②：以下の効果から１つを選択して発動できる。●自分フィールドのＸ素材を１つ取り除く。その後、自分の墓地から「リヴァーチュ・ドラゴン」以外の魚族・海竜族・水族モンスター１体を手札に加える。●フィールドのＸモンスター２体を対象として発動できる。その内の１体のＸ素材１つを、もう１体のＸ素材とする。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
@@ -49,7 +49,6 @@ wikitext: |-
   | action                = 
   * Activates upon Special Summon
   * Adds from Deck to hand
-  * Detaches Xyz Materials for cost
   * Adds from Graveyard to hand
   * Detaches Xyz Materials for effect
   * Moves Xyz Materials
