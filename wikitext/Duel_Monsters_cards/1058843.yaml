@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 2000
   | password            = 
   | effect_types        = Quick, Trigger, Condition
-  | lore                = When 1 monster you control (and no other cards) is targeted for an attack or with a card effect, and this card is in your hand or GY (Quick Effect): You can Tribute that monster; Special Summon this card. If this card is Special Summoned: You can activate this effect; add 1 WATER monster from your GY to your hand during the End Phase of this turn, except "Cutter Shark". You can only use each effect of "Cutter Shark" once per turn.
+  | lore                = When 1 [[monster]] you [[control]] (and no other cards) is [[target]]ed for an [[attack]] or with a [[card effect]], and this card is in your [[hand]] or [[GY]] ([[Quick Effect]]): You can [[Tribute]] that monster; [[Special Summon]] this card. If this card is Special Summoned: You can [[activate]] this effect; [[add]] 1 [[WATER]] monster from your GY to your hand during the [[End Phase]] of this [[turn]], except "Cutter Shark". You can only use each effect of "Cutter Shark" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,7 +33,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   AC04-JP015; Animation Chronicle 2024; 
+  | mentions            = Cutter Shark
+  | supports            = WATER
   | archseries          = Shark (archetype)
+  | action              = 
+  * Activates if targeted for an attack
+  * Activates if targeted by card effect
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Tributes for cost
+  * Activates upon Special Summon
+  * Adds from Graveyard to hand
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
