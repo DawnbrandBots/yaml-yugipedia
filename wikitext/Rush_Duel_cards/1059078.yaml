@@ -11,10 +11,13 @@ wikitext: |-
   | level                  = 6
   | atk                    = 2100
   | def                    = 1200
+  | fusion_material        = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
   | materials              = "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                   = 1 [[face-up]] [[Warrior]] [[monster]] on your [[field]] gains 1000 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field.
+  | lore                   = 1 [[face-up]] [[Warrior]] [[Type]] [[Monster Card|monster]] on your [[field]] gains 1000 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
@@ -22,7 +25,23 @@ wikitext: |-
   | jp_sets                = 
   RD/SD0B-JP002; Structure Deck: Birth of Hero; Ultra Rare
   RD/SD0B-JPS02; Structure Deck: Birth of Hero; Over Rush Rare
+  | mentions               = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
+  | supports               = Warrior
   | archseries             = Elemental HERO (Rush Duel)
+  | action                 = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change            = Your monsters gain ATK
+  | m/s/t                  = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Nomi
+  | misc                   = 
+  * Requires control of specific Type
+  * Turn limited effects
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
