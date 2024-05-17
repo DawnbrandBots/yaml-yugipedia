@@ -16,8 +16,8 @@ wikitext: |-
   | level          = 3
   | atk            = 1000
   | def            = 1000
-  | requirement    = You have a [[face-up]] [[Warrior]] [[Type]] [[monster]] other than this card on your [[field]].
-  | lore           = [[Shuffle]] monsters from your opponent's [[Graveyard]] into the [[Main Deck|Deck]], up to [the number of [[Spell]]/[[Trap Card]]s on your opponent's field].
+  | requirement    = You have a [[face-up]] [[Warrior]] [[Type]] [[Monster Card|monster]] other than this card on your [[field]].
+  | lore           = [[Shuffle]] monsters from your opponent's [[Graveyard]] into the [[Main Deck|Deck]], up to [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your opponent's field].
   | fr_requirement = Vous avez un monstre de Type Guerrier face recto (cette carte exclue) sur votre Terrain.
   | fr_lore        = Mélangez un nombre de monstres depuis le Cimetière de votre adversaire dans le Deck inférieur ou égal au [nombre de Cartes Magie/Piège sur le Terrain de votre adversaire].
   | de_requirement = Du hast ein offenes Monster des Typs Krieger, das nicht dieser Karte entspricht, auf deiner Spielfeldseite.
@@ -34,13 +34,14 @@ wikitext: |-
   RD/KP04-JP038; Deck Mod Pack: Destined Power Destruction!!; Rare
   RD/SBD3-JP016; Strongest Battle Deck Gavin - Demon Commander Three Legions; Common
   RD/B224-JP003; Battle Pack 2022 Vol.4; Common, Super Rare
+  RD/SD0B-JP023; Structure Deck: Birth of Hero; Common
   | kr_sets        = 
   RD/KP04-KR038; Deck Mod Pack: Destined Power Destruction!!; Rare
   RD/SBD3-KR016; Strongest Battle Deck Gavin - Demon Commander Three Legions; Common
   | supports       = Warrior
+  | archseries     = Talismanic
   | action         = Returns from your opponent's Graveyard to your opponent's Deck
   | fm_for         = Douma the Talismanic Supreme Sage
   | misc           = Requires control of specific Type 
-  | archseries  = Talismanic
   | database_id    = 16159
   }}
