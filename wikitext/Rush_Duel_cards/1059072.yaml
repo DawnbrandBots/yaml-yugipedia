@@ -8,7 +8,7 @@ wikitext: |-
   | level            = 4
   | atk              = 800
   | def              = 1200
-  | requirement      = You have no other cards in your [[hand]] or [[field]] during your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | requirement      = You have no other cards in your [[hand]] or [[field]] during your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card.
   | lore             = [[Draw a card|Draw]] 2 cards.
   | ja_requirement   = 
   | ja_lore          = 
@@ -16,6 +16,13 @@ wikitext: |-
   RD/SD0B-JP009; Structure Deck: Birth of Hero; Common
   RD/SD0B-JPS10; Structure Deck: Birth of Hero; Super Rare
   | archseries       = Elemental HERO (Rush Duel)
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * You draw cards
+  | misc             = 
+  * Requires having no cards in hand
+  * Requires control of no other monsters
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
