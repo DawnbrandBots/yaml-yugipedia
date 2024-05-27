@@ -73,7 +73,9 @@ wikitext: |-
   | counter               = 
   * Counter (counter)
   * Places counters on itself
-  | action                = Tributes itself for cost
+  | action                = 
+  * Activates if other cards are sent to the Graveyard
+  * Tributes itself for cost
   | summoning             = Special Summons from your Deck
   | banished              = Cannot be banished
   | database_id           = 6797
