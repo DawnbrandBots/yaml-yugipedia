@@ -48,7 +48,9 @@ wikitext: |-
   * Heroic Challenger
   * Heroic Champion
   | action                = Activates if targeted for an attack
-  | stat_change           = Changes ATK value
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Doubles ATK
   | attack                = 
   * Changes attack targets
   * Conducts damage calculation
