@@ -55,4 +55,4 @@ jobs:
       - uses: actions/checkout@v4
       - name: Duel Monsters cards do not contain Rush Duel cards (naïve check)
         run: |
-          ! grep RD/ -R wikitext/cards --include='*.yaml'
+          ! grep RD/ -R wikitext/Duel_Monsters_cards --include='*.yaml'

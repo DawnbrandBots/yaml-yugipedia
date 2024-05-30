@@ -4,13 +4,13 @@
 #
 #    pip-compile
 #
-anyio==4.1.0
+anyio==4.4.0
     # via httpx
-certifi==2023.11.17
+certifi==2024.2.2
     # via
     #   httpcore
     #   httpx
-exceptiongroup==1.2.0
+exceptiongroup==1.2.1
     # via anyio
 h11==0.14.0
     # via httpcore
@@ -18,7 +18,7 @@ h2==4.1.0
     # via httpx
 hpack==4.0.0
     # via h2
-httpcore==1.0.2
+httpcore==1.0.5
     # via httpx
 httpx[http2]==0.27.0
     # via -r requirements.in
@@ -32,7 +32,9 @@ ruamel-yaml==0.18.6
     # via -r requirements.in
 ruamel-yaml-clib==0.2.8
     # via ruamel-yaml
-sniffio==1.3.0
+sniffio==1.3.1
     # via
     #   anyio
     #   httpx
+typing-extensions==4.12.0
+    # via anyio
