@@ -9,6 +9,7 @@ wikitext: |-
   | es_name               = Último Contragolpe
   | ja_name               = ラスト・カウンター
   | romaji_name           = Rasuto Kauntā
+  | sc_name               = 最终反击
   | image                 = 
   1;   LastCounter-PRIO-JP-C.png   ; LastCounter-MADU-JP-VG-artwork.png
   1.1; LastCounter-LD10-EN-C-1E.png; LastCounter-MADU-EN-VG-artwork.png
@@ -25,6 +26,7 @@ wikitext: |-
   | es_lore               = Cuando es declarado un ataque que involucre un monstruo "Boxeador Indómito" que controles y un monstruo del adversario: niega el ataque y, si lo haces, manda al Cementerio ese monstruo que controles, y después 1 monstruo "Boxeador Indómito" que controles (en Posición de Ataque, si tú declaraste el ataque) gana ATK igual al ATK original de ese monstruo del adversario, y además procede al cálculo de daño usando esos monstruos. Después, tú recibes daño igual al ATK ganado por este efecto.
   | ja_lore               = 自分フィールド上の「ＢＫ」と名のついたモンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その攻撃を無効にし、その自分のモンスターを墓地へ送る。その相手モンスターの元々の攻撃力分、自分フィールド上の「ＢＫ」と名のついたモンスター１体の攻撃力をアップし、その相手モンスターとダメージ計算を行う。その後、自分はこのカードの効果でアップした攻撃力の数値分のダメージを受ける。
   | ko_lore               = 자신 필드 위의 "BK(버닝나쿠라)" 라는 이름이 붙은 몬스터가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 그 공격을 무효로 하고, 그 자신의 몬스터를 묘지로 보낸다. 그 상대 몬스터의 원래 공격력만큼, 자신 필드 위의 "BK(버닝나쿠라)" 라는 이름이 붙은 몬스터 1장의 공격력을 올리고, 그 상대 몬스터와 데미지 계산을 실행한다. 그 후, 자신은 이 카드의 효과로 올린 공격력의 수치만큼 데미지를 받는다.
+  | sc_lore               = ①：自己的“燃烧拳斗士”怪兽与对手怪兽进行战斗的攻击宣言时可以发动。使该攻击无效，将该自己的怪兽送至墓地，自己场上的１只“燃烧拳斗士”怪兽的攻击力上升相当于该对手的怪兽原本攻击力的数值，与该对手怪兽进行战斗并进行伤害计算。然后，自己受到相当于以此效果上升的攻击力数值的伤害。
   | en_sets               = 
   PRIO-EN071; Primal Origin; Common
   LD10-EN059; Legendary Duelists: Soulburning Volcano; Common
@@ -47,6 +49,8 @@ wikitext: |-
   PRIO-JP071; Primal Origin; Common
   | kr_sets               = 
   PRIO-KR071; Primal Origin; Common
+  | sc_sets               = 
+  DP29-SC078; Duelist Pack: Duelists of Brilliance; Common
   | archseries            = Counter (archetype)
   | supports_archetypes   = Battlin' Boxer
   | action                = Sends from your field to your Graveyard
