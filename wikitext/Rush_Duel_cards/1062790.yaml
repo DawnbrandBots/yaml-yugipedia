@@ -14,7 +14,7 @@ wikitext: |-
   | materials              = "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]" + "[[Elemental HERO Clayman (Rush Duel)|Elemental HERO Clayman]]"
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore                   = [[Destroy]] 1 [[face-up]] [[monster]] on the [[field]] with [[original ATK]] less than this card's [[ATK]].
+  | lore                   = [[Destroy]] 1 [[face-up]] [[Monster Card|monster]] on the [[field]] with [[Original ATK and DEF|original ATK]] less than this card's [[ATK]].
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
@@ -25,6 +25,13 @@ wikitext: |-
   * Elemental HERO Sparkman (Rush Duel)
   * Elemental HERO Clayman (Rush Duel)
   | archseries             = Elemental HERO (Rush Duel)
+  | action                 = Sends from hand to Graveyard for cost
+  | m/s/t                  = Destroys face-up Monster Cards
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Nomi
+  | misc                   = Requires control of specific ATK
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
