@@ -41,7 +41,20 @@ wikitext: |-
   | archseries            = 
   * Blue-Eyes
   * Millennium
-  | misc                  = Archetype condition
+  | action                = 
+  * Discards itself for cost
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Cannot change possession
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  | summoning             = Special Summons itself from your Graveyard
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
+  * Only once per Duel
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
