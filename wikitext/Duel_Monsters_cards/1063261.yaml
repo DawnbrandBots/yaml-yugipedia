@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2600
   | def                   = 1000
   | password              = 
+  | materials             = 3 Level 5 monsters
   | effect_types          = Quick, Condition, Ignition, Trigger
   | lore                  = 3 [[Level]] 5 [[monsters]]<br />When a card or effect is [[activate]]d that [[target]]s this card ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; [[Special Summon]] 1 "Performage Shadow Maker" from your [[Extra Deck]]. You can only use each of the following [[effect]]s of "Performage Shadow Maker" [[once per turn]]. You can detach 1 material from this card and [[send]] 1 "[[Performage]]" monster from your [[Main Deck|Deck]] to the [[GY]]; [[Add a card|add]] 1 "[[Rank-Up-Magic]]" [[Spell]] from your Deck to your [[hand]]. If the last material(s) is detached from this card: You can Special Summon 1 "Performage" monster from your GY.
   | fr_lore               = 
@@ -32,10 +33,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP023; Animation Chronicle 2024; 
+  | mentions              = Performage Shadow Maker
   | archseries            = Performage
   | supports_archetypes   = 
   * Performage
   * Rank-Up-Magic
+  | action                = 
+  * Activates if targeted by card effect
+  * Sends from Deck to Graveyard for cost
+  * Adds from Deck to hand
+  * Activates if Xyz Material is detached
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Special Summons copies of itself
+  * Special Summons from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

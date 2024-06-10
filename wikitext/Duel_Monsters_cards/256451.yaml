@@ -1,16 +1,17 @@
 title: Battlin' Boxer Sparrer
 wikitext: |-
   {{CardTable2
-  | tc_name               = 燃燒拳鬥士 練習對手
   | fr_name               = Boxeur Indomptable d'Entraînement
   | de_name               = Unermüdlicher Boxer Sparringspartner
   | it_name               = Pugile Indomito Allenatore
-  | ko_name               = {{Ruby|BK|버닝나쿠라|lang=ko}} 스파
   | pt_name               = Boxeador Obstinado de Aparador
   | es_name               = Boxeador Indómito Entrenador
   | ja_name               = {{Ruby|ＢＫ|バーニングナックラー}} スパー
   | romaji_name           = Bāningu Nakkurā Supā
   | trans_name            = Burning Knuckler Spar
+  | ko_name               = {{Ruby|BK|버닝나쿠라|lang=ko}} 스파
+  | tc_name               = 燃燒拳鬥士 練習對手
+  | sc_name               = 燃烧拳斗士 练拳
   | image                 = BattlinBoxerSparrer-MP14-EN-C-1E.png
   | attribute             = FIRE
   | types                 = Warrior / Effect
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_lore               = 自分フィールド上に「ＢＫ」と名のついたモンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚した場合、このターン自分はバトルフェイズを行えない。
   | ko_lore               = 자신 필드 위에 "BK(버닝나쿠라)" 라는 이름이 붙은 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 방법으로 특수 소환했을 경우, 이 턴에 자신은 배틀 페이즈를 실행할 수 없다.
   | tc_lore               = 我方场上存在冠有「燃燒拳鬥士」之名的怪兽的场合，此卡可从手牌特殊召唤。以此方法特殊召唤的场合，此回合我方不能进行战斗阶段。
+  | sc_lore               = ①：自己场上存在“燃烧拳斗士”怪兽的情况下，此卡可从手牌特殊召唤。以此方法特殊召唤的回合，自己无法进行战斗阶段。
   | en_sets               = 
   LTGY-EN018; Lord of the Tachyon Galaxy; Common
   MP14-EN004; 2014 Mega-Tin Mega Pack; Common
@@ -52,6 +54,8 @@ wikitext: |-
   LTGY-TC018; Lord of the Tachyon Galaxy; Common
   | kr_sets               = 
   LTGY-KR018; Lord of the Tachyon Galaxy; Common
+  | sc_sets               = 
+  DP29-SC068; Duelist Pack: Duelists of Brilliance; Common
   | archseries            = Battlin' Boxer
   | supports_archetypes   = Battlin' Boxer
   | action                = Cannot conduct Battle Phase

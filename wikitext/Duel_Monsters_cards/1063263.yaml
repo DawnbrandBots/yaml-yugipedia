@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 1800
   | password              = 
+  | materials             = 2 "Performage" monsters
   | effect_types          = Continuous, Continuous, Trigger
   | lore                  = 2 "[[Performage]]" [[monsters]]<br />Your opponent cannot [[target]] "[[Performage]]" [[monsters]] you [[control]] with card [[effect]]s, also they cannot be [[destroy]]ed by your card effects. Your opponent's monsters cannot target this card for [[attack]]s while you control a "Performage" monster other than "Performage Trapeze Witch". When an attack is declared involving your "Performage" monster and an opponent's monster: You can make that opponent's monster lose 600 [[ATK]].
   | fr_lore               = 
@@ -32,8 +33,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP022; Animation Chronicle 2024; 
+  | mentions              = Performage Trapeze Witch
   | archseries            = Performage
   | supports_archetypes   = Performage
+  | action                = Activates upon attack declaration
+  | stat_change           = Your opponent's monsters lose ATK
+  | m/s/t                 = 
+  * Cannot be targeted by card effects
+  * Prevents other cards being targeted by card effects
+  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  | attack                = Cannot be targeted for attacks
+  | misc                  = Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

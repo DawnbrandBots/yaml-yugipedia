@@ -43,8 +43,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP021; Animation Chronicle 2024; 
+  | supports              = 
+  * Xyz Monster
+  * Pendulum Monster
+  | anti-supports         = Xyz Monster
   | archseries            = Performage
   | supports_archetypes   = Performage
+  | action                = 
+  * Attaches itself from your Pendulum Zone as Xyz Material
+  * Adds from Extra Deck to hand
+  * Activates from your hand
+  * Detaches Xyz Materials for effect
+  * Activates if detached from Xyz Monster to activate its effect
+  * Activates if sent to the Graveyard
+  * Moves Xyz Materials
+  | stat_change           = All monsters lose ATK
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

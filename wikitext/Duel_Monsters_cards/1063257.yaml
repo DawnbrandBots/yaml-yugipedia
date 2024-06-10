@@ -46,6 +46,18 @@ wikitext: |-
   | mentions              = Polymerization
   | archseries            = Performage
   | supports_archetypes   = Performage
+  | action                = 
+  * Activates upon attack declaration
+  * Changes battle positions
+  * Activates upon Pendulum Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | summoning             = Special Summons itself from your Pendulum Zone
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

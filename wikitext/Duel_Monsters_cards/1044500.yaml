@@ -1,7 +1,5 @@
-title: Archfiend's Arrival
+title: Archfiend's Advent
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,15 +12,15 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ArchfiendsArrival-VX04-JP-UR.png
+  | image                 = ArchfiendsAdvent-VX04-JP-UR.png
   | attribute             = DARK
   | types                 = Fiend / Effect
   | level                 = 6
   | atk                   = 2500
   | def                   = 1200
   | password              = 53008933
-  | effect_types          = Unclassified, Trigger, Condition, Continuous
-  | lore                  = If you [[control]] "[[Shining Sarcophagus]]", you can [[Normal Summon]] this card without [[Tribute|Tributing]]. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 [[monster]] your opponent controls; take control of it until the [[End Phase]], but if you did not control "Shining Sarcophagus" at activation, that monster cannot [[attack]] while you control it. You can only use this [[effect]] of "Archfiend's Arrival" [[once per turn]]. Other monsters you control gain 500 [[ATK]] during your [[turn]] only.
+  | effect_types          = Unclassified, Continuous, Trigger, Condition
+  | lore                  = While you [[control]] "[[Shining Sarcophagus]]", you can [[Normal Summon]] this card without [[Tribute|Tributing]]. Other [[monsters]] you control gain 500 [[ATK]], during your [[turn]] only. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 monster your opponent controls; take control of it until the [[End Phase]], but that monster cannot [[attack]] unless you controlled "Shining Sarcophagus" when this [[effect]] was activated. You can only use this effect of "Archfiend's Advent" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,6 +29,18 @@ wikitext: |-
   | ja_lore               = このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドに「光の黄金櫃」が存在する場合、このカードはリリースなしで召喚できる。②：このカードが召喚・特殊召喚した場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールをエンドフェイズまで得る。この効果の発動時に自分フィールドに「光の黄金櫃」が存在しなかった場合、この効果でコントロールを得たモンスターは攻撃できない。③：自分フィールドの他のモンスターの攻撃力は、自分ターンの間５００アップする。
   | ko_lore               = 
   | sc_lore               = 
+  | en_sets               = 
+  BLTR-EN046; Battles of Legend: Terminal Revenge; Secret Rare
+  | fr_sets               = 
+  BLTR-FR046; Battles of Legend: Terminal Revenge; Secret Rare
+  | de_sets               = 
+  BLTR-DE046; Battles of Legend: Terminal Revenge; Secret Rare
+  | it_sets               = 
+  BLTR-IT046; Battles of Legend: Terminal Revenge; Secret Rare
+  | pt_sets               = 
+  BLTR-PT046; Battles of Legend: Terminal Revenge; Secret Rare
+  | sp_sets               = 
+  BLTR-SP046; Battles of Legend: Terminal Revenge; Secret Rare
   | jp_sets               = 
   VX04-JP001; The Valuable Book EX 4 promotional cards; Ultra Rare
   | mentions              = Shining Sarcophagus

@@ -43,8 +43,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   AC04-JP018; Animation Chronicle 2024; 
+  | mentions              = Performage Fire Dancer
   | archseries            = Performage
   | supports_archetypes   = Performage
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | stat_change           = All monsters lose ATK
+  | attack                = Piercing
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
