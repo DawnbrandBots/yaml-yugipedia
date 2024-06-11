@@ -53,7 +53,8 @@ wikitext: |-
   Generic LIGHT Fiends with disruptive effects like "[[Santa Claws]]" and "[[Amanokujaki]]" can also be searched this way and be immediately made use of.
 
   === Sample combos ===
-  The "Fiendsmith" archetype can function quite well as an engine, being able to Summon their boss monster "Fiendsmith Dies Irae" with relative ease. One such way is by simply opening with "[[Fiendsmith Tractus]]", which is detailed below. This method has three main goals:
+  ==== As a Deck ====
+  The "Fiendsmith" archetype have several ways of starting their plays, being able to Summon their boss monster "Fiendsmith Dies Irae" with relative ease. One such way is by simply opening with "[[Fiendsmith Tractus]]", which is detailed below. This method has three main goals:
   # Summoning "Dies Irae" and equipping it with "Fiendsmith Sequentia", creating a point of interruption that can negate 2 of the opponent's cards, while also preventing it from being targeted by their effects.
   # Placing "Fiendsmith Sanctus" in the GY, from where it can Set itself if "Dies Irae" is destroyed, thus allowing similar combos to be performed during the following turn.
   # Establishing a form of interaction and follow-up without using the player's Normal Summon, or restricting their Special Summons.
@@ -72,6 +73,38 @@ wikitext: |-
   # Link Summon "[[Fiendsmith Sequentia]]" by using "Lacrimosa" and "The Fiendsmish".
   # Activate "Sequentia" to Fusion Summon "[[Fiendsmith Dies Irae]]" by shuffling "Lacrimosa" and the two copies of "The Fiendsmith" from the GY into the Deck
   # Activate "Sequentia" to equip itself to "Dies Irae".
+  }}
+
+  ==== As an engine ====
+  Due to the Deck's lack of Summoning restrictions, the "Fiendsmith" cards make a great engine for Summoning Rank 6 monsters, without losing card advantage.
+
+  One way these cards can be used is in the middle of any combo that has 3 monsters left on the field (with 2 of those being [[Effect Monster]]s). This gives access to any [[Rank]] 6 monster (most notably "[[Beatrice, Lady of the Eternal]]"), and also leaves a Link-2 monster on the field ("Sequentia") and allows "The Fiendsmith" to Special Summon itself back from the GY later.
+
+  {{Combo steps
+  | opening = Any 2 Effect Monsters + 1 monster
+  | end     = 1 [[Rank]] 6 monster and "[[Fiendsmith Sequentia]]" + 1 "[[The Fiendsmith]]" in GY
+  | steps   = 
+  # Link Summon "[[Moon of the Closed Sky]]" by using the 2 Effect Monsters.
+  # Link Summon "[[Fiendsmith Requiem]]" by using "Moon of the Closed Sky".
+  # Activate "Requiem" by Tributing itself to Special Summon "[[The Fiendsmith]]" from the Deck.
+  # Link Summon "[[Fiendsmith Sequentia]]" by using the last remaining monster and "The Fiendsmith".
+  # Activate "Sequentia" to Fusion Summon "[[Fiendsmith Lacrimosa]]" by shuffling "Requiem" and "Moon of the Closed Sky" from the GY into the Extra Deck.
+  # Activate "Lacrimosa" to Special Summon "The Fiendsmith" from the GY.
+  # Xyz Summon a Rank 6 monster by using "Lacrimosa" and "The Fiendsmith".
+  }}
+
+  Another method requires the player to specifically have "The Fiendsmith" in hand. While it generates less cards during the combo, it also requires less cards, and doesn't use the player's [[Normal Summon]].
+  {{Combo steps
+  | opening = "[[The Fiendsmith]]"
+  | end     = 1 [[Rank]] 6 monster
+  | steps   = 
+  # Activate "[[The Fiendsmith]]" by discarding itself to add "[[Fiendsmith Tractus]]" to the hand.
+  # Activate "Tractus" to add "[[Fabled Lurrie]]" and discard it.
+  # Activate "Lurrie" to Special Summon itself.
+  # Link Summon "[[Fiendsmith Requiem]]" by using "Lurrie".
+  # Activate "Requiem" by Tributing itself to Special Summon a second "The Fiendsmith" from the Deck.
+  # Activate "The Fiendsmith" in the GY to return "Lurrie" to the Deck and Special Summon itself.
+  # Xyz Summon a Rank 6 monster by using both copies of "The Fiendsmith".
   }}
 
   ===Recommended cards===
