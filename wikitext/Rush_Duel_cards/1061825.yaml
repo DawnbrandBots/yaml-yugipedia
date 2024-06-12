@@ -3,24 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name             = ジョインテック・プライムレックス
-  | romaji_name         = Jointekku Puraimu Rekkusu
-  | image               = JointechPraimeRex-RDSJMP-JP-OP.png
-  | attribute           = LIGHT
-  | types               = Machine / Effect
-  | level               = 7
-  | atk                 = 2500
-  | def                 = 1500
-  | summoning_condition = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1800.
-  | requirement         = [[Shuffle]] 3 [[LIGHT]] [[Attribute]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore                = Reduce the [[Level]] of 1 [[face-up]] [[Level]] 4 or higher monster on your opponent's [[field]] by 3 until the end of this [[turn]]. Then, you can [[destroy]] 1 card in your opponent's [[Spell & Trap Zone]].
-  | ja_requirement      = 
-  | ja_lore             = 
-  | jp_sets             = 
+  | ja_name                = ジョインテック・プライムレックス
+  | romaji_name            = Jointekku Puraimu Rekkusu
+  | image                  = JointechPraimeRex-RDSJMP-JP-OP.png
+  | attribute              = LIGHT
+  | types                  = Machine / Effect
+  | level                  = 7
+  | atk                    = 2500
+  | def                    = 1500
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1800.
+  | requirement            = [[Shuffle]] 3 [[LIGHT]] [[Attribute]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore                   = Reduce the [[Level]] of 1 [[face-up]] [[Level]] 4 or higher monster on your opponent's [[field]] by 3 until the end of this [[turn]]. Then, you can [[destroy]] 1 card in your opponent's [[Spell & Trap Zone]].
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
   RD/SJMP-JP041; Saikyō Jump August 2024 promotional card; Normal Parallel Rare
-  | archseries          = 
+  | supports               = LIGHT
+  | archseries             = 
   * Jointech
   * Praime
-  | database_id         = 
-  | rush_duel_status    = Not yet released
+  | action                 = Returns from Graveyard to Deck for cost
+  | stat_change            = 
+  * Changes own ATK value
+  * Changes original ATK
+  * Your opponent's monsters lose Levels
+  | m/s/t                  = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning              = Normal Summon with 1 Tribute
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
