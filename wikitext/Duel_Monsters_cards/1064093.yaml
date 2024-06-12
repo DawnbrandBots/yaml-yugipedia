@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Summoning condition, Quick, Condition, Trigger
-  | lore                = Requires 1 Normal Monster Tribute to Normal Summon face-up. During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 "Primoredial" monster. You can only use this effect of "Imperial Dragon the Primoredial Dragon" once per turn. If this card is Tribute Summoned: You can apply these effects, in sequence.<br />● Negate the effects of all face-up monsters your opponent currently controls.<br />● Banish all monsters your opponent controls with the same Type and/or Attribute as any of the Normal Monsters in your GY.
+  | lore                = Requires 1 [[Normal Monster]] [[Tribute]] to [[Normal Summon]] [[face-up]]. During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[reveal]] this card in your [[hand]]; immediately after this [[effect]] [[resolve]]s, Normal Summon 1 "[[Primoredial]]" [[monster]]. You can only use this effect of "Imperial Dragon the Primoredial Dragon" [[once per turn]]. If this card is [[Tribute Summon]]ed: You can apply these effects, in sequence.<br />● [[Negate]] the effects of all face-up monsters your opponent currently [[control]]s.<br />● [[Banish]] all monsters your opponent controls with the same [[Type]] and/or [[Attribute]] as any of the Normal Monsters in your [[GY]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,8 +34,20 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP013; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
+  | supports            = Normal Monster
   | archseries          = Primoredial
   | supports_archetypes = Primoredial
+  | action              = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Activates upon Tribute Summon
+  | m/s/t               = Negates the effects of your opponent's Effect Monsters
+  | summoning           = 
+  * Normal Summon condition
+  * Requires specific Tributes for its Tribute Summon
+  * Performs a Normal Summon
+  | banished            = Banishes from your opponent's field
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

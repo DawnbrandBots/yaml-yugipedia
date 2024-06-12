@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Ignition-like, Condition
-  | lore                = Reveal 1 Normal Monster or "Primoredial" card in your hand, except "Primoredial Schiller", then target 1 face-up card on the field (if you control a Normal Monster or a Level 5 or higher "Primeoredial" monster, except a Token, you do not have to reveal a card); negate its effects, and if you do, banish it. During your Main Phase, if you control a "Primoredial" monster: You can Set this card from your GY. You can only use each effect of "Primoredial Schiller" once per turn.
+  | lore                = [[Reveal]] 1 [[Normal Monster]] or "[[Primoredial]]" card in your [[hand]], except "Primoredial Schiller", then [[target]] 1 [[face-up]] card on the [[field]] (if you [[control]] a Normal Monster or a [[Level]] 5 or higher "Primeoredial" [[monster]], except a [[Token]], you do not have to reveal a card); [[negate]] its [[effect]]s, and if you do, [[banish]] it. During your [[Main Phase]], if you control a "Primoredial" monster: You can [[Set]] this card from your [[GY]]. You can only use each effect of "Primoredial Schiller" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,8 +31,24 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP060; Rage of the Abyss; 
+  | mentions            = Primoredial Schiller
+  | supports            = Normal Monster
   | archseries          = Primoredial
   | supports_archetypes = Primoredial
+  | action              = 
+  * Reveals your hand for cost
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | m/s/t               = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | banished            = Banishes from field
+  | misc                = 
+  * Requires control of specific Monster type
+  * Requires control of specific Level
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
