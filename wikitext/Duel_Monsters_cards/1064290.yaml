@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 2400
   | password            = 
   | effect_types        = Summoning condition, Summoning condition, Condition, Ignition, Quick
-  | lore                = Cannot be Normal Summoned/Set. Must first be Special Summoned with "[[Enhanced Metalmorph]]" activated by Tributing a Level 5 or higher Dragon monster. You can only use each of the following effects of "Red-Eyes Black Fullmetal Dragon" once per turn. You can reveal this card in your hand; Set 1 "[[Metalmorph (archetype)|Metalmorph]]" Trap from your Deck, and if you do, shuffle this card into the Deck. When your opponent activates a card or effect (Quick Effect): You can negate the activation, then you can inflict damage to them equal to 1 of their Attack Position monsters' original ATK.
+  | lore                = Cannot be [[Normal Summon]]ed/[[Normal Set|Set]]. Must first be [[Special Summon]]ed with "[[Enhanced Metalmorph]]" [[activate]]d by [[Tribute|Tributing]] a [[Level]] 5 or higher [[Dragon]] [[monster]]. You can only use each of the following [[effect]]s of "Red-Eyes Black Fullmetal Dragon" [[once per turn]]. You can [[reveal]] this card in your [[hand]]; [[Set]] 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] from your [[Main Deck|Deck]], and if you do, [[shuffle]] this card into the Deck. When your opponent activates a card or effect ([[Quick Effect]]): You can [[negate]] the activation, then you can inflict [[damage]] to them equal to 1 of their [[Attack Position]] monsters' [[original ATK]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -35,9 +35,25 @@ wikitext: |-
   | jp_sets             = 
   ROTA-JP005; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   | mentions            = Enhanced Metalmorph
+  | supports            = Dragon
   | archseries          = Red-Eyes
   | supports_archetypes = Metalmorph (archetype)
-  | misc                = Special Summon Monster
+  | action              = 
+  * Activates from your hand
+  * Sets from your Deck
+  * Returns itself from hand to Deck
+  | m/s/t               = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Special Summon-only monster
+  | life_points         = Damages your opponent
+  | misc                = 
+  * Special Summon Monster
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

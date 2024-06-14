@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Ignition-like, Condition
-  | lore                = Add 1 monster that mentions "[[Enhanced Metalmorph]]" OR 1 "[[Metalmorph (archetype)|Metalmorph]]" Trap from your Deck or GY to your hand. If you control a "Metalmorph" Trap: You can banish this card from your GY, then target 1 opponent's Defense Position monster; change it to Attack Position. You can only use this effect of "Approaching Machine" once per turn.
+  | lore                = [[Add]] 1 [[monster]] that [[mentions]] "[[Enhanced Metalmorph]]" OR 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. If you [[control]] a "Metalmorph" Trap: You can [[banish]] this card from your GY, then [[target]] 1 opponent's [[Defense Position]] monster; change it to [[Attack Position]]. You can only use this [[effect]] of "Approaching Machine" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,15 @@ wikitext: |-
   ROTA-JP050; Rage of the Abyss; 
   | mentions            = Enhanced Metalmorph
   | supports_archetypes = Metalmorph (archetype)
+  | action              = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Changes battle positions
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Mentions
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

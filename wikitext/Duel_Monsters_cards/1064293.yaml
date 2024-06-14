@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 2300
   | password            = 
   | effect_types        = Summoning condition, Summoning condition, Ignition, Condition, Quick
-  | lore                = Cannot be Normal Summoned/Set. Must first be Special Summoned with "[[Enhanced Metalmorph]]" activated by Tributing a Level 5 or higher Fiend monster. You can reveal this card in your hand; Set 1 "[[Metalmorph (archetype)|Metalmorph]]" Trap from your Deck, and if you do, shuffle this card into the Deck. You can only use this effect of "Metalzoa X" once per turn. Up to twice per turn, when your opponent activates a Spell Card or effect, or a monster effect (Quick Effect): You can target 1 face-up monster they control; destroy it.
+  | lore                = Cannot be [[Normal Summon]]ed/[[Normal Set|Set]]. Must first be [[Special Summon]]ed with "[[Enhanced Metalmorph]]" [[activate]]d by [[Tribute|Tributing]] a [[Level]] 5 or higher [[Fiend]] [[monster]]. You can [[reveal]] this card in your [[hand]]; [[Set]] 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] from your [[Main Deck|Deck]], and if you do, [[shuffle]] this card into the Deck. You can only use this [[effect]] of "Metalzoa X" [[once per turn]]. Up to twice per [[turn]], when your opponent activates a [[Spell Card]] or effect, or a [[monster effect]] ([[Quick Effect]]): You can [[target]] 1 [[face-up]] monster they [[control]]; [[destroy]] it.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,7 +37,19 @@ wikitext: |-
   | mentions            = Enhanced Metalmorph
   | archseries          = Signature move
   | supports_archetypes = Metalmorph (archetype)
-  | misc                = Special Summon Monster
+  | action              = 
+  * Activates from your hand
+  * Sets from your Deck
+  * Returns itself from hand to Deck
+  | m/s/t               = Destroys your opponent's face-up Monster Cards
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Special Summon-only monster
+  | misc                = 
+  * Special Summon Monster
+  * Only once per turn
+  * Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
