@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 1200
   | password            = 
   | effect_types        = Unclassified, Condition, Condition, Trigger, Unclassified, Continuous
-  | lore                = If you control a "[[Six Samurai]]" monster other than "Instructor of the Six Samurai", you can Special Summon this card (from your hand). You can only Special Summon "Instructor of the Six Samurai" once per turn this way. You can only use each of the following effects of "Instructor of the Six Samurai" once per turn. If this card is sent from the field to the GY: You can add 1 "[[Six Strike]]" card from your Deck to your hand. A "Six Samurai" monster Synchro Summoned using this card as material gains this effect.<br />● Monsters your opponent controls lose 500 ATK.
+  | lore                = If you [[control]] a "[[Six Samurai]]" [[monster]] other than "Instructor of the Six Samurai", you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Instructor of the Six Samurai" once per turn this way. You can only use each of the following [[effect]]s of "Instructor of the Six Samurai" [[once per turn]]. If this card is [[send|sent]] from the [[field]] to the [[GY]]: You can [[add]] 1 "[[Six Strike]]" card from your [[Main Deck|Deck]] to your [[hand]]. A "Six Samurai" monster [[Synchro Summon]]ed using this card as [[material]] gains this effect.<br />● Monsters your opponent controls lose 500 [[ATK]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,10 +34,23 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP020; Rage of the Abyss; 
+  | mentions            = Instructor of the Six Samurai
   | archseries          = Six Samurai
   | supports_archetypes = 
   * Six Samurai
   * Six Strike
+  | action              = 
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  * Grants effect as Synchro Material
+  | stat_change         = Your opponent's monsters lose ATK
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
