@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Ignition-like, Condition
-  | lore                = Apply 1 of these effects, or if you control 2 or more "[[Six Samurai]]" monsters, you can apply both, in sequence.<br />● Special Summon 1 "Six Samurai" monster with 2000 or less ATK from your hand or GY.<br />● Change 1 monster your opponent controls with 2000 or less ATK to face-down Defense Position.<br />During your Main Phase: You can banish this card from your GY, then target 1 "Six Samurai" monster in your GY; add it to your hand. You can only use 1 "Six Strike - Double Assault" effect per turn, and only once that turn.
+  | lore                = Apply 1 of these [[effect]]s, or if you [[control]] 2 or more "[[Six Samurai]]" [[monster]]s, you can apply both, in sequence.<br />● [[Special Summon]] 1 "Six Samurai" monster with 2000 or less [[ATK]] from your [[hand]] or [[GY]].<br />● Change 1 monster your opponent controls with 2000 or less ATK to [[face-down]] [[Defense Position]].<br />During your [[Main Phase]]: You can [[banish]] this card from your GY, then [[target]] 1 "Six Samurai" monster in your GY; [[add]] it to your hand. You can only use 1 "Six Strike - Double Assault" effect per turn, and [[only once per turn|only once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,19 @@ wikitext: |-
   ROTA-JP063; Rage of the Abyss; 
   | archseries          = Six Strike
   | supports_archetypes = Six Samurai
+  | action              = 
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Activates from your Graveyard
+  * Adds from Graveyard to hand
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Variable effects
+  * Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

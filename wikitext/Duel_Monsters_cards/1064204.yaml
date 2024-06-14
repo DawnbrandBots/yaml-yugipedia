@@ -24,7 +24,7 @@ wikitext: |-
   | password              = 
   | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Condition, Trigger, Trigger
-  | lore                  = 1 Tuner + 1+ non-Tuner monsters<br />Warrior monsters you control gain 500 ATK/DEF during the Battle Phase only. You can only use each of the following effects of "Legendary Klesha Six Samurai - Enishi" once per turn. If this card is Synchro Summoned: You can banish any number of "[[Six Samurai]]" monsters from your GY, then target that many monsters your opponent controls; return them to the hand. If this card is sent to the GY: You can Special Summon 1 of your banished "Six Samurai" monsters.
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />[[Warrior]] monsters you [[control]] gain 500 [[ATK]]/[[DEF]] during the [[Battle Phase]] only. You can only use each of the following [[effect]]s of "Legendary Klesha Six Samurai - Enishi" [[once per turn]]. If this card is [[Synchro Summon]]ed: You can [[banish]] any number of "[[Six Samurai]]" monsters from your [[GY]], then [[target]] that many monsters your opponent [[control]]s; [[return]] them to the [[hand]]. If this card is [[Send|sent]] to the GY: You can [[Special Summon]] 1 of your banished "Six Samurai" monsters.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,9 +35,22 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP040; Rage of the Abyss; Rare
+  | supports              = Warrior
   | archseries            = Six Samurai
   | supports_archetypes   = Six Samurai
   | related_to_archseries = Legendary Six Samurai
+  | action                = 
+  * Activates upon Synchro Summon
+  * Returns from your opponent's field to your opponent's hand
+  * Activates if sent to the Graveyard
+  * Activates from your Graveyard
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons the player's banished monsters
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

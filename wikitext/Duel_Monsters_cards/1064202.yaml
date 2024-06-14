@@ -24,7 +24,7 @@ wikitext: |-
   | password              = 
   | materials             = 1 Warrior-Type Tuner + 1 or more non-Tuner "Six Samurai" monsters
   | effect_types          = Trigger, Condition, Quick, Continuous
-  | lore                  = 1 Warrior Tuner + 1+ non-Tuner "Six Samurai" monsters<br />If this card is Synchro Summoned: You can add 1 "[[Six Samurai]]" monster or "[[Shien]]" Effect Monster from your Deck or GY to your hand. You can only use this effect of "Legendary Klesha Six Samurai - Shi En" once per turn. Once per turn, when your opponent activates a monster effect (Quick Effect): You can negate the activation, and if you do, destroy that monster. If this card on the field would be destroyed by battle or card effect, you can destroy 1 other monster you control instead.
+  | lore                  = 1 [[Warrior]] [[Tuner]] + 1+ non-Tuner "[[Six Samurai]]" [[monster]]s<br />If this card is [[Synchro Summon]]ed: You can [[add]] 1 "[[Six Samurai]]" monster or "[[Shien]]" [[Effect Monster]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can only use this effect of "Legendary Klesha Six Samurai - Shi En" [[once per turn]]. Once per turn, when your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that monster. If this card on the [[field]] would be [[destroyed by battle]] or card effect, you can destroy 1 other monster you [[control]] instead.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,11 +35,27 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP039; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
+  | supports              = Warrior
   | archseries            = Six Samurai
   | supports_archetypes   = 
   * Shien
   * Six Samurai
   | related_to_archseries = Legendary Six Samurai
+  | action                = 
+  * Activates upon Synchro Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Requires Type specific Tuner Synchro Materials
+  * Requires archetype specific non-Tuner Synchro Materials
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Destroys your opponent's Monster Cards
+  * Cannot be destroyed by card effects
+  * Destroys your Monster Cards
+  * Redirects destruction
+  | attack                = Cannot be destroyed by battle
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

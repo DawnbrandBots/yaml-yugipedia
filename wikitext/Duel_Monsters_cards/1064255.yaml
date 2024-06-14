@@ -38,16 +38,35 @@ wikitext: |-
   * Red Dragon Archfiend
   * Red Nova Dragon
   | archseries            = 
-  * Earthbound 
+  * Earthbound
   * Earthbound Immortal
   | supports_archetypes   = 
-  * Earthbound 
+  * Earthbound
   * Earthbound Immortal
+  | anti-supports_archetypes = Earthbound Immortal
   | related_to_archseries = 
   * Archfiend
   * Cosmic Synchro Monster
   * Signer Dragon
   * Red Dragon Archfiend (archetype)
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | banished              = 
+  * Banishes itself from hand for cost
+  * Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Field-Unique
+  * Requires control of specific archetype
+  * Requires control of specific card
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
