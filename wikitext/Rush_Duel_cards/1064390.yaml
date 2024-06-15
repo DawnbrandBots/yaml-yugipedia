@@ -6,12 +6,23 @@ wikitext: |-
   | card_type        = Spell
   | property         = Normal
   | requirement      = None
-  | lore             = [[Fusion Summon]] a [[Warrior]] [[Type]] [[monster]] that cannot be [[Special Summon]]ed except by [[Fusion Summon]] by placing monsters from your [[field]] and/or [[Graveyard]] on the bottom of the owner's [[Main Deck|Deck]] in any order as [[material]].
+  | lore             = [[Fusion Summon]] a [[Warrior]] [[Type]] [[Monster Card|monster]] that cannot be [[Special Summon]]ed except by [[Fusion Summon]] by placing monsters from your [[field]] and/or [[Graveyard]] on the bottom of the [[owner]]'s [[Main Deck|Deck]] in any order as [[material]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/SD0B-JP031; Structure Deck: Birth of Hero; Common
   RD/SD0B-JPS04; Structure Deck: Birth of Hero; Ultra Parallel Rare
+  | supports         = Warrior
+  | archseries       = Elemental HERO (Rush Duel)
+  | action           = 
+  * Places cards from the player's field on the bottom of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  | summoning        = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
