@@ -49,86 +49,68 @@ wikitext: |-
   ===Members===
   As teased in the flavor text of "[[Chosen by the World Chalice]]", there are 7 original "World Legacies", which corresponds to the 7 archetypes as shown in the table below. The number 7 is also related to "[[World Gears of Theurlogical Demiurgy]]", who's based on [[wikipedia:Demiurge|Demiurge]], the creator of the [[wikipedia:Seven Heavens|Seven Heavens]] and the [[wikipedia:Archon (Gnosticism)|Seven Archons]].
 
-  {| class="wikitable sortable" style="text-align: center"
-  ! Set
-  ! Monster
-  ! Level
+  {| class="wikitable" style="text-align: center"
   ! Color
+  ! Monster
   ! Associated archetype
   ! Related Field Spell
   ! Holy Relic
-  ! class="unsortable" | Location
+  ! Location
   |-
-  | data-sort-value="1" | [[Code of the Duelist|COTD]]
-  | [[World Legacy - "World Chalice"|World Chalice]]
-  | 5
-  | data-sort-value="5" | Blue
-  | [[World Chalice]]
-  | [[World Legacy Discovery]]
-  | [[wikipedia:Holy Grail|Holy Grail]]
-  | Deep inside the Celestial Forest
-  |-
-  | data-sort-value="2" | [[Circuit Break|CIBR]]
+  | style="background-color:#FF0000; color: white;" | Red
   | [[World Legacy - "World Armor"|World Armor]]
-  | 7
-  | data-sort-value="1" | Red
   | [[Krawler]]
   | [[World Legacy in Shadow]]
   | [[wikipedia:Seamless robe of Jesus|Seamless robe of Jesus]]
-  | A wetland swarmed by Krawlers
+  | A wetland swarmed by "Krawlers"
   |-
-  | data-sort-value="3" | [[Extreme Force|EXFO]]
+  | style="background-color:#FF8000; color: white;" | Orange
   | [[World Legacy - "World Shield"|World Shield]]
-  | 6
-  | data-sort-value="2" | Orange
   | [[Mekk-Knight]]
   | [[World Legacy Scars]]
   | [https://www.timelessmyths.com/arthurian/quest2.html#Shield Galahad's shield]
   | The ruins of an ancient city
   |-
-  | data-sort-value="4" | [[Flames of Destruction|FLOD]]
+  | style="background-color:#FFFF00; color: white;" | Yellow
+  | [[World Legacy - "World Wand"|World Wand]]
+  | [[Orcust]]
+  | [[Orcustrated Babel]]
+  | [[wikipedia:Staff of Moses|Staff of Moses]] / [[wikipedia:Aaron's rod|Aaron's rod]]
+  | At the top of "Babel"
+  |-
+  | style="background-color:#00FF00; color: white;" | Green
+  | [[World Legacy - "World Ark"|World Ark]]
+  | [[Guardragon]]
+  | -<!-- "Guardragon Shield" is not related to World Legacies -->
+  | [[wikipedia:Ark of the Covenant|Ark of the Covenant]]
+  | Underground
+  |-
+  | style="background-color:#00FFFF; color: white;" | Blue
+  | [[World Legacy - "World Chalice"|World Chalice]]
+  | [[World Chalice]]
+  | [[World Legacy Discovery]]
+  | [[wikipedia:Holy Grail|Holy Grail]]
+  | Deep inside the Celestial Forest
+  |-
+  | style="background-color:#4000FF; color: white;" | Indigo
+  | [[World Legacy - "World Crown"|World Crown]]
+  | [[Crusadia]]
+  | -<!-- "Crusadia Revival" is not related to World Legacies -->
+  | [[wikipedia:Crown of thorns|Crown of thorns]]
+  | Hovering above a lake in the territory of Arboria Laca
+  |-
+  | style="background-color:#8000FF; color: white;" | Violet
   | [[World Legacy - "World Lance"|World Lance]]
-  | 8
-  | data-sort-value="7" | Violet
   | [[Knightmare]]
   | [[World Legacy's Nightmare]]
   | [[wikipedia:Holy Lance|Holy Lance]]
   | Driven into the coastline at the outskirts of the same city as the "Shield"
   |-
-  | data-sort-value="5" | [[Cybernetic Horizon|CYHO]]
-  | [[World Legacy - "World Crown"|World Crown]]
-  | 6
-  | data-sort-value="6" | Indigo
-  | [[Crusadia]]
-  | ---<!-- "Crusadia Revival" is not related to World Legacies -->
-  | [[wikipedia:Crown of thorns|Crown of thorns]]
-  | Hovering above a lake
-  |-
-  | data-sort-value="6" | [[Soul Fusion|SOFU]]
-  | [[World Legacy - "World Wand"|World Wand]]
-  | 8
-  | data-sort-value="3" | Yellow
-  | [[Orcust]]
-  | [[Orcustrated Babel]]
-  | [[wikipedia:Staff of Moses|Staff of Moses]]/[[wikipedia:Aaron's rod|Aaron's rod]]
-  | At the top of "Babel"
-  |-
-  | data-sort-value="7" | [[Savage Strike|SAST]]
-  | [[World Legacy - "World Ark"|World Ark]]
-  | 7
-  | data-sort-value="4" | Green
-  | [[Guardragon]]
-  | ---<!-- "Guardragon Shield" is not related to World Legacies -->
-  | [[wikipedia:Ark of the Covenant|Ark of the Covenant]]
-  | Underground
-  |-
-  | data-sort-value="8" | [[Chaos Impact|CHIM]]
+  | style="background-color:#000000; color: white;" | Black
   | [[World Legacy - "World Key"|World Key]]
-  | 1
-  | data-sort-value="8" | Black
-  | ---
-  | ---
-  | ---
+  | -
+  | -
+  | -
   | Carried by "[[Lib the World Key Blademaster]]"
   |}
 

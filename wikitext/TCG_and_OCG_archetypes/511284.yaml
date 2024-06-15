@@ -52,7 +52,7 @@ wikitext: |-
 
   The [[Advanced Crystal Beast]]s have almost the same attack names as their standard counterparts, but with the addition of "Dark" between the gem and the attack/body part.
 
-  {| class="wikitable sortable"
+  {| class="wikitable" style="text-align: center"
   ! rowspan="2" | Color
   ! rowspan="2" | Crystal Beast
   ! colspan="2" | Origin
@@ -64,7 +64,7 @@ wikitext: |-
   ! English
   ! Japanese
   |-
-  | data-sort-value="1" style="background-color:#F77" | Red
+  | style="background-color:#FF0000; color: white;" | Red
   | [[Crystal Beast Ruby Carbuncle|Ruby Carbuncle]]
   | [[wikipedia:Ruby|Ruby]]
   | [[wikipedia:Book of Imaginary Beings|Carbuncle]]
@@ -72,7 +72,7 @@ wikitext: |-
   | ルビー・フラッシュ<br />Ruby Flash
   | Special Summon as many "Crystal Beast" monsters from its controller's Spell & Trap Zone as possible when it is Special Summoned.
   |-
-  | data-sort-value="2" style="background-color:#FC7" | Orange
+  | style="background-color:#FF8000; color: white;" | Orange
   | [[Crystal Beast Amber Mammoth|Amber Mammoth]]
   | [[wikipedia:Amber|Amber]]
   | [[wikipedia:Mammoth|Mammoth]]
@@ -80,7 +80,7 @@ wikitext: |-
   | アンバー・スタンプ<br />Amber Stomp
   | Redirects an attack targeting another "Crystal Beast" monster on its controller's side of the field to itself.
   |-
-  | data-sort-value="3" style="background-color:#FF7" | Yellow
+  | style="background-color:#FFFF00; color: white;" | Yellow
   | [[Crystal Beast Topaz Tiger|Topaz Tiger]]
   | [[wikipedia:Topaz|Topaz]]
   | [[wikipedia:Tiger|Tiger]]
@@ -88,7 +88,7 @@ wikitext: |-
   | トーパズ・バイト<br />Topaz Bite
   | Gains 400 ATK when attacking an opponent's monster during the Damage Step.
   |-
-  | data-sort-value="4" style="background-color:#7F7" | Green
+  | style="background-color:#00FF00; color: white;" | Green
   | [[Crystal Beast Emerald Tortoise|Emerald Tortoise]]
   | [[wikipedia:Emerald|Emerald]]
   | [[wikipedia:Tortoise|Tortoise]]
@@ -96,7 +96,7 @@ wikitext: |-
   | エメラルド・カッター<br />Emerald Cutter
   | Changes one of its controller's monsters that attacked this turn to Defense Position once per turn.
   |-
-  | data-sort-value="5" style="background-color:#7EF" | Blue
+  | style="background-color:#00FFFF; color: white;" | Blue
   | [[Crystal Beast Cobalt Eagle|Cobalt Eagle]]
   | [[wikipedia:Cobalt|Cobalt]]
   | [[wikipedia:Eagle|Eagle]]
@@ -104,7 +104,7 @@ wikitext: |-
   | コバルト・ウィング<br />Cobalt Wing
   | Returns a "Crystal Beast" card on its controller's side of the field to the top of their Deck once per turn.
   |-
-  | data-sort-value="6" style="background-color:#58F" | Indigo
+  | style="background-color:#4000FF; color: white;" | Indigo
   | [[Crystal Beast Sapphire Pegasus|Sapphire Pegasus]]
   | [[wikipedia:Sapphire|Sapphire]]
   | [[wikipedia:Pegasus|Pegasus]]
@@ -112,7 +112,7 @@ wikitext: |-
   | サファイア・トルネード<br />Sapphire Tornado
   | Places a "Crystal Beast" monster from its controller's hand, Deck, or Graveyard face-up in their Spell & Trap Zone as a Continuous Spell Card when it is Summoned.
   |-
-  | data-sort-value="7" style="background-color:#C9F" | Violet
+  | style="background-color:#8000FF; color: white;" | Violet
   | [[Crystal Beast Amethyst Cat|Amethyst Cat]]
   | [[wikipedia:Amethyst|Amethyst]]
   | [[wikipedia:Cat|Cat]]
@@ -120,12 +120,12 @@ wikitext: |-
   | アメジスト・ネール<br />Amethyst Nail
   | Attacks the opponent directly, but the battle damage it inflicts when using this effect is halved.
   |-
-  | data-sort-value="8" style="background-color:#EFF"|<font color="#C00">R</font><font color="#F60">a</font><font color="#FB0">i</font><font color="#090">n</font><font color="#09D">b</font><font color="#00C">o</font><font color="#505">w</font>
+  | <font color="#FF0000">R</font><font color="#FF8000">a</font><font color="#FFFF00">i</font><font color="#00FF00">n</font><font color="#00FFFF">b</font><font color="#4000FF">o</font><font color="#8000FF">w</font>
   | [[Crystal Beast Rainbow Dragon|Rainbow Dragon]]
   | N/A
   | [[wikipedia:Dragon|Dragon]]
-  | N/A
-  | N/A
+  | Unknown
+  | Unknown
   | Special Summons itself from the hand when a "Crystal Beast" monster battles, also it can be banished while treated as a Continuous Spell to Special Summon 1 Level 4 or lower "Crystal Beast" monster from the Deck with its effects negated and add 1 "Ultimate Crystal" monster from the Deck to the hand.
   |}
 
