@@ -1,16 +1,17 @@
 title: Battlin' Boxer Lead Yoke
 wikitext: |-
   {{CardTable2
-  | tc_name               = 燃燒拳鬥士 拘束蠻兵 前導刺拳
   | fr_name               = Boxeur Indomptable Enchaîneur
   | de_name               = Unermüdlicher Boxer Bleijoch
   | it_name               = Pugile Indomito Giogo di Piombo
-  | ko_name               = {{Ruby|BK|버닝나쿠라|lang=ko}} 구속만병 리드블로
   | pt_name               = Boxeador Obstinado de Canga
   | es_name               = Boxeador Indómito Yugo de Plomo
   | ja_name               = {{Ruby|ＢＫ|バーニングナックラー}} {{Ruby|拘|こう}}{{Ruby|束|そく}}{{Ruby|蛮|ばん}}{{Ruby|兵|ぺい}}リードブロー
   | romaji_name           = Bāningu Nakkurā Kōsokubanpei Rīdoburō
   | trans_name            = Burning Knuckler Bound Barbarian Lead Blow
+  | ko_name               = {{Ruby|BK|버닝나쿠라|lang=ko}} 구속만병 리드블로
+  | tc_name               = 燃燒拳鬥士 拘束蠻兵 前導刺拳
+  | sc_name               = 燃烧拳斗士 拘束蛮兵 前导刺拳
   | image                 = BattlinBoxerLeadYoke-LD10-EN-R-1E.png
   | attribute             = FIRE
   | types                 = Warrior / Xyz / Effect
@@ -29,6 +30,7 @@ wikitext: |-
   | ja_lore               = レベル４「ＢＫ」モンスター×２<br />①：自分フィールドの「ＢＫ」モンスターが戦闘・効果で破壊される場合、その「ＢＫ」モンスターの内の１体の代わりにこのカードのＸ素材を１つ取り除く事ができる。②：このカードのＸ素材が取り除かれた場合に発動する。このカードの攻撃力は８００アップする。
   | ko_lore               = "BK(버닝나쿠라)"라는 이름이 붙은 레벨 4 몬스터 × 2<br />자신 필드 위의 "BK(버닝나쿠라)"라는 이름이 붙은 몬스터가 전투 또는 카드의 효과에 의해서 파괴될 경우, 그 파괴되는 몬스터 1장 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 또한, 이 카드의 엑시즈 소재가 제거되었을 때, 이 카드의 공격력은 800 포인트 올린다.
   | tc_lore               = 冠有「燃燒拳鬥士」之名的等级4怪兽×2<br />我方场上冠有「燃燒拳鬥士」之名的怪兽因战斗或卡牌效果被破坏的场合，可移除此卡的1个超量素材替代该被破坏的1只怪兽。此外，此卡的超量素材被移除时，此卡的攻击力上升800点。
+  | sc_lore               = 等级４“燃烧拳斗士”怪兽×２<br />①：自己场上的“燃烧拳斗士”怪兽将被战斗・效果破坏的情况下，作为该“燃烧拳斗士”怪兽中１只的代替，可去除此卡的１个超量素材。②：此卡的超量素材被去除的情况下发动。此卡的攻击力上升８００。
   | en_sets               = 
   LTGY-EN050; Lord of the Tachyon Galaxy; Rare
   MP14-EN027; 2014 Mega-Tin Mega Pack; Rare
@@ -58,12 +60,14 @@ wikitext: |-
   LTGY-JP050; Lord of the Tachyon Galaxy; Common
   23TP-JP301; Tournament Pack 2023 Vol.3; Super Rare
   23TP-JP301; Top Prize Pack 2023 Vol.3; Super Parallel Rare
-  | tc_sets               = 
-  LTGY-TC050; Lord of the Tachyon Galaxy; Common
   | kr_sets               = 
   LTGY-KR050; Lord of the Tachyon Galaxy; Common
   AE19-KR010; Advanced Event Pack 2023 Vol.2 Version 1; Super Rare
   AE19-KRS10; Advanced Event Pack 2023 Vol.2 Version 2; Super Rare
+  | tc_sets               = 
+  LTGY-TC050; Lord of the Tachyon Galaxy; Common
+  | sc_sets               = 
+  DP29-SC072; Duelist Pack: Duelists of Brilliance; Common, Secret Rare
   | archseries            = Battlin' Boxer
   | supports_archetypes   = Battlin' Boxer
   | stat_change           = This card gains ATK
