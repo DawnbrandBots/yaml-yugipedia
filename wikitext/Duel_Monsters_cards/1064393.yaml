@@ -34,6 +34,24 @@ wikitext: |-
   | sc_lore        = 
   | jp_sets        = 
   ROTA-JP022; Rage of the Abyss; 
+  | supports       = Union monster
+  | action         = 
+  * Equips self from field
+  * Returns itself from field to hand for cost
+  * Equips the player's banished monsters
+  | m/s/t          = 
+  * Treated as Equip Card
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  * Destroys itself
+  * Treats monsters as Equip Cards
+  | summoning      = 
+  * Special Summons itself from your Spell & Trap Zone
+  * Special Summons itself from your hand
+  | attack         = Prevents other cards being destroyed by battle
+  | misc           = 
+  * Limited activations
+  * Only once per turn
   | database_id    = 
   | ocg_status     = Not yet released
   | tcg_status     = Not yet released

@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Trigger, Condition, Continuous
-  | lore                  = If your opponent activates a monster effect in the hand, GY, or banishment: You can Special Summon this card from your GY (if it was there when the effect was activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of "Dream Absorber" once per turn. Each time your opponent activates a monster effect, this card gains 1000 ATK immediately after it resolves.
+  | lore                  = If your opponent [[activate]]s a [[monster effect]] in the [[hand]], [[GY]], or [[banish]]ment: You can [[Special Summon]] this card from your GY (if it was there when the effect was activated) or hand (even if not), but [[destroy]] it during the [[End Phase]]. You can only use this [[effect]] of "Dream Absorber" [[once per turn]]. Each time your opponent activates a monster effect, this card gains 1000 [[ATK]] immediately after it [[resolve]]s.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,6 +35,15 @@ wikitext: |-
   | jp_sets               = 
   ROTA-JP028; Rage of the Abyss; 
   | related_to_archseries = World Chalice
+  | action                = 
+  * Activates from your Graveyard
+  * Activates from your hand
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Destroys itself
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Special Summons itself from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

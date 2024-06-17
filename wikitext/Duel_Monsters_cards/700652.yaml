@@ -58,12 +58,12 @@ wikitext: |-
   * Equips monsters from the player's Deck
   | m/s/t                 = 
   * Treated as Equip Card
-  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
   * Redirects destruction
   * Destroys itself
   * Treats monsters as Equip Cards
   | summoning             = Special Summons itself from your Spell & Trap Zone
-  | attack                = Cannot be destroyed by battle
+  | attack                = Prevents other cards being destroyed by battle
   | banished              = Banishes itself from field for cost
   | misc                  = 
   * Limited activations
