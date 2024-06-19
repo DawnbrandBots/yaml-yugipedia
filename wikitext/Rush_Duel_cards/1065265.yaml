@@ -14,7 +14,7 @@ wikitext: |-
   | def                    = 2200
   | summoning_condition    = If you have a [[face-up]] [[Warrior]] [[Type]] [[Normal Monster]] on your [[field]], you can [[Special Summon]] this card from your [[hand]] to your field in face-up [[Defense Position]].
   | requirement            = None
-  | lore                   = [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand.
+  | lore                   = [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
@@ -22,6 +22,17 @@ wikitext: |-
   RD/SD0B-JP0??; Structure Deck: Birth of Hero; Common
   RD/SD0B-JPS12; Structure Deck: Birth of Hero; Super Rare
   | mentions               = Fusion (Rush Duel)
+  | supports               = 
+  * Warrior
+  * Normal Monster
+  | archseries             = Elemental HERO (Rush Duel)
+  | action                 = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | summoning              = Special Summons itself from your hand
+  | misc                   = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
