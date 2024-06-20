@@ -12,8 +12,8 @@ wikitext: |-
   | trans_name            = Sacred Spirit Beast Rider Kannahawk
   | sc_name               = 圣灵兽骑 神流鹰
   | image                 = 
-  1; RitualBeastUltiCannahawk-THSF-EN-ScR-1E.png; RitualBeastUltiCannahawk-MADU-EN-VG-artwork.png
-  2; RitualBeastUltiCannahawk-TW01-JP-C-AA.png; RitualBeastUltiCannahawk-OW.png
+  1; RitualBeastUltiCannahawk-BLTR-EN-UR-1E.png;    RitualBeastUltiCannahawk-MADU-EN-VG-artwork.png
+  2; RitualBeastUltiCannahawk-BLTR-EN-UR-1E-AA.png; RitualBeastUltiCannahawk-OW.png
   | current_image         = 1
   | attribute             = WIND
   | types                 = Thunder / Fusion / Effect
@@ -23,7 +23,7 @@ wikitext: |-
   | password              = 48063985
   | materials             = 1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
   | effect_types          = Summoning condition, Ignition, Quick
-  | lore                  = 1 "[[Ritual Beast Tamer]]" [[Monster Card|monster]] + 1 "[[Spiritual Beast]]" monster<br />Must be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards you [[control]], and cannot be Special Summoned by other ways. (You do not use "[[Polymerization]]".) [[Once per turn]]: You can [[target]] 2 of your banished "[[Ritual Beast]]" cards; [[return]] them to the [[Graveyard]], and if you do, [[Add a card|add]] 1 "Ritual Beast" card from your [[Main Deck|Deck]] to your [[hand]]. During either player's [[turn]]: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 "Ritual Beast Tamer" monster and 1 "Spiritual Beast" monster); Special Summon them in [[Defense Position]].
+  | lore                  = 1 "[[Ritual Beast Tamer]]" [[Monster Card|monster]] + 1 "[[Spiritual Beast]]" monster<br />Must be [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing the above cards you [[control]]. [[Once per turn]]: You can [[target]] 2 of your banished "[[Ritual Beast]]" cards; [[return]] them to the [[GY]], and if you do, [[Add a card|add]] 1 "Ritual Beast" card from your [[Main Deck|Deck]] to your [[hand]]. ([[Quick Effect]]): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 "Ritual Beast Tamer" monster and 1 "Spiritual Beast" monster); Special Summon them in [[Defense Position]].
   | fr_lore               = 1 monstre "Dompteur Bête Spirituelle" + 1 monstre "Avatar Bête Spirituelle"<br />Uniquement Invocable Spécialement (depuis votre Extra Deck) en bannissant les cartes ci-dessus que vous contrôlez, et non Invocable Spécialement autrement. (N'utilisez pas "Polymérisation".) Une fois par tour : vous pouvez cibler 2 de vos cartes "Bête Spirituelle" bannies ; renvoyez-les au Cimetière, et si vous le faites, ajoutez 1 carte "Bête Spirituelle" depuis votre Deck à votre main. Durant le tour de chaque joueur : vous pouvez renvoyer cette carte que vous contrôlez à l'Extra Deck, puis ciblez 2 de vos monstres bannis (1 monstre "Dompteur Bête Spirituelle" et 1 monstre "Avatar Bête Spirituelle") ; Invoquez-les Spécialement en Position de Défense.
   | de_lore               = 1 „Geistungeheuer-Zähmer“-Monster + 1 „Geistungeheuer-Avatar“-Monster<br />Muss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten verbannst, die du kontrollierst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. (Die Zauberkarte „Polymerisation“ wird nicht benötigt.) Einmal pro Spielzug: Du kannst 2 deiner verbannten „Geistungeheuer“-Karten wählen; lege sie auf den Friedhof zurück und falls du dies tust, füge deiner Hand 1 „Geistungeheuer“-Karte von deinem Deck hinzu. Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte, die du kontrollierst, ins Extra Deck zurücklegen und dann 2 deiner verbannten Monster (1 „Geistungeheuer-Zähmer“-Monster und 1 „Geistungeheuer-Avatar“-Monster) wählen; beschwöre sie als Spezialbeschwörung in die Verteidigungsposition.
   | it_lore               = 1 mostro "[[Ritual Beast Tamer|Domatore Bestia Spirito]]" + 1 mostro "[[Spiritual Beast|Avatar Bestia Spirito]]"<br />Deve essere [[Special Summon|Evocato Specialmente]] (dal tuo [[Extra Deck]]) [[Banish|bandendo]] le carte sopra indicate che [[control]]li, e non può essere Evocato Specialmente in altri modi. (Non utilizzi "[[Polymerization|Polimerizzazione]]".) [[Once per turn|Una volta per turno]]: puoi [[Target|scegliere come bersaglio]] 2 delle tue carte "[[Ritual Beast|Bestia Spirito]]" bandite; falle [[Return|ritornare]] nel [[Graveyard|Cimitero]] e, se lo fai, [[Add a card|aggiungi]] 1 carta "Bestia Spirito" dal tuo [[Main Deck|Deck]] alla tua [[Hand|mano]]. Durante il [[turn]]o di qualsiasi giocatore: puoi far ritornare questa carta che controlli nell'Extra Deck, poi scegliere come bersaglio 2 dei tuoi mostri banditi (1 mostro "Domatore Bestia Spirito" e 1 mostro "Avatar Bestia Spirito"); Evocali Specialmente in [[Defense Position|Posizione di Difesa]].
@@ -34,16 +34,28 @@ wikitext: |-
   | sc_lore               = “灵兽使”怪兽＋“精灵兽”怪兽<br />仅可在将自己场上的上述卡除外的情况下特殊召唤。<br />①：１回合１次，以自己除外状态的２张“灵兽”卡为对象可以发动。将该卡放回墓地，从牌组将１张“灵兽”卡加入手牌。<br />②：在自己・对手回合中，将此卡放回额外牌组，以自己除外状态的１只“灵兽使”怪兽与１只“精灵兽”怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。
   | en_sets               = 
   THSF-EN030; The Secret Forces; Secret Rare
+  BLTR-EN084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-EN085; Battles of Legend: Terminal Revenge; Ultra Rare
   | fr_sets               = 
   THSF-FR030; The Secret Forces; Secret Rare
+  BLTR-FR084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-FR085; Battles of Legend: Terminal Revenge; Ultra Rare
   | de_sets               = 
   THSF-DE030; The Secret Forces; Secret Rare
+  BLTR-DE084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-DE085; Battles of Legend: Terminal Revenge; Ultra Rare
   | it_sets               = 
   THSF-IT030; The Secret Forces; Secret Rare
+  BLTR-IT084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-IT085; Battles of Legend: Terminal Revenge; Ultra Rare
   | pt_sets               = 
   THSF-PT030; The Secret Forces; Secret Rare
+  BLTR-PT084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-PT085; Battles of Legend: Terminal Revenge; Ultra Rare
   | sp_sets               = 
   THSF-SP030; The Secret Forces; Secret Rare
+  BLTR-SP084; Battles of Legend: Terminal Revenge; Ultra Rare
+  BLTR-SP085; Battles of Legend: Terminal Revenge; Ultra Rare
   | jp_sets               = 
   SPTR-JP030; Booster SP: Tribe Force; Secret Rare
   LVP1-JP068; LINK VRAINS Pack; Rare

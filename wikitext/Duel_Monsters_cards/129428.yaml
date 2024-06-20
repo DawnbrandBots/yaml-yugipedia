@@ -10,15 +10,15 @@ wikitext: |-
   | ja_name               = スクラップ・ゴブリン
   | romaji_name           = Sukurappu Goburin
   | sc_name               = 废铁格布林
-  | image                 = ScrapGoblin-DREV-EN-C-1E.jpg
+  | image                 = ScrapGoblin-BLTR-EN-UR-1E.png
   | attribute             = EARTH
-  | types                 = Beast-Warrior / Tuner
+  | types                 = Beast-Warrior / Tuner / Effect
   | level                 = 3
   | atk                   = 0
   | def                   = 500
   | password              = 83135907
   | effect_types          = Continuous, Trigger, Trigger
-  | lore                  = This card cannot be [[destroyed by battle]]. If this [[face-up]] [[Defense Position]] card is [[select]]ed as an [[attack target]], [[destroy]] this card at the end of the [[Battle Phase]]. If this card is destroyed by the [[effect]] of a "[[Scrap]]" card and [[sent]] to the [[Graveyard]], you can select 1 "Scrap" [[Monster Card|monster]] in your Graveyard, except "Scrap Goblin", and [[Add a card|add]] it to your [[hand]].
+  | lore                  = Cannot be [[destroyed by battle]]. At the end of the [[Battle Phase]], if this [[face-up]] [[Defense Position]] card is [[target]]ed for an [[attack]]: [[Destroy]] this card. If this card is destroyed by the [[effect]] of a "[[Scrap]]" card and [[sent]] to the [[GY]]: You can target 1 "Scrap" [[monster]] in your GY, except "Scrap Goblin"; [[Add a card|add]] that target to your [[hand]].
   | fr_lore               = Cette carte ne peut pas être détruite au combat. Si cette carte en Position de Défense face recto est sélectionnée comme cible d'une attaque, détruisez cette carte à la fin de la Battle Phase. Si cette carte est détruite par l'effet d'une carte "Ferraille" et envoyée au Cimetière, vous pouvez sélectionner 1 monstre "Ferraille" dans votre Cimetière, excepté "Gobelin de Ferraille", et l'ajouter à votre main.
   | de_lore               = Diese Karte kann nicht durch Kampf zerstört werden. Falls diese Karte in offener Verteidigungsposition angegriffen wird, zerstöre diese Karte am Ende der Battle Phase. Falls diese Karte durch den Effekt einer „Schrott“-Karte zerstört und auf den Friedhof gelegt wird, kannst du 1 „Schrott“-Monster in deinem Friedhof wählen, außer „Schrottgoblin“, und deiner Hand hinzufügen.
   | pt_lore               = Não pode ser destruído em batalha. No final da Fase de Batalha, se este card com a face para cima em Posição de Defesa for escolhido como alvo de um ataque: destrua este card. Se este card for destruído pelo efeito de um card "Restolhos" e enviado para o Cemitério: você pode escolher 1 monstro "Restolhos" no seu Cemitério, exceto "Goblin de Restolhos"; adicione o alvo à sua mão.
@@ -29,16 +29,22 @@ wikitext: |-
   | sc_lore               = ①：此卡不会因战斗被破坏。②：表侧守备表示的此卡在被选择为攻击对象的情况下，在战斗阶段结束时发动。将此卡破坏。③：此卡因“废铁”卡的效果被破坏并被送至墓地的情况下，以自己墓地的１只“废铁格布林”以外的“废铁”怪兽为对象可以发动。将该怪兽加入手牌。
   | en_sets               = 
   DREV-EN020; Duelist Revolution; Common
+  BLTR-EN059; Battles of Legend: Terminal Revenge; Ultra Rare
   | fr_sets               = 
   DREV-FR020; Duelist Revolution; Common
+  BLTR-FR059; Battles of Legend: Terminal Revenge; Ultra Rare
   | de_sets               = 
   DREV-DE020; Duelist Revolution; Common
+  BLTR-DE059; Battles of Legend: Terminal Revenge; Ultra Rare
   | it_sets               = 
   DREV-IT020; Duelist Revolution; Common
+  BLTR-IT059; Battles of Legend: Terminal Revenge; Ultra Rare
   | pt_sets               = 
   OP09-PT029; OTS Tournament Pack 9; Common
+  BLTR-PT059; Battles of Legend: Terminal Revenge; Ultra Rare
   | sp_sets               = 
   DREV-SP020; Duelist Revolution; Common
+  BLTR-SP059; Battles of Legend: Terminal Revenge; Ultra Rare
   | jp_sets               = 
   DREV-JP020; Duelist Revolution; Common
   | kr_sets               = 
