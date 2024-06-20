@@ -15,8 +15,9 @@ wikitext: |-
   * Voidvelgr Requiem
   * Contact Dark Matter Voyager
   | materials             = "[[Voidvelgr Requiem]]" + "[[Contact Dark Matter Voyager]]"
-  | requirement           = TBA
-  | lore                  = TBA
+  | summoning_condition   = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
+  | requirement           = During your [[Main Phase]] that you [[Special Summon]]ed this card.
+  | lore                  = [[Battle position change|Change]] 1 face-up monster on your opponent's field to [[face-down]] [[Defense Position]]. This [[turn]], this card gains 1300 [[ATK]], and if it [[attack]]s a Defense Position monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
   | ja_materials          = 
   | ja_requirement        = 
   | ja_lore               = 
@@ -27,7 +28,12 @@ wikitext: |-
   * Contact Dark Matter Voyager
   | archseries            = Dark Matter (series)
   | related_to_archseries = Voidvelgr
-  | action                = Returns Fusion Materials for Contact Fusion to Deck
+  | action                = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Special Summoned
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | stat_change           = This card gains ATK
   | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
@@ -35,6 +41,7 @@ wikitext: |-
   * Requires specific Normal Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
+  | attack                = Piercing
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
