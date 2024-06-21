@@ -3,36 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ダークマター・エンペラー・ドラゴン
-  | romaji_name      = Dākumatā Enperā Doragon
-  | image            = DarkMatterEmperorDragon-OW.png
-  | attribute        = DARK
-  | types            = Galaxy / Fusion / Effect
-  | level            = 8
-  | atk              = 3000
-  | def              = 2500
-  | fusion_material  = 
+  | ja_name                = ダークマター・エンペラー・ドラゴン
+  | romaji_name            = Dākumatā Enperā Doragon
+  | image                  = DarkMatterEmperorDragon-OW.png
+  | attribute              = DARK
+  | types                  = Galaxy / Fusion / Effect
+  | level                  = 8
+  | atk                    = 3000
+  | def                    = 2500
+  | fusion_material        = 
   * Dark Matter Dragon
   * Contact Dark Matter Wyvern
-  | materials        = "[[Dark Matter Dragon]]" + "[[Contact Dark Matter Wyvern]]"
-  | requirement      = TBA
-  | lore             = TBA
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP18-JP0??; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions         = 
+  | materials              = "[[Dark Matter Dragon]]" + "[[Contact Dark Matter Wyvern]]"
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
+  | requirement            = You have a [[face-down]] monster on your field.
+  | lore                   = [[Destroy]] 2 face-down cards on the field. This card gains 2000 [[ATK]] this [[turn]].
+  | ja_materials           = 
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP18-JP038; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions               = 
   * Dark Matter Dragon
   * Contact Dark Matter Wyvern
-  | archseries       = Dark Matter (series)
-  | action           = Returns Fusion Materials for Contact Fusion to Deck
-  | summoning        = 
+  | archseries             = Dark Matter (series)
+  | action                 = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change            = This card gains ATK
+  | m/s/t                  = 
+  * Destroys face-down Monster Cards
+  * Destroys face-down Spell Cards
+  * Destroys face-down Trap Cards
+  | summoning              = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | misc             = Cover card
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | misc                   = Cover card
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
