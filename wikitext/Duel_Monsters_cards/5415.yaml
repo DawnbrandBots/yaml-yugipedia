@@ -4,12 +4,12 @@ wikitext: |-
   | fr_name               = Garde Mystérieux
   | de_name               = Mysteriöse Wache
   | it_name               = Guardia Misteriosa
-  | ko_name               = 성스러운 파수꾼
-  | pt_name               = 
+  | pt_name               = Guarda Misterioso
   | es_name               = Guardia Misterioso
   | ja_name               = {{Ruby|聖|せい}}なる{{Ruby|守|まも}}り{{Ruby|手|て}}
   | romaji_name           = Seinaru Mamorite
   | trans_name            = Holy Guard
+  | ko_name               = 성스러운 파수꾼
   | image                 = MysteriousGuard-STP6-EN-C-UE.png
   | attribute             = EARTH
   | types                 = Spellcaster / Flip / Effect
@@ -22,10 +22,10 @@ wikitext: |-
   | fr_lore               = FLIP : Ciblez 1 monstre face recto sur le Terrain, et si vous contrôlez un monstre Guerrier face recto, vous pouvez cibler 1 monstre face recto supplémentaire sur le Terrain ; placez la première cible au-dessus du Deck, puis renvoyez la cible supplémentaire (s'il y en a une) à la main si vous contrôlez toujours un monstre Guerrier face recto.
   | de_lore               = FLIPP: Wähle 1 offenes Monster auf dem Spielfeld und falls du ein offenes Krieger-Monster kontrollierst, kannst du 1 zusätzliches offenes Monster auf dem Spielfeld wählen; lege das erste gewählte Ziel aufs Deck, dann gib das zusätzliche gewählte Ziel (falls es eins gibt) auf die Hand zurück, falls du immer noch ein offenes Krieger-Monster kontrollierst.
   | it_lore               = SCOPRI: Scegli come bersaglio 1 mostro scoperto sul Terreno e, se controlli un mostro Guerriero scoperto, puoi scegliere come bersaglio 1 mostro scoperto sul Terreno addizionale; metti il primo bersaglio in cima al Deck, poi fai ritornare il bersaglio addizionale (se c'è) nella mano se controlli ancora un mostro Guerriero scoperto.
-  | pt_lore               = 
+  | pt_lore               = VIRE: Escolha 1 monstro com a face para cima no campo e, se você controlar um monstro Guerreiro, você pode escolher 1 monstro adicional com a face para cima no campo; coloque o primeiro alvo no topo do Deck e, depois, devolva o alvo adicional (se houver) para a mão se você ainda controlar um monstro Guerreiro.
   | es_lore               = VOLTEO: Selecciona 1 monstruo boca arriba en el Campo y, si controlas un monstruo Guerrero boca arriba, puedes seleccionar 1 monstruo adicional boca arriba en el Campo; pon el primer objetivo en la parte superior del Deck, y después devuelve a la mano el segundo objetivo (si lo hay) si todavía controlas un monstruo Guerrero boca arriba.
-  | ko_lore               = 리버스 : 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 덱의 맨 위로 되돌린다. 자신 필드 위에 전사족 몬스터가 존재하는 경우, 다시 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 패로 되돌릴 수 있다.
   | ja_lore               = ①：このカードがリバースした場合、以下の効果から１つを選択して発動する。●フィールドの表側表示モンスター１体を対象として発動する。その表側表示モンスターを持ち主のデッキの一番上に戻す。●自分フィールドに戦士族モンスターが存在する場合、フィールドの表側表示モンスター２体を対象として発動する。その表側表示モンスター１体を持ち主のデッキの一番上に戻す。その後、自分フィールドに戦士族モンスターが存在する場合、もう１体の表側表示モンスターを持ち主の手札に戻す。
+  | ko_lore               = 리버스 : 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 덱의 맨 위로 되돌린다. 자신 필드 위에 전사족 몬스터가 존재하는 경우, 다시 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 패로 되돌릴 수 있다.
   | en_sets               = 
   LOD-EN021; Legacy of Darkness; Common
   DB2-EN141; Dark Beginning 2; Common
@@ -53,6 +53,8 @@ wikitext: |-
   BP01-IT058; Battle Pack: Epic Dawn; Common, Starfoil Rare
   SBCB-IT150; Speed Duel: Battle City Box; Common
   STP6-IT018; Speed Duel Tournament Pack 6; Common
+  | pt_sets               = 
+  STP6-PT018; Speed Duel Tournament Pack 6; Common
   | sp_sets               = 
   DB2-SP141; Dark Beginning 2; Common
   BP01-SP058; Battle Pack: Epic Dawn; Common, Starfoil Rare
