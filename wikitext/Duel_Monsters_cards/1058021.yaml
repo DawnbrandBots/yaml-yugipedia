@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ClearRageGolem-AC04-JP-OP.png
+  | image                 = ClearRageGolem-AC04-JP-C.png
   | attribute             = DARK
   | types                 = Rock / Effect
   | level                 = 4
   | atk                   = 1600
   | def                   = 1800
-  | password              = 
+  | password              = 07102732
   | effect_types          = Trigger, Condition, Continuous, Trigger
   | lore                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[activate]] this [[effect]]; your [[monsters]] that mention "[[Clear World]]" can attack directly this [[turn]]. You can only use this effect of "Clear Rage Golem" [[once per turn]]. You are [[unaffected]] by the effects of "Clear World". When this card inflicts [[battle damage]] to your opponent: You can inflict 300 [[Effect damage|damage]] to your opponent for each card in their [[hand]].
   | fr_lore               = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。このターン中、「クリアー・ワールド」のカード名が記された自分のモンスターは直接攻撃できる。②：このカードがモンスターゾーンに存在する限り、自分に「クリアー・ワールド」の効果は適用されない。③：このカードが相手に戦闘ダメージを与えた時に発動できる。相手の手札の数×３００ダメージを相手に与える。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP007; Animation Chronicle 2024; 
+  AC04-JP007; Animation Chronicle 2024; Common, Normal Parallel Rare
   | mentions              = Clear World
   | archseries            = Clear
   | action                = 
@@ -44,7 +44,6 @@ wikitext: |-
   | misc                  = 
   * Mentions
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20394
   | tcg_status            = Not yet released
   }}

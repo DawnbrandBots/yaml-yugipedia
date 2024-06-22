@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PerformageTrapezeWitch-AC04-JP-OP.png
+  | image                 = PerformageTrapezeWitch-AC04-JP-C.png
   | attribute             = DARK
   | types                 = Spellcaster / Fusion / Effect
   | level                 = 7
   | atk                   = 2400
   | def                   = 1800
-  | password              = 
+  | password              = 33206889
   | materials             = 2 "Performage" monsters
   | effect_types          = Continuous, Continuous, Trigger
   | lore                  = 2 "[[Performage]]" [[monsters]]<br />Your opponent cannot [[target]] "[[Performage]]" [[monsters]] you [[control]] with card [[effect]]s, also they cannot be [[destroy]]ed by your card effects. Your opponent's monsters cannot target this card for [[attack]]s while you control a "Performage" monster other than "Performage Trapeze Witch". When an attack is declared involving your "Performage" monster and an opponent's monster: You can make that opponent's monster lose 600 [[ATK]].
@@ -28,11 +28,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = 「Ｅｍ」モンスター×２<br />①：このカードがモンスターゾーンに存在する限り、自分フィールドの「Ｅｍ」モンスターは自分のカードの効果では破壊されず、相手はそれらを効果の対象にできない。②：自分フィールドに「Ｅｍトラピーズ・フォース・ウィッチ」以外の「Ｅｍ」モンスターが存在する限り、相手モンスターはこのカードを攻撃対象に選択できない。③：自分の「Ｅｍ」モンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その相手モンスターの攻撃力は６００ダウンする。  
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP022; Animation Chronicle 2024; 
+  AC04-JP022; Animation Chronicle 2024; Common, Normal Parallel Rare, Secret Rare
   | mentions              = Performage Trapeze Witch
   | archseries            = Performage
   | supports_archetypes   = Performage
@@ -48,7 +48,6 @@ wikitext: |-
   * Requires archetype specific Fusion Materials
   | attack                = Cannot be targeted for attacks
   | misc                  = Requires control of specific archetype
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20409
   | tcg_status            = Not yet released
   }}

@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = AllureDance-AC04-JP-OP.png
+  | image                 = AllureDance-AC04-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 68316358
   | effect_types          = Effect, Continuous-like, Ignition-like, Condition
   | lore                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 "[[Allure Queen]]" [[monster]] or 1 "[[Allure Palace]]" from your [[Main Deck|Deck]] to your [[hand]]. Each "Allure Queen" monster you [[control]] gains [[ATK]] equal to the ATK of the monsters equipped to it by its own [[effect]]. You can [[send]] 1 other [[Spell]]/[[Trap]] you control to the [[GY]]; [[Special Summon]] as many "Allure Queen" monsters with different names as possible from your GY. You can only use this effect of "Allure Dance" [[once per turn]]. You can only activate 1 "Allure Dance" per turn.
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカード発動時の効果処理として、デッキから「魅惑の女王」モンスター１体か「魅惑の宮殿」１枚を手札に加える事ができる。②：自分フィールドの「魅惑の女王」モンスターの攻撃力は、自身の効果で装備しているモンスターの攻撃力分アップする。③：自分フィールドの他の魔法・罠カード１枚を墓地へ送って発動できる。自分の墓地から「魅惑の女王」モンスターを可能な限り特殊召喚する（同名カードは１枚まで）。
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「魅惑の女王」モンスター１体か「魅惑の宮殿」１枚を手札に加える事ができる。②：自分フィールドの「魅惑の女王」モンスターの攻撃力は、自身の効果で装備しているモンスターの攻撃力分アップする。③：自分フィールドの他の魔法・罠カード１枚を墓地へ送って発動できる。自分の墓地から「魅惑の女王」モンスターを可能な限り特殊召喚する（同名カードは１枚まで）。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP029; Animation Chronicle 2024; 
+  AC04-JP029; Animation Chronicle 2024; Common, Normal Parallel Rare
   | mentions              = Allure Palace
   | supports_archetypes   = Allure Queen
   | action                = 
@@ -37,7 +37,6 @@ wikitext: |-
   | stat_change           = Your monsters gain ATK
   | summoning             = Special Summons from your Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20416
   | tcg_status            = Not yet released
   }}

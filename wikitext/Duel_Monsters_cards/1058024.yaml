@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ClearWall-AC04-JP-OP.png
+  | image                 = ClearWall-AC04-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 06089145
   | effect_types          = Ignition-like, Condition, Continuous-like, Continuous-like
   | lore                  = If "[[Clear World]]" is on the [[field]]: You can [[Add a card|add]] 1 [[monster]] from your [[Main Deck|Deck]] to your [[hand]] that mentions it. You can only use this [[effect]] of "Clear Wall" [[once per turn]]. Monsters that mention "Clear World" cannot be [[destroyed by battle]], also you take no [[battle damage]] from [[battle]]s involving them. While you [[control]] a [[Level]] 7 or higher monster that mentions "Clear World", all effects of "Clear World" are applied to your opponent regardless of the [[Attribute]]s they control.
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：フィールドに「クリアー・ワールド」が存在する場合に発動できる。デッキから「クリアー・ワールド」のカード名が記されたモンスター１体を手札に加える。②：「クリアー・ワールド」のカード名が記されたモンスターは戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは０になる。③：「クリアー・ワールド」のカード名が記されたレベル７以上のモンスターが自分フィールドに存在する限り、「クリアー・ワールド」の効果は属性によらず全て相手に適用される。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP010; Animation Chronicle 2024; 
+  AC04-JP010; Animation Chronicle 2024; Common, Normal Parallel Rare, Secret Rare
   | mentions              = Clear World
   | archseries            = Clear
   | action                = Adds from Deck to hand
@@ -38,7 +38,6 @@ wikitext: |-
   * Mentions
   * Only once per turn
   * Requires control of specific Level
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20397
   | tcg_status            = Not yet released
   }}

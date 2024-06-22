@@ -13,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PerformageWindDrainer-AC04-JP-OP.png
+  | image                 = PerformageWindDrainer-AC04-JP-C.png
   | attribute             = WIND
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 5
   | pendulum_scale        = 4
   | atk                   = 2100
   | def                   = 0
-  | password              = 
+  | password              = 70417076
   | pendulum_effect_types = Ignition-like
   | effect_types          = Ignition, Condition, Ignition, Ignition
   | pendulum_effect       = [[Once per turn]]: You can [[target]] 1 "[[Performage]]" [[Pendulum Monster]] you [[control]], then [[activate]] 1 of these [[effect]]s;<br />● Reduce its [[Level]] by 1.<br />● Increase this card's [[Pendulum Scale]] by that monster's.
@@ -35,14 +35,14 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = ①：１ターンに１度、自分フィールドの「Ｅｍ」Ｐモンスター１体を対象とし、以下の効果から１つを選択して発動できる。<br />●対象のモンスターのレベルを１つ下げる。<br />●対象のモンスターのＰスケールの数値分だけこのカードのＰスケールを上げる。
+  | ja_lore               = このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：相手フィールドにモンスターが存在する場合、またはフィールドに「Ｅｍ」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードがモンスターゾーンに存在する限り、自分は「Ｅｍ」モンスターしか特殊召喚できない。②：このカードが特殊召喚した場合に発動できる。このカードのレベルを１つ下げる。③：１ターンに１度、発動できる。自分フィールドの全てのレベル４の「Ｅｍ」モンスターのレベルを５にする。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP020; Animation Chronicle 2024; 
+  AC04-JP020; Animation Chronicle 2024; Common, Normal Parallel Rare
   | supports              = Pendulum Monster
   | archseries            = Performage
   | supports_archetypes   = Performage
@@ -64,7 +64,6 @@ wikitext: |-
   * Requires control of specific Monster type
   * Variable effects
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20407
   | tcg_status            = Not yet released
   }}

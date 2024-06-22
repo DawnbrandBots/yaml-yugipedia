@@ -16,7 +16,7 @@ wikitext: |-
   | image                 = GriefTablet-AC04-JP-SR.png
   | card_type             = Spell
   | property              = Equip
-  | password              = 
+  | password              = 18046862
   | effect_types          = Condition, Continuous-like, Ignition-like, Trigger-like, Condition
   | lore                  = (This card is always treated as a "[[Wedju]]" card.)<br />The equipped [[monster]] cannot [[attack]] or be [[Tribute]]d, also its [[effect]]s are [[negate]]d. [[Once per turn]], if you [[control]] the equipped monster: You can [[Add a card|add]] 1 "[[Wedju]]" card from your [[Main Deck|Deck]] to your [[hand]], except "Grief Tablet". If this card is sent to the [[GY]] because the equipped monster is [[destroy]]ed: You can inflict 500 [[Effect damage|damage]] to your opponent. You can only activate 1 "Grief Tablet" per turn.
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：装備モンスターは攻撃できず、効果は無効化され、リリースできない。②：１ターンに１度、装備モンスターが自分フィールドに存在する場合に発動できる。デッキから「嘆きの石版」以外の「石版」カード１枚を手札に加える。③：装備モンスターが破壊された事でこのカードが墓地へ送られた場合に発動できる。相手に５００ダメージを与える。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP001; Animation Chronicle 2024; 
+  AC04-JP001; Animation Chronicle 2024; Super Rare, Secret Rare
   | mentions              = Grief Tablet
   | archseries            = Wedju
   | supports_archetypes   = Wedju
@@ -42,7 +42,6 @@ wikitext: |-
   | misc                  = 
   * Limited activations
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20388
   | tcg_status            = Not yet released
   }}

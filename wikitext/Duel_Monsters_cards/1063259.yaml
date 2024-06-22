@@ -13,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PerformageCupTricker-AC04-JP-OP.png
+  | image                 = PerformageCupTricker-AC04-JP-C.png
   | attribute             = LIGHT
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 5
   | pendulum_scale        = 1
   | atk                   = 1200
   | def                   = 1400
-  | password              = 
+  | password              = 06812770
   | pendulum_effect_types = Ignition-like, Trigger-like, Condition
   | effect_types          = Ignition, Trigger, Condition
   | pendulum_effect       = You can [[target]] 1 "[[Performage]]" [[Xyz Monster]] you [[control]]; [[attach]] this card to it as [[material]]. If a card(s) is added to your [[Extra Deck]] (except during the [[Damage Step]]): You can add 1 [[face-up]] "Performage" [[Pendulum Monster]] from your Extra Deck to your [[hand]]. You can only use each [[Pendulum Effect]] of "Performage Cup Tricker" [[once per turn]].
@@ -35,14 +35,14 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名の①②のＰ効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「Ｅｍ」Ｘモンスター１体を対象として発動できる。このカードをそのモンスターのＸ素材とする。②：自分のＥＸデッキにカードが加わった場合に発動できる。自分のＥＸデッキ（表側）から「Ｅｍ」Ｐモンスター１体を手札に加える。
+  | ja_lore               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、フィールドのＸモンスター１体を対象として発動できる。そのモンスターのＸ素材を１つ取り除き、このカードを特殊召喚する。その後、フィールドのＸモンスター１体の攻撃力は６００ダウンする。②：Ｘ素材のこのカードがＸモンスターの効果を発動するために取り除かれ墓地へ送られた場合、自分フィールドのＸモンスター２体を対象として発動できる。その内の１体のＸ素材１つを、もう１体のＸ素材とする。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP021; Animation Chronicle 2024; 
+  AC04-JP021; Animation Chronicle 2024; Common, Normal Parallel Rare
   | supports              = 
   * Xyz Monster
   * Pendulum Monster
@@ -63,7 +63,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20408
   | tcg_status            = Not yet released
   }}

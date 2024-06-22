@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = SpiritIllusion-AC04-JP-OP.png
+  | image                 = SpiritIllusion-AC04-JP-C.png
   | card_type             = Spell
   | property              = Equip
-  | password              = 
+  | password              = 71939275
   | effect_types          = Condition, Trigger-like, Ignition-like, Condition
   | lore                  = [[Equip]] only to a [[Level]] 5 or higher [[Fiend]] or [[Zombie]] [[monster]]. When an [[attack]] is [[declare]]d involving the equipped monster and an opponent's monster: You can make that opponent's monster lose [[ATK]] equal to the equipped monster's. You can [[activate]] 1 of these [[effect]]s;<br />● [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using monsters from your [[hand]] or [[field]] as [[material]].<br />● [[Special Summon]] 1 "[[Doppelganger Token]]" (Level 5/[[ATK]] ?/[[DEF]] 0) with the same [[Type]], [[Attribute]], and ATK as the equipped monster.<br />You can only use this effect of "Spirit Illusion" once per turn.
   | fr_lore               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = レベル５以上の悪魔族・アンデット族モンスターにのみ装備可能。このカード名の①の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。●自分の手札・フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚する。●装備モンスターと同じ種族・属性・攻撃力を持つ「ドップラートークン」（星５・攻？／守０）１体を自分フィールドに特殊召喚する。②：装備モンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その相手モンスターの攻撃力は装備モンスターの攻撃力分ダウンする。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP003; Animation Chronicle 2024; 
+  AC04-JP003; Animation Chronicle 2024; Common, Normal Parallel Rare
   | mentions              = Doppelganger Token
   | supports              = 
   * Fiend
@@ -53,7 +53,6 @@ wikitext: |-
   * Equips only to a specific target
   * Variable effects
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20390
   | tcg_status            = Not yet released
   }}

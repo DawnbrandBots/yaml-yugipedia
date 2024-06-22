@@ -13,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PerformageWaterDancer-AC04-JP-OP.png
+  | image                 = PerformageWaterDancer-AC04-JP-C.png
   | attribute             = WATER
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 4
   | pendulum_scale        = 2
   | atk                   = 1200
   | def                   = 1400
-  | password              = 
+  | password              = 34323367
   | pendulum_effect_types = Ignition-like, Trigger-like, Condition
   | effect_types          = Trigger, Condition, Trigger
   | pendulum_effect       = If you [[control]] a "[[Performage]]" [[monster]]: You can [[Special Summon]] this card. When a monster [[declare]]s an [[attack]]: You can [[target]] 1 [[Attack Position]] monster on the [[field]]; change it to [[Defense Position]]. You can only use each [[Pendulum Effect]] of "Performage Water Dancer" [[once per turn]].
@@ -35,14 +35,14 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名の①②のＰ効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「Ｅｍ」モンスターが存在する場合に発動できる。このカードを特殊召喚する。②：自分か相手のモンスターの攻撃宣言時、フィールドの攻撃表示モンスター１体を対象として発動できる。そのモンスターを守備表示にする。
+  | ja_lore               = このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードがＰ召喚した場合に発動できる。自分のデッキ・墓地から「融合」１枚を手札に加える。②：フィールドのこのカードが戦闘・効果で破壊された場合、フィールドの攻撃表示モンスター１体を対象として発動できる。そのモンスターを守備表示にする。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
   | sc_lore               = 
   | jp_sets               = 
-  AC04-JP019; Animation Chronicle 2024; 
+  AC04-JP019; Animation Chronicle 2024; Common, Normal Parallel Rare
   | mentions              = Polymerization
   | archseries            = Performage
   | supports_archetypes   = Performage
@@ -58,7 +58,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20406
   | tcg_status            = Not yet released
   }}
