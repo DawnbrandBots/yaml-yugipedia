@@ -12,12 +12,20 @@ wikitext: |-
   | atk              = 100
   | def              = 500
   | requirement      = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
-  | lore             = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you sent a monster with 100 [[original ATK]] to the Graveyard to meet the requirement, you can change 1 monster on your opponent's field to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]].
+  | lore             = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you sent a [[Monster Card|monster]] with 100 [[Original ATK and DEF|original ATK]] to the Graveyard to meet the [[Activation condition|requirement]], you can [[Battle position change|change]] 1 monster on your opponent's field to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP023; Dark Matter of Phantoms; Rare
   | archseries       = Berry Fresh
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Flips your opponent's monsters face-down
+  | stat_change      = This card gains ATK
+  | misc             = Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

@@ -12,12 +12,18 @@ wikitext: |-
   | atk              = 100
   | def              = 500
   | requirement      = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
-  | lore             = [[Draw a card|Draw]] 1 card. Then, if you sent an [[Aqua]] [[Type]] monster with 100 original ATK to the Graveyard to meet the requirement, you can draw 1 card.
+  | lore             = [[Draw a card|Draw]] 1 card. Then, if you sent an [[Aqua]] [[Type]] [[Monster Card|monster]] with 100 [[Original ATK and DEF|original ATK]] to the Graveyard to meet the [[Activation condition|requirement]], you can draw 1 card.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP027; Dark Matter of Phantoms; Super Rare, Secret Rare
+  | supports         = Aqua
   | archseries       = Berry Fresh
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * You draw cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

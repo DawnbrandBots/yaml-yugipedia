@@ -13,12 +13,16 @@ wikitext: |-
   | def              = 500
   | effect_types     = Continuous
   | requirement      = None
-  | lore             = If you have another [[face-up]] [[Aqua]] [[Type]] [[monster]] with 100 [[original ATK]] on your [[field]], face-up monsters on your opponent's field lose 1500 [[ATK]]/[[DEF]].
+  | lore             = If you have a [[face-up]] [[Aqua]] [[Type]] [[Monster Card|monster]] on your [[field]] with 100 [[Original ATK and DEF|original ATK]] other than this card, face-up monsters on your opponent's field lose 1500 [[ATK]]/[[DEF]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP028; Dark Matter of Phantoms; Rare
+  | supports         = Aqua
   | archseries       = Berry Fresh
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

@@ -11,13 +11,22 @@ wikitext: |-
   | level            = 1
   | atk              = 100
   | def              = 500
-  | requirement      = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed, [[send]] up to 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
-  | lore             = This card gains [[ATK]] equal to [the number of cards sent to the Graveyard to meet the requirement] x 1500 until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] monsters in your Graveyard, this card cannot be destroyed by your opponent's [[Spell]]/[[Trap Card]] effects until the end of your opponent's next turn.
+  | requirement      = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card, [[send]] up to 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
+  | lore             = This card gains [[ATK]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 1500 until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] [[Monster Card|monster]]s in your Graveyard, this card cannot be [[destroy]]ed by your opponent's [[Spell Card|Spell]]/[[Trap Card]] [[effect]]s until the end of their next turn.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP022; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
+  | supports         = Aqua
   | archseries       = Berry Fresh
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | stat_change      = This card gains ATK
+  | m/s/t            = Cannot be destroyed by card effects
+  | misc             = Turn limited effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

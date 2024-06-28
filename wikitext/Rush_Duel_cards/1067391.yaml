@@ -11,8 +11,8 @@ wikitext: |-
   | level            = 1
   | atk              = 100
   | def              = 500
-  | requirement      = During your [[Main Phase]] this card was [[Normal Summon|Normal]] or [[Special Summon]]ed
-  | lore             = [[Add a card|Add]] 1 "[[Berry Fresh Happiness]]" or 1 "[[Berry Fresh Happiness Harvest]]" from your [[Graveyard]] to your [[hand]]. Then, if you added "Berry Fresh Happiness Harvest", [[send]] this card from your [[field]] to the Graveyard.
+  | requirement      = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card.
+  | lore             = [[Add a card|Add]] 1 "[[Berry Fresh Happiness]]" or 1 "[[Berry Fresh Happiness Harvest]]" from your [[Graveyard]] to your [[hand]]. Then, if you added "Berry Fresh Happiness Harvest" by this [[effect]], [[send]] this card from your [[field]] to the Graveyard.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -21,6 +21,11 @@ wikitext: |-
   * Berry Fresh Happiness
   * Berry Fresh Happiness Harvest
   | archseries       = Berry Fresh
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  * Sends itself from field to Graveyard
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
