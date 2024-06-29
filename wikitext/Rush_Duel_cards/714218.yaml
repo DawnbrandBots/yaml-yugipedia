@@ -1,5 +1,6 @@
 title: Card Revitalization
 wikitext: |-
+  {{Video game text}}
   {{CardTable2
   | ja_name        = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|活|かっ}}{{Ruby|殺|さつ}}
   | romaji_name    = Tefuda Kassatsu
@@ -10,6 +11,8 @@ wikitext: |-
   | property       = Normal
   | requirement    = None
   | lore           = Both [[Duelist|player]]s [[discard]] as many cards as possible from their [[hand]]s. You can make 1 [[face-up]] [[Monster Card|monster]] on your [[field]] gain [[ATK]] equal to [the number of cards [[Send|sent]] to the Graveyard by this [[effect]]] x 300 until the end of this [[turn]].
+  | trans_requirement = None
+  | trans_lore     = Both players '''send''' as many cards as possible from their hands '''to the Graveyard'''. You can make 1 face-up monster on your field gain ATK equal to [the number of cards sent to the Graveyard by this effect] x 300 until the end of this turn.
   | ja_requirement = なし
   | ja_lore        = 手札があるプレイヤーは、手札を全て墓地へ送る。その後、自分は自分フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで［この効果で墓地へ送られたカードの数］×３００アップできる。
   | ko_requirement = 없음
