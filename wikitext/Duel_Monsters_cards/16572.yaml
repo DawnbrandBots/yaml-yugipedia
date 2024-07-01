@@ -1,16 +1,17 @@
 title: Inferno Reckless Summon
 wikitext: |-
   {{CardTable2
-  | tc_name               = 地獄的暴走召喚
   | fr_name               = Invocation Infernale Téméraire
   | de_name               = Infernomissachtende Beschwörung
   | it_name               = Inferno Evocazione Folle
-  | ko_name               = 지옥의 폭주소환
   | pt_name               = Invocação Precipitada do Inferno
   | es_name               = Invocación Temeraria del Infierno
   | ja_name               = {{Ruby|地|じ}}{{Ruby|獄|ごく}}の{{Ruby|暴|ぼう}}{{Ruby|走|そう}}{{Ruby|召|しょう}}{{Ruby|喚|かん}}
   | romaji_name           = Jigoku no Bōsō Shōkan
   | trans_name            = Hell Reckless Summon
+  | ko_name               = 지옥의 폭주소환
+  | tc_name               = 地獄的暴走召喚
+  | sc_name               = 地狱的暴走召唤
   | image                 = 
   1;   InfernoRecklessSummon-SR03-JP-C.png;    InfernoRecklessSummon-MADU-JP-VG-artwork.png
   1.1; InfernoRecklessSummon-SR03-EN-C-1E.png; InfernoRecklessSummon-MADU-EN-VG-artwork.png
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_lore               = ①：相手フィールドに表側表示モンスターが存在し、自分フィールドに攻撃力１５００以下のモンスター１体のみが特殊召喚された時に発動できる。その特殊召喚したモンスターの同名モンスターを自分の手札・デッキ・墓地から可能な限り攻撃表示で特殊召喚し、相手は自身のフィールドの表側表示モンスター１体を選び、そのモンスターの同名モンスターを自身の手札・デッキ・墓地から可能な限り特殊召喚する。
   | ko_lore               = ①: 상대 필드에 앞면 표시 몬스터가 존재하고, 자신 필드에 공격력 1500 이하인 몬스터 1장만이 특수 소환되었을 때에 발동할 수 있다. 그 특수 소환한 몬스터의 같은 이름의 몬스터를 자신의 패 / 덱 / 묘지에서 가능한 한 공격 표시로 특수 소환하고, 상대는 자신 필드의 앞면 표시 몬스터 1장을 골라, 그 몬스터의 같은 이름의 몬스터를 자신의 패 / 덱 / 묘지에서 가능한 한 특수 소환한다.
   | tc_lore               = 若对手场上存在表侧表示怪兽，并且我方场上1只攻击力1500或以下的怪兽特殊召唤成功时可发动。从我方手牌、牌组、墓地中全部以攻击表示特殊召唤与该特殊召唤怪兽同名的怪兽。对手选择对手自己场上以表侧表示存在的1只怪兽，并从对手自己的手牌、牌组、墓地中特殊召唤与该怪兽同名的全部怪兽。
+  | sc_lore               = ①：对手场上存在表侧表示怪兽，且仅１只攻击力１５００以下的怪兽被特殊召唤至自己场上时可以发动。从自己的手牌・牌组・墓地尽可能地将该特殊召唤的怪兽的同名怪兽以攻击表示特殊召唤，对手挑选自身场上的１只表侧表示怪兽，从自身的手牌・牌组・墓地尽可能地将该怪兽的同名怪兽特殊召唤。
   | en_sets               = 
   DP2-EN025; Duelist Pack: Chazz Princeton; Super Rare
   SDMM-EN027; Machina Mayhem Structure Deck; Common
@@ -54,13 +56,13 @@ wikitext: |-
   DP2-JP025; Duelist Pack: Chazz Princeton; Super Rare
   SD18-JP028; Structure Deck: Machiners Command; Common
   SR03-JP030; Structure Deck R: Machine Dragon Re-Volt; Common
-  | tc_sets               = 
-  SD18-TC028; Structure Deck: Machiners Command; Common
   | kr_sets               = 
   DP2-KR025; Duelist Pack: Chazz Princeton; Super Rare
   SD18-KR028; Structure Deck: Machiners Command; Common
   AE04-KR016; Advanced Event Pack 2014 Vol.2; Common
   SR03-KR030; Structure Deck R: Machine Dragon Re-Volt; Common
+  | tc_sets               = 
+  SD18-TC028; Structure Deck: Machiners Command; Common
   | sc_sets               = 
   24SP-SC320; Entry Pack 2024 Vol.3; Common
   | ygo_sets              = 
