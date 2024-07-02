@@ -3,24 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|兵|へい}}ショック・ドゥ
-  | romaji_name            = Genkaihei Shokku Du
-  | trans_name             = Mythic Demolition Soldier Shokku Du
-  | image                  = DemolitionSoldierShokkuDu-RDKP18-JP-OP.png
-  | attribute              = FIRE
-  | types                  = Wyrm / Effect
-  | level                  = 4
-  | atk                    = 1000
-  | def                    = 1000
-  | requirement            = Place 1 [[Wyrm]] [[Type]] [[monster]] from your [[Graveyard]] on either the top or bottom of your [[Main Deck|Deck]].
-  | lore                   = 1 [[face-up]] monster on your [[field]] gains 100 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Demolition Soldier Hell Met]]" or 1 Wyrm Type [[Normal Monster]] from your Graveyard to your [[hand]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
-  | jp_sets                = 
+  | ja_name          = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|兵|へい}}ショック・ドゥ
+  | romaji_name      = Genkaihei Shokku Du
+  | trans_name       = Mythic Demolition Soldier Shokku Du
+  | image            = DemolitionSoldierShokkuDu-RDKP18-JP-OP.png
+  | attribute        = FIRE
+  | types            = Wyrm / Effect
+  | level            = 4
+  | atk              = 1000
+  | def              = 1000
+  | requirement      = Place 1 [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] on either the top or bottom of your [[Main Deck|Deck]].
+  | lore             = 1 [[face-up]] monster on your [[field]] gains 100 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Demolition Soldier Hell Met]]" or 1 Wyrm Type [[Normal Monster]] from your Graveyard to your [[hand]].
+  | ja_requirement   = 
+  | ja_lore          = 
+  | jp_sets          = 
   RD/KP18-JP013; Dark Matter of Phantoms; Common
-  | mentions               = Demolition Soldier Hell Met
-  | archseries             = Demolition
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | mentions         = Demolition Soldier Hell Met
+  | supports         = 
+  * Wyrm
+  * Normal Monster
+  | archseries       = Demolition
+  | action           = 
+  * Places cards from the player's Graveyard on the top of the Deck for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | stat_change      = Your monsters gain ATK
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}

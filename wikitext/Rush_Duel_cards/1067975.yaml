@@ -3,21 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|幻|まぼろし}}の{{Ruby|三|さん}}{{Ruby|角|かく}}スケール
-  | romaji_name      = Maboroshi no Sankaku Sukēru
-  | trans_name       = Legendary Triangular Scale
-  | image            = LegendaryScaleRuler-RDKP18-JP-OP.png
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = [[Send]] 1 [[Wyrm]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Draw a card|Draw]] 2 cards. You cannot activate [[monster effect]]s for the rest of this [[turn]], except Wyrm Type monsters.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name               = {{Ruby|幻|まぼろし}}の{{Ruby|三|さん}}{{Ruby|角|かく}}スケール
+  | romaji_name           = Maboroshi no Sankaku Sukēru
+  | trans_name            = Legendary Triangular Scale
+  | image                 = LegendaryScaleRuler-RDKP18-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = [[Send]] 1 [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore                  = [[Draw a card|Draw]] 2 cards. If you do, you cannot [[activate]] [[monster effect]]s for the rest of this [[turn]], except those of Wyrm Type monsters.
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/KP18-JP054; Dark Matter of Phantoms; Super Rare, Secret Rare
+  | supports              = Wyrm
   | related_to_archseries = 
   * Constructor
   * Demolition
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | m/s/t                 = Prevents activation of your Effect Monsters
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

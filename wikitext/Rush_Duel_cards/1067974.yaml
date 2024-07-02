@@ -3,26 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|帝|てい}}バクハカイザー
-  | romaji_name            = Genkaitei Bakuhakaizā
-  | trans_name             = Mythic Demolition Emperor Blastkaiser
-  | image                  = DemolitionEmperorBlastkaiser-RDKP18-JP-OP.png
-  | attribute              = FIRE
-  | types                  = Wyrm / Fusion / Effect
-  | level                  = 9
-  | atk                    = 2600
-  | def                    = 0
-  | fusion_material        = Demolition Soldier Hell Met
-  | materials              = "[[Demolition Soldier Hell Met]]" + 1 [[Wyrm]] [[Type]] [[monster]]
-  | requirement            = [[Send]] 1 Wyrm Type monster from your [[hand]] to the [[Graveyard]].
-  | lore                   = [[Shuffle]] up to 3 cards from your opponent's Graveyard into the [[Main Deck|Deck]]. Then, if you sent a [[Level]] 8 or higher monster to the Graveyard to meet the [[Activation condition|requirement]], this card gains [[ATK]] equal to [the number of cards shuffled by this [[effect]]] x 300 until the end of this [[turn]].
-  | ja_materials           = 
-  | ja_requirement         = 
-  | ja_lore                = 
-  | jp_sets                = 
+  | ja_name          = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|帝|てい}}バクハカイザー
+  | romaji_name      = Genkaitei Bakuhakaizā
+  | trans_name       = Mythic Demolition Emperor Blastkaiser
+  | image            = DemolitionEmperorBlastkaiser-RDKP18-JP-OP.png
+  | attribute        = FIRE
+  | types            = Wyrm / Fusion / Effect
+  | level            = 9
+  | atk              = 2600
+  | def              = 0
+  | fusion_material  = Demolition Soldier Hell Met
+  | materials        = "[[Demolition Soldier Hell Met]]" + 1 [[Wyrm]] [[Type]] [[Monster Card|monster]]
+  | requirement      = [[Send]] 1 Wyrm Type monster from your [[hand]] to the [[Graveyard]].
+  | lore             = [[Shuffle]] up to 3 cards from your opponent's Graveyard into the [[Main Deck|Deck]]. Then, if you sent a [[Level]] 8 or higher monster to the Graveyard to meet the [[Activation condition|requirement]], this card gains [[ATK]] equal to [the number of cards shuffled by this [[effect]]] x 300 until the end of this [[turn]].
+  | ja_materials     = 
+  | ja_requirement   = 
+  | ja_lore          = 
+  | jp_sets          = 
   RD/KP18-JP045; Dark Matter of Phantoms; Common
-  | mentions               = Demolition Soldier Hell Met
-  | archseries             = Demolition
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | mentions         = Demolition Soldier Hell Met
+  | supports         = Wyrm
+  | archseries       = Demolition
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | database_id      = 
+  | rush_duel_status = Not yet released
   }}

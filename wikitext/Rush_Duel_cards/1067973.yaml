@@ -12,15 +12,32 @@ wikitext: |-
   | level                  = 10
   | atk                    = 2500
   | def                    = 0
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[Maximum Monster]].
-  | requirement            = You have 10 or more cards in your [[Main Deck|Deck]] and the only [[monsters]] in your [[Graveyard]] are [[Wyrm]] [[Type]] monsters.
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Maximum Monster]].
+  | requirement            = You have 10 or more cards in your [[Main Deck|Deck]] and the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Wyrm]] [[Type]].
   | lore                   = [[Draw a card|Draw]] 1 card. Then, you can [[Fusion Summon]] by [[send]]ing Wyrm Type monsters from your [[hand]] and/or [[field]] to the Graveyard as [[material]].
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP18-JP015; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
-  | database_id            = 
+  | supports               = 
+  * Maximum Monster
+  * Wyrm
   | related_to_archseries  = Constructor
+  | action                 = 
+  * You draw cards
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | summoning              = 
+  * Normal Summon with 1 Tribute
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                   = 
+  * Requires control of specific Monster card type
+  * Requires control of specific Type
+  | database_id            = 
   | rush_duel_status       = Not yet released
   }}
