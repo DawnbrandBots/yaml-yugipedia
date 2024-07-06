@@ -12,11 +12,14 @@ wikitext: |-
   | atk              = 2400
   | def              = 0
   | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Choose 1 [[face-up]] [[monster]] on the [[field]], and it loses 600 [[ATK]] until the end of this [[turn]]. Then, if you chose this card by this [[effect]], it can attack directly this [[turn]].
+  | lore             = Choose 1 [[face-up]] [[Monster Card|monster]] on the [[field]], and it loses 600 [[ATK]] until the end of this [[turn]]. Then, if you chose this card by this [[effect]], it can [[attack]] [[Direct attack|directly]] this turn.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP037; Dark Matter of Phantoms; Super Rare, Secret Rare
+  | action           = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change      = All monsters lose ATK
+  | attack           = Direct attacker
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
