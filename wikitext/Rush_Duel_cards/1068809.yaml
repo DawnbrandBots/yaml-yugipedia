@@ -10,11 +10,16 @@ wikitext: |-
   | def              = 1000
   | effect_types     = Continuous
   | requirement      = None
-  | lore             = If your [[Fish]], [[Sea Serpent]], or [[Aqua]] [[Type]] [[monster]] [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | lore             = If your [[Fish]]/[[Sea Serpent]]/[[Aqua]] [[Type]] [[Monster Card|monster]] [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP036; Dark Matter of Phantoms; Rare
+  | supports         = 
+  * Fish
+  * Sea Serpent
+  * Aqua
+  | attack           = Piercing
   | misc             = Legend Card
   | database_id      = 
   | rush_duel_status = Not yet released
