@@ -22,7 +22,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Quick-like, Quick-like, Condition
-  | lore                = You can target 1 "[[Goblin]]" monster you control and 1 monster your opponent controls, OR 1 "Goblin" monster in your GY and 1 monster in your opponent's GY; banish both. You can send this face-up card from your Spell & Trap Zone to the GY, then target 5 of your banished "Goblin" monsters with different names; Special Summon them.  You can only use 1 "Goblin Biker Grand Crisis" effect per turn, and only once that turn.
+  | lore                = You can [[target]] 1 "[[Goblin]]" [[monster]] you [[control]] and 1 monster your opponent controls, OR 1 "Goblin" monster in your [[GY]] and 1 monster in your opponent's GY; [[banish]] both. You can [[send]] this [[face-up]] card from your [[Spell & Trap Zone]] to the GY, then target 5 of your banished "Goblin" monsters with different names; [[Special Summon]] them. You can only use 1 "Goblin Biker Grand Crisis" [[effect]] per turn, and [[once per turn|only once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,6 +37,16 @@ wikitext: |-
   * Goblin
   * Goblin Biker
   | supports_archetypes = Goblin
+  | action              = Sends itself from field to Graveyard for cost
+  | summoning           = Special Summons the player's banished monsters
+  | banished            = 
+  * Banishes from your field
+  * Banishes from your opponent's field
+  * Banishes from your Graveyard
+  * Banishes from your opponent's Graveyard
+  | misc                = 
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

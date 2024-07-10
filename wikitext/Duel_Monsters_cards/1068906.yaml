@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Condition
-  | lore                = If your opponent Special Summons a monster(s) from the Deck and/or Extra Deck and you control a "[[Diabellstar]]" Monster Card: Target 1 monster they control; shuffle it into the Deck. During the Damage Step, if your "Diabellstar" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of "Sinful Spoils Offenders" once per turn.
+  | lore                = If your opponent [[Special Summon]]s a [[monster]](s) from the [[Main Deck|Deck]] and/or [[Extra Deck]] and you [[control]] a "[[Diabellstar]]" [[Monster Card]]: [[Target]] 1 monster they control; [[shuffle]] it into the Deck. During the [[Damage Step]], if your "Diabellstar" monster [[battle]]s an opponent's monster: You can [[banish]] this card from your [[GY]]; that opponent's monster's [[ATK]] becomes halved until the end of this [[turn]]. You can only use each [[effect]] of "Sinful Spoils Offenders" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,17 @@ wikitext: |-
   ROTA-JP074; Rage of the Abyss; 
   | archseries          = Sinful Spoils
   | supports_archetypes = Diabellstar
+  | action              = 
+  * Activates upon Special Summon
+  * Returns from your opponent's field to your opponent's Deck
+  * Activates from your Graveyard
+  | stat_change         = 
+  * Halves ATK
+  * Your opponent's monsters lose ATK
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
