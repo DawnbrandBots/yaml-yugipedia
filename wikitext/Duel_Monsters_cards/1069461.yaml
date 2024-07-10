@@ -29,10 +29,26 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   DBCB-JP010; Deck Build Pack: Crossover Breakers; 
+  | supports            = Xyz Monster
   | archseries          = 
   * Hole
   * Raizeol
   | supports_archetypes = Raizeol
+  | action              = 
+  * Attaches from your Graveyard as Xyz Material
+  * Activates from your Graveyard
+  * Must include particular Xyz Materials
+  | m/s/t               = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning           = Performs an Xyz Summon
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Requires control of specific Rank
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

@@ -22,7 +22,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 2500
   | password            = 
-  | materials           = 
+  | materials           = 2 or more Level 4 "Raizeol" monsters
   | effect_types        = Quick, Condition, Trigger, Continuous
   | lore                = 2+ [[Level]] 4 "[[Raizeol]]" [[monsters]]<br />When your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card, then [[target]] 1 card on the [[field]]; [[destroy]] it. You can only use each of the following effects of "Raizeol Deadnader" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[attach]] 1 monster from your [[GY]] to this card as [[material]]. If an [[Xyz Monster]](s) you [[control]] would be [[destroyed by battle]] or card effect, you can detach 1 material from this card instead.
   | fr_lore             = 
@@ -37,8 +37,27 @@ wikitext: |-
   DBCB-JP007; Deck Build Pack: Crossover Breakers; Ultra Rare, Secret Rare
   | sc_sets             = 
   DB??-SC0??; Deck Build Pack: Crossover Breakers; 
+  | supports            = Xyz Monster
   | archseries          = Raizeol
   | supports_archetypes = Raizeol
+  | action              = 
+  * Activates upon Special Summon
+  * Attaches from your Graveyard as Xyz Material
+  * Detaches Xyz Materials for effect
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning           = 
+  * 2+ Xyz Materials
+  * Requires archetype specific Xyz Materials
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Prevents other cards being destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

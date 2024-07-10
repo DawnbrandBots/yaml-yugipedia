@@ -1,7 +1,5 @@
-title: Woes of the White Woods
+title: Woes of the White Forest
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = WoesoftheWhiteWoods-INFO-JP-C.png
+  | image               = WoesoftheWhiteForest-INFO-JP-C.png
   | card_type           = Trap
   | property            = Normal
   | password            = 62995268
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = [[Special Summon]] 1 "[[White Woods]]" [[monster]] from your [[hand]] or [[Main Deck|Deck]], then, immediately after this [[effect]] [[resolve]]s, you can [[Synchro Summon]] 1 "White Woods" monster. If this card is [[sent]] to the [[GY]] to [[activate]] a [[monster effect]]: You can [[Set]] this card. You can only use each effect of "Woes of the White Woods" [[once per turn]].
+  | lore                = [[Special Summon]] 1 "[[White Forest]]" [[monster]] from your [[hand]] or [[Main Deck|Deck]], then immediately after this [[effect]] [[resolve]]s, you can [[Synchro Summon]] 1 "White Forest" [[Synchro Monster]]. If this card is [[sent]] to the [[GY]] to [[activate]] a [[monster effect]]: You can [[Set]] this card. You can only use each effect of "Woes of the White Forest" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -28,10 +26,22 @@ wikitext: |-
   | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・デッキから「白き森」モンスター１体を特殊召喚する。その後、「白き森」Ｓモンスター１体のＳ召喚を行う事ができる。②：このカードがモンスターの効果を発動するために墓地へ送られた場合に発動できる。このカードを自分フィールドにセットする。
   | ko_lore             = 
   | sc_lore             = 
+  | en_sets             = 
+  INFO-EN071; The Infinite Forbidden; Common
+  | fr_sets             = 
+  INFO-FR071; The Infinite Forbidden; Common
+  | de_sets             = 
+  INFO-DE071; The Infinite Forbidden; Common
+  | it_sets             = 
+  INFO-IT071; The Infinite Forbidden; Common
+  | pt_sets             = 
+  INFO-PT071; The Infinite Forbidden; Common
+  | sp_sets             = 
+  INFO-SP071; The Infinite Forbidden; Common
   | jp_sets             = 
   INFO-JP071; The Infinite Forbidden; Common
-  | archseries          = White Woods
-  | supports_archetypes = White Woods
+  | archseries          = White Forest
+  | supports_archetypes = White Forest
   | action              = 
   * Activates if sent to the Graveyard
   * Sets itself from your Graveyard

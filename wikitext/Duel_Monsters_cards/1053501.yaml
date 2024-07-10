@@ -1,7 +1,5 @@
-title: Legend of the White Woods
+title: Tales of the White Forest
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = LegendoftheWhiteWoods-INFO-JP-R.png
+  | image               = TalesoftheWhiteForest-INFO-JP-R.png
   | card_type           = Spell
   | property            = Normal
   | password            = 99289828
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = If you [[control]] an [[Illusion]] or [[Spellcaster]] [[monster]]: [[Add a card|Add]] 1 "[[White Woods]]" monster from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[sent]] to the [[GY]] to [[activate]] a [[monster effect]]: You can [[Set]] this card. You can only use each effect of "Legend of the White Woods" [[once per turn]].
+  | lore                = If you [[control]] an [[Illusion]] or [[Spellcaster]] [[monster]]: [[Add a card|Add]] 1 "[[White Forest]]" monster from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[sent]] to the [[GY]] to [[activate]] a [[monster effect]]: You can [[Set]] this card. You can only use each effect of "Tales of the White Forest" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -28,13 +26,25 @@ wikitext: |-
   | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに幻想魔族か魔法使い族のモンスターが存在する場合に発動できる。デッキから「白き森」モンスター１体を手札に加える。②：このカードがモンスターの効果を発動するために墓地へ送られた場合に発動できる。このカードを自分フィールドにセットする。
   | ko_lore             = 
   | sc_lore             = 
+  | en_sets               = 
+  INFO-EN058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
+  | fr_sets               = 
+  INFO-FR058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  INFO-DE058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  INFO-IT058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  INFO-PT058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  INFO-SP058; The Infinite Forbidden; Ultra Rare, Quarter Century Secret Rare
   | jp_sets             = 
   INFO-JP058; The Infinite Forbidden; Rare
   | supports            = 
   * Illusion
   * Spellcaster
-  | archseries          = White Woods
-  | supports_archetypes = White Woods
+  | archseries          = White Forest
+  | supports_archetypes = White Forest
   | action              = 
   * Activates if sent to the Graveyard
   * Sets itself from your Graveyard
