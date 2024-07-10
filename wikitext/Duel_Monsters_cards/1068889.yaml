@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = 
-  | lore                = During the Main Phase: Reveal 1 "[[Azamina]]" Fusion Monster in your Extra Deck and send 1 "[[Sinful Spoils]]" card from your hand and/or field to the GY for every 4 Levels the revealed monster has (if those cards are Set, reveal them), then Special Summon it. (This is treated as a Fusion Summon.) During your Main Phase: You can banish this card from your GY, then target 1 "Azamina" monster in your GY; Special Summon it. You can only use 1 "Azamina Ofeiletis" effect per turn, and only once that turn.
+  | lore                = During the [[Main Phase]]: [[Reveal]] 1 "[[Azamina]]" [[Fusion Monster]] in your [[Extra Deck]] and [[send]] 1 "[[Sinful Spoils]]" card from your [[hand]] and/or [[field]] to the [[GY]] for every 4 [[Level]]s the revealed [[monster]] has (if those cards are [[Set]], reveal them), then [[Special Summon]] it. (This is treated as a [[Fusion Summon]].) During your Main Phase: You can [[banish]] this card from your GY, then [[target]] 1 "Azamina" monster in your GY; Special Summon it. You can only use 1 "Azamina Ofeiletis" [[effect]] per turn, and [[Once per turn|only once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,10 +31,23 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP054; Rage of the Abyss; 
+  | supports            = Fusion Monster
   | archseries          = Azamina
   | supports_archetypes = 
   * Azamina
   * Sinful Spoils
+  | action              = 
+  * Reveals your Extra Deck
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Reveals face-down cards
+  * Activates from your Graveyard
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Fusion Summon
+  * Special Summons from your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

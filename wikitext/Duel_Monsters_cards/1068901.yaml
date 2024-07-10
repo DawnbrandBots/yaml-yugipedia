@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Condition
-  | lore                = Reveal 1 "[[Azamina]]" Fusion Monster in your Extra Deck and shuffle 1 "[[Sinful Spoils]]" card from your GY and/or banishment into the Deck for every 4 Levels the revealed monster has, then Special Summon it. (This is treated as a Fusion Summon.) You can banish this card from your GY, then target 1 "Sinful Spoils" Spell/Trap in your GY; Set it, but it cannot be activated this turn. You can only use 1 "Azamina Hamartia" effect per turn, and only once that turn.
+  | lore                = [[Reveal]] 1 "[[Azamina]]" [[Fusion Monster]] in your [[Extra Deck]] and [[shuffle]] 1 "[[Sinful Spoils]]" card from your [[GY]] and/or [[banishment]] into the [[Deck]] for every 4 [[Level]]s the revealed [[monster]] has, then [[Special Summon]] it. (This is treated as a [[Fusion Summon]].) You can [[banish]] this card from your GY, then [[target]] 1 "Sinful Spoils" [[Spell]]/[[Trap]] in your GY; [[Set]] it, but it cannot be [[activate]]d this [[turn]]. You can only use 1 "Azamina Hamartia" [[effect]] per turn, and [[Once per turn|only once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,10 +31,25 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP073; Rage of the Abyss; 
+  | supports            = Fusion Monster
   | archseries          = Azamina
   | supports_archetypes = 
   * Azamina
   * Sinful Spoils
+  | action              = 
+  * Reveals your Extra Deck
+  * Returns from your Graveyard to your Deck
+  * Returns the player's banished cards to the Deck
+  * Activates from your Graveyard
+  * Sets from your Graveyard
+  | m/s/t               = 
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Fusion Summon
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

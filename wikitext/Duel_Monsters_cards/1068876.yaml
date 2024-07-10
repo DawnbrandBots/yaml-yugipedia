@@ -26,7 +26,7 @@ wikitext: |-
   | password            = 
   | materials           = 1 Illusion-Type monster + 1 Fiend-Type monster
   | effect_types        = Trigger, Trigger, Condition
-  | lore                = 1 Illusion monster + 1 Fiend monster<br />If this card is Fusion Summoned: You can target 1 card on the field; send it to the GY. During each Standby Phase: You can target 1 "[[Azamina]]" or "[[Sinful Spoils]]" card in your GY; add it to your hand. You can only use each effect of "Azamina Sol Erysichthon" once per turn.
+  | lore                = 1 [[Illusion]] [[monster]] + 1 [[Fiend]] monster<br />If this card is [[Fusion Summon]]ed: You can [[target]] 1 card on the [[field]]; [[send]] it to the [[GY]]. During each [[Standby Phase]]: You can target 1 "[[Azamina]]" or "[[Sinful Spoils]]" card in your GY; [[add]] it to your [[hand]]. You can only use each [[effect]] of "Azamina Sol Erysichthon" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,10 +37,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP032; Rage of the Abyss; 
+  | supports              = 
+  * Illusion
+  * Fiend
   | archseries          = Azamina
   | supports_archetypes = 
   * Azamina
   * Sinful Spoils
+  | action                = 
+  * Activates upon Fusion Summon
+  * Sends from field to Graveyard
+  * Adds from Graveyard to hand
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc                  = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
