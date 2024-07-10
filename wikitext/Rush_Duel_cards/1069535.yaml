@@ -8,12 +8,16 @@ wikitext: |-
   | image            = IntentionalDraw-RDKP18-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When an opponent's [[monster]] [[declare]]s an [[attack]] [[target]]ing your [[Attack Position]] monster.
-  | lore             = [[Return]] the attack target and the attacking monster to the owner's [[hand]].
+  | requirement      = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Attack Position]] monster.
+  | lore             = [[Return]] the attack target and the attacking monster to the [[owner]]'s [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP064; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
+  | action           = 
+  * Activates if targeted for an attack
+  * Returns from your field to your hand
+  * Returns from your opponent's field to your opponent's hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
