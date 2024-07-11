@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Ignition, Trigger, Quick, Condition
-  | lore                  = You can send this card from your hand or field to the GY; place 1 "[[True Light]]" from your hand, Deck, or GY face-up in your Spell & Trap Zone. If you Special Summon "[[Blue-Eyes White Dragon]]" while this card is in your GY: You can Special Summon this card. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 "Blue-Eyes White Dragon" or 1 Level 1 LIGHT Tuner from your GY. You can only use each effect of "Maiden of White" once per turn.
+  | lore                  = You can [[send]] this card from your [[hand]] or [[field]] to the [[GY]]; place 1 "[[True Light]]" from your hand, [[Main Deck|Deck]], or GY [[face-up]] in your [[Spell & Trap Zone]]. If you [[Special Summon]] "[[Blue-Eyes White Dragon]]" while this card is in your GY: You can Special Summon this card. When a card or [[effect]] is [[activate]]d that [[target]]s this card on the field, or when this card is targeted for an [[attack]] ([[Quick Effect]]): You can Special Summon 1 "Blue-Eyes White Dragon" or 1 [[Level]] 1 [[LIGHT]] [[Tuner]] from your GY. You can only use each effect of "Maiden of White" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -37,9 +37,27 @@ wikitext: |-
   | mentions              = 
   * Blue-Eyes White Dragon
   * True Light
+  | supports              = 
+  * LIGHT
+  * Tuner monster
   | related_to_archseries = 
   * Blue-Eyes
   * with Eyes of Blue
+  | action                = 
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
+  * Sends itself from field to Graveyard for cost
+  * Places cards from Deck in Spell & Trap Zone
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Activates if targeted by card effect
+  * Activates if targeted for an attack
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

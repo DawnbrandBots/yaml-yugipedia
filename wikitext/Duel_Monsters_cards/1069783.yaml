@@ -26,7 +26,7 @@ wikitext: |-
   | password            = 
   | materials           = 2 or more Tuners + 1 non-Tuner "Blue-Eyes" monster
   | effect_types        = Continuous, Condition, Quick, Trigger
-  | lore                = 2+ Tuners + 1 non-Tuner "Blue-Eyes" monster<br />Your opponent cannot banish cards from your GY. You can only use each of the following effects of "Blue-Eyes Spirit Ultimate Dragon" once per turn. When a card or effect is activated on the field (Quick Effect): You can negate the activation, and if you do, this card gains 1000 ATK until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 LIGHT Dragon monster from your GY, except "Blue-Eyes Spirit Ultimate Dragon".
+  | lore                = 2+ [[Tuner]]s + 1 non-Tuner "[[Blue-Eyes]]" [[monster]]<br />Your opponent cannot [[banish]] cards from your [[GY]]. You can only use each of the following [[effect]]s of "Blue-Eyes Spirit Ultimate Dragon" [[once per turn]]. When a card or effect is [[activate]]d on the [[field]] ([[Quick Effect]]): You can [[negate]] the activation, and if you do, this card gains 1000 [[ATK]] until the end of this [[turn]]. If this card is [[destroyed by battle]] or card effect: You can [[Special Summon]] 1 [[LIGHT]] [[Dragon]] monster from your GY, except "Blue-Eyes Spirit Ultimate Dragon".
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,8 +37,29 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SD47-JP032; Structure Deck: Advent of the Eyes of Blue; Ultra Rare
+  | mentions            = Blue-Eyes Spirit Ultimate Dragon
+  | supports            = 
+  * LIGHT
+  * Dragon
   | archseries          = Blue-Eyes
   | supports_archetypes = Blue-Eyes
+  | action              = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | stat_change         = This card gains ATK
+  | m/s/t               = 
+  * Negates the activation of Effect Monster's effect
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | summoning           = 
+  * 2 or more Tuner Synchro Materials
+  * Double Tuning
+  * 1 non-Tuner Synchro Material
+  * Does not require specific Tuner Synchro Materials
+  * Requires archetype specific non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  | banished            = Prevents cards from being banished
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

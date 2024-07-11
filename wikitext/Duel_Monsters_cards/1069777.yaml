@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Ignition-like, Condition
-  | lore                = Discard 1 card; add 1 Level 1 LIGHT Tuner and 1 Spell/Trap that mentions "[[Blue-Eyes White Dragon]]" from your Deck to your hand, except "Prayers with Eyes of Blue". You can banish this card from your GY, then target 1 "Blue-Eyes White Dragon" you control; equip 1 "Blue-Eyes" monster from your Extra Deck to it as an Equip Spell that gives it 400 ATK. You can only use each effect of "Prayers with Eyes of Blue" once per turn.
+  | lore                = [[Discard]] 1 card; [[add]] 1 [[Level]] 1 [[LIGHT]] [[Tuner]] and 1 [[Spell]]/[[Trap]] that [[mentions]] "[[Blue-Eyes White Dragon]]" from your [[Main Deck|Deck]] to your [[hand]], except "Prayers with Eyes of Blue". You can [[banish]] this card from your [[GY]], then [[target]] 1 "Blue-Eyes White Dragon" you [[control]]; [[equip]] 1 "[[Blue-Eyes]]" [[monster]] from your [[Extra Deck]] to it as an [[Equip Spell]] that gives it 400 [[ATK]]. You can only use each [[effect]] of "Prayers with Eyes of Blue" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,9 +31,27 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SD47-JP018; Structure Deck: Advent of the Eyes of Blue; 
-  | mentions            = Blue-Eyes White Dragon
+  | mentions            = 
+  * Blue-Eyes White Dragon
+  * Prayers with Eyes of Blue
+  | supports            = 
+  * LIGHT
+  * Tuner monster
   | archseries          = with Eyes of Blue
   | supports_archetypes = Blue-Eyes
+  | action              = 
+  * Discards for cost
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Equips from the player's Extra Deck
+  * Grants effect to Equip Spell Card
+  | stat_change         = Equipped gains ATK
+  | m/s/t               = Treats monsters as Equip Cards
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Mentions
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

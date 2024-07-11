@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Ignition-like, Condition
-  | lore                = Special Summon 1 "[[Blue-Eyes]]" monster from your Deck, GY, or banishment in Defense Position, but you can only Special Summon "[[Blue-Eyes White Dragon]]" with this effect if you do not control it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dragon monsters. You can banish this card from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a "Blue-Eyes" monster. You can only use 1 "Saga of the Blue-Eyed Dragon" effect per turn, and only once that turn.
+  | lore                = [[Special Summon]] 1 "[[Blue-Eyes]]" [[monster]] from your [[Main Deck|Deck]], [[GY]], or [[banishment]] in [[Defense Position]], but you can only Special Summon "[[Blue-Eyes White Dragon]]" with this [[effect]] if you do not [[control]] it, also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Dragon]] monsters. You can [[banish]] this card from your GY; [[Fusion Summon]] 1 [[Fusion Monster]] from your Extra Deck, using monsters from your [[hand]] or [[field]] as [[material]], including a "Blue-Eyes" monster. You can only use 1 "Saga of the Blue-Eyed Dragon" effect per turn, and [[once per turn|only once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -32,7 +32,26 @@ wikitext: |-
   | jp_sets             = 
   SD47-JP019; Structure Deck: Advent of the Eyes of Blue; 
   | mentions            = Blue-Eyes White Dragon
+  | supports            = 
+  * Dragon
+  * Fusion Monster
   | supports_archetypes = Blue-Eyes
+  | action              = 
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Must include particular Fusion Materials
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
