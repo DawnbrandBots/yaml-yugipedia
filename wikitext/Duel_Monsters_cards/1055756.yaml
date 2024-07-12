@@ -1,7 +1,5 @@
 title: Dominus Purge
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -20,7 +18,7 @@ wikitext: |-
   | property              = Normal
   | password              = 97045737
   | effect_types          = Condition, Effect, Condition
-  | lore                  = If your opponent [[control]]s a card, you can [[activate]] this card from your [[hand]]. When a card or [[effect]] is activated that includes an [[effect]] that [[Add a card|adds]] a card(s) from the [[Main Deck|Deck]] to the hand: [[Negate]] that effect, then, if you have a [[Trap]] in your [[GY]], [[destroy]] that negated card. You cannot activate [[DARK]], [[WATER]], and [[FIRE]] [[monster effect]]s for the rest of this Duel after this card activated from the hand [[resolve]]s. You can only activate 1 "Dominus Purge" per [[turn]].
+  | lore                  = If your opponent [[control]]s a card, you can [[activate]] this card from your [[hand]]. When a card or [[effect]] is activated that includes an [[effect]] that [[Add a card|adds]] a card(s) from the [[Main Deck|Deck]] to the hand: [[Negate]] that effect, then if you have a [[Trap]] in your [[GY]], [[destroy]] that card. If you activated this card from your hand, you cannot activate the effects of [[DARK]], [[WATER]], and [[FIRE]] monsters for the rest of this Duel. You can only activate 1 "Dominus Purge" per [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,6 +27,18 @@ wikitext: |-
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。相手フィールドにカードが存在する場合、このカードの発動は手札からもできる。①：デッキからカードを手札に加える効果を含む、魔法・罠・モンスターの効果が発動した時に発動できる。その効果を無効にする。自分の墓地に罠カードが存在する場合、さらにその無効にしたカードを破壊する。このカードを手札から発動した場合、発動後、このデュエル中に自分は闇・水・炎属性モンスターの効果を発動できない。
   | ko_lore               = 
   | sc_lore               = 
+  | en_sets               = 
+  INFO-EN078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
+  | fr_sets               = 
+  INFO-FR078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  INFO-DE078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  INFO-IT078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  INFO-PT078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  INFO-SP078; The Infinite Forbidden; Secret Rare, Quarter Century Secret Rare
   | jp_sets               = 
   INFO-JP078; The Infinite Forbidden; Super Rare, Secret Rare, Quarter Century Secret Rare
   INFO-JP078; Infinite Forbidden +1 Bonus Pack; Super Rare, Quarter Century Secret Rare

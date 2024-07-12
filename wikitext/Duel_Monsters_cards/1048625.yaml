@@ -1,7 +1,5 @@
-title: Gimmick Puppet Bloody Doll
+title: Gimmick Puppet Rouge Doll
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -13,15 +11,15 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = GimmickPuppetBloodyDoll-INFO-JP-R.png
+  | image                 = GimmickPuppetRougeDoll-INFO-JP-R.png
   | attribute             = DARK
   | types                 = Machine / Effect
   | level                 = 8
   | atk                   = 400
   | def                   = 1400
   | password              = 63825486
-  | effect_types          = Ignition, Trigger, Condition, Condition
-  | lore                  = If this card is in your [[hand]]: You can [[reveal]] 1 "[[Gimmick Puppet]]" [[Xyz Monster]] in your [[Extra Deck]]; [[Special Summon]] both 1 "Gimmick Puppet" [[monster]] from your [[Main Deck|Deck]] with a [[Level]] equal to the revealed monster's [[Rank]], and this card. If this card is sent to the [[GY]], except from the hand: You can [[Add a card|add]] this card to your hand. You can only use each [[effect]] of "Gimmick Puppet Bloody Doll" once per turn. You cannot Special Summon from the Extra Deck the [[turn]] you activate either of this card's effects, except "Gimmick Puppet" monsters.
+  | effect_types          = Ignition, Trigger, Condition
+  | lore                  = If this card is in your [[hand]]: You can [[reveal]] 1 "[[Gimmick Puppet]]" [[Xyz Monster]] in your [[Extra Deck]]; [[Special Summon]] both this card, and 1 "Gimmick Puppet" [[monster]] with the same [[Level]] as the revealed monster's [[Rank]] from your [[Main Deck|Deck]]. If this card is sent to the [[GY]], except from the hand: You can [[Add a card|add]] it to your hand. You can only use each [[effect]] of "Gimmick Puppet Rouge Doll" once per turn, also you cannot Special Summon from the Extra Deck the [[turn]] you activate either of this card's effects, except "Gimmick Puppet" monsters.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -30,6 +28,18 @@ wikitext: |-
   | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果を発動するターン、自分は「ギミック・パペット」モンスターしかＥＸデッキから特殊召喚できない。①：このカードが手札に存在する場合、ＥＸデッキの「ギミック・パペット」Ｘモンスター１体を相手に見せて発動できる。見せたモンスターのランクと同じ数値のレベルを持つデッキの「ギミック・パペット」モンスター１体と、このカードを特殊召喚する。②：このカードが手札以外から墓地へ送られた場合に発動できる。このカードを手札に加える。
   | ko_lore               = 
   | sc_lore               = 
+  | en_sets               = 
+  INFO-EN008; The Infinite Forbidden; Common
+  | fr_sets               = 
+  INFO-FR008; The Infinite Forbidden; Common
+  | de_sets               = 
+  INFO-DE008; The Infinite Forbidden; Common
+  | it_sets               = 
+  INFO-IT008; The Infinite Forbidden; Common
+  | pt_sets               = 
+  INFO-PT008; The Infinite Forbidden; Common
+  | sp_sets               = 
+  INFO-SP008; The Infinite Forbidden; Common
   | jp_sets               = 
   INFO-JP008; The Infinite Forbidden; Rare
   | supports              = Xyz Monster
