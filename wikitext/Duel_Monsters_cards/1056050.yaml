@@ -1,7 +1,5 @@
-title: Menkoumori
+title: Bettan Bat
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -13,7 +11,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = Menkoumori-INFO-JP-C.png
+  | image               = BettanBat-INFO-JP-C.png
   | attribute           = EARTH
   | types               = Winged Beast / Tuner / Effect
   | level               = 1
@@ -21,7 +19,7 @@ wikitext: |-
   | def                 = 0
   | password            = 84079032
   | effect_types        = Trigger, Trigger
-  | lore                = Up to thrice per [[turn]], if your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s) (except during the [[Damage Step]]): You can [[target]] 1 of them; toss a coin and if the result is heads, change it to [[face-up]] [[Attack Position]], or if the result is tails, change it to [[face-down]] [[Defense Position]]. [[Once per turn]], if a monster(s) on the [[field]] is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, while this card is in the [[Monster Zone]], even during the Damage Step: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.
+  | lore                = Up to thrice per [[turn]], if your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s) (except during the [[Damage Step]]): You can [[target]] 1 of them; toss a coin and if the result is heads, change it to [[face-up]] [[Attack Position]], or if the result is tails, change it to [[face-down]] [[Defense Position]]. [[Once per turn]], if another monster(s) on the [[field]] is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, even during the Damage Step: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -30,6 +28,18 @@ wikitext: |-
   | ja_lore             = ①：１ターンに３度まで、相手がモンスターを召喚・特殊召喚した場合、その内の１体を対象として発動できる。コイントスを１回行う。表だった場合、そのモンスターを表側攻撃表示にする。裏だった場合、そのモンスターを裏側守備表示にする。②：１ターンに１度、このカードがモンスターゾーンに存在する状態で、フィールドのモンスターがリバースした場合、または表側表示モンスターが裏側守備表示になった場合、その内の１体を対象として発動できる（ダメージステップでも発動可能）。そのモンスターを表側攻撃表示か裏側守備表示にする。
   | ko_lore             = 
   | sc_lore             = 
+  | en_sets             = 
+  INFO-EN030; The Infinite Forbidden; Common
+  | fr_sets             = 
+  INFO-FR030; The Infinite Forbidden; Common
+  | de_sets             = 
+  INFO-DE030; The Infinite Forbidden; Common
+  | it_sets             = 
+  INFO-IT030; The Infinite Forbidden; Common
+  | pt_sets             = 
+  INFO-PT030; The Infinite Forbidden; Common
+  | sp_sets             = 
+  INFO-SP030; The Infinite Forbidden; Common
   | jp_sets             = 
   INFO-JP030; The Infinite Forbidden; Common
   | action              = 

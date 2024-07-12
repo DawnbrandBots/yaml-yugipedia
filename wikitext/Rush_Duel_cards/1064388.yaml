@@ -2,24 +2,23 @@ title: Freed the Brave Wanderer (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image            = FreedtheBraveWanderer-RDSD0B-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Warrior / Effect
-  | level            = 4
-  | atk              = 1700
-  | def              = 1200
-  | requirement      = Place 2 [[LIGHT]] [[Attribute]] [[Monster Card|monster]]s from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]] in any order.
-  | lore             = [[Destroy]] 1 [[face-up]] monster on the [[field]] with higher [[ATK]] than this card.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | image          = FreedtheBraveWanderer-RDSD0B-JP-NPR.png
+  | attribute      = LIGHT
+  | types          = Warrior / Effect
+  | level          = 4
+  | atk            = 1700
+  | def            = 1200
+  | requirement    = Place 2 [[LIGHT]] [[Attribute]] [[Monster Card|monster]]s from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]] in any order.
+  | lore           = [[Destroy]] 1 [[face-up]] monster on the [[field]] with higher [[ATK]] than this card.
+  | ja_requirement = 自分の墓地のモンスター（光属性）２体を好きな順番でデッキの下に戻して発動できる。
+  | ja_lore        = このカードの攻撃力より高い攻撃力を持つ、自分または相手フィールドの表側表示モンスター１体を選んで破壊する。
+  | jp_sets        = 
   RD/SD0B-JP013; Structure Deck: Birth of Hero; Normal Parallel Rare
-  | supports         = LIGHT
-  | action           = Places cards from the player's Graveyard on the bottom of the Deck for cost
-  | m/s/t            = Destroys face-up Monster Cards
-  | misc             = 
+  | supports       = LIGHT
+  | action         = Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t          = Destroys face-up Monster Cards
+  | misc           = 
   * Legend Card
   * Requires control of specific ATK
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20464
   }}

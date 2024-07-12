@@ -2,7 +2,7 @@ title: Elemental HERO Flame Wingman (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                  = ElementalHEROFlameWingman-RDSD0B-JP-OP.png
+  | image                  = ElementalHEROFlameWingman-RDSD0B-JP-UR.png
   | attribute              = WIND
   | types                  = Warrior / Fusion / Effect
   | level                  = 6
@@ -16,10 +16,10 @@ wikitext: |-
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = None
   | lore                   = When this card [[destroy]]s a [[Monster Card|monster]] by [[battle]] and [[send]]s it to the [[Graveyard]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's [[Original ATK and DEF|original ATK]]].
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「Ｅ・ＨＥＲＯ フェザーマン」＋「Ｅ・ＨＥＲＯ バーストレディ」
+  | ja_summoning_condition = このカードはフュージョン召喚でしか特殊召喚できない。
+  | ja_requirement         = なし
+  | ja_lore                = このカードが戦闘でモンスターを破壊し墓地へ送った時、［そのモンスターの元々の攻撃力］だけ相手にダメージを与える。
   | jp_sets                = 
   RD/SD0B-JP001; Structure Deck: Birth of Hero; Ultra Rare
   RD/SD0B-JPS01; Structure Deck: Birth of Hero; Over Rush Rare
@@ -34,6 +34,5 @@ wikitext: |-
   | life_points            = Damages your opponent
   | fm_for                 = Elemental HERO Shining Flare Wingman (Rush Duel)
   | misc                   = Cover card
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20453
   }}

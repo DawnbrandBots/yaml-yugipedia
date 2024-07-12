@@ -2,7 +2,7 @@ title: Elemental HERO Thunder Giant (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                  = ElementalHEROThunderGiant-RDSD0B-JP-OP.png
+  | image                  = ElementalHEROThunderGiant-RDSD0B-JP-C.png
   | attribute              = LIGHT
   | types                  = Warrior / Fusion / Effect
   | level                  = 6
@@ -15,10 +15,10 @@ wikitext: |-
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | lore                   = [[Destroy]] 1 [[face-up]] [[Monster Card|monster]] on the [[field]] with [[Original ATK and DEF|original ATK]] less than this card's [[ATK]].
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「Ｅ・ＨＥＲＯ スパークマン」＋「Ｅ・ＨＥＲＯ クレイマン」
+  | ja_summoning_condition = このカードはフュージョン召喚でしか特殊召喚できない。
+  | ja_requirement         = 手札１枚を墓地へ送って発動できる。
+  | ja_lore                = このカードの攻撃力より低い元々の攻撃力を持つ、自分または相手フィールドの表側表示モンスター１体を選んで破壊する。
   | jp_sets                = 
   RD/SD0B-JP003; Structure Deck: Birth of Hero; Common
   RD/SD0B-JPS05; Structure Deck: Birth of Hero; Super Rare
@@ -33,6 +33,5 @@ wikitext: |-
   * Requires only specific Normal Monsters as Fusion Materials
   * Nomi
   | misc                   = Requires control of specific ATK
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20455
   }}

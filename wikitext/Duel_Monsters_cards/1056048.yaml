@@ -1,7 +1,5 @@
-title: Interdimensional Matter Translocator
+title: Interdimensional Matter Forwarder
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = InterdimensionalMatterTranslocator-INFO-JP-C.png
+  | image                 = InterdimensionalMatterForwarder-INFO-JP-C.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 60238002
   | effect_types          = Ignition-like, Trigger-like, Continuous-like, Condition
-  | lore                  = You can [[target]] 1 [[monster]] on the [[field]]; [[banish]] it, then [[return]] it to the field. If your opponent [[activate]]s a card or [[effect]]: You can target 1 [[face-up]] monster whose effects are [[negate]]d; banish it, then return it to the field. Before resolving an opponent's card effect that targets this face-up card, banish this card until the [[End Phase]] of the next [[turn]]. You can only use each effect of "Interdimensional Matter Translocator" [[once per turn]].
+  | lore                  = You can [[target]] 1 [[monster]] on the [[field]]; [[banish]] it, then [[return]] it to the field. If your opponent [[activate]]s a card or [[effect]]: You can target 1 [[face-up]] monster on the field whose effects are [[negate]]d; banish it, then return it to the field. Before resolving an opponent's card effect that targets this card on the field, banish this card, until the [[End Phase]] of the next [[turn]]. You can only use each effect of "Interdimensional Matter Forwarder" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_lore               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのモンスター１体を対象として発動できる。そのモンスターを除外する。その後、この効果で除外したモンスターはフィールドに戻る。②：相手の効果が発動した場合、効果が無効化されている表側表示モンスター１体を対象として発動できる。そのモンスターを除外する。その後、この効果で除外したモンスターはフィールドに戻る。③：フィールドのこのカードを対象とした相手の効果が適用される際に、このカードを次のターンのエンドフェイズまで除外する。
   | ko_lore               = 
   | sc_lore               = 
+  | en_sets               = 
+  INFO-EN066; The Infinite Forbidden; Common
+  | fr_sets               = 
+  INFO-FR066; The Infinite Forbidden; Common
+  | de_sets               = 
+  INFO-DE066; The Infinite Forbidden; Common
+  | it_sets               = 
+  INFO-IT066; The Infinite Forbidden; Common
+  | pt_sets               = 
+  INFO-PT066; The Infinite Forbidden; Common
+  | sp_sets               = 
+  INFO-SP066; The Infinite Forbidden; Common
   | jp_sets               = 
   INFO-JP066; The Infinite Forbidden; Common
   | action                = Returns banished cards to the field

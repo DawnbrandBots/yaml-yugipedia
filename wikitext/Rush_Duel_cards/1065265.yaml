@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name                = フレンドラゴン
   | romaji_name            = Furendoragon
   | trans_name             = Friendragon
-  | image                  = Wroughtwyvern-RDSD0B-JP-OP.png
+  | image                  = Wroughtwyvern-RDSD0B-JP-C.png
   | attribute              = EARTH
   | types                  = Machine / Effect
   | level                  = 7
@@ -15,9 +15,9 @@ wikitext: |-
   | summoning_condition    = If you have a [[face-up]] [[Warrior]] [[Type]] [[Normal Monster]] on your [[field]], you can [[Special Summon]] this card from your [[hand]] to your field in face-up [[Defense Position]].
   | requirement            = None
   | lore                   = [[Send]] the top 4 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分フィールドに表側表示の通常モンスター（戦士族）がいる場合、このカードは手札から自分フィールドに表側守備表示で特殊召喚できる。
+  | ja_requirement         = なし
+  | ja_lore                = 自分のデッキの上からカード４枚を墓地へ送る。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
   | jp_sets                = 
   RD/SD0B-JP011; Structure Deck: Birth of Hero; Common
   RD/SD0B-JPS12; Structure Deck: Birth of Hero; Super Rare
@@ -33,6 +33,5 @@ wikitext: |-
   | misc                   = 
   * Requires control of specific Type
   * Requires control of specific Monster type
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20462
   }}
