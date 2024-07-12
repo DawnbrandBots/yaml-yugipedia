@@ -13,12 +13,12 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = 
+  | image               = MimighoulMaker-INFO-EN-1E-OP.png
   | card_type           = Spell
   | property            = Normal
   | password            = 
-  | effect_types        = 
-  | lore                = Reveal 2 [[Flip monster|Flip monsters]] with different names from your Deck, your opponent randomly picks 1 for you to Special Summon to their field in face-down Defense Position, and you add the other to your hand, then you can Special Summon 1 "[[Mimighoul]]" monster from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish this card from your GY, then target 1 face-down monster your opponent controls, change it to face-up Attack or Defense Position. You can only use 1 "Mimighoul Maker" effect per turn, and only once that turn.
+  | effect_types        = Effect, Trigger-like, Condition
+  | lore                = [[Reveal]] 2 [[Flip monster]]s with different names from your [[Main Deck|Deck]], your opponent randomly picks 1 for you to [[Special Summon]] to their [[field]] in [[face-down]] [[Defense Position]], and you [[Add a card|add]] the other to your [[hand]], then you can Special Summon 1 "[[Mimighoul]]" [[monster]] from your hand. If your opponent Special Summons a monster(s) (except during the [[Damage Step]]): You can [[banish]] this card from your [[GY]], then [[target]] 1 face-down monster your opponent [[control]]s; change it to [[face-up]] Attack or Defense Position. You can only use 1 "Mimighoul Maker" effect per turn, and only once that turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -40,8 +40,7 @@ wikitext: |-
   | sp_sets             = 
   INFO-SP095; The Infinite Forbidden; Super Rare
   | jp_sets             = 
-  | archseries          =
-  * Mimighoul 
+  | archseries          = Mimighoul
   | supports_archetypes = Mimighoul
   | supports            = Flip monster
   | database_id         = 
