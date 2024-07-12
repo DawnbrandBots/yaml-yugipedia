@@ -1,17 +1,17 @@
 title: Mimighoul
 wikitext: |-
   {{Infobox archseries
-  | image   = 
-  | caption = 
-  | ja_name = 
-  | romaji  = 
-  | trans   = 
-  | fr_name = 
-  | de_name = 
-  | it_name = 
-  | ko_name = 
-  | pt_name = 
-  | es_name = 
+  | image          = 
+  | caption        = 
+  | ja_name        = 
+  | romaji         = 
+  | trans          = 
+  | fr_name        = 
+  | de_name        = 
+  | it_name        = 
+  | ko_name        = 
+  | pt_name        = 
+  | es_name        = 
   | sets           = 
   | tcg            = 
   * [[The Infinite Forbidden]]
@@ -21,16 +21,33 @@ wikitext: |-
 
   "'''Mimighoul'''" is a [[TCG-only|World Premiere]] [[archetype]] of [[EARTH]] monsters introduced in ''[[The Infinite Forbidden]]''.
 
-  ==Etymology==
+  == Design ==
+  === Origin ===
   The name "Mimighoul" derives from the combination of the words "mimic" and "ghoul".
 
-  ==Design==
-  Design-wise, the Level 1 [[Flip monster]]s of the theme carry a similar formatting of colored treasure chests that, when opened, reveal a different kind of fantasy monster inside of it, likely to cause its effect to the one who opened it and then returning to its owner's control.
+  A mimic is a fantasy creature popularized by tabletop game ''[[wikipedia:Dungeons & Dragons|Dungeons and Dragons]]'', characterized by its ability to take the form of mundane human objects in order to attract prey. Often but not always, the form taken is that of a treasure chest, and the prey is treasure-seeking adventurers. It has since become a staple of the fantasy genre. A ghoul, meanwhile, is a creature from Arabic folklore known for wandering through cemeteries and for their taste for human flesh.
 
-  ==Playing style==
+  === Members ===
+  Each of the [[Level]] 1 monsters of this archetype are based off a standard fantasy creatures found in fiction.
+
+  {| class="wikitable"
+  ! Card
+  ! Origin
+  |-
+  | [[Mimighoul Archfiend]]
+  | [[wikipedia:Demon|Demon]]
+  |-
+  | [[Mimighoul Dragon]]
+  | [[wikipedia:Dragon|Dragon]]
+  |-
+  | [[Mimighoul Cerberus]]
+  | [[wikipedia:Cerberus|Cerberus]]
+  |}
+
+  == Playing style ==
   "Mimighoul" is a control strategy wherein the opponent is given a variety of [[Level]] 1 [[Flip monster]]s before being [[flip]]ped face-up on the opponent's field, triggering a series of negative effects onto the opponent from destroying their monsters except for "Mimighoul" monsters to banishing the top 3 cards of their deck to even discarding and making their opponent draw 1 card. After these negative effects resolve, the monsters then return to their owner's control.
 
-  ===Recommended cards===
+  === Recommended cards ===
 
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -44,6 +61,7 @@ wikitext: |-
   * [[Mimighoul Archfiend]]
   * [[Mimighoul Cerberus]]
   * [[Mimighoul Dragon]]
+  * [[Chewbone]]
   * [[Fire Sorcerer]]
   * [[Morphing Jar]]
 
@@ -74,6 +92,9 @@ wikitext: |-
   |normal traps =
   * [[Mimighoul Room]]
   * [[Reverse Reuse]]
+
+  |continuous traps =
+  * [[There Can Be Only One]] 
   }}
 
   {{Archseries navbox}}
