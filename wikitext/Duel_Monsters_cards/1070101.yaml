@@ -16,7 +16,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Effect, Quick, Condition
-  | lore                = Special Summon this card as an Effect Monster (Fairy/EARTH/Level 2/ATK 0/DEF 0) with the following effect (this card is also still a Trap).<br />● Once per Chain, when your opponent activates a monster effect on the field that targets a card(s) you control (Quick Effect): You can Set this card in your Spell & Trap Zone, and if you do, negate that opponent's effect, then if that monster has the highest ATK on your opponent's field, return it to the hand.<br />You can only activate 1 "Kuebiko" per turn.
+  | lore                = [[Special Summon]] this card as an [[Effect Monster]] ([[Fairy]]/[[EARTH]]/[[Level]] 2/[[ATK]] 0/[[DEF]] 0) with the following [[effect]] (this card is also still a [[Trap]]).<br />● [[Once per Chain]], when your opponent [[activate]]s a [[monster effect]] on the [[field]] that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can [[Set]] this card in your [[Spell & Trap Zone]], and if you do, [[negate]] that opponent's effect, then if that monster has the highest ATK on your opponent's field, [[return]] it to the [[hand]].<br />You can only activate 1 "Kuebiko" per [[turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -37,6 +37,17 @@ wikitext: |-
   INFO-PT083; The Infinite Forbidden; Super Rare
   | sp_sets             = 
   INFO-SP083; The Infinite Forbidden; Super Rare
+  | archseries          = Trap Monster
+  | action              = 
+  * Flips itself face-down
+  * Returns from your opponent's field to your opponent's hand
+  | m/s/t               = 
+  * Treats Trap Cards as monsters
+  * Negates the effects of your opponent's Effect Monsters
+  | summoning           = Special Summons itself from your Spell & Trap Zone
+  | misc                = 
+  * Once per Chain
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
