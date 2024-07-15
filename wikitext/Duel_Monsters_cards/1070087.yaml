@@ -11,15 +11,16 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = File:AerialEater-INFO-EN-C-1E.png
+  | image               = AerialEater-INFO-EN-C-1E.png
   | attribute           = WIND
   | types               = Fiend / Fusion / Effect
   | level               = 6
   | atk                 = 2100
   | def                 = 2600
   | password            = 
+  | materials           = 2 Fiend-Type monsters with the same Attribute
   | effect_types        = Trigger, Ignition, Condition
-  | lore                = 2 Fiend monsters with the same Attribute<br />If this card is Fusion Summoned: You can send 1 Fiend monster from your Deck to the GY. If this card is in your GY: You can banish 2 Level 6 or higher Fiend monsters with the same Attribute as each other from your GY, except "Aerial Eater"; Special Summon this card. You can only use each effect of "Aerial Eater" once per turn.
+  | lore                = 2 [[Fiend]] [[monster]]s with the same [[Attribute]]<br />If this card is [[Fusion Summon]]ed: You can [[send]] 1 Fiend monster from your [[Main Deck|Deck]] to the [[GY]]. If this card is in your GY: You can [[banish]] 2 [[Level]] 6 or higher Fiend monsters with the same Attribute as each other from your GY, except "Aerial Eater"; [[Special Summon]] this card. You can only use each [[effect]] of "Aerial Eater" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -40,6 +41,19 @@ wikitext: |-
   INFO-PT089; The Infinite Forbidden; Common
   | sp_sets             = 
   INFO-SP089; The Infinite Forbidden; Common
+  | mentions            = Aerial Eater
+  | supports            = Fiend
+  | action              = 
+  * Activates upon Fusion Summon
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Special Summons itself from your Graveyard
+  | banished            = Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
