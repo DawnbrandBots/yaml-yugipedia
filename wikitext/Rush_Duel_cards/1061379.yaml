@@ -2,34 +2,40 @@ title: Elemental HERO Shining Flare Wingman (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image            = ElementalHEROShiningFlareWingman-OW-RD.png
-  | attribute        = LIGHT
-  | types            = Warrior / Fusion / Effect
-  | level            = 8
-  | atk              = 2500
-  | def              = 2100
-  | fusion_material  = 
+  | image                  = ElementalHEROShiningFlareWingman-RDKP18-JP-OP.png
+  | attribute              = LIGHT
+  | types                  = Warrior / Fusion / Effect
+  | level                  = 8
+  | atk                    = 2500
+  | def                    = 2100
+  | effect_types           = Continuous
+  | fusion_material        = 
   * Elemental HERO Flame Wingman (Rush Duel)
   * Elemental HERO Sparkman (Rush Duel)
-  | materials        = "[[Elemental HERO Flame Wingman (Rush Duel)|Elemental HERO Flame Wingman]]" + "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]"
-  | requirement      = TBA
-  | lore             = TBA
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP18-JP0??; Dark Matter of Phantoms; Super Rare, Over Rush Rare
-  | mentions         = 
+  | materials              = "[[Elemental HERO Flame Wingman (Rush Duel)|Elemental HERO Flame Wingman]]" + "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]"
+  | summoning_condition    = Must be [[Fusion Summon]]ed.
+  | requirement            = None
+  | lore                   = This card gains [[ATK]] equal to [the number of [[Warrior]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]]] x 300. When this card [[destroy]]s a monster by [[battle]] and [[send]]s it to the Graveyard, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's [[Original ATK and DEF|original ATK]]].
+  | ja_materials           = 
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP18-JP000; Dark Matter of Phantoms; Super Rare, Over Rush Rare
+  | mentions               = 
   * Elemental HERO Flame Wingman (Rush Duel)
   * Elemental HERO Sparkman (Rush Duel)
-  | archseries       = Elemental HERO (Rush Duel)
-  | summoning        = 
+  | supports               = Warrior
+  | archseries             = Elemental HERO (Rush Duel)
+  | stat_change            = This card gains ATK
+  | summoning              = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires Fusion Monsters as Fusion Materials
   * Nomi
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | life_points            = Damages your opponent
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
