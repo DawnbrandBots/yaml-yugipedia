@@ -18,8 +18,9 @@ wikitext: |-
   | atk                 = 1000
   | def                 = 1200
   | password            = 
+  | materials           = 1 Tuner + 1 non-Tuner monster
   | effect_types        = Trigger, Condition, Quick
-  | lore                = 1 Tuner + 1 non-Tuner monster<br />If this card is Special Summoned: You can send 1 other card from your hand or field to the GY, then target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of "Zapper Shrimp" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+  | lore                = 1 [[Tuner]] + 1 non-Tuner [[monster]]<br />If this card is [[Special Summon]]ed: You can [[send]] 1 other card from your [[hand]] or [[field]] to the [[GY]], then [[target]] 1 [[Spell]]/[[Trap]] your opponent [[control]]s; [[destroy]] it. You can only use this [[effect]] of "Zapper Shrimp" [[once per turn]]. [[Once per Chain]], during your opponent's [[Main Phase]], you can ([[Quick Effect]]): Immediately after this effect [[resolve]]s, [[Synchro Summon]] using this card you control.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -40,6 +41,23 @@ wikitext: |-
   INFO-PT088; The Infinite Forbidden; Common
   | sp_sets             = 
   INFO-SP088; The Infinite Forbidden; Common
+  | action                = 
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Uses itself as a Synchro Material
+  | m/s/t                 = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 non-Tuner Synchro Material
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Tuner Synchro Monster
+  * Only once per turn
+  * Once per Chain
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

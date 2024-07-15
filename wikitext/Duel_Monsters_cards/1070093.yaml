@@ -16,7 +16,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Ignition, Condition
-  | lore                = Target 1 face-up monster you control; equip 2 monsters with the same original name as that target from your hand, Deck, and/or GY to that target as Equip Spells, and if you do, it cannot attack or be destroyed by battle while equipped with those 2 cards. You cannot Special Summon for the rest of this turn after this card resolves, except monsters with the same original Type as the targeted monster. You can only activate 1 "The League of Uniform Nomenclature Strikes" per turn.
+  | lore                = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] 2 monsters with the same original name as that target from your [[hand]], [[Main Deck|Deck]], and/or [[GY]] to that target as [[Equip Spell]]s, and if you do, it cannot [[attack]] or be [[destroyed by battle]] while equipped with those 2 cards. You cannot [[Special Summon]] for the rest of this turn after this card [[resolve]]s, except monsters with the same original [[Type]] as the targeted monster. You can only [[activate]] 1 "The League of Uniform Nomenclature Strikes" [[once per turn|per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -38,6 +38,16 @@ wikitext: |-
   | sp_sets             = 
   INFO-SP086; The Infinite Forbidden; Common
   | archseries          = Uniform Nomenclature
+  | action              = 
+  * Equips monsters from the player's hand
+  * Equips monsters from the player's Deck
+  * Equips monsters from the player's Graveyard
+  | m/s/t               = Treats monsters as Equip Cards
+  | summoning           = Restricts the player's Special Summons to Type specific monsters
+  | attack              = 
+  * Prevents your monsters from attacking
+  * Prevents other cards being destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

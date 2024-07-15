@@ -19,7 +19,7 @@ wikitext: |-
   | def                 = 2200
   | password            = 
   | effect_types        = Ignition, Condition
-  | lore                = If this card is in your hand or GY: You can target 1 Machine monster on the field; for the rest of this turn, you cannot Special Summon from the Extra Deck, except Xyz Monsters, also Special Summon this card (but banish it when it leaves the field), and if you do, halve that monster's ATK, also this card's Level becomes that monster's. You can only use this effect of "Kochobo's Hinamatsuri" once per turn.
+  | lore                = If this card is in your [[hand]] or [[GY]]: You can [[target]] 1 [[Machine]] [[monster]] on the [[field]]; for the rest of this [[turn]], you cannot [[Special Summon]] from the [[Extra Deck]], except [[Xyz Monster]]s, also Special Summon this card (but [[banish]] it when it [[leaves the field]]), and if you do, halve that monster's [[ATK]], also this card's [[Level]] becomes that monster's. You can only use this effect of "Kochobo's Hinamatsuri" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -40,6 +40,23 @@ wikitext: |-
   INFO-PT087; The Infinite Forbidden; Common
   | sp_sets             = 
   INFO-SP087; The Infinite Forbidden; Common
+  | supports            = 
+  * Machine
+  * Xyz Monster
+  | anti-supports       = Machine
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  | stat_change         = 
+  * Halves ATK
+  * All monsters lose ATK
+  * Changes own Level
+  | summoning           = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | banished            = Banishes itself when it leaves the field
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

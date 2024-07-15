@@ -19,7 +19,7 @@ wikitext: |-
   | def                 = 1000
   | password            = 
   | effect_types        = Ignition, Condition
-  | lore                = You can discard 1 card, then declare 1 Attribute, except WATER; Special Summon this card from your hand to either field, then this card becomes that Attribute (until the end of this turn), then if you Special Summoned this card to your opponent's field, you can Special Summon 1 Level 4 or lower Fiend monster with an original Attribute other than the declared one, from your hand or GY to your field, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Fiend monsters. You can only use this effect of "Dipsea Fiend" once per turn.
+  | lore                = You can [[discard]] 1 card, then [[declare]] 1 [[Attribute]], except [[WATER]]; [[Special Summon]] this card from your [[hand]] to either [[field]], then this card becomes that Attribute (until the end of this [[turn]]), then if you Special Summoned this card to your opponent's field, you can Special Summon 1 [[Level]] 4 or lower [[Fiend]] [[monster]] with an original Attribute other than the declared one, from your hand or [[GY]] to your field, also for the rest of this turn, you cannot Special Summon from the [[Extra Deck]], except Fiend monsters. You can only use this effect of "Dipsea Fiend" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -40,6 +40,18 @@ wikitext: |-
   INFO-PT084; The Infinite Forbidden; Common
   | sp_sets             = 
   INFO-SP084; The Infinite Forbidden; Common
+  | action              = 
+  * Activates from your hand
+  * Discards for cost
+  * Declares an Attribute
+  | stat_change         = Changes own Attribute
+  | summoning           = 
+  * Special Summons itself from your hand to your opponent's field
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
