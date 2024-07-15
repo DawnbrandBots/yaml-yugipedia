@@ -2,21 +2,27 @@ title: Neo-Spacian Aqua Dolphin (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                 = NeoSpacianAquaDolphin-OW-RD.png
+  | image                 = NeoSpacianAquaDolphin-RDKP18-JP-OP.png
   | attribute             = WATER
   | types                 = Warrior / Effect
   | level                 = 3
   | atk                   = 600
   | def                   = 800
-  | requirement           = TBA
-  | lore                  = TBA
+  | requirement           = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore                  = [[Look]] at your opponent's hand. You can send 1 [[Monster Card|monster]] with [[ATK]] less than or equal to [the ATK of the [[face-up]] monster with the highest ATK on your [[field]]] from it to the Graveyard. Then, if you sent a monster to the Graveyard by this [[effect]], [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
   | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
-  RD/KP18-JP0??; Dark Matter of Phantoms
+  RD/KP18-JP017; Dark Matter of Phantoms; Common
   | archseries            = Neo-Spacian (Rush Duel)
   | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Reveals your opponent's hand
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | life_points           = Damages your opponent
   | fm_for                = Elemental HERO Pulse Neos
+  | misc                  = Requires control of specific ATK
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

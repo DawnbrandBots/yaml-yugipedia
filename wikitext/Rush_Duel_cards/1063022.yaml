@@ -5,18 +5,26 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|Ｒ・ＨＥＲＯ|ライジングヒーロー}} メナカイター
   | romaji_name           = Raijingu Hīrō Menakaitā
-  | image                 = RisingHEROMenachiter-OW.png
-  | attribute             = ???
-  | types                 = ??? / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
-  | lore                  = TBA
+  | image                 = RisingHEROMenachiter-RDKP18-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Warrior / Effect
+  | level                 = 3
+  | atk                   = 900
+  | def                   = 1000
+  | requirement           = Place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
+  | lore                  = [[Add a card|Add]] 1 "[[Rising HERO Argent]]" or 1 "[[Rising HERO Tantalum]]" from your [[Graveyard]] to your hand.
+  | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
-  RD/KP18-JP0??; Dark Matter of Phantoms
+  RD/KP18-JP020; Dark Matter of Phantoms; Common
+  | mentions              = 
+  * Rising HERO Argent
+  * Rising HERO Tantalum
   | archseries            = Rising HERO
   | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}

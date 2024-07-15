@@ -5,18 +5,30 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|Ｒ・ＨＥＲＯ|ライジングヒーロー}} タンタルム
   | romaji_name           = Raijingu Hīrō Tantarumu
-  | image                 = RisingHEROTantalum-OW.png
-  | attribute             = ???
-  | types                 = ??? / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
-  | lore                  = TBA
+  | image                 = RisingHEROTantalum-RDKP18-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Warrior / Effect
+  | level                 = 7
+  | atk                   = 2500
+  | def                   = 1000
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = This card gains 400 [[ATK]] until the end of this [[turn]]. Then, if you have a [[face-up]] [[Warrior]] [[Type]] [[Fusion Monster]] on your [[field]], you can [[return]] 1 face-up [[Level]] 8 or lower [[Monster Card|monster]] from your opponent's field to the [[owner]]'s [[hand]].
+  | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
-  RD/KP18-JP0??; Dark Matter of Phantoms
+  RD/KP18-JP021; Dark Matter of Phantoms; Rare
+  | supports              = 
+  * Warrior
+  * Fusion Monster
   | archseries            = Rising HERO
   | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change           = This card gains ATK
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id           = 
   | rush_duel_status      = Not yet released
   }}
