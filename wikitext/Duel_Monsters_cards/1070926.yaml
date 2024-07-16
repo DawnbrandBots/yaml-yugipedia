@@ -34,9 +34,29 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ROTA-JP011; Rage of the Abyss; Rare
+  | supports            = 
+  * LIGHT
+  * DARK
+  | anti-supports       = 
+  * LIGHT
+  * DARK
   | archseries          = Allure Queen
   | supports_archetypes = Allure Queen
   | related_to_archseries = Chaos
+  | action              = 
+  * Discards for cost
+  * Activates from your hand
+  * Equips monsters from the player's Graveyard to itself
+  * Equips monsters from the opponent's Graveyard to itself
+  | stat_change         = 
+  * Changes own name while on the field
+  * Copies name
+  | m/s/t               = Treats monsters as Equip Cards
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
