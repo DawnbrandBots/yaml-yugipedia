@@ -42,6 +42,21 @@ wikitext: |-
   | jp_sets             = 
   | archseries          = Mimighoul
   | supports_archetypes = Mimighoul
+  | action              = 
+  * Changes battle positions
+  * Flips monsters face-down
+  * Activates from your Graveyard
+  * Returns from your field to your hand
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your hand to your opponent's field
+  * Special Summons from your Deck to your opponent's field
+  * Special Summons face-down
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

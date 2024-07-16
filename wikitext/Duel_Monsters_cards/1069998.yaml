@@ -42,6 +42,13 @@ wikitext: |-
   | jp_sets             = 
   | archseries          = Mimighoul
   | supports_archetypes = Mimighoul
+  | action              = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | stat_change         = Your monsters gain ATK
+  | summoning           = Prevents Normal Summons
+  | attack              = Prevents attacks
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

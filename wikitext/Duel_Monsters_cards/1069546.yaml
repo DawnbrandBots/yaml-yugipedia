@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 2000
   | password            = 
   | effect_types        = Trigger, Ignition, Trigger, Condition
-  | lore                = FLIP: If it is the [[Main Phase]]: Apply these [[effect]]s in sequence.<br />● [[Destroy]] all [[face-up]] [[monsters]] you [[control]], except "[[Mimighoul]]" monsters.<br />● Give control of this card to your opponent.<br />During your Main Phase: You can [[Special Summon]] this card from your [[hand]] to your opponent's [[field]] in [[face-down]] [[Defense Position]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Add a card|add]] 1 "Mimighoul" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your hand. You can only use each effect of "Mimighoul Dragon" once per turn.
+  | lore                = [[FLIP]]: If it is the [[Main Phase]]: Apply these [[effect]]s in sequence.<br />● [[Destroy]] all [[face-up]] [[monsters]] you [[control]], except "[[Mimighoul]]" monsters.<br />● Give control of this card to your opponent.<br />During your Main Phase: You can [[Special Summon]] this card from your [[hand]] to your opponent's [[field]] in [[face-down]] [[Defense Position]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Add a card|add]] 1 "Mimighoul" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your hand. You can only use each effect of "Mimighoul Dragon" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -45,6 +45,18 @@ wikitext: |-
   | jp_sets             = 
   | archseries          = Mimighoul
   | supports_archetypes = Mimighoul
+  | action              = 
+  * Activates upon being flipped face-up
+  * Changes control
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | m/s/t               = Destroys your face-up Monster Cards
+  | summoning           = 
+  * Special Summons itself from your hand to your opponent's field
+  * Special Summons itself face-down
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

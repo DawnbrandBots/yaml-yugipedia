@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 1900
   | password            = 
   | effect_types        = Trigger, Ignition, Trigger, Condition
-  | lore                = FLIP: If it is the [[Main Phase]]: Apply these [[effect]]s in sequence.<br />● Your opponent [[Draw a card|draws]] 1 card. ● [[Send]] 1 card from your [[hand]] to the [[GY]]. ● Give [[control]] of this card to your opponent.<br />During your Main Phase: You can [[Special Summon]] this card from your hand to your opponent's [[field]] in [[face-down]] [[Defense Position]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can change 1 face-down monster on the field to [[face-up]] Attack or Defense Position. You can only use each effect of "Mimighoul Archfiend" once per turn.
+  | lore                = [[FLIP]]: If it is the [[Main Phase]]: Apply these [[effect]]s in sequence.<br />● Your opponent [[Draw a card|draws]] 1 card. ● [[Send]] 1 card from your [[hand]] to the [[GY]]. ● Give [[control]] of this card to your opponent.<br />During your Main Phase: You can [[Special Summon]] this card from your hand to your opponent's [[field]] in [[face-down]] [[Defense Position]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can change 1 face-down monster on the field to [[face-up]] Attack or Defense Position. You can only use each effect of "Mimighoul Archfiend" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -46,6 +46,20 @@ wikitext: |-
   | archseries          = 
   * Archfiend
   * Mimighoul
+  | action              = 
+  * Activates upon being flipped face-up
+  * Your opponent draws cards
+  * Sends from your hand to your Graveyard
+  * Changes control
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips monsters face-up
+  | summoning           = 
+  * Special Summons itself from your hand to your opponent's field
+  * Special Summons itself face-down
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
