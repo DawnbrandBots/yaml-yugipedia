@@ -16,7 +16,7 @@ wikitext: |-
   * Cybersepice Hotpot
   | materials        = "[[Cybersepice Turmeric]]" + "[[Cybersepice Hotpot]]"
   | requirement      = None
-  | lore             = Your opponent [[excavate]]s the top 3 cards of their [[Main Deck|Deck]]. If 2 or more monsters are among the excavated cards, this card can [[attack]] twice during this [[turn]]. Your opponent places the excavated cards on top of their Deck in any order.
+  | lore             = Your opponent [[excavate]]s the top 3 cards of their [[Main Deck|Deck]]. If 2 or more [[Monster Card|monster]]s are among the excavated cards, this card can [[attack]] twice during this [[turn]]. Your opponent places the excavated cards on top of their Deck in any order.
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -26,6 +26,13 @@ wikitext: |-
   * Cybersepice Turmeric
   * Cybersepice Hotpot
   | archseries       = Cybersepice
+  | action           = 
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | attack           = Multiple attacker
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
