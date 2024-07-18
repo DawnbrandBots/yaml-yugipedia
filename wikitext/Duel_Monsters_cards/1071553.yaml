@@ -20,8 +20,8 @@ wikitext: |-
   | def                   = 2500
   | password              = 
   | material              = 1 Tuner + 1 or more non-Tuner monsters
-  | effect_types          = Trigger, Ignition
-  | lore                  = 1 [[Tuner]] + 1+ non-Tuner monsters<br />If this card is Special Summoned: You can Special Summon 1 face-up Pendulum Monster from your Extra Deck. You cannot Special Summon while you control that face-up monster, except Pendulum Monsters. If this card is in your GY: You can banish 2 other Fusion, Synchro, Xyz, and/or Pendulum Monsters from your GY; Special Summon this card. You can only use 1 effect of "Odd-Eyes Solblaze Dragon" per turn, and only once that turn.
+  | effect_types          = Trigger, Ignition, Condition
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner monsters<br />If this card is [[Special Summon]]ed: You can Special Summon 1 [[face-up]] [[Pendulum Monster]] from your [[Extra Deck]], but you cannot Special Summon while you [[control]] that face-up monster, except Pendulum Monsters. If this card is in your [[GY]]: You can [[banish]] 2 other [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], and/or Pendulum Monsters from your GY; Special Summon this card. You can only use 1 "Odd-Eyes Solblaze Dragon" effect per turn, and only once that turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,22 +38,16 @@ wikitext: |-
   | jp_sets               = 
   YO09-JP001; Yu-Gi-Oh! OCG Structures Volume 9 promotional card; Ultra Rare
   | kr_sets               = 
-  | mentions              = 
-  | supports              = 
-  * Pendulum Monster
-  | archseries            = 
-  * Odd-Eyes
-  | supports_archetypes   = 
-  | related_to_archseries = 
-  | action                = 
-  | stat_change           = 
+  | supports              = Pendulum Monster
+  | archseries            = Odd-Eyes
   | summoning             = 
   * 1 or more non-Tuner Synchro Materials
   * Does not require specific Tuner Synchro Materials
+  * Does not require specific non-Tuner Synchro Materials
   * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons
   * Special Summons from your Graveyard
-  | misc                  = 
-  * Only 1 effect once per turn
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
