@@ -17,7 +17,7 @@ wikitext: |-
   | effect_types     = Continuous
   | materials        = "[[Plandolin]]" + "[[Fiddlebadour]]"
   | requirement      = None
-  | lore             = If you [[Fusion Summon]] a [[Level]] 8 or higher [[monster]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]" or "[[Psyquip Fusion]]", you can also use [[Psychic]] [[Type]] monsters in your [[Graveyard]] as [[material]]. If you do, the materials on the field and in the Graveyard are [[shuffle]]d into the owner's Deck.
+  | lore             = If you [[Fusion Summon]] a [[Level]] 8 or higher [[Monster Card|monster]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]" or "[[Psyquip Fusion]]", you can also use [[Psychic]] [[Type]] monsters in your [[Graveyard]] as [[material]]. If you do, the materials on the [[field]] and in the Graveyard are [[shuffle]]d into the [[owner]]'s [[Main Deck|Deck]].
   | ja_materials     = 
   | ja_requirement   = 
   | ja_lore          = 
@@ -28,7 +28,18 @@ wikitext: |-
   * Fiddlebadour
   * Fusion (Rush Duel)
   * Psyquip Fusion
+  | supports         = Psychic
   | archseries       = Shaman Bandit
+  | action           = 
+  * Modifies which cards can be used as Fusion Material
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

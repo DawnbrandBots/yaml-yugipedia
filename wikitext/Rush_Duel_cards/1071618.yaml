@@ -9,12 +9,23 @@ wikitext: |-
   | card_type        = Spell
   | property         = Normal
   | requirement      = None
-  | lore             = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can place 1 "[[Fusion (Rush Duel)|Fusion]]" or 1 "[[Psyquip Fusion]]" from your Graveyard on either the top or bottom of your Deck. If you do, you can [[Add a card|add]] 1 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[monster]], 1 "Fusion", or 1 "Psyquip Fusion" from your Graveyard to your hand.
+  | lore             = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can place 1 "[[Fusion (Rush Duel)|Fusion]]" or 1 "[[Psyquip Fusion]]" from your Graveyard on either the top or bottom of your Deck. If you do, you can [[Add a card|add]] 1 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[Monster Card|monster]]/"Fusion"/"Psyquip Fusion" from your Graveyard to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP052; Dark Matter of Phantoms; Common
+  | mentions         = 
+  * Fusion (Rush Duel)
+  * Psyquip Fusion
+  | supports         = 
+  * WIND
+  * Psychic
   | archseries       = Shaman Bandit
+  | action           = 
+  * Sends from the top of your Deck to your Graveyard
+  * Places cards from the player's Graveyard on the top of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Adds from Graveyard to hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
