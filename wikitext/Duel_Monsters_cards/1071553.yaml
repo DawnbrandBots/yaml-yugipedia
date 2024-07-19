@@ -38,16 +38,23 @@ wikitext: |-
   | jp_sets               = 
   YO09-JP001; Yu-Gi-Oh! OCG Structures Volume 9 promotional card; Ultra Rare
   | kr_sets               = 
-  | supports              = Pendulum Monster
+  | supports              = 
+  * Pendulum Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
   | archseries            = Odd-Eyes
   | related_to_archseries = Four Dimensional Dragons
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
   | summoning             = 
   * 1 or more non-Tuner Synchro Materials
-  * Does not require specific Tuner Synchro Materials
-  * Does not require specific non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
   * Special Summons from your Extra Deck
   * Restricts the player's Special Summons
   * Special Summons from your Graveyard
+  | banished              = Banishes from Graveyard for cost
   | misc                  = Only 1 effect once per turn
   | database_id           = 
   | ocg_status            = Not yet released
