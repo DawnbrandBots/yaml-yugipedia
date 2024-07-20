@@ -3,35 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = エクスキューティー・リュミエル・{{Ruby|Ｆ|フロンティア}}
-  | romaji_name      = Ekusukyūtī Ryumieru Furontia
-  | image            = ExcutieLumiereFrontiere-OW.png
-  | attribute        = ???
-  | types            = ??? / Fusion / Effect
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | fusion_material  = 
+  | ja_name                = エクスキューティー・リュミエル・{{Ruby|Ｆ|フロンティア}}
+  | romaji_name            = Ekusukyūtī Ryumieru Furontia
+  | image                  = ExcutieLumiereFrontiere-RDKP18-JP-OP.png
+  | attribute              = LIGHT
+  | types                  = Fairy / Fusion / Effect
+  | level                  = 6
+  | atk                    = 2800
+  | def                    = 500
+  | fusion_material        = 
   * Excutie Lumiere
   * Excutie Lilius
-  | materials        = "[[Excutie Lumiere]]" + "[[Excutie Lilius]]"
-  | requirement      = TBA
-  | lore             = TBA
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP18-JP0??; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions         = 
+  | materials              = "[[Excutie Lumiere]]" + "[[Excutie Lilius]]"
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
+  | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | lore                   = Shuffle 1 face-up monster from your opponent's field into the owner's Deck.
+  | ja_materials           = 
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP18-JP048; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions               = 
   * Excutie Lumiere
   * Excutie Lilius
-  | archseries       = Excutie
-  | action           = Returns Fusion Materials for Contact Fusion to Deck
-  | summoning        = 
+  | archseries             = Excutie
+  | action                 = Returns Fusion Materials for Contact Fusion to Deck
+  | summoning              = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
