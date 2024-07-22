@@ -12,14 +12,19 @@ wikitext: |-
   | level            = 3
   | atk              = 1200
   | def              = 0
-  | requirement      = [[Send]] 1 [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = Change the [[battle position]] of 1 monster on your opponent's field. Then, if you have 5 or more monsters in your Graveyard, you can [[Add a card|add]] 1 "[[Guyghast the Defiant Soul]]" from your Graveyard to your hand.
+  | requirement      = [[Send]] 1 [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore             = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's [[field]]. Then, if you have 5 or more monsters in your Graveyard, you can [[Add a card|add]] 1 "[[Guyghast the Defiant Soul]]" from your Graveyard to your hand.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP030; Dark Matter of Phantoms; Super Rare, Secret Rare
   | mentions         = Guyghast the Defiant Soul
   | archseries       = Defiant Soul
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Adds from Graveyard to hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
