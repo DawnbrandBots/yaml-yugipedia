@@ -36,6 +36,17 @@ wikitext: |-
   ROTA-JP015; Rage of the Abyss; 
   | archseries          = Memento
   | supports_archetypes = Memento
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates if destroyed by card effect
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | summoning           = Special Summons itself from your Graveyard
+  | attack              = Allows direct attacks
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
