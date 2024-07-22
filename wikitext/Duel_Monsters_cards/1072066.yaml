@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 1900
   | password              = 
   | effect_types          = Condition, Ignition, Trigger, Condition
-  | lore                  = (This card is always treated as an "Atlantean" card.)<br />You can discard 1 card to the GY; the Levels of all WATER monsters you currently control become 7 until the end of this turn. If this card is sent to the GY to activate a WATER monster's effect: Special Summon 1 Level 4 or lower "Atlantean" or "Mermail" monster from your Deck, except "Mermail Shadow Bodyguards", also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use each effect of "Mermail Shadow Bodyguards" once per turn.
+  | lore                  = (This card is always treated as an "[[Atlantean]]" card.)<br />You can [[discard]] 1 card to the [[GY]]; the [[Level]]s of all [[WATER]] [[monster]]s you currently [[control]] become 7 until the end of this [[turn]]. If this card is [[Send|sent]] to the GY to activate a WATER monster's [[effect]]: [[Special Summon]] 1 Level 4 or lower "Atlantean" or "[[Mermail]]" monster from your [[Main Deck|Deck]], except "Mermail Shadow Bodyguards", also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except WATER monsters. You can only use each effect of "Mermail Shadow Bodyguards" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,13 +33,26 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP018; Rage of the Abyss; 
+  | mentions              = Mermail Shadow Bodyguards
+  | supports              = WATER
   | archseries            = 
   * Atlantean
   * Mermail
   | supports_archetypes   = 
   * Atlantean
   * Mermail
-  | misc                  = Archetype condition
+  | action                = 
+  * Discards for cost
+  * Activates if sent to the Graveyard for cost
+  | stat_change           = Changes Levels
+  | summoning             = 
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

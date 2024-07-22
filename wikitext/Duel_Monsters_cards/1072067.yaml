@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 1600
   | password              = 
   | effect_types          = Condition, Ignition, Quick, Condition
-  | lore                  = (This card is always treated as a "Mermail" card.)<br />You can Tribute this card from your hand and 1 "Atlantean" or "Mermail" monster from your hand or field; take 1 Level 7 Fish, Sea Serpent, or Aqua monster from your Deck, and either add it to your hand or Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. During your opponent's turn (Quick Effect): You can banish this card from your GY and discard 1 card to the GY; draw 1 card. You can only use each effect of "Abyssrhine the Atlantean Spirit" once per turn.
+  | lore                  = (This card is always treated as a "[[Mermail]]" card.)<br />You can [[Tribute]] this card from your [[hand]] and 1 "[[Atlantean]]" or "Mermail" [[monster]] from your hand or [[field]]; take 1 [[Level]] 7 [[Fish]], [[Sea Serpent]], or [[Aqua]] monster from your [[Main Deck|Deck]], and either [[add]] it to your hand or [[Special Summon]] it, also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[WATER]] monsters. During your opponent's [[turn]] ([[Quick Effect]]): You can [[banish]] this card from your GY and [[discard]] 1 card to the GY; [[draw]] 1 card. You can only use each [[effect]] of "Abyssrhine the Atlantean Spirit" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,6 +33,11 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP017; Rage of the Abyss; 
+  | supports              = 
+  * Fish
+  * Sea Serpent
+  * Aqua
+  * WATER
   | archseries            = 
   * Abyss-
   * Atlantean
@@ -40,7 +45,21 @@ wikitext: |-
   | supports_archetypes   = 
   * Atlantean
   * Mermail
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates from your hand
+  * Tributes itself for cost
+  * Tributes for cost
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Discards for cost
+  * You draw cards
+  | summoning             = 
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

@@ -49,6 +49,7 @@ wikitext: |-
   * Sends from field to Graveyard for Special Summon
   * Equips monsters from the player's Graveyard to itself
   * Equips monsters from the opponent's Graveyard to itself
+  * Activates if other cards are sent to the Graveyard for cost
   * You draw cards
   | stat_change         = Equipped gains ATK
   | m/s/t               = Treats monsters as Equip Cards

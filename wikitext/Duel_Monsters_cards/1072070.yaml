@@ -21,8 +21,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 1800
   | password              = 
+  | materials             = 3 Level 7 monsters
   | effect_types          = Summoning condition, Ignition, Trigger
-  | lore                  = 3 Level 7 monsters<br />Once per turn, you can also Xyz Summon "Poseidra Abyss, the Atlantean Dragon Deity" by using 1 "Atlantean" or "Mermail" Xyz Monster you control. (Transfer its materials to this card.) Once per turn: You can detach 2 materials from this card and send 1 WATER monster from your hand or Deck to the GY; return up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can discard 1 card to the GY; Special Summon 3 Level 3 or lower Fish, Sea Serpent, and/or Aqua monsters from your hand and/or GY.
+  | lore                  = 3 [[Level]] 7 [[monster]]s<br />[[Once per turn]], you can also [[Xyz Summon]] "Poseidra Abyss, the Atlantean Dragon Deity" by using 1 "[[Atlantean]]" or "[[Mermail]]" [[Xyz Monster]] you [[control]]. ([[Transfer]] its [[material]]s to this card.) Once per turn: You can detach 2 materials from this card and [[send]] 1 [[WATER]] monster from your [[hand]] or [[Main Deck|Deck]] to the [[GY]]; [[return]] up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can [[discard]] 1 card to the GY; [[Special Summon]] 3 Level 3 or lower [[Fish]], [[Sea Serpent]], and/or [[Aqua]] monsters from your hand and/or GY.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -34,12 +35,36 @@ wikitext: |-
   | jp_sets               = 
   ROTA-JP043; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ROTA-JP043; Rage of the Abyss +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | mentions              = Poseidra Abyss, the Atlantean Dragon Deity
+  | supports              = 
+  * Xyz Monster
+  * WATER
+  * Fish
+  * Sea Serpent
+  * Aqua
   | archseries            = 
   * Abyss- 
   * Atlantean
   | supports_archetypes   = 
   * Atlantean
   * Mermail
+  | action           = 
+  * Transfers
+  * Detaches multiple Xyz Materials as cost
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  * Activates if sent to the Graveyard
+  * Discards for cost
+  | summoning        = 
+  * 3 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

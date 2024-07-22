@@ -20,8 +20,9 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Center, Bottom-Right
   | atk                   = 2300
   | password              = 
+  | materials             = 2+ monsters, including a Fish, Sea Serpent, or Aqua monster
   | effect_types          = Continuous, Condition, Trigger, Trigger
-  | lore                  = 2+ monsters, including a Fish, Sea Serpent, or Aqua monster<br />Your opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of "Neptabyss the Royal Mermail" once per turn. If a WATER monster(s) is sent to the GY to activate a card effect: You can take 1 "Abyss-" Equip Spell from your Deck or GY, and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 "Atlantean" or "Mermail" monster from your Deck to your hand.
+  | lore                  = 2+ [[monster]]s, including a [[Fish]], [[Sea Serpent]], or [[Aqua]] monster<br />Your opponent cannot [[target]] [[WATER]] monsters this card [[points to]] with [[card effect]]s. You can only use each of the following effects of "Neptabyss the Royal Mermail" [[once per turn]]. If a WATER monster(s) is [[send|sent]] to the [[GY]] to [[activate]] a card effect: You can take 1 "[[Abyss-]]" [[Equip Spell]] from your [[Main Deck|Deck]] or GY, and either [[add]] it to your hand or [[equip]] it to this card. If this card in its [[own]]er's [[possess]]ion is [[destroy]]ed by an opponent's card: You can add 1 "[[Atlantean]]" or "[[Mermail]]" monster from your Deck to your hand.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -32,6 +33,11 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP046; Rage of the Abyss; 
+  | supports              = 
+  * Fish
+  * Sea Serpent
+  * Aqua
+  * WATER
   | archseries            = 
   * Abyss-
   * Mermail
@@ -39,6 +45,18 @@ wikitext: |-
   * Abyss-
   * Atlantean
   * Mermail
+  | action                = 
+  * Activates if other cards are sent to the Graveyard for cost
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Equips from the player's Deck to itself
+  * Equips from the player's Graveyard to itself
+  * Activates if destroyed
+  | m/s/t                 = Prevents other cards being targeted by card effects
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
