@@ -22,9 +22,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2000
   | password              = 
-  | materials             = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Continuous, Trigger, Condition
-  | lore                  = 1 Tuner + 1+ non-Tuner monsters<br />Cannot be destroyed by card effects. Insect Synchro Monsters you control gain 200 ATK for each of your banished Insect monsters. If this card is banished: You can Special Summon it, then you can destroy cards your opponent controls up to the number of your banished Insect monsters, then inflict 500 damage to your opponent for each card destroyed. You can only use this effect of "Battlewasp - Gran Partisan the Revolution" once per turn.
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />Cannot be [[destroy]]ed by [[card effect]]s. [[Insect]] [[Synchro Monster]]s you [[control]] gain 200 [[ATK]] for each of your [[banish]]ed Insect monsters. If this card is banished: You can Special Summon it, then you can [[destroy]] cards your opponent controls up to the number of your banished Insect monsters, then inflict 500 [[damage]] to your opponent for each card destroyed. You can only use this effect of "Battlewasp - Gran Partisan the Revolution" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,7 +35,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP036; Rage of the Abyss; 
+  | supports              = 
+  * Insect
+  * Synchro Monster
   | archseries            = Battlewasp
+  | action                = Activates while banished
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons itself while banished
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

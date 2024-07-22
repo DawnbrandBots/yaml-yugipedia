@@ -22,9 +22,9 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 1200
   | password              = 
-  | materials             = 
+  | materials             = 1 Insect-Type Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Ignition, Trigger, Condition
-  | lore                  = 1 Insect Tuner + 1+ non-Tuner monsters<br />If this card is Synchro Summoned: You can treat it as a Tuner. Once per turn: You can return 1 Continuous Spell you control to the hand; you can Normal Summon 1 "Battlewasp" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is sent to the GY as Synchro Material: You can inflict 100 damage to your opponent for each of your banished "Battlewasp" monsters. You can only use this effect of "Battlewasp - Sachi the Ritual Bow" once per turn.
+  | lore                  = 1 [[Insect]] [[Tuner]] + 1+ non-Tuner [[monster]]s<br />If this card is [[Synchro Summon]]ed: You can treat it as a [[Tuner]]. [[Once per turn]]: You can [[return]] 1 [[Continuous Spell]] you [[control]] to the [[hand]]; you can [[Normal Summon]] 1 "[[Battlewasp]]" monster during your [[Main Phase]] this [[turn]], in addition to your Normal Summon/[[Normal Set|Set]]. (You can only gain this [[effect]] [[once per turn]].) If this card is [[send|sent]] to the [[GY]] as [[Synchro Material]]: You can inflict 100 [[damage]] to your opponent for each of your [[banish]]ed "Battlewasp" monsters. You can only use this effect of "Battlewasp - Sachi the Ritual Bow" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,8 +35,27 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP037; Rage of the Abyss; 
+  | supports              = 
+  * Insect
+  * Continuous Spell Card
   | archseries            = Battlewasp
   | supports_archetypes   = Battlewasp
+  | action                = 
+  * Activates upon Synchro Summon
+  * Returns from field to hand for cost
+  * Activates if sent to the Graveyard
+  * Activates if used as Synchro Material
+  | stat_change           = Treats itself as a Tuner monster
+  | summoning             = 
+  * Requires Type specific Tuner Synchro Materials
+  * Does not require specific non-Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Allows multiple Normal Summons
+  | life_points           = Damages your opponent
+  | misc                  = 
+  * Limited activations
+  * Gain this effect once per turn
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

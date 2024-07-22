@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Lingering, Trigger-like, Condition
-  | lore                  = Special Summon 1 Insect monster with 1000 or less ATK from your hand or Deck, and if you Special Summon it from the Deck, send 1 monster you control to the GY. You cannot Special Summon for the rest of this turn after this card resolves, except Insect monsters. If a face-up Insect Synchro Monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can banish this card; add 1 "[[Summoning Swarm]]" from your Deck to your hand. You can only activate 1 "Armament Swarm" per turn.
+  | lore                  = [[Special Summon]] 1 [[Insect]] [[monster]] with 1000 or less [[ATK]] from your [[hand]] or [[Main Deck|Deck]], and if you Special Summon it from the Deck, [[send]] 1 monster you [[control]] to the [[GY]]. You cannot Special Summon for the rest of this [[turn]] after this card [[resolve]]s, except Insect monsters. If a face-up Insect [[Synchro Monster]](s) you control is [[destroyed by battle]] or [[card effect]] while this card is in your GY: You can [[banish]] this card; [[add]] 1 "[[Summoning Swarm]]" from your Deck to your hand. You can only [[activate]] 1 "Armament Swarm" [[Once per turn|per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -31,6 +31,21 @@ wikitext: |-
   | jp_sets               = 
   ROTA-JP051; Rage of the Abyss; 
   | mentions              = Summoning Swarm
+  | supports              = 
+  * Insect
+  * Synchro Monster
+  | action                = 
+  * Sends from your field to your Graveyard
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

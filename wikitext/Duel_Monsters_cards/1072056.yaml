@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Ignition, Ignition, Condition
-  | lore                  = If you control no face-up monsters, or the only face-up monsters you control are Insect monsters: You can discard 1 other Insect monster; place 1 "[[Battlewasp Wind]]" from your Deck face-up in your Spell & Trap Zone, then Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Insect monsters. You can banish this card from your GY; reduce the Level of 1 Insect monster you control by 1. You can only use each effect of "Battlewasp - Rapier the Furious" once per turn.
+  | lore                  = If you [[control]] no [[face-up]] [[monster]]s, or the only face-up monsters you control are [[Insect]] monsters: You can [[discard]] 1 other Insect monster; place 1 "[[Battlewasp - Wind]]" from your [[Main Deck|Deck]] face-up in your [[Spell & Trap Zone]], then [[Special Summon]] this card from your hand, also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except Insect monsters. You can [[banish]] this card from your [[GY]]; reduce the [[Level]] of 1 Insect monster you control by 1. You can only use each [[effect]] of "Battlewasp - Rapier the Furious" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -33,8 +33,24 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP009; Rage of the Abyss; Rare
-  | mentions              = Battlewasp Wind
+  | mentions              = Battlewasp - Wind
+  | supports              = Insect
   | archseries            = Battlewasp
+  | action                = 
+  * Activates from your hand
+  * Discards for cost
+  * Places cards from Deck in Spell & Trap Zone
+  * Activates from your Graveyard
+  | stat_change           = Your monsters lose Levels
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of no monsters
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
