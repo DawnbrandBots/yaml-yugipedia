@@ -8,13 +8,18 @@ wikitext: |-
   | image            = BurningWind-RDKP18-JP-OP.png
   | card_type        = Trap
   | property         = Normal
-  | requirement      = When an opponent's [[Level]] 5 or higher [[monster]] [[declare]]s an [[attack]] targeting your monster.
+  | requirement      = When an opponent's [[Level]] 5 or higher [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your monster.
   | lore             = 1 [[face-up]] [[Warrior]] [[Type]] monster on your [[field]] gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can choose which of your monsters becomes the attack target for your opponent's attack.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP061; Dark Matter of Phantoms; Common
-  | related_to_archseries = Elemental HERO (Rush Duel)
+  | supports         = Warrior
+  | archseries       = Elemental HERO (Rush Duel)
+  | action           = Activates if targeted for an attack
+  | stat_change      = Your monsters gain ATK
+  | attack           = Changes attack targets
+  | misc             = Requires control of specific Type
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
