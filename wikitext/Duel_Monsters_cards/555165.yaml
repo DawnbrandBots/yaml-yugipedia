@@ -76,6 +76,9 @@ wikitext: |-
   * Requires Type specific Link Materials
   * Requires specific monsters as Link Materials
   | life_points           = Prevents battle damage
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id           = 13758
   }}
