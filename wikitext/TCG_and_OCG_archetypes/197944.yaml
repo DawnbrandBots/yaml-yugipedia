@@ -45,9 +45,9 @@ wikitext: |-
   They also have a rivalry against the "[[Phantasm Spiral]]" archetype.
 
   == Playing Style ==
-  The "Atlantean" archetype is broadly focused on [[swarm]]ing the field to summon its boss monster, "[[Poseidra, the Atlantean Dragon]]". It is also focused on [[Trigger Effect]]s that activate when an "Atlantean" monster is sent to the GY to activate a WATER monster's effect, i.e. as a [[cost]].
+  The "Atlantean" archetype is broadly focused on [[swarm]]ing the field to Summon several different [[WATER]] boss monsters, such as "[[Neptabyss the Royal Mermail]]", "[[Moulinglacia the Elemental Lord]]", "[[Mermail Abyssgaios]]", and their archetypal boss monster, "[[Poseidra Abyss, the Atlantean Dragon Deity]]". It is also focused on [[Trigger Effect]]s that activate when an "Atlantean" monster is sent to the GY to activate a WATER monster's effect, i.e. as a [[cost]].
 
-  The four key "Atlantean" monsters are "[[Neptabyss, the Atlantean Prince]]", "[[Atlantean Heavy Infantry]]", "[[Atlantean Marksman]]", and "[[Atlantean Dragoons]]". Each has two effects, with the second being a [[Trigger Effect]] that shares the condition: ''"If/When this card is sent to the Graveyard to activate a WATER monster's effect: [Effect]"''
+  The five key "Atlantean" monsters are "[[Neptabyss, the Atlantean Prince]]", "[[Atlantean Dragoons]]", "[[Mermail Shadow Bodyguards]]" (which is always treated as an "Atlantean" card), "[[Atlantean Heavy Infantry]]", and "[[Atlantean Marksman]]". Each has two effects, with the second being a [[Trigger Effect]] that shares the condition: ''"If this card is sent to the Graveyard to activate a WATER monster's effect: [Effect]"''
 
   {| class="wikitable"
   ! Atlantean !! Triggered Effect
@@ -64,17 +64,57 @@ wikitext: |-
   | [[Atlantean Dragoons|Dragoons]]
   | Search 1 other Sea Serpent monster.
   |-
+  | [[Mermail Shadow Bodyguards|Shadow Bodyguards]]
+  | Summons 1 other Level 4 or lower "Atlantean" or "Mermail" monster from the Deck.
+  |-
   |}
 
   Any WATER monster effect [[cost]] that can send an "Atlantean" to the GY can trigger its Trigger Effect. These include:
-  * Discarded or sent from the hand to the GY (e.g.: Level 7 "[[Mermail]]" monsters, "[[Brionac, Dragon of the Ice Barrier]]")
-  * Tributed (e.g.: Level 7 "[[Mermail]]" monsters, "[[Poseidra, the Atlantean Dragon]]")
-  * Sent from the Deck to the GY (e.g.: "[[Genex Undine]]", "[[Neptabyss, the Atlantean Prince]]", "[[Deep Sea]]" monsters)
-  * Detached from an Xyz Monster as a material (e.g. "[[Bahamut Shark]]")
+  * Discarded or sent from the hand to the GY (e.g.: "[[Mermail Abyssteus]]", "[[Brionac, Dragon of the Ice Barrier]]")
+  * Tributed or sent from the field to the GY (e.g.: "[[Mermail Abyssmegalo]]", "[[Abyssrhine the Atlantean Spirit]]")
+  * Sent from the Deck to the GY (e.g.: "[[Neptabyss, the Atlantean Prince]]", "[[Genex Undine]]", "[[Deep Sea]]" monsters)
+  * Detached from an Xyz Monster as a material (e.g. "[[Bahamut Shark]]", "[[Mermail Abyssgaios]]")
 
   In addition to having a Trigger Effect, "[[Neptabyss, the Atlantean Prince]]" is also an in-archetype "activator" with a cost that can send an "Atlantean" to the GY: by sending 1 "Atlantean" monster from the Deck to the GY as a cost, "Neptabyss" can search 1 "Atlantean" card. This makes it the Deck's key starter and searcher.
 
-  As a pure Deck, the archetype's game plan ends with summoning its boss monster, "[[Poseidra, the Atlantean Dragon]]", which has become obsolete as the game's power level increased. Instead, the archetype was historically more commonly used as an advantage engine supplementing the "[[Mermail]]" archetype, which it has great synergies with. Because many "Mermail" effects discard a WATER monster as cost, the "Atlantean" trigger effects can be used to offset these costs, providing further card advantage for more combos.
+  As a pure Deck, the archetype's game plan ends with summoning its boss monster, "[[Poseidra, the Atlantean Dragon]]", which has become obsolete as the game's power level increased. Instead, the archetype was historically more commonly used in conjunction with the "[[Mermail]]" archetype, which it has great synergies with. Because many "Mermail" effects discard a WATER monster as cost, the "Atlantean" trigger effects can be used to offset these costs, providing further card advantage for more combos. In ''[[Rage of the Abyss]]'', a new wave of support released cards that support both archetypes. 
+
+  === Sample combos ===
+  "[[Neptabyss, the Atlantean Prince]]" is the Deck's main starter. One such combo it enables can end on a board with multiple forms of disruption, as well as more forms of generating advantage, even under a restriction of Summoning only WATER monsters. The combo aims to:
+  # Summon "[[Toadally Awesome]]" as the player's 5th Summon, which both prevents an opponent's "[[Nibiru, the Primal Being]]" from ending the combo, as well as negating any card or effect activation during their turn.
+  # Summon "[[Moulinglacia the Elemental Lord]]" to discard 2 of the opponent's cards, and use it as Xyz Material to prevent it from skipping the player's next [[Battle Phase]].
+  # Summon "[[Mermail Abyssgaios]]", which can negate monster effects on the field and prevent attacks from Level 5 or higher monsters.
+  # Summon "[[Neptabyss the Royal Mermail]]", which can equip "[[Abyss-scale of the Mizuchi]]" (or any other "[[Abyss-]]" Equip Spell) to itself, while also protecting "Abyssgaios" and "Toadally Awesome" from being targeted.
+  # Equipping "Abyss-scale of the Mizuchi", which negates the opponent's Spells at resolution, protecting the board even against cards such as "[[Forbidden Droplet]]" and "[[Super Polymerization]]".
+  # Placing "[[Abyssrhine the Atlantean Spirit]]" in the GY, which can both draw 1 card, and potentially trigger the effect of an "Atlantean" monster in hand, such as "[[Atlantean Heavy Infantry]]".
+  # Create followup plays by detaching "[[Mermail Shadow Bodyguards]]" and Summoning "[[Mermail Abysspike]]" or "Neptabyss" from the Deck, and also search any "Atlantean" or "Mermail" monster if "Neptabyss the Royal Mermail" is destroyed.
+
+  {{Combo steps
+  | opening = "[[Neptabyss, the Atlantean Prince]]" + 1 card
+  | end     = "[[Neptabyss the Royal Mermail]]", "[[Mermail Abyssgaios]]", "[[Toadally Awesome]]", and "[[Abyss-scale of the Mizuchi]]" + 1 draw + 2 discards from the opponent's hand
+  | steps   = 
+  # Activate "[[Neptabyss, the Atlantean Prince]]" by sending "[[Mermail Shadow Bodyguards]]" from the Deck to the GY to search "[[Atlantean Dragoons]]".
+  # Activate "Shadow Bodyguards" to Summon "[[Mermail Abysspike]]" from the Deck.
+  # Activate "Abysspike" by sending "Dragoons" to the GY to search "[[Abyssrhine the Atlantean Spirit]]".
+  # Activate "Dragoons" to search any Sea Serpent monster (i.e. "[[Deep Sea Minstrel]]", "[[Atlantean Heavy Infantry]]").
+  # Activate "Abyssrhine" by Tributing itself and "Neptabyss" to search "[[Mermail Abyssteus]]".
+  # Activate "Neptabyss" to Summon "Dragoons" from the GY.
+  # Xyz Summon "[[Bahamut Shark]]" by using "Dragoons" and "Abysspike".
+  # Activate "Bahamut Shark" by detaching "Dragoons" to Summon "[[Toadally Awesome]]" from the Extra Deck.
+  # Activate "Dragoons" to search "[[Moulinglacia the Elemental Lord]]".
+  # Activate "Abyssteus" by discarding the searched Sea Serpent monster (or any other WATER monster) to Summon itself from the hand.
+  # Activate "Abyssteus" to add "[[Mermail Abyssgunde]]".
+  # Special Summon "Moulinglacia".
+  # Activate "Moulinglacia" to discard 2 cards from the opponent's hand.
+  # Link Summon "[[Marincess Coral Anemone]]" by using "Bahamut Shark" and "Abyssteus".
+  # Activate "Coral Anemone" to Special Summon "Shadow Bodyguards" from the GY to the zone it points to.
+  # Activate "Shadow Bodyguards" by discarding "Abyssgunde" to make itself and "Moulinglacia" Level 7.
+  # Activate "Abyssgunde" to Summon "Abyssteus" from the GY.
+  # Link Summon "[[Neptabyss the Royal Mermail]]" by using "Coral Anemone" and "Abyssteus".
+  # Xyz Summon "[[Mermail Abyssgaios]]" by using "Moulinglacia" and "Shadow Bodyguards".
+  # During the opponent's turn, activate "Abyssrhine" by banishing itself from the GY and discarding 1 card to draw 1 card.
+  # Activate "Neptabyss" to equip "[[Abyss-scale of the Mizuchi]]" from the Deck to itself.
+  }}
 
   === Recommended cards ===
   {{Decklist|Recommended cards
@@ -100,14 +140,10 @@ wikitext: |-
   * [[Mermail Abyssturge]]
   * [[Moulinglacia the Elemental Lord]]
   * [[Silent Sea Nettle]]
-  * [[Shark Stickers]]
-  * [[Spined Gillman]]
   * [[Icejade Tinola]]
   * [[Tribe-Infecting Virus]]
   * [[Xyz Slidolphin]]
-  * [[Zuijin of the Ice Barrier]]
   * [[Cartorhyn the Hidden Gem of the Seafront]]
-  * [[Aqua Spirit]]
   |tuner monsters =
   * [[Deep Sea Diva]]
   * [[Deep Sea Minstrel]]
@@ -120,60 +156,43 @@ wikitext: |-
   * [[Adamancipator Risen - Dragite]]
   * [[Deep Sea Repetiteur]]
   * [[Deep Sea Prima Donna]]
-  * [[Gungnir, Dragon of the Ice Barrier]]
   * [[Ravenous Crocodragon Archethys]]
   * [[White Aura Whale]]
   * [[Icejade Gymir Aegirine]]
   * [[Swordsoul Supreme Sovereign - Chengying]]
   |xyz monsters =
   * [[Poseidra Abyss, the Atlantean Dragon Deity]]
+  * [[Mermail Abyssgaios]]
   * [[Abyss Dweller]]
   * [[Armored Kappa]]
   * [[Bahamut Shark]]
   ** [[Toadally Awesome]]
-  * [[Full Armored Black Ray Lancer]]
-  * [[Number 37: Hope Woven Dragon Spider Shark]]
+  ** [[Levirtue Dragon]]
   * [[Number 47: Nightmare Shark]]
-  * [[Number 71: Rebarian Shark]]
   |link monsters =
   * [[Neptabyss the Royal Mermail]]
-  * [[Agave Dragon]]
-  * [[Eria the Water Charmer, Gentle]]
-  * [[Marincess Coral Anemone]]
   * [[Mermail Abyssalacia]]
+  * [[Marincess Coral Anemone]]
+  * [[Eria the Water Charmer, Gentle]]
   * [[Mistar Boy]]
   |normal spells =
-  * [[Turmoil of Sea and Flames]]
-  * [[Aqua Jet]]
   * [[Deep Sea Aria]]
   * [[One for One]]
   * [[Salvage]]
-  * [[Surface]]
   * [[Surface Aqua Jet]]
   * [[Ready Fusion]]
   * [[Moray of Greed]]
   |field spells =
   * [[Magellanica, the Deep Sea City]]
-  |continuous spells =
-  * [[Sea Lord's Amulet]]
-  * [[Aquarium Stage]]
-  * [[Ocean of Regeneration]]
   |equip spells =
   * [[Abyss-sting of Triaina]]
-  |quick-play spells =
-  * [[Call of the Atlanteans]]
+  * [[Abyss-scale of the Mizuchi]]
+  * [[Abyss-scale of the Kraken]]
   |normal traps =
-  * [[Aegis of the Ocean Dragon Lord]]
-  * [[Aquamirror Cycle]]
-  * [[High Tide on Fire Island]]
-  * [[Poseidon Wave]]
   * [[White Howling]]
   * [[The Ice-Bound God]]
   * [[Xyz Revive Splash]]
   * [[Virtue Stream]]
-  * [[Torrential Reborn]]
-  |continuous traps =
-  * [[Bubble Bringer]]
   }}
 
   === Official Decks ===
