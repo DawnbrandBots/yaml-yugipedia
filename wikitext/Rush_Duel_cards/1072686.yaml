@@ -11,13 +11,20 @@ wikitext: |-
   | level            = 4
   | atk              = 400
   | def              = 1300
-  | requirement      = [[Shuffle]] 3 [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore             = Change 1 monster on your opponent's [[field]] to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[False Moon]]" from your Graveyard to your [[hand]].
+  | requirement      = [[Shuffle]] 3 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore             = [[Battle position change|Change]] 1 monster on your opponent's [[field]] to [[face-up]] [[Attack Position]] or [[face-down]] [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[False Moon]]" from your Graveyard to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP033; Dark Matter of Phantoms; Common
   | mentions         = False Moon
+  | supports         = Galaxy (Type)
+  | action           = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Flips your opponent's monsters face-down
+  * Adds from Graveyard to hand
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

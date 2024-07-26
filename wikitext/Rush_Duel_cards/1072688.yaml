@@ -11,12 +11,20 @@ wikitext: |-
   | level            = 4
   | atk              = 400
   | def              = 1300
-  | requirement      = You have 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] with 1300 [[DEF]] in your [[Graveyard]] during the [[turn]] you [[Normal Summon]]ed this card.
+  | requirement      = You [[Normal Summon]]ed this card this [[turn]] and you have 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 1300 [[DEF]] in your [[Graveyard]].
   | lore             = [[Special Summon]] 1 Galaxy Type monster with 1300 DEF from your Graveyard to your [[field]] in [[face-down]] [[Defense Position]]. Then, you can change this card to face-down Defense Position.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP034; Dark Matter of Phantoms; Common
+  | supports         = Galaxy (Type)
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Changes own battle position
+  * Flips itself face-down
+  | summoning        = 
+  * Special Summons from your Graveyard
+  * Special Summons face-down
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
