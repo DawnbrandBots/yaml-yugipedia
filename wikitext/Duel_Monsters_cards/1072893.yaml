@@ -30,21 +30,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ROTA-JP080; Rage of the Abyss; Normal Rare
-  | action                = 
-  * Activates upon Special Summon
-  * Activates upon card sent from Deck to Graveyard
-  * Sets from your Deck
-  * Sets from your Graveyard
-  | life_points           = You gain Life Points
-  | m/s/t                 = 
-  * Destroys itself
   | archseries            = 
   * Schoolwork Success
   * Duel winner
-  | counter               = 
-  * Places counters
-  * Success Counter
   | supports_archetypes   = Schoolwork Success
+  | counter               = 
+  * Success Counter
+  * Places counters on itself
+  * Removes counters from itself
+  | action                = 
+  * Activates upon Special Summon
+  * Activates if other cards are sent to the Graveyard
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | m/s/t                 = Destroys itself
+  | life_points           = You gain Life Points
   | database_id           = 20556
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
