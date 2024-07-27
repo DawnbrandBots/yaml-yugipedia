@@ -3,61 +3,60 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|混|こん}}{{Ruby|沌|とん}}なる{{Ruby|魅惑の女王|アリュール・クィーン}}
-  | romaji_name         = Kontonnaru Aryūru Kwīn
-  | base_romaji_name    = Kontonnaru Miwaku no Joō
-  | trans_name          = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = ChaoticAllureQueen-ROTA-JP-OP.png
-  | attribute           = LIGHT
-  | types               = Spellcaster / Effect
-  | level               = 7
-  | atk                 = 1500
-  | def                 = 1500
-  | password            = 
-  | effect_types        = Ignition, Ignition, Condition
-  | lore                = You can [[discard]] 1 other [[LIGHT]] or [[DARK]] [[monster]]; [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 monster in either [[GY]]; [[equip]] it to this card, and if you do, this card's name becomes that monster's (until the [[End Phase]]), then, if it is a LIGHT or DARK Monster Card, you can Special Summon 1 DARK "[[Allure Queen]]" monster from your [[Main Deck|Deck]] or GY. You can only use each effect of "Chaotic Allure Queen" once per turn.
-  | fr_lore             = 
-  | de_lore             = 
-  | it_lore             = 
-  | pt_lore             = 
-  | es_lore             = 
-  | ja_lore             = 
-  | ko_lore             = 
-  | sc_lore             = 
-  | jp_sets             = 
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|混|こん}}{{Ruby|沌|とん}}なる{{Ruby|魅惑の女王|アリュール・クィーン}}
+  | romaji_name           = Kontonnaru Aryūru Kwīn
+  | base_romaji_name      = Kontonnaru Miwaku no Joō
+  | trans_name            = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | image                 = ChaoticAllureQueen-ROTA-JP-R.png
+  | attribute             = LIGHT
+  | types                 = Spellcaster / Effect
+  | level                 = 7
+  | atk                   = 1500
+  | def                   = 1500
+  | password              = 29925614
+  | effect_types          = Ignition, Ignition, Condition
+  | lore                  = You can [[discard]] 1 other [[LIGHT]] or [[DARK]] [[monster]]; [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 monster in either [[GY]]; [[equip]] it to this card, and if you do, this card's name becomes that monster's (until the [[End Phase]]), then, if it is a LIGHT or DARK Monster Card, you can Special Summon 1 DARK "[[Allure Queen]]" monster from your [[Main Deck|Deck]] or GY. You can only use each effect of "Chaotic Allure Queen" once per turn.
+  | fr_lore               = 
+  | de_lore               = 
+  | it_lore               = 
+  | pt_lore               = 
+  | es_lore               = 
+  | ja_lore               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から他の光・闇属性モンスター１体を捨てて発動できる。このカードを手札から特殊召喚する。②：自分か相手の墓地のモンスター１体を対象として発動できる。そのモンスターを装備魔法カード扱いでこのカードに装備する。このカードはエンドフェイズまで、この効果で装備したモンスターと同名カードとして扱う。この効果で光・闇属性のモンスターカードを装備した場合、さらに自分のデッキ・墓地から闇属性の「魅惑の女王」モンスター１体を特殊召喚できる。
+  | ko_lore               = 
+  | sc_lore               = 
+  | jp_sets               = 
   ROTA-JP011; Rage of the Abyss; Rare
-  | supports            = 
+  | supports              = 
   * LIGHT
   * DARK
-  | anti-supports       = 
+  | anti-supports         = 
   * LIGHT
   * DARK
-  | archseries          = Allure Queen
-  | supports_archetypes = Allure Queen
+  | archseries            = Allure Queen
+  | supports_archetypes   = Allure Queen
   | related_to_archseries = Chaos
-  | action              = 
+  | action                = 
   * Discards for cost
   * Activates from your hand
   * Equips monsters from the player's Graveyard to itself
   * Equips monsters from the opponent's Graveyard to itself
-  | stat_change         = 
+  | stat_change           = 
   * Changes own name while on the field
   * Copies name
-  | m/s/t               = Treats monsters as Equip Cards
-  | summoning           = 
+  | m/s/t                 = Treats monsters as Equip Cards
+  | summoning             = 
   * Special Summons itself from your hand
   * Special Summons from your Deck
   * Special Summons from your Graveyard
-  | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
-  | tcg_status          = Not yet released
+  | misc                  = Only once per turn
+  | database_id           = 20487
+  | tcg_status            = Not yet released
   }}

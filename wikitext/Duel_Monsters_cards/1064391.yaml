@@ -15,13 +15,13 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = TuruPurupurun-ROTA-JP-OP.png
+  | image               = TuruPurupurun-ROTA-JP-C.png
   | attribute           = WATER
   | types               = Aqua / Effect
   | level               = 2
   | atk                 = 450
   | def                 = 500
-  | password            = 
+  | password            = 84635192
   | effect_types        = Ignition, Condition
   | lore                = If this card is in your [[hand]]: You can [[target]] 1 [[WATER]] [[monster]] in your [[Main Monster Zone]]; [[destroy]] that monster you [[control]], and if you do, [[Special Summon]] this card to the zone that monster was in, then you can destroy all opponent's [[face-up]] cards in this card's column. You can only use this effect of "Turu-Purupurun" [[once per turn]].
   | fr_lore             = 
@@ -29,11 +29,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の効果は１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分のメインモンスターゾーンの水属性モンスター１体を対象として発動できる。その自分のモンスターを破壊し、そのモンスターが存在していたゾーンにこのカードを特殊召喚する。その後、このカードと同じ縦列の相手の表側表示カードを全て破壊できる。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  ROTA-JP025; Rage of the Abyss; 
+  ROTA-JP025; Rage of the Abyss; Common
   | supports            = WATER
   | action              = Activates from your hand
   | summoning           = Special Summons itself from your hand
@@ -46,7 +46,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Column
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20501
   | tcg_status          = Not yet released
   }}

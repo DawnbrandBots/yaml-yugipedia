@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = MermailShadowBodyguards-ROTA-JP-OP.png
+  | image                 = MermailShadowBodyguards-ROTA-JP-C.png
   | attribute             = WATER
   | types                 = Sea Serpent / Effect
   | level                 = 3
   | atk                   = 0
   | def                   = 1900
-  | password              = 
+  | password              = 53085623
   | effect_types          = Condition, Ignition, Trigger, Condition
   | lore                  = (This card is always treated as an "[[Atlantean]]" card.)<br />You can [[discard]] 1 card to the [[GY]]; the [[Level]]s of all [[WATER]] [[monster]]s you currently [[control]] become 7 until the end of this [[turn]]. If this card is [[Send|sent]] to the GY to activate a WATER monster's [[effect]]: [[Special Summon]] 1 Level 4 or lower "Atlantean" or "[[Mermail]]" monster from your [[Main Deck|Deck]], except "Mermail Shadow Bodyguards", also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except WATER monsters. You can only use each effect of "Mermail Shadow Bodyguards" [[once per turn]].
   | fr_lore               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名はルール上「海皇」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚墓地へ捨てて発動できる。自分フィールドの全ての水属性モンスターのレベルはターン終了時まで７になる。②：このカードが水属性モンスターの効果を発動するために墓地へ送られた場合に発動する。「水精鱗の深影隊」を除く、レベル４以下の、「海皇」モンスターか「水精鱗」モンスター１体をデッキから特殊召喚する。このターン、自分は水属性モンスターしかＥＸデッキから特殊召喚できない。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  ROTA-JP018; Rage of the Abyss; 
+  ROTA-JP018; Rage of the Abyss; Common
   | mentions              = Mermail Shadow Bodyguards
   | supports              = WATER
   | archseries            = 
@@ -53,7 +53,6 @@ wikitext: |-
   * Archetype condition
   * Requires control of specific Attribute
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20494
   | tcg_status            = Not yet released
   }}

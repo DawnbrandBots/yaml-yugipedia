@@ -15,13 +15,13 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 
   | sc_pinyin_name        = 
-  | image                 = EriatheWaterChanneler-ROTA-JP-OP.png
+  | image                 = EriatheWaterChanneler-ROTA-JP-UR.png
   | attribute             = WATER
   | types                 = Spellcaster / Effect
   | level                 = 5
   | atk                   = 1850
   | def                   = 1500
-  | password              = 
+  | password              = 15746348
   | effect_types          = Condition, Ignition, Trigger, Condition
   | lore                  = (This card is always treated as a "[[Charmer]]" card.)<br />You can [[discard]] this card and 1 other [[WATER]] [[monster]]; [[Add a card|add]] 1 WATER monster from your [[Main Deck|Deck]] to your [[hand]] with an equal or higher [[Level]] than the other discarded monster, also you cannot [[activate]] non-WATER monster [[effect]]s for the rest of this [[turn]]. When your WATER monster is [[destroyed by battle]]: You can [[Special Summon]] this card from your hand. You can only use each effect of "Eria the Water Channeler" [[once per turn]].
   | fr_lore               = 
@@ -29,7 +29,7 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名はルール上「霊使い」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札からこのカードと水属性モンスター１体を捨てて発動できる。このカード以外の捨てたモンスターのレベル以上のレベルを持つ水属性モンスター１体をデッキから手札に加える。この効果の発動後、ターン終了時まで自分は水属性以外のモンスターの効果を発動できない。②：自分の水属性モンスターが戦闘で破壊された時に発動できる。このカードを手札から特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
@@ -47,7 +47,6 @@ wikitext: |-
   | m/s/t                 = Prevents activation of your Effect Monsters
   | summoning             = Special Summons itself from your hand
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20499
   | tcg_status            = Not yet released
   }}

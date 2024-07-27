@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = LacrimatheScarletSorrow-ROTA-JP-OP.png
+  | image               = LacrimatheScarletSorrow-ROTA-JP-SR.png
   | attribute           = LIGHT
   | types               = Fiend / Effect
   | level               = 4
   | atk                 = 1200
   | def                 = 1200
-  | password            = 
+  | password            = 28803166
   | effect_types        = Condition, Trigger, Quick, Condition
   | lore                = (This card is always treated as a "[[Fiendsmith]]" card.)<br />If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[send]] 1 "Fiendsmith" card from your [[Main Deck|Deck]] to the [[GY]], except "Lacrima the Scarlet Sorrow". During your opponent's [[turn]], if this card is in your GY ([[Quick Effect]]): You can [[target]] 1 "Fiendsmith" [[Link Monster]] in your GY; [[shuffle]] this card into the Deck, and if you do, Special Summon that monster. You can only use each effect of "Lacrima the Scarlet Sorrow" [[once per turn]].
   | fr_lore             = 
@@ -28,11 +28,12 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名はルール上「デモンスミス」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「紅涙の魔ラクリモーサ」以外の「デモンスミス」カード１枚を墓地へ送る。②：相手ターンに、このカードが墓地に存在する場合、自分の墓地の「デモンスミス」Ｌモンスター１体を対象として発動できる。このカードをデッキに戻し、対象のモンスターを特殊召喚する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  ROTA-JP014; Rage of the Abyss; 
+  ROTA-JP014; Rage of the Abyss; Super Rare, Secret Rare, Quarter Century Secret Rare
+  ROTA-JP014; Rage of the Abyss +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | mentions            = Lacrima the Scarlet Sorrow
   | supports            = Link Monster
   | archseries          = Fiendsmith
@@ -47,7 +48,6 @@ wikitext: |-
   | misc                = 
   * Archetype condition
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20490
   | tcg_status          = Not yet released
   }}
