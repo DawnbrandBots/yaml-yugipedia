@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = ApproachingMachine-ROTA-JP-OP.png
+  | image               = ApproachingMachine-ROTA-JP-C.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 94661166
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = [[Add]] 1 [[monster]] that [[mentions]] "[[Enhanced Metalmorph]]" OR 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. If you [[control]] a "Metalmorph" Trap: You can [[banish]] this card from your GY, then [[target]] 1 opponent's [[Defense Position]] monster; change it to [[Attack Position]]. You can only use this [[effect]] of "Approaching Machine" [[once per turn]].
   | fr_lore             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の②の効果は１ターンに１度しか使用できない。①：「メタル化・強化反射装甲」のカード名が記されたモンスター１体か「メタル化」罠カード１枚を自分のデッキ・墓地から手札に加える。②：自分フィールドに「メタル化」罠カードが存在する場合、墓地のこのカードを除外し、相手フィールドの守備表示モンスター１体を対象として発動できる。そのモンスターを表側攻撃表示にする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  ROTA-JP050; Rage of the Abyss; 
+  ROTA-JP050; Rage of the Abyss; Common
   | mentions            = Enhanced Metalmorph
   | supports_archetypes = Metalmorph (archetype)
   | action              = 
@@ -42,7 +42,6 @@ wikitext: |-
   * Mentions
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20526
   | tcg_status          = Not yet released
   }}

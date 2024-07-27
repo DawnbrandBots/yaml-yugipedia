@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = AzaminaHamartia-ROTA-JP-OP.png
+  | image               = AzaminaHamartia-ROTA-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 42201897
   | effect_types        = Effect, Quick-like, Condition
   | lore                = [[Reveal]] 1 "[[Azamina]]" [[Fusion Monster]] in your [[Extra Deck]] and [[shuffle]] 1 "[[Sinful Spoils]]" card from your [[GY]] and/or [[banishment]] into the [[Deck]] for every 4 [[Level]]s the revealed [[monster]] has, then [[Special Summon]] it. (This is treated as a [[Fusion Summon]].) You can [[banish]] this card from your GY, then [[target]] 1 "Sinful Spoils" [[Spell]]/[[Trap]] in your GY; [[Set]] it, but it cannot be [[activate]]d this [[turn]]. You can only use 1 "Azamina Hamartia" [[effect]] per turn, and [[Once per turn|only once that turn]].
   | fr_lore             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：ＥＸデッキの「アザミナ」融合モンスター１体を相手に見せ、そのレベル４につき１枚、自分の墓地・除外状態の「罪宝」カードをデッキに戻す。その後、見せたモンスターを融合召喚扱いで特殊召喚する。②：墓地のこのカードを除外し、自分の墓地の「罪宝」魔法・罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  ROTA-JP073; Rage of the Abyss; 
+  ROTA-JP073; Rage of the Abyss; Common
   | supports            = Fusion Monster
   | archseries          = Azamina
   | supports_archetypes = 
@@ -50,7 +50,6 @@ wikitext: |-
   * Treats Special Summon as Fusion Summon
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only 1 effect once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20549
   | tcg_status          = Not yet released
   }}

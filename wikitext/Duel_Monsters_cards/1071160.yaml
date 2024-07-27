@@ -15,10 +15,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = DominusImpulse-ROTA-JP-OP.png
+  | image               = DominusImpulse-ROTA-JP-SR.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 40366667
   | effect_types        = Condition, Effect, Lingering, Condition
   | lore                = If your opponent [[control]]s a card, you can [[activate]] this card from your [[hand]]. When a card or [[effect]] is activated that includes an [[effect]] that Special Summons a monster(s): [[Negate]] that effect, then if you have a [[Trap]] in your [[GY]], [[destroy]] that card. If you activated this card from your hand, you cannot activate the effects of [[LIGHT]], [[EARTH]], and [[WIND]] monsters for the rest of this Duel. You can only activate 1 "Dominus Impulse" per [[turn]].
   | fr_lore             = 
@@ -26,11 +26,12 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名のカードは１ターンに１枚しか発動できない。相手フィールドにカードが存在する場合、このカードの発動は手札からもできる。①：モンスターを特殊召喚する効果を含む、魔法・罠・モンスターの効果が発動した時に発動できる。その効果を無効にする。自分の墓地に罠カードが存在する場合、さらにその無効にしたカードを破壊する。このカードを手札から発動した場合、発動後、このデュエル中に自分は光・地・風属性モンスターの効果を発動できない。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  ROTA-JP079; Rage of the Abyss; 
+  ROTA-JP079; Rage of the Abyss; Super Rare, Secret Rare, Quarter Century Secret Rare
+  ROTA-JP079; Rage of the Abyss +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | anti-supports         = 
   * LIGHT
   * EARTH
@@ -45,7 +46,6 @@ wikitext: |-
   * Destroys Trap Cards
   * Prevents activation of your Effect Monsters
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20555
   | tcg_status          = Not yet released
   }}

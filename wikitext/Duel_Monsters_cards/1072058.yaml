@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ArmamentSwarm-ROTA-JP-OP.png
+  | image                 = ArmamentSwarm-ROTA-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 21056275
   | effect_types          = Effect, Lingering, Trigger-like, Condition
   | lore                  = [[Special Summon]] 1 [[Insect]] [[monster]] with 1000 or less [[ATK]] from your [[hand]] or [[Main Deck|Deck]], and if you Special Summon it from the Deck, [[send]] 1 monster you [[control]] to the [[GY]]. You cannot Special Summon for the rest of this [[turn]] after this card [[resolve]]s, except Insect monsters. If a face-up Insect [[Synchro Monster]](s) you control is [[destroyed by battle]] or [[card effect]] while this card is in your GY: You can [[banish]] this card; [[add]] 1 "[[Summoning Swarm]]" from your Deck to your hand. You can only [[activate]] 1 "Armament Swarm" [[Once per turn|per turn]].
   | fr_lore               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：手札・デッキから攻撃力１０００以下の昆虫族モンスター１体を特殊召喚する。この効果でデッキから特殊召喚した場合、さらに自分フィールドのモンスター１体を墓地へ送る。このカードの発動後、ターン終了時まで自分は昆虫族モンスターしか特殊召喚できない。②：このカードが墓地に存在する状態で、自分フィールドの表側表示の昆虫族Ｓモンスターが戦闘・効果で破壊された場合、このカードを除外して発動できる。デッキから「一斉蜂起」１枚を手札に加える。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  ROTA-JP051; Rage of the Abyss; 
+  ROTA-JP051; Rage of the Abyss; Common
   | mentions              = Summoning Swarm
   | supports              = 
   * Insect
@@ -47,7 +47,6 @@ wikitext: |-
   * Restricts the player's Special Summons to Type specific monsters
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20527
   | tcg_status            = Not yet released
   }}

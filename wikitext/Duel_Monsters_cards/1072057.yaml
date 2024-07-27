@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = BattlewaspWind-ROTA-JP-OP.png
+  | image                 = BattlewaspWind-ROTA-JP-C.png
   | card_type             = Spell
   | property              = Continuous
-  | password              = 
+  | password              = 67441879
   | effect_types          = Trigger-like, Ignition-like, Condition
   | lore                  = Up to twice per [[turn]], if a "[[Battlewasp]]" [[monster]](s) is [[Normal Summon|Normal]] or [[Special Summon]]ed to your [[field]] (except during the [[Damage Step]]): You can [[target]] 1 of them; [[add]] 1 "Battlewasp" monster with less [[ATK]] from your [[Main Deck|Deck]] to your [[hand]]. [[Once per turn]]: You can target 1 [[Insect]] monster you control that has a [[Level]]; if you use it as [[Synchro Material]] this turn, you can treat it as a [[Tuner]]. You can only activate 1 "Battlewasp - Wind" per turn.
   | fr_lore               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：１ターンに２度まで、自分フィールドに「Ｂ・Ｆ」モンスターが召喚・特殊召喚された場合、その内の１体を対象として発動できる。そのモンスターより攻撃力が低い「Ｂ・Ｆ」モンスター１体をデッキから手札に加える。②：１ターンに１度、自分フィールドのレベルを持つ昆虫族モンスター１体を対象として発動できる。このターン、自分は対象のモンスターをＳ素材とする場合、チューナーとして扱う事ができる。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  ROTA-JP052; Rage of the Abyss; 
+  ROTA-JP052; Rage of the Abyss; Common
   | supports              = Insect
   | archseries            = Battlewasp
   | supports_archetypes   = Battlewasp
@@ -43,7 +43,6 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Type
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20528
   | tcg_status            = Not yet released
   }}
