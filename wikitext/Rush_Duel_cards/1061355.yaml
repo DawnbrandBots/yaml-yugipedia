@@ -3,35 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|天|てん}}{{Ruby|堂|どう}}{{Ruby|始|し}}{{Ruby|終|じゅう}}の{{Ruby|面|めん}}{{Ruby|妖|よう}}{{Ruby|姫|き}}
-  | romaji_name      = Tendōshijū no Men'yōki
-  | trans_name       = Strange Beautiful Specter of Heaven's Eternity
-  | image            = SpectressofHeavensEternity-OW.png
-  | attribute        = ???
-  | types            = Zombie / Fusion / Effect
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | fusion_material  = 
-  * The Strange Specter of Celestial Starts
+  | ja_name                = {{Ruby|天|てん}}{{Ruby|堂|どう}}{{Ruby|始|し}}{{Ruby|終|じゅう}}の{{Ruby|面|めん}}{{Ruby|妖|よう}}{{Ruby|姫|き}}
+  | romaji_name            = Tendōshijū no Men'yōki
+  | trans_name             = Strange Beautiful Specter of Heaven's Eternity
+  | image                  = SpectressofHeavensEternity-RDKP18-JP-OP.png
+  | attribute              = LIGHT
+  | types                  = Zombie / Fusion / Effect
+  | level                  = 6
+  | atk                    = 1700
+  | def                    = 0
+  | fusion_material        = 
+  * Specter of Heaven's Beginning
   * Specter of Heaven's End
-  | materials        = "[[The Strange Specter of Celestial Starts]]" + "[[Specter of Heaven's End]]"
-  | requirement      = TBA
-  | lore             = TBA
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP18-JP0??; Dark Matter of Phantoms; Super Rare, Secret Rare
-  | mentions         = 
-  * The Strange Specter of Celestial Starts
+  | effect_types           = Continuous
+  | materials              = "[[Specter of Heaven's Beginning]]" + "[[Specter of Heaven's End]]"
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
+  | requirement            = None
+  | lore                   = This card can attack directly. You take no [[battle damage]] from [[battle]]s involving this card.
+  | ja_materials           = 
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP18-JP049; Dark Matter of Phantoms; Super Rare, Secret Rare
+  | mentions               = 
+  * Specter of Heaven's Beginning
   * Specter of Heaven's End
-  | action           = Returns Fusion Materials for Contact Fusion to Deck
-  | summoning        = 
+  | action                 = Returns Fusion Materials for Contact Fusion to Deck
+  | summoning              = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
