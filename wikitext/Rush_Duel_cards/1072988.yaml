@@ -11,10 +11,10 @@ wikitext: |-
   | level            = 9
   | atk              = 3000
   | def              = 200
+  | effect_types     = Continuous
   | fusion_material  = 
   * Cat Claw Girl
   * Dark-Eyes Breakstar Cat
-  | effect_types     = Continuous
   | materials        = "[[Cat Claw Girl]]" + "[[Dark-Eyes Breakstar Cat]]"
   | requirement      = None
   | lore             = This card gains [[ATK]] equal to [the number of [[Defense Position]] [[Monster Card|monster]]s on your opponent's [[field]]] x 800, and if it [[attack]]s a [[Defense Position]] monster, [[Damage|inflict]] [[piercing]] [[battle damage]] (if the ATK of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
