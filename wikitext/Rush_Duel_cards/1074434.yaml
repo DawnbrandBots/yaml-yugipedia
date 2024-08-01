@@ -12,15 +12,22 @@ wikitext: |-
   | atk                    = 1000
   | def                    = 1300
   | effect_types           = Continuous
-  | summoning_condition    = If you have 5 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | summoning_condition    = If you have 5 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement            = None
-  | lore                   = If you have a [[face-down]] monster on your field, [[Attack Position]] DARK Attribute Galaxy Type monsters on your field cannot be [[destroy]]ed by your opponent's monsters' [[attack]]s, and they gain [[ATK]] equal to [the number of cards in your [[hand]]] x 300.
+  | lore                   = If you have a [[face-down]] monster on your field, [[Attack Position]] DARK Attribute Galaxy Type monsters on your field cannot be [[destroy]]ed by your opponent's monsters' [[attack]]s, and they gain [[ATK]] equal to [the number of cards in your hand] x 300.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP18-JP004; Dark Matter of Phantoms; Common
+  | supports               = 
+  * DARK
+  * Galaxy (Type)
   | archseries             = Dark Matter (series)
+  | stat_change            = Your monsters gain ATK
+  | summoning              = Special Summons itself from your hand
+  | attack                 = Cannot be destroyed by battle
+  | fm_for                 = Dark Matter Enigmight Geodiver
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
