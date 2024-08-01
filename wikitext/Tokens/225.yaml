@@ -3,7 +3,7 @@ wikitext: |-
   {{Rename|Token|No article on [[Token]] and for the card is on [[Token (card)]]. When a card or rulings refer to "Token", they refer to what is described in this page.}}
 
   {{For|the card|Token (card)|the Tip Card|""Monster Tokens"" (Tip Card)}}
-  {{Show card image|Primal Being Token|"[[Primal Being Token]]", a Token.|align=right}}
+  {{Show card image|Primal Being Token|The card for "[[Primal Being Token]]", a Token Special Summoned by "[[Nibiru, the Primal Being]]".|align=right}}
   '''Tokens''' (Japanese: トークン ''Tōkun'') are a type of [[Monster Card|monster]] that can only be created by card [[effect]]s, certain [[Summoning condition]]s, or [[Skill]]s. They are not included in the [[Main Deck|Main]] or [[Extra Deck]], as stated as [[limitation text]] on each card.
 
   In the ''[[Yu-Gi-Oh! Trading Card Game|TCG]]'' and ''[[Yu-Gi-Oh! Official Card Game|OCG]]'', a Monster Token can be represented by an official, grey-colored Token card, but can also be represented by any object that can unambiguously indicate its own battle position. These can include proxy cards, coins (Heads is treated as [[Attack Position]] and Tails is treated as [[Defense Position]]), or a die.
@@ -14,22 +14,22 @@ wikitext: |-
   The [[owner]] of a Token is the player who [[Special Summon]]ed it. For example, "[[Owner's Seal]]" will change control of "[[Ojama Token]]s" Special Summoned by the effect of "[[Ojama Trio]]" to the player who activated "Ojama Trio".
 
   === Summoning Tokens ===
-  Tokens can only be [[Special Summon]]ed by card effects, or [[Skill Card]]s, that specifically [[Mentions|mention]] their names. Due to this, if a Token becomes treated as a [[Spell Card]] by a card effect (e.g. "[[The Grand Jupiter]]" or "[[Sinful Spoils of Subversion - Snake-Eye]]"), it cannot be Special Summoned back from the [[Spell & Trap Zone]].
+  Tokens can only be [[Special Summon]]ed by card effects, or [[Skill Card]]s, that specifically [[mention]] their names. As such, Tokens that became treated as Spell/Trap Cards by a card effect (e.g. "[[Sinful Spoils of Subversion - Snake-Eye]]") cannot be Special Summoned back from the [[Spell & Trap Zone]].
 
-  As Tokens cannot be Normal Summoned or Set, they are considered [[Special Summon Monster]]s.
+  As Tokens cannot be Normal Summoned or Set (since they can't be in the hand), they are considered [[Special Summon Monster]]s.
 
   === Can only exist on the field ===
-  Tokens can only exist on the [[field]], and cannot exist anywhere else. They cannot be [[attach]]ed as [[Xyz Material]], because Xyz Materials [[attach]]ed to an [[Xyz Monster]] are not considered to be on the field; consequently, they cannot be used as Xyz Material for an [[Xyz Summon]] or be [[target]]ed or affected by effects that would attach them to an Xyz Monster (e.g. "[[Number 101: Silent Honor ARK]]").
+  Tokens can only exist on the [[field]], and not anywhere else. They cannot be [[attach]]ed as [[Xyz Material]], because Xyz Materials [[attach]]ed to an [[Xyz Monster]] are not considered to be on the field; consequently, they cannot be used as Xyz Material for an [[Xyz Summon]] or be [[target]]ed or affected by effects that would attach them to an Xyz Monster (e.g. "[[Number 101: Silent Honor ARK]]").
 
   === Can only exist face-up ===
-  Tokens can only exist [[face-up]], and cannot exist [[face-down]]. Thus, they cannot be [[target]]ed by, and are unaffected by, effects that would [[flip]] them face-down (e.g. "[[Book of Moon]]", "[[Swords of Concealing Light]]"). If an [[Attack Position]] Token would be affected by a card that would change it to face-down [[Defense Position]], such as "[[Swords of Concealing Light]]", its [[battle position]] is not changed.
+  Tokens can only exist [[face-up]], and not [[face-down]]. Thus, they cannot be [[target]]ed by, and are unaffected by, effects that would [[flip]] them face-down (e.g. "[[Book of Moon]]", "[[Swords of Concealing Light]]"). If an [[Attack Position]] Token would be affected by a card that would change it to face-down [[Defense Position]], such as "[[Swords of Concealing Light]]", its [[battle position]] is not changed.
 
   Tokens cannot be banished face-down, and are unaffected by card effects that would do so.
 
   === Leaving the field ===
-  If a Token would [[leave the field]] (i.e. it would be moved to the [[hand]], [[Main Deck]], or [[Graveyard]], or is [[banish]]ed), it is removed from the game entirely. They are not considered to have been moved from the field to any other location.
+  If a Token would [[leave the field]] (i.e. it would be moved to the [[hand]], [[Main Deck]], or [[Graveyard]], or is [[banish]]ed), it ceases to exist entirely. They are not considered to have been moved to any other location. This also applies to Tokens that are [[Banish#Temporarily banished|temporarily banish]]ed, and as such will not return to the field at the time specified by the effect.
 
-  Tokens can be moved off the field to pay [[cost]]s or fulfill Summoning procedures, as long as the cost or Summoning procedure does not specify a destination other than the [[field]] for the cards needed to be moved. Banishing does not specify a destination, so a Token can be banished (except banished face-down) for a cost or Summoning procedure.
+  Tokens can be moved off the field to pay [[cost]]s or fulfill Summoning procedures, as long as the cost or procedure does not specify a destination outside the [[field]]. Banishing does not specify a destination, so a Token can be banished (as long as its not face-down) for a cost or Summoning procedure.
 
   Specific examples:
   * Tokens can be [[Tribute]]d for the Special Summon of "[[Destiny HERO - Plasma]]".
@@ -84,8 +84,8 @@ wikitext: |-
 
   == Example ==
   {{Show card image gallery
-  | Token                    | Generic [[Token (card)|Token]]
-  | Synthetic Seraphim Token | [[Synthetic Seraphim Token]]
+  | Token (card)             | Generic [[Token (card)|Token]]
+  | Synthetic Seraphim Token | "[[Synthetic Seraphim Token]]"
   | Emperor's Key (card)     | Token/Counter Card
   }}
 
@@ -122,14 +122,15 @@ wikitext: |-
   | ja_romaji = Tōkun
   | fr_name   = Jeton
   | de_name   = Spielmarke
-  | it_name   = Segna
+  | it_name   = Segna-Mostro
+  | it_trans  = Monster Token
   | ko_name   = 토큰
   | ko_rr     = Tokeun
   | es_name   = Ficha
   | zh_name   = 衍生物
   | zh_pinyin = Yǎnshēngwù
   | zh_trans  = Derivative
-  | pt_name   = Ficha (formerly Token)
+  | pt_name   = Ficha
   }}
 
   == See also ==
