@@ -315,21 +315,15 @@ wikitext: |-
 
   All of the original "Number" monsters have been released as cards in the ''OCG''/''OCG''.
   {| class="wikitable" style="width: 100%; text-align:center"
-  ! rowspan="2" | Number
-  ! rowspan="2" style="width: 100px" | Symbol
-  ! rowspan="2" | Monster
-  ! rowspan="2" style="width: 100px" | Neutral form
-  ! colspan="2" | Owner(s)
-  ! rowspan="2" | Number location
+  ! rowspan=2 | Number
+  ! rowspan=2 style="width: 100px" | Symbol
+  ! rowspan=2 | Monster
+  ! rowspan=2 style="width: 100px" | Neutral form
+  ! colspan=2 | Owner(s)
+  ! rowspan=2 | Number location
   |-
   ! Anime
   ! Manga
-  |-
-  <!------------------------------------------------------------------------------------
-  | #  || Monster Name
-  | Number location   || Previous owner || Current owner
-  | Neutral form
-  ------------------------------------------------------------------------------------->
   |-
   | 1
   | [[File:No.1.png|100px|center|01]]
@@ -1140,6 +1134,10 @@ wikitext: |-
   {{main|Evolving Numbers}}
   Evolving "Numbers" are a group of special "Number" cards that remain [[Blank card|blank]] until the user decides to molde them to face a specific threat. They are still part of the original 100 "Numbers" of the [[Emperor's Key]] (with the exception of "[[No. S0: Hope ZEXAL (manga)|No. S0: Hope ZEXAL]]").
 
+  === Barian Numbers ===
+  {{main|Barian Number}}
+  These "Numbers" are creations of [[Don Thousand]] and a different series aside from the originals. All of them were produced and contained in the [[Fusionizer]]s.
+
   === Number 10X (Over-Hundred Number) ===
   {{main|Number 10X}}
   "Number 10X" (read as ''Over-Hundred Numbers'') are the signature "Number" cards of the [[Seven Barian Emperors]], whose numbering go over the limit of 100. They were created by [[Don Thousand]] to suppress the Emperors' memories of their past lives as humans.
@@ -1154,7 +1152,7 @@ wikitext: |-
   ! No.
   ! Symbol
   ! Monster
-  ! Base [[Utopia (archetype)|Utopia]]
+  ! Base "Number"
   ! [[Zexal Weapon]]
   ! Union [[Type]]
   ! Neutral form
@@ -1193,26 +1191,9 @@ wikitext: |-
   {{main|Number S}}
   "Number S" monsters (read as ''Shining Number'') are upgraded versions of the base "Numbers", which are Summoned by [[Xyz Material|overlaying]] their base counterpart through [[Xyz Evolution#Shining Xyz Evolution|Shining Xyz Evolution]]. This evolution only exists in the manga, and can be considered the manga's counterpart of Chaos Xyz Evolution.
 
-  === Rank-Down Numbers ===
-  These are "Number" monsters that are downgraded versions of regular "Numbers", which are Summoned by [[Xyz Material|overlaying]] their base counterpart through [[Xyz Evolution#Rank-Down Xyz De-Evolution|Rank-Down Xyz De-Evolution]]. They do not have a prefix as seen in other "Number" [[Card evolutions|evolutions]] ("[[Xyz Evolution#Chaos Xyz Evolution|C]]" and "[[Xyz Evolution#Shining Xyz Evolution|S]]"). They are Summoned via "[[Rank-Down-Magic Numeron Fall (anime)|Rank-Down-Magic Numeron Fall]]" or "[[Rank-Down-Magic Utopia Fall]]".
-  {| class="wikitable" style="width: 100%; text-align:center"
-  |-
-  ! No.
-  ! Symbol
-  ! Monster
-  ! Base Number
-  ! Neutral form
-  ! Owner(s)
-  ! Number location
-  |-
-  | 39
-  | [[File:No.39Roots.png|100px|center|39]]
-  | [[Number 39: Utopia Roots|Utopia Roots]]
-  | [[Number 39: Utopia|Utopia]]
-  | [[File:Number39UtopiaRoots-JP-Anime-ZX-Sealed.png|100px|center]]
-  | [[Yuma Tsukumo]]<br />'''[[Astral]]'''
-  | Left shoulder plate
-  |}
+  === Number F (Future Number) ===
+  {{main|Number F}}
+  These "Numbers" are born from [[Yuma Tsukumo]]'s own power and belief in the future. "[[Number F0: Utopic Future]]" first appeared during his final Duel with [[Astral]].
 
   === Rank-Up Numbers ===
   These are "Number" monsters that are upgraded versions of regular "Numbers", which are Summoned by [[Xyz Material|overlaying]] their base counterpart through [[Xyz Evolution#Rank-Up Xyz Evolution|Rank-Up Xyz Evolution]]. Unlike other upgraded forms, these "Numbers" don't have a prefix ("[[Xyz Evolution#Chaos Xyz Evolution|C]]" and "[[Xyz Evolution#Shining Xyz Evolution|S]]"). They are Summoned using the effect of "[[Rank-Up-Magic Astral Force (anime)|Rank-Up-Magic Astral Force]]" or "[[Hyper Rank-Up-Magic Utopiforce]]".
@@ -1221,7 +1202,7 @@ wikitext: |-
   ! No.
   ! Symbol
   ! Monster
-  ! Base Number
+  ! Base "Number"
   ! Neutral form
   ! Owner(s)
   ! Number location
@@ -1246,14 +1227,35 @@ wikitext: |-
   | [[Rank-Up#Hyper Rank-Up|Hyper Rank-Up]]
   |}
 
-  === "Utopia's" retrained counterparts ===
+  === Rank-Down Numbers ===
+  These are "Number" monsters that are downgraded versions of regular "Numbers", which are Summoned by [[Xyz Material|overlaying]] their base counterpart through [[Xyz Evolution#Rank-Down Xyz De-Evolution|Rank-Down Xyz De-Evolution]]. They do not have a prefix as seen in other "Number" [[Card evolutions|evolutions]] ("[[Xyz Evolution#Chaos Xyz Evolution|C]]" and "[[Xyz Evolution#Shining Xyz Evolution|S]]"). They are Summoned via "[[Rank-Down-Magic Numeron Fall (anime)|Rank-Down-Magic Numeron Fall]]" or "[[Rank-Down-Magic Utopia Fall]]".
+  {| class="wikitable" style="width: 100%; text-align:center"
+  |-
+  ! No.
+  ! Symbol
+  ! Monster
+  ! Base "Number"
+  ! Neutral form
+  ! Owner(s)
+  ! Number location
+  |-
+  | 39
+  | [[File:No.39Roots.png|100px|center|39]]
+  | [[Number 39: Utopia Roots|Utopia Roots]]
+  | [[Number 39: Utopia|Utopia]]
+  | [[File:Number39UtopiaRoots-JP-Anime-ZX-Sealed.png|100px|center]]
+  | [[Yuma Tsukumo]]<br />'''[[Astral]]'''
+  | Left shoulder plate
+  |}
+
+  === "Utopia" retrains ===
   These are "Number" monsters that are [[retrained]] [[counterpart]]s of "[[Number 39: Utopia]]". They are based on scenes from the ''[[Yu-Gi-Oh! ZEXAL]]'' anime.
   {| class= wikitable style="width: 100%; text-align:center"
   |-
   ! No.
   ! Symbol
   ! Monster
-  ! Base Number
+  ! Base "Number"
   ! Neutral form
   ! Owner(s)
   ! Number location
@@ -1274,19 +1276,11 @@ wikitext: |-
   | Left shoulder plate
   |}
 
-  === Barian Numbers ===
-  {{main|Barian Number}}
-  These "Numbers" are creations of [[Don Thousand]] and a different series aside from the originals. All of them were produced and contained in the [[Fusionizer]]s.
-
-  === Number F (Future Number) ===
-  {{main|Number F}}
-  These "Numbers" are born from [[Yuma Tsukumo|Yuma]]'s own power and belief in the future. "[[Number F0: Utopic Future]]" first appeared during his final Duel with [[Astral]].
-
   === Number XX (Double X) ===
   This "Number" was used by [[Eve]] in the ''[[Yu-Gi-Oh! ARC-V (manga)|Yu-Gi-Oh! ARC-V]]'' manga during her [[Duel]] with [[Yuya Sakaki (manga)|Yuya Sakaki]]. Yuya recognized it as a "Number", calling it a "legend-class Duel Monster". Eve claimed to have acquired it by traveling through space and time. The two "X" symbols on this monster's body are [[Barian glyphs]], implying that this monster comes from the [[Barian World]].
   {| class="wikitable" style="width: 100%; text-align:center"
   |-
-  !No.
+  ! No.
   ! Symbol
   ! Monster
   ! Neutral form
