@@ -32,9 +32,23 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   DBCB-JP033; Deck Build Pack: Crossover Breakers; 
-  | mentions            = Apodrakosis Ascension Gate of Wyrmhaze
+  | mentions            = 
+  * Apodrakosis Ascension Gate of Wyrmhaze
+  * Baba, Champion Apodrakosis of Wyrmhaze
   | archseries          = Apodrakosis
   | supports_archetypes = Apodrakosis
+  | action              = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Activates if other cards are banished
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  | summoning           = Special Summons itself while banished
+  | banished            = Banishes itself from hand for cost
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
