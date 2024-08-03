@@ -11,12 +11,16 @@ wikitext: |-
   | level            = 1
   | atk              = 100
   | def              = 1000
-  | requirement      = If your opponent has 2 or more [[monsters]] on their [[field]], [[send]] this [[face-up]] card from your field to the [[Graveyard]].
+  | requirement      = If your opponent has 2 or more [[Monster Card|monster]]s on their [[field]], [[send]] this [[face-up]] card from your field to the [[Graveyard]].
   | lore             = 1 face-up [[Level]] 7 or higher monster on your opponent's field loses 1000 [[ATK]]/[[DEF]] until the end of this [[turn]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP032; Dark Matter of Phantoms; Rare
+  | action           = Sends itself from field to Graveyard for cost
+  | stat_change      = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
