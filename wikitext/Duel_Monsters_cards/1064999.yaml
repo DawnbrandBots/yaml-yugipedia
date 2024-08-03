@@ -23,6 +23,7 @@ wikitext: |-
   | def                   = 2500
   | pendulum_scale        = 0
   | password              = 
+  | ritualcard            = Guangba, Luminous Apodrakosis of Starforge
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Condition, Trigger
   | pendulum_effect       = During your [[Main Phase]]: You can [[Add a card|add]] 1 "[[Apodrakosis]]" card from your [[Main Deck|Deck]] to your [[hand]], except a [[Pendulum Monster]], then [[destroy]] this card. You can only use this [[effect]] of "Guangba, Luminous Apodrakosis of Starforge" [[once per turn]].
@@ -48,8 +49,31 @@ wikitext: |-
   | sc_sets               = 
   DB??-SC0??; Deck Build Pack: Crossover Breakers; 
   | mentions              = Guangba, Luminous Apodrakosis of Starforge
+  | supports              = Continuous Spell Card
   | archseries            = Apodrakosis
   | supports_archetypes   = Apodrakosis
+  | action                = 
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Extra Deck
+  * Tributes as an effect
+  * Places cards from Deck in Spell & Trap Zone
+  | m/s/t                 = 
+  * Destroys itself
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | summoning             = 
+  * Nomi
+  * Must be Special Summoned by a specific card effect
+  * Special Summon once per turn
+  * Special Summons itself from your Extra Deck
+  * Treats Special Summon as Ritual Summon
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Level
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

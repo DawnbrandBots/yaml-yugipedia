@@ -29,8 +29,21 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   DBCB-JP035; Deck Build Pack: Crossover Breakers; 
+  | supports              = Pendulum Monster
   | archseries            = Apodrakosis
   | supports_archetypes   = Apodrakosis
+  | action                = 
+  * Adds from Deck to hand
+  * Adds from hand to Extra Deck
+  * Activates from your Graveyard
+  | summoning             = Special Summons from your Deck
+  | banished              = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only 1 effect once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
