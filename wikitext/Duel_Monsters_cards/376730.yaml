@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 800
   | password              = 56132807
   | effect_types          = Trigger, Trigger
-  | lore                  = [[Once per turn]], if this card is [[target]]ed for an [[attack]]: You can [[Special Summon]] 1 [[Level]] 5 or lower [[Spellcaster]]-[[Type]] [[Monster Card|monster]] from your [[hand]], then change the attack target to it, and if you do, the attacking monster's [[ATK]] becomes half its current ATK. If this card is [[destroyed by battle]] or card [[effect]]: You can target up to 3 other "[[Magician Girl]]" monsters with different names in your [[Graveyard]]; [[Add a card|add]] them to your hand.
+  | lore                  = [[Once per turn]], if this card is [[target]]ed for an [[attack]]: You can [[Special Summon]] 1 [[Level]] 5 or lower [[Spellcaster]]-[[Type]] [[Monster Card|monster]] from your [[hand]], then change the [[attack target]] to it, and if you do, the attacking monster's [[ATK]] becomes half its current ATK. If this card is [[destroyed by battle]] or card [[effect]]: You can target up to 3 other "[[Magician Girl]]" monsters with different names in your [[Graveyard]]; [[Add a card|add]] them to your hand.
   | fr_lore                  = Une fois par tour, si cette carte est ciblée par une attaque : vous pouvez Invoquer Spécialement 1 monstre de Type Magicien de max. Niveau 5 depuis votre main, puis transférez la cible de l'attaque sur celui-ci, et si vous le faites, l'ATK du monstre attaquant devient la moitié de son ATK actuelle. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler max. 3 autres monstres "Magicienne des" de noms différents dans votre Cimetière ; ajoutez-les à votre main.
   | de_lore               = Einmal pro Spielzug, falls diese Karte als Angriffsziel gewählt wird: Du kannst 1 Monster vom Typ Hexer der Stufe 5 oder niedriger als Spezialbeschwörung von deiner Hand beschwören, dann ändere das Angriffsziel darauf und falls du dies tust, werden die ATK des angreifenden Monsters gleich der Hälfte seiner derzeitigen ATK. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst bis zu 3 andere „Magier-Mädchen“-Monster mit unterschiedlichen Namen in deinem Friedhof wählen; füge sie deiner Hand hinzu.
   | it_lore               = Una volta per turno, se questa carta viene scelta come bersaglio per un attacco: puoi Evocare Specialmente 1 mostro di Tipo Incantatore di Livello 5 o inferiore dalla tua mano, poi cambiare il bersaglio dell'attacco su di esso e, se lo fai, l'ATK del mostro attaccante diventa la meta del suo ATK attuale. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio fino a 3 altri mostri "Ragazza Maga" con nomi diversi nel tuo Cimitero; aggiungili alla tua mano.
@@ -61,7 +61,7 @@ wikitext: |-
   | archseries            = Magician Girl
   | supports_archetypes   = Magician Girl
   | action                = 
-  * Activates upon attack declaration
+  * Activates if targeted for an attack
   * Activates if destroyed by battle
   * Activates if destroyed by card effect
   * Adds from Graveyard to hand
