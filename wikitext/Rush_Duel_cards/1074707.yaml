@@ -12,11 +12,15 @@ wikitext: |-
   | atk              = 1000
   | def              = 1300
   | requirement      = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore             = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if your opponent has not taken [[effect damage]] this [[turn]], you can inflict 700 damage to your opponent.
+  | lore             = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if your opponent has not [[Damage|take]]n [[effect damage]] this [[turn]], you can inflict 700 damage to your opponent.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP035; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | life_points      = Damages your opponent
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

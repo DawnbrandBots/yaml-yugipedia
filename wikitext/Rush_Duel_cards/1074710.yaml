@@ -12,16 +12,23 @@ wikitext: |-
   | atk                    = 2400
   | def                    = 1600
   | effect_types           = Continuous
-  | summoning_condition    = If you have "[[Hybridrive Screwdriver]]" [[face-up]] on your [[field]], you can [[Normal Summon]] this card without Tributing.
+  | summoning_condition    = If you have "[[Hybridrive Screwdriver]]" [[face-up]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement            = None
-  | lore                   = If this card [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). If you have a face-up [[Dragon]] [[Type]] monster on your field, face-up Dragon Type and Machine Type monsters on your field cannot be destroyed by your opponent's card [[effect]]s.
+  | lore                   = If this card [[attack]]s a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). If you have a face-up [[Dragon]] [[Type]] monster on your field, face-up Dragon Type and [[Machine]] Type monsters on your field cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP18-JP008; Dark Matter of Phantoms; Rare
   | mentions               = Hybridrive Screwdriver
+  | supports               = 
+  * Dragon
+  * Machine
   | archseries             = Hybridrive
+  | m/s/t                  = Cannot be destroyed by card effects
+  | summoning              = Normal Summon without Tribute
+  | attack                 = Piercing
+  | misc                   = Requires control of specific card
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

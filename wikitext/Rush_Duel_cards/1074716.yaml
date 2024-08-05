@@ -11,13 +11,21 @@ wikitext: |-
   | level            = 3
   | atk              = 800
   | def              = 700
-  | requirement      = If you have a [[Machine]] [[Type]] [[monster]] in your [[Graveyard]], [[reveal]] 1 [[Level]] 7 or 8 [[Dragon]] [[Type]] monster in your [[hand]] to your opponent.
-  | lore             = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated monster with the same Level as [the Level of the monster revealed to meet the requirement] [[face-up]] to your [[field]]. Place the remaining cards on the bottom of your Deck in any order.
+  | requirement      = If you have a [[Machine]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]], [[reveal]] 1 [[Level]] 7 or 8 [[Dragon]] [[Type]] monster in your [[hand]] to your opponent.
+  | lore             = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated monster with the same Level as [the Level of the monster revealed to meet the [[Activation condition|requirement]]] [[face-up]] to your [[field]]. Place the remaining cards on the bottom of your Deck in any order.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/KP18-JP007; Dark Matter of Phantoms; Common
+  | supports         = 
+  * Machine
+  * Dragon
   | archseries       = Hybridrive
+  | action           = 
+  * Reveals your hand for cost
+  * Excavates from the player's Deck
+  * Places excavated cards on the bottom of the Deck
+  | summoning        = Special Summons excavated cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
