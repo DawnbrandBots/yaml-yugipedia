@@ -19,6 +19,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left
   | atk                   = 300
   | password              = 
+  | materials             = 1 Level 4 or lower Dragon of Spellcaster monster
   | effect_types          = Continuous, Condition, Trigger, Ignition
   | lore                  = 1 [[Level]] 4 or lower [[Dragon]] or [[Spellcaster]] [[monster]]<br />You cannot [[Special Summon]], except Dragon monsters. You can only use each of the following effects of "Spirit with Eyes of Blue" [[once per turn]]. If this card is [[Link Summon]]ed: You can take 1 "[[Mausoleum of White]]" from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[send]] it to the [[GY]]. You can [[Tribute]] this card; Special Summon 1 "[[Blue-Eyes]]" monster from your hand or [[GY]], but if you Special Summon an [[Effect Monster]] from the GY, it cannot [[attack]], also its [[effect]]s are [[negate]]d.
   | fr_lore               = 
@@ -32,8 +33,28 @@ wikitext: |-
   | jp_sets               = 
   SD47-JP034; Structure Deck: Advent of the Eyes of Blue; 
   | mentions              = Mausoleum of White
-  | archseries            = with Eyes of Blue
+  | supports              = 
+  * Dragon
+  * Spellcaster
+  | archseries            = 
+  * with Eyes of Blue
+  * Field Searcher
   | supports_archetypes   = Blue-Eyes
+  | action                = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  * Sends from your Deck to your Graveyard
+  * Tributes itself for cost
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * 1 Link Material
+  * Requires Level specific Link Materials
+  * Requires Type specific Link Materials
+  * Restricts the player's Special Summons to Type specific monsters
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | attack                = Prevents your monsters from attacking
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
