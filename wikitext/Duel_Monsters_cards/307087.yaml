@@ -50,6 +50,8 @@ wikitext: |-
   * Returns from your Graveyard to your Deck
   * Sends from hand to Graveyard
   * Adds from Deck to hand
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires control of no cards
+  * Only once per turn
   | database_id           = 10951
   }}
