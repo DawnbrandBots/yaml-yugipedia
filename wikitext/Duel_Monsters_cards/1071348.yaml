@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 2200
   | password            = 
   | effect_types        = Ignition, Ignition, Condition
-  | lore                = If a WATER Xyz Monster is on the field: You can Special Summon this card from your hand. During your Main Phase: You can detach 1 Xyz Material from a monster you control, then you can Special Summon 1 Level 3 or 4 WATER monster from your hand or GY, but its effects are negated, also if it is used for the Xyz Summon of a WATER monster this turn, it can be treated as a Level 5 monster. You can only use each effect of "Zereort Migrator" once per turn.
+  | lore                = If a [[WATER]] [[Xyz Monster]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. During your [[Main Phase]]: You can [[detach]] 1 [[Xyz Material]] from a [[monster]] you [[control]], then you can Special Summon 1 [[Level]] 3 or 4 WATER monster from your hand or [[GY]], but its [[effect]]s are [[negate]]d, also if it is used for the [[Xyz Summon]] of a WATER monster this turn, it can be treated as a Level 5 monster. You can only use each effect of "Zereort Migrator" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,6 +34,22 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   VJMP-JP260; V Jump October 2024 promotional card; Ultra Rare
+  | supports            = 
+  * WATER
+  * Xyz Monster
+  | anti-supports       = 
+  * WATER
+  * Xyz Monster
+  | action              = 
+  * Activates from your hand
+  * Detaches Xyz Materials for effect
+  | stat_change         = Treated as alternate Level
+  | m/s/t               = Negates the effects of the Summoned monsters
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
