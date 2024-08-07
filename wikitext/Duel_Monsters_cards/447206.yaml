@@ -14,7 +14,7 @@ wikitext: |-
   | property              = Normal
   | password              = 16832845
   | effect_types          = Activation requirement, Effect
-  | lore                  = If a [[Monster Card|monster]](s) with an original [[Level]] of 7 or higher is [[sent]] from each player's [[field]] to the [[Graveyard]] this [[turn]]: [[Banish]] as many monsters from the Graveyards as possible, then you can [[Special Summon]] the 1 highest-Level [[Spellcaster]]-[[Type]] monster among those banished monsters to your field (your choice, if tied).
+  | lore                  = If a [[Monster Card|monster]](s) with an original [[Level]] of 7 or higher is [[Send|sent]] from each player's [[field]] to the [[Graveyard]] this [[turn]]: [[Banish]] as many monsters from the Graveyards as possible, then you can [[Special Summon]] the 1 highest-Level [[Spellcaster]]-[[Type]] monster among those banished monsters to your field (your choice, if tied).
   | fr_lore               = Si un ou plusieurs monstres de min. Niveau 7 d'origine sont envoyés depuis le Terrain de chaque joueur au Cimetière ce tour : bannissez autant de monstres depuis les Cimetières que possible, puis vous pouvez Invoquer Spécialement le monstre de Type Magicien avec le plus haut Niveau parmi ces monstres bannis sur votre Terrain (en cas d'égalité, vous choisissez).
   | de_lore               = Falls ein oder mehr Monster mit Grund-Stufe 7 oder höher in diesem Spielzug von den Spielfeldseiten beider Spieler auf den Friedhof gelegt werden: Verbanne so viele Monster von den Friedhöfen wie möglich, dann kannst du das 1 Monster vom Typ Hexer mit der höchsten Stufe unter den verbannten Monstern als Spezialbeschwörung auf deine Spielfeldseite beschwören (bei Gleichstand bestimmst du eins).
   | it_lore               = Se uno o più mostri con Livello originale 7 o superiore vengono mandati dal Terreno di ogni giocatore al Cimitero in questo turno: bandisci tanti mostri dai Cimiteri quanti possibile, poi puoi Evocare Specialmente sul tuo Terreno 1 mostro di Tipo Incantatore con il Livello più alto tra quei mostri banditi (in caso di parità, scegli tu).
@@ -51,6 +51,7 @@ wikitext: |-
   | kr_sets               = 
   MVP1-KR029; Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack; Ultra Rare
   | supports              = Spellcaster
+  | anti-supports         = Spellcaster
   | summoning             = 
   * Special Summons the player's banished monsters
   * Special Summons the opponent's banished monsters to the player's field
