@@ -40,6 +40,21 @@ wikitext: |-
   DB??-SC0??; Deck Build Pack: Crossover Breakers; 
   | archseries          = M∀LICE
   | supports_archetypes = M∀LICE
+  | action              = 
+  * Returns the player's banished cards to the Deck
+  * Activation cannot be negated
+  * Effect that cannot be negated
+  * Activates while banished
+  | stat_change         = 
+  * Doubles ATK
+  * This card gains ATK
+  | summoning           = 
+  * 3 Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons itself while banished
+  | banished            = Banishes from field
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

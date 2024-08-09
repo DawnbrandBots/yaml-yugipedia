@@ -21,6 +21,7 @@ wikitext: |-
   | link_arrows         = Middle-Left, Bottom-Center, Middle-Right
   | atk                 = 2300
   | password            = 
+  | materials           = 2+ monsters, including a "M∀LICE" monster
   | effect_types        = Continuous, Condition, Trigger, Trigger
   | lore                = 2+ [[monsters]], including a "[[M∀LICE]]" monster<br />While this card points to a monster, switch the original ATK and DEF of all [[Effect Monster]]s your opponent [[control]]s. You can only use each of the following effects of "M∀LICE <QUEEN> RED RANSOM" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "M∀LICE" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[banish]]ed: You can pay 900 LP; Special Summon this card, then you can banish 1 Cyberse monster from your Deck.
   | fr_lore             = 
@@ -33,8 +34,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   DBCB-JP018; Deck Build Pack: Crossover Breakers; 
+  | supports            = Cyberse
   | archseries          = M∀LICE
   | supports_archetypes = M∀LICE
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates while banished
+  | stat_change         = Switches ATK and DEF
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons itself while banished
+  | banished            = Banishes from your Deck
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

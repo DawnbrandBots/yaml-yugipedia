@@ -29,8 +29,19 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   DBCB-JP021; Deck Build Pack: Crossover Breakers; 
+  | supports            = Link Monster
   | archseries          = M∀LICE
   | supports_archetypes = M∀LICE
+  | stat_change         = Your monsters gain ATK
+  | attack              = Prevents other cards being targeted for attacks
+  | banished            = 
+  * Banishes from your hand
+  * Banishes from your Deck
+  * Banishes from your Graveyard
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

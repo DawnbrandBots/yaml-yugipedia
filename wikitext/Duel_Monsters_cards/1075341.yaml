@@ -34,8 +34,19 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   DBCB-JP017; Deck Build Pack: Crossover Breakers; 
+  | supports            = Link Monster
   | archseries          = M∀LICE
   | supports_archetypes = M∀LICE
+  | action              = 
+  * Activates while banished
+  | stat_change         = Your monsters gain ATK
+  | m/s/t               = Prevents other cards being destroyed by card effects
+  | summoning           = 
+  * Special Summons itself while banished
+  * Restricts the player's Special Summons from the Extra Deck
+  | banished            = Banishes from your Deck
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
