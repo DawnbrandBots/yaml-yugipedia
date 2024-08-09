@@ -3,26 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = バーストバニー
-  | romaji_name      = Bāsutobanī
-  | image            = 
-  1; BurstBunny-RDKP18-JP-OP.png
-  2; BurstBunny-RDKP18-JP-OP-AA.png
-  | current_image    = 1
-  | attribute        = FIRE
-  | types            = Cyberse / Effect
-  | level            = 7
-  | atk              = 2400
-  | def              = 0
-  | requirement      = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Choose 1 [[face-up]] [[Monster Card|monster]] on the [[field]], and it loses 600 [[ATK]] until the end of this [[turn]]. Then, if you chose this card by this [[effect]], it can [[attack]] [[Direct attack|directly]] this turn.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = バーストバニー
+  | romaji_name    = Bāsutobanī
+  | image          = 
+  1; BurstBunny-RDKP18-JP-SR.png
+  2; BurstBunny-RDKP18-JP-ScR-AA.png
+  | current_image  = 1
+  | attribute      = FIRE
+  | types          = Cyberse / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 0
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Choose 1 [[face-up]] [[Monster Card|monster]] on the [[field]], and it loses 600 [[ATK]] until the end of this [[turn]]. Then, if you chose this card by this [[effect]], it can [[attack]] [[Direct attack|directly]] this turn.
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_lore        = 自分または相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで６００ダウンする。この効果でこのカードを選んだ場合、さらにこのターン、このカードは直接攻撃できる。
+  | jp_sets        = 
   RD/KP18-JP037; Dark Matter of Phantoms; Super Rare, Secret Rare
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change      = All monsters lose ATK
-  | attack           = Direct attacker
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = All monsters lose ATK
+  | attack         = Direct attacker
+  | database_id    = 20646
   }}

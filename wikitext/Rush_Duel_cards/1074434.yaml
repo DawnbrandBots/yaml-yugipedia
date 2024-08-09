@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = ダークマター・ディープバジャー
   | romaji_name            = Dākumatā Dīpu Bajā
-  | image                  = DarkMatterDeepBadger-RDKP18-JP-OP.png
+  | image                  = DarkMatterDeepBadger-RDKP18-JP-C.png
   | attribute              = DARK
   | types                  = Galaxy / Effect
   | level                  = 5
@@ -15,9 +15,9 @@ wikitext: |-
   | summoning_condition    = If you have 5 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement            = None
   | lore                   = If you have a [[face-down]] monster on your field, [[Attack Position]] DARK Attribute Galaxy Type monsters on your field cannot be [[destroy]]ed by your opponent's monsters' [[attack]]s, and they gain [[ATK]] equal to [the number of cards in your hand] x 300.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分の墓地にモンスター（闇属性／ギャラクシー族）が５体以上いる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement         = なし
+  | ja_lore                = 自分フィールドに裏側表示モンスターがいる場合、自分フィールドの攻撃表示モンスター（闇属性／ギャラクシー族）は相手の攻撃では破壊されず、その攻撃力は［自分の手札の数］×３００アップする。
   | jp_sets                = 
   RD/KP18-JP004; Dark Matter of Phantoms; Common
   | supports               = 
@@ -28,6 +28,5 @@ wikitext: |-
   | summoning              = Special Summons itself from your hand
   | attack                 = Cannot be destroyed by battle
   | fm_for                 = Dark Matter Enigmight Geodiver
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20614
   }}

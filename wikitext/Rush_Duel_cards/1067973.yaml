@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name                = {{Ruby|夢|む}}{{Ruby|幻|げん}}{{Ruby|重|じゅう}}{{Ruby|騎|き}}ビルド・ドラグーン
   | romaji_name            = Mugenjūki Birudo Doragūn
   | trans_name             = Infimythic Heavy Cavalry Build Dragoon
-  | image                  = InfiniteHeavyCavalryBuildragoon-RDKP18-JP-OP.png
+  | image                  = InfiniteHeavyCavalryBuildragoon-RDKP18-JP-UR.png
   | attribute              = EARTH
   | types                  = Wyrm / Effect
   | level                  = 10
@@ -15,9 +15,9 @@ wikitext: |-
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Maximum Monster]].
   | requirement            = You have 10 or more cards in your [[Main Deck|Deck]] and the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Wyrm]] [[Type]].
   | lore                   = [[Draw a card|Draw]] 1 card. Then, you can [[Fusion Summon]] by [[send]]ing Wyrm Type monsters from your [[hand]] and/or [[field]] to the Graveyard as [[material]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードはマキシマムモンスター１体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement         = 自分のデッキのカードが１０枚以上で、自分の墓地のモンスターが幻竜族のみの場合に発動できる。
+  | ja_lore                = 自分は１枚ドローする。その後、自分の手札・フィールドのモンスター（幻竜族）を素材として墓地へ送ってフュージョン召喚できる。
   | jp_sets                = 
   RD/KP18-JP015; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
   | supports               = 
@@ -39,6 +39,5 @@ wikitext: |-
   * Requires control of specific Monster card type
   * Requires having only specific Type in Graveyard
   * Requires control of specific Type
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20624
   }}

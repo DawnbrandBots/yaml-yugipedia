@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = {{Ruby|邪|じゃ}}{{Ruby|犬|けん}}{{Ruby|武|ぶ}}{{Ruby|闘|とう}}{{Ruby|神|しん}}プライムシバ
   | romaji_name            = Jakenbutōshin Puraimu Shiba
-  | image                  = HeartlessHoundMartialMasterPraimeShiba-RDKP18-JP-OP.png
+  | image                  = HeartlessHoundMartialMasterPraimeShiba-RDKP18-JP-C.png
   | attribute              = LIGHT
   | types                  = Beast-Warrior / Effect
   | level                  = 8
@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1800.
   | requirement            = You have a card in your [[Field Zone]].
   | lore                   = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have not [[Special Summon]]ed a monster this [[turn]], you can Special Summon 1 [[Level]] 4 or lower monster from your Graveyard [[face-up]] to your [[field]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は１８００になる。
+  | ja_requirement         = 自分のフィールドゾーンにカードがある場合に発動できる。
+  | ja_lore                = 自分のデッキの一番上のカードを墓地へ送る。このターンに自分がモンスターを特殊召喚していない場合、さらに自分の墓地のモンスター（レベル４以下）１体を選んで自分フィールドに表側表示で特殊召喚できる。
   | jp_sets                = 
   RD/KP18-JP011; Dark Matter of Phantoms; Common
   | supports               = Field Spell Card
@@ -30,6 +30,5 @@ wikitext: |-
   | summoning              = 
   * Normal Summon with 1 Tribute
   * Special Summons from your Graveyard
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20620
   }}

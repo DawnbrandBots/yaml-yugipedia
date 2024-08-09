@@ -3,28 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = フォルスムーン
-  | romaji_name      = Forusu Mūn
-  | image            = FalseMoon-RDKP18-JP-OP.png
-  | attribute        = DARK
-  | types            = Galaxy / Effect
-  | level            = 4
-  | atk              = 400
-  | def              = 1300
-  | requirement      = You [[Normal Summon]]ed this card this [[turn]] and you have 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 1300 [[DEF]] in your [[Graveyard]].
-  | lore             = [[Special Summon]] 1 Galaxy Type monster with 1300 DEF from your Graveyard to your [[field]] in [[face-down]] [[Defense Position]]. Then, you can change this card to face-down Defense Position.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = フォルスムーン
+  | romaji_name    = Forusu Mūn
+  | image          = FalseMoon-RDKP18-JP-C.png
+  | attribute      = DARK
+  | types          = Galaxy / Effect
+  | level          = 4
+  | atk            = 400
+  | def            = 1300
+  | requirement    = You [[Normal Summon]]ed this card this [[turn]] and you have 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 1300 [[DEF]] in your [[Graveyard]].
+  | lore           = [[Special Summon]] 1 Galaxy Type monster with 1300 DEF from your Graveyard to your [[field]] in [[face-down]] [[Defense Position]]. Then, you can change this card to face-down Defense Position.
+  | ja_requirement = このカードを召喚したターンに、自分の墓地にモンスター（ギャラクシー族／守備力１３００）が２体以上いる場合に発動できる。
+  | ja_lore        = 自分の墓地のモンスター（ギャラクシー族／守備力１３００）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。その後、このカードを裏側守備表示にできる。
+  | jp_sets        = 
   RD/KP18-JP034; Dark Matter of Phantoms; Common
-  | supports         = Galaxy (Type)
-  | action           = 
+  | supports       = Galaxy (Type)
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Changes own battle position
   * Flips itself face-down
-  | summoning        = 
+  | summoning      = 
   * Special Summons from your Graveyard
   * Special Summons face-down
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20643
   }}

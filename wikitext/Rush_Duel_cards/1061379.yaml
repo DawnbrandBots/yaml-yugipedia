@@ -2,7 +2,7 @@ title: Elemental HERO Shining Flare Wingman (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                  = ElementalHEROShiningFlareWingman-RDKP18-JP-OP.png
+  | image                  = ElementalHEROShiningFlareWingman-RDKP18-JP-SR.png
   | attribute              = LIGHT
   | types                  = Warrior / Fusion / Effect
   | level                  = 8
@@ -16,10 +16,10 @@ wikitext: |-
   | summoning_condition    = Must be [[Fusion Summon]]ed.
   | requirement            = None
   | lore                   = This card gains [[ATK]] equal to [the number of [[Warrior]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]]] x 300. When this card [[destroy]]s a monster by [[battle]] and [[send]]s it to the Graveyard, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's [[Original ATK and DEF|original ATK]]].
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「Ｅ・ＨＥＲＯ フレイム・ウィングマン」＋「Ｅ・ＨＥＲＯ スパークマン」
+  | ja_summoning_condition = このカードはフュージョン召喚でしか特殊召喚できない。
+  | ja_requirement         = なし
+  | ja_lore                = このカードの攻撃力は、［自分の墓地のモンスター（戦士族）の数］×３００アップする。このカードが戦闘でモンスターを破壊し墓地へ送った時、［そのモンスターの元々の攻撃力］だけ相手にダメージを与える。
   | jp_sets                = 
   RD/KP18-JP000; Dark Matter of Phantoms; Super Rare, Over Rush Rare
   | mentions               = 
@@ -36,6 +36,5 @@ wikitext: |-
   * Requires Fusion Monsters as Fusion Materials
   * Nomi
   | life_points            = Damages your opponent
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20610
   }}

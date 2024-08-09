@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = ハイブリッドライブ・バリアテイル
   | romaji_name            = Haiburiddoraibu Bariateiru
-  | image                  = HybridriveBarriertail-RDKP18-JP-OP.png
+  | image                  = HybridriveBarriertail-RDKP18-JP-R.png
   | attribute              = EARTH
   | types                  = Machine / Effect
   | level                  = 7
@@ -15,9 +15,9 @@ wikitext: |-
   | summoning_condition    = If you have "[[Hybridrive Screwdriver]]" [[face-up]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement            = None
   | lore                   = If this card [[attack]]s a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference). If you have a face-up [[Dragon]] [[Type]] monster on your field, face-up Dragon Type and [[Machine]] Type monsters on your field cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分フィールドに表側表示の「ハイブリッドライブ・スクリュードライバー」がいる場合、このカードはリリースなしで召喚できる。
+  | ja_requirement         = なし
+  | ja_lore                = このカードの攻撃は貫通する。自分フィールドに表側表示モンスター（ドラゴン族）がいる場合、自分フィールドの表側表示モンスター（ドラゴン族・機械族）は相手の効果では破壊されない。
   | jp_sets                = 
   RD/KP18-JP008; Dark Matter of Phantoms; Rare
   | mentions               = Hybridrive Screwdriver
@@ -29,6 +29,5 @@ wikitext: |-
   | summoning              = Normal Summon without Tribute
   | attack                 = Piercing
   | misc                   = Requires control of specific card
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20617
   }}

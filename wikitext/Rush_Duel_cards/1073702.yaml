@@ -3,28 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = フェイク・ネオス
-  | romaji_name      = Feiku Neosu
-  | image            = FakeNeos-RDKP18-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Warrior / Effect
-  | level            = 4
-  | atk              = 1300
-  | def              = 1000
-  | requirement      = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card's name becomes "[[Elemental HERO Neos (Rush Duel)|Elemental HERO Neos]]" this [[turn]]. You can only [[attack]] with [[Warrior]] [[Type]] [[Monster Card|monster]]s this turn.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = フェイク・ネオス
+  | romaji_name    = Feiku Neosu
+  | image          = FakeNeos-RDKP18-JP-C.png
+  | attribute      = LIGHT
+  | types          = Warrior / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 1000
+  | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = This card's name becomes "[[Elemental HERO Neos (Rush Duel)|Elemental HERO Neos]]" this [[turn]]. You can only [[attack]] with [[Warrior]] [[Type]] [[Monster Card|monster]]s this turn.
+  | ja_requirement = デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_lore        = このカードのカード名はこのターン、「Ｅ・ＨＥＲＯ ネオス」になる。このターン、自分はモンスター（戦士族以外）で攻撃できない。
+  | jp_sets        = 
   RD/KP18-JP019; Dark Matter of Phantoms; Common
-  | mentions         = Elemental HERO Neos (Rush Duel)
-  | supports         = Warrior
-  | archseries       = 
+  | mentions       = Elemental HERO Neos (Rush Duel)
+  | supports       = Warrior
+  | archseries     = 
   * Elemental HERO (Rush Duel)
   * Neos (series)
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change      = Changes own name while on the field
-  | attack           = Prevents your monsters from attacking
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Changes own name while on the field
+  | attack         = Prevents your monsters from attacking
+  | database_id    = 20628
   }}

@@ -4,30 +4,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}のスフレース
-  | romaji_name      = Hankotsu no Sufurēsu
-  | image            = 
-  1; SchlechttheDefiantSoul-RDKP18-JP-OP.png
-  2; SchlechttheDefiantSoul-RDKP18-JP-OP-AA.png
-  | current_image    = 1
-  | attribute        = WIND
-  | types            = Zombie / Effect
-  | level            = 3
-  | atk              = 1200
-  | def              = 0
-  | requirement      = [[Send]] 1 [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's [[field]]. Then, if you have 5 or more monsters in your Graveyard, you can [[Add a card|add]] 1 "[[Guyghast the Defiant Soul]]" from your Graveyard to your hand.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}のスフレース
+  | romaji_name    = Hankotsu no Sufurēsu
+  | image          = 
+  1; SchlechttheDefiantSoul-RDKP18-JP-SR.png
+  2; SchlechttheDefiantSoul-RDKP18-JP-ScR-AA.png
+  | current_image  = 1
+  | attribute      = WIND
+  | types          = Zombie / Effect
+  | level          = 3
+  | atk            = 1200
+  | def            = 0
+  | requirement    = [[Send]] 1 [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's [[field]]. Then, if you have 5 or more monsters in your Graveyard, you can [[Add a card|add]] 1 "[[Guyghast the Defiant Soul]]" from your Graveyard to your hand.
+  | ja_requirement = 手札のモンスター１体を墓地へ送って発動できる。
+  | ja_lore        = 相手フィールドのモンスター１体を選んで表示形式を変更する。自分の墓地のモンスターが５体以上の場合、さらに自分の墓地の「叛骨のガイガスト」１体を選んで手札に加える事ができる。
+  | jp_sets        = 
   RD/KP18-JP030; Dark Matter of Phantoms; Super Rare, Secret Rare
-  | mentions         = Guyghast the Defiant Soul
-  | archseries       = Defiant Soul
-  | action           = 
+  | mentions       = Guyghast the Defiant Soul
+  | archseries     = Defiant Soul
+  | action         = 
   * Sends from hand to Graveyard for cost
   * Changes battle positions
   * Flips your opponent's monsters face-up
   * Adds from Graveyard to hand
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20639
   }}

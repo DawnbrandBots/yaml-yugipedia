@@ -3,32 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = サイバー・オステウス
-  | romaji_name      = Saibā Osuteusu
-  | image            = CyberOsteus-RDKP18-JP-OP.png
-  | attribute        = WATER
-  | types            = Fish / Fusion / Effect
-  | level            = 9
-  | atk              = 2900
-  | def              = 1900
-  | effect_types     = Continuous
-  | fusion_material  = Cyber Shark
-  | materials        = "[[Cyber Shark (Rush Duel)|Cyber Shark]]" + "Cyber Shark"
-  | requirement      = None
-  | lore             = During your [[turn]], [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]].
-  | ja_materials     = 
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name         = サイバー・オステウス
+  | romaji_name     = Saibā Osuteusu
+  | image           = CyberOsteus-RDKP18-JP-C.png
+  | attribute       = WATER
+  | types           = Fish / Fusion / Effect
+  | level           = 9
+  | atk             = 2900
+  | def             = 1900
+  | effect_types    = Continuous
+  | fusion_material = Cyber Shark
+  | materials       = "[[Cyber Shark (Rush Duel)|Cyber Shark]]" + "Cyber Shark"
+  | requirement     = None
+  | lore            = During your [[turn]], [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]].
+  | ja_materials    = 「サイバー・シャーク」＋「サイバー・シャーク」
+  | ja_requirement  = なし
+  | ja_lore         = 自分ターンの間、相手フィールドの表側表示モンスターの攻撃力・守備力は６００ダウンする。
+  | jp_sets         = 
   RD/KP18-JP050; Dark Matter of Phantoms; Common
-  | mentions         = Cyber Shark (Rush Duel)
-  | stat_change      = 
+  | mentions        = Cyber Shark (Rush Duel)
+  | stat_change     = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | summoning        = 
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id     = 20657
   }}

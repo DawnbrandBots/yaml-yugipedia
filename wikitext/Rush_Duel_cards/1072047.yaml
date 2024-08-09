@@ -3,30 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}のメイニ
-  | romaji_name      = Hankotsu no Meini
-  | image            = MeinitheDefiantSoul-RDKP18-JP-OP.png
-  | attribute        = WIND
-  | types            = Zombie / Effect
-  | level            = 2
-  | atk              = 1000
-  | def              = 0
-  | requirement      = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = Until the end of your opponent's next [[turn]], 1 [[face-up]] "[[Guyghast the Defiant Soul]]" or 1 face-up "[[Schlecht the Defiant Soul]]" on your [[field]] gains 700 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}のメイニ
+  | romaji_name    = Hankotsu no Meini
+  | image          = MeinitheDefiantSoul-RDKP18-JP-C.png
+  | attribute      = WIND
+  | types          = Zombie / Effect
+  | level          = 2
+  | atk            = 1000
+  | def            = 0
+  | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Until the end of your opponent's next [[turn]], 1 [[face-up]] "[[Guyghast the Defiant Soul]]" or 1 face-up "[[Schlecht the Defiant Soul]]" on your [[field]] gains 700 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_requirement = デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_lore        = 自分フィールドの表側表示の「叛骨のガイガスト」または「叛骨のスフレース」１体を選ぶ。次の相手ターン終了時まで、そのモンスターの攻撃力は７００アップし、相手の効果では破壊されない。
+  | jp_sets        = 
   RD/KP18-JP029; Dark Matter of Phantoms; Common
-  | mentions         = 
+  | mentions       = 
   * Guyghast the Defiant Soul
   * Schlecht the Defiant Soul
-  | archseries       = Defiant Soul
-  | action           = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change      = Your monsters gain ATK
-  | m/s/t            = Prevents other cards being destroyed by card effects
-  | misc             = 
+  | archseries     = Defiant Soul
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | misc           = 
   * Turn limited effects
   * Requires control of specific card
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20638
   }}

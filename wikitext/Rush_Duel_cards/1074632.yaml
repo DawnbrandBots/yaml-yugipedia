@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name               = クロス・ローダー
   | romaji_name           = Kurosu Rōdā
-  | image                 = CrossLoader-RDKP18-JP-OP.png
+  | image                 = CrossLoader-RDKP18-JP-C.png
   | attribute             = DARK
   | types                 = Warrior / Effect
   | level                 = 2
@@ -13,8 +13,8 @@ wikitext: |-
   | def                   = 400
   | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
   | lore                  = [[Special Summon]] 1 [[Level]] 7 [[Warrior]] [[Type]] [[Monster Card|monster]] with 2500 [[ATK]]/2000 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. You can only [[attack]] with Warrior Type monsters this turn.
-  | ja_requirement        = 
-  | ja_lore               = 
+  | ja_requirement        = このカードを召喚したターンに発動できる。
+  | ja_lore               = 自分の墓地のモンスター（レベル７／戦士族／攻撃力２５００／守備力２０００）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（戦士族以外）で攻撃できない。
   | jp_sets               = 
   RD/KP18-JP016; Dark Matter of Phantoms; Common
   | supports              = Warrior
@@ -23,6 +23,5 @@ wikitext: |-
   | action                = Activates during the turn in which it was Normal Summoned
   | summoning             = Special Summons from your Graveyard
   | attack                = Prevents your monsters from attacking
-  | database_id           = 
-  | rush_duel_status      = Not yet released
+  | database_id           = 20625
   }}

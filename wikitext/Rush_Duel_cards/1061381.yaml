@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = {{Ruby|Ｅ・ＨＥＲＯ|エレメンタルヒーロー}} パルス・ネオス
   | romaji_name            = Erementaru Hīrō Parusu Neosu
-  | image                  = ElementalHEROPulseNeos-RDKP18-JP-OP.png
+  | image                  = ElementalHEROPulseNeos-RDKP18-JP-R.png
   | attribute              = WATER
   | types                  = Warrior / Fusion / Effect
   | level                  = 7
@@ -18,12 +18,12 @@ wikitext: |-
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
   | requirement            = None
   | lore                   = [[Destroy]] 1 face-up [[Level]] 9 or lower monster on your opponent's field.
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「Ｅ・ＨＥＲＯ ネオス」＋「Ｎ・アクア・ドルフィン」
+  | ja_summoning_condition = このカードはコンタクトフュージョンできる（自分フィールドの上記の表側表示モンスターを素材として持ち主のデッキに戻し、フュージョン召喚する）。
+  | ja_requirement         = なし
+  | ja_lore                = 相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊する。
   | jp_sets                = 
-  RD/KP18-JP065; Dark Matter of Phantoms; Rare
+  RD/KP18-JP065; Dark Matter of Phantoms; Rare, Secret Rare
   | mentions               = 
   * Elemental HERO Neos (Rush Duel)
   * Neo-Spacian Aqua Dolphin (Rush Duel)
@@ -39,6 +39,5 @@ wikitext: |-
   * Requires specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20674
   }}

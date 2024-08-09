@@ -3,23 +3,22 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = バーニング・ウィンド
-  | romaji_name      = Bāningu Windo
-  | image            = BurningWind-RDKP18-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When an opponent's [[Level]] 5 or higher [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your monster.
-  | lore             = 1 [[face-up]] [[Warrior]] [[Type]] monster on your [[field]] gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can choose which of your monsters becomes the attack target for your opponent's attack.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = バーニング・ウィンド
+  | romaji_name    = Bāningu Windo
+  | image          = BurningWind-RDKP18-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Level]] 5 or higher [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your monster.
+  | lore           = 1 [[face-up]] [[Warrior]] [[Type]] monster on your [[field]] gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can choose which of your monsters becomes the attack target for your opponent's attack.
+  | ja_requirement = 自分のモンスターが攻撃を受ける相手モンスター（レベル５以上）の攻撃宣言時に発動できる。
+  | ja_lore        = 自分フィールドの表側表示モンスター（戦士族）１体を選び、その攻撃力をターン終了時まで１０００アップする。その後、その攻撃を受ける自分のモンスターを自分が選び直す事ができる。
+  | jp_sets        = 
   RD/KP18-JP061; Dark Matter of Phantoms; Common
-  | supports         = Warrior
-  | archseries       = Elemental HERO (Rush Duel)
-  | action           = Activates if targeted for an attack
-  | stat_change      = Your monsters gain ATK
-  | attack           = Changes attack targets
-  | misc             = Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | supports       = Warrior
+  | archseries     = Elemental HERO (Rush Duel)
+  | action         = Activates if targeted for an attack
+  | stat_change    = Your monsters gain ATK
+  | attack         = Changes attack targets
+  | misc           = Requires control of specific Type
+  | database_id    = 20670
   }}

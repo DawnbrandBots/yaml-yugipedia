@@ -6,8 +6,8 @@ wikitext: |-
   | ja_name                = エクスキューティー・リュミエル・{{Ruby|Ｆ|フロンティア}}
   | romaji_name            = Ekusukyūtī Ryumieru Furontia
   | image                  = 
-  1; ExcutieLumiereFrontiere-RDKP18-JP-OP.png
-  2; ExcutieLumiereFrontiere-RDKP18-JP-OP-AA.png
+  1; ExcutieLumiereFrontiere-RDKP18-JP-UR.png
+  2; ExcutieLumiereFrontiere-RDKP18-JP-ORR-AA.png
   | current_image          = 1
   | attribute              = LIGHT
   | types                  = Fairy / Fusion / Effect
@@ -21,10 +21,10 @@ wikitext: |-
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
   | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
   | lore                   = Shuffle 1 face-up monster from your opponent's field into the owner's Deck.
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「エクスキューティー・リュミエル」＋「エクスキューティー・リリウス」
+  | ja_summoning_condition = このカードはコンタクトフュージョンできる（自分フィールドの上記の表側表示モンスターを素材として持ち主のデッキに戻し、フュージョン召喚する）。
+  | ja_requirement         = このカードをフュージョン召喚した自分メインフェイズに発動できる。
+  | ja_lore                = 相手フィールドの表側表示モンスター１体を選んで持ち主のデッキに戻す。
   | jp_sets                = 
   RD/KP18-JP048; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions               = 
@@ -40,6 +40,5 @@ wikitext: |-
   * Requires only specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20658
   }}

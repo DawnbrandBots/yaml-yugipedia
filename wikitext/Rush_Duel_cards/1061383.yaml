@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = {{Ruby|Ｅ・ＨＥＲＯ|エレメンタルヒーロー}} ヒート・ネオス
   | romaji_name            = Erementaru Hīrō Hīto Neosu
-  | image                  = ElementalHEROHeatNeos-RDKP18-JP-OP.png
+  | image                  = ElementalHEROHeatNeos-RDKP18-JP-R.png
   | attribute              = FIRE
   | types                  = Warrior / Fusion / Effect
   | level                  = 7
@@ -18,12 +18,12 @@ wikitext: |-
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
   | requirement            = [[Send]] the top 2 cards of your Deck to the [[Graveyard]].
   | lore                   = This card gains [[ATK]] equal to [the number of cards on the field] x 200 until the end of this [[turn]].
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「Ｅ・ＨＥＲＯ ネオス」＋「Ｎ・フレア・スカラベ」
+  | ja_summoning_condition = このカードはコンタクトフュージョンできる（自分フィールドの上記の表側表示モンスターを素材として持ち主のデッキに戻し、フュージョン召喚する）。
+  | ja_requirement         = デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_lore                = このカードの攻撃力はターン終了時まで、［お互いのフィールドのカードの数］×２００アップする。
   | jp_sets                = 
-  RD/KP18-JP066; Dark Matter of Phantoms; Rare
+  RD/KP18-JP066; Dark Matter of Phantoms; Rare, Secret Rare
   | mentions               = 
   * Elemental HERO Neos (Rush Duel)
   * Neo-Spacian Flare Scarab (Rush Duel)
@@ -41,6 +41,5 @@ wikitext: |-
   * Requires specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20675
   }}

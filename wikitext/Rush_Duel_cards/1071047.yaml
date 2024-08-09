@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = {{Ruby|Ｃ|コンタクト}}・ダークマター・オメガヴォイジャー
   | romaji_name            = Kontakuto Dākumatā Omega Voijā
-  | image                  = ContactDarkMatterOmegaVoyager-RDKP18-JP-OP.png
+  | image                  = ContactDarkMatterOmegaVoyager-RDKP18-JP-C.png
   | attribute              = DARK
   | types                  = Galaxy / Effect
   | level                  = 5
@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = If you have "[[Contact Dark Matter Voyager]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement            = [[Send]] this face-up card from your field to the Graveyard.
   | lore                   = Special Summon up to 2 "Contact Dark Matter Voyager" from your Graveyard face-up to your field.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分の墓地に「Ｃ・ダークマター・ヴォイジャー」がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement         = 自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  | ja_lore                = 自分の墓地の「Ｃ・ダークマター・ヴォイジャー」を２体まで選び、自分フィールドに表側表示で特殊召喚する。
   | jp_sets                = 
   RD/KP18-JP002; Dark Matter of Phantoms; Common
   | mentions               = Contact Dark Matter Voyager
@@ -27,6 +27,5 @@ wikitext: |-
   * Special Summons itself from your hand
   * Special Summons from your Graveyard
   | fm_for                 = Dark Matter Requiem Omega
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20612
   }}

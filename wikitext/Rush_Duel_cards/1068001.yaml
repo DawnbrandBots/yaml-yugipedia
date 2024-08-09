@@ -3,22 +3,22 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|融|ゆう}}{{Ruby|門|もん}}スクラップゲート
-  | romaji_name      = Genkaiyūmon Sukurappu Gēto
-  | trans_name       = Mythic Demolition Fusegate Scrapgate
-  | image            = DemolitionFusegateScrapgate-RDKP18-JP-OP.png
-  | card_type        = Spell
-  | property         = Field
-  | requirement      = [[Activate]] this card by [[send]]ing 1 [[face-up]] [[Level]] 7 or higher [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
-  | lore             = While this card is face-up in the [[Field Zone]], if a [[Duelist|player]] [[Fusion Summon]]s by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", they can also [[shuffle]] only Wyrm Type monsters from their Graveyard into the [[Main Deck|Deck]] as [[material]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|幻|げん}}{{Ruby|壊|かい}}{{Ruby|融|ゆう}}{{Ruby|門|もん}}スクラップゲート
+  | romaji_name    = Genkaiyūmon Sukurappu Gēto
+  | trans_name     = Mythic Demolition Fusegate Scrapgate
+  | image          = DemolitionFusegateScrapgate-RDKP18-JP-C.png
+  | card_type      = Spell
+  | property       = Field
+  | requirement    = [[Activate]] this card by [[send]]ing 1 [[face-up]] [[Level]] 7 or higher [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
+  | lore           = While this card is face-up in the [[Field Zone]], if a [[Duelist|player]] [[Fusion Summon]]s by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", they can also [[shuffle]] only Wyrm Type monsters from their Graveyard into the [[Main Deck|Deck]] as [[material]].
+  | ja_requirement = このカードは、自分フィールドの表側表示モンスター（レベル７以上／幻竜族）１体を墓地へ送って発動できる。
+  | ja_lore        = このカードがフィールドゾーンに表側表示である限り、お互いは「フュージョン」の効果でフュージョン召喚する場合、自身の墓地のモンスター（幻竜族）のみをデッキに戻して素材とする事もできる。
+  | jp_sets        = 
   RD/KP18-JP053; Dark Matter of Phantoms; Common
-  | mentions         = Fusion (Rush Duel)
-  | supports         = Wyrm
-  | archseries       = Demolition
-  | action           = 
+  | mentions       = Fusion (Rush Duel)
+  | supports       = Wyrm
+  | archseries     = Demolition
+  | action         = 
   * Sends from field to Graveyard for cost
   * Modifies which cards can be used as Fusion Material
   * Returns from your Graveyard to your Deck
@@ -26,9 +26,8 @@ wikitext: |-
   * Uses cards in the player's Graveyard as Fusion Materials
   * Returns Fusion Materials used in a Fusion Summon to Deck
   * Can only use certain Fusion Materials
-  | misc             = 
+  | misc           = 
   * Requires control of specific Level
   * Requires control of specific Type
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id    = 20662
   }}

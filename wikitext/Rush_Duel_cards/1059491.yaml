@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name                = ダークマター・エンペラー・ドラゴン
   | romaji_name            = Dākumatā Enperā Doragon
-  | image                  = DarkMatterEmperorDragon-RDKP18-JP-OP.png
+  | image                  = DarkMatterEmperorDragon-RDKP18-JP-UR.png
   | attribute              = DARK
   | types                  = Galaxy / Fusion / Effect
   | level                  = 8
@@ -18,10 +18,10 @@ wikitext: |-
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
   | requirement            = You have a [[face-down]] monster on your field.
   | lore                   = [[Destroy]] 2 face-down cards on the field. This card gains 2000 [[ATK]] this [[turn]].
-  | ja_materials           = 
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_materials           = 「ダークマター・ドラゴン」＋「Ｃ・ダークマター・ワイバーン」
+  | ja_summoning_condition = このカードはコンタクトフュージョンできる（自分フィールドの上記の表側表示モンスターを素材として持ち主のデッキに戻し、フュージョン召喚する）。
+  | ja_requirement         = 自分フィールドに裏側表示モンスターがいる場合に発動できる。
+  | ja_lore                = 自分または相手フィールドの裏側表示のカードを合計２枚選んで破壊する。このターン、このカードの攻撃力は２０００アップする。
   | jp_sets                = 
   RD/KP18-JP038; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions               = 
@@ -40,6 +40,5 @@ wikitext: |-
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
   | misc                   = Cover card
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20647
   }}
