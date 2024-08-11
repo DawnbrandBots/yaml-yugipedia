@@ -52,7 +52,8 @@ wikitext: |-
   * You discard for cost
   * You draw cards
   * Shows the player's drawn cards
-  * Returns from hand to Deck
+  * Places cards from the player's hand on the top of the Deck
+  * Places cards from the player's hand on the bottom of the Deck
   * Activates from your Graveyard
   | stat_change           = 
   * Changes own name while on the field
