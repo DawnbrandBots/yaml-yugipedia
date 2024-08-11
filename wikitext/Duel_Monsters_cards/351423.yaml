@@ -56,10 +56,13 @@ wikitext: |-
   | summoning             = 
   * Special Summons itself from your hand
   * Prevents the player's Normal Summons
+  * Prevents the player's Normal Sets
   | banished              = 
   * Banishes from your Graveyard
   * Banishes from Graveyard for cost
   | life_points           = Damages your opponent
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Requires control of no monsters
   | database_id           = 11803
   }}
