@@ -28,16 +28,25 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：「ダーク・フュージョン」の効果でのみ特殊召喚できる融合モンスターが自分フィールドに存在する場合、このカードは手札から特殊召喚できる。②：デッキから「ＨＥＲＯ」モンスター1体を墓地へ送って発動できる。このターン、「ＨＥＲＯ」融合モンスターを融合召喚する場合、表側表示のこのカードはその融合モンスターにカード名が記された融合素材モンスター１体として代用できる（他の融合素材は代用できない）。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP002; Supreme Darkness; Rare
   | mentions            = Dark Fusion
-  | archseries          = Evil HERO
-  | supports_archetypes = HERO
   | supports            = Fusion Monster
-  | summoning           = Fusion Substitute Monster
+  | archseries          = 
+  * Evil HERO
+  * HERO
+  | supports_archetypes = HERO
+  | action              = Sends from Deck to Graveyard for cost
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  * Fusion Substitute Monster
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

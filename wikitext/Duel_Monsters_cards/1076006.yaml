@@ -17,9 +17,11 @@ wikitext: |-
   | attribute           = DARK
   | types               = Fiend / Fusion / Effect
   | level               = 10
+  | fusion_material     = Elemental HERO Neos
   | atk                 = 2500
   | def                 = 2000
   | password            = 
+  | materials           = "Elemental HERO Neos" or 1 Fusion Monster that mentions it + 1 Effect Monster on the field
   | effect_types        = Summoning condition, Trigger, Condition, Continuous
   | lore                = "[[Elemental HERO Neos]]" or 1 [[Fusion Monster]] that mentions it + 1 [[Effect Monster]] on the [[field]]<br />Must be [[Special Summon]]ed with "[[Dark Fusion]]". If this card is Special Summoned, OR if a [[monster]](s) is sent to your opponent's GY while this card is in the [[Monster Zone]]: You can [[target]] 1 [[face-up]] monster your opponent [[control]]s; take control of it. You can only use this effect of "Evil HERO Neos Lord" once per turn. Cannot be [[destroyed by battle]] or card [[effect]]s.
   | fr_lore             = 
@@ -36,9 +38,28 @@ wikitext: |-
   | mentions            = 
   * Dark Fusion
   * Elemental HERO Neos
+  | supports            = Fusion Monster
   | archseries          = 
   * Evil HERO
+  * HERO
   * Neos
+  | action              = 
+  * Activates upon Special Summon
+  * Activates if other cards are sent to the Graveyard
+  * Takes control of an opponent's monster
+  | m/s/t               = Cannot be destroyed by card effects
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Effect Monsters as Fusion Materials
+  * Requires location specific Fusion Materials
+  * Nomi
+  * Strict fusion-performing card
+  | attack              = Cannot be destroyed by battle
+  | misc                = 
+  * Mentions
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

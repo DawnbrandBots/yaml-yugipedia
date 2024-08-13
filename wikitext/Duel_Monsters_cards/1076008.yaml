@@ -18,9 +18,13 @@ wikitext: |-
   | attribute           = FIRE
   | types               = Fiend / Fusion / Effect
   | level               = 6
+  | fusion_material     = 
+  * Elemental HERO Avian
+  * Elemental HERO Burstinatrix
   | atk                 = 2100
   | def                 = 1200
   | password            = 
+  | materials           = "Elemental HERO Avian" or "Elemental HERO Burstinatrix" + 1 "HERO" monster
   | effect_types        = Summoning condition, Trigger, Trigger, Condition
   | lore                = "[[Elemental HERO Avian]]" or "[[Elemental HERO Burstinatrix]]" + 1 "[[HERO]]" [[monster]]<br />Must be [[Special Summon]]ed with "[[Dark Fusion]]". If this card is Special Summoned: You can [[Add a card|add]] 1 "Dark Fusion" or 1 card that mentions it from your [[Main Deck|Deck]] or [[GY]] to your [[hand]], except a [[Fusion Monster]]. If your "HERO" monster [[destroy]]s an opponent's monster by battle: Inflict 2100 damage to your opponent. You can only use each effect of "Evil HERO Inferno Wing - Infernal Backlash" once per turn.
   | fr_lore             = 
@@ -39,9 +43,25 @@ wikitext: |-
   * Elemental HERO Burstinatrix
   | archseries          = 
   * Evil HERO
+  * HERO
   * Signature move
   | supports_archetypes = HERO
   | related_to_archseries = Wingman
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Activates if it destroys a monster by battle
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Nomi
+  * Strict fusion-performing card
+  | life_points         = Damages your opponent
+  | misc                = 
+  * Mentions
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
