@@ -4,7 +4,13 @@ updates:
     directory: /
     schedule:
       interval: weekly
+      day: sunday
+      time: "12:00"
   - package-ecosystem: pip
     directory: /src
     schedule:
       interval: weekly
+      day: sunday
+      time: "12:00"
+    allow:
+      - dependency-type: all
