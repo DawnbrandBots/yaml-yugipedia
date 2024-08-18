@@ -7,23 +7,33 @@ wikitext: |-
   | romaji_name            = Baikuribotto
   | image                  = Bikuribot-RDSJMP-JP-OP.png
   | attribute              = DARK
-  | types                  = ??? / Fusion
+  | types                  = Fiend / Fusion / Effect
   | level                  = 2
   | atk                    = 300
   | def                    = 200
-  | fusion_material        = 
-  * Kuribot
-  * Kuribot
+  | fusion_material        = Kuribot
   | materials              = "[[Kuribot]]" + "Kuribot"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
-  | requirement            = TBA
-  | lore                   = TBA
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | lore                   = [[Special Summon]] 1 [[Level]] 7 [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, this [[turn]], this face-up card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a monster in [[Attack Position]].
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/SJMP-JP043; Saikyō Jump October 2024 promotional card; Normal Parallel Rare
+  | mentions               = Kuribot
+  | action                 = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Fusion Summoned
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Special Summons from your Graveyard
+  * Treated as multiple Tributes
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
