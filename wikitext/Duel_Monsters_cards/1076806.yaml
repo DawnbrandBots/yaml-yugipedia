@@ -36,6 +36,21 @@ wikitext: |-
   DBCB-JP019; Deck Build Pack: Crossover Breakers; 
   | archseries          = M∀LICE
   | supports_archetypes = M∀LICE
+  | action              = 
+  * Activates upon Special Summon
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * Activates while banished
+  * You draw cards
+  | banished            = 
+  * Banishes from your Graveyard
+  * Banishes from your opponent's Graveyard
+  | summoning           =
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons itself while banished
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
