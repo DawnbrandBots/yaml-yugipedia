@@ -45,7 +45,14 @@ wikitext: |-
   ROTA-SPSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
   ROTA-SP0??; Rage of the Abyss; 
   | archseries            = Mimighoul
-  | supports_archetypes   = Mimighoul
+  | anti-supports_archetypes = Mimighoul
+  | action                = Activates upon being flipped face-up
+  | m/s/t                 = Prevents activation of your Effect Monsters
+  | summoning             = Special Summons from your opponent's Extra Deck to your field
+  | banished              = Banishes from your opponent's Extra Deck
+  | misc                  = 
+  * Once per Chain
+  * Only twice per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
