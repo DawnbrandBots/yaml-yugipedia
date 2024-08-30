@@ -12,14 +12,21 @@ wikitext: |-
   | atk                    = 2500
   | def                    = 300
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = [[Reveal]] 1 "[[Legend Saber]]" or 1 Legend Card in your [[hand]] to your opponent.
-  | lore                   = This [[turn]], this card gains 500 [[ATK]] and can make up to 2 attacks on monsters.
+  | requirement            = [[Reveal]] 1 "[[Legend Saber]]" or 1 Legend Card in your hand to your opponent.
+  | lore                   = This [[turn]], this card gains 500 [[ATK]], and can make up to 2 [[attack]]s on [[Monster Card|monster]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/LGP2-JP041; Neo Legend Awakening Pack; Over Rush Rare
+  | mentions               = Legend Saber
+  | supports               = Legend Card
   | archseries             = Legend (series)
+  | action                 = Reveals your hand for cost
+  | stat_change            = 
+  * Treated as a Legend Card
+  * This card gains ATK
+  | attack                 = Can make multiple attacks on monsters
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
