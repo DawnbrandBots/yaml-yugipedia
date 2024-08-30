@@ -5,17 +5,34 @@ wikitext: |-
   {{CardTable2
   | ja_name          = フルメタリオン・アシュラスター
   | romaji_name      = Furumetarion Ashurasutā
-  | image            = FullmetarionAshurastar-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = TBA
+  | image            = FullmetarionAshurastar-RDLGP2-JP-OP.png
+  | attribute        = LIGHT
+  | types            = Cyborg / Fusion / Effect
+  | level            = 10
+  | atk              = 3200
+  | def              = 2500
+  | effect_types     = Multi-Choice
+  | fusion_material  = Imaginary Actor
+  | materials        = "[[Imaginary Actor]]" + 1 [[Level]] 9 [[Cyborg]] [[Type]] [[Monster Card|monster]]
+  | requirement      = Place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
+  | lore             = ● [[Special Summon]] 1 Level 9 Cyborg Type monster from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]].<br />● This card gains [[ATK]] equal to [the ATK of 1 face-up non-Cyborg Type monster on your opponent's field] until the end of this [[turn]].
+  | ja_materials     = 
+  | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
-  RD/LGP2-JP0??; Neo Legend Awakening Pack
+  RD/LGP2-JP016; Neo Legend Awakening Pack; Over Rush Rare
+  | mentions         = Imaginary Actor
+  | supports         = Cyborg
   | archseries       = Metarion
+  | action           = Places cards from the player's hand on the bottom of the Deck for cost
+  | stat_change      = This card gains ATK
+  | summoning        = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  | misc             = Variable effects
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

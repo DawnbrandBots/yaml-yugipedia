@@ -2,22 +2,28 @@ title: Ancient Gear Golem (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image            = AncientGearGolem-OW-RD.png
-  | attribute        = EARTH
-  | types            = Machine / Effect
-  | level            = 8
-  | atk              = 3000
-  | def              = 3000
-  | requirement      = TBA
-  | lore             = TBA
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/LGP2-JP0??; Neo Legend Awakening Pack
-  | archseries       = Ancient Gear (series)
-  | misc             = 
+  | image                  = AncientGearGolem-RDLGP2-JP-OP.png
+  | attribute              = EARTH
+  | types                  = Machine / Effect
+  | level                  = 8
+  | atk                    = 3000
+  | def                    = 3000
+  | effect_types           = Continuous
+  | summoning_condition    = This card cannot be [[Special Summon]]ed.
+  | requirement            = None
+  | lore                   = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]], and if it attacks a [[Defense Position]] [[Monster Card|monster]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/LGP2-JP004; Neo Legend Awakening Pack; Over Rush Rare
+  | archseries             = Ancient Gear (series)
+  | m/s/t                  = Prevents activation of your opponent's Trap Cards
+  | summoning              = Cannot be Special Summoned
+  | attack                 = Piercing
+  | misc                   = 
   * Legend Card
   * Cover card
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | database_id            = 
+  | rush_duel_status       = Not yet released
   }}
