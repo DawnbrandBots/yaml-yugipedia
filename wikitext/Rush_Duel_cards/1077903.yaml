@@ -4,17 +4,29 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name          = {{Ruby|受け継がれし一閃|レジェンド・スラッシュ}}
+  | base_romaji_name = Uketsugareshi Issen
+  | base_trans_name  = Succeeded Flash
   | romaji_name      = Rejendo Surasshu
   | image            = LegendSlash-RDLGP2-JP-OP.png
   | card_type        = Spell
   | property         = Normal
   | requirement      = [[Send]] 1 [[Legend Card]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Destroy]] 1 card on your opponent's [[field]]. Then, if you have a [[Warrior]] [[Type]] Legend monster in your Graveyard, you can [[Draw a card|draw]] 1 card.
+  | lore             = [[Destroy]] 1 card on your opponent's [[field]]. Then, if you have a [[Warrior]] [[Type]] Legend [[Monster Card|monster]] in your Graveyard, you can [[Draw a card|draw]] 1 card.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/LGP2-JP052; Neo Legend Awakening Pack; Over Rush Rare
+  | supports         = 
+  * Legend Card
+  * Warrior
   | archseries       = Legend (series)
+  | action           = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | m/s/t            = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

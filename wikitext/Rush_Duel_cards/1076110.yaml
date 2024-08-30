@@ -12,11 +12,18 @@ wikitext: |-
   | atk              = 300
   | def              = 300
   | requirement      = If you have 10 or more cards in your [[Main Deck|Deck]], [[reveal]] 1 [[Legend Card]] in your [[hand]] to your opponent.
-  | lore             = [[Draw a card|Draw]] 1 card. Then, [[send]] 1 card from your hand to the [[Graveyard]]. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a Legend monster in [[Attack Position]].
+  | lore             = [[Draw a card|Draw]] 1 card. Then, [[send]] 1 card from your hand to the [[Graveyard]]. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a Legend [[Monster Card|monster]] in [[Attack Position]].
+  | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/LGP2-JP047; Neo Legend Awakening Pack; Common
+  | supports         = Legend Card
   | archseries       = Legend (series)
+  | action           = 
+  * Reveals your hand for cost
+  * You draw cards
+  * Sends from your hand to your Graveyard
+  | summoning        = Treated as multiple Tributes
   | database_id      = 
   | rush_duel_status = Not yet released
   }}

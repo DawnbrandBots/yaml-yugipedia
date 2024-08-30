@@ -12,11 +12,23 @@ wikitext: |-
   | atk                    = 1000
   | def                    = 300
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | lore                   = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, if you have a Legend Card in your Graveyard, you can make 1 [[face-up]] monster on your opponent's field lose 600 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | requirement            = During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card.
+  | lore                   = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, if you have a Legend Card in your Graveyard, you can make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
   | jp_sets                = 
   RD/LGP2-JP044; Neo Legend Awakening Pack; Over Rush Rare
+  | supports               = Legend Card
   | archseries             = Legend (series)
+  | action                 = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change            = 
+  * Treated as a Legend Card
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
