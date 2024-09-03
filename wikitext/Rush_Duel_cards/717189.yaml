@@ -24,7 +24,9 @@ wikitext: |-
   * Galaxy (Type)
   * Normal Monster
   | archseries     = Transamu
-  | action         = Activates if targeted for an attack
+  | action         = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
   | attack         = Prevents other cards being destroyed by battle
   | misc           = 
   * Requires control of specific Level

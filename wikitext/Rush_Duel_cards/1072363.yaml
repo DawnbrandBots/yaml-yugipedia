@@ -16,7 +16,9 @@ wikitext: |-
   RD/KP18-JP061; Dark Matter of Phantoms; Common
   | supports       = Warrior
   | archseries     = Elemental HERO (Rush Duel)
-  | action         = Activates if targeted for an attack
+  | action         = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
   | stat_change    = Your monsters gain ATK
   | attack         = Changes attack targets
   | misc           = Requires control of specific Type

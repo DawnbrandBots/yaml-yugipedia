@@ -6,7 +6,6 @@ wikitext: |-
   | romaji_name    = Atakku Genpō
   | trans_name     = Attack Salary Slash
   | ko_name        = 어택 감봉
-  | ko_rr_name     = 
   | image          = SalarySlash-RDSD02-JP-C.png
   | card_type      = Trap
   | property       = Normal
@@ -23,7 +22,9 @@ wikitext: |-
   RD/KP06-KR062; Deck Mod Pack: Fierce Thunder Storm!!; Common
   RD/SD02-KR027; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
   | archseries     = Worker Warrior
-  | action         = Activates if targeted for an attack
+  | action         = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
   | stat_change    = Your opponent's monsters lose ATK
   | attack         = Prevents other cards being destroyed by battle
   | life_points    = Pays Life Points for cost
