@@ -10,14 +10,23 @@ wikitext: |-
   | card_type              = Trap
   | property               = Normal
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = When your opponent [[Draw a card|draws]] a card(s) during their [[turn]], or when your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]] during their turn, [[shuffle]] 1 Legend monster from your Graveyard into the [[Main Deck|Deck]].
-  | lore                   = This [[turn]], up to 3 [[face-up]] monsters on your field gain 1200 [[ATK]] and cannot be destroyed by your opponent's card [[effect]]s.
+  | requirement            = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their turn, [[shuffle]] 1 Legend monster from your Graveyard into the [[Main Deck|Deck]].
+  | lore                   = This [[turn]], up to 3 [[face-up]] monsters on your [[field]] gain 1200 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/LGP2-JP054; Neo Legend Awakening Pack; Over Rush Rare
   | archseries             = Legend (series)
+  | action                 = 
+  * Activates if your opponent draws a card
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  | stat_change            = 
+  * Treated as a Legend Card
+  * Your monsters gain ATK
+  | m/s/t                  = Prevents other cards being destroyed by card effects
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}

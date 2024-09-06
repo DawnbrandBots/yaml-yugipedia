@@ -2,15 +2,21 @@ title: Acid Trap Hole (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image            = AcidTrapHole-RDLGP2-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent [[Normal Summon]]s or [[Set]]s a [[monster]] from the [[hand]], or after your opponent [[activate]]s a [[Spell Card]].
-  | lore             = Look at 1 [[face-down]] monster on your opponent's [[field]]. Then, if that monster's [[original DEF]] is 2000 or less, destroy it.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | image                 = AcidTrapHole-RDLGP2-JP-OP.png
+  | card_type             = Trap
+  | property              = Normal
+  | requirement           = When your opponent [[Normal Summon]]s/[[Set]]s a [[Monster Card|monster]] from their [[hand]], or after your opponent [[activate]]s a [[Spell Card]].
+  | lore                  = [[Look]] at 1 [[face-down]] monster on your opponent's [[field]]. Then, if that monster's [[Original ATK and DEF|original DEF]] is 2000 or less, [[destroy]] it.
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/LGP2-JP080; Neo Legend Awakening Pack; Super Rare
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | related_to_archseries = Bubble Era
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Set
+  * Reveals face-down cards
+  | m/s/t                 = Destroys your opponent's face-down Monster Cards
+  | database_id           = 
+  | rush_duel_status      = Not yet released
   }}

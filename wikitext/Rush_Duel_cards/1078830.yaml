@@ -10,13 +10,21 @@ wikitext: |-
   | property               = Normal
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
   | requirement            = None
-  | lore                   = This [[turn]], up to 3 [[face-up]] [[LIGHT]] [[Attribute]] monsters with 300 [[DEF]] on your field gain 500 [[ATK]] and cannot be destroyed by your opponent's [[Trap Card]] [[effect]]s.
+  | lore                   = This [[turn]], up to 3 [[face-up]] [[LIGHT]] [[Attribute]] [[Monster Card|monster]]s with 300 [[DEF]] on your [[field]] gain 500 [[ATK]], and cannot be [[destroy]]ed by your opponent's [[Trap Card]] [[effect]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/LGP2-JP050; Neo Legend Awakening Pack; Common
+  | supports               = LIGHT
   | archseries             = Legend (series)
+  | stat_change            = 
+  * Treated as a Legend Card
+  * Your monsters gain ATK
+  | m/s/t                  = Prevents other cards being destroyed by card effects
+  | misc                   = 
+  * Requires control of specific Attribute
+  * Requires control of specific DEF
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
