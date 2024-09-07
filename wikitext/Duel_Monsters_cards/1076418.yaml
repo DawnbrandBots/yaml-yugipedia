@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Ignition, Ignition, Condition
-  | lore                = If this card is in your hand: You can send 1 Level 7 or higher Normal Monster from your hand or Deck to the GY, and if you do, Special Summon this card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position. You can only use 1 "Dragolithia Kunzite" effect per turn, and only once that turn.
+  | lore                = If this card is in your [[hand]]: You can [[send]] 1 [[Level]] 7 or higher [[Normal Monster]] from your hand or [[Main Deck|Deck]] to the [[GY]], and if you do, [[Special Summon]] this card. You can [[banish]] this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in [[Defense Position]]. You can only use 1 "Dragolithia Kunzite" [[effect]] per [[turn]], and only [[Once per turn|once that turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -32,7 +32,17 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   VJMP-JP261; V Jump November 2024 promotional card; Ultra Rare
-  | archseries = Gem Dragon
+  | supports            = Normal Monster
+  | action              = 
+  * Activates from your hand
+  * Sends from your hand to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
