@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = Target cards your opponent controls up to the number of different Monster Types among the WIND Synchro Monsters you control; destroy them. If your opponent Special Summons a monster(s): You can banish this card from your GY, then target 1 WIND Synchro Monster you control; banish it, then return it to the field. You can only use this effect of "Speedroid Clear Wing Wander" once per turn.
+  | lore                = [[Target]] cards your opponent [[control]]s up to the number of different [[Type|Monster Type]]s among the [[WIND]] [[Synchro Monster]]s you control; [[destroy]] them. If your opponent [[Special Summon]]s a monster(s): You can [[banish]] this card from your [[GY]], then target 1 WIND Synchro Monster you control; banish it, then [[return]] it to the [[field]]. You can only use this [[effect]] of "Speedroid Clear Wing Wander" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,10 +31,28 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP068; Supreme Darkness; 
+  | supports            = 
+  * WIND
+  * Synchro Monster
   | archseries          = 
   * Clear Wing
   * roid
   * Speedroid
+  | action              = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Returns banished cards to the field
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | banished            = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from your field
+  | misc                = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

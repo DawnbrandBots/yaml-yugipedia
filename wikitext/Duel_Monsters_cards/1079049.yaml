@@ -45,12 +45,36 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP006; Supreme Darkness; 
+  | mentions              = Speedroid Clackernel
+  | supports              = 
+  * Pendulum Monster
+  * WIND
   | archseries            = 
   * roid
   * Speedroid
   | supports_archetypes   = 
   * Clear Wing
   * Speedroid
+  | action                = 
+  * Places from Deck to Pendulum Zone
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Extra Deck
+  | stat_change           = 
+  * Treats monsters as Tuner monsters
+  * Your monsters gain ATK
+  | summoning             = 
+  * Restricts the player's Special Summons to Attribute specific monsters
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  * Special Summons copies of itself
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes itself from Extra Deck
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
