@@ -71,10 +71,15 @@ wikitext: |-
   |[[wikipedia:Phoenix (mythology)|Phoenix]]
   |[[wikipedia:Vermilion Bird|Vermilion Bird of the South]]
   |-
-  |5
+  |rowspan=2|5
   |[[Crystron Sulfefnir|Sulfefnir]]
   |[[wikipedia:Sulfur|Sulfur]]
   |[[wikipedia:Fafnir|Fafnir]]
+  |[[wikipedia:Yellow Dragon|Yellow Dragon of the Center]]
+  |-
+  |[[Crystron Sulfudhole|Sulfudhole]]
+  |[[wikipedia:Sulfur|Sulfur]]
+  |''-''
   |[[wikipedia:Yellow Dragon|Yellow Dragon of the Center]]
   |}
 
@@ -88,9 +93,12 @@ wikitext: |-
   |[[Crystron Quan|Quan]]
   |[[wikipedia:Quartz|Quartz]]
   |-
-  |2
+  |rowspan=2|2
   |[[Crystron Citree|Citree]]
   |[[wikipedia:Quartz#Citrine|Citrine]]
+  |-
+  |[[Crystron Tristalos|Tristalos]]
+  |''-''
   |-
   |3
   |[[Crystron Rion|Rion]]
@@ -113,6 +121,11 @@ wikitext: |-
   |[[Crystron Ametrix|Ametrix]]
   |[[Crystron Citree]] + [[Crystron Thystvern]]
   |[[wikipedia:Ametrine|Ametrine]]
+  |-
+  |7
+  |[[Crystron Eleskeletas|Eleskeletas]]
+  |upgraded [[Crystron Tristalos]]
+  |''-''
   |-
   |rowspan=2|9
   |[[Crystron Phoenix|Phoenix]]
@@ -149,6 +162,7 @@ wikitext: |-
   * [[Crystron Rosenix]]
   * [[Crystron Smiger]]
   * [[Crystron Sulfefnir]]
+  * [[Crystron Sulfudhole]]
   * [[Crystron Thystvern]]
   * [[Genex Undine]]
   * [[Lefty Driver]]
@@ -161,44 +175,52 @@ wikitext: |-
   * [[Crystron Citree]]
   * [[Crystron Quan]]
   * [[Crystron Rion]]
+  * [[Crystron Tristalos]]
   * [[Genex Controller]]
   * [[Quickdraw Synchron]]
   * [[Righty Driver]]
   * [[Speedroid Red-Eyed Dice]]
   |synchro monsters =
   * [[Crystron Ametrix]]
+  * [[Crystron Eleskeletas]]
   * [[Crystron Quariongandrax]]
   * [[Crystron Phoenix]]
   * [[Crystron Quandax]]
+  * Machine Synchro Monsters:
+  ** [[Accel Synchron]]
+  ** [[Armory Arm]]
+  ** [[Formula Synchron]]
+  ** [[F.A. Dawn Dragster]]
+  ** [[Martial Metal Marcher]]
+  ** [[Samurai Destroyer]]
+  ** [[Navy Dragon Mech]]
+  ** [[Vermillion Dragon Mech]]
+  * [[Speedroid]] monsters:
+  ** [[Hi-Speedroid Chanbara]]
+  ** [[Hi-Speedroid Kendama]]
+  ** [[Hi-Speedroid Puzzle]]
+  * [[Superheavy Samurai]] monsters:
+  ** [[Superheavy Samurai Stealth Ninja]]
+  ** [[Superheavy Samurai Swordmaster Musashi]]
+  * [[Adamancipator Risen - Dragite]]
   * [[Black Rose Dragon]]
-  * [[Accel Synchron]]
-  * [[Armory Arm]]
   * [[Coral Dragon]]
-  * [[Formula Synchron]]
-  * [[Hi-Speedroid Chanbara]]
-  * [[Hi-Speedroid Kendama]]
-  * [[Hi-Speedroid Puzzle]]
-  * [[Martial Metal Marcher]]
-  * [[Navy Dragon Mech]]
   * [[Old Entity Hastorr]]
-  * [[Samurai Destroyer]]
-  * [[Superheavy Samurai Stealth Ninja]]
-  * [[Superheavy Samurai Swordmaster Musashi]]
   * [[T.G. Hyper Librarian]]
   * [[Trishula, Dragon of the Ice Barrier]]
-  * [[Vermillion Dragon Mech]]
-  * [[White Aura Bihamut]]
-  * [[White Aura Dolphin]]
-  * [[White Aura Monoceros]]
-  * [[White Aura Whale]]
-  |link monsters = 
-  * [[Crystron Halqifibrax]] (Traditional Format only)
+  * [[White Aura]] monsters:
+  ** [[White Aura Bihamut]]
+  ** [[White Aura Dolphin]]
+  ** [[White Aura Monoceros]]
+  ** [[White Aura Whale]]
+  |link monsters =
+  * [[Crystron Halqifibrax]] ''(Traditional Format only)''
   * [[Link Spider]]
   * [[Mistar Boy]]
   * [[Eria the Water Charmer, Gentle]]
   * [[Platinum Gadget]]
   * [[Qliphort Genius]]
-  |normal spells = 
+  |normal spells =
   * [[Creature Swap]]
   * [[Final Gesture]]
   * [[Iron Call]]
@@ -213,6 +235,7 @@ wikitext: |-
   * [[Crystolic Potential]]
   * [[Starlight Junktion]]
   |continuous spells =
+  * [[Crystron Inclusion]]
   * [[Ocean of Regeneration]]
   |quick-play spells =
   * [[Burial from a Different Dimension]]
@@ -228,6 +251,9 @@ wikitext: |-
   * [[White Howling]]
   |counter traps =
   * [[Mannadium Reframing]]
+  |continuous traps =
+  * [[Crystron Cluster]]
+  * [[Sea Stealth Attack]]
   }}
 
   === Offical Decklist ===
