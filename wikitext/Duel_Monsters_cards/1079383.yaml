@@ -37,6 +37,21 @@ wikitext: |-
   SUDA-JP041; Supreme Darkness; Rare
   | archseries          = Crystron
   | supports_archetypes = Crystron
+  | action              = 
+  * Activates upon Synchro Summon
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | stat_change         = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
