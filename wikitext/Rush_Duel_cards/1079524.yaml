@@ -4,6 +4,8 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name          = {{Ruby|古代の機械給兵|アンティーク・ギアサプライヤー}}
+  | base_romaji_name = Kodai no Kikaikyūhei
+  | base_trans_name  = Ancient Machine Supply
   | romaji_name      = Antīku Gia Sapuraiyā
   | trans_name       = Antique Gear Supplier
   | image            = AncientGearSupplier-RDLGP2-JP-OP.png
@@ -12,14 +14,24 @@ wikitext: |-
   | level            = 3
   | atk              = 800
   | def              = 800
-  | requirement      = [[Send]] 1 [[Spell]]/[[Trap Card]] from your [[field]] to the [[Graveyard]] and [[shuffle]] 2 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monsters]] from your Graveyard into the [[Main Deck|Deck]].
-  | lore             = [[Destroy]] 1 Spell/Trap Card on your opponent's field. Then, if you sent "[[Gear Section]]" to the Graveyard to meet the requirement, you can [[Draw a card|draw]] 1 card.
+  | requirement      = [[Send]] 1 [[Spell Card|Spell]]/[[Trap Card]] from your [[field]] to the [[Graveyard]], and [[shuffle]] 2 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s from your Graveyard into the [[Main Deck|Deck]].
+  | lore             = [[Destroy]] 1 Spell/Trap Card on your opponent's field. Then, if you sent "[[Gear Section]]" to the Graveyard to meet the [[Activation condition|requirement]], you can [[Draw a card|draw]] 1 card.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/LGP2-JP010; Neo Legend Awakening Pack; Common
   | mentions         = Gear Section
+  | supports         = 
+  * EARTH
+  * Machine
   | archseries       = Ancient Gear (series)
+  | action           = 
+  * Sends from field to Graveyard for cost
+  * Returns from Graveyard to Deck for cost
+  * You draw cards
+  | m/s/t            = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
