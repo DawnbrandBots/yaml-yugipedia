@@ -18,7 +18,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Continuous-like, Quick-like, Quick
-  | lore                  = Warrior monsters you control gain 500 ATK/DEF. Once per turn: You can discard 1 card; Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 2000/DEF 2000) with the following effect (this card is also still a Trap), then you can add 1 "ARG☆S" card from your Deck to your hand, except "ARG☆S - Tydel the Purple Lightning".<br />● Once per turn (Quick Effect): You can place this card in your Spell & Trap Zone face-up.
+  | lore                  = [[Warrior]] [[monster]]s you [[control]] gain 500 [[ATK]]/[[DEF]]. [[Once per turn]]: You can [[discard]] 1 card; [[Special Summon]] this card as an [[Effect Monster]] (Warrior/[[LIGHT]]/[[Level]] 4/ATK 2000/DEF 2000) with the following effect (this card is also still a [[Trap]]), then you can [[add]] 1 "[[ARG☆S]]" card from your [[Main Deck|Deck]] to your hand, except "ARG☆S - Tydel the Purple Lightning".<br />● Once per turn ([[Quick Effect]]): You can place this card in your [[Spell & Trap Zone]] [[face-up]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,10 +29,22 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP071; Supreme Darkness; 
+  | mentions              = ARG☆S - Tydel the Purple Lightning
+  | supports              = Warrior
   | archseries            = 
   * ARG☆S
   * Trap Monster
   | supports_archetypes   = ARG☆S
+  | action                = 
+  * Places itself in Spell & Trap Zone
+  * Discards for cost
+  * Adds from Deck to hand
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | m/s/t                 = Treats Trap Cards as monsters
+  | summoning             = Special Summons itself from your Spell & Trap Zone
+  | misc                  = Limited activations
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

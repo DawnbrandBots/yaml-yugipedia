@@ -18,7 +18,7 @@ wikitext: |-
   | property              = Field
   | password              = 
   | effect_types          = Ignition-like, Continuous-like, Trigger-like
-  | lore                  = Once per turn: You can pay 1000 LP; add 1 "ARG☆S" card from your GY or banishment to your hand. Each time a Continuous Trap(s) is Special Summoned from the Spell & Trap Zone to your field, inflict 500 damage to your opponent. Once per Chain, if your Continuous Trap Card activates its effect in the Monster Zone while you have a banished "ARG☆S" monster: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn.
+  | lore                  = [[Once per turn]]: You can pay 1000 [[LP]]; [[add]] 1 "[[ARG☆S]]" card from your [[GY]] or [[banishment]] to your [[hand]]. Each time a [[Continuous Trap]](s) is [[Special Summon]]ed from the [[Spell & Trap Zone]] to your [[field]], inflict 500 [[damage]] to your opponent. [[Once per Chain]], if your Continuous Trap Card activates its [[effect]] in the [[Monster Zone]] while you have a banished "ARG☆S" monster: You can [[target]] 1 [[face-up]] card your opponent [[control]]s; [[negate]] its effects until the end of this [[turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -29,8 +29,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP058; Supreme Darkness; 
+  | supports              = Continuous Trap Card
+  | related_to_archseries = Trap Monster
   | archseries            = ARG☆S
   | supports_archetypes   = ARG☆S
+  | action                = 
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | life_points           = 
+  * Pays Life Points for cost
+  * Damages your opponent
+  | misc                  = 
+  * Limited activations
+  * Once per Chain
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
