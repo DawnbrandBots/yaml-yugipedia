@@ -12,13 +12,18 @@ wikitext: |-
   | atk              = 1200
   | def              = 300
   | requirement      = [[Reveal]] 1 [[Legend Card]] in your [[hand]] to your opponent.
-  | lore             = [[Shuffle]] up to 2 [[monsters]] from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, if this card is in [[Attack Position]], you can [[Special Summon]] 1 "[[Legend Shooter]]" from your Graveyard to your field in [[face-up]] [[Defense Position]].
+  | lore             = [[Shuffle]] up to 2 [[Monster Card|monster]]s from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, if this card is in [[Attack Position]], you can [[Special Summon]] 1 "[[Legend Shooter]]" from your Graveyard to your [[field]] in [[face-up]] [[Defense Position]].
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
   RD/LGP2-JP046; Neo Legend Awakening Pack; Common
   | mentions         = Legend Shooter
+  | supports         = Legend Card
   | archseries       = Legend (series)
+  | action           = 
+  * Reveals your hand for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | summoning        = Special Summons from your Graveyard
   | database_id      = 
   | rush_duel_status = Not yet released
   }}
