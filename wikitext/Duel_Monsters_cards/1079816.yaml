@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Effect, Continuous-like, Ignition-like, Condition
-  | lore                = When this card is activated: You can Set 1 "Fabled" Spell/Trap from your Deck, except "Fabled Realm Resurrection". Your opponent cannot activate cards or effects when your "Fabled" monster is Synchro Summoned. Once per turn: You can discard 1 "Fabled" card, then activate 1 of these effects;<br />● Draw 1 card.<br />● Special Summon 1 "Fabled" monster from your GY or banishment.<br />You can only activate 1 "Fabled Realm Resurrection" per turn.
+  | lore                = When this card is [[activate]]d: You can [[Set]] 1 "[[Fabled]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]], except "Fabled Realm Resurrection". Your opponent cannot activate cards or [[effect]]s when your "Fabled" [[monster]] is [[Synchro Summon]]ed. [[Once per turn]]: You can [[discard]] 1 "Fabled" card, then activate 1 of these effects;<br />● [[Draw]] 1 card.<br />● [[Special Summon]] 1 "Fabled" monster from your [[GY]] or [[banishment]].<br />You can only activate 1 "Fabled Realm Resurrection" per [[turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,8 +31,25 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   TW02-JP004; Terminal World 2; Normal Parallel Rare
+  | mentions            = Fabled Realm Resurrection
   | archseries          = Fabled
   | supports_archetypes = Fabled
+  | action              = 
+  * Sets from your Deck
+  * You discard for cost
+  * You draw cards
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | summoning           = 
+  * Prevents activations upon Summon
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | misc                = 
+  * Limited activations
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

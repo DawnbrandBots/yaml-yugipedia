@@ -24,7 +24,7 @@ wikitext: |-
   | password              = 
   | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Quick, Ignition, Condition
-  | lore                  = 1 Tuner + 1+ non-Tuner monsters<br />Once per turn, during the Main Phase (Quick Effect): You can Tribute any number of "Fabled" monsters, and if you do, take control of that many face-up monsters your opponent controls, but their effects are negated. If this card is in your GY: You can target 1 other "Fabled" card in your GY; return this card to the Extra Deck, and if you do, add that target to your hand. You can only use this effect of "Fabledswarm Leverzebul" once per turn.
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />[[Once per turn]], during the [[Main Phase]] ([[Quick Effect]]): You can [[Tribute]] any number of "[[Fabled]]" monsters, and if you do, take [[control]] of that many [[face-up]] monsters your opponent controls, but their [[effect]]s are [[negate]]d. If this card is in your [[GY]]: You can [[target]] 1 other "Fabled" card in your GY; [[return]] this card to the [[Extra Deck]], and if you do, add that target to your [[hand]]. You can only use this effect of "Fabledswarm Leverzebul" once per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,6 +38,20 @@ wikitext: |-
   | archseries            = Fabled
   | supports_archetypes   = Fabled
   | related_to_archseries = lswarm
+  | action                = 
+  * Tributes as an effect
+  * Takes control of an opponent's monster
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to Extra Deck
+  * Adds from Graveyard to hand
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
