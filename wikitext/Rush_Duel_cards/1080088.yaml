@@ -11,17 +11,23 @@ wikitext: |-
   | level                  = 1
   | atk                    = 300
   | def                    = 200
-  | summoning_condition    = During your opponent's [[turn]], this card's name becomes "[[Skull Servant]]" while in the [[Graveyard]].
-  | requirement            = Change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | lore                   = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard. Then, if you have "[[Skull Servant (Rush Duel)|Skull Servant]]" or "[[King of the Skull Servants (Rush Duel)|King of the Skull Servants]]" in your Graveyard, you can send the top 2 cards of your Deck to the Graveyard.
+  | summoning_condition    = During your opponent's [[turn]], this card's name becomes "[[Skull Servant (Rush Duel)|Skull Servant]]" while in the [[Graveyard]].
+  | requirement            = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | lore                   = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard. Then, if you have "Skull Servant" or "[[King of the Skull Servants (Rush Duel)|King of the Skull Servants]]" in your Graveyard, you can send the top 2 cards of your Deck to the Graveyard.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/LGP2-JP057; Neo Legend Awakening Pack; Common
-  | mentions         = 
-  * King of the Skull Servants (Rush Duel)
+  | mentions               = 
   * Skull Servant (Rush Duel)
+  * King of the Skull Servants (Rush Duel)
+  | archseries             = Wight (Rush Duel)
+  | action                 = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change            = Changes own name while in the GY
   | database_id            = 
   | rush_duel_status       = Not yet released
   }}
