@@ -92,6 +92,15 @@ wikitext: |-
   | 
   | Crystal Witch
   | Magistus Witch
+  |-
+  | [[Spoon, the Seal of Magistus]]
+  | 
+  | 
+  |-
+  | [[Magistus Chorozo]]
+  | [[wikipedia:Choronzon|Choronzon]]
+  | Spirit
+  | 
   |}
 
   {| class="wikitable" style="text-align: center"
@@ -186,7 +195,7 @@ wikitext: |-
   | Searches a "Magistus" Spell/Traps, returns a banished Level 4 or lowe Spellcaster to GY
   |}
 
-  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s. With the exception of Synchro Zoroa, they have effects when treated as [[Equip Card]]s.
+  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s. With the exception of Chorozo and Synchro Zoroa, they have effects when treated as [[Equip Card]]s.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
   ! Magistus
@@ -195,9 +204,13 @@ wikitext: |-
   ! Equip effects
   |-
   | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
-  | [[Fusion Monster|Fusion]]
+  | rowspan=2 | [[Fusion Monster|Fusion]]
   | Equips itself to an opponent's monster during either player's turn
   | Equipped monster gains 1000 ATK/DEF, and takes its control if it was the target of the monster effect
+  |-
+  | [[Magistus Chorozo|Chorozo]]
+  | Negate the attack of a monster, gains ATK equal to that monster's, then returns that monster to the hand.
+  | -
   |-
   | [[Vahram, the Magistus Divinity Dragon|Vahram]]
   | rowspan=2 | [[Synchro Monster|Synchro]]
