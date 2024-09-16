@@ -25,7 +25,7 @@ wikitext: |-
   | def                 = 1000
   | password            = 
   | effect_types        = Ignition, Ignition, Condition
-  | lore                = You can [[discard]] this card, then [[activate]] 1 of these [[effect]]s;<br />● Add 1 "[[Magistus]]" [[Monster Card|monster]] from your [[Deck]] to your [[hand]], except "Spoon, the Seal of Magistus".<br />●  Halve the [[ATK]] of 1 [[face-up]] monster your opponent [[control]]s.<br /> You can [[banish]] this card from your [[Graveyard|GY]], then [[target]] 1 face-up monster you control; [[equip]] it with 1 "Magistus" monster from your [[Extra Deck]] or GY. You can only use each [[effect]] of "Spoon, the Seal of Magistus" [[once per turn]].
+  | lore                = You can [[discard]] this card, then [[activate]] 1 of these [[effect]]s;<br />● Add 1 "[[Magistus]]" [[Monster Card|monster]] from your [[Deck]] to your [[hand]], except "Spoon, the Seal of Magistus".<br />●  Halve the [[ATK]] of 1 [[face-up]] monster your opponent [[control]]s until the end of this [[turn]].<br />You can [[banish]] this card from your [[Graveyard|GY]], then [[target]] 1 face-up monster you control; [[equip]] it with 1 "Magistus" monster from your [[Extra Deck]] or GY. You can only use each [[effect]] of "Spoon, the Seal of Magistus" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -44,12 +44,12 @@ wikitext: |-
   YOS2-JP001; Yu-Gi-Oh! OCG Stories Magistus Arc Volume 1 promotional card; Ultra Rare
   | kr_sets             = 
   | sc_sets             = 
-  | supports            = 
+  | mentions            = Spoon, the Seal of Magistus
   | archseries          = Magistus
   | supports_archetypes = Magistus
   | action              = 
   * Activates from your hand
-  * You discard for cost
+  * Discards itself for cost
   * Adds from Deck to hand
   * Activates from your Graveyard
   * Equips from the player's Extra Deck
@@ -57,10 +57,11 @@ wikitext: |-
   | stat_change         = 
   * Your opponent's monsters lose ATK
   * Halves ATK
-  | m/s/t               = 
-  * Treats monsters as Equip Cards
+  | m/s/t               = Treats monsters as Equip Cards
   | banished            = Banishes itself from Graveyard for cost
-  | misc                = Only once per turn
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
