@@ -24,7 +24,7 @@ wikitext: |-
   | password            = 
   | materials           = 1 Tuner + 1 or more non-Tuner monsters with 2500 original ATK and DEF
   | effect_types        = Continuous, Continuous, Quick
-  | lore                = 1 [[Tuner]] + 1+ non-Tuner monsters with 2500 original ATK and DEF<br />This [[Synchro Summon]]ed card cannot be [[destroy]]ed by your opponent's card [[effect]]s, also your opponent cannot target this Synchro Summoned card with card effects. While you have 25 or more cards in your [[GY]], this Synchro Summoned card gains 100 [[ATK]]/[[DEF]] for each card on the [[field]] and in the GYs. [[Once per turn]], when a [[Spell Card]] is activated and your opponent has 25 or more cards in their GY ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that card.
+  | lore                = 1 [[Tuner]] + 1+ non-Tuner monsters with 2500 [[original ATK and DEF]]<br />This [[Synchro Summon]]ed card cannot be [[destroy]]ed by your opponent's card [[effect]]s, also your opponent cannot target this Synchro Summoned card with card effects. While you have 25 or more cards in your [[GY]], this Synchro Summoned card gains 100 [[ATK]]/[[DEF]] for each card on the [[field]] and in the GYs. [[Once per turn]], when a [[Spell Card]] is activated and your opponent has 25 or more cards in their GY ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that card.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -38,15 +38,20 @@ wikitext: |-
   | related_to_archseries =
   * Dark Magician (archetype)
   * Dark Magician Girl (archetype)
-  | summoning           =
-  * Does not require specific Tuner Synchro Materials
-  * 1 or more non-Tuner Synchro Materials
-  | m/s/t               =
-  * Negates the activation of Spell Cards
-  * Destroys Spell Cards
   | stat_change         =
   * This card gains ATK
   * This card gains DEF
+  | m/s/t               =
+  * Cannot be destroyed by card effects
+  * Cannot be targeted by card effects
+  * Negates the activation of Spell Cards
+  * Destroys Spell Cards
+  | summoning           =
+  * Does not require specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Requires ATK specific Synchro Materials
+  * Requires DEF specific Synchro Materials
+  | misc                = Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
