@@ -22,7 +22,7 @@ httpx[http2]==0.27.2
     # via -r requirements.in
 hyperframe==6.0.1
     # via h2
-idna==3.9
+idna==3.10
     # via
     #   anyio
     #   httpx
