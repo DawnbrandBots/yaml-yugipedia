@@ -1,7 +1,5 @@
-title: Metal Copycat
+title: Metal Illusionist
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -11,12 +9,12 @@ wikitext: |-
   | ja_name             = {{Ruby|鋼鉄の幻想師|メタル・イリュージョニスト}}
   | romaji_name         = Metaru Iryūjonisuto
   | base_romaji_name    = Kōtetsu no Gensōshi
-  | trans_name          = Metal Illusionist
+  | base_trans_name     = Steel Illusionist
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 钢铁幻象师
   | sc_pinyin_name      = 
-  | image               = MetalCopycat-ROTA-JP-R.png
+  | image               = MetalIllusionist-ROTA-JP-R.png
   | attribute           = LIGHT
   | types               = Spellcaster / Effect
   | level               = 1
@@ -24,7 +22,7 @@ wikitext: |-
   | def                 = 0
   | password            = 29157292
   | effect_types        = Continuous, Condition, Trigger, Ignition
-  | lore                = This card's [[Level]] is increased by 4 during your opponent's [[turn]] only. You can only use each of the following [[effect]]s of "Metal Copycat" [[once per turn]]. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Set]] 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] directly from your [[Main Deck|Deck]], then, if you have "[[Enhanced Metalmorph]]" in your [[GY]], you can [[draw]] 1 card. You can [[declare]] 1 [[Type|Monster Type]]; this card becomes that Type until the end of your opponent's turn.
+  | lore                = Increase this card's [[Level]] by 4 during your opponent's [[turn]] only. You can only use each of the following [[effect]]s of "Metal Illusionist" [[once per turn]]. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Set]] 1 "[[Metalmorph (archetype)|Metalmorph]]" [[Trap]] from your [[Main Deck|Deck]], then if "[[Max Metalmorph]]" is in your [[GY]], you can [[draw]] 1 card. You can [[declare]] 1 other [[Type|Monster Type]]; this card becomes that Type, until the end of your opponent's turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,11 +31,23 @@ wikitext: |-
   | ja_lore             = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「メタル化」罠カード１枚を自分フィールドにセットする。自分の墓地に「メタル化・強化反射装甲」が存在する場合、さらに自分は１枚ドローできる。②：このカードがモンスターゾーンに存在する限り、このカードのレベルは相手ターンの間４つ上がる。③：種族を１つ宣言して発動できる。このカードは相手ターン終了時まで、宣言した種族になる。
   | ko_lore             = 
   | sc_lore             = 此卡名的①③效果１回合仅可各使用１次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将１张“钢铁化”陷阱卡放置在自己场上。自己墓地存在“钢铁化・强化反射装甲”的情况下，进而自己可抽１张。②：只要此卡存在于怪兽区域，此卡的等级在对手回合期间上升４。③：宣言１个种族可以发动。此卡直至对手回合结束时为止，变为所宣言的种族。
+  | en_sets             = 
+  ROTA-EN008; Rage of the Abyss; 
+  | fr_sets             = 
+  ROTA-FR008; Rage of the Abyss; 
+  | de_sets             = 
+  ROTA-DE008; Rage of the Abyss; 
+  | it_sets             = 
+  ROTA-IT008; Rage of the Abyss; 
+  | pt_sets             = 
+  ROTA-PT008; Rage of the Abyss; 
+  | sp_sets             = 
+  ROTA-SP008; Rage of the Abyss; 
   | jp_sets             = 
   ROTA-JP008; Rage of the Abyss; Rare
-  | sc_sets               = 
+  | sc_sets             = 
   ROTA-SC008; Rage of the Abyss; Rare
-  | mentions            = Enhanced Metalmorph
+  | mentions            = Max Metalmorph
   | supports_archetypes = Metalmorph (archetype)
   | action              = 
   * Activates upon Normal Summon
