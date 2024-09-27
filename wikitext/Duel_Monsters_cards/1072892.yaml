@@ -1,7 +1,5 @@
-title: Token Alliance
+title: Token Support
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,16 +8,16 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|共|きょう}}{{Ruby|闘|とう}}{{Ruby|闘|とう}}{{Ruby|君|くん}}
   | romaji_name           = Kyōtō Tōkun
-  | trans_name            = 
+  | trans_name            = Token Alliance
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 共斗斗君
-  | image                 = TokenAlliance-ROTA-JP-NR.png
+  | image                 = TokenSupport-ROTA-JP-NR.png
   | card_type             = Spell
   | property              = Continuous
   | password              = 53545926
   | effect_types          = Ignition-like, Condition, Trigger-like
-  | lore                  = You can [[Tribute]] any number of [[Token]]s, then [[target]] 1 [[monster]] you control with 0 [[ATK]]; until the end of this [[turn]], it gains 1000 [[ATK]] for each Token Tributed, also it can make up to that many [[attack]]s on [[monsters]] during each [[Battle Phase]]. You can only use this effect of "Token Alliance" once per turn. At the end of your opponent's Battle Phase: You can [[Special Summon]] "[[Alliance Token]]s" ([[Beast]]/[[EARTH]]/[[Level]] 1/ATK 0/[[DEF]] 0), up to the number of Tokens destroyed during this Battle Phase.
+  | lore                  = You can [[Tribute]] any number of [[Token]]s, then [[target]] 1 [[monster]] you control with 0 [[ATK]]; it gains [[ATK]] equal to the number Tributed x 1000 (until the end of this [[turn]]), and if it does, it can [[attack]] [[monsters]] up to the number Tributed during each [[Battle Phase]] this turn. You can only use this effect of "Token Support" once per turn. At the end of your opponent's Battle Phase: You can [[Special Summon]] "[[Support Token]]s" ([[Beast]]/[[EARTH]]/[[Level]] 1/ATK 0/[[DEF]] 0) up to the number of Tokens destroyed during this Battle Phase.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,11 +26,23 @@ wikitext: |-
   | ja_lore               = このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドのトークンを任意の数だけリリースし、自分フィールドの攻撃力０のモンスター１体を対象として発動できる。そのモンスターはターン終了時まで、攻撃力がリリースした数×１０００アップし、リリースした数まで１度のバトルフェイズ中にモンスターに攻撃できる。②：相手バトルフェイズ終了時に発動できる。このバトルフェイズ中に破壊されたトークンの数まで、自分フィールドに「共闘トークン」（獣族・地・星１・攻／守０）を特殊召喚する。
   | ko_lore               = 
   | sc_lore               = 此卡名的①效果１回合仅可使用１次。①：解放自己场上任意数量的衍生物，以自己场上的１只攻击力０的怪兽为对象可以发动。该怪兽直至回合结束时为止，攻击力上升相当于所解放的数量×１０００的数值，在１次战斗阶段中可攻击怪兽的次数最多为所解放的数量。②：对手的战斗阶段结束时可以发动。将“共斗衍生物”（兽族・地・星１・攻／守０）特殊召唤至自己场上，数量最多为此战斗阶段中被破坏的衍生物的数量。
+  | en_sets               = 
+  ROTA-EN067; Rage of the Abyss; Common
+  | fr_sets               = 
+  ROTA-FR067; Rage of the Abyss; Common
+  | de_sets               = 
+  ROTA-DE067; Rage of the Abyss; Common
+  | it_sets               = 
+  ROTA-IT067; Rage of the Abyss; Common
+  | pt_sets               = 
+  ROTA-PT067; Rage of the Abyss; Common
+  | sp_sets               = 
+  ROTA-SP067; Rage of the Abyss; Common
   | jp_sets               = 
   ROTA-JP067; Rage of the Abyss; Normal Rare
   | sc_sets               = 
   ROTA-SC067; Rage of the Abyss; Common
-  | mentions              = Alliance Token
+  | mentions              = Support Token
   | supports              = Monster Token
   | action                = Tributes for cost
   | stat_change           = Your monsters gain ATK

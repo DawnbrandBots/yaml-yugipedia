@@ -1,6 +1,5 @@
 title: Primite Imperial Dragon
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -22,7 +21,7 @@ wikitext: |-
   | def                 = 0
   | password            = 81418467
   | effect_types        = Summoning condition, Quick, Condition, Trigger
-  | lore                = Requires 1 [[Normal Monster]] [[Tribute]] to [[Normal Summon]] [[face-up]]. During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[reveal]] this card in your [[hand]]; immediately after this [[effect]] [[resolve]]s, Normal Summon 1 "[[Primite]]" [[monster]]. You can only use this effect of "Primite Imperial Dragon" [[once per turn]]. If this card is [[Tribute Summon]]ed: You can apply these effects, in sequence.<br />● [[Negate]] the effects of all face-up monsters your opponent currently [[control]]s.<br />● [[Banish]] all monsters your opponent controls with the same [[Type]] and/or [[Attribute]] as any of the Normal Monsters in your [[GY]].
+  | lore                = Cannot be [[Normal Summon]]ed, except by Tributing 1 [[Normal Monster]] (but can be [[Normal Set]]). During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[reveal]] this card in your [[hand]]; immediately after this [[effect]] [[resolve]]s, Normal Summon 1 "[[Primite]]" [[monster]]. You can only use this effect of "Primite Imperial Dragon" [[once per turn]]. If this card is [[Tribute Summon]]ed: You can apply these effects in sequence.<br />● [[Negate]] the effects of all face-up monsters your opponent currently [[control]]s.<br />● [[Banish]] all monsters your opponent controls with the same [[Type]] or [[Attribute]] as a Normal Monster in your [[GY]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,10 +30,22 @@ wikitext: |-
   | ja_lore             = このカードは通常モンスター１体をリリースした場合のみ召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：相手メインフェイズに、手札のこのカードを相手に見せて発動できる。「原石」モンスター１体の召喚を行う。②：このカードがアドバンス召喚した場合に発動できる。以下の効果をそれぞれ適用する。●相手フィールドの全ての表側表示モンスターの効果は無効化される。●種族か属性が、自分の墓地の通常モンスターのいずれかと同じとなる相手フィールドのモンスターを全て除外する。
   | ko_lore             = 
   | sc_lore             = 此卡仅可在解放１只通常怪兽的情况下召唤。此卡名的①效果１回合仅可使用１次。①：在对手的主要阶段，向对手出示手牌的此卡可以发动。进行１只“原石”怪兽的召唤。②：此卡上级召唤的情况下可以发动。分别适用以下效果。<br />●对手场上的所有表侧表示怪兽的效果无效化。<br />●将对手场上的种族或属性与自己墓地的任一通常怪兽相同的怪兽全部除外。
+  | en_sets             = 
+  ROTA-EN013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
+  | fr_sets             = 
+  ROTA-FR013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
+  | de_sets             = 
+  ROTA-DE013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
+  | it_sets             = 
+  ROTA-IT013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
+  | pt_sets             = 
+  ROTA-PT013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
+  | sp_sets             = 
+  ROTA-SP013; Rage of the Abyss; Ultra Rare, Quarter Century Secret Rare
   | jp_sets             = 
   ROTA-JP013; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ROTA-JP013; Rage of the Abyss +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | sc_sets               = 
+  | sc_sets             = 
   ROTA-SC013; Rage of the Abyss; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ROTA-SC013; Rage of the Abyss +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
   | supports            = Normal Monster
