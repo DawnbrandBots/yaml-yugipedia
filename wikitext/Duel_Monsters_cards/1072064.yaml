@@ -1,7 +1,5 @@
-title: Puppet Shark Style
+title: Puppet Shark
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 傀儡风仪－傀偶鲨鱼
-  | image                 = PuppetSharkStyle-ROTA-JP-R.png
+  | image                 = PuppetShark-ROTA-JP-R.png
   | card_type             = Trap
   | property              = Normal
   | password              = 53323475
   | effect_types          = Effect, Condition
-  | lore                  = [[Detach]] 1 [[material]] from a [[monster]] on the [[field]], and if you do, [[excavate]] the top 4 cards of your [[Main Deck|Deck]], choose 1 of them, and apply this [[effect]] based on its type, also place the rest on top of the Deck in the same order.<br />● Monster/[[Spell]]: [[Add]] it to your [[hand]].<br />● [[Trap]]: [[Set]] it. It can be [[activate]]d this [[turn]].<br />You can only activate 1 "Puppet Shark Style" [[Once per turn|per turn]].
+  | lore                  = [[Detach]] 1 [[material]] from a [[monster]] on either [[field]], and if you do, [[excavate]] the top 4 cards of your [[Main Deck|Deck]], choose 1 of them, and apply the appropriate [[effect]] based on its card type, also place the rest on top of the Deck in the same order.<br />● Monster/[[Spell]]: [[Add]] it to your [[hand]].<br />● [[Trap]]: [[Set]] it. It can be [[activate]]d this [[turn]].<br />You can only activate 1 "Puppet Shark" [[Once per turn|per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_lore               = このカード名のカードは１ターンに１枚しか発動できない。①：フィールドのＸ素材を１つ取り除き、自分のデッキの上からカード４枚をめくり、その中から１枚を選ぶ。そのカードの種類によって以下の効果を適用する。残りのカードを元の順番でデッキの上に戻す。<br />●モンスター・魔法：選んだカードを手札に加える。<br />●罠：選んだカードを自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。
   | ko_lore               = 
   | sc_lore               = 此卡名的卡１回合仅可发动１张。①：去除场上的１个超量素材，从自己牌组上面翻开４张卡，从其中挑选１张。根据该卡的种类，适用以下效果。将剩余的卡以原本的顺序放回牌组上面。<br />●怪兽・魔法：将所挑选的卡加入手牌。<br />●陷阱：将所选的卡放置在自己场上。以此效果放置的卡在放置的回合也可以发动。
+  | en_sets               = 
+  ROTA-EN070; Rage of the Abyss; Common
+  | fr_sets               = 
+  ROTA-FR070; Rage of the Abyss; Common
+  | de_sets               = 
+  ROTA-DE070; Rage of the Abyss; Common
+  | it_sets               = 
+  ROTA-IT070; Rage of the Abyss; Common
+  | pt_sets               = 
+  ROTA-PT070; Rage of the Abyss; Common
+  | sp_sets               = 
+  ROTA-SP070; Rage of the Abyss; Common
   | jp_sets               = 
   ROTA-JP070; Rage of the Abyss; Rare
   | sc_sets               = 

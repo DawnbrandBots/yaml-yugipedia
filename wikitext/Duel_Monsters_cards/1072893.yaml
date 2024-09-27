@@ -1,7 +1,5 @@
-title: Slapdash Summer Schoolwork Success
+title: Summer Schoolwork Successful!
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,16 +8,16 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|火|か}}{{Ruby|器|き}}の{{Ruby|祝|しゅく}}{{Ruby|台|だい}}
   | romaji_name           = Kaki no Shukudai
-  | trans_name            = 
+  | trans_name            = Fireworks Summer Schoolwork Celebration
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 火器的祝台
-  | image                 = SlapdashSummerSchoolworkSuccess-ROTA-JP-NR.png
+  | image                 = SummerSchoolworkSuccessful-ROTA-JP-NR.png
   | card_type             = Trap
   | property              = Continuous
   | password              = 77751766
   | effect_types          = Activation requirement, Trigger-like
-  | lore                  = [[Activate]] this card by placing 5 [[Success Counter]]s on it. If a [[monster]](s) is [[Special Summon]]ed from the [[Extra Deck]], and/or a card(s) is [[sent]] from the [[Main Deck|Deck]] to the [[GY]], by a [[Spell]]/[[Trap]] [[effect]]: Remove 1 Success Counter from this card, then, if there are no Success Counters on it, [[destroy]] it, and if you do, gain 4000 [[LP]], then [[Set]] 1 "[[Schoolwork Success]]" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.
+  | lore                  = [[Activate]] this card by placing 5 [[Schoolwork Counter]]s on it. If a [[monster]](s) is [[Special Summon]]ed from the [[Extra Deck]], or a card(s) is [[sent]] from the [[Main Deck|Deck]] to the [[GY]], by a [[Spell]]/[[Trap]] [[effect]]: Remove 1 Schoolwork Counter from this card, then if the number of Schoolwork Counters on this card is now 0, [[destroy]] this card, and if you do, gain 4000 [[LP]], then [[Set]] 1 "[[Schoolwork]]" Trap from your Deck or GY, then if you have 1 or less cards in your Deck, you win the Duel.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -28,16 +26,28 @@ wikitext: |-
   | ja_lore               = このカードを発動する場合、このカードに祝台カウンターを５つ置いて発動する。①：魔法・罠カードの効果で、ＥＸデッキからモンスターが特殊召喚された場合、またはデッキからカードが墓地へ送られた場合に発動する。このカードの祝台カウンターを１つ取り除く。その後、このカードの祝台カウンターの数が０の場合、このカードを破壊し、自分は４０００ＬＰ回復する。その後、自分のデッキ・墓地から「祝台」罠カード１枚を自分フィールドにセットする。その後、自分のデッキの枚数が１枚以下の場合、自分はデュエルに勝利する。
   | ko_lore               = 
   | sc_lore               = 发动此卡的情况下，在此卡上放５个祝台计数物发动。①：因魔法・陷阱卡的效果、使得怪兽被从额外牌组特殊召唤的情况下，或使得卡被从牌组送至墓地的情况下发动。去除此卡的１个祝台计数物。然后，此卡的祝台计数物的数量为０的情况下，将此卡破坏，自己恢复４０００LP。然后，从自己牌组・墓地将１张“祝台”陷阱卡放置在自己场上。然后，自己牌组的张数为１张以下的情况下，自己获得决斗胜利。
+  | en_sets               = 
+  ROTA-EN080; Rage of the Abyss; Common
+  | fr_sets               = 
+  ROTA-FR080; Rage of the Abyss; Common
+  | de_sets               = 
+  ROTA-DE080; Rage of the Abyss; Common
+  | it_sets               = 
+  ROTA-IT080; Rage of the Abyss; Common
+  | pt_sets               = 
+  ROTA-PT080; Rage of the Abyss; Common
+  | sp_sets               = 
+  ROTA-SP080; Rage of the Abyss; Common
   | jp_sets               = 
   ROTA-JP080; Rage of the Abyss; Normal Rare
   | sc_sets               = 
   ROTA-SC080; Rage of the Abyss; Common
   | archseries            = 
-  * Schoolwork Success
+  * Schoolwork
   * Duel winner
-  | supports_archetypes   = Schoolwork Success
+  | supports_archetypes   = Schoolwork
   | counter               = 
-  * Success Counter
+  * Schoolwork Counter
   * Places counters on itself
   * Removes counters from itself
   | action                = 

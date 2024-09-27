@@ -4,13 +4,15 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name          = {{Ruby|古代の機械変速|アンティーク・ギアチェンジ}}
+  | base_romaji_name = Kodai no Kikaihensoku
+  | base_trans_name  = Ancient Machine Gear Shift
   | romaji_name      = Antīku Gia Chenji
-  | trans_name       = 
+  | trans_name       = Antique Gear Change
   | image            = AncientGearChange-RDLGP2-JP-OP.png
   | card_type        = Spell
   | property         = Equip
-  | requirement      = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monster on your [[field]] whose [[original ATK]] equals its own original DEF.
-  | lore             = The equipped monster gains 400 [[ATK]]. Then, if the equipped monster is "[[Ancient Gear Golem (Rush Duel)|Ancient Gear Golem]]" or "[[Ancient Gear Beast (Rush Duel)|Ancient Gear Beast]]", it gains 600 ATK.
+  | requirement      = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]] whose [[original ATK]] equals its own original DEF.
+  | lore             = The equipped monster gains 400 [[ATK]]. Then, if the equipped monster is "[[Ancient Gear Golem (Rush Duel)|Ancient Gear Golem]]" or "[[Ancient Gear Beast (Rush Duel)|Ancient Gear Beast]]", it gains additional 600 ATK.
   | ja_requirement   = 
   | ja_lore          = 
   | jp_sets          = 
@@ -18,6 +20,11 @@ wikitext: |-
   | mentions         = 
   * Ancient Gear Golem (Rush Duel)
   * Ancient Gear Beast (Rush Duel)
+  | supports         = 
+  * EARTH
+  * Machine
   | archseries       = Ancient Gear (series)
+  | stat_change      = Equipped gains ATK
+  | misc             = Equips only to a specific target
   | database_id      = 
   }}
