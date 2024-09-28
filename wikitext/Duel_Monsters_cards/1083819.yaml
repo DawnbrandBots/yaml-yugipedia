@@ -19,8 +19,9 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 1800
   | password              = 
+  | materials             = 1 Level 5 or higher Insect-Type monster + 1 Insect-Type monster
   | effect_types          = Continuous, Quick, Condition
-  | lore                  = 1 Level 5 or higher Insect monster + 1 Insect monster<br />Cannot be destroyed by your opponent's card effects. If all face-up monsters you control are Insect monsters (Quick Effect): You can target 2 monsters on the field, including an Insect monster you control; banish them. You can only use this effect of "Heavy Cavalry of the Indestructible Insects" once per turn.
+  | lore                  = 1 [[Level]] 5 or higher [[Insect]] [[monster]] + 1 Insect monster<br />Cannot be [[destroy]]ed by your opponent's [[card effect]]s. If all [[face-up]] monsters you [[control]] are Insect monsters ([[Quick Effect]]): You can [[target]] 2 monsters on the [[field]], including an Insect monster you control; [[banish]] them. You can only use this effect of "Heavy Cavalry of the Indestructible Insects" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,7 +42,19 @@ wikitext: |-
   ROTA-PT082; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP082; Rage of the Abyss; Common
-  | archseries = Indestructible Insect
+  | supports              = Insect
+  | archseries            = Indestructible Insect
+  | m/s/t                 = Cannot be destroyed by card effects
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | banished              = 
+  * Banishes from your field
+  * Banishes from your opponent's field
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

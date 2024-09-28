@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Continuous-like, Condition, Ignition-like, Trigger-like
-  | lore                  = Face-up monsters your opponent controls that were not Summoned this turn become Insect. You can only use each of the following effects of "Insect Invitation" once per turn. You can target 3 of your banished Insect monsters; shuffle them into the Deck, then draw 1 card. During the End Phase, if this card is in the GY because it was sent there from the hand this turn: You can place this card face-up in your Spell & Trap Zone.
+  | lore                  = [[Face-up]] [[monster]]s your opponent [[control]]s that were not [[Summon]]ed this [[turn]] become [[Insect]]. You can only use each of the following effects of "Insect Invitation" [[once per turn]]. You can [[target]] 3 of your [[banish]]ed Insect monsters; [[shuffle]] them into the [[Deck]], then [[draw]] 1 card. During the [[End Phase]], if this card is in the [[GY]] because it was [[Send|sent]] there from the [[hand]] this turn: You can place this card face-up in your [[Spell & Trap Zone]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,6 +38,14 @@ wikitext: |-
   ROTA-PT083; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP083; Rage of the Abyss; Common
+  | supports              = Insect
+  | action                = 
+  * Returns the player's banished cards to the Deck
+  * You draw cards
+  * Activates from your Graveyard
+  * Places cards from Graveyard in Spell & Trap Zone
+  | stat_change           = Changes Type
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
