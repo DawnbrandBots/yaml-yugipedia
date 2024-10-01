@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect, Condition
-  | lore                  = If a monster(s) is Tributed from the hand or field (except during the Damage Step): Target 1 face-up monster your opponent controls; apply the following effect, based on which player owns that face-up monster.<br />● You: Take control of it, but return it to the hand during the End Phase.<br />● Your opponent: Negate its effects until the end of this turn.<br />You can only activate 1 "Release Brainwashing" per turn.
+  | lore                  = If a [[monster]](s) is [[Tribute]]d from the [[hand]] or [[field]] (except during the [[Damage Step]]): [[Target]] 1 [[face-up]] monster your opponent [[control]]s; apply the following [[effect]], based on which player [[own]]s that face-up monster.<br />● You: Take control of it, but [[return]] it to the hand during the [[End Phase]].<br />● Your opponent: [[Negate]] its effects until the end of this [[turn]].<br />You can only [[activate]] 1 "Release Brainwashing" per turn.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -38,6 +38,14 @@ wikitext: |-
   ROTA-PT086; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP086; Rage of the Abyss; Common
+  | action                = 
+  * Activates if Tributed
+  * Takes control of an opponent's monster
+  * Returns from your field to your hand
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

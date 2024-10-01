@@ -19,8 +19,9 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2800
   | password              = 
+  | materials             = 1 LIGHT monster + 2 monsters, except on the field or in the GY
   | effect_types          = Continuous, Continuous, Ignition
-  | lore                  = 1 LIGHT monster + 2 monsters, except on the field or in the GY<br />This Fusion Summoned card cannot be destroyed by battle. As long as no monsters on your field or GY share an original name with any monster on your opponent's field or GY, monsters you control cannot be destroyed by card effects. You can send from your hand, Deck, or Extra Deck to the GY, 1 monster with the same original name as a monster on your opponent's field or GY, then target 1 monster on their field or GY; banish it.
+  | lore                  = 1 [[LIGHT]] [[monster]] + 2 monsters, except on the [[field]] or in the [[GY]]<br />This [[Fusion Summon]]ed card cannot be [[destroyed by battle]]. As long as no monsters on your field or GY share an original name with any monster on your opponent's field or GY, monsters you [[control]] cannot be [[destroy]]ed by [[card effect]]s. You can [[send]] from your [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] to the GY, 1 monster with the same original name as a monster on your opponent's field or GY, then [[target]] 1 monster on their field or GY; [[banish]] it.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +42,22 @@ wikitext: |-
   ROTA-PT087; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP087; Rage of the Abyss; Common
+  | supports              = LIGHT
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Sends from Extra Deck to Graveyard for cost
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires location specific Fusion Materials
+  | attack                = Cannot be destroyed by battle
+  | banished              = 
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

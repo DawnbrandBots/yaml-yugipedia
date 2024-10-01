@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 1200
   | password              = 
   | effect_types          = Continuous, Condition, Ignition, Trigger
-  | lore                  = Cannot be Tributed, or be destroyed by battle, while face-up on the field. You can only use each of the following effects of "Mantman the Ultrahuman" once per turn. If your opponent controls a face-up card you own: You can Special Summon this card from your hand. During the End Phase, if this card was Normal or Special Summoned this turn: You can place this card on the bottom of the Deck, then you can return 1 face-up card on the field you own to your hand.
+  | lore                  = Cannot be [[Tribute]]d, or be [[destroyed by battle]], while [[face-up]] on the [[field]]. You can only use each of the following [[effect]]s of "Mantman the Ultrahuman" [[once per turn]]. If your opponent [[control]]s a face-up card you [[own]]: You can [[Special Summon]] this card from your [[hand]]. During the [[End Phase]], if this card was [[Normal Summon|Normal]] or [[Special Summon]]ed this [[turn]]: You can place this card on the bottom of the [[Main Deck|Deck]], then you can [[return]] 1 face-up card on the field you own to your hand.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,16 @@ wikitext: |-
   ROTA-PT084; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP084; Rage of the Abyss; Common
+  | action                = 
+  * Cannot be Tributed
+  * Activates from your hand
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Places itself from the player's field on the bottom of the Deck
+  * Returns from field to hand
+  | summoning             = Special Summons itself from your hand
+  | attack                = Cannot be destroyed by battle
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

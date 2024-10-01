@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 400
   | password              = 
   | effect_types          = Trigger, Trigger, Condition, Condition
-  | lore                  = If this card is sent to the GY to activate a monster effect: You can add this card to your hand. If a monster(s) is sent to your GY, except by battle, while this card is in your GY (except during the Damage Step): You can discard 1 card to the GY; Special Summon this card. You can only use 1 "Butterfly Fish" effect per turn, and only once that turn. You cannot Special Summon from the Extra Deck, except WATER monsters, the turn you activate either of this card's effects.
+  | lore                  = If this card is [[Send|sent]] to the [[GY]] to [[activate]] a [[monster effect]]: You can [[add]] this card to your [[hand]]. If a monster(s) is sent to your GY, except by [[battle]], while this card is in your GY (except during the [[Damage Step]]): You can [[discard]] 1 card to the GY; [[Special Summon]] this card. You can only use 1 "Butterfly Fish" [[effect]] per [[turn]], and [[once per turn|only once that turn]]. You cannot Special Summon from the [[Extra Deck]], except [[WATER]] monsters, the turn you [[activate]] either of this card's effects.
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,6 +41,18 @@ wikitext: |-
   ROTA-PT088; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP088; Rage of the Abyss; Common
+  | supports              = WATER
+  | action                = 
+  * Activates if sent to the Graveyard for cost
+  * Returns itself from Graveyard to hand
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  * Discards for cost
+  | summoning             = 
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released

@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 300
   | password              = 
   | effect_types          = Ignition, Condition
-  | lore                  = If the total Levels of monsters you control are less than or equal to the total Levels of monsters your opponent controls: You can Tribute this card; add 1 Level 7 or higher Insect or Plant monster from your Deck to your hand. During the End Phase of this turn, take 2700 damage if you did not Normal or Special Summon the added monster, or a card with the same original name, after activating this effect. You can only use this effect of "Phalaenop Sisters" once per turn.
+  | lore                  = If the total [[Level]]s of [[monster]]s you [[control]] are less than or equal to the total Levels of monsters your opponent controls: You can [[Tribute]] this card; [[add]] 1 Level 7 or higher [[Insect]] or [[Plant]] monster from your [[Main Deck|Deck]] to your [[hand]]. During the [[End Phase]] of this [[turn]], take 2700 [[damage]] if you did not [[Normal Summon|Normal]] or [[Special Summon]] the added monster, or a card with the same original name, after [[activate|activating]] this [[effect]]. You can only use this effect of "Phalaenop Sisters" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -41,7 +41,15 @@ wikitext: |-
   ROTA-PT085; Rage of the Abyss; Common
   | sp_sets               = 
   ROTA-SP085; Rage of the Abyss; Common
+  | supports              = 
+  * Insect
+  * Plant
   | related_to_archseries = Kaiju
+  | action                = 
+  * Tributes itself for cost
+  * Adds from Deck to hand
+  | life_points           = Damages you
+  | misc                  = Only once per turn
   | database_id           = 
   | tcg_status            = Not yet released
   | ocg_status            = Not yet released
