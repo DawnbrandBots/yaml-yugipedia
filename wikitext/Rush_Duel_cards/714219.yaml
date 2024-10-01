@@ -1,18 +1,15 @@
-title: Card Reprinting
+title: Card Restoration
 wikitext: |-
-  {{About|the card|the term|Reprint}}
-  {{Unofficial lore|English}}
-  {{rename|Card Restoration|Duel Links name, Roa's voice lines}}
   {{CardTable2
   | ja_name        = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|増|ぞう}}{{Ruby|刷|さつ}}
   | romaji_name    = Tefuda Zōsatsu
   | trans_name     = Hand Reprinting
   | ko_name        = 카드 증쇄
-  | image          = CardReprinting-RDLGP1-JP-C.png
+  | image          = CardRestoration-RDLGP1-JP-C.png
   | card_type      = Trap
   | property       = Normal
   | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
-  | lore           = [[Draw a card|Draw]] until you have 5 cards in your [[hand]] and [[reveal]] your entire hand to your opponent. If a monster(s) is among them, gain [[LP]] equal to [the number of those monsters] x 200.
+  | lore           = [[Draw a card|Draw]] until you have 5 cards in your [[hand]] and [[reveal]] your hand. If you have a monster in your hand, also gain [[LP]] equal to [the number of monsters in your hand] x 200.
   | ja_requirement = 相手モンスターの攻撃宣言時に発動できる。
   | ja_lore        = 自分は手札が５枚になるようにドローし、自分の手札を全て相手に見せる。その中にモンスターがいる場合、さらに自分は［そのモンスターの数］×２００ＬＰ回復する。
   | ko_requirement = 상대 몬스터의 공격 선언시에 발동할 수 있다.
