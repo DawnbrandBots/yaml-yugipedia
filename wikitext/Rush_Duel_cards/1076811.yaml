@@ -14,10 +14,10 @@ wikitext: |-
   | effect_types    = Multi-Choice
   | fusion_material = 
   * Imaginary Actor
-  * Attract Golem
-  | materials       = "[[Imaginary Actor]]" + "[[Attract Golem]]"
+  * Attraction Golem
+  | materials       = "[[Imaginary Actor]]" + "[[Attraction Golem]]"
   | requirement     = You have 10 or more cards in your [[Main Deck|Deck]].
-  | lore            = ● [[Draw a card|Draw]] 1 card.<br />● [[Shuffle]] up to 6 [[Rock]] [[Type]] [[monsters]] from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, inflict 1400 damage to your opponent.
+  | lore            = ●[[Draw a card|Draw]] 1 card. ●[[Shuffle]] up to 6 [[Rock]] [[Type]] [[Monster Card|monster]]s from your opponent's [[Graveyard]] into the Deck. Then, [[Damage|inflict]] 1400 [[Effect damage|damage]] to your opponent.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_lore         = 
@@ -25,7 +25,18 @@ wikitext: |-
   RD/LGP2-JP019; Neo Legend Awakening Pack; Super Rare
   | mentions        = 
   * Imaginary Actor
-  * Attract Golem
+  * Attraction Golem
+  | anti-supports   = Rock
   | archseries      = Metarion
+  | action          = 
+  * You draw cards
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | life_points     = Damages your opponent
+  | misc            = Variable effects
   | database_id     = 
   }}

@@ -12,12 +12,21 @@ wikitext: |-
   | level          = 4
   | atk            = 1400
   | def            = 500
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] in your [[hand]].
-  | lore           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can inflict 500 damage to your opponent.
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] in your [[hand]] to your opponent.
+  | lore           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/LGP2-JP026; Neo Legend Awakening Pack; Common
+  | supports       = 
+  * LIGHT
+  * Normal Monster
   | archseries     = Metarion
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Reveals your hand for cost
+  * Sends from the top of your Deck to your Graveyard
+  | life_points    = Damages your opponent
+  | fm_for         = Metarion Geniustar
   | database_id    = 
   }}

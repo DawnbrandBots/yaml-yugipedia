@@ -16,8 +16,8 @@ wikitext: |-
   * Imaginary Actor
   * Evil Baller
   | materials       = "[[Imaginary Actor]]" + "[[Evil Baller]]"
-  | requirement     = Place 1 [[monster]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | lore            = ● 1 [[face-down]] [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field cannot be [[activate]]d until the end of their next [[turn]].<br />● [[Destroy]] 1 [[face-up]] [[Fiend]] [[Type]] monster on your opponent's field.
+  | requirement     = Place 1 [[Monster Card|monster]] from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]].
+  | lore            = ●1 [[face-down]] [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]] cannot be [[activate]]d until the end of their next [[turn]]. ●[[Destroy]] 1 [[face-up]] [[Fiend]] [[Type]] monster on your opponent's field.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_lore         = 
@@ -26,6 +26,20 @@ wikitext: |-
   | mentions        = 
   * Imaginary Actor
   * Evil Baller
+  | anti-supports   = Fiend
   | archseries      = Metarion
+  | action          = Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t           = 
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Destroys your opponent's face-up Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | misc            = 
+  * Variable effects
+  * Turn limited effects
   | database_id     = 
   }}
