@@ -3,19 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = メタリオン・ゲニウスター
-  | romaji_name      = Metarion Geniusutā
-  | image            = MetarionGeniustar-OW.png
-  | attribute        = LIGHT
-  | types            = Cyborg / Fusion / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = TBA
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/LGP2-JP0??; Neo Legend Awakening Pack
-  | archseries       = Metarion
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | ja_name         = メタリオン・ゲニウスター
+  | romaji_name     = Metarion Geniusutā
+  | image           = MetarionGeniustar-RDLGP2-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Cyborg / Fusion / Effect
+  | level           = 9
+  | atk             = 2800
+  | def             = 2500
+  | effect_types    = Multi-Choice
+  | fusion_material = 
+  * Imaginary Actor
+  * Attract Golem
+  | materials       = "[[Imaginary Actor]]" + "[[Attract Golem]]"
+  | requirement     = You have 10 or more cards in your [[Main Deck|Deck]].
+  | lore            = ● [[Draw a card|Draw]] 1 card.<br />● [[Shuffle]] up to 6 [[Rock]] [[Type]] [[monsters]] from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, inflict 1400 damage to your opponent.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_lore         = 
+  | jp_sets         = 
+  RD/LGP2-JP019; Neo Legend Awakening Pack; Super Rare
+  | mentions        = 
+  * Imaginary Actor
+  * Attract Golem
+  | archseries      = Metarion
+  | database_id     = 
   }}
