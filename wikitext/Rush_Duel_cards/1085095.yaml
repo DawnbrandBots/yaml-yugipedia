@@ -3,19 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = アニマル・ドクター・リリー
-  | romaji_name      = Animaru Dokutā Rirī
-  | image            = AnimalDoctorLily-RDKP19-JP-OP.png
-  | attribute        = EARTH
-  | types            = Beast-Warrior / Effect
-  | level            = 3
-  | atk              = 400
-  | def              = 1500
-  | requirement      = During the [[turn]] you [[Normal Summon]]ed this card, pay 500 [[LP]].
-  | lore             = [[Special Summon]] 1 [[EARTH]] [[Attribute]] [[monster]] with 400 [[ATK]]/1500 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make 1 face-up monster on your field gain 1000 ATK until the end of your opponent's next turn.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = アニマル・ドクター・リリー
+  | romaji_name    = Animaru Dokutā Rirī
+  | image          = AnimalDoctorLily-RDKP19-JP-OP.png
+  | attribute      = EARTH
+  | types          = Beast-Warrior / Effect
+  | level          = 3
+  | atk            = 400
+  | def            = 1500
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[pay]] 500 [[LP]].
+  | lore           = [[Special Summon]] 1 [[EARTH]] [[Attribute]] [[Monster Card|monster]] with 400 [[ATK]]/1500 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make 1 face-up monster on your field gain 1000 ATK until the end of your opponent's next turn.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP022; Salamandeus of Scorching; Super Rare
-  | database_id      = 
+  | supports       = EARTH
+  | action         = Activates during the turn in which it was Normal Summoned
+  | stat_change    = Your monsters gain ATK
+  | summoning      = Special Summons from your Graveyard
+  | life_points    = Pays Life Points for cost
+  | misc           = Turn limited effects
+  | database_id    = 
   }}

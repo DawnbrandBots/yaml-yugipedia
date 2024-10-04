@@ -12,14 +12,19 @@ wikitext: |-
   | atk                    = 0
   | def                    = 0
   | effect_types           = Continuous
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[monster]] with 0 [[ATK]].
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Monster Card|monster]] with 0 [[ATK]].
   | requirement            = None
-  | lore                   = This card gains 2200 [[ATK]] and inflicts [[piercing]] [[battle damage]]. [[Face-up]] monsters on your [[field]] with 0 [[original ATK]] cannot be destroyed by your opponent's monster effects or Spell Card effects.
+  | lore                   = This card gains 2200 [[ATK]] and [[Damage|inflict]]s [[piercing]] [[battle damage]]. [[Face-up]] monsters on your [[field]] with 0 [[Original ATK and DEF|original ATK]] cannot be [[destroy]]ed by your opponent's [[monster effect]]s or [[Spell Card]] [[effect]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP19-JP027; Salamandeus of Scorching; Ultra Rare, Secret Rare, Over Rush Rare
   | archseries             = Love
+  | stat_change            = This card gains ATK
+  | m/s/t                  = Cannot be destroyed by card effects
+  | summoning              = Normal Summon with 1 Tribute
+  | attack                 = Piercing
+  | misc                   = Requires control of specific ATK
   | database_id            = 
   }}

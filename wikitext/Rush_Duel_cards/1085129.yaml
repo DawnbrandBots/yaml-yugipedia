@@ -3,20 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name       = ヴォルカライズ・イフリート
-  | romaji_name   = Vorukaraizu Ifurīto
-  | image         = VolcalizeIfrit-RDKP19-JP-OP.png
-  | attribute     = FIRE
-  | types         = Pyro / Effect
-  | level         = 6
-  | atk           = 0
-  | def           = 0
-  | effect_types  = Continuous
-  | requirement   = None
-  | lore          = This card gains [[ATK]] equal to [the [[original Level]] of 1 [[FIRE]] [[Attribute]] [[Pyro]], [[Aqua]], or [[Thunder]] [[Type]] [[monster]] [[Tribute]]d for its [[Tribute Summon]] in [[Attack Position]]] x 400.
-  | ja_lore       = 
-  | jp_sets       = 
+  | ja_name        = ヴォルカライズ・イフリート
+  | romaji_name    = Vorukaraizu Ifurīto
+  | image          = VolcalizeIfrit-RDKP19-JP-OP.png
+  | attribute      = FIRE
+  | types          = Pyro / Effect
+  | level          = 6
+  | atk            = 0
+  | def            = 0
+  | effect_types   = Continuous
+  | requirement    = None
+  | lore           = This card gains [[ATK]] equal to [the [[Original Level and Rank|original Level]] of 1 [[FIRE]] [[Attribute]] [[Pyro]]/[[Aqua]]/[[Thunder]] [[Type]] [[Monster Card|monster]] [[Tribute]]d for its [[Tribute Summon]] in [[Attack Position]]] x 400.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP004; Salamandeus of Scorching; Common
-  | archseries    = Chemistry
-  | database_id   = 
+  | supports       = 
+  * FIRE
+  * Pyro
+  * Aqua
+  * Thunder
+  | archseries     = Chemistry
+  | stat_change    = This card gains ATK
+  | database_id    = 
   }}

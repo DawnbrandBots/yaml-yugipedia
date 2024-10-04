@@ -4,6 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name          = {{Ruby|古代の歯車冠|アンティーク・ギアクラウン}}
+  | base_romaji_name = Kodai no Haguruma Kanmuri
   | romaji_name      = Antīku Gia Kuraun
   | trans_name       = Antique Gear Crown
   | image            = AncientGearCrown-RDLGP2-JP-OP.png
@@ -12,7 +13,7 @@ wikitext: |-
   | level            = 2
   | atk              = 100
   | def              = 100
-  | requirement      = You [[Normal Summon]]ed this card this [[turn]] and the only [[monsters]] in your [[Graveyard]] are [[Machine]] [[Type]] monsters.
+  | requirement      = You [[Normal Summon]]ed this card this [[turn]] and the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Machine]] [[Type]].
   | lore             = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Gear Section]]" or 1 "[[Ancient Gear Change]]" from your Graveyard to your [[hand]].
   | ja_requirement   = 
   | ja_lore          = 
@@ -21,6 +22,12 @@ wikitext: |-
   | mentions         = 
   * Gear Section
   * Ancient Gear Change
+  | supports         = Machine
   | archseries       = Ancient Gear (series)
+  | action           = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | misc             = Requires having only specific Type in Graveyard
   | database_id      = 
   }}

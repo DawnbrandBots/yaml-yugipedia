@@ -3,23 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = スリー・ライザー
-  | romaji_name      = Surī Raizā
-  | image            = ThreeRiser-RDKP19-JP-OP.png
-  | attribute        = FIRE
-  | types            = Thunder / Effect
-  | level            = 1
-  | atk              = 300
-  | def              = 300
+  | ja_name        = スリー・ライザー
+  | romaji_name    = Surī Raizā
+  | image          = ThreeRiser-RDKP19-JP-OP.png
+  | attribute      = FIRE
+  | types          = Thunder / Effect
+  | level          = 1
+  | atk            = 300
+  | def            = 300
   | requirement    = Place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
-  | lore           = [[Add a card|Add]] 1 "[[Maximum Flare Fusion]]" or "[[Chemicalizer Wing]]" from your [[Graveyard]] to your [[hand]]. Then, you can add 1 "[[Chemicalize Salamander]]" from your Graveyard to your hand.
-  | ja_lore          = 
-  | jp_sets          = 
+  | lore           = [[Add a card|Add]] 1 "[[Maximum Flare Fusion]]" or 1 "[[Chemicalizer Wing]]" from your [[Graveyard]] to your [[hand]]. Then, you can add 1 "[[Chemicalize Salamander]]" from your Graveyard to your hand.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP002; Salamandeus of Scorching; Common
-  | mentions         = 
-  * Chemicalize Salamander
-  * Chemicalizer Wing
+  | mentions       = 
   * Maximum Flare Fusion
-  | archseries       = Chemistry
-  | database_id      = 
+  * Chemicalizer Wing
+  * Chemicalize Salamander
+  | archseries     = Chemistry
+  | action         = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | database_id    = 
   }}
