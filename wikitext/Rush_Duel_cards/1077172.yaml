@@ -3,19 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = アイルラヴ・アンジュ
-  | romaji_name      = Airuravu Anju
-  | image            = IllLoveAnge-OW.png
-  | attribute        = ???
-  | types            = ??? / ???
-  | level            = ???
-  | atk              = ???
-  | def              = ???
-  | lore             = TBA
-  | ja_lore          = 
-  | jp_sets          = 
-  RD/KP19-JP0??; Salamandeus of Scorching
-  | archseries       = Love
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | ja_name                = アイルラヴ・アンジュ
+  | romaji_name            = Airuravu Anju
+  | image                  = IllLoveAnge-RDKP19-JP-OP.png
+  | attribute              = DARK
+  | types                  = Fairy / Effect
+  | level                  = 7
+  | atk                    = 0
+  | def                    = 0
+  | effect_types           = Continuous
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[monster]] with 0 [[ATK]].
+  | requirement            = None
+  | lore                   = This card gains 2200 [[ATK]] and inflicts [[piercing]] [[battle damage]]. [[Face-up]] monsters on your [[field]] with 0 [[original ATK]] cannot be destroyed by your opponent's monster effects or Spell Card effects.
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP19-JP027; Salamandeus of Scorching; Ultra Rare, Secret Rare, Over Rush Rare
+  | archseries             = Love
+  | database_id            = 
   }}
