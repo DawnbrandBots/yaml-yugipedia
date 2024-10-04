@@ -3,17 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = マキシマム・フレア・フュージョン
-  | romaji_name      = Makishimamu Furea Fyūjon
-  | image            = MaximumFlareFusion-RDKP19-JP-OP.png
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = None
-  | lore             = [[Fusion Summon]] a [[FIRE]] [[Attribute]] [[monster]] by [[send]]ing monsters from your [[hand]] or [[field]] to the [[Graveyard]] as [[material]], including a FIRE Attribute [[Maximum Monster]]. Then, if you sent a monster in [[Maximum Mode]] to the Graveyard by this [[effect]], while the monster Special Summoned by this [[effect]] is [[face-up]], it cannot be destroyed by your opponent's card effects, and it inflicts [[piercing]] [[battle damage]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = マキシマム・フレア・フュージョン
+  | romaji_name    = Makishimamu Furea Fyūjon
+  | image          = MaximumFlareFusion-RDKP19-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | lore           = [[Fusion Summon]] a [[FIRE]] [[Attribute]] [[Monster Card|monster]] by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]], including a FIRE Attribute [[Maximum Monster]]. Then, if you sent a monster in [[Maximum Mode]] to the Graveyard by this [[effect]], while the monster Special Summoned by this effect is [[face-up]], it cannot be [[destroy]]ed by your opponent's card effects, and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP049; Salamandeus of Scorching; Rare
-  | archseries       = Chemistry
-  | database_id      = 
+  | supports       = 
+  * FIRE
+  * Maximum Monster
+  | archseries     = Chemistry
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack         = Piercing
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  | database_id    = 
   }}

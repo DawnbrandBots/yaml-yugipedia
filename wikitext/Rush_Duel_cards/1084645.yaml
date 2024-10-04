@@ -17,7 +17,7 @@ wikitext: |-
   | materials              = "[[Dark Matter Dragon]]" + "[[Contact Dark Matter Wyvern]]" + 1 [[Normal Monster]]
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement            = During your [[Main Phase]] that you [[Special Summon]]ed this card.
-  | lore                   = Each [[Duelist|player]] [[send]]s the top 3 cards of their [[Main Deck|Deck]] to the [[Graveyard]]. This [[turn]], this card can make up to 3 [[attack]]s on [[Monster Card|monster]]s, and it [[Damage|inflicts]] [[piercing]] [[battle damage]]. Then, you can Special Summon up to 3 [[Level]] 5 or higher monsters from your opponent's Graveyard to their [[field]] in [[face-down]] Defense Position.
+  | lore                   = Each [[Duelist|player]] [[send]]s the top 3 cards of their [[Main Deck|Deck]] to the [[Graveyard]]. This [[turn]], this card can make up to 3 [[attack]]s on [[Monster Card|monster]]s, and it [[Damage|inflict]]s [[piercing]] [[battle damage]]. Then, you can Special Summon up to 3 [[Level]] 5 or higher monsters from your opponent's Graveyard to their [[field]] in [[face-down]] [[Defense Position]].
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
@@ -29,13 +29,22 @@ wikitext: |-
   * Contact Dark Matter Wyvern
   | supports               = Normal Monster
   | archseries             = Dark Matter (series)
-  | related_to_archseries  = Transamu
-  | action                 = Returns Fusion Materials for Contact Fusion to Deck
+  | related_to_archseries  = Transam
+  | action                 = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
   | summoning              = 
   * 3 Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires nonspecific Normal Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  * Special Summons face-down
+  | attack                 = 
+  * Can make multiple attacks on monsters
+  * Piercing
   | database_id            = 
   }}

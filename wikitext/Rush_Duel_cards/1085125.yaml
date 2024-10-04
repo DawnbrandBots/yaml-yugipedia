@@ -3,22 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アルケミカライズ・オーブ
-  | romaji_name     = Arukemikaraizu Ōbu
-  | image           = AlchemicalizeOrb-RDKP19-JP-OP.png
-  | attribute       = FIRE
-  | types           = Pyro / Fusion / Effect
-  | level           = 5
-  | atk             = 2200
-  | def             = 1000
-  | materials       = 1 [[FIRE]] [[Attribute]] [[Pyro]] [[Type]] [[monster]] + 1 Aqua Type or Thunder Type monster
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore            = Choose 1 [[face-up]] monster on your [[field]]. This [[turn]], that monster inflicts [[piercing]] [[battle damage]]. Then, you can place 1 [[Spell]]/[[Trap Card]] from your opponent's field on top of the owner's Deck.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_lore         = 
-  | jp_sets         = 
+  | ja_name        = アルケミカライズ・オーブ
+  | romaji_name    = Arukemikaraizu Ōbu
+  | image          = AlchemicalizeOrb-RDKP19-JP-OP.png
+  | attribute      = FIRE
+  | types          = Pyro / Fusion / Effect
+  | level          = 5
+  | atk            = 2200
+  | def            = 1000
+  | materials      = 1 [[FIRE]] [[Attribute]] [[Pyro]] [[Type]] [[Monster Card|monster]] + 1 [[Aqua]] Type or [[Thunder]] Type monster
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = Choose 1 [[face-up]] monster on your [[field]]. This [[turn]], that monster [[Damage|inflict]]s [[piercing]] [[battle damage]]. Then, you can place 1 [[Spell Card|Spell]]/[[Trap Card]] from your opponent's field on top of the [[owner]]'s Deck.
+  | ja_materials   = 
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP037; Salamandeus of Scorching; Common
-  | archseries      = Chemistry
-  | database_id     = 
+  | supports       = 
+  * FIRE
+  * Pyro
+  * Aqua
+  * Thunder
+  | archseries     = Chemistry
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Places cards from the opponent's field on the top of the Deck
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack         = Piercing
+  | database_id    = 
   }}

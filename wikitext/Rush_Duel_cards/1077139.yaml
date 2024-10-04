@@ -14,7 +14,7 @@ wikitext: |-
   | fusion_material = Chemicalize Salamander
   | materials       = "[[Chemicalize Salamander]]" + 1 [[Pyro]]/[[Aqua]]/[[Thunder]] [[Type]] [[Maximum Monster]]
   | requirement     = Place 3 Maximum Monsters from your [[Graveyard]] on either the top or bottom of the [[Main Deck|Deck]] in any order.
-  | lore            = All [[face-up]] [[monsters]] on your opponent's field lose 3000 [[ATK]] until the end of this [[turn]]. Then, if you activated this [[effect]] during the [[turn]] you [[Fusion Summon]]ed this card using a monster in [[Maximum Mode]] as [[material]], this card can make up to 3 attacks this turn.
+  | lore            = All [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 3000 [[ATK]] until the end of this [[turn]]. Then, if you [[activate]]d this [[effect]] during the turn you [[Fusion Summon]]ed this card using a monster in [[Maximum Mode]] as [[material]], it can make up to 3 [[attack]]s this turn.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_lore         = 
@@ -27,11 +27,16 @@ wikitext: |-
   * Thunder
   * Maximum Monster
   | archseries      = Chemistry
+  | action          = 
+  * Places cards from the player's Graveyard on the top of the Deck for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | stat_change     = Your opponent's monsters lose ATK
   | summoning       = 
   * 2 Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires Type specific Fusion Materials
   * Requires Maximum Monsters as Fusion Materials
+  | attack          = Multiple attacker
   | misc            = Cover card
   | database_id     = 
   }}

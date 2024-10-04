@@ -3,17 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|天|てん}}{{Ruby|使|し}}のお{{Ruby|注|ちゅう}}{{Ruby|射|しゃ}}
-  | romaji_name      = Tenshi no Ochūsha
-  | trans_name       = Angel's Injection
-  | image            = FairysInjection-RDKP19-JP-OP.png
-  | card_type        = Trap
-  | property         = Normal
-  | requirement      = When your opponent draws a card(s) during their [[turn]], or when your opponent [[Normal Summon]]s a [[monster]].
-  | lore             = [[Send]] 1 monster from your field to the [[Graveyard]]. Then, if you have an [[EARTH]] [[Attribute]] monster with 400 [[ATK]]/1500 [[DEF]] in your Graveyard, you can destroy 1 monster on your opponent's field.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|天|てん}}{{Ruby|使|し}}のお{{Ruby|注|ちゅう}}{{Ruby|射|しゃ}}
+  | romaji_name    = Tenshi no Ochūsha
+  | trans_name     = Angel's Injection
+  | image          = FairysInjection-RDKP19-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon]]s a [[Monster Card|monster]].
+  | lore           = [[Send]] 1 monster from your [[field]] to the [[Graveyard]]. Then, if you have an [[EARTH]] [[Attribute]] monster with 400 [[ATK]]/1500 [[DEF]] in your Graveyard, you can [[destroy]] 1 monster on your opponent's field.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/KP19-JP061; Salamandeus of Scorching; Common
-  | database_id      = 
+  | supports       = EARTH
+  | action         = 
+  * Activates if your opponent draws a card
+  * Activates upon Normal Summon
+  * Sends from your field to your Graveyard
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | database_id    = 
   }}
