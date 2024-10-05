@@ -3,17 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|虚鋼演機名優|イマジナリー・アーク・タレンツ}}
-  | romaji_name      = Imajinarī Āku Tarentsu
-  | image            = ImaginaryArcTalents-RDLGP2-JP-OP.png
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = None
-  | lore             = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[send]] 1 excavated [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] or 1 excavated "[[Fusion (Rush Duel)|Fusion]]" to the [[Graveyard]]. Place the remaining cards on the bottom of your Deck in any order. Then, if you sent a card to the Graveyard by this [[effect]], you can [[Draw a card|draw]] 1 card.
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = {{Ruby|虚鋼演機名優|イマジナリー・アーク・タレンツ}}
+  | romaji_name    = Imajinarī Āku Tarentsu
+  | image          = ImaginaryArcTalents-RDLGP2-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | lore           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[send]] 1 excavated [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] or 1 excavated "[[Fusion (Rush Duel)|Fusion]]" to the [[Graveyard]]. Place the other cards on the bottom of your Deck in any order. Then, if you sent a card to the Graveyard by this [[effect]], you can [[Draw a card|draw]] 1 card.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/LGP2-JP037; Neo Legend Awakening Pack; Common
-  | archseries       = Metarion
-  | database_id      = 
+  | mentions       = Fusion (Rush Duel)
+  | supports       = 
+  * LIGHT
+  * Normal Monster
+  | archseries     = Metarion
+  | action         = 
+  * Excavates from the player's Deck
+  * Sends excavated cards to the Graveyard
+  * Places excavated cards on the bottom of the Deck
+  * You draw cards
+  | database_id    = 
   }}

@@ -4,19 +4,26 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = ファンタズム・マスクマスター
-  | romaji_name    = Fantazumu Masukumasutā
+  | romaji_name    = Fantazumu Masuku Masutā
   | image          = PhantasmMaskMaster-RDLGP2-JP-OP.png
   | attribute      = LIGHT
   | types          = Machine / Effect
   | level          = 6
   | atk            = 1800
   | def            = 500
-  | requirement    = [[Reveal]] 1 [[Level]] 9 [[Cyborg]] [[Type]] [[Fusion Monster]] in your [[Extra Deck]] to your opponent, and [[declare]] 1 card name listed as [[material]] on that monster.
+  | requirement    = [[Reveal]] 1 [[Level]] 9 [[Cyborg]] [[Type]] [[Fusion Monster]] in your [[Extra Deck]] to your opponent, and [[declare]] 1 card name listed as [[material]] on that [[Monster Card|monster]].
   | lore           = This card's name becomes the name declared to meet the [[Activation condition|requirement]] this [[turn]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/LGP2-JP028; Neo Legend Awakening Pack; Super Rare
-  | related_to_archseries = Metarion
+  | supports       = 
+  * Cyborg
+  * Fusion Monster
+  | archseries     = Metarion
+  | action         = 
+  * Reveals your Extra Deck for cost
+  * Declares a card name
+  | stat_change    = Changes own name while on the field
   | database_id    = 
   }}
