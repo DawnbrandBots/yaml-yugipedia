@@ -3,7 +3,7 @@ wikitext: |-
   {{CardTable2
   | fr_name               = Choctopus
   | de_name               = Schocktopus
-  | ko_name               = 샤크토퍼스
+  | ko_name               = 쇼크토퍼스
   | it_name               = Shocktopus
   | es_name               = Shockpulpo
   | pt_name               = Choquetopus
@@ -25,7 +25,7 @@ wikitext: |-
   | pt_lore               = Quando este card for destruído em uma batalha com um monstro do oponente e enviado para o Cemitério: você pode equipar este card ao monstro do oponente. O ATK desse monstro se torna 0 e, além disso, ele não pode mudar sua posição de batalha.
   | es_lore               = Cuando esta carta es destruída en batalla con un monstruo de tu adversario y mandada al Cementerio: puedes equipar esta carta al monstruo de tu adversario. El ATK de ese monstruo se convierte en 0 y éste no puede cambiar su posición de batalla.
   | ja_lore               = このカードが相手モンスターとの戦闘によって破壊され墓地へ送られた時、このカードを装備カード扱いとしてその相手モンスターに装備できる。この効果によってこのカードを装備したモンスターは攻撃力が０になり、表示形式を変更できない。
-  | ko_lore               = 이 카드가 상대 몬스터와의 전투에 의해서 파괴되어 묘지로 보내졌을 때, 이 카드를 장착 카드로 취급하여 그 상대 몬스터에 장착할 수 있다. 이 효과에 의해서 이 카드를 장착한 몬스터는 공격력이 0 이 되고, 표시 형식을 변경할 수 없다.
+  | ko_lore               = ①: 이 카드가 상대 몬스터와의 전투로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 이 카드를 이하의 효과를 가지는 장착 마법 카드로 취급하여 그 상대 몬스터에 장착한다. ●장착 몬스터는 공격력이 0 이 되고, 표시 형식을 변경할 수 없다.
   | en_sets               = 
   ORCS-EN006; Order of Chaos; Common
   BP02-EN102; Battle Pack 2: War of the Giants; Common, Mosaic Rare
@@ -59,6 +59,7 @@ wikitext: |-
   ORCS-JP006; Order of Chaos; Common
   | kr_sets               = 
   ORCS-KR006; Order of Chaos; Common
+  AE21-KR024; Advanced Event Pack 2024 Vol.2 Version 1; Common
   | related_to_archseries = Shark (archetype)
   | action                = 
   * Activates if destroyed by battle
