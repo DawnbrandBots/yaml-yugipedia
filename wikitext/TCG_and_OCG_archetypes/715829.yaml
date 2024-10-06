@@ -15,44 +15,120 @@ wikitext: |-
   | es_name        = Materiactor
   | sets           = 
   * [[Dimension Force]]
+  * [[Supreme Darkness]]
   | tcg            = 
   * [[Blazing Vortex]]
   | ocg            = 
   * [[World Premiere Pack 2021]]
   }}
-  "'''Materiactor'''" is a [[TCG Exclusives|''TCG'' World Premiere]] [[archetype]] of [[DARK]] [[Dragon]] [[monster]]s introduced in ''[[Blazing Vortex]]''.
-  Unusually for a World Premiere archetype, the theme debuted with just 2 cards and received no additional support until a year later.
+  "'''Materiactor'''" is a [[TCG Exclusives|''TCG'' World Premiere]] [[archetype]] of [[Dragon]] [[monster]]s introduced in ''[[Blazing Vortex]]''.
+  ==Etymology==
+  The "Materiactor" name is a portmanteau of Material and Reactor, the former being a reference to both [[Xyz Material]] and Nuclear/Chemical material. The names of the monsters all follow the convention of a Metric Prefix that is a Power of 10 by a multiple of 3 followed by either a shortened Type name for the Main Deck, or a mythological creature for the Extra Deck. The Spell/Trap names all relate to nuclear or chemical reactions.
+  {| class="wikitable" style="text-align:center"
+  ! rowspan="1" | [[wikipedia:Metric prefix|Metric Prefix]]
+  ! rowspan="1" | Attribute
+  ! colspan="1" | Materiactor
+  ! colspan="1" | Suffix
+  |-
+  |-
+  | rowspan=2|
+  Zepto (10^-9)
+  | rowspan=2|
+  [[FIRE]]
+  | [[Materiactor Zeptwing|Zeptwing]]
+  | [[Winged Beast]]
+  |-
+  | 
+  | 
+  |-
+  | rowspan=2 |
+  Giga (10^9)
+  | rowspan=2 |
+  [[DARK]]
+  | [[Materiactor Gigadra|Gigadra]]
+  | [[Dragon]]
+  |-
+  | [[Materiactor Gigaboros|Gigaboros]]
+  | [[wikipedia:Ouroboros|Ouroboros]]
+  |-
+  | rowspan=2 |
+  Exa (10^18)
+  | rowspan=2|
+  [[WATER]]
+  | [[Materiactor Exarept|Exarept]]
+  | [[Reptile]]
+  |-
+  | [[Materiactor Exagarde|Exagarde]]
+  | [[wikipedia:Jörmungandr|Jörmungandr]]
+  |-
+  |}
+
+  {| class="wikitable" style="text-align:center"
+  ! rowspan="1" | [[Spell]]/[[Trap]]
+  ! rowspan="1" | Term
+  |-
+  |-
+  | [[Materiactor Annulus|Annulus]]
+  | [[wikipedia:Annulation|Annulation]]
+  |-
+  | [[Materiactor Meltdown|Meltdown]]
+  | [[wikipedia:Nuclear meltdown|Nuclear Meltdown]]
+  |-
+  | [[Materiactor Critical|Critical]]
+  | [[wikipedia:Criticality|Criticality]]
+  |-
+  |}
 
   == Design ==
+  The Materiactor Xyz Monsters visually resemble their main deck counterparts as ouroboros-like draconic monsters. This might be partially inspired by the [[Ryu-Ge]] archetype.
 
   == Playing style ==
-  The "Materiactor" [[Deck]] is currently focused on amassing [[Level]] 3 monsters to [[Xyz Summon]] their [[ace monster]] "[[Materiactor Gigaboros]]", otherwise their playing style is still unclear at this time.
+  The "Materiactor" [[Deck]] is a [[Level]]/[[Rank]] 3 strategy that synergizes with Level 3 [[Normal Monster]]s, either by Special Summoning them or being capable of applying additional effects if they are in the [[Graveyard]]. Once on the field, "Materiactor" Xyz Monsters can then be given additional material from the Deck, then use their own effects or the effects of "Materiactor" Spell/Traps to return attached materials to the hand.
 
   === Recommended cards ===
-  {{Decklist|Recommended cards (pending further support)
+  {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
   |normal monsters =
   * [[Hunter Dragon]] or any level 3 Normal monster
   |effect monsters =
+  * [[Materiactor Exarept]]
   * [[Materiactor Gigadra]]
+  * [[Materiactor Zeptowing]]
   * [[Defrag Dragon]]
   * [[Guardragon Garmides]]
   * [[Rescue Hedgehog]]
   * [[Tour Guide from the Underworld]]
   |xyz monsters =
+  * [[Materiactor Exagard]]
   * [[Materiactor Gigaboros]]
   * [[Number 3: Cicada King]]
+  * [[Number F0: Utopic Future]]
+  ** [[Number F0: Utopic Draco Future]]
+  * [[Xyz Armor Torpedo]]
+  ** [[Xyz Armor Fortress]]
+  ** [[Full Armored Dark Knight Lancer]]
+  |link monsters =
+  * [[Cherubini, Ebon Angel of the Burning Abyss]] 
+  * [[Hieratic Seal of the Heavenly Spheres]]
   |normal spells =
   * [[Materiactor Annulus]]
+  * [[Painful Decision]]
   * [[Unexpected Dai]]
   |continuous spells =
+  * [[Materiactor Meltdown]]
   * [[Overlay Network (card)|Overlay Network]]
   * [[Piercing the Darkness]]
   * [[Supernatural Danger Zone]]
   * [[World Legacy Guardragon]]
+  |quick-play spells =
+  * [[Sangen Kaimen]]
+  * [[Xyz Import]]
   |normal traps =
   * [[D.D.D. - Different Dimension Derby]]
+  * [[Full Armored Xyz]]
   * [[Guardragon Cataclysm]]
+  |counter traps =
+  * [[Materiactor Critical]]
   }}
   {{Archseries navbox}}
 
