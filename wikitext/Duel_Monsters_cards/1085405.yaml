@@ -29,8 +29,20 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP059; Supreme Darkness; 
+  | supports              = Xyz Monster
   | archseries            = Materiactor
   | supports_archetypes   = Materiactor
+  | action                = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the top of the Deck
+  * Adds Xyz Materials to the hand
+  * Attaches from your Deck as Xyz Material
+  | misc                  = 
+  * Requires control of specific Rank
+  * Requires control of specific Monster card type
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

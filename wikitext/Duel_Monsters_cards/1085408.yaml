@@ -29,7 +29,23 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP074; Supreme Darkness; 
+  | supports              = Xyz Monster
   | archseries            = Materiactor
+  | supports_archetypes   = Materiactor
+  | action                = 
+  * Adds Xyz Materials to the hand
+  * Places cards from the player's hand on the bottom of the Deck
+  * Sets from your hand
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = 
+  * Negates the activation of Effect Monster's effect
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released

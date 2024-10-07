@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 2000
   | def                   = 2000
   | password              = 
+  | materials             = 2 or more Level 3 monsters
   | effect_types          = Ignition, Trigger, Condition
   | lore                  = 2+ [[Level]] 3 [[monsters]]<br />You can [[detach]] 1 [[material]] from this card; from your [[Main Deck|Deck]], either [[Special Summon]] 1 "[[Materiactor]]" [[monster]], or [[Add a card|add]] 1 "Materiactor" [[Spell]]/[[Trap]] to your [[hand]]. If your opponent [[Normal Summon|Normal]] or Special Summons a monster(s): You can add up to 2 cards [[attach]]ed to this card to your hand, including a "Materiactor" card, then, if you have a Normal Monster in your [[GY]], you can [[return]] 1 card on the [[field]] to the hand. You can only use each effect of "Materiactor Exarept" [[once per turn]].
   | fr_lore               = 
@@ -32,8 +33,20 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   SUDA-JP045; Supreme Darkness; 
+  | supports              = Normal Monster
   | archseries            = Materiactor
   | supports_archetypes   = Materiactor
+  | action                = 
+  * Adds from Deck to hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds Xyz Materials to the hand
+  * Returns from field to hand
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your Deck
+  | misc                  = Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
