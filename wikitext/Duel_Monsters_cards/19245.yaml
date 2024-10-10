@@ -18,8 +18,8 @@ wikitext: |-
   | property              = Normal
   | password              = 54974237
   | effect_types          = Cost, Effect
-  | lore                  = [[Tribute]] 1 [[DARK]] [[Monster Card|monster]] with 2500 or more [[ATK]], and [[declare]] 1 type of card ([[Spell Card|Spell]] or [[Trap Card|Trap]]); look at your opponent's [[hand]], all Spells/Traps they [[control]], and all cards they [[Draw a card|draw]] until the end of their 3rd [[turn]] after this card's [[Activate|activation]], and [[destroy]] all cards of that declared type.
-  | trans_lore            = Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw '''for 3 of their turns''', and destroy all cards of that declared type.
+  | lore                  = [[Tribute]] 1 [[DARK]] [[Monster Card|monster]] with 2500 or more [[ATK]], and [[declare]] 1 type of card ([[Spell Card|Spell]] or [[Trap Card|Trap]]); look at your opponent's [[hand]], all Spells/Traps they [[control]], and all cards they [[Draw a card|draw]] until the end of their 3rd [[turn]] after this card [[resolve]]s, and [[destroy]] all cards of that declared type.
+  | trans_lore            = Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this '''effect''' resolves, and destroy all cards of that declared type.
   | fr_lore               = Sacrifiez 1 monstre TÉNÈBRES avec min. 2500 ATK, et déclarez 1 type de carte (Magie ou Piège) ; regardez la main de votre adversaire, tous les Magies/Pièges qu'il contrôle et toutes les cartes qu'il pioche jusqu'à la fin de son 3e tour après activation de cette carte, et détruisez toutes les cartes du type déclaré.
   | de_lore               = Biete 1 FINSTERNIS Monster mit 2500 oder mehr ATK als Tribut an und deklariere 1 Kartentyp (Zauber oder Falle); sieh dir die Hand deines Gegners, alle Zauber/Fallen, die er kontrolliert, und alle Karten, die er bis zum Ende seines 3. Spielzugs nach Aktivierung dieser Karte zieht, an und zerstöre alle Karten jenes deklarierten Typs.
   | it_lore               = Offri come Tributo 1 mostro OSCURITÀ con ATK di 2500 o superiore, e dichiara 1 tipo di carta (Magia o Trappola); guarda la mano del tuo avversario, tutte le Magie/Trappole che controlla e tutte le carte che pesca fino alla fine del suo 3º turno dopo l'attivazione di questa carta, e distruggi tutte le carte di quel tipo dichiarato.
@@ -37,6 +37,7 @@ wikitext: |-
   LCKC-EN048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-EN033; Structure Deck: Lair of Darkness; Common
   WISU-EN059; Wild Survivors; Rare
+  OP26-EN028; OTS Tournament Pack 26; Common
   | fr_sets               = 
   FOTB-FR068; Force of the Breaker; Secret Rare
   TDGS-FRSE1; The Duelist Genesis: Special Edition; Super Rare
@@ -45,6 +46,7 @@ wikitext: |-
   LCKC-FR048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-FR033; Structure Deck: Lair of Darkness; Common
   WISU-FR059; Wild Survivors; Rare
+  OP26-FR028; OTS Tournament Pack 26; Common
   | de_sets               = 
   FOTB-DE068; Force of the Breaker; Secret Rare
   TDGS-DESE1; The Duelist Genesis: Special Edition; Super Rare
@@ -53,6 +55,7 @@ wikitext: |-
   LCKC-DE048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-DE033; Structure Deck: Lair of Darkness; Common
   WISU-DE059; Wild Survivors; Rare
+  OP26-DE028; OTS Tournament Pack 26; Common
   | it_sets               = 
   FOTB-IT068; Force of the Breaker; Secret Rare
   TDGS-ITSE1; The Duelist Genesis: Special Edition; Super Rare
@@ -61,11 +64,13 @@ wikitext: |-
   LCKC-IT048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-IT033; Structure Deck: Lair of Darkness; Common
   WISU-IT059; Wild Survivors; Rare
+  OP26-IT028; OTS Tournament Pack 26; Common
   | pt_sets               = 
   SDMP-PT040; Master of Pendulum Structure Deck; Common
   LCKC-PT048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-PT033; Structure Deck: Lair of Darkness; Common
   WISU-PT059; Wild Survivors; Rare
+  OP26-PT028; OTS Tournament Pack 26; Common
   | sp_sets               = 
   FOTB-SP068; Force of the Breaker; Secret Rare
   TDGS-SPSE1; The Duelist Genesis: Special Edition; Super Rare
@@ -74,6 +79,7 @@ wikitext: |-
   LCKC-SP048; Legendary Collection Kaiba Mega Pack; Ultra Rare
   SR06-SP033; Structure Deck: Lair of Darkness; Common
   WISU-SP059; Wild Survivors; Rare
+  OP26-SP028; OTS Tournament Pack 26; Common
   | jp_sets               = 
   SD12-JP026; Structure Deck: Curse of Darkness; Common
   SD21-JP034; Structure Deck: Devil's Gate; Common
