@@ -3,31 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = イマジナリー・リーディング・アクター
-  | romaji_name      = Imajinarī Rīdingu Akutā
-  | image            = ImaginaryLeadingActor-RDLGP2-JP-OP.png
-  | attribute        = LIGHT
-  | types            = Machine / Effect
-  | level            = 8
-  | atk              = 2500
-  | def              = 500
-  | requirement      = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore             = This card's name becomes "[[Imaginary Actor]]" this [[turn]]. Then, you can [[Add a card|add]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] and/or 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]].
-  | ja_requirement   = 
-  | ja_lore          = 
-  | jp_sets          = 
+  | ja_name        = イマジナリー・リーディング・アクター
+  | romaji_name    = Imajinarī Rīdingu Akutā
+  | image          = ImaginaryLeadingActor-RDLGP2-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Machine / Effect
+  | level          = 8
+  | atk            = 2500
+  | def            = 500
+  | requirement    = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore           = This card's name becomes "[[Imaginary Actor]]" this [[turn]]. Then, you can [[Add a card|add]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] and/or 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]].
+  | ja_requirement = デッキの上からカード３枚を墓地へ送って発動できる。
+  | ja_lore        = このカードのカード名はこのターン、「イマジナリー・アクター」になる。その後、自分の墓地の通常モンスター（光属性／守備力５００）と「フュージョン」をそれぞれ１枚まで選んで手札に加える事ができる。
+  | jp_sets        = 
   RD/LGP2-JP029; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
-  | mentions         = 
+  | mentions       = 
   * Imaginary Actor
   * Fusion (Rush Duel)
-  | supports         = 
+  | supports       = 
   * LIGHT
   * Normal Monster
-  | archseries       = Metarion
-  | action           = 
+  | archseries     = Metarion
+  | action         = 
   * Sends from the top of your Deck to your Graveyard for cost
   * Adds from Graveyard to hand
-  | stat_change      = Changes own name while on the field
-  | database_id      = 
-  | rush_duel_status = Not yet released
+  | stat_change    = Changes own name while on the field
+  | database_id    = 20858
   }}

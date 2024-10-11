@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = During your opponent's [[turn]], this card's name becomes "[[Skull Servant (Rush Duel)|Skull Servant]]" while in the [[Graveyard]].
   | requirement            = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
   | lore                   = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard. Then, if you have "Skull Servant" or "[[King of the Skull Servants (Rush Duel)|King of the Skull Servants]]" in your Graveyard, you can send the top 2 cards of your Deck to the Graveyard.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 相手ターンの間、墓地にいるこのカードのカード名は「ワイト」になる。
+  | ja_requirement         = 攻撃表示のこのカードを表側守備表示にして発動できる。
+  | ja_lore                = 自分はデッキの一番上のカードを墓地へ送る。その後、自分の墓地に「ワイト」または「ワイトキング」がいる場合、さらに自分のデッキの上からカード２枚を墓地へ送る事ができる。
   | jp_sets                = 
   RD/LGP2-JP057; Neo Legend Awakening Pack; Common
   | mentions               = 
@@ -28,6 +28,5 @@ wikitext: |-
   * Changes battle positions for cost
   * Sends from the top of your Deck to your Graveyard
   | stat_change            = Changes own name while in the GY
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20874
   }}

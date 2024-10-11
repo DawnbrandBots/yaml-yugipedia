@@ -18,9 +18,9 @@ wikitext: |-
   | summoning_condition    = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] with a [[Continuous Effect]] on your [[field]], you can [[Normal Summon]] this card for 1 less [[Tribute]].
   | requirement            = None
   | lore                   = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 自分フィールドに永続効果を持つ表側表示モンスター（地属性／機械族）がいる場合、このカードを召喚する場合に必要なリリースを１体少なくできる。
+  | ja_requirement         = なし
+  | ja_lore                = このカードの攻撃宣言時に相手は罠カードを発動できない。
   | jp_sets                = 
   RD/LGP2-JP005; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
   | supports               = 
@@ -32,6 +32,5 @@ wikitext: |-
   | misc                   = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20839
   }}

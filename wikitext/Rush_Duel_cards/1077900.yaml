@@ -14,9 +14,9 @@ wikitext: |-
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
   | requirement            = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
   | lore                   = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, if you have a Legend Card in your Graveyard, you can make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this [[turn]].
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 手札または墓地にいるこのカードはレジェンドカードになる。
+  | ja_requirement         = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_lore                = 自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地にレジェンドカードがある場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで６００ダウンできる。
   | jp_sets                = 
   RD/LGP2-JP044; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
   | supports               = Legend Card
@@ -29,5 +29,5 @@ wikitext: |-
   * Treated as a Legend Card
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | database_id            = 
+  | database_id            = 20865
   }}

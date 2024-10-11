@@ -11,9 +11,9 @@ wikitext: |-
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
   | requirement            = None
   | lore                   = This [[turn]], up to 3 [[face-up]] [[LIGHT]] [[Attribute]] [[Monster Card|monster]]s with 300 [[DEF]] on your [[field]] gain 500 [[ATK]], and cannot be [[destroy]]ed by your opponent's [[Trap Card]] [[effect]]s.
-  | ja_summoning_condition = 
-  | ja_requirement         = 
-  | ja_lore                = 
+  | ja_summoning_condition = 手札または墓地にあるこのカードはレジェンドカードになる。
+  | ja_requirement         = なし
+  | ja_lore                = 自分フィールドの表側表示モンスター（光属性／守備力３００）を３体まで選ぶ。このターン、そのモンスターの攻撃力は５００アップし、相手の罠カードの効果では破壊されない。
   | jp_sets                = 
   RD/LGP2-JP050; Neo Legend Awakening Pack; Common
   | supports               = LIGHT
@@ -25,6 +25,5 @@ wikitext: |-
   | misc                   = 
   * Requires control of specific Attribute
   * Requires control of specific DEF
-  | database_id            = 
-  | rush_duel_status       = Not yet released
+  | database_id            = 20869
   }}
