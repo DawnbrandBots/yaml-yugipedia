@@ -31,8 +31,24 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP056; Supreme Darkness; 
+  | supports            = 
+  * Illusion
+  * Spellcaster
   | archseries          = Diabell
   | supports_archetypes = Diabell
+  | action              = 
+  * Activates if other cards are sent to the Graveyard for cost
+  * Sends from your hand to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Sends from your Extra Deck to your Graveyard
+  * Activates from your Graveyard
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished            = 
+  * Banishes from Graveyard for cost
+  * Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

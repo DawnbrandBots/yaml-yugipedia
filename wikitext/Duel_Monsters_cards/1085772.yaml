@@ -33,6 +33,21 @@ wikitext: |-
   SUDA-JP057; Supreme Darkness; 
   | archseries          = Diabell
   | supports_archetypes = Diabell
+  | action              = 
+  * Activates if other cards are sent to the Graveyard
+  * Sets from your hand
+  * Sets from your Graveyard
+  * Activates from your Graveyard
+  | m/s/t               = 
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished            = 
+  * Banishes from Graveyard for cost
+  * Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
