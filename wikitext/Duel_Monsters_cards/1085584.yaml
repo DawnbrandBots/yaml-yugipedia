@@ -1,4 +1,4 @@
-title: Abyss-Team
+title: Abyss-team
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
@@ -15,12 +15,12 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = AbyssTeam-SUDA-JP-OP.png
+  | image               = Abyssteam-SUDA-JP-OP.png
   | card_type           = Trap
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Trigger-like, Condition
-  | lore                = [[Draw a card|Draw]] cards equal to the number of different [[Type|Monster Types]] among the [[monsters]] you [[control]] that are [[Fish]], [[Sea Serpent]], or [[Aqua]], also you cannot [[Special Summon]] from the [[Extra Deck]] until the end of your next turn after this card [[resolve]]s, except [[WATER]] monsters. If a [[face-up]] WATER monster(s) you control is [[destroyed by battle]] or card [[effect]] while this card is in your GY: You can [[banish]] this card; [[Add a card|add]] 1 "[[Mermail]]" monster from your [[GY]] or banishment to your [[hand]]. You can only use each effect of "Abyss-Team" once per turn.
+  | lore                = [[Draw a card|Draw]] cards equal to the number of different [[Type|Monster Types]] among the [[monsters]] you [[control]] that are [[Fish]], [[Sea Serpent]], or [[Aqua]], also you cannot [[Special Summon]] from the [[Extra Deck]] until the end of your next turn after this card [[resolve]]s, except [[WATER]] monsters. If a [[face-up]] WATER monster(s) you control is [[destroyed by battle]] or card [[effect]] while this card is in your GY: You can [[banish]] this card; [[Add a card|add]] 1 "[[Mermail]]" monster from your [[GY]] or banishment to your [[hand]]. You can only use each effect of "Abyss-team" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,8 +31,27 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP077; Supreme Darkness; 
+  | supports            = 
+  * Fish
+  * Sea Serpent
+  * Aqua
+  * WATER
   | archseries          = Abyss-
   | supports_archetypes = Mermail
+  | action              = 
+  * You draw cards
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  | summoning           = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
