@@ -30,11 +30,25 @@ wikitext: |-
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP0; Supreme Darkness; 
+  SUDA-JP070; Supreme Darkness; 
+  | supports            = 
+  * Fusion Monster
+  * Synchro Monster
+  * Fiend
+  * Illusion
+  * Spellcaster
   | archseries          = 
   * Azamina
   * White Forest
-  | misc                = Archetype condition
+  | action              = 
+  * Returns from field to hand
+  * Activates if sent to the Graveyard for cost
+  * Sets itself from your Graveyard
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific Monster card type
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

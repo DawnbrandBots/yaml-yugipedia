@@ -40,7 +40,18 @@ wikitext: |-
   | supports_archetypes = 
   * Azamina
   * White Forest
-  | misc                = Archetype condition
+  | action              = 
+  * Activates if it destroys a monster by battle
+  * Adds from Graveyard to hand
+  * Activates if sent to the Graveyard
+  * Activates while banished
+  | summoning           = 
+  * Special Summons itself from your Graveyard
+  * Special Summons itself while banished
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

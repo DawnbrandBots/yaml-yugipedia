@@ -22,7 +22,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 4000
   | password            = 
-  | materials           = 
+  | materials           = 1 Level 6 or higher Fusion Monster + 1 Level 6 or higher Synchro Monster
   | effect_types        = Continuous, Quick, Condition
   | lore                = 1 [[Level]] 6 or higher [[Fusion Monster]] + 1 [[Level]] 6 or higher [[Synchro Monster]]<br />Your opponent cannot [[target]] this card, cards they [[control]], and cards in their [[GY]] and [[banish]]ment with card [[effect]]s, also they take any [[battle damage]] you would have taken instead. If this card was [[Fusion Summon]]ed this turn (Quick Effect): You can [[Special Summon]] 1 Level 9 or lower "[[Azamina]]" monster from your [[Main Deck|Deck]] or [[Extra Deck]]. You can only use this [[effect]] of "St. Azamina" [[once per turn]].
   | fr_lore             = 
@@ -36,8 +36,25 @@ wikitext: |-
   | jp_sets             = 
   SUDA-JP036; Supreme Darkness; Super Rare, Secret Rare, Quarter Century Secret Rare
   SUDA-JP036; Supreme Darkness +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
+  | supports            = 
+  * Fusion Monster
+  * Synchro Monster
   | archseries          = Azamina
   | supports_archetypes = Azamina
+  | action              = 
+  * Activates during the turn in which it was Fusion Summoned
+  | m/s/t               = 
+  * Cannot be targeted by card effects
+  * Prevents other cards being targeted by card effects
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Synchro Monsters as Fusion Materials
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  | life_points         = Your opponent takes battle damage
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
