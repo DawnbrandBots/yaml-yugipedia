@@ -9,13 +9,21 @@ wikitext: |-
   | atk                    = 2700
   | def                    = 1600
   | summoning_condition    = This card cannot be [[Special Summon]]ed.
-  | requirement            = During the [[turn]] you [[Tribute Summon]]ed this card in [[Attack Position]], place up to 5 [[FIRE]] [[Attribute]] monsters from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
-  | lore                   = [[Destroy]] [[Spell]]/[[Trap Card]]s on the [[field]] equal to [the number of monsters placed to meet the requirement].
+  | requirement            = During the [[turn]] you [[Tribute Summon]]ed this card in [[Attack Position]], place up to 5 [[FIRE]] [[Attribute]] [[Monster Card|monster]]s from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]] in any order.
+  | lore                   = [[Destroy]] [[Spell Card|Spell]]/[[Trap Card]]s on the [[field]] equal to [the number of monsters placed to meet the [[Activation condition|requirement]]].
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/SJMP-JP045; Saikyō Jump December 2024 promotional card; Normal Parallel Rare
+  | supports               = FIRE
+  | action                 = 
+  * Activates during the turn in which it was Tribute Summoned
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t                  = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning              = Cannot be Special Summoned
   | misc                   = Legend Card
   | database_id            = 
   }}
