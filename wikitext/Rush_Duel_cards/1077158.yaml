@@ -13,9 +13,9 @@ wikitext: |-
   | atk                    = 1400
   | def                    = 0
   | effect_types           = Continuous
-  | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Maximum Gadget the Moving Fortress (L)|Maximum Gadget the Moving Fortress [L]]]" and "[[Maximum Gadget the Moving Fortress (R)|Maximum Gadget the Moving Fortress [R]]]". This card's name becomes "[[Green Gadget (Rush Duel)|Green Gadget]]" while [[Graveyard]].
+  | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Maximum Gadget the Moving Fortress (L)|Maximum Gadget the Moving Fortress [L]]]" and "[[Maximum Gadget the Moving Fortress (R)|Maximum Gadget the Moving Fortress [R]]]". This card's name becomes "[[Green Gadget (Rush Duel)|Green Gadget]]" while in the [[Graveyard]].
   | requirement            = [[Maximum Mode]]
-  | lore                   = This card inflicts [[piercing]] [[battle damage]]. Cards on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | lore                   = This card [[Damage|inflict]]s [[piercing]] [[battle damage]]. Cards on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
@@ -26,5 +26,9 @@ wikitext: |-
   * Maximum Gadget the Moving Fortress (R)
   * Green Gadget (Rush Duel)
   | archseries             = Gadget (series)
+  | stat_change            = Changes own name while in the GY
+  | m/s/t                  = Cannot be destroyed by card effects
+  | attack                 = Piercing
+  | misc                   = Requires Maximum Mode
   | database_id            = 
   }}

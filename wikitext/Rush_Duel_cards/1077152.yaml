@@ -2,19 +2,26 @@ title: Red Gadget (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image          = RedGadget-RDKP19-JP-OP.png
-  | attribute      = EARTH
-  | types          = Machine / Effect
-  | level          = 4
-  | atk            = 1300
-  | def            = 1500
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore           = [[Add a card|Add]] 1 "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" from your [[Graveyard]] to your [[hand]]. This turn, you cannot [[activate]] the [[effect]]s of "Red Gadget".
-  | ja_requirement = 
-  | ja_lore        = 
-  | jp_sets        = 
+  | image                 = RedGadget-RDKP19-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Machine / Effect
+  | level                 = 4
+  | atk                   = 1300
+  | def                   = 1500
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
+  | lore                  = [[Add a card|Add]] 1 "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" from your [[Graveyard]] to your [[hand]]. You cannot [[activate]] the [[effect]] of "Red Gadget" this turn.
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/KP19-JP014; Salamandeus of Scorching; Rare
-  | mentions       = Yellow Gadget (Rush Duel)
-  | archseries     = Gadget (series)
-  | database_id    = 
+  | mentions              = 
+  * Yellow Gadget (Rush Duel)
+  * Red Gadget (Rush Duel)
+  | archseries            = Gadget (series)
+  | related_to_archseries = Ancient Gear (Rush Duel series)
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | misc                  = Only once per turn
+  | database_id           = 
   }}

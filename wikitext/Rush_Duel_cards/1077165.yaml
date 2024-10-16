@@ -4,9 +4,9 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name               = {{Ruby|古代の機械双頭竜|アンティーク・ギアガジェルバエナ}}
-  | base_romaji_name      = Kodai no Kikai Sōtōryū
+  | base_romaji_name      = Kodai no Kikaisōtōryū
   | base_trans_name       = Ancient Machine Twin-Headed Dragon
-  | romaji_name           = Antīku Gia Gajeru Baena
+  | romaji_name           = Antīku Gia Gajerubaena
   | trans_name            = Antique Gear Gadjilbaena
   | image                 = AncientGearGadjiltronBaena-RDKP19-JP-OP.png
   | attribute             = EARTH
@@ -16,7 +16,7 @@ wikitext: |-
   | def                   = 2500
   | effect_types          = Continuous
   | requirement           = None
-  | lore                  = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]]. If you have "[[Green Gadget (Rush Duel)|Green Gadget]]", "[[Red Gadget (Rush Duel)|Red Gadget]]", or "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" in your [[Graveyard]], this card gains 300 [[ATK]] and cannot be destroyed by card [[effect]]s.
+  | lore                  = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]]. If you have "[[Green Gadget (Rush Duel)|Green Gadget]]"/"[[Red Gadget (Rush Duel)|Red Gadget]]"/"[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" in your [[Graveyard]], this card gains 300 [[ATK]], and cannot be [[destroy]]ed by card [[effect]]s.
   | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
@@ -27,5 +27,9 @@ wikitext: |-
   * Yellow Gadget (Rush Duel)
   | archseries            = Ancient Gear (Rush Duel series)
   | related_to_archseries = Gadget (series)
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Trap Cards
+  * Cannot be destroyed by card effects
   | database_id           = 
   }}

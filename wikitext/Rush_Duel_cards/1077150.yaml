@@ -2,19 +2,26 @@ title: Yellow Gadget (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image          = YellowGadget-RDKP19-JP-OP.png
-  | attribute      = EARTH
-  | types          = Machine / Effect
-  | level          = 4
-  | atk            = 1200
-  | def            = 1200
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | lore           = [[Add a card|Add]] 1 "[[Green Gadget (Rush Duel)|Green Gadget]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], you cannot [[activate]] the [[effect]]s of "Yellow Gadget".
-  | ja_requirement = 
-  | ja_lore        = 
-  | jp_sets        = 
+  | image                 = YellowGadget-RDKP19-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Machine / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 1200
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
+  | lore                  = [[Add a card|Add]] 1 "[[Green Gadget (Rush Duel)|Green Gadget]]" from your [[Graveyard]] to your [[hand]]. You cannot [[activate]] the [[effect]] of "Yellow Gadget" this turn.
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/KP19-JP012; Salamandeus of Scorching; Rare
-  | mentions       = Green Gadget (Rush Duel)
-  | archseries     = Gadget (series)
-  | database_id    = 
+  | mentions              = 
+  * Green Gadget (Rush Duel)
+  * Yellow Gadget (Rush Duel)
+  | archseries            = Gadget (series)
+  | related_to_archseries = Ancient Gear (Rush Duel series)
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | misc                  = Only once per turn
+  | database_id           = 
   }}

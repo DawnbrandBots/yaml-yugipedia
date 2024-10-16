@@ -13,7 +13,7 @@ wikitext: |-
   | level                  = 4
   | atk                    = 1200
   | def                    = 0
-  | summoning_condition    = This card's name becomes "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" while [[Graveyard]].
+  | summoning_condition    = This card's name becomes "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" while in the [[Graveyard]].
   | requirement            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard.
   | lore                   = This card gains 500 [[ATK]] until the end of this [[turn]].
   | ja_summoning_condition = 
@@ -23,5 +23,9 @@ wikitext: |-
   RD/KP19-JP015; Salamandeus of Scorching; Rare
   | mentions               = Yellow Gadget (Rush Duel)
   | archseries             = Gadget (series)
+  | action                 = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change            = 
+  * Changes own name while in the GY
+  * This card gains ATK
   | database_id            = 
   }}
