@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 2900
   | password            = 
   | effect_types        = Ignition, Condition, Trigger
-  | lore                = If a card that has a coin tossing effect is on the field: You can Special Summon this card from your hand. You can only use this effect of "Arcana Force XIX - The Sun" once per turn. If this card is Summoned: Toss a coin.<br />● Heads: Set 1 Spell from your Deck that has a coin tossing effect.<br />● Tails: Destroy all cards in the Spell & Trap Zones.
+  | lore                = If a card that has a coin tossing [[effect]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. You can only use this [[effect]] of "Arcana Force XIX - The Sun" [[once per turn]]. If this card is [[Summon]]ed: Toss a coin.<br />● Heads: [[Set]] 1 [[Spell]] from your [[Main Deck|Deck]] that has a coin tossing effect.<br />● Tails: [[Destroy]] all cards in the [[Spell & Trap Zone]]s.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,7 +33,21 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP005; Supreme Darkness; Rare
+  | supports            = Coin toss
   | archseries          = Arcana Force
+  | action              = 
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  * Sets from your Deck
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Only once per turn
+  * Coin toss
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

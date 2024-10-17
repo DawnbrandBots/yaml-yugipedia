@@ -18,8 +18,7 @@ wikitext: |-
   | level                 = 10
   | atk                   = 3500
   | def                   = 1200
-  | fusion_material       = 
-  * Gladiator Beast Vespasius
+  | fusion_material       = Gladiator Beast Vespasius
   | materials             = "Gladiator Beast Vespasius" + 2 "Gladiator Beast" monsters
   | password              = 33652635
   | effect_types          = Summoning condition, Quick, Continuous, Trigger
@@ -56,7 +55,9 @@ wikitext: |-
   | mentions              = 
   * Gladiator Beast Vespasius
   * Polymerization
-  | archseries            = Gladiator Beast
+  | archseries            = 
+  * Gladiator
+  * Gladiator Beast
   | supports_archetypes   = Gladiator Beast
   | action                = 
   * Returns Fusion Materials for Contact Fusion to Deck

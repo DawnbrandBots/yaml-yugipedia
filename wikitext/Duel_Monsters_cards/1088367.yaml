@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 1500
   | password            = 
   | effect_types        = Ignition, Trigger
-  | lore                = You can discard this card; for the rest of this turn, your opponent cannot activate cards or effects when an "Arcana Force" monster(s) is Summoned to your field. If this card is Summoned: Toss a coin.<br />● Heads: Special Summon 1 Level 4 or lower "Arcana Force" monster from your Deck with a different name from the monsters you control and in your GY.<br />● Tails: Special Summon 1 "Arcana Force" monster from your Deck to your opponent's field.
+  | lore                = You can [[discard]] this card; for the rest of this [[turn]], your opponent cannot [[activate]] cards or [[effect]]s when an "[[Arcana Force]]" [[monster]](s) is [[Summon]]ed to your [[field]]. If this card is Summoned: Toss a coin.<br />● Heads: [[Special Summon]] 1 [[Level]] 4 or lower "Arcana Force" monster from your [[Main Deck|Deck]] with a different name from the monsters you [[control]] and in your [[GY]].<br />● Tails: Special Summon 1 "Arcana Force" monster from your Deck to your opponent's [[field]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -35,6 +35,21 @@ wikitext: |-
   SUDA-JP004; Supreme Darkness; 
   | archseries          = Arcana Force
   | supports_archetypes = Arcana Force
+  | action              = 
+  * Activates from your hand
+  * Discards itself for cost
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | summoning           = 
+  * Prevents activations upon Summon
+  * Special Summons from your Deck
+  * Special Summons from your Deck to your opponent's field
+  | misc                = Coin toss
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

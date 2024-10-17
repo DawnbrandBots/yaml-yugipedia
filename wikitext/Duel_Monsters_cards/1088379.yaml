@@ -19,7 +19,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Trigger-like, Continuous-like, Ignition-like, Condition
-  | lore                = Once per turn, during your Standby Phase, if you do not have "Light Barrier" in your Field Zone: Toss a coin. If the result is tails, the following effects are negated until your next Standby Phase.<br />● Fairy monsters you control gain 300 ATK/DEF.<br />● You can discard 1 card; add 2 "Arcana Force" monsters with different names from each other from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except "Arcana Force" monsters. You can only use this effect of "The Wave of Light" once per turn.
+  | lore                = [[Once per turn]], during your [[Standby Phase]], if you do not have "[[Light Barrier]]" in your [[Field Zone]]: Toss a coin. If the result is tails, the following [[effect]]s are [[negate]]d until your next Standby Phase.<br />● [[Fairy]] [[monster]]s you [[control]] gain 300 [[ATK]]/[[DEF]].<br />● You can [[discard]] 1 card; [[add]] 2 "[[Arcana Force]]" monsters with different names from each other from your [[Main Deck|Deck]] to your [[hand]], also you cannot [[Special Summon]] for the rest of this turn, except "Arcana Force" monsters. You can only use this effect of "The Wave of Light" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -32,6 +32,18 @@ wikitext: |-
   SUDA-JP053; Supreme Darkness; 
   | mentions            = Light Barrier
   | supports_archetypes = Arcana Force
+  | action              = 
+  * Discards for cost
+  * Adds from Deck to hand
+  | stat_change         = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | m/s/t               = Negates itself
+  | summoning           = Restricts the player's Special Summons to archetype specific monsters
+  | misc                = 
+  * Limited activations
+  * Coin toss
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
