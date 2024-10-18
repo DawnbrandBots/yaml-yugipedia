@@ -11,8 +11,8 @@ wikitext: |-
   | level          = 3
   | atk            = 1000
   | def            = 1200
-  | requirement    = You have "[[Lightning Bringer Spirit]]" in your [[Graveyard]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | lore           = Change the [[battle position]] of 1 [[monster]] on your opponent's [[field]]. Then, you can [[Set]] 1 "[[Lightning Bringer Scarecrow]]" from your Graveyard in your [[Spell & Trap Zone]].
+  | requirement    = You [[Normal Summon]]ed this card this [[turn]] and you have "[[Lightning Bringer Spirit]]" in your [[Graveyard]].
+  | lore           = [[Battle position change|Change]] the [[battle position]] of 1 [[Monster Card|monster]] on your opponent's [[field]]. Then, you can [[Set]] 1 "[[Lightning Bringer Scarecrow]]" from your Graveyard in your [[Spell & Trap Zone]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
@@ -20,5 +20,10 @@ wikitext: |-
   | mentions       = 
   * Lightning Bringer Spirit
   * Lightning Bringer Scarecrow
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Sets from your Graveyard
   | database_id    = 
   }}

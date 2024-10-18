@@ -8,11 +8,17 @@ wikitext: |-
   | image          = LightningBringerScarecrow-RDKP19-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] declares an [[attack]], place 1 [[Level]] 4 or lower [[Thunder]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], place 1 [[Level]] 4 or lower [[Thunder]] [[Type]] monster from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]].
   | lore           = [[Negate]] the attack. Then, you can [[shuffle]] up to 3 cards from your opponent's Graveyard into the Deck.
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/KP19-JP060; Salamandeus of Scorching; Common
+  | supports       = Thunder
+  | action         = 
+  * Activates upon attack declaration
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | attack         = Negates attacks
   | database_id    = 
   }}
