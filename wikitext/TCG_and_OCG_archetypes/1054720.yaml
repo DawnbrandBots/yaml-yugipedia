@@ -6,11 +6,10 @@ wikitext: |-
   | caption        = "[[Mulcharmy Purulia]]"
   | ja_name        = マルチャミー
   | romaji         = Maruchamī
-  | trans          = 
   | fr_name        = Mulcharmy
   | de_name        = Mulreizend
   | it_name        = Multifascinante
-  | ko_name        = 
+  | ko_name        = 마루챠미
   | ko_hanja       = 
   | ko_romanized   = 
   | pt_name        = Multelegante
@@ -19,12 +18,41 @@ wikitext: |-
   | sets           = 
   * [[The Infinite Forbidden]]
   * [[Rage of the Abyss]]
-  | ocg            = 
+  * [[Supreme Darkness]]
   }}
 
-  "'''Mulcharmy'''" (マルチャミー ''Maruchamī'') is an archetype of [[Level]] 4 monsters with 100 [[ATK]] and 600 [[DEF]] introduced in ''[[The Infinite Forbidden]]''. It does not have true [[support]]—instead, the monsters restrict the number of times a player can use the effects of a "Mulcharmy" monster to twice per turn.
+  "'''Mulcharmy'''" (マルチャミー ''Maruchamī'') is an archetype of [[Level]] 4 monsters with 100 [[ATK]] and 600 [[DEF]] introduced in ''[[The Infinite Forbidden]]''. It does not have true [[support]]—instead, the "Mulcharmy" monsters prevent the player from using the effects of "Mulcharmy" monsters more than twice per turn.
 
-  So far, all members have almost identical effects: They can [[discard]] themselves during either player's turn as a [[Quick Effect]] if their owner controls no cards. Then for the rest of the turn, the player draws 1 card every time their opponent Summons a monster from a certain location, but if their hand size exceeds the number of cards the opponent controls by more than 6 at the end of that turn, the player must shuffle back random cards from their hand until they reach that threshold. The monsters only differ in the locations that they count Summons from.
+  == Design ==
+  The name "Mulcharmy" seems to be a pun of "multiply" and "charming", in reference to the members' ability to enlarge the player's hand and their cutesy appearance. Each of them is designed to resemble a creature associated to the element of its [[Attribute]], and is named after a Japanese onomatopeia fitting for that creature.
+
+  All "Mulcharmy" monsters have almost identical effects: They can [[discard]] themselves during either player's turn as a [[Quick Effect]] if their owner controls no cards. Then for the rest of the turn, the player draws 1 card every time their opponent Summons a monster from a certain location, but if their hand size exceeds the number of cards the opponent controls by more than 6 at the end of that turn, the player must shuffle back random cards from their hand until they reach that threshold. The monsters only differ in the locations that they count Summons from.
+
+  {| class="wikitable"
+  ! Mulcharmy
+  ! Attribute
+  ! Creature
+  ! Onomatopeia
+  ! Location(s) counted
+  |-
+  | [[Mulcharmy Purulia|Purulia]]
+  | [[WATER]]
+  | Jellyfish
+  | ''purupuru'' (jiggle)
+  | [[Hand]]
+  |-
+  | [[Mulcharmy Fuwalos|Fuwalos]]
+  | [[WIND]]
+  | Bird
+  | ''fuwafuwa'' (fluffy)
+  | [[Main Deck]] and [[Extra Deck]]
+  |-
+  | [[Mulcharmy Nyalus|Nyalus]]
+  | [[EARTH]]
+  | Cat
+  | ''nya'' (meow)
+  | [[Graveyard]] and [[banish]]ment
+  |}
 
   {{Archseries navbox}}
   [[Category:TCG and OCG archetypes]]
