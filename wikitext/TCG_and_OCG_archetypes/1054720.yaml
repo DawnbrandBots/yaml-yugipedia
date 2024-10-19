@@ -29,11 +29,11 @@ wikitext: |-
   All "Mulcharmy" monsters have almost identical effects: They can [[discard]] themselves during either player's turn as a [[Quick Effect]] if their owner controls no cards. Then for the rest of the turn, the player draws 1 card every time their opponent Summons a monster from a certain location, but if their hand size exceeds the number of cards the opponent controls by more than 6 at the end of that turn, the player must shuffle back random cards from their hand until they reach that threshold. The monsters only differ in the locations that they count Summons from.
 
   {| class="wikitable"
-  ! Mulcharmy
-  ! Attribute
-  ! Creature
-  ! Onomatopeia
-  ! Location(s) counted
+  ! scope="col" | Mulcharmy
+  ! scope="col" | Attribute
+  ! scope="col" | Creature
+  ! scope="col" | Onomatopeia
+  ! scope="col" | Location(s) counted
   |-
   | [[Mulcharmy Purulia|Purulia]]
   | [[WATER]]
