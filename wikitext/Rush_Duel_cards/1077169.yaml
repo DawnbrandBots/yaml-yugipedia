@@ -5,19 +5,25 @@ wikitext: |-
   {{CardTable2
   | ja_name               = ホロスペース・ユグドラゴ
   | romaji_name           = Horosupēsu Yugudorago
-  | image                 = HoloSpaceYggdrago-OW.png
-  | attribute             = ???
-  | types                 = ??? / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
-  | requirement           = TBA
-  | lore                  = TBA
+  | image                 = HoloSpaceYggdrago-RDKP19-JP-OP.png
+  | attribute             = DARK
+  | types                 = Cyberse / Effect
+  | level                 = 8
+  | atk                   = 2400
+  | def                   = 0
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = This card's name becomes "[[Space Yggdrago]]" this [[turn]]. Then, if you have "Space Yggdrago" in your Graveyard, this turn, if you [[Fusion Summon]] "[[Deep Space Yggdrago]]", this [[face-up]] card can be treated as 2 [[material]]s.
   | ja_requirement        = 
   | ja_lore               = 
   | jp_sets               = 
-  RD/KP19-JP0??; Salamandeus of Scorching
+  RD/KP19-JP011; Salamandeus of Scorching; Rare
+  | mentions              = 
+  * Space Yggdrago
+  * Deep Space Yggdrago
   | archseries            = Space
   | related_to_archseries = Tron (series)
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = Changes own name while on the field
+  | summoning             = Treated as multiple Fusion Materials
   | database_id           = 
   }}
