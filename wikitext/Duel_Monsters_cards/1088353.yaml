@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 3700
   | def                 = 2600
   | password            = 
+  | materials           = 5 "Gladiator Beast" monsters
   | effect_types        = Summoning condition, Trigger, Trigger
   | lore                = 5 "[[Gladiator Beast]]" [[monsters]]<br />Must first be [[Special Summon]]ed (from your [[Extra Deck]]) by shuffling the above cards from your [[field]] and/or [[GY]] into the [[Main Deck|Deck]]/Extra Deck. If [[Summon]]ed this way: You can [[activate]] this [[effect]]; you can conduct your next [[Battle Phase]] twice. [[Once per turn]], if your opponent activates a [[monster effect]]: You can activate the appropriate effect, depending on whose turn it is;<br />● Your turn: Special Summon 1 "Gladiator Beast" monster from your Deck.<br />● Your opponent's turn: Special Summon 1 [[Level]] 11 or lower "Gladiator Beast" monster from your Extra Deck, [[ignoring its Summoning conditions]].
   | fr_lore             = 
@@ -40,6 +41,27 @@ wikitext: |-
   | supports_archetypes = 
   * Gladiator
   * Gladiator Beast
+  | action              = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Returns from field to Deck for Summon
+  * Returns from Graveyard to Deck for Summon
+  * Returns from field to Extra Deck for Summon
+  * Returns from Graveyard to Extra Deck for Summon
+  * Activates upon Special Summon
+  * Conducts multiple Battle Phases
+  | summoning           = 
+  * 5 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summon-only
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Ignoring the Summoning conditions
+  | misc                = 
+  * Limited activations
+  * Variable effects
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

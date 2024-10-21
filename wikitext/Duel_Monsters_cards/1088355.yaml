@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Bottom-Center, Bottom-Right
   | atk                 = 1700
   | password            = 
+  | materials           = 2 monsters, including a "Gladiator Beast" monster
   | effect_types        = Trigger, Condition, Continuous
   | lore                = 2 [[monsters]], including a "[[Gladiator Beast]]" monster<br />If this card is [[Link Summon]]ed: You can [[Special Summon]] 1 [[Level]] 4 or lower "Gladiator Beast" monster from your [[hand]] or [[GY]], or, if your opponent [[control]]s a monster, you can Special Summon 1 "Gladiator Beast" monster from your [[Main Deck|Deck]] instead, also you cannot use monsters as [[Link Material]] for the rest of this [[turn]], except "Gladiator Beast" monsters. You can only use this [[effect]] of "Gladiator Beast Dareios" once per turn. "Gladiator Beast" monsters you control cannot be [[destroyed by battle]] or card effects during your opponent's [[Battle Phase]].
   | fr_lore             = 
@@ -38,6 +39,21 @@ wikitext: |-
   | supports_archetypes = 
   * Gladiator
   * Gladiator Beast
+  | action              = Activates upon Link Summon
+  | m/s/t               = 
+  * Cannot be destroyed by card effects
+  * Prevents other cards being destroyed by card effects
+  | summoning           = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons from your Deck
+  * Restricts usage of other Materials
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Prevents other cards being destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

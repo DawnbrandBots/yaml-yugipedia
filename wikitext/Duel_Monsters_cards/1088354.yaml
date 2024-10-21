@@ -36,6 +36,14 @@ wikitext: |-
   | supports_archetypes = 
   * Gladiator
   * Gladiator Beast
+  | action              = 
+  * Discards for cost
+  * Adds from Deck to hand
+  * Activates upon attack declaration
+  * Sets from your Deck
+  | summoning           = Special Summons from your Deck
+  | attack              = Prevents other cards being destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
