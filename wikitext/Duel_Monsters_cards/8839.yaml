@@ -84,10 +84,10 @@ wikitext: |-
   | ntr_sets              = 
   '''[[Beautiful Challenger (NTR-BP)|Beautiful Challenger]]'''
   | mentions              = Harpie Lady
-  | archseries            = 
+  | archseries            = Harpie <!-- The name condition makes it so that this is never treated as an Cyber card. Do not add that to this list -->
+  | related_to_archseries =
   * Cyber
-  * Harpie
-  | related_to_archseries = Signature move
+  * Signature move
   | stat_change           = Name condition
   | database_id           = 5239
   | tcg_speed_duel_status = Unlimited
