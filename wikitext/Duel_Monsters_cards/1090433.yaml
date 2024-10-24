@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = ライトストーム・ドラゴン
-  | romaji_name         = 
+  | romaji_name         = Raitosutōmu Doragon
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
@@ -20,7 +20,8 @@ wikitext: |-
   | level               = 9
   | atk                 = 2700
   | def                 = 3000
-  | password            = 
+  | password            = 10515412
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Trigger, Condition
   | lore                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Special Summon]]ed: You can [[target]] [[Spells]]/[[Traps]] on the [[field]] up to the number of [[Normal Monster]]s in your [[GY]] +1; [[destroy]] them. If this card is [[destroyed by battle]] or card [[effect]]: You can target 1 Spell/Trap in your GY; [[Set]] it, but it cannot be [[activate]]d unless you control a Normal Monster. You can only use each effect of "Lightstorm Dragon" once per turn.
   | fr_lore             = 
@@ -33,6 +34,23 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP043; Supreme Darkness; Common
+  | supports            = Normal Monster
+  | action              = 
+  * Activates upon Special Summon
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Sets from your Graveyard
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                = 
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

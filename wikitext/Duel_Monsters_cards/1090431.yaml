@@ -8,8 +8,8 @@ wikitext: |-
   | it_name             = 
   | pt_name             = 
   | es_name             = 
-  | ja_name             = 表裏の女神
-  | romaji_name         = 
+  | ja_name             = {{Ruby|表|ひょう}}{{Ruby|裏|り}}の{{Ruby|女|め}}{{Ruby|神|がみ}}
+  | romaji_name         = Hyōri no Megami
   | trans_name          = 
   | ko_name             = 
   | ko_rr_name          = 
@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 700
   | password            = 
   | effect_types        = Trigger, Ignition, Condition
-  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 [[monster]] from your [[Main Deck|Deck]] to your [[hand]] that has a coin tossing effect, except "Goddess of Duality". During your [[Main Phase]]: You can toss a coin and call it. If you call it right, the [[ATK]] of all monsters you currently [[control]] become doubled until the end of this [[turn]]. If you call it wrong, [[send]] as many monsters you control as possible to the GY, and if you do, [[Draw a card|draw]] 1 card. You can only use each effect of "Goddess of Duality" once per turn.
+  | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 [[monster]] from your [[Main Deck|Deck]] to your [[hand]] that has a [[coin toss]]ing effect, except "Goddess of Duality". During your [[Main Phase]]: You can toss a coin and call it. If you call it right, the [[ATK]] of all monsters you currently [[control]] become doubled until the end of this [[turn]]. If you call it wrong, [[send]] as many monsters you control as possible to the GY, and if you do, [[Draw a card|draw]] 1 card. You can only use each effect of "Goddess of Duality" once per turn.
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -33,6 +33,20 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP029; Supreme Darkness; Common
+  | mentions            = Goddess of Duality
+  | supports            = Coin toss
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Sends from your field to your Graveyard
+  * You draw cards
+  | stat_change         = 
+  * Doubles ATK
+  * Your monsters gain ATK
+  | misc                = 
+  * Coin toss
+  * Only once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

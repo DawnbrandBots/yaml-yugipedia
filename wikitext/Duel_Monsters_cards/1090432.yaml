@@ -8,15 +8,15 @@ wikitext: |-
   | it_name             = 
   | pt_name             = 
   | es_name             = 
-  | ja_name             = 万物の始源－「水」
-  | romaji_name         = 
+  | ja_name             = {{Ruby|万物の始源|へー・アルケー}}－「{{Ruby|水|ヒュドール}}」
+  | romaji_name         = Hē Arukē - "Hyudōru"
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
   | image               = HeArkhoHudor-SUDA-JP-C.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 30339825
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = [[Target]] 1 [[monster]] in either [[GY]]; [[destroy]] 1 [[WATER]] monster its [[owner]] [[control]]s, and if you do, [[Special Summon]] the targeted monster to that player's field in [[Defense Position]]. If this card is in your GY, except the [[turn]] it was sent there: You can [[banish]] it, then target 1 WATER monster in either GY; destroy 1 monster its owner controls, and if you do, Special Summon the targeted monster to that player's field in Defense Position. You can only use 1 "He Arkho - "Hudor"" effect per turn, and only once that turn.
   | fr_lore             = 
@@ -29,6 +29,15 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP064; Supreme Darkness; Common
+  | supports            = WATER
+  | anti-supports       = WATER
+  | action              = Activates from your Graveyard
+  | m/s/t               = Destroys face-up Monster Cards
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released

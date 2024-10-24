@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = {{Ruby|大|だい}}{{Ruby|紅|ぐ}}{{Ruby|蓮|れん}}{{Ruby|魔|ま}}{{Ruby|闘|とう}}{{Ruby|士|し}}
-  | romaji_name         = Dai Guren Matōshi
+  | romaji_name         = Daigurenmatōshi
   | trans_name          = Great Demon Fighter of the Red Lotus
   | ko_name             = 
   | ko_rr_name          = 
@@ -20,7 +20,7 @@ wikitext: |-
   | level               = 8
   | atk                 = 2100
   | def                 = 1800
-  | password            = 
+  | password            = 51132012
   | effect_types        = Summoning condition, Summoning condition, Condition, Continuous, Ignition
   | lore                = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]] or [[GY]]) by shuffling up to 3 [[non-Effect Monster]]s from your [[GY]] into the [[Main Deck|Deck]]/[[Extra Deck]]. You can only Special Summon "Great Knight of the Red Lotus" [[once per turn]] this way. If [[Summon]]ed this way, it gains 800 [[ATK]] for each [[Normal Monster]] shuffled into the Deck for its Summon. Once per turn: You can [[target]] 1 monster on the [[field]] and 1 non-Effect Monster in your GY; [[destroy]] that monster on the field, and if you do, Special Summon that monster from the GY.
   | fr_lore             = 
@@ -33,6 +33,24 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   SUDA-JP024; Supreme Darkness; Common
+  | supports            = 
+  * Non-Effect Monster
+  * Normal Monster
+  | stat_change         = This card gains ATK
+  | m/s/t               = Destroys Monster Cards
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Returns from Graveyard to Deck for Summon
+  * Returns from Graveyard to Extra Deck for Summon
+  * Special Summon by its own condition once per turn
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Special Summon Monster
+  * Limited activations
   | database_id         = 
   | ocg_status          = Not yet released
   | tcg_status          = Not yet released
