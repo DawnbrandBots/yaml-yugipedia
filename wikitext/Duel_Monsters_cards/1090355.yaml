@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Left, Bottom-Right, Middle-Right
   | atk                   = 2800
   | password              = 
-  | materials             = 
+  | materials             = 2+ monsters, including a Fiend monster
   | effect_types          = Quick, Trigger, Condition
   | lore                  = 2+ [[monsters]], including a [[Fiend]] monster<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[discard]] 1 card, then [[activate]] 1 of these [[effect]]s;<br />● [[Destroy]] 1 card on the [[field]].<br />● [[Banish]] this card (until the [[End Phase]]), and if you do, [[Special Summon]] 1 [[LIGHT]] or [[DARK]] monster from your [[GY]].<br />During your [[Standby Phase]]: You can [[Draw a card|draw]] cards equal to the number of different [[Type|Monster Types]] among the monsters in your GY, then place the same number of cards from your [[hand]] on the bottom of the [[Main Deck|Deck]] in any order. You can only use each effect of "A-Bao A Qu, the Lightless Shadow" once per turn.
   | fr_lore               = 
@@ -34,7 +34,28 @@ wikitext: |-
   | jp_sets               = 
   SUDA-JP049; Supreme Darkness; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   SUDA-JP049; Supreme Darkness +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | related_to_archseries = Evil★Twin<!-- confirmed by have been specifically designed for it by an official poster -->
+  | supports              = 
+  * Fiend
+  * LIGHT
+  * DARK
+  | action                = 
+  * Discards for cost
+  * Returns itself to field while banished
+  * You draw cards
+  * Places cards from the player's hand on the bottom of the Deck
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from field
+  | misc                  = 
+  * Variable effects
+  * Standby Phase Activation
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
