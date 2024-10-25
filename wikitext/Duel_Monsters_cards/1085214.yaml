@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = TemplateSkipper-SUDA-JP-OP.png
+  | image               = TemplateSkipper-SUDA-JP-C.png
   | attribute           = DARK
   | types               = Cyberse / Effect
   | level               = 1
   | atk                 = 0
   | def                 = 0
-  | password            = 
+  | password            = 24521325
   | effect_types        = Unclassified, Condition, Ignition, Condition
   | lore                = You can [[Special Summon]] this card (from your [[hand]]) to your [[zone]] a [[Cyberse]] [[Link Monster]] [[points to]]. You can only Special Summon "Template Skipper" [[once per turn]] this way. During your [[Main Phase]]: You can [[banish]] 1 Cyberse monster from your hand or [[GY]], and if you do, this card can be treated as [[Link Material]] with the same name as the banished monster if used for a [[Link Summon]] this turn. You can only use this [[effect]] of "Template Skipper" [[once per turn]].
   | fr_lore             = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードはサイバース族Ｌモンスターのリンク先となる自分フィールドに手札から特殊召喚できる。②：自分メインフェイズに発動できる。自分の手札・墓地からサイバース族モンスター１体を除外する。このターンにＬ召喚する場合、このカードはこの効果で除外したモンスターの同名カードとしてＬ素材にできる。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP028; Supreme Darkness; 
+  SUDA-JP028; Supreme Darkness; Common
   | supports            = 
   * Cyberse
   * Link Monster
@@ -48,7 +48,6 @@ wikitext: |-
   * Requires control of specific Type
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20765
   | tcg_status          = Not yet released
   }}

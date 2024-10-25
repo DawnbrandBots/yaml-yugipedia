@@ -20,7 +20,7 @@ wikitext: |-
   | level               = 3
   | atk                 = 950
   | def                 = 700
-  | password            = 
+  | password            = 50915474
   | effect_types        = Trigger, Ignition, Condition
   | lore                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 [[monster]] from your [[Main Deck|Deck]] to your [[hand]] that has a [[coin toss]]ing effect, except "Goddess of Duality". During your [[Main Phase]]: You can toss a coin and call it. If you call it right, the [[ATK]] of all monsters you currently [[control]] become doubled until the end of this [[turn]]. If you call it wrong, [[send]] as many monsters you control as possible to the GY, and if you do, [[Draw a card|draw]] 1 card. You can only use each effect of "Goddess of Duality" once per turn.
   | fr_lore             = 
@@ -28,7 +28,7 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「表裏の女神」以外のコイントスを行う効果を持つモンスター１体を手札に加える。②：自分メインフェイズに発動できる。コイントスを１回行い、裏表を当てる。当たった場合、自分フィールドの全てのモンスターの攻撃力は、ターン終了時まで倍になる。ハズレの場合、自分フィールドのモンスターを全て墓地へ送り、自分は１枚ドローする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -47,7 +47,6 @@ wikitext: |-
   | misc                = 
   * Coin toss
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20766
   | tcg_status          = Not yet released
   }}

@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = SpeedroidClearWingWander-SUDA-JP-OP.png
+  | image               = SpeedroidClearWingWander-SUDA-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 66002986
   | effect_types        = Effect, Trigger-like, Condition
   | lore                = [[Target]] cards your opponent [[control]]s up to the number of different [[Type|Monster Type]]s among the [[WIND]] [[Synchro Monster]]s you control; [[destroy]] them. If your opponent [[Special Summon]]s a monster(s): You can [[banish]] this card from your [[GY]], then target 1 WIND Synchro Monster you control; banish it, then [[return]] it to the [[field]]. You can only use this [[effect]] of "Speedroid Clear Wing Wander" [[once per turn]].
   | fr_lore             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの風属性Ｓモンスターの種族の種類の数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。②：相手がモンスターを特殊召喚した場合、墓地のこのカードを除外し、自分フィールドの風属性Ｓモンスター１体を対象として発動できる。そのモンスターを除外する。その後、この効果で除外したモンスターはフィールドに戻る。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP068; Supreme Darkness; 
+  SUDA-JP068; Supreme Darkness; Common
   | supports            = 
   * WIND
   * Synchro Monster
@@ -53,7 +53,6 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20805
   | tcg_status          = Not yet released
   }}

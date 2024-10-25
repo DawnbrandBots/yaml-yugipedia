@@ -15,13 +15,13 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = QueenoftheAzamina-SUDA-JP-OP.png
+  | image               = QueenoftheAzamina-SUDA-JP-R.png
   | attribute           = DARK
   | types               = Illusion / Effect
   | level               = 8
   | atk                 = 2500
   | def                 = 2000
-  | password            = 
+  | password            = 65033975
   | effect_types        = Condition, Trigger, Trigger, Condition
   | lore                = (This card is always treated as a "[[Sinful Spoils]]" card.)<br />When your "[[Azamina]]" or "[[White Forest]]" [[monster]] [[destroy]]s an opponent's monster by battle: You can [[target]] 1 "Sinful Spoils" [[Spell]]/[[Trap]] in your [[GY]]; [[Add a card|add]] it to your [[hand]]. If this card is sent to the GY, or [[banish]]ed, from your hand or [[field]] by an [[activate]]d [[effect]]: You can [[Special Summon]] this card. You can only use each effect of "Queen of the Azamina" once per turn.
   | fr_lore             = 
@@ -29,7 +29,7 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名はルール上「罪宝」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・フィールドのこのカードが自分か相手が発動した効果で、墓地へ送られた場合または除外された場合に発動できる。このカードを特殊召喚する。②：自分の、「アザミナ」モンスターか「白き森」モンスターが戦闘で相手モンスターを破壊した時、自分の墓地の「罪宝」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
@@ -52,7 +52,6 @@ wikitext: |-
   * Archetype condition
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20748
   | tcg_status          = Not yet released
   }}

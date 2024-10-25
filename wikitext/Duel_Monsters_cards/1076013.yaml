@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = EvilAssault-SUDA-JP-OP.png
+  | image               = EvilAssault-SUDA-JP-R.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 03519195
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = [[Discard]] 1 card; take 1 [[Level]] 4 or lower "[[Evil HERO]]" [[monster]] from your [[Main Deck|Deck]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it, also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn after this card [[resolve]]s, except "[[HERO]]" monsters. If this card is in your [[GY]], except the turn it was sent there: You can [[banish]] it; add 1 "[[Dark Fusion]]" from your GY to your hand. You can only use each effect of "Evil Assault" [[once per turn]].
   | fr_lore             = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。デッキからレベル４以下の「Ｅ－ＨＥＲＯ」モンスター１体を選び、手札に加えるか特殊召喚する。このカードの発動後、ターン終了時まで自分は「ＨＥＲＯ」モンスターしかＥＸデッキから特殊召喚できない。②：このターンに墓地へ送られていないこのカードを墓地から除外して発動できる。自分の墓地から「ダーク・フュージョン」１枚を手札に加える。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP052; Supreme Darkness; 
+  SUDA-JP052; Supreme Darkness; Rare
   | mentions            = Dark Fusion
   | supports_archetypes = 
   * Evil HERO
@@ -44,7 +44,6 @@ wikitext: |-
   * Restricts the player's Special Summons to archetype specific monsters
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20789
   | tcg_status          = Not yet released
   }}

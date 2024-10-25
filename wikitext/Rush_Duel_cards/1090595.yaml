@@ -12,13 +12,19 @@ wikitext: |-
   | card_type              = Spell
   | property               = Normal
   | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[monsters]] from your Graveyard into the Deck.
-  | lore                   = [[Send]] the top 4 cards of your Deck to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 [[Legend Card|Legend]] monster and/or 1 Legend [[Trap Card]] from among the cards sent.
+  | requirement            = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[Monster Card|monster]]s from your Graveyard into the Deck.
+  | lore                   = [[Send]] the top 4 cards of your Deck to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 Legend monster and/or 1 Legend [[Trap Card]] from among the cards sent.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP19-JP054; Salamandeus of Scorching; Super Rare, Secret Rare
+  | supports               = Legend Card
   | archseries             = Legend (series)
+  | action                 = 
+  * Returns from Graveyard to Deck for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | stat_change            = Treated as a Legend Card
   | database_id            = 
   }}

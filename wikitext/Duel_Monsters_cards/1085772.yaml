@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = LiketheDiabell-SUDA-JP-OP.png
+  | image               = LiketheDiabell-SUDA-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 65289956
   | effect_types        = Effect, Ignition-like, Condition
   | lore                = If a [[Spell]]/[[Trap]](s) is [[sent]] to the [[GY]] by a card [[effect]]: [[Set]] 1 Spell/Trap from your [[hand]] or [[GY]], but it cannot be [[activate]]d this [[turn]]. During your [[Main Phase]]: You can [[banish]] 3 Spells/Traps from your GY, including this card; [[Special Summon]] 1 "[[Diabell]]" [[monster]] from your hand or GY. You can only use each effect of "Like the Diabell" once per turn.
   | fr_lore             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：魔法・罠カードが効果で墓地へ送られた場合に発動できる。自分の手札・墓地から魔法・罠カード１枚を自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。②：自分メインフェイズに、自分の墓地からこのカードを含む魔法・罠カード３枚を除外して発動できる。自分の手札・墓地から「ディアベル」モンスター１体を特殊召喚する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP057; Supreme Darkness; 
+  SUDA-JP057; Supreme Darkness; Common
   | archseries          = Diabell
   | supports_archetypes = Diabell
   | action              = 
@@ -48,7 +48,6 @@ wikitext: |-
   * Banishes from Graveyard for cost
   * Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20794
   | tcg_status          = Not yet released
   }}

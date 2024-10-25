@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = TheWaveofLight-SUDA-JP-OP.png
+  | image               = TheWaveofLight-SUDA-JP-C.png
   | card_type           = Spell
   | property            = Continuous
-  | password            = 
+  | password            = 30913809
   | effect_types        = Trigger-like, Continuous-like, Ignition-like, Condition
   | lore                = [[Once per turn]], during your [[Standby Phase]], if you do not have "[[Light Barrier]]" in your [[Field Zone]]: Toss a coin. If the result is tails, the following [[effect]]s are [[negate]]d until your next Standby Phase.<br />● [[Fairy]] [[monster]]s you [[control]] gain 300 [[ATK]]/[[DEF]].<br />● You can [[discard]] 1 card; [[add]] 2 "[[Arcana Force]]" monsters with different names from each other from your [[Main Deck|Deck]] to your [[hand]], also you cannot [[Special Summon]] for the rest of this turn, except "Arcana Force" monsters. You can only use this effect of "The Wave of Light" once per turn.
   | fr_lore             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の③の効果は１ターンに１度しか使用できない。①：自分スタンバイフェイズに、自分のフィールドゾーンに「光の結界」が存在しない場合に発動する。コイントスを１回行い、裏が出た場合、このカードの②③の効果は次の自分スタンバイフェイズまで無効化される。②：自分フィールドの天使族モンスターの攻撃力・守備力は３００アップする。③：手札を１枚捨てて発動できる。カード名が異なる「アルカナフォース」モンスター２体をデッキから手札に加える。このターン、自分は「アルカナフォース」モンスターしか特殊召喚できない。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP053; Supreme Darkness; 
+  SUDA-JP053; Supreme Darkness; Common
   | mentions            = Light Barrier
   | supports_archetypes = Arcana Force
   | action              = 
@@ -44,7 +44,6 @@ wikitext: |-
   * Limited activations
   * Coin toss
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20790
   | tcg_status          = Not yet released
   }}

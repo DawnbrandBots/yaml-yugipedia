@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = AzaminaUnleashing-SUDA-JP-OP.png
+  | image               = AzaminaUnleashing-SUDA-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 39491690
   | effect_types        = Condition, Effect, Trigger-like, Condition
   | lore                = (This card is always treated as a "[[White Forest]]" card.)<br />[[Target]] cards on the [[field]] up to the number of [[Fusion Monster|Fusion]] and [[Synchro Monster]]s ([[Fiend]], [[Illusion]], and [[Spellcaster]]) you [[control]] and in your [[GY]]; [[return]] them to the [[hand]]. If this card is sent to the GY to activate a [[monster effect]]: You can [[Set]] this card. You can only use each effect of "Azamina Unleashing" once per turn.
   | fr_lore             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名はルール上「白き森」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のフィールド・墓地の、悪魔族・幻想魔族・魔法使い族の融合・Ｓモンスターの数まで、フィールドのカードを対象として発動できる。そのカードを手札に戻す。②：このカードがモンスターの効果を発動するために墓地へ送られた場合に発動できる。このカードを自分フィールドにセットする。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  SUDA-JP070; Supreme Darkness; 
+  SUDA-JP070; Supreme Darkness; Common
   | supports            = 
   * Fusion Monster
   * Synchro Monster
@@ -49,7 +49,6 @@ wikitext: |-
   * Requires control of specific Monster card type
   * Requires control of specific Type
   * Only once per turn
-  | database_id         = 
-  | ocg_status          = Not yet released
+  | database_id         = 20807
   | tcg_status          = Not yet released
   }}

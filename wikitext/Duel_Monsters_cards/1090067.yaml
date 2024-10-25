@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = DeltaofTemptation-SUDA-JP-OP.png
+  | image                 = DeltaofTemptation-SUDA-JP-C.png
   | card_type             = Spell
   | property              = Field
-  | password              = 
+  | password              = 03129133
   | effect_types          = Effect, Condition, Ignition-like, Trigger-like, Condition
   | lore                  = When this card is [[activate]]d: You can [[send]] 1 [[Level]] 5 or higher [[Zombie]] [[monster]] from your [[Main Deck|Deck]] to the [[GY]]. You can only use each of the following [[effect]]s of "Delta of Temptation" [[once per turn]]. If a Zombie monster is on the [[field]]: You can [[Special Summon]] 1 "[[Delta Token]]" (Zombie/[[DARK]]/Level 5/[[ATK]] 0/[[DEF]] 0). If a monster(s) is [[Add a card|added]] from the GY to the [[hand]] while this card is in your GY: You can add this card to your hand. You can only activate 1 "Delta of Temptation" per turn.
   | fr_lore               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_lore               = 
   | pt_lore               = 
   | es_lore               = 
-  | ja_lore               = 
+  | ja_lore               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキからレベル５以上のアンデット族モンスター１体を墓地へ送る事ができる。②：フィールドにアンデット族モンスターが存在する場合に発動できる。自分フィールドに「Δトークン」（アンデット族・闇・星５・攻／守０）１体を特殊召喚する。③：このカードが墓地に存在する状態で、モンスターが墓地から手札に加わった場合に発動できる。このカードを手札に加える。
   | ko_lore               = 
   | sc_lore               = 
   | jp_sets               = 
-  SUDA-JP066; Supreme Darkness; 
+  SUDA-JP066; Supreme Darkness; Common
   | mentions              = Delta Token
   | supports              = Zombie
   | anti-supports         = Zombie
@@ -43,7 +43,6 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific Type
   * Only once per turn
-  | database_id           = 
-  | ocg_status            = Not yet released
+  | database_id           = 20803
   | tcg_status            = Not yet released
   }}
