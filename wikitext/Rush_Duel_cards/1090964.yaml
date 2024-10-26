@@ -11,14 +11,20 @@ wikitext: |-
   | level                  = 4
   | atk                    = 1100
   | def                    = 1200
-  | summoning_condition    = This card's name becomes "[[Lightning Bringer Spirit]]" while in the Graveyard.
-  | requirement            = You have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | lore                   = [[Shuffle]] 1 card from each player's Graveyard into the owner's Deck. Then, if your opponent has 5 or less cards in their Graveyard, you can [[Draw a card|draw]] 1 card.
+  | summoning_condition    = This card's name becomes "[[Lightning Bringer Spirit]]" while in the [[Graveyard]].
+  | requirement            = You [[Normal Summon]]ed this card this [[turn]] and you have 10 or more cards in your [[Main Deck|Deck]].
+  | lore                   = [[Shuffle]] 1 card from each [[Duelist|player]]'s Graveyard into the [[owner]]'s Deck. Then, if your opponent has 5 or less cards in their Graveyard, you can [[Draw a card|draw]] 1 card.
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/KP19-JP025; Salamandeus of Scorching; Ultra Rare, Secret Rare, Over Rush Rare
   | mentions               = Lightning Bringer Spirit
+  | action                 = 
+  * Activates during the turn in which it was Normal Summoned
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * You draw cards
+  | stat_change            = Changes own name while in the GY
   | database_id            = 
   }}
