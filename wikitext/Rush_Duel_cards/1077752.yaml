@@ -3,24 +3,42 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = ダークマター・エリジウム
-  | romaji_name           = Dākumatā Erijiumu
-  | image                 = DarkMatterElysium-OW.png
-  | attribute             = DARK
-  | types                 = Galaxy / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
-  | fusion_material       = 
-  | materials             = 
-  | requirement           = TBA
-  | lore                  = TBA
-  | ja_materials          = 
-  | ja_requirement        = 
-  | ja_lore               = 
-  | jp_sets               = 
-  RD/KP19-JP0??; Salamandeus of Scorching
-  | archseries            = Dark Matter (series)
-  | related_to_archseries = Voidverg
-  | database_id           = 
+  | ja_name                = ダークマター・エリジウム
+  | romaji_name            = Dākumatā Erijiumu
+  | image                  = DarkMatterElysium-RDKP19-JP-OP.png
+  | attribute              = DARK
+  | types                  = Galaxy / Fusion / Effect
+  | level                  = 8
+  | atk                    = 3000
+  | def                    = 1300
+  | effect_types           = Continuous
+  | fusion_material        = 
+  * Voidverg Elysium
+  * Contact Dark Matter Voyager
+  | materials              = "[[Voidverg Elysium]]" + "[[Contact Dark Matter Voyager]]"
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement            = None
+  | lore                   = This [[Attack Position]] card cannot be [[destroyed by battle]], and this card gains [[ATK]] equal to [the number of [[face-down]] [[Monster Card|monster]]s on the [[field]]] x 1000. If your [[LP]] are 2500 or lower, this card gains 2500 ATK.
+  | ja_materials           = 
+  | ja_summoning_condition = 
+  | ja_requirement         = 
+  | ja_lore                = 
+  | jp_sets                = 
+  RD/KP19-JP043; Salamandeus of Scorching; Rare
+  | mentions               = 
+  * Voidverg Elysium
+  * Contact Dark Matter Voyager
+  | archseries             = Dark Matter (series)
+  | related_to_archseries  = Voidverg
+  | action                 = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change            = This card gains ATK
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack                 = Cannot be destroyed by battle
+  | database_id            = 
   }}
