@@ -177,7 +177,41 @@ wikitext: |-
   "[[Crow Goblin]]" and "[[Goblin Fan]]" are not members of the archetype, as their names do not contain 「ゴブリン」.
 
   == Design ==
-  Three notable subgroupings within the theme can be distinguished. First is "[[Goblin Attack Force]]" and its variations, based on the idea of a group of goblins posing a notable immediate threat that is nonetheless easily dispatched due to their low HP. Most members of this original group share the effect "if this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn" (though not necessarily with the same wording) and the trait of having 0 DEF. Second are the cards that form part of the "[[Goblin of Greed]]" storyline, which instead focuses on the  avarice often associated with modern fantasy goblins. Lastly, in ''[[Phantom Nightmare]]'', the "[[Goblin Biker]]" sub-archetype was released, which forms part of the "[[Diabellstar]]" storyline, and features goblins that have tamed wild beasts to use as war-mounts. While "Goblin Bikers" have a distinct playstyle, they support all "Goblin" monsters, albeit having poor synergy with the older cards (which are mostly Level 1 or 4) due to focusing on Rank 3 [[Xyz Summon]]ing.
+  Most Goblin cards form part of the "[[Goblin of Greed]]" storyline, which focuses on the avarice often associated with modern fantasy goblins. Accordingly, they're almost exclusively seen as green-skinned creatures with pointed ears, often somewhat barbaric in demeanor. There are two notable subgroups.
+
+  === Goblin Attack Force ===
+
+  "[[Goblin Attack Force]]" and its variations are based on the idea of a group of goblins posing a notable immediate threat that is nonetheless easily dispatched due to their low HP. All members of this group are Level 4 Effect Monsters, with most having 0 DEF and sharing a standard effect that if it successfully attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed except with a card effect until the End Phase of your next turn.
+
+  {| class="wikitable sortable"
+  ! Card !! Position-changing [[Card effect|effect]] !! Other effect !! [[Type]] !! [[Attribute]] !! [[ATK]] !! [[DEF]]
+  |-
+  | [[Goblin Attack Force]] || Standard || N/A || Warrior || EARTH || 2300 || 0
+  |-
+  | [[Goblin Black Ops]] || Standard || [[Direct attacker]] || Beast-Warrior || DARK || 1300 || 0
+  |-
+  | [[Goblin Decoy Squad]] || Standard || When this card inflicts [[Battle Damage]] to your opponent, you can draw 1 card. || Warrior || DARK || 1000 || 0
+  |-
+  | [[Goblin Elite Attack Force]] || Standard || N/A || Fiend || EARTH || 2200 || 1500
+  |-
+  | [[Goblin Freefall Squad]] || If Special Summoned from the hand in Attack Position, target an Effect Monster your opponent controls; change this card to Defense Position, also negate the effects of that monster while this monster is in face-up Defense Position. || [[Only once per turn]], if a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can discard 1 card; add this card to your hand. || Warrior || WIND || 0 || 2000
+  |-
+  | [[Goblin Marauding Squad]] || Standard || Your opponent cannot activate cards or effects when this card declares an attack. || Beast-Warrior || EARTH || 1900 || 0
+  |-
+  | [[Goblin Pothole Squad]] || N/A || Prevents activation of Trap Cards when Normal Summoned, and prevents activation of [[Trap Hole (archetype)|Trap Hole]] cards when a monster is Summoned (except [[Darkfall]], formerly Dark Trap Hole). || Warrior || EARTH || 1500 || 400
+  |-
+  | [[Goblin Recon Squad]] || Standard || If it successfully attacks directly, look at 1 random card in your opponent’s hand, and if it’s a Spell Card, send it to the GY. || Warrior || WIND || 1700 || 0
+  |-
+  | [[Goblindbergh]] || When Normal Summoned, you can Special Summon 1 Level 4 or lower monster from your hand, then change this card to Defense Position. || N/A || Warrior || EARTH || 1400 || 0
+  |-
+  | [[Toon Goblin Attack Force]] || Standard || Cannot attack the turn it is Summoned. If "Toon World" on the field is destroyed, destroy this card. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. || Warrior || Earth || 2300 || 0
+  |}
+
+  === Goblin Bikers ===
+
+  <i>Main article: [[Goblin Biker]]</i>
+
+  Introduced in ''[[Phantom Nightmare]]'', the "[[Goblin Biker]]" sub-archetype was released, which forms part of the "[[Diabellstar]]" storyline, and features goblins that have tamed wild beasts to use as war-mounts. While "Goblin Bikers" have a distinct playstyle, they support all "Goblin" monsters, albeit having poor synergy with the older cards (which are mostly Level 1 or 4) due to focusing on Rank 3 [[Xyz Summon]]ing.
 
   == Playing style ==
   Most older "Goblins" have an enormous advantage in [[ATK]]. "Goblin Attack Force" clocks in at 2300 ATK, "Goblin Elite Attack Squad" brings 2200 ATK to the table and "[[Goblin Black Ops]]" is relatively big for a direct attacker, having 1300 ATK. Because of this advantage, "Goblins" may be the archetype with the strongest Level 4 [[Monster Card|monsters]]. However, though "Goblins" have several advantages in form of their original ATK, they almost all have a drawback that makes a Deck containing them somewhat hard to use. The drawback is that after most "Goblin" monsters battle, they must change into [[face-up]] [[Defense Position]]. To prevent this drawback from destroying your overall strategy, you can add copies of "[[Final Attack Orders]]" or simply use them for Link or Level 4 Xyz Summons to circumvent the issue of having 0 DEF monster as your final line of defense.
@@ -247,6 +281,7 @@ wikitext: |-
 
   == Trivia ==
   * As noted, "Goblin Fan" is not a "Goblin" card; its name in English is due to the localization of the Japanese mythical creature known as the [[wikipedia:tengu|tengu]] into "goblin". Tengus are sometimes said to use fans to control air-currents.
+  * While not having "Goblin" in their name, the [[Token Celebration]] cards prominently feature Goblins in their artwork.
 
   {{Archseries navbox}}
   {{Archseries navbox (anime)}}
