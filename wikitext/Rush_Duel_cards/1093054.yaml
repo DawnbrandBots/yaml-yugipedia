@@ -11,8 +11,8 @@ wikitext: |-
   | level          = 1
   | atk            = 100
   | def            = 0
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] and you have "[[Dice Key Bachika]]" [[face-up]] on your [[field]], [[shuffle]] your Deck.
-  | lore           = [[Send]] the top card of your Deck to the [[Graveyard]]. Then, if you sent a [[Level]] 7 [[monster]] with an effect that requires a die roll to the Graveyard by this [[effect]], [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent. Then, if you inflicted damage, you can [[destroy]] up to 7 cards on the field.
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] and "[[Dice Key Bachika]]" [[face-up]] on your [[field]], [[shuffle]] your Deck.
+  | lore           = [[Send]] the top card of your Deck to the [[Graveyard]]. Then, if you sent a [[Level]] 7 [[Monster Card|monster]] with an [[effect]] that requires a die roll to the Graveyard by this effect, [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent. If you do, you can [[destroy]] up to 7 cards on the field.
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
@@ -20,5 +20,14 @@ wikitext: |-
   | mentions       = Dice Key Bachika
   | supports       = Die roll
   | archseries     = Dice (series)
+  | action         = 
+  * Changes Deck order for cost
+  * Sends from the top of your Deck to your Graveyard
+  | m/s/t          = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | life_points    = Damages your opponent
+  | misc           = Requires control of specific card
   | database_id    = 
   }}

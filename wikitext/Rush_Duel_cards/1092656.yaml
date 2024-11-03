@@ -13,10 +13,15 @@ wikitext: |-
   | def            = 0
   | effect_types   = Continuous
   | requirement    = None
-  | lore           = [[Face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monsters]] on your [[field]] gain 500 [[ATK]], and they inflict [[piercing]] [[battle damage]].
+  | lore           = [[Face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]], and they [[Damage|inflict]] [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/KP19-JP032; Salamandeus of Scorching; Common
+  | supports       = 
+  * EARTH
+  * Machine
+  | stat_change    = Your monsters gain ATK
+  | attack         = Piercing
   | database_id    = 
   }}

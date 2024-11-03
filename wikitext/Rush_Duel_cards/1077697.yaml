@@ -11,10 +11,10 @@ wikitext: |-
   | level           = 9
   | atk             = 3000
   | def             = 2500
+  | effect_types    = Continuous
   | fusion_material = 
   * Chromatographicus
   * Super Assistant Biri
-  | effect_types  = Continuous
   | materials       = "[[Chromatographagas]]" + "[[Super Assistant Biri]]"
   | requirement     = None
   | lore            = This card gains [[ATK]] equal to [the total [[Level]]s of the [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]]s on your opponent's [[field]]] x 200. If you have 3 or more [[Pyro]]/[[Aqua]]/[[Thunder]] [[Type]] [[Maximum Monster]]s in your [[Graveyard]], neither [[Duelist|player]] can [[Special Summon]] non-[[FIRE]] [[Attribute]] monsters from the [[hand]] face-up.
@@ -26,11 +26,20 @@ wikitext: |-
   | mentions        = 
   * Chromatographagas
   * Super Assistant Biri
+  | supports        = 
+  * Pyro
+  * Aqua
+  * Thunder
+  * Maximum Monster
+  * FIRE
   | archseries      = Chemistry
+  | stat_change     = This card gains ATK
   | summoning       = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
+  * Prevents Special Summons
+  * Restricts the player's Special Summons to Attribute specific monsters
   | database_id     = 
   }}

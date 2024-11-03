@@ -8,7 +8,7 @@ wikitext: |-
   | image          = SkeletalSwarm-RDKP19-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
   | lore           = That monster loses [[ATK]] equal to [the number of "[[Skull Servant (Rush Duel)|Skull Servant]]" in your [[Graveyard]]] x 1000 until the end of this [[turn]].
   | ja_requirement = 
   | ja_lore        = 
@@ -16,5 +16,7 @@ wikitext: |-
   RD/KP19-JP062; Salamandeus of Scorching; Common
   | mentions       = Skull Servant (Rush Duel)
   | archseries     = Wight (Rush Duel)
+  | action         = Activates upon attack declaration
+  | stat_change    = Your opponent's monsters lose ATK
   | database_id    = 
   }}
