@@ -3,25 +3,36 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ダイスマイトギャム・ダブルアップチロリ
-  | romaji_name    = Daisumaito Gyamu Daburuappu Chirori
-  | image          = DicemiteGyameDoubleUpChirori-RDKP19-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Fairy / Fusion / Effect
-  | level          = 9
-  | atk            = 3000
-  | def            = 2400
-  | materials      = "[[Dicemite Girl Chirori]]" + "[[Dice Key Mix]]"
-  | requirement    = During your [[Main Phase]] that you [[Special Summon]]ed this card.
-  | lore           = Roll a six-sided die twice. You can Special Summon 1 [[LIGHT]] [[Attribute]] [[monster]] with a [[Level]] equal to or lower than [the total result] from either [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make this card gain [[ATK]] equal to [the [[original ATK]] of the monster Special Summoned by this [[effect]]] until the end of this [[turn]].
-  | ja_requirement = 
-  | ja_lore        = 
-  | jp_sets        = 
-  RD/KP19-JP040; Salamandeus of Scorching; Super Rare, Secret Rare
-  | mentions       = 
+  | ja_name         = ダイスマイトギャム・ダブルアップチロリ
+  | romaji_name     = Daisumaito Gyamu Daburuappu Chirori
+  | image           = DicemiteGyameDoubleUpChirori-RDKP19-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Fairy / Fusion / Effect
+  | level           = 9
+  | atk             = 3000
+  | def             = 2400
+  | fusion_material = 
   * Dicemite Girl Chirori
   * Dice Key Mix
-  | supports       = Die roll
-  | archseries     = Dice (series)
-  | database_id    = 
+  | materials       = "[[Dicemite Girl Chirori]]" + "[[Dice Key Mix]]"
+  | requirement     = During your [[Main Phase]] that you [[Special Summon]]ed this card.
+  | lore            = Roll a six-sided die twice. You can Special Summon 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]] with a [[Level]] equal to or lower than [the total result] from either [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make this card gain [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the monster Special Summoned by this [[effect]]] until the end of this [[turn]].
+  | ja_requirement  = 
+  | ja_lore         = 
+  | jp_sets         = 
+  RD/KP19-JP040; Salamandeus of Scorching; Super Rare, Secret Rare
+  | mentions        = 
+  * Dicemite Girl Chirori
+  * Dice Key Mix
+  | supports        = LIGHT
+  | archseries      = Dice (series)
+  | action          = Activates during the turn in which it was Special Summoned
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard to your field
+  | misc            = Die roll
+  | database_id     = 
   }}

@@ -12,12 +12,17 @@ wikitext: |-
   | atk            = 1200
   | def            = 600
   | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | lore           = Roll a six-sided die. Apply the appropriate [[effect]] based on the result.<br />● 1-3: This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[Fairy]] [[Type]] [[monster]] in [[Attack Position]].<br />● 4-6: [[Special Summon]] 1 Fairy Type monster from your hand face-up to your [[field]].
+  | lore           = Roll a six-sided die. Apply the appropriate [[effect]] based on the result. ●1-3: This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[Fairy]] [[Type]] [[Monster Card|monster]] in [[Attack Position]]. ●4-6: [[Special Summon]] 1 Fairy Type monster from your hand face-up to your [[field]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/KP19-JP009; Salamandeus of Scorching; Common
-  | supports       = Die roll
+  | supports       = Fairy
   | archseries     = Dice (series)
+  | action         = Sends from hand to Graveyard for cost
+  | summoning      = 
+  * Treated as multiple Tributes
+  * Special Summons from your hand
+  | misc           = Die roll
   | database_id    = 
   }}

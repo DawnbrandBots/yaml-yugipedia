@@ -3,42 +3,46 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = トランザム・アサルトライナック
-  | romaji_name     = Toranzamu Asaruto Rainakku
-  | trans_name      = Transamu Assault Rainac
-  | image           = TransamAssaultLinac-RDKP19-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Galaxy / Fusion / Effect
-  | level           = 7
-  | atk             = 2600
-  | def             = 1600
-  | fusion_material = Transam Linac
-  | materials       = "[[Transam Linac]]" + 1 non-[[Level]] 7 [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]]
-  | requirement     = If this card's Level is 4 or higher, [[shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | lore            = Reduce this card's Level by 3 until the end of this [[turn]]. Then, if you shuffled "[[Transam Lika]]" to meet the [[Activation condition|requirement]], this turn, this card [[Damage|inflict]]s [[piercing]] [[battle damage]], and that piercing battle damage it inflicts to your opponent is doubled.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_lore         = 
-  | jp_sets         = 
+  | ja_name               = トランザム・アサルトライナック
+  | romaji_name           = Toranzamu Asaruto Rainakku
+  | trans_name            = Transamu Assault Rainac
+  | image                 = 
+  1; TransamAssaultLinac-RDKP19-JP-OP.png
+  2; TransamAssaultLinac-RDBDGX-JP-OP.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Galaxy / Fusion / Effect
+  | level                 = 7
+  | atk                   = 2600
+  | def                   = 1600
+  | fusion_material       = Transam Linac
+  | materials             = "[[Transam Linac]]" + 1 non-[[Level]] 7 [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]]
+  | requirement           = If this card's Level is 4 or higher, [[shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | lore                  = Reduce this card's Level by 3 until the end of this [[turn]]. Then, if you shuffled "[[Transam Lika]]" to meet the [[Activation condition|requirement]], this turn, this card [[Damage|inflict]]s [[piercing]] [[battle damage]], and that piercing battle damage it inflicts to your opponent is doubled.
+  | ja_materials          = 
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/KP19-JP035; Salamandeus of Scorching; Rare
   RD/BDGX-JP001; Yu-Gi-Oh! GO RUSH!! Duel-10 Blu-ray & DVD promotional card; Ultra Parallel Rare
-  | mentions        = 
+  | mentions              = 
   * Transam Linac
   * Transam Lika
-  | supports        = 
+  | supports              = 
   * Galaxy (Type)
   * Effect Monster
-  | archseries      = Transam
-  | action          = Returns from Graveyard to Deck for cost
-  | stat_change     = This card loses Levels
-  | summoning       = 
+  | archseries            = Transam
+  | related_to_archseries = Praime
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = This card loses Levels
+  | summoning             = 
   * 2 Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires Level specific Fusion Materials
   * Requires Type specific Fusion Materials
   * Requires nonspecific Effect Monsters as Fusion Materials
-  | attack          = Piercing
-  | life_points     = Increases battle damage
-  | misc            = Requires control of specific Level
-  | database_id     = 
+  | attack                = Piercing
+  | life_points           = Increases battle damage
+  | misc                  = Requires control of specific Level
+  | database_id           = 
   }}
