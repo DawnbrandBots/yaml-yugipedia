@@ -14,10 +14,10 @@ wikitext: |-
   | effect_types    = Multi-Choice
   | fusion_material = 
   * Imaginary Actor
-  * Dice Key Mix
+  * Fair Flyer
   | materials       = "[[Imaginary Actor]]" + "[[Fair Flyer]]"
-  | requirement     = Change this card's [[battle position]].
-  | lore            = ● Look at all [[face-down]] cards on your opponent's [[field]]. Then, you can [[destroy]] all [[Spell Card]]s among them.<br />● Take [[control]] of 1 [[face-up]] non-[[Maximum Monster|Maximum]] [[Fairy]] [[Type]] [[monster]] on your opponent's field.
+  | requirement     = [[Battle position change|Change]] this card's [[battle position]].
+  | lore            = ●[[Look]] at all [[face-down]] cards on your opponent's [[field]]. Then, you can [[destroy]] all [[Spell Card]]s among them. ●Take [[control]] of 1 [[face-up]] non-[[Maximum Monster|Maximum]] [[Fairy]] [[Type]] [[Monster Card|monster]] on your opponent's field.
   | ja_requirement  = 
   | ja_lore         = 
   | jp_sets         = 
@@ -25,6 +25,17 @@ wikitext: |-
   | mentions        = 
   * Imaginary Actor
   * Fair Flyer
+  | anti-supports   = Fairy
   | archseries      = Metarion
+  | action          = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Reveals face-down cards
+  * Takes control of an opponent's monster
+  | m/s/t           = Destroys your opponent's face-down Spell Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  | misc            = Variable effects
   | database_id     = 
   }}
