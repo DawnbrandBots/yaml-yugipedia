@@ -46,8 +46,20 @@ wikitext: |-
   TW02-JP074; Terminal World 2; Normal Parallel Rare
   | archseries            = Nekroz
   | supports_archetypes   = Nekroz
-  | related_to_archseries = 
-  * Zefra
+  | related_to_archseries = Zefra
+  | action                = 
+  * Activates if other cards are banished
+  * Returns itself to field while banished
+  | summoning             = 
+  * Nomi
+  * Restricts requirement for Ritual Summon
+  | banished              = 
+  * Banishes from field
+  * Banishes itself from field
+  * Banishes monsters destroyed by battle
+  | misc                  = 
+  * Ritual Pendulum Monster
+  * Only once per turn
   | database_id           = 
   | ocg_status            = Not yet released
   | tcg_status            = Not yet released
