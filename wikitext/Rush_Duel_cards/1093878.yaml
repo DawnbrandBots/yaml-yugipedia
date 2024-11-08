@@ -3,23 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ロードスターの{{Ruby|魔|ま}}{{Ruby|剣|けん}}{{Ruby|士|し}}
-  | romaji_name    = Rōdosutā no Makenshi
-  | image          = MagicalSwordsmanofRoadstar-RDKP19-JP-OP.png
-  | attribute      = DARK
-  | types          = Spellcaster / Effect
-  | level          = 4
-  | atk            = 1200
-  | def            = 500
-  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore           = This card's name becomes "[[Swordsman of Roadstar]]" this turn. Then, you can [[Special Summon]] 1 "[[Sevens Fear Magician]]" from your Graveyard to your [[field]] in [[face-up]] [[Defense Position]].
-  | ja_requirement = 
-  | ja_lore        = 
-  | jp_sets        = 
+  | ja_name               = ロードスターの{{Ruby|魔|ま}}{{Ruby|剣|けん}}{{Ruby|士|し}}
+  | romaji_name           = Rōdosutā no Makenshi
+  | image                 = MagicalSwordsmanofRoadstar-RDKP19-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 500
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | lore                  = This card's name becomes "[[Swordsman of Roadstar]]" this [[turn]]. Then, you can [[Special Summon]] 1 "[[Sevens Fear Magician]]" from your Graveyard to your [[field]] in [[face-up]] [[Defense Position]].
+  | ja_requirement        = 
+  | ja_lore               = 
+  | jp_sets               = 
   RD/KP19-JP010; Salamandeus of Scorching; Common
-  | mentions       = 
+  | mentions              = 
   * Swordsman of Roadstar
   * Sevens Fear Magician
   | related_to_archseries = Sevens Road
-  | database_id    = 
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = Changes own name while on the field
+  | summoning             = Special Summons from your Graveyard
+  | database_id           = 
   }}

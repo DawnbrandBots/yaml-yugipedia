@@ -17,7 +17,7 @@ wikitext: |-
   | materials              = "[[Celeb Rose Magician]]" + "[[Celeb Rose Witch]]"
   | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | lore                   = [[Send]] 1 [[monster]] from your [[field]] to the [[Graveyard]]. Then, you can make 1 [[face-up]] monster on your opponent's field lose [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
+  | lore                   = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]]. Then, you can make 1 [[face-up]] monster on your opponent's field lose [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
@@ -27,5 +27,16 @@ wikitext: |-
   | mentions               = 
   * Celeb Rose Magician
   * Celeb Rose Witch
+  | archseries             = Celeb Rose
+  | action                 = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Fusion Summoned
+  * Sends from your field to your Graveyard
+  | stat_change            = Your opponent's monsters lose ATK
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id            = 
   }}

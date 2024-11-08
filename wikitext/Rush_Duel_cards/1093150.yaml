@@ -15,9 +15,9 @@ wikitext: |-
   * Elemental HERO Neos (Rush Duel)
   * Neo-Spacian Air Hummingbird (Rush Duel)
   | materials              = "[[Elemental HERO Neos (Rush Duel)|Elemental HERO Neos]]" + "[[Neo-Spacian Air Hummingbird (Rush Duel)|Neo-Spacian Air Hummingbird]]"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[monsters]] from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]] ([[Fusion Summon]] it by [[Shuffle|shuffling]] the above [[face-up]] [[Monster Card|monster]]s from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]).
   | requirement            = If your [[LP]] and your opponent's are different, [[send]] the top card of your Deck to the [[Graveyard]].
-  | lore                   = This [[turn]], this card can make up to 2 [[attack]]s on monsters.
+  | lore                   = This card can make up to 2 [[attack]]s on monsters this [[turn]].
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
@@ -30,5 +30,17 @@ wikitext: |-
   | archseries             = 
   * Elemental HERO (Rush Duel)
   * Neos (series)
+  | action                 = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Sends from the top of your Deck to your Graveyard for cost
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack                 = Can make multiple attacks on monsters
+  | misc                   = Requires specific LP
   | database_id            = 
   }}
