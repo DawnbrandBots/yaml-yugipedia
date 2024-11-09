@@ -11,14 +11,14 @@ wikitext: |-
   | romaji_name           = Seikan no Hōsatsu
   | trans_name            = Treasure Cards of Safe Return
   | image                 = 
-  1;   CardofSafeReturn-BE01-JP-C.png;    CardofSafeReturn-MADU-JP-VG-artwork.png
-  1.1; CardofSafeReturn-RP02-EN-C-UE.png; CardofSafeReturn-MADU-EN-VG-artwork.png
+  1;   CardofSafeReturn-BE01-JP-C.png;        CardofSafeReturn-MADU-JP-VG-artwork.png
+  1.1; CardofSafeReturn-RA03-EN-PlScR-1E.png; CardofSafeReturn-MADU-EN-VG-artwork.png
   | current_image         = 1.1
   | card_type             = Spell
   | property              = Continuous
   | password              = 57953380
   | effect_types          = Trigger-like
-  | lore                  = When a [[monster]] is [[Special Summon]]ed from your [[Graveyard]], you can [[Draw a card|draw]] 1 card.
+  | lore                  = When a [[monster]](s) is [[Special Summon]]ed from your [[GY]] (except during the [[Damage Step]]): You can [[Draw a card|draw]] 1 card.
   | fr_lore               = Lorsqu'un monstre est Invoqué Spécialement depuis votre Cimetière, vous pouvez piocher 1 carte.
   | de_lore               = Wenn ein Monster als Spezialbeschwörung von deinem Friedhof beschworen wird, kannst du 1 Karte ziehen.
   | it_lore               = Quando un mostro viene Evocato tramite Evocazione Speciale dal tuo Cimitero, puoi pescare 1 carta.
@@ -87,8 +87,6 @@ wikitext: |-
   '''[[Visitor from Beyond (NTR-BP)|Visitor from Beyond]]''' ([[Common]])
   | ygo_sets              = 
   '''[[Pack 19 (YGOO-BP)|Pack 19]]'''
-  | ocg_status            = Forbidden
-  | tcg_status            = Forbidden
   | archseries            = Treasure Cards
   | action                = 
   * Activates upon Special Summon
