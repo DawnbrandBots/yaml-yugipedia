@@ -129,42 +129,66 @@ wikitext: |-
   |}
 
   == Playing style ==
-  The "Gishki" archetype focuses on Ritual Summoning. The archetype's non-Ritual monsters focus on setting up the Ritual Summons by searching out the Ritual Monsters and Spells (directly or indirectly), and to provide tributes for "Gishki" Ritual Monsters. The two fastest "Gishki" Ritual card searchers are "[[Gishki Shadow]]" and "[[Gishki Vision]]", who can be discarded from the hand to search a "Gishki" Ritual Spell or Monster; they also have effects that lets them be used as the entire Ritual Summon requirement for Ritual Summons of WATER Ritual Monsters.
-  "Gishki" Ritual Monsters focus on shuffling cards from the opponent's hand, field or Graveyard back to the Deck, either to break boards or to make the opponent lose card advantage. Most "Gishki" builds focus on going first and summoning "[[Evigishki Gustkraken]]" multiple times  in the first turn, in order to return as many cards from the opponent's hand back into the deck, forcing the opponent to start in a massively disadvantageous position.
-  "Gishki" Ritual Spells have several novel effects: "[[Gishki Photomirror]]" Ritual Summons by paying LP instead of tributing monsters, "[[Forbidden Arts of the Gishki]]" can Ritual Summon by tributing the opponent's monsters (at the cost of putting heavy restrictions on the player's actions afterwards), and "[[Gishki Aquamirror]]" is a conventional Ritual Spell that has a GY effect to recover "Gishki" Ritual Monsters in the GY (and shuffles itself back into the deck) for reuse.
-  A number of "Gishki" monsters, such as "[[Gishki Chain|Chain]]", "[[Gishki Avance|Avance]]", "[[Gishki Natalia|Natalia]]", and the Ritual Monsters "[[Gishki Zielgigas|Zielgigas]]" and "[[Evigishki Levianima|Levianima]]", focus on manipulating and interacting with the player's top deck to search out Ritual Monsters and Spells or activate effects; due to their slow speed, these effects are largely obsolete in the 2021 metagame.
-  The going-first "Gustkraken"-focused build benefits greatly from a variant of the "[[Crystron Halqifibrax]]" → "[[Mecha Phantom Beast Auroradon]]" combo line, which uses two copies of "[[Deskbot 001]]" and generic Rank 4 monsters to repeatedly summon, send to GY, and recycle copies of "[[Herald of the Arc Light]]" to search multiple Ritual Monsters and Spells in a single turn. This can enable 3-5 summons of "Gustkraken" in 1 turn, potentially completely clearing the opponent's hand.
-  Aside from Ritual Summoning, the archetype can also perform alternate combos lines such as the "[[Bahamut Shark]]" → "[[Toadally Awesome]]" line, through cards like "[[Gishki Beast]]".
+  "Gishki" is one of the earliest Ritual Summon-focused archetypes, and is thus centred around making up for the initial flaws of the mechanic, such as difficulty in maintaining card advantage after a Ritual Summon. This, however, has since been used to create (in)finite loops using the deck's main Ritual Spell, "[[Gishki Aquamirror]]". This has given the archetype a reputation for performing long-winded [[FTK]]s.
+
+  The deck's main playmakers are "[[Gishki Grimness]]", in tandem with "[[Gishki Abyss]]"; the former summons the latter from the deck, which allows for a search. This usually leads to "[[Gishki Shadow]]" or "[[Gishki Vision]]", which can be discarded from the hand to search a "Gishki" Ritual Spell or Monster, respectively; they also have effects that let them be used as the entire Ritual Summon requirement for Ritual Summons of WATER Ritual Monsters. All of these cards can be searched using "Focused Aquamirror", the deck's "[[Reinforcement of the Army]]" equivalent. "Gishki" decks tend to try and use "Abyss", "Shadow", and "Vision" as much as possible over the course of the player's turn, allowing for repeated, powerful Ritual Summons. Because many of these cards are Level 2, they have synergy with the "[[Spright]]" archetype, particularly in using "[[Gigantic Spright]]" to remove un-Linkable Link-2 monsters from the [[Extra Monster Zone]].
+
+  Additionally, Gishki has an auxiliary series of cards, known as "Aquamirror", which can be set in the End Phase after activating "[[Focused Aquamirror]]". Out of these, "[[Aquamirror Illusion]]" is the most attractive, allowing for a second summon of "[[Evigishki Neremanas]]" after it returns itself to the hand for a second [[negate]]. Outside of this, however, "Gishki Aquamirror" remains the only viable option, with the rest being painfully outdated in the 2024 metagame, rarely achieving much. 
+
+  Gishki has several unique Ritual Spells, all of which summon monsters from the hand and use exact levels:
+  {| class="wikitable"
+  ! Mirror !! Effects
+  |-
+  | [[Gishki Aquamirror]] || Can shuffle itself into the deck while returning a Ritual Monster to the hand.
+  |-
+  | [[Gishki Photomirror]] || Pay [[LP]] equal to the monster's level *500.
+  |-
+  | [[Gishki Nekromirror]] || Can alternatively tribute 1 face-up monster the opponent controls regardless of level. LP is lost equal to the level of the Ritual Summoned monster's ATK.
+  |-
+  | [[Forbidden Arts of the Gishki]] || Ritual Summon using monsters from either side of the field; ATK is halved and the Battle Phase is revoked.
+  |-
+  |}
+
+  "Gishki" Ritual Monsters have little consistency in their effects, but typically have an effect that activates on-summon; to this end, [[Gishki Vanity]] exists to insulate their summon which, by extension, will protect their on-summon effects from being chained to. Should a "Gishki" Ritual Monster not have an effect of this sort, it will typically focus on shuffling cards from the opponent's hand, field or Graveyard back to the Deck, either to break boards or to make the opponent lose card advantage. One thing is consistent, however: Not one of them has a hard once per turn clause, and this is where exploitation becomes extremely possible.
+
+  Because "Aquamirror" requires the use of ''exact'' levels to successfully Ritual Summon, and the recursion effect of "Aquamirror" requires a Ritual Monster in GY, "Gishki" decks will typically focus on one specific level of "Gishki" Ritual Monster to build the deck around. This prompts several variants of the deck, all of which vary significantly in playstyle;
+  {| class="wikitable"
+  ! Level Axis !! Monster(s) !! Overview
+  |-
+  |10 || "[[Evigishki Neremanas]]" + "[[Gishki Zielgigas]]" || Can take multiple directions&mdash;chiefly a [[Superdreadnought Rail Cannon Gustav Max]] FTK&mdash;but can also use "Neremanas's" monster negate alongside hand traps to build a strong going-first board. "Zielgigas" provides a strong offensive push going second, having access to non-targeting shuffling into the deck, among the strongest in the game, in addition to drawing cards. Pre-Photon Hypernova, the deck took the identity of "Zielgigas Turbo".
+  |-
+  | 6 || "[[Evigishki Gustkraken]]" || Wins through repeatedly summoning "Gustkraken" allows the player to rip every card out of the opponent's hand in a style akin to 2018 "[[Topologic Gumblar Dragon]]" loops. Historically used with "[[Constellar Ptolemy M7]]", but remains possible today with "[[Drytron]]" or even in-archetype decklists. Early lists would occasionally use "Tetrogre" to take advantage of the one-sided situation and set up.
+  |-
+  | 6 || "[[Evigishki Mind Augus]]" || Posthumously referred to as "GishKill" and peaked in 2013. The deck notoriously achieved a slow, often 40-minute-long FTK by using the format's critical mass of draw-1 spells such as [[One Day of Peace]] to deck the opponent out, before being forced into a "Single Augus" strategy as a result of a banlist before dying out. Occasionally used "Soul Ogre" in the Side Deck to push for convincing OTKs. In modern metagames, a "[[Cyberse Clock Dragon]]" FTK is possible, using "Mind Augus" to stack the deck after milling every card in the player's deck, infinitely looping a burn card such as "[[Ookazi]]".
+  |-
+  | 8 || "[[Evigishki Levianima]]" + "[[Evigishki Soul Ogre]]" || Used in 2014 H.A.T format, centred around using Levianima's battle effect to gain more advantage from the Battle Phase, but has thoroughly faded out in the modern metagame.
+  |}
 
   === Recommended cards ===
   {{Decklist
   <!-- This is not an exact Decklist. Do not add multiples or staples.-->
   |effect monsters =
   * [[Gishki Abyss]]
-  * [[Gishki Beast]]
   * [[Gishki Grimness]]
-  * [[Gishki Marker]]
   * [[Gishki Shadow]]
   * [[Gishki Vision]]
   * [[Beautunaful Princess]]
   * [[Eria the Water Channeler]]
   * [[Impcantation]] monsters
-  * [[Manju of the Ten Thousand Hands]]
   |ritual monsters =
   * [[Evigishki Gustkraken]]
   * [[Evigishki Mind Augus]]
   * [[Evigishki Neremanas]]
-  * [[Evigishki Soul Ogre]]
   * [[Gishki Zielgigas]]
   |tuner monsters =
   * [[Icejade Ran Aegirine]]
   |synchro monsters =
   * [[Icejade Gymir Aegirine]]
   * [[Swordsoul Supreme Sovereign - Chengying]]
+  * [[Adamancipator Risen - Dragite]]
   |xyz monsters =
   * [[Abyss Dweller]]
   * [[Bahamut Shark]]
-  ** [[Levirtue Dragon]]
   ** [[Toadally Awesome]]
   * [[Number 4: Stealth Kragen]]
   ** [[Stealth Kragen Spawn]]
@@ -183,42 +207,51 @@ wikitext: |-
   |normal spells =
   * [[Focused Aquamirror]]
   * [[Deep Sea Aria]]
-  * [[Fury of Kairyu-Shin]]
-  * [[Ice Mirror]]
   * [[Preparation of Rites]]
   * [[Salvage]]
-  * [[Surface]]
   * [[White Mirror]]
   * [[Foolish Burial Goods]]
   * [[One for One]]
   * [[Moray of Greed]]
   |ritual spells =
-  * [[Forbidden Arts of the Gishki]]
   * [[Gishki Aquamirror]]
   * [[Gishki Nekromirror]]
   * [[Gishki Photomirror]]
   |continuous spells =
   * [[Ocean of Regeneration]]
   |normal traps =
-  * [[Aquamirror Meditation]]
-  * [[Aquamirror Cycle]]
   * [[Aquamirror Illusion]]
   * [[Grisaille Prison]]
   * [[Ice Barrier (card)|Ice Barrier]]
-  * [[The Ice-Bound God]]
-  * [[Torrential Reborn]]
-  * [[Torrential Tribute]]
-  * [[Urgent Ritual Art]]
-  * [[Virtue Stream]]
   * [[White Howling]]
   |counter traps =
   * [[Drytron Meteor Shower]]
   }}
 
   === Weaknesses ===
-  * Anti-Special Summoning floodgates, such as "[[Archlord Kristya]]", "[[Evilswarm Ophion]]", "[[Fossil Dyna Pachycephalo]]", "[[Jowgen the Spiritualist]]" and the "[[Vanity's]]" cards can prevent the deck from summoning its Ritual Monsters.
-  * Anti-searching floodgates like "[[Thunder King Rai-Oh]]", "[[Mistake]]" and "[[Deck Lockdown]]" can block the effects of "Gishki Shadow" and "Gishki Vision", preventing the deck from performing consistent Ritual Summons.
-  * GY banishing floodgates like "[[Dimensional Fissure]]" and "[[Macro Cosmos]]" can damage the deck's ability to recover cards from the GY.
+  * Being a Ritual-based strategy focused on searching, "Gishki" is comically weak to anti-search effects, such as "[[Droll & Lock Bird]]", "[[Thunder Dragon Colossus]]", "[[Thunder King Rai-Oh]]", "[[Mistake]]" and "[[Deck Lockdown]]", largely incapacitating the deck.
+  ** "[[Ash Blossom & Joyous Spring]]" can usually end a turn should the deck be forced to Normal Summon "Grimness". 
+  * "Gishki" monsters in general lack any sort of protection, and require outside support to get a Spell/Trap negate; therefore, cards like "[[Lightning Storm]]" and "[[Raigeki]]" are excellent going second. 
+  * Should the strategy not centralise around "Neremanas", the deck has zero recourse against "[[Nibiru, the Primal Being]]", which usually stops the "Gustkraken" and "Mind Augus" FTKs, though timings vary.
+  * "Gishki's" loops centralise around "Gishki Aquamirror". Thus, cards that can remove it or prevent its usage are the best ways to deal with the deck;
+  ** "[[D.D. Crow]]" can banish "Gishki Aquamirror" from the GY, which is oftentimes run at 1, usually ending the game instantly.
+  ** Anti-spell cards such as the titular "[[Anti-Spell Fragrance]]" and "[[Imperial Order]]" (when legal), are excellent.
+  ** "[[Dimensional Barrier]]" is an instant turn-ender.
+  ** "[[Necrovalley]]" prevents "Gishki Aquamirror" from shuffling itself into the deck, cutting off the strategy's main source of loops completely. 
+  ** "[[Gnomaterial]]", if used on a "Gishki" Ritual Monster or the first "Grimness", can wholly stop a loop, which is turn-ending should the deck not be running 3 of the Ritual Monster, or otherwise lack immediate access to the extra copy. 
+  *** "[[Ghost Mourner & Moonlit Chill]]" and "[[Ghost Ogre & Snow Rabbit]]" can also cut the player off their loops, but unlike Gnomaterial, don't outright prevent them.
+  *** "[[Called by the Grave]]" is similarly effective if targeting a valuable Ritual Monster. This is particularly effective against 10-axis decks, preventing "Neremanas" from using its negation or Special Summon effects, leaving it with little recourse. 
+  ** "[[Dimension Shifter]]" forces "Gishki Aquamirror" to banish itself; if chained to the activation, this can single-handedly win the game.
+  * Several generic floodgates can incapacitate "Gishki":
+  ** Anti-Special Summoning floodgates, such as "[[Archlord Kristya]]", "[[Evilswarm Ophion]]", "[[Fossil Dyna Pachycephalo]]", "[[Jowgen the Spiritualist]]" and the "[[Vanity's]]" cards can prevent the deck from summoning its Ritual Monsters.
+  ** GY banishing floodgates like "[[Dimensional Fissure]]" and "[[Macro Cosmos]]" can damage the deck's ability to recover cards from the GY.
+  ** "[[Rivalry of Warlords]]" occasionally hampers the deck, as it oftentimes uses multiple different Water-adjacent types.
+  ** "[[Skill Drain]]" doesn't prevent the summoning of big bodies should the player already have a good hand, but wholly prevents the deck's main combo lines.
+  ** Anti-hand effect cards such as "[[Mind Drain]]" and "[[Debunk]]" stop "Vision" and "Shadow" from functioning, which is particularly effective at stopping "Neremanas" from showing up, as its DEF is too high for "Abyss" to search on its own.
+  * Because the deck spends a significant amount of LP, especially if trying to use a 1-card combo with "Photomirror", the deck becomes exploitable in several ways;
+  ** A generic [[burn]] deck has an exceptionally easy time winning, usually only needing to deal 3,000 damage.
+  ** Dealing 3,000+ burn damage stops the deck from summoning "Neremanas" with "Photomirror" alone, which cuts the deck off its main 1-card combo line. 
+  ** The deck is extremely vulnerable to time win-cons: Its own combos tend to take an exceptional amount of time, and spending LP is sometimes inevitable.
 
   == Trivia ==
   * In the ''OCG'', all "Gishki" [[Ritual Monster|Ritual]] and [[Xyz Monster]]s have "Eviritua" as a part of their names. In the ''TCG'' however, the localized version of "Eviritua", "Evigishki", is not used on all "Gishki" Ritual and Xyz Monsters, with "[[Gishki Zielgigas|Zielgigas]]" and "[[Gishki Psychelone|Psychelone]]" having the standard "Gishki" name instead of "Evigishki". Since there's no card that specifically support "Evigishki" cards, this is not an issue.
