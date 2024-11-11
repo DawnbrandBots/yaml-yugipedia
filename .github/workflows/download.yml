@@ -23,10 +23,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r src/requirements.txt
-      - run: |
-          mkdir -p "wikitext/${{ github.event.inputs.category }}"
-          cd "wikitext/${{ github.event.inputs.category }}"
-          python3 ../../src/main.py '${{ github.event.inputs.category }}' "${{ github.event.inputs.gcmcontinue }}"
+      - env:
+          WIKI_CATEGORY: ${{ github.event.inputs.category }}
+          WIKI_GCMCONTINUE: ${{ github.event.inputs.gcmcontinue }}
+        run: |
+          mkdir -p "wikitext/$WIKI_CATEGORY"
+          cd "wikitext/$WIKI_CATEGORY"
+          python3 ../../src/main.py "$WIKI_CATEGORY" "$WIKI_GCMCONTINUE"
       - uses: DawnbrandBots/.github/actions/commit-push@main
         if: always()
         with:
