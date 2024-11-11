@@ -3,17 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 機動砕撃 ギア・クラッシャー
-  | romaji_name    = 
+  | ja_name        = {{Ruby|機|き}}{{Ruby|動|どう}}{{Ruby|砕|さい}}{{Ruby|撃|げき}} ギア・クラッシャー
+  | romaji_name    = Kidōsaigeki Gia Kurasshā
   | image          = BootUpPulverizeGearCrusher-RDKP19-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = [[Send]] 1 [[Level]] 4 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore           = [[Destroy]] 1 [[face-up]] [[Level]] 8 or lower monster or 1 [[face-down]] card on your opponent's field. This turn, you can only attack with EARTH Attribute Machine Type monsters.
+  | requirement    = [[Send]] 1 [[Level]] 4 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Destroy]] 1 [[face-up]] Level 8 or lower monster or 1 [[face-down]] card on your opponent's [[field]]. You can only [[attack]] with EARTH Attribute Machine Type monsters this [[turn]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/KP19-JP051; Salamandeus of Scorching; Common
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Gadget (series)
+  | action         = Sends from hand to Graveyard for cost
+  | m/s/t          = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
