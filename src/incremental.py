@@ -1,7 +1,6 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 import logging
-from platform import python_version
 import random
 import sys
 from time import sleep
@@ -10,11 +9,7 @@ from urllib.parse import quote
 import httpx
 from ruamel.yaml import YAML
 
-from utils import download
-
-
-# User agents containing the substring "python" in any casing are forbidden after 2023-01-28
-user_agent = f"https://github.com/DawnbrandBots/yaml-yugipedia httpx/{httpx.__version__} py/{python_version()}"
+from utils import download, user_agent
 
 
 def skip_condition(page) -> bool:

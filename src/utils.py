@@ -1,6 +1,7 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 from logging import getLogger
+from platform import python_version
 import random
 from time import sleep
 from typing import Optional
@@ -11,6 +12,10 @@ from ruamel.yaml.scalarstring import LiteralScalarString
 
 
 logger = getLogger(__name__)
+
+
+# User agents containing the substring "python" in any casing are forbidden after 2023-01-28
+user_agent = f"https://github.com/DawnbrandBots/yaml-yugipedia httpx/{httpx.__version__} py/{python_version()}"
 
 
 def get_retry(client: httpx.Client, url: str) -> httpx.Response:
