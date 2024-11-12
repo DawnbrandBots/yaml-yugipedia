@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 name: Update wikitext from Yugipedia with recent changes
 
@@ -35,6 +35,9 @@ jobs:
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
       - name: Download incremental changes since last time for targeted categories
         run: <./src/categories.txt ./src/incremental.sh "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - name: Query Semantic MediaWiki
+        working-directory: semantic-mediawiki
+        run: ../src/smw.sh
       - id: commit
         uses: DawnbrandBots/.github/actions/commit-push@main
         if: always()
