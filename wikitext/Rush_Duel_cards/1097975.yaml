@@ -12,11 +12,18 @@ wikitext: |-
   | atk            = 100
   | def            = 500
   | requirement    = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
-  | lore           = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] [[monsters]] with 100 [[ATK]] in your Graveyard, you can [[destroy]] 1 [[face-down]] monster on your opponent's field.
+  | lore           = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] [[Monster Card|monster]]s with 100 [[ATK]] in your Graveyard, you can [[destroy]] 1 [[face-down]] monster on your opponent's field.
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/KP19-JP028; Salamandeus of Scorching; Common
+  | supports       = Aqua
   | archseries     = Berry Fresh
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = Destroys your opponent's face-down Monster Cards
+  | misc           = Turn limited effects
   | database_id    = 
   }}
