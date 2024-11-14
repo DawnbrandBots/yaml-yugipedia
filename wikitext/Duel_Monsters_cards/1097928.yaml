@@ -24,7 +24,7 @@ wikitext: |-
   | password              = 
   | materials             = 2 Level 4 monsters
   | effect_types          = Trigger, Ignition, Trigger, Condition
-  | lore                  = 2 Level 4 monsters<br />If this card is Xyz Summoned: You can add 1 Cyberse Ritual Monster from your Deck to your hand. You can detach 1 material from this card; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand and/or field whose total Levels equal or exceed its Level. If this card is sent to the GY as Link Material: You can add 1 "A.I." Trap from your Deck to your hand. You can only use each effect of "Code Igniter" once per turn.
+  | lore                  = 2 [[Level]] 4 [[monster]]s<br />If this card is [[Xyz Summon]]ed: You can [[add]] 1 [[Cyberse]] [[Ritual Monster]] from your [[Main Deck|Deck]] to your [[hand]]. You can [[detach]] 1 [[material]] from this card; [[Ritual Summon]] 1 Ritual Monster from your hand, by [[Tribute|Tributing]] monsters from your hand and/or [[field]] whose total Levels equal or exceed its Level. If this card is [[send|sent]] to the [[GY]] as [[Link Material]]: You can add 1 "[[A.I.]]" [[Trap]] from your Deck to your hand. You can only use each [[effect]] of "Code Igniter" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,9 +35,25 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ????-JP0??; Alliance Insight; 
+  | supports              = 
+  * Cyberse
+  * Link Monster
   | supports_archetypes   = A.I.
   | related_to_archseries = 
   * @Ignister
   * Code Talker (archetype)
+  | action                = 
+  * Activates upon Xyz Summon
+  * Adds from Deck to hand
+  * Tributes as an effect
+  * Activates if sent to the Graveyard
+  * Activates if used as Link Material
+  * Adds from Deck to hand
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Performs a Ritual Summon
+  * Special Summons from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   }}

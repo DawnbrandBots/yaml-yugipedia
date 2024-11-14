@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 800
   | password            = 
   | effect_types        = Ignition, Trigger, Condition
-  | lore                = If you control a Cyberse monster Special Summoned from the Extra Deck: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 DARK Cyberse monster from your Deck to your hand, except "Backup @Ignister", then discard 1 card. You can only use each effect of "Backup @Ignister" once per turn.
+  | lore                = If you [[control]] a [[Cyberse]] [[monster]] [[Special Summon]]ed from the [[Extra Deck]]: You can Special Summon this card from your [[hand]]. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[add]] 1 [[DARK]] Cyberse monster from your [[Main Deck|Deck]] to your hand, except "Backup @Ignister", then [[discard]] 1 card. You can only use each [[effect]] of "Backup @Ignister" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,8 +34,22 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ????-JP002; Alliance Insight; 
+  | mentions            = Backup @Ignister
+  | supports            = 
+  * Cyberse
+  * DARK
   | archseries          = 
   * @Ignister
   * Backup
+  | action              = 
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * You discard as an effect
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}

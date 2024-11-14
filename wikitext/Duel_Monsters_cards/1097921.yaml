@@ -24,7 +24,7 @@ wikitext: |-
   | password              = 
   | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Ignition, Trigger, Condition
-  | lore                  = 1 Tuner + 1+ non-Tuner monsters<br />If this card is Synchro Summoned: You can target 1 Cyberse monster in your GY or banishment; add it to your hand. You can target 1 other Cyberse monster you control that has a Level; this card's Level becomes that monster's. If this card is sent to the GY as Link Material: You can add 1 "A.I." Spell from your Deck to your hand. You can only use each effect of "Firewall Saber Dragon" once per turn.
+  | lore                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />If this card is [[Synchro Summon]]ed: You can [[target]] 1 [[Cyberse]] monster in your [[GY]] or [[banish]]ment; [[add]] it to your [[hand]]. You can target 1 other [[Cyberse]] monster you [[control]] that has a [[Level]]; this card's Level becomes that monster's. If this card is [[send|sent]] to the GY as [[Link Material]]: You can [[add]] 1 "[[A.I.]]" [[Spell]] from your [[Main Deck|Deck]] to your hand. You can only use each [[effect]] of "Firewall Saber Dragon" [[once per turn]].
   | fr_lore               = 
   | de_lore               = 
   | it_lore               = 
@@ -35,16 +35,25 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   ????-JP0??; Alliance Insight; 
-  | supports              = Link Monster
+  | supports              = Cyberse
   | archseries            = 
   * Firewall (archetype)
   * Saber
   | supports_archetypes   = A.I.
   | related_to_archseries = @Ignister
+  | action                = 
+  * Activates upon Synchro Summon
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  * Activates if sent to the Graveyard
+  * Activates if used as Link Material
+  * Adds from Deck to hand
+  | stat_change           = Changes own Level
   | summoning             = 
   * 1 or more non-Tuner Synchro Materials
   * Does not require specific Synchro Materials
-  | action                = Activates upon Special Summon
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   }}

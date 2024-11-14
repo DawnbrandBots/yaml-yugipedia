@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Condition
-  | lore                = Reveal 1 Cyberse monster in your hand; apply this effect based on its Attribute, also you cannot Special Summon for the rest of this turn after this card resolves, except Cyberse monsters.<br />● DARK: Special Summon the revealed monster, and if you do, add 1 non-DARK Level 4 or lower Cyberse monster from your Deck to your hand.<br />● Non-DARK: Shuffle the revealed monster into the Deck, and if you do, add 1 "@Ignister" monster with a different Attribute from your Deck to your hand.<br />You can only activate 1 "TA.I.es" per turn.
+  | lore                = [[Reveal]] 1 [[Cyberse]] [[monster]] in your [[hand]]; apply this [[effect]] based on its [[Attribute]], also you cannot [[Special Summon]] for the rest of this [[turn]] after this card resolves, except Cyberse monsters.<br />● [[DARK]]: Special Summon the revealed monster, and if you do, [[add]] 1 non-DARK [[Level]] 4 or lower Cyberse monster from your [[Main Deck|Deck]] to your hand.<br />● Non-DARK: [[Shuffle]] the revealed monster into the Deck, and if you do, add 1 "[[@Ignister]]" monster with a different Attribute from your Deck to your hand.<br />You can only [[activate]] 1 "TA.I.es" [[Once per turn|per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,7 +31,20 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ????-JP0??; Alliance Insight; 
+  | supports            = 
+  * Cyberse
+  * DARK
   | archseries          = A.I.
   | supports_archetypes = @Ignister
+  | action              = 
+  * Reveals your hand for cost
+  * Adds from Deck to hand
+  * Returns from your hand to your Deck
+  | summoning           = 
+  * Restricts the player's Special Summons to Type specific monsters
+  * Special Summons from your hand
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}

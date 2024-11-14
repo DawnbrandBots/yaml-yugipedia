@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 800
   | password            = 
   | effect_types        = Ignition, Ignition, Condition
-  | lore                = If you control a Cyberse monster Special Summoned from the Extra Deck: You can target 1 DARK Cyberse monster in your GY; Special Summon both this card from your hand and that monster in Defense Position, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. You can banish this card from your field or GY, then target 1 monster your opponent controls; change its battle position. You can only use each effect of "Wizard @Ignister" once per turn.
+  | lore                = If you [[control]] a [[Cyberse]] [[monster]] [[Special Summon]]ed from the [[Extra Deck]]: You can [[target]] 1 [[DARK]] [[Cyberse]] monster in your [[GY]]; Special Summon both this card from your [[hand]] and that monster in [[Defense Position]], also you cannot Special Summon for the rest of this [[turn]], except Cyberse monsters. You can [[banish]] this card from your [[field]] or GY, then target 1 monster your opponent [[control]]s; change its [[battle position]]. You can only use each effect of "Wizard @Ignister" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,6 +34,23 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   ????-JP001; Alliance Insight; 
+  | supports            = 
+  * Cyberse
+  * DARK
   | archseries          = @Ignister
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Changes battle positions
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished            = 
+  * Banishes itself from field for cost
+  * Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}

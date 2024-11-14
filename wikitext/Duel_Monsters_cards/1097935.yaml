@@ -23,7 +23,7 @@ wikitext: |-
   | password            = 
   | materials           = 3+ Effect Monsters
   | effect_types        = Trigger, Quick, Condition
-  | lore                = 3+ Effect Monsters<br />If this card is Link Summoned: You can activate this effect; you cannot Special Summon other monsters for the rest of this turn, also Special Summon as many Cyberse monsters with 2300 ATK from your GY as possible to your zones this card points to, and if you do, this card gains 500 ATK for each. When your opponent activates a card or effect (Quick Effect): You can Tribute 1 Link Monster this card points to; negate the activation, and if you do, banish that card. You can only use this effect of "Accode Talker @Ignister" once per turn.
+  | lore                = 3+ [[Effect Monster]]s<br />If this card is [[Link Summon]]ed: You can [[activate]] this [[effect]]; you cannot [[Special Summon]] other monsters for the rest of this [[turn]], also Special Summon as many [[Cyberse]] monsters with 2300 [[ATK]] from your [[GY]] as possible to your zones this card [[points to]], and if you do, this card gains 500 ATK for each. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[Tribute]] 1 [[Link Monster]] this card points to; [[negate]] the activation, and if you do, [[banish]] that card. You can only use this effect of "Accode Talker @Ignister" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -35,8 +35,28 @@ wikitext: |-
   | jp_sets             = 
   ????-JP0??; Alliance Insight; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare, Holographic Rare
   ????-JP0??; Alliance Insight +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports            = 
+  * Cyberse
+  * Link Monster
   | archseries          = 
   * @Ignister
   * Code Talker (archetype)
+  | action              = 
+  * Activates upon Link Summon
+  * Tributes for cost
+  | stat_change         = This card gains ATK
+  | m/s/t               = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | summoning           = 
+  * 3+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Prevents the player's Special Summons
+  * Special Summons from your Graveyard
+  | banished            = Banishes negated activations
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}
