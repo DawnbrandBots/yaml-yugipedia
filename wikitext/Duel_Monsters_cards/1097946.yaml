@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 100
   | password            = 
   | effect_types        = 
-  | lore                = During the Main Phase (Quick Effect): You can target up to 3 Spells/Traps in your GY; banish them, and if you do, shuffle them into the Deck during the End Phase of the next turn. During your Standby Phase: You can target 1 of your banished Spells/Traps; Set it. You can only use each effect of "Secret Stash Slipshod Squirrel" once per turn.
+  | lore                = During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] up to 3 [[Spell]]s/[[Trap]]s in your [[GY]]; [[banish]] them, and if you do, [[shuffle]] them into the [[Deck]] during the [[End Phase]] of the next [[turn]]. During your [[Standby Phase]]: You can target 1 of your banished Spells/Traps; [[Set]] it. You can only use each [[effect]] of "Secret Stash Slipshod Squirrel" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,5 +34,12 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   25PR-JP002; Promotion Pack 2025; Normal Parallel Rare
+  | action              = 
+  * Returns the player's banished cards to the Deck by effect
+  * Sets the player's banished cards
+  | banished            = Banishes from your Graveyard
+  | misc                = 
+  * Standby Phase Activation
+  * Only once per turn
   | database_id         = 
   }}

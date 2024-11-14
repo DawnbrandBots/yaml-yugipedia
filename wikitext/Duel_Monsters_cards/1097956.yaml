@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect
-  | lore                = Target 1 face-up card your opponent controls; apply this effect based on the number of cards with that name in your opponent's GY.<br />● 1: Destroy it.<br />● 2: Banish it.<br />● 3+: Banish it, also all cards with that name from your opponent's field and GY, face-down.
+  | lore                = [[Target]] 1 [[face-up]] card your opponent [[control]]s; apply this [[effect]] based on the number of cards with that name in your opponent's [[GY]].<br />● 1: [[Destroy]] it.<br />● 2: [[Banish]] it.<br />● 3+: Banish it, also all cards with that name from your opponent's [[field]] and GY, [[face-down]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -31,5 +31,14 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   25PR-JP005; Promotion Pack 2025; Normal Parallel Rare
+  | m/s/t               = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | banished            = 
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  * Banishes face-down
+  | misc                = Variable effects
   | database_id         = 
   }}
