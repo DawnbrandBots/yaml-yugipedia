@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Continuous, Continuous, Ignition, Condition
-  | lore                = If this card battles a monster, neither can be destroyed by that battle. Each time a monster declares an attack, this card gains 1000 ATK. During your Main Phase: You can make this card lose exactly 5000 ATK, and if you do, destroy all other cards on the field. You can only use this effect of "Festiballoon" once per turn.
+  | lore                = If this card [[battle]]s a [[monster]], neither can be [[destroyed by battle|destroyed by that battle]]. Each time a monster [[declare]]s an [[attack]], this card gains 1000 [[ATK]]. During your [[Main Phase]]: You can make this card lose exactly 5000 ATK, and if you do, [[destroy]] all other cards on the [[field]]. You can only use this [[effect]] of "Festiballoon" [[once per turn]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -34,5 +34,16 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   25PR-JP001; Promotion Pack 2025; Normal Parallel Rare
+  | stat_change         = 
+  * This card gains ATK
+  * This card loses ATK
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                = Only once per turn
   | database_id         = 
   }}
