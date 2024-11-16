@@ -67,15 +67,13 @@ wikitext: |-
   |}
 
   ==== Four sons of Horus ====
-  The four sons of Horus were associated with [https://en.wikipedia.org/wiki/Canopic_jar canopic jars] and [https://en.wikipedia.org/wiki/Mummy mummification]. As such, their effects are related to the Graveyard.
+  The four sons of Horus were associated with [https://en.wikipedia.org/wiki/Canopic_jar canopic jars] and [https://en.wikipedia.org/wiki/Mummy mummification]. As such, their effects are related to the Graveyard.  
 
   {| class="wikitable" style="text-align:center"
   |-
-  ! Horus
-  ! Notes
+  ! Name
   |-
   | [[Imsety, Glory of Horus]]
-  | rowspan = 4 | —
   |-
   | [[Duamutef, Blessing of Horus]]
   |-
@@ -85,11 +83,42 @@ wikitext: |-
   |}
 
   == Playing style ==
-  The original "Horus" playstyle was focused on the "Horus the Black Flame Dragon" LV monsters. The most notable card was [[Horus the Black Flame Dragon LV6]], which could be used as a generic Tribute Summon.
+  The original "Horus" playstyle was focused on the "[[Horus the Black Flame Dragon]]" LV monsters. The most notable card was "[[Horus the Black Flame Dragon LV6]]", which could be used as a generic Tribute Summon which could eventually Summon "[[Horus the Black Flame Dragon LV8]]", which could negate the activation of (almost) any Spell Card whenever the player desires.
 
-  With the release of the "Sons of Horus", "Horus" became a Deck that revolves around swarming the field with [[Level 8 Monster Cards|Level 8 Monsters]]. The four "Sons of Horus" can each be [[Special Summon]]ed from the [[Graveyard]] if the player controls "[[King's Sarcophagus]]", and have an additional utility effect that will be triggered if a card(s) leave the field due to the opponent's card effect.
+  With the release of the "Horus" support in ''[[Age of Overlord]]'', "Horus" became a Deck that revolves around swarming the field with [[Level 8 Monster Cards|Level 8 Monsters]] while the [[Continuous Spell Card]] "[[King's Sarcophagus]]" is present. The four "Horus" monsters introduced in ''Age of Overlord'' (collectively referred to as the "four sons of Horus") share the following effects. 
 
-  Due to the lack of restriction on most cards, "Horus" cards are frequently run as a generic engine, where the "Sons of Horus" can be used to Summon Level 8/[[Rank 8 Monster Cards|Rank 8 Monsters]] to extend or protect the combo. Because the "Sons of Horus" benefit from being in the Graveyard, and since "King's Sarcophagus" sends cards to the Graveyard as [[cost]], the Horus engine is better used in Graveyard-centric Decks.
+  # "''If you control "King's Sarcophagus", you can Special Summon this card (from your GY). You can only Special Summon "(card name)" once per turn this way.''"
+  # "''If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): ... .''"
+
+  {| class="wikitable" style="text-align:center"
+  |-
+  ! Name
+  ! Trigger Effect when another card(s) leaves the player's field by an opponent's card effect
+  ! Other effects
+  |-
+  | [[Imsety, Glory of Horus]]
+  | Send 1 card on the field to the GY.
+  | Can send 2 cards from your hand to the GY, including this card to add 1 "King's Sarcophagus" from your Deck to your hand, then you can draw 1 card. 
+  |-
+  | [[Duamutef, Blessing of Horus]]
+  | Draw cards equal to the number of monsters with different names in your Main Monster Zone.
+  | Gains 1200 ATK/DEF for each "Horus" monster you control.
+  |-
+  | [[Hapi, Guidance of Horus]]
+  | Target two cards in the banishment/GY, either add both of them to the hand or shuffle both of them into the Deck.
+  | (None)
+  |-
+  | [[Qebehsenuef, Protection of Horus]]
+  | Your opponent's monsters cannot target "Horus" monsters for attacks, nor can they target "Horus" monsters on the field with card effects.
+  | (None)
+
+  |}
+
+  Among these four monsters, "[[Imsety, Glory of Horus]]" is the most useful starter for the archetype as it can search for "King's Sarcophagus" and a draw, serving as the core starter of the "Horus" engine. The other three monsters don't have the same utility as "Imsety" but provide various effects in card avantage ("Duamutef"), recursion ("Hapi") or additional protection ("Qebehsenuef")/ "King's Sarcophagus" passively protects "Horus" monsters from being destroyed by non-targeting destruction effects, and has the utility of sending "Horus" monsters from the Deck to the GY at the [[cost]] of sending 1 card from the hand to the GY which can be used up to 4 times per turn, potentially preparing for all four "sons of Horus" to be Special Summoned from the GY. 
+
+  The archetype's supporting [[Field Spell Card]], "[[Walls of the Imperial Tomb]]", can be used to search a "Horus" monster (while placing a card in the hand at the bottom of the Deck), granting the Deck another means of searching "Imsety". Its name also becomes "King's Sarcophagus" while face-up on the Field Zone, allowing "Sons of Horus" to Special Summon themselves from the GY if the original "King's Sarcophagus" Continuous Spell is not present. "[[Canopic Protector]]" is a [[Continuous Trap Card]] that lets the user Special Summon a "Horus" monster from the GY in response to the opponent activating a card or effect (though they cannot Summon more than one "Horus" monster of the same name per turn), and can recur itself from the GY if it is sent there from the hand or field one time. "[[Horus the Black Flame Deity]]" has powerful non-targeted removal effects that can either send 1 card on the field, or Special Summon itself while sending all other monsters on the field to the GY (which triggers similarly to the shared effect of the "four sons of Horus").
+
+  Due to the lack of restriction on most cards, the "King Sarcophagus"-oriented cards are frequently run as a generic engine, where the "four sons of Horus" can be used to Summon Level 8/[[Rank 8 Monster Cards|Rank 8 Monsters]] to extend or protect the Deck's main combo. "Walls of the Imperial" can assist various combo Decks running the "Horus" engine as a means of placing a less desirable card in the hand into the Deck that is needed to be there for certain combo strategies to work. Because the "four sons of Horus" benefit from being in the Graveyard, and since "King's Sarcophagus" and "Imsety" sends cards to the Graveyard as cost, the "Horus" engine is used in most Graveyard-centric Decks.
 
   === Recommended cards ===
   {{Decklist|Recommended cards
@@ -202,7 +231,7 @@ wikitext: |-
 
   == Weaknesses ==
   * Since each "Sons of Horus" requires itself to be in the [[Graveyard]] to Special Summon themselves, anti-GY floodgates such as "[[Dimension Shifter]]" and "[[Necrovalley]]" can effectively shut down the deck from making any plays.
-  * The Horus engine is relatively fragile to disruption. Interrupting "[[Imsety, Glory of Horus]]"'s search is a two-for-one exchange, while destroying "[[King's Sarcophagus]]" prevents any of the "Sons of Horus" from being Summoned.
+  * The "Horus" engine is relatively fragile to disruption. Interrupting "[[Imsety, Glory of Horus]]"'s search is a two-for-one exchange, while destroying "[[King's Sarcophagus]]" prevents any of the "Sons of Horus" from being Summoned.
 
   {{Archseries navbox}}
 
