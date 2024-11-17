@@ -14,15 +14,34 @@ wikitext: |-
   | atk                    = 3000
   | def                    = 2000
   | fusion_material        = 
-  | materials              = 
-  | requirement            = TBA
-  | lore                   = TBA
+  * Blue-Fang Burst Dragon
+  * Booster Wyvern
+  | materials              = "[[Blue-Fang Burst Dragon]]" + "[[Booster Wyvern]]"
+  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement            = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | lore                   = This [[turn]], this card gains 1500 [[ATK]], but it cannot [[attack]] [[Direct attack|directly]]. Then, if you sent a [[Level]] 7 or higher [[Dragon]] [[Type]] [[Monster Card|monster]] to the Graveyard to meet the [[Activation condition|requirement]], this card can make up to 2 attacks on monsters this turn.
   | ja_materials           = 
   | ja_summoning_condition = 
   | ja_requirement         = 
   | ja_lore                = 
   | jp_sets                = 
   RD/SJMP-JP046; Saikyō Jump January 2025 promotional card; Normal Parallel Rare
+  | mentions               = 
+  * Blue-Fang Burst Dragon
+  * Booster Wyvern
+  | supports               = Dragon
   | archseries             = High Tech Dragon
+  | action                 = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Sends from hand to Graveyard for cost
+  | stat_change            = This card gains ATK
+  | summoning              = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack                 = 
+  * Cannot attack directly
+  * Can make multiple attacks on monsters
   | database_id            = 
   }}
