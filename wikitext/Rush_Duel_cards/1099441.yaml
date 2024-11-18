@@ -9,11 +9,25 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | lore           = [[Fusion Summon]] a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[monster]] by [[send]]ing 1 [[face-up]] monster from your [[field]] and 1 face-up [[Level]] 9 or lower monster from either field to the [[Graveyard]] as [[material]]. This [[turn]], you can only [[attack]] with Insect Type monsters.
+  | lore           = [[Fusion Summon]] a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] by [[send]]ing 1 [[face-up]] monster from your [[field]] and 1 face-up [[Level]] 9 or lower monster from either field to the [[Graveyard]] as [[material]]. You can only [[attack]] with Insect Type monsters this [[turn]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/TB02-JP065; Triple Build Pack: Evolution Impact; Over Rush Rare
+  | supports       = 
+  * LIGHT
+  * Insect
   | archseries     = Delirium
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack         = Prevents your monsters from attacking
+  | misc           = Requires control of specific Level
   | database_id    = 
   }}

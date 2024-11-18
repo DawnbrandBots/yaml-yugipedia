@@ -8,12 +8,17 @@ wikitext: |-
   | image          = JurassicDraw-RDTB02-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = [[Send]] 1 [[Dinosaur]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | lore           = [[Draw a card|Draw]] 2 cards. This [[turn]], you can only [[attack]] with Dinosaur Type monsters.
+  | requirement    = [[Send]] 1 [[Dinosaur]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | lore           = [[Draw a card|Draw]] 2 cards. You can only [[attack]] with Dinosaur Type monsters this [[turn]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/TB02-JP048; Triple Build Pack: Evolution Impact; Normal Parallel Rare
-  | related_to_archseries = Nouveau Riche Dinosaur
+  | supports       = Dinosaur
+  | archseries     = Nouveau Riche Dinosaur
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

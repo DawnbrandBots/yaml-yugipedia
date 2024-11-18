@@ -11,7 +11,7 @@ wikitext: |-
   | level                  = 8
   | atk                    = 2400
   | def                    = 1200
-  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[monster]].
+  | summoning_condition    = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]].
   | requirement            = None
   | lore                   = [[Fusion Summon]] a LIGHT Attribute Insect Type monster by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]].
   | ja_summoning_condition = 
@@ -21,7 +21,22 @@ wikitext: |-
   | ko_lore                = 
   | jp_sets                = 
   RD/TB02-JP055; Triple Build Pack: Evolution Impact; Over Rush Rare
+  | supports               = 
+  * LIGHT
+  * Insect
   | archseries             = Delirium
-  | misc                   = Cover card
+  | action                 = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning              = 
+  * Normal Summon with 1 Tribute
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                   = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Cover card
   | database_id            = 
   }}
