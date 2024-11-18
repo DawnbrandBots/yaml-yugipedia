@@ -13,7 +13,7 @@ wikitext: |-
   | atk                    = 1900
   | def                    = 0
   | summoning_condition    = You can [[Maximum Summon]] this card together with "[[Dynamic Dino Dynamix (L)|Dynamic Dino Dynamix [L]]]" and "[[Dynamic Dino Dynamix (R)|Dynamic Dino Dynamix [R]]]".
-  | requirement            = [[Maximum Mode]]: If your opponent has no [[face-up]] [[Level]] 9 or higher [[monsters]] on their [[field]], [[send]] 1 monster from your [[hand]] to the [[Graveyard]].
+  | requirement            = [[Maximum Mode]]: If your opponent has no [[face-up]] [[Level]] 9 or higher [[Monster Card|monster]]s on their [[field]], [[send]] 1 monster from your [[hand]] to the [[Graveyard]].
   | lore                   = [[Destroy]] up to 2 monsters on your opponent's field.
   | ja_summoning_condition = 「大恐竜駕ダイナーミクス［Ｌ］」「大恐竜駕ダイナーミクス［Ｒ］」と揃えてマキシマム召喚できる。
   | ja_requirement         = マキシマムモード：相手フィールドに表側表示モンスター（レベル９以上）がいない場合、手札のモンスター１体を墓地へ送って発動できる。
@@ -28,9 +28,11 @@ wikitext: |-
   | mentions               = 
   * Dynamic Dino Dynamix (L)
   * Dynamic Dino Dynamix (R)
+  | archseries             = Nouveau Riche Dinosaur
   | action                 = Sends from hand to Graveyard for cost
   | m/s/t                  = Destroys your opponent's Monster Cards
-  | misc                   = Requires Maximum Mode
+  | misc                   = 
+  * Requires Maximum Mode
+  * Cover card
   | database_id            = 16574
-  | archseries             = Nouveau Riche Dinosaur
   }}
