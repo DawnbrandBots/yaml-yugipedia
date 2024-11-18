@@ -4,23 +4,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name                   = Red-Eyes Maxi-Flare Dragon [R]
-  | ja_name                = {{Ruby|真紅眼の極炎竜|レッドアイズ・マキシフレアドラゴン}}［{{Ruby|Ｒ|アール}}］
-  | romaji_name            = Reddoaizu Makishifureadoragon [Āru]
-  | image                  = RedEyesMaxiFlareDragonR-RDTB02-JP-OP.png
-  | attribute              = DARK
-  | types                  = Dragon / Maximum / Effect
-  | level                  = 10
-  | atk                    = 2400
-  | def                    = 0
-  | effect_types           = Continuous
-  | requirement            = None
-  | lore                   = During your opponent's [[turn]], [[Spell]]/[[Trap Card]]s on your [[field]] cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card [[effect]]s. If this card is used as [[material]] for a [[Fusion Summon]], its name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]".
-  | ja_requirement         = 
-  | ja_lore                = 
-  | jp_sets                = 
+  | name           = Red-Eyes Maxi-Flare Dragon [R]
+  | ja_name        = {{Ruby|真紅眼の極炎竜|レッドアイズ・マキシフレアドラゴン}}［{{Ruby|Ｒ|アール}}］
+  | romaji_name    = Reddoaizu Makishifurea Doragon [Āru]
+  | image          = RedEyesMaxiFlareDragonR-RDTB02-JP-OP.png
+  | attribute      = DARK
+  | types          = Dragon / Maximum / Effect
+  | level          = 10
+  | atk            = 2400
+  | def            = 0
+  | effect_types   = Continuous
+  | requirement    = None
+  | lore           = During your opponent's [[turn]], [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]] cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card [[effect]]s. If this card is used as [[material]] for a [[Fusion Summon]], its name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]".
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/TB02-JP003; Triple Build Pack: Evolution Impact; Over Rush Rare
-  | mentions               = Red-Eyes Black Dragon (Rush Duel)
-  | archseries             = Red-Eyes (Rush Duel)
-  | database_id            = 
+  | mentions       = Red-Eyes Black Dragon (Rush Duel)
+  | archseries     = Red-Eyes (Rush Duel)
+  | action         = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  | stat_change    = Treated as alternate name
+  | database_id    = 
   }}

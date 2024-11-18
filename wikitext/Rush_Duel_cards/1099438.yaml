@@ -4,22 +4,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name                   = Red-Eyes Maxi-Flare Dragon [L]
-  | ja_name                = {{Ruby|真紅眼の極炎竜|レッドアイズ・マキシフレアドラゴン}}［{{Ruby|Ｌ|エル}}］
-  | romaji_name            = Reddoaizu Makishifureadoragon [Eru]
-  | image                  = RedEyesMaxiFlareDragonL-RDTB02-JP-OP.png
-  | attribute              = DARK
-  | types                  = Dragon / Maximum / Effect
-  | level                  = 10
-  | atk                    = 2400
-  | def                    = 0
-  | effect_types           = Continuous
-  | requirement            = None
-  | lore                   = This card cannot be [[destroy]]ed by card [[effect]]s. When this card in [[Maximum Mode]] [[destroy]]s a monster by battle and [[send]]s it to the [[Graveyard]], inflict 2400 [[Effect damage|damage]] to your opponent.
-  | ja_requirement         = 
-  | ja_lore                = 
-  | jp_sets                = 
+  | name           = Red-Eyes Maxi-Flare Dragon [L]
+  | ja_name        = {{Ruby|真紅眼の極炎竜|レッドアイズ・マキシフレアドラゴン}}［{{Ruby|Ｌ|エル}}］
+  | romaji_name    = Reddoaizu Makishifurea Doragon [Eru]
+  | image          = RedEyesMaxiFlareDragonL-RDTB02-JP-OP.png
+  | attribute      = DARK
+  | types          = Dragon / Maximum / Effect
+  | level          = 10
+  | atk            = 2400
+  | def            = 0
+  | effect_types   = Continuous
+  | requirement    = None
+  | lore           = This card cannot be [[destroy]]ed by card [[effect]]s. If this card in [[Maximum Mode]] destroys a [[Monster Card|monster]] by [[battle]] and [[send]]s it to the [[Graveyard]], [[Damage|inflict]] 2400 [[Effect damage|damage]] to your opponent.
+  | ja_requirement = 
+  | ja_lore        = 
+  | jp_sets        = 
   RD/TB02-JP001; Triple Build Pack: Evolution Impact; Over Rush Rare
-  | archseries             = Red-Eyes (Rush Duel)
-  | database_id            = 
+  | archseries     = Red-Eyes (Rush Duel)
+  | m/s/t          = Cannot be destroyed by card effects
+  | life_points    = Damages your opponent
+  | database_id    = 
   }}
