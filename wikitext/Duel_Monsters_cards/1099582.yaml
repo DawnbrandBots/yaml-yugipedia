@@ -3,7 +3,6 @@ wikitext: |-
   {{For|the character this card is based on|Aleister Crowley}}
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
-
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -26,7 +25,7 @@ wikitext: |-
   | def                 = 1000
   | password            = 
   | effect_types        = Continuous, Condition, Trigger, Trigger
-  | lore                = If this face-up card is used as Fusion Material, its name can be treated as "[[Aleister the Invoker]]". You can only use each of the following effects of "Crowley, the Gifted of Magistus" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Normal or Special Summoned: You can Fusion Summon 1 "[[Magistus]]" or "[[Invoked]]" Fusion Monster from your Extra Deck, using monsters from your hand or field as material.
+  | lore                = If this [[face-up]] card is used as [[Fusion Material]], its name can be treated as "[[Aleister the Invoker]]". You can only use each of the following [[effect]]s of "Crowley, the Gifted of Magistus" [[once per turn]]. If this card is [[add]]ed to your hand, except by [[draw]]ing it: You can [[Special Summon]] it. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Fusion Summon]] 1 "[[Magistus]]" or "[[Invoked]]" [[Fusion Monster]] from your [[Extra Deck]], using [[monster]]s from your hand or [[field]] as [[material]].
   | fr_lore             = 
   | de_lore             = 
   | it_lore             = 
@@ -38,9 +37,24 @@ wikitext: |-
   | jp_sets             = 
   25PP-JP0??; Premium Pack 2025; Common, Normal Parallel Rare, Super Rare, Secret Rare
   | mentions            = Aleister the Invoker
+  | supports            = Fusion Monster
   | archseries          = Magistus
   | supports_archetypes = 
   * Magistus
   * Invoked
+  | action              = 
+  * Activates if added to the hand
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
