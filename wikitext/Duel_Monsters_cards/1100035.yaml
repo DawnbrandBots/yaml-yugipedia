@@ -33,10 +33,24 @@ wikitext: |-
   | sc_lore             = 
   | jp_sets             = 
   25PP-JP020; Premium Pack 2025; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | supports            = Spellcaster
   | archseries          = 
   * Magistus
   * Endymion
   | supports_archetypes = Magistus
-  | misc                = Archetype condition
+  | counter             = 
+  * Spell Counter
+  * Removes counters for cost
+  | action              = Sends from field to Graveyard for cost
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | banished            = Banishes from field
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}

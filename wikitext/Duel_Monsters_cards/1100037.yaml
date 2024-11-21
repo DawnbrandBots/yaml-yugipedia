@@ -42,10 +42,27 @@ wikitext: |-
   | sc_lore               = 
   | jp_sets               = 
   25PP-JP016; Premium Pack 2025; Common, Normal Parallel Rare, Super Rare, Secret Rare
+  | mentions              = D/D Extra Surveyor
+  | supports              = Pendulum Monster
+  | anti-supports         = Pendulum Monster
   | archseries            = D/D
   | supports_archetypes   = 
   * D/D
   * D/D/D
-  | mentions              = D/D Extra Surveyor
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your hand
+  * Discards itself for cost
+  * Adds from Extra Deck to hand
+  * Activates while banished
+  | stat_change           = Your monsters gain ATK
+  | attack                = Allows multiple attacks
+  | banished              = 
+  * Banishes from your field
+  * Banishes from the top of your opponent's Deck
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}
