@@ -15,13 +15,13 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = TheFabledBehillmoth-TW02-JP-OP.png
+  | image               = TheFabledBehillmoth-TW02-JP-NPR.png
   | attribute           = LIGHT
   | types               = Beast / Tuner / Effect
   | level               = 2
   | atk                 = 1000
   | def                 = 600
-  | password            = 
+  | password            = 68897338
   | effect_types        = Ignition, Trigger, Condition
   | lore                = If this card is in your [[hand]]: You can [[discard]] 2 or more "[[Fabled]]" [[monster]]s, including this card, and if you do, [[Special Summon]] 1 "Fabled" [[Synchro Monster]] from your [[Extra Deck]] whose [[Level]] equals the discarded monsters' total original Levels. (This is treated as a [[Synchro Summon]].) If a card(s) is [[send|sent]] from your hand to the [[GY]] while this card is in your GY: You can [[banish]] this card; Special Summon 1 "Fabled" monster from your hand. You can only use each [[effect]] of "The Fabled Behillmoth" [[once per turn]].
   | fr_lore             = 
@@ -29,11 +29,11 @@ wikitext: |-
   | it_lore             = 
   | pt_lore             = 
   | es_lore             = 
-  | ja_lore             = 
+  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合に発動できる。手札からこのカードを含む「魔轟神」モンスターを２体以上選んで捨て、捨てたモンスターの元々のレベルの合計と同じレベルを持つ「魔轟神」Ｓモンスター１体をＳ召喚扱いでＥＸデッキから特殊召喚する。②：このカードが墓地に存在する状態で、自分の手札からカードが墓地へ送られた場合、このカードを除外して発動できる。手札から「魔轟神」モンスター１体を特殊召喚する。
   | ko_lore             = 
   | sc_lore             = 
   | jp_sets             = 
-  TW02-JP001; Terminal World 2; Normal Parallel Rare
+  TW02-JP001; Terminal World 2; Normal Parallel Rare, Ultra Parallel Rare, Secret Parallel Rare
   | supports            = Synchro Monster
   | archseries          = Fabled
   | supports_archetypes = Fabled
@@ -49,5 +49,5 @@ wikitext: |-
   * Special Summons from your hand
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 20923
   }}
