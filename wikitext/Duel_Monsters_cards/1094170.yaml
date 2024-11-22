@@ -15,14 +15,14 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 
   | sc_pinyin_name        = 
-  | image                 = NekrozofMetaltron-TW02-JP-OP.png
+  | image                 = NekrozofMetaltron-TW02-JP-NPR.png
   | attribute             = LIGHT
   | types                 = Wyrm / Ritual / Pendulum / Effect
   | level                 = 9
   | pendulum_scale        = 5
   | atk                   = 2500
   | def                   = 3000
-  | password              = 
+  | password              = 13408726
   | pendulum_effect_types = Trigger-like, Condition
   | effect_types          = Summoning condition, Quick, Condition, Continuous
   | pendulum_effect       = If your "[[Nekroz]]" card(s) is [[banish]]ed [[face-up]]: You can [[target]] 1 [[Spell]]/[[Trap]] on the [[field]]; banish it. You can only use this [[effect]] of "Nekroz of Metaltron" [[once per turn]].
@@ -37,14 +37,14 @@ wikitext: |-
   | pt_lore               = 
   | es_pendulum_effect    = 
   | es_lore               = 
-  | ja_pendulum_effect    = 
-  | ja_lore               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の「影霊衣」カードが表側で除外された場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを除外する。
+  | ja_lore               = 「影霊衣」儀式魔法カードにより降臨<br />このカードはレベル９以外のモンスターのみを使用した儀式召喚でしか特殊召喚できない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、相手フィールドの表側表示モンスター１体を対象として発動できる。このカードをエンドフェイズまで除外し、対象のモンスターを除外する。②：自分の「影霊衣」モンスターが戦闘で破壊したモンスターは墓地へは行かず除外される。
   | ko_pendulum_effect    = 
   | ko_lore               = 
   | sc_pendulum_effect    = 
   | sc_lore               = 
   | jp_sets               = 
-  TW02-JP074; Terminal World 2; Normal Parallel Rare
+  TW02-JP074; Terminal World 2; Normal Parallel Rare, Ultra Parallel Rare, Secret Parallel Rare, Quarter Century Secret Rare
   | archseries            = Nekroz
   | supports_archetypes   = Nekroz
   | related_to_archseries = Zefra
@@ -61,5 +61,5 @@ wikitext: |-
   | misc                  = 
   * Ritual Pendulum Monster
   * Only once per turn
-  | database_id           = 
+  | database_id           = 20937
   }}
