@@ -133,7 +133,20 @@ wikitext: |-
 
   The deck's main playmakers are "[[Gishki Grimness]]", in tandem with "[[Gishki Abyss]]"; the former summons the latter from the deck, which allows for a search. This usually leads to "[[Gishki Shadow]]" or "[[Gishki Vision]]", which can be discarded from the hand to search a "Gishki" Ritual Spell or Monster, respectively; they also have effects that let them be used as the entire Ritual Summon requirement for Ritual Summons of WATER Ritual Monsters. All of these cards can be searched using "Focused Aquamirror", the deck's "[[Reinforcement of the Army]]" equivalent. "Gishki" decks tend to try and use "Abyss", "Shadow", and "Vision" as much as possible over the course of the player's turn, allowing for repeated, powerful Ritual Summons. Because many of these cards are Level 2, they have synergy with the "[[Spright]]" archetype, particularly in using "[[Gigantic Spright]]" to remove un-Linkable Link-2 monsters from the [[Extra Monster Zone]].
 
-  Additionally, Gishki has an auxiliary series of cards, known as "Aquamirror", which can be set in the End Phase after activating "[[Focused Aquamirror]]". Out of these, "[[Aquamirror Illusion]]" is the most attractive, allowing for a second summon of "[[Evigishki Neremanas]]" after it returns itself to the hand for a second [[negate]]. Outside of this, however, "Gishki Aquamirror" remains the only viable option, with the rest being painfully outdated in the 2024 metagame, rarely achieving much. 
+  With these setup tools, modern Gishki combos will start with this basic setup line (as of 2024). 
+  {{combo steps
+  | opening = "[[Gishki Grimness]]" + "[[Gishki Shadow]]", "[[Gishki Vision]]", or a card that accesses them (eg. "[[Focused Aquamirror]])
+  | end = "[[Evigishki Neremanas]]" + 2 materials, at the cost of a Battle Phase xenolock for Ritual Monsters. 
+  | steps =
+  # Normal Summon "Grimness" and use its effect to summon "[[Gishki Abyss]]" from the deck. 
+  # Activate "Abyss" to search for either "Shadow" or "Vision", whichever Ritual Material the hand lacks. 
+  # Discard "Shadow" and "Vision" to search for "[[Gishki Aquamirror]]" and "[[Evigishki Neremanas]]", respectively. 
+  # Activate "Aquamirror", using "Grimness" as the entire tribute for "Neremanas". 
+  # Activate "Neremanas's" effect to Special Summon "Grimness" from the GY. 
+  }} 
+  From here, combos can take numerous directions, usually stemming from the surfeit of Link-2 and Xyz options available for the deck. Lines include using "[[Marincess Coral Anemone]]" to reuse "Abyss" and end on multiple "Neremanas", "[[Gigantic Spright]]" to move into a [[Spright]] engine, summoning multiple Link-2 monsters to use "[[Marincess Great Bubble Reef]]", and more. To make the combo 1-card, "[[Gishki Photomirror]]" can allow for a "free" Neremanas summon, at the cost of a severe amount of [[LP]]. 
+
+  Gishki has an auxiliary series of cards, known as "Aquamirror", which can be set in the End Phase after activating "[[Focused Aquamirror]]". Out of these, "[[Aquamirror Illusion]]" is the most attractive, allowing for a second summon of "[[Evigishki Neremanas]]" after it returns itself to the hand for a second [[negate]]. Outside of this, however, "Gishki Aquamirror" remains the only viable option, with the rest being painfully outdated in the 2024 metagame, rarely achieving much. 
 
   Gishki has several unique Ritual Spells, all of which summon monsters from the hand and use exact levels:
   {| class="wikitable"
@@ -157,7 +170,7 @@ wikitext: |-
   |-
   |10 || "[[Evigishki Neremanas]]" + "[[Gishki Zielgigas]]" || Can take multiple directions&mdash;chiefly a [[Superdreadnought Rail Cannon Gustav Max]] FTK&mdash;but can also use "Neremanas's" monster negate alongside hand traps to build a strong going-first board. "Zielgigas" provides a strong offensive push going second, having access to non-targeting shuffling into the deck, among the strongest in the game, in addition to drawing cards. Pre-Photon Hypernova, the deck took the identity of "Zielgigas Turbo".
   |-
-  | 6 || "[[Evigishki Gustkraken]]" || Wins through repeatedly summoning "Gustkraken" allows the player to rip every card out of the opponent's hand in a style akin to 2018 "[[Topologic Gumblar Dragon]]" loops. Historically used with "[[Constellar Ptolemy M7]]", but remains possible today with "[[Drytron]]" or even in-archetype decklists. Early lists would occasionally use "Tetrogre" to take advantage of the one-sided situation and set up.
+  | 6 || "[[Evigishki Gustkraken]]" || Wins through repeatedly summoning "Gustkraken" to rip every card out of the opponent's hand, much like 2018-era "[[Topologic Gumblar Dragon]]" loops. Historically used with "[[Constellar Ptolemy M7]]", but remains possible today with "[[Drytron]]" or even in-archetype decklists. Early lists would occasionally use "Tetrogre" to take advantage of the one-sided situation and set up.
   |-
   | 6 || "[[Evigishki Mind Augus]]" || Posthumously referred to as "GishKill" and peaked in 2013. The deck notoriously achieved a slow, often 40-minute-long FTK by using the format's critical mass of draw-1 spells such as [[One Day of Peace]] to deck the opponent out, before being forced into a "Single Augus" strategy as a result of a banlist before dying out. Occasionally used "Soul Ogre" in the Side Deck to push for convincing OTKs. In modern metagames, a "[[Cyberse Clock Dragon]]" FTK is possible, using "Mind Augus" to stack the deck after milling every card in the player's deck, infinitely looping a burn card such as "[[Ookazi]]".
   |-
