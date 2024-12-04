@@ -11,13 +11,20 @@ wikitext: |-
   | level          = 7
   | atk            = 2500
   | def            = 1200
-  | requirement    = If you have a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[monster]] in your [[Graveyard]], [[send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
+  | requirement    = If you have a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]], [[send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
   | lore           = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Delirium Sylvix]]" from your Graveyard to your [[hand]].
   | ja_requirement = 
   | ja_lore        = 
   | jp_sets        = 
   RD/TB02-JP056; Triple Build Pack: Evolution Impact; Super Rare
   | mentions       = Delirium Sylvix
+  | supports       = 
+  * LIGHT
+  * Insect
   | archseries     = Delirium
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = This card gains ATK
   | database_id    = 
   }}
