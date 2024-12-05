@@ -13,11 +13,11 @@ wikitext: |-
   | atk            = 900
   | def            = 300
   | requirement    = None
-  | lore           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]]. If that card is a [[Monster Card|monster]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [its [[Level]]] x 100. Your opponent places the excavated card on the top of their Deck.
+  | text           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]]. If that card is a [[Monster Card|monster]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [its [[Level]]] x 100. Your opponent places the excavated card on the top of their Deck.
   | ja_requirement = なし
-  | ja_lore        = 相手は自身のデッキの一番上のカードをめくり、お互いに確認する。そのカードがモンスターだった場合、［そのレベル］×１００ダメージを相手に与える。相手はめくったカードを元に戻す。
+  | ja_text        = 相手は自身のデッキの一番上のカードをめくり、お互いに確認する。そのカードがモンスターだった場合、［そのレベル］×１００ダメージを相手に与える。相手はめくったカードを元に戻す。
   | ko_requirement = 없음
-  | ko_lore        = 상대는 자신의 덱 맨 위의 카드를 넘기고, 서로 확인한다. 그 카드가 몬스터였을 경우, [그 레벨] × 100 데미지를 상대에게 준다. 상대는 넘긴 카드를 원래대로 되돌린다.
+  | ko_text        = 상대는 자신의 덱 맨 위의 카드를 넘기고, 서로 확인한다. 그 카드가 몬스터였을 경우, [그 레벨] × 100 데미지를 상대에게 준다. 상대는 넘긴 카드를 원래대로 되돌린다.
   | jp_sets        = 
   RD/KP17-JP016; Burst Rex of Awakening; Common
   | kr_sets        = 

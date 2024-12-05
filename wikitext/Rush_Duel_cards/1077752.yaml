@@ -3,43 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = ダークマター・エリジウム
-  | romaji_name            = Dākumatā Erijiumu
-  | image                  = DarkMatterElysium-RDKP19-JP-R.png
-  | attribute              = DARK
-  | types                  = Galaxy / Fusion / Effect
-  | level                  = 8
-  | atk                    = 3000
-  | def                    = 1300
-  | effect_types           = Continuous
-  | fusion_material        = 
+  | ja_name               = ダークマター・エリジウム
+  | romaji_name           = Dākumatā Erijiumu
+  | image                 = DarkMatterElysium-RDKP19-JP-R.png
+  | attribute             = DARK
+  | types                 = Galaxy / Fusion / Effect
+  | level                 = 8
+  | atk                   = 3000
+  | def                   = 1300
+  | effect_types          = Continuous
+  | fusion_material       = 
   * Voidvelg Elysium
   * Contact Dark Matter Voyager
-  | materials              = "[[Voidvelg Elysium]]" + "[[Contact Dark Matter Voyager]]"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
-  | requirement            = None
-  | lore                   = This [[Attack Position]] card cannot be [[destroyed by battle]], and this card gains [[ATK]] equal to [the number of [[face-down]] [[Monster Card|monster]]s on the [[field]]] x 1000. If your [[LP]] are 2500 or lower, this card gains 2500 ATK.
-  | ja_materials           = 「ヴォイドヴェルグ・エリジウム」＋「Ｃ・ダークマター・ヴォイジャー」
-  | ja_summoning_condition = このカードはコンタクトフュージョンできる。
-  | ja_requirement         = なし
-  | ja_lore                = 攻撃表示のこのカードは戦闘では破壊されず、このカードの攻撃力は、［お互いのフィールドの裏側表示モンスターの数］×１０００アップする。自分のＬＰが２５００以下の場合、このカードの攻撃力は２５００アップする。
-  | jp_sets                = 
+  | materials             = "[[Voidvelg Elysium]]" + "[[Contact Dark Matter Voyager]]"
+  | condition             = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement           = None
+  | text                  = This [[Attack Position]] card cannot be [[destroyed by battle]], and this card gains [[ATK]] equal to [the number of [[face-down]] [[Monster Card|monster]]s on the [[field]]] x 1000. If your [[LP]] are 2500 or lower, this card gains 2500 ATK.
+  | ja_materials          = 「ヴォイドヴェルグ・エリジウム」＋「Ｃ・ダークマター・ヴォイジャー」
+  | ja_condition          = このカードはコンタクトフュージョンできる。
+  | ja_requirement        = なし
+  | ja_text               = 攻撃表示のこのカードは戦闘では破壊されず、このカードの攻撃力は、［お互いのフィールドの裏側表示モンスターの数］×１０００アップする。自分のＬＰが２５００以下の場合、このカードの攻撃力は２５００アップする。
+  | jp_sets               = 
   RD/KP19-JP043; Salamandeus of Scorching; Rare
-  | mentions               = 
+  | mentions              = 
   * Voidvelg Elysium
   * Contact Dark Matter Voyager
-  | archseries             = Dark Matter (series)
-  | related_to_archseries  = Voidvelg
-  | action                 = Returns Fusion Materials for Contact Fusion to Deck
-  | stat_change            = This card gains ATK
-  | summoning              = 
+  | archseries            = Dark Matter (series)
+  | related_to_archseries = Voidvelg
+  | action                = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change           = This card gains ATK
+  | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | attack                 = Cannot be destroyed by battle
-  | misc                   = Requires specific LP
-  | database_id            = 20994
+  | attack                = Cannot be destroyed by battle
+  | misc                  = Requires specific LP
+  | database_id           = 20994
   }}

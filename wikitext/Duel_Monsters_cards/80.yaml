@@ -1,36 +1,36 @@
 title: Card Destruction
 wikitext: |-
   {{CardTable2
-  | fr_name               = Destruction de Carte
-  | de_name               = Kartenzerstörung
-  | it_name               = Distruggi-Carte
-  | pt_name               = Destruição de Cards
-  | es_name               = Destrucción de la Carta
-  | ja_name               = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|抹|まっ}}{{Ruby|殺|さつ}}
-  | romaji_name           = Tefuda Massatsu
-  | trans_name            = Hand Obliteration
-  | ko_name               = 카드 파괴
-  | ko_rr_name            = Kadeu Pagoe
-  | tc_name               = 手牌抹殺
-  | sc_name               = 手牌抹杀
-  | image                 = CardDestruction-SR13-EN-C-1E.png
-  | card_type             = Spell
-  | property              = Normal
-  | password              = 72892473
-  | effect_types          = Effect
-  | lore                  = Both players [[discard]] as many cards as possible from their [[hand]]s, then each player [[Draw a card|draws]] the same number of cards they discarded.
-  | fr_lore               = Chaque joueur défausse autant de cartes que possible depuis sa main, puis chaque joueur pioche le même nombre de cartes qu'il a défaussées.
-  | de_lore               = Beide Spieler werfen so viele Karten wie möglich von ihren Händen ab, dann zieht jeder Spieler dieselbe Anzahl Karten, die er abgeworfen hat.
-  | it_lore               = Entrambi i giocatori scartano tante carte quante possibile dalla loro mano, poi ogni giocatore pesca lo stesso numero di carte che ha scartato.
-  | pt_lore               = Os dois duelistas descartam tantos cards quanto possível de suas mãos e, depois, cada duelista compra o mesmo número de cards que ele descartou.
-  | es_lore               = Ambos jugadores descartan tantas cartas como sea posible de sus manos, y después cada jugador roba el mismo número de cartas que descartó.
-  | ja_lore               = ①：手札があるプレイヤーは、その手札を全て捨てる。その後、そのプレイヤーは自身が捨てた枚数分ドローする。
-  | trans_lore            = Each player with a card(s) in their hand discards as many of them as possible, then they draw the same number of cards they discarded.
-  | ko_lore               = ①: 패가 있는 플레이어는, 그 패를 전부 버린다. 그 후, 각각 자신이 버린 매수만큼 덱에서 드로우한다.
-  | tc_lore               = 舍弃双方的全部手牌，并各自从我方牌组中抽取与舍弃卡牌相同张数的卡牌。
-  | sc_lore               = ①：有手牌的玩家舍弃所有手牌。然后各自从牌组抽自身舍弃张数的牌。
-  | ygo_lore              = Each player discards their hand and draws the same number of cards they discarded.
-  | en_sets               = 
+  | fr_name         = Destruction de Carte
+  | de_name         = Kartenzerstörung
+  | it_name         = Distruggi-Carte
+  | pt_name         = Destruição de Cards
+  | es_name         = Destrucción de la Carta
+  | ja_name         = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|抹|まっ}}{{Ruby|殺|さつ}}
+  | romaji_name     = Tefuda Massatsu
+  | translated_name = Hand Obliteration
+  | ko_name         = 카드 파괴
+  | ko_rr_name      = Kadeu Pagoe
+  | tc_name         = 手牌抹殺
+  | sc_name         = 手牌抹杀
+  | image           = CardDestruction-SR13-EN-C-1E.png
+  | card_type       = Spell
+  | property        = Normal
+  | password        = 72892473
+  | effect_types    = Effect
+  | text            = Both players [[discard]] as many cards as possible from their [[hand]]s, then each player [[Draw a card|draws]] the same number of cards they discarded.
+  | fr_text         = Chaque joueur défausse autant de cartes que possible depuis sa main, puis chaque joueur pioche le même nombre de cartes qu'il a défaussées.
+  | de_text         = Beide Spieler werfen so viele Karten wie möglich von ihren Händen ab, dann zieht jeder Spieler dieselbe Anzahl Karten, die er abgeworfen hat.
+  | it_text         = Entrambi i giocatori scartano tante carte quante possibile dalla loro mano, poi ogni giocatore pesca lo stesso numero di carte che ha scartato.
+  | pt_text         = Os dois duelistas descartam tantos cards quanto possível de suas mãos e, depois, cada duelista compra o mesmo número de cards que ele descartou.
+  | es_text         = Ambos jugadores descartan tantas cartas como sea posible de sus manos, y después cada jugador roba el mismo número de cartas que descartó.
+  | ja_text         = ①：手札があるプレイヤーは、その手札を全て捨てる。その後、そのプレイヤーは自身が捨てた枚数分ドローする。
+  | translated_text = Each player with a card(s) in their hand discards as many of them as possible, then they draw the same number of cards they discarded.
+  | ko_text         = ①: 패가 있는 플레이어는, 그 패를 전부 버린다. 그 후, 각각 자신이 버린 매수만큼 덱에서 드로우한다.
+  | tc_text         = 舍弃双方的全部手牌，并各自从我方牌组中抽取与舍弃卡牌相同张数的卡牌。
+  | sc_text         = ①：有手牌的玩家舍弃所有手牌。然后各自从牌组抽自身舍弃张数的牌。
+  | ygo_text        = Each player discards their hand and draws the same number of cards they discarded.
+  | en_sets         = 
   SYE-032; Starter Deck: Yugi Evolution; Common
   SD8-EN018; Structure Deck: Lord of the Storm; Common
   SDZW-EN031; Zombie World Structure Deck; Common
@@ -41,15 +41,15 @@ wikitext: |-
   YGLD-ENB27; Yugi's Legendary Decks; Common
   OP09-EN008; OTS Tournament Pack 9; Super Rare
   SR13-EN032; Structure Deck: Dark World; Common
-  | na_sets               = 
+  | na_sets         = 
   SDY-042; Starter Deck: Yugi; Super Rare
   DLG1-EN085; Dark Legends; Super Rare
-  | eu_sets               = 
+  | eu_sets         = 
   SDY-E038; Starter Deck: Yugi; Super Rare
   RP01-EN084; Retro Pack; Rare
-  | au_sets               = 
+  | au_sets         = 
   SDY-A042; Starter Deck: Yugi; Super Rare
-  | fr_sets               = 
+  | fr_sets         = 
   DDY-F038; Starter Deck: Yugi; Super Rare
   SYE-FR032; Starter Deck: Yugi Evolution; Common
   SD8-FR018; Structure Deck: Lord of the Storm; Common
@@ -62,9 +62,9 @@ wikitext: |-
   YGLD-FRB27; Yugi's Legendary Decks; Common
   OP09-FR008; OTS Tournament Pack 9; Super Rare
   SR13-FR032; Structure Deck: Dark World; Common
-  | fc_sets               = 
+  | fc_sets         = 
   DDY-C042; Starter Deck: Yugi; Super Rare
-  | de_sets               = 
+  | de_sets         = 
   SDY-G038; Starter Deck: Yugi; Super Rare
   SYE-DE032; Starter Deck: Yugi Evolution; Common
   SD8-DE018; Structure Deck: Lord of the Storm; Common
@@ -77,7 +77,7 @@ wikitext: |-
   YGLD-DEB27; Yugi's Legendary Decks; Common
   OP09-DE008; OTS Tournament Pack 9; Super Rare
   SR13-DE032; Structure Deck: Dark World; Common
-  | it_sets               = 
+  | it_sets         = 
   MIY-I038; Starter Deck: Yugi; Super Rare
   SYE-IT032; Starter Deck: Yugi Evolution; Common
   SD8-IT018; Structure Deck: Lord of the Storm; Common
@@ -90,13 +90,13 @@ wikitext: |-
   YGLD-ITB27; Yugi's Legendary Decks; Common
   OP09-IT008; OTS Tournament Pack 9; Super Rare
   SR13-IT032; Structure Deck: Dark World; Common
-  | pt_sets               = 
+  | pt_sets         = 
   DIY-P042; Starter Deck: Yugi; Super Rare
   SYE-PT032; Starter Deck: Yugi Evolution; Common
   YGLD-PTB27; Yugi's Legendary Decks; Common
   OP09-PT008; OTS Tournament Pack 9; Super Rare
   SR13-PT032; Structure Deck: Dark World; Common
-  | sp_sets               = 
+  | sp_sets         = 
   BIY-S042; Starter Deck: Yugi; Super Rare
   SYE-SP032; Starter Deck: Yugi Evolution; Common
   SDZW-SP031; Zombie World Structure Deck; Common
@@ -107,7 +107,7 @@ wikitext: |-
   YGLD-SPB27; Yugi's Legendary Decks; Common
   OP09-SP008; OTS Tournament Pack 9; Super Rare
   SR13-SP032; Structure Deck: Dark World; Common
-  | jp_sets               = 
+  | jp_sets         = 
   EX-87; EX-R Starter Box; Secret Rare
   YU-18; Structure Deck: Yugi; Common
   SD8-JP018; Structure Deck: Lord of the Storm; Common
@@ -121,7 +121,7 @@ wikitext: |-
   19TP-JP301; Tournament Pack 2019 Vol.3; Super Rare
   SR13-JP032; Structure Deck R: Devil's Gate; Common
   24EP-JP309; Event Pack 2024 Vol.3; Common, Normal Parallel Rare
-  | kr_sets               = 
+  | kr_sets         = 
   SDY-K042; Starter Deck: Yugi; Super Rare
   SYE-KR032; Starter Deck: Yugi Evolution; Common
   SD8-KR018; Structure Deck: Lord of the Storm; Common
@@ -134,24 +134,24 @@ wikitext: |-
   SR06-KR025; Structure Deck R: Curse of the Dark; Common
   15AY-KRB27; Memories of the Duel King: Battle City Arc; Common
   SR13-KR032; Structure Deck R: Devil's Gate; Common
-  | tc_sets               = 
+  | tc_sets         = 
   SP03-TC037; Starter Pack Volume 3; Rare
   SD21-TC027; Structure Deck: Devil's Gate; Common
-  | sc_sets               = 
+  | sc_sets         = 
   ST21-SC031; Starter Deck 2021; Common
-  | ae_sets               = 
+  | ae_sets         = 
   SDY-042; Starter Deck: Yugi; Super Rare
-  | gx03_sets             = 
+  | gx03_sets       = 
   '''[[Established Chaos (GX03-BP)|Established Chaos]]''' ([[Ultra Rare]])
-  | ntr_sets              = 
+  | ntr_sets        = 
   '''[[Legendary History (NTR-BP)|Legendary History]]''' ([[Super Rare]])
-  | ygo_sets              = 
+  | ygo_sets        = 
   '''[[Pack 2 (YGOO-BP)|Pack 2]]'''
   '''[[Pack 13 (YGOO-BP)|Pack 13]]'''
-  | action                = 
+  | action          = 
   * You discard as an effect
   * Your opponent discards
   * You draw cards
   * Your opponent draws cards
-  | database_id           = 4821
+  | database_id     = 4821
   }}

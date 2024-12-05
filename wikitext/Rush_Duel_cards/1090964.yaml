@@ -3,29 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|舞|まい}}{{Ruby|踊|おど}}る{{Ruby|恵|けい}}{{Ruby|雷|らい}}の{{Ruby|精|せい}}{{Ruby|霊|れい}}
-  | romaji_name            = Maiodoru Keirai no Seirei
-  | image                  = DancingLightningBringerSpirit-RDKP19-JP-UR.png
-  | attribute              = EARTH
-  | types                  = Thunder / Effect
-  | level                  = 4
-  | atk                    = 1100
-  | def                    = 1200
-  | summoning_condition    = This card's name becomes "[[Lightning Bringer Spirit]]" while in the [[Graveyard]].
-  | requirement            = You [[Normal Summon]]ed this card this [[turn]] and you have 10 or more cards in your [[Main Deck|Deck]].
-  | lore                   = [[Shuffle]] 1 card from each [[Duelist|player]]'s Graveyard into the [[owner]]'s Deck. Then, if your opponent has 5 or less cards in their Graveyard, you can [[Draw a card|draw]] 1 card.
-  | ja_summoning_condition = 墓地にいるこのカードのカード名は「恵雷の精霊」になる。
-  | ja_requirement         = このカードを召喚したターンに、自分のデッキのカードが１０枚以上の場合に発動できる。
-  | ja_lore                = お互いの墓地のカードをそれぞれ１枚ずつ選んで持ち主のデッキに戻す。その後、相手の墓地のカードが５枚以下の場合、自分は１枚ドローできる。
-  | jp_sets                = 
+  | ja_name        = {{Ruby|舞|まい}}{{Ruby|踊|おど}}る{{Ruby|恵|けい}}{{Ruby|雷|らい}}の{{Ruby|精|せい}}{{Ruby|霊|れい}}
+  | romaji_name    = Maiodoru Keirai no Seirei
+  | image          = DancingLightningBringerSpirit-RDKP19-JP-UR.png
+  | attribute      = EARTH
+  | types          = Thunder / Effect
+  | level          = 4
+  | atk            = 1100
+  | def            = 1200
+  | condition      = This card's name becomes "[[Lightning Bringer Spirit]]" while in the [[Graveyard]].
+  | requirement    = You [[Normal Summon]]ed this card this [[turn]] and you have 10 or more cards in your [[Main Deck|Deck]].
+  | text           = [[Shuffle]] 1 card from each [[Duelist|player]]'s Graveyard into the [[owner]]'s Deck. Then, if your opponent has 5 or less cards in their Graveyard, you can [[Draw a card|draw]] 1 card.
+  | ja_condition   = 墓地にいるこのカードのカード名は「恵雷の精霊」になる。
+  | ja_requirement = このカードを召喚したターンに、自分のデッキのカードが１０枚以上の場合に発動できる。
+  | ja_text        = お互いの墓地のカードをそれぞれ１枚ずつ選んで持ち主のデッキに戻す。その後、相手の墓地のカードが５枚以下の場合、自分は１枚ドローできる。
+  | jp_sets        = 
   RD/KP19-JP025; Salamandeus of Scorching; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions               = Lightning Bringer Spirit
-  | archseries             = Lightning Bringer
-  | action                 = 
+  | mentions       = Lightning Bringer Spirit
+  | archseries     = Lightning Bringer
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Returns from your Graveyard to your Deck
   * Returns from your opponent's Graveyard to your opponent's Deck
   * You draw cards
-  | stat_change            = Changes own name while in the GY
-  | database_id            = 20976
+  | stat_change    = Changes own name while in the GY
+  | database_id    = 20976
   }}

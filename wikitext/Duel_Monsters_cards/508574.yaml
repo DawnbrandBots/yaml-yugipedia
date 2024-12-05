@@ -17,14 +17,14 @@ wikitext: |-
   | def                   = 2000
   | password              = 40240595
   | effect_types          = Ignition, Continuous-like
-  | lore                  = You can [[target]] 1 "[[Petit Moth]]" you [[control]]; [[equip]] this card from your [[hand]] to that target. While equipped by this [[effect]], the [[Original ATK and DEF|original ATK/DEF]] of that "Petit Moth" becomes the ATK/DEF of "Cocoon of Evolution".
-  | fr_lore               = Vous pouvez cibler 1 "Petit Papillon" que vous contrôlez ; équipez cette carte depuis votre main à la cible. Tant qu'il est équipé par cet effet, l'ATK/DEF d'origine du "Petit Papillon" devient l'ATK/DEF de "Cocon d'Évolution".
-  | de_lore               = Du kannst 1 „Kleine Motte“ wählen, die du kontrollierst; rüste das gewählte Ziel mit dieser Karte von deiner Hand aus. Solange „Kleine Motte“ durch diesen Effekt ausgerüstet ist, werden ihre Grund-ATK/-DEF dieselben wie die von „Kokon der Evolution“.
-  | it_lore               = Puoi scegliere come bersaglio 1 "Piccola Falena" che controlli; equipaggia questa carta dalla tua mano a quel bersaglio. Mentre è equipaggiata da questo effetto, gli ATK/DEF originali di quella "Piccola Falena" diventano gli ATK/DEF di "Bozzolo dell'Evoluzione".
-  | pt_lore               = Você pode escolher 1 "Pequeno Moth" que você controla; equipe este card da sua mão no alvo. Enquanto estiver equipado por este efeito, o ATK/DEF originais desse "Pequeno Moth" se tornam o ATK/DEF de "Casulo de Evolução".
-  | es_lore               = Puedes seleccionar 1 "Petit Moth" que controles; equipa esta carta en tu mano a ese objetivo. Mientras esté equipada por este efecto, el ATK/DEF originales de ese "Petit Moth" se convierten en el ATK/DEF de "Capullo Evolutivo".
-  | ja_lore               = このカードは手札から装備カード扱いとしてフィールド上に表側表示で存在する「プチモス」に装備する事ができる。この効果によってこのカードを装備した「プチモス」の攻撃力・守備力は「進化の繭」の数値を適用する。
-  | ko_lore               = 카드패로부터 장비 카드 취급으로서 필드상에 겉표시로 존재하는 "꼬마 모스"에 장비 할 수가 있다. 장비 했을 경우, "꼬마 모스"의 공격력과 수비력은 "진화의 고치"의 수치를 적용한다.
+  | text                  = You can [[target]] 1 "[[Petit Moth]]" you [[control]]; [[equip]] this card from your [[hand]] to that target. While equipped by this [[effect]], the [[Original ATK and DEF|original ATK/DEF]] of that "Petit Moth" becomes the ATK/DEF of "Cocoon of Evolution".
+  | fr_text               = Vous pouvez cibler 1 "Petit Papillon" que vous contrôlez ; équipez cette carte depuis votre main à la cible. Tant qu'il est équipé par cet effet, l'ATK/DEF d'origine du "Petit Papillon" devient l'ATK/DEF de "Cocon d'Évolution".
+  | de_text               = Du kannst 1 „Kleine Motte“ wählen, die du kontrollierst; rüste das gewählte Ziel mit dieser Karte von deiner Hand aus. Solange „Kleine Motte“ durch diesen Effekt ausgerüstet ist, werden ihre Grund-ATK/-DEF dieselben wie die von „Kokon der Evolution“.
+  | it_text               = Puoi scegliere come bersaglio 1 "Piccola Falena" che controlli; equipaggia questa carta dalla tua mano a quel bersaglio. Mentre è equipaggiata da questo effetto, gli ATK/DEF originali di quella "Piccola Falena" diventano gli ATK/DEF di "Bozzolo dell'Evoluzione".
+  | pt_text               = Você pode escolher 1 "Pequeno Moth" que você controla; equipe este card da sua mão no alvo. Enquanto estiver equipado por este efeito, o ATK/DEF originais desse "Pequeno Moth" se tornam o ATK/DEF de "Casulo de Evolução".
+  | es_text               = Puedes seleccionar 1 "Petit Moth" que controles; equipa esta carta en tu mano a ese objetivo. Mientras esté equipada por este efecto, el ATK/DEF originales de ese "Petit Moth" se convierten en el ATK/DEF de "Capullo Evolutivo".
+  | ja_text               = このカードは手札から装備カード扱いとしてフィールド上に表側表示で存在する「プチモス」に装備する事ができる。この効果によってこのカードを装備した「プチモス」の攻撃力・守備力は「進化の繭」の数値を適用する。
+  | ko_text               = 카드패로부터 장비 카드 취급으로서 필드상에 겉표시로 존재하는 "꼬마 모스"에 장비 할 수가 있다. 장비 했을 경우, "꼬마 모스"의 공격력과 수비력은 "진화의 고치"의 수치를 적용한다.
   | en_sets               = 
   DB1-EN148; Dark Beginning 1; Common
   MRD-EN011; Metal Raiders; Super Short Print
@@ -73,7 +73,7 @@ wikitext: |-
   '''[[Yu-Gi-Oh! Nightmare Troubadour: Miracle of Nature|Miracle of Nature]]''' ([[Ultra Rare]])
   | ygo_sets              = 
   '''[[Pack 5 (YGOO-BP)|Pack 5]]'''
-  | mentions            = Petit Moth
+  | mentions              = Petit Moth
   | related_to_archseries = Moth
   | action                = 
   * Activates from your hand

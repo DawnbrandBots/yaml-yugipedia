@@ -3,43 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = セレブローズ・インコグニート・マジシャン
-  | romaji_name            = Serebu Rōzu Inkogunīto Majishan
-  | image                  = 
+  | ja_name         = セレブローズ・インコグニート・マジシャン
+  | romaji_name     = Serebu Rōzu Inkogunīto Majishan
+  | image           = 
   1; CelebRoseIncognitoMagician-RDKP19-JP-SR.png
   2; CelebRoseIncognitoMagician-RDKP19-JP-ScR-AA.png
-  | current_image          = 1
-  | attribute              = LIGHT
-  | types                  = Spellcaster / Fusion / Effect
-  | level                  = 8
-  | atk                    = 2800
-  | def                    = 2400
-  | fusion_material        = 
+  | current_image   = 1
+  | attribute       = LIGHT
+  | types           = Spellcaster / Fusion / Effect
+  | level           = 8
+  | atk             = 2800
+  | def             = 2400
+  | fusion_material = 
   * Celeb Rose Magician
   * Celeb Rose Witch
-  | materials              = "[[Celeb Rose Magician]]" + "[[Celeb Rose Witch]]"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
-  | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | lore                   = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]]. Then, you can make 1 [[face-up]] monster on your opponent's field lose [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
-  | ja_materials           = 「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
-  | ja_summoning_condition = このカードはコンタクトフュージョンできる。
-  | ja_requirement         = このカードをフュージョン召喚した自分メインフェイズに発動できる。
-  | ja_lore                = 自分フィールドのモンスター１体を選んで墓地へ送る。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで［この効果で墓地へ送ったモンスターの元々の攻撃力］だけダウンできる。
-  | jp_sets                = 
+  | materials       = "[[Celeb Rose Magician]]" + "[[Celeb Rose Witch]]"
+  | condition       = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]]. Then, you can make 1 [[face-up]] monster on your opponent's field lose [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
+  | ja_materials    = 「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
+  | ja_condition    = このカードはコンタクトフュージョンできる。
+  | ja_requirement  = このカードをフュージョン召喚した自分メインフェイズに発動できる。
+  | ja_text         = 自分フィールドのモンスター１体を選んで墓地へ送る。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで［この効果で墓地へ送ったモンスターの元々の攻撃力］だけダウンできる。
+  | jp_sets         = 
   RD/KP19-JP041; Salamandeus of Scorching; Super Rare, Secret Rare
-  | mentions               = 
+  | mentions        = 
   * Celeb Rose Magician
   * Celeb Rose Witch
-  | archseries             = Celeb Rose
-  | action                 = 
+  | archseries      = Celeb Rose
+  | action          = 
   * Returns Fusion Materials for Contact Fusion to Deck
   * Activates during the turn in which it was Fusion Summoned
   * Sends from your field to your Graveyard
-  | stat_change            = Your opponent's monsters lose ATK
-  | summoning              = 
+  | stat_change     = Your opponent's monsters lose ATK
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | database_id            = 20992
+  | database_id     = 20992
   }}

@@ -9,7 +9,7 @@ wikitext: |-
   | es_name               = Ciber-Saurio
   | ja_name               = メカ・ザウルス
   | romaji_name           = Meka Zaurusu
-  | trans_name            = Mecha Saurus
+  | translated_name       = Mecha Saurus
   | sc_name               = 机械恐龙
   | image                 = 
   1;   CyberSaurus-MRD-EU-C-UE.png; CyberSaurus-MADU-JP-VG-artwork.png
@@ -25,15 +25,15 @@ wikitext: |-
   * Blast Juggler
   * Two-Headed King Rex
   | materials             = "Blast Juggler" + "Two-Headed King Rex"
-  | lore                  = "[[Blast Juggler]]" + "[[Two-Headed King Rex]]"<br /><br />(This card is not treated as a "[[Cyber]]" card.)
-  | fr_lore               = "Jongleur Explosif" + "Roi Rex à Deux Têtes"<br /><br />(Cette carte n'est pas traitée comme une carte "Cyber".)
-  | de_lore               = "Sprenggaukler" + "Zweiköpfiger König Rex"<br /><br />(Diese Karte wird nicht als „Cyber“-Karte behandelt.)
-  | it_lore               = "Giocoliere Devastante" + "Rex dalle Due Teste"<br /><br />(Questa carta non viene considerata come una carta "Cyber".)
-  | pt_lore               = "Malabarista Explosivo" + "Rei Rex de Duas Cabeças"<br /><br />(Este card não é considerado como um card "Ciber".)
-  | es_lore               = "Malabarista del Estallido" + "Rey de Dos Cabezas Rex"<br /><br />(Esta carta no se trata como una carta "Ciber").
-  | ja_lore               = 「ミスター・ボンバー」＋「二頭を持つキング・レックス」
-  | ko_lore               = "미스터 폭탄" ＋ "두 머리의 킹렉스"
-  | sc_lore               = “炸弹先生”＋“双头恐龙王”
+  | text                  = "[[Blast Juggler]]" + "[[Two-Headed King Rex]]"<br /><br />(This card is not treated as a "[[Cyber]]" card.)
+  | fr_text               = "Jongleur Explosif" + "Roi Rex à Deux Têtes"<br /><br />(Cette carte n'est pas traitée comme une carte "Cyber".)
+  | de_text               = "Sprenggaukler" + "Zweiköpfiger König Rex"<br /><br />(Diese Karte wird nicht als „Cyber“-Karte behandelt.)
+  | it_text               = "Giocoliere Devastante" + "Rex dalle Due Teste"<br /><br />(Questa carta non viene considerata come una carta "Cyber".)
+  | pt_text               = "Malabarista Explosivo" + "Rei Rex de Duas Cabeças"<br /><br />(Este card não é considerado como um card "Ciber".)
+  | es_text               = "Malabarista del Estallido" + "Rey de Dos Cabezas Rex"<br /><br />(Esta carta no se trata como una carta "Ciber").
+  | ja_text               = 「ミスター・ボンバー」＋「二頭を持つキング・レックス」
+  | ko_text               = "미스터 폭탄" ＋ "두 머리의 킹렉스"
+  | sc_text               = “炸弹先生”＋“双头恐龙王”
   | en_sets               = 
   MRD-EN105; Metal Raiders; Common
   OP16-EN014; OTS Tournament Pack 16; Common
@@ -87,6 +87,6 @@ wikitext: |-
   | misc                  = 
   * Archetype-exclusion condition
   * Non-Effect Monster
-  |related_to_archseries  = King Rex (series)
+  | related_to_archseries = King Rex (series)
   | database_id           = 4514
   }}

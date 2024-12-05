@@ -3,8 +3,8 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|碧牙の爆速竜|ブルー・トゥース・バーストドラゴン}}
   | romaji_name           = Burū Tūsu Bāsuto Doragon
-  | base_trans_name       = Blue-Fang Burstspeed Dragon
-  | trans_name            = Blue Tooth Burst Dragon
+  | base_translated_name  = Blue-Fang Burstspeed Dragon
+  | translated_name       = Blue Tooth Burst Dragon
   | alt_name              = Blue Tooth Burst Dragon<!-- https://twitter.com/p_bandai/status/1627868231875821569 -->
   | ko_name               = 블루 투스 버스트드래곤
   | image                 = 
@@ -18,11 +18,11 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 1500
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                  = [[Destroy]] all [[face-up]] [[Monster Card|monster]]s with 1500 or less [[ATK]] on your opponent's [[field]]. Then, this card gains ATK equal to [the number of monsters destroyed by this [[effect]]] x 300 until the end of this [[turn]].
+  | text                  = [[Destroy]] all [[face-up]] [[Monster Card|monster]]s with 1500 or less [[ATK]] on your opponent's [[field]]. Then, this card gains ATK equal to [the number of monsters destroyed by this [[effect]]] x 300 until the end of this [[turn]].
   | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
-  | ja_lore               = 相手フィールドの表側表示モンスター（攻撃力１５００以下）を全て破壊する。その後、このカードの攻撃力はターン終了時まで、［この効果で破壊したモンスターの数］×３００アップする。
+  | ja_text               = 相手フィールドの表側表示モンスター（攻撃力１５００以下）を全て破壊する。その後、このカードの攻撃力はターン終了時まで、［この効果で破壊したモンスターの数］×３００アップする。
   | ko_requirement        = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
-  | ko_lore               = 상대 필드의 앞면 표시 몬스터(공격력 1500 이하)를 전부 파괴한다. 그 후, 이 카드의 공격력은 턴 종료시까지, [이 효과로 파괴한 몬스터의 수] × 300 올린다.
+  | ko_text               = 상대 필드의 앞면 표시 몬스터(공격력 1500 이하)를 전부 파괴한다. 그 후, 이 카드의 공격력은 턴 종료시까지, [이 효과로 파괴한 몬스터의 수] × 300 올린다.
   | jp_sets               = 
   RD/KP10-JP017; Deck Mod Pack: Requiem of Destruction!!; Ultra Rare, Rush Rare
   RD/711B-JP004; Yu-Gi-Oh! GO RUSH!! x 7-Eleven Collaboration Campaign; Normal Parallel Rare
