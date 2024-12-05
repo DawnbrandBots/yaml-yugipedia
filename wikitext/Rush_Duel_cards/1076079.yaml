@@ -3,34 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|古代の機械恐獣|アンティーク・ギアティラノ}}
-  | base_romaji_name       = Kodai no Kikaikyōjū
-  | base_trans_name        = Ancient Machine Dinobeast
-  | romaji_name            = Antīku Gia Tirano
-  | trans_name             = Antique Gear Tyranno
-  | image                  = AncientGearTyranno-RDLGP2-JP-UR.png
-  | attribute              = EARTH
-  | types                  = Machine / Effect
-  | level                  = 8
-  | atk                    = 2500
-  | def                    = 2500
-  | effect_types           = Continuous
-  | summoning_condition    = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] with a [[Continuous Effect]] on your [[field]], you can [[Normal Summon]] this card for 1 less [[Tribute]].
-  | requirement            = None
-  | lore                   = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]].
-  | ja_summoning_condition = 自分フィールドに永続効果を持つ表側表示モンスター（地属性／機械族）がいる場合、このカードを召喚する場合に必要なリリースを１体少なくできる。
-  | ja_requirement         = なし
-  | ja_lore                = このカードの攻撃宣言時に相手は罠カードを発動できない。
-  | jp_sets                = 
+  | ja_name              = {{Ruby|古代の機械恐獣|アンティーク・ギアティラノ}}
+  | base_romaji_name     = Kodai no Kikaikyōjū
+  | base_translated_name = Ancient Machine Dinobeast
+  | romaji_name          = Antīku Gia Tirano
+  | translated_name      = Antique Gear Tyranno
+  | image                = AncientGearTyranno-RDLGP2-JP-UR.png
+  | attribute            = EARTH
+  | types                = Machine / Effect
+  | level                = 8
+  | atk                  = 2500
+  | def                  = 2500
+  | effect_types         = Continuous
+  | condition            = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] with a [[Continuous Effect]] on your [[field]], you can [[Normal Summon]] this card for 1 less [[Tribute]].
+  | requirement          = None
+  | text                 = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]].
+  | ja_condition         = 自分フィールドに永続効果を持つ表側表示モンスター（地属性／機械族）がいる場合、このカードを召喚する場合に必要なリリースを１体少なくできる。
+  | ja_requirement       = なし
+  | ja_text              = このカードの攻撃宣言時に相手は罠カードを発動できない。
+  | jp_sets              = 
   RD/LGP2-JP005; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
-  | supports               = 
+  | supports             = 
   * EARTH
   * Machine
-  | archseries             = Ancient Gear (Rush Duel series)
-  | m/s/t                  = Prevents activation of your opponent's Trap Cards
-  | summoning              = Normal Summon with 1 Tribute
-  | misc                   = 
+  | archseries           = Ancient Gear (Rush Duel series)
+  | m/s/t                = Prevents activation of your opponent's Trap Cards
+  | summoning            = Normal Summon with 1 Tribute
+  | misc                 = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id            = 20839
+  | database_id          = 20839
   }}

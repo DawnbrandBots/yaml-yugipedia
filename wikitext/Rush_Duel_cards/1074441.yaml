@@ -3,30 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = バイクリボット
-  | romaji_name            = Baikuribotto
-  | image                  = Bikuribot-RDSJMP-JP-NPR.png
-  | attribute              = DARK
-  | types                  = Fiend / Fusion / Effect
-  | level                  = 2
-  | atk                    = 300
-  | def                    = 200
-  | fusion_material        = Kuribot
-  | materials              = "[[Kuribot]]" + "Kuribot"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
-  | requirement            = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | lore                   = [[Special Summon]] 1 [[Level]] 7 [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, this [[turn]], this face-up card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a monster in [[Attack Position]].
-  | ja_materials           = 「クリボット」＋「クリボット」
-  | ja_summoning_condition = このカードはコンタクトフュージョンできる。
-  | ja_requirement         = このカードをフュージョン召喚した自分メインフェイズに発動できる。
-  | ja_lore                = 自分の墓地のモンスター（レベル７）１体を選び、自分フィールドに表側表示で特殊召喚する。さらにこのターン、モンスターを攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  | jp_sets                = 
+  | ja_name         = バイクリボット
+  | romaji_name     = Baikuribotto
+  | image           = Bikuribot-RDSJMP-JP-NPR.png
+  | attribute       = DARK
+  | types           = Fiend / Fusion / Effect
+  | level           = 2
+  | atk             = 300
+  | def             = 200
+  | fusion_material = Kuribot
+  | materials       = "[[Kuribot]]" + "Kuribot"
+  | condition       = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Special Summon]] 1 [[Level]] 7 [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, this [[turn]], this face-up card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a monster in [[Attack Position]].
+  | ja_materials    = 「クリボット」＋「クリボット」
+  | ja_condition    = このカードはコンタクトフュージョンできる。
+  | ja_requirement  = このカードをフュージョン召喚した自分メインフェイズに発動できる。
+  | ja_text         = 自分の墓地のモンスター（レベル７）１体を選び、自分フィールドに表側表示で特殊召喚する。さらにこのターン、モンスターを攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
+  | jp_sets         = 
   RD/SJMP-JP043; Saikyō Jump October 2024 promotional card; Normal Parallel Rare
-  | mentions               = Kuribot
-  | action                 = 
+  | mentions        = Kuribot
+  | action          = 
   * Returns Fusion Materials for Contact Fusion to Deck
   * Activates during the turn in which it was Fusion Summoned
-  | summoning              = 
+  | summoning       = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
   * Requires monsters with the same name as Fusion Materials
@@ -34,5 +34,5 @@ wikitext: |-
   * Special Summons itself from your Extra Deck
   * Special Summons from your Graveyard
   * Treated as multiple Tributes
-  | database_id            = 20731
+  | database_id     = 20731
   }}

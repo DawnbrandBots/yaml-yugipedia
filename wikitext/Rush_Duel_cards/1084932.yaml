@@ -3,30 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = アトラクト・ゴーレム
-  | romaji_name    = Atorakuto Gōremu
-  | trans_name     = Attract Golem
-  | image          = AttractionGolem-RDLGP2-JP-C.png
-  | attribute      = LIGHT
-  | types          = Rock / Effect
-  | level          = 4
-  | atk            = 1400
-  | def            = 500
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] in your [[hand]].
-  | lore           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
-  | ja_requirement = このカードを召喚したターンに、手札の通常モンスター（光属性／守備力５００）１体を相手に見せて発動できる。
-  | ja_lore        = 自分のデッキの上からカード２枚を墓地へ送る。その後、相手に５００ダメージを与える事ができる。
-  | jp_sets        = 
+  | ja_name         = アトラクト・ゴーレム
+  | romaji_name     = Atorakuto Gōremu
+  | translated_name = Attract Golem
+  | image           = AttractionGolem-RDLGP2-JP-C.png
+  | attribute       = LIGHT
+  | types           = Rock / Effect
+  | level           = 4
+  | atk             = 1400
+  | def             = 500
+  | requirement     = During the [[turn]] you [[Normal Summon]]ed this card, [[reveal]] 1 [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] in your [[hand]].
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
+  | ja_requirement  = このカードを召喚したターンに、手札の通常モンスター（光属性／守備力５００）１体を相手に見せて発動できる。
+  | ja_text         = 自分のデッキの上からカード２枚を墓地へ送る。その後、相手に５００ダメージを与える事ができる。
+  | jp_sets         = 
   RD/LGP2-JP026; Neo Legend Awakening Pack; Common
-  | supports       = 
+  | supports        = 
   * LIGHT
   * Normal Monster
-  | archseries     = Metarion
-  | action         = 
+  | archseries      = Metarion
+  | action          = 
   * Activates during the turn in which it was Normal Summoned
   * Reveals your hand for cost
   * Sends from the top of your Deck to your Graveyard
-  | life_points    = Damages your opponent
-  | fm_for         = Metarion Geniustar
-  | database_id    = 20855
+  | life_points     = Damages your opponent
+  | fm_for          = Metarion Geniustar
+  | database_id     = 20855
   }}

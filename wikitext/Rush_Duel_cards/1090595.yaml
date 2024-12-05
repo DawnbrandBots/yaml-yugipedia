@@ -3,31 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|語|かた}}り{{Ruby|継|つ}}がれし{{Ruby|英雄譚|オモイデ}}
-  | base_romaji_name       = Kataritsugareshi Eiyūtan
-  | base_trans_name        = Passed-Down Epic Tale
-  | romaji_name            = Kataritsugareshi Omoide
-  | trans_name             = Passed-Down Memories
-  | image                  = 
+  | ja_name              = {{Ruby|語|かた}}り{{Ruby|継|つ}}がれし{{Ruby|英雄譚|オモイデ}}
+  | base_romaji_name     = Kataritsugareshi Eiyūtan
+  | base_translated_name = Passed-Down Epic Tale
+  | romaji_name          = Kataritsugareshi Omoide
+  | translated_name      = Passed-Down Memories
+  | image                = 
   1; AnEpicTaleofRecollectedMemories-RDKP19-JP-SR.png
   2; AnEpicTaleofRecollectedMemories-RDKP19-JP-ScR-AA.png
-  | current_image          = 1
-  | card_type              = Spell
-  | property               = Normal
-  | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[Monster Card|monster]]s from your Graveyard into the Deck.
-  | lore                   = [[Send]] the top 4 cards of your Deck to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 Legend monster and/or 1 Legend [[Trap Card]] from among the cards sent.
-  | ja_summoning_condition = 手札または墓地にあるこのカードはレジェンドカードになる。
-  | ja_requirement         = 自分のデッキのカードが１０枚以上の場合、自分の墓地のモンスター２体をデッキに戻して発動できる。
-  | ja_lore                = 自分のデッキの上からカード４枚を墓地へ送る。その後、その中からレジェンドモンスターとレジェンド罠カードをそれぞれ１枚まで選んで手札に加える事ができる。
-  | jp_sets                = 
+  | current_image        = 1
+  | card_type            = Spell
+  | property             = Normal
+  | condition            = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
+  | requirement          = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[Monster Card|monster]]s from your Graveyard into the Deck.
+  | text                 = [[Send]] the top 4 cards of your Deck to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 Legend monster and/or 1 Legend [[Trap Card]] from among the cards sent.
+  | ja_condition         = 手札または墓地にあるこのカードはレジェンドカードになる。
+  | ja_requirement       = 自分のデッキのカードが１０枚以上の場合、自分の墓地のモンスター２体をデッキに戻して発動できる。
+  | ja_text              = 自分のデッキの上からカード４枚を墓地へ送る。その後、その中からレジェンドモンスターとレジェンド罠カードをそれぞれ１枚まで選んで手札に加える事ができる。
+  | jp_sets              = 
   RD/KP19-JP054; Salamandeus of Scorching; Super Rare, Secret Rare
-  | supports               = Legend Card
-  | archseries             = Legend (series)
-  | action                 = 
+  | supports             = Legend Card
+  | archseries           = Legend (series)
+  | action               = 
   * Returns from Graveyard to Deck for cost
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
-  | stat_change            = Treated as a Legend Card
-  | database_id            = 21005
+  | stat_change          = Treated as a Legend Card
+  | database_id          = 21005
   }}
