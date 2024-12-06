@@ -3,58 +3,58 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|ＳＲ|スピードロイド}}／{{Ruby|ＣＷＷ|クリアウィングワンダー}}
-  | romaji_name         = Supīdoroido/Kuria Wingu Wandā
-  | trans_name          = Speedroid/Clear Wing Wander
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 疾行机人 遥控清透翼惊奇
-  | sc_pinyin_name      = 
-  | sc_trans_name       = Speedroid Remote Clear Wing Wonder
-  | image               = SpeedroidClearWingWander-SUDA-JP-C.png
-  | card_type           = Trap
-  | property            = Normal
-  | password            = 66002986
-  | effect_types        = Effect, Trigger-like, Condition
-  | lore                = [[Target]] cards your opponent [[control]]s up to the number of different [[Type|Monster Type]]s among the [[WIND]] [[Synchro Monster]]s you control; [[destroy]] them. If your opponent [[Special Summon]]s a monster(s) (except during the [[Damage Step]]): You can [[banish]] this card from your [[GY]], then target 1 WIND Synchro Monster you control; banish it, then [[return]] it to the [[field]]. You can only use this [[effect]] of "Speedroid Clear Wing Wander" [[once per turn]].
-  | fr_lore             = 
-  | de_lore             = 
-  | it_lore             = 
-  | pt_lore             = 
-  | es_lore             = 
-  | ja_lore             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの風属性Ｓモンスターの種族の種類の数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。②：相手がモンスターを特殊召喚した場合、墓地のこのカードを除外し、自分フィールドの風属性Ｓモンスター１体を対象として発動できる。そのモンスターを除外する。その後、この効果で除外したモンスターはフィールドに戻る。
-  | ko_lore             = 
-  | sc_lore             = 此卡名的①②效果1回合仅可各使用1次。①：以自己场上的风属性同步怪兽的种族的种类数为上限，以对手场上的卡为对象可以发动。将该卡破坏。②：对手将怪兽特殊召唤的情况下，将墓地的此卡除外，以自己场上的1只风属性同步怪兽为对象可以发动。将该怪兽除外。然后，将以此效果除外的怪兽放回场上。
-  | jp_sets             = 
+  | fr_name            = 
+  | de_name            = 
+  | it_name            = 
+  | pt_name            = 
+  | es_name            = 
+  | ja_name            = {{Ruby|ＳＲ|スピードロイド}}／{{Ruby|ＣＷＷ|クリアウィングワンダー}}
+  | romaji_name        = Supīdoroido/Kuria Wingu Wandā
+  | translated_name    = Speedroid/Clear Wing Wander
+  | ko_name            = 
+  | ko_rr_name         = 
+  | sc_name            = 疾行机人 遥控清透翼惊奇
+  | sc_pinyin_name     = 
+  | sc_translated_name = Speedroid Remote Clear Wing Wonder
+  | image              = SpeedroidClearWingWander-SUDA-JP-C.png
+  | card_type          = Trap
+  | property           = Normal
+  | password           = 66002986
+  | effect_types       = Effect, Trigger-like, Condition
+  | text               = [[Target]] cards your opponent [[control]]s up to the number of different [[Type|Monster Type]]s among the [[WIND]] [[Synchro Monster]]s you control; [[destroy]] them. If your opponent [[Special Summon]]s a monster(s) (except during the [[Damage Step]]): You can [[banish]] this card from your [[GY]], then target 1 WIND Synchro Monster you control; banish it, then [[return]] it to the [[field]]. You can only use this [[effect]] of "Speedroid Clear Wing Wander" [[once per turn]].
+  | fr_text            = 
+  | de_text            = 
+  | it_text            = 
+  | pt_text            = 
+  | es_text            = 
+  | ja_text            = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの風属性Ｓモンスターの種族の種類の数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。②：相手がモンスターを特殊召喚した場合、墓地のこのカードを除外し、自分フィールドの風属性Ｓモンスター１体を対象として発動できる。そのモンスターを除外する。その後、この効果で除外したモンスターはフィールドに戻る。
+  | ko_text            = 
+  | sc_text            = 此卡名的①②效果1回合仅可各使用1次。①：以自己场上的风属性同步怪兽的种族的种类数为上限，以对手场上的卡为对象可以发动。将该卡破坏。②：对手将怪兽特殊召唤的情况下，将墓地的此卡除外，以自己场上的1只风属性同步怪兽为对象可以发动。将该怪兽除外。然后，将以此效果除外的怪兽放回场上。
+  | jp_sets            = 
   SUDA-JP068; Supreme Darkness; Common
-  | sc_sets               = 
+  | sc_sets            = 
   SUDA-SC068; Supreme Darkness; Common
-  | supports            = 
+  | supports           = 
   * WIND
   * Synchro Monster
-  | archseries          = 
+  | archseries         = 
   * Clear Wing
   * roid
   * Speedroid
-  | action              = 
+  | action             = 
   * Activates upon Special Summon
   * Activates from your Graveyard
   * Returns banished cards to the field
-  | m/s/t               = 
+  | m/s/t              = 
   * Destroys your opponent's Monster Cards
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | banished            = 
+  | banished           = 
   * Banishes itself from Graveyard for cost
   * Banishes from your field
-  | misc                = 
+  | misc               = 
   * Requires control of specific Attribute
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id         = 20805
+  | database_id        = 20805
   }}

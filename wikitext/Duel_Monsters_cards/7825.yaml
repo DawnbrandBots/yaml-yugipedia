@@ -18,14 +18,14 @@ wikitext: |-
   | def                   = 1200
   | password              = 63120904
   | effect_types          = Ignition, Ignition
-  | lore                  = By [[tributing]] 1 "[[Torpedo Fish]]" on your side of the [[field]], [[destroy]] 1 [[monster]] on the field. By Tributing 1 "[[Cannonball Spear Shellfish]]" on your side of the field, destroy 1 [[Spell Card|Spell]] or [[Trap Card]] on the field.
-  | fr_lore               = En Sacrifiant 1 "Poisson Torpille" de votre Terrain, détruisez 1 monstre sur le Terrain. En Sacrifiant 1 "Coquillage Sous-marin Boulet de Canon" de votre Terrain, détruisez 1 Carte Magie ou Piège sur le Terrain.
-  | de_lore               = Biete 1 „Torpedofisch“ auf deiner Spielfeldseite als Tribut an, um 1 Monster auf dem Spielfeld zu zerstören. Biete 1 „Kannonenball Speer-Schalentier“ auf deiner Spielfeldseite als Tribut an um 1 Zauber- oder Fallenkarte zu zerstören.
-  | it_lore               = Offri 1 "Pesce Torpedo" sul tuo Terreno come Tributo per distruggere 1 mostro sul Terreno. Offri 1 "Mollusco Proiettile" sul tuo Terreno come Tributo per distruggere 1 Carta Magia o Trappola sul Terreno.
-  | pt_lore               = Ofereça como Tributo 1 "Peixe Torpedo" no seu campo para destruir 1 monstro no campo. Ofereça como Tributo 1 "Projétil Molusco-Lança" no seu campo para destruir 1 Card de Magia ou Armadilha no campo.
-  | es_lore               = Sacrifica 1 "Pez Torpedo" en tu Campo para destruir 1 monstruo en el Campo. Sacrifica 1 "Crustáceo Lanza Bala de Cañón" en tu Campo para destruir 1 Carta Mágica o de Trampa en el Campo.
-  | ja_lore               = 自分フィールド上の「魚雷魚」１体を生け贄に捧げる事で、フィールド上のモンスター１体を破壊する。自分フィールド上の「砲弾ヤリ貝」１体を生け贄に捧げる事で、フィールド上の魔法・罠カード１枚を破壊する。
-  | ko_lore               = 자신 필드 위의 "어뢰어" 1장을 제물로 바치는 것으로, 필드 위의 몬스터 1장을 파괴한다. 자신 필드 위의 "포환 창조개" 1장을 제물로 바치는 것으로, 필드 위의 마법/함정 카드 1장을 파괴한다.
+  | text                  = By [[tributing]] 1 "[[Torpedo Fish]]" on your side of the [[field]], [[destroy]] 1 [[monster]] on the field. By Tributing 1 "[[Cannonball Spear Shellfish]]" on your side of the field, destroy 1 [[Spell Card|Spell]] or [[Trap Card]] on the field.
+  | fr_text               = En Sacrifiant 1 "Poisson Torpille" de votre Terrain, détruisez 1 monstre sur le Terrain. En Sacrifiant 1 "Coquillage Sous-marin Boulet de Canon" de votre Terrain, détruisez 1 Carte Magie ou Piège sur le Terrain.
+  | de_text               = Biete 1 „Torpedofisch“ auf deiner Spielfeldseite als Tribut an, um 1 Monster auf dem Spielfeld zu zerstören. Biete 1 „Kannonenball Speer-Schalentier“ auf deiner Spielfeldseite als Tribut an um 1 Zauber- oder Fallenkarte zu zerstören.
+  | it_text               = Offri 1 "Pesce Torpedo" sul tuo Terreno come Tributo per distruggere 1 mostro sul Terreno. Offri 1 "Mollusco Proiettile" sul tuo Terreno come Tributo per distruggere 1 Carta Magia o Trappola sul Terreno.
+  | pt_text               = Ofereça como Tributo 1 "Peixe Torpedo" no seu campo para destruir 1 monstro no campo. Ofereça como Tributo 1 "Projétil Molusco-Lança" no seu campo para destruir 1 Card de Magia ou Armadilha no campo.
+  | es_text               = Sacrifica 1 "Pez Torpedo" en tu Campo para destruir 1 monstruo en el Campo. Sacrifica 1 "Crustáceo Lanza Bala de Cañón" en tu Campo para destruir 1 Carta Mágica o de Trampa en el Campo.
+  | ja_text               = 自分フィールド上の「魚雷魚」１体を生け贄に捧げる事で、フィールド上のモンスター１体を破壊する。自分フィールド上の「砲弾ヤリ貝」１体を生け贄に捧げる事で、フィールド上の魔法・罠カード１枚を破壊する。
+  | ko_text               = 자신 필드 위의 "어뢰어" 1장을 제물로 바치는 것으로, 필드 위의 몬스터 1장을 파괴한다. 자신 필드 위의 "포환 창조개" 1장을 제물로 바치는 것으로, 필드 위의 마법/함정 카드 1장을 파괴한다.
   | en_sets               = 
   DR2-EN085; Dark Revelation Volume 2; Rare
   IOC-EN084; Invasion of Chaos; Super Rare
@@ -67,7 +67,7 @@ wikitext: |-
   * Destroys Monster Cards
   * Destroys Spell Cards
   * Destroys Trap Cards
-  |related_to_archseries = Bugroth
+  | related_to_archseries = Bugroth
   | misc                  = Requires control of specific card
   | database_id           = 5896
   }}

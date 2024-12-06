@@ -1,34 +1,34 @@
 title: Terraforming
 wikitext: |-
   {{CardTable2
-  | fr_name               = Terra Formation
-  | de_name               = Landformen
-  | it_name               = Terraformare
-  | pt_name               = Transformação Campal
-  | es_name               = Terraformación
-  | ja_name               = テラ・フォーミング
-  | romaji_name           = Tera Fōmingu
-  | ko_name               = 테라포밍
-  | ko_rr_name            = Terapoming
-  | tc_name               = 星球改造
-  | sc_name               = 星球改造
-  | image                 = Terraforming-VASM-EN-R-1E.png
-  | card_type             = Spell
-  | property              = Normal
-  | password              = 73628505
-  | effect_types          = Effect
-  | lore                  = [[Add a card|Add]] 1 [[Field Spell Card|Field Spell]] from your [[Main Deck|Deck]] to your [[hand]].
-  | fr_lore               = Ajoutez 1 Magie de Terrain depuis votre Deck à votre main.
-  | de_lore               = Füge deiner Hand 1 Spielfeldzauber von deinem Deck hinzu.
-  | it_lore               = Aggiungi 1 Magia Terreno dal tuo Deck alla tua mano.
-  | pt_lore               = Adicione 1 Magia de Campo do seu Deck à sua mão.
-  | es_lore               = Añade a tu mano 1 Mágica de Campo en tu Deck.
-  | ja_lore               = ①：デッキからフィールド魔法カード１枚を手札に加える。
-  | ko_lore               = ①: 덱에서 필드 마법 카드 1장을 패에 넣는다.
-  | tc_lore               = 从牌组将1张场地魔法卡加入手牌。
-  | sc_lore               = ①：从牌组将１张场地魔法卡加入手牌。
-  | ygo_lore              = Add 1 Field Spell Card from your Deck to your hand.
-  | en_sets               = 
+  | fr_name      = Terra Formation
+  | de_name      = Landformen
+  | it_name      = Terraformare
+  | pt_name      = Transformação Campal
+  | es_name      = Terraformación
+  | ja_name      = テラ・フォーミング
+  | romaji_name  = Tera Fōmingu
+  | ko_name      = 테라포밍
+  | ko_rr_name   = Terapoming
+  | tc_name      = 星球改造
+  | sc_name      = 星球改造
+  | image        = Terraforming-VASM-EN-R-1E.png
+  | card_type    = Spell
+  | property     = Normal
+  | password     = 73628505
+  | effect_types = Effect
+  | text         = [[Add a card|Add]] 1 [[Field Spell Card|Field Spell]] from your [[Main Deck|Deck]] to your [[hand]].
+  | fr_text      = Ajoutez 1 Magie de Terrain depuis votre Deck à votre main.
+  | de_text      = Füge deiner Hand 1 Spielfeldzauber von deinem Deck hinzu.
+  | it_text      = Aggiungi 1 Magia Terreno dal tuo Deck alla tua mano.
+  | pt_text      = Adicione 1 Magia de Campo do seu Deck à sua mão.
+  | es_text      = Añade a tu mano 1 Mágica de Campo en tu Deck.
+  | ja_text      = ①：デッキからフィールド魔法カード１枚を手札に加える。
+  | ko_text      = ①: 덱에서 필드 마법 카드 1장을 패에 넣는다.
+  | tc_text      = 从牌组将1张场地魔法卡加入手牌。
+  | sc_text      = ①：从牌组将１张场地魔法卡加入手牌。
+  | ygo_text     = Add 1 Field Spell Card from your Deck to your hand.
+  | en_sets      = 
   DR1-EN036; Dark Revelation Volume 1; Common
   CP02-EN018; Champion Pack: Game Two; Common
   SDRL-EN026; Rise of the Dragon Lords Structure Deck; Common
@@ -57,9 +57,9 @@ wikitext: |-
   MAGO-EN141; Maximum Gold; Rare
   BLMR-EN087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-EN013; Valiant Smashers; Rare
-  | na_sets               = 
+  | na_sets      = 
   PGD-088; Pharaonic Guardian; Common
-  | fr_sets               = 
+  | fr_sets      = 
   DR1-FR036; Dark Revelation Volume 1; Common
   CP02-FR018; Champion Pack: Game Two; Common
   SDRL-FR026; Rise of the Dragon Lords Structure Deck; Common
@@ -88,7 +88,7 @@ wikitext: |-
   MAGO-FR141; Maximum Gold; Rare
   BLMR-FR087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-FR013; Valiant Smashers; Rare
-  | de_sets               = 
+  | de_sets      = 
   DR1-DE036; Dark Revelation Volume 1; Common
   CP02-DE018; Champion Pack: Game Two; Common
   SDRL-DE026; Rise of the Dragon Lords Structure Deck; Common
@@ -117,7 +117,7 @@ wikitext: |-
   MAGO-DE141; Maximum Gold; Rare
   BLMR-DE087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-DE013; Valiant Smashers; Rare
-  | it_sets               = 
+  | it_sets      = 
   DR1-IT036; Dark Revelation Volume 1; Common
   CP02-IT018; Champion Pack: Game Two; Common
   SDRL-IT026; Rise of the Dragon Lords Structure Deck; Common
@@ -146,7 +146,7 @@ wikitext: |-
   MAGO-IT141; Maximum Gold; Rare
   BLMR-IT087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-IT013; Valiant Smashers; Rare
-  | pt_sets               = 
+  | pt_sets      = 
   DR1-PT036; Dark Revelation Volume 1; Common
   AP01-PT009; Astral Pack One; Super Rare
   SDGR-PT028; Geargia Rampage Structure Deck; Common
@@ -167,7 +167,7 @@ wikitext: |-
   MAGO-PT141; Maximum Gold; Rare
   BLMR-PT087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-PT013; Valiant Smashers; Rare
-  | sp_sets               = 
+  | sp_sets      = 
   DR1-SP036; Dark Revelation Volume 1; Common
   SDRL-SP026; Rise of the Dragon Lords Structure Deck; Common
   SDZW-SP025; Zombie World Structure Deck; Common
@@ -194,7 +194,7 @@ wikitext: |-
   MAGO-SP141; Maximum Gold; Rare
   BLMR-SP087; Battles of Legend: Monstrous Revenge; Secret Rare, Quarter Century Secret Rare
   VASM-SP013; Valiant Smashers; Rare
-  | jp_sets               = 
+  | jp_sets      = 
   301-036; The New Ruler; Common
   EE1-JP036; Expert Edition Volume.1; Common
   SD11-JP024; Structure Deck: Surge of Radiance; Common
@@ -218,7 +218,7 @@ wikitext: |-
   DR02-JPB17; Duel Royale Deck Set EX Round 2; Common
   DBVS-JP013; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   TDS1-JP026; Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition; Ultra Rare
-  | kr_sets               = 
+  | kr_sets      = 
   PGD-KR088; Pharaonic Guardian; Common
   HGP1-KR036; Expert Edition Volume.1; Common
   SD13-KR024; Structure Deck: Revival of the Great Dragon; Common
@@ -240,25 +240,25 @@ wikitext: |-
   SD39-KR026; Structure Deck: Masters of the Spiritual Arts; Common
   PAC1-KR036; Prismatic Art Collection; Super Rare, Secret Rare, Prismatic Secret Rare
   DBVS-KR013; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
-  | tc_sets               = 
+  | tc_sets      = 
   SD25-TC024; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
   SD22-TC025; Structure Deck: Dragonic Legion; Common
   SD23-TC024; Structure Deck: Roar of the Sea Emperor; Common
-  | sc_sets               = 
+  | sc_sets      = 
   SD25-SC024; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
   SD38-SC024; Structure Deck: Sacred Beasts of Chaos; Common
   SD39-SC026; Structure Deck: Masters of the Spiritual Arts; Common
   23RC-SC052; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   DBVS-SC013; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
-  | ae_sets               = 
+  | ae_sets      = 
   PGD-088; Pharaonic Guardian; Common
   SD16-AE028; Structure Deck: Lord of Magician; Common
   SDRB-AE031; Structure Deck: Rise of the Blue-Eyes; Common
-  | ntr_sets              = 
+  | ntr_sets     = 
   '''[[Chosen Warrior (NTR-BP)|Chosen Warrior]]''' ([[Common]])
-  | ygo_sets              = 
+  | ygo_sets     = 
   '''[[Pack 24 (YGOO-BP)|Pack 24]]'''
-  | supports              = Field Spell Card
-  | action                = Adds from Deck to hand
-  | database_id           = 5537
+  | supports     = Field Spell Card
+  | action       = Adds from Deck to hand
+  | database_id  = 5537
   }}

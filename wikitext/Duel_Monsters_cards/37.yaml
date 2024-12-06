@@ -16,15 +16,15 @@ wikitext: |-
   | property              = Normal
   | password              = 55144522
   | effect_types          = Effect
-  | lore                  = [[Draw a card|Draw]] 2 cards.
-  | fr_lore               = Piochez 2 cartes.
-  | de_lore               = Ziehe 2 Karten.
-  | it_lore               = Pesca 2 carte.
-  | pt_lore               = Compre 2 cards.
-  | es_lore               = Roba 2 cartas.
-  | ja_lore               = ①：自分は２枚ドローする。
-  | ko_lore               = ①: 자신은 덱에서 2장 드로우한다.
-  | sc_lore               = ①：自己从牌组抽２张。
+  | text                  = [[Draw a card|Draw]] 2 cards.
+  | fr_text               = Piochez 2 cartes.
+  | de_text               = Ziehe 2 Karten.
+  | it_text               = Pesca 2 carte.
+  | pt_text               = Compre 2 cards.
+  | es_text               = Roba 2 cartas.
+  | ja_text               = ①：自分は２枚ドローする。
+  | ko_text               = ①: 자신은 덱에서 2장 드로우한다.
+  | sc_text               = ①：自己从牌组抽２张。
   | en_sets               = 
   SYE-040; Starter Deck: Yugi Evolution; Common
   DB1-EN134; Dark Beginning 1; Super Rare
@@ -153,7 +153,7 @@ wikitext: |-
   SD3-KR019; Structure Deck: Blaze of Destruction; Common
   SD4-KR018; Structure Deck: Fury from the Deep; Common
   15AY-KRB26; Memories of the Duel King: Battle City Arc; Ultra Rare
-  | sc_sets               =
+  | sc_sets               = 
   TBC1-SCS01; The Pot Collection; Quarter Century Secret Rare
   | ae_sets               = 
   LOB-119; Legend of Blue Eyes White Dragon; Rare

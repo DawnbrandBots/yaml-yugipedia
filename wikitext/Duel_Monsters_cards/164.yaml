@@ -3,31 +3,31 @@ wikitext: |-
   {{CardTable2
   | tc_name               = 抹殺之使徒
   | fr_name               = Seigneur de la Suppression
-  | fr_trans_name         = Lord of Suppression
+  | fr_translated_name    = Lord of Suppression
   | de_name               = Adliger der Auslöschung
-  | de_trans_name         = Noble of Obliteration
+  | de_translated_name    = Noble of Obliteration
   | it_name               = Nobiluomo dello Scambio
-  | it_trans_name         = Nobleman of Exchange
+  | it_translated_name    = Nobleman of Exchange
   | ko_name               = 말살의사도
   | pt_name               = O Nobre de Crossout
   | es_name               = Noble de Crossout
   | ja_name               = {{Ruby|抹|まっ}}{{Ruby|殺|さつ}}の{{Ruby|使|し}}{{Ruby|徒|と}}
   | romaji_name           = Massatsu no Shito
-  | trans_name            = Apostle of Obliteration
+  | translated_name       = Apostle of Obliteration
   | image                 = NoblemanofCrossout-RA03-EN-PlScR-1E.png
   | card_type             = Spell
   | property              = Normal
   | password              = 71044499
   | effect_types          = Effect
-  | lore                  = [[Target]] 1 [[face-down]] [[monster]] on the [[field]]; [[destroy]] that target, and if you do, [[banish]] it, then, if it was a [[Flip monster]], each player [[reveal]]s their [[Main Deck]], then banishes all cards from it with that monster's name.
-  | fr_lore               = Ciblez 1 monstre face verso sur le Terrain ; détruisez la cible, et si vous le faites, bannissez-le, puis, si c'était un monstre Flip, chaque joueur révèle son Main Deck, puis en bannit toutes les cartes du nom du monstre.
-  | de_lore               = Wähle 1 verdecktes Monster auf dem Spielfeld; zerstöre jenes gewählte Ziel und falls du dies tust, verbanne es, dann, falls es ein Flippmonster war, zeigt jeder Spieler sein Main Deck vor, dann verbannt er alle Karten mit dem Namen jenes Monsters daraus.
-  | it_lore               = Scegli come bersaglio 1 mostro coperto sul Terreno; distruggi quel bersaglio e, se lo fai, bandiscilo, poi, se era un mostro Scoperta, ogni giocatore rivela il suo Main Deck, poi bandisce da esso tutte le carte con il nome di quel mostro.
-  | pt_lore               = Escolha 1 monstro com a face para baixo no campo; destrua o alvo e, se isso acontecer, bana-o e, depois, se ele era um monstro de Virar, cada duelista revela o seu Deck Principal e, depois, bane dele todos os cards com aquele nome de monstro.
-  | es_lore               = Selecciona 1 monstruo boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era un monstruo de Volteo, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con ese nombre de monstruo.
-  | ja_lore               = ①：フィールドの裏側表示モンスター１体を対象として発動できる。その裏側表示モンスターを破壊し除外する。除外したモンスターがリバースモンスターだった場合、さらにお互いはお互いのデッキを確認し、その中から自分は除外したモンスターの同名モンスターを全て除外する。
-  | ko_lore               =  뒷면 표시의 몬스터 1장을 파괴하여 게임에서 제외한다. 만약 그것이 리버스 효과 몬스터였을 경우, 서로의 덱을 확인하여, 파괴한 몬스터와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
-  | tc_lore               = 选择场上以里侧表示存在的1只怪兽并破坏，从游戏中除外。反转效果怪兽的场合，确认双方牌组，并将同名卡牌全部从游戏中除外。
+  | text                  = [[Target]] 1 [[face-down]] [[monster]] on the [[field]]; [[destroy]] that target, and if you do, [[banish]] it, then, if it was a [[Flip monster]], each player [[reveal]]s their [[Main Deck]], then banishes all cards from it with that monster's name.
+  | fr_text               = Ciblez 1 monstre face verso sur le Terrain ; détruisez la cible, et si vous le faites, bannissez-le, puis, si c'était un monstre Flip, chaque joueur révèle son Main Deck, puis en bannit toutes les cartes du nom du monstre.
+  | de_text               = Wähle 1 verdecktes Monster auf dem Spielfeld; zerstöre jenes gewählte Ziel und falls du dies tust, verbanne es, dann, falls es ein Flippmonster war, zeigt jeder Spieler sein Main Deck vor, dann verbannt er alle Karten mit dem Namen jenes Monsters daraus.
+  | it_text               = Scegli come bersaglio 1 mostro coperto sul Terreno; distruggi quel bersaglio e, se lo fai, bandiscilo, poi, se era un mostro Scoperta, ogni giocatore rivela il suo Main Deck, poi bandisce da esso tutte le carte con il nome di quel mostro.
+  | pt_text               = Escolha 1 monstro com a face para baixo no campo; destrua o alvo e, se isso acontecer, bana-o e, depois, se ele era um monstro de Virar, cada duelista revela o seu Deck Principal e, depois, bane dele todos os cards com aquele nome de monstro.
+  | es_text               = Selecciona 1 monstruo boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era un monstruo de Volteo, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con ese nombre de monstruo.
+  | ja_text               = ①：フィールドの裏側表示モンスター１体を対象として発動できる。その裏側表示モンスターを破壊し除外する。除外したモンスターがリバースモンスターだった場合、さらにお互いはお互いのデッキを確認し、その中から自分は除外したモンスターの同名モンスターを全て除外する。
+  | ko_text               = 뒷면 표시의 몬스터 1장을 파괴하여 게임에서 제외한다. 만약 그것이 리버스 효과 몬스터였을 경우, 서로의 덱을 확인하여, 파괴한 몬스터와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
+  | tc_text               = 选择场上以里侧表示存在的1只怪兽并破坏，从游戏中除外。反转效果怪兽的场合，确认双方牌组，并将同名卡牌全部从游戏中除外。
   | en_sets               = 
   SKE-038; Starter Deck: Kaiba Evolution; Common
   DB1-EN088; Dark Beginning 1; Super Rare

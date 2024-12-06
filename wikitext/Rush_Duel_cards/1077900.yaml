@@ -3,31 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = レジェンド・プリースト
-  | romaji_name            = Rejendo Purīsuto
-  | image                  = LegendPriest-RDLGP2-JP-UR.png
-  | attribute              = LIGHT
-  | types                  = Fairy / Effect
-  | level                  = 4
-  | atk                    = 1000
-  | def                    = 300
-  | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | lore                   = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, if you have a Legend Card in your Graveyard, you can make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this [[turn]].
-  | ja_summoning_condition = 手札または墓地にいるこのカードはレジェンドカードになる。
-  | ja_requirement         = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  | ja_lore                = 自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地にレジェンドカードがある場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで６００ダウンできる。
-  | jp_sets                = 
+  | ja_name        = レジェンド・プリースト
+  | romaji_name    = Rejendo Purīsuto
+  | image          = LegendPriest-RDLGP2-JP-UR.png
+  | attribute      = LIGHT
+  | types          = Fairy / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 300
+  | condition      = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, if you have a Legend Card in your Graveyard, you can make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | ja_condition   = 手札または墓地にいるこのカードはレジェンドカードになる。
+  | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_text        = 自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地にレジェンドカードがある場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで６００ダウンできる。
+  | jp_sets        = 
   RD/LGP2-JP044; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
-  | supports               = Legend Card
-  | archseries             = Legend (series)
-  | action                 = 
+  | supports       = Legend Card
+  | archseries     = Legend (series)
+  | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Activates during the turn in which it was Special Summoned
   * Sends from the top of your Deck to your Graveyard
-  | stat_change            = 
+  | stat_change    = 
   * Treated as a Legend Card
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | database_id            = 20865
+  | database_id    = 20865
   }}

@@ -3,51 +3,51 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = ロードスター・グラディマギア
-  | romaji_name            = Rōdosutā Guradimagia
-  | image                  = RoadstarGladimagia-RDKP19-JP-R.png
-  | attribute              = DARK
-  | types                  = Magical Knight / Fusion / Effect
-  | level                  = 8
-  | atk                    = 2900
-  | def                    = 2400
-  | effect_types           = Multi-Choice
-  | fusion_material        = 
+  | ja_name               = ロードスター・グラディマギア
+  | romaji_name           = Rōdosutā Guradimagia
+  | image                 = RoadstarGladimagia-RDKP19-JP-R.png
+  | attribute             = DARK
+  | types                 = Magical Knight / Fusion / Effect
+  | level                 = 8
+  | atk                   = 2900
+  | def                   = 2400
+  | effect_types          = Multi-Choice
+  | fusion_material       = 
   * Sevens Road Magician
   * Swordsman of Roadstar
-  | materials              = "[[Sevens Road Magician]]" + "[[Swordsman of Roadstar]]"
-  | summoning_condition    = You can [[Summon]] this card by [[Contact Fusion]].
-  | requirement            = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | lore                   = ●1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] loses [[ATK]]/[[DEF]] equal to [the number of [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] monsters with different [[Level]]s in your Graveyard] x 400 until the end of this [[turn]]. ●This turn, this card [[Damage|inflict]]s [[piercing]] [[battle damage]].
-  | ja_materials           = 「セブンスロード・マジシャン」＋「ロードスターの剣士」
-  | ja_summoning_condition = このカードはコンタクトフュージョンできる。
-  | ja_requirement         = デッキの一番上のカードを墓地へ送って発動できる。
-  | ja_lore                = ●相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで、［自分の墓地のモンスター（闇属性／魔法使い族）のレベルの種類］×４００ダウンする。●このターン、このカードの攻撃は貫通する。
-  | jp_sets                = 
+  | materials             = "[[Sevens Road Magician]]" + "[[Swordsman of Roadstar]]"
+  | condition             = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text                  = ●1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] loses [[ATK]]/[[DEF]] equal to [the number of [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] monsters with different [[Level]]s in your Graveyard] x 400 until the end of this [[turn]]. ●This turn, this card [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | ja_materials          = 「セブンスロード・マジシャン」＋「ロードスターの剣士」
+  | ja_condition          = このカードはコンタクトフュージョンできる。
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text               = ●相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで、［自分の墓地のモンスター（闇属性／魔法使い族）のレベルの種類］×４００ダウンする。●このターン、このカードの攻撃は貫通する。
+  | jp_sets               = 
   RD/KP19-JP042; Salamandeus of Scorching; Rare, Secret Rare
-  | mentions               = 
+  | mentions              = 
   * Sevens Road Magician
   * Swordsman of Roadstar
-  | supports               = 
+  | supports              = 
   * DARK
   * Spellcaster
-  | related_to_archseries  = 
+  | related_to_archseries = 
   * Darkness (Rush Duel series)
   * Sevens Road
-  | action                 = 
+  | action                = 
   * Returns Fusion Materials for Contact Fusion to Deck
   * Sends from the top of your Deck to your Graveyard for cost
-  | stat_change            = 
+  | stat_change           = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | summoning              = 
+  | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
-  | attack                 = Piercing
-  | misc                   = Variable effects
-  | database_id            = 20993
+  | attack                = Piercing
+  | misc                  = Variable effects
+  | database_id           = 20993
   }}

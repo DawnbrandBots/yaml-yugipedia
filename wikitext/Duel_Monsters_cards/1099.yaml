@@ -1,29 +1,29 @@
 title: Snatch Steal
 wikitext: |-
   {{CardTable2
-  | fr_name               = Vol à l'Arraché
-  | de_name               = Schnappstahl
-  | it_name               = Strappa Possesso
-  | ko_name               = 강탈
-  | pt_name               = Roubo Precipitado
-  | es_name               = Robo Oportunista
-  | ja_name               = {{Ruby|強|ごう}}{{Ruby|奪|だつ}}
-  | romaji_name           = Gōdatsu
-  | trans_name            = Robbery
-  | image                 = SnatchSteal-BLTR-EN-ScR-1E.png
-  | card_type             = Spell
-  | property              = Equip
-  | password              = 45986603
-  | effect_types          = Condition, Continuous-like, Trigger-like
-  | lore                  = [[Equip]] only to a [[monster]] your opponent [[control]]s. Take control of the equipped monster. [[Once per turn]], during your opponent's [[Standby Phase]]: They gain 1000 [[LP]].
-  | fr_lore               = Équipable uniquement à un monstre contrôlé par votre adversaire. Prenez le contrôle du monstre équipé. Une fois par tour, durant la Standby Phase de votre adversaire : il gagne 1000 LP.
-  | de_lore               = Rüste nur ein Monster, das dein Gegner kontrolliert, mit dieser Karte aus. Übernimm die Kontrolle über das ausgerüstete Monster. Einmal pro Spielzug, während der Standby Phase deines Gegners: Er erhält 1000 LP.
-  | it_lore               = Equipaggia solo a un mostro controllato dal tuo avversario. Prendi il controllo del mostro equipaggiato. Una volta per turno, durante la Standby Phase del tuo avversario: lui guadagna 1000 LP.
-  | pt_lore               = Só pode ser equipado a um monstro que seu oponente controla. Tome o controle do monstro equipado. Uma vez por turno, durante a Fase de Apoio do seu oponente: ele ganha 1000 PV.
-  | es_lore               = Sólo puedes equipar esta carta a un monstruo que controle tu adversario. Toma el control del monstruo equipado. Una vez por turno, durante la Standby Phase de tu adversario: éste gana 1000 LP.
-  | ja_lore               = このカードを{{Ruby|装|そう}}{{Ruby|備|ひ}}した{{Ruby|相|あい}}{{Ruby|手|て}}モンスター１{{Ruby|体|だい}}のコントロールを{{Ruby|得|え}}る。{{Ruby|相|あい}}{{Ruby|手|て}}のスタンバイフェイズ{{Ruby|毎|ごと}}に{{Ruby|相|あい}}{{Ruby|手|て}}は１０００ライフポイント{{Ruby|回|かい}}{{Ruby|復|ふく}}する。
-  | ko_lore               = 이 카드를 장착한 상대 몬스터를 컨트롤한다. 상대의 스텐바이 페이즈마다 상대는 1000 라이프 포인트를 회복한다.
-  | en_sets               = 
+  | fr_name         = Vol à l'Arraché
+  | de_name         = Schnappstahl
+  | it_name         = Strappa Possesso
+  | ko_name         = 강탈
+  | pt_name         = Roubo Precipitado
+  | es_name         = Robo Oportunista
+  | ja_name         = {{Ruby|強|ごう}}{{Ruby|奪|だつ}}
+  | romaji_name     = Gōdatsu
+  | translated_name = Robbery
+  | image           = SnatchSteal-BLTR-EN-ScR-1E.png
+  | card_type       = Spell
+  | property        = Equip
+  | password        = 45986603
+  | effect_types    = Condition, Continuous-like, Trigger-like
+  | text            = [[Equip]] only to a [[monster]] your opponent [[control]]s. Take control of the equipped monster. [[Once per turn]], during your opponent's [[Standby Phase]]: They gain 1000 [[LP]].
+  | fr_text         = Équipable uniquement à un monstre contrôlé par votre adversaire. Prenez le contrôle du monstre équipé. Une fois par tour, durant la Standby Phase de votre adversaire : il gagne 1000 LP.
+  | de_text         = Rüste nur ein Monster, das dein Gegner kontrolliert, mit dieser Karte aus. Übernimm die Kontrolle über das ausgerüstete Monster. Einmal pro Spielzug, während der Standby Phase deines Gegners: Er erhält 1000 LP.
+  | it_text         = Equipaggia solo a un mostro controllato dal tuo avversario. Prendi il controllo del mostro equipaggiato. Una volta per turno, durante la Standby Phase del tuo avversario: lui guadagna 1000 LP.
+  | pt_text         = Só pode ser equipado a um monstro que seu oponente controla. Tome o controle do monstro equipado. Uma vez por turno, durante a Fase de Apoio do seu oponente: ele ganha 1000 PV.
+  | es_text         = Sólo puedes equipar esta carta a un monstruo que controle tu adversario. Toma el control del monstruo equipado. Una vez por turno, durante la Standby Phase de tu adversario: éste gana 1000 LP.
+  | ja_text         = このカードを{{Ruby|装|そう}}{{Ruby|備|ひ}}した{{Ruby|相|あい}}{{Ruby|手|て}}モンスター１{{Ruby|体|だい}}のコントロールを{{Ruby|得|え}}る。{{Ruby|相|あい}}{{Ruby|手|て}}のスタンバイフェイズ{{Ruby|毎|ごと}}に{{Ruby|相|あい}}{{Ruby|手|て}}は１０００ライフポイント{{Ruby|回|かい}}{{Ruby|復|ふく}}する。
+  | ko_text         = 이 카드를 장착한 상대 몬스터를 컨트롤한다. 상대의 스텐바이 페이즈마다 상대는 1000 라이프 포인트를 회복한다.
+  | en_sets         = 
   DB1-EN021; Dark Beginning 1; Ultra Rare
   SRL-EN036; Spell Ruler; Ultra Rare
   SD1-EN010; Structure Deck: Dragon's Roar; Common
@@ -34,12 +34,12 @@ wikitext: |-
   BP01-EN039; Battle Pack: Epic Dawn; Rare, Starfoil Rare
   SRL-EN036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-EN096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | na_sets               = 
+  | na_sets         = 
   MRL-036; Magic Ruler; Ultra Rare
   SRL-036; Spell Ruler; Ultra Rare
-  | eu_sets               = 
+  | eu_sets         = 
   MRL-E036; Spell Ruler; Ultra Rare
-  | fr_sets               = 
+  | fr_sets         = 
   MDM-F036; Spell Ruler; Ultra Rare
   SD1-FR010; Structure Deck: Dragon's Roar; Common
   SD2-FR013; Structure Deck: Zombie Madness; Common
@@ -49,7 +49,7 @@ wikitext: |-
   BP01-FR039; Battle Pack: Epic Dawn; Rare, Starfoil Rare
   SRL-FR036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-FR096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | de_sets               = 
+  | de_sets         = 
   SRL-G036; Spell Ruler; Ultra Rare
   DB1-DE021; Dark Beginning 1; Ultra Rare
   SD1-DE010; Structure Deck: Dragon's Roar; Common
@@ -60,7 +60,7 @@ wikitext: |-
   BP01-DE039; Battle Pack: Epic Dawn; Rare, Starfoil Rare
   SRL-DE036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-DE096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | it_sets               = 
+  | it_sets         = 
   SDM-I036; Spell Ruler; Ultra Rare
   SD1-IT010; Structure Deck: Dragon's Roar; Common
   SD2-IT013; Structure Deck: Zombie Madness; Common
@@ -70,14 +70,14 @@ wikitext: |-
   BP01-IT039; Battle Pack: Epic Dawn; Rare, Starfoil Rare
   SRL-IT036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-IT096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | pt_sets               = 
+  | pt_sets         = 
   SD1-PT010; Structure Deck: Dragon's Roar; Common
   SD2-PT013; Structure Deck: Zombie Madness; Common
   SD3-PT014; Structure Deck: Blaze of Destruction; Common
   SD4-PT015; Structure Deck: Fury from the Deep; Common
   SRL-PT036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-PT096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | sp_sets               = 
+  | sp_sets         = 
   SDH-S036; Spell Ruler; Ultra Rare
   DB1-SP021; Dark Beginning 1; Ultra Rare
   SD1-SP010; Structure Deck: Dragon's Roar; Common
@@ -87,7 +87,7 @@ wikitext: |-
   BP01-SP039; Battle Pack: Epic Dawn; Rare, Starfoil Rare
   SRL-SP036; Spell Ruler (25th Anniversary Edition); Ultra Rare
   BLTR-SP096; Battles of Legend: Terminal Revenge; Secret Rare, Quarter Century Secret Rare
-  | jp_sets               = 
+  | jp_sets         = 
   MR-36; Magic Ruler (Japanese); Common
   KA-30; Structure Deck: Kaiba; Common
   PE-23; Structure Deck: Pegasus; Common
@@ -99,9 +99,9 @@ wikitext: |-
   SD4-JP015; Structure Deck: Fury from the Deep; Common
   SD5-JP019; Structure Deck: Warrior's Triumph; Common
   BE01-JP018; Beginner's Edition 1 (2011); Rare
-  | ae_sets               = 
+  | ae_sets         = 
   MRL-036; Magic Ruler; Ultra Rare
-  | kr_sets               = 
+  | kr_sets         = 
   SRL-K036; Spell Ruler; Ultra Rare
   BP1-KR021; Beginner's Edition 1; Ultra Rare
   SD1-KR010; Structure Deck: Dragon's Roar; Common
@@ -110,14 +110,14 @@ wikitext: |-
   SD4-KR015; Structure Deck: Fury from the Deep; Common
   SD5-KR019; Structure Deck: Warrior's Triumph; Common
   ESP1-KR018; Expansion Pack Vol.1; Rare
-  | ntr_sets              = 
+  | ntr_sets        = 
   '''[[Beautiful Challenger (NTR-BP)|Beautiful Challenger]]''' ([[Super Rare]])
-  | ygo_sets              = 
+  | ygo_sets        = 
   '''[[Pack 15 (YGOO-BP)|Pack 15]]'''
-  | action                = Takes control of equipped
-  | life_points           = Your opponent gains Life Points
-  | misc                  = 
+  | action          = Takes control of equipped
+  | life_points     = Your opponent gains Life Points
+  | misc            = 
   * Equips only to a specific target
   * Standby Phase Activation
-  | database_id           = 4898
+  | database_id     = 4898
   }}

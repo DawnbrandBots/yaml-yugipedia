@@ -3,29 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|受け継がれし一閃|レジェンド・スラッシュ}}
-  | base_romaji_name = Uketsugareshi Issen
-  | base_trans_name  = Inherited Flash
-  | romaji_name      = Rejendo Surasshu
-  | image            = LegendSlash-RDLGP2-JP-UR.png
-  | card_type        = Spell
-  | property         = Normal
-  | requirement      = [[Send]] 1 [[Legend Card]] from your [[hand]] to the [[Graveyard]].
-  | lore             = [[Destroy]] 1 card on your opponent's [[field]]. Then, if you have a [[Warrior]] [[Type]] Legend [[Monster Card|monster]] in your Graveyard, you can [[Draw a card|draw]] 1 card.
-  | ja_requirement   = 手札のレジェンドカード１枚を墓地へ送って発動できる。
-  | ja_lore          = 相手フィールドのカード１枚を選んで破壊する。その後、自分の墓地にレジェンドモンスター（戦士族）がいる場合、自分は１枚ドローできる。
-  | jp_sets          = 
+  | ja_name              = {{Ruby|受け継がれし一閃|レジェンド・スラッシュ}}
+  | base_romaji_name     = Uketsugareshi Issen
+  | base_translated_name = Inherited Flash
+  | romaji_name          = Rejendo Surasshu
+  | image                = LegendSlash-RDLGP2-JP-UR.png
+  | card_type            = Spell
+  | property             = Normal
+  | requirement          = [[Send]] 1 [[Legend Card]] from your [[hand]] to the [[Graveyard]].
+  | text                 = [[Destroy]] 1 card on your opponent's [[field]]. Then, if you have a [[Warrior]] [[Type]] Legend [[Monster Card|monster]] in your Graveyard, you can [[Draw a card|draw]] 1 card.
+  | ja_requirement       = 手札のレジェンドカード１枚を墓地へ送って発動できる。
+  | ja_text              = 相手フィールドのカード１枚を選んで破壊する。その後、自分の墓地にレジェンドモンスター（戦士族）がいる場合、自分は１枚ドローできる。
+  | jp_sets              = 
   RD/LGP2-JP052; Neo Legend Awakening Pack; Ultra Rare, Over Rush Rare
-  | supports         = 
+  | supports             = 
   * Legend Card
   * Warrior
-  | archseries       = Legend (series)
-  | action           = 
+  | archseries           = Legend (series)
+  | action               = 
   * Sends from hand to Graveyard for cost
   * You draw cards
-  | m/s/t            = 
+  | m/s/t                = 
   * Destroys your opponent's Monster Cards
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | database_id      = 20870
+  | database_id          = 20870
   }}

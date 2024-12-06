@@ -9,20 +9,20 @@ wikitext: |-
   | es_name               = Noble de Exterminio
   | ja_name               = {{Ruby|撲|ぼく}}{{Ruby|滅|めつ}}の{{Ruby|使|し}}{{Ruby|徒|と}}
   | romaji_name           = Bokumetsu no Shito
-  | trans_name            = Apostle of Extermination
+  | translated_name       = Apostle of Extermination
   | image                 = NoblemanofExtermination-PSV-EN-R-UE-25thAnniversaryEdition.png
   | card_type             = Spell
   | property              = Normal
   | password              = 17449108
   | effect_types          = Effect
-  | lore                  = [[Target]] 1 [[face-down]] [[Spell Card|Spell]]/[[Trap Card|Trap]] on the [[field]]; [[destroy]] that target, and if you do, [[banish]] it, then, if it was a Trap, each player reveals their [[Main Deck]], then banishes all cards from it with that card's name.
-  | fr_lore               = Ciblez 1 Magie/Piège face verso sur le Terrain ; détruisez la cible, et si vous le faites, bannissez-la, puis, si c'était un Piège, chaque joueur révèle son Main Deck, puis en bannit toutes les cartes du nom de la carte.
-  | de_lore               = Wähle 1 verdeckte/n Zauber/Falle auf dem Spielfeld; zerstöre das gewählte Ziel und falls du dies tust, verbanne es, dann, falls es eine Falle war, zeigt jeder Spieler sein Main Deck vor, dann verbannt er alle Karten mit dem Namen der Karte davon.
-  | it_lore               = Scegli come bersaglio 1 Magia/Trappola coperta sul Terreno; distruggi quel bersaglio e, se lo fai, bandiscilo, poi, se era una Trappola, ogni giocatore rivela il suo Main Deck, poi bandisce da esso tutte le carte con il nome di quella carta.
-  | pt_lore               = Escolha 1 Magia/Armadilha com a face para baixo no campo; destrua o alvo e, se isso acontecer, bana-o e, depois, se era uma Armadilha, cada duelista revela seu Deck Principal e, depois, bana todos os cards dali com o nome desse card.
-  | es_lore               = Selecciona 1 Mágica/Trampa boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era una Trampa, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con el nombre de esa carta.
-  | ja_lore               = フィールド上にセットされた魔法・罠カード１枚を選択して破壊し、ゲームから除外する。それが罠カードだった場合、お互いのデッキを確認し、同名カードを全てゲームから除外する。
-  | ko_lore               = 뒷면 표시의 마법 또는 함정 카드 1장을 파괴하여 게임에서 제외한다. 만약 그것이 함정 카드였을 경우 서로의 덱을 확인하여, 파괴한 함정 카드와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
+  | text                  = [[Target]] 1 [[face-down]] [[Spell Card|Spell]]/[[Trap Card|Trap]] on the [[field]]; [[destroy]] that target, and if you do, [[banish]] it, then, if it was a Trap, each player reveals their [[Main Deck]], then banishes all cards from it with that card's name.
+  | fr_text               = Ciblez 1 Magie/Piège face verso sur le Terrain ; détruisez la cible, et si vous le faites, bannissez-la, puis, si c'était un Piège, chaque joueur révèle son Main Deck, puis en bannit toutes les cartes du nom de la carte.
+  | de_text               = Wähle 1 verdeckte/n Zauber/Falle auf dem Spielfeld; zerstöre das gewählte Ziel und falls du dies tust, verbanne es, dann, falls es eine Falle war, zeigt jeder Spieler sein Main Deck vor, dann verbannt er alle Karten mit dem Namen der Karte davon.
+  | it_text               = Scegli come bersaglio 1 Magia/Trappola coperta sul Terreno; distruggi quel bersaglio e, se lo fai, bandiscilo, poi, se era una Trappola, ogni giocatore rivela il suo Main Deck, poi bandisce da esso tutte le carte con il nome di quella carta.
+  | pt_text               = Escolha 1 Magia/Armadilha com a face para baixo no campo; destrua o alvo e, se isso acontecer, bana-o e, depois, se era uma Armadilha, cada duelista revela seu Deck Principal e, depois, bana todos os cards dali com o nome desse card.
+  | es_text               = Selecciona 1 Mágica/Trampa boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era una Trampa, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con el nombre de esa carta.
+  | ja_text               = フィールド上にセットされた魔法・罠カード１枚を選択して破壊し、ゲームから除外する。それが罠カードだった場合、お互いのデッキを確認し、同名カードを全てゲームから除外する。
+  | ko_text               = 뒷면 표시의 마법 또는 함정 카드 1장을 파괴하여 게임에서 제외한다. 만약 그것이 함정 카드였을 경우 서로의 덱을 확인하여, 파괴한 함정 카드와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
   | en_sets               = 
   DB1-EN089; Dark Beginning 1; Common
   PSV-EN035; Pharaoh's Servant; Rare
@@ -84,7 +84,7 @@ wikitext: |-
   '''[[Yu-Gi-Oh! Nightmare Troubadour: Wonderous Sorcery|Wonderous Sorcery]]''' ([[Common]])
   | ygo_sets              = 
   '''[[Pack 17 (YGOO-BP)|Pack 17]]'''
-  | action = 
+  | action                = 
   * Reveals cards from your Deck
   * Reveals your opponent's Deck
   | m/s/t                 = 

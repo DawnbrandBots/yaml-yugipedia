@@ -2,21 +2,21 @@ title: The Tricky (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                  = TheTricky-RDKP19-JP-C.png
-  | attribute              = WIND
-  | types                  = Spellcaster / Effect
-  | level                  = 5
-  | atk                    = 2000
-  | def                    = 1200
-  | summoning_condition    = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[send]]ing 1 other card from your hand to the [[Graveyard]].
-  | requirement            = None
-  | lore                   = None
-  | ja_summoning_condition = このカード以外の手札１枚を墓地へ送り、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  | ja_requirement         = なし
-  | ja_lore                = なし
-  | jp_sets                = 
+  | image          = TheTricky-RDKP19-JP-C.png
+  | attribute      = WIND
+  | types          = Spellcaster / Effect
+  | level          = 5
+  | atk            = 2000
+  | def            = 1200
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[send]]ing 1 other card from your hand to the [[Graveyard]].
+  | requirement    = None
+  | text           = None
+  | ja_condition   = このカード以外の手札１枚を墓地へ送り、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement = なし
+  | ja_text        = なし
+  | jp_sets        = 
   RD/KP19-JP033; Salamandeus of Scorching; Common
-  | action                 = Sends from hand to Graveyard for Special Summon
-  | summoning              = Special Summons itself from your hand
-  | database_id            = 20984
+  | action         = Sends from hand to Graveyard for Special Summon
+  | summoning      = Special Summons itself from your hand
+  | database_id    = 20984
   }}

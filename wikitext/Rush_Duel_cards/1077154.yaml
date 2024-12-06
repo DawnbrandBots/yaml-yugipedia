@@ -4,28 +4,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name                   = Maximum Gadget the Moving Fortress [L]
-  | ja_name                = {{Ruby|機|き}}{{Ruby|動|どう}}{{Ruby|砦|とりで}} マキシマム・ガジェット［{{Ruby|Ｌ|エル}}］
-  | romaji_name            = Kidōtoride Makishimamu Gajetto [Eru]
-  | image                  = MaximumGadgettheMovingFortressL-RDKP19-JP-R.png
-  | attribute              = EARTH
-  | types                  = Machine / Maximum / Effect
-  | level                  = 4
-  | atk                    = 1200
-  | def                    = 0
-  | summoning_condition    = This card's name becomes "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" while in the [[Graveyard]].
-  | requirement            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard.
-  | lore                   = This card gains 500 [[ATK]] until the end of this [[turn]].
-  | ja_summoning_condition = 墓地にいるこのカードのカード名は「イエロー・ガジェット」になる。
-  | ja_requirement         = デッキの上からカード２枚を墓地へ送って発動できる。
-  | ja_lore                = このカードの攻撃力はターン終了時まで５００アップする。
-  | jp_sets                = 
+  | name           = Maximum Gadget the Moving Fortress [L]
+  | ja_name        = {{Ruby|機|き}}{{Ruby|動|どう}}{{Ruby|砦|とりで}} マキシマム・ガジェット［{{Ruby|Ｌ|エル}}］
+  | romaji_name    = Kidōtoride Makishimamu Gajetto [Eru]
+  | image          = MaximumGadgettheMovingFortressL-RDKP19-JP-R.png
+  | attribute      = EARTH
+  | types          = Machine / Maximum / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 0
+  | condition      = This card's name becomes "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" while in the [[Graveyard]].
+  | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard.
+  | text           = This card gains 500 [[ATK]] until the end of this [[turn]].
+  | ja_condition   = 墓地にいるこのカードのカード名は「イエロー・ガジェット」になる。
+  | ja_requirement = デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_text        = このカードの攻撃力はターン終了時まで５００アップする。
+  | jp_sets        = 
   RD/KP19-JP015; Salamandeus of Scorching; Rare
-  | mentions               = Yellow Gadget (Rush Duel)
-  | archseries             = Gadget (series)
-  | action                 = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change            = 
+  | mentions       = Yellow Gadget (Rush Duel)
+  | archseries     = Gadget (series)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
   * Changes own name while in the GY
   * This card gains ATK
-  | database_id            = 20966
+  | database_id    = 20966
   }}

@@ -1,28 +1,28 @@
 title: Token (card)
 wikitext: |-
   {{CardTable2
-  | fr_name               = Jeton
-  | de_name               = Spielmarke
-  | it_name               = Segna-Mostro
-  | pt_name               = Ficha
-  | es_name               = Ficha
-  | ja_name               = トークン
-  | romaji_name           = Tōkun
-  | ko_name               = 토큰
-  | ko_rr_name            = Tokeun
-  | sc_name               = 衍生物
-  | image                 = Token-SDCH-EN-SR-1E-CharmersFamiliars.png
-  | types                 = Normal
-  | lore                  = This card can be used as any [[Monster Token|Token]].
-  | fr_lore               = Cette carte peut être utilsée comme un Jeton.
-  | de_lore               = Diese Karte kann als eine beliebige Spielmarke verwendet werden.
-  | it_lore               = Questa carta può essere usata come Segna-Mostro generico.
-  | pt_lore               = Este card pode ser usado como uma Ficha.
-  | es_lore               = Esta carta puede ser utilizada como cualquier Ficha.
-  | ja_lore               = このカードはトークンとして使用する事ができる。
-  | ko_lore               = 이 카드는 토큰으로 사용할 수 있다.
-  | sc_lore               = 此卡可以作为衍生物使用。
-  | en_sets               = 
+  | fr_name     = Jeton
+  | de_name     = Spielmarke
+  | it_name     = Segna-Mostro
+  | pt_name     = Ficha
+  | es_name     = Ficha
+  | ja_name     = トークン
+  | romaji_name = Tōkun
+  | ko_name     = 토큰
+  | ko_rr_name  = Tokeun
+  | sc_name     = 衍生物
+  | image       = Token-SDCH-EN-SR-1E-CharmersFamiliars.png
+  | types       = Normal
+  | text        = This card can be used as any [[Monster Token|Token]].
+  | fr_text     = Cette carte peut être utilsée comme un Jeton.
+  | de_text     = Diese Karte kann als eine beliebige Spielmarke verwendet werden.
+  | it_text     = Questa carta può essere usata come Segna-Mostro generico.
+  | pt_text     = Este card pode ser usado como uma Ficha.
+  | es_text     = Esta carta puede ser utilizada como cualquier Ficha.
+  | ja_text     = このカードはトークンとして使用する事ができる。
+  | ko_text     = 이 카드는 토큰으로 사용할 수 있다.
+  | sc_text     = 此卡可以作为衍生物使用。
+  | en_sets     = 
   TKN3-EN001; Token Pack Version 1.0; Common
   TKN3-EN002; Token Pack Version 1.0; Common
   TKN3-EN003; Token Pack Version 1.0; Common
@@ -88,7 +88,7 @@ wikitext: |-
   SDCH-ENT04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-ENT05; Structure Deck: Spirit Charmers; Super Rare
   STP3-EN032; Speed Duel Tournament Pack 3; Super Rare
-  | na_sets               = 
+  | na_sets     = 
   TKN1-EN001; San Diego Comic-Con 2006 promotional cards; Common
   TKN1-EN002; San Diego Comic-Con 2006 promotional cards; Common
   TKN1-EN003; San Diego Comic-Con 2006 promotional cards; Common
@@ -109,12 +109,12 @@ wikitext: |-
   TKN4-EN029; Yu-Gi-Oh! Day July 2016 promotional card; Super Rare
   TKN4-EN030; Yu-Gi-Oh! Day January 2017 promotional card; Super Rare
   TKN4-EN033; Yu-Gi-Oh! Day July 2017 promotional card; Super Rare
-  | eu_sets               = 
+  | eu_sets     = 
   TKN1-EN001; Pharaoh Tour 2006 promotional cards; Common
   TKN1-EN002; Pharaoh Tour 2006 promotional cards; Common
   TKN1-EN003; Pharaoh Tour 2006 promotional cards; Common
   TKN1-EN004; Pharaoh Tour 2006 promotional cards; Common
-  | fr_sets               = 
+  | fr_sets     = 
   TKN3-FR001; Token Pack Version 1.0; Common
   TKN3-FR002; Token Pack Version 1.0; Common
   TKN3-FR003; Token Pack Version 1.0; Common
@@ -152,7 +152,7 @@ wikitext: |-
   SDCH-FRT04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-FRT05; Structure Deck: Spirit Charmers; Super Rare
   STP3-FR032; Speed Duel Tournament Pack 3; Super Rare
-  | de_sets               = 
+  | de_sets     = 
   TKN3-DE001; Token Pack Version 1.0; Common
   TKN3-DE002; Token Pack Version 1.0; Common
   TKN3-DE003; Token Pack Version 1.0; Common
@@ -190,7 +190,7 @@ wikitext: |-
   SDCH-DET04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-DET05; Structure Deck: Spirit Charmers; Super Rare
   STP3-DE032; Speed Duel Tournament Pack 3; Super Rare
-  | it_sets               = 
+  | it_sets     = 
   TKN3-IT001; Token Pack Version 1.0; Common
   TKN3-IT002; Token Pack Version 1.0; Common
   TKN3-IT003; Token Pack Version 1.0; Common
@@ -228,7 +228,7 @@ wikitext: |-
   SDCH-ITT04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-ITT05; Structure Deck: Spirit Charmers; Super Rare
   STP3-IT032; Speed Duel Tournament Pack 3; Super Rare
-  | pt_sets               = 
+  | pt_sets     = 
   LC04-PT004; Legendary Collection 4: Joey's World; Ultra Rare
   LC04-PT005; Legendary Collection 4: Joey's World; Ultra Rare
   LC04-PT006; Legendary Collection 4: Joey's World; Ultra Rare
@@ -247,7 +247,7 @@ wikitext: |-
   SDCH-PTT04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-PTT05; Structure Deck: Spirit Charmers; Super Rare
   STP3-PT032; Speed Duel Tournament Pack 3; Super Rare
-  | sp_sets               = 
+  | sp_sets     = 
   TKN3-SP001; Token Pack Version 1.0; Common
   TKN3-SP002; Token Pack Version 1.0; Common
   TKN3-SP003; Token Pack Version 1.0; Common
@@ -285,7 +285,7 @@ wikitext: |-
   SDCH-SPT04; Structure Deck: Spirit Charmers; Super Rare
   SDCH-SPT05; Structure Deck: Spirit Charmers; Super Rare
   STP3-SP032; Speed Duel Tournament Pack 3; Super Rare
-  | jp_sets               = 
+  | jp_sets     = 
   TKN-JP001; Jump Festa 2006 promotional cards; Common
   TKN-JP002; Jump Festa 2006 promotional cards; Common
   TKN-JP003; Jump Festa 2006 promotional cards; Common
@@ -375,7 +375,7 @@ wikitext: |-
   TDS1-JPT03; Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition; Ultra Rare
   TDS1-JPT04; Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition; Ultra Rare
   TDS1-JPT05; Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition; Ultra Rare
-  | kr_sets               = 
+  | kr_sets     = 
   TKN-KR001; ; Common
   TKN-KR002; ; Common
   TKN-KR003; ; Common
@@ -425,7 +425,7 @@ wikitext: |-
   SD39-KRT03; Structure Deck: Masters of the Spiritual Arts; Super Rare
   SD39-KRT04; Structure Deck: Masters of the Spiritual Arts; Super Rare
   SD39-KRT05; Structure Deck: Masters of the Spiritual Arts; Super Rare
-  | sc_sets               = 
+  | sc_sets     = 
   SD39-SCT01; Structure Deck: Masters of the Spiritual Arts; Super Rare
   SD39-SCT02; Structure Deck: Masters of the Spiritual Arts; Super Rare
   SD39-SCT03; Structure Deck: Masters of the Spiritual Arts; Super Rare

@@ -8,7 +8,7 @@ wikitext: |-
   | es_name               = Dama de la Fé
   | ja_name               = ハイ・プリーステス
   | romaji_name           = Hai Purīsutesu
-  | trans_name            = High Priestess
+  | translated_name       = High Priestess
   | ko_name               = 하이 프리스티스
   | sc_name               = 高等女祭司
   | image                 = LadyofFaith-MRD-EN-C-UE-25thAnniversaryEdition.png
@@ -18,15 +18,15 @@ wikitext: |-
   | atk                   = 1100
   | def                   = 800
   | password              = 17358176
-  | lore                  = ''Soothes the souls of others by chanting a mysterious spell.''
-  | fr_lore               = ''Apaise les âmes en murmurant de mystérieuses incantations.''
-  | de_lore               = ''Besänftigt die Seelen anderer indem sie einen mysteriösen Zauberspruch singt.''
-  | it_lore               = ''Mistica creatura che calma le anime altrui con un incantesimo misterioso.''
-  | pt_lore               = ''Aquieta as almas dos outros entoando uma mágica misteriosa.''
-  | es_lore               = ''Calma las almas de los demás entonando un misterioso hechizo.''
-  | ja_lore               = 聞いたことのない呪文を唱え、あらぶる心をしずめてくれる。
-  | ko_lore               = 들어본 적 없는 주문을 외워 마음을 사악하게 물들인다.
-  | sc_lore               = 吟唱闻所未闻的咒文，安抚狂乱的心灵。
+  | text                  = ''Soothes the souls of others by chanting a mysterious spell.''
+  | fr_text               = ''Apaise les âmes en murmurant de mystérieuses incantations.''
+  | de_text               = ''Besänftigt die Seelen anderer indem sie einen mysteriösen Zauberspruch singt.''
+  | it_text               = ''Mistica creatura che calma le anime altrui con un incantesimo misterioso.''
+  | pt_text               = ''Aquieta as almas dos outros entoando uma mágica misteriosa.''
+  | es_text               = ''Calma las almas de los demás entonando un misterioso hechizo.''
+  | ja_text               = 聞いたことのない呪文を唱え、あらぶる心をしずめてくれる。
+  | ko_text               = 들어본 적 없는 주문을 외워 마음을 사악하게 물들인다.
+  | sc_text               = 吟唱闻所未闻的咒文，安抚狂乱的心灵。
   | en_sets               = 
   MRD-EN119; Metal Raiders; Common
   MRD-EN119; Metal Raiders (25th Anniversary Edition); Common
@@ -63,7 +63,7 @@ wikitext: |-
   MRD-119; Metal Raiders; Common
   | ygo_sets              = 
   '''[[Pack 10 (YGOO-BP)|Pack 10]]'''
-  | archseries = Recolored counterpart
+  | archseries            = Recolored counterpart
   | related_to_archseries = Doriado (series)
   | fm_for                = Musician King
   | database_id           = 4618

@@ -8,7 +8,7 @@ wikitext: |-
   | es_name             = 
   | ja_name             = ライゼオル・クロス
   | romaji_name         = Raizeoru Kurosu
-  | trans_name          = Raizeol Cross
+  | translated_name     = Raizeol Cross
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 雷热涡炉・交错
@@ -17,15 +17,15 @@ wikitext: |-
   | property            = Field
   | password            = 06798031
   | effect_types        = Continuous-like, Ignition-like, Condition, Continuous-like
-  | lore                = You cannot [[Xyz Summon]] [[monster]]s with the same name as a card you [[control]]. You can [[target]] 2 "[[Ryzeal]]" cards in your [[GY]], except "Ryzeal Cross"; place them on the bottom of the [[Main Deck|Deck]] in any order, then [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Ryzeal Cross" [[once per turn]]. Once per turn, when a [[monster effect]] activated by your opponent [[resolve]]s, you can [[detach]] 1 [[material]] from a "Ryzeal" [[Xyz Monster]] you control, and if you do, [[negate]] that effect.
-  | fr_lore             = 
-  | de_lore             = 
-  | it_lore             = 
-  | pt_lore             = 
-  | es_lore             = 
-  | ja_lore             = このカード名の②の効果は１ターンに１度しか使用できない。①：自分は同名カードが自分フィールドに存在しないモンスターしかＸ召喚できない。②：「ライゼオル・クロス」以外の自分の墓地の「ライゼオル」カード２枚を対象として発動できる。そのカードを好きな順番でデッキの下に戻す。その後、自分は１枚ドローする。③：１ターンに１度、相手が発動したモンスターの効果の処理時に、自分は自分フィールドの「ライゼオル」ＸモンスターのＸ素材を１つ取り除く事ができる。その場合、その効果は無効化される。
-  | ko_lore             = 
-  | sc_lore             = 此卡名的②效果１回合仅可使用１次。①：自己仅可超量召唤同名卡不存在于自己场上的怪兽。②：以“雷热涡炉・交错”以外的、自己墓地的２张“雷热涡炉”卡为对象可以发动。将该卡以喜欢的顺序放回牌组下面。然后，自己抽１张。③：１回合１次，对手发动的怪兽的效果处理时，自己可去除自己场上的“雷热涡炉”超量怪兽的１个超量素材。该情况下，该效果无效化。
+  | text                = You cannot [[Xyz Summon]] [[monster]]s with the same name as a card you [[control]]. You can [[target]] 2 "[[Ryzeal]]" cards in your [[GY]], except "Ryzeal Cross"; place them on the bottom of the [[Main Deck|Deck]] in any order, then [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Ryzeal Cross" [[once per turn]]. Once per turn, when a [[monster effect]] activated by your opponent [[resolve]]s, you can [[detach]] 1 [[material]] from a "Ryzeal" [[Xyz Monster]] you control, and if you do, [[negate]] that effect.
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：自分は同名カードが自分フィールドに存在しないモンスターしかＸ召喚できない。②：「ライゼオル・クロス」以外の自分の墓地の「ライゼオル」カード２枚を対象として発動できる。そのカードを好きな順番でデッキの下に戻す。その後、自分は１枚ドローする。③：１ターンに１度、相手が発動したモンスターの効果の処理時に、自分は自分フィールドの「ライゼオル」ＸモンスターのＸ素材を１つ取り除く事ができる。その場合、その効果は無効化される。
+  | ko_text             = 
+  | sc_text             = 此卡名的②效果１回合仅可使用１次。①：自己仅可超量召唤同名卡不存在于自己场上的怪兽。②：以“雷热涡炉・交错”以外的、自己墓地的２张“雷热涡炉”卡为对象可以发动。将该卡以喜欢的顺序放回牌组下面。然后，自己抽１张。③：１回合１次，对手发动的怪兽的效果处理时，自己可去除自己场上的“雷热涡炉”超量怪兽的１个超量素材。该情况下，该效果无效化。
   | en_sets             = 
   CRBR-EN009; Crossover Breakers; Super Rare, Collector's Rare
   | fr_sets             = 
@@ -42,7 +42,7 @@ wikitext: |-
   DBCB-JP009; Deck Build Pack: Crossover Breakers; Common, Normal Parallel Rare
   | kr_sets             = 
   DBCB-KR009; Deck Build Pack: Crossover Breakers; Common, Normal Parallel Rare
-  | sc_sets               = 
+  | sc_sets             = 
   DBCB-SC009; Deck Build Pack: Crossover Breakers; Super Rare, Collector's Rare
   | mentions            = Ryzeal Cross
   | supports            = Xyz Monster

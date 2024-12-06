@@ -16,16 +16,16 @@ wikitext: |-
   | property              = Normal
   | password              = 22123627
   | effect_types          = Effect
-  | lore                  = [[Shuffle]] 2 [[WATER]] [[Monster Card|monsters]] from your [[hand]] into the [[Main Deck|Deck]], then [[Draw a card|draw]] 3 cards.
-  | fr_lore               = Mélangez 2 monstres EAU depuis votre main dans le Deck, puis piochez 3 cartes.
-  | de_lore               = Mische 2 WASSER Monster von deiner Hand ins Deck, dann ziehe 3 Karten.
-  | it_lore               = Mischia 2 mostri ACQUA dalla tua mano nel Deck, poi pesca 3 carte.
-  | pt_lore               = Embaralhe 2 monstros de ÁGUA da sua mão no Deck e, depois, compre 3 cards.
-  | es_lore               = Baraja al Deck 2 monstruos de AGUA en tu mano, y después roba 3 cartas.
-  | ja_lore               = ①：手札から水属性モンスター２体をデッキに戻してシャッフルする。その後、自分は３枚ドローする。
-  | ko_lore               = ①: 패의 물 속성 몬스터 2장을 덱으로 되돌리고 셔플한다. 그 후, 자신은 덱에서 3장 드로우한다.
-  | sc_lore               = ①：从手牌将２只水属性怪兽放回牌组并洗牌。然后，自己从牌组抽３张。
-  | tc_lore               = 将手牌中的2只水属性怪兽返回至牌组并洗牌。之后，从牌组中抽取3张卡牌。
+  | text                  = [[Shuffle]] 2 [[WATER]] [[Monster Card|monsters]] from your [[hand]] into the [[Main Deck|Deck]], then [[Draw a card|draw]] 3 cards.
+  | fr_text               = Mélangez 2 monstres EAU depuis votre main dans le Deck, puis piochez 3 cartes.
+  | de_text               = Mische 2 WASSER Monster von deiner Hand ins Deck, dann ziehe 3 Karten.
+  | it_text               = Mischia 2 mostri ACQUA dalla tua mano nel Deck, poi pesca 3 carte.
+  | pt_text               = Embaralhe 2 monstros de ÁGUA da sua mão no Deck e, depois, compre 3 cards.
+  | es_text               = Baraja al Deck 2 monstruos de AGUA en tu mano, y después roba 3 cartas.
+  | ja_text               = ①：手札から水属性モンスター２体をデッキに戻してシャッフルする。その後、自分は３枚ドローする。
+  | ko_text               = ①: 패의 물 속성 몬스터 2장을 덱으로 되돌리고 셔플한다. 그 후, 자신은 덱에서 3장 드로우한다.
+  | sc_text               = ①：从手牌将２只水属性怪兽放回牌组并洗牌。然后，自己从牌组抽３张。
+  | tc_text               = 将手牌中的2只水属性怪兽返回至牌组并洗牌。之后，从牌组中抽取3张卡牌。
   | en_sets               = 
   SOVR-EN058; Stardust Overdrive; Short Print
   SDRE-EN029; Realm of the Sea Emperor Structure Deck; Common
@@ -73,7 +73,7 @@ wikitext: |-
   AE15-KR009; Advanced Event Pack 2020 Vol.1; Super Rare
   | tc_sets               = 
   SD23-TC029; Structure Deck: Roar of the Sea Emperor; Common
-  | sc_sets               =
+  | sc_sets               = 
   TBC1-SCS13; The Pot Collection; Ultra Parallel Rare
   | supports              = WATER
   | archseries            = Greed (series)

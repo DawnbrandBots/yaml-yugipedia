@@ -7,7 +7,7 @@ wikitext: |-
   | es_name               = Espiritualismo
   | ja_name               = ポルターガイスト
   | romaji_name           = Porutāgaisuto
-  | trans_name            = Poltergeist
+  | translated_name       = Poltergeist
   | ko_name               = 폴터 가이스트
   | ko_rr_name            = Polteo Gaiseuteu
   | image                 = Spiritualism-LCYW-EN-C-1E.png
@@ -15,14 +15,14 @@ wikitext: |-
   | property              = Normal
   | password              = 15866454
   | effect_types          = Effect, Condition
-  | lore                  = [[Return]] 1 [[Spell Card|Spell]]/[[Trap Card]] your opponent [[control]]s to the [[hand]]. This card's [[activation]] and [[effect]] cannot be [[negate]]d.
-  | fr_lore               = Renvoyez 1 Carte Magie/Piège contrôlée par votre adversaire à la main. L'activation et l'effet de cette carte ne peuvent pas être annulés.
-  | de_lore               = Gib 1 Zauber-/Fallenkarte, die dein Gegner kontrolliert, auf die Hand zurück. Aktivierung und Effekt dieser Karte können nicht annuliert werden.
-  | it_lore               = Fai ritornare nella mano 1 Carta Magia/Trappola controllata dal tuo avversario. L'attivazione e l'effetto di questa carta non possono essere annullati.
-  | es_lore               = Devuelve a la mano 1 Carta Mágica/de Trampa que controle tu adversario. La activación y el efecto de esta carta no pueden ser negados.
-  | ja_lore               = ①：相手フィールドの魔法・罠カード１枚を対象として発動できる。その相手のカードを持ち主の手札に戻す。このカードの発動と効果は無効化されない。
-  | trans_lore            = Target 1 Spell/Trap Card your opponent controls; return it to the hand. This card's activation and effect cannot be negated.
-  | ko_lore               = ①: 상대 필드의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 상대의 카드를 주인의 패로 되돌린다. 이 카드의 발동과 효과는 무효화되지 않는다.
+  | text                  = [[Return]] 1 [[Spell Card|Spell]]/[[Trap Card]] your opponent [[control]]s to the [[hand]]. This card's [[activation]] and [[effect]] cannot be [[negate]]d.
+  | fr_text               = Renvoyez 1 Carte Magie/Piège contrôlée par votre adversaire à la main. L'activation et l'effet de cette carte ne peuvent pas être annulés.
+  | de_text               = Gib 1 Zauber-/Fallenkarte, die dein Gegner kontrolliert, auf die Hand zurück. Aktivierung und Effekt dieser Karte können nicht annuliert werden.
+  | it_text               = Fai ritornare nella mano 1 Carta Magia/Trappola controllata dal tuo avversario. L'attivazione e l'effetto di questa carta non possono essere annullati.
+  | es_text               = Devuelve a la mano 1 Carta Mágica/de Trampa que controle tu adversario. La activación y el efecto de esta carta no pueden ser negados.
+  | ja_text               = ①：相手フィールドの魔法・罠カード１枚を対象として発動できる。その相手のカードを持ち主の手札に戻す。このカードの発動と効果は無効化されない。
+  | translated_text       = Target 1 Spell/Trap Card your opponent controls; return it to the hand. This card's activation and effect cannot be negated.
+  | ko_text               = ①: 상대 필드의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 상대의 카드를 주인의 패로 되돌린다. 이 카드의 발동과 효과는 무효화되지 않는다.
   | en_sets               = 
   LON-EN094; Labyrinth of Nightmare; Rare
   DB2-EN027; Dark Beginning 2; Rare
@@ -53,12 +53,13 @@ wikitext: |-
   BE2-JP027; Beginner's Edition 2; Rare
   BE02-JP025; Beginner's Edition 2 (2011); Rare
   SSD1-JP013; Speed Start Deck Link Edition; Common
+  | ae_sets               = 
+  LON-094; Labyrinth of Nightmare; Rare
+  SSD1-AE013; Speed Start Deck Link Edition; Common
   | kr_sets               = 
   LON-KR094; Labyrinth of Nightmare; Rare
   BP2-KR027; Beginner's Edition 2; Rare
   SSD1-KR013; Speed Start Deck Link Edition; Common
-  | ae_sets               = 
-  SSD1-AE013; Speed Start Deck Link Edition; Common
   | ntr_sets              = 
   '''[[Yu-Gi-Oh! Nightmare Troubadour: Visitor from Beyond|Visitor from Beyond]]'''
   | ygo_sets              = 
