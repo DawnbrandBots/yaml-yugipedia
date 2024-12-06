@@ -12,12 +12,18 @@ wikitext: |-
   | level           = 3
   | atk             = 1000
   | def             = 0
-  | requirement     = If the only [[monsters]] in your [[Graveyard]] are [[Dinosaur]] [[Type]] monsters, [[send]] 1 card from your [[field]] to the Graveyard.
-  | text            = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field.
+  | requirement     = If the only [[Monster Card|monster]]s in your [[Graveyard]] are [[Dinosaur]] [[Type]] monsters, [[send]] 1 card from your [[field]] to the Graveyard.
+  | text            = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/TB02-JP038; Triple Build Pack: Evolution Impact; Normal Parallel Rare
+  | supports        = Dinosaur
   | archseries      = Nouveau Riche Dinosaur
+  | action          = Sends from field to Graveyard for cost
+  | m/s/t           = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc            = Requires having only specific Type in Graveyard
   | database_id     = 
   }}
