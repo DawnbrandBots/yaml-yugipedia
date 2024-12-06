@@ -11,20 +11,20 @@ wikitext: |-
   | es_name               = Umi
   | ja_name               = {{Ruby|海|うみ}}
   | romaji_name           = Umi
-  | trans_name            = Sea
+  | translated_name       = Sea
   | image                 = Umi-SBC1-EN-C-1E.png
   | card_type             = Spell
   | property              = Field
   | password              = 22702055
   | effect_types          = Continuous-like
-  | lore                  = All [[Fish]], [[Sea Serpent]], [[Thunder]], and [[Aqua]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]], also all [[Machine]] and [[Pyro]] monsters on the field lose 200 ATK/DEF.
-  | fr_lore               = Tous les monstres Poisson, Serpent de Mer, Tonnerre ou Aqua sur le Terrain gagnent 200 ATK/DEF, et aussi, tous les monstres Machine et Pyro sur le Terrain perdent 200 ATK/DEF.
-  | de_lore               = Alle Fisch-, Seeschlange-, Donner- und Aqua-Monster auf dem Spielfeld erhalten 200 ATK/DEF, zusätzlich verlieren alle Maschine- und Pyro-Monster auf dem Spielfeld 200 ATK/DEF.
-  | it_lore               = Tutti i mostri Pesce, Serpente Marino, Tuono e Acqua sul Terreno guadagnano 200 ATK/DEF, inoltre tutti i mostri Macchina e Pyro sul Terreno perdono 200 ATK/DEF.
-  | pt_lore               = Todos os monstros Peixe, Serpente Marinha, Trovão e Aqua no campo ganham 200 de ATK/DEF e, além disso, todos os monstros Máquina e Piro no campo perdem 200 de ATK/DEF.
-  | es_lore               = Todos los monstruos Pez, Serpiente Marina, Trueno y Aqua en el Campo ganan 200 ATK/DEF, y además todos los monstruos Máquina y Piro en el Campo pierden 200 ATK/DEF.
-  | ja_lore               = フィールド上に表側表示で存在する魚族・海竜族・雷族・水族モンスターの攻撃力・守備力は２００ポイントアップする。フィールド上に表側表示で存在する機械族・炎族モンスターの攻撃力・守備力は２００ポイントダウンする。
-  | ko_lore               = 모든 어류족, 해룡족, 번개족, 물족의 공격력과 수비력은 200 포인트 올린다. 또한 모든 기계족, 화염족의 공격력과 수비력은 200 포인트 내린다.
+  | text                  = All [[Fish]], [[Sea Serpent]], [[Thunder]], and [[Aqua]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]], also all [[Machine]] and [[Pyro]] monsters on the field lose 200 ATK/DEF.
+  | fr_text               = Tous les monstres Poisson, Serpent de Mer, Tonnerre ou Aqua sur le Terrain gagnent 200 ATK/DEF, et aussi, tous les monstres Machine et Pyro sur le Terrain perdent 200 ATK/DEF.
+  | de_text               = Alle Fisch-, Seeschlange-, Donner- und Aqua-Monster auf dem Spielfeld erhalten 200 ATK/DEF, zusätzlich verlieren alle Maschine- und Pyro-Monster auf dem Spielfeld 200 ATK/DEF.
+  | it_text               = Tutti i mostri Pesce, Serpente Marino, Tuono e Acqua sul Terreno guadagnano 200 ATK/DEF, inoltre tutti i mostri Macchina e Pyro sul Terreno perdono 200 ATK/DEF.
+  | pt_text               = Todos os monstros Peixe, Serpente Marinha, Trovão e Aqua no campo ganham 200 de ATK/DEF e, além disso, todos os monstros Máquina e Piro no campo perdem 200 de ATK/DEF.
+  | es_text               = Todos los monstruos Pez, Serpiente Marina, Trueno y Aqua en el Campo ganan 200 ATK/DEF, y además todos los monstruos Máquina y Piro en el Campo pierden 200 ATK/DEF.
+  | ja_text               = フィールド上に表側表示で存在する魚族・海竜族・雷族・水族モンスターの攻撃力・守備力は２００ポイントアップする。フィールド上に表側表示で存在する機械族・炎族モンスターの攻撃力・守備力は２００ポイントダウンする。
+  | ko_text               = 모든 어류족, 해룡족, 번개족, 물족의 공격력과 수비력은 200 포인트 올린다. 또한 모든 기계족, 화염족의 공격력과 수비력은 200 포인트 내린다.
   | en_sets               = 
   DB1-EN112; Dark Beginning 1; Common
   LOB-EN050; Legend of Blue Eyes White Dragon; Common
@@ -92,7 +92,7 @@ wikitext: |-
   | anti-supports         = 
   * Machine
   * Pyro
-  | archseries            =
+  | archseries            = 
   * Umi (series)
   * Type Booster
   | related_to_archseries = 

@@ -9,21 +9,21 @@ wikitext: |-
   | es_name               = Yermo
   | ja_name               = {{Ruby|荒|こう}}{{Ruby|野|や}}
   | romaji_name           = Kōya
-  | trans_name            = Desert
+  | translated_name       = Desert
   | ko_name               = 황야
   | image                 = Wasteland-LOB-EN-C-UE-25thAnniversaryEdition.png
   | card_type             = Spell
   | property              = Field
   | password              = 23424603
   | effect_types          = Continuous-like
-  | lore                  = All [[Dinosaur]], [[Zombie]], and [[Rock]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
-  | fr_lore               = Tous les monstres Dinosaure, Zombie et Rocher sur le Terrain gagnent 200 ATK/DEF.
-  | de_lore               = Alle Dinosaurier-, Zombie- und Fels-Monster auf dem Spielfeld erhalten 200 ATK/DEF.
-  | it_lore               = Tutti i mostri Dinosauro, Zombie e Roccia sul Terreno guadagnano 200 ATK/DEF.
-  | pt_lore               = Todos os monstros Dinossauro, Zumbi e Rocha no campo ganham 200 de ATK/DEF.
-  | es_lore               = Todos los monstruos Dinosaurio, Zombi y Roca en el Campo ganan 200 ATK/DEF.
-  | ja_lore               = 全ての恐竜・アンデット・岩石族モンスターの攻撃力と守備力は、２００ポイントアップする。
-  | ko_lore               = 모든 공룡족,언데드족,암석족의 공격력과 수비력은 200 포인트 올린다.
+  | text                  = All [[Dinosaur]], [[Zombie]], and [[Rock]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
+  | fr_text               = Tous les monstres Dinosaure, Zombie et Rocher sur le Terrain gagnent 200 ATK/DEF.
+  | de_text               = Alle Dinosaurier-, Zombie- und Fels-Monster auf dem Spielfeld erhalten 200 ATK/DEF.
+  | it_text               = Tutti i mostri Dinosauro, Zombie e Roccia sul Terreno guadagnano 200 ATK/DEF.
+  | pt_text               = Todos os monstros Dinossauro, Zumbi e Rocha no campo ganham 200 de ATK/DEF.
+  | es_text               = Todos los monstruos Dinosaurio, Zombi y Roca en el Campo ganan 200 ATK/DEF.
+  | ja_text               = 全ての恐竜・アンデット・岩石族モンスターの攻撃力と守備力は、２００ポイントアップする。
+  | ko_text               = 모든 공룡족,언데드족,암석족의 공격력과 수비력은 200 포인트 올린다.
   | en_sets               = 
   LOB-EN047; Legend of Blue Eyes White Dragon; Common
   SBLS-EN036; Speed Duel: Arena of Lost Souls; Common
@@ -78,7 +78,7 @@ wikitext: |-
   | stat_change           = 
   * All monsters gain ATK
   * All monsters gain DEF
-  |archseries = Type Booster
+  | archseries            = Type Booster
   | tcg_speed_duel_status = Unlimited
   | database_id           = 4337
   }}

@@ -1,6 +1,5 @@
 title: Antidote Nurse
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name         = Infirmière Antidote
   | de_name         = Gegenmittel-Schwester
@@ -21,7 +20,7 @@ wikitext: |-
   | def             = 1200
   | password        = 31539614
   | effect_types    = Quick, Trigger
-  | text            = 2+ [[Level]] 3 [[monsters]]<br />([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card, then [[target]] 1 monster on the [[field]] whose current [[ATK]] and/or [[DEF]] is different from its original value; its ATK/DEF become its original ATK/DEF, then, if you targeted a monster you controlled at activation, it cannot be [[destroyed by battle]] or card [[effect]]s this [[turn]]. [[Once per turn]], if another monster(s) is [[Special Summon]]ed to your [[field]] and this card has 3 or more materials (except during the [[Damage Step]]): You can make that monster(s) gain 900 ATK.
+  | text            = 2+ [[Level]] 3 [[monsters]]<br />([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card, then [[target]] 1 monster on the [[field]] whose current [[ATK]] or [[DEF]] is different from its original value; its ATK/DEF become their original values, also if you targeted a monster on your field, it cannot be [[destroyed by battle]] or card [[effect]]s this [[turn]]. [[Once per turn]], if another monster(s) is [[Special Summon]]ed to your field and this card has 3 or more materials (except during the [[Damage Step]]): You can make that monster(s) gain 900 ATK.
   | fr_text         = 
   | de_text         = 
   | it_text         = 

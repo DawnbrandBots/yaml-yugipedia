@@ -18,15 +18,15 @@ wikitext: |-
   | atk                   = 1600
   | def                   = 1200
   | password              = 94119974
-  | lore                  = ''A powerful [[monster]] whose two heads [[attack]] as one.''
-  | fr_lore               = ''Monstre puissant dont les deux têtes attaquent simultanément.''
-  | de_lore               = ''Ein mächtiges Monster, dessen beide Köpfe gemeinsam angreifen.''
-  | it_lore               = ''Un potente mostro le cui due teste attaccano come fossero una.''
-  | pt_lore               = ''Um monstro poderoso cujas duas cabeças atacam como uma só.''
-  | es_lore               = ''Un monstruo poderoso cuyas dos cabezas atacan como una.''
-  | ja_lore               = {{Ruby|恐|きょう}}{{Ruby|竜|りゅう}}{{Ruby|族|ぞく}}の{{Ruby|中|なか}}では{{Ruby|強|きょう}}{{Ruby|力|りょく}}なカード。２つの{{Ruby|頭|あたま}}で{{Ruby|同|どう}}{{Ruby|時|じ}}{{Ruby|攻|こう}}{{Ruby|撃|げき}}。
-  | ko_lore               = 공룡족 중에서는 강력한 카드. 두 개의 머리로 동시 공격.
-  | sc_lore               = 恐龙族中属於强力的卡。以２个头同时攻击。
+  | text                  = ''A powerful [[monster]] whose two heads [[attack]] as one.''
+  | fr_text               = ''Monstre puissant dont les deux têtes attaquent simultanément.''
+  | de_text               = ''Ein mächtiges Monster, dessen beide Köpfe gemeinsam angreifen.''
+  | it_text               = ''Un potente mostro le cui due teste attaccano come fossero una.''
+  | pt_text               = ''Um monstro poderoso cujas duas cabeças atacam como uma só.''
+  | es_text               = ''Un monstruo poderoso cuyas dos cabezas atacan como una.''
+  | ja_text               = {{Ruby|恐|きょう}}{{Ruby|竜|りゅう}}{{Ruby|族|ぞく}}の{{Ruby|中|なか}}では{{Ruby|強|きょう}}{{Ruby|力|りょく}}なカード。２つの{{Ruby|頭|あたま}}で{{Ruby|同|どう}}{{Ruby|時|じ}}{{Ruby|攻|こう}}{{Ruby|撃|げき}}。
+  | ko_text               = 공룡족 중에서는 강력한 카드. 두 개의 머리로 동시 공격.
+  | sc_text               = 恐龙族中属於强力的卡。以２个头同时攻击。
   | en_sets               = 
   DB2-EN096; Dark Beginning 2; Common
   LCYW-EN158; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
@@ -95,7 +95,7 @@ wikitext: |-
   | fm_for                = 
   * Bracchio-raidus
   * Cyber Saurus
-  |archseries             = King Rex (series)
+  | archseries            = King Rex (series)
   | database_id           = 4038
   | tcg_speed_duel_status = Unlimited
   }}

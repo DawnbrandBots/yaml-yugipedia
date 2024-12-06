@@ -18,14 +18,14 @@ wikitext: |-
   | def                   = 1200
   | password              = 05438492
   | effect_types          = Trigger
-  | lore                  = When this card is [[destroyed by battle]] and [[sent]] to the [[GY]]: You can [[Special Summon]] 1 [[EARTH]] [[Warrior]] [[monster]] with 1500 or less [[ATK]] from your [[Main Deck|Deck]], in [[Attack Position]].
-  | fr_lore               = Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre TERRE Guerrier avec max. 1500 ATK depuis votre Deck en Position d'Attaque.
-  | de_lore               = Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 ERDE Krieger-Monster mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören.
-  | it_lore               = Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro TERRA Guerriero con ATK 1500 o inferiore dal tuo Deck, in Posizione di Attacco.
-  | pt_lore               = Quando este card for destruído em batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro Guerreiro de TERRA com 1500 ou menos de ATK do seu Deck, em Posição de Ataque.
-  | es_lore               = Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Guerrero de TIERRA con 1500 ATK o menos en Posición de Ataque.
-  | ja_lore               = ①：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の戦士族・地属性モンスター１体を攻撃表示で特殊召喚する。
-  | ko_lore               = 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 공격력 1500 이하의 전사족 / 땅 속성 몬스터 1장을 자신 필드 위에 앞면 공격 표시로 특수 소환할 수 있다.
+  | text                  = When this card is [[destroyed by battle]] and [[sent]] to the [[GY]]: You can [[Special Summon]] 1 [[EARTH]] [[Warrior]] [[monster]] with 1500 or less [[ATK]] from your [[Main Deck|Deck]], in [[Attack Position]].
+  | fr_text               = Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre TERRE Guerrier avec max. 1500 ATK depuis votre Deck en Position d'Attaque.
+  | de_text               = Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 ERDE Krieger-Monster mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören.
+  | it_text               = Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro TERRA Guerriero con ATK 1500 o inferiore dal tuo Deck, in Posizione di Attacco.
+  | pt_text               = Quando este card for destruído em batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro Guerreiro de TERRA com 1500 ou menos de ATK do seu Deck, em Posição de Ataque.
+  | es_text               = Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Guerrero de TIERRA con 1500 ATK o menos en Posición de Ataque.
+  | ja_text               = ①：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の戦士族・地属性モンスター１体を攻撃表示で特殊召喚する。
+  | ko_text               = 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 공격력 1500 이하의 전사족 / 땅 속성 몬스터 1장을 자신 필드 위에 앞면 공격 표시로 특수 소환할 수 있다.
   | en_sets               = 
   SD5-EN002; Structure Deck: Warrior's Triumph; Common
   YS11-EN020; Starter Deck: Dawn of the Xyz; Common
@@ -63,9 +63,9 @@ wikitext: |-
   | supports              = 
   * EARTH
   * Warrior
-  | archseries            =
+  | archseries            = 
   * Warrior Lady
-  | related_to_archseries =
+  | related_to_archseries = 
   * D.D.
   | action                = 
   * Activates if destroyed by battle
