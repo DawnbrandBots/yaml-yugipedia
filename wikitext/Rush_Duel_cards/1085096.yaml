@@ -3,23 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|天|てん}}{{Ruby|使|し}}のお{{Ruby|注|ちゅう}}{{Ruby|射|しゃ}}
-  | romaji_name    = Tenshi no Ochūsha
-  | trans_name     = Angel's Injection
-  | image          = FairysInjection-RDKP19-JP-C.png
-  | card_type      = Trap
-  | property       = Normal
-  | requirement    = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon]]s a [[Monster Card|monster]].
-  | lore           = [[Send]] 1 monster from your [[field]] to the [[Graveyard]]. Then, if you have an [[EARTH]] [[Attribute]] monster with 400 [[ATK]]/1500 [[DEF]] in your Graveyard, you can [[destroy]] 1 monster on your opponent's field.
-  | ja_requirement = 相手ターンに相手がドローした時、または相手がモンスターを召喚した時に発動できる。
-  | ja_lore        = 自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地にモンスター（地属性／攻撃力４００／守備力１５００）がいる場合、相手フィールドのモンスター１体を選んで破壊できる。
-  | jp_sets        = 
+  | ja_name         = {{Ruby|天|てん}}{{Ruby|使|し}}のお{{Ruby|注|ちゅう}}{{Ruby|射|しゃ}}
+  | romaji_name     = Tenshi no Ochūsha
+  | translated_name = Angel's Injection
+  | image           = FairysInjection-RDKP19-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon]]s a [[Monster Card|monster]].
+  | text            = [[Send]] 1 monster from your [[field]] to the [[Graveyard]]. Then, if you have an [[EARTH]] [[Attribute]] monster with 400 [[ATK]]/1500 [[DEF]] in your Graveyard, you can [[destroy]] 1 monster on your opponent's field.
+  | ja_requirement  = 相手ターンに相手がドローした時、または相手がモンスターを召喚した時に発動できる。
+  | ja_text         = 自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地にモンスター（地属性／攻撃力４００／守備力１５００）がいる場合、相手フィールドのモンスター１体を選んで破壊できる。
+  | jp_sets         = 
   RD/KP19-JP061; Salamandeus of Scorching; Common
-  | supports       = EARTH
-  | action         = 
+  | supports        = EARTH
+  | action          = 
   * Activates if your opponent draws a card
   * Activates upon Normal Summon
   * Sends from your field to your Graveyard
-  | m/s/t          = Destroys your opponent's Monster Cards
-  | database_id    = 21012
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | database_id     = 21012
   }}

@@ -15,14 +15,14 @@ wikitext: |-
   | property              = Field
   | password              = 87430998
   | effect_types          = Continuous-like
-  | lore                  = All [[Insect]], [[Beast]], [[Plant]], and [[Beast-Warrior]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
-  | fr_lore               = Tous les monstres Insecte/Bête/Plante/Bête-Guerrier sur le Terrain gagnent 200 ATK/DEF.
-  | de_lore               = Alle Insekt-, Ungeheuer-, Pflanze- und Ungeheuer-Krieger-Monster auf dem Spielfeld erhalten 200 ATK/DEF.
-  | it_lore               = Tutti i mostri Insetto, Bestia, Pianta e Guerriero-Bestia sul Terreno guadagnano 200 ATK/DEF.
-  | pt_lore               = Todos os monstros Inseto, Besta, Planta e Besta-Guerreira no campo ganham 200 de ATK/DEF.
-  | es_lore               = Todos los monstruos Insecto, Bestia, Planta y Guerrero-Bestia en el Campo ganan 200 ATK/DEF.
-  | ja_lore               = 全ての昆虫・植物・獣・獣戦士族モンスターの攻撃力と守備力は、２００ポイントアップする。
-  | ko_lore               = 모든 곤충족, 야수족, 식물족, 야수전사족의 공격력과 수비력은 200 포인트 올린다.
+  | text                  = All [[Insect]], [[Beast]], [[Plant]], and [[Beast-Warrior]] [[monster]]s on the [[field]] gain 200 [[ATK]]/[[DEF]].
+  | fr_text               = Tous les monstres Insecte/Bête/Plante/Bête-Guerrier sur le Terrain gagnent 200 ATK/DEF.
+  | de_text               = Alle Insekt-, Ungeheuer-, Pflanze- und Ungeheuer-Krieger-Monster auf dem Spielfeld erhalten 200 ATK/DEF.
+  | it_text               = Tutti i mostri Insetto, Bestia, Pianta e Guerriero-Bestia sul Terreno guadagnano 200 ATK/DEF.
+  | pt_text               = Todos os monstros Inseto, Besta, Planta e Besta-Guerreira no campo ganham 200 de ATK/DEF.
+  | es_text               = Todos los monstruos Insecto, Bestia, Planta y Guerrero-Bestia en el Campo ganan 200 ATK/DEF.
+  | ja_text               = 全ての昆虫・植物・獣・獣戦士族モンスターの攻撃力と守備力は、２００ポイントアップする。
+  | ko_text               = 모든 곤충족, 야수족, 식물족, 야수전사족의 공격력과 수비력은 200 포인트 올린다.
   | en_sets               = 
   LOB-EN046; Legend of Blue Eyes White Dragon; Common
   SS03-ENB17; Speed Duel Starter Decks: Ultimate Predators; Common
@@ -82,7 +82,7 @@ wikitext: |-
   | stat_change           = 
   * All monsters gain ATK
   * All monsters gain DEF
-  |archseries = Type Booster
+  | archseries            = Type Booster
   | database_id           = 4336
   | tcg_speed_duel_status = Unlimited
   }}

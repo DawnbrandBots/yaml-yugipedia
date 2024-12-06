@@ -3,29 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name                = {{Ruby|現|げん}}{{Ruby|世|せ}}の{{Ruby|戦|たたか}}い
-  | romaji_name            = Gense no Tatakai
-  | trans_name             = Battle for this World
-  | image                  = FateoftheWorld-RDLGP2-JP-SR.png
-  | card_type              = Trap
-  | property               = Normal
-  | summoning_condition    = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement            = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their turn, [[shuffle]] 1 Legend monster from your Graveyard into the [[Main Deck|Deck]].
-  | lore                   = This [[turn]], up to 3 [[face-up]] monsters on your [[field]] gain 1200 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
-  | ja_summoning_condition = 手札または墓地にあるこのカードはレジェンドカードになる。
-  | ja_requirement         = 相手ターンに相手がドローした時、または相手ターンに相手がモンスターを召喚・特殊召喚した時、自分の墓地のレジェンドモンスター１体をデッキに戻して発動できる。
-  | ja_lore                = 自分フィールドの表側表示モンスターを３体まで選ぶ。このターン、そのモンスターの攻撃力は１２００アップし、相手の効果では破壊されない。
-  | jp_sets                = 
+  | ja_name         = {{Ruby|現|げん}}{{Ruby|世|せ}}の{{Ruby|戦|たたか}}い
+  | romaji_name     = Gense no Tatakai
+  | translated_name = Battle for this World
+  | image           = FateoftheWorld-RDLGP2-JP-SR.png
+  | card_type       = Trap
+  | property        = Normal
+  | condition       = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
+  | requirement     = When your opponent [[Draw a card|draw]]s a card(s) during their [[turn]], or when your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their turn, [[shuffle]] 1 Legend monster from your Graveyard into the [[Main Deck|Deck]].
+  | text            = This [[turn]], up to 3 [[face-up]] monsters on your [[field]] gain 1200 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_condition    = 手札または墓地にあるこのカードはレジェンドカードになる。
+  | ja_requirement  = 相手ターンに相手がドローした時、または相手ターンに相手がモンスターを召喚・特殊召喚した時、自分の墓地のレジェンドモンスター１体をデッキに戻して発動できる。
+  | ja_text         = 自分フィールドの表側表示モンスターを３体まで選ぶ。このターン、そのモンスターの攻撃力は１２００アップし、相手の効果では破壊されない。
+  | jp_sets         = 
   RD/LGP2-JP054; Neo Legend Awakening Pack; Super Rare, Over Rush Rare
-  | archseries             = Legend (series)
-  | action                 = 
+  | archseries      = Legend (series)
+  | action          = 
   * Activates if your opponent draws a card
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Returns from Graveyard to Deck for cost
-  | stat_change            = 
+  | stat_change     = 
   * Treated as a Legend Card
   * Your monsters gain ATK
-  | m/s/t                  = Prevents other cards being destroyed by card effects
-  | database_id            = 20872
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | database_id     = 20872
   }}

@@ -12,17 +12,17 @@ wikitext: |-
   | character           = Tyranno Hassleberry
   | types               = Hassleberry / Skill
   | skill_activation    = At the start of the Duel, flip this card over.
-  | lore                = During each of your [[Draw Phase]]s, you gain 200 [[LP]]. During your Draw Phase, if you [[draw]] a [[Dinosaur]] [[Monster Card|monster]] for your [[normal draw]], you can [[reveal]] it and place it on the bottom of your [[Main Deck|Deck]], then draw 1 card. [[Once per turn]], during your [[Main Phase]], you can make 1 Dinosaur monster you [[control]] gain 200 ATK until the end of this [[turn]].
+  | text                = During each of your [[Draw Phase]]s, you gain 200 [[LP]]. During your Draw Phase, if you [[draw]] a [[Dinosaur]] [[Monster Card|monster]] for your [[normal draw]], you can [[reveal]] it and place it on the bottom of your [[Main Deck|Deck]], then draw 1 card. [[Once per turn]], during your [[Main Phase]], you can make 1 Dinosaur monster you [[control]] gain 200 ATK until the end of this [[turn]].
   | fr_skill_activation = Retournez cette carte au début du DUel.
-  | fr_lore             = Durant chacune de vos Draw Phases, vous gagnez 200 LP. Durant votre Draw Phase, si vous piochez un Monstre Dinosaure pour votre pioche normale, vous pouvez le révéler et le placer au-dessous de votre Deck, puis piochez 1 carte. Une fois par tour, durant votre Main Phase, vous pouvez faire gagner 200 ATK à 1 monstre Dinosaure que vous contrôlez jusqu'à la fin de ce tour.
+  | fr_text             = Durant chacune de vos Draw Phases, vous gagnez 200 LP. Durant votre Draw Phase, si vous piochez un Monstre Dinosaure pour votre pioche normale, vous pouvez le révéler et le placer au-dessous de votre Deck, puis piochez 1 carte. Une fois par tour, durant votre Main Phase, vous pouvez faire gagner 200 ATK à 1 monstre Dinosaure que vous contrôlez jusqu'à la fin de ce tour.
   | de_skill_activation = Am Beginn des Duells, drehe diese Karte um.
-  | de_lore             = Während jeder deiner Draw Phasen erhältst du 200 LP. Während deiner Draw Phase, falls du ein Dinosaurier-Monster als dein normales Ziehen ziehst, kannst du es vorzeigen und unter dein Deck legen, dann ziehe 1 Karte. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 Dinosaurier-Monster, das du kontrollierst, bis zum Ende dieses Spielzugs 200 ATK erhalten lassen.
+  | de_text             = Während jeder deiner Draw Phasen erhältst du 200 LP. Während deiner Draw Phase, falls du ein Dinosaurier-Monster als dein normales Ziehen ziehst, kannst du es vorzeigen und unter dein Deck legen, dann ziehe 1 Karte. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 Dinosaurier-Monster, das du kontrollierst, bis zum Ende dieses Spielzugs 200 ATK erhalten lassen.
   | it_skill_activation = 
-  | it_lore             = 
+  | it_text             = 
   | pt_skill_activation = 
-  | pt_lore             = 
+  | pt_text             = 
   | es_skill_activation = 
-  | es_lore             = 
+  | es_text             = 
   | en_sets             = 
   SGX1-ENS19; Speed Duel GX: Duel Academy Box; Common
   | fr_sets             = 
@@ -35,14 +35,14 @@ wikitext: |-
   SGX1-PTS19; Speed Duel GX: Duel Academy Box; Common
   | sp_sets             = 
   SGX1-SPS19; Speed Duel GX: Duel Academy Box; Common
-  | supports              = Dinosaur
-  | action                = 
+  | supports            = Dinosaur
+  | action              = 
   * Reveals your hand for effect
   * Places cards from the player's hand on the bottom of the Deck
   * You draw cards
-  | stat_change           = Your monsters gain ATK
-  | life_points           = You gain Life Points
-  | misc                  = 
+  | stat_change         = Your monsters gain ATK
+  | life_points         = You gain Life Points
+  | misc                = 
   * Limited activations
   * Requires control of specific Type
   }}

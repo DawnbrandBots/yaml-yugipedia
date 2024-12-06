@@ -3,29 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = {{Ruby|歯車街区|ギア・セクション}}
-  | base_romaji_name = Haguruma-gaiku
-  | base_trans_name  = Gear Town Block
-  | romaji_name      = Gia Sekushon
-  | image            = GearSection-RDLGP2-JP-SR.png
-  | card_type        = Spell
-  | property         = Field
-  | requirement      = None
-  | lore             = While this card is [[face-up]] in the [[Field Zone]], face-up [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s on the [[field]] gain 200 [[ATK]], and both [[Duelist|player]]s can [[Normal Summon]] EARTH Attribute Machine Type monsters whose ATK equals their own [[DEF]] for 1 less [[Tribute]].
-  | ja_requirement   = なし
-  | ja_lore          = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示モンスター（地属性／機械族）の攻撃力は２００アップし、お互いは攻撃力・守備力が同じ数値のモンスター（地属性／機械族）を召喚する場合に必要なリリースを１体少なくできる。
-  | jp_sets          = 
+  | ja_name              = {{Ruby|歯車街区|ギア・セクション}}
+  | base_romaji_name     = Haguruma-gaiku
+  | base_translated_name = Gear Town Block
+  | romaji_name          = Gia Sekushon
+  | image                = GearSection-RDLGP2-JP-SR.png
+  | card_type            = Spell
+  | property             = Field
+  | requirement          = None
+  | text                 = While this card is [[face-up]] in the [[Field Zone]], face-up [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s on the [[field]] gain 200 [[ATK]], and both [[Duelist|player]]s can [[Normal Summon]] EARTH Attribute Machine Type monsters whose ATK equals their own [[DEF]] for 1 less [[Tribute]].
+  | ja_requirement       = なし
+  | ja_text              = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示モンスター（地属性／機械族）の攻撃力は２００アップし、お互いは攻撃力・守備力が同じ数値のモンスター（地属性／機械族）を召喚する場合に必要なリリースを１体少なくできる。
+  | jp_sets              = 
   RD/LGP2-JP014; Neo Legend Awakening Pack; Super Rare, Over Rush Rare
-  | supports         = 
+  | supports             = 
   * EARTH
   * Machine
-  | archseries       = Ancient Gear (Rush Duel series)
-  | stat_change      = All monsters gain ATK
-  | summoning        = 
+  | archseries           = Ancient Gear (Rush Duel series)
+  | stat_change          = All monsters gain ATK
+  | summoning            = 
   * Normal Summon without Tribute
   * Normal Summon with 1 Tribute
-  | misc             = 
+  | misc                 = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id      = 20848
+  | database_id          = 20848
   }}
