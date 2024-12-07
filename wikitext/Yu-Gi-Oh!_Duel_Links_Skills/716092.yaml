@@ -1,10 +1,10 @@
 title: Offering to the Immortals (Skill)
 wikitext: |-
   {{Duel Links Skill
-  | ja_name               = 
-  | lore                  = From the beginning of your 4th [[turn]] onward, [[activate]] this [[Skill]] if you have a [[face-up]] [[Field Spell Card]].<br />Play 2 [[Ceremonial Token (Duel Links)|Ceremonial Token]]s. Then, instead of conducting a [[draw]], [[add]] 1 "[[Earthbound Immortal]] to your [[hand]].<br />This [[Skill]] can only be used once per [[Duel]].
-  | ja_lore               = 
-  | used_by_npcs          = 
+  | ja_name             = 
+  | text                = From the beginning of your 4th [[turn]] onward, [[activate]] this [[Skill]] if you have a [[face-up]] [[Field Spell Card]].<br />Play 2 [[Ceremonial Token (Duel Links)|Ceremonial Token]]s. Then, instead of conducting a [[draw]], [[add]] 1 "[[Earthbound Immortal]] to your [[hand]].<br />This [[Skill]] can only be used once per [[Duel]].
+  | ja_text             = 
+  | used_by_npcs        = 
   {{Duel Links Skill event table|Earthbound Immortal Cusillu (Duel Links)|Duelist Chronicles 5D's: Attack of the Dark Signers!}}
   {{Duel Links Skill event table|Earthbound Immortal Uru (Duel Links)|Duelist Chronicles 5D's: Attack of the Dark Signers!}}
   {{Duel Links Skill event table|Dark Signer Carly Carmine|Duelist Chronicles 5D's: Attack of the Dark Signers!}}
@@ -15,14 +15,14 @@ wikitext: |-
   {{Duel Links Skill event table|Dark Signer Kalin Kessler|Raid Duel - The Flames of Vengeance: Ccapac Apu!|version=2}}
   {{Duel Links Skill event table|Dark Signer Carly Carmine|Destiny Decided! Dark Signer Carly Carmine}}
   {{Duel Links Skill event table|Dark Signer Kalin Kessler|Raid Duel - The Flames of Vengeance: Ccapac Apu!}}
-  | supports              = 
+  | supports            = 
   * Field Spell Card
   * Ceremonial Token (Duel Links)
-  | supports_archetypes   = Earthbound Immortal
-  | action                = 
+  | supports_archetypes = Earthbound Immortal
+  | action              = 
   * Activates at the beginning of the turn
   * Plays Tokens
   * Replaces normal draw
   * Adds from Deck to hand
-  | misc                  = Only once per Duel
+  | misc                = Only once per Duel
   }}
