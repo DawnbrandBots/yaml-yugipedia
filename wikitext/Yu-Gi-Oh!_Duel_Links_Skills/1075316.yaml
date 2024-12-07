@@ -2,8 +2,8 @@ title: Construct Blisstopia
 wikitext: |-
   {{Duel Links Skill
   | ja_name               = 
-  | lore                  = This Skill can be used if all the monsters with 1200 or more ATK in your Deck are [[Wyrm]] Type.<br/>[REQUIREMENT] From turn 2 onward.<br/>[EFFECT] Choose from your field, 1 face-up [[Normal Monster]] (except a Level 4 monster) or 1 "[[Constructor Wyrm Buildragon]]". The chosen monster gains 300 ATK until the end of this turn. If that monster was "[[Constructor Princess Pylon]]", you can also shuffle 1 card from your hand into the Deck, and if you do, add 1 "[[Peaks of Blisstopia]]" from your Deck or Graveyard to your hand.
-  | ja_lore               = 
+  | text                  = This Skill can be used if all the monsters with 1200 or more ATK in your Deck are [[Wyrm]] Type.<br/>[REQUIREMENT] From turn 2 onward.<br/>[EFFECT] Choose from your field, 1 face-up [[Normal Monster]] (except a Level 4 monster) or 1 "[[Constructor Wyrm Buildragon]]". The chosen monster gains 300 ATK until the end of this turn. If that monster was "[[Constructor Princess Pylon]]", you can also shuffle 1 card from your hand into the Deck, and if you do, add 1 "[[Peaks of Blisstopia]]" from your Deck or Graveyard to your hand.
+  | ja_text               = 
   | releases              = 
   {{Duel Links Skill release table|type=duel_reward|Asana Mutsuba (Duel Links)}}
   | supports              = 
@@ -12,6 +12,6 @@ wikitext: |-
   * Peaks of Blisstopia (Duel Links)
   | related_to_archseries = Constructor
   | action                = 
-  | stat_change = Your monsters gain ATK
-  | misc = 
+  | stat_change           = Your monsters gain ATK
+  | misc                  = 
   }}
