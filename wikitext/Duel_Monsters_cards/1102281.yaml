@@ -35,7 +35,38 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   CQTB-JP002; Quarter Century Trinity Box; Super Rare, Secret Rare, Quarter Century Secret Rare
+  | supports            = 
+  * Dragon
+  * Fusion Monster
   | archseries          = Dragonmaid
   | supports_archetypes = Dragonmaid
+  | action              = 
+  * Activates upon Special Summon
+  * Returns from your field to your Deck
+  * Returns from your field to your Extra Deck
+  * Returns the player's banished cards to the Deck by effect
+  * Returns the player's banished cards to the Extra Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses the player's banished cards as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Special Summon-only
+  * Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your Deck
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished            = 
+  * Banishes Fusion Materials for Contact Fusion
+  * Banishes from field for Summon
+  * Banishes from Graveyard for Summon
+  | misc                = 
+  * Only once per turn
+  * Standby Phase Activation
   | database_id         = 
   }}
