@@ -14,12 +14,26 @@ wikitext: |-
   | effect_types   = Continuous
   | materials      = 2 [[Level]] 6 or lower [[Insect]] [[Type]] [[Effect Monster]]s
   | requirement    = None
-  | text           = [[Face-up]] Insect Type [[monsters]] on your [[field]] gains 800 [[ATK]]. During your opponent's [[turn]], [[Spell Card|Spell]]/[[Trap Card]]s on your field cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card [[effect]]s.
+  | text           = [[Face-up]] Insect Type [[Monster Card|monster]]s on your [[field]] gain 800 [[ATK]]. During your opponent's [[turn]], [[Spell Card|Spell]]/[[Trap Card]]s on your field cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card [[effect]]s.
   | ja_materials   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/TB02-JP054; Triple Build Pack: Evolution Impact; Super Rare
+  | supports       = 
+  * Insect
+  * Effect Monster
   | archseries     = Delirium
+  | action         = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | stat_change    = Your monsters gain ATK
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires nonspecific Effect Monsters as Fusion Materials
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}
