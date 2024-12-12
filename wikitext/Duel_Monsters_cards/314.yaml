@@ -9,15 +9,15 @@ wikitext: |-
   | es_name               = Virus Infecta-tribu
   | ja_name               = {{Ruby|同|どう}}{{Ruby|族|ぞく}}{{Ruby|感|かん}}{{Ruby|染|せん}}ウィルス
   | romaji_name           = Dōzoku Kansen Wirusu
-  | image                 = TribeInfectingVirus-SD4-EN-C-1E.jpg
+  | image                 = TribeInfectingVirus-SBC2-NA-C-1E.png
   | attribute             = WATER
   | types                 = Aqua / Effect
+  | level                 = 4
   | atk                   = 1600
   | def                   = 1000
-  | level                 = 4
   | password              = 33184167
   | effect_types          = Ignition
-  | text                  = [[Discard]] 1 card from your [[hand]] and [[declare]] 1 [[Type]] of [[monster]]. [[Destroy]] all [[face-up]] monsters of the declared Type on the [[field]].
+  | text                  = [[Discard]] 1 card, then [[declare]] 1 [[Type|Monster Type]]; [[destroy]] all monsters on the [[field]] with the declared Type.
   | fr_text               = Défaussez 1 carte de votre main et déclarez 1 Type de monstre. Détruisez tous les monstres face recto du Type déclaré sur le Terrain.
   | de_text               = Wirf 1 Karte aus deiner Hand ab und nenne 1 Monstertyp, um alle offenen Monster des genannten Typs auf dem Spielfeld zu zerstören.
   | it_text               = Scarta 1 carta dalla tua mano e dichiara 1 Tipo di mostro per distruggere tutti i mostri scoperti del Tipo dichiarato sul Terreno.
@@ -67,5 +67,5 @@ wikitext: |-
   * Declares a Type
   | m/s/t                 = Destroys face-up Monster Cards
   | database_id           = 5660
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

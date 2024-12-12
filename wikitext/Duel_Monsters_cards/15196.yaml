@@ -9,12 +9,12 @@ wikitext: |-
   | es_name               = Guardia del Cuidador de Tumbas
   | ja_name               = {{Ruby|墓|はか}}{{Ruby|守|もり}}の{{Ruby|番|ばん}}{{Ruby|兵|ぺい}}
   | romaji_name           = Hakamori no Banpei
-  | image                 = GravekeepersGuard-LCYW-EN-UR-1E.png
+  | image                 = GravekeepersGuard-SBC2-NA-C-1E.png
   | attribute             = DARK
-  | types                 = Spellcaster / Effect
+  | types                 = Spellcaster / Flip / Effect
+  | level                 = 4
   | atk                   = 1000
   | def                   = 1900
-  | level                 = 4
   | password              = 37101832
   | effect_types          = Flip
   | text                  = [[Flip effect|FLIP]]: [[Target]] 1 [[monster]] your opponent [[control]]s; [[return]] that target to the [[hand]].
@@ -66,5 +66,5 @@ wikitext: |-
   * Activates upon being flipped face-up
   * Returns from your opponent's field to your opponent's hand
   | database_id           = 5511
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

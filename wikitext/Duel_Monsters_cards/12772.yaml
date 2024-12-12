@@ -11,7 +11,7 @@ wikitext: |-
   | translated_name       = Penguin Nightmare
   | ko_name               = 펭귄나이트메어
   | tc_name               = 企鵝夢魘
-  | image                 = NightmarePenguin-SDRE-EN-C-1E.jpg
+  | image                 = NightmarePenguin-SBC2-NA-C-1E.png
   | attribute             = WATER
   | types                 = Aqua / Effect
   | level                 = 4
@@ -19,7 +19,7 @@ wikitext: |-
   | def                   = 1800
   | password              = 81306586
   | effect_types          = Continuous, Trigger
-  | text                  = All [[face-up]] [[WATER]] [[monster]]s you [[control]] gain 200 [[ATK]]. When this card is [[flip]]ped face-up: [[Target]] 1 card your opponent controls; [[return]] that target to the [[hand]].
+  | text                  = [[WATER]] [[monster]]s you [[control]] gain 200 [[ATK]]. If this card is [[flip]]ped face-up: [[Target]] 1 card your opponent controls; [[return]] that target to the [[hand]].
   | fr_text               = Tous les monstres EAU face recto que vous contrôlez gagnent 200 ATK. Lorsque cette carte est retournée face recto : ciblez 1 carte contrôlée par votre adversaire ; renvoyez la cible à la main.
   | de_text               = Alle offenen WASSER Monster, die du kontrollierst, erhalten 200 [[ATK]]. Wenn diese Karte [[Flip|aufgedeckt]] wird: Wähle 1 Karte, die dein Gegner kontrolliert; gib das gewählte Ziel auf die [[Hand]] zurück.
   | it_text               = Tutti i mostri ACQUA scoperti che controlli guadagnano 200 ATK. Quando questa carta viene scoperta: scegli come bersaglio 1 carta controllata dal tuo avversario; fai ritornare quel bersaglio nella mano.
@@ -81,5 +81,5 @@ wikitext: |-
   * Returns from your opponent's field to your opponent's hand
   | stat_change           = Your monsters gain ATK
   | database_id           = 5803
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

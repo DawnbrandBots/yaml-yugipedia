@@ -9,15 +9,15 @@ wikitext: |-
   | ja_name               = {{Ruby|Ｘ・Ｅ・Ｎ・Ｏ|ゼノ}}
   | romaji_name           = Zeno
   | translated_name       = Xeno
-  | image                 = JowlsofDarkDemise-DB2-EN-C-UE.png
+  | image                 = JowlsofDarkDemise-SBC2-NA-C-1E.png
   | attribute             = WATER
-  | types                 = Fiend / Effect
+  | types                 = Fiend / Flip / Effect
+  | level                 = 2
   | atk                   = 200
   | def                   = 100
-  | level                 = 2
-  | effect_types          = Flip
   | password              = 05257687
-  | text                  = [[Flip effect|FLIP]]: Take [[control]] of 1 [[monster]] on your opponent's side of the [[field]] until the end of the [[turn]] that this card's [[effect]] is [[activate]]d. When the controlled monster [[attack]]s, it can attack your opponent's [[Life Points]] [[Direct attack|directly]].
+  | effect_types          = Flip
+  | text                  = [[Flip effect|FLIP]]: [[Target]] 1 [[monster]] your opponent [[control]]s; gain control of it (until the [[End Phase]]), and if you do, it can [[attack]] your opponent directly this [[turn]].
   | fr_text               = FLIP : Prenez le contrôle d'1 monstre de votre adversaire jusqu'à la fin de ce tour. Lorsque le monstre contrôlé attaque, il peut attaquer directement les Life Points de votre adversaire.
   | de_text               = FLIPP: Übernimm die Kontrolle über 1 Monster auf der Spielfeldseite deines Gegners bis zum Ende des Spielzugs, in dem der Effekt dieser Karte aktiviert wurde. Wenn das kontrollierte Monster angreift, kann es die Life Points deines Gegners direkt angreifen.
   | it_text               = SCOPRI: Prendi il controllo di 1 Mostro sul Terreno del tuo avversario fino alla fine di questo turno. Quando il Mostro controllato in questo modo attacca, può attaccare direttamente i Life Points del tuo avversario.
@@ -57,5 +57,5 @@ wikitext: |-
   * Takes control of an opponent's monster
   | attack                = Allows direct attacks
   | database_id           = 5035
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

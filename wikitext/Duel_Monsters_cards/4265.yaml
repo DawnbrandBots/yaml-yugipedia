@@ -11,17 +11,17 @@ wikitext: |-
   | romaji_name           = Ha Desu no Tsukaima
   | translated_name       = Ha Death's Familiar
   | image                 = 
-  1;   WingedMinion-BE2-JP-C.jpg;    WingedMinion-MADU-JP-VG-artwork.png
-  1.1; WingedMinion-DB2-EN-C-UE.png; WingedMinion-MADU-EN-VG-artwork.png
+  1;   WingedMinion-BE2-JP-C.jpg;     WingedMinion-MADU-JP-VG-artwork.png
+  1.1; WingedMinion-SBC2-NA-C-1E.png; WingedMinion-MADU-EN-VG-artwork.png
   | current_image         = 1.1
   | attribute             = DARK
   | types                 = Fiend / Effect
+  | level                 = 2
   | atk                   = 700
   | def                   = 700
-  | level                 = 2
   | password              = 89258225
   | effect_types          = Ignition
-  | text                  = [[Tribute]] this [[face-up]] card. [[Select]] 1 face-up [[Fiend]]-[[Type]] [[monster]] on the [[field]]. Increase the [[ATK]] and [[DEF]] of the monster by 700 points as long as it remains face-up on the field.
+  | text                  = [[Tribute]] this card, then [[target]] 1 [[Fiend]] [[monster]] on the [[field]]; it gains 700 [[ATK]]/[[DEF]] while [[face-up]] in the [[Monster Zone]].
   | fr_text               = Sacrifiez cette carte face recto. Sélectionnez 1 monstre de Type Démon face recto sur le Terrain et augmentez son ATK et sa DEF de 700 points tant qu'il reste face recto sur le Terrain.
   | de_text               = Biete diese Karte offen als Tribut an. Wähle 1 offenes Monster vom Typ Unterweltler auf dem Spielfeld und erhöhe seine ATK und DEF um 700 Punkte, solange es offen auf dem Spielfeld liegt.
   | it_text               = Offri questa carta scoperta come Tributo. Scegli 1 Mostro di Tipo Demone scoperto sul Terreno e aumenta il suo ATK e DEF di 700 punti fino a quando resta scoperto sul Terreno.
@@ -60,5 +60,5 @@ wikitext: |-
   * Your opponent's monsters gain ATK
   * Your opponent's monsters gain DEF
   | database_id           = 5305
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}

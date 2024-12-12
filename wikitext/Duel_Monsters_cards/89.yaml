@@ -11,13 +11,13 @@ wikitext: |-
   | translated_name       = Double Trap
   | image                 = 
   1;   DoubleSnare-BE2-JP-C.jpg;    DoubleSnare-MADU-JP-VG-artwork.png
-  1.1; DoubleSnare-DB2-EN-C-UE.png; DoubleSnare-MADU-EN-VG-artwork.png
+  1.1; DoubleSnare-SBC2-NA-C-1E.png; DoubleSnare-MADU-EN-VG-artwork.png
   | current_image         = 1.1
   | property              = Normal
   | card_type             = Spell
   | password              = 03682106
   | effect_types          = Effect
-  | text                  = [[Destroy]] 1 [[face-up]] card on the [[field]] that has an [[effect]] that [[negate]]s [[Trap Card]]s' effects.
+  | text                  = [[Target]] 1 [[face-up]] card on the [[field]] that has an [[effect]] that [[negate]]s [[Trap]] [[effect]]s; [[destroy]] it.
   | fr_text               = Sélectionnez 1 carte face recto sur le Terrain dont l'effet annule les effets des Cartes Piège et détruisez-la.
   | de_text               = Zerstöre 1 offene Karte auf dem Spielfeld, deren Effekt die Effekte von Fallenkarten annulliert.
   | it_text               = Scegli 1 carta scoperta sul Terreno che ha l'effetto di annullare gli effetti delle Carte Trappola e distruggila.
@@ -57,5 +57,5 @@ wikitext: |-
   * Destroys face-up Spell Cards
   * Destroys face-up Trap Cards
   | database_id           = 5315
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}
