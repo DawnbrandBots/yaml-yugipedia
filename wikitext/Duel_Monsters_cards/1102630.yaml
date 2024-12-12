@@ -36,7 +36,31 @@ wikitext: |-
   | jp_sets             = 
   ALIN-JP049; Alliance Insight; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ALIN-JP049; Alliance Insight +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports            = 
+  * LIGHT
+  * DARK
+  * EARTH
+  * WATER
+  * FIRE
+  * WIND
   | archseries          = Dragon Ruler
   | supports_archetypes = Dragon Ruler
+  | action              = 
+  * Activates upon Xyz Summon
+  * Attaches from your Graveyard as Xyz Material
+  * Attaches your banished cards as Xyz Material
+  | stat_change         = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t               = 
+  * Gains effects if specific Xyz Material is attached
+  * Unaffected by other card effects
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires Xyz Monsters as Xyz Materials
+  | banished            = 
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}

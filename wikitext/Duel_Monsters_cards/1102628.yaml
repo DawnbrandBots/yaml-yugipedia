@@ -35,7 +35,25 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP048; Alliance Insight; 
+  | supports            = Dragon
   | archseries          = Dragon Ruler
   | supports_archetypes = Dragon Ruler
+  | action              = 
+  * Activates upon Xyz Summon
+  * Returns from your Graveyard to your Deck
+  * Returns the player's banished cards to the Deck
+  * Detaches multiple Xyz Materials as cost
+  | m/s/t               = 
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires Type specific Xyz Materials
+  * Special Summons from your Deck
+  * Special Summons the player's banished monsters
+  | banished            = Banishes negated activations
+  | misc                = 
+  * Mentions
+  * Only once per turn
   | database_id         = 
   }}
