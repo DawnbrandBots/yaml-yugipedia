@@ -12,7 +12,7 @@ wikitext: |-
   | translated_name       = Valkyrie Knight
   | ko_name               = 벌키리 나이트
   | ko_rr_name            = Beolkiri Naiteu
-  | image                 = ValkyrianKnight-LDK2-EN-C-1E.png
+  | image                 = ValkyrianKnight-SBC2-NA-C-1E.png
   | attribute             = FIRE
   | types                 = Warrior / Effect
   | level                 = 4
@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 1200
   | password              = 99348756
   | effect_types          = Continuous, Trigger
-  | text                  = [[Monster Card|Monsters]] your opponent [[control]]s cannot [[target]] [[face-up]] [[Warrior]]-[[Type]] monsters for [[attack]]s, except "Valkyrian Knight". When this card is [[destroyed by battle]] and [[sent]] to the [[Graveyard]]: You can [[banish]] 1 Warrior-Type monster and this card from your Graveyard, then target 1 [[Level]] 5 or higher Warrior-Type monster in your Graveyard; [[Special Summon]] that target.
+  | text                  = [[Monster Card|Monsters]] your opponent [[control]]s cannot [[target]] [[Warrior]] monsters for [[attack]]s, except "Valkyrian Knight". When this card is [[destroyed by battle]] and [[sent]] to the [[GY]]: You can [[banish]] this card and 1 Warrior monster from your GY, then target 1 [[Level]] 5 or higher Warrior monster in your GY; [[Special Summon]] that target.
   | fr_text               = Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres de Type Guerrier face recto ("Chevalier Valkyrie" exclu) avec une attaque. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez bannir 1 monstre de Type Guerrier et cette carte depuis votre Cimetière, puis ciblez 1 monstre de Type Guerrier de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.
   | de_text               = Monster, die dein Gegner kontrolliert, können keine offenen Monster vom Typ Krieger als Ziel für Angriffe wählen, außer „Valkyrischer Ritter“. Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 Monster vom Typ Krieger und diese Karte von deinem Friedhof verbannen und dann 1 Monster vom Typ Krieger der Stufe 5 oder höher in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.
   | it_text               = I mostri controllati dal tuo avversario non possono scegliere come bersaglio per gli attacchi i mostri di Tipo Guerriero scoperti, eccetto "Cavaliere Valchiriano". Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi bandire 1 mostro di Tipo Guerriero e questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro di Tipo Guerriero di Livello 5 o superiore nel tuo Cimitero; Evoca Specialmente quel bersaglio.
@@ -67,5 +67,5 @@ wikitext: |-
   * Banishes itself from Graveyard for cost
   * Banishes from Graveyard for cost
   | database_id           = 10398
-  | tcg_speed_duel_status = Not yet released
+  | tcg_speed_duel_status = Unlimited
   }}
