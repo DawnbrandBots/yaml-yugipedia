@@ -3,45 +3,62 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|Ｎｏ．|ナンバーズ}}６９ {{Ruby|紋章神|ゴッド・メダリオン}}コート・オブ・アームズ－ゴッド・シャーター
-  | romaji_name         = Nanbāzu Rokujūkyū Goddo Medarion Kōto Obu Āmuzu - Goddo Shātā
-  | translated_name     = Numbers 69: God Medallion Coat of Arms - God Shatter
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = Number69HeraldryCrestShatterStream-ALIN-JP-OP.png
-  | attribute           = LIGHT
-  | types               = Psychic / Xyz / Effect
-  | rank                = 4
-  | atk                 = 2800
-  | def                 = 1600
-  | password            = 
-  | materials           = 4 Level 4 monsters
-  | effect_types        = Summoning condition, Quick, Condition
-  | text                = 4 [[Level]] 4 monsters<br />You can also [[Xyz Summon]] this card by using 1 [[monster]] you [[control]] whose original name is "[[Number 69: Heraldry Crest]]" as [[material]]. ([[Transfer]] its materials to this card.) When a [[monster effect]] is activated on your opponent's [[field]], or an opponent's monster declares an [[attack]] ([[Quick Effect]]): You can [[Special Summon]] 1 "[[Number 69: Heraldry Crest - Dark Matter Demolition]]" from your [[Extra Deck]], by using this card you control as material (this is treated as an Xyz Summon. [[Transfer]] its materials to the Summoned monster), then [[destroy]] that opponent's monster. You can only use this effect of "Number 69: Heraldry Crest - Shatter Stream" once per turn.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|Ｎｏ．|ナンバーズ}}６９ {{Ruby|紋章神|ゴッド・メダリオン}}コート・オブ・アームズ－ゴッド・シャーター
+  | romaji_name          = Nanbāzu Rokujūkyū Goddo Medarion Kōto Obu Āmuzu - Goddo Shātā
+  | base_romaji_name     = Nanbā Rokujūkyū Monshōshin Kōto Obu Āmuzu - Goddo Shātā
+  | translated_name      = Numbers 69: God Medallion Coat of Arms - God Shatter
+  | base_translated_name = No.69: Heraldic God Coat of Arms - God Shatter
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = Number69HeraldryCrestShatterStream-ALIN-JP-OP.png
+  | attribute            = LIGHT
+  | types                = Psychic / Xyz / Effect
+  | rank                 = 4
+  | atk                  = 2800
+  | def                  = 1600
+  | password             = 
+  | materials            = 4 Level 4 monsters
+  | effect_types         = Summoning condition, Quick, Condition
+  | text                 = 4 [[Level]] 4 monsters<br />You can also [[Xyz Summon]] this card by using 1 [[monster]] you [[control]] whose original name is "[[Number 69: Heraldry Crest]]" as [[material]]. ([[Transfer]] its materials to this card.) When a [[monster effect]] is activated on your opponent's [[field]], or an opponent's monster declares an [[attack]] ([[Quick Effect]]): You can [[Special Summon]] 1 "[[Number 69: Heraldry Crest - Dark Matter Demolition]]" from your [[Extra Deck]], by using this card you control as material (this is treated as an Xyz Summon. [[Transfer]] its materials to the Summoned monster), then [[destroy]] that opponent's monster. You can only use this effect of "Number 69: Heraldry Crest - Shatter Stream" once per turn.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   ALIN-JP045; Alliance Insight; 
-  | archseries          = 
+  | mentions             = 
+  * Number 69: Heraldry Crest
+  * Number 69: Heraldry Crest - Dark Matter Demolition
+  | archseries           = 
   * Heraldry
   * Number
   * Number (Spell/Trap archetype)
   * Signature move
-  | mentions            = 
-  * Number 69: Heraldry Crest
-  * Number 69: Heraldry Crest - Dark Matter Demolition
-  | database_id         = 
+  | action               = 
+  * Transfers
+  * Activates upon attack declaration
+  | m/s/t                = 
+  * Destroys your opponent's Monster Cards
+  * Does not have effects which detach Xyz Materials for cost
+  | summoning            = 
+  * 4 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Xyz Evolution
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  * Performs Xyz Evolution
+  | misc                 = Only once per turn
+  | database_id          = 
   }}

@@ -10,7 +10,9 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|紋章の明滅|メダリオン・フラッシュ}}
   | romaji_name           = Medarion Furasshu
+  | base_romaji_name      = Monshō no Meimetsu
   | translated_name       = Medallion Flash
+  | base_translated_name  = Heraldic Flicker
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -20,7 +22,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect, Trigger-like, Condition
-  | text                  = [[Target]] any number of [[face-up]] [[monsters]] your opponent [[control]]s; their names become "Unknown". During your [[End Phase]], if this card is in your [[GY]] and you [[control]] a [[Psychic]] [[Xyz Monster]]: You can [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use this [[effect]] of "Heraldry Flash" once per turn.
+  | text                  = [[Target]] any number of [[face-up]] [[monsters]] your opponent [[control]]s; their names become "[[Unknown]]". During your [[End Phase]], if this card is in your [[GY]] and you [[control]] a [[Psychic]] [[Xyz Monster]]: You can [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use this [[effect]] of "Heraldry Flash" once per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -31,6 +33,10 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   ALIN-JP056; Alliance Insight; 
+  | mentions              = Unknown
+  | supports              = 
+  * Psychic
+  * Xyz Monster
   | archseries            = 
   * Heraldry
   * Signature move
@@ -38,6 +44,14 @@ wikitext: |-
   * Heraldic
   * Number
   * Number (Spell/Trap archetype)
-  | mentions              = Unknown
+  | action                = 
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | stat_change           = Changes card names
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}
