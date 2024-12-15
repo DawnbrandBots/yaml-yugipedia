@@ -1,17 +1,17 @@
 title: Armed Samurai - Ben Kei (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = ArmedSamuraiBenKei-DULI-EN-VG.png
-  | attribute             = DARK
-  | types                 = Warrior / Effect
-  | atk                   = 500
-  | def                   = 800
-  | level                 = 4
-  | rarity                = SR
-  | effect_types          = Continuous
-  | lore                  = For each [[Equip Card]] [[equip]]ped to this card, it gains 1 additional [[attack]] during each [[Battle Phase]].
-  | ja_lore               = 
-  | releases              = 
+  | image        = ArmedSamuraiBenKei-DULI-EN-VG.png
+  | attribute    = DARK
+  | types        = Warrior / Effect
+  | atk          = 500
+  | def          = 800
+  | level        = 4
+  | rarity       = SR
+  | effect_types = Continuous
+  | text         = For each [[Equip Card]] [[equip]]ped to this card, it gains 1 additional [[attack]] during each [[Battle Phase]].
+  | ja_text      = 
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=card_trader_ex|Duelist Kingdom (event)|version=2|100}}
   {{Duel Links release table|type=event|Duelist Kingdom (event)|version=2|Rainbow Treasure Box}}
@@ -24,6 +24,6 @@ wikitext: |-
   {{Duel Links release table|type=event|Leo and Luna's Duel Carnival|version=5|Gold Treasure Box}}
   {{Duel Links release table|type=event|Leo and Luna's Duel Carnival|version=5|Cumulative Reward|quantity=1}}
   {{Duel Links release table/footer}}
-  | supports              = Equip Card
-  | attack                = Multiple attacker
+  | supports     = Equip Card
+  | attack       = Multiple attacker
   }}

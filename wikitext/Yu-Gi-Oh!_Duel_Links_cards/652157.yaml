@@ -1,20 +1,20 @@
 title: Armored White Bear (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = ArmoredWhiteBear-DULI-EN-VG.png
-  | ja_image              = ArmoredWhiteBear-DULI-JP-VG.png
-  | attribute             = WATER
-  | types                 = Beast / Effect
-  | atk                   = 1800
-  | def                   = 1400
-  | level                 = 4
-  | rarity                = SR
-  | different_effect      = true
-  | number                = 3598
-  | effect_types          = Trigger
-  | lore                  = When this card is destroyed and [[sent]] to the [[Graveyard]]: You can [[Special Summon]] 1 [[Level]] 4 or lower [[LIGHT]] [[Beast]]-[[Type]] [[Monster Card|monster]] from your [[Deck]] or Graveyard.
-  | ja_lore               = このカードが破壊され墓地へ送られた時に発動できる。自分のデッキ・墓地からレベル４以下の獣族・光属性モンスター１体を選んで特殊召喚する。
-  | releases              = 
+  | image                     = ArmoredWhiteBear-DULI-EN-VG.png
+  | ja_image                  = ArmoredWhiteBear-DULI-JP-VG.png
+  | attribute                 = WATER
+  | types                     = Beast / Effect
+  | atk                       = 1800
+  | def                       = 1400
+  | level                     = 4
+  | rarity                    = SR
+  | different_effect          = true
+  | number                    = 3598
+  | effect_types              = Trigger
+  | text                      = When this card is destroyed and [[sent]] to the [[Graveyard]]: You can [[Special Summon]] 1 [[Level]] 4 or lower [[LIGHT]] [[Beast]]-[[Type]] [[Monster Card|monster]] from your [[Deck]] or Graveyard.
+  | ja_text                   = このカードが破壊され墓地へ送られた時に発動できる。自分のデッキ・墓地からレベル４以下の獣族・光属性モンスター１体を選んで特殊召喚する。
+  | releases                  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=6|foil=Prismatic|release_date=2020-11-11|removal_date=2020-11-22}}
   {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=1|foil=Glossy|release_date=2020-11-11|removal_date=2020-11-22}}
@@ -29,14 +29,14 @@ wikitext: |-
   {{Duel Links release table|type=event|Leo and Luna's Duel Carnival|Cumulative Reward|quantity=1}}
   {{Duel Links release table/footer}}
   | inherit_search_categories = false
-  | supports              = 
+  | supports                  = 
   * LIGHT
   * Beast
-  | action                = 
+  | action                    = 
   * Activates if destroyed by battle
   * Activates if destroyed by card effect
   * Activates from your Graveyard
-  | summoning             = 
+  | summoning                 = 
   * Special Summons from your Deck
   * Special Summons from your Graveyard
   }}
