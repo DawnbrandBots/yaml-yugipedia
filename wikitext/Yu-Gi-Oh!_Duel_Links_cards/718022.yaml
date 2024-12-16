@@ -1,15 +1,15 @@
 title: Divergence (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = Divergence-DULI-EN-VG.png
-  | card_type             = Trap
-  | property              = Continuous
-  | rarity                = R
-  | number                = 3699
-  | effect_types          = Trigger-like
-  | lore                  = [[Once per Chain]], when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] that [[target]]s your [[Machine]]-[[Type]] monster: You can target 1 other Machine-Type monster you [[control]]; change the [[attack target]] to that target.
-  | ja_lore               = 自分の機械族モンスターを攻撃対象とした相手モンスターの攻撃宣言時、自分フィールド上の他の機械族モンスター１体を選択してこの効果を発動できる。攻撃対象をその機械族モンスターに移し替える。
-  | releases              = 
+  | image        = Divergence-DULI-EN-VG.png
+  | card_type    = Trap
+  | property     = Continuous
+  | rarity       = R
+  | number       = 3699
+  | effect_types = Trigger-like
+  | text         = [[Once per Chain]], when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] that [[target]]s your [[Machine]]-[[Type]] monster: You can target 1 other Machine-Type monster you [[control]]; change the [[attack target]] to that target.
+  | ja_text      = 自分の機械族モンスターを攻撃対象とした相手モンスターの攻撃宣言時、自分フィールド上の他の機械族モンスター１体を選択してこの効果を発動できる。攻撃対象をその機械族モンスターに移し替える。
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=starter_deck|Aporia (Duel Links)|quantity=1}}
   {{Duel Links release table|type=duel_reward|Primo (Duel Links)}}
@@ -28,8 +28,8 @@ wikitext: |-
   {{Duel Links release table|type=event|Mysterious Turbo Duelist is here!|Event Mission|quantity=1}}
   {{Duel Links release table|type=event|Mysterious Turbo Duelist is here!|Duel Reward}}
   {{Duel Links release table/footer}}
-  | supports              = Machine
-  | action                = Activates upon attack declaration
-  | attack                = Changes attack targets
-  | misc                  = Once per Chain
+  | supports     = Machine
+  | action       = Activates upon attack declaration
+  | attack       = Changes attack targets
+  | misc         = Once per Chain
   }}

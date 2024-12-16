@@ -1,21 +1,21 @@
 title: Ice Mirror (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = IceMirror-DULI-EN-VG.png
-  | ja_image              = IceMirror-DULI-JP-VG.png
-  | card_type             = Spell
-  | property              = Normal
-  | rarity                = SR
-  | number                = 3630
-  | trader_gold           = 90000
-  | trader_jewels         = 9
-  | trader_stones         = 90
-  | trader_release        = June 28, 2020
-  | different_effect      = true
-  | effect_types          = Effect
-  | lore                  = [[Target]] 1 [[Level]] 3 or lower [[WATER]] [[Monster Card|monster]] you [[control]]; [[Special Summon]] 1 monster with the same name from your [[Main Deck|Deck]], but it cannot [[declare]] an [[attack]] this [[turn]].
-  | ja_lore               = 自分フィールド上のレベル３以下の水属性モンスター１体を選択して発動できる。選択したモンスターの同名モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターは、このターン攻撃宣言できない。
-  | releases              = 
+  | image                     = IceMirror-DULI-EN-VG.png
+  | ja_image                  = IceMirror-DULI-JP-VG.png
+  | card_type                 = Spell
+  | property                  = Normal
+  | rarity                    = SR
+  | number                    = 3630
+  | trader_gold               = 90000
+  | trader_jewels             = 9
+  | trader_stones             = 90
+  | trader_release            = June 28, 2020
+  | different_effect          = true
+  | effect_types              = Effect
+  | text                      = [[Target]] 1 [[Level]] 3 or lower [[WATER]] [[Monster Card|monster]] you [[control]]; [[Special Summon]] 1 monster with the same name from your [[Main Deck|Deck]], but it cannot [[declare]] an [[attack]] this [[turn]].
+  | ja_text                   = 自分フィールド上のレベル３以下の水属性モンスター１体を選択して発動できる。選択したモンスターの同名モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターは、このターン攻撃宣言できない。
+  | releases                  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=box|Special Pack Vol.03}}
   {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=6|foil=Prismatic|release_date=2020-11-11|removal_date=2020-11-22}}
@@ -28,10 +28,10 @@ wikitext: |-
   {{Duel Links release table|type=event|Duel Quest|version=11|First secret floor|quantity=1}}
   {{Duel Links release table/footer}}
   | inherit_search_categories = false
-  | supports              = WATER
-  | summoning             = Special Summons from your Deck
-  | attack                = Prevents your monsters from attacking
-  | misc                  = 
+  | supports                  = WATER
+  | summoning                 = Special Summons from your Deck
+  | attack                    = Prevents your monsters from attacking
+  | misc                      = 
   * Requires control of specific Level
   * Requires control of specific Attribute
   }}

@@ -1,15 +1,15 @@
 title: Destructive Draw (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = DestructiveDraw-DULI-EN-VG.png
-  | ja_image              = DestructiveDraw-DULI-JP-VG.png
-  | card_type             = Trap
-  | property              = Continuous
-  | rarity                = R
-  | effect_types          = Trigger-like, Maintenance cost, Continuous-like
-  | lore                  = If either player has no cards in their [[hand]] at the start of their [[Draw Phase]], they can draw 1 more card in addition to their [[normal draw]]. This card's [[controller]] loses 700 [[Life Points]] during their [[End Phase]]. (If less than 700, they become 0 instead.) When this [[face-up]] card is [[Leaves the field|removed from the field]], inflict 3000 [[Effect damage|damage]] to the player who controlled it.
-  | ja_lore               = お互いのプレイヤーはドローフェイズ開始時に手札が０枚だった場合、通常のドローに加えてもう１枚ドローできる。このカードのコントローラーは自分のターンのエンドフェイズ毎に７００ライフポイントを払う。この時にライフポイントが７００未満だった場合、ライフポイントは０になる。表側表示のこのカードがフィールド上から離れた時、自分は３０００ポイントダメージを受ける。
-  | releases              = 
+  | image        = DestructiveDraw-DULI-EN-VG.png
+  | ja_image     = DestructiveDraw-DULI-JP-VG.png
+  | card_type    = Trap
+  | property     = Continuous
+  | rarity       = R
+  | effect_types = Trigger-like, Maintenance cost, Continuous-like
+  | text         = If either player has no cards in their [[hand]] at the start of their [[Draw Phase]], they can draw 1 more card in addition to their [[normal draw]]. This card's [[controller]] loses 700 [[Life Points]] during their [[End Phase]]. (If less than 700, they become 0 instead.) When this [[face-up]] card is [[Leaves the field|removed from the field]], inflict 3000 [[Effect damage|damage]] to the player who controlled it.
+  | ja_text      = お互いのプレイヤーはドローフェイズ開始時に手札が０枚だった場合、通常のドローに加えてもう１枚ドローできる。このカードのコントローラーは自分のターンのエンドフェイズ毎に７００ライフポイントを払う。この時にライフポイントが７００未満だった場合、ライフポイントは０になる。表側表示のこのカードがフィールド上から離れた時、自分は３０００ポイントダメージを受ける。
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=box|Structure Deck: Sorcerer's Alliance}}
   {{Duel Links release table/footer}}

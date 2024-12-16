@@ -1,16 +1,16 @@
 title: High and Low (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = HighandLow-DULI-EN-VG.png
-  | ja_image              = HighandLow-DULI-JP-VG.png
-  | card_type             = Trap
-  | property              = Normal
-  | rarity                = SR
-  | number                = 3798
-  | effect_types          = Effect
-  | lore                  = When your [[face-up]] [[Monster Card|monster]] is [[target]]ed for an [[attack]]: Apply the following [[effect]] up to 3 times while you [[control]] that face-up [[attack target]].<br />●[[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]], and if it is a monster, the attack target gains [[ATK]] equal to the ATK of the monster you sent to the Graveyard, but if the attack target's ATK is higher than the attacking monster's ATK, [[destroy]] the attack target.
-  | ja_lore               = 自分フィールド上の表側表示モンスターが攻撃対象に選択された時に発動できる。その表側表示の攻撃対象モンスターが存在する限り、以下の効果を３回まで適用できる。●自分のデッキの一番上のカードを墓地へ送る。それがモンスターだった場合、ターン終了時まで攻撃対象モンスターの攻撃力を墓地へ送られたモンスターの攻撃力分アップし、攻撃対象モンスターの攻撃力が攻撃モンスターの攻撃力より高い場合、攻撃対象モンスターを破壊する。
-  | releases              = 
+  | image        = HighandLow-DULI-EN-VG.png
+  | ja_image     = HighandLow-DULI-JP-VG.png
+  | card_type    = Trap
+  | property     = Normal
+  | rarity       = SR
+  | number       = 3798
+  | effect_types = Effect
+  | text         = When your [[face-up]] [[Monster Card|monster]] is [[target]]ed for an [[attack]]: Apply the following [[effect]] up to 3 times while you [[control]] that face-up [[attack target]].<br />●[[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]], and if it is a monster, the attack target gains [[ATK]] equal to the ATK of the monster you sent to the Graveyard, but if the attack target's ATK is higher than the attacking monster's ATK, [[destroy]] the attack target.
+  | ja_text      = 自分フィールド上の表側表示モンスターが攻撃対象に選択された時に発動できる。その表側表示の攻撃対象モンスターが存在する限り、以下の効果を３回まで適用できる。●自分のデッキの一番上のカードを墓地へ送る。それがモンスターだった場合、ターン終了時まで攻撃対象モンスターの攻撃力を墓地へ送られたモンスターの攻撃力分アップし、攻撃対象モンスターの攻撃力が攻撃モンスターの攻撃力より高い場合、攻撃対象モンスターを破壊する。
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=6|foil=Prismatic|release_date=2020-11-11|removal_date=2020-11-22}}
   {{Duel Links release table|type=card_ticket|KC Cup Nov. 2020|quantity=1|foil=Glossy|release_date=2020-11-11|removal_date=2020-11-22}}
@@ -32,11 +32,11 @@ wikitext: |-
   {{Duel Links release table|type=lottery|Tag Duel Tournament VII}}
   {{Duel Links release table|type=event|Tag Duel Tournament VII|Completion Reward|quantity=1}}
   {{Duel Links release table/footer}}
-  | action                =
+  | action       = 
   * Activates upon attack declaration
   * Sends from the top of your Deck to your Graveyard
-  | stat_change           = 
+  | stat_change  = 
   * Your monsters gain ATK
-  | m/s/t                 =
+  | m/s/t        = 
   * Destroys your monsters
   }}

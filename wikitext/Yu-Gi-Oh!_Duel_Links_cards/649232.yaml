@@ -1,18 +1,18 @@
 title: Neos Wiseman (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = NeosWiseman-DULI-EN-VG.png
-  | ja_image              = NeosWiseman-DULI-JP-VG.png
-  | attribute             = LIGHT
-  | types                 = Spellcaster / Effect
-  | atk                   = 3000
-  | def                   = 3000
-  | level                 = 10
-  | rarity                = UR
-  | effect_types          = Summoning condition, Continuous, Trigger
-  | lore                  = Cannot be [[Normal Summon]]ed or [[Normal Set|Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[send]]ing 1 [[face-up]] "[[Elemental HERO Neos (Duel Links)|Elemental HERO Neos]]" and 1 face-up "[[Yubel (Duel Links)|Yubel]]" you [[control]] to the [[Graveyard]], and cannot be Special Summoned by other ways. This card cannot be [[destroy]]ed by [[card effect]]s. At the end of the [[Damage Step]], if this card [[battle]]d an opponent's [[Monster Card|monster]]: Inflict [[Effect damage|damage]] to your opponent equal to the [[ATK]] of the monster it battled, and you gain [[Life Points]] equal to that monster's [[DEF]].
-  | ja_lore               = このカードは通常召喚できない。自分フィールド上の表側表示の、「Ｅ・ＨＥＲＯ　ネオス」と「ユベル」を１体ずつ墓地へ送った場合のみ特殊召喚できる。このカードが戦闘を行った場合、ダメージステップ終了時に相手モンスターの攻撃力分のダメージを相手ライフに与え、そのモンスターの守備力分だけ自分のライフポイントを回復する。このカードはカードの効果では破壊されない。
-  | releases              = 
+  | image        = NeosWiseman-DULI-EN-VG.png
+  | ja_image     = NeosWiseman-DULI-JP-VG.png
+  | attribute    = LIGHT
+  | types        = Spellcaster / Effect
+  | atk          = 3000
+  | def          = 3000
+  | level        = 10
+  | rarity       = UR
+  | effect_types = Summoning condition, Continuous, Trigger
+  | text         = Cannot be [[Normal Summon]]ed or [[Normal Set|Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[send]]ing 1 [[face-up]] "[[Elemental HERO Neos (Duel Links)|Elemental HERO Neos]]" and 1 face-up "[[Yubel (Duel Links)|Yubel]]" you [[control]] to the [[Graveyard]], and cannot be Special Summoned by other ways. This card cannot be [[destroy]]ed by [[card effect]]s. At the end of the [[Damage Step]], if this card [[battle]]d an opponent's [[Monster Card|monster]]: Inflict [[Effect damage|damage]] to your opponent equal to the [[ATK]] of the monster it battled, and you gain [[Life Points]] equal to that monster's [[DEF]].
+  | ja_text      = このカードは通常召喚できない。自分フィールド上の表側表示の、「Ｅ・ＨＥＲＯ　ネオス」と「ユベル」を１体ずつ墓地へ送った場合のみ特殊召喚できる。このカードが戦闘を行った場合、ダメージステップ終了時に相手モンスターの攻撃力分のダメージを相手ライフに与え、そのモンスターの守備力分だけ自分のライフポイントを回復する。このカードはカードの効果では破壊されない。
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=duel_reward|Jaden/Yubel}}
   {{Duel Links release table|type=event|Rise of Yubel - Soul Polymerization|version=2|Duel Reward|release_date=2019-10-22}}
@@ -20,7 +20,7 @@ wikitext: |-
   {{Duel Links release table|type=event|Rise of Yubel - Soul Polymerization|Duel Reward|release_date=2019-07-31}}
   {{Duel Links release table|type=event|Rise of Yubel - Soul Polymerization|Completion Reward|quantity=1}}
   {{Duel Links release table/footer}}
-  | supports              = 
+  | supports     = 
   * Elemental HERO Neos (Duel Links)
   * Yubel (Duel Links card)
   }}
