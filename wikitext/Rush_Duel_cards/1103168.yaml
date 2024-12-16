@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[monster]], "[[Delirium Embrace]]", or "[[Delirium Rebirth]]" from among the cards sent.
+  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]], "[[Delirium Embrace]]", or "[[Delirium Rebirth]]" from among the cards sent.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +17,12 @@ wikitext: |-
   | mentions       = 
   * Delirium Embrace
   * Delirium Rebirth
+  | supports       = 
+  * LIGHT
+  * Insect
   | archseries     = Delirium
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id    = 
   }}
