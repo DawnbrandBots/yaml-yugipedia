@@ -1,15 +1,15 @@
 title: Sacred Defense Barrier (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image                 = SacredDefenseBarrier-DULI-EN-VG.png
-  | card_type             = Spell
-  | property              = Field
-  | rarity                = SR
-  | number                = 3768
-  | effect_types          = Trigger-like, Continuous-like
-  | lore                  = Each time a [[Rock]]-[[Type]] [[Monster Card|monster]] is [[Normal Summon|Normal]] or [[Flip Summon]]ed: Change it to [[Defense Position]], and if you do, place 1 [[Protection Counter]] on it. If a monster with a Protection Counter would be [[destroyed by battle]] or [[card effect]] while this card is on the [[field]], remove 1 Protection Counter from it instead.
-  | ja_lore               = 
-  | releases              = 
+  | image        = SacredDefenseBarrier-DULI-EN-VG.png
+  | card_type    = Spell
+  | property     = Field
+  | rarity       = SR
+  | number       = 3768
+  | effect_types = Trigger-like, Continuous-like
+  | text         = Each time a [[Rock]]-[[Type]] [[Monster Card|monster]] is [[Normal Summon|Normal]] or [[Flip Summon]]ed: Change it to [[Defense Position]], and if you do, place 1 [[Protection Counter]] on it. If a monster with a Protection Counter would be [[destroyed by battle]] or [[card effect]] while this card is on the [[field]], remove 1 Protection Counter from it instead.
+  | ja_text      = 
+  | releases     = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=card_trader_ex|For the Sake of Family: Trey Arrives!|version=2|100|quantity=1}}
   {{Duel Links release table|type=starter_deck|Trey (Duel Links)|quantity=1}}
@@ -33,18 +33,18 @@ wikitext: |-
   {{Duel Links release table|type=card_trader_ex|Tag Duel Tournament IX|100}}
   {{Duel Links release table|type=event|Tag Duel Tournament IX|Completion Reward|quantity=1}}
   {{Duel Links release table/footer}}
-  | supports              = Rock
-  | counter               = 
+  | supports     = Rock
+  | counter      = 
   * Protection Counter
   * Places counters
   * Removes counters
-  | action                = 
+  | action       = 
   * Activates upon Normal Summon
   * Activates upon Flip Summon
   * Changes battle positions
-  | m/s/t                 = 
+  | m/s/t        = 
   * Cannot be destroyed by card effects
   * Redirects destruction
-  | attack                = Cannot be destroyed by battle
-  | misc                  = Requires control of specific Type
+  | attack       = Cannot be destroyed by battle
+  | misc         = Requires control of specific Type
   }}
