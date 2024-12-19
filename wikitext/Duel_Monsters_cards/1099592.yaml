@@ -35,8 +35,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分・相手のスタンバイフェイズに、自分・相手のＰゾーンのカードを２枚まで対象として発動できる。そのカードのＰスケールをターン終了時まで０にする。
+  | ja_text               = このカード名の①②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「ＤＤ」Ｐモンスターカードが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚した場合に発動できる。このカードのレベルを４にする。③：このカードが墓地へ送られた場合、またはＥＸデッキに表側で加わった場合、自分フィールドの「ＤＤ」Ｐモンスターカード１枚を対象として発動できる。そのカードを手札に戻す。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -60,5 +60,5 @@ wikitext: |-
   * Only once per turn
   * Requires control of specific archetype
   * Requires control of specific Monster type
-  | database_id           = 
+  | database_id           = 21070
   }}
