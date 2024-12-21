@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = {{Ruby|真紅眼の雷竜|レッドアイズ・ジュピタードラゴン}}
-  | romaji_name    = 
+  | romaji_name    = Reddoaizu Jupitā Doragon
   | image          = RedEyesJupiterDragon-RDTB02-JP-OP.png
   | attribute      = DARK
   | types          = Dragon / Effect
@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1200
   | def            = 1200
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Red-Eyes Pluto Dragon]]" or "[[Red-Eyes Moon Dragon]]" to your [[hand]]. Place the remaining cards on the bottom of the Deck in any order.
+  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Red-Eyes Pluto Dragon]]" or 1 excavated "[[Red-Eyes Moon Dragon]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,11 @@ wikitext: |-
   * Red-Eyes Pluto Dragon
   * Red-Eyes Moon Dragon
   | archseries     = Red-Eyes (Rush Duel)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
   | database_id    = 
   }}

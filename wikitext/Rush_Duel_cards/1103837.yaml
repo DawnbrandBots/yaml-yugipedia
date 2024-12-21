@@ -3,23 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ギャラクティカ・ロスト・オブリビオン
-  | romaji_name     = Gyarakutika Rosuto Oburibion
-  | image           = GalacticaLostOblivion-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Galaxy / Fusion / Effect
-  | level           = 9
-  | atk             = 3300
-  | def             = 2500
-  | fusion_material = Galactica Oblivion
-  | materials       = "[[Galactica Oblivion]]" + 1 [[Level]] 7 or 8 [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]]
-  | requirement     = [[Shuffle]] 1 [[Normal Monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text            = [[Change]] all [[face-down]] monsters on your opponent's [[field]] to [[face-up]] [[Attack Position]], and this card gains 700 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] all face-up monsters on your opponent's field with 2500 or less [[original ATK]].
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = ギャラクティカ・ロスト・オブリビオン
+  | romaji_name           = Gyarakutika Rosuto Oburibion
+  | image                 = GalacticaLostOblivion-RDKP20-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Galaxy / Fusion / Effect
+  | level                 = 9
+  | atk                   = 3300
+  | def                   = 2500
+  | fusion_material       = Galactica Oblivion
+  | materials             = "[[Galactica Oblivion]]" + 1 [[Level]] 7 or 8 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]
+  | requirement           = [[Shuffle]] 1 [[Normal Monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text                  = [[Battle position change|Change]] all [[face-down]] monsters on your opponent's [[field]] to [[face-up]] [[Attack Position]], and this card gains 700 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] all face-up monsters on your opponent's field with 2500 or less [[Original ATK and DEF|original ATK]].
+  | ja_materials          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP20-JP042; Galactica of Eternity; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions        = Galactica Oblivion
-  | archseries      = Galactica
+  | mentions              = Galactica Oblivion
+  | supports              = 
+  * Galaxy (Type)
+  * Normal Monster
+  | archseries            = Galactica
+  | related_to_archseries = Dark Matter (series)
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
   }}

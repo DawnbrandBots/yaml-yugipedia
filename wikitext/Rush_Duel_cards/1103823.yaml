@@ -3,21 +3,33 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = カオス・クールスター
-  | romaji_name     = Kaosu Kūrusutā
-  | image           = ChaosCoolstars-RDKP20-JP-OP.png
-  | attribute       = DARK
-  | types           = Galaxy / Effect
-  | level           = 4
-  | atk             = 1200
-  | def             = 200
-  | requirement     = [[Send]] 1 [[LIGHT]] [[Attribute]] or [[DARK]] Attribute [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | text            = [[Draw a card|Draw]] 1 card. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of "[[Galactica Oblivion]]" or "[[Voidvelg Requiem]]" in [[Attack Position]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = カオス・クールスター
+  | romaji_name           = Kaosu Kūrusutā
+  | translated_name       = Chaos Coolstar
+  | image                 = ChaosCoolstars-RDKP20-JP-OP.png
+  | attribute             = DARK
+  | types                 = Galaxy / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 200
+  | requirement           = [[Send]] 1 [[LIGHT]] [[Attribute]] or [[DARK]] Attribute [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | text                  = [[Draw a card|Draw]] 1 card. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of "[[Galactica Oblivion]]" or "[[Voidvelg Requiem]]" in [[Attack Position]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP20-JP004; Galactica of Eternity; Common
-  | mentions        = 
+  | mentions              = 
   * Galactica Oblivion
   * Voidvelg Requiem
+  | supports              = 
+  * LIGHT
+  * DARK
+  * Galaxy (Type)
+  | related_to_archseries = 
+  * Galactica
+  * Voidvelg
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | summoning             = Treated as multiple Tributes
   }}

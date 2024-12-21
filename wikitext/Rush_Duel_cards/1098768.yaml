@@ -12,10 +12,15 @@ wikitext: |-
   | atk            = 2500
   | def            = 2500
   | requirement    = [[Shuffle]] 2 [[Normal Monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = This card cannot be [[destroy]]ed by card [[effect]]s until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this effect during your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, you can inflict [[Effect damage|damage]] to your opponent equal to [the number of [[monsters]] on your [[field]]] x 400.
+  | text           = This card cannot be [[destroy]]ed by card [[effect]]s until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this effect during your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of [[Monster Card|monster]]s on your [[field]]] x 400.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP20-JP008; Galactica of Eternity; Rare
+  | supports       = Normal Monster
   | archseries     = Galactica
+  | action         = Returns from Graveyard to Deck for cost
+  | m/s/t          = Cannot be destroyed by card effects
+  | life_points    = Damages your opponent
+  | misc           = Turn limited effects
   }}

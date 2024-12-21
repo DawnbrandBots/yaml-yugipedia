@@ -3,19 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ヴァリアブル・ステライザー
-  | romaji_name     = Variaburu Suteraizā
-  | image           = VariableStellarizer-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Galaxy / Effect
-  | level           = 7
-  | atk             = 2400
-  | def             = 0
-  | requirement     = [[Reveal]] 1 [[Level]] 9 [[Galaxy (Type)|Galaxy]] [[Type]] [[Fusion Monster]] in your [[Extra Deck]], and [[declare]] 1 card name listed as [[material]] on that monster
-  | text            = This [[turn]], if you use this [[face-up]] card as material for a [[Fusion Summon]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", its name becomes the name declared to meet the requirement.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ヴァリアブル・ステライザー
+  | romaji_name    = Variaburu Suteraizā
+  | image          = VariableStellarizer-RDKP20-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 0
+  | requirement    = [[Reveal]] 1 [[Level]] 9 [[Galaxy (Type)|Galaxy]] [[Type]] [[Fusion Monster]] in your [[Extra Deck]], and [[declare]] 1 card name listed as [[material]] on that [[Monster Card|monster]].
+  | text           = This [[turn]], if you use this [[face-up]] card as material for a [[Fusion Summon]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", its name becomes the name declared to meet the [[Activation condition|requirement]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP007; Galactica of Eternity; Super Rare, Secret Rare
+  | mentions       = Fusion (Rush Duel)
+  | supports       = 
+  * Galaxy (Type)
+  * Fusion Monster
+  | action         = 
+  * Reveals your Extra Deck for cost
+  * Declares a card name
+  | stat_change    = Treated as alternate name
   }}

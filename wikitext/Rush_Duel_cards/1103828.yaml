@@ -3,19 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ヴォルテクス・カオス・シューター
-  | romaji_name     = Vorutekusu Kaosu Shūtā
-  | image           = VortexChaosShooter-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Galaxy / Effect
-  | level           = 4
-  | atk             = 1400
-  | def             = 1000
-  | requirement     = Place 2 [[LIGHT]] [[Attribute]] and/or [[DARK]] Attribute [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
-  | text            = [[Add a card|Add]] 1 Galaxy Type [[Normal Monster]] with 1600 [[ATK]] and/or 1 "[[Galaxy Chaos Fusion]]" from your Graveyard to your [[hand]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ヴォルテクス・カオス・シューター
+  | romaji_name    = Vorutekusu Kaosu Shūtā
+  | image          = VortexChaosShooter-RDKP20-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Galaxy / Effect
+  | level          = 4
+  | atk            = 1400
+  | def            = 1000
+  | requirement    = Place 2 [[LIGHT]] [[Attribute]] and/or [[DARK]] Attribute [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]] in any order.
+  | text           = [[Add a card|Add]] 1 Galaxy Type [[Normal Monster]] with 1600 [[ATK]] and/or 1 "[[Galaxy Chaos Fusion]]" from your Graveyard to your [[hand]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP006; Galactica of Eternity; Common
-  | mentions        = Galaxy Chaos Fusion
+  | mentions       = Galaxy Chaos Fusion
+  | supports       = 
+  * LIGHT
+  * DARK
+  * Galaxy (Type)
+  * Normal Monster
+  | action         = 
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
   }}
