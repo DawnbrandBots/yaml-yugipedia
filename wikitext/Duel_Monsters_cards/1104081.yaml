@@ -20,8 +20,9 @@ wikitext: |-
   | atk                 = 2500
   | def                 = 3300
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Condition, Continuous
-  | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Draw a card|draw]] 1 card, or, if "[[The World of Spirits]]" is on the [[field]], [[Add a card|add]] 1 [[LIGHT]] [[Beast]], [[Plant]], or [[Fairy]] monster or 1 "[[Eternal Sunshine]]" from your [[Main Deck|Deck]] to your [[hand]] instead. You can only use this [[effect]] of "Ancient Fairy Life Dragon" [[once per turn]]. Your "Ancient Fairy Dragon" and monsters that mention it can [[attack]] while in [[face-up]] [[Defense Position]]. If they do, apply their [[DEF]] for [[damage calculation]].
+  | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Draw a card|draw]] 1 card, or, if "[[The World of Spirits]]" is on the [[field]], [[Add a card|add]] 1 [[LIGHT]] [[Beast]], [[Plant]], or [[Fairy]] monster or 1 "[[Eternal Sunshine]]" from your [[Main Deck|Deck]] to your [[hand]] instead. You can only use this [[effect]] of "Ancient Fairy Life Dragon" [[once per turn]]. Your "[[Ancient Fairy Dragon]]" and monsters that [[mention]] it can [[attack]] while in [[face-up]] [[Defense Position]]. If they do, apply their [[DEF]] for [[damage calculation]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,10 +34,30 @@ wikitext: |-
   | jp_sets             = 
   ALIN-JP039; Alliance Insight; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ALIN-JP039; Alliance Insight +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | related_to_archseries = Signer Dragon
   | mentions            = 
   * Ancient Fairy Dragon
   * Eternal Sunshine
   * The World of Spirits
+  | supports            = 
+  * LIGHT
+  * Beast
+  * Plant
+  * Fairy
+  | archseries          = Ancient Fairy Dragon (series)
+  | related_to_archseries = Signer Dragon
+  | action              = 
+  * Activates upon Synchro Summon
+  * You draw cards
+  * Adds from Deck to hand
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | attack              = 
+  * Defense Position attacker
+  * Applies DEF for damage calculation
+  | misc                = 
+  * Requires control of specific card
+  * Mentions
+  * Only once per turn
   | database_id         = 
   }}

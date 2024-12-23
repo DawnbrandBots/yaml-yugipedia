@@ -87,11 +87,11 @@ wikitext: |-
   ==Playing style==
   The "Therion" archetype revolves around Special Summoning high-[[Level]] monsters of various [[Type]]s from the hand by equipping them with monsters from the GY, and having "Therion" monsters gain other members' individual effects by equipping them to themselves. Secondarily, the archetype revolves around interactions specifying "[[Endless Engine Argyro System]]", who itself is an archetype-specific "[[Foolish Burial]]".
 
-  Each "Therion" monster, except "[[Therion Irregular]]", can be [[Special Summon]]ed from the [[hand]] by targeting a "Therion" monster or a monster with their respective Type in the [[Graveyard]], after which they immediately [[equip]] the targeted monster to themselves. "[[Therion Irregular]]" instead targets and equips up to 3 "Therion" monsters to Special Summon itself, and only targets "Therion" monsters.
+  Each "Therion" monster, except "[[Therion Irregular]]", shares the following effects:
+  * From hand, they can be Special Summoned by targeting a "Therion" monster, or a monster of their respective type, from the Graveyard, then [[equip]]ping the target.
+  * On field, they have some effect to provide removal negation, searching, or protection. These effects have some sort of cost (usually sending a card from hand/field to the GY) or other sort of negative effect.
+  * When equipped to a "Therion" monster, it grants the equipper 700 ATK, and allows the equipper to use the equipped monster's on-field effect. This specifies that the equipper "Therion" can activate the granted effect as if it had the name of the equipped "Therion", meaning that any hard [[once per turn]] restrictions are shared.
 
-  Each "Therion" monster, except "[[Therion Irregular]]", also feature an individual effect that provides removal, negation, searching, or protection. They also share a third continuous effect to grant its individual effect to a "Therion" monster it is equipped to, along with 700 ATK. This effect specifies that the equipper "Therion" can activate the granted effect as if it had the name of the equipped "Therion"; this specification means that the cards' [[only once per turn]] clauses are shared between the copied effects, and the player cannot "reuse" the effect by granting it to a different monster.
-
-  Each effect also requires a cost of sending a card from the player's hand or field to the GY, or an equivalent negative effect applied at resolution, presumably to balance out the inherent +1 advantage from Special Summoning a "Therion".
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
   ! Therion
   ! Type
@@ -129,7 +129,7 @@ wikitext: |-
   | Costs 1 card from hand.
   |}
 
-  "[[Therion Irregular]]" has a board wipe as its individual effect, and its equip effect is instead an activated effect to have it Special Summon itself, and equip to it the monster it was equipped to.
+  "[[Therion Irregular]]" can be Special Summoned from hand by equipping 3 "Therion" monsters. On field, it has a board wipe as its individual effect. When equipped, it can Special Summon itself and equip the monster it was equipped to. 
 
   "Therion" monsters are also supported by a series of [[Spell]]s and [[Trap Card]]s that allow setting up the GY for further plays. "[[Endless Engine Argyro System]]" can send 1 "Therion" monster from the [[Deck]] to the GY, immediately setting up the Summons of "Therion" monsters in the player's hand. In the GY, "Argyro System" can recycle another "Therion" card for reuse, but not in the same turn it's sent to the GY. "[[Therion Discolosseum]]" searches a "Therion" on activation and provides battle protection (that also indirectly searches "Therion" monsters by milling them to GY as battle protection) and battle-based recovery. "[[Therion Charge]]" is an archetypal "[[Trade-In]]" that cycles cards and sets up the GY.
 
