@@ -33,6 +33,7 @@ wikitext: |-
   | jp_sets             = 
   ALIN-JP027; Alliance Insight; 
   | mentions            = Cyber Dragon
+  | supports            = Machine
   | archseries          = 
   * Cyber
   * Cyberdark
@@ -40,5 +41,19 @@ wikitext: |-
   * Cyber
   * Cybernetic
   * Cyber Dragon (archetype)
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Adds from Graveyard to hand
+  | summoning           = Special Summons itself from your Graveyard
+  | stat_change         = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific archetype
+  * Only once per Duel
   | database_id         = 
   }}

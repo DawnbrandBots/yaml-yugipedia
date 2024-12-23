@@ -33,8 +33,20 @@ wikitext: |-
   | archseries          = 
   * Eldlixir
   * Golden Land
+  * Trap Monster
   | supports_archetypes = 
   * Eldlixir
   * Golden Land
+  | action              = 
+  * Returns from field to hand
+  * Sets the player's banished cards
+  | stat_change         = Treated as a Normal Monster
+  | m/s/t               = Treats Trap Cards as monsters
+  | summoning           = Special Summons itself from your Spell & Trap Zone
+  | life_points         = Pays Life Points for cost
+  | misc                = 
+  * Variable effects
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 
   }}

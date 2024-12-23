@@ -19,6 +19,7 @@ wikitext: |-
   | link_arrows         = Middle-Right
   | atk                 = 100
   | password            = 
+  | materials           = 1 "Ki-sikil" monster
   | effect_types        = Condition, Ignition, Condition
   | text                = 1 "[[Ki-sikil]]" [[monster]]<br />You can only [[Link Summon]] "Evil★Twin Ki-sikil Deal" [[once per turn]]. You can [[send]] 1 "[[Lil-la]]" monster from your [[Main Deck|Deck]] or [[Extra Deck]] to the [[GY]]; apply this effect for the rest of this [[turn]].<br />● Each time your opponent [[activate]]s a card or [[effect]] in response to the activation of your "Ki-sikil" or "Lil-la" monster's effect, [[Draw a card|draw]] 1 card immediately after it [[resolve]]s.<br />You can only use this effect of "Evil★Twin Ki-sikil Deal" once per turn.
   | fr_text             = 
@@ -31,11 +32,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP052; Alliance Insight; 
+  | mentions            = Evil★Twin Ki-sikil Deal
   | archseries          = 
   * Evil★Twin
   * Ki-sikil
-  | supports_archetypes   = 
+  | supports_archetypes = 
   * Ki-sikil
   * Lil-la
+  | action              = 
+  * Sends from Deck to Graveyard for cost
+  * Sends from Extra Deck to Graveyard for cost
+  * You draw cards
+  | summoning           = 
+  * 1 Link Material
+  * Requires archetype specific Link Materials
+  * Link Summon once per turn
+  | misc                = Only once per turn
   | database_id         = 
   }}

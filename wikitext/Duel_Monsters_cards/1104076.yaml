@@ -20,6 +20,8 @@ wikitext: |-
   | atk                 = 1800
   | def                 = 2500
   | password            = 
+  | fusion_material     = Eldlich the Golden Lord
+  | materials           = "Eldlich the Golden Lord" + 1 Zombie-Type monster
   | effect_types        = Summoning condition, Condition, Trigger, Condition
   | text                = "[[Eldlich the Golden Lord]]" + 1 [[Zombie]] [[monster]]<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by Tributing 1 [[LIGHT]] Zombie monster while you have "Eldlich the Golden Lord" on your [[field]] or in your [[GY]]. You can only Special Summon "Angelcaido of the Golden Land" [[once per turn]] this way. If this card is [[sent]] from the field to the GY: You can Special Summon 1 "[[Eldlich]]" monster from your [[Main Deck|Deck]], Extra Deck, or GY. You can only use this effect of "Angelcaido of the Golden Land" once per turn.
   | fr_text             = 
@@ -33,7 +35,29 @@ wikitext: |-
   | jp_sets             = 
   ALIN-JP036; Alliance Insight; 
   | mentions            = Eldlich the Golden Lord
+  | supports            = 
+  * Zombie
+  * LIGHT
   | archseries          = Golden Land
   | supports_archetypes = Eldlich
+  | action              = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Activates if sent to the Graveyard
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Nomi
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 
   }}
