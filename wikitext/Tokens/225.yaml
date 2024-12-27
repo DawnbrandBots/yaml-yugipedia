@@ -6,38 +6,34 @@ wikitext: |-
 
   In the ''[[Yu-Gi-Oh! Trading Card Game|TCG]]'' and ''[[Yu-Gi-Oh! Official Card Game|OCG]]'', Tokens are officially grey-colored cards, but they can be represented by any object that can unambiguously indicate its own battle position. These can include proxy cards, coins (in which case heads is treated as [[Attack Position]] and tails as [[Defense Position]]), or [[dice]].
 
-  == Characteristics ==
+  == Mechanics ==
   Monster Tokens are always [[Normal Monster]]s, and never have effects. Some Tokens have effects applied to them by the cards that Summon them, but these are not the effects of the Tokens themselves, so they cannot be negated by cards like "[[Skill Drain]]". Many video games include the restrictions from the effect or Skill that created it in the Token's [[card text]], but it is still not considered to be an effect of the Token itself, only a reminder text.
 
   The [[owner]] of a Token is the player who [[Special Summon]]ed it. For example, "[[Owner's Seal]]" will change control of "[[Ojama Token]]s" Special Summoned by the effect of "[[Ojama Trio]]" to the player who activated "Ojama Trio".
 
   === Summoning Tokens ===
-  Tokens can only be [[Special Summon]]ed by card effects, or [[Skill Card]]s, that specifically [[mention]] their names. As such, Tokens that became treated as Spell/Trap Cards by a card effect (e.g. "[[Sinful Spoils of Subversion - Snake-Eye]]") cannot be Special Summoned back from the [[Spell & Trap Zone]].
+  Tokens can only be [[Special Summon]]ed from outside of the game. Tokens treated as Spell/Trap Cards (e.g. due to "[[Sinful Spoils of Subversion - Snake-Eye]]") cannot be Special Summoned from the [[Spell & Trap Zone]].
 
-  As Tokens cannot be Normal Summoned or Set (since they can't be in the hand), they are considered [[Special Summon Monster]]s.
+  Since Tokens cannot be Normal Summoned or Set, they are considered [[Special Summon Monster]]s.
 
   === Can only exist on the field ===
-  Tokens can only exist on the [[field]], and not anywhere else. They cannot be [[Xyz Material]], because materials [[attach]]ed to an [[Xyz Monster]] are not considered to be on the field; consequently, they cannot be used as Xyz Material for an [[Xyz Summon]] or be [[target]]ed or affected by effects that would attach them to an Xyz Monster (e.g. "[[Number 101: Silent Honor ARK]]").
+  Tokens can only exist on the [[field]], and not anywhere else. 
+
+  If a Token [[leaves the field]] (i.e. it would be moved to the [[hand]], [[Main Deck]], or [[Graveyard]], or is [[banish]]ed), it ceases to exist and is removed from the game. They are not considered to have been moved to any other location. If a Token is banished by an effect that [[Banish#Temporarily banished|temporarily banish]]es cards, it will not return to the field later as it no longer exists.
+
+  Tokens cannot be [[Xyz Material]], because because Xyz Materials [[attach]]ed to an [[Xyz Monster]] are not considered to be on the field. Consequently, they cannot be used as Xyz Material for an [[Xyz Summon]], nor attached to an Xyz Monster by a card effect (e.g. due to the effect of "[[Number 101: Silent Honor ARK]]").
+
+  Tokens can be used to pay [[cost]]s or fulfill Summoning procedures even if they cause them to leave the field, as long as the cost or procedure does not specify a destination outside the [[field]]. Tokens can be [[Tribute]]d or [[banish]]ed to pay costs or fulfill Summoning procedures (such as for the Summoning procedure of "[[Destiny HERO - Plasma]]" or "[[Unibird]]"), as these requirements do not specify a destination; however, they cannot be sent to the Graveyard to pay costs or fulfill Summoning procedures (such as for the Summoning procedure of "[[Arcana Force EX - The Dark Ruler]]")
 
   === Can only exist face-up ===
-  Tokens can only exist [[face-up]], and not [[face-down]]. Thus, they cannot be [[target]]ed, and are unaffected, by effects that would [[flip]] them face-down. Even if an [[Attack Position]] Token would be affected by a non-targeting card that would change it to face-down [[Defense Position]], such as "[[Swords of Concealing Light]]", its [[battle position]] is not changed.
+  Tokens can only exist [[face-up]]. Thus, they cannot be [[flip]]ped [[face-down]], and cannot be targeted by effects that would attempt to do so. Even if an [[Attack Position]] Token would be affected by a card that would change it to face-down [[Defense Position]] (such as "[[Swords of Concealing Light]]"), it remains in Attack Position.
 
-  Tokens cannot be banished face-down, and are unaffected by card effects that would do so (e.g. "[[Evenly Matched]]").
-
-  === Leaving the field ===
-  If a Token would [[leave the field]] (i.e. it would be moved to the [[hand]], [[Main Deck]], or [[Graveyard]], or is [[banish]]ed), it ceases to exist and is removed from the game. They are not considered to have been moved to any other location. This also applies to Tokens that are [[Banish#Temporarily banished|temporarily banish]]ed, and as such will not return to the field at the time specified by the effect.
-
-  Tokens can be moved off the field to pay [[cost]]s or fulfill Summoning procedures, as long as the cost or procedure does not specify a destination outside the [[field]]. Banishing does not specify a destination, so a Token can be banished (as long as its not face-down, as mentioned above) for a cost or Summoning procedure.
-
-  Specific examples:
-  * Tokens can be [[Tribute]]d for the Special Summon of "[[Destiny HERO - Plasma]]".
-  * Tokens cannot be [[sent]] to the Graveyard for the Special Summon of "[[Arcana Force EX - The Dark Ruler]]".
-  * Tokens can be banished for the effect cost of "[[Unibird]]".
+  Tokens cannot be banished face-down. If an effect would attempt to banish Tokens face-down (e.g. "[[Evenly Matched]]"), the Tokens are not banished at all and remain on the field.
 
   == Token card ==
   Token cards are officially produced ''[[TCG]]''/''[[OCG]]'' collectible cards that can be used to represent Tokens. They usually feature the general [[card layout]] of ''TCG''/''OCG'' game cards, and are colored in gray. If using Token cards, they are not to be included in the [[Main Deck|Main]] or [[Extra Deck]], as stated by the [[limitation text]] written on them.
 
-  Token cards may or may not have an [[artwork]] that corresponds to an actual Monster Token mentioned in a card effect; there are Monster Tokens that don't have corresponding cards, and there are also Token cards that don't have corresponding Monster Tokens.
+  Token cards may or may not have an [[artwork]] that corresponds to an actual Monster Token mentioned in a card effect; there are Monster Tokens that don't have corresponding cards, and there are also Token cards that do not have corresponding Monster Tokens.
 
   Most ''OCG'' cards from 2013 onwards that correspond to specific Monster Tokens have that Token's name and stats printed as their own name and stats (see [[Card layout#Series 8 layout|Card layout §&nbsp;Series 8 layout]]); the ''[[Yu-Gi-Oh! Trading Card Game|TCG]]'' started following this trend later in 2016.
 
