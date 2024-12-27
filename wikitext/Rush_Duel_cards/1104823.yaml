@@ -16,7 +16,7 @@ wikitext: |-
   * Dice Key Mix
   | materials       = "[[Dicemite Girl Laps]]" + "[[Dice Key Mix]]"
   | requirement     = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Roll a six-sided die twice. Apply the appropriate [[effect]] based on the total result. ● 7 or 11: [[Destroy]] all monsters on your opponent's [[field]]. Then, this card gains 2000 [[ATK]] until the end of this [[turn]]. ● Other: This card gains ATK equal to [the total result] x 100 until the end of your opponent's next turn.
+  | text            = Roll a six-sided die twice. Apply the appropriate [[effect]] based on the total result. ●7 or 11: [[Destroy]] all [[Monster Card|monster]]s on your opponent's [[field]]. Then, this card gains 2000 [[ATK]] until the end of this [[turn]]. ●Other: This card gains ATK equal to [the total result] x 100 until the end of your opponent's next turn.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,5 +26,14 @@ wikitext: |-
   * Dicemite Girl Laps
   * Dice Key Mix
   | archseries      = Dice (series)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = This card gains ATK
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | misc            = 
+  * Die roll
+  * Turn limited effects
   | database_id     = 
   }}
