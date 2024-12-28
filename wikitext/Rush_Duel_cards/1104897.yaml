@@ -5,12 +5,15 @@ wikitext: |-
   | image          = DrowningMirrorForce-RDTB02-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]].
-  | text           = [[Shuffle]] all [[Attack Position]] monsters from your opponent's [[field]] into the owner's [[Main Deck|Deck]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]].
+  | text           = [[Shuffle]] all [[Attack Position]] monsters on your opponent's [[field]] into the [[owner]]'s [[Main Deck|Deck]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/TB02-JP084; Triple Build Pack: Evolution Impact; Super Rare
+  | action         = 
+  * Activates upon attack declaration
+  * Returns from your opponent's field to your opponent's Deck
   | misc           = Legend Card
   | database_id    = 
   }}
