@@ -48,20 +48,22 @@ wikitext: |-
 
   The human members of the archetype are past versions of their [[Xyz Monster]]s, each bearing effects to both get archetypal cards into rotation on Summon and Summon themselves from the hand respectively.
   {| class="wikitable" style="text-align:center"
-  ! Monster
-  ! On-Summon effect
-  ! In-hand effect
-  ! Xyz Monster (future) form
+  ! rowspan="2" | Monster
+  ! rowspan="2" | Xyz Monster (future) form
+  ! colspan="2" | Effect
+  |-
+  ! In hand
+  ! On-Summon
   |-
   | [[Time Thief Winder]]
-  | Add 1 "Time Thief" card from Deck to hand, except self
-  | Detach 1 material from an Xyz Monster; Special Summon
   | [[Time Thief Redoer]]/[[Time Thief Double Barrel]]
+  | Detach 1 material from an Xyz Monster user controls; Special Summon
+  | Add 1 "Time Thief" card from Deck to hand, except self
   |-
   | [[Time Thief Adjuster]]
-  | Send 1 "Time Thief" card from Deck to GY
-  | If another "Time Thief" monster is Normal/Special Summoned; Special Summon
   | [[Time Thief Perpetua]]
+  | If another "Time Thief" monster is Normal/Special Summoned; Special Summon
+  | Send 1 "Time Thief" card from Deck to GY
   |}
 
   '''Machines (Main Deck)'''
@@ -69,30 +71,32 @@ wikitext: |-
   The [[Machine]] members act as tools - literally and metaphorically - for the archetype with effects to revive themselves from the GY and Tribute to provide disruption respectively.
 
   {| class="wikitable" style="text-align:center"
-  ! Monster
-  ! Revival effect
-  ! Tribute effect
-  ! Belonging to
+  ! rowspan="2" | Monster
+  ! rowspan="2" | Belonging to
+  ! colspan="2" | Effect
+  |-
+  ! Self-revival
+  ! Tribute
   |-
   | [[Time Thief Regulator]]
-  | If an Xyz Monster(s) in owner's control is destroyed by battle
-  | Special Summon two "Time Thief" monsters with different names from Deck in Defense Position
   | [[Time Thief Winder]] (phone or similar tracking/communication device)
+  | If an Xyz Monster(s) in owner's control is destroyed by battle
+  | Special Summon 2 "Time Thief" monsters with different names from Deck in Defense Position, except self
   |-
   | [[Time Thief Bezel Ship]]
-  | Detach 1 material from an Xyz Monster
-  | Target 1 "Time Thief" Xyz Monster in user's control; attach 1 card from opponent's GY to target as material ([[Quick Effect]])
   | All (flying ship/mode of time travel)
+  | Detach 1 material from user's Xyz Monster
+  | Target 1 "Time Thief" Xyz Monster in user's control; attach 1 card from opponent's GY to target as material ([[Quick Effect]])
   |-
   | [[Time Thief Chronocorder]]
+  | [[Time Thief Redoer]] (device tasseled to right side of belt)
   | If an Xyz Monster(s) in owner's control leaves the field by card effect
   | The next [[Battle damage|battle damage]] user would take is instead inflicted to the opponent ([[Quick Effect]])
-  | [[Time Thief Redoer]] (device tasseled to right side of belt)
   |-
   | [[Time Thief Temporwhal]]
+  | [[Time Thief Perpetua]] (hair clip transforming into a hovering motorcycle as seen in "[[Time Thief Power Reserve]]"
   | Return 1 "Time Thief" monster in user's control to the hand
   | Target 1 monster on field; banish target until [[End Phase]]
-  | [[Time Thief Perpetua]] (hair clip transforming into a hovering motorcycle as seen in "[[Time Thief Power Reserve]]"
   |}
 
   '''Humans (Extra Deck)'''
@@ -100,25 +104,65 @@ wikitext: |-
   The human members in the [[Extra Deck]] are future/aged versions of the Main Deck humans, each bearing a [[Quick Effect]] to further the archetype's playing style and an effect during the [[Standby Phase]] that aid in said playing style's preparation respectively (with the exception of "[[Time Thief Double Barrel|Double Barrel]]" for the latter).
 
   {| class="wikitable" style="text-align:center"
-  ! Monster
-  ! [[Quick Effect]]
-  ! [[Standby Phase]] effect
-  ! Main Deck (Past) form
+  ! rowspan="2" | Monster
+  ! rowspan="2" | Main Deck (past) form
+  ! colspan="2" | Effect
+  |-
+  ! Quick Effect
+  ! Standby Phase effect
   |-
   | [[Time Thief Redoer]]
-  | Detach up to three material types; [[Banish]] self until End Phase '''(Monster)''', draw 1 card '''(Spell)''', and/or "[[Returns from field to Deck|spin]]" an opponent's face-up card '''(Trap)'''
-  | Attach opponent's top card of Deck to self as material
   | [[Time Thief Winder]]
+  | Detach up to 3 material types and apply appropriately; [[Banish]] self until End Phase '''(Monster)''', draw 1 card '''(Spell)''', and/or return an opponent's face-up card on field to top of their Deck '''(Trap)'''
+  | Attach opponent's top card of Deck to self as material
   |-
   | [[Time Thief Perpetua]]
-  | Target one Xyz Monster in owner's control, attach one "Time Thief" card from Deck to target as material
-  | Detach one material to target one "Time Thief" monster in GY; Special Summon target
   | [[Time Thief Adjuster]]
+  | Target 1 Xyz Monster in owner's control, attach one "Time Thief" card from Deck to target as material
+  | Detach 1 material to target one "Time Thief" monster in GY; Special Summon target
   |-
   | [[Time Thief Double Barrel]]
-  | When opponent activates card/effect: Detach up to three material types; Gain 400 [[ATK]] '''(Monster)''', take control of one opponent's face-up monster until End Phase '''(Spell)''', and/or negate effects of one [[Effect Monster]] on field '''(Trap)'''
-  | '''N/A'''
   | [[Time Thief Winder]] (joined by [[Time Thief Redoer]])
+  | When opponent activates card/effect: Detach up to three material types and apply appropriately; Gain 400 [[ATK]] '''(Monster)''', take control of one opponent's face-up monster until End Phase '''(Spell)''', and/or negate effects of one [[Effect Monster]] on field '''(Trap)'''
+  | '''N/A'''
+  |}
+
+  '''Spells/Traps'''
+
+  The Spells and Traps bear artwork chronicling "[[Time Thief Perpetua|Perpetua]]" as attempts on her life and research are thwarted by "[[Time Thief Winder|Winder]]" and "[[Time Thief Redoer|Redoer]]", eventually inspiring her to join their cause with the aid and tutelage of her future self (as seen in the artwork of "[[Time Thief Adjuster]]"). Most have a secondary effect, more often than not to banish themselves from GY in order to preserve the archetype's gameplan.
+
+  {| class="wikitable" style="text-align:center"
+  ! rowspan="2" | Spell/Trap
+  ! rowspan="2" | Life stage of "Perpetua" (in chronological order)
+  ! colspan="2" | Effect
+  |-
+  ! Primary effect
+  ! Secondary effect
+  |-
+  | [[Time Thief Hack]]
+  | Young child ("[[Time Thief Winder|Winder]]" makes her intangible to incoming gunfire)
+  | User's [[Xyz Monsters]] can be neither targeted nor destroyed by the opponent's card effects the turn they are [[Special Summoned]]
+  | Target 1 Xyz Monster in user's control; target gains 300 [[ATK]] for each of its materials (and ability to attack directly provided at least 1 material is a card owned by the opponent)
+  |-
+  | [[Time Thief Flyback]]
+  | Adolescent ("[[Time Thief Redoer|Redoer]]" carries her through the air to safety as enemy units are on their tail)
+  | Target 1 "Time Thief" [[Xyz Monster]]; Attach 1 "Time Thief" card from Deck to target as material
+  | Banish from GY to target 1 "Time Thief" [[Xyz Monster]]; Attach 1 card from opponent's GY to target as material
+  |-
+  | [[Time Thief Power Reserve]]
+  | Teenager (as "[[Time Thief Perpetua|Perpetua]]", arriving upon "[[Time Thief Temporwhal|Temporwhal]]" to aid in the "Time Thieves'" exploits)
+  | [[Special Summon]] self as a Level 4 monster, optionally alongside a [[Machine]] "Time Thief" monster from hand, Deck, or GY
+  | If user controls an [[Xyz Monster]] with both a [[Spell]] and a [[Trap]] as material: Banish from GY; Banish 1 card on field
+  |-
+  | [[Time Thief Startup]]
+  | Adult (having completed the technology for the group, namely the gloves worn by "[[Time Thief Redoer|Redoer]]" and "[[Time Thief Perpetua|Perpetua]]")
+  | [[Special Summon]] 1 "Time Thief" monster from hand
+  | Banish from GY to target 1 "Time Thief" [[Xyz Monster]] user controls; attach 1 each of "Time Thief" Monsters/Spells/Traps from GY to target as material
+  |-
+  | [[Time Thief Retrograde]]
+  | Adult (seeing off "[[Time Thief Winder|Winder]]" and "[[Time Thief Redoer|Redoer]]" as they embark upon "[[Time Thief Bezel Ship|Bezel Ship]]" on a mission)
+  | When opponent activates a [[Spell]]/[[Trap]] card while user controls a "Time Thief" [[Xyz Monster]](s); negate activation and attach card to 1 "Time Thief" [[Xyz Monster]] as material
+  | '''N/A'''
   |}
 
   == Playing style ==

@@ -22,7 +22,7 @@ wikitext: |-
   | atk                  = 3000
   | def                  = 2500
   | password             = 
-  | materials            = 
+  | materials            = 1 Dragon-Type Fusion Monster + 1 Level 7 or higher Dragon-Type monster
   | effect_types         = Quick, Trigger, Condition
   | text                 = 1 [[Dragon]] [[Fusion Monster]] + 1 [[Level]] 7 or higher Dragon [[monster]]<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 card your opponent [[control]]s or in their [[GY]]; [[banish]] it, then, if it was banished from the [[field]], [[return]] 1 Dragon monster you control to the [[hand]]. At the start of your opponent's [[Battle Phase]], if this card is in your GY: You can return 1 Dragon monster you control to the hand/[[Extra Deck]], and if you do, Special Summon this card. You can only use each [[effect]] of "Philia Regis" once per turn.
   | fr_text              = 
@@ -35,6 +35,26 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   ALIN-JP037; Alliance Insight; Rare
-  | database_id          =
+  | supports             = 
+  * Dragon
+  * Fusion Monster
   | related_to_archseries = Dragonmaid
+  | action               = 
+  * Returns from your field to your hand
+  * Activates from your Graveyard
+  * Returns from your field to your Extra Deck
+  | summoning            = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Special Summons itself from your Graveyard
+  | banished             = 
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  | misc                 = 
+  * Requires control of specific Type
+  * At the start of the Battle Phase
+  * Only once per turn
+  | database_id          = 
   }}
