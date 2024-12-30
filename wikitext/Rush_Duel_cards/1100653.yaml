@@ -3,24 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・ライン
-  | romaji_name     = Zetsubōkyōma Deddo Rain
-  | translated_name = 
-  | ko_name         = 
-  | ko_rr_name      = 
-  | image           = DeadLinetheMadFiendofDespair-RDKP20-JP-OP.png
-  | attribute       = DARK
-  | types           = Fiend / Effect
-  | level           = 3
-  | atk             = 700
-  | def             = 1200
-  | requirement     = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | text            = Send the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Special Summon]] 1 "[[Dead End the Mad Fiend of Despair]]" from your Graveyard [[face-up]] to your field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | ko_requirement  = 
-  | ko_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・ライン
+  | romaji_name    = Zetsubōkyōma Deddo Rain
+  | image          = DeadLinetheMadFiendofDespair-RDKP20-JP-OP.png
+  | attribute      = DARK
+  | types          = Fiend / Effect
+  | level          = 3
+  | atk            = 700
+  | def            = 1200
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
+  | text           = Send the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Special Summon]] 1 "[[Dead End the Mad Fiend of Despair]]" from your Graveyard face-up to your field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP035; Galactica of Eternity; Rare
-  | mentions        = Dead End the Mad Fiend of Despair
+  | mentions       = Dead End the Mad Fiend of Despair
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends itself from field to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  | summoning      = Special Summons from your Graveyard
+  | database_id    = 
   }}
