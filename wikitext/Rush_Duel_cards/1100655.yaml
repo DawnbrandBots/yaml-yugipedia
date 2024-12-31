@@ -12,10 +12,11 @@ wikitext: |-
   | atk                   = 2000
   | def                   = 1400
   | fusion_material       = Whispering Fairy
-  | materials             = "[[Whispering Fairy]]" + 1 [[Level]] 4 or lower [[EARTH]] [[Attribute]] [[monster]]
+  | materials             = "[[Whispering Fairy]]" + 1 [[Level]] 4 or lower [[EARTH]] [[Attribute]] [[Monster Card|monster]]
   | condition             = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement           = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text                  = Place 1 [[Spell]]/[[Trap Card]] from your opponent's [[field]] on the bottom of the owner's [[Main Deck|Deck]]. Then, you can [[Special Summon]] 1 "[[Straynge Cat]]" from your [[Graveyard]] [[face-up]] to your field.
+  | text                  = Place 1 [[Spell Card|Spell]]/[[Trap Card]] from your opponent's [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]]. Then, you can [[Special Summon]] 1 "[[Straynge Cat]]" from your [[Graveyard]] [[face-up]] to your field.
+  | ja_materials          = 
   | ja_condition          = 
   | ja_requirement        = 
   | ja_text               = 
@@ -24,11 +25,18 @@ wikitext: |-
   | mentions              = 
   * Whispering Fairy
   * Straynge Cat
+  | supports              = EARTH
   | related_to_archseries = Straynge Cat (series)
-  | action                = Returns Fusion Materials for Contact Fusion to Deck
+  | action                = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Fusion Summoned
+  * Places cards from the opponent's field on the bottom of the Deck
   | summoning             = 
   * 2 Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
+  * Special Summons from your Graveyard
   }}
