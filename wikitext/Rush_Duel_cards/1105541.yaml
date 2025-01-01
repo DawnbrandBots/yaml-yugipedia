@@ -3,17 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|任務完了|ニュースタート}}
-  | romaji_name    = Nyū Sutāto
-  | image          = NewStart-RDKP20-JP-OP.png
-  | card_type      = Trap
-  | property       = Normal
-  | requirement    = When your opponent [[Normal Summon]]s a [[monster]], place 1 [[Level]] 7 [[monster]] or 1 "[[Secret Order]]" from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | text           = [[Destroy]] that Normal Summoned monster. Then, you can [[Draw a card|draw]] until you have 5 cards in your hand.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name              = {{Ruby|任務完了|ニュースタート}}
+  | base_romaji_name     = Ninmu Kanryō
+  | base_translated_name = Mission Accomplished
+  | romaji_name          = Nyū Sutāto
+  | image                = NewStart-RDKP20-JP-OP.png
+  | card_type            = Trap
+  | property             = Normal
+  | requirement          = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 1 [[Level]] 7 monster or 1 "[[Secret Order]]" from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]].
+  | text                 = [[Destroy]] that Normal Summoned monster. Then, you can [[Draw a card|draw]] until you have 5 cards in your [[hand]].
+  | ja_requirement       = 
+  | ja_text              = 
+  | jp_sets              = 
   RD/KP20-JP061; Galactica of Eternity; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions       = Secret Order
-  | database_id    = 
+  | mentions             = Secret Order
+  | action               = 
+  * Activates upon Normal Summon
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * You draw cards
+  | m/s/t                = Destroys your opponent's Monster Cards
+  | database_id          = 
   }}

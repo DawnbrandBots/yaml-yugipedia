@@ -38,5 +38,16 @@ wikitext: |-
   SUDA-PT083; Supreme Darkness; 
   | sp_sets             = 
   SUDA-SP083; Supreme Darkness; 
+  | supports            = Zombie
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | summoning           = Special Summons from your Deck
+  | banished            = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  * Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
