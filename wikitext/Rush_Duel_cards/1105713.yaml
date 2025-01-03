@@ -17,7 +17,7 @@ wikitext: |-
   * Cybersepice Hotpot
   | materials       = "[[Wheatcloth Demeter]]" + "[[Cybersepice Hotpot]]"
   | requirement     = None
-  | text            = This card cannot be [[destroy]]ed by your opponent's card [[effect]]s. Your [[Level]] 7 or higher [[FIRE]] [[Attribute]] [[monsters]] inflict [[piercing]] [[battle damage]].
+  | text            = This card cannot be [[destroy]]ed by your opponent's card [[effect]]s. Your [[Level]] 7 or higher [[FIRE]] [[Attribute]] [[Monster Card|monster]]s [[Damage|inflict]] [[piercing]] [[battle damage]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,15 @@ wikitext: |-
   | mentions        = 
   * Wheatcloth Demeter
   * Cybersepice Hotpot
+  | supports        = FIRE
   | archseries      = Cybersepice
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | attack          = Piercing
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
   | database_id     = 
   }}
