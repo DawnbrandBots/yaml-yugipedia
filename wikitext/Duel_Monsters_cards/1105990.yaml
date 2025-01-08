@@ -3,39 +3,57 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|創世の神|リジェネシス・ゴッド}} デウテロノミオン
-  | romaji_name         = Rijeneshisu Goddo Deuteronomion
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = RegenesisGodDeuteronomion-ALIN-JP-OP.png
-  | attribute           = LIGHT
-  | types               = Illusion / Effect
-  | level               = 10
-  | atk                 = 2500
-  | def                 = 2500
-  | password            = 
-  | effect_types        = Summoning condition, Summoning condition, Condition, Trigger, Continuous, Continuous
-  | text                = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[banish]]ing 1 [[face-up]] monster you [[control]] with 2500 [[original ATK and DEF]]. You can only Special Summon "Regenesis God Deuteronomion" [[once per turn]] this way. If this card is Special Summoned: You can [[Set]] 1 "[[Regenesis]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]]. Gains 2500 [[ATK]] during the [[Battle Phase]] only. If this card [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|創世の神|リジェネシス・ゴッド}} デウテロノミオン
+  | base_romaji_name     = Sōsei no Kami Deuteronomion
+  | base_translated_name = World Creation God Deuteronomion
+  | romaji_name          = Rijeneshisu Goddo Deuteronomion
+  | translated_name      = 
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = RegenesisGodDeuteronomion-ALIN-JP-OP.png
+  | attribute            = LIGHT
+  | types                = Illusion / Effect
+  | level                = 10
+  | atk                  = 2500
+  | def                  = 2500
+  | password             = 
+  | effect_types         = Summoning condition, Summoning condition, Condition, Trigger, Continuous, Continuous
+  | text                 = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[banish]]ing 1 [[face-up]] monster you [[control]] with 2500 [[original ATK and DEF]]. You can only Special Summon "Regenesis God Deuteronomion" [[once per turn]] this way. If this card is Special Summoned: You can [[Set]] 1 "[[Regenesis]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]]. Gains 2500 [[ATK]] during the [[Battle Phase]] only. If this card [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   ALIN-JP017; Alliance Insight; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ALIN-JP017; Alliance Insight +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
-  | archseries          = Regenesis
-  | supports_archetypes = Regenesis
-  | database_id         = 
+  | archseries           = Regenesis
+  | supports_archetypes  = Regenesis
+  | action               = 
+  * Activates upon Special Summon
+  * Sets from your Deck
+  | stat_change          = This card gains ATK
+  | summoning            = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Banishes from field for Summon
+  * Special Summon by its own condition once per turn
+  | attack               = Piercing
+  | misc                 = 
+  * Special Summon Monster
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  | database_id          = 
   }}

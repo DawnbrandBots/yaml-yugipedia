@@ -56,6 +56,8 @@ wikitext: |-
 
   Due to the small amount of Main Deck cards required for this strategy, "Tenpai Dragon" Decks can run a large amount of staple cards, such as [[hand trap]]s to disrupt the opponent's plays, or powerful board breaker cards.
 
+  After the deck's consistency was hit, it became an option to implement "[[Watt]]" cards to bolster consistency, with the added benefit of upping damage output.
+
   === Sample combos ===
   {{Combo steps
   | opening = Going second, having "[[Sangen Summoning]]" + 1 card in hand
@@ -85,6 +87,18 @@ wikitext: |-
   # Attack directly with "Sangenpai Transcendent Dragion" and "Trident Dragion" three times. (3.000 + (6.000 * 3) = 21.000 damage).
   }}
 
+  {{Combo steps
+  | opening = Going second, having "[[Wattcobra]]" in hand.
+  | end     = Dealing up to 42.300 damage (1.000 + 800 + 1.600 + 1.500 + 1.700 + 1.500 + 1.600 + 2.600 + 1.700 + 3.000 + 2.600 + 1.700 + 3.000 + (6.000 * 3)) to your opponent clear field during [[Battle Phase]], result in [[One Turn Kill]].
+  | steps   = 
+  # Attack directly with "Wattcobra", add "[[Wattuna]]" to hand, summon "Wattuna".
+  # Attack directly with "Wattuna", tribute "Wattuna" and "Wattcobra" for "[[Wattkyuki]]".
+  # Attack directly with "Wattkyuki", shuffle back "Wattkyuki" and "Wattuna" for "[[Watthydra]]".
+  # Attack directly with "Watthydra", banish "[[Blaster, Dragon Ruler of Infernos]]" from deck, search "Tenpai Dragon Genroku".
+  # Special Summon "Tenpai Dragon Genroku", tribute to summon "Tenpai Dragon Paidra"
+  # Continue with the standard "Tenpai" combo as listed prior.
+  }}
+
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -99,15 +113,18 @@ wikitext: |-
   * [[Bystial Magnamhut]]
   * [[Decoy Dragon]]
   * [[Dora Dora]]
+  * [[Masked Dragon]]
   * [[Festiballoon]]
   * [[Hiita the Fire Channeler]]
   * [[Lava Dragon]]
   * [[Poki Draco]]
   * [[Red-Eyes Black Fullmetal Dragon]]
+  * [[Wattcobra]]
 
   |tuner monsters =
   * [[Tenpai Dragon Chundra]]
   * [[Dread Dragon]]
+  * [[Wattuna]]
 
   |fusion monsters =
   * [[Fighting Flame Dragon]] ''(as a target for "Instant Fusion")''
@@ -125,6 +142,8 @@ wikitext: |-
   * [[Trident Dragion]]
   * [[Ultimaya Tzolkin]]
   ** [[Crystal Wing Synchro Dragon]]
+  * [[Wattkyuki]]
+  * [[Watthydra]]
 
   |xyz monsters =
   * [[Blaze, Supreme Ruler of all Dragons]]

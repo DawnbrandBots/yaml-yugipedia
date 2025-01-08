@@ -3,41 +3,55 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|再世の魔神|リジェネシス・デーモン}} ベミドバル
-  | romaji_name         = Rejeneshisu Dēmon Bemidobaru
-  | translated_name     = Regenesis Daemon Bemidbar
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = RegenesisArchfiendBemidbar-ALIN-JP-OP.png
-  | attribute           = EARTH
-  | types               = Fiend / Effect
-  | level               = 8
-  | atk                 = 2500
-  | def                 = 2500
-  | password            = 
-  | effect_types        = Unclassified, Condition, Condition, Trigger, Trigger
-  | text                = You can [[Special Summon]] this card (from your [[hand]]) by [[reveal]]ing 1 other monster in your hand with 2500 [[ATK]] or DEF. You can only Special Summon "Regenesis Archfiend Bemidbar" [[once per turn]] this way. You can only use each of the following [[effect]]s of "Regenesis Archfiend Bemidbar" once per turn. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Add a card|add]] 1 "[[Regenesis]]" card from your [[Main Deck|Deck]] or [[banish]]ment to your hand, except "Regenesis Archfiend Bemidbar". During your opponent's [[End Phase]], if this card is in your [[GY]] because it was sent there this [[turn]]: You can add it to your hand.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|再世の魔神|リジェネシス・デーモン}} ベミドバル
+  | base_romaji_name     = Saisei no Mashin Bemidobaru
+  | base_translated_name = Regenerated World Devil Bemidbar
+  | romaji_name          = Rejeneshisu Dēmon Bemidobaru
+  | translated_name      = Regenesis Daemon Bemidbar
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = RegenesisArchfiendBemidbar-ALIN-JP-OP.png
+  | attribute            = EARTH
+  | types                = Fiend / Effect
+  | level                = 8
+  | atk                  = 2500
+  | def                  = 2500
+  | password             = 
+  | effect_types         = Unclassified, Condition, Condition, Trigger, Trigger
+  | text                 = You can [[Special Summon]] this card (from your [[hand]]) by [[reveal]]ing 1 other monster in your hand with 2500 [[ATK]] or DEF. You can only Special Summon "Regenesis Archfiend Bemidbar" [[once per turn]] this way. You can only use each of the following [[effect]]s of "Regenesis Archfiend Bemidbar" once per turn. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Add a card|add]] 1 "[[Regenesis]]" card from your [[Main Deck|Deck]] or [[banish]]ment to your hand, except "Regenesis Archfiend Bemidbar". During your opponent's [[End Phase]], if this card is in your [[GY]] because it was sent there this [[turn]]: You can add it to your hand.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   ALIN-JP016; Alliance Insight;
-  | mentions            = Regenesis Archfiend Bemidbar
-  | archseries          = 
+  | mentions             = Regenesis Archfiend Bemidbar
+  | archseries           = 
   * Archfiend
   * Regenesis
-  | supports_archetypes = Regenesis
-  | database_id         = 
+  | supports_archetypes  = Regenesis
+  | action               = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds banished cards to the hand
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning            = 
+  * Special Summons itself from your hand
+  * Reveals your hand for Special Summon
+  * Special Summon by its own condition once per turn
+  | misc                 = Only once per turn
+  | database_id          = 
   }}

@@ -3,39 +3,53 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|再世の戦神|リジェネシス・ウォリアー}} ベレシート
-  | romaji_name         = Rijeneshisu Woriā Bereshīto
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = RegenesisWarriorBeresheet-ALIN-JP-OP.png
-  | attribute           = FIRE
-  | types               = Warrior / Effect
-  | level               = 7
-  | atk                 = 2500
-  | def                 = 2500
-  | password            = 
-  | effect_types        = Unclassified, Condition, Condition, Quick, Trigger
-  | text                = If a [[monster]] with 2500 [[original ATK]] or DEF is on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Regenesis Warrior Beresheet" [[once per turn]] this way. You can only use each of the following effects of "Regenesis Warrior Beresheet" once per turn. ([[Quick Effect]]): You can [[Tribute]] this card, then [[target]] 1 monster your opponent controls; [[return]] it to the hand. During your opponent's [[End Phase]], if this card is in your [[GY]] because it was sent there this [[turn]]: You can [[Add a card|add]] it to your hand.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|再世の戦神|リジェネシス・ウォリアー}} ベレシート
+  | base_romaji_name     = Saisei no Senshin Bereshīto
+  | base_translated_name = Regenerated World War God Beresheet
+  | romaji_name          = Rijeneshisu Woriā Bereshīto
+  | translated_name      = 
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = RegenesisWarriorBeresheet-ALIN-JP-OP.png
+  | attribute            = FIRE
+  | types                = Warrior / Effect
+  | level                = 7
+  | atk                  = 2500
+  | def                  = 2500
+  | password             = 
+  | effect_types         = Unclassified, Condition, Condition, Quick, Trigger
+  | text                 = If a [[monster]] with 2500 [[original ATK]] or DEF is on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Regenesis Warrior Beresheet" [[once per turn]] this way. You can only use each of the following effects of "Regenesis Warrior Beresheet" once per turn. ([[Quick Effect]]): You can [[Tribute]] this card, then [[target]] 1 monster your opponent controls; [[return]] it to the hand. During your opponent's [[End Phase]], if this card is in your [[GY]] because it was sent there this [[turn]]: You can [[Add a card|add]] it to your hand.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   ALIN-JP013; Alliance Insight; 
-  | archseries          = 
+  | archseries           = 
   * Regenesis
   * Warrior (archetype)
-  | database_id         = 
+  | action               = 
+  * Tributes itself for cost
+  * Returns from your opponent's field to your opponent's hand
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning            = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                 = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  * Only once per turn
+  | database_id          = 
   }}

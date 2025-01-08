@@ -3,38 +3,60 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|再世の導神|リジェネシス・セージ}} シェモース
-  | romaji_name         = Rijeneshisu Sēji Shemōsu
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = RegenesisSageShemot-ALIN-JP-OP.png
-  | attribute           = WATER
-  | types               = Spellcaster / Effect
-  | level               = 7
-  | atk                 = 2500
-  | def                 = 2500
-  | password            = 
-  | effect_types        = Unclassified, Condition, Condition, Quick, Trigger
-  | text                = If a [[monster]] with 2500 [[original ATK]] or DEF is on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Regenesis Sage Shemot" [[once per turn]] this way. You can only use each of the following [[effect]]s of "Regenesis Sage Shemot" once per turn. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[send]] 1 other "[[Regenesis]]" card from your hand or [[face-up]] field to the [[GY]]; [[negate]] the activation, and if you do, [[destroy]] that card. During your opponent's [[End Phase]], if this card is in your GY because it was sent there this turn: You can [[Add a card|add]] it to your hand.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|再世の導神|リジェネシス・セージ}} シェモース
+  | base_romaji_name     = Saisei no Dōshin Shemōsu
+  | base_translated_name = Regenerated World Guide God Shemot
+  | romaji_name          = Rijeneshisu Sēji Shemōsu
+  | translated_name      = 
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = RegenesisSageShemot-ALIN-JP-OP.png
+  | attribute            = WATER
+  | types                = Spellcaster / Effect
+  | level                = 7
+  | atk                  = 2500
+  | def                  = 2500
+  | password             = 
+  | effect_types         = Unclassified, Condition, Condition, Quick, Trigger
+  | text                 = If a [[monster]] with 2500 [[original ATK]] or DEF is on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Regenesis Sage Shemot" [[once per turn]] this way. You can only use each of the following [[effect]]s of "Regenesis Sage Shemot" once per turn. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[send]] 1 other "[[Regenesis]]" card from your hand or [[face-up]] field to the [[GY]]; [[negate]] the activation, and if you do, [[destroy]] that card. During your opponent's [[End Phase]], if this card is in your GY because it was sent there this turn: You can [[Add a card|add]] it to your hand.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   ALIN-JP014; Alliance Insight; 
-  | archseries          = Regenesis
-  | supports_archetypes = Regenesis
-  | database_id         = 
+  | archseries           = Regenesis
+  | supports_archetypes  = Regenesis
+  | action               = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | m/s/t                = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning            = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                 = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  * Only once per turn
+  * Requires control of specific archetype
+  | database_id          = 
   }}
