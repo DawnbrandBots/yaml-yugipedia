@@ -1,7 +1,5 @@
 title: Arcana Spread
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name             = 
   | ja_name             = アルカナスプレッド
   | romaji_name         = Arukana Supureddo
-  | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 秘仪牌阵
@@ -19,7 +16,7 @@ wikitext: |-
   | property            = Normal
   | password            = 76302448
   | effect_types        = Effect, Ignition-like, Condition
-  | text                = Toss a coin and apply this [[effect]]. If "[[Light Barrier]]" is in your [[Field Zone]], you choose the effect instead.<br />● Heads: [[Special Summon]] 1 [[Level]] 4 or lower "[[Arcana Force]]" [[monster]] from your [[Main Deck|Deck]].<br />● Tails: Special Summon 1 monster from your [[GY]] that has a coin tossing effect.<br />You can [[banish]] this card from your GY; [[add]] 1 card from your GY to your [[hand]] that has a coin tossing effect. You can only use 1 "Arcana Spread" effect per turn, and [[Once per turn|only once that turn]].
+  | text                = Toss a coin and apply this [[effect]]. If "[[Light Barrier]]" is in your [[Field Zone]], you can choose the effect instead.<br />● Heads: [[Special Summon]] 1 [[Level]] 4 or lower "[[Arcana Force]]" [[monster]] from your [[Main Deck|Deck]].<br />● Tails: Special Summon 1 monster that has a coin tossing effect from your [[GY]].<br />You can [[banish]] this card from your GY; [[add]] 1 card from your GY to your [[hand]] that has a coin tossing effect. You can only use 1 "Arcana Spread" effect per turn, and [[Once per turn|only once that turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,8 +25,18 @@ wikitext: |-
   | ja_text             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：コイントスを１回行い、その裏表によって以下の効果を適用する。自分のフィールドゾーンに「光の結界」が存在する場合、コイントスを行わず裏表のどちらかを選んで適用する。●表：デッキからレベル４以下の「アルカナフォース」モンスター１体を特殊召喚する。●裏：コイントスを行う効果を持つモンスター１体を自分の墓地から特殊召喚する。②：墓地のこのカードを除外して発動できる。コイントスを行う効果を持つカード１枚を自分の墓地から手札に加える。
   | ko_text             = 
   | sc_text             = 此卡名的①②效果1回合1次，仅可使用其中1个。①：掷1次硬币，根据掷出的正反，适用以下效果。自己的场地区域存在“光之结界”的情况下，不掷硬币而改为从正反的效果中择一适用。<br />●正面：从牌组将1只等级4以下的“秘仪之力”怪兽特殊召唤。<br />●反面：从自己墓地将1只拥有掷硬币效果的怪兽特殊召唤。<br />②：将墓地的此卡除外可以发动。从自己墓地将1张拥有掷硬币效果的卡加入手牌。
-  | en_sets               = 
-  SUDA-EN054; Supreme Darkness;
+  | en_sets             = 
+  SUDA-EN054; Supreme Darkness; 
+  | fr_sets             = 
+  SUDA-FR054; Supreme Darkness; 
+  | de_sets             = 
+  SUDA-DE054; Supreme Darkness; 
+  | it_sets             = 
+  SUDA-IT054; Supreme Darkness; 
+  | pt_sets             = 
+  SUDA-PT054; Supreme Darkness; 
+  | sp_sets             = 
+  SUDA-SP054; Supreme Darkness; 
   | jp_sets             = 
   SUDA-JP054; Supreme Darkness; Common
   | sc_sets             = 

@@ -1,7 +1,5 @@
 title: Arcana Force V - The Hierophant
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name             = 
   | ja_name             = アルカナフォース{{Ruby|Ⅴ|ファイブ}}－{{Ruby|ＴＨＥ ＨＩＥＲＯＰＨＡＮＴ|ザ・ハイエロファント}}
   | romaji_name         = Arukana Fōsu Faibu - Za Haierofanto
-  | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 秘仪之力Ⅴ－教皇
@@ -22,7 +19,7 @@ wikitext: |-
   | def                 = 1500
   | password            = 03376703
   | effect_types        = Ignition, Trigger
-  | text                = You can [[discard]] this card; for the rest of this [[turn]], your opponent cannot [[activate]] cards or [[effect]]s when an "[[Arcana Force]]" [[monster]](s) is [[Summon]]ed to your [[field]]. If this card is Summoned: Toss a coin.<br />● Heads: [[Special Summon]] 1 [[Level]] 4 or lower "Arcana Force" monster from your [[Main Deck|Deck]] with a different name from the monsters you [[control]] and in your [[GY]].<br />● Tails: Special Summon 1 "Arcana Force" monster from your Deck to your opponent's [[field]].
+  | text                = You can [[discard]] this card; this [[turn]], your opponent cannot [[activate]] cards or [[effect]]s when an "[[Arcana Force]]" [[monster]](s) is [[Summon]]ed to your [[field]]. If this card is Summoned: Toss a coin.<br />● Heads: [[Special Summon]] 1 [[Level]] 4 or lower "Arcana Force" monster from your [[Main Deck|Deck]] with a different name from the monsters you [[control]] and in your [[GY]].<br />● Tails: Special Summon 1 "Arcana Force" monster from your Deck to your opponent's [[field]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,8 +28,18 @@ wikitext: |-
   | ja_text             = ①：このカードを手札から捨てて発動できる。このターン、自分フィールドに「アルカナフォース」モンスターが召喚・反転召喚・特殊召喚された時に相手は効果を発動できない。②：このカードが召喚・反転召喚・特殊召喚した場合に発動する。コイントスを１回行い、その裏表によって以下の効果を適用する。●表：同名モンスターが自分のフィールド・墓地に存在しない、レベル４以下の「アルカナフォース」モンスター１体をデッキから特殊召喚する。●裏：デッキから「アルカナフォース」モンスター１体を相手フィールドに特殊召喚する。
   | ko_text             = 
   | sc_text             = ①：从手牌将此卡舍弃可以发动。此回合，“秘仪之力”怪兽被召唤・反转召唤・特殊召唤至自己场上时，对手不可发动效果。②：此卡召唤・反转召唤・特殊召唤的情况下发动。掷1次硬币，根据掷出的正反，适用以下效果。<br />●正面：从牌组将1只同名怪兽不存在于自己场上・墓地的、等级4以下的“秘仪之力”怪兽特殊召唤。<br />●反面：从牌组将1只“秘仪之力”怪兽特殊召唤至对手场上。
-  | en_sets               = 
-  SUDA-EN004; Supreme Darkness;
+  | en_sets             = 
+  SUDA-EN004; Supreme Darkness; 
+  | fr_sets             = 
+  SUDA-FR004; Supreme Darkness; 
+  | de_sets             = 
+  SUDA-DE004; Supreme Darkness; 
+  | it_sets             = 
+  SUDA-IT004; Supreme Darkness; 
+  | pt_sets             = 
+  SUDA-PT004; Supreme Darkness; 
+  | sp_sets             = 
+  SUDA-SP004; Supreme Darkness; 
   | jp_sets             = 
   SUDA-JP004; Supreme Darkness; Common
   | sc_sets             = 
