@@ -42,7 +42,16 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   ALIN-JP021; Alliance Insight; 
+  | supports              = Xyz Monster
   | archseries            = Materiactor
   | supports_archetypes   = Materiactor
+  | action                = 
+  * Attaches itself from your Pendulum Zone as Xyz Material
+  * You draw cards
+  | stat_change           = Your monsters gain ATK
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}

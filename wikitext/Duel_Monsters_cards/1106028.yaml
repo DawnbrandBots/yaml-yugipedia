@@ -30,7 +30,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP063; Alliance Insight; 
+  | supports            = 
+  * Xyz Monster
+  * Normal Monster
+  | anti-supports       = Xyz Monster
   | archseries          = Materiactor
   | supports_archetypes = Materiactor
+  | action              = 
+  * Excavates from the player's Deck
+  * Places excavated cards on the top of the Deck
+  * Activates upon Xyz Summon
+  * Attaches from your Deck as Xyz Material
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  * Restricts the player's Special Summons from the Extra Deck
+  | life_points         = Pays Life Points for cost
+  | misc                = 
+  * Limited activations
+  * Requires control of specific Level
+  * Requires control of specific Monster type
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id         = 
   }}
