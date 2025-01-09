@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 2500
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Quick, Quick, Condition
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 [[face-up]] [[monster]] on the [[field]] or in either [[GY]]; place it face-up in its owner's [[Spell & Trap Zone]] as a [[Continuous Spell]], also this card cannot use this [[effect]] next [[turn]]. During the [[Battle Phase]] (Quick Effect): You can [[target]] 2 cards on the field (1 monster and 1 Continuous Spell); [[destroy]] them. You can only use each effect of "Snake-Eyes Execute Dragon" [[once per turn]].
   | fr_text             = 
@@ -33,8 +34,23 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP040; Alliance Insight; 
+  | supports            = Continuous Spell Card
+  | anti-supports       = Continuous Spell Card
   | archseries          = 
   * -Eyes Dragon
   * Snake-Eye
+  | action              = 
+  * Places cards from field in Spell & Trap Zone
+  * Places cards from the opponent's field in the opponent's Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Places cards from the opponent's Graveyard in the opponent's Spell & Trap Zone
+  | m/s/t               = 
+  * Treats monsters as Continuous Spell Cards
+  * Destroys Monster Cards
+  * Destroys face-up Spell Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                = Only once per turn
   | database_id         = 
   }}

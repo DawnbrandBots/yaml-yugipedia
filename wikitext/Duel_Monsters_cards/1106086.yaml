@@ -34,10 +34,34 @@ wikitext: |-
   | jp_sets             = 
   ALIN-JP011; Alliance Insight; Ultra Rare, Ultimate Rare, Secret Rare, Quarter Century Secret Rare
   ALIN-JP011; Alliance Insight +1 Bonus Pack; Ultra Rare, Quarter Century Secret Rare
+  | supports            = 
+  * Illusion
+  * Spellcaster
+  * Tuner Synchro Monster
   | archseries          = 
   * Diabell
   * Diabellstar
   * Sinful Spoils
   | supports_archetypes = Diabell
+  | anti-supports_archetypes = Diabell
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons from your Extra Deck
+  | banished            = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  | life_points         = Pays Life Points for cost
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

@@ -22,6 +22,7 @@ wikitext: |-
   | atk                 = 4000
   | def                 = 4000
   | password            = 
+  | fusion_material     = Queen Azamina
   | materials           = "Queen Azamina" + 1 Fusion or Synchro Monster
   | effect_types        = Summoning condition, Continuous, Continuous, Continuous
   | text                = "[[Queen Azamina]]" + 1 [[Fusion Monster|Fusion]] or [[Synchro Monster]]<br />Must first be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by Tributing 1 "[[Saint Azamina]]" you [[control]] and 1 [[face-up]] monster your opponent controls. Cannot be destroyed by card [[effect]]s. Each time your opponent [[activate]]s a card or effect, all monsters your opponent controls lose 500 [[ATK]] immediately after it resolves. Your opponent cannot activate the effects of monsters with 0 ATK.
@@ -38,7 +39,27 @@ wikitext: |-
   | mentions            = 
   * Queen Azamina
   * Saint Azamina
-  | fusion_material     = Queen Azamina
+  | supports            = 
+  * Fusion Monster
+  * Synchro Monster
   | archseries          = Azamina
+  | action              = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Tributes opponent's monsters
+  * Uses cards on the opponent's field for Contact Fusion
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = 
+  * Cannot be destroyed by card effects
+  * Prevents activation of your opponent's Effect Monsters
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Synchro Monsters as Fusion Materials
+  * Special Summon-only monster
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
   | database_id         = 
   }}

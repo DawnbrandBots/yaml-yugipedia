@@ -32,5 +32,14 @@ wikitext: |-
   ALIN-JP057; Alliance Insight; 
   | archseries          = Diabell
   | supports_archetypes = Diabell
+  | action              = 
+  * Adds from Deck to hand
+  * Activates while banished
+  | stat_change         = Your monsters gain ATK
+  | summoning           = Special Summons from your Deck
+  | misc                = 
+  * Requires control of no monsters
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 700
   | def                 = 2000
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Quick, Condition
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Special Summon]]ed: You can [[target]] 2 "[[White Forest]]" monsters in your [[GY]]; place them [[face-up]] in their owners' [[Spell & Trap Zone]]s as [[Continuous Spell]]s. During your opponent's [[Main Phase]], you can ([[Quick Effect]]): Immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] using this card you [[control]]. You can only use each effect of "Mystic Mystery of the White Forest" [[once per turn]].
   | fr_text             = 
@@ -36,5 +37,18 @@ wikitext: |-
   | archseries          = White Forest
   | supports_archetypes = White Forest
   | related_to_archseries = Snake-Eye
+  | action              = 
+  * Activates upon Special Summon
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Uses itself as a Synchro Material
+  | m/s/t               = Treats monsters as Continuous Spell Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | misc                = 
+  * Tuner Synchro Monster
+  * Only once per turn
   | database_id         = 
   }}
