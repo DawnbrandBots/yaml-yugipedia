@@ -1,7 +1,5 @@
-title: Queen of the Azamina
+title: Queen Azamina
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,12 +8,12 @@ wikitext: |-
   | es_name             = 
   | ja_name             = アザミナの{{Ruby|妖|よう}}{{Ruby|魔|ま}}
   | romaji_name         = Azamina no Yōma
-  | translated_name     = Apparition of the Azamina
+  | translated_name     = Azamina Apparition
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 圣徒妖主
   | sc_pinyin_name      = 
-  | image               = QueenoftheAzamina-SUDA-JP-R.png
+  | image               = QueenAzamina-SUDA-JP-R.png
   | attribute           = DARK
   | types               = Illusion / Effect
   | level               = 8
@@ -23,7 +21,7 @@ wikitext: |-
   | def                 = 2000
   | password            = 65033975
   | effect_types        = Condition, Trigger, Trigger, Condition
-  | text                = (This card is always treated as a "[[Sinful Spoils]]" card.)<br />When your "[[Azamina]]" or "[[White Forest]]" [[monster]] [[destroy]]s an opponent's monster by battle: You can [[target]] 1 "Sinful Spoils" [[Spell]]/[[Trap]] in your [[GY]]; [[Add a card|add]] it to your [[hand]]. If this card is sent to the GY, or [[banish]]ed, from your hand or [[field]] by an [[activate]]d [[effect]]: You can [[Special Summon]] this card. You can only use each effect of "Queen of the Azamina" once per turn.
+  | text                = (This card is always treated as a "[[Sinful Spoils]]" card.)<br />If this card in your [[hand]] or [[field]] is sent to the [[GY]] or [[banish]]ed, by an [[activate]]d [[effect]]: You can [[Special Summon]] it. When your "[[Azamina]]" or "[[White Forest]]" [[monster]] [[destroy]]s an opponent's monster by battle: You can [[target]] 1 "Sinful Spoils" [[Spell]]/[[Trap]] in your GY; [[Add a card|add]] it to your hand. You can only use each effect of "Queen Azamina" once per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,8 +30,18 @@ wikitext: |-
   | ja_text             = このカード名はルール上「罪宝」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・フィールドのこのカードが自分か相手が発動した効果で、墓地へ送られた場合または除外された場合に発動できる。このカードを特殊召喚する。②：自分の、「アザミナ」モンスターか「白き森」モンスターが戦闘で相手モンスターを破壊した時、自分の墓地の「罪宝」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
   | ko_text             = 
   | sc_text             = 此卡名在规则上也视为“罪宝”卡。此卡名的①②效果1回合仅可各使用1次。①：自己手牌・场上的此卡因自己或对手发动的效果，被送至墓地的情况下或被除外的情况下可以发动。将此卡特殊召唤。②：自己的“圣徒”怪兽或“白森”怪兽战斗破坏对手怪兽时，以自己墓地的1张“罪宝”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
-  | en_sets               = 
-  SUDA-EN009; Supreme Darkness;
+  | en_sets             = 
+  SUDA-EN009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
+  | fr_sets             = 
+  SUDA-FR009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
+  | de_sets             = 
+  SUDA-DE009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
+  | it_sets             = 
+  SUDA-IT009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
+  | pt_sets             = 
+  SUDA-PT009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
+  | sp_sets             = 
+  SUDA-SP009; Supreme Darkness; Ultra Rare, Quarter Century Secret Rare
   | jp_sets             = 
   SUDA-JP009; Supreme Darkness; Rare
   | sc_sets             = 
@@ -56,5 +64,6 @@ wikitext: |-
   * Archetype condition
   * Requires control of specific archetype
   * Only once per turn
+  | fm_for              = Azamina (card)
   | database_id         = 20748
   }}
