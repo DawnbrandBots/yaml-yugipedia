@@ -13,10 +13,10 @@ wikitext: |-
   | def            = 1200
   | requirement    = If you have a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]], [[send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
   | text           = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Delirium Silbyx]]" from your Graveyard to your [[hand]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分の墓地にモンスター（光属性／昆虫族）がいる場合、デッキの上からカード３枚を墓地へ送って発動できる。
+  | ja_text        = このカードの攻撃力はターン終了時まで５００アップする。その後、自分の墓地の「夢中のシルビクス」１体を選んで手札に加える事ができる。
   | jp_sets        = 
-  RD/TB02-JP056; Triple Build Pack: Evolution Impact; Super Rare
+  RD/TB02-JP056; Triple Build Pack: Evolution Impact; Super Rare, Secret Rare
   | mentions       = Delirium Silbyx
   | supports       = 
   * LIGHT
@@ -26,5 +26,5 @@ wikitext: |-
   * Sends from the top of your Deck to your Graveyard for cost
   * Adds from Graveyard to hand
   | stat_change    = This card gains ATK
-  | database_id    = 
+  | database_id    = 21105
   }}
