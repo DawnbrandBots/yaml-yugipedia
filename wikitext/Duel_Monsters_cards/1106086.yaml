@@ -58,7 +58,9 @@ wikitext: |-
   | banished            = 
   * Banishes from hand for cost
   * Banishes from Graveyard for cost
-  | life_points         = Pays Life Points for cost
+  | life_points         = 
+  * Pays Life Points for cost
+  * Halves LP
   | misc                = 
   * Archetype condition
   * Requires control of specific archetype

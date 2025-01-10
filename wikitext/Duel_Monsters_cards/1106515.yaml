@@ -37,5 +37,19 @@ wikitext: |-
   SUDA-PT089; Supreme Darkness; Common
   | sp_sets             = 
   SUDA-SP089; Supreme Darkness; Common
+  | mentions            = The Toil of the Normal
+  | supports            = Normal Monster
+  | action              = 
+  * Returns from field to Deck
+  * Adds from Deck to hand
+  * Adds copies of itself to hand
+  | stat_change         = Your monsters gain ATK
+  | m/s/t               = 
+  * Negates the effects of Effect Monsters
+  * Prevents other cards being destroyed by card effects
+  | misc                = 
+  * Variable effects
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id         = 
   }}

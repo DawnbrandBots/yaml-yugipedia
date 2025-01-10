@@ -37,5 +37,17 @@ wikitext: |-
   SUDA-PT086; Supreme Darkness; Common
   | sp_sets             = 
   SUDA-SP086; Supreme Darkness; Common
+  | action              = 
+  * Returns the player's banished cards to the Deck
+  * Activates while banished
+  * Places the player's banished cards in Spell & Trap Zone
+  | stat_change         = Your monsters gain ATK
+  | banished            = 
+  * Banishes from your hand
+  * Banishes from your Graveyard
+  | archseries          = D.D.
+  | misc                = 
+  * Limited activations
+  * Only once per turn
   | database_id         = 
   }}
