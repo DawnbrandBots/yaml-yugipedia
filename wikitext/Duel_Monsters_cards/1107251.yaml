@@ -35,6 +35,17 @@ wikitext: |-
   | mentions            = Max Metalmorph
   | archseries          = Red-Eyes
   | supports_archetypes = Metalmorph (archetype)
-  | m/s/t           = Allows activation of Trap Cards the turn they were Set
+  | action              = 
+  * Activates from your hand
+  * Sends from field to Graveyard for cost
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | m/s/t               = Allows activation of Trap Cards the turn they were Set
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id         = 
   }}
