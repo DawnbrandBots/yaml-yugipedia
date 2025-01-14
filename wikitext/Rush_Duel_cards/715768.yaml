@@ -7,7 +7,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Destroy]] all [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] with [[DEF]] less than or equal to the [[ATK]] of 1 face-up "[[Summoned Skull (Rush Duel)|Summoned Skull]]" or 1 face-up [[Thunder]] [[Type]] monster on your [[field]]. Your monsters cannot [[attack]] this [[turn]].
+  | text           = Choose 1 [[face-up]] "[[Summoned Skull (Rush Duel)|Summoned Skull]]" or 1 face-up [[Thunder]] [[Type]] [[Monster Card|monster]] on your [[field]]. [[Destroy]] all face-up monsters on your opponent's field with [[DEF]] less than or equal to that monster's [[ATK]]. This [[turn]], your monsters cannot [[attack]].
   | ja_requirement = なし
   | ja_text        = 自分フィールドの表側表示の「デーモンの召喚」または表側表示モンスター（雷族）１体を選ぶ。選んだモンスターの攻撃力以下の守備力を持つ、相手フィールドの表側表示モンスターを全て破壊する。このターン、自分はモンスターで攻撃できない。
   | ko_requirement = 없음
@@ -22,8 +22,8 @@ wikitext: |-
   | m/s/t          = Destroys your opponent's face-up Monster Cards
   | attack         = Prevents your monsters from attacking
   | misc           = 
-  * Requires control of specific ATK
   * Requires control of specific card
   * Requires control of specific Type
+  * Requires control of specific ATK
   | database_id    = 17334
   }}
