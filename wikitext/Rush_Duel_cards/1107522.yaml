@@ -3,21 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|昆|こん}}{{Ruby|遁|とん}}{{Ruby|忍|にん}}{{Ruby|虫|ちゅう}} {{Ruby|刺|さす}}{{Ruby|又|また}}のカブト
-  | romaji_name     = Konton Ninchū Sasumata no Kabuto
-  | image           = EvasiveChaosNinsectSasumataKabuto-RDKP20-JP-OP.png
-  | attribute       = DARK
-  | types           = Insect / Effect
-  | level           = 4
-  | atk             = 1300
-  | def             = 400
-  | effect_types    = Continuous
-  | requirement     = None
-  | text            = If you have another [[face-up]] [[Insect]] [[Type]] [[monster]] on your [[field]], this card cannot be [[destroyed by battle]] with a monster that has 2000 or more [[ATK]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|昆|こん}}{{Ruby|遁|とん}}{{Ruby|忍|にん}}{{Ruby|虫|ちゅう}} {{Ruby|刺|さす}}{{Ruby|又|また}}のカブト
+  | romaji_name    = Konton Ninchū Sasumata no Kabuto
+  | image          = EvasiveChaosNinsectSasumataKabuto-RDKP20-JP-OP.png
+  | attribute      = DARK
+  | types          = Insect / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 400
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = If you have another [[face-up]] [[Insect]] [[Type]] [[Monster Card|monster]] on your [[field]], this card cannot be [[destroyed by battle]] with a monster that has 2000 or more [[ATK]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP014; Galactica of Eternity; Common
-  | archseries      = Evasive Chaos Ninsect
-  | database_id     = 
+  | supports       = Insect
+  | archseries     = Evasive Chaos Ninsect
+  | attack         = Cannot be destroyed by battle
+  | misc           = Requires control of specific Type
+  | database_id    = 
   }}

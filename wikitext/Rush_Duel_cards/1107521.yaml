@@ -3,21 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|昆|こん}}{{Ruby|遁|とん}}{{Ruby|忍|にん}}{{Ruby|虫|ちゅう}} {{Ruby|迷|めい}}{{Ruby|網|もう}}のクモ
-  | romaji_name     = Konton Ninchū Meimō no Kumo
-  | image           = EvasiveChaosNinsectLabyrinthSpider-RDKP20-JP-OP.png
-  | attribute       = DARK
-  | types           = Insect / Effect
-  | level           = 2
-  | atk             = 600
-  | def             = 400
-  | effect_types    = Continuous
-  | requirement     = None
-  | text            = If your opponent [[attack]]s a [[face-up]] [[monster]] while the only face-up monsters on your [[field]] are monsters whose original [[Type]] is [[Insect]], they can only declare an attack on the monster with the highest ATK on your field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|昆|こん}}{{Ruby|遁|とん}}{{Ruby|忍|にん}}{{Ruby|虫|ちゅう}} {{Ruby|迷|めい}}{{Ruby|網|もう}}のクモ
+  | romaji_name    = Konton Ninchū Meimō no Kumo
+  | image          = EvasiveChaosNinsectLabyrinthSpider-RDKP20-JP-OP.png
+  | attribute      = DARK
+  | types          = Insect / Effect
+  | level          = 2
+  | atk            = 600
+  | def            = 400
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = If your opponent [[attack]]s a [[face-up]] [[Monster Card|monster]] while the only face-up monsters on your [[field]] are monsters whose original [[Type]] is [[Insect]], they can only [[declare]] an attack on the monster with the highest [[ATK]] on your field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP013; Galactica of Eternity; Common
-  | archseries      = Evasive Chaos Ninsect
-  | database_id     = 
+  | supports       = Insect
+  | archseries     = Evasive Chaos Ninsect
+  | attack         = Prevents other cards being targeted for attacks
+  | misc           = Requires control of specific Type
+  | database_id    = 
   }}
