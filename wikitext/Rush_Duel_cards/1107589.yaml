@@ -11,11 +11,18 @@ wikitext: |-
   | level          = 4
   | atk            = 1200
   | def            = 400
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[send]] 1 [[DARK]] [[Attribute]] [[Insect]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[send]] 1 [[DARK]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
   | text           = [[Draw a card|Draw]] 1 card. Then, if you have 2 or more DARK Attribute monsters in your Graveyard, you can send the top 3 cards of your Deck to the Graveyard.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP20-JP038; Galactica of Eternity; Common
+  RD/KP20-JP039; Galactica of Eternity; Common
+  | supports       = 
+  * DARK
+  * Insect
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Sends from the top of your Deck to your Graveyard
   | database_id    = 
   }}
