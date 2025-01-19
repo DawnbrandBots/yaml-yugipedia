@@ -12,7 +12,7 @@ wikitext: |-
   | level           = 10
   | atk             = 2400
   | def             = 1700
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[Dinosaur]] [[Type]] [[monster]].
+  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Dinosaur]] [[Type]] [[Monster Card|monster]].
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text            = Make 1 [[face-up]] monster on the [[field]] lose 800 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 Dinosaur Type [[Maximum Monster]] from your Graveyard to your [[hand]].
   | ja_condition    = 
@@ -20,6 +20,15 @@ wikitext: |-
   | ja_text         = 
   | jp_sets         = 
   RD/KP20-JP019; Galactica of Eternity; Ultra Rare, Secret Rare, Over Rush Rare
+  | supports        = 
+  * Dinosaur
+  * Maximum Monster
   | archseries      = Nouveau Riche Dinosaur
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change     = All monsters lose ATK
+  | summoning       = Normal Summon with 1 Tribute
+  | misc            = Requires control of specific Type
   | database_id     = 
   }}

@@ -14,7 +14,7 @@ wikitext: |-
   | def            = 1800
   | effect_types   = Continuous
   | requirement    = None
-  | text           = Neither player can [[Special Summon]] [[Level]] 7 [[monsters]] from the [[Graveyard]].
+  | text           = Neither [[Duelist|player]] can [[Special Summon]] [[Level]] 7 [[Monster Card|monster]]s from the [[Graveyard]].
   | ja_requirement = なし
   | ja_text        = お互いは墓地からモンスター（レベル７）を特殊召喚できない。
   | ko_requirement = 없음
@@ -23,6 +23,8 @@ wikitext: |-
   RD/KP10-JP024; Deck Mod Pack: Requiem of Destruction!!; Ultra Rare
   | kr_sets        = 
   RD/KP10-KR024; Deck Mod Pack: Requiem of Destruction!!; Ultra Rare
-  | summoning      = Prevents Special Summons
+  | summoning      = 
+  * Prevents Special Summons
+  * Restricts the player's Special Summons to Level specific monsters
   | database_id    = 17872
   }}
