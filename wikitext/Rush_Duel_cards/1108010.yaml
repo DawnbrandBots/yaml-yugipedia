@@ -13,11 +13,20 @@ wikitext: |-
   | atk             = 1000
   | def             = 500
   | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text            = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 [[Level]] 7 or 8 [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] [[monster]] with 1500 or more [[DEF]] from your Graveyard to your hand.
+  | text            = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 [[Level]] 7 or 8 [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] [[Monster Card|monster]] with 1500 or more [[DEF]] from your Graveyard to your hand.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP20-JP027; Galactica of Eternity; Rare
+  | supports        = 
+  * LIGHT
+  * Beast
   | archseries      = Animagica
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id     = 
   }}

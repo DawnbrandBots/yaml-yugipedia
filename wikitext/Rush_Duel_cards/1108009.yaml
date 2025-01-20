@@ -3,23 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アニマジカ・トレーダー
-  | romaji_name     = Animajika Torēdā
-  | image           = AnimagicaTrader-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Beast / Effect
-  | level           = 3
-  | atk             = 1000
-  | def             = 200
-  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text            = [[Add a card|Add]] 1 "[[Animagica Coin]]" and/or 1 "[[Animagica Shield]]" from your [[Graveyard]] to your [[hand]]. Then, if you added 2 cards to your hand by this [[effect]], [[send]] this card from your [[field]] to the Graveyard.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = アニマジカ・トレーダー
+  | romaji_name    = Animajika Torēdā
+  | image          = AnimagicaTrader-RDKP20-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Beast / Effect
+  | level          = 3
+  | atk            = 1000
+  | def            = 200
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = [[Add a card|Add]] 1 "[[Animagica Coin]]" and/or "[[Animagica Shield]]" from your [[Graveyard]] to your [[hand]]. If you added 2 cards to your hand by this [[effect]], [[send]] this card from your [[field]] to the Graveyard.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP026; Galactica of Eternity; Common
-  | mentions        = 
+  | mentions       = 
   * Animagica Coin
   * Animagica Shield
-  | archseries      = Animagica
-  | database_id     = 
+  | archseries     = Animagica
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  * Sends itself from field to Graveyard
+  | database_id    = 
   }}

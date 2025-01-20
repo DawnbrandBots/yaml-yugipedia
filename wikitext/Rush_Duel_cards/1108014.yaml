@@ -3,18 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アニマジカ・コイン
-  | romaji_name     = Animajika Koin
-  | image           = AnimagicaCoin-RDKP20-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = None
-  | text            = [[Send]] 1 [[monster]] from your [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[Level]] 7 or 8 [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] [[monster]] with 1500 or more [[DEF]] from your Graveyard to your hand. You cannot [[activate]] the [[effect]]s of monsters whose [[original Level]] is 6 or lower for the rest of this [[turn]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = アニマジカ・コイン
+  | romaji_name    = Animajika Koin
+  | image          = AnimagicaCoin-RDKP20-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | text           = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[Level]] 7 or 8 [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] monster with 1500 or more [[DEF]] from your Graveyard to your [[hand]]. You cannot [[activate]] the [[effect]]s of monsters whose [[original Level]] is 6 or lower until the end of this [[turn]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP056; Galactica of Eternity; Common
-  | archseries      = Animagica
-  | database_id     = 
+  | supports       = 
+  * LIGHT
+  * Beast
+  | archseries     = Animagica
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Adds from Graveyard to hand
+  | m/s/t          = Prevents activation of your Effect Monsters
+  | database_id    = 
   }}

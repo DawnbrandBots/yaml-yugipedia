@@ -3,22 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アニマジカ・ウィップ
-  | romaji_name     = Animajika Wippu
-  | image           = AnimagicaWhip-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Beast / Effect
-  | level           = 7
-  | atk             = 2000
-  | def             = 2500
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[LIGHT]] [[Attribute]] [[monster]].
-  | requirement     = Place 1 [[Beast]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | text            = Make 1 [[face-up]] monster on your opponent's [[field]] with a [[Level]] lower than this card lose 2000 [[ATK]] until the end of this [[turn]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = アニマジカ・ウィップ
+  | romaji_name    = Animajika Wippu
+  | image          = AnimagicaWhip-RDKP20-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Beast / Effect
+  | level          = 7
+  | atk            = 2000
+  | def            = 2500
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]].
+  | requirement    = Place 1 [[Beast]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
+  | text           = Make 1 [[face-up]] monster on your opponent's [[field]] with a [[Level]] lower than this card's Level lose 2000 [[ATK]] until the end of this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP031; Galactica of Eternity; Super Rare, Secret Rare
-  | archseries      = Animagica
-  | database_id     = 
+  | supports       = 
+  * LIGHT
+  * Beast
+  | archseries     = Animagica
+  | action         = Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | stat_change    = Your opponent's monsters lose ATK
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Level
+  | database_id    = 
   }}

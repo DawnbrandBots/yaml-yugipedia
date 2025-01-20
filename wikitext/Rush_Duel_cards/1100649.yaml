@@ -3,26 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アニマジカ・シューター
-  | romaji_name     = Animajika Shūtā
-  | translated_name = 
-  | ko_name         = 
-  | ko_rr_name      = 
-  | image           = AnimagicaShooter-RDKP20-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Beast / Effect
-  | level           = 7
-  | atk             = 2500
-  | def             = 1500
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[LIGHT]] [[Attribute]] [[monster]].
-  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text            = Change the [[battle position]] of 1 monster on your opponent's [[field]]. Then, you can [[destroy]] 1 [[face-up]] monster on your opponent's [[field]] with a [[Level]] lower than this card.
-  | ja_requirement  = 
-  | ja_text         = 
-  | ko_requirement  = 
-  | ko_text         = 
-  | jp_sets         = 
+  | ja_name        = アニマジカ・シューター
+  | romaji_name    = Animajika Shūtā
+  | image          = AnimagicaShooter-RDKP20-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Beast / Effect
+  | level          = 7
+  | atk            = 2500
+  | def            = 1500
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = [[Battle position change|Change]] the [[battle position]] of 1 monster on your opponent's [[field]]. Then, you can [[destroy]] 1 [[face-up]] monster on your opponent's field with a [[Level]] lower than this card's Level.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP032; Galactica of Eternity; Ultra Rare, Secret Rare, Over Rush Rare
-  | archseries      = Animagica
-  | database_id     = 
+  | supports       = LIGHT
+  | archseries     = Animagica
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Level
+  | database_id    = 
   }}
