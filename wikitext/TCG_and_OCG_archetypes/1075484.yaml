@@ -35,49 +35,49 @@ wikitext: |-
   The designation of [[Main Deck]] monsters as [[wikipedia:Pawn (chess)|pawns]] and the [[Link Monster]]s as [[wikipedia:Queen (chess)|queens]] is based on the special rule of [[wikipedia:Promotion (chess)|promotion]] in the game of chess. This is a reference to ''Through the Looking-Glass'', where Alice takes the role of a pawn and is promoted to a queen.
 
   {| class="wikitable" style="text-align: center"
-  ! scope="col" | Maliss
+  ! scope="col" | Monster
   ! scope="col" | [[wikipedia:Lewis Carroll|Lewis Carroll]] character
   ! scope="col" | [[wikipedia:Playing card suit|Playing card suit]]
   ! scope="col" | [[wikipedia:Chess piece|Chess piece]]
   ! scope="col" | [[wikipedia:Malware|Malware]] origin
   |-
-  | [[Maliss P Chessy Cat|Pawn Chessy Cat]]
+  | [[Maliss P Chessy Cat|<Pawn> Chessy Cat]]
   | [[wikipedia:Cheshire Cat|Cheshire Cat]]
   | [[wikipedia:Clubs (suit)|Clubs]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:BlackCat (cyber gang)|BlackCat]]
   |-
-  | [[Maliss P Dormouse|Pawn Dormouse]]
+  | [[Maliss P Dormouse|<Pawn> Dormouse]]
   | [[wikipedia:Dormouse (Alice's Adventures in Wonderland character)|Dormouse]]
   | [[wikipedia:Diamonds (suit)|Diamonds]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:Clickjacking#MouseJack|MouseJack]]
   |-
-  | [[Maliss P March Hare|Pawn March Hare]]
+  | [[Maliss P March Hare|<Pawn> March Hare]]
   | [[wikipedia:March Hare|March Hare]]
   | [[wikipedia:Spades (suit)|Spades]]
   | [[wikipedia:Pawn (chess)|Pawn]]
-  | 
+  | [[wikipedia:Hare (computer virus)|Hare]]
   |-
-  | [[Maliss P White Rabbit|Pawn White Rabbit]]
+  | [[Maliss P White Rabbit|<Pawn> White Rabbit]]
   | [[wikipedia:White Rabbit|White Rabbit]]
   | [[wikipedia:Hearts (suit)|Hearts]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:Ransomware#Bad Rabbit|Bad Rabbit]]
   |-
-  | [[Maliss Q Hearts Crypter|Queen Hearts Crypter]]
+  | [[Maliss Q Hearts Crypter|<Queen> Hearts Crypter]]
   | [[wikipedia:Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts]]
   | [[wikipedia:Hearts (suit)|Hearts]]
   | [[wikipedia:Queen (playing card)|(Cards) Queen]]
   | [[wiktionary:crypter|crypter]]
   |-
-  | [[Maliss Q Red Ransom|Queen Red Ransom]]
+  | [[Maliss Q Red Ransom|<Queen> Red Ransom]]
   | [[wikipedia:Red Queen (Through the Looking-Glass)|Red Queen]]
   | ''<span style="color: grey;">None</span>''
   | [[wikipedia:Queen (chess)|Queen]]
   | [[wikipedia:Ransomware|Ransomware]]
   |-
-  | [[Maliss Q White Binder|Queen White Binder]]
+  | [[Maliss Q White Binder|<Queen> White Binder]]
   | [[wikipedia:White Queen (Through the Looking-Glass)|White Queen]]
   | ''<span style="color: grey;">None</span>''
   | [[wikipedia:Queen (chess)|Queen]]
@@ -87,8 +87,9 @@ wikitext: |-
   The related monster "[[Mad Hacker]]" is based on the character [[wikipedia:Hatter (Alice's Adventures in Wonderland)|Mad Hatter]] and the act of [[wikipedia:Hacker|hacking]].
 
   The [[Trap Card]]s are named after acronyms based on phrases in specific chapters from ''Alice's Adventures in Wonderland''.
+
   {| class="wikitable" style="text-align: center"
-  ! scope="col" rowspan="2" | Maliss <&#67;>
+  ! scope="col" rowspan="2" | Trap
   ! scope="col" colspan="2" | ''[[wikipedia:Alice's Adventures in Wonderland|Alice's Adventures in Wonderland]]'' origin
   |-
   ! Phrase
@@ -118,10 +119,10 @@ wikitext: |-
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
   |effect monsters =
-  * [[Maliss P Chessy Cat]]
-  * [[Maliss P Dormouse]]
-  * [[Maliss P March Hare]]
-  * [[Maliss P White Rabbit]]
+  * [[Maliss P Chessy Cat|Maliss <nowiki><P></nowiki> Chessy Cat]]
+  * [[Maliss P Dormouse|Maliss <nowiki><P></nowiki> Dormouse]]
+  * [[Maliss P March Hare|Maliss <nowiki><P></nowiki> March Hare]]
+  * [[Maliss P White Rabbit|Maliss <nowiki><P></nowiki> White Rabbit]]
   * [[Mad Hacker]]
   * [[Aloof Lupine]]
   * [[Balancer Lord]]
@@ -136,7 +137,7 @@ wikitext: |-
   * [[Gold Pride - Nytro Head]]
   * [[Grid Sweeper]]
   * [[L Magi Mergy]]
-  * [[Labrynth]] monsters
+  * "[[Labrynth]]" monsters
   ** [[Arias the Labrynth Butler]]
   ** [[Lady Labrynth of the Silver Castle]]
   * [[Lady Debug]]
@@ -157,16 +158,16 @@ wikitext: |-
   * [[Antihuman Intelligence ME-PSY-YA]]
 
   |fusion monsters =
-  * [[Cyberse Desavewurm]] ''(with "Firewall Dragon Darkfluid - Neo Tempest Terahertz")''
+  * [[Cyberse Desavewurm]] (with "Neo Tempest Terahertz")
 
   |xyz monsters =
-  * [[Mereologic Aggregator]] ''(with "Firewall Dragon Darkfluid - Neo Tempest Terahertz")''
+  * [[Mereologic Aggregator]] (with "Neo Tempest Terahertz")
   * [[Cyberse Reminder]]
 
   |link monsters =
-  * [[Maliss Q Hearts Crypter]]
-  * [[Maliss Q Red Ransom]]
-  * [[Maliss Q White Binder]]
+  * [[Maliss Q Hearts Crypter|Maliss <nowiki><Q></nowiki> Hearts Crypter]]
+  * [[Maliss Q Red Ransom|Maliss <nowiki><Q></nowiki> Red Ransom]]
+  * [[Maliss Q White Binder|Maliss <nowiki><Q></nowiki> White Binder]]
   * [[Firewall Dragon]]
   * [[Firewall Dragon Darkfluid - Neo Tempest Terahertz]]
   * [[Haggard Lizardose]]
@@ -175,10 +176,10 @@ wikitext: |-
   * [[S:P Little Knight]]
   * [[Splash Mage]]
   * [[Topologic Zeroboros]]
-  * [[Code Talker (archetype)| Code Talker]] monsters
+  * "[[Code Talker (archetype)|Code Talker]]" monsters
   ** [[Accesscode Talker]]
   ** [[Accode Talker @Ignister]]
-  ** [[Decode Talker Heatsoul]] ''(with "Recoded Alive")''
+  ** [[Decode Talker Heatsoul]] (with "Recoded Alive")
   ** [[Protectcode Talker]]
   ** [[Transcode Talker]]
 
@@ -207,12 +208,12 @@ wikitext: |-
   * [[Galaxy Journey]]
 
   |normal traps =
-  * [[Maliss C GWC-06]]
-  * [[Maliss C MTP-07]]
-  * [[Maliss C TB-11]]
+  * [[Maliss C GWC-06|Maliss <C> GWC-06]]
+  * [[Maliss C MTP-07|Maliss <C> MTP-07]]
+  * [[Maliss C TB-11|Maliss <C> TB-11]]
   * [[Dark Sacrifice]]
   * [[Different Dimension Ground]]
-  * [[Limit Code]] (w/ "Protectcode Talker")
+  * [[Limit Code]] (with "Protectcode Talker")
   * [[PA.I.rtners]]
   * [[Recoded Alive]]
   * [[Trap Trick]]
