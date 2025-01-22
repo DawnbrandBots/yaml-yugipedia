@@ -5,17 +5,23 @@ wikitext: |-
   {{CardTable2
   | ja_name               = レクイエム・ストライクバック
   | romaji_name           = Rekuiemu Sutoraikubakku
-  | ko_name               = 
-  | ko_rr_name            = 
   | image                 = RequiemStrikeBack-RDKP20-JP-OP.png
   | card_type             = Trap
   | property              = Normal
-  | requirement           = When an opponent's [[monster]] [[declare]]s an [[attack]] [[target]]ing your [[face-up]] "[[Voidvelg Requiem]]" while their [[LP]] are at least 2500 higher than yours.
-  | text                  = [[Negate]] the attack. Then, you can inflict [[Effect damage|damage]] to your opponent equal to [the [[ATK]] of the attacking monster].
+  | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] "[[Voidvelg Requiem]]" while their [[LP]] are at least 2500 higher than yours.
+  | text                  = [[Negate]] the attack. Then, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the [[ATK]] of the attacking monster].
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
   RD/KP20-JP060; Galactica of Eternity; Common
   | mentions              = Voidvelg Requiem
   | related_to_archseries = Voidvelg
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | attack                = Negates attacks
+  | life_points           = Damages your opponent
+  | misc                  = 
+  * Requires control of specific card
+  * Requires specific LP
   }}

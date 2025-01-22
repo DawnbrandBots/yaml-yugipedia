@@ -17,7 +17,7 @@ wikitext: |-
   | materials       = "[[Voidvelg Requiem]]" + "[[Voidvelg Palerider]]"
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = This card gains 900 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] cards on your opponent's [[field]] up to [the number of [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] monsters with 1600 or more ATK sent to the Graveyard to meet the requirement].
+  | text            = This card gains 900 [[ATK]] until the end of this [[turn]]. Then, you can [[destroy]] cards on your opponent's [[field]], up to [the number of [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 1600 or more ATK sent to the Graveyard to meet the [[Activation condition|requirement]]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -27,6 +27,24 @@ wikitext: |-
   | mentions        = 
   * Voidvelg Requiem
   * Voidvelg Palerider
+  | supports        = 
+  * DARK
+  * Galaxy (Type)
   | archseries      = Voidvelg
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = This card gains ATK
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id     = 
   }}

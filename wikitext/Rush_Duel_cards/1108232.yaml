@@ -11,13 +11,23 @@ wikitext: |-
   | level          = 1
   | atk            = 100
   | def            = 100
-  | requirement    = [[Shuffle]] 3 [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement    = [[Shuffle]] 3 [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | text           = [[Send]] this card from your [[field]] to the Graveyard. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field. If you do, you can [[Add a card|add]] 1 "[[Universal Storm]]" from your Graveyard to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP20-JP009; Galactica of Eternity; Common
   | mentions       = Universal Storm
+  | supports       = 
+  * DARK
+  * Galaxy (Type)
   | archseries     = Voidvelg
+  | action         = 
+  * Returns from Graveyard to Deck for cost
+  * Sends itself from field to Graveyard
+  * Adds from Graveyard to hand
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id    = 
   }}

@@ -11,12 +11,21 @@ wikitext: |-
   | level          = 3
   | atk            = 0
   | def            = 1300
-  | requirement    = If you have another [[face-up]] [[Galaxy]] [[Type]] [[monster]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[change]] this [[Attack Position]] card to face-up [[Defense Position]].
+  | requirement    = If you have another [[face-up]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] this [[Attack Position]] card to face-up [[Defense Position]].
   | text           = This card gains 1300 [[DEF]] until the end of your opponent's next turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP20-JP010; Galactica of Eternity; Common
+  | supports       = Galaxy (Type)
   | archseries     = Voidvelg
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Changes own battle position
+  * Changes battle positions for cost
+  | stat_change    = This card gains DEF
+  | misc           = 
+  * Requires control of specific Type
+  * Turn limited effects
   | database_id    = 
   }}

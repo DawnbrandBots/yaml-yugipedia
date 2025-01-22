@@ -9,11 +9,25 @@ wikitext: |-
   | card_type             = Spell
   | property              = Normal
   | requirement           = [[Shuffle]] 1 [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text                  = [[Fusion Summon]] a [[Level]] 9 DARK Attribute Galaxy Type [[monster]] with 2000 or more [[DEF]] by shuffling 2 DARK Attribute Galaxy Type monsters from your Graveyard into the Deck as [[material]]. This [[turn]], you can only [[attack]] with the monster Special Summoned by this [[effect]].
+  | text                  = [[Fusion Summon]] a [[Level]] 9 DARK Attribute Galaxy Type [[Monster Card|monster]] with 2000 or more [[DEF]] by shuffling 2 DARK Attribute Galaxy Type monsters from your Graveyard into the Deck as [[material]]. This [[turn]], you can only [[attack]] with the monster Special Summoned by this [[effect]].
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
   RD/KP20-JP052; Galactica of Eternity; Rare
+  | supports              = 
+  * DARK
+  * Galaxy (Type)
+  * Normal Monster
   | related_to_archseries = Voidvelg
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack                = Prevents your monsters from attacking
   | database_id           = 
   }}
