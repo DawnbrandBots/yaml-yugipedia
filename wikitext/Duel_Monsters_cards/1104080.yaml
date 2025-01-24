@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = KuribontheFairySpirit-ALIN-JP-OP.png
+  | image                 = KuribontheFairySpirit-ALIN-JP-C.png
   | attribute             = LIGHT
   | types                 = Fairy / Effect
   | level                 = 1
   | atk                   = 300
   | def                   = 200
-  | password              = 
+  | password              = 34873741
   | effect_types          = Ignition, Continuous, Condition
   | text                  = If you [[control]] "[[Ancient Fairy Dragon]]" or a [[LIGHT]] [[Beast]], [[Plant]], or [[Fairy]] [[monster]]: You can [[Special Summon]] this card from your [[hand]], and if you do, it is treated as a [[Tuner]]. If another "Ancient Fairy Dragon", or monster(s) that mentions it, that you control would be destroyed by card [[effect]], you can [[return]] this card from the [[field]] to the hand instead. You can only use each [[effect]] of "Kuribon the Fairy Spirit" [[once per turn]].
   | fr_text               = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「エンシェント・フェアリー・ドラゴン」または獣族・植物族・天使族の光属性モンスターのいずれかが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードはチューナーとして扱う。②：自分フィールドの他の、「エンシェント・フェアリー・ドラゴン」またはそのカード名が記されたモンスターが効果で破壊される場合、代わりにフィールドのこのカードを手札に戻す事ができる。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  ALIN-JP008; Alliance Insight; 
+  ALIN-JP008; Alliance Insight; Common
   | mentions              = Ancient Fairy Dragon
   | supports              = 
   * LIGHT
@@ -54,5 +54,5 @@ wikitext: |-
   * Requires control of specific Type
   * Mentions
   * Only once per turn
-  | database_id           = 
+  | database_id           = 21145
   }}

@@ -16,7 +16,7 @@ wikitext: |-
   | image               = SevenStarSkyStyleBattojutsuHagun-ALIN-JP-NR.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 65114115
   | effect_types        = Effect, Trigger-like, Condition
   | text                = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] 1 [[Level]] 7 monster with the same [[Type]], but a different name, from your [[hand]] or [[Main Deck|Deck]] to it as an [[Equip Spell]] that gives it 700 [[ATK]], but return that Equip Card to the hand during the [[End Phase]]. When an opponent's Level/[[Rank]] 8 or higher monster is [[destroyed by battle]] while this card is in your GY: You can [[Add a card|add]] this card to your hand. You can only activate 1 "Seven Star Sky Style Battojutsu - "Hagun"" per turn.
   | fr_text             = 
@@ -29,5 +29,16 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP069; Alliance Insight; Normal Rare
+  | action              = 
+  * Equips monsters from the player's hand
+  * Equips monsters from the player's Deck
+  * Grants effect to Equip Spell Card
+  * Returns from your field to your hand
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | stat_change         = Equipped gains ATK
+  | m/s/t               = Treats monsters as Equip Cards
+  | misc                = Only once per turn
   | database_id         = 21206
   }}

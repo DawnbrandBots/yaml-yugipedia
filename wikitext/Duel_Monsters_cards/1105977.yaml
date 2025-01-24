@@ -17,13 +17,13 @@ wikitext: |-
   | ko_rr_name           = 
   | sc_name              = 
   | sc_pinyin_name       = 
-  | image                = RegenesisSageShemot-ALIN-JP-OP.png
+  | image                = RegenesisSageShemot-ALIN-JP-SR.png
   | attribute            = WATER
   | types                = Spellcaster / Effect
   | level                = 7
   | atk                  = 2500
   | def                  = 2500
-  | password             = 
+  | password             = 22938501
   | effect_types         = Unclassified, Condition, Condition, Quick, Trigger
   | text                 = If a [[monster]] with 2500 [[original ATK]] or DEF is on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Regenesis Sage Shemot" [[once per turn]] this way. You can only use each of the following [[effect]]s of "Regenesis Sage Shemot" once per turn. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[send]] 1 other "[[Regenesis]]" card from your hand or [[face-up]] field to the [[GY]]; [[negate]] the activation, and if you do, [[destroy]] that card. During your opponent's [[End Phase]], if this card is in your GY because it was sent there this turn: You can [[Add a card|add]] it to your hand.
   | fr_text              = 
@@ -31,11 +31,12 @@ wikitext: |-
   | it_text              = 
   | pt_text              = 
   | es_text              = 
-  | ja_text              = 
+  | ja_text              = このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②③の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドに元々の攻撃力か元々の守備力が２５００のモンスターが存在する場合、このカードは手札から特殊召喚できる。②：相手がカードの効果を発動した時、自分の手札・フィールド（表側表示）からこのカード以外の「リジェネシス」カード１枚を墓地へ送って発動できる。その発動を無効にし破壊する。③：このカードが墓地へ送られた相手ターンのエンドフェイズに発動できる。このカードを手札に加える。
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  ALIN-JP014; Alliance Insight; 
+  ALIN-JP014; Alliance Insight; Super Rare, Secret Rare, Quarter Century Secret Rare
+  ALIN-JP014; Alliance Insight +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | archseries           = Regenesis
   | supports_archetypes  = Regenesis
   | action               = 
@@ -58,5 +59,5 @@ wikitext: |-
   * Requires control of specific DEF
   * Only once per turn
   * Requires control of specific archetype
-  | database_id          = 
+  | database_id          = 21151
   }}

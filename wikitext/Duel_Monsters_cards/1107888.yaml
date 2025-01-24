@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ThePsalmsofKings-ALIN-JP-OP.png
+  | image               = ThePsalmsofKings-ALIN-JP-R.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 58053438
   | effect_types        = Condition, Effect, Lingering, Condition
   | text                = If you have no [[monsters]] in your [[GY]], you can [[activate]] this card from your [[hand]]. When your opponent [[activate]]s a [[monster effect]] on the [[field]]: Negate that [[effect]], then if you have a [[Trap]] in your GY, you can [[Add a card|add]] 1 "[[Dominus]]" card from your [[Main Deck|Deck]] to your hand. If you activated this card from your hand, you cannot activate monster effects in the hand, GY, and [[banish]]ment until the end of the next [[turn]]. You can only activate 1 "The Psalms of Kings" per turn.
   | fr_text             = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。自分の墓地にモンスターが存在しない場合、このカードの発動は手札からもできる。①：相手がフィールドのモンスターの効果を発動した時に発動できる。その効果を無効にする。自分の墓地に罠カードが存在する場合、さらにデッキから「ドミナス」カード１枚を手札に加える事ができる。このカードを手札から発動した場合、発動後、次のターンの終了時まで自分は手札・墓地・除外状態のモンスターの効果を発動できない。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  ALIN-JP078; Alliance Insight; 
+  ALIN-JP078; Alliance Insight; Rare
   | supports_archetypes = Dominus
   | action              = Adds from Deck to hand
   | m/s/t               = 
@@ -39,5 +39,5 @@ wikitext: |-
   * Requires having no monsters in Graveyard
   * Turn limited effects
   * Only once per turn
-  | database_id         = 
+  | database_id         = 21215
   }}

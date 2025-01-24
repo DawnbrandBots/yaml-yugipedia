@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = CurseofDiabell-ALIN-JP-OP.png
+  | image               = CurseofDiabell-ALIN-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 64998567
   | effect_types        = Effect, Trigger-like, Condition
   | text                = If you [[control]] 2 or more "[[Diabell]]" [[monsters]]: [[Send]] 1 monster you [[control]] to the [[GY]]; [[destroy]] all [[face-up]] cards your opponent controls. If this card is [[sent]] to the GY, or [[banish]]ed, from the [[hand]] or [[Main Deck|Deck]]: You can [[Add a card|add]] 1 "Diabell" [[Spell]]/[[Trap]] from your Deck to your hand, except "Curse of Diabell". You can only use each effect of "Curse of Diabell" [[once per turn]].
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「ディアベル」モンスターが２体以上存在する場合、自分フィールドのモンスター１体を墓地へ送って発動できる。相手フィールドの表側表示カードを全て破壊する。②：このカードが手札・デッキから、墓地へ送られた場合または除外された場合に発動できる。デッキから「カース・オブ・ディアベル」以外の「ディアベル」魔法・罠カード１枚を手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  ALIN-JP072; Alliance Insight; 
+  ALIN-JP072; Alliance Insight; Common
   | mentions            = Curse of Diabell
   | archseries          = Diabell
   | supports_archetypes = Diabell
@@ -45,5 +45,5 @@ wikitext: |-
   | misc                = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
+  | database_id         = 21209
   }}

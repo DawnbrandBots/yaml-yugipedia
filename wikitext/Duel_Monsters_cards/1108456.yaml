@@ -19,7 +19,7 @@ wikitext: |-
   | level               = 6
   | atk                 = 1350
   | def                 = 2400
-  | password            = 
+  | password            = 71750854
   | effect_types        = Quick
   | text                = Once per [[Chain]] ([[Quick Effect]]): You can pay 600 [[LP]], then [[activate]] 1 of these [[effect]]s;<br />● If you [[control]] [[monsters]] of each Level from 1 to 6: Choose 1 [[face-up]] monster your opponent controls that has a [[Level]], and destroy all other monsters they control with an equal Level/[[Rank]]/[[Link Rating]].<br />● Choose 1 face-up monster you control that has a Level, and destroy all your opponent's monsters in its column with an equal Level/Rank/Link Rating.
   | fr_text             = 
@@ -32,5 +32,12 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP034; Alliance Insight; Normal Rare
+  | m/s/t               = Destroys your opponent's face-up Monster Cards
+  | life_points         = Pays Life Points for cost
+  | misc                = 
+  * Once per Chain
+  * Variable effects
+  * Requires control of specific Level
+  * Column
   | database_id         = 21171
   }}

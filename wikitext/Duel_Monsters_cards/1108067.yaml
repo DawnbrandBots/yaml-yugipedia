@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = TenseiRyuGeAnva-ALIN-JP-OP.png
+  | image                 = TenseiRyuGeAnva-ALIN-JP-R.png
   | attribute             = DARK
   | types                 = Dragon / Pendulum / Effect
   | level                 = 10
   | atk                   = 3000
   | def                   = 2100
   | pendulum_scale        = 11
-  | password              = 
+  | password              = 56322832
   | pendulum_effect_types = Continuous-like, Continuous-like, Condition
   | effect_types          = Ignition, Trigger, Trigger, Condition
   | pendulum_effect       = You cannot [[Pendulum Summon]], except "[[Ryu-Ge]]" [[monsters]] (this [[effect]] cannot be [[negate]]d). When a card or effect [[activate]]d by your opponent in [[response]] to your "Ryu-Ge" Spell Card or effect activation resolves, you can negate that effect, then [[destroy]] this card. You can only use this [[effect]] of "Tensei Ryu-Ge Anva" [[once per turn]].
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名の②のＰ効果は１ターンに１度しか使用できない。①：自分は「竜華」モンスターしかＰ召喚できない。この効果は無効化されない。②：自分の「竜華」魔法カードの効果の発動にチェーンして相手が発動した魔法・罠・モンスターの効果の処理時に、その効果を無効にできる。その後、このカードを破壊する。
+  | ja_text               = このカード名の①②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：「転惺竜華－闇巴」以外の自分の手札・フィールドの「竜華」モンスター１体をリリースして発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚した場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。③：このカードが破壊された場合に発動できる。自分のデッキ・墓地・除外状態の「竜華」永続魔法・永続罠カード１枚を自分フィールドに表側表示で置く。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -72,5 +72,5 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Requires control of specific archetype
-  | database_id           = 
+  | database_id           = 21161
   }}

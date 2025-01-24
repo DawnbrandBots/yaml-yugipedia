@@ -16,9 +16,9 @@ wikitext: |-
   | image               = DoitEarlyDoitTogether-ALIN-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 38625110
   | effect_types        = Effect
-  | text                = If you do not have "Do it Early, Do it Together" in your [[face-up]] [[field]], [[GY]], and [[banish]]ment: Banish the top 7 cards of your [[Main Deck|Deck]], [[face-down]]; your opponent banishes 7 cards from their [[Extra Deck]] and/or the top of their Deck, face-down.
+  | text                = If you do not have "Do it Early, Do it Together" in your [[face-up]] [[field]], [[GY]], nor [[banish]]ment: Banish the top 7 cards of your [[Main Deck|Deck]], [[face-down]]; your opponent banishes 7 cards from their [[Extra Deck]] and/or the top of their Deck, face-down.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -29,6 +29,11 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ALIN-JP068; Alliance Insight; Common
-  | database_id         = 21205
   | mentions            = Do it Early, Do it Together
+  | banished            = 
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  * Banishes from the top of your opponent's Deck
+  * Banishes from your opponent's Extra Deck
+  | database_id         = 21205
   }}

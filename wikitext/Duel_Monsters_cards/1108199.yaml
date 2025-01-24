@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = MalissintheMirror-ALIN-JP-OP.png
+  | image               = MalissintheMirror-ALIN-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 93453053
   | effect_types        = Effect, Trigger-like, Condition
   | text                = [[Target]] 1 [[face-up]] [[monster]] your opponent [[control]]s; [[banish]] 1 "[[Maliss]]" monster from your [[hand]] or [[face-up]] [[field]], and if you do, [[negate]] the targeted monster's effects until the end of this [[turn]]. If this card is [[banish]]ed: You can [[target]] 1 "Maliss" card in your [[GY]]; banish it, and if you do, [[Add a card|add]] 1 "Maliss" card of the same type (Monster, [[Spell]], or [[Trap]]) from your [[Main Deck|Deck]] to your hand. You can only use each effect of "Maliss in the Mirror" [[once per turn]].
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドの表側表示モンスター１体を対象として発動できる。自分の手札・フィールド（表側表示）から「Ｍ∀ＬＩＣＥ」モンスター１体を除外し、対象のモンスターの効果をターン終了時まで無効にする。②：このカードが除外された場合、自分の墓地の「Ｍ∀ＬＩＣＥ」カード１枚を対象として発動できる。そのカードを除外し、除外したカードと同じ種類（モンスター・魔法・罠）の「Ｍ∀ＬＩＣＥ」カード１枚をデッキから手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  ALIN-JP064; Alliance Insight; 
+  ALIN-JP064; Alliance Insight; Common
   | archseries          = Maliss
   | supports_archetypes = Maliss
   | action              = 
@@ -43,5 +43,5 @@ wikitext: |-
   | misc                = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
+  | database_id         = 21201
   }}

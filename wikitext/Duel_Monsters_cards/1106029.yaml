@@ -13,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PrimaMateriactor-ALIN-JP-OP.png
+  | image                 = PrimaMateriactor-ALIN-JP-C.png
   | attribute             = LIGHT
   | types                 = Dragon / Pendulum / Normal
   | level                 = 3
   | atk                   = 0
   | def                   = 0
   | pendulum_scale        = 1
-  | password              = 
+  | password              = 57448410
   | pendulum_effect_types = Continuous-like, Ignition-like, Condition
   | pendulum_effect       = [[Xyz Monster]]s you [[control]] gain 100 [[ATK]] for each material attached to monsters on the [[field]]. You can [[target]] 1 "[[Materiactor]]" Xyz Monster you control; attach this card to it as material, then [[Draw a card|draw]] 1 card. You can only use this [[effect]] of "Prima Materiactor" [[once per turn]].
   | text                  = ''An alien lifeform that suddenly crash-landed from the heavens far above. Although many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. As a result, trying to grasp the whole picture has been extremely difficult. However, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.''
@@ -34,14 +34,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名の②のＰ効果は１ターンに１度しか使用できない。①：自分フィールドのＸモンスターの攻撃力は、フィールドのＸ素材の数×１００アップする。②：自分フィールドの「マテリアクトル」Ｘモンスター１体を対象として発動できる。このカードをそのモンスターのＸ素材とする。その後、自分は１枚ドローする。
+  | ja_text               = 遥か彼方の天上界より突如として飛来した外来生命体。多くの研究者が正体の究明に努めたが、その放たれる光輝や立ち込める瘴気により永きにわたって存在が謎に包まれ、全容を目にすることは困難を極めた。しかしながら、近年、新進の研究者の働きによって新種が多数発見された。その全容が明かされる日も近いだろう。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  ALIN-JP021; Alliance Insight; 
+  ALIN-JP021; Alliance Insight; Common
   | supports              = Xyz Monster
   | archseries            = Materiactor
   | supports_archetypes   = Materiactor
@@ -53,5 +53,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 21158
   }}

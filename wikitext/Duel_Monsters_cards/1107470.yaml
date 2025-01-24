@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ChaoticElements-ALIN-JP-OP.png
+  | image                 = ChaoticElements-ALIN-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 92221402
   | effect_types          = Effect, Ignition-like, Condition
   | text                  = [[Add a card|Add]] 1 [[Level]] 5 or higher [[LIGHT]] or [[DARK]] [[Pyro]] or [[Aqua]] [[monster]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]], then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can [[destroy]] 1 card on the [[field]]. If your opponent controls a LIGHT or DARK Pyro or Aqua monster: You can [[banish]] this card from your GY, then [[target]] 1 monster your opponent controls; take control of it until the [[End Phase]]. You can only use each effect of "Chaotic Elements" once per turn.
   | fr_text               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のデッキ・墓地からレベル５以上で炎族・水族の光・闇属性モンスター１体を手札に加える。その後、自分の墓地に炎族・水族モンスターが３体以上存在する場合、フィールドのカード１枚を破壊できる。②：相手フィールドに炎族・水族の光・闇属性モンスターが存在する場合、墓地のこのカードを除外し、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールをエンドフェイズまで得る。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  ALIN-JP067; Alliance Insight; 
+  ALIN-JP067; Alliance Insight; Common
   | supports              = 
   * LIGHT
   * DARK
@@ -53,5 +53,5 @@ wikitext: |-
   * Destroys Trap Cards
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 21204
   }}
