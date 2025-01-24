@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 4
   | atk            = 1300
   | def            = 1100
-  | requirement    = [[Send]] 1 card from your hand to the Graveyard.
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | text           = This card gains 800 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 "[[Green Gadget (Rush Duel)|Green Gadget]]", "[[Red Gadget (Rush Duel)|Red Gadget]]", or "[[Yellow Gadget (Rush Duel)|Yellow Gadget]]" from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
@@ -22,5 +22,10 @@ wikitext: |-
   * Red Gadget (Rush Duel)
   * Yellow Gadget (Rush Duel)
   | archseries     = Gadget (series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = This card gains ATK
+  | misc           = Turn limited effects
   | database_id    = 
   }}

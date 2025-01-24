@@ -13,15 +13,24 @@ wikitext: |-
   | atk             = 2000
   | def             = 2100
   | fusion_material = Beta The Magnet Warrior (Rush Duel)
-  | materials       = "[[Beta The Magnet Warrior (Rush Duel)|Beta The Magnet Warrior]]" + 1 [[Level]] 4 or lower [[Rock]] [[Type]] [[monster]]
+  | materials       = "[[Beta The Magnet Warrior (Rush Duel)|Beta The Magnet Warrior]]" + 1 [[Level]] 4 or lower [[Rock]] [[Type]] [[Monster Card|monster]]
   | requirement     = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Choose 1 face-up monster on your [[field]]. This [[turn]], that monster gains 300 [[ATK]], and it inflicts [[piercing]] [[battle damage]].
+  | text            = Choose 1 [[face-up]] monster on your [[field]]. This [[turn]], that monster gains 300 [[ATK]], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP20-JP049; Galactica of Eternity; Common
   | mentions        = Beta The Magnet Warrior (Rush Duel)
+  | supports        = Rock
   | archseries      = Magnet Warrior (Rush Duel)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack          = Piercing
   | database_id     = 
   }}
