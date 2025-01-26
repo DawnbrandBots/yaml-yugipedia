@@ -20,7 +20,7 @@ httpcore==1.0.7
     # via httpx
 httpx[http2]==0.28.1
     # via -r requirements.in
-hyperframe==6.0.1
+hyperframe==6.1.0
     # via h2
 idna==3.10
     # via
