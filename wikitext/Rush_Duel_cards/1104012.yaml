@@ -3,43 +3,47 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name          = ハーピィ{{Ruby|三姉妹|レディース}}・{{Ruby|ＴＢ|トライアングル・ビューティー}}
-  | romaji_name      = Hāpyi Redīsu Toraianguru Byūtī
-  | translated_name  = Harpie Ladies Triangle Beauty
-  | ko_name          = 
-  | ko_rr_name       = 
-  | image            = HarpieLadySistersTriangleBeauty-RDSD0D-JP-OP.png
-  | attribute        = WIND
-  | types            = Winged Beast / Fusion / Effect
-  | level            = 12
-  | atk              = 3400
-  | def              = 2100
-  | materials        = "[[Harpie Lady Sisters (Rush Duel)|Harpie Lady Sisters]]" + 2 [[WIND]] [[Attribute]] [[Winged Beast]] [[Type]] [[monsters]]
-  | effect_types     = Continuous
-  | condition        = You can Summon this card by [[Contact Fusion]].
-  | requirement      = None
-  | text             = This card's name becomes "Harpie Lady Sisters", and it cannot be [[destroy]]ed by your opponent's [[Spell]]/[[Trap Card]] [[effect]]s. [[Face-up]] [[Level]] 12 monsters on your [[field]] cannot be used as [[material]] for a [[Fusion Summon]].
-  | ja_condition     = 
-  | ja_requirement   = 
-  | ja_text          = 
-  | ko_condition     = 
-  | ko_requirement   = 
-  | ko_text          = 
-  | jp_sets          = 
+  | ja_name         = ハーピィ{{Ruby|三姉妹|レディース}}・{{Ruby|ＴＢ|トライアングル・ビューティー}}
+  | romaji_name     = Hāpyi Redīsu Toraianguru Byūtī
+  | translated_name = Harpie Ladies Triangle Beauty
+  | image           = HarpieLadySistersTriangleBeauty-RDSD0D-JP-OP.png
+  | attribute       = WIND
+  | types           = Winged Beast / Fusion / Effect
+  | level           = 12
+  | atk             = 3400
+  | def             = 2100
+  | effect_types    = Continuous
+  | fusion_material = Harpie Lady Sisters (Rush Duel)
+  | materials       = "[[Harpie Lady Sisters (Rush Duel)|Harpie Lady Sisters]]" + 2 [[WIND]] [[Attribute]] [[Winged Beast]] [[Type]] [[Monster Card|monster]]s
+  | condition       = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement     = None
+  | text            = This card's name becomes "Harpie Lady Sisters", and it cannot be [[destroy]]ed by your opponent's [[Spell Card|Spell]]/[[Trap Card]] [[effect]]s. [[Face-up]] [[Level]] 12 monsters on your [[field]] cannot be used as [[material]] for a [[Fusion Summon]].
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/SD0D-JP001; Structure Deck: Harpie Lady Sisters; Ultra Rare
   RD/SD0D-JPS01; Structure Deck: Harpie Lady Sisters; Over Rush Rare
-  | archseries       = Harpie (Rush Duel series)
-  | stat_change      = 
-  * Changes own name while on the field
-  | m/s/t            = 
-  * Cannot be destroyed by card effects
-  | summoning        = 
+  | mentions        = Harpie Lady Sisters (Rush Duel)
+  | supports        = 
+  * WIND
+  * Winged Beast
+  | archseries      = Harpie (Rush Duel series)
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change     = Changes own name while on the field
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
   * 3 Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
+  * Requires Maximum Monsters as Fusion Materials
   * Requires Attribute specific Fusion Materials
   * Requires Type specific Fusion Materials
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Special Summons itself from your Extra Deck
   * Cannot be used as a Fusion Material
-  | database_id       = 
+  | misc            = 
+  * Requires control of specific Level
+  * Cover card
+  | database_id     = 
   }}
