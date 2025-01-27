@@ -1,17 +1,18 @@
 title: Chimeratech Overdragon (Rush Duel)
 wikitext: |-
+  {{Unofficial lore|English}}
   {{CardTable2
-  | image            = ChimeratechOverdragon-OW-RD.png
+  | image            = ChimeratechOverdragon-RDSD0C-JP-OP.png
   | attribute        = DARK
   | types            = Machine / Fusion / Effect
   | level            = 9
   | atk              = 0
   | def              = 0
-  | materials        = TBA
-  | effect_types     = 
-  | condition        = 
-  | requirement      = TBA
-  | text             = TBA
+  | materials        = "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" + 1 or more [[Machine]] [[Type]] [[monsters]]
+  | effect_types     = Continuous
+  | condition        = This card's original ATK/DEF become equal to [the number of monsters used as [[material]] for its [[Fusion Summon]]] x 800.
+  | requirement      = None
+  | text             = This Fusion Summoned card can [[attack]] monsters a number of times per [[turn]], up to [the number of monsters used as material for its Fusion Summon].
   | ja_condition     = 
   | ja_requirement   = 
   | ja_text          = 
@@ -19,7 +20,18 @@ wikitext: |-
   | ko_requirement   = 
   | ko_text          = 
   | jp_sets          = 
-  RD/SD0?-JP0??; Structure Deck: Chimeratech Cyber; 
+  RD/SD0C-JP001; Structure Deck: Chimeratech Cyber; Ultra Rare
+  RD/SD0C-JPS01; Structure Deck: Chimeratech Cyber; Over Rush Rare
   | archseries       = Cyber Dragon (Rush Duel series)
+  | stat_change      = 
+  * Changes own ATK value
+  * Changes own DEF value
+  * Changes original ATK
+  * Changes original DEF
+  | summoning        = 
+  * 2+ Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack           = Can make multiple attacks on monsters
   | database_id      = 
   }}
