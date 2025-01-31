@@ -14,12 +14,20 @@ wikitext: |-
   | fusion_material = Pliage the Sacred Shooting Star
   | materials       = "[[Pliage the Sacred Shooting Star]]" + 1 [[Normal Monster]]
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Make 1 [[face-up]] monster on your opponent's [[field]] lose 1700 [[ATK]] until the end of your opponent's next [[turn]].
+  | text            = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 1700 [[ATK]] until the end of their next [[turn]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP20-JP050; Galactica of Eternity; Super Rare, Secret Rare
   | mentions        = Pliage the Sacred Shooting Star
+  | supports        = Normal Monster
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = Your opponent's monsters lose ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires nonspecific Normal Monsters as Fusion Materials
+  | misc            = Turn limited effects
   | database_id     = 
   }}

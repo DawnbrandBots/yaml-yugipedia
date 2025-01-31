@@ -8,12 +8,16 @@ wikitext: |-
   | level          = 4
   | atk            = 1600
   | def            = 900
-  | requirement    = Place up to 3 [[monsters]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
-  | text           = This card gains [[ATK]] equal to [the number of monsters placed to meet the requirement] x 300 until the end of your opponent's next turn.
+  | requirement    = Place up to 3 [[Monster Card|monster]]s from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
+  | text           = This card gains [[ATK]] equal to [the number of monsters placed to meet the [[Activation condition|requirement]]] x 300 until the end of your opponent's next [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP20-JP040; Galactica of Eternity; Rare
-  | misc           = Legend Card
+  | action         = Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | stat_change    = This card gains ATK
+  | misc           = 
+  * Turn limited effects
+  * Legend Card
   | database_id    = 
   }}
