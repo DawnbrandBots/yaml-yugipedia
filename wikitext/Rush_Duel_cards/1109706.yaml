@@ -3,17 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アニマジカ・マジェスティ
-  | romaji_name     = Animajika Majesuti
-  | image           = AnimagicaMajesty-RDKP20-JP-OP.png
-  | card_type       = Trap
-  | property        = Normal
-  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
-  | text            = Choose 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] [[monster]] on your [[field]]. Change up to 2 face-up monsters on your opponent's field with a lower Level than the chosen monster's Level to [[face-down]] [[Defense Position]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = アニマジカ・マジェスティ
+  | romaji_name    = Animajika Majesuti
+  | image          = AnimagicaMajesty-RDKP20-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | text           = Choose 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Beast]] [[Type]] monster on your [[field]]. [[Battle position change|Change]] up to 2 face-up monsters on your opponent's field with a lower [[Level]] than that monster's Level to [[face-down]] [[Defense Position]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP20-JP063; Galactica of Eternity; Common
-  | archseries      = Animagica
-  | database_id     = 
+  | supports       = 
+  * LIGHT
+  * Beast
+  | archseries     = Animagica
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Level
+  | database_id    = 
   }}
