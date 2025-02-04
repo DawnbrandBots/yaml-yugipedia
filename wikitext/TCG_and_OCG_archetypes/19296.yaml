@@ -132,9 +132,9 @@ wikitext: |-
   |}
 
   == Playing style ==
-  "Arcana Force" is an archetype tied around coin tosses. To set up plays effectively, "[[Light Barrier]]" - which lets the player ignore the coin toss - is practically essential. However, "Light Barrier" itself requires a coin toss each turn to maintain its effect (excluding the turn it was activated). While the reliance on coin flips made it a very weak archetype for many years, modern support released in ''[[Supreme Darkness]]'' has greatly increased the power and consistency of the Deck.
+  "Arcana Force" is an archetype tied around coin tosses. To set up plays effectively, "[[Light Barrier]]" - which lets the player ignore the coin toss - is practically essential. However, "Light Barrier" itself requires a coin toss each turn to maintain its effect (excluding the turn it was activated). While the reliance on coin flips and awful "backfire" effects made it a very weak archetype for many years, modern support released in ''[[Supreme Darkness]]'' has greatly increased the power and consistency of the Deck.
 
-  The modern playstyle is combo-centric, designed to bring out "The Chaos Ruler" on the first turn as a potent floodgate, and/or use the heads effect of "[[Arcana Force XXI - The World]]" to essentially [[FTK]] the opponent.
+  The modern playstyle is combo-centric, designed to use the heads effect of "[[Arcana Force XXI - The World]]" to essentially [[FTK]] the opponent, and/or bring out "The Chaos Ruler" on the first turn as a potent floodgate.
 
   === Monsters ===
   The main playmakers of the Deck are:
@@ -175,8 +175,6 @@ wikitext: |-
   * Tails: Sets a Spell/Trap from Deck with a coin tossing effect.
   |}
 
-  An example play is to use "The Hierophant" and "The Sun", ideally with "Light Barrier" already in hand. Normal Summon "Hierophant", which always summons a monster to a field. "The Sun" can Special Summon itself and search a coin toss Spell/Trap with its Heads effect. Then, with three monsters on field, "Chaos Ruler" can Contact Fuse itself and act as a floodgate, while either Summoning a big monster or searching another Spell/Trap. By using "Hierophant" to summon "The World", using it as material, then summoning it from the GY with "Arcana Spread", the turn skip effect can be activated.
-
   Other monsters can be run as targets to Summon with "Hierophant" and "Chaos Ruler". For Chaos Ruler, the two possible targets are "[[Arcana Force EX - The Light Ruler]]" and "[[Arcana Force EX - The Dark Ruler]]". "Dark Ruler" is preferred as its heads effect can help get extra damage.
 
   === Spells ===
@@ -192,7 +190,7 @@ wikitext: |-
   | During the Standby Phase: negates itself on Tails.
   |-
   | [[Light Force]]
-  | Considered the most important starter; discards 1 card to add 2 different "Arcana Force" monsters from Deck to hand.<br>Also boosts the ATK/DEF of Fairy monsters by 300.
+  | Discards 1 card to add 2 different "Arcana Force" monsters from Deck to hand.<br>Also boosts the ATK/DEF of Fairy monsters by 300.
   | During the Standby Phase: negates itself on Tails.
   |- 
   | [[Arcana Reading]]
@@ -208,7 +206,27 @@ wikitext: |-
   * Tails: Summons a coin tossing monster from GY.
   |}
 
-  Cards that search "Light Barrier", such as "[[Terraforming]]", are highly recommended. "[[Arcana Force XV - The Fiend]]" is the in-archetype searcher, and if needed, "Light Force" can search "The Fiend".
+  Cards that search "Light Barrier", such as "[[Terraforming]]", are recommended. "[[Arcana Force XV - The Fiend]]" is the in-archetype searcher; if needed, "Light Force" can search "The Fiend".
+
+  ===Sample combos===
+  One combo available to this archetype allows the player to skip the opponent's turn by using the effect of "[[Arcana Force XXI - The World]]", which can be achieved by simply resolving "Light Force". Once the player's turn begins again, "Light Force" can be used again to search more "Arcana Force" monsters, leading into a potential [[OTK]]. Even if "Light Force" loses its effect during the Standby Phase, another copy can be searched by "[[Arcana Force XV - The Fiend]]".
+
+  {{Combo steps
+  | opening = "[[Light Force]]" + 1 card
+  | end     = Turn skip via "[[Arcana Force XXI - The World|The World]]" + "Light Force" and "[[Light Barrier]]" on the field
+  | steps   = 
+  # Activate "[[Light Force]]" by discarding 1 card to search "[[Arcana Force XV - The Fiend]]" and "[[Arcana Force XIX - The Sun]]".
+  # Activate "The Fiend" by discarding itself to search "[[Light Barrier]]".
+  # Activate "Light Barrier".
+  # Activate "The Sun" to Special Summon itself, then activate its Heads effect to Set "[[Arcana Reading]]".
+  # Activate the Heads effect of "Arcana Reading" to search "[[Arcana Force V - The Hierophant]]".
+  # Normal Summon "The Hierophant", then activate its Tails effect to Summon "[[Arcana Force XXI - The World]]" to the opponent's field.
+  # Contact Fuse "[[Arcana Force EX - The Chaos Ruler]]" using "The Hierophant", "The Sun" and "The World".
+  # Activate the Tails effect of "The Chaos Ruler", searching "[[Arcana Spread]]".
+  # Activate the Tails effect of "Arcana Spread" to Summon "The World" from the GY.
+  # Activate the effect of "The World", and choose its Heads effect.
+  # During the End Phase, activate "The World" by sending itself and "The Chaos Ruler" to the GY to skip the opponent's turn.
+  }}
 
   === Recommended cards ===
   {{Decklist
