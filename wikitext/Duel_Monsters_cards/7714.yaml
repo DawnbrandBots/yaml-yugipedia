@@ -1,21 +1,21 @@
 title: Mine Golem
 wikitext: |-
   {{CardTable2
-  | tc_name      = 地雷石魔
   | fr_name      = Golem à Mines
   | de_name      = Minengolem
   | it_name      = Golem Mina
-  | ko_name      = 마인 골렘
   | pt_name      = Golem da Mina
-  | es_name      = Gólem de Mina
+  | es_name      = Golem de Mina
   | ja_name      = マイン・ゴーレム
   | romaji_name  = Main Gōremu
+  | ko_name      = 마인 골렘
+  | tc_name      = 地雷石魔
   | image        = MineGolem-DR3-EN-C-UE.png
   | attribute    = EARTH
   | types        = Rock / Effect
+  | level        = 3
   | atk          = 1000
   | def          = 1900
-  | level        = 3
   | effect_types = Trigger
   | password     = 76321376
   | text         = When this card is [[destroy]]ed [[Destroyed by battle|by battle]] and [[sent]] to the [[Graveyard]], inflict 500 [[Effect damage|damage]] to your opponent.
