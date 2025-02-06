@@ -220,8 +220,12 @@ wikitext: |-
   | -
   |}
   ==Playing style==
-  The "Sky Striker" strategy is an exclusively control focused playstyle where the goal is to generate more card advantage than the opponent and prevent them from making plays through disruption. The general playstyle of "Sky Striker" involves using "Sky Striker" [[Spell Card]]s to generate card advantage and disrupt the opponent, using "[[Sky Striker Ace]]" [[Link Monster]]s to gain access to "Sky Striker" Spell Cards, and winning the game by out-grinding the opponent's resources.
-  The "Sky Striker" Spell Cards all share the [[activation requirement]] that there must be no monsters in the [[Main Monster Zone]] to [[activate]] them, except "[[Sky Striker Mecha Modules - Multirole]]" and "[[Sky Striker Airspace - Area Zero]]". In addition, each "Sky Striker" Spell Card has an extra advantageous effect when there are 3 or more Spell Cards in the [[GY]] (except for "Linkage!", which instead requires the player to have both LIGHT and DARK "Sky Striker Aces" on the field and/or in the GY). As such, a "Sky Striker" player must find a way to put 3 Spell Cards in the GY as quickly as possible, in order to maximize their card advantage.
+  "Sky Striker" is a Control archetype focused around generating [[advantage]] and board breaking. Their general playstyle is to use archetypal Spell Cards for advantage and disruption/board breaking, also using the "[[Sky Striker Ace]]" Link monsters gaining access to said spells, and winning the game through out-grinding the opponent's resources.
+
+  The Spell Cards share the following traits:
+  * They can only be used if you have no monsters in the [[Main Monster Zone]] (except "[[Sky Striker Mecha Modules - Multirole]]" and "[[Sky Striker Airspace - Area Zero]]"
+  * They gain an extra effect if 3 or more Spell Cards are in the GY. (except for "Linkage!", which instead requires the player to have both LIGHT and DARK "Sky Striker Aces" on the field and/or in the GY).  As such, a "Sky Striker" player must find a way to put 3 Spell Cards in the GY as quickly as possible, in order to maximize their card advantage.
+
   {| class="wikitable" style="margin-left: auto; margin-right: auto; text-align: center"
   ! Spell
   ! Type
@@ -269,14 +273,20 @@ wikitext: |-
   |-
   | [[Sky Striker Mobilize - Linkage!|Mobilize - Linkage]]
   | [[Quick-Play Spell|Quick-Play]]
-  | Sends 1 other card the player controls to GY to Special Summon 1 "Sky Striker Ace" from Extra Deck to Extra Monster Zone
+  | Sends 1 other card the player controls to GY;<br> Special Summon 1 "Sky Striker Ace" from Extra Deck to [[EMZ]]
   | That monster gains 1000 ATK
   |}
-  The two key "Sky Striker" Spell Cards that enable their grind strategy are "[[Sky Striker Mobilize - Engage!]]" and "[[Sky Striker Mecha Modules - Multirole]]". "Engage!" can search out a "Sky Striker" card when activated, and provide an additional card draw afterwards if there are 3 or more Spell Cards in the GY, giving an immediate +1 in card advantage when activated. "Multirole" meanwhile can re-[[Set]] used "Sky Striker" Spell Cards in the GY during the [[End Phase]], providing a massive boost in card advantage for disruptions.
 
-  Three "Sky Striker Ace" Link Monsters, "[[Sky Striker Ace - Kagari|Kagari]]", "[[Sky Striker Ace - Shizuku|Shizuku]]", and "[[Sky Striker Ace - Hayate|Hayate]]", are the primary ways in which a "Sky Striker" player gains access to their Spell Cards: "Kagari" can [[add]] one from the GY to the hand when [[Summon]]ed, "Shizuku" can add one from the Deck to the hand during the End Phase of the turn it was Summoned, and "Hayate" can [[send]] one from the [[Deck]] to the GY after it battles. "Kagari", "Shizuku", and "Hayate" (along with "Kaina") are all Link 1 Monsters that require a different "Sky Striker Ace" monster as [[Link Material]], meaning that 1 "Sky Striker Ace" monster can provide access to all of them and cycle through them to use all of their effects.
+  The two key spells to the grind strategy are "[[Sky Striker Mobilize - Engage!]]" and "[[Sky Striker Mecha Modules - Multirole]]". "Engage!" is a non-[[once per turn]] spell that searches any other "Sky Striker" Spell, and if 3 or more spells are in the GY draws a card. "Multirole" meanwhile can re-[[Set]] used "Sky Striker" Spell Cards in the GY during the [[End Phase]], providing a massive boost in card advantage for disruptions.
 
-  To push for an [[OTK]], the archetype typically uses one of the "[[Charmer]]" Link-2 monsters (usually "[[Dharc the Dark Charmer, Gloomy]]" as "Raye" and the Token Summoned by "Hornet Drones" are [[DARK]]) to enable the Link Summon of "[[Selene, Queen of the Master Magicians]]", which can revive a Spellcaster monster (usually "[[Effect Veiler]]) to Link Summon "[[Accesscode Talker]]" with 5300 ATK, who can destroy multiple cards thanks to the multi-Attribute Link Monsters provided by the archetype.
+  The "Sky Striker Ace" Link monsters can only be Special Summoned once per turn, but different monsters can easily be summoned on top of each other (many require just 1 "Sky Striker Ace" monster of a different Attribute):
+  * "[[Sky Striker Ace - Camellia|Camellia]]", if there are 3 or less Spells in your GY, sends a "Sky Striker" spell to the GY. Can be Link Summoned using any 2 Effect Monsters.
+  * "[[Sky Striker Ace - Hayate|Hayate]]" can attack directly, and after battle, sends an archetypal spell to the GY.
+  * "[[Sky Striker Ace - Kagari|Kagari]]" adds an archetypal spell from GY to hand.
+  * "[[Sky Striker Ace - Shizuku|Shizuku]]", during the End Phase, can add a "Sky Striker" Spell from Deck to hand if a copy of that spell isn't in your GY.
+
+  To push for an [[OTK]], the Deck can use one of the "[[Charmer]]" (usually "[[Dharc the Dark Charmer, Gloomy]]" as "Raye" and the Token Summoned by "Hornet Drones" are [[DARK]]), Link into "[[Selene, Queen of the Master Magicians]]" to revive a Spellcaster, then link into "[[Accesscode Talker]]".
+
   ===Recommended cards===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -380,11 +390,12 @@ wikitext: |-
   }}
 
   ===Weakness===
-  * "Sky Striker" [[Deck]]s focus heavily on [[Spell Card]]s, allowing cards like "[[Imperial Order]]", "[[Secret Village of the Spellcasters]]" and "[[Anti-Spell Fragrance]]" to slow down the Deck. "[[Cursed Seal of the Forbidden Spell]]" and "[[Spell Vanishing]]" can be particularly effective if used against "[[Sky Striker Mobilize - Engage!]]" or "[[Sky Striker Mecha - Hornet Drones]]".
+  * "Sky Striker" [[Deck]]s focus heavily on [[Spell Card]]s, allowing cards like "[[Secret Village of the Spellcasters]]" and "[[Anti-Spell Fragrance]]" to slow down the Deck. "[[Cursed Seal of the Forbidden Spell]]" and "[[Spell Vanishing]]" can be particularly effective if used against "[[Sky Striker Mobilize - Engage!]]" or "[[Sky Striker Mecha - Hornet Drones]]".
   * Due to their fairly low [[ATK]], the individual "[[Sky Striker Ace]]" monsters are easily defeated if their Spell [[support]] can be countered.
   * Due to their reliance on Spell Cards to defeat stronger monsters, certain monsters with card effect immunity or targeting protection, such as "[[Super Quantal Mech King Great Magnus]]" or "[[Mekk-Knight Crusadia Avramax]]" can prove troublesome for a "Sky Striker" monsters to beat over by battle.
   * Anti-[[search]]ing effects can be potent, though the effects of "[[Sky Striker Ace - Kagari]]" and "[[Sky Striker Ace - Hayate|Hayate]]" can get around this.
   * Summoning Tribute-monsters such as "[[Santa Claws]]" or "[[Kaiju]]" monsters to a "Sky Striker" player's field can also be considered for two reasons. First, this prevents the "Sky Striker" Spell Cards that can disrupt the opponent during their turn from being activated since they are required to control no monsters in the Main Monster Zones (since "Santa Claws" or "Kaiju" monsters can only be Summoned to said Zones) until that Tribute monster is gone. Second, if the "Sky Striker Ace" Link Monsters are Tributed for Summoning those Tribute-monsters, it bypasses the effect of "Sky Striker Ace - Raye" that Special Summons itself from the GY, since the Link Monsters are not considered to have left the field by an opponent's card effect this way.
+
   ==References==
   <references/>
   {{Sky Striker}}

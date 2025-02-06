@@ -8,8 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 魂宿りし暗黒騎士ガイア
-  | romaji_name           = 
+  | ja_name               = {{Ruby|魂|たましい}}{{Ruby|宿|やど}}りし{{Ruby|暗|あん}}{{Ruby|黒|こく}}{{Ruby|騎|き}}{{Ruby|士|し}}ガイア
+  | romaji_name           = Tamashī Yadorishi Ankoku Kishi Gaia
+  | translated_name       = Gaia the Dark Knight in the Soul
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,7 +22,7 @@ wikitext: |-
   | def                   = 2100
   | password              = 
   | effect_types          = Condition, Unclassified, Continuous, Quick, Condition
-  | text                  = (This card is always treated as a "[[Millennium]]" card.)<br />If a [[Level]] 5 or higher [[Monster Card]] is on the [[field]], you can [[Normal Summon]] this card without Tributing. If your opponent Normal or [[Special Summon]]s a monster(s) in [[Attack Position]], increase its [[Level]] by 7. When your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can send 1 other face-up Level 5 or higher Monster Card you [[control]] to the GY; [[negate]] the activation, and if you do, [[destroy]] that card. You can only use this [[effect]] of "Soul of Gaia the Fierce Knight" [[once per turn]].
+  | text                  = (This card is always treated as a "[[Millennium]]" card.)<br />If a [[Level]] 5 or higher [[Monster Card]] is on the [[field]], you can [[Normal Summon]] this card without Tributing. If your opponent Normal or [[Special Summon]]s a monster(s) in [[Attack Position]], increase its [[Level]] by 7 while this monster is on the field. When your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can send 1 other face-up Level 5 or higher Monster Card you [[control]] to the GY; [[negate]] the activation, and if you do, [[destroy]] that card. You can only use this [[effect]] of "Soul of Gaia the Fierce Knight" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -35,6 +36,14 @@ wikitext: |-
   | archseries            = 
   * Gaia The Fierce Knight (archetype)
   * Millennium
-  | misc                  = Archetype condition
+  | action                = Sends from field to Graveyard for cost
+  | stat_change           = Your opponent's monsters gain Levels
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Destroys your opponent's Monster Cards
+  | summoning             = Normal Summon without Tribute
+  | misc                  = 
+  * Archetype condition
+  * Requires control of specific Level
   | database_id           = 
   }}
