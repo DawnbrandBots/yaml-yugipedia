@@ -1,5 +1,6 @@
 title: Soulicer Crystal
 wikitext: |-
+  {{Not archetype member|Crystal|{{Ruby|宝|ほう}}{{Ruby|玉|ぎょく}}}}
   {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
@@ -22,7 +23,7 @@ wikitext: |-
   | def                 = 1900
   | password            = 
   | effect_types        = Continuous, Condition, Ignition, Ignition
-  | text                = Cannot be destroyed by card effects. You can only use each of the following effects of "Soulicer Crystal" once per turn. If your opponent controls 2 or more monsters than you do: You can Special Summon this card from your hand. You can target 1 Effect Monster your opponent controls; negate its effects.
+  | text                = Cannot be [[destroy]]ed by [[card effect]]s. You can only use each of the following effects of "Soulicer Crystal" [[once per turn]]. If your opponent [[control]]s 2 or more [[monster]]s than you do: You can [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 [[Effect Monster]] your opponent controls; [[negate]] its effects.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,6 +34,12 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP266; V Jump April 2025 promotional card; Ultra Rare
+  | action              = Activates from your hand
+  | m/s/t               = 
+  * Cannot be destroyed by card effects
+  * Negates the effects of your opponent's Effect Monsters
+  | summoning           = Special Summons itself from your hand
+  | misc                = Only once per turn
   | database_id         = 
   }}
   {{Matched constructed cards (OCG & TCG)}}

@@ -3,7 +3,7 @@ wikitext: |-
   {{stub}}
   {{About|the archetype|the card|""Azamina"" (card)}}
   {{Infobox archseries
-  | image          = AzaminaDebtors-OW.png
+  | image          = AzaminaDebtors-MADU-EN-VG-artwork.png
   | caption        = "[[Diabellstar the Black Witch]]" facing "[[Azamina Ilia Silvia]]" and "[[Azamina Mu Rcielago]]" in the artwork of "[[Azamina Debtors]]"
   | ja_name        = アザミナ
   | romaji         = Azamina
@@ -34,13 +34,71 @@ wikitext: |-
   As shown by the Japanese name of "[[The Hallowed Azamina]]", "Azamina" is derived from the Japanese word 「薊花」 (''azamibana'', "[[wikipedia:thistle|thistle]] flower"). Fittingly, prickled plants are prominently depicted emerging from the body of every monster and in the foreground of most of cards in the archetype.
 
   == Playstyle ==
-  "Azamina" is a Fusion-based archetype closely tied to the "[[Sinful Spoils]]" archetype. Its main Fusion Spell, "[[The Hallowed Azamina]]", can Fusion Summon a member of the archetype by sending "Sinful Spoils" cards (1 card per 4 levels, rounded down) to the GY.
+  "Azamina" is a Fusion-based archetype closely tied to the "[[Sinful Spoils]]" archetype. Their most commonly played Fusion spell, "[[The Hallowed Azamina]]", can Fusion Summon by sending "Sinful Spoils" cards (1 card per 4 levels, rounded down) to the GY.
 
   === As an engine ===
-  The archetype can be played as a small engine - consisting of "[[Deception of the Sinful Spoils]]", "[[The Hallowed Azamina]]", and "[[Azamina Ilia Silvia]]" - in order to get " Ilia Silvia's" omni-negate in 1 summon. "[[Diabellstar the Black Witch]]" and "[[WANTED: Seeker of Sinful Spoils]]" are able to search "Deception" .
+  The archetype can be played as a small engine - consisting of "[[Deception of the Sinful Spoils]]", "[[The Hallowed Azamina]]", and "[[Azamina Ilia Silvia]]" - in order to get " Ilia Silvia's" omni-negate in 1 summon. "[[Diabellstar the Black Witch]]" and "[[WANTED: Seeker of Sinful Spoils]]" act as ways to search "Deception" and can be run as needed.
 
-  If playing another "Sinful Spoils"-related archetype, "[[Azamina Mu Rcielago]]" should also be run as a way to search any "Sinful Spoils" card.
+  If playing another "Sinful Spoils"-related archetype, "[[Azamina Mu Rcielago]]" should also be run as a way to search any "Sinful Spoils" card. Summon "Mu Rcielago" first, send it to the GY as material/cost, then activate "The Hallowed Azamina's" GY effect to use it again.
 
+  === Cards ===
+  '''Main Deck:'''
+  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none;"
+  |+ List
+  ! Azamina
+  ! Description
+  |-
+  | [[Deception of the Sinful Spoils]]
+  | Searches an "Azamina" card, deals minor burn damage. As a Continuous Spell, can be used as material for the fusion spells.<br>If sent to the GY face-up, can Set itself during the End Phase.
+  |-
+  | [[The Hallowed Azamina]]
+  | Fuses by sending "Sinful Spoils" cards (1 card per 4 levels, rounded down) to the GY, not OPT.<br>Can shuffle an "Azmina" card from field/GY to add itself to hand.
+  |-
+  | [[Azamina Debtors|Debtors]]
+  | Quick-Play that fuses like "The Hallowed Azamina", once.<br>If the fusion effect wasn't activated this turn, can revive an "Azamina" fusion.
+  |-
+  | [[Azamina Determination|Determination]]
+  | Trap that fuses by shuffling "Sinful Spoils" cards (1 card per 4 levels, rounded down) from GY to Deck.<br>If the fusion effect wasn't activated this turn, can search a "Sinful Spoils" Spell/Trap.
+  |-
+  | [[Elzette, Azamina of the White Forest]]
+  | From hand, can SS an "Azamina" or "White Forest" monster from hand.<br>On field, Fusion Summons using materials from hand/field.
+  |-
+  | [[Queen Azamina]]
+  | Summons itself if sent to GY or banished by an activated card/effect.<br>After an "Azamina" or "White Forest" destroys a monster by battle, can add a "Sinful Spoils" Spell/Trap from hand.
+  |}
+
+  '''Fusions:'''
+  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none;" 
+  |+ Fusion
+  ! Azamina Fusion
+  ! Lvl
+  ! Description
+  |-
+  | [[Azamina Ilia Silvia|Ilia Silvia]]
+  | 6
+  | Can Tribute itself to negate a card/effect. If destroyed, searches a "Sinful Spoil" Trap.
+  |-
+  | [[Azamina Mu Rcielago|Mu Rcielago]]
+  | 6
+  | Can search a "Sinful Spoils" Spell/Trap on summon. If destroyed, searches a "Sinful Spoil" Spell.
+  |-
+  | [[Azamina Sol Erysichthon|Sol Erysichthon]]
+  | 6
+  | Can send 1 targeted card to the GY on summon. In Standby, adds a "Sinful Spoils" Spell/Trap from GY to hand.
+  |-
+  | [[Azamina Moa Regina|Moa Regina]]
+  | 6
+  | Can summon an Illusion from GY. When an "Azamina"/"Sinful Spoils" card is activated, can target and destroy 2 cards.
+  |-
+  | [[Saint Azamina]]
+  | 10
+  | The opponent cannot target this card or cards in their control, and takes battle damage the player would've taken.<br> During the turn of summon, can SS a Level 9 or lower "Azamina Fusion".
+  |-
+  | [[Azamina (card)|Azamina]]
+  | 12
+  | Can be Contact Fused by Tributing "Saint Azamina" and 1 card the opponent controls.<br>Opposing monsters lose 500 ATK per opponent card/effect activation, the opponent cannot activate effects of monsters with 0 ATK.
+  |}
+   
   {{Archseries navbox}}
   {{Sinful Spoils}}
 
