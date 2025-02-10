@@ -13,7 +13,7 @@ wikitext: |-
   | def             = 1400
   | effect_types    = Continuous
   | fusion_material = Harpie Lady 2 (Rush Duel)
-  | materials       = "[[Harpie Lady 2 (Rush Duel)|Harpie Lady 2]]" + 1 [[Level]] 4 or lower [[Winged Beast]] [[Type]] [[monster]]
+  | materials       = "[[Harpie Lady 2 (Rush Duel)|Harpie Lady 2]]" + 1 [[Level]] 4 or lower [[Winged Beast]] [[Type]] [[Monster Card|monster]]
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = None
   | text            = This card's name becomes "[[Harpie Lady (Rush Duel)|Harpie Lady]]". When you [[Normal Summon|Normal]] or [[Special Summon]] a monster [[face-up]], your opponent cannot [[activate]] [[Trap Card]]s.
@@ -25,8 +25,19 @@ wikitext: |-
   RD/SD0D-JP003; Structure Deck: Harpie Lady Sisters; Common
   RD/SD0D-JPS03; Structure Deck: Harpie Lady Sisters; Super Rare
   | mentions        = 
-  * Harpie Lady (Rush Duel)
   * Harpie Lady 2 (Rush Duel)
+  * Harpie Lady (Rush Duel)
+  | supports        = Winged Beast
   | archseries      = Harpie (Rush Duel series)
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change     = Changes own name while on the field
+  | m/s/t           = Prevents activation of your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id     = 
   }}
