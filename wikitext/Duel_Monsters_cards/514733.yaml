@@ -1,34 +1,37 @@
 title: Effect Veiler
 wikitext: |-
   {{CardTable2
-  | fr_name      = Illusionniste d'Effet
-  | de_name      = Effektverschleierin
-  | it_name      = Dissimulatore di Effetto
-  | pt_name      = Ocultador de Efeitos
-  | es_name      = Ocultador de Efectos
-  | ja_name      = エフェクト・ヴェーラー
-  | romaji_name  = Efekuto Vērā
-  | ko_name      = 이펙트 뵐러
-  | ko_rr_name   = Ipekteu Boelleo
-  | sc_name      = 效果遮蒙者
-  | image        = EffectVeiler-RA01-EN-SR-1E.png
-  | attribute    = LIGHT
-  | types        = Spellcaster / Tuner / Effect
-  | level        = 1
-  | atk          = 0
-  | def          = 0
-  | password     = 97268402
-  | effect_types = Quick
-  | text         = During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[GY]], then [[target]] 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] the [[effect]]s of that [[face-up]] [[Monster Card|monster]] your opponent controls, until the end of this [[turn]].
-  | fr_text      = Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez les effets du monstre face recto contrôlé par votre adversaire.
-  | de_text      = Während der Main Phase deines Gegners (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs die Effekte jenes offenen Monsters, das dein Gegner kontrolliert.
-  | it_text      = Durante la Main Phase del tuo avversario (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; annulla gli effetti di quel mostro scoperto controllato dal tuo avversario, fino alla fine di questo turno.
-  | pt_text      = Durante a Fase Principal do seu oponente (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério e, depois, escolha 1 Monstro de Efeito que seu oponente controla; até o final deste turno, negue os efeitos desse monstro com a face para cima que seu oponente controla.
-  | es_text      = Durante la Main Phase de tu adversario (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 Monstruo de Efecto que controle tu adversario; hasta el final de este turno, niega los efectos de ese monstruo boca arriba que controla tu adversario.
-  | ja_text      = ①：相手メインフェイズに、このカードを手札から墓地へ送り、相手フィールドの効果モンスター１体を対象として発動できる。その相手モンスターの効果をターン終了時まで無効にする。
-  | ko_text      = ①: 상대 메인 페이즈에, 이 카드를 패에서 묘지로 보내고, 상대 필드의 효과 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 상대 몬스터의 효과를 턴 종료시까지 무효로 한다.
-  | sc_text      = ①：在对手的主要阶段从手牌将此卡送至墓地，以对手场上的１只效果怪兽为对象可以发动。将该对手怪兽的效果直至回合结束时为止无效。
-  | en_sets      = 
+  | fr_name       = Illusionniste d'Effet
+  | de_name       = Effektverschleierin
+  | it_name       = Dissimulatore di Effetto
+  | pt_name       = Ocultador de Efeitos
+  | es_name       = Ocultador de Efectos
+  | ja_name       = エフェクト・ヴェーラー
+  | romaji_name   = Efekuto Vērā
+  | ko_name       = 이펙트 뵐러
+  | ko_rr_name    = Ipekteu Boelleo
+  | sc_name       = 效果遮蒙者
+  | image         = 
+  1; EffectVeiler-RA01-EN-SR-1E.png; EffectVeiler-MADU-EN-VG-artwork.png
+  2; EffectVeiler-QCAC-JP-OP.png
+  | current_image = 1
+  | attribute     = LIGHT
+  | types         = Spellcaster / Tuner / Effect
+  | level         = 1
+  | atk           = 0
+  | def           = 0
+  | password      = 97268402
+  | effect_types  = Quick
+  | text          = During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[GY]], then [[target]] 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] the [[effect]]s of that [[face-up]] [[Monster Card|monster]] your opponent controls, until the end of this [[turn]].
+  | fr_text       = Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez les effets du monstre face recto contrôlé par votre adversaire.
+  | de_text       = Während der Main Phase deines Gegners (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs die Effekte jenes offenen Monsters, das dein Gegner kontrolliert.
+  | it_text       = Durante la Main Phase del tuo avversario (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; annulla gli effetti di quel mostro scoperto controllato dal tuo avversario, fino alla fine di questo turno.
+  | pt_text       = Durante a Fase Principal do seu oponente (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério e, depois, escolha 1 Monstro de Efeito que seu oponente controla; até o final deste turno, negue os efeitos desse monstro com a face para cima que seu oponente controla.
+  | es_text       = Durante la Main Phase de tu adversario (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 Monstruo de Efecto que controle tu adversario; hasta el final de este turno, niega los efectos de ese monstruo boca arriba que controla tu adversario.
+  | ja_text       = ①：相手メインフェイズに、このカードを手札から墓地へ送り、相手フィールドの効果モンスター１体を対象として発動できる。その相手モンスターの効果をターン終了時まで無効にする。
+  | ko_text       = ①: 상대 메인 페이즈에, 이 카드를 패에서 묘지로 보내고, 상대 필드의 효과 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 상대 몬스터의 효과를 턴 종료시까지 무효로 한다.
+  | sc_text       = ①：在对手的主要阶段从手牌将此卡送至墓地，以对手场上的１只效果怪兽为对象可以发动。将该对手怪兽的效果直至回合结束时为止无效。
+  | en_sets       = 
   DREV-EN002; Duelist Revolution; Ultra Rare, Ultimate Rare
   DP10-EN007; Duelist Pack: Yusei 3; Rare
   ORCS-ENSE1; Order of Chaos: Special Edition; Super Rare
@@ -46,7 +49,7 @@ wikitext: |-
   SDAZ-EN018; Structure Deck: Albaz Strike; Common
   RA01-EN003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-EN018; Structure Deck: Blue-Eyes White Destiny; Common
-  | fr_sets      = 
+  | fr_sets       = 
   DREV-FR002; Duelist Revolution; Ultra Rare, Ultimate Rare
   DP10-FR007; Duelist Pack: Yusei 3; Rare
   ORCS-FRSE1; Order of Chaos: Special Edition; Super Rare
@@ -64,7 +67,7 @@ wikitext: |-
   SDAZ-FR018; Structure Deck: Albaz Strike; Common
   RA01-FR003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-FR018; Structure Deck: Blue-Eyes White Destiny; Common
-  | de_sets      = 
+  | de_sets       = 
   DREV-DE002; Duelist Revolution; Ultra Rare, Ultimate Rare
   DP10-DE007; Duelist Pack: Yusei 3; Rare
   ORCS-DESE1; Order of Chaos: Special Edition; Super Rare
@@ -82,7 +85,7 @@ wikitext: |-
   SDAZ-DE018; Structure Deck: Albaz Strike; Common
   RA01-DE003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-DE018; Structure Deck: Blue-Eyes White Destiny; Common
-  | it_sets      = 
+  | it_sets       = 
   DREV-IT002; Duelist Revolution; Ultra Rare, Ultimate Rare
   DP10-IT007; Duelist Pack: Yusei 3; Rare
   ORCS-ITSE1; Order of Chaos: Special Edition; Super Rare
@@ -100,7 +103,7 @@ wikitext: |-
   SDAZ-IT018; Structure Deck: Albaz Strike; Common
   RA01-IT003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-IT018; Structure Deck: Blue-Eyes White Destiny; Common
-  | pt_sets      = 
+  | pt_sets       = 
   PGLD-PT036; Premium Gold; Gold Rare
   LC5D-PT018; Legendary Collection 5D's Mega Pack; Common
   NKRT-PT039; Noble Knights of the Round Table Power-Up Pack; Platinum Rare
@@ -115,7 +118,7 @@ wikitext: |-
   SDAZ-PT018; Structure Deck: Albaz Strike; Common
   RA01-PT003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-PT018; Structure Deck: Blue-Eyes White Destiny; Common
-  | sp_sets      = 
+  | sp_sets       = 
   DREV-SP002; Duelist Revolution; Ultra Rare, Ultimate Rare
   DP10-SP007; Duelist Pack: Yusei 3; Rare
   ORCS-SPSE1; Order of Chaos: Special Edition; Super Rare
@@ -133,7 +136,7 @@ wikitext: |-
   SDAZ-SP018; Structure Deck: Albaz Strike; Common
   RA01-SP003; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   SDWD-SP016; Structure Deck: Blue-Eyes White Destiny; Common
-  | jp_sets      = 
+  | jp_sets       = 
   DREV-JP002; Duelist Revolution; Super Rare
   DP10-JP007; Duelist Pack: Yusei 3; Rare
   GS05-JP008; Gold Series 2013; Common, Gold Rare, Gold Secret Rare
@@ -150,10 +153,11 @@ wikitext: |-
   RC04-JP003; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   TDS1-JP017; Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition; Ultra Rare
   SD47-JP017; Structure Deck: Advent of the Eyes of Blue; Common
-  | ae_sets      = 
+  QCAC-JP002; Quarter Century Art Collection; Super Rare, Quarter Century Secret Rare
+  | ae_sets       = 
   RC04-AE003; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   DI02-AE009; Duel-Ignition Deck: Swordsoul; Common
-  | kr_sets      = 
+  | kr_sets       = 
   DREV-KR002; Duelist Revolution; Super Rare
   DP10-KR007; Duelist Pack: Yusei 3; Rare
   EV12-KR003; Spring Battle 2012 promotional cards; Secret Rare
@@ -170,7 +174,7 @@ wikitext: |-
   SD43-KR018; Structure Deck: Alba Strike; Common
   RC04-KR003; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   SD47-KR017; Structure Deck: Advent of the Eyes of Blue; Common
-  | sc_sets      = 
+  | sc_sets       = 
   ST20-SC015; Starter Deck 2020; Common
   SCTP-SC001; Entry Pack Volume 1; Super Rare
   ST21-SC015; Starter Deck 2021; Common
@@ -179,9 +183,9 @@ wikitext: |-
   SD43-SC018; Structure Deck: Alba Strike; Common
   23RC-SC004; Rarity Collection Quarter Century Edition; Ultra Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   SD47-SC017; Structure Deck: Advent of the Eyes of Blue; Common
-  | action       = 
+  | action        = 
   * Activates from your hand
   * Sends itself from hand to Graveyard for cost
-  | m/s/t        = Negates the effects of your opponent's Effect Monsters
-  | database_id  = 8933
+  | m/s/t         = Negates the effects of your opponent's Effect Monsters
+  | database_id   = 8933
   }}
