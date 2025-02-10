@@ -3,24 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = サイバー・ドラゴン・ラケーテ
-  | romaji_name     = Saibā Doragon Rakēte
-  | image           = CyberDragonRakete-RDSD0C-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Machine / Effect
-  | level           = 8
-  | atk             = 2100
-  | def             = 2100
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monster]].
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = This [[turn]], this card's name becomes "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]". Then, you can make 1 [[face-up]] monster on your [[field]] gain 500 [[ATK]] until the end of this turn.
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = サイバー・ドラゴン・ラケーテ
+  | romaji_name    = Saibā Doragon Rakēte
+  | image          = CyberDragonRakete-RDSD0C-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Machine / Effect
+  | level          = 8
+  | atk            = 2100
+  | def            = 2100
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]].
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = This [[turn]], this card's name becomes "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]". Then, you can make 1 [[face-up]] monster on your [[field]] gain 500 [[ATK]] until the end of this turn.
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/SD0C-JP006; Structure Deck: Chimeratech Cyber; Common
   RD/SD0C-JPS02; Structure Deck: Chimeratech Cyber; Super Rare
-  | mentions        = Cyber Dragon (Rush Duel)
-  | archseries      = Cyber Dragon (Rush Duel series)
-  | database_id     = 
+  | mentions       = Cyber Dragon (Rush Duel)
+  | supports       = 
+  * LIGHT
+  * Machine
+  | archseries     = Cyber Dragon (Rush Duel series)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
+  * Changes own name while on the field
+  * Your monsters gain ATK
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id    = 
   }}

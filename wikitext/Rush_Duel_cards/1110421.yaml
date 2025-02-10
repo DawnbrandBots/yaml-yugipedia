@@ -2,23 +2,27 @@ title: Cyber Dragon Zwei (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = CyberDragonZwei-RDSD0C-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Machine / Effect
-  | level           = 4
-  | atk             = 1500
-  | def             = 1000
-  | condition       = This card's names becomes "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" while in the [[Graveyard]].
-  | requirement     = [[Reveal]] 1 [[Spell Card]] in your [[hand]].
-  | text            = This [[turn]], this card's name becomes "Cyber Dragon" and it gains 300 [[ATK]].
-  | ja_materials    = 
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = CyberDragonZwei-RDSD0C-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Machine / Effect
+  | level          = 4
+  | atk            = 1500
+  | def            = 1000
+  | condition      = This card's name becomes "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" while in the [[Graveyard]].
+  | requirement    = [[Reveal]] 1 [[Spell Card]] in your [[hand]].
+  | text           = This [[turn]], this card's name becomes "Cyber Dragon", and gains 300 [[ATK]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/SD0C-JP007; Structure Deck: Chimeratech Cyber; Common
   RD/SD0C-JPS03; Structure Deck: Chimeratech Cyber; Super Rare
-  | mentions        = Cyber Dragon (Rush Duel)
-  | archseries      = Cyber Dragon (Rush Duel series)
-  | database_id     = 
+  | mentions       = Cyber Dragon (Rush Duel)
+  | archseries     = Cyber Dragon (Rush Duel series)
+  | action         = Reveals your hand for cost
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  * This card gains ATK
+  | database_id    = 
   }}
