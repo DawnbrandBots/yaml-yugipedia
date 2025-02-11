@@ -72,15 +72,15 @@ wikitext: |-
   | ygo_sets              = 
   '''[[Yu-Gi-Oh! Online: Gunslinger 66|Gunslinger 66]]'''
   '''[[Yu-Gi-Oh! Online: Gunslinger 67|Gunslinger 67]]'''
-  | supports              = Spell Card
   | counter               = 
   * Spell Counter
   * Places counters on itself
   * Removes counters from itself for cost
-  | action                = Your opponent discards
+  | action                = 
+  * Activates upon Normal Summon
+  * Your opponent discards
   | stat_change           = This card gains ATK
-  | misc                  = 
-  * Limited activations
+  | misc                  = Limited activations
   | database_id           = 6555
   | tcg_speed_duel_status = Unlimited
   }}
