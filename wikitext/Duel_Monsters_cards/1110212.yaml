@@ -33,7 +33,20 @@ wikitext: |-
   DBJH-JP009; Deck Build Pack: Justice Hunters; 
   | sc_sets             = 
   DBJH-SC009; Deck Build Pack: Justice Hunters; 
+  | supports            = Fusion Monster
   | archseries          = Dragon Tail
   | supports_archetypes = Dragon Tail
+  | action              = 
+  * Sends from your hand to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards in the player's Deck as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}

@@ -36,7 +36,18 @@ wikitext: |-
   DBJH-JP003; Deck Build Pack: Justice Hunters; 
   | sc_sets             = 
   DBJH-SC003; Deck Build Pack: Justice Hunters; 
+  | supports            = Fusion Monster
   | archseries          = Dragon Tail
   | supports_archetypes = Dragon Tail
+  | action              = 
+  * Activates if sent to the Graveyard
+  * Activates if used as Fusion Material
+  * Sets from your Deck
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Places itself from the player's Graveyard on the bottom of the Deck
+  | m/s/t               = Destroys Monster Cards
+  | summoning           = Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
