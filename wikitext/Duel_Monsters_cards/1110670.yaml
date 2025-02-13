@@ -31,7 +31,28 @@ wikitext: |-
   DBJH-JP024; Deck Build Pack: Justice Hunters; 
   | sc_sets             = 
   DBJH-SC024; Deck Build Pack: Justice Hunters; 
+  | supports            = 
+  * LIGHT
+  * Beast
+  * Synchro Monster
   | archseries          = Yummy
   | supports_archetypes = Yummy
+  | action              = 
+  * Activates upon Synchro Summon
+  * Activates if other cards leave the field
+  * Activates from your Graveyard
+  * Places itself from the player's Graveyard on the bottom of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Places the player's banished cards on the bottom of the Deck
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning           = Special Summons from your Deck
+  | misc                = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}

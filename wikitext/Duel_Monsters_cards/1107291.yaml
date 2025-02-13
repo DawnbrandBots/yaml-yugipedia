@@ -22,7 +22,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 2200
   | password            = 
-  | materials           = 
+  | materials           = 1 Tuner + 1 non-Tuner monster
   | effect_types        = Condition, Condition, Trigger, Quick
   | text                = 1 [[Tuner]] + 1 non-Tuner [[monster]]<br />For this card's [[Synchro Summon]], you can treat 1 [[Link Monster|Link]]-1 monster you [[control]] as a [[Level]] 1 Tuner. You can only use each of the following [[effect]]s of "Cupsie☆Yummy Way" [[once per turn]]. If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] 2 "[[Yummy]]" monsters from your [[Main Deck|Deck]] to your [[hand]], then [[discard]] 1 card. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[return]] this card to the [[Extra Deck]]; [[Special Summon]] up to 2 "Yummy" monsters from your [[GY]].
   | fr_text             = 
@@ -37,7 +37,19 @@ wikitext: |-
   DBJH-JP019; Deck Build Pack: Justice Hunters; 
   | sc_sets             = 
   DBJH-SC019; Deck Build Pack: Justice Hunters; 
+  | supports            = Link Monster
   | archseries          = Yummy
   | supports_archetypes = Yummy
+  | action              = 
+  * Activates upon Synchro Summon
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Returns itself from field to Extra Deck for cost
+  | stat_change         = Treats monsters as Tuner monsters
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 non-Tuner Synchro Material
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}

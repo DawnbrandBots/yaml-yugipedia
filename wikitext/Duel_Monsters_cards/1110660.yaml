@@ -31,7 +31,24 @@ wikitext: |-
   DBJH-JP026; Deck Build Pack: Justice Hunters; 
   | sc_sets             = 
   DBJH-SC026; Deck Build Pack: Justice Hunters; 
+  | supports            = 
+  * LIGHT
+  * Beast
+  * Synchro Monster
   | archseries          = Yummy
   | supports_archetypes = Yummy
+  | action              = 
+  * Activates upon Synchro Summon
+  * You draw cards
+  * Places cards from the player's hand on the bottom of the Deck
+  * Activates from your Graveyard
+  * Gives control of your monster
+  * Takes control of an opponent's monster
+  | stat_change         = Your opponent's monsters lose ATK
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Once per Chain
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}
