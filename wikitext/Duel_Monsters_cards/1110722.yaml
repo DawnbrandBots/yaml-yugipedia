@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 1500
   | def                 = 1800
   | password            = 
+  | materials           = 2 Level 4 monsters
   | effect_types        = Ignition, Condition, Condition, Trigger
   | text                = 2 [[Level]] 4 [[monsters]]<br />If this card has a "[[Zubaba]]", "[[Gagaga]]", "[[Gogogo]]", or "[[Dododo]]" card as [[material]]: You can [[detach]] 1 material from this card; [[Add a card|add]] 1 "Gagaga", "[[Onomat]]", or "[[Xyz (archetype)|Xyz]]" card from your [[Main Deck|Deck]] to your [[hand]]. You can only use this [[effect]] of "Gagagaga Girl" once per turn. A "[[Utopic Future]]" [[Xyz Monster]] that has this card as material gains this effect.<br />● If it is Xyz Summoned: [[Activate]] this effect; it can make a second attack during each [[Battle Phase]] this [[turn]].
   | fr_text             = 
@@ -33,6 +34,7 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP043; Duelist Advance; Ultra Rare
+  | supports            = Xyz Monster
   | archseries          = Gagaga
   | supports_archetypes = 
   * Dododo
@@ -42,5 +44,15 @@ wikitext: |-
   * Utopic Future
   * Xyz (archetype)
   * Zubaba
+  | action              = 
+  * Applies effects if specific Xyz Material is attached
+  * Adds from Deck to hand
+  * Grants effect while attached as Xyz Material
+  * Activates upon Xyz Summon
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | attack              = Allows multiple attacks
+  | misc                = Only once per turn
   | database_id         = 
   }}

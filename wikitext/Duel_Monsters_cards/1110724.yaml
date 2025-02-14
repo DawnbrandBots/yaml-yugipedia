@@ -29,9 +29,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP052; Duelist Advance; 
+  | supports            = 
+  * Xyz Monster
+  * LIGHT
   | archseries          = 
   * Gagaga
   * Utopic
   | supports_archetypes = Utopic
+  | action              = 
+  * Declares a Level
+  * Activates upon Xyz Summon
+  | stat_change         = Changes Levels
+  | m/s/t               = 
+  * Prevents other cards being destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Requires control of specific Attribute
   | database_id         = 
   }}

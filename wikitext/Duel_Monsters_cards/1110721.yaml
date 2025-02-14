@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 0
   | password            = 
+  | materials           = 2 Xyz Monsters with the same Rank
   | effect_types        = Condition, Continuous, Continuous, Quick
   | text                = 2 [[Xyz Monster]]s with the same [[Rank]]<br />(This card's original Rank is always treated as 1.)<br />Gains [[ATK]]/[[DEF]] equal to the total Ranks of all [[Xyz Monster]]s you [[control]] and in your opponent's GY x 500. Your opponent's [[monsters]] cannot [[target]] monsters for [[attack]]s, except this one, also your opponent cannot target other cards on the [[field]] with card effects. [[Once per turn]], when your opponent [[activate]]s a card or effect on the field ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; take control of 1 monster your opponent controls, also this card cannot be [[destroyed by battle]] or card effects this [[turn]].
   | fr_text             = 
@@ -33,12 +34,29 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP042; Duelist Advance; Ultra Rare
-  | archseries            = 
+  | supports            = Xyz Monster
+  | anti-supports       = Xyz Monster
+  | archseries          = 
   * Number
   * Number (Spell/Trap archetype)
   * Number F
   * Utopic
   * Utopic Future
   * Zexal
+  | action              = Takes control of an opponent's monster
+  | stat_change         = 
+  * Rank condition
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t               = 
+  * Prevents other cards being targeted by card effects
+  * Cannot be destroyed by card effects
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires Xyz Monsters as Xyz Materials
+  | attack              = 
+  * Prevents other cards being targeted for attacks
+  * Cannot be destroyed by battle
+  | misc                = Limited activations
   | database_id         = 
   }}
