@@ -35,9 +35,20 @@ wikitext: |-
   | jp_sets             = 
   DUAD-JP001; Duelist Advance; Rare
   | mentions            = Zubababa Knight
+  | supports            = Xyz Monster
   | archseries          = Zubaba
   | supports_archetypes = 
   * Gagaga
   * Zubaba
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if detached from Xyz Monster to activate its effect
+  | stat_change         = Changes own Level
+  | m/s/t               = Destroys your opponent's face-up Defense Position Monster Cards
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}
