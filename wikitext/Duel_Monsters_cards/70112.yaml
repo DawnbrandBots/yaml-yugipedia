@@ -19,7 +19,7 @@ wikitext: |-
   | password     = 88307361
   | effect_types = Ignition, Quick
   | text         = [[Once per turn]]: You can [[discard]] 1 card; [[Special Summon]] as many [[Level]] 4 or lower [[Fish]] [[monsters]] as possible from your [[Main Deck|Deck]], but they cannot declare an [[attack]] and their [[effect]]s are [[negate]]d. When a card or effect is [[activate]]d that [[target]]s this card on the [[field]] ([[Quick Effect]]): You can [[Tribute]] 1 other Fish monster; negate that effect, and if you do, [[destroy]] that card.
-  | fr_text      = Une fois par tour : vous pouvez défausser 1 carte ; Invoquez Spécialement autant de monstres Poisson de max. Niveau 4 que possible depuis votre Deck, mais ils ne peuvent pas déclarer d'attaque et leurs effets sont annulés. Lorsqu'une carte ou un effet qui cible cette carte sur le Terrain est activé (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre Poisson ; annulez l'effet, et si vous le faites, détruisez la carte.
+  | fr_text      = (Cette carte n'est pas traitée comme carte "Millénaire".)<br />Une fois par tour : vous pouvez défausser 1 carte ; Invoquez Spécialement autant de monstres Poisson de max. Niveau 4 que possible depuis votre Deck, mais ils ne peuvent pas déclarer d'attaque et leurs effets sont annulés. Lorsqu'une carte ou un effet qui cible cette carte sur le Terrain est activé (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre Poisson ; annulez l'effet, et si vous le faites, détruisez la carte.
   | de_text      = Einmal pro Spielzug: Du kannst 1 Karte abwerfen; beschwöre so viele Fisch-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck wie möglich, aber sie können keinen Angriff deklarieren und ihre Effekte werden annulliert. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst 1 anderes Fisch-Monster als Tribut anbieten; annulliere jenen Effekt und falls du dies tust, zerstöre jene Karte.
   | it_text      = Una volta per turno: puoi scartare 1 carta; Evoca Specialmente tanti mostri Pesce di Livello 4 o inferiore quanti possibile dal tuo Deck, ma essi non possono dichiarare un attacco e i loro effetti sono annullati. Quando viene attivata una carta o un effetto che sceglie come bersaglio questa carta sul Terreno (Effetto Rapido): puoi offrire come Tributo 1 altro mostro Pesce; annulla quell'effetto e, se lo fai, distruggi quella carta.
   | pt_text      = Uma vez por turno: você pode descartar 1 card; Invoque por Invocação-Especial tantos monstros Peixe de Nível 4 ou menos quanto possível do seu Deck, mas eles não podem declarar um ataque e seus efeitos são negados. Quando um card ou efeito for ativado que escolha como alvo este card no campo (Efeito Rápido): você pode oferecer como Tributo 1 outro monstro Peixe; negue esse efeito e, se isso acontecer, destrua esse card.
@@ -81,6 +81,8 @@ wikitext: |-
   * Destroys Monster Cards
   | summoning    = Special Summons from your Deck
   | attack       = Prevents your monsters from attacking
-  | misc         = Limited activations
+  | misc         = 
+  * Archetype-exclusion condition
+  * Limited activations
   | database_id  = 7434
   }}

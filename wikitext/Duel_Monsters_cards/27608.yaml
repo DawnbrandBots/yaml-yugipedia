@@ -19,7 +19,7 @@ wikitext: |-
   | password              = 06849042
   | effect_types          = Summoning condition, Trigger
   | text                  = You can [[Tribute Summon]] this card in [[face-up]] [[Attack Position]] by [[Tributing]] 1 [[Dinosaur]] [[Monster Card|monster]]. When a Dinosaur monster(s) is [[Special Summon]]ed from your [[GY]] while this monster is on the [[field]] (except during the [[Damage Step]]): You can [[Draw a card|draw]] 1 card.
-  | fr_text               = Vous pouvez Invoquer par Sacrifice cette carte en Position d'Attaque face recto en Sacrifiant 1 monstre Dinosaure. Lorsqu'un ou plusieurs monstres Dinosaure sont Invoqués Spécialement depuis votre Cimetière tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez piocher 1 carte.
+  | fr_text               = (Cette carte n'est pas traitée comme carte "Millénaire".)<br />Vous pouvez Invoquer par Sacrifice cette carte en Position d'Attaque face recto en Sacrifiant 1 monstre Dinosaure. Lorsqu'un ou plusieurs monstres Dinosaure sont Invoqués Spécialement depuis votre Cimetière tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez piocher 1 carte.
   | de_text               = Du kannst diese Karte als Tributbeschwörung in die offene Angriffsposition beschwören, indem du 1 Dinosaurier-Monster als Tribut anbietest. Wenn ein oder mehr Dinosaurier-Monster als Spezialbeschwörung von deinem Friedhof beschworen werden, solange dieses Monster auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst 1 Karte ziehen.
   | it_text               = Puoi Evocare tramite Tributo questa carta scoperta in Posizione di Attacco offrendo come Tributo 1 mostro Dinosauro. Quando uno o più mostri Dinosauro vengono Evocati Specialmente dal tuo Cimitero mentre questo mostro è sul Terreno (eccetto durante il Damage Step): puoi pescare 1 carta.
   | pt_text               = Você pode Invocar este card por Invocação-Tributo com a face para cima em Posição de Ataque ao oferecer como Tributo 1 monstro Dinossauro. Quando um ou mais monstros Dinossauro forem Invocados por Invocação-Especial do seu Cemitério enquanto este monstro estiver no campo (exceto durante a Etapa de Dano): você pode comprar 1 card.
@@ -64,6 +64,7 @@ wikitext: |-
   | supports              = Dinosaur
   | action                = You draw cards
   | summoning             = Normal Summon with 1 Tribute
+  | misc                  = Archetype-exclusion condition
   | database_id           = 7802
   | tcg_speed_duel_status = Unlimited
   }}

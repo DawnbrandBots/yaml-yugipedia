@@ -27,11 +27,11 @@ wikitext: |-
   * Baby Dragon
   | materials             = "Time Wizard" + "Baby Dragon"
   | text                  = "[[Time Wizard]]" + "[[Baby Dragon]]"
-  | fr_text               = "Magicien Du Temps" + "Bébé Dragon".
+  | fr_text               = "Magicien Du Temps" + "Bébé Dragon"<br /><br />(Cette carte n'est pas traitée comme carte "Millénaire".)
   | de_text               = „Zeitzauberer“ + „Babydrache“
   | it_text               = "Stregone del Tempo" + "Cucciolo di Drago"
   | pt_text               = "Mago do Tempo" + "Dragão Filhote"
-  | es_text               = "Mago del Tiempo" + "Bebé Dragón".
+  | es_text               = "Mago del Tiempo" + "Bebé Dragón"<br /><br />(Esta carta no se trata como una carta "Milenario/a").
   | ja_text               = 「時の魔術師」＋「ベビードラゴン」
   | ko_text               = "시간의 마술사" + "베이비 드래곤"
   | en_sets               = 
@@ -130,7 +130,9 @@ wikitext: |-
   * Requires only specific monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
-  | misc                  = Non-Effect Monster
+  | misc                  = 
+  * Archetype-exclusion condition
+  * Non-Effect Monster
   | tcg_speed_duel_status = Unlimited
   | database_id           = 4075
   }}
