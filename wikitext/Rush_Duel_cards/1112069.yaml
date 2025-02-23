@@ -18,7 +18,7 @@ wikitext: |-
   | materials       = "[[Executie Prouty]]" + "[[Executie Leir]]"
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = None
-  | text            = [[Face-up]] non-[[Level]] 6 [[monsters]] on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]]. When this card [[destroy]]s a monster by battle and [[send]]s it to the [[Graveyard]], gain 600 [[LP]].
+  | text            = [[Face-up]] non-[[Level]] 6 [[Monster Card|monster]]s on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]]. If this card [[destroy]]s a monster by [[battle]] and [[send]]s it to the [[Graveyard]], gain 600 [[LP]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -29,5 +29,15 @@ wikitext: |-
   * Executie Prouty
   * Executie Leir
   | archseries      = Executie
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change     = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | life_points     = You gain Life Points
   | database_id     = 
   }}
