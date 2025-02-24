@@ -48,6 +48,8 @@ wikitext: |-
   * Adds from Deck to hand
   * Adds from Graveyard to hand
   | stat_change         = Your monsters gain ATK
-  | misc                = Only once per turn
+  | misc                = 
+  * Only once per turn
+  * Variable effects
   | database_id         = 11478
   }}
