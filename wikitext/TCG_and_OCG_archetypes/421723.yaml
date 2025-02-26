@@ -61,9 +61,10 @@ wikitext: |-
   Kaiju is a Japanese term meaning "strange beast" or "monster", frequently used to describe giant monsters from movies. However, the Japanese archetype name is a pun, as it is written as 「壊獣」 instead of 「怪獣」 , with a Kanji for "destruction" replacing the one for "strange".
 
   == Members ==
-  ; Kaiju
   {| class="wikitable sortable"
-  ! Monster || Origin
+  |+ Kaiju
+  ! scope="col" | Monster
+  ! scope="col" | Origin
   |-
   | [[Dogoran, the Mad Flame Kaiju]] || [[wikipedia:Godzilla vs. Destoroyah|Godzilla]]
   |-
@@ -79,17 +80,19 @@ wikitext: |-
   |-
   | [[Thunder King, the Lightningstrike Kaiju]] || [[wikipedia:King Ghidorah|King Ghidorah]]
   |}
-  ; Super Anti-Kaiju War Machine
   {| class="wikitable sortable"
-  ! Monster || Origin
+  |+ Super Anti-Kaiju War Machine
+  ! scope="col" | Monster
+  ! scope="col" | Origin
   |-
   | [[Super Anti-Kaiju War Machine Mecha-Dogoran]] || [[wikipedia:Mechagodzilla|Mechagodzilla]]
   |-
   | [[Super Anti-Kaiju War Machine Mecha-Thunder-King]] || [//wikizilla.org/wiki/Mecha-King_Gidorah Mecha-King Gidorah]
   |}
-  ; Support
   {| class="wikitable sortable"
-  ! Card || Origin
+  |+ Support
+  ! scope="col" | Card
+  ! scope="col" | Origin
   |-
   | [[Interrupted Kaiju Slumber]] || 
   |-
