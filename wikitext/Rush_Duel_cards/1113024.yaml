@@ -5,7 +5,7 @@ wikitext: |-
   | image          = CyberneticOverflow-RDSD0C-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon]]s a [[monster]], place 2 "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" with different [[Level]]s from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
+  | requirement    = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 2 "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" with different [[Level]]s from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
   | text           = [[Destroy]] 2 cards on your opponent's [[field]].
   | ja_requirement = 
   | ja_text        = 
@@ -13,5 +13,12 @@ wikitext: |-
   RD/SD0C-JP037; Structure Deck: Chimeratech Cyber; Common
   | mentions       = Cyber Dragon (Rush Duel)
   | archseries     = Cyber Dragon (Rush Duel series)
+  | action         = 
+  * Activates upon Normal Summon
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id    = 
   }}
