@@ -14,7 +14,7 @@ wikitext: |-
   | atk             = 2500
   | def             = 2000
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Choose 1 [[face-up]] [[Monster Card|monster]] on your [[field]] and 1 face-up monster on your opponent's field. This [[turn]], those monsters gain 500 [[ATK]], and their [[Level]]s are increased by 2.
+  | text            = Choose 1 [[face-up]] [[Monster Card|monster]] on your [[field]] and 1 face-up monster on your opponent's field. This [[turn]], those monsters' [[Level]]s increase by 2, and they gain 500 [[ATK]].
   | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text         = 自分フィールドの表側表示モンスター１体と相手フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターのレベルを２上げ、攻撃力を５００アップする。
   | ko_requirement  = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
@@ -26,9 +26,9 @@ wikitext: |-
   | archseries      = Star Knight
   | action          = Sends from the top of your Deck to your Graveyard for cost
   | stat_change     = 
-  * Your monsters gain ATK
-  * Your opponent's monsters gain ATK
   * Your monsters gain Levels
   * Your opponent's monsters gain Levels
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
   | database_id     = 17402
   }}
