@@ -3,20 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ハーピィ・ベル
-  | romaji_name     = Hāpyi Beru
-  | image           = HarpieBelle-RDSD0D-JP-OP.png
-  | attribute       = WIND
-  | types           = Winged Beast / Effect
-  | level           = 2
-  | atk             = 500
-  | def             = 500
-  | requirement     = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text            = [[Special Summon]] 1 [[Level]] 2 [[Winged Beast]] [[Type]] [[monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you Special Summoned a [[Normal Monster]] by this [[effect]], you can [[destroy]] 1 [[face-down]] card on your opponent's field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ハーピィ・ベル
+  | romaji_name    = Hāpyi Beru
+  | image          = HarpieBelle-RDSD0D-JP-OP.png
+  | attribute      = WIND
+  | types          = Winged Beast / Effect
+  | level          = 2
+  | atk            = 500
+  | def            = 500
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text           = [[Special Summon]] 1 [[Level]] 2 [[Winged Beast]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. If you Special Summoned a [[Normal Monster]] by this [[effect]], you can [[destroy]] 1 [[face-down]] card on your opponent's field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/SD0D-JP007; Structure Deck: Harpie Lady Sisters; Common
-  | archseries      = Harpie (Rush Duel series)
-  | database_id     = 
+  | supports       = 
+  * Winged Beast
+  * Normal Monster
+  | archseries     = Harpie (Rush Duel series)
+  | action         = Activates during the turn in which it was Normal Summoned
+  | m/s/t          = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | summoning      = Special Summons from your Graveyard
+  | misc           = Requires control of specific Monster type
+  | database_id    = 
   }}
