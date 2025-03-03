@@ -1,6 +1,5 @@
 title: Spirit Shield
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name         = 
   | de_name         = 
@@ -18,7 +17,7 @@ wikitext: |-
   | property        = Continuous
   | password        = 08324284
   | effect_types    = Trigger-like, Quick-like, Quick-like
-  | text            = Once per [[battle]], when an opponent's [[monster]] [[declare]]s an [[attack]]: You can [[banish]] 1 [[Fiend]] or [[Zombie]] [[monster]] from your [[GY]]; [[negate]] the attack. [[Once per turn]], when your opponent [[activate]]s a card or [[effect]] that would [[destroy]] a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate the activation. Once per turn, during the [[End Phase]], if you do not [[control]] a Fiend or Zombie monster: [[Send]] this card to the GY.
+  | text            = Once per [[battle]], when an opponent's [[monster]] [[declare]]s an [[attack]]: You can [[banish]] 1 [[Fiend]] or [[Zombie]] [[monster]] from your [[GY]]; [[negate]] that attack. [[Once per turn]], when your opponent [[activate]]s a card or [[effect]] that would [[destroy]] a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate that activation. Once per turn, during the [[End Phase]], if you do not [[control]] a Fiend or Zombie monster: [[Send]] this card to the GY.
   | fr_text         = 
   | de_text         = 
   | it_text         = 
@@ -28,7 +27,17 @@ wikitext: |-
   | ko_text         = 
   | sc_text         = ①：对手怪兽攻击宣言时1次，从自己墓地将1只恶魔族・不死族怪兽除外可以发动。将该攻击无效。②：1回合1次，对手发动破坏卡的效果时，从自己墓地将1只恶魔族・不死族怪兽除外可以发动。将该发动无效。③：在自己・对手的结束阶段，自己场上不存在恶魔族・不死族怪兽的情况下发动。将此卡送至墓地。
   | en_sets         = 
-  MZTM-EN???; Maze of the Master; 
+  MZTM-EN035; Maze of the Master; Rare
+  | fr_sets         = 
+  MZTM-FR035; Maze of the Master; Rare
+  | de_sets         = 
+  MZTM-DE035; Maze of the Master; Rare
+  | it_sets         = 
+  MZTM-IT035; Maze of the Master; Rare
+  | pt_sets         = 
+  MZTM-PT035; Maze of the Master; Rare
+  | sp_sets         = 
+  MZTM-SP035; Maze of the Master; Rare
   | jp_sets         = 
   AC04-JP004; Animation Chronicle 2024; Common, Normal Parallel Rare
   | kr_sets         = 

@@ -1,6 +1,5 @@
 title: Spirit Illusion
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name         = 
   | de_name         = 
@@ -18,7 +17,7 @@ wikitext: |-
   | property        = Equip
   | password        = 71939275
   | effect_types    = Condition, Trigger-like, Ignition-like, Condition
-  | text            = [[Equip]] only to a [[Level]] 5 or higher [[Fiend]] or [[Zombie]] [[monster]]. When an [[attack]] is [[declare]]d involving the equipped monster and an opponent's monster: You can make that opponent's monster lose [[ATK]] equal to the equipped monster's. You can [[activate]] 1 of these [[effect]]s;<br />● [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using monsters from your [[hand]] or [[field]].<br />● [[Special Summon]] 1 "[[Doppelganger Token]]" (Level 5/[[ATK]] ?/[[DEF]] 0) with the same [[Type]], [[Attribute]], and ATK as the equipped monster.<br />You can only use this effect of "Spirit Illusion" once per turn.
+  | text            = [[Equip]] only to a [[Level]] 5 or higher [[Fiend]] or [[Zombie]] [[monster]]. When an [[attack]] is [[declare]]d involving the equipped monster and an opponent's monster: You can make that opponent's monster lose [[ATK]] equal to the equipped monster's ATK. You can [[activate]] 1 of these [[effect]]s;<br />● [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using monsters from your [[hand]] or [[field]].<br />● [[Special Summon]] 1 "[[Doppelganger Token]]" (Level 5/[[ATK]] ?/[[DEF]] 0) with the equipped monster's [[Type]], [[Attribute]], and ATK.<br />You can only use this effect of "Spirit Illusion" once per turn.
   | fr_text         = 
   | de_text         = 
   | it_text         = 
@@ -28,7 +27,17 @@ wikitext: |-
   | ko_text         = 
   | sc_text         = 仅可装备于等级5以上的恶魔族・不死族怪兽。此卡名的①效果1回合仅可使用1次。①：可从以下效果中选择1个发动。<br />●将自己手牌・场上的怪兽作为融合素材，将1只融合怪兽融合召唤。<br />●将1只种族・属性・攻击力与装备怪兽相同的“多普勒衍生物”（星5・攻?/守0）特殊召唤至自己场上。<br />②：装备怪兽与对手怪兽进行战斗的攻击宣言时可以发动。该对手怪兽的攻击力下降相当于装备怪兽攻击力的数值。
   | en_sets         = 
-  MZTM-EN???; Maze of the Master; 
+  MZTM-EN034; Maze of the Master; Rare
+  | fr_sets         = 
+  MZTM-FR034; Maze of the Master; Rare
+  | de_sets         = 
+  MZTM-DE034; Maze of the Master; Rare
+  | it_sets         = 
+  MZTM-IT034; Maze of the Master; Rare
+  | pt_sets         = 
+  MZTM-PT034; Maze of the Master; Rare
+  | sp_sets         = 
+  MZTM-SP034; Maze of the Master; Rare
   | jp_sets         = 
   AC04-JP003; Animation Chronicle 2024; Common, Normal Parallel Rare
   | kr_sets         = 
