@@ -14,7 +14,7 @@ wikitext: |-
   | image                = ApophistheSerpent-MZTM-EN-UR-1E.png
   | card_type            = Trap
   | property             = Continuous
-  | password             = 
+  | password             = 95561146
   | effect_types         = Effect, Trigger-like, Condition
   | text                 = [[Special Summon]] this card as a [[Normal Monster]] ([[Reptile]]/[[EARTH]]/[[Level]] 4/[[ATK]] 1600/[[DEF]] 1800) (this card is also still a [[Trap]]), then you can Set 1 "[[Apophis]]" [[Trap]] from your [[Main Deck|Deck]], except "Apophis the Serpent". It can be activated this [[turn]]. If this card is sent to the [[GY]]: You can [[Add a card|add]] 1 "[[Embodiment of Apophis]]" from your Deck to your [[hand]]. You can only use each [[effect]] of "Apophis the Serpent" once per turn.
   | fr_text              = 
@@ -37,10 +37,23 @@ wikitext: |-
   MZTM-PT010; Maze of the Master; Ultra Rare
   | sp_sets             = 
   MZTM-SP010; Maze of the Master; Ultra Rare
-  | mentions             = Embodiment of Apophis
+  | mentions             = 
+  * Apophis the Serpent
+  * Embodiment of Apophis
   | archseries           = 
   * Apophis
   * Trap Monster
   | supports_archetypes  = Apophis
+  | related_to_archseries = Temple of the Kings (series)
+  | action               = 
+  * Sets from your Deck
+  * Activates if sent to the Graveyard
+  * Adds from Deck to hand
+  | stat_change          = Treated as a Normal Monster
+  | m/s/t                = 
+  * Treats Trap Cards as monsters
+  * Allows activation of Trap Cards the turn they were Set
+  | summoning            = Special Summons itself from your Spell & Trap Zone
+  | misc                 = Only once per turn
   | database_id          = 
   }}
