@@ -17,7 +17,8 @@ wikitext: |-
   | level                = 6
   | atk                  = 2800
   | def                  = 2600
-  | password             = 
+  | password             = 97800311
+  | materials            = 2 monsters that mention "Temple of the Kings"
   | effect_types         = Summoning condition, Ignition, Trigger
   | text                 = 2 [[monsters]] that mention "[[Temple of the Kings]]"<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed by Tributing 2 "[[Apophis]]" monsters. [[Once per turn]]: You can [[target]] up to 3 "Apophis" [[Traps]] with different names in your [[GY]]; [[Set]] them. Once per turn, if a Trap Card is activated (except during the [[Damage Step]]): You can target 1 card your opponent controls; [[destroy]] it.
   | fr_text              = 
@@ -45,5 +46,20 @@ wikitext: |-
   * Apophis
   * Temple of the Kings (series)
   | supports_archetypes  = Apophis
+  | action          = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Sets from your Graveyard
+  | m/s/t                = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning            = 
+  * 2 Fusion Materials
+  * Nomi
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
+  | misc                 = Limited activations
   | database_id          = 
   }}

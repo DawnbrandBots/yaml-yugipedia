@@ -17,7 +17,7 @@ wikitext: |-
   | level                = 6
   | atk                  = 2500
   | def                  = 2000
-  | password             = 
+  | password             = 34926568
   | effect_types         = Summoning condition, Summoning condition, Condition, Ignition, Trigger
   | text                 = Cannot be [[Normal Summon]]ed/[[Set]]. Must first be [[Special Summon]]ed (from your [[hand]]) by [[banish]]ing 1 [[Level]] 10 or higher [[monster]] from your hand or [[Main Deck|Deck]], while you [[control]] "[[Temple of the Kings]]". You can only Special Summon "Merciless Scorpion of Serket" [[once per turn]] this way. Once per turn, during your [[Main Phase]]: You can [[Add a card|add]] 1 "Temple of the Kings", or 1 [[Spell]] that mentions it, from your Deck to your hand. At the start of the [[Damage Step]], if this card battles an opponent's monster: You can [[destroy]] that opponent's monster, and if you do, this card gains [[ATK]] equal to half the destroyed monster's [[original ATK]].
   | fr_text              = 
@@ -44,5 +44,20 @@ wikitext: |-
   | archseries           = 
   * Serket
   * Temple of the Kings (series)
+  | action               = Adds from Deck to hand
+  | stat_change          = This card gains ATK
+  | m/s/t                = Destroys battling monster at the start of the Damage Step
+  | summoning            = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Special Summon-only monster
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | banished             = Banishes from Deck for Summon
+  | misc                 = 
+  * Special Summon Monster
+  * Requires control of specific card
+  * Limited activations
+  * Mentions
   | database_id          = 
   }}
