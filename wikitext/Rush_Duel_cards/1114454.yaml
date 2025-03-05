@@ -8,12 +8,22 @@ wikitext: |-
   | image          = CyberVariation-RDSD0C-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], place 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monster]] from your [[field]] on the bottom of the owner's Deck.
-  | text           = [[Draw a card|Draw]] 2 cards. You cannot [[Special Summon]] non-[[Machine]] [[Type]] monsters until the end of this [[turn]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], place 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your [[field]] on the bottom of the [[owner]]'s Deck.
+  | text           = [[Draw a card|Draw]] 2 cards. You can only [[Special Summon]] Machine Type monsters until the end of this [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SD0C-JP028; Structure Deck: Chimeratech Cyber; Common
+  | supports       = 
+  * LIGHT
+  * Machine
   | archseries     = Cyber Dragon (Rush Duel series)
+  | action         = 
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * You draw cards
+  | summoning      = Restricts the player's Special Summons to Type specific monsters
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}
