@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 200
   | password              = 
   | effect_types          = Quick, Trigger, Condition
-  | text                  = When a card or effect is activated that targets a Fiend and/or Fusion Monster(s) you control, or when your Fiend or Fusion Monster is targeted for an attack (Quick Effect): You can discard this card, then target 1 of them; until the end of this turn, it cannot be destroyed by battle or card effects, also its effects activated on the field cannot be negated. If this card is sent from the hand to the GY by card effect: You can add 1 "Polymerization" from your Deck or GY to your hand. You can only use each effect of "Darkuriboh" once per turn.
+  | text                  = When a card or [[effect]] is [[activate]]d that [[target]]s a [[Fiend]] and/or [[Fusion Monster]](s) you [[control]], or when your Fiend or Fusion Monster is targeted for an [[attack]] ([[Quick Effect]]): You can [[discard]] this card, then target 1 of them; until the end of this [[turn]], it cannot be [[destroyed by battle]] or card effects, also its effects activated on the field cannot be [[negate]]d. If this card is [[Send|sent]] from the [[hand]] to the [[GY]] by card effect: You can [[add]] 1 "[[Polymerization]]" from your [[Main Deck|Deck]] or GY to your hand. You can only use each effect of "Darkuriboh" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,11 +33,29 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  VJMP-JP0270; V Jump May 2025 promotional card; Ultra Rare
+  VJMP-JP270; V Jump May 2025 promotional card; Ultra Rare
   | mentions              = Polymerization
+  | supports              = 
+  * Fiend
+  * Fusion Monster
   | archseries            = 
   * Kuriboh (archetype)
   * Dark counterpart
   | related_to_archseries = Polymerization (archetype)
+  | action                = 
+  * Activates from your hand
+  * Activates if targeted by card effect
+  * Activates if targeted for an attack
+  * Discards itself for cost
+  * Prevents the negation of card effects
+  * Activates if sent to the Graveyard
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | attack                = Prevents other cards being destroyed by battle
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}
