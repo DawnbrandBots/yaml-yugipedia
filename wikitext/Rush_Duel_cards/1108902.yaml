@@ -5,13 +5,13 @@ wikitext: |-
   {{CardTable2
   | ja_name        = サイバー・ラッシュ・フュージョン
   | romaji_name    = Saibā Rasshu Fyūjon
-  | image          = CyberRushFusion-RDSD0C-JP-OP.png
+  | image          = CyberRushFusion-RDSD0C-JP-C.png
   | card_type      = Spell
   | property       = Normal
   | requirement    = You have a [[Monster Card|monster]] on your [[field]].
   | text           = [[Fusion Summon]] a monster that lists "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" as [[material]] by [[Shuffle|shuffling]] up to 5 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] monsters from your field and/or [[Graveyard]] into the owner's [[Main Deck|Deck]] as material. Then, if you have a monster on your field other than the monster [[Special Summon]]ed by this [[effect]], [[destroy]] all those monsters.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分フィールドにモンスターがいる場合に発動できる。
+  | ja_text        = 自分のフィールド・墓地のモンスター（光属性／機械族）を５体まで素材として持ち主のデッキに戻し、「サイバー・ドラゴン」のカード名が素材として記されたモンスターをフュージョン召喚する。その後、この効果で特殊召喚したモンスター以外のモンスターが自分フィールドにいる場合、それらのモンスターを全て破壊する。
   | jp_sets        = 
   RD/SD0C-JP029; Structure Deck: Chimeratech Cyber; Common
   RD/SD0C-JPS06; Structure Deck: Chimeratech Cyber; Super Rare
@@ -34,5 +34,5 @@ wikitext: |-
   | misc           = 
   * Requires control of specific Attribute
   * Requires control of specific Type
-  | database_id    = 
+  | database_id    = 21393
   }}

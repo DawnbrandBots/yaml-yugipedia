@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ハーピィ・シニョーラ
   | romaji_name    = Hāpyi Shinyōra
-  | image          = HarpieSignora-RDSD0D-JP-OP.png
+  | image          = HarpieSignora-RDSD0D-JP-C.png
   | attribute      = WIND
   | types          = Winged Beast / Effect
   | level          = 4
@@ -13,8 +13,8 @@ wikitext: |-
   | def            = 300
   | requirement    = You have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card.
   | text           = [[Send]] the top 2 cards of your Deck to the [[Graveyard]]. Then, if "[[Harpie Lady (Rush Duel)|Harpie Lady]]" or "[[Harpie Lady Sisters (Rush Duel)|Harpie Lady Sisters]]" is among the cards sent, you can [[Draw a card|draw]] 1 card.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = このカードを召喚したターンに、自分のデッキのカードが１０枚以上の場合に発動できる。
+  | ja_text        = 自分のデッキの上からカード２枚を墓地へ送る。その中に「ハーピィ・レディ」または「ハーピィ三姉妹」がいた場合、さらに自分は１枚ドローできる。
   | jp_sets        = 
   RD/SD0D-JP006; Structure Deck: Harpie Lady Sisters; Common
   | mentions       = 
@@ -25,5 +25,5 @@ wikitext: |-
   * Activates during the turn in which it was Normal Summoned
   * Sends from the top of your Deck to your Graveyard
   * You draw cards
-  | database_id    = 
+  | database_id    = 21400
   }}
