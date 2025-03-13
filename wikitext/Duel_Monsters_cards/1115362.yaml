@@ -36,5 +36,17 @@ wikitext: |-
   * Monarch
   * Monarch (Spell/Trap archetype)
   | supports_archetypes = Monarch (Spell/Trap archetype)
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Declares an Attribute
+  * Activates upon Tribute Summon
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | stat_change         = Changes Attribute
+  | summoning           = Special Summons itself from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
