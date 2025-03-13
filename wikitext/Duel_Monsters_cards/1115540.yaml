@@ -34,6 +34,20 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP015; Duelist's Advance; 
+  | supports            = 
+  * Psychic
+  * Normal Spell Card
+  * Quick-Play Spell Card
   | supports_archetypes = Teleport (archetype)
+  | action              = 
+  * Activates upon Special Summon
+  * Activates upon Normal Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Activates while banished
+  | stat_change         = Treats itself as a non-Tuner monster
+  | summoning           = Special Summons itself while banished
+  | life_points         = Pays Life Points for cost
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   }}
