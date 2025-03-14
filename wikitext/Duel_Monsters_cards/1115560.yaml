@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Condition, Condition
-  | text                = Tribute 1 Psychic monster that has a Level; Special Summon 1 Level 7 or lower Psychic monster from your Deck or Extra Deck, then, if those monsters' original Levels are different, you lose LP equal to the difference x 1000. You cannot Special Summon the turn you activate this card, except Psychic monsters. You can only activate 1 "Parallel Teleport" per turn.
+  | text                = [[Tribute]] 1 [[Psychic]] [[monster]] that has a [[Level]]; [[Special Summon]] 1 Level 7 or lower Psychic monster from your [[Main Deck|Deck]] or [[Extra Deck]], then, if those monsters' original Levels are different, you lose [[LP]] equal to the difference x 1000. You cannot Special Summon the [[turn]] you [[activate]] this card, except Psychic monsters. You can only activate 1 "Parallel Teleport" [[Once per turn|per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,6 +31,16 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP059; Duelist's Advance; 
+  | supports            = Psychic
   | archseries          = Teleport (archetype)
+  | action              = Tributes for cost
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | life_points         = You lose Life Points
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}
