@@ -21,7 +21,7 @@ wikitext: |-
   | text             = This card is used to [[Ritual Summon]] "[[Herald of Ultimateness]]". You must also [[Tribute]] [[Monster Card|monsters]] from your [[hand]] or [[field]] whose total [[Level]]s equal 12 or more. Your opponent cannot [[activate]] cards or [[effect]]s in [[Respond|response]] to this card's activation.
   | fr_text          = Cette carte est utilisée pour Invoquer Rituellement "Héraut de l'Ultime". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est égal à min. 12. Votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cette carte.
   | de_text          = Diese Karte wird verwendet, um „Herold der Endgültigkeit“ als Ritualbeschwörung zu beschwören. Du musst zusätzlich Monster von deiner Hand oder deiner Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe 12 oder mehr entspricht. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieser Karte aktivieren.
-  | it_text          = Questa carta viene utilizzata per [[Ritual Summon|Evocare tramite Rituale]] "[[Herald of Ultimateness|Araldo della Fine Ultima]]". Devi anche [[Tribute|offrire come Tributo]], dalla [[Hand|mano]] o [[Field|Terreno]], mostri il cui [[Level|Livello]] totale sia pari o superiore a 12. Il tuo avversario non può [[Activate|attivare]] carte o [[Effect|effetti]] in [[Respond|risposta]] all'attivazione di questa carta.
+  | it_text          = (Questa carta non viene considerata come una carta "[[Heraldry|dell'Araldo]]".)<br />Questa carta viene utilizzata per Evocare tramite Rituale "Araldo della Fine Ultima". Devi anche offrire come Tributo, dalla tua mano o Terreno, mostri il cui Livello totale sia pari o superiore a 12. Il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questa carta.
   | pt_text          = Este card é usado para a Invocação-Ritual de "Arauto da Inevitablilidade". Você também deve oferecer como Tributo monstros da mão ou do campo cuja soma dos Níveis seja igual a 12 ou mais. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste card.
   | es_text          = Esta carta es usada para Invocar por Ritual a "Heraldo de la Maximidad". Debes además Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sumen 12 o más. Tu adversario no puede activar cartas o efectos en respuesta a la activación de esta carta.
   | ja_text          = 「崇光なる宣告者」の降臨に必要。このカードの発動に対して相手は魔法・罠・モンスターの効果を発動できない。①：自分の手札・フィールドから、レベルの合計が１２以上になるようにモンスターをリリースし、手札から「崇光なる宣告者」を儀式召喚する。
@@ -62,6 +62,8 @@ wikitext: |-
   * Prevents activation of your opponent's Trap Cards
   * Prevents responding to its activation
   | summoning        = Special Summons from your hand
-  | misc             = Specific Ritual Spell Card
+  | misc             = 
+  * Archetype-exclusion condition
+  * Specific Ritual Spell Card
   | database_id      = 11398
   }}
