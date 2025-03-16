@@ -14,7 +14,7 @@ wikitext: |-
   | pt_name      = Endymion
   | es_name      = Endimión
   | sets         = [[Stardust Overdrive]]
-  | tcg          =
+  | tcg          = 
   * [[Spellcaster's Command Structure Deck]]
   * [[Duelist League 16]]
   * [[Battles of Legend: Light's Revenge]]
@@ -26,7 +26,7 @@ wikitext: |-
   * [[2020 Tin of Lost Memories]]
   * [[Battles of Legend: Crystal Revenge]]
   * [[25th Anniversary Rarity Collection]]
-  | ocg          =
+  | ocg          = 
   * [[Structure Deck: Lord of Magician]]
   * [[Duelist Edition Volume 4]]
   * [[Tournament Pack 2017 Vol.4]]
@@ -37,7 +37,7 @@ wikitext: |-
   * [[Rarity Collection Quarter Century Edition]]
   * [[V Jump February 2025 promotional card]]
   * [[Premium Pack 2025]]
-  | anime        =
+  | anime        = 
   * [[Yu-Gi-Oh! 5D's]]
   * [[Yu-Gi-Oh! ZEXAL]]
   * [[Yu-Gi-Oh! ARC-V]]
@@ -52,95 +52,60 @@ wikitext: |-
 
   == Design ==
   === Pendulum Monsters ===
-  The four "Endymion" Pendulum Monsters introduced in ''[[Structure Deck: Order of the Spellcasters]]'' form the core of the "Endymion" archetype. Design-wise, they can be divided by their gender and in-story status:
-  * Female "Endymion" Pendulum Monsters have Pendulum Scale of 2, while male "Endymion" Pendulum Monsters have [[Pendulum Scale]] of 8.
-  * The aide "Endymion" Pendulum Monsters are level 3, while the royalty "Endymion" Pendulum Monsters are Level 7.
+  The four "Endymion" Pendulum Monsters, introduced in ''[[Structure Deck: Order of the Spellcasters]]'', form the core of the modern "Endymion" archetype. Design-wise, they can be divided by their gender and in-story status:
+  * Female one have [[Pendulum Scale]] of 2, while male ones have Pendulum Scale of 8.
+  * The "aides" are [[Level]] 3, while the "royalty" are Level 7.
+
   {| class="wikitable" style="text-align: center"
   !
-  ! Female<br/><small>{{Pendulum Scale}} 2</small>
-  ! Male<br/><small>{{Pendulum Scale}} 8</small>
+  ! Female
+  ! Male
   |-
-  ! Aide<br/><small>Level 3</small>
+  ! Aide
   | [[Servant of Endymion|Servant]] || [[Magister of Endymion|Magister]]
   |-
-  ! Royalty<br/><small>Level 7</small>
-  | [[Reflection of Endymion|Reflection]] || [[Endymion, the Mighty Master of Magic|Endymion]]
+  ! Royalty
+  | [[Reflection of Endymion|Reflection]] || [[Endymion, the Mighty Master of Magic|Mighty Master of Magic]]
   |}
 
   == Lore ==
   {{Main|Master Guide 4 card storylines#The Belief of the Magical Citadel's King|Master Guide 6 card storylines#File No. 08: The People Living in the Magical Nation Centered Around "Endymion"}}
 
   == Playing style ==
-  The "Endymion" archetype is an archetype focused on using [[Spell Counter]]s and [[Pendulum Monster]]s, taking advantage of the fact that Pendulum Monsters can be activated as [[Spell Card]]s in the [[Pendulum Zone]]. The four key cards of the archetype are their four [[Pendulum Monster|Effect Pendulum Monsters]], "[[Servant of Endymion]]", "[[Magister of Endymion]]", "[[Reflection of Endymion]]", and "[[Endymion, the Mighty Master of Magic]]", the latter of which is their boss monster. Each of these monsters have multiple Pendulum Effects and Monster Effects. These effects can be divided into four types across all of these four monsters:
-  * Spell Counter-generating Continuous Pendulum Effect
-  * Monster-Summoning Ignition Pendulum Effect
-  * On-field Monster Effect
-  * Floating Monster Effect
-  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
-  |+ {{nowrap|Pendulum Effects}}
-  ! rowspan = 2 | Endymion
-  ! rowspan = 2 | [[Continuous-like Effect|Continuous]]
-  ! colspan = 4 | [[Ignition-like Effect|Ignition]]{{efn|All [[hard once per turn]] or ''de facto'' hard once per turn. Though "Servant", "Magister", and "Reflection" do not specifically state that their effects are hard once per turn, they all share the restrictive [[condition]] where cards with their name can only be Special Summoned once per turn, functionally limiting their effect activations to hard once per turn.}}
+  The "Endymion" archetype is an archetype focused on using [[Spell Counter]]s and [[Pendulum Monster]]s, taking advantage of the fact that Pendulum Monsters can be activated as [[Spell Card]]s in the [[Pendulum Zone]]. The four key cards of the archetype are their four own Pendulums: "[[Servant of Endymion]]", "[[Magister of Endymion]]", "[[Reflection of Endymion]]", and "[[Endymion, the Mighty Master of Magic]]", the latter of which is their boss monster. Each of these monsters have multiple [[Pendulum Effect|Pendulum]]s and [[monster effect]]s, which can be divided into four kinds:
+  * A [[Continuous-like Effect|Continuous-like]] Pendulum Effect that generates 1 Spell Counter each time a Spell Card is activated (except "Mighty Master")
+  * A self-Summoning [[Ignition-like Effect|Ignition-like]] Pendulum Effect
+  * One or two on-field monster effects
+  * A monster effect on floating
+
+  {| class="wikitable"
+  ! rowspan=2 | Monster
+  ! rowspan=2 | Summon Pendulum Effect
+  ! colspan=2 | Monster effects
   |-
-  ! Cost
-  ! colspan = 3 | Effect
-  |-
-  | [[Servant of Endymion|Servant]]
-  | rowspan = 3 | +1 SC after a [[Spell]] [[resolve]]s.
-  | rowspan = 3 | -3 SC<br/>From this card
-  | rowspan = 3 | [[Special Summon]] this card and 1 SC Monster from:
-  | [[Deck]]{{efn|With 1000+ ATK.}}
-  | rowspan = 3 | and each gains 1 SC.
-  |-
-  | [[Magister of Endymion|Magister]]
-  | [[Extra Deck]]{{efn|[[Face-up]] from the Extra Deck.}}
-  |-
-  | [[Reflection of Endymion|Reflection]]
-  | [[Hand]]
-  |-
-  | [[Endymion, the Mighty Master of Magic|Endymion]]
-  | —
-  | -6 SC<br/>From your field
-  | colspan = 3 | Special Summon this card, then destroy cards on field, up to the number of friendly SC Cards, then gain SC equal to the number destroyed.
-  |-
-  ! colspan = 8 | <small>For simplicity's sake, Spell Counter is abbreviated to "SC" in this table. "SC Monster/Card" refers to "monster/card that you can place a Spell Counter on" in [[PSCT]].</small>
-  |}
-  {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
-  |+ {{nowrap|Monster Effects}}
-  ! rowspan = 2 | Endymion
-  ! rowspan = 2 | On-Field
-  ! colspan = 3 | Floating
-  |-
-  ! Requirements (If/When...)
-  ! colspan = 2 | Effects
+  ! On the field
+  ! On floating
   |-
   | [[Servant of Endymion|Servant]]
-  |
-  * If it has SC, it can attack directly.
-  * ([[OPT]], [[Quick Effect|Quick]]) In the opponent's turn, you can discard 1 card; each friendly SC Card gain 1 SC.
-  | rowspan = 2 | Destroyed in the [[Monster Zone]]
-  | colspan = 2 rowspan = 2 | Place this card in your [[Pendulum Zone]], then transfer the SC it had as a monster to it.
+  | Can remove 3 of its Spell Counters to Summon itself and a monster from the Deck with 1000 or more ATK that can have them, and places 1 on each
+  | Can attack directly while it has Spell Counters, and during the opponent's turn it can discard a card to place 1 on all of your cards that can have them
+  | rowspan=2 | Can place itself in the Pendulum Zone if destroyed in the Monster Zone, keeping all the Spell Counters it had
   |-
   | [[Magister of Endymion|Magister]]
-  |
-  * When this card attacks: You can gain 1 SC.
-  * ([[OPT]], [[Quick Effect|Quick]]) In the opponent's turn, you can remove 3 SC from your field; Special Summon 1 SC Monster from Deck.
+  | Can remove 3 of its Spell Counters to Summon itself and a face-up monster from the Extra Deck that can have them, and places 1 on each
+  | Gains a Spell Counter each time it attacks, and during the opponent turn it can remove 3 from any of your cards to Summon a monster from the Deck that can have them
   |-
   | [[Reflection of Endymion|Reflection]]
-  |
-  * If Special Summoned: You can target 1 enemy card and 1 other friendly card with a SC; return both to the hand. Then you can transfer the returned friendly card's SC to this card.
-  | rowspan = 2 | [[Destroyed by battle]], while having an SC
-  | rowspan = 2 | [[Search]] 1...
-  | "Endymion" card
+  | Can remove 3 of its Spell Counters to Summon itself and a monster from the hand that can have them, and places 1 on each
+  | Can bounce an opponent's card and one of yours that has Spell Counters when Summoned, and takes the Spell Counters of the latter
+  | Searches an "Endymion" card when destroyed by battle while it had Spell Counters
   |-
-  | [[Endymion, the Mighty Master of Magic|Endymion]]
-  | 
-  * ([[OPT]], [[Quick Effect|Quick]]) When a Spell/Trap Card or effect is activated: You can return 1 friendly card with an SC to the hand, and negate and destroy it. Then you can transfer the return friendly card's SC to this card.
-  * If it has SC, it can't be targeted or destroyed by enemy card effects.
-  | [[Normal Spell]]
-  |-
-  ! colspan = 8 | <small>For simplicity's sake, Spell Counter is abbreviated to "SC" in this table. "SC Monster/Card" refers to "monster/card that you can place a Spell Counter on" in [[PSCT]].</small>
+  | [[Endymion, the Mighty Master of Magic|Mighty Master of Magic]]
+  | Can remove 6 Spell Counters from any of your cards to Summon itself, destroys cards up to the numbers of yours that have Spell Counters, and gains 1 for each card destroyed
+  | Cannot be targeted or destroyed by card effects while it has Spell Counters, also can bounce one of your cards with Spell Counters to negate a Spell/Trap activation, destroys it, and takes the Spell Counters of the bounced card
+  | Searches a Normal Spell when destroyed by battle while it had Spell Counters
   |}
+
   The general playstyle of the "Endymion" archetype involves accumulating Spell Counters by using Spell Cards (including activating Pendulum Monsters in the Pendulum Zone), using the Pendulum Effects of the "Endymion" monsters to Special Summon themselves and each other, and ending the board with at least an "Endymion, the Mighty Master of Magic", who is a card negate, a high-protection boss monster, and a going-second board-breaker through his card-destroying Pendulum Effect. Their individual monster effects can serve as additional pieces of disruption: "Reflection" can return an opponent's card on their field to the hand when Special Summoned, and "Magister" can Special Summon her directly from the Deck in the opponent's turn.
 
   "Endymion" monsters do not passively generate Spell Counters after they're summoned from the Pendulum Zone; "[[Magical Citadel of Endymion]]" and "[[Endymion's Lab]]" fill in this gap by being Spell Counter generating [[Field Spell Card|Field]]/[[Continuous Spell Card|Continuous]] Spells with additional situational effects. The Link Monster "[[Selene, Queen of the Master Magicians]]" provides an immediate boost of Spell Counters when Link Summoned, has good [[Link Arrow]]s for Pendulum Summoning, and can provide play extension/disruption by Speical Summoning "Endymion" monsters from the hand or Graveyard as a Quick Effect. Lastly, "[[Spell Power Mastery]]" is the archetype's main searcher, and also provides additional Spell Counters.
@@ -238,10 +203,8 @@ wikitext: |-
   * [[Mythical Bestiamorph]]
   }}
 
-  == Notes ==
-  {{notelist}}
   {{Archseries navbox}}
   {{Archseries navbox (anime)}}
   {{Archseries navbox (Duel Links)}}
-
+  {{Magical War}}
   [[Category:TCG and OCG archetypes]]
