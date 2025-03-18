@@ -11,12 +11,25 @@ wikitext: |-
   | level          = 2
   | atk            = 100
   | def            = 100
-  | requirement    = If you have a [[face-up]] [[Level]] 7 or higher [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[monster]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your field to the [[Graveyard]].
-  | text           = [[Return]] 1 [[Spell]]/[[Trap Card]] from your opponent's field to the owner's [[hand]]. Then, you can [[Add a card|add]] 1 [[Equip Spell Card]] from your Graveyard to your hand.
+  | requirement    = If you have a [[face-up]] [[Level]] 7 or higher [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[Monster Card|monster]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your field to the [[Graveyard]].
+  | text           = [[Return]] 1 [[Spell Card|Spell]]/[[Trap Card]] from your opponent's field to the [[owner]]'s [[hand]]. Then, you can [[Add a card|add]] 1 [[Equip Spell Card]] from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/5TH1-JP047; 5th Anniversary Pack; Ultra Rare
+  | supports       = 
+  * WIND
+  * Psychic
+  * Equip Spell Card
   | archseries     = Shaman Bandit
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from field to Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  * Adds from Graveyard to hand
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

@@ -3,28 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|Ｅ・ＨＥＲＯ|エレメンタルヒーロー}} ヘリオスフィアー
-  | romaji_name    = Erementaru Hīrō Heriosufiā
-  | image          = ElementalHEROHeliosphere-RD5TH1-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Warrior / Fusion / Effect
-  | level          = 7
-  | atk            = 2800
-  | def            = 2800
-  | materials      = "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]" + "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
-  | condition      = Must be [[Fusion Summon]]ed.
-  | requirement    = You have 10 or more cards in your [[Main Deck|Deck]].
-  | text           = [[Draw a card|Draw]] 1 card and show it. Then, if that card is a [[monster]], you can [[destroy]] 1 card on your opponent's [[field]].
-  | ja_materials   = 
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
-  RD/5TH1-JP029; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
-  | mentions       = 
+  | ja_name         = {{Ruby|Ｅ・ＨＥＲＯ|エレメンタルヒーロー}} ヘリオスフィアー
+  | romaji_name     = Erementaru Hīrō Heriosufiā
+  | image           = ElementalHEROHeliosphere-RD5TH1-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Warrior / Fusion / Effect
+  | level           = 7
+  | atk             = 2800
+  | def             = 2800
+  | fusion_material = 
   * Elemental HERO Sparkman (Rush Duel)
   * Elemental HERO Avian (Rush Duel)
   * Elemental HERO Burstinatrix (Rush Duel)
-  | archseries     = Elemental HERO (Rush Duel)
-  | database_id    = 
+  | materials       = "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]" + "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
+  | condition       = Must be [[Fusion Summon]]ed.
+  | requirement     = You have 10 or more cards in your [[Main Deck|Deck]].
+  | text            = [[Draw a card|Draw]] 1 card and show it. If that card is a [[Monster Card|monster]], you can [[destroy]] 1 card on your opponent's [[field]].
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/5TH1-JP029; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
+  | mentions        = 
+  * Elemental HERO Sparkman (Rush Duel)
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
+  | archseries      = Elemental HERO (Rush Duel)
+  | action          = 
+  * You draw cards
+  * Shows the player's drawn cards
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Nomi
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | database_id     = 
   }}

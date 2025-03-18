@@ -8,12 +8,30 @@ wikitext: |-
   | level          = 3
   | atk            = 1000
   | def            = 1000
-  | requirement    = Your opponent has a [[monster]] on their [[field]] and you have another [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monster on your field during the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = Inflict 600 [[Effect damage|damage]] to your opponent. Then, you can [[Fusion Summon]] an EARTH Attribute Machine Type monster whose [[ATK]] equals its own DEF by [[send]]ing [[Effect Monster]]s from your [[hand]] and/or field to the [[Graveyard]] as [[material]].
+  | requirement    = Your opponent has a [[Monster Card|monster]] on their [[field]] and you have another [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monster on your field during the [[turn]] you [[Normal Summon]]ed this card.
+  | text           = [[Damage|Inflict]] 600 [[Effect damage|damage]] to your opponent. Then, you can [[Fusion Summon]] an EARTH Attribute Machine Type monster whose [[ATK]] equals its own [[DEF]] by [[send]]ing [[Effect Monster]]s from your [[hand]] and/or field to the [[Graveyard]] as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/5TH1-JP048; 5th Anniversary Pack; Ultra Rare
+  | supports       = 
+  * EARTH
+  * Machine
+  * Effect Monster
   | archseries     = Ancient Gear (Rush Duel series)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | life_points    = Damages your opponent
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster type
   | database_id    = 
   }}

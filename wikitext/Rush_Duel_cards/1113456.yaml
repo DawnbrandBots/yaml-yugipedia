@@ -11,8 +11,8 @@ wikitext: |-
   | level                 = 3
   | atk                   = 1100
   | def                   = 100
-  | requirement           = During a [[turn]] you have not [[Special Summon]]ed a [[monster]], [[reveal]] 1 "[[Road Magic - Explosion]]", "[[Road Magic - Tempest]]", or "[[Road Magic - Tectonic Shift]]" in your [[hand]].
-  | text                  = Special Summon 1 [[Level]] 7 or higher [[Spellcaster]] [[Type]] monster from your [[Graveyard]] [[face-up]] to your [[field]]. Then, [[return]] this card to the owner's hand.
+  | requirement           = During a [[turn]] you have not [[Special Summon]]ed a [[Monster Card|monster]], [[reveal]] 1 "[[Road Magic - Explosion]]", "[[Road Magic - Tempest]]", or "[[Road Magic - Tectonic Shift]]" in your [[hand]].
+  | text                  = Special Summon 1 [[Level]] 7 or higher [[Spellcaster]] [[Type]] monster from your [[Graveyard]] [[face-up]] to your [[field]]. Then, [[return]] this card to the [[owner]]'s hand.
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
@@ -22,6 +22,12 @@ wikitext: |-
   * Road Magic - Tempest
   * Road Magic - Tectonic Shift
   | supports              = Spellcaster
-  | related_to_archseries = Sevens Road
+  | related_to_archseries = 
+  * Road Magic
+  * Sevens Road
+  | action                = 
+  * Reveals your hand for cost
+  * Returns itself from field to hand
+  | summoning             = Special Summons from your Graveyard
   | database_id           = 
   }}

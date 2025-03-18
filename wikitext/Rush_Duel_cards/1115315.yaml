@@ -11,14 +11,31 @@ wikitext: |-
   | level          = 10
   | atk            = 3600
   | def            = 2400
-  | materials      = 2 [[Level]] 7 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[monsters]]
+  | materials      = 2 [[Level]] 7 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[Monster Card|monster]]s
   | requirement    = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
-  | text           = This card gains [[ATK]] equal to [the total number of cards in your opponent's hand and field] x 300 until the end of this [[turn]]. Then, if you have a [[Normal Monster]] in your Graveyard, you can [[destroy]] 1 card on your opponent's field.
+  | text           = This card gains [[ATK]] equal to [the total number of cards in your opponent's hand and on their field] x 300 until the end of this [[turn]]. Then, if you have a [[Normal Monster]] in your Graveyard, you can [[destroy]] 1 card on your opponent's field.
   | ja_materials   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/5TH1-JP027; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
+  | supports       = 
+  * WIND
+  * Psychic
+  * Normal Monster
   | archseries     = Shaman Bandit
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
   | database_id    = 
   }}
