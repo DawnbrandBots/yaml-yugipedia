@@ -29,7 +29,15 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DBJH-JP040; Deck-Build Pack: Justice Hunters; Common, Normal Parallel Rare
+  | supports            = Quick-Play Spell Card
   | archseries          = K9
   | supports_archetypes = K9
+  | action              = 
+  * Adds from Deck to hand
+  * Activates if destroyed by card effect
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | stat_change         = Your monsters gain ATK
+  | misc                = Only once per turn
   | database_id         = 
   }}
