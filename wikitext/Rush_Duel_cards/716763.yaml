@@ -1,6 +1,7 @@
 title: Sora Puyo
 wikitext: |-
   {{CardTable2
+  | fr_name        = Sora Puyo
   | ja_name        = ソラプヨ
   | romaji_name    = Sorapuyo
   | ko_name        = 소라뿌요
@@ -12,6 +13,8 @@ wikitext: |-
   | def            = 0
   | requirement    = You have 10 or more [[Monster Card|monster]]s in your [[Graveyard]].
   | text           = [[Draw a card|Draw]] 1 card. [[Send]] 1 card from your [[hand]] to the Graveyard.
+  | fr_requirement = Vous avez au moins 10 monstres dans votre Cimetière.
+  | fr_text        = Piochez 1 carte. Envoyez 1 carte de votre main au Cimetière.
   | ja_requirement = 自分の墓地にモンスターが１０体以上いる場合に発動できる。
   | ja_text        = 自分は１枚ドローする。その後、自分は手札１枚を選んで墓地へ送る。
   | ko_requirement = 자신 묘지에 몬스터가 10장 이상 있을 경우에 발동할 수 있다.
