@@ -3,22 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ジョインテック・ベビータイラント
-  | romaji_name    = Jointekku Bebī Tairanto
-  | image          = JointechBabyTyrant-RD5TH1-JP-OP.png
-  | attribute      = EARTH
-  | types          = Machine / Effect
-  | level          = 4
-  | atk            = 1200
-  | def            = 300
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have 3 or more [[Machine]] [[Type]] monsters in your Graveyard, you can [[Add a card|add]] 1 "[[Jointech Joint]]" from your Graveyard to your [[hand]].
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = ジョインテック・ベビータイラント
+  | romaji_name           = Jointekku Bebī Tairanto
+  | image                 = JointechBabyTyrant-RD5TH1-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Machine / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 300
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text                  = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you have 3 or more [[Machine]] [[Type]] [[Monster Card|monster]]s in your Graveyard, you can [[Add a card|add]] 1 "[[Jointech Joint]]" from your Graveyard to your [[hand]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/5TH1-JP045; 5th Anniversary Pack; Ultra Rare
-  | mentions       = Jointech Joint
-  | archseries     = Jointech
+  | mentions              = Jointech Joint
+  | supports              = Machine
+  | archseries            = Jointech
   | related_to_archseries = Darkness (Rush Duel series)
-  | database_id    = 
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | database_id           = 
   }}
