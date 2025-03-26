@@ -12,7 +12,7 @@ wikitext: |-
   | atk             = 2100
   | def             = 1400
   | fusion_material = Harpie Cielo
-  | materials       = "[[Harpie Cielo]]" + 1 [[Level]] 4 or lower [[Winged Beast]] [[Type]] [[monster]]
+  | materials       = "[[Harpie Cielo]]" + 1 [[Level]] 4 or lower [[Winged Beast]] [[Type]] [[Monster Card|monster]]
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
   | text            = [[Add a card|Add]] up to 2 "[[Harpie Lady Sisters (Rush Duel)|Harpie Lady Sisters]]" from your [[Graveyard]] to your [[hand]].
@@ -25,6 +25,18 @@ wikitext: |-
   | mentions        = 
   * Harpie Cielo
   * Harpie Lady Sisters (Rush Duel)
+  | supports        = Winged Beast
   | archseries      = Harpie (Rush Duel series)
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Fusion Summoned
+  * Adds from Graveyard to hand
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id     = 
   }}
