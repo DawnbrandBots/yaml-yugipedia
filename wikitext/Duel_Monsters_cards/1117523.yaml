@@ -33,5 +33,13 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP027; Duelist's Advance; 
+  | anti-supports       = LIGHT
+  | action              = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Adds from Deck to hand
+  | m/s/t               = Destroys battling monster at the start of the Damage Step
+  | summoning           = Increases Tributes for Normal Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}

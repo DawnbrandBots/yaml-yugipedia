@@ -3,24 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
-  | ja_name        = {{Ruby|Ｔ・Ｋ・Ｇ|タマボット・キング・ゴーレム}}
-  | romaji_name    = Tamabotto Kingu Gōremu
-  | image          = TamabotKingGolem-OW.png
-  | attribute      = EARTH
-  | types          = Machine / Fusion / Effect
-  | level          = 9
-  | atk            = 3000
-  | def            = 3000
-  | fusion_material = 
-  * Tamabot
-  | material       = "[[Tamabot]]" + "Tamabot" + "Tamabot"
-  | requirement    = ''TBA''
-  | text           = ''TBA''
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|Ｔ・Ｋ・Ｇ|タマボット・キング・ゴーレム}}
+  | romaji_name     = Tamabotto Kingu Gōremu
+  | image           = TamabotKingGolem-OW.png
+  | attribute       = EARTH
+  | types           = Machine / Fusion / Effect
+  | level           = 9
+  | atk             = 3000
+  | def             = 3000
+  | fusion_material = Tamabot
+  | materials       = "[[Tamabot]]" + "Tamabot" + "Tamabot"
+  | requirement     = ''TBA''
+  | text            = ''TBA''
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP21-JP0??; Accel Road of the Attack
-  | archseries     = Tamabot (series)
-  | database_id    = 
+  | mentions        = Tamabot
+  | archseries      = Tamabot (series)
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  | database_id     = 
   }}
