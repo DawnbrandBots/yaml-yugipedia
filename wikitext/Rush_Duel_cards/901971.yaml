@@ -3,45 +3,44 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = タマーボット・バーストドラゴン
-  | romaji_name     = Tamābotto Bāsuto Doragon
-  | ko_name         = 타마봇 버스트드래곤
-  | image           = TamabotBurstDragon-RDKP13-JP-C.png
-  | attribute       = EARTH
-  | types           = Dragon / Fusion / Effect
-  | level           = 7
-  | atk             = 2500
-  | def             = 2500
-  | fusion_material = 
+  | ja_name               = タマーボット・バーストドラゴン
+  | romaji_name           = Tamābotto Bāsuto Doragon
+  | ko_name               = 타마봇 버스트드래곤
+  | image                 = TamabotBurstDragon-RDKP13-JP-C.png
+  | attribute             = EARTH
+  | types                 = Dragon / Fusion / Effect
+  | level                 = 7
+  | atk                   = 2500
+  | def                   = 2500
+  | fusion_material       = 
   * Blue-Fang Burst Dragon
   * Tamabot
-  | materials       = "[[Blue-Fang Burst Dragon]]" + "[[Tamabot]]"
-  | requirement     = [[Send]] cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]] equal to [the total number of "Tamabot" in both [[Duelist|player]]s' Graveyards].
-  | text            = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, if you sent a [[Monster Card|monster]] with 1500 or less ATK to the Graveyard to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[face-up]] monster with 1500 or more ATK on your opponent's [[field]].
-  | ja_materials    = 「碧牙の爆速竜」＋「タマボット」
-  | ja_requirement  = デッキの上から［お互いの墓地の「タマボット」の数の合計］だけカードを墓地へ送って発動できる。
-  | ja_text         = このカードの攻撃力はターン終了時まで１０００アップする。この効果の条件でモンスター（攻撃力１５００以下）が墓地へ送られた場合、さらに相手フィールドの表側表示モンスター（攻撃力１５００以上）１体を選んで破壊できる。
-  | ko_materials    = "블루 투스 버스트드래곤" ＋ "타마봇"
-  | ko_requirement  = 덱 위에서 [서로의 묘지의 "타마봇"의 수의 합계]만큼 카드를 묘지로 보내고 발동할 수 있다.
-  | ko_text         = 이 카드의 공격력은 턴 종료시까지 1000 올린다. 이 효과의 조건으로 몬스터(공격력 1500 이하)가 묘지로 보내졌을 경우, 추가로 상대 필드의 앞면 표시 몬스터(공격력 1500 이상) 1장을 고르고 파괴할 수 있다.
-  | jp_sets         = 
+  | materials             = "[[Blue-Fang Burst Dragon]]" + "[[Tamabot]]"
+  | requirement           = [[Send]] cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]] equal to [the total number of "Tamabot" in both [[Duelist|player]]s' Graveyards].
+  | text                  = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, if you sent a [[Monster Card|monster]] with 1500 or less ATK to the Graveyard to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[face-up]] monster with 1500 or more ATK on your opponent's [[field]].
+  | ja_materials          = 「碧牙の爆速竜」＋「タマボット」
+  | ja_requirement        = デッキの上から［お互いの墓地の「タマボット」の数の合計］だけカードを墓地へ送って発動できる。
+  | ja_text               = このカードの攻撃力はターン終了時まで１０００アップする。この効果の条件でモンスター（攻撃力１５００以下）が墓地へ送られた場合、さらに相手フィールドの表側表示モンスター（攻撃力１５００以上）１体を選んで破壊できる。
+  | ko_materials          = "블루 투스 버스트드래곤" ＋ "타마봇"
+  | ko_requirement        = 덱 위에서 [서로의 묘지의 "타마봇"의 수의 합계]만큼 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text               = 이 카드의 공격력은 턴 종료시까지 1000 올린다. 이 효과의 조건으로 몬스터(공격력 1500 이하)가 묘지로 보내졌을 경우, 추가로 상대 필드의 앞면 표시 몬스터(공격력 1500 이상) 1장을 고르고 파괴할 수 있다.
+  | jp_sets               = 
   RD/KP13-JP036; Oblivion of the Flash; Common
   RD/5TH1-JP095; 5th Anniversary Pack; Super Rare
-  | kr_sets         = 
+  | kr_sets               = 
   RD/KP13-KR036; Oblivion of the Flash; Common
-  | mentions        = 
+  | mentions              = 
   * Blue-Fang Burst Dragon
   * Tamabot
-  | archseries      = 
-  * High Tech Dragon
-  * Tamabot (series)
-  | action          = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change     = This card gains ATK
-  | m/s/t           = Destroys your opponent's face-up Monster Cards
-  | summoning       = 
+  | archseries            = Tamabot (series)
+  | related_to_archseries = High Tech Dragon
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
-  | database_id     = 18965
+  | database_id           = 18965
   }}
