@@ -17,7 +17,7 @@ wikitext: |-
   | card_type             = Spell
   | property              = Normal
   | password              = 30531525
-  | effect_types          = Cost, Effect
+  | effect_types          = Effect
   | text                  = [[Pay]] 800 [[LP]]; [[excavate]] the top 4 cards of your [[Main Deck|Deck]] and [[Special Summon]] all excavated [[Level]] 3 or lower [[Normal Monster]]s, also, after that, [[shuffle]] the rest back into your Deck.
   | translated_text       = Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also shuffle the rest back into your Deck.
   | fr_text               = Payez 800 LP ; dévoilez les 4 cartes du dessus de votre Deck et Invoquez Spécialement tous les Monstres Normaux de max. Niveau 3 dévoilés, et aussi, mélangez les cartes restantes dans votre Deck.
@@ -73,11 +73,7 @@ wikitext: |-
   HGP2-KR206; Expert Edition Volume.2; Common
   | ntr_sets              = 
   '''[[Yu-Gi-Oh! Nightmare Troubadour: Roar of Demise|Roar of Demise]]'''
-  | supports              = 
-  * Normal Monster
-  * Level 1 Monster Cards
-  * Level 2 Monster Cards
-  * Level 3 Monster Cards
+  | supports              = Normal Monster
   | action                = 
   * Excavates from the player's Deck
   * Shuffles excavated cards into the Deck
