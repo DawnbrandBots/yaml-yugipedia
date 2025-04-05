@@ -3,31 +3,40 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|連|れん}}{{Ruby|撃|げき}}{{Ruby|竜|りゅう}}{{Ruby|騎|き}}{{Ruby|士|し}}－セブンスナイト
-  | romaji_name     = Rengekiryūkishi - Sebunsu Naito
-  | image           = SevensKnighttheMultistrikeDragonKnight-RD5TH1-JP-OP.png
-  | attribute       = DARK
-  | types           = Magical Knight / Fusion / Effect
-  | level           = 9
-  | atk             = 3000
-  | def             = 2500
-  | effect_types    = Multi-Choice
-  | fusion_material = 
+  | ja_name               = {{Ruby|連|れん}}{{Ruby|撃|げき}}{{Ruby|竜|りゅう}}{{Ruby|騎|き}}{{Ruby|士|し}}－セブンスナイト
+  | romaji_name           = Rengekiryūkishi - Sebunsu Naito
+  | image                 = SevensKnighttheMultistrikeDragonKnight-RD5TH1-JP-OP.png
+  | attribute             = DARK
+  | types                 = Magical Knight / Fusion / Effect
+  | level                 = 9
+  | atk                   = 3000
+  | def                   = 2500
+  | effect_types          = Multi-Choice
+  | fusion_material       = 
   * Sevens Road Magician
   * Multistrike Dragon Dragias
-  | materials       = "[[Sevens Road Magician]]" + "[[Multistrike Dragon Dragias]]"
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = ● This [[turn]], this card gains 500 [[ATK]] and can make up to 2 [[attack]]s on [[monsters]].<br />● This card cannot be destroyed by card effects until the end of your opponent's next turn.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | materials             = "[[Sevens Road Magician]]" + "[[Multistrike Dragon Dragias]]"
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text                  = ●This [[turn]], this card gains 500 [[ATK]], and can make up to 2 [[attack]]s on [[Monster Card|monster]]s. ●This card cannot be [[destroy]]ed by card [[effect]]s until the end of your opponent's next turn.
+  | ja_materials          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/5TH1-JP025; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
-  | mentions        = 
+  | mentions              = 
   * Sevens Road Magician
   * Multistrike Dragon Dragias
-  | archseries      = 
-  * Sevens Road
-  * Strike Dragon
-  | database_id     = 
+  | archseries            = Strike Dragon
+  | related_to_archseries = Sevens Road
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Cannot be destroyed by card effects
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | attack                = Can make multiple attacks on monsters
+  | misc                  = 
+  * Variable effects
+  * Turn limited effects
+  | database_id           = 
   }}

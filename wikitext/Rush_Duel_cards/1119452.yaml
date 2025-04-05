@@ -3,25 +3,33 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ザ☆パーフェクト・ドラギアスター
-  | romaji_name     = Za☆Pāfekuto Doragiasutā
-  | translated_name = The☆Perfect Dragiastar
-  | image           = ThePerfectDragiastar-RD5TH1-JP-OP.png
-  | attribute       = LIGHT
-  | types           = High Dragon / Fusion / Effect
-  | level           = 12
-  | atk             = 4400
-  | def             = 2700
-  | fusion_material = The Dragias
-  | materials       = "[[The Dragias]]" + 4 [[Level]] 7 [[monsters]]
-  | requirement     = If your [[LP]] are lower than your opponent's, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text            = This [[turn]], this card can [[attack]] all opponent's monsters once each.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = ザ☆パーフェクト・ドラギアスター
+  | romaji_name           = Za☆Pāfekuto Doragiasutā
+  | translated_name       = The☆Perfect Dragiastar
+  | image                 = ThePerfectDragiastar-RD5TH1-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = High Dragon / Fusion / Effect
+  | level                 = 12
+  | atk                   = 4400
+  | def                   = 2700
+  | fusion_material       = The Dragias
+  | materials             = "[[The Dragias]]" + 4 [[Level]] 7 [[Monster Card|monster]]s
+  | requirement           = If your [[LP]] are lower than your opponent's, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text                  = This [[turn]], this card can [[attack]] all opponent's monsters once each.
+  | ja_materials          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/5TH1-JP026; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
-  | mentions        = The Dragias
-  | archseries      = The
-  | database_id     = 
+  | mentions              = The Dragias
+  | archseries            = The
+  | related_to_archseries = Strike Dragon
+  | action                = Sends from hand to Graveyard for cost
+  | summoning             = 
+  * 5 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  | attack                = Can make multiple attacks on monsters
+  | misc                  = Requires specific LP
+  | database_id           = 
   }}
