@@ -49,7 +49,9 @@ wikitext: |-
   | action       = 
   * Activates from your Graveyard
   * Returns itself from Graveyard to hand
-  | misc         = Standby Phase Activation
+  | misc         = 
+  * Standby Phase Activation
+  * Requires having no cards in hand
   | life_points  = Pays Life Points for cost
   | database_id  = 6005
   }}

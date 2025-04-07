@@ -22,8 +22,8 @@ wikitext: |-
   | atk                 = 1500
   | password            = 
   | materials           = 1 "Sky Striker Ace" monster
-  | effect_types        = Condition, Condition, Quick, Trigger
-  | text                = 1 "Sky Striker Ace" monster<br />You can only Special Summon "Protoype Sky Striker Ace - Amatsu" once per turn. You can only use each of the following effects of "Prototype Sky Striker Ace - Amatsu" once per turn. When a monster your opponent controls with 2000 or more ATK activates its effect (Quick Effect): You can make that effect become "Destroy 1 "Sky Striker Ace" Link Monster your opponent controls". When an attack is declared involving this card and an opponent's monster: You can target 1 "Sky Striker Ace" monster you control and 1 card your opponent controls; destroy them.
+  | effect_types        = Condition, Quick, Trigger, Condition
+  | text                = 1 "[[Sky Striker Ace]]" [[monster]]<br />You can only [[Special Summon]] "Protoype Sky Striker Ace - Amatsu" [[once per turn]]. When a monster your opponent [[control]]s with 2000 or more [[ATK]] activates its [[effect]] ([[Quick Effect]]): You can make the activated effect become "[[Destroy]] 1 "Sky Striker Ace" [[Link Monster]] your opponent controls". When an [[attack]] is [[declare]]d involving this card and an opponent's monster: You can [[target]] 1 "Sky Striker Ace" monster you control and 1 card your opponent controls; destroy them. You can only use each effect of "Prototype Sky Striker Ace - Amatsu" once per turn. 
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -34,9 +34,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP271; V Jump June 2025 promotional card; Ultra Rare
+  | mentions            = Prototype Sky Striker Ace - Amatsu
   | archseries          = 
   * Sky Striker
   * Sky Striker Ace
   | supports_archetypes = Sky Striker Ace
+  | summoning           = 
+  * 1 Link Material
+  * Requires archetype specific Link Materials
+  * Special Summon once per turn
+  | action              = 
+  * Overwrites card effects
+  * Activates upon attack declaration
+  | m/s/t               = 
+  * Destroys your Monster Cards
+  * Destroys your opponent's Monster Cards
+  | misc                = Only once per turn
   | database_id         = 
   }}

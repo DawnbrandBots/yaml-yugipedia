@@ -1,49 +1,50 @@
 title: Necroquip Princess
 wikitext: |-
   {{CardTable2
-  | fr_name      = Princesse Nécroquip
-  | de_name      = Nekrorüst-Prinzessin
-  | it_name      = Principessa Necroquipaggiamento
-  | pt_name      = Princesa Necroquipamento
-  | es_name      = Princesa Necroquipo
-  | ja_name      = 
-  | romaji_name  = 
-  | ko_name      = 
-  | ko_rr_name   = 
-  | sc_name      = 
-  | image        = NecroquipPrincess-INFO-EN-C-1E.png
-  | attribute    = DARK
-  | types        = Fiend / Fusion / Effect
-  | level        = 6
-  | atk          = 2000
-  | def          = 2000
-  | password     = 93860227
-  | materials    = 1 monster equipped with a Monster Card + 1 Fiend-Type Monster Card
-  | effect_types = Summoning condition, Unclassified, Trigger, Condition
-  | text         = 1 [[monster]] [[equip]]ped with a [[Monster Card]] + 1 [[Fiend]] Monster Card<br />Must be [[Special Summon]]ed (from your [[Extra Deck]]) by [[send]]ing the above cards from your [[hand]] and/or [[field]] to the [[GY]]. You can only [[control]] 1 "Necroquip Princess". If a monster(s) is [[send|sent]] from the hand to the GY to [[activate]] a card or [[effect]]: You can activate 1 of these effects;<br />● Equip 1 of those monsters to this card as an [[Equip Spell]] that gives it 500 [[ATK]].<br />● [[Draw]] 1 card.<br />You can only use this effect of "Necroquip Princess" [[once per turn]].
-  | fr_text      = 1 monstre équipé avec une Carte Monstre + 1 Carte Monstre Démon<br />Uniquement Invocable Spécialement (depuis votre Extra Deck) en envoyant les cartes ci-dessus depuis votre main et/ou Terrain au Cimetière. Vous ne pouvez contrôler qu'1 "Princesse Nécroquip". Si un ou plusieurs monstres sont envoyés depuis la main au Cimetière pour activer une carte ou un effet : vous pouvez activer 1 de ces effets ;<br />● Équipez 1 de ces monstres à cette carte comme Magie d'Équipement qui lui donne 500 ATK.<br />● Piochez 1 carte.<br />Vous ne pouvez utiliser cet effet de "Princesse Nécroquip" qu'une fois par tour.
-  | de_text      = 1 mit einer Monsterkarte ausgerüstetes Monster + 1 Unterweltler-Monsterkarte<br />Muss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Hand und/oder Spielfeldseite auf den Friedhof legst. Du kannst nur 1 „Nekrorüst-Prinzessin“ kontrollieren. Falls ein oder mehr Monster von der Hand auf den Friedhof gelegt werden, um eine Karte oder einen Effekt zu aktivieren: Du kannst 1 dieser Effekte aktivieren;<br />● Rüste diese Karte mit 1 jener Monster als Ausrüstungszauber aus, der ihr 500 ATK gibt.<br />● Ziehe 1 Karte.<br />Du kannst diesen Effekt von „Nekrorüst-Prinzessin“ nur einmal pro Spielzug verwenden.
-  | it_text      = 1 mostro equipaggiato con una Carta Mostro + 1 Carta Mostro Demone<br />Deve essere Evocato Specialmente (dal tuo Extra Deck) mandando le carte sopra indicate dalla tua mano e/o Terreno al Cimitero. Puoi controllare solo 1 "Principessa Necroquipaggiamento". Se uno o più mostri vengono mandati dalla mano al Cimitero per attivare una carta o un effetto: puoi attivare 1 di questi effetti;<br />● Equipaggia 1 di quei mostri a questa carta come una Magia Equipaggiamento che le dà 500 ATK.<br />● Pesca 1 carta.<br />Puoi utilizzare questo effetto di "Principessa Necroquipaggiamento" una sola volta per turno.
-  | pt_text      = 1 monstro equipado com um Card de Monstro + 1 Card de Monstro Demônio<br />Deve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao enviar os cards acima da sua mão e/ou do campo para o Cemitério. Você só pode controlar 1 "Princesa Necroquipamento". Se um ou mais monstros forem enviados da mão para o Cemitério para ativar um card ou efeito: você pode ativar 1 desses efeitos;<br />● Equipe 1 desses monstros a este card como uma Magia de Equipamento que concede a ele 500 de ATK.<br />● Compre 1 card.<br />Você só pode usar este efeito de "Princesa Necroquipamento" uma vez por turno.
-  | es_text      = 1 monstruo equipado con una Carta de Monstruo + 1 Carta de Monstruo Demonio<br />Debe ser Invocado de Modo Especial (desde tu Deck Extra) mandando al Cementerio las cartas de arriba en tu mano y/o Campo. Sólo puedes controlar 1 "Princesa Necroquipo". Si uno o más monstruos son mandados de la mano al Cementerio para activar una carta o efecto: puedes activar 1 de estos efectos;<br />● Equipa 1 de esos monstruos a esta carta como una Mágica de Equipo que le da 500 ATK.<br />● Roba 1 carta.<br />Sólo puedes usar este efecto de "Princesa Necroquipo" una vez por turno.
-  | ja_text      = 
-  | ko_text      = 
-  | sc_text      = 
-  | en_sets      = 
+  | fr_name         = Princesse Nécroquip
+  | de_name         = Nekrorüst-Prinzessin
+  | it_name         = Principessa Necroquipaggiamento
+  | pt_name         = Princesa Necroquipamento
+  | es_name         = Princesa Necroquipo
+  | ja_name         = {{Ruby|優麗なる霊鏡姫|ネクロイップ・プリンセス}}
+  | romaji_name     = Nekuroippu Purinsesu
+  | translated_name = Necroip Princess
+  | ko_name         = 
+  | ko_rr_name      = 
+  | sc_name         = 
+  | image           = NecroquipPrincess-INFO-EN-C-1E.png
+  | attribute       = DARK
+  | types           = Fiend / Fusion / Effect
+  | level           = 6
+  | atk             = 2000
+  | def             = 2000
+  | password        = 93860227
+  | materials       = 1 monster equipped with a Monster Card + 1 Fiend-Type Monster Card
+  | effect_types    = Summoning condition, Unclassified, Trigger, Condition
+  | text            = 1 [[monster]] [[equip]]ped with a [[Monster Card]] + 1 [[Fiend]] Monster Card<br />Must be [[Special Summon]]ed (from your [[Extra Deck]]) by [[send]]ing the above cards from your [[hand]] and/or [[field]] to the [[GY]]. You can only [[control]] 1 "Necroquip Princess". If a monster(s) is [[send|sent]] from the hand to the GY to [[activate]] a card or [[effect]]: You can activate 1 of these effects;<br />● Equip 1 of those monsters to this card as an [[Equip Spell]] that gives it 500 [[ATK]].<br />● [[Draw]] 1 card.<br />You can only use this effect of "Necroquip Princess" [[once per turn]].
+  | fr_text         = 1 monstre équipé avec une Carte Monstre + 1 Carte Monstre Démon<br />Uniquement Invocable Spécialement (depuis votre Extra Deck) en envoyant les cartes ci-dessus depuis votre main et/ou Terrain au Cimetière. Vous ne pouvez contrôler qu'1 "Princesse Nécroquip". Si un ou plusieurs monstres sont envoyés depuis la main au Cimetière pour activer une carte ou un effet : vous pouvez activer 1 de ces effets ;<br />● Équipez 1 de ces monstres à cette carte comme Magie d'Équipement qui lui donne 500 ATK.<br />● Piochez 1 carte.<br />Vous ne pouvez utiliser cet effet de "Princesse Nécroquip" qu'une fois par tour.
+  | de_text         = 1 mit einer Monsterkarte ausgerüstetes Monster + 1 Unterweltler-Monsterkarte<br />Muss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Hand und/oder Spielfeldseite auf den Friedhof legst. Du kannst nur 1 „Nekrorüst-Prinzessin“ kontrollieren. Falls ein oder mehr Monster von der Hand auf den Friedhof gelegt werden, um eine Karte oder einen Effekt zu aktivieren: Du kannst 1 dieser Effekte aktivieren;<br />● Rüste diese Karte mit 1 jener Monster als Ausrüstungszauber aus, der ihr 500 ATK gibt.<br />● Ziehe 1 Karte.<br />Du kannst diesen Effekt von „Nekrorüst-Prinzessin“ nur einmal pro Spielzug verwenden.
+  | it_text         = 1 mostro equipaggiato con una Carta Mostro + 1 Carta Mostro Demone<br />Deve essere Evocato Specialmente (dal tuo Extra Deck) mandando le carte sopra indicate dalla tua mano e/o Terreno al Cimitero. Puoi controllare solo 1 "Principessa Necroquipaggiamento". Se uno o più mostri vengono mandati dalla mano al Cimitero per attivare una carta o un effetto: puoi attivare 1 di questi effetti;<br />● Equipaggia 1 di quei mostri a questa carta come una Magia Equipaggiamento che le dà 500 ATK.<br />● Pesca 1 carta.<br />Puoi utilizzare questo effetto di "Principessa Necroquipaggiamento" una sola volta per turno.
+  | pt_text         = 1 monstro equipado com um Card de Monstro + 1 Card de Monstro Demônio<br />Deve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao enviar os cards acima da sua mão e/ou do campo para o Cemitério. Você só pode controlar 1 "Princesa Necroquipamento". Se um ou mais monstros forem enviados da mão para o Cemitério para ativar um card ou efeito: você pode ativar 1 desses efeitos;<br />● Equipe 1 desses monstros a este card como uma Magia de Equipamento que concede a ele 500 de ATK.<br />● Compre 1 card.<br />Você só pode usar este efeito de "Princesa Necroquipamento" uma vez por turno.
+  | es_text         = 1 monstruo equipado con una Carta de Monstruo + 1 Carta de Monstruo Demonio<br />Debe ser Invocado de Modo Especial (desde tu Deck Extra) mandando al Cementerio las cartas de arriba en tu mano y/o Campo. Sólo puedes controlar 1 "Princesa Necroquipo". Si uno o más monstruos son mandados de la mano al Cementerio para activar una carta o efecto: puedes activar 1 de estos efectos;<br />● Equipa 1 de esos monstruos a esta carta como una Mágica de Equipo que le da 500 ATK.<br />● Roba 1 carta.<br />Sólo puedes usar este efecto de "Princesa Necroquipo" una vez por turno.
+  | ja_text         = 
+  | ko_text         = 
+  | sc_text         = 
+  | en_sets         = 
   INFO-EN085; The Infinite Forbidden; Common
-  | fr_sets      = 
+  | fr_sets         = 
   INFO-FR085; The Infinite Forbidden; Common
-  | de_sets      = 
+  | de_sets         = 
   INFO-DE085; The Infinite Forbidden; Common
-  | it_sets      = 
+  | it_sets         = 
   INFO-IT085; The Infinite Forbidden; Common
-  | pt_sets      = 
+  | pt_sets         = 
   INFO-PT085; The Infinite Forbidden; Common
-  | sp_sets      = 
+  | sp_sets         = 
   INFO-SP085; The Infinite Forbidden; Common
-  | mentions     = Necroquip Princess
-  | supports     = Fiend
-  | action       = 
+  | mentions        = Necroquip Princess
+  | supports        = Fiend
+  | action          = 
   * Sends Fusion Materials for Contact Fusion to Graveyard
   * Sends from hand to Graveyard for Special Summon
   * Sends from field to Graveyard for Special Summon
@@ -51,18 +52,18 @@ wikitext: |-
   * Equips monsters from the opponent's Graveyard to itself
   * Activates if other cards are sent to the Graveyard for cost
   * You draw cards
-  | stat_change  = Equipped gains ATK
-  | m/s/t        = Treats monsters as Equip Cards
-  | summoning    = 
+  | stat_change     = Equipped gains ATK
+  | m/s/t           = Treats monsters as Equip Cards
+  | summoning       = 
   * 2 Fusion Materials
   * Requires Type specific Fusion Materials
   * Nomi
   * Contact Fusion
   * Special Summons itself from your Extra Deck
   * Cannot be Fusion Summoned
-  | misc         = 
+  | misc            = 
   * Control only one
   * Variable effects
   * Only once per turn
-  | database_id  = 20423
+  | database_id     = 20423
   }}
