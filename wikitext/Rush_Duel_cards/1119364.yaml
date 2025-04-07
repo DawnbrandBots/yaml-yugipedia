@@ -3,19 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|旋|せん}}{{Ruby|風|ぷう}}の{{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|師|し}}トルネ
-  | romaji_name           = Senpū no Madōshi Torune
-  | image                 = TornatheMagicianofWhirlwinds-RDSJMP-JP-OP.png
-  | attribute             = DARK
-  | types                 = Spellcaster / Fusion
-  | level                 = 8
-  | atk                   = 2800
-  | def                   = 1600
-  | requirement           = TBA
-  | text                  = TBA
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name         = {{Ruby|旋|せん}}{{Ruby|風|ぷう}}の{{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|師|し}}トルネ
+  | romaji_name     = Senpū no Madōshi Torune
+  | image           = TornatheMagicianofWhirlwinds-RDSJMP-JP-OP.png
+  | attribute       = DARK
+  | types           = Spellcaster / Fusion
+  | level           = 8
+  | atk             = 2800
+  | def             = 1600
+  | fusion_material = Torna the Windweaver
+  | materials       = "[[Torna the Windweaver]]" + 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Destroy]] 1 [[Defense Position]] monster on your opponent's [[field]]. Then, you can [[Special Summon]] 1 [[Level]] 9 Spellcaster Type monster from your [[Graveyard]] [[face-up]] to your field.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/SJMP-JP051; Saikyō Jump June 2025 promotional card; Normal Parallel Rare
-  | database_id           = 
+  | mentions        = Torna the Windweaver
+  | supports        = 
+  * DARK
+  * Spellcaster
+  | action          = Activates during the turn in which it was Fusion Summoned
+  | m/s/t           = Destroys your opponent's Defense Position Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  | database_id     = 
   }}
