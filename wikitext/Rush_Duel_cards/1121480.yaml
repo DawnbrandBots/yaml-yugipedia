@@ -13,9 +13,12 @@ wikitext: |-
   | atk             = 2500
   | def             = 2200
   | effect_types    = Continuous
+  | fusion_material = 
+  * Etraynze the Shadow Flower Ninja
+  * Himawari the Shadow Flower Eraser
   | materials       = "[[Etraynze the Shadow Flower Ninja]]" + "[[Himawari the Shadow Flower Eraser]]"
   | requirement     = None
-  | text            = [[Face-up]] monsters on your [[field]] gain 500 [[ATK]] and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | text            = [[Face-up]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -25,5 +28,12 @@ wikitext: |-
   * Etraynze the Shadow Flower Ninja
   * Himawari the Shadow Flower Eraser
   | archseries      = Shadow Flower
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
   | database_id     = 
   }}

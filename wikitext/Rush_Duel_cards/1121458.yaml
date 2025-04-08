@@ -3,26 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = アビスカイト・アルティアンジュ
-  | romaji_name     = Abisukaito Arutianju
-  | translated_name = 
-  | image           = AbysskiteUltiAnge-RD5TH1-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Sea Serpent / Effect
-  | level           = 10
-  | atk             = 2500
-  | def             = 0
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 "[[Abysskite Ange]]".
-  | requirement     = None
-  | text            = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Abysskite Party]]" to your [[hand]]. Place the remaining cards on the bottom of the Deck in any order.
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = アビスカイト・アルティアンジュ
+  | romaji_name    = Abisukaito Arutianju
+  | image          = AbysskiteUltiAnge-RD5TH1-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Sea Serpent / Effect
+  | level          = 10
+  | atk            = 2500
+  | def            = 0
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 "[[Abysskite Ange]]".
+  | requirement    = None
+  | text           = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Abysskite Party]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/5TH1-JP036; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
-  | mentions        = 
+  | mentions       = 
   * Abysskite Ange
   * Abysskite Party
-  | archseries      = Abysskite
-  | database_id     = 
+  | archseries     = Abysskite
+  | action         = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = Requires control of specific card
+  | database_id    = 
   }}
