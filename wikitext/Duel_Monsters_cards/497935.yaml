@@ -46,14 +46,16 @@ wikitext: |-
   * Metaphys
   * Daedalus
   | supports_archetypes = Metaphys
-  | banished            = 
-  * Banishes from your field
-  * Banishes from your opponent's field
-  * Banishes from your Deck
-  | misc                = Limited activations
   | action              = 
   * Activates upon Special Summon
   * Activates while banished
   * Returns itself to Deck while banished
-  * Standby Phase Activation
+  * During the Standby Phase
+  | banished            = 
+  * Banishes from your field
+  * Banishes from your opponent's field
+  * Banishes from your Deck
+  | misc                = 
+  * Limited activations
+  * During the Standby Phase
   }}

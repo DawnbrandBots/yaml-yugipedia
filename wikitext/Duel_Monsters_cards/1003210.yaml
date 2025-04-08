@@ -41,13 +41,13 @@ wikitext: |-
   | sp_sets              = 
   VASM-SP023; Valiant Smashers; Super Rare
   | jp_sets              = 
-  DBVS-JP023; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
+  DBVS-JP023; Deck-Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   | ae_sets              = 
   CR04-AE081; Creation Pack 04; Common
   | kr_sets              = 
-  DBVS-KR023; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
+  DBVS-KR023; Deck-Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   | sc_sets              = 
-  DBVS-SC023; Deck Build Pack: Valiant Smashers; Common, Normal Parallel Rare
+  DBVS-SC023; Deck-Build Pack: Valiant Smashers; Common, Normal Parallel Rare
   | supports             = Synchro Monster
   | archseries           = Centur-Ion
   | supports_archetypes  = Centur-Ion
@@ -60,6 +60,8 @@ wikitext: |-
   | banished             = 
   * Banishes from field
   * Banishes itself from Graveyard for cost
-  | misc                 = Only 1 effect once per turn
+  | misc                 = 
+  * Only 1 effect once per turn
+  * During the Standby Phase
   | database_id          = 19379
   }}
