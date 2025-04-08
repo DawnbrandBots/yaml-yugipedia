@@ -12,15 +12,24 @@ wikitext: |-
   | atk             = 2500
   | def             = 1600
   | effect_types    = Continuous
-  | materials       = "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" + 2 or more [[Machine]] [[Type]] [[monsters]]
+  | fusion_material = Cyber Dragon (Rush Duel)
+  | materials       = "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]" + 2 or more [[Machine]] [[Type]] [[Monster Card|monster]]s
   | requirement     = None
-  | text            = Monsters on your [[field]] cannot be [[destroy]]ed by [[Spell Card]] [[effect]]s. [[Face-up]] Machine Type monsters on your field gain [[ATK]] equal to [the number of monsters used as [[material]] for this card's [[Fusion Summon]]] x 100.
+  | text            = Monsters on your [[field]] cannot be [[destroy]]ed by [[Spell Card]] [[effect]]s. [[Face-up]] Machine Type monsters on your field gain [[ATK]] equal to [the number of monsters used as [[material]] when [[Fusion Summon]]ing this card] x 100.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/5TH1-JP031; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
   | mentions        = Cyber Dragon (Rush Duel)
+  | supports        = Machine
   | archseries      = Cyber Dragon (Rush Duel series)
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 3+ Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc            = Requires control of specific Type
   | database_id     = 
   }}
