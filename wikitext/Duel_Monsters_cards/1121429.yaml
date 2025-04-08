@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = {{Ruby|聖秘なる竜騎士|サクラメンタム・ドラグーン}}
-  | romaji_name         = 
+  | romaji_name         = Sakuramentamu Doragūn
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
@@ -21,7 +21,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 1500
   | password            = 
-  | materials           = 1 Dragon monster + 1 Spellcaster monster
+  | materials           = 1 Dragon-Type monster + 1 Spellcaster-Type monster
   | effect_types        = Continuous, Continuous, Ignition, Condition
   | text                = 1 [[Dragon]] [[monster]] + 1 [[Spellcaster]] monster<br />Loses 100 [[ATK]] for each of your [[banish]]ed cards. While you [[control]] this [[Fusion Summon]]ed card, your opponent cannot [[activate]] the [[effect]]s of Special Summoned [[Dragon]] and [[Spellcaster]] monsters they control. You can target 1 Dragon and 1 Spellcaster monster in your [[GY]]; Special Summon 1 of them, and if you do, place the other on the bottom of the [[Main Deck|Deck]]. You can only use this effect of "Sacramentum Dragoon" [[once per turn]].
   | fr_text             = 
@@ -34,5 +34,19 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP037; Duelist's Advance; 
+  | supports            = 
+  * Dragon
+  * Spellcaster
+  | anti-supports       = 
+  * Dragon
+  * Spellcaster
+  | action              = Places cards from the player's Graveyard on the bottom of the Deck
+  | stat_change         = This card loses ATK
+  | m/s/t               = Prevents activation of your opponent's Effect Monsters
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
