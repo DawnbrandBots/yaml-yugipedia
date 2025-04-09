@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = {{Ruby|咎|とが}}を{{Ruby|擁|いだ}}く{{Ruby|魔瞳|モルガナイト}}
-  | romaji_name         = Toga wo Idaku Moruganaito
+  | romaji_name         = Toga o Idaku Moruganaito
   | translated_name     = Sin Bearing Morganite
   | ko_name             = 
   | ko_rr_name          = 
@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Ignition-like
-  | text                = For the rest of this Duel, apply the following [[effect]]s.<br />● You cannot [[activate]] monster effects in the [[hand]].<br />● You can [[Normal Summon]] [[Level]] 5 or higher monsters without Tributing.<br />● You do not pay [[LP]] to activate [[Spell]]/[[Trap Card]]s.<br />You can [[banish]] this card from your [[GY]], then [[reveal]] 1 "[[Morganite]]" card in your hand; place the revealed card on the bottom of the [[Main Deck|Deck]], then [[Draw a card|draw]] 1 card.
+  | text                = For the rest of this Duel, apply the following [[effect]]s.<br />● You cannot [[activate]] monster effects in the [[hand]].<br />● You can [[Normal Summon]] [[Level]] 5 or higher monsters without [[Tribute|Tributing]].<br />● You do not pay [[LP]] to activate [[Spell]]/[[Trap Card]]s.<br />You can [[banish]] this card from your [[GY]], then [[reveal]] 1 "[[Morganite]]" card in your hand; place the revealed card on the bottom of the [[Main Deck|Deck]], then [[Draw a card|draw]] 1 card.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,5 +33,14 @@ wikitext: |-
   DUAD-JP070; Duelist's Advance; 
   | archseries          = Morganite
   | supports_archetypes = Morganite
+  | summoning           = Normal Summon without Tribute
+  | action              = 
+  * Changes cost
+  * Reveals your hand for cost
+  * Places cards from the player's hand on the bottom of the Deck
+  * You draw cards
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Duel-lasting effects
   | database_id         = 
   }}
