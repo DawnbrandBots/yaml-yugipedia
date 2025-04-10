@@ -36,5 +36,18 @@ wikitext: |-
   DUAD-JP009; Duelist's Advance; 
   | archseries          = Artmegia
   | supports_archetypes = Artmegia
+  | action              = 
+  * Activates from your hand
+  * You draw cards
+  | stat_change         = 
+  * Your opponent's monsters lose ATK
+  * Halves ATK
+  | m/s/t               = 
+  * Prevents other cards being targeted by card effects
+  * Negates the effects of your opponent's Effect Monsters
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id         = 
   }}
