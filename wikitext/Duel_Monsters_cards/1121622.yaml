@@ -35,5 +35,19 @@ wikitext: |-
   DUAD-JP055; Duelist's Advance; 
   | mentions              = Medius the Innocent
   | related_to_archseries = Artmegia
+  | action                = 
+  * Sends from Deck to Graveyard for cost
+  * Looks at cards from the top of the opponent's Deck
+  * Changes the opponent's Deck order
+  * Places cards from the opponent's Deck on the top of the Deck
+  * Places cards from the opponent's Deck on the bottom of the Deck
+  * Activates from your Graveyard
+  * Declares a Type
+  * Declares an Attribute
+  | stat_change           = 
+  * Changes Type
+  * Changes Attribute
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}

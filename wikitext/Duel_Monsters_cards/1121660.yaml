@@ -39,6 +39,18 @@ wikitext: |-
   | related_to_archseries = 
   * Azamina
   * Sinful Spoils
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates upon attack declaration
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | stat_change           = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  | attack                = Negates attacks
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   }}

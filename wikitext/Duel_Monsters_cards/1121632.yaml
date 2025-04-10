@@ -38,5 +38,17 @@ wikitext: |-
   * Medius the Innocent
   | archseries          = Artmegia
   | supports_archetypes = Artmegia
+  | action              = 
+  * Places cards from your Deck in your Field Zone
+  * Places cards from your Graveyard in your Field Zone
+  * Adds from Deck to hand
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | summoning           = Special Summons from your hand
+  | attack              = Negates attacks
+  | misc                = 
+  * Requires control of specific card
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

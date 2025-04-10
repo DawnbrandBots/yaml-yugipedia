@@ -31,7 +31,22 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP056; Duelist's Advance; 
+  | supports            = Fusion Monster
   | archseries          = Artmegia
   | supports_archetypes = Artmegia
+  | action                = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Must include particular Fusion Materials
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}

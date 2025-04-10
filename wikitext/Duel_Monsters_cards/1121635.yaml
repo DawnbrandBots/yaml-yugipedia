@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Condition
-  | text                = Special Summon 1 "Artmegia" monster or "Medius the Innocent" from your Deck, also, this turn, the activation of your cards and effects that include an effect that Fusion Summons a Fusion Monster cannot be negated, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way. You can banish this card from your GY, then target 1 "Artmegia" monster you control; return it to the hand/Extra Deck, and if you do, destroy 1 card your opponent controls. You can only use 1 "Artmegia Messena - Awakening" effect per turn, and only once that turn.
+  | text                = [[Special Summon]] 1 "[[Artmegia]]" [[monster]] or "[[Medius the Innocent]]" from your [[Main Deck|Deck]], also, this [[turn]], the [[activate|activation]] of your cards and [[effect]]s that include an effect that [[Fusion Summon]]s a [[Fusion Monster]] cannot be [[negate]]d, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way. You can [[banish]] this card from your [[GY]], then [[target]]] 1 "Artmegia" monster you [[control]]; [[return]] it to the [[hand]]/[[Extra Deck]], and if you do, [[destroy]] 1 card your opponent controls. You can only use 1 "Artmegia Messena - Awakening" effect per turn, and only [[once per turn|once that turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -34,5 +34,23 @@ wikitext: |-
   | mentions            = Medius the Innocent
   | archseries          = Artmegia
   | supports_archetypes = Artmegia
+  | action              = 
+  * Prevents the negation of activations
+  * Activates from your Graveyard
+  * Returns from your field to your hand
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning           = 
+  * Special Summons from your Deck
+  * Prevents activations upon Summon
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id         = 
   }}
