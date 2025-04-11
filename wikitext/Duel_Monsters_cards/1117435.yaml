@@ -33,7 +33,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ????-JP0??; Limited Pack GX: Slifer Red; 
+  | supports            = EARTH
+  | anti-supports       = EARTH
   | supports_archetypes = Magnet Warrior
-  | misc                = Special Summon Monster
+  | action              = 
+  * Sends from hand to Graveyard for Special Summon
+  * Sends from Deck to Graveyard for Special Summon
+  * Sends from field to Graveyard for Special Summon
+  * Activates if destroyed
+  * Activates if sent to the Graveyard
+  * Returns itself from Graveyard to hand
+  | stat_change         = This card gains ATK
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Special Summon-only monster
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                = 
+  * Special Summon Monster
+  * Requires control of specific archetype
+  * Requires control of specific Level
+  * Only once per turn
   | database_id         = 
   }}

@@ -38,5 +38,16 @@ wikitext: |-
   * Archfiend Matador
   | archseries          = Archfiend
   | supports_archetypes = Archfiend
+  | action              = 
+  * Activates upon Ritual Summon
+  * Adds from Deck to hand
+  | m/s/t               = Destroys battling monster after damage calculation
+  | attack              = 
+  * Cannot attack
+  * Cannot be destroyed by battle
+  | life_points         = 
+  * Reduces battle damage
+  * Damages your opponent
+  | misc                = Only once per turn
   | database_id         = 
   }}
