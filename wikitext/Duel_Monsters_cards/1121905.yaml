@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | ritualcard          = Ritual of the Matador
-  | effect_types        = Trigger, Condition, Continuous, Trigger
+  | effect_types        = Summoning condition, Trigger, Condition, Continuous, Trigger
   | text                = You can [[Ritual Summon]] this card with "[[Ritual of the Matador]]". If this card is [[Ritual Summon]]ed: You can [[Add a card|add]] 2 "[[Archfiend]]" cards from your [[Main Deck|Deck]] to your [[hand]], except "Archfiend Matador", also this card cannot [[attack]] for the rest of this [[turn]]. You can only use this [[effect]] of "Archfiend Matador" [[once per turn]]. Cannot be [[destroyed by battle]], also you take no [[battle damage]] from [[battle]]s involving this card. After [[damage calculation]], if this card battled a monster: [[Destroy]] that monster, and if you do, inflict 1000 [[Effect damage|damage]] to your opponent.
   | fr_text             = 
   | de_text             = 
@@ -33,7 +33,9 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ????-JP0??; Limited Pack GX: Slifer Red; 
-  | mentions            = Ritual of the Matador
+  | mentions            = 
+  * Ritual of the Matador
+  * Archfiend Matador
   | archseries          = Archfiend
   | supports_archetypes = Archfiend
   | database_id         = 

@@ -88,10 +88,10 @@ wikitext: |-
   * "[[Number 15: Gimmick Puppet Giant Grinder]]" and "[[Number C15: Gimmick Puppet Giant Hunter]]" can each destroy an opponent's card (monster for "Number 15", any card for "Number C15"), then deal burn damage based on its ATK. Neither is subject to a hard [[once per turn]].
   * "[[Number 40: Gimmick Puppet of Strings]]" places a [[String Counter]] on each monster on field, then be ranked up into "[[Number C40: Gimmick Puppet of Dark Strings]]", which destroys all monsters with a String Counter, then deals damage equal to the highest original ATK of monsters sent to the GY.
   * "[[Number 88: Gimmick Puppet of Leo]]" is mainly used to rank up into "[[Number C88: Gimmick Puppet Disaster Leo]]", which can win the Duel if, during the End Phase, the opponent has <= 2000 LP and it has no materials.
-  * "[[Gimmick Puppet Gigantes Doll]]" is the only Rank 4 "Gimmick Puppet": it can take control of up to 2 monsters your opponent controls for the rest of the turn, and can tribute itself to change all monsters you control to Level 8.
+  * "[[Gimmick Puppet Gigantes Doll]]" is the only Rank 4 "Gimmick Puppet". It can take control of up to 2 monsters your opponent controls for the rest of the turn, and can tribute itself to change all monsters you control to Level 8.
   * "[[Gimmick Puppet Chimera Doll|Chimera Doll]]" is the archetype's Link monster, which can search or dump a "Gimmick Puppet" monster and Special Summon a "Gimmick Puppet" monster from hand.
 
-  The most common "Rank-Up-Magic" spell to use is "[[Rank-Up-Magic Argent Chaos Force]]" for its once per Duel recycle effect, though other options are available.
+  The most common "Rank-Up-Magic" Spell to use is "[[Rank-Up-Magic Argent Chaos Force]]" for its once per Duel recycle effect though other options are available.
 
   === Other additions ===
   Since "Gimmick Puppet" monster effects usually prevent the player from Special Summoning non-"Gimmick Puppet" monsters from the Extra Deck, the archetypal Deck only benefits from Main Deck engines.
@@ -156,11 +156,12 @@ wikitext: |-
 
   {{Combo steps
   | width   = 800px
-  | opening = "[[Gimmick Puppet Little Soldiers]]" + "[[Gimmick Puppet Rouge Doll]]"
+  | opening = "[[Gimmick Puppet Little Soldiers]]" + any "Gimmick Puppet" monster
   | end     = "[[Number C40: Gimmick Puppet of Dark Strings]]", inflicted a total of 8400 effect damage (OTK/FTK)
   | steps   = 
-  # [[Normal Summon]] "Little Soldiers" and activate its first effect by sending any Level 8 "Gimmick Puppet" monster from the Deck to the GY, changing the level of "Little Soldiers" to 8.
-  # Activate the effect of "Rouge Doll" by revealing any Rank 8 "Gimmick Puppet" monster to [[Special Summon]] itself from the hand and "[[Gimmick Puppet Cattle Scream]]" from the Deck. (The Level 8 monster used in the first two steps are interchangeable.)
+  # [[Normal Summon]] "Little Soldiers" and activate its first effect by sending "[[Gimmick Puppet Rouge Doll]]" (or any other Level 8 "Gimmick Puppet" monster if "Rouge Doll" is already in the hand) from the Deck to the GY, changing the level of "Little Soldiers" to 8. 
+  # Activate the effect of "Rouge Doll" in the GY to return itself to the hand (if it was sent there in step 1).
+  # Activate the effect of "Rouge Doll" by revealing any Rank 8 "Gimmick Puppet" monster to [[Special Summon]] itself from the hand and "[[Gimmick Puppet Cattle Scream]]" from the Deck. (If "Cattle Scream" is already in the hand, then Special Summon any other Level 8 "Gimmick Puppet" monster.)
   # Use "Cattle Scream" and "Rouge Doll" as [[Xyz Material]]s to [[Xyz Summon]] "[[Gimmick Puppet Fantasix Machinix]]".
   # Activate the first effect of "Fantasix Machinix" by detaching "Cattle Scream" to add "[[Rank-Up-Magic Argent Chaos Force]]" and allow an additional Normal Summon of a [[Machine]] monster.
   # Activate "Argent Chaos Force" by targeting "Fantasix Machinix" to Xyz Summon "[[CXyz Gimmick Puppet Fanatix Machinix]]".
@@ -170,22 +171,22 @@ wikitext: |-
   # Activate the effect of "Argent Chaos Force" to add itself back from the GY to the hand.
   # Activate the effect of "Number 40" by detaching "Cattle Scream" to place a [[String Counter]] on "Fanatix Machinix".
   # Activate the second effect of "Fanatix Machinix" by detaching "Rouge Doll" to Special Summon "Cattle Scream" to the opponent's field.
-  # Activate the effect of "Rouge Doll" to add itself from the GY to the hand.
+  # Activate the effect of "Rouge Doll" to add itself from the GY to the hand (if it is not already used).
   # Activate "Argent Chaos Force" by targeting "Number 40" to Xyz Summon "[[Number C40: Gimmick Puppet of Dark Strings]]".
   # The effect of "Number C40" mandatorily activates as Chain Link 1, then activate the effect of "Fantasix Machinix" as Chain Link 2 to Special Summon itself to your field and add "Argent Chaos Force" from the GY to the hand. The effect of "Number C40" resolves by destroying "Fanatix Machinix" and inflicts 3100 damage to the opponent and drawing a card.
   # Activate the second effect of "Number C40" by detaching any material ("Number 40" or "Little Soldiers") to place a String Counter on "Cattle Scream".
   # Use "Fantasix Machinix" and "Number C40" as [[Link Material]] to [[Link Summon]] "[[Gimmick Puppet Chimera Doll]]".
-  # Activate the effect of "Chimera Doll" to add "[[Gimmick Puppet Terror Baby]]" from the Deck to the hand. Apply the second part of "Chimera Doll"'s effect to Special Summon "Rouge Doll" from the hand.
+  # Activate the effect of "Chimera Doll" to add "[[Gimmick Puppet Terror Baby]]" from the Deck to the hand. Apply the second part of "Chimera Doll"'s effect to Special Summon "Rouge Doll" (or the secondary "Gimmick Puppet" monster) from the hand.
   # Normal Summon "Terror Baby" (the additional Normal Summon from the first effect of "Fantasix Machinix") then activate its first effect to Special Summon "Number C40" from the GY.
   # The effect of "Number C40" mandatorily activates as Chain Link 1, resolves by destroying "Cattle Scream", inflicts 2000 damage to the opponent and drawing a card.
-  # Activate the second effect of "Little Soldiers" by banishing it in the GY to target "Terror Baby" to increase its Level by 4 to make it a Level 8 monster.
-  # Use "Terror Baby" and "Rouge Doll" as Xyz Material to Xyz Summon another copy of "Number 40".
+  # Activate the second effect of "Little Soldiers" by banishing it in the GY to target "Terror Baby" to increase its Level by 4 to make it a Level 8 monster. (If the secondary "Gimmick Puppet" monster is Level 4, make sure that "Little Soldiers" also targets that monster in addition to "Terror Baby". If the secondary "Gimmick Puppet" monster is "[[Gimmick Puppet Gear Changer]]", use its effect to copy the Level of "Terror Baby" either before or after using the effect of "Little Soldiers".)
+  # Use "Terror Baby" and the secondary "Gimmick Puppet" monster as Xyz Material to Xyz Summon another copy of "Number 40".
   # Activate the effect of "Number 40" by detaching any material to place a [[String Counter]] on "Chimera Doll" and "Number C40".
   # Activate "Argent Chaos Force" by targeting "Number 40" to Xyz Summon a 2nd copy of "Number C40".
-  # The effect of the 2nd "Number C40" mandatorily activates as Chain Link 1, resolves by destroying "Chimera Doll" and the 1st copy of "Number C40", inflicts 3300 damage to the opponent.
+  # The effect of the 2nd "Number C40" mandatorily activates as Chain Link 1, it resolves by destroying "Chimera Doll" and the 1st copy of "Number C40", inflicts 3300 damage to the opponent.
   }}
 
-  Since the [[Limited]] status of "[[Number 40: Gimmick Puppet of Strings]]" and "[[Number C40: Gimmick Puppet of Dark Strings]]" (''TCG'' only), the following combo nearly accomplishes an FTK with the same "Little Soldiers" + "Rouge Doll" starting hand, ending on [[CXyz Gimmick Puppet Fanatix Machinix]], which can inflict the last instance of damage whenever the opponent Special Summons a monster.
+  Since the [[Limited]] status of "[[Number 40: Gimmick Puppet of Strings]]" and "[[Number C40: Gimmick Puppet of Dark Strings]]" (''TCG'' only), the following combo nearly accomplishes an FTK with "Little Soldiers" and "Rouge Doll" in the starting hand, ending on [[CXyz Gimmick Puppet Fanatix Machinix]], which can inflict the last instance of damage whenever the opponent Special Summons a monster.
 
   {{Combo steps
   | width   = 800px
@@ -250,7 +251,7 @@ wikitext: |-
   # Since your opponent takes a total of 6100 damage (3100 + 2000 + 1000) and has 1900 [[LP]] left at this point (assuming they had 8000 LP at the beginning), end your [[Main Phase]] and proceed to the [[End Phase]]. The victory condition of "Number C88" will be fulfilled at this point.
   }}
 
-  This combo allows the player to win as soon as the opponent's Draw Phase (ie. a pseudo-FTK), requiring "Little Soldiers", as well as Summoning another Level 8 monster and an effect which can send a card from the player's hand to the GY as cost or effect; "[[King's Sarcophagus]]" or "[[Imsety, Glory of Horus]]" can facilitate both of these.
+  This combo allows the player to win as soon as the opponent's [[Draw Phase]] (ie. a pseudo-FTK), requiring "Little Soldiers", as well as Summoning another Level 8 monster and an effect which can send a card from the player's hand to the GY as cost or effect; "[[King's Sarcophagus]]" or "[[Imsety, Glory of Horus]]" can facilitate both of these.
 
   {{Combo steps
   | width   = 800px
@@ -275,13 +276,13 @@ wikitext: |-
   # Normal Summon "Terror Baby" (the additional Normal Summon from the first effect of "Fantasix Machinix") then activate its first effect to Special Summon "Number 40" from the GY.
   # Activate "Argent Chaos Force" by targeting "Number 40" to Xyz Summon a 2nd copy of "Fanatix Machinix".
   # Activate the effect of "Fanatix Machinix" by detaching "Number 40" to Special Summon "Number C40" to the opponent's field. The effect of "Number C40" mandatorily activates (although nothing happens on resolution).
-  # Activate the effect of "[[Imsety, Glory of Horus]]" by sending "Service Puppet Play" to add "[[King's Sarcophagus]]" from the Deck to the hand. Then activate "King's Sarcophagus". / Activate "King's Sarcophagus", then activate its on-field effect by sending "Service Puppet Play" from the hand to the GY to send any "[[Horus]]" monster (which can Special Summon itself from the GY while you control "King's Sarcophagus").
+  # Activate the effect of "[[Imsety, Glory of Horus]]" by sending "Service Puppet Play" to add "[[King's Sarcophagus]]" from the Deck to the hand. Then activate "King's Sarcophagus". / Activate "King's Sarcophagus", then activate its on-field effect by sending "Service Puppet Play" from the hand to the GY to send any "[[Horus]]" monster (which can Special Summon itself from the GY while you control "King's Sarcophagus") from the Deck to the GY.
   # Special Summon "Imsety" (or an elligible "Horus" monster) from the GY.
   # Activate the effect of "Little Soldiers" by banishing it from the GY to increase the Level of "Terror Baby" to Level 8.
   # Use "Terror Baby" and the "Horus" monster as Xyz Materials to Xyz Summon "[[Number 15: Gimmick Puppet Giant Grinder]]".
   # Activate the effect of "Number 15" by detaching any material and target "Number C40" to destroy it and inflict 3300 damage.
   # End your turn, then anytime during your opponent's turn, banish "Service Puppet Play" from the GY to activate its effect to Special Summon "Number C40" to your opponent's field.
-  # The effect of "Number C40" (in your opponent's control) mandatorily activates as Chain Link 1, then activate the effect of "Fanatix Machinix" in the same Chain (optionally, the Trigger effect of "Fantasix Machinix" to Special Summon itself to either player's field and add "Argent Chaos Force" can also be activated after "Fanatix Machinix" in that same Chain). The effect of "Fanatix Machinix" resolves by destroying "Number C40", and inflicts 1650 damage to the opponent.
+  # The effect of "Number C40" (in your opponent's control) mandatorily activates as Chain Link 1, then activate the effect of "Fanatix Machinix" in the same Chain by targetting "Number 40" (optionally, the Trigger effect of "Fantasix Machinix" to Special Summon itself to either player's field and add "Argent Chaos Force" can also be activated after "Fanatix Machinix" in that same Chain). The effect of "Fanatix Machinix" resolves by destroying "Number C40", and inflicts 1650 damage to the opponent.
   }}
 
   === Recommended cards ===
