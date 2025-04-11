@@ -12,9 +12,9 @@ wikitext: |-
   | materials      = 3 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s whose [[Original ATK and DEF|original ATK]] equals their own original DEF
   | requirement    = None
   | text           = Your opponent cannot [[activate]] [[Trap Card]]s when this card [[declare]]s an [[attack]]. If this card was [[Fusion Summon]]ed using 2 or more monsters whose [[Original Level and Rank|original Level]]s are 8 as [[material]], it can attack twice per [[turn]].
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_materials   = 元々の攻撃力と同じ数値の元々の守備力を持つモンスター（地属性／機械族）×３
+  | ja_requirement = なし
+  | ja_text        = このカードの攻撃宣言時に相手は罠カードを発動できない。元々のレベルが８のモンスター２体以上を素材としてフュージョン召喚したこのカードは１ターンに２回攻撃できる。
   | jp_sets        = 
   RD/5TH1-JP030; 5th Anniversary Pack; Ultra Rare, Over Rush Rare
   | supports       = 
@@ -29,5 +29,5 @@ wikitext: |-
   * Requires ATK specific Fusion Materials
   * Requires DEF specific Fusion Materials
   | attack         = Multiple attacker
-  | database_id    = 
+  | database_id    = 21502
   }}

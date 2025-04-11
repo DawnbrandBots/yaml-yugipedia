@@ -1,5 +1,6 @@
 title: Sevens Road Magician
 wikitext: |-
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = Magicien de la Route Sevens
   | de_name               = Sevens-Straßenmagier
@@ -23,7 +24,7 @@ wikitext: |-
   | level                 = 7
   | atk                   = 2100
   | def                   = 1500
-  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | requirement           = If you have a [[Monster Card|monster]] in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | text                  = This card gains [[ATK]] equal to [the number of different [[Attribute]]s in your Graveyard] x 300, until the end of this [[turn]].
   | fr_requirement        = Envoyez la carte du dessus de votre Deck au Cimetière.
   | fr_text               = Jusqu'à la fin de ce tour, cette carte gagne une ATK égale au [nombre d'Attributs différents présents dans votre Cimetière] x 300.
@@ -33,7 +34,7 @@ wikitext: |-
   | it_text               = Questa carta guadagna ATK pari [al numero di Attributi diversi nel tuo Cimitero] x 300, fino alla fine di questo turno.
   | es_requirement        = Manda al Cementerio la carta de la parte superior de tu Deck.
   | es_text               = Esta carta gana ATK igual [al número de Atributos diferentes en tu Cementerio] x 300 hasta el final de este turno.
-  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_requirement        = 自分の墓地にモンスターがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text               = このカードの攻撃力はターン終了時まで、［自分の墓地のモンスターの属性の種類］×３００アップする。
   | ko_requirement        = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   | ko_text               = 이 카드의 공격력은 턴 종료시까지, [자신 묘지 몬스터의 속성의 종류] × 300 올린다.
