@@ -13,10 +13,22 @@ wikitext: |-
   | def            = 2500
   | ritualcard     = Ceremonial Gate
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, if you have a [[face-up]] [[Level]] 8 [[Spellcaster]] [[Type]] [[Ritual Monster]] on your [[field]], all face-up monsters on your field gain 500 ATK until the end of this turn.
+  | text           = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, if you have a [[face-up]] [[Level]] 8 [[Spellcaster]] [[Type]] [[Ritual Monster]] on your [[field]], all face-up [[Monster Card|monster]]s on your field gain 500 ATK until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SD0E-JP003; Structure Deck: Black Magic Ritual; Common
+  | supports       = 
+  * Spellcaster
+  * Ritual Monster
+  | archseries     = Dark Magician (Rush Duel series)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
+  * This card gains ATK
+  * Your monsters gain ATK
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id    = 
   }}
