@@ -1,7 +1,5 @@
-title: TA.I.es
+title: A.I. Connect
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -16,12 +14,12 @@ wikitext: |-
   | sc_name             = -艾-互联互接
   | sc_pinyin_name      = 
   | sc_translated_name  = Interconn-Ai-ction
-  | image               = TAIes-ALIN-JP-R.png
+  | image               = AIConnect-ALIN-JP-R.png
   | card_type           = Spell
   | property            = Normal
   | password            = 79015062
   | effect_types        = Effect, Condition
-  | text                = [[Reveal]] 1 [[Cyberse]] [[monster]] in your [[hand]]; apply this [[effect]] based on its [[Attribute]], also you cannot [[Special Summon]] for the rest of this [[turn]] after this card resolves, except Cyberse monsters.<br />● [[DARK]]: Special Summon the revealed monster, and if you do, [[add]] 1 non-DARK [[Level]] 4 or lower Cyberse monster from your [[Main Deck|Deck]] to your hand.<br />● Non-DARK: [[Shuffle]] the revealed monster into the Deck, and if you do, add 1 "[[@Ignister]]" monster with a different Attribute from your Deck to your hand.<br />You can only [[activate]] 1 "TA.I.es" [[Once per turn|per turn]].
+  | text                = [[Reveal]] 1 [[Cyberse]] [[monster]] in your [[hand]]; apply this [[effect]] based on its [[Attribute]], also you cannot [[Special Summon]] for the rest of this [[turn]] after this card resolves, except Cyberse monsters.<br />● [[DARK]]: Special Summon the revealed monster, and if you do, [[add]] 1 [[Level]] 4 or lower non-DARK Cyberse monster from your [[Main Deck|Deck]] to your hand.<br />● Other: [[Shuffle]] the revealed monster into the Deck, and if you do, add 1 "[[@Ignister]]" monster with a different Attribute from your Deck to your hand.<br />You can only [[activate]] 1 "A.I. Connect" [[Once per turn|per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,9 +28,21 @@ wikitext: |-
   | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：手札のサイバース族モンスター１体を相手に見せて発動できる。見せたモンスターの属性によって以下の効果を適用する。このカードの発動後、ターン終了時まで自分はサイバース族モンスターしか特殊召喚できない。<br />●闇：見せたモンスターを特殊召喚し、デッキから闇属性以外でレベル４以下のサイバース族モンスター１体を手札に加える。<br />●闇以外：見せたモンスターをデッキに戻し、戻したモンスターとは属性が異なる「＠イグニスター」モンスター１体をデッキから手札に加える。
   | ko_text             = 
   | sc_text             = 此卡名的卡1回合仅可发动1张。①：向对手出示手牌的1只电子界族怪兽可以发动。根据所出示怪兽的属性适用以下效果。此卡发动后，直至回合结束时为止自己仅可特殊召唤电子界族怪兽。<br />●暗：将所出示的怪兽特殊召唤，从牌组将暗属性以外的1只等级4以下的电子界族怪兽加入手牌。<br />●暗以外：将所出示的怪兽放回牌组，从牌组将1只属性与所放回怪兽不同的“＠伊格尼斯者”怪兽加入手牌。
+  | en_sets             = 
+  ALIN-EN054; Alliance Insight; 
+  | fr_sets             = 
+  ALIN-FR054; Alliance Insight; 
+  | de_sets             = 
+  ALIN-DE054; Alliance Insight; 
+  | it_sets             = 
+  ALIN-IT054; Alliance Insight; 
+  | pt_sets             = 
+  ALIN-PT054; Alliance Insight; 
+  | sp_sets             = 
+  ALIN-SP054; Alliance Insight; 
   | jp_sets             = 
   ALIN-JP054; Alliance Insight; Rare
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC054; Alliance Insight; Rare
   | supports            = 
   * Cyberse
