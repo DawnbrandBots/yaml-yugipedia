@@ -101,12 +101,13 @@ wikitext: |-
   ===Members===
   The [[Level]] 4 [[Warrior]]s "[[Sky Striker Ace - Raye|Raye]]" and "[[Sky Striker Ace - Roze|Roze]]" are the heart of the Deck, as all other "Sky Striker Ace" monsters are [[Machine]] [[Link Monster]]s depicted as their armored combat modes (or clones, in the case of "Azalea" and "Camellia").
 
-  The majority of "Sky Striker" cards are designated with codes visible in their artworks. The codes for the combat modes are divided between an X-series for "Raye" and a Z-series for "Roze".
+  The majority of "Sky Striker" cards are designated with codes visible in their artworks. The codes for the combat modes are divided between an X-series for "Raye" and a Z-series for "Roze". The majority of "Sky Striker" monsters are "Sky Striker Ace" monsters by name or archetype condition.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; text-align: center"
   ! Code
-  ! Sky Striker
+  ! Sky Striker Ace
   ! [[Attribute]]
+  ! [[Level]] / [[Link Rating]]
   ! Associated Spell
   ! Combat role
   ! Name origin
@@ -114,19 +115,36 @@ wikitext: |-
   | 000
   | [[Sky Striker Ace - Raye|Ace - Raye]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | Level 4 [[File:CG_Star.svg|24px]]
   | [[Sky Striker Mobilize - Engage!|Mobilize - Engage!]]
   | Ace pilot
-  | rowspan=2 | [[wikipedia:Mitsubishi A6M Zero|Mitsubishi A6M "Zero" (''Reisen'')]]
+  | rowspan=4 | [[wikipedia:Mitsubishi A6M Zero|Mitsubishi A6M "Zero" (''Reisen'')]]
   |-
   | 000
   | [[Sky Striker Ace - Roze|Ace - Roze]]
   | [[LIGHT]] [[File:LIGHT.svg|24px]]
+  | Level 4 [[File:CG_Star.svg|24px]]
   | [[Red Arrows]]
   | Rival pilot
+  |-
+  | -
+  | [[Combined Maneuver - Engage Zero!]]
+  | [[LIGHT]] [[File:LIGHT.svg|24px]]
+  | LINK-2
+  | -
+  | -
+  |-
+  | -
+  | [[Sky Striker Ace = Zero|Ace = Zero]]
+  | [[LIGHT]] [[File:LIGHT.svg|24px]]
+  | LINK-2
+  | [[Sky Striker Alternative - Lemnis Gate|Alternative - Lemnis Gate]]
+  | -
   |-
   | X-001
   | [[Prototype Sky Striker Ace - Amatsu|Prototype Ace - Amatsu]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-1
   | -
   | Experimental prototype
   | "heavenly" ({{Ruby|天|あま}}{{Ruby|津|つ}} ''Amatsu'')
@@ -134,6 +152,7 @@ wikitext: |-
   | X-002
   | [[Sky Striker Ace - Shizuku|Ace - Shizuku]]
   | [[WATER]] [[File:WATER.svg|24px]]
+  | LINK-1
   | [[Sky Striker Maneuver - Jamming Waves!|Manuever - Jamming Waves!]]
   | Base defense mode
   | "raindrop" ({{Ruby|雫|しずく}} ''Shizuku'')
@@ -141,6 +160,7 @@ wikitext: |-
   | X-003
   | [[Sky Striker Ace - Kagari|Ace - Kagari]]
   | [[FIRE]] [[File:FIRE.svg|24px]]
+  | LINK-1
   | [[Sky Striker Maneuver - Afterburners!|Maneuver - Afterburners!]]
   | Special operations mode
   | "bonfire" ({{Ruby|篝|かがり}} ''Kagari'')
@@ -148,6 +168,7 @@ wikitext: |-
   | X-004
   | [[Sky Striker Ace - Hayate|Ace - Hayate]]
   | [[WIND]] [[File:WIND.svg|24px]]
+  | LINK-1
   | [[Sky Striker Maneuver - Vector Blast|Maneuver - Vector Blast]]
   | Long-range interception mode
   | "gale" ({{Ruby|疾風|はやて}} ''Hayate'') / [[wikipedia:Nakajima Ki-84|Nakajima Ki-84 ''Hayate'']]
@@ -155,6 +176,7 @@ wikitext: |-
   | X-005
   | [[Sky Striker Ace - Kaina|Ace - Kaina]]
   | [[EARTH]] [[File:EARTH.svg|24px]]
+  | LINK-1
   | [[Sky Striker Maneuver - Scissors Cross|Maneuver - Scissors Cross]]
   | Close-quarters combat mode
   | "arm" ({{Ruby|腕|かいな}} ''Kaina'')
@@ -162,6 +184,7 @@ wikitext: |-
   | Z-000
   | [[Sky Striker Ace - Zeke|Ace - Zeke]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-2
   | -
   | Combat mecha
   | "Zeke", the [[wikipedia:World War II Allied names for Japanese aircraft|Allied reporting name]] of the A6M
@@ -169,20 +192,39 @@ wikitext: |-
   | -
   | [[Surgical Striker - H.A.M.P.]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | Level 8 [[File:CG_Star.svg|24px]]
   | -
   | Autonomous mecha
   | "Hamp", the Allied reporting name of the [[wikipedia:Mitsubishi A6M Zero#A6M3 Type 0 Model 32|A6M3-32]]
   |-
   | -
+  | [[Surgical Striker - S.P.E.C.T.R.A.]]
+  | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-4
+  | -
+  | Combat mecha
+  | [[Spectra Union]]
+  |-
+  | -
   | [[Sky Striker Ace - Azalea|Ace - Azalea]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-2
   | -
   | Enemy pilot
   | [[wikipedia:Azalea|Azalea]]
   |-
   | -
+  | [[Sky Striker Ace - Azalea Temperance|Ace - Azalea Temperance]]
+  | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-3
+  | -
+  | Combat mecha
+  | [[wikipedia:Azalea|Azalea]]
+  |-
+  | -
   | [[Sky Striker Ace - Camellia|Ace - Camellia]]
   | [[DARK]] [[File:DARK.svg|24px]]
+  | LINK-2
   | -
   | Enemy pilot
   | [[wikipedia:Camellia|Camellia]]
@@ -229,16 +271,27 @@ wikitext: |-
   | Area of operations
   | -
   |}
+  The non-"Ace" "Sky Striker" monsters feature as characters in the _OCG Stories_ manga but are not typically played in the strategy, especially the Sages.
+  * [[Sage of Strength - Akash]]
+  * [[Sage of Benevolence - Ciela]]
+  * [[Sage of Wisdom - Himmel]]
+  * [[Pillar of the Future - Cyanos]]
+
+  <!-- TODO: replace with query? -->
 
   ==Playing style==
   "Sky Striker" is a Control archetype focused around using the archetype's Spells to generate advantage and break boards, while using the "[[Sky Striker Ace]]" Link monsters to gain access to said spells. It wins the game through out-grinding the opponent's resources.
 
-  Each of the Normal and Quick-Play Spell Cards share the following traits:
+  Each of the Normal and "Mecha" Spell Cards (Quick-Play or Equip) share the following traits:
   * They can only be activated if you control no monsters in the [[Main Monster Zone]].
-  * They gain an extra effect if 3 or more Spell Cards are in the GY. (Except for "Linkage!", which instead requires the player to have both LIGHT and DARK "Sky Striker Aces" on the field and/or in the GY.) As such, a "Sky Striker" player must find a way to put 3 Spell Cards in the GY as quickly as possible to maximize their advantage.
+  * They gain an extra effect if 3 or more Spell Cards are in the GY. As such, a "Sky Striker" player must find a way to put 3 Spell Cards in the GY as quickly as possible to maximize their advantage.
   * They are not hard [[once per turn]].
 
-  The two other Spells in the archetype are "[[Sky Striker Mecha Modules - Multirole]]", a Continuous Spell, and "[[Sky Striker Airspace - Area Zero]]", a Field Spell, which do not share the above traits.
+  The other Spells in the archetype do not share the above traits:
+  * "[[Sky Striker Mecha Modules - Multirole|Mecha Modules - Multirole]]" is a Continuous Spell.
+  * "[[Sky Striker Airspace - Area Zero|Airspace - Area Zero]]" is a Field Spell.
+  * "[[Sky Striker Mobilize - Linkage!|Mobilize - Linkage]]" is a Quick-Play Spell whose extra effect requires the player to have both LIGHT and DARK "Sky Striker Aces" on the field and/or in the GY.
+  * "[[Sky Striker Alternative - Lemnis Gate|Alternative - Lemnis Gate]] is a Quick-Play Spell with an additional effect that can be activated from the GY.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; text-align: center"
   ! Spell
@@ -279,6 +332,11 @@ wikitext: |-
   | [[Sky Striker Mecha - Widow Anchor|Mecha - Widow Anchor]]
   | Negates 1 face-up Effect Monster's effects for the turn
   | Takes control of that monster for the turn
+  |-
+  | [[Sky Striker Mecharmory - Hercules Base|Mecharmory - Hercules Base]]
+  | [[Equip Spell|Equip]]
+  | Equipped monster can attack monsters twice at the cost of direct attacks
+  | Draw 1 card per monster destroyed by attack
   |-
   | [[Sky Striker Mobilize - Engage!|Mobilize - Engage]]
   | [[Normal Spell|Normal]]
