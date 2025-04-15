@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 900
   | password            = 
   | effect_types        = Trigger, Continuous, Condition
-  | text                = If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 "Mitsurugi" monster from your Deck to your hand, except "Mitsurugi no Mikoto, Aramasa". If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of "Mitsurugi no Mikoto, Aramasa" once per turn.
+  | text                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed, or if this card is [[Tribute]]d: You can [[add]] 1 "[[Mitsurugi]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "Mitsurugi no Mikoto, Aramasa". If another [[Reptile]] monster(s) you [[control]] would be [[destroyed by battle]] or [[card effect]], you can Tribute this card instead. You can only use each effect of "Mitsurugi no Mikoto, Aramasa" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,7 +41,22 @@ wikitext: |-
   ALIN-PT090; Alliance Insight; 
   | sp_sets             = 
   ALIN-SP090; Alliance Insight; 
+  | mentions            = Mitsurugi no Mikoto, Aramasa
+  | supports            = Reptile
   | archseries          = Mitsurugi
   | supports_archetypes = Mitsurugi
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates if Tributed
+  * Adds from Deck to hand
+  * Tributes itself as an effect
+  | m/s/t               = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | attack              = Prevents other cards being destroyed by battle
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}

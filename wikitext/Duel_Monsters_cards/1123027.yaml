@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Condition
-  | text                = During the Main Phase: Activate 1 of these effects;<br />● Tribute 1 Reptile monster, then target 1 face-up card your opponent controls; destroy it.<br />● Ritual Summon 1 "Mitsurugi" Ritual Monster from your hand, by Tributing monsters you control whose total Levels equal or exceed its Level.<br />You can only activate 1 "Mitsurugi Magatama" per turn.
+  | text                = During the [[Main Phase]]: [[Activate]] 1 of these [[effects]];<br />● [[Tribute]] 1 [[Reptile]] [[monster]], then [[target]] 1 [[face-up]] card your opponent controls; [[destroy]] it.<br />● [[Ritual Summon]] 1 "[[Mitsurugi]]" [[Ritual Monster]] from your [[hand]], by Tributing monsters you [[control]] whose total [[Level]]s equal or exceed its Level.<br />You can only [[activate]] 1 "Mitsurugi Magatama" [[once per turn|per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -38,7 +38,23 @@ wikitext: |-
   ALIN-PT094; Alliance Insight; 
   | sp_sets             = 
   ALIN-SP094; Alliance Insight; 
+  | supports            = 
+  * Reptile
+  * Ritual Monster
   | archseries          = Mitsurugi
   | supports_archetypes = Mitsurugi
+  | action              = 
+  * Tributes for cost
+  | m/s/t               = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning           = 
+  * Performs a Ritual Summon
+  * Special Summons from your hand
+  | misc                = 
+  * Variable effects
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}

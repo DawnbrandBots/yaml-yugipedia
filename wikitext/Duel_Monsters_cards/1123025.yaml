@@ -21,7 +21,7 @@ wikitext: |-
   | ritualcard          = Mitsurugi Ritual
   | password            = 
   | effect_types        = Continuous, Ignition, Condition, Trigger, Condition
-  | text                = You can Ritual Summon this card with "Mitsurugi Ritual". Monsters your opponent controls lose 800 ATK. You can reveal this card in your hand; Special Summon 1 "Mitsurugi" monster from your Deck, then Tribute 1 monster you control. You can only use this effect of "Ame no Habakiri no Mitsurugi" once per Duel. If this card is Tributed: You can add 1 "Mitsurugi" card from your Deck to your hand, except "Ame no Habakiri no Mitsurugi", then you can Special Summon this card. You can only use this effect of "Ame no Habakiri no Mitsurugi" once per turn.
+  | text                = You can [[Ritual Summon]] this card with "[[Mitsurugi Ritual]]". [[Monster]]s your opponent [[control]]s lose 800 [[ATK]]. You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 "[[Mitsurugi]]" monster from your [[Main Deck|Deck]], then [[Tribute]] 1 monster you control. You can only use this [[effect]] of "Ame no Habakiri no Mitsurugi" once per [[Duel]]. If this card is Tributed: You can [[add]] 1 "Mitsurugi" card from your Deck to your hand, except "Ame no Habakiri no Mitsurugi", then you can Special Summon this card. You can only use this effect of "Ame no Habakiri no Mitsurugi" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -45,5 +45,18 @@ wikitext: |-
   | mentions            = Mitsurugi Ritual
   | archseries          = Mitsurugi
   | supports_archetypes = Mitsurugi
+  | action              = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Activates if Tributed
+  * Adds from Deck to hand
+  | stat_change         = Your opponent's monsters lose ATK
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons itself from your Graveyard
+  * Special Summons itself while banished
+  | misc                = 
+  * Only once per turn
+  * Only once per Duel
   | database_id         = 
   }}

@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 2000
   | password            = 
   | effect_types        = Unclassified, Condition, Trigger, Condition
-  | text                = You can Special Summon this card (from your hand) by Tributing 1 other Reptile monster from your hand and 1 monster your opponent controls, but you cannot Special Summon nor activate monster effects for the rest of this turn, except Reptile monsters. You can only Special Summon "Mitsurugi no Miko, Wousu" once per turn this way. If this card is Tributed: You can discard 1 card, and if you do, add this card to your hand. You can only use this effect of "Mitsurugi no Miko, Wousu" once per turn.
+  | text                = You can [[Special Summon]] this card (from your [[hand]]) by [[Tribute|Tributing]] 1 other [[Reptile]] [[monster]] from your [[hand]] and 1 monster your opponent [[control]]s, but you cannot Special Summon nor [[activate]] [[monster effect]]s for the rest of this [[turn]], except Reptile monsters. You can only Special Summon "Mitsurugi no Miko, Wousu" once per turn this way. If this card is Tributed: You can [[discard]] 1 card, and if you do, [[add]] this card to your hand. You can only use this effect of "Mitsurugi no Miko, Wousu" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,6 +41,19 @@ wikitext: |-
   ALIN-PT091; Alliance Insight; 
   | sp_sets             = 
   ALIN-SP091; Alliance Insight; 
+  | supports            = Reptile
   | archseries          = Mitsurugi
+  | action              = 
+  * Tributes for Special Summon
+  * Tributes opponent's monsters
+  * Activates if Tributed
+  * You discard as an effect
+  * Returns itself from Graveyard to hand
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Restricts the player's Special Summons to Type specific monsters
+  * Special Summon by its own condition once per turn
+  | misc                = Only once per turn
   | database_id         = 
   }}
