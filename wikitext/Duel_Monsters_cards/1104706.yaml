@@ -1,7 +1,5 @@
 title: Argostars - Fierce Parthe
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -22,7 +20,7 @@ wikitext: |-
   | def                 = 1400
   | password            = 21050476
   | effect_types        = Continuous, Condition, Quick, Ignition
-  | text                = Gains 700 [[ATK]]/[[DEF]] for each other "[[Argostars]]" [[monster]] you [[control]] with different names. You can only use each of the following [[effect]]s of "Argostars - Fierce Parthe" [[once per turn]]. ([[Quick Effect]]): You can [[reveal]] this card in your [[hand]]; [[return]] 1 [[face-up]] "Argostars" [[Continuous Trap]] you control to the hand, and if you do, [[Special Summon]] this card. You can [[banish]] this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.
+  | text                = Gains 700 [[ATK]]/[[DEF]] for each "[[Argostars]]" [[monster]] with a different name you [[control]], except this card. You can only use each of the following [[effect]]s of "Argostars - Fierce Parthe" [[once per turn]]. ([[Quick Effect]]): You can [[reveal]] this card in your [[hand]]; [[return]] 1 "Argostars" [[Continuous Trap]] you control to the hand, and if you do, [[Special Summon]] this card. You can [[banish]] this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,9 +29,21 @@ wikitext: |-
   | ja_text             = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、手札のこのカードを相手に見せて発動できる。自分フィールドの表側表示の「ＡＲＧ☆Ｓ」永続罠カード１枚を手札に戻し、このカードを特殊召喚する。②：このカードの攻撃力・守備力は、自分フィールドの他の「ＡＲＧ☆Ｓ」モンスターの種類×７００アップする。③：フィールドのこのカードを除外して発動できる。手札から永続罠カード１枚をセットする。この効果でセットしたカードはセットしたターンでも発動できる。
   | ko_text             = 
   | sc_text             = 此卡名的①③效果1回合仅可各使用1次。①：在自己・对手回合中，向对手出示手牌的此卡可以发动。将自己场上的1张表侧表示“阿尔戈☆群星”永续陷阱卡放回手牌，将此卡特殊召唤。②：此卡的攻击力・守备力上升相当于自己场上的其他“阿尔戈☆群星”怪兽种类×700的数值。③：将场上的此卡除外可以发动。从手牌放置1张永续陷阱卡。以此效果放置的卡在放置的回合也可以发动。
+  | en_sets             = 
+  ALIN-EN020; Alliance Insight; 
+  | fr_sets             = 
+  ALIN-FR020; Alliance Insight; 
+  | de_sets             = 
+  ALIN-DE020; Alliance Insight; 
+  | it_sets             = 
+  ALIN-IT020; Alliance Insight; 
+  | pt_sets             = 
+  ALIN-PT020; Alliance Insight; 
+  | sp_sets             = 
+  ALIN-SP020; Alliance Insight; 
   | jp_sets             = 
   ALIN-JP020; Alliance Insight; Rare
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC020; Alliance Insight; Rare
   | supports            = Continuous Trap Card
   | archseries          = Argostars
