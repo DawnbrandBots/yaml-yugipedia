@@ -1,7 +1,5 @@
 title: Bomber Place
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -22,7 +20,7 @@ wikitext: |-
   | def                 = 2400
   | password            = 71750854
   | effect_types        = Quick
-  | text                = Once per [[Chain]] ([[Quick Effect]]): You can pay 600 [[LP]], then [[activate]] 1 of these [[effect]]s;<br />● If you [[control]] [[monsters]] of each Level from 1 to 6: Choose 1 [[face-up]] monster your opponent controls that has a [[Level]], and destroy all other monsters they control with an equal Level/[[Rank]]/[[Link Rating]].<br />● Choose 1 face-up monster you control that has a Level, and destroy all your opponent's monsters in its column with an equal Level/Rank/Link Rating.
+  | text                = Once per [[Chain]] ([[Quick Effect]]): You can pay 600 [[LP]], then [[activate]] 1 of these [[effect]]s;<br />● If you [[control]] 6 [[monsters]] with different [[Level]]s (1, 2, 3, 4, 5, and 6): Choose 1 [[face-up]] monster your opponent controls with a Level, and destroy all other monsters your opponent controls with the same Level/[[Rank]]/[[Link Rating]] as that monster.<br />● Choose 1 face-up monster you control with a Level, and destroy all of your opponent's monsters in the same column with the same Level/Rank/Link Rating as that monster.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,9 +29,21 @@ wikitext: |-
   | ja_text             = ①：自分・相手ターンに、６００ＬＰを払い、以下から１つを選択して発動できる（同一チェーン上では１度まで）。●自分フィールドにレベル１～６のモンスターが全て存在する場合に発動できる。相手フィールドの表側表示モンスター１体を選び、そのレベルとレベル・ランク・リンクの数値が同じである、選んだモンスター以外の相手フィールドのモンスターを全て破壊する。●自分フィールドの表側表示モンスター１体を選び、そのレベルとレベル・ランク・リンクの数値が同じである、選んだモンスターの正面の相手モンスターを全て破壊する。
   | ko_text             = 
   | sc_text             = ①：在自己・对手回合中，支付600LP，可从以下选择1个发动（同一连锁上最多1次）。●自己场上存在等级1～6的全部等级的怪兽的情况下可以发动。挑选对手场上的1只表侧表示怪兽，将等级・阶级・连接的数值与其等级相同的、所挑选怪兽以外的对手场上的怪兽全部破坏。●挑选自己场上的1只表侧表示怪兽，将等级・阶级・连接的数值与其等级相同的、所挑选怪兽正面的对手怪兽全部破坏。
+  | en_sets             = 
+  ALIN-EN034; Alliance Insight; Common
+  | fr_sets             = 
+  ALIN-FR034; Alliance Insight; Common
+  | de_sets             = 
+  ALIN-DE034; Alliance Insight; Common
+  | it_sets             = 
+  ALIN-IT034; Alliance Insight; Common
+  | pt_sets             = 
+  ALIN-PT034; Alliance Insight; Common
+  | sp_sets             = 
+  ALIN-SP034; Alliance Insight; Common
   | jp_sets             = 
   ALIN-JP034; Alliance Insight; Normal Rare
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC034; Alliance Insight; Common
   | m/s/t               = Destroys your opponent's face-up Monster Cards
   | life_points         = Pays Life Points for cost

@@ -1,7 +1,5 @@
 title: NT8000 - SIRIUS
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name             = 
   | ja_name             = ＮＴ８０００－{{Ruby|ＳＩＲＩＵＳ|シリウス}}
   | romaji_name         = Enu Tī Hassen - Shiriusu
-  | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = NT8000－天狼星
@@ -22,7 +19,7 @@ wikitext: |-
   | def                 = 2500
   | password            = 45488703
   | effect_types        = Continuous, Condition, Quick, Trigger
-  | text                = This [[linked]] card cannot be [[destroyed by battle]]. You can only use each of the following [[effect]]s of "NT8000 - SIRIUS" [[once per turn]]. If a [[Link Monster]]'s effect was activated this [[turn]] ([[Quick Effect]]): You can [[target]] 1 [[face-up]] card you [[control]] and 1 face-up card your opponent controls; [[destroy]] both. If this card is sent to the [[GY]], except from the field, and you control a [[DARK]] [[Link Monster]]: You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]].
+  | text                = This [[linked]] card cannot be [[destroyed by battle]]. You can only use each of the following [[effect]]s of "NT8000 - SIRIUS" [[once per turn]]. During the [[turn]] a [[Link Monster]]'s effect was activated ([[Quick Effect]]): You can [[target]] 1 [[face-up]] card you [[control]] and 1 face-up card your opponent controls; [[destroy]] both. If this card is sent to the [[GY]], except from the field, and you control a [[DARK]] [[Link Monster]]: You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,9 +28,21 @@ wikitext: |-
   | ja_text             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：リンク状態のこのカードは戦闘では破壊されない。②：Ｌモンスターの効果が発動した自分・相手ターンに、自分及び相手フィールドの表側表示カードを１枚ずつ対象として発動できる。そのカード２枚を破壊する。③：このカードがフィールド以外から墓地へ送られた場合、自分フィールドに闇属性Ｌモンスターが存在していれば発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   | ko_text             = 
   | sc_text             = 此卡名的②③效果1回合仅可各使用1次。①：连接状态的此卡不会因战斗被破坏。②：在有连接怪兽的效果发动过的自己・对手回合中，以自己及对手场上的各1张表侧表示卡为对象可以发动。将该2张卡破坏。③：此卡从场上以外的地方被送至墓地的情况下，如果自己场上存在暗属性连接怪兽则可以发动。将此卡特殊召唤。以此效果特殊召唤的此卡从场上离开的情况下，将其除外。
+  | en_sets             = 
+  ALIN-EN030; Alliance Insight; Common
+  | fr_sets             = 
+  ALIN-FR030; Alliance Insight; Common
+  | de_sets             = 
+  ALIN-DE030; Alliance Insight; Common
+  | it_sets             = 
+  ALIN-IT030; Alliance Insight; Common
+  | pt_sets             = 
+  ALIN-PT030; Alliance Insight; Common
+  | sp_sets             = 
+  ALIN-SP030; Alliance Insight; Common
   | jp_sets             = 
   ALIN-JP030; Alliance Insight; Common
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC030; Alliance Insight; Common
   | supports            = 
   * DARK

@@ -1,7 +1,5 @@
 title: Dragon's Mind
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -19,7 +17,7 @@ wikitext: |-
   | property            = Counter
   | password            = 85442146
   | effect_types        = Effect, Quick-like, Condition
-  | text                = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d and you [[control]] a monster with 2500 [[Original ATK and DEF|original ATK or DEF]]: [[Negate]] the activation, and if you do, [[destroy]] that card. If this card is in your GY: You can [[pay]] 2500 [[LP]]; [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use each effect of "Dragon's Mind" [[once per turn]].
+  | text                = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] a monster with 2500 [[Original ATK and DEF|original ATK or DEF]]: [[Negate]] the activation, and if you do, [[destroy]] that card. If this card is in your GY: You can [[pay]] 2500 [[LP]]; [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use each effect of "Dragon's Mind" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,9 +26,21 @@ wikitext: |-
   | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに元々の攻撃力または元々の守備力が２５００のモンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在する場合、２５００ＬＰを払って発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
   | ko_text             = 
   | sc_text             = 此卡名的①②效果1回合仅可各使用1次。①：自己场上存在原本攻击力或原本守备力为2500的怪兽，且怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。②：此卡存在于墓地的情况下，支付2500LP可以发动。将此卡放置在自己场上。以此效果放置的此卡从场上离开的情况下，将其除外。
+  | en_sets             = 
+  ALIN-EN079; Alliance Insight; Common
+  | fr_sets             = 
+  ALIN-FR079; Alliance Insight; Common
+  | de_sets             = 
+  ALIN-DE079; Alliance Insight; Common
+  | it_sets             = 
+  ALIN-IT079; Alliance Insight; Common
+  | pt_sets             = 
+  ALIN-PT079; Alliance Insight; Common
+  | sp_sets             = 
+  ALIN-SP079; Alliance Insight; Common
   | jp_sets             = 
   ALIN-JP079; Alliance Insight; Common
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC079; Alliance Insight; Common
   | action              = 
   * Activates from your Graveyard

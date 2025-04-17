@@ -1,7 +1,5 @@
-title: Spore the Fairy Cell
+title: Spore the Fairy Seed
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,10 +8,11 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|妖|よう}}{{Ruby|精|せい}}{{Ruby|胞|ほう}}スポーア
   | romaji_name         = Yōseihō Supōa
+  | translated_name     = Spore the Fairy Spore
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 妖精胞 孢子
-  | image               = SporetheFairyCell-ALIN-JP-C.png
+  | image               = SporetheFairySeed-ALIN-JP-C.png
   | attribute           = LIGHT
   | types               = Plant / Tuner / Effect
   | level               = 1
@@ -21,7 +20,7 @@ wikitext: |-
   | def                 = 800
   | password            = 98888032
   | effect_types        = Trigger, Ignition, Condition
-  | text                = If this card is [[Special Summon]]ed: You can increase its [[Level]] by up to the number of [[monsters]] you [[control]]. If this card is in your [[GY]] and you control "[[Ancient Fairy Dragon]]" or a [[LIGHT]] [[Beast]], [[Plant]], or [[Fairy]] monster: You can Special Summon this card, also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Synchro Monster]]s. You can only use this [[effect]] of "Spore the Fairy Cell" [[once per turn]].
+  | text                = If this card is [[Special Summon]]ed: You can count the number of [[monsters]] you [[control]], and have this card gain up to that many [[Level]]s. If you control "[[Ancient Fairy Dragon]]", or a [[LIGHT]] monster ([[Beast]], [[Plant]], or [[Fairy]]), and this card is in your [[GY]]: You can Special Summon this card, also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Synchro Monster]]s. You can only use this [[effect]] of "Spore the Fairy Seed" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,9 +29,21 @@ wikitext: |-
   | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。このカードのレベルを自分フィールドのモンスターの数まで上げる。②：このカードが墓地に存在し、自分フィールドに「エンシェント・フェアリー・ドラゴン」または獣族・植物族・天使族の光属性モンスターのいずれかが存在する場合に発動できる。このカードを特殊召喚する。この効果の発動後、ターン終了時まで自分はＳモンスターしかＥＸデッキから特殊召喚できない。
   | ko_text             = 
   | sc_text             = 此卡名的②效果1回合仅可使用1次。①：此卡特殊召唤的情况下可以发动。此卡的等级上升最多相当于自己场上怪兽的数量的数值。②：此卡存在于墓地，自己场上存在“上古精灵龙”或兽族・植物族・天使族的光属性怪兽中的任一的情况下可以发动。将此卡特殊召唤。此效果发动后，直至回合结束时为止自己从额外牌组仅可特殊召唤同步怪兽。
+  | en_sets             = 
+  ALIN-EN007; Alliance Insight; Common
+  | fr_sets             = 
+  ALIN-FR007; Alliance Insight; Common
+  | de_sets             = 
+  ALIN-DE007; Alliance Insight; Common
+  | it_sets             = 
+  ALIN-IT007; Alliance Insight; Common
+  | pt_sets             = 
+  ALIN-PT007; Alliance Insight; Common
+  | sp_sets             = 
+  ALIN-SP007; Alliance Insight; Common
   | jp_sets             = 
   ALIN-JP007; Alliance Insight; Common
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC007; Alliance Insight; Common
   | mentions            = Ancient Fairy Dragon
   | supports            = 

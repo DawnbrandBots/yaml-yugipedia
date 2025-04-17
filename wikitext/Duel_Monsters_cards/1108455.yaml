@@ -1,7 +1,5 @@
 title: Brain Controller
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -21,7 +19,7 @@ wikitext: |-
   | def                 = 200
   | password            = 44265115
   | effect_types        = Trigger, Trigger, Trigger, Condition
-  | text                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Brain Control]]" from your [[Main Deck|Deck]] to your [[hand]]. If you pay [[LP]] (except during the [[Damage Step]]): You can [[target]] 1 [[face-up]] monster on the [[field]] that has a [[Level]] and [[declare]] a Level from 1 to 8; it becomes that Level. If this card is sent to the GY as [[Synchro Material]]: You can Special Summon this card to your opponent's field in [[Defense Position]], but [[negate]] its [[effect]]s. You can only use each effect of "Brain Controller" [[once per turn]].
+  | text                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Brain Control]]" from your [[Main Deck|Deck]] to your [[hand]]. If you pay [[LP]] (except during the [[Damage Step]]): You can [[target]] 1 [[face-up]] monster on the [[field]] and [[declare]] a [[Level]] from 1 to 8; that monster becomes that Level. If this card is sent to the GY as [[Synchro Material]]: You can Special Summon this card to your opponent's field in [[Defense Position]], but [[negate]] its [[effect]]s. You can only use each effect of "Brain Controller" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,9 +28,21 @@ wikitext: |-
   | ja_text             = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「洗脳－ブレインコントロール」１枚を手札に加える。②：自分がＬＰを払った場合、フィールドの表側表示モンスター１体を対象とし、１～８までの任意のレベルを宣言して発動できる。そのモンスターのレベルを宣言したレベルにする。③：このカードがＳ素材として墓地へ送られた場合に発動できる。このカードを効果を無効にして相手フィールドに守備表示で特殊召喚する。
   | ko_text             = 
   | sc_text             = 此卡名的①②③效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将1张“洗脑”加入手牌。②：自己支付了LP的情况下，以场上的1只表侧表示怪兽为对象，宣言1～8为止的任意等级可以发动。该怪兽的等级变为所宣言的等级。③：此卡作为同步素材被送至墓地的情况下可以发动。将此卡的效果无效并以守备表示特殊召唤至对手场上。
+  | en_sets             = 
+  ALIN-EN033; Alliance Insight; Common
+  | fr_sets             = 
+  ALIN-FR033; Alliance Insight; Common
+  | de_sets             = 
+  ALIN-DE033; Alliance Insight; Common
+  | it_sets             = 
+  ALIN-IT033; Alliance Insight; Common
+  | pt_sets             = 
+  ALIN-PT033; Alliance Insight; Common
+  | sp_sets             = 
+  ALIN-SP033; Alliance Insight; Common
   | jp_sets             = 
   ALIN-JP033; Alliance Insight; Common
-  | sc_sets               = 
+  | sc_sets             = 
   ALIN-SC033; Alliance Insight; Common
   | mentions            = Brain Control
   | action              = 
