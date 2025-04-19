@@ -21,6 +21,9 @@ wikitext: |-
   | atk                 = 3800
   | def                 = 3500
   | password            = 
+  | materials           = "Lunalight Leo Dancer" + 3 "Lunalight" monsters
+  | fusion_material      = 
+  * Lunalight Leo Dancer
   | effect_types        = Summoning condition, Continuous, Continuous, Quick
   | text                = "[[Lunalight Leo Dancer]]" + 3 "[[Lunalight]]" [[monsters]]<br />Must be [[Fusion Summon]]ed with the above [[Fusion Material]]s. [[Unaffected]] by card [[effect]]s, except "[[Lunalight]]" cards. Can make a second [[attack]] during each [[Battle Phase]]. [[Once per turn]] ([[Quick Effect]]): You can [[send]] 1 "Lunalight" monster from your [[Extra Deck]] to the [[GY]]; [[destroy]] all your opponent's Special Summoned monsters.
   | fr_text             = 
@@ -36,5 +39,17 @@ wikitext: |-
   | mentions            = Lunalight Leo Dancer
   | archseries          = Lunalight
   | supports_archetypes = Lunalight
+  | action              = Sends from Extra Deck to Graveyard for cost
+  | m/s/t               = 
+  * Unaffected by other card effects
+  * Destroys your opponent's Monster Cards
+  | summoning           = 
+  * 4 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Must be Fusion Summoned with listed Fusion Materials
+  | attack              = Multiple attacker
+  | misc                = Limited activations
   | database_id         = 
   }}

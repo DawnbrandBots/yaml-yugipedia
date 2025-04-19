@@ -33,5 +33,19 @@ wikitext: |-
   | mentions            = Polymerization
   | archseries          = Lunalight
   | supports_archetypes = Lunalight
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates upon Fusion Summon
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  * You discard as an effect
+  * Modifies which cards can be used as Fusion Material
+  * Uses cards in the player's Graveyard as Fusion Materials
+  | banished            = 
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

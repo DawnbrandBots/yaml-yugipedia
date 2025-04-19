@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2000
   | def                 = 1500
   | password            = 
+  | materials           = 2 "Lunalight" monsters
   | effect_types        = Trigger, Ignition, Ignition, Condition
   | text                = 2 "[[Lunalight]]" [[monsters]]<br />If this card is [[Fusion Summon]]ed: You can [[Add a card|add]] 1 "[[Luna Light Perfume]]" from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 other "[[Lunalight]]" card you [[control]]; [[return]] it to the hand/[[Extra Deck]], then you can [[Special Summon]] 1 "Lunalight" monster from your hand. You can [[banish]] this card from your [[GY]]; this [[turn]], monsters your opponent controls lose ATK equal to their own [[original DEF]]. You can only use each [[effect]] of "Lunalight Perfume Dancer" [[once per turn]].
   | fr_text             = 
@@ -36,5 +37,20 @@ wikitext: |-
   | mentions            = Luna Light Perfume
   | archseries          = Lunalight
   | supports_archetypes = Lunalight
+  | action              = 
+  * Activates upon Fusion Summon
+  * Adds from Deck to hand
+  * Returns from your field to your hand
+  * Returns from your field to your Extra Deck
+  * Activates from your Graveyard
+  | stat_change         = Your opponent's monsters lose ATK
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summons from your hand
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}
