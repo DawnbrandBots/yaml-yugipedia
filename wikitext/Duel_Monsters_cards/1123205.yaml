@@ -44,9 +44,26 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   DUAD-JP023; Duelist's Advance; 
+  | supports              = Ritual Spell Card
   | archseries            = Nouvelles
   | supports_archetypes   = 
   * Nouvelles
   * Recipe
+  | action                = 
+  * Adds from Deck to hand
+  * Activates upon Special Summon
+  * Activates if Tributed
+  * Activates from your Extra Deck
+  * Goes to Pendulum Zone
+  * Resolves as another card's effect
+  | stat_change           = All monsters gain Levels
+  | summoning             = Special Summons itself from your Pendulum Zone
+  | banished              = 
+  * Banishes from hand for cost
+  * Banishes from Deck for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   }}
