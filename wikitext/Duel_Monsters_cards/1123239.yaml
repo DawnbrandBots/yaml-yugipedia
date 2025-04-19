@@ -3,37 +3,39 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|月光舞踏会|ムーンライト・マスカレード}}
-  | romaji_name         = Mūnraito Masukarēdo
-  | translated_name     = Moonlight Masquerade
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = LunalightMasquerade-DUAD-JP-OP.png
-  | card_type           = Spell
-  | property            = Continuous
-  | password            = 
-  | effect_types        = Ignition-like, Trigger-like, Condition
-  | text                = During your [[Main Phase]], if this card was [[activate]]d this [[turn]]: You can [[send]] 1 "[[Lunalight]]" [[monster]] from your [[Main Deck|Deck]] to the [[GY]]. If you [[Fusion Summon]] a "Lunalight" monster: You can [[Add a card|add]] 1 "[[Polymerization]]" from your GY or [[banish]]ment to your [[hand]], then you can [[discard]] 1 card, and if you do, once this [[turn]], if you Fusion Summon a "Lunalight" monster, you can also banish monsters from your GY as [[material]]. You can only use each [[effect]] of "Lunalight Masquerade" [[once per turn]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
-  DUAD-JP053; Duelist's Advance;
-  | mentions            = Polymerization
-  | archseries          = Lunalight
-  | supports_archetypes = Lunalight
-  | action              = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|月光舞踏会|ムーンライト・マスカレード}}
+  | base_romaji_name     = Gekkō Butōkai
+  | base_translated_name = Moonlight Ball
+  | romaji_name          = Mūnraito Masukarēdo
+  | translated_name      = Moonlight Masquerade
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = LunalightMasquerade-DUAD-JP-OP.png
+  | card_type            = Spell
+  | property             = Continuous
+  | password             = 
+  | effect_types         = Ignition-like, Trigger-like, Condition
+  | text                 = During your [[Main Phase]], if this card was [[activate]]d this [[turn]]: You can [[send]] 1 "[[Lunalight]]" [[monster]] from your [[Main Deck|Deck]] to the [[GY]]. If you [[Fusion Summon]] a "Lunalight" monster: You can [[Add a card|add]] 1 "[[Polymerization]]" from your GY or [[banish]]ment to your [[hand]], then you can [[discard]] 1 card, and if you do, once this [[turn]], if you Fusion Summon a "Lunalight" monster, you can also banish monsters from your GY as [[material]]. You can only use each [[effect]] of "Lunalight Masquerade" [[once per turn]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
+  DUAD-JP053; Duelist's Advance; 
+  | mentions             = Polymerization
+  | archseries           = Lunalight
+  | supports_archetypes  = Lunalight
+  | action               = 
   * Sends from your Deck to your Graveyard
   * Activates upon Fusion Summon
   * Adds from Graveyard to hand
@@ -41,11 +43,11 @@ wikitext: |-
   * You discard as an effect
   * Modifies which cards can be used as Fusion Material
   * Uses cards in the player's Graveyard as Fusion Materials
-  | banished            = 
+  | banished             = 
   * Banishes from your Graveyard
   * Banishes Fusion Materials used in a Fusion Summon
-  | misc                = 
+  | misc                 = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id         = 
+  | database_id          = 
   }}
