@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 1800
   | password            = 
   | effect_types        = Ignition, Ignition, Condition, Condition
-  | text                = If you control no monsters, or all monsters you control are Fairy monsters: You can Special Summon this card from your hand. You can Tribute any number of Fairy monsters, including this card; Special Summon 1 Fairy monster from your Deck whose Level equals the total Levels those monsters had on the field. You cannot Special Summon the turn you activate this effect, except Fairy monsters. You can only use each effect of "Dawn Angel Kambi" once per turn.
+  | text                = If you [[control]] no [[monster]]s, or all monsters you control are [[Fairy]] monsters: You can [[Special Summon]] this card from your [[hand]]. You can [[Tribute]] any number of Fairy monsters, including this card; Special Summon 1 Fairy monster from your [[Main Deck|Deck]] whose [[Level]] equals the total Levels those monsters had on the [[field]]. You cannot Special Summon the turn you [[activate]] this [[effect]], except Fairy monsters. You can only use each effect of "Dawn Angel Kambi" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,5 +41,18 @@ wikitext: |-
   ALIN-PT081; Alliance Insight; Common
   | sp_sets             = 
   ALIN-SP081; Alliance Insight; Common
+  | supports            = Fairy
+  | action              = 
+  * Activates from your hand
+  * Tributes itself for cost
+  * Tributes for cost
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                = 
+  * Requires control of no monsters
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}
