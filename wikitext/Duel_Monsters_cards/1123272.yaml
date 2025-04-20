@@ -15,9 +15,9 @@ wikitext: |-
   | image               = TikiPeace-ALIN-EN-C-1E.png
   | card_type           = Trap
   | property            = Continuous
-  | password            = 
+  | password            = 14554127
   | effect_types        = Effect, Quick, Condition
-  | text                = Special Summon this card as an Effect Monster (Rock/EARTH/Level 4/ATK 1800/DEF 1800) with the following effect (this card is also still a Trap).<br />● (Quick Effect): You can pay 800 LP; Special Summon 1 Continuous Trap, except "Tiki Peace", from your GY or banishment as a Normal Monster (Rock/EARTH/Level 4/ATK 1000/DEF 1000) and its name becomes "Tiki Peace" (even while face-down) (that card is NOT treated as a Trap). You can only use this effect of "Tiki Peace" once per turn.
+  | text                = [[Special Summon]] this card as an [[Effect Monster]] ([[Rock]]/[[EARTH]]/[[Level]] 4/[[ATK]] 1800/[[DEF]] 1800) with the following [[effect]] (this card is also still a [[Trap]]).<br />● ([[Quick Effect]]): You can [[pay]] 800 [[LP]]; Special Summon 1 [[Continuous Trap]], except "Tiki Peace", from your [[GY]] or [[banishment]] as a [[Normal Monster]] (Rock/EARTH/Level 4/ATK 1000/DEF 1000) and its name becomes "Tiki Peace" (even while [[face-down]]) (that card is NOT treated as a Trap). You can only use this effect of "Tiki Peace" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -38,6 +38,18 @@ wikitext: |-
   ALIN-PT089; Alliance Insight; Common
   | sp_sets             = 
   ALIN-SP089; Alliance Insight; Common
-  | database_id         = 
   | mentions            = Tiki Peace
+  | supports            = Continuous Trap Card
+  | archseries          = Trap Monster
+  | stat_change         = 
+  * Treated as a Normal Monster
+  * Changes card names
+  | m/s/t               = Treats Trap Cards as monsters
+  | summoning           = 
+  * Special Summons itself from your Spell & Trap Zone
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
+  | database_id         = 
   }}

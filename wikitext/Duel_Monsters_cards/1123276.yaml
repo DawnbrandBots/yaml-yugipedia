@@ -18,9 +18,10 @@ wikitext: |-
   | level               = 4
   | atk                 = 1800
   | def                 = 800
-  | password            = 
+  | password            = 48882106
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Trigger, Condition
-  | text                = 1 Tuner + 1+ non-Tuner monsters<br />If this card is Synchro Summoned: You can target 1 card in either GY; banish it. If this card is banished: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of "Toxic Boxfish" once per turn.
+  | text                = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />If this card is [[Synchro Summon]]ed: You can [[target]] 1 card in either [[GY]]; [[banish]] it. If this card is banished: You can target 1 [[face-up]] card your opponent [[control]]s; [[negate]] its [[effect]]s until the end of this [[turn]]. You can only use each effect of "Toxic Boxfish" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,5 +42,17 @@ wikitext: |-
   ALIN-PT085; Alliance Insight; Super Rare
   | sp_sets             = 
   ALIN-SP085; Alliance Insight; Super Rare
+  | action              = 
+  * Activates upon Synchro Summon
+  * Activates while banished
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | banished            = Banishes from Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
