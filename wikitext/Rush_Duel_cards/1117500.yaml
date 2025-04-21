@@ -3,20 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ディスペル・アーチャー
-  | romaji_name    = Disuperu Āchā
-  | image          = DispellArcher-RDKP21-JP-OP.png
-  | attribute      = DARK
-  | types          = Spellcaster / Effect
-  | level          = 3
-  | atk            = 1000
-  | def            = 400
-  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "[[Spell Archer]]". Then, if you have a [[Spellcaster]] [[Type]] [[Normal Monster]] in your Graveyard, you can change the [[battle position]] of 1 [[monster]] on your opponent's [[field]].
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = ディスペル・アーチャー
+  | romaji_name           = Disuperu Āchā
+  | image                 = DispellArcher-RDKP21-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Effect
+  | level                 = 3
+  | atk                   = 1000
+  | def                   = 400
+  | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text                  = This [[turn]], this card's name becomes "[[Spell Archer]]". Then, if you have a [[Spellcaster]] [[Type]] [[Normal Monster]] in your Graveyard, you can [[Battle position change|change]] the [[battle position]] of 1 [[Monster Card|monster]] on your opponent's [[field]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP21-JP003; Accel Road of the Attack; Common
+  | mentions              = Spell Archer
+  | supports              = 
+  * Spellcaster
+  * Normal Monster
   | related_to_archseries = Sevens Road
-  | database_id    = 
+  | action                = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change           = Changes own name while on the field
+  | database_id           = 
   }}

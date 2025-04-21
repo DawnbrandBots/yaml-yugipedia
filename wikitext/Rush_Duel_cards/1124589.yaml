@@ -10,10 +10,10 @@ wikitext: |-
   | def             = 2500
   | effect_types    = Continuous
   | fusion_material = Dark Magician (Rush Duel)
-  | materials       = "[[Dark Magician (Rush Duel)|Dark Magician]]" + 1 [[Dragon]] [[Type]] [[monster]]
+  | materials       = "[[Dark Magician (Rush Duel)|Dark Magician]]" + 1 [[Dragon]] [[Type]] [[Monster Card|monster]]
   | condition       = This card's name becomes "Dark Magician" while in the [[Graveyard]].
   | requirement     = None
-  | text            = This card's name becomes "Dark Magician". [[Spell]]/[[Trap Card]]s on your [[field]] cannot be [[destroy]]ed by your opponent's card effects.
+  | text            = This card's name becomes "Dark Magician". [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_condition    = 
   | ja_materials    = 
   | ja_requirement  = 
@@ -21,6 +21,15 @@ wikitext: |-
   | jp_sets         = 
   RD/KP21-JP000; Accel Road of the Attack; Super Rare, Over Rush Rare
   | mentions        = Dark Magician (Rush Duel)
+  | supports        = Dragon
   | archseries      = Dark Magician (Rush Duel series)
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
   | database_id     = 
   }}

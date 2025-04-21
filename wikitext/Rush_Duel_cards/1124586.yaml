@@ -15,11 +15,17 @@ wikitext: |-
   | atk            = 2000
   | def            = 2500
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[pay]] 500 [[LP]].
-  | text           = [[Special Summon]] 1 [[monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Sworn Supporter of the Celestial Saint".
+  | text           = Special Summon 1 [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Sworn Supporter of the Celestial Saint".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JPS00; Accel Road of the Attack; Super Rare, Over Rush Rare (Premium Black Version)
-  | database_id    = 
   | mentions       = Sworn Supporter of the Celestial Saint
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  | summoning      = Special Summons from your Graveyard
+  | life_points    = Pays Life Points for cost
+  | misc           = Only once per turn
+  | database_id    = 
   }}
