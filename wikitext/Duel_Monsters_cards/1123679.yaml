@@ -21,7 +21,7 @@ wikitext: |-
   | atk                 = 1600
   | def                 = 0
   | password            = 
-  | materials           = 
+  | materials           = 1 "Primite" monster + 1 or more Normal Monsters
   | effect_types        = Continuous, Continuous, Trigger
   | text                = 1 "[[Primite]]" [[monster]] + 1+ [[Normal Monster]]s<br />Gains 1000 [[ATK]] for each Normal Monster used for its [[Fusion Summon]]. [[Negate]] the [[activate]]d effects of monsters your opponent [[control]]s, whose [[Level]]/[[Rank]]/[[Link Rating]] is less than or equal to the number of Normal Monsters in your [[field]] and [[GY]]. If this card is sent from the field to the GY: You can [[Special Summon]] 1 Normal Monster from your [[Main Deck|Deck]] in [[Defense Position]].
   | fr_text             = 
@@ -34,6 +34,16 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP035; Duelist's Advance; 
+  | supports            = Normal Monster
   | archseries          = Primite
+  | supports_archetypes = Primite
+  | action              = Activates if sent to the Graveyard
+  | stat_change         = This card gains ATK
+  | m/s/t               = Negates the effects of your opponent's Effect Monsters
+  | summoning           = 
+  * 2+ Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Normal Monsters as Fusion Materials
+  * Special Summons from your Deck
   | database_id         = 
   }}

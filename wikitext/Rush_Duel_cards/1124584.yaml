@@ -3,26 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ロードアポストル・スリンガー
-  | romaji_name     = Rōdo Aposutoru Suringā
-  | image           = RoadApostleSlinger-RDKP21-JP-OP.png
-  | attribute       = DARK
-  | types           = Spellcaster / Fusion / Effect
-  | level           = 9
-  | atk             = 2400
-  | def             = 2100
-  | fusion_material = Spell Archer
-  | materials       = "[[Spell Archer]]" + 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]]
-  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = [[Fusion Summon]] "[[Master of the Sevens Road]]" by shuffling monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as [[material]]. This [[turn]], you can only [[attack]] with Spellcaster Type monsters.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = ロードアポストル・スリンガー
+  | romaji_name           = Rōdo Aposutoru Suringā
+  | image                 = RoadApostleSlinger-RDKP21-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Fusion / Effect
+  | level                 = 9
+  | atk                   = 2400
+  | def                   = 2100
+  | fusion_material       = Spell Archer
+  | materials             = "[[Spell Archer]]" + 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]
+  | requirement           = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text                  = Fusion Summon "[[Master of the Sevens Road]]" by [[Shuffle|shuffling]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as [[material]]. This [[turn]], you can only [[attack]] with Spellcaster Type monsters.
+  | ja_materials          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP21-JP032; Accel Road of the Attack; Common
-  | mentions        = 
+  | mentions              = 
   * Spell Archer
   * Master of the Sevens Road
+  | supports              = 
+  * DARK
+  * Spellcaster
   | related_to_archseries = Sevens Road
-  | database_id     = 
+  | action                = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Fusion Summons specific Fusion Monster
+  | attack                = Prevents your monsters from attacking
+  | database_id           = 
   }}

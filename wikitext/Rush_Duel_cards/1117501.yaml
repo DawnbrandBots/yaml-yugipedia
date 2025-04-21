@@ -3,23 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|殲|せん}}{{Ruby|滅|めつ}}のダーク・ソーサラー
-  | romaji_name    = Senmetsu no Dāku Sōsarā
-  | image          = DarkSorcererofDestruction-RDKP21-JP-OP.png
-  | attribute      = DARK
-  | types          = Spellcaster / Effect
-  | level          = 4
-  | atk            = 1200
-  | def            = 0
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This turn, this card's name becomes "[[Dark Sorcerer]]". Then, you can [[Add a card|add]] 1 "[[Magical Sevens Fusion]]" from your Graveyard to your [[hand]].
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|殲|せん}}{{Ruby|滅|めつ}}のダーク・ソーサラー
+  | romaji_name           = Senmetsu no Dāku Sōsarā
+  | image                 = DarkSorcererofDestruction-RDKP21-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Effect
+  | level                 = 4
+  | atk                   = 1200
+  | def                   = 0
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text                  = This turn, this card's name becomes "[[Dark Sorcerer]]". Then, you can [[Add a card|add]] 1 "[[Magical Sevens Fusion]]" from your Graveyard to your [[hand]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP21-JP004; Accel Road of the Attack; Rare
-  | mentions       = 
+  | mentions              = 
   * Dark Sorcerer
   * Magical Sevens Fusion
   | related_to_archseries = Sevens Road
-  | database_id    = 
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change           = Changes own name while on the field
+  | database_id           = 
   }}

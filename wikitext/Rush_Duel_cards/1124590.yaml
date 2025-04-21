@@ -6,7 +6,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = During a [[turn]] you have not [[activate]]d "The Eye of Timaeus".
-  | text           = [[Declare]] either "[[Dark Magician (Rush Duel)|Dark Magician]]" or "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]", and [[Fusion Summon]] a monster that lists that name as [[material]] by [[send]]ing only 1 [[face-up]] monster with the declared name from your [[field]] to the [[Graveyard]] as material.
+  | text           = [[Declare]] either "[[Dark Magician (Rush Duel)|Dark Magician]]" or "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]", and [[Fusion Summon]] a [[Monster Card|monster]] that lists that name as [[material]] by [[send]]ing only 1 [[face-up]] monster with the declared name from your [[field]] to the [[Graveyard]] as material.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -16,6 +16,18 @@ wikitext: |-
   * Dark Magician (Rush Duel)
   * Dark Magician Girl (Rush Duel)
   | archseries     = Dark Magician (Rush Duel series)
-  | misc           = Legend Card
+  | action         = 
+  * Declares a card name
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Must include particular Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Reduces required number of Fusion Materials
+  | misc           = 
+  * Only once per turn
+  * Requires control of specific card
+  * Legend Card
   | database_id    = 
   }}

@@ -11,12 +11,21 @@ wikitext: |-
   | level          = 6
   | atk            = 1800
   | def            = 1700
-  | requirement    = [[Reveal]] 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Fusion Monster]] with 2100 [[DEF]] in your [[Extra Deck]], and [[declare]] 1 card name listed as [[material]] on that [[monster]].
-  | text           = This [[turn]], this card's name becomes the name declared to meet the requirement. This turn, you can only [[attack]] with Spellcaster Type monsters.
+  | requirement    = [[Reveal]] 1 [[DARK]] [[Attribute]] [[Spellcaster]] [[Type]] [[Fusion Monster]] with 2100 [[DEF]] in your [[Extra Deck]], and [[declare]] 1 card name listed as [[material]] on that [[Monster Card|monster]].
+  | text           = This [[turn]], this card's name becomes the name declared to meet the [[Activation condition|requirement]]. This turn, you can only [[attack]] with Spellcaster Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP005; Accel Road of the Attack; Rare
+  | supports       = 
+  * DARK
+  * Spellcaster
+  * Fusion Monster
   | archseries     = Accel Wonder
+  | action         = 
+  * Reveals your Extra Deck for cost
+  * Declares a card name
+  | stat_change    = Changes own name while on the field
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
