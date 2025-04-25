@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = NumberF0UtopicFutureZexal-DUAD-JP-OP.png
+  | image               = NumberF0UtopicFutureZexal-DUAD-JP-UR.png
   | attribute           = LIGHT
   | types               = Warrior / Xyz / Effect
   | rank                = 0
   | atk                 = 0
   | def                 = 0
-  | password            = 
+  | password            = 41522092
   | materials           = 2 Xyz Monsters with the same Rank
   | effect_types        = Condition, Continuous, Continuous, Quick
   | text                = 2 [[Xyz Monster]]s with the same [[Rank]]<br />(This card's original Rank is always treated as 1.)<br />Gains [[ATK]]/[[DEF]] equal to the total Ranks of all [[Xyz Monster]]s you [[control]] and in your opponent's GY x 500. Your opponent's [[monsters]] cannot [[target]] monsters for [[attack]]s, except this one, also your opponent cannot target other cards on the [[field]] with card effects. [[Once per turn]], when your opponent [[activate]]s a card or effect on the field ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; take control of 1 monster your opponent controls, also this card cannot be [[destroyed by battle]] or card effects this [[turn]].
@@ -28,12 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = 同じランクのＸモンスター×２<br />ルール上、このカードのランクは１として扱う。①：このカードの攻撃力・守備力は、自分フィールド及び相手の墓地のＸモンスターのランクの合計×５００アップする。②：相手モンスターは他のモンスターを攻撃対象に選択できず、相手はフィールドの他のカードを効果の対象にできない。③：１ターンに１度、相手がフィールドで効果を発動した時、このカードのＸ素材を１つ取り除いて発動できる。相手フィールドのモンスター１体のコントロールを得る。このターン、このカードは戦闘・効果では破壊されない。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  DUAD-JP042; Duelist's Advance; Ultra Rare
-  DUAD-JP042; Duelist's Advance; Prismatic Secret Rare
+  DUAD-JP042; Duelist's Advance; Ultra Rare, Prismatic Secret Rare
   | supports            = Xyz Monster
   | anti-supports       = Xyz Monster
   | archseries          = 
@@ -58,5 +57,5 @@ wikitext: |-
   * Prevents other cards being targeted for attacks
   * Cannot be destroyed by battle
   | misc                = Limited activations
-  | database_id         = 
+  | database_id         = 21453
   }}

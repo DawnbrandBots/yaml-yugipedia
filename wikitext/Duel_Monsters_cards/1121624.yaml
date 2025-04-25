@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = ArtmegiaMasterworkSuccession-DUAD-JP-OP.png
+  | image               = ArtmegiaMasterworkSuccession-DUAD-JP-C.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 37517035
   | effect_types        = Effect, Ignition-like, Condition
   | text                = During the [[Main Phase]]: [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[hand]] or [[field]], including an "[[Artmegia]]" monster, then, if a card is in the [[Field Zone]], the Summoned monster gains 500 [[ATK]]. During your Main Phase: You can [[banish]] this card from your [[GY]], then [[target]] 3 "Artmegia" cards in your GY with different names; [[shuffle]] them into the [[Main Deck|Deck]]. You can only use each [[effect]] of "Artmegia Masterwork - Succession" once per turn.
   | fr_text             = 
@@ -26,15 +26,15 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。「アルトメギア」モンスターを含む自分の手札・フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚する。フィールドゾーンにカードが存在する場合、さらにこの効果で特殊召喚したモンスターの攻撃力は５００アップする。②：自分メインフェイズに墓地のこのカードを除外し、自分の墓地の「アルトメギア」カード３枚を対象として発動できる（同名カードは１枚まで）。そのカードをデッキに戻す。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  DUAD-JP056; Duelist's Advance; 
+  DUAD-JP056; Duelist's Advance; Common
   | supports            = Fusion Monster
   | archseries          = Artmegia
   | supports_archetypes = Artmegia
-  | action                = 
+  | action              = 
   * Sends from your hand to your Graveyard
   * Sends from your field to your Graveyard
   * Uses cards in the hand as Fusion Materials
@@ -42,11 +42,11 @@ wikitext: |-
   * Must include particular Fusion Materials
   * Activates from your Graveyard
   * Returns from your Graveyard to your Deck
-  | stat_change           = Your monsters gain ATK
-  | summoning             = 
+  | stat_change         = Your monsters gain ATK
+  | summoning           = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 21467
   }}

@@ -15,10 +15,10 @@ wikitext: |-
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 
-  | image                = RegenesisCommandments-DUAD-JP-OP.png
+  | image                = RegenesisCommandments-DUAD-JP-C.png
   | card_type            = Trap
   | property             = Normal
-  | password             = 
+  | password             = 95382988
   | effect_types         = Effect, Condition
   | text                 = Apply these [[effect]]s to all cards your opponent [[control]]s in the same column as your "[[Regenesis]]" [[monsters]].<br />● [[Face-up]] cards: [[Negate]] their [[effect]]s.<br />● [[Face-down]] monsters: Cannot change their [[battle position]]s.<br />● Face-down [[Spells]]/[[Traps]]: Cannot be [[activate]]d until the end of the next [[turn]].<br />You can only activate 1 "Regenesis Commandments" per turn.
   | fr_text              = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_text              = 
   | pt_text              = 
   | es_text              = 
-  | ja_text              = 
+  | ja_text              = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「リジェネシス」モンスターと同じ縦列の、相手フィールドの全てのカードに以下の効果を適用する。<br />●表側表示カード：効果が無効化される。<br />●裏側表示モンスター：表示形式を変更できない。<br />●裏側表示の魔法・罠カード：次のターンの終了時まで発動できない。
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  DUAD-JP077; Duelist's Advance; 
+  DUAD-JP077; Duelist's Advance; Common, Secret Rare
   | archseries           = Regenesis
   | supports_archetypes  = Regenesis
   | action               = Prevents battle position changes
@@ -44,5 +44,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Column
   * Only once per turn
-  | database_id          = 
+  | database_id          = 21488
   }}

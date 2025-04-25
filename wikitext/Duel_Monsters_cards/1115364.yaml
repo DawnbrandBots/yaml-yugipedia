@@ -20,7 +20,7 @@ wikitext: |-
   | level                 = 1
   | atk                   = 800
   | def                   = 1000
-  | password              = 
+  | password              = 67584223
   | effect_types          = Ignition, Ignition, Trigger, Condition
   | text                  = You can [[reveal]] 1 "[[Monarch (Spell/Trap archetype)|Monarch]]" [[Spell]]/[[Trap]] in your [[hand]]; [[Special Summon]] this card from your hand. During your [[Main Phase]], you can: Immediately after this [[effect]] [[resolve]]s, [[Tribute Summon]] 1 [[monster]]. If this card is [[sent]] to the GY: You can Special Summon 1 monster with 800 [[ATK]]/1000 [[DEF]] from your [[Main Deck|Deck]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]]. You can only use each [[effect]] of "Tessera the Prime Squire" [[once per turn]].
   | fr_text               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：手札の「帝王」魔法・罠カード１枚を相手に見せて発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。モンスター１体のＡ召喚を行う。③：このカードが墓地へ送られた場合に発動できる。デッキから攻撃力８００／守備力１０００のモンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分はＥＸデッキからモンスターを特殊召喚できない。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  DUAD-JP018; Duelist's Advance; 
+  DUAD-JP018; Duelist's Advance; Common
   | supports_archetypes   = Monarch (Spell/Trap archetype)
   | related_to_archseries = 
   * Monarch 
@@ -47,5 +47,5 @@ wikitext: |-
   * Special Summons from your Deck
   * Prevents the player's Special Summons from the Extra Deck
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 21429
   }}
