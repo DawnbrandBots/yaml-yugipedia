@@ -12,9 +12,9 @@ wikitext: |-
   | atk            = 1200
   | def            = 1500
   | requirement    = [[Reveal]] 1 [[Warrior]] or [[Spellcaster]] [[Type]] [[Ritual Monster]] with 2500 or more [[DEF]] in your [[Extra Deck]].
-  | text           = [[Set]] 1 [[Ritual Spell Card]] that mentions the [[Monster Card|monster]] revealed by this effect's [[Activation condition|requirement]] from your [[Graveyard]] to your [[Spell & Trap Zone]].
-  | ja_requirement = 
-  | ja_text        = 
+  | text           = [[Set]] 1 [[Ritual Spell Card]] that mentions the [[Monster Card|monster]] revealed to meet the [[Activation condition|requirement]] from your [[Graveyard]] to your [[Spell & Trap Zone]].
+  | ja_requirement = ＥＸデッキのリチュアルモンスター（戦士族・魔法使い族／守備力２５００以上）１体を相手に見せて発動できる。
+  | ja_text        = この効果の条件で見せたモンスターのカード名が記された自分の墓地のリチュアル魔法カード１枚を選んで自分の魔法＆罠ゾーンにセットする。
   | jp_sets        = 
   RD/SD0E-JP008; Structure Deck: Black Magic Ritual; Common
   RD/SD0E-JPS06; Structure Deck: Black Magic Ritual; Super Rare
@@ -27,5 +27,5 @@ wikitext: |-
   | action         = 
   * Reveals your Extra Deck for cost
   * Sets from your Graveyard
-  | database_id    = 
+  | database_id    = 21593
   }}
