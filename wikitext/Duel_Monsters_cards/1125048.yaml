@@ -14,7 +14,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ShipmentError-Sample.png
+  | image               = ShipmentError-DUAD-JP-C.png
   | card_type           = Trap
   | property            = Normal
   | password            = 
@@ -30,5 +30,11 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP079; Duelist's Advance; Common
+  | action              = 
+  * Overwrites card effects
+  * Adds from your Deck to your opponent's hand
+  * Reveals your opponent's hand
+  * Returns from your opponent's hand to your opponent's Deck
+  * Your opponent draws cards
   | database_id         = 21490
   }}

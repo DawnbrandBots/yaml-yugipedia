@@ -13,7 +13,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = SpiritHunter-Sample.png
+  | image               = SpiritHunter-DUAD-JP-C.png
   | card_type           = Trap
   | property            = Continuous
   | password            = 
@@ -29,5 +29,18 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP080; Duelist's Advance; Normal Rare
+  | action              = 
+  * Places cards from Deck in Spell & Trap Zone
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard for cost
+  | m/s/t               = Treats monsters as Continuous Spell Cards
+  | summoning           = 
+  * Special Summons from your Spell & Trap Zone to your opponent's field
+  * Special Summons from your Deck
+  | life_points         = Your opponent pays Life Points for effect
+  | misc                = 
+  * Limited activations
+  * During the Standby Phase
+  * Variable effects
   | database_id         = 21491
   }}

@@ -13,7 +13,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = WAKECUPMocha-Sample.png
+  | image               = WAKECUPMocha-DUAD-JP-C.png
   | attribute           = WIND
   | types               = Aqua / Flip / Effect
   | level               = 3
@@ -32,5 +32,17 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP028; Duelist's Advance; Common, Prismatic Secret Rare
+  | action              = 
+  * Activates upon being flipped face-up
+  * Sends from field to Graveyard
+  * Activates from your hand
+  * Flips monsters face-up
+  * Changes battle positions
+  * Flips itself face-down
+  * Changes own battle position
+  | stat_change         = All monsters gain ATK
+  | misc                = 
+  * Only once per turn
+  * Limited activations
   | database_id         = 21439
   }}

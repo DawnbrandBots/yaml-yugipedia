@@ -13,7 +13,7 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = SuddenThunderousSwamp-Sample.png
+  | image               = SuddenThunderousSwamp-DUAD-JP-C.png
   | card_type           = Spell
   | property            = Continuous
   | password            = 
@@ -29,5 +29,17 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DUAD-JP072; Duelist's Advance; Common
+  | supports            = Continuous Trap Card
+  | related_to_archseries = Trap Monster
+  | action              = 
+  * You discard as an effect
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates if other cards are sent to the Graveyard
+  * Activates if other cards are banished
+  * Adds from Deck to hand
+  | misc                = Only once per turn
   | database_id         = 21483
   }}
