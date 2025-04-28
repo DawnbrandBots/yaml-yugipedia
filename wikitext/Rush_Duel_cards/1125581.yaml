@@ -11,12 +11,18 @@ wikitext: |-
   | level          = 4
   | atk            = 1300
   | def            = 800
-  | requirement    = [[Send]] 1 other [[monster]] from your [[field]] to the [[Graveyard]].
-  | text           = [[Destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field. This [[turn]], you can only [[attack]] with [[Thunder]] [[Type]] monsters.
+  | requirement    = [[Send]] 1 other [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
+  | text           = [[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field. This [[turn]], you can only [[attack]] with [[Thunder]] [[Type]] monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP022; Accel Road of the Attack; Super Rare
+  | supports       = Thunder
   | archseries     = Plasmatic Model
+  | action         = Sends from field to Graveyard for cost
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

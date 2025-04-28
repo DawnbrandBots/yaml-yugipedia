@@ -8,8 +8,11 @@ wikitext: |-
   | image          = PlasmaticModelPlay-RDKP21-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
+  | ritualmonster  = 
+  * Plasmatic Model Rising Lystella
+  * Plasmatic Model Rising Blau
   | requirement    = None
-  | text           = [[Ritual Summon]] "[[Plasmatic Model Rising Lystella]]" or "[[Plasmatic Model Rising Blau]]" by [[send]]ing [[face-up]] [[Thunder]] [[Type]] [[monsters]] from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], you can only [[attack]] with Thunder Type monsters.
+  | text           = [[Ritual Summon]] "[[Plasmatic Model Rising Lystella]]" or "[[Plasmatic Model Rising Blau]]" by [[send]]ing [[face-up]] [[Thunder]] [[Type]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], you can only [[attack]] with Thunder Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +20,16 @@ wikitext: |-
   | mentions       = 
   * Plasmatic Model Rising Lystella
   * Plasmatic Model Rising Blau
+  | supports       = Thunder
   | archseries     = Plasmatic Model
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  | summoning      = Special Summons from your Extra Deck
+  | attack         = Prevents your monsters from attacking
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id    = 
   }}

@@ -8,12 +8,25 @@ wikitext: |-
   | image          = PlasmaticModelMaintenance-RDKP21-JP-OP.png
   | card_type      = Spell
   | property       = Equip
-  | requirement    = [[Equip]] to 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Thunder]] [[Type]] [[monster]] on your [[field]].
-  | text           = The equipped monster gains 500 [[ATK]], and its [[Level]] increases by 4. If the equipped monster is a [[Ritual Monster]], it inflicts [[piercing]] [[battle damage]].
+  | requirement    = [[Equip]] to 1 [[face-up]] [[LIGHT]] [[Attribute]] [[Thunder]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | text           = The equipped monster gains 500 [[ATK]], and its [[Level]] increases by 4. If the equipped monster is a [[Ritual Monster]], it [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP056; Accel Road of the Attack; Common
+  | supports       = 
+  * LIGHT
+  * Thunder
+  * Ritual Monster
   | archseries     = Plasmatic Model
+  | stat_change    = 
+  * Equipped gains ATK
+  * Equipped gains Levels
+  | attack         = Piercing
+  | misc           = 
+  * Equips only to a specific target
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id    = 
   }}

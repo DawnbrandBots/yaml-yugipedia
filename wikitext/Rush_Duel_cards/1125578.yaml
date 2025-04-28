@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 800
   | def            = 800
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 "[[Plasmatic Model Turtglue]]" or 1 "[[Plasmatic Model Maintenance]]" from your [[Graveyard]] to your [[hand]]. This turn, you can only [[attack]] with Thunder Type monsters.
+  | text           = [[Add a card|Add]] 1 "[[Plasmatic Model Turtglue]]" or 1 "[[Plasmatic Model Maintenance]]" from your [[Graveyard]] to your [[hand]]. This turn, you can only [[attack]] with [[Thunder]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,11 @@ wikitext: |-
   | mentions       = 
   * Plasmatic Model Turtglue
   * Plasmatic Model Maintenance
+  | supports       = Thunder
   | archseries     = Plasmatic Model
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

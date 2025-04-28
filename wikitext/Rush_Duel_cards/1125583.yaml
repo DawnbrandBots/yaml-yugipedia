@@ -11,12 +11,20 @@ wikitext: |-
   | level          = 8
   | atk            = 2400
   | def            = 1600
-  | requirement    = During your [[Main Phase]] that you [[Special Summon]]ed this card, [[shuffle]] 2 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | ritualcard     = Plasmatic Model Play
+  | requirement    = During your [[Main Phase]] that you [[Special Summon]]ed this card, [[shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | text           = [[Destroy]] 1 [[face-down]] card on your opponent's [[field]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP047; Accel Road of the Attack; Rare
   | archseries     = Plasmatic Model
+  | action         = 
+  * Activates during the turn in which it was Special Summoned
+  * Returns from Graveyard to Deck for cost
+  | m/s/t          = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
   | database_id    = 
   }}

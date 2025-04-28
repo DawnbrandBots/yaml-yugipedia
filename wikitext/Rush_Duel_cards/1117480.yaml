@@ -12,11 +12,16 @@ wikitext: |-
   | atk            = 1300
   | def            = 800
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you have not drawn a card during this [[Main Phase]], you can draw 1 card.
+  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you have not [[Draw a card|drawn]] a card during this [[Main Phase]], you can draw 1 card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP021; Accel Road of the Attack; Ultra Rare, Over Rush Rare
   | archseries     = Plasmatic Model
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | stat_change    = This card gains Levels
   | database_id    = 
   }}
