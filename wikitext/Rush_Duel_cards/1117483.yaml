@@ -3,20 +3,21 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|Ｐ|プラズマティック}}・{{Ruby|Ｍ|モデル}} {{Ruby|Ｒ|ライジング}}－レノアール
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} {{Ruby|Ｒ|ライジング}}－レノアール
   | romaji_name    = Purazumatikku Moderu Raijingu - Renoāru
-  | image          = PlasmaticModelRisingLenoir-OW.png
-  | attribute      = ???
-  | types          = Thunder / Ritual
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = ''TBA''
-  | text           = ''TBA''
+  | image          = PlasmaticModelRisingLenoir-RDKP21-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Ritual / Effect
+  | level          = 8
+  | atk            = 2400
+  | def            = 1600
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = During your [[turn]], this card gains [[ATK]] equal to [its [[Level]]] x 200.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP21-JP0??; Accel Road of the Attack
+  RD/KP21-JP046; Accel Road of the Attack; Ultra Rare, Over Rush Rare
   | archseries     = Plasmatic Model
   | database_id    = 
   }}

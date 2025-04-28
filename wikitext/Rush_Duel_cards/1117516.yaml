@@ -3,21 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
-  | ja_name        = {{Ruby|Ｐ|プラズマティック}}・{{Ruby|Ｍ|モデル}} ソニックホース
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} ソニックホース
   | romaji_name    = Purazumatikku Moderu Sonikkuhōsu
-  | image          = PlasmaticModelSonicHorse-OW.png
-  | attribute      = ???
-  | types          = Thunder / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = PlasmaticModelSonicHorse-RDKP21-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 800
+  | requirement    = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
+  | text           = [[Add a card|Add]] 1 "[[Plasmatic Model Lenoir]]" and/or "[[Plasmatic Model Docking]]" from your Graveyard to your [[hand]]. This [[turn]], you can only [[attack]] with Thunder Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP21-JP0??; Accel Road of the Attack
+  RD/KP21-JP018; Accel Road of the Attack; Common
+  | mentions       = 
+  * Plasmatic Model Lenoir
+  * Plasmatic Model Docking
   | archseries     = Plasmatic Model
   | database_id    = 
   }}

@@ -3,21 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
-  | ja_name        = {{Ruby|Ｐ|プラズマティック}}・{{Ruby|Ｍ|モデル}} レノアール
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} レノアール
   | romaji_name    = Purazumatikku Moderu Renoāru
-  | image          = PlasmaticModelLenoir-OW.png
-  | attribute      = ???
-  | types          = Thunder / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = PlasmaticModelLenoir-RDKP21-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 800
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you have not drawn a card during this [[Main Phase]], you can draw 1 card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP21-JP0??; Accel Road of the Attack
+  RD/KP21-JP021; Accel Road of the Attack; Ultra Rare, Over Rush Rare
   | archseries     = Plasmatic Model
   | database_id    = 
   }}
