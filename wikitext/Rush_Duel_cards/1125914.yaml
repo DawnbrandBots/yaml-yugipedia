@@ -11,11 +11,19 @@ wikitext: |-
   | level          = 4
   | atk            = 1000
   | def            = 1000
-  | requirement    = [[Shuffle]] 2 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = Change 1 [[Attack Position]] [[Effect Monster]] on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, if you have 3 [[face-up]] [[Plant]] [[Type]] monsters on your field, those monsters inflict [[piercing]] [[battle damage]] this [[turn]].
+  | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = [[Battle position change|Change]] 1 [[Attack Position]] [[Effect Monster]] on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, if you have 3 [[face-up]] [[Plant]] [[Type]] monsters on your field, those monsters [[Damage|inflict]] [[piercing]] [[battle damage]] this [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP031; Accel Road of the Attack; Ultra Rare, Over Rush Rare
+  | supports       = Plant
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | attack         = Piercing
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}
