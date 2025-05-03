@@ -19,10 +19,10 @@ wikitext: |-
   | effect_types = Continuous, Trigger, Condition
   | text         = This card cannot be [[destroyed by battle]]. During each of your opponent's [[Standby Phase]]s: You take 1000 [[Effect damage|damage]]. You must [[control]] this card in [[face-up]] [[Defense Position]] to [[activate]] and to [[resolve]] this [[effect]].
   | fr_text      = Cette carte ne peut pas être détruite au combat. Durant chaque Standby Phase de votre adversaire : vous recevez 1000 points de dommage. Vous devez contrôler cette carte en Position de Défense face recto pour activer et résoudre cet effet.
-  | de_text      = Diese Karte kann nicht durch Kampf zerstört werden. Falls diese Karte in offener Verteidigungsposition liegt, erhältst du während jeder Standby Phase deines Gegners 1000 Schaden.
+  | de_text      = Diese Karte kann nicht durch Kampf zerstört werden. Während jeder Standby Phase deines Gegners: Du erhältst 1000 Schaden. Du musst diese Karte in offener Verteidigungsposition kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.
   | it_text      = Questa carta non può essere distrutta in battaglia. Durante ogni Standby Phase del tuo avversario: tu subisci 1000 danni. Devi controllare questa carta scoperta in Posizione di Difesa per attivare e risolvere questo effetto.
   | pt_text      = 
-  | es_text      = Esta carta no puede ser [[Destroyed by battle|destruida en batalla]]. Durante cada una de las [[Standby Phase]] de tu adversario: tu recibes 1000 [[Effect damage|puntos de daño]]. Debes controlar esta carta en [[Defense Position|Posición de Defensa]] [[Face-up|boca arriba]] para activar y para resolver este efecto.
+  | es_text      = Esta carta no puede ser destruida en batalla. Durante cada una de las Standby Phases de tu adversario: tu recibes 1000 puntos de daño. Debes controlar esta carta en Posición de Defensa boca arriba para activar y para resolver este efecto.
   | ja_text      = ①：このカードは戦闘では破壊されない。②：相手スタンバイフェイズに発動する。自分は１０００ダメージを受ける。この効果はこのカードがモンスターゾーンに表側守備表示で存在する場合に発動と処理を行う。
   | ko_text      = 이 카드는 전투로는 파괴되지 않는다. 이 카드가 필드 위에 앞면 수비 표시로 존재할 경우, 상대의 스텐바이 페이즈마다 자신은 1000 포인트 데미지를 받는다.
   | en_sets      = 
@@ -57,6 +57,6 @@ wikitext: |-
   * X-Saber
   | attack       = Cannot be destroyed by battle
   | life_points  = Damages you
-  | misc         = Standby Phase Activation
+  | misc         = During the Standby Phase
   | database_id  = 7824
   }}
