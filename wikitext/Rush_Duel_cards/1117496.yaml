@@ -17,7 +17,7 @@ wikitext: |-
   * Red-Boot Boost Dragon
   | materials       = "[[Blue-Fang Burst Dragon]]" + "[[Red-Boot Boost Dragon]]"
   | requirement     = None
-  | text            = During your [[turn]], this card gains [[ATK]] equal to [the [[original ATK]] of the [[face-up]] [[monster]] with the highest original ATK on your opponent's [[field]]].
+  | text            = During your [[turn]], this card gains [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of the [[face-up]] [[Monster Card|monster]] with the highest original ATK on your opponent's [[field]]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -27,6 +27,7 @@ wikitext: |-
   * Blue-Fang Burst Dragon
   * Red-Boot Boost Dragon
   | archseries      = High Tech Dragon
+  | stat_change     = This card gains ATK
   | summoning       = 
   * 2 Fusion Materials
   * Requires only specific Effect Monsters as Fusion Materials
