@@ -21,7 +21,7 @@ wikitext: |-
   | text            = When your opponent's [[monster]] [[attack]]s this card in [[face-down]] [[Defense Position]], this card becomes an [[Equip Spell Card]] [[equip]]ped to the attacking monster (No [[damage calculation]] is conducted). During each of your opponent's [[Standby Phase]]s, increase your [[Life Points]] by half of the [[ATK]] of the monster equipped with this card.
   | fr_text         = Lorsqu'un monstre de votre adversaire attaque cette carte en Position de Défense face verso, équipez-le avec celle-ci (les dommages ne sont pas appliqués). Traitez cette carte comme une Carte Magie d'Équipement. Durant chacune des Standby Phases de votre adversaire, augmentez vos Life Points de la moitié de l'ATK du monstre ainsi équipé.
   | de_text         = Wenn ein Monster deines Gegners diese Karte in verdeckter Verteidigungsposition angreift, wird diese Karte zu einer Ausrüstungszauberkarte und das angreifende Monster mit dieser Karte ausgerüstet. (Berechnungen des Kampfschadens werden abgebrochen.) Behandle diese Karte als Ausrüstungszauberkarte. Erhöhe in jeder Standby Phase deines Gegners deine Life Points um die Hälfte der ATK des Monsters, das mit dieser Karte ausgerüstet ist.
-  | it_text         = Quando un Mostro del tuo avversario attacca questa carta coperta in Posizione di Difesa, il Mostro attaccante viene equipaggiato con essa (non viene effettuato il calcolo dei danni). Tratta questa carta come una Carta Magia Equipaggiamento. Durante ogni Standby Phase del tuo avversario, aumenta i tuoi Life Points di un ammontare di punti pari alla metà dell'ATK del Mostro equipaggiato con questa carta.
+  | it_text         = Quando un mostro del tuo avversario attacca questa carta coperta in Posizione di Difesa, il mostro attaccante viene equipaggiato con essa (non viene effettuato il calcolo dei danni). Tratta questa carta come una Carta Magia Equipaggiamento. Durante ogni Standby Phase del tuo avversario, aumenta i tuoi Life Points di un ammontare di punti pari alla metà dell'ATK del mostro equipaggiato con questa carta.
   | pt_text         = Quando um monstro do seu oponente atacar este card com a face para baixo em Posição Defesa, este card se torna um Card de Magia de Equipamento equipado ao monstro atacante (nenhum cálculo de dano é conduzido). Durante cada uma das Fases de Apoio do seu oponente, aumente seus PV pela metade do ATK do monstro equipado com este card.
   | es_text         = Cuando el monstruo de tu adversario ataca a esta carta boca abajo en Posición de Defensa, esta carta se convierte en una Carta Mágica de Equipo equipada al monstruo atacante (No se conduce el calculo de daño). Durante cada una de las Standby Phases de tu adversario, aumenta tus Life Points en la mitad del ATK del monstruo equipado con esta carta.
   | ja_text         = フィールド上に裏側守備表示で存在するこのカードが相手モンスターに攻撃された場合、そのダメージ計算前にこのカードは攻撃モンスターの装備カードになる。相手のスタンバイフェイズ毎に、このカードの装備モンスターの攻撃力の半分の数値分、自分のライフポイントを回復する。
@@ -65,6 +65,6 @@ wikitext: |-
   | action          = Equips self from field
   | m/s/t           = Treated as Equip Card
   | life_points     = You gain Life Points
-  | misc            = Standby Phase Activation
+  | misc            = During the Standby Phase
   | database_id     = 4976
   }}
