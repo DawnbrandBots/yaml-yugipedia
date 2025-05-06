@@ -16,8 +16,8 @@ wikitext: |-
   | effect_types  = Effect, Trigger-like
   | text          = When this card is [[activate]]d: If there are any [[Field Spell Card]]s on the [[field]], [[destroy]] them. During each player's [[Standby Phase]]: The [[turn player]] takes 500 [[Effect damage|damage]].
   | fr_text       = Lorsque cette carte est activée : s'il y a des Cartes Magie de Terrain sur le Terrain, détruisez-les. Durant la Standby Phase de chaque joueur : le joueur du tour reçoit 500 points de dommages.
-  | de_text       = Zerstöre alle Spielfeldzauberkarten auf dem Spielfeld. Diese Karte fügt jedem Spieler in jeder seiner Standby Phasen 500 Punkte Schaden zu.
-  | it_text       = Distrugge tutte le Carte Magia Terreno sul Terreno. Inoltre, infliggi 500 punti di danno ai Life Points di ogni giocatore durante la sua Standby Phase.
+  | de_text       = Wenn diese Karte aktiviert wird: Falls Spielfeldzauberkarten auf dem Spielfeld liegen, zerstöre sie. Während der Standby Phase jedes Spielers: Der Zugspieler erhält 500 Schaden.
+  | it_text       = Quando questa carta viene attivata: se ci sono Carte Magia Terreno sul Terreno, distruggile. Durante la Standby Phase di ogni giocatore: il giocatore di turno subisce 500 danni.
   | pt_text       = Quando este card for ativado: se houver Cards de Magia de Campo no campo, destrua-os. Durante a Fase de Apoio de cada duelista: o duelista do turno sofre 500 de dano.
   | es_text       = Cuando esta carta es activada: si existen Cartas Mágicas de Campo en el Campo, destrúyelas. Durante la Standby Phase: el jugador en turno recibe 500 de daño.
   | ja_text       = このカードの発動時に、フィールド上のフィールド魔法カードを全て破壊する。また、お互いのスタンバイフェイズ時、ターンプレイヤーは５００ポイントダメージを受ける。
@@ -72,6 +72,6 @@ wikitext: |-
   | life_points   = 
   * Damages you
   * Damages your opponent
-  | misc          = Standby Phase Activation
+  | misc          = During the Standby Phase
   | database_id   = 5126
   }}

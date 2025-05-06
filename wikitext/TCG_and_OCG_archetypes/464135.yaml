@@ -44,7 +44,7 @@ wikitext: |-
   ! scope="col" | Invoked Support
   ! scope="col" | Origin
   |-
-  | [[Aleister the Invoker]] / <br/>[[Aleister the Invoker of Madness]]
+  | [[Aleister the Invoker]]<br>[[Aleister the Invoker of Madness]]<br>[[Crowley, the Gifted of Magistus]]
   | [[wikipedia:Aleister Crowley|Aleister Crowley]]
   |-
   | [[Invocation]]
@@ -123,17 +123,17 @@ wikitext: |-
   |}
 
   == Playing style ==
-  The archetype's main goal is to perform Fusion Summons of the "Invoked" Fusion monsters, relying on a consistent loop of "[[Aleister the Invoker]]" and "[[Invocation]]" to guarantee a Fusion Summon of at least one "Invoked" Fusion Monster every turn. "Aleister" searches "Invocation" on Normal Summon, "Invocation" banishes "Aleister" when using it as a Fusion Material for summoning an "Invoked" monster, and "Invocation" in the GY can recover a banished "Aleister" to the hand and shuffle itself back into the Deck, setting up the same loop of Fusion Summoning an "Invoked" Fusion Monster for the next turn. Searching out "Aleister" therefore turns on the entire looping cycle of Fusion Summoning "Invoked" monsters, which can be done with the Field Spell "[[Magical Meltdown]]".
+  The archetype is centered around Summoning "Invoked" Fusion monsters each turn, with Decks often relying on the constant resource loop provided by "[[Aleister the Invoker]]" and "[[Invocation]]", which works as follows:
 
-  For most "Invoked" Fusion Monsters, their required Fusion Materials are "Aleister" plus one monster with their Attribute. "Invocation" allows banishing the opponent's monsters in the GY as Fusion Materials for the Fusion Summon of "Invoked" Fusion Monsters, allowing an effectively costless Fusion Summon (since "Invocation" recovers "Aleister" as a part of the loop), which can at times banish troublesome monsters from the opponent's Graveyard.
+  # "[[Aleister the Invoker]]", on Normal Summon, searches "[[Invocation]]".
+  # "Invocation's" field effect performs a Fusion Summon by banishing "Aleister" + another monster from hand, your field, or either GY.
+  # "Invocation's" GY effect adds "Aleister" back to hand and shuffles itself to Deck, enabling the combo to be repeated each turn.
 
-  If the opponent doesn't have any monsters in their GY, the required materials are still easy to fulfill given their generic Attribute requirements. Common [[hand trap]]s like "[[Effect Veiler]]", "[[Maxx "C"]]", and the [[Yo-kai Girl]]s can be banished for "Invocation" after being used and sent to the GY. A Normal Summoned "Aleister" can be used to make Link 1 monsters with different Attributes to be used as Fusion Materials, the most commonly used ones being "Aleister" → "[[Salamangreat Almiraj]]" (FIRE) → "[[Secure Gardna]]" (LIGHT) and "Aleister" → "[[Artemis, the Magistus Moon Maiden]]" (LIGHT).
+  The Fusions all have generic materials. For each Attribute, there is an "Invoked" monster that requires "Aleister" + any monster of that Attribute. The three others ("[[Invoked Augoeides|Augoeides]]", "[[Invoked Elysium|Elysium]]", and "[[Invoked Magistus Omega|Magistus Omega]]") each require "Aleister" + a non-specific [[Extra Deck]] monster as material, and are similarly easy to Summon. Their effects vary from disruption to aggression to floodgating.
 
-  Individual "Invoked" Fusion Monsters have varied but useful effects, ranging from monster floodgating for "[[Invoked Caliga|Caliga]]", a [[Quick Effect]] to flip monsters face down for "[[Invoked Raidjin|Raidjin]]", an omni-negate that banishes upon negation for "[[Invoked Mechaba|Mechaba]]", and a multiple attacker for "[[Invoked Purgatrio|Purgatrio]]". "Aleister" has a Quick Effect to discard itself to boost the stats of a Fusion monster by 1000, which can be useful to prevent the "Invoked" monsters from being destroyed by battle; this does however halt the "Invoked" loop, since "Aleister" is no longer available to be Normal Summoned.
+  Since "Invocation" can perform a Fusion Summon by banishing from your field or either GY, it is easy to get the correct Attributes needed for an "Invoked" Fusion - the opponent's monsters, [[hand trap]]s, or your [[Extra Deck]] monsters, especially LINK-1s, can all be used as material. Common LINK-1s include "Aleister" → "[[Salamangreat Almiraj]]" (FIRE) → "[[Secure Gardna]]" (LIGHT) and "Aleister" → "[[Artemis, the Magistus Moon Maiden]]" (LIGHT), as the most desired payoff, "[[Invoked Mechaba]]", requires a LIGHT monster.
 
-  The two 'special' "Invoked" monsters that require non-generic-Attribute monsters as materials, "[[Invoked Augoeides|Augoeides]]" and "[[Invoked Elysium|Elysium]]", require more setup to create. "Augoeides", which requires "Aleister" + 1 Fusion Monster, can be made in later turns when there are "Invoked" monsters in the GY, or with spare Fusion Monsters if the archetype is splashed into a Fusion deck. "Elysium", which requires 1 "Invoked" monster + 1 monster Special Summoned from the Extra Deck, can be most easily made with an "Invoked" monster in the GY plus a Link 1 monster on the field (an easy target would be "[[Gravity Controller]]", made with an "Invoked" monster in the [[Extra Monster Zone]]).
-
-  The compactness, reliability, and resource efficiency of the "Invoked" loop means that the archetype is quite often splashed into other Decks to provide extra "Invoked" monsters as boss monsters. Decks that have good synergy with the "Invoked" engine typically have little need for Normal Summoning (which can be saved for "Aleister"), have good Attributes that can be used to make good "Invoked" monsters, or support the Fusion Summoning playstyle. Examples of archetypes that commonly feature "Invoked" monsters within their decks include "[[Windwitch]]", "[[Shaddoll]]", "[[Dogmatika]]", and "[[Mekk-Knight]]".
+  In competitive play, "Invoked" was often splashed as an [[engine]] for Decks due to being compact, consistent, and great recursion for the time. It was mainly run in Decks that met the desired Attributes and/or did not need the Normal Summon, such as "[[Windwitch]]", "[[Shaddoll]]", "[[Dogmatika]]", and "[[Mekk-Knight]]".
 
   === Recommended cards ===
   {{Decklist|Recommended cards
@@ -200,14 +200,16 @@ wikitext: |-
   }}
 
   === Weaknesses ===
-  * Cards like "[[Non-Fusion Area]]", "[[Fossil Dyna Pachycephalo]]" and "[[Dimensional Barrier]]" can be used to prevent Fusion Summons or slow down the "Invoked" strategy.
-  * "[[Chain Disappearance]]" can be used to banish all copies of "Aleister" at the time it is Normal Summoned. Bear in mind, though, that if "Invocation" is sent to the Graveyard, by a card like "[[Twin Twisters]]", "[[Foolish Burial Goods]]", etc, those copies can be easily retrieved.
-  * "[[Mistake]]" or "[[Thunder King Rai-Oh]]" can shut down the key searching cards like "[[Terraforming]]", "Magical Meltdown" and, most importantly, "Aleister" itself.
-  * "[[Imperial Iron Wall]]" and "[[Artifact Lancea]]" can be used to interfere with "Invocation"; they prevent the "Invoked" player from banishing monsters from their opponent's Graveyard, nor can they banish "Aleister" or one of the their own monsters from the field/GY, potentially halting the resource loop of "Aleister" and "Invocation" altogether. If these effects were activated in response to "Invocation", the "Invoked" player will also likely to be forced to Fusion Summon a useless monster, if they can even Summon one at the moment of resolution. These cards can also prevent the powerful effect of "Invoked Mechaba" from being activated, since it will not be able to banish the card it would have negated.
-  * "[[Bystial]]" monsters, "[[Agido the Ancient Sentinel]]", "[[Mudora the Sword Oracle]]" and "[[D.D. Crow]]" can remove "Aleister" from the GY as Quick Effects, potentially preventing the "Invoked" player from Summoning an "Invoked" Fusion Monster with "Invocation". The latter three can also remove "Invocation" from the GY, potentially halting the resource loop of "Aleister" and "Invocation" altogether.
+  * Floodgates, including:
+  ** Anti-Fusion Summon or Special Summon floodgates, like "[[Non-Fusion Area]]", "[[Fossil Dyna Pachycephalo]]", or "[[Dimensional Barrier]]", shut down the archetype.
+  ** Anti-banish floodgates, like "[[Imperial Iron Wall]]" or "[[Artifact Lancea]]", shut down "Invocation".
+  ** Anti-search floodgates, like "[[Mistake]]" or "[[Thunder King Rai-Oh]]" stop the archetype unless "Invocation" is drawn.
+  ** "[[Gozen Match]]" and "[[Rivalry of Warlords]]", due to the Extra Deck monsters generally having different Types/Attributes than "Aleister".
+  * GY disruption, such as the "[[Bystial]]" monsters, "[[Mudora the Sword Oracle]]", and "[[D.D. Crow]]" can remove "Aleister" from the GY before "Invocation" is activated.
+  ** If "Invocation" is sent to the GY (e.g., with "[[Forbidden Droplet]]"), it can be used to recover a banished "Aleister". 
   ** An opposing "[[Branded Regained]]" can shuffle away the banished "Aleister", thus leaving "Invocation" in the GY with no banished "Aleister" to use its GY effect with.
-  * The archetype is susceptible to having its field fused away by "[[Super Polymerization]]", with common valid targets including "[[Predaplant Dragostapelia]]" or even an "[[Invoked Elysium]]".
-  * The various different monster [[Attribute]]s and [[Type]]s of "Invoked" monsters in addition to "Aleister" makes it susceptible to "[[Gozen Match]] and "[[Rivalry of Warlords]]", preventing any of the "Invoked" monsters from being Summoned until "Aleister" is removed from the field, or controlling at least more than one "Invoked" monster.
+  * "[[Chain Disappearance]]" can be used to banish all copies of "Aleister" at the time it is Normal Summoned.
+  * A one-for-one handtrap, such as "[[Ash Blossom & Joyous Spring]]" or "[[Infinite Impermanence]]", can generally stop the engine unless "Invocation" is hard drawn. However, since "Invoked" is often run with other archetypes, these handtraps often won't stop all of the opponent's plays.
 
   {{Archseries navbox}}
   {{Archseries navbox (Duel Links)}}
