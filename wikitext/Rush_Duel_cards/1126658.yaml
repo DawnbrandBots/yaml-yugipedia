@@ -3,22 +3,33 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|超|ちょう}}{{Ruby|頸|けい}}{{Ruby|竜|りゅう}}エラスモーター
-  | romaji_name     = Chōkeiryū Erasumōtā
-  | image           = SuperCervicalDragonElasmortar-RDKP21-JP-OP.png
-  | attribute       = WATER
-  | types           = Dinosaur / Fusion / Effect
-  | level           = 9
-  | atk             = 2700
-  | def             = 1600
-  | effect_types    = Continuous
-  | materials       = 2 [[Level]] 4 or lower [[Dinosaur]] [[Type]] [[monsters]]
-  | requirement     = None
-  | text            = This card cannot be [[destroy]]ed by card [[effect]]s. If you have a non-Effect Dinosaur Type [[Fusion Monster]] in your [[Graveyard]], this card gains 1200 [[ATK]] and inflicts [[piercing]] [[battle damage]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|超|ちょう}}{{Ruby|頸|けい}}{{Ruby|竜|りゅう}}エラスモーター
+  | romaji_name    = Chōkeiryū Erasumōtā
+  | image          = SuperCervicalDragonElasmortar-RDKP21-JP-OP.png
+  | attribute      = WATER
+  | types          = Dinosaur / Fusion / Effect
+  | level          = 9
+  | atk            = 2700
+  | def            = 1600
+  | effect_types   = Continuous
+  | materials      = 2 [[Level]] 4 or lower [[Dinosaur]] [[Type]] [[Monster Card|monster]]s
+  | requirement    = None
+  | text           = This card cannot be [[destroy]]ed by card [[effect]]s. If you have a [[Non-Effect Monster|non-Effect]] Dinosaur Type [[Fusion Monster]] in your [[Graveyard]], this card gains 1200 [[ATK]], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | ja_materials   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP21-JP045; Accel Road of the Attack; Common
-  | database_id     = 
+  | supports       = 
+  * Dinosaur
+  * Non-Effect Monster
+  * Fusion Monster
+  | stat_change    = This card gains ATK
+  | m/s/t          = Cannot be destroyed by card effects
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack         = Piercing
+  | database_id    = 
   }}
