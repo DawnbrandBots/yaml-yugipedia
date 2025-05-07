@@ -12,10 +12,16 @@ wikitext: |-
   | atk            = 1000
   | def            = 200
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 [[face-up]] [[Ritual Monster]] from your [[field]] to the [[Graveyard]].
-  | text           = Inflict 1000 [[Effect damage|damage]] to your opponent.
+  | text           = [[Damage|Inflict]] 1000 [[Effect damage|damage]] to your opponent.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP029; Accel Road of the Attack; Common
+  | supports       = Ritual Monster
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from field to Graveyard for cost
+  | life_points    = Damages your opponent
+  | misc           = Requires control of specific Monster card type
   | database_id    = 
   }}
