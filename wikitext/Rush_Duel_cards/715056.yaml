@@ -1,7 +1,5 @@
 title: Galactiara Eve
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | ja_name               = ギャラクティアラ・イブ
   | romaji_name           = Gyarakutiara Ibu
@@ -13,7 +11,7 @@ wikitext: |-
   | atk                   = 0
   | def                   = 0
   | requirement           = If you have no other [[Monster Card|monster]]s on your [[field]], [[send]] 1 [[Galaxy (Type)|Galaxy]] [[Type]] monster with 1600 or more [[ATK]] from your [[hand]] to the [[Graveyard]].
-  | text                  = Send this card from your field to the Graveyard, and [[Draw a card|draw]] 1 card. Then, if you have 3 or less monsters in your Graveyard, draw 1 additional card.
+  | text                  = Send this card from your field to the Graveyard and [[Draw a card|draw]] 1 card. If you have 3 or less monsters in your Graveyard, draw 1 additional card.
   | ja_requirement        = 自分フィールドにこのカード以外のモンスターがいない場合、手札のモンスター（ギャラクシー族／攻撃力１６００以上）１体を墓地へ送って発動できる。
   | ja_text               = 自分フィールドのこのカードを墓地へ送り、自分は１枚ドローする。その後、自分の墓地のモンスターが３体以下の場合、自分は１枚ドローする。
   | ko_requirement        = 자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 몬스터(갤럭시족 / 공격력 1600 이상) 1장을 묘지로 보내고 발동할 수 있다.
@@ -28,7 +26,7 @@ wikitext: |-
   * Sends from hand to Graveyard for cost
   * Sends itself from field to Graveyard
   * You draw cards
-  | fm_for                = Galactiara Fuse Eve
+  | fm_for                = Galactiara FUSE Eve
   | misc                  = Requires control of no other monsters
   | database_id           = 18372
   }}
