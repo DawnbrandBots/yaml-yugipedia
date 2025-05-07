@@ -15,13 +15,14 @@ wikitext: |-
   | sc_name             = 
   | image               = ElementalHEROThunderGiantVolticThunder-VP25-JP-OP.png
   | attribute           = LIGHT
-  | types               = ??? / Fusion / Effect
+  | types               = Warrior / Fusion / Effect
   | level               = 6
-  | atk                 = ???
-  | def                 = ???
+  | atk                 = 2400
+  | def                 = 1500
   | password            = 
-  | effect_types        = 
-  | text                = 
+  | materials           = 2 "Elemental HERO" monsters with different Attributes
+  | effect_types        = Condition, Condition, Trigger, Ignition
+  | text                = 2 "[[Elemental HERO]]" [[monster]]s with different [[Attribute]]s<br />Must be [[Fusion Summon]]ed. You can only use each of the following [[effect]]s of "Elemental HERO Thunder Giant - Voltic Thunder" [[once per turn]]. If this card is [[Special Summon]]ed and your opponent [[control]]s more cards than you do: You can [[destroy]] all other cards on the [[field]]. You can [[Tribute]] this card that was Fusion Summoned using a [[Normal Monster]] as [[material]], then [[target]] 1 "Elemental HERO" monster in your [[GY]]; Special Summon it.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,9 +33,26 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VP25-JP001; Duel Academia Selection; Prismatic Secret Rare
+  | supports            = Normal Monster
   | archseries          = 
   * Elemental HERO
   * HERO
   * Signature move
+  | supports_archetypes = Elemental HERO
+  | action              = 
+  * Activates upon Special Summon
+  * Tributes itself for cost
+  * Applies effects if Special Summoned using specific Fusion Material
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Nomi
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}

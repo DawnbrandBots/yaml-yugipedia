@@ -15,13 +15,13 @@ wikitext: |-
   | sc_name             = 
   | image               = DrillArmedDragon-VP25-JP-OP.png
   | attribute           = WIND
-  | types               = ??? / Effect
+  | types               = Dragon / Effect
   | level               = 3
-  | atk                 = ???
-  | def                 = ???
+  | atk                 = 1100
+  | def                 = 400
   | password            = 
-  | effect_types        = 
-  | text                = 
+  | effect_types        = Ignition, Ignition, Condition
+  | text                = You can [[send]] this card and 1 other [[WIND]] [[monster]] from your [[hand]] to the [[GY]]; for the rest of this [[turn]], all WIND [[Dragon]] monsters you [[control]] will gain 300 [[ATK]]. You can [[banish]] any number of Dragon monsters that are [[Level]] 7 or higher and/or WIND from your GY; [[add]] 1 Dragon monster from your [[Main Deck|Deck]] to your hand with a Level equal to the number banished, except "Drill Armed Dragon". You can only use each [[effect]] of "Drill Armed Dragon" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,6 +32,18 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VP25-JP002; Duel Academia Selection; Secret Rare
+  | mentions            = Drill Armed Dragon
+  | supports            = 
+  * WIND
+  * Dragon
   | archseries          = Armed Dragon
+  | action              = 
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
+  * Sends from hand to Graveyard for cost
+  * Adds from Deck to hand
+  | stat_change         = Your monsters gain ATK
+  | banished            = Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
