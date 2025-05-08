@@ -197,14 +197,14 @@ wikitext: |-
   | Draws 1 and returns 1 card from hand to bottom of Deck
   |-
   | [[Crowley, the Magistus of Grimoires|Crowley]]
-  | rowspan=2 | From the [[Graveyard]] (by banishing itself from the GY)
+  | rowspan=2 | From the [[Graveyard]]
   | Special Summons itself, [[changes own Attribute]]
   |-
   | [[Rilliona, the Magistus of Verre|Rilliona]]
   | Searches a "Magistus" Spell/Traps, returns a banished Level 4 or lowe Spellcaster to GY
   |}
 
-  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s. With the exception of Chorozo and Synchro Zoroa, they have effects when treated as [[Equip Card]]s.
+  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s. All but "[[Magistus Chorozo|Chorozo]]" and [[Zoroa, the Magistus Conflagrant Calamity|Synchro "Zoroa"]] have effects when treated as [[Equip Card]]s.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
   ! Magistus
@@ -213,45 +213,40 @@ wikitext: |-
   ! Equip effects
   |-
   | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
-  | rowspan=3 | [[Fusion Monster|Fusion]]
-  | Equips itself to an opponent's monster during either player's turn
-  | Equipped monster gains 1000 ATK/DEF, and takes its control if it was the target of the monster effect
-  |-
-  | [[Magistus Chorozo|Chorozo]]
-  | Negate the attack of a monster, gains ATK equal to that monster's, then returns that monster to the hand.
-  | -
-  |-
-  | [[Invoked Magistus Omega|Omega]]
-  | 
-  | 
+  | [[Fusion Monster|Fusion]]
+  | Equips to opponent's monster, take control of it (Quick Effect)
+  | +1000 ATK/DEF
   |-
   | [[Vahram, the Magistus Divinity Dragon|Vahram]]
-  | rowspan=2 | [[Synchro Monster|Synchro]]
-  | Destroys all opponent's face-up cards when destroyed
-  | Equipped monster cannot be destroyed by Spells/Traps and destroys any monster it battles
-  |-
-  | [[Zoroa, the Magistus Conflagrant Calamity|Zoroa]]
-  | Equips itself with a "Magistus" from Extra Deck, blocks the activation of Extra Deck monsters' effects, and revives itself
-  | -
+  | [[Synchro Monster|Synchro]]
+  | When destroyed, destroys all opponent's face-up cards
+  | Grants Spell/Trap and battle protection
   |-
   | [[Ninaruru, the Magistus Glass Goddess|Ninaruru]]
   | rowspan=2 | [[Xyz Monster|Xyz]]
   | Recovers a Level 4 or higher Spellcaster from GY
-  | Destroys a "Magistus" card and an opponent's card, equipped monster can attack twice
+  | Grants double attack<br/>([[Ignition-like Effect|Ignition]]) Destroys a "Magistus" card and an opponent's card
   |-
   | [[Rilliona, the Wondrous Magistus Witch Wardrobe|Rilliona]]
   | Special Summons a "Magistus" from Deck
-  | Negates an opponent's monster's effects
+  | (Ignition) Negates an opponent's monster's effects
   |-
   | [[Artemis, the Magistus Moon Maiden|Artemis]]
   | [[Link Monster|Link]]
-  | Equips itself to a "Magistus"
-  | Searches a "Magistus" monster
+  | Equips to a "Magistus"
+  | (Ignition) Searches a "Magistus" monster
   |}
+
+  "Chorozo" and Synchro "Zoroa" still interact with monster Equip Cards:
+
+  * "Zoroa" can floodgate opposing monsters with the same [[Monster card type]]s as "Magistus" monsters in the Spell/Trap zone (i.e. Equipped)
+  * "Chorozo" can be [[Contact Fusion|Contact Fused]] with Monster Cards in the Spell/Trap zone; "Chorozo" itself is a [[Tuner]] fodder with minor self-protecting effects
+
+  "[[Invoked Magistus Omega]]", while a member of "Magistus" by name, actually only functions with the "[[Invoked]]" playstyle due to requiring "[[Aleister the Invoker]]".
 
   "Magistus" Spell/Traps provide varied utility and combo tools, including Special Summons from hand ("[[Trismagistus]]"), more ED equipping ("[[Magistus Theurgy]]"), Fusion Summoning ("[[Magistus Invocation]]"), and GY revival ("[[Magistus Vritra]]")
 
-  Generally, the deck aims to go first, and use its core searchers (Xyz "Rilliona" in particular, but also Main Deck "Rilliona" and "Artemis") and combo enablers ("Magistus" S/T, Main Deck "Zoroa") to turbo out Synchro "Zoroa", who acts as a floodgating boss monster; good hands can sometimes also allow an "Aiwass" to be summoned for an extra disruption.
+  Generally, the deck aims to go first, and use its core searchers (Xyz "Rilliona" in particular, but also Main Deck "Rilliona" and "Artemis") and combo enablers ("Magistus" S/T, Main Deck "Zoroa") to turbo out Synchro "Zoroa"; good hands can sometimes also allow an "Aiwass" to be summoned for an extra disruption.
 
   The deck has good consistency and recursion, but average boss monsters, and thus often has to be supported by other decks such as "[[Invoked]]" or "[[Dogmatika]]", who also feature Level 4 Spellcaster monsters. Rather unsurprisingly, "Crowley" has synergies with the "Invoked" archetype, with his effect being able to support the Fusion Summon of "Invoked" monsters. "Crowley" can also be used to change its Attribute to WATER and overlay with "Endymion" into "[[Bahamut Shark]]" to make a "[[Toadally Awesome]]". Other generic [[Rank 4]] options may be a good idea to look into for potential synergies.
 

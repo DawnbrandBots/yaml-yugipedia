@@ -16,16 +16,17 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 
   | sc_pinyin_name        = 
-  | image                 = DarkMagicianofDestruction-OW.png
-  | attribute             = ???
-  | types                 = ??? / ???
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
+  | image                 = DarkMagicianofDestruction-TTP1-JP-OP.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Fusion / Effect
+  | level                 = 8
+  | atk                   = 2800
+  | def                   = 2600
   | password              = 
-  | materials             = 
-  | effect_types          = 
-  | text                  = 
+  | fusion_material       = Dark Magician
+  | materials             = "Dark Magician" + 1 LIGHT or DARK monster
+  | effect_types          = Summoning condition, Condition, Trigger, Unclassified
+  | text                  = "[[Dark Magician]]" + 1 [[LIGHT]] or [[DARK]] [[monster]]<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing 1 [[Level]] 6 or higher [[DARK]] [[Spellcaster]] monster you [[control]] during the [[turn]] a [[Spell Card]] or effect was activated. You can only Special Summon "Dark Magician of Destruction" once per turn this way, no matter which method you use. If this card is Special Summoned: You can [[Add a card|add]] 1 "Dark Magician" or 1 card that mentions it from your [[Main Deck|Deck]] to your hand. This card's name becomes "Dark Magician" while on the [[field]] or in the [[GY]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -35,7 +36,7 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  ????-JP0??; Tactical-Try Pack: Dark Magic / HERO / Mikanko; 
+  TTP1-JP001; Tactical-Try Pack: Dark Magic / HERO / Mikanko; Ultra Rare
   | archseries            = Magician
   | related_to_archseries = 
   * Dark Magician (archetype)
