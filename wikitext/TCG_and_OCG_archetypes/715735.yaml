@@ -203,9 +203,9 @@ wikitext: |-
   Many of the theme's cards released following the release of the ''OCG Stories'' storyline depict additional events and characters introduced by ''OCG Stories''. These include "[[Magistus Chorozo]]" and "[[Spoon, the Seal of Magistus]]", counterparts of the characters [[Chorozo]] and [[Spoon]].
 
   == Playing style ==
-  "Magistus" is an archetype focused on summoning Level 4 Spellcasters, using them to perform Special Summons from the Extra Deck, and equipping monsters for beneficial effects.
+  "Magistus" is an archetype focused on summoning Level 4 Spellcasters, using them to perform Special Summons from the Extra Deck, and equipping monsters for beneficial effects. Many "Magistus" cards also synergize — to varying extents — with the playstyle of their related "original" archetype, i.e. "[[Invoked]]", "[[Endymion]]", and "[[Witchcrafter]]"
 
-  All "Magistus" Main Deck monsters are Level 4 Spellcasters, each with an individual effect(s) and a shared effect that equips a "Magistus" monster with an Extra Deck one. The individual effects also somewhat synergize with the themes their counterparts belong to.
+  All "Magistus" Main Deck monsters are Level 4 Spellcasters with basic consistency or build-building effects, and many feature a shared effect that equips a "Magistus" monster with an Extra Deck one (from various locations).
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
   ! Magistus
@@ -213,65 +213,62 @@ wikitext: |-
   ! Individual effect
   |-
   | [[Zoroa, the Magistus of Flame|Zoroa]]
-  | rowspan=2 | From the [[Extra Deck]]
-  | Special Summons a Level 4 Spellcaster from the hand or GY
+  | rowspan=2 | From [[Extra Deck]]
+  | Summons a Level 4 Spellcaster from hand or GY
   |-
   | [[Endymion, the Magistus of Mastery|Endymion]]
-  | Draws 1 and returns 1 card from hand to bottom of Deck
+  | Draws 1 and returns 1 card from hand to Deck
   |-
   | [[Crowley, the Magistus of Grimoires|Crowley]]
-  | rowspan=2 | From the [[Graveyard]]
-  | Special Summons itself, [[changes own Attribute]]
+  | rowspan=2 | From [[Graveyard]]
+  | Special Summons itself
   |-
   | [[Rilliona, the Magistus of Verre|Rilliona]]
-  | Searches a "Magistus" Spell/Traps, returns a banished Level 4 or lowe Spellcaster to GY
+  | Searches a "Magistus" Spell/Traps, or returns a banished Level 4 or lower Spellcaster to GY
+  |-
+  | [[Crowley, the Gifted of Magistus|Crowley Retrain]]
+  | -
+  | Special Summons itself, performs [[Fusion Summon]]
+  |-
+  | [[Spoon, the Seal of Magistus|Spoon]]
+  | From [[Extra Deck|ED]] or [[GY]]
+  | Search "Magistus" monster, or halve a monster's ATK
   |}
 
-  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s. All but "[[Magistus Chorozo|Chorozo]]" and [[Zoroa, the Magistus Conflagrant Calamity|Synchro "Zoroa"]] have effects when treated as [[Equip Card]]s.
+  "Magistus" Extra Deck monsters cover all Extra Deck [[monster card type]]s, and most can be made with 2 Level 4 Spellcaster monsters (being Link 2, Synchro Level 8, Rank 4, or require 2 Fusion materials). They contain a mix of board builders ([[Rilliona, the Wondrous Magistus Witch Wardrobe|Xyz "Rilliona"]]), field control ([[Zoroa, the Magistus Conflagrant Calamity|Synchro "Zoroa"]], [[Zoroa, the Magistus Victorious Verethragna|Fusion "Zoroa"]], "[[Invoked Magistus Omega]]", "[[Aiwass, the Magistus Spell Spirit|Aiwass]]"), and recovery ("[[Ninaruru, the Magistus Glass Goddess|Ninaruru]]", [[Endymion, the Crescent of Magistus|Link "Endymion"]]). 
+
+  Notably, a large percentage of "Magistus" Extra Deck monsters have effects when treated as [[Equip Card]]s.
 
   {| class="wikitable" style="margin-left: auto; margin-right: auto; border: none; text-align: center"
   ! Magistus
-  ! Type
-  ! Monster effects
   ! Equip effects
   |-
   | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
-  | [[Fusion Monster|Fusion]]
-  | Equips to opponent's monster, take control of it (Quick Effect)
   | +1000 ATK/DEF
   |-
   | [[Vahram, the Magistus Divinity Dragon|Vahram]]
-  | [[Synchro Monster|Synchro]]
-  | When destroyed, destroys all opponent's face-up cards
   | Grants Spell/Trap and battle protection
   |-
   | [[Ninaruru, the Magistus Glass Goddess|Ninaruru]]
-  | rowspan=2 | [[Xyz Monster|Xyz]]
-  | Recovers a Level 4 or higher Spellcaster from GY
   | Grants double attack<br/>([[Ignition-like Effect|Ignition]]) Destroys a "Magistus" card and an opponent's card
   |-
   | [[Rilliona, the Wondrous Magistus Witch Wardrobe|Rilliona]]
-  | Special Summons a "Magistus" from Deck
   | (Ignition) Negates an opponent's monster's effects
   |-
   | [[Artemis, the Magistus Moon Maiden|Artemis]]
-  | [[Link Monster|Link]]
-  | Equips to a "Magistus"
   | (Ignition) Searches a "Magistus" monster
   |}
 
-  "Chorozo" and Synchro "Zoroa" still interact with monster Equip Cards:
+  The Extra Deck "Magistus" without equip effects still interact with monster Equip Cards in their own ways:
 
-  * "Zoroa" can floodgate opposing monsters with the same [[Monster card type]]s as "Magistus" monsters in the Spell/Trap zone (i.e. Equipped)
-  * "Chorozo" can be [[Contact Fusion|Contact Fused]] with Monster Cards in the Spell/Trap zone; "Chorozo" itself is a [[Tuner]] fodder with minor self-protecting effects
+  * Fusion "Zoroa", Synchro "Zoroa", and Link "Endymion" have on-field effects that require the presence of Monster Cards in the Spell/Trap Zone
+  * "Chorozo" can be [[Contact Fusion|Contact Fused]] with Monster Cards in the Spell/Trap zone, and serves as an extender
 
-  "[[Invoked Magistus Omega]]", while a member of "Magistus" by name, actually only functions with the "[[Invoked]]" playstyle due to requiring "[[Aleister the Invoker]]".
+  "Magistus" Spell/Traps provide varied utility and combo tools. "[[Verre Magic - Lacrima of Light]]" searches, "[[Magia Magic - Thor Hammer]]" provides disruption, "[[Magistus Invocation]]" is a Fusion spell, "[[Magistus Vritra]]" revives from GY, "[[Trismagistus]]" summons from hand, and "[[Magistus Theurgy]]" provides extra ED equips.
 
-  "Magistus" Spell/Traps provide varied utility and combo tools, including Special Summons from hand ("[[Trismagistus]]"), more ED equipping ("[[Magistus Theurgy]]"), Fusion Summoning ("[[Magistus Invocation]]"), and GY revival ("[[Magistus Vritra]]")
+  "Magistus" generally aims to use its searchers and advantage generators to summon on-field bodies that turn into in-theme bosses, and use them to control the field; the Equip Card "advantage", while abundant, often requires additional work to be turned into usable materials. The Deck's core searchers are "Spoon", "Verre Magic", Xyz "Rilliona", Main Deck "Rilliona", and "Artemis", while the main advantage generators are Main Deck "Zoroa" and "Artemis". The main bosses are usually Synchro "Zoroa" and Fusion "Zoroa".
 
-  Generally, the deck aims to go first, and use its core searchers (Xyz "Rilliona" in particular, but also Main Deck "Rilliona" and "Artemis") and combo enablers ("Magistus" S/T, Main Deck "Zoroa") to turbo out Synchro "Zoroa"; good hands can sometimes also allow an "Aiwass" to be summoned for an extra disruption.
-
-  The deck has good consistency and recursion, but average boss monsters, and thus often has to be supported by other decks such as "[[Invoked]]" or "[[Dogmatika]]", who also feature Level 4 Spellcaster monsters. Rather unsurprisingly, "Crowley" has synergies with the "Invoked" archetype, with his effect being able to support the Fusion Summon of "Invoked" monsters. "Crowley" can also be used to change its Attribute to WATER and overlay with "Endymion" into "[[Bahamut Shark]]" to make a "[[Toadally Awesome]]". Other generic [[Rank 4]] options may be a good idea to look into for potential synergies.
+  Externally, the deck synergizes with other Level 4 Spellcaster-focused themes and themes that make use of Spell/Trap Zone monster cards. For individual cards, "[[Snake-Eyes Doomed Dragon]]" is readily accessible in "Magistus", and "[[Witchcrafter Genni]]" can be used to copy "Verre Magic", forcing the activation of its summon-from-deck effect. The deck's external synergies is somewhat limited by the xenolocking applied by Xyz "Rilliona", a key searcher in the Deck.
 
   === Recommended cards ===
   {{Decklist|Recommended cards
