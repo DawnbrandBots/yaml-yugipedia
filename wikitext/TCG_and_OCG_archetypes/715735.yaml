@@ -38,14 +38,17 @@ wikitext: |-
   == Etymology ==
   ''Magistus'' is based on [[wikipedia:Hermes Trismegistus|Hermes Trismegistus]], the purported author of the [[wikipedia:Hermetica|Hermetic Corpus]], a series of sacred texts that are the basis of [[wikipedia:Hermeticism|Hermeticism]].
 
-  In Japanese, all "Magistus" cards have kanji names with a non-standard reading, with "Magistus" always forming part of this non-standard reading. "Magistus" does not correspond to any particular kanji base.
+  In Japanese, a large number of "Magistus" monsters feature titles that contain ''gikun'' stylized readings, with a non-Japanese name reading (that includes "Magistus") applied to a Japanese ''kanji'' name.
 
-  In Japanese, each of the monsters is associated with one of the the four Great Sages, including the title of their corresponding Great Sage in their own kanji name (Lawbook, Absolute Flame, Crystal, or Sacred Magic); this naming convention was not included in their ''TCG'' names.
+  In Japanese, many of the "core" monsters include the "aspect" of their related Magistus magician in their ''kanji'' title (Lawbook, Absolute Flame, Crystal, or Sacred Magic); this naming convention is not present in their TCG names.
 
   {| class="wikitable" style="text-align: center"
-  ! Monster
-  ! Inspiration
+  ! rowspan=2 | Monster
+  ! rowspan=2 | Inspiration
   ! colspan=2 | Japanese titles
+  |-
+  ! Kanji
+  ! Reading
   |-
   | [[Crowley, the Magistus of Grimoires]]
   | [[wikipedia:Aleister Crowley|Aleister Crowley]]
@@ -105,11 +108,12 @@ wikitext: |-
   | [[Magistus Chorozo]]
   | [[wikipedia:Choronzon|Choronzon]]
   | Spirit
-  | 
+  | Magistus
   |-
   | [[Invoked Magistus Omega]]
   | [[wikipedia:Therion_(Thelema)|Therion]]
-  | 
+  | -
+  | -
   |}
 
   {| class="wikitable" style="text-align: center"
@@ -134,50 +138,69 @@ wikitext: |-
   | Absolute Fire Manifestation
   |}
 
-  == Design ==
-  The "Magistus" archetype features counterparts of key members of older [[Spellcaster]] archetypes, with the exception of the never-seen-before "[[Zoroa, the Magistus of Flame]]". Based on card artworks and pre-existing card lore, it appears they used to be powerful magicians forming the "Magistus" guild, before they separated from each other and founded their own independent groups.
+  == Lore ==
+  {{Main|Magistus (arc)}}
 
-  "Magistus" monsters form into 4 groups, each associated to a specific "aspect". Within each of the four groups, they fulfill up to 3 roles:
-  * A Spellcaster Main Deck "Magistus", depicting the great sage.
-  * A usually non-Spellcaster Extra Deck "Magistus", depicting the great sage's guardian deity.
-  * A Spellcaster Extra Deck "Magistus" (sharing the same monster card type as their guardian deity), depicting the great sage's empowered form.
+  == Design ==
+  "Magistus" revolves around four magician characters (monster cards) who form the titular magician group, whose detailed lore is depicted (after the theme's initial release) in the [[Magistus (arc)|Magistus story arc]] of ''[[Yu-Gi-Oh! OCG Stories]]''. Three of four are key members of three pre-existing [[Spellcaster]] archetypes, with their younger forms depicted in "Magistus"; the last one, "Zoroa" is introduced by "Magistus".
+
+  {| class="wikitable" style="text-align: center"
+  ! Magistus
+  ! Preexisting counterpart
+  ! ''OCG Stories'' counterpart
+  |-
+  | [[Crowley, the Magistus of Grimoires|Crowley]]
+  | [[Aleister the Invoker]] ("[[Invoked]]")
+  | [[Aleister Crowley]]
+  |-
+  | [[Zoroa, the Magistus of Flame|Zoroa]]
+  | -
+  | [[Zoroa]]
+  |-
+  | [[Rilliona, the Magistus of Verre|Rilliona]]
+  | [[Witchcrafter Madame Verre]] ("[[Witchcrafter]]")
+  | [[Rilliona]]
+  |-
+  | [[Endymion, the Magistus of Mastery|Endymion]]
+  | [[Endymion, the Master Magician]] ("[[Endymion]]")
+  | [[Endymion (character)|Endymion]]
+  |}
+
+  Each Magistus magician is associated with an "aspect" (used to name the monsters' and the guardian deity monsters' Japanese ''kanji'' names), a summoning method (used by the magicians' related Extra Deck monsters), a guardian deity monster card, and other related in-theme cards.
 
   {| class="wikitable" style="text-align: center"
   ! Aspect
-  ! Sage
+  ! Magistus
   ! Guardian deity
-  ! Empowered form
   ! Associated Summoning
-  ! Alternate version
+  ! Related cards
   |-
   | Lawbooks
   | [[Crowley, the Magistus of Grimoires|Crowley]]
   | [[Aiwass, the Magistus Spell Spirit|Aiwass]]
-  | -
   | [[Fusion Monster|Fusion]]
-  | "[[Aleister the Invoker]]" ("[[Invoked]]")
+  | [[Crowley, the Gifted of Magistus]]<br/>[[Magistus Invocation]]<br/>[[Invoked Magistus Omega]]
   |-
   | Absolute Flame
   | [[Zoroa, the Magistus of Flame|Zoroa]]
   | [[Vahram, the Magistus Divinity Dragon|Vahram]]
-  | [[Zoroa, the Magistus Conflagrant Calamity|Zoroa]]
   | [[Synchro Monster|Synchro]]
-  | -
+  | [[Magistus Vritra]]<br/>[[Zoroa, the Magistus Conflagrant Calamity]]<br/>[[Zoroa, the Magistus Victorious Verethragna]]
   |-
   | Crystal
   | [[Rilliona, the Magistus of Verre|Rilliona]]
   | [[Ninaruru, the Magistus Glass Goddess|Ninaruru]]
-  | [[Rilliona, the Wondrous Magistus Witch Wardrobe|Rilliona]]
   | [[Xyz Monster|Xyz]]
-  | "[[Witchcrafter Madame Verre]]" ("[[Witchcrafter]]")
+  | [[Verre Magic - Lacrima of Light]]<br/>[[Rilliona, the Wondrous Magistus Witch Wardrobe]]
   |-
   | Sacred Magic
   | [[Endymion, the Magistus of Mastery|Endymion]]
   | [[Artemis, the Magistus Moon Maiden|Artemis]]
-  | -
   | [[Link Monster|Link]]
-  | "[[Endymion, the Master Magician]]" ("[[Endymion]]")
+  | [[Magia Magic - Thor Hammer]]<br/>[[Endymion, the Crescent of Magistus]]
   |}
+
+  Many of the theme's cards released following the release of the ''OCG Stories'' storyline depict additional events and characters introduced by ''OCG Stories''. These include "[[Magistus Chorozo]]" and "[[Spoon, the Seal of Magistus]]", counterparts of the characters [[Chorozo]] and [[Spoon]].
 
   == Playing style ==
   "Magistus" is an archetype focused on summoning Level 4 Spellcasters, using them to perform Special Summons from the Extra Deck, and equipping monsters for beneficial effects.
