@@ -13,12 +13,22 @@ wikitext: |-
   | atk             = 200
   | def             = 800
   | requirement     = You have "[[Demolition Soldier Nikka]]" [[face-up]] on your [[field]].
-  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[FIRE]] [[Attribute]] Wyrm Type monster(s) is among the cards sent, you can [[Add a card|add]] 1 [[Field Spell Card]] and/or 1 [[Equip Spell Card]] from your Graveyard to your hand.
+  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[FIRE]] [[Attribute]] [[Wyrm]] [[Type]] [[Monster Card|monster]](s) is among the cards sent, you can [[Add a card|add]] 1 [[Field Spell Card]] and/or 1 [[Equip Spell Card]] from your Graveyard to your [[hand]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP21-JP015; Accel Road of the Attack; Common
   | mentions        = Demolition Soldier Nikka
+  | supports        = 
+  * FIRE
+  * Wyrm
+  * Field Spell Card
+  * Equip Spell Card
   | archseries      = Demolition
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | fm_for          = Demolition Twin Princesses Haut-de-Chausses
+  | misc            = Requires control of specific card
   | database_id     = 
   }}

@@ -12,13 +12,21 @@ wikitext: |-
   | level           = 2
   | atk             = 200
   | def             = 800
-  | requirement     = [[Reveal]] 1 [[Wyrm]] [[Type]] [[monster]] in your [[hand]].
+  | requirement     = [[Reveal]] 1 [[Wyrm]] [[Type]] [[Monster Card|monster]] in your [[hand]].
   | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[FIRE]] [[Attribute]] Wyrm Type monster(s) is among the cards sent, you can [[Add a card|add]] 1 "[[Demolition Soldier Pokka]]" from your Graveyard to your hand.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP21-JP014; Accel Road of the Attack; Common
   | mentions        = Demolition Soldier Pokka
+  | supports        = 
+  * Wyrm
+  * FIRE
   | archseries      = Demolition
+  | action          = 
+  * Reveals your hand for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | fm_for          = Demolition Twin Princesses Haut-de-Chausses
   | database_id     = 
   }}
