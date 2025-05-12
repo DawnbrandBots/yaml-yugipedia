@@ -9,12 +9,21 @@ wikitext: |-
   | image           = ShadowFlowerBedazzlement-RDKP21-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Normal Summon]]s a [[monster]], place 1 [[EARTH]] [[Attribute]] [[Plant]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | text            = Change that Normal Summoned monster to [[face-down]] [[Defense Position]]. Then, you can [[Special Summon]] 1 Plant Type monster with 1000 [[DEF]] from your Graveyard [[face-up]] to your [[field]].
+  | requirement     = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 1 [[EARTH]] [[Attribute]] [[Plant]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
+  | text            = [[Battle position change|Change]] that Normal Summoned monster to [[face-down]] [[Defense Position]]. Then, you can [[Special Summon]] 1 Plant Type monster with 1000 [[DEF]] from your Graveyard [[face-up]] to your [[field]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP21-JP064; Accel Road of the Attack; Rare
+  | supports        = 
+  * EARTH
+  * Plant
   | archseries      = Shadow Flower
+  | action          = 
+  * Activates upon Normal Summon
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | summoning       = Special Summons from your Graveyard
   | database_id     = 
   }}
