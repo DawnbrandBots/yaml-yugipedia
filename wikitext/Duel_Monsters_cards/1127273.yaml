@@ -36,5 +36,15 @@ wikitext: |-
   | supports_archetypes = 
   * D/D
   * Dark Contract
+  | action              = Activates from your Graveyard
+  | stat_change         = Your monsters gain Levels
+  | m/s/t               = 
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | summoning           = Special Summons itself from your Graveyard
+  | banished            = Banishes itself when it leaves the field
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}
