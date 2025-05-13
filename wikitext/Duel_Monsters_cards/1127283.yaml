@@ -37,5 +37,18 @@ wikitext: |-
   * D/D
   * D/D/D
   | supports_archetypes = D/D
+  | action              = 
+  * Adds from Deck to hand
+  * Activates while banished
+  * Grants effect to other cards
+  * Activates if it destroys a monster by battle
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires archetype specific Xyz Materials
+  | life_points         = Damages your opponent
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id         = 
   }}
