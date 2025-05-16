@@ -9,11 +9,19 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Choose 1 [[face-up]] [[Effect Monster]] on your [[field]]. This [[turn]], that monster gains 300 [[ATK]] and inflicts [[piercing]] [[battle damage]]. If neither player has cards in their [[hand]], you can [[Special Summon]] 1 "[[Thunder Cavalry Triggerdrago]]" from your Graveyard face-up to your field.
+  | text           = Choose 1 [[face-up]] [[Effect Monster]] on your [[field]]. This [[turn]], that [[Monster Card|monster]] gains 300 [[ATK]], and it [[Damage|inflict]]s [[piercing]] [[battle damage]]. If neither [[Duelist|player]] has cards in their [[hand]], you can [[Special Summon]] 1 "[[Thunder Cavalry Triggerdrago]]" from your Graveyard face-up to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP060; Accel Road of the Attack; Ultra Rare, Over Rush Rare
   | mentions       = Thunder Cavalry Triggerdrago
+  | supports       = Effect Monster
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Piercing
+  | misc           = 
+  * Requires control of specific Monster type
+  * Requires having no cards in hand
   | database_id    = 
   }}
