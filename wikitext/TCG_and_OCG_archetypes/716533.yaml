@@ -142,17 +142,15 @@ wikitext: |-
   |}
 
   ==Playing style==
-  "Runick" is an archetype almost entirely made up of [[Spell Card]]s, mainly [[Quick-Play Spell]]s, with most of them supporting a [[Deck out]] strategy. The archetype has no Main Deck monsters, the Extra Deck monsters have little/no ATK, and most cards skip the [[Battle Phase]].
+  "Runick" revolves around [[Quick-Play Spell]]s that provide generically powerful effects and bonus [[mill]]ing, at the cost of completely forgoing the [[Battle Phase]]. The archetype has no Main Deck monsters, the Extra Deck monsters have little/no ATK, and most of its card effects skip the [[Battle Phase]]. 
 
   === Strategy ===
-  As a pure strategy, it focuses on [[Stun]] and Deck out, using the "Runick" cards as a resource engine and to protect its floodgates (such as "[[Inspector Boarder]]", "[[Amano-Iwato]]", and "[[Synchro Zone]]"). These Decks aim to maximize the draws from "[[Runick Fountain]]" and the cards banished from the opponent's Deck, while preventing the opponent from making plays.
+  As a pure strategy, it focuses on [[Stun]] and [[Deck out]], typically alongside generic floodgates (e.g. "[[Inspector Boarder]]", "[[Amano-Iwato]]", and "[[Synchro Zone]]"), letting the "Runick" cards provide card draws, interruptions, removal, and floodgate protection. By floodgating the opponent out of their plays, the deck can easily Deck out the opponent over a few turns.
 
-  However, the archetype can also be hybridized with other engines (e.g., "[[Spright]]") to support their combos, becoming part of a combo-control Deck. The "Runick" Quick-Plays can be used as a disruption or as a pseudo-"[[Instant Fusion]]", easily summoning low-level Fusions as extenders, while "Runick Fountain" is used for quick bursts of card advantage. These Decks play closer to a [[Control Strategy]], aiming to outgrind the opponent and win once the Battle Phase becomes available again.
+  The archetype can also be hybridized with other engines (e.g., "[[Spright]]"), becoming part of a combo-control Deck. Here, the "Runick" Quick-Plays can be used as interaction or as a pseudo-"[[Instant Fusion]]", summoning low-level Fusions as extenders, while "Runick Fountain" is used for quick bursts of card advantage. These Decks play closer to a [[Control Strategy]], aiming to outgrind the opponent and win once the Battle Phase becomes available again.
 
   === Cards ===
-  The central card of the "Runick" resource loop is its [[Field Spell]] "[[Runick Fountain]]": it lets the player activate "Runick" Quick-Play Spells from the [[hand]] during the opponent's turn, and [[once per turn]] (during either player's turn) it can place up to 3 "Runick" Quick-Play Spells from the [[Graveyard]] to the bottom of the Deck and have the player [[draw]] that many cards.
-
-  Meanwhile, most of the Quick-Play Spells share the following format:
+  The "Runick" Quick-Play Spells which the archetype revolves around share the following format:
   * Activate 1 of these effects, but skip your next Battle Phase after activation;
   ** [Card's unique effect], then banish cards from the top of the opponent's Deck.
   ** Special Summon 1 "Runick" monster from your [[Extra Deck]] to the [[Extra Monster Zone]].
@@ -195,7 +193,11 @@ wikitext: |-
   | Variable
   |}
 
-  The two key monsters are "[[Hugin the Runick Wings|Hugin]]", who searches "[[Runick Fountain]]" and protects against destruction effects, and "[[Munin the Runick Wings|Munin]]", who protects against targeting effects. "[[Geri the Runick Fangs|Geri]]" and "[[Freki the Runick Fangs|Freki]]" can recover "Runick" Spells from the Graveyard. Finally, "[[Sleipnir the Runick Mane|Sleipnir]]" can banish an opponent's monster temporarily, and summon a Token for an additional body.
+  The [[Field Spell]] "[[Runick Fountain]]" is the archetype's main source of card advantage: it lets the player activate "Runick" Quick-Play Spells from the [[hand]] in the opponent's turn, and [[once per turn]] (in either player's turn) it can return up to 3 "Runick" Quick-Play Spells from the [[Graveyard]] to the Deck and [[draw]] that many cards.
+
+  The Continuous Spell "[[Runick Allure]]" provides additional mills in a milling-focused "Runick" strategy.
+
+  The two key "Runick" monsters are "[[Hugin the Runick Wings|Hugin]]", who searches "[[Runick Fountain]]" and protects against destruction effects, and "[[Munin the Runick Wings|Munin]]", who protects against targeting effects. "[[Geri the Runick Fangs|Geri]]" and "[[Freki the Runick Fangs|Freki]]" can recover "Runick" Spells from the Graveyard. Finally, "[[Sleipnir the Runick Mane|Sleipnir]]" can banish an opponent's monster temporarily, and summon a Token for an additional body.
 
   ===Recommended cards===
   {{Decklist|Recommended cards
@@ -288,11 +290,13 @@ wikitext: |-
   }}
 
   ===Weaknesses===
-  * Since this archetype focuses mostly on [[Quick-Play Spell Card]]s, cards that counter them (or counter [[Spell Card]]s in general) can be extremely dangerous, such as "[[Anti-Spell Fragrance]]", "[[Eradicator Epidemic Virus]]", "[[Secret Village of the Spellcasters]]", and "[[Spell Canceller]]".
-  * The archetype critically depends on its [[Field Spell]] "[[Runick Fountain]]" to maintain its card advantage, making it a prime target for the opponent's removal effects. However, "Runick Fountain" can be protected via a couple of their Fusion Monsters which can be Special Summoned at any time via their Quick-Play Spells; namely "[[Hugin the Runick Wings]]" (which can banish itself to protect "Runick Fountain" in response to destruction effects) and "[[Munin the Runick Wings]]" (which can negate any opponent's card or effect that targets a "Runick" card or a Set card). As such, non-destruction removal options such as "[[Cosmic Cyclone]]" (while "Munin" is not present) are highly preferred for ultimately dealing with "Runick Fountain".
-  * The archetype has almost no [[Monster Zone]] presence, and is almost entirely dependent on randomly-[[draw]]n "Runick" [[Quick-Play Spell]]s to provide disruption and protection, making it quite fragile.
-  ** Utilizing external engines, or even external cards in general, reduces the chances of the player drawing into additional "Runick" cards off of "Runick Fountain", slowing down the Deck's tempo and disruptive capabilities significantly.
-  * The Deck's playstyle is countered by anti-Graveyard floodgates like "[[Macro Cosmos]]", which can prevent "Runick Fountain" from returning cards to draw cards. Or anti-banishing effects, such as that of "[[Chaos Hunter]]" or "[[Imperial Iron Wall]]".
+  * Floodgates:
+  ** Anti-Spell: "[[Anti-Spell Fragrance]]", "[[Eradicator Epidemic Virus]]", "[[Secret Village of the Spellcasters]]", "[[Spell Canceller]]"
+  ** Anti-Graveyard: "[[Macro Cosmos]]"
+  ** Anti-Banishing: "[[Chaos Hunter]]", "[[Imperial Iron Wall]]"
+  * The archetype critically depends on its [[Field Spell]] "[[Runick Fountain]]" to maintain card advantage, making it a prime target for the opponent's removal effects. However, "Runick Fountain" can be protected via a couple of their Fusion Monsters which can be Special Summoned at any time via their Quick-Play Spells; namely "[[Hugin the Runick Wings]]" (which can banish itself to protect "Runick Fountain" in response to destruction effects) and "[[Munin the Runick Wings]]" (which can negate any opponent's card or effect that targets a "Runick" card or a Set card). As such, non-destruction removal options such as "[[Cosmic Cyclone]]" (while "Munin" is not present) are highly preferred for ultimately dealing with "Runick Fountain".
+  * The archetype has almost no [[Monster Zone]] presence, and is almost entirely dependent on randomly-[[draw]]n "Runick" [[Quick-Play Spell]]s to provide interaction, making it quite fragile.
+  ** Utilizing external engines, or even external cards in general, reduces the chances of the player drawing into additional "Runick" cards off of "Runick Fountain", slowing down the Deck's tempo and disruptive capabilities.
   * [[Deck]]s with cards that [[activate]] their effects when [[banish]]ed, like "[[Shiranui]]" or "[[Maliss]]", could use this archetype's strategy of banishing the opponent's cards to their own advantage.
 
   {{Archseries navbox}}
