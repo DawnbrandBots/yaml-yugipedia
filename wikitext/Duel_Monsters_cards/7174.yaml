@@ -1,7 +1,6 @@
 title: Malevolent Nuzzler
 wikitext: |-
   {{CardTable2
-  | tc_name         = 惡魔之吻
   | fr_name         = Nuzzler Maléfique
   | de_name         = Übelwollender Hätschler
   | it_name         = Nuzzler Malevolo
@@ -12,6 +11,7 @@ wikitext: |-
   | translated_name = Demon's Kiss
   | ko_name         = 악마의 키스
   | ko_rr_name      = Akma-ui Kiseu
+  | tc_name         = 惡魔之吻
   | image           = MalevolentNuzzler-SRL-EN-C-UE-25thAnniversaryEdition.png
   | card_type       = Spell
   | property        = Equip
@@ -24,8 +24,8 @@ wikitext: |-
   | pt_text         = O monstro equipado ganha 700 de ATK. Quando este card for enviado do campo para o Cemitério: você pode pagar 500 PV; coloque este card no topo do seu Deck.
   | es_text         = El monstruo equipado gana 700 ATK. Cuando esta carta es mandada del Campo al Cementerio: puedes pagar 500 LP; pon esta carta en la parte superior de tu Deck.
   | ja_text         = ①：装備モンスターの攻撃力は７００アップする。②：このカードがフィールドから墓地へ送られた時、５００ＬＰを払って発動できる。このカードをデッキの一番上に戻す。
-  | tc_text         = 装备怪兽的攻击力上升700点。当此卡从场上被送入墓地时，能透过支付500点生命点数让此卡回到牌组的最上方。
   | ko_text         = ①: 장착 몬스터의 공격력은 700 올린다. ②: 이 카드가 필드에서 묘지로 보내졌을 때, 500 LP를 지불하고 발동할 수 있다. 이 카드를 덱의 맨 위로 되돌린다.
+  | tc_text         = 装备怪兽的攻击力上升700点。当此卡从场上被送入墓地时，能透过支付500点生命点数让此卡回到牌组的最上方。
   | en_sets         = 
   SYE-036; Starter Deck: Yugi Evolution; Common
   DB1-EN005; Dark Beginning 1; Common
@@ -77,8 +77,8 @@ wikitext: |-
   YS15-PTY16; 2-Player Starter Deck: Yuya & Declan; Common
   SRL-PT005; Spell Ruler (25th Anniversary Edition); Common
   | sp_sets         = 
-  SDH-S005; Spell Ruler; Common
   BIJ-S025; Starter Deck: Joey; Common
+  SDH-S005; Spell Ruler; Common
   SYE-SP036; Starter Deck: Yugi Evolution; Common
   DB1-SP005; Dark Beginning 1; Common
   SDSC-SP023; Spellcaster's Command Structure Deck; Common
@@ -98,8 +98,6 @@ wikitext: |-
   | ae_sets         = 
   MRL-005; Magic Ruler; Common
   SSD2-AE016; Speed Start Deck Synchro Edition; Common
-  | tc_sets         = 
-  SP01-TC042; Starter Pack Volume 1; Common
   | kr_sets         = 
   SRL-K005; Spell Ruler; Common
   SDJ-KR025; Starter Deck: Joey; Common
@@ -108,6 +106,8 @@ wikitext: |-
   VS15-KRS20; Duelist Entry Deck VS: Saber Force; Common
   VS15-KRD20; Duelist Entry Deck VS: Dark Legion; Common
   SSD2-KR016; Speed Start Deck Synchro Edition; Common
+  | tc_sets         = 
+  SP01-TC042; Starter Pack Volume 1; Common
   | gx03_sets       = 
   '''[[Powerful Seal (GX03-BP)|Powerful Seal]]''' ([[Rare]])
   | ntr_sets        = 
