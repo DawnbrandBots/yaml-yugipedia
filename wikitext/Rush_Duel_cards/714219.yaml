@@ -1,7 +1,6 @@
 title: Card Restoration
 wikitext: |-
   {{CardTable2
-  | fr_name         = Restauration de Cartes
   | ja_name         = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|増|ぞう}}{{Ruby|刷|さつ}}
   | romaji_name     = Tefuda Zōsatsu
   | translated_name = Hand Reprinting
@@ -11,8 +10,6 @@ wikitext: |-
   | property        = Normal
   | requirement     = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
   | text            = [[Draw a card|Draw]] until you have 5 cards in your [[hand]] and [[reveal]] your hand. If you have a monster in your hand, also gain [[LP]] equal to [the number of monsters in your hand] x 200.
-  | fr_requirement  = Lorsqu'un monstre de votre adversaire déclare une attaque.
-  | fr_text         = Piochez jusqu'à avoir 5 cartes dans votre main et révélez votre main. Si vous avez un monstre dans votre main, gagnez aussi des LP égaux au [nombre de monstres dans votre main] x 200.
   | ja_requirement  = 相手モンスターの攻撃宣言時に発動できる。
   | ja_text         = 自分は手札が５枚になるようにドローし、自分の手札を全て相手に見せる。その中にモンスターがいる場合、さらに自分は［そのモンスターの数］×２００ＬＰ回復する。
   | ko_requirement  = 상대 몬스터의 공격 선언시에 발동할 수 있다.
