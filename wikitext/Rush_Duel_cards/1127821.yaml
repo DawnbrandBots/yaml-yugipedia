@@ -8,13 +8,18 @@ wikitext: |-
   | image          = Tamatamabangborn-RDKP21-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    =  When a [[monster]] on your [[field]] is destroyed by an opponent's [[attack]] or their card [[effect]].
-  | text           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Special Summon]] up to 3 "[[Tamabot]]" from your Graveyard face-up to your field.
+  | requirement    = When a [[Monster Card|monster]](s) on your [[field]] is [[destroy]]ed by an opponent's [[attack]] or their card [[effect]].
+  | text           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Special Summon]] up to 3 "[[Tamabot]]" from your Graveyard [[face-up]] to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP21-JP053; Accel Road of the Attack; Common
+  RD/KP21-JP063; Accel Road of the Attack; Common
   | mentions       = Tamabot
   | archseries     = Tamabot (series)
+  | action         = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Sends from the top of your Deck to your Graveyard
+  | summoning      = Special Summons from your Graveyard
   | database_id    = 
   }}

@@ -9,12 +9,15 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = Choose 1 [[face-up]] "[[Tamabot]]" on your [[field]] and 1 face-up [[monster]] with 100 or more [[ATK]] on your opponent's field. This [[turn]], your monster gains [[ATK]] equal to [that opponent's monster's ATK], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | text           = Choose 1 [[face-up]] "[[Tamabot]]" on your [[field]] and 1 face-up [[Monster Card|monster]] with 100 or more [[ATK]] on your opponent's field. This [[turn]], your monster gains ATK equal to [that opponent's monster's ATK], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP051; Accel Road of the Attack; Common
   | mentions       = Tamabot
   | archseries     = Tamabot (series)
+  | stat_change    = Your monsters gain ATK
+  | attack         = Piercing
+  | misc           = Requires control of specific card
   | database_id    = 
   }}

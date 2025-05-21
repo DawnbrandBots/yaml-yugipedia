@@ -8,12 +8,21 @@ wikitext: |-
   | image          = Tamalauncher-RDKP21-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = [[Send]] 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] from your [[field]] to the [[Graveyard]].
-  | text           = [[Draw a card|Draw]] 1 card. Then, if you sent a [[Level]] 1 monster with 200 [[ATK]]/0 [[DEF]] to the Graveyard to meet the requirement, you can draw 1 additional card.
+  | requirement    = [[Send]] 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 1 card. Then, if you sent a [[Level]] 1 monster with 200 [[ATK]]/0 [[DEF]] to the Graveyard to meet the [[Activation condition|requirement]], you can draw 1 additional card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP052; Accel Road of the Attack; Common
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Tamabot (series)
+  | action         = 
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

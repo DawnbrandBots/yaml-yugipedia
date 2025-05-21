@@ -16,7 +16,7 @@ wikitext: |-
   * Tamabot
   | materials             = "[[Red-Boot Boost Dragon]]" + "[[Tamabot]]"
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text                  = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can inflict [[Effect damage|damage]] to your opponent equal to [the number of "Tamabot" in your Graveyard] x 300.
+  | text                  = This card gains 1000 [[ATK]] until the end of this [[turn]]. Then, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of "Tamabot" in your Graveyard] x 300.
   | ja_materials          = 
   | ja_requirement        = 
   | ja_text               = 
@@ -27,10 +27,13 @@ wikitext: |-
   * Tamabot
   | archseries            = Tamabot (series)
   | related_to_archseries = High Tech Dragon
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = This card gains ATK
   | summoning             = 
   * 2 Fusion Materials
   * Requires only specific monsters as Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires specific Normal Monsters as Fusion Materials
+  | life_points           = Damages your opponent
   | database_id           = 
   }}
