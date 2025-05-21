@@ -3,21 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = メカタマボット
   | romaji_name    = Mekatamabotto
-  | image          = MechaTamabot-OW.png
+  | image          = MechaTamabot-RDKP21-JP-OP.png
   | attribute      = EARTH
-  | types          = Machine / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | types          = Machine / Effect
+  | level          = 1
+  | atk            = 200
+  | def            = 0
+  | effect_types   = Continuous
+  | condition      = This card's name becomes "[[Tamabot]]" while in the [[Graveyard]].
+  | requirement    = None
+  | text           = This card's name becomes "Tamabot". If you [[Fusion Summon]] "[[Tamabot King Golem]]", this card can be treated as 2 [[material]]s.
+  | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP21-JP0??; Accel Road of the Attack
+  RD/KP21-JP007; Accel Road of the Attack; Common
+  | mentions       = 
+  * Tamabot
+  * Tamabot King Golem
   | archseries     = Tamabot (series)
   | database_id    = 
   }}
