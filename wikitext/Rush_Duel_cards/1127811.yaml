@@ -12,12 +12,19 @@ wikitext: |-
   | atk            = 800
   | def            = 0
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 "[[Tamabot]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of an [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] in [[Attack Position]].
+  | text           = [[Add a card|Add]] 1 "[[Tamabot]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of an [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] in [[Attack Position]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP008; Accel Road of the Attack; Common
   | mentions       = Tamabot
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Tamabot (series)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | summoning      = Treated as multiple Tributes
   | database_id    = 
   }}
