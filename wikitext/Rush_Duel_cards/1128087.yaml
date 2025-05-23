@@ -15,8 +15,8 @@ wikitext: |-
   * Cyber Search Dragon
   * Cyber Dragon (Rush Duel)
   | materials       = "[[Cyber Search Dragon]]" + "[[Cyber Dragon (Rush Duel)|Cyber Dragon]]"
-  | requirement     = Change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | text            = [[Fusion Summon]] a [[Level]] 10 [[Machine]] [[Type]] [[monster]] by shuffling 3 or more "Cyber Dragon" from your [[field]] and/or [[Graveyard]] into the owner's [[Main Deck|Deck]] as [[material]]. This [[turn]], the monster Special Summoned by this [[effect]] gains 600 [[ATK]].
+  | requirement     = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | text            = [[Fusion Summon]] a [[Level]] 10 [[Machine]] [[Type]] [[Monster Card|monster]] by [[Shuffle|shuffling]] 3 or more "Cyber Dragon" from your [[field]] and/or [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]. This [[turn]], the monster [[Special Summon]]ed by this [[effect]] gains 600 [[ATK]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -25,6 +25,23 @@ wikitext: |-
   | mentions        = 
   * Cyber Search Dragon
   * Cyber Dragon (Rush Duel)
+  | supports        = Machine
   | archseries      = Cyber Dragon (Rush Duel series)
+  | action          = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Must include particular Fusion Materials
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc            = Requires control of specific card
   | database_id     = 
   }}
