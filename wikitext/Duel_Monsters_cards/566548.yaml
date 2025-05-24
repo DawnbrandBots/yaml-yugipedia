@@ -52,6 +52,8 @@ wikitext: |-
   * Returns the player's banished cards to the Deck
   * Sets itself from your Graveyard
   | banished        = Banishes itself when it leaves the field
-  | misc            = Only 1 effect once per turn
+  | misc            = 
+  * Only 1 effect once per turn
+  * Requires control of specific Type
   | database_id     = 14059
   }}
