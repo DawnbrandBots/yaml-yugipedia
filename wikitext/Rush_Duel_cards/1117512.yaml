@@ -5,17 +5,29 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|永|と}}{{Ruby|遠|わ}}のルリグラ
   | romaji_name    = Towa no Rurigura
-  | image          = RurigratheEternal-RDKP21-JP-OP.png
+  | image          = 
+  1; RurigratheEternal-RDKP21-JP-OP.png; RurigratheEternal-OW.png
+  2; RurigratheEternal-RDKP21-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = EARTH
   | types          = Spellcaster / Effect
   | level          = 2
   | atk            = 800
   | def            = 1200
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = Place 1 card from your opponent's [[Graveyard]] on the bottom of the [[Main Deck|Deck]]. Then, [[excavate]] the top 4 cards of your Deck. You can [[Add a card|add]] 1 excavated [[Level]] 9 [[EARTH]] [[Attribute]] [[Spellcaster]] [[Type]] monster to your [[hand]]. Place the remaining cards on the bottom of the Deck in any order.
+  | text           = Place 1 card from your opponent's [[Graveyard]] on the bottom of the [[Main Deck|Deck]]. Then, [[excavate]] the top 4 cards of your Deck. You can [[Add a card|add]] 1 excavated [[Level]] 9 [[EARTH]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP21-JP028; Accel Road of the Attack; Super Rare, Secret Rare
+  | supports       = 
+  * EARTH
+  * Spellcaster
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
   | database_id    = 
   }}
