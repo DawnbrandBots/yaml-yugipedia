@@ -13,8 +13,8 @@ wikitext: |-
   | def            = 600
   | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | text           = Choose 1 [[Warrior]] or [[Spellcaster]] [[Type]] monster with 2600 [[ATK]] or [[DEF]] in your Graveyard. This [[turn]], this card's name becomes the same name as that monster.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分の墓地のモンスター２体をデッキに戻して発動できる。
+  | ja_text        = 攻撃力または守備力が２６００の自分の墓地のモンスター（戦士族・魔法使い族）１体を選ぶ。このカードのカード名はこのターン、選んだモンスターと同じカード名になる。
   | jp_sets        = 
   RD/KP21-JP030; Accel Road of the Attack; Common
   | supports       = 
@@ -22,5 +22,5 @@ wikitext: |-
   * Spellcaster
   | action         = Returns from Graveyard to Deck for cost
   | stat_change    = Copies name
-  | database_id    = 
+  | database_id    = 21674
   }}
