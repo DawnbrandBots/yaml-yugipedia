@@ -1,16 +1,16 @@
 title: Thought Ruler Archfiend
 wikitext: |-
   {{CardTable2
-  | tc_name         = 精神球惡魔
   | fr_name         = Archdémon du Monde Mental
   | de_name         = Gedankenherrscher-Erzunterweltler
   | it_name         = Arcidemone Dominatore dei Pensieri
-  | ko_name         = 멘탈스피어 데몬
   | pt_name         = Arquidemônio Senhor dos Pensamentos
   | es_name         = Archidemonio Señor de Pensamientos
   | ja_name         = メンタルスフィア・デーモン
   | romaji_name     = Mentaru Sufia Dēmon
   | translated_name = Mental Sphere Daemon
+  | ko_name         = 멘탈스피어 데몬
+  | tc_name         = 精神球惡魔
   | sc_name         = 心灵领域恶魔
   | image           = ThoughtRulerArchfiend-BROL-EN-UR-1E.png
   | attribute       = DARK
@@ -30,7 +30,7 @@ wikitext: |-
   | ja_text         = チューナー＋チューナー以外のモンスター１体以上<br />①：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々の攻撃力分だけ自分のＬＰを回復する。②：サイキック族モンスター１体のみを対象とする魔法・罠カードが発動した時、１０００ＬＰを払って発動できる。その発動を無効にし破壊する。
   | ko_text         = 튜너 + 튜너 이외의 몬스터 1장 이상<br />이 카드가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 파괴한 몬스터의 원래 공격력만큼 자신의 라이프 포인트를 회복한다. 사이킥족 몬스터 1장을 대상으로 하는 마법 또는 함정 카드가 발동되었을 때, 1000 라이프 포인트를 지불하는 것으로 그 발동을 무효로 하고 파괴한다.
   | tc_text         = 协调＋协调以外的怪兽1只或以上<br />此卡因战斗被破坏并送入墓地时，恢复我方与已破坏怪兽原本攻击力数值相等的生命点数。此外，以1只超能族怪兽为对象的魔法、陷阱卡发动时，可支付1000点生命点数发动。该发动无效并破坏。
-  | sc_text         = 协调＋1只以上协调以外的怪兽<br />①：此卡战斗破坏怪兽并将其送至墓地的情况下发动。依该怪兽原本的攻击力数值恢复自己的LP。②：仅以1只念动力族怪兽为对象的魔法·陷阱卡发动时，支付1000LP可以发动。将该发动无效并破坏。
+  | sc_text         = 协调＋协调以外的怪兽1只以上<br />①：此卡战斗破坏怪兽并将其送至墓地的情况下发动。依该怪兽原本攻击力的数值恢复自己的LP。②：仅以1只念动力族怪兽为对象的魔法・陷阱卡发动时，支付1000LP可以发动。将该发动无效并破坏。
   | en_sets         = 
   TDGS-EN044; The Duelist Genesis; Ultra Rare, Ultimate Rare
   DL11-EN014; Duelist League 2 participation cards; Rare
@@ -72,6 +72,7 @@ wikitext: |-
   TDGS-KR044; The Duelist Genesis; Ultra Rare, Ultimate Rare
   | sc_sets         = 
   SCTP-SC155; Entry Pack Volume 10; Common
+  DUAD-SCS16; Duelist Advance +1 Assist Pack; Ultra Rare
   | ygo_sets        = 
   '''[[Pack 49 (YGOO-BP)|Pack 49]]'''
   | supports        = Psychic
