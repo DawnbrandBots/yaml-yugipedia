@@ -1,6 +1,5 @@
 title: 'Number F0: Utopic Future Zexal'
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -22,7 +21,7 @@ wikitext: |-
   | password            = 41522092
   | materials           = 2 Xyz Monsters with the same Rank
   | effect_types        = Condition, Continuous, Continuous, Quick
-  | text                = 2 [[Xyz Monster]]s with the same [[Rank]]<br />(This card's original Rank is always treated as 1.)<br />Gains [[ATK]]/[[DEF]] equal to the total Ranks of all [[Xyz Monster]]s you [[control]] and in your opponent's GY x 500. Your opponent's [[monsters]] cannot [[target]] monsters for [[attack]]s, except this one, also your opponent cannot target other cards on the [[field]] with card effects. [[Once per turn]], when your opponent [[activate]]s a card or effect on the field ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; take control of 1 monster your opponent controls, also this card cannot be [[destroyed by battle]] or card effects this [[turn]].
+  | text                = 2 [[Xyz Monster]]s with the same [[Rank]]<br />(This card's original Rank is always treated as 1.)<br />Gains [[ATK]]/[[DEF]] equal to the combined Ranks of all [[Xyz Monster]]s you [[control]] and in your opponent's GY x 500. Your opponent's [[monsters]] cannot [[target]] monsters for [[attack]]s, except this one, also your opponent cannot target other cards on the [[field]] with card effects. [[Once per turn]], when your opponent [[activate]]s a card or effect on the field ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; take control of 1 monster your opponent controls, also for the rest of this [[turn]], this card cannot be [[destroyed by battle]] or card effects.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,9 +30,21 @@ wikitext: |-
   | ja_text             = 同じランクのＸモンスター×２<br />ルール上、このカードのランクは１として扱う。①：このカードの攻撃力・守備力は、自分フィールド及び相手の墓地のＸモンスターのランクの合計×５００アップする。②：相手モンスターは他のモンスターを攻撃対象に選択できず、相手はフィールドの他のカードを効果の対象にできない。③：１ターンに１度、相手がフィールドで効果を発動した時、このカードのＸ素材を１つ取り除いて発動できる。相手フィールドのモンスター１体のコントロールを得る。このターン、このカードは戦闘・効果では破壊されない。
   | ko_text             = 
   | sc_text             = 相同阶级的超量怪兽×2<br />规则上，此卡的阶级视为1。①：此卡的攻击力・守备力上升自己场上及对手墓地的超量怪兽的阶级合计×500的数值。②：对手怪兽不可将其他怪兽选择为攻击对象，对手不可将场上其他卡作为效果的对象。③：1回合1次，对手在场上发动效果时，去除此卡的1个超量素材可以发动。获得对手场上的1只怪兽的控制权。此回合，此卡不会因战斗・效果被破坏。
+  | en_sets             = 
+  DUAD-EN042; Duelist's Advance; Ultra Rare
+  | fr_sets             = 
+  DUAD-FR042; Duelist's Advance; Ultra Rare
+  | de_sets             = 
+  DUAD-DE042; Duelist's Advance; Ultra Rare
+  | it_sets             = 
+  DUAD-IT042; Duelist's Advance; Ultra Rare
+  | pt_sets             = 
+  DUAD-PT042; Duelist's Advance; Ultra Rare
+  | sp_sets             = 
+  DUAD-SP042; Duelist's Advance; Ultra Rare
   | jp_sets             = 
   DUAD-JP042; Duelist's Advance; Ultra Rare, Prismatic Secret Rare
-  | sc_sets               = 
+  | sc_sets             = 
   DUAD-SC042; Duelist's Advance; Ultra Rare, Prismatic Secret Rare
   | supports            = Xyz Monster
   | anti-supports       = Xyz Monster

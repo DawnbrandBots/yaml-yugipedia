@@ -1,7 +1,5 @@
 title: Parallel Teleport
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name             = 
   | ja_name             = パラレル・テレポート
   | romaji_name         = Parareru Terepōto
-  | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 平行瞬移
@@ -20,7 +17,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 00000483
   | effect_types        = Effect, Condition, Condition
-  | text                = [[Tribute]] 1 [[Psychic]] [[monster]] that has a [[Level]]; [[Special Summon]] 1 Level 7 or lower Psychic monster from your [[Main Deck|Deck]] or [[Extra Deck]], then, if those monsters' original Levels are different, you lose [[LP]] equal to the difference x 1000. You cannot Special Summon the [[turn]] you [[activate]] this card, except Psychic monsters. You can only activate 1 "Parallel Teleport" [[Once per turn|per turn]].
+  | text                = [[Tribute]] 1 [[Psychic]] [[monster]] with a [[Level]]; [[Special Summon]] 1 Level 7 or lower Psychic monster from your [[Main Deck|Deck]] or [[Extra Deck]], then if the original Level of the Tributed monster is different from that of the Special Summoned monster on the [[field]], you lose [[LP]] equal to the difference x 1000. You cannot Special Summon the [[turn]] you [[activate]] this card, except Psychic monsters. You can only activate 1 "Parallel Teleport" [[Once per turn|per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -29,9 +26,21 @@ wikitext: |-
   | ja_text             = このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はサイキック族モンスターしか特殊召喚できない。①：自分フィールドのレベルを持つサイキック族モンスター１体をリリースして発動できる。デッキ・ＥＸデッキからレベル７以下のサイキック族モンスター１体を特殊召喚する。リリースしたモンスターとこの効果で特殊召喚したモンスターの元々のレベルが異なる場合、さらに自分はその差×１０００ＬＰを失う。
   | ko_text             = 
   | sc_text             = 此卡名的卡1回合仅可发动1张，发动此卡的回合中，自己仅可特殊召唤念动力族怪兽。①：解放自己场上1只拥有等级的念动力族怪兽可以发动。从牌组・额外牌组将1只等级7以下的念动力族怪兽特殊召唤。解放的怪兽与以此效果特殊召唤的怪兽的原本等级不同的情况下，进而自己失去其之差×1000的LP。
+  | en_sets             = 
+  DUAD-EN059; Duelist's Advance; 
+  | fr_sets             = 
+  DUAD-FR059; Duelist's Advance; 
+  | de_sets             = 
+  DUAD-DE059; Duelist's Advance; 
+  | it_sets             = 
+  DUAD-IT059; Duelist's Advance; 
+  | pt_sets             = 
+  DUAD-PT059; Duelist's Advance; 
+  | sp_sets             = 
+  DUAD-SP059; Duelist's Advance; 
   | jp_sets             = 
   DUAD-JP059; Duelist's Advance; Common
-  | sc_sets               = 
+  | sc_sets             = 
   DUAD-SC059; Duelist's Advance; Common
   | supports            = Psychic
   | archseries          = Teleport (archetype)
