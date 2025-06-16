@@ -148,6 +148,32 @@ wikitext: |-
   == Playing style ==
   "Chronomaly" monsters are focused on [[Xyz Summon]]ing a wide range of [[Xyz Monster]]s. Many of their effects allow [[Special Summon]]ing of more "Chronomaly" monsters.
 
+  === Chronomaly OTK ===
+  This Deck focuses on using the effects of "[[Number 33: Chronomaly Machu Mech]]" and "[[Number 36: Chronomaly Chateau Huyuk]]" to perform a [[One Turn Kill]].
+
+  The OTK requires:
+  * You to have the materials to summon "Machu Mech" and "Chateau Huyuk" (two Level 5 monsters and two Level 4 "Chronomaly" monsters).
+  * The opponent to have a monster with 1800 or more [[ATK]] in Attack Position, and nothing else. If the opponent has a field of monsters, more ATK is needed.
+  * The Battle Phase.
+
+  Example setup: "[[Chronomaly Crystal Bones]]" can Summon itself, then use its effect to Summon "[[Chronomaly Golden Jet]]" (then, use "Golden Jet's" effect to raise their Levels). Normal Summon "[[Chronomaly Nebra Disk]]" to search "[[Chronomaly Moai]]" or "[[Chronomaly Tula Guardian]]", and then Special Summon the search target with its own effect.
+
+  {{Combo steps
+  | opening = "[[Number 33: Chronomaly Machu Mech]]" + "[[Number 36: Chronomaly Chateau Huyuk]]", opponent has 1 monster with 1800+ ATK
+  | end     = 8000 LP damage
+  | steps   = 
+  # Activate the effect of "Chronomaly Chateau Huyuk", [[target]]ing 1 of your opponent's monsters with at least 1800 ATK, reducing it to 0.
+  # Use the effect of "Chronomaly Machu Mech" on the monster targeted by "Chateau Huyuk". This deals 1800 burn damage, then "Machu Mech" gain 1800 ATK, increasing itself to 4200 ATK.
+  # Enter the Battle Phase. Attack with "Chateau Huyuk" for 4200 damage, then directly attack with "Chateau Huyuk" for 2000 damage. (1800 + 4200 + 2000 = 8000.)
+
+  If the opponent has monsters that can't be attacked over, "Machu Mech" will need to target an Attack Position monster with at least 4000 ATK.
+  }}
+
+  Notes:
+  * Each copy of "[[Chronomaly Pyramid Eye Tablet]]" gives ATK + 800 to both "Numbers", allowing the combo to work with monsters with ATK less than 1800.
+  * If you don't have "Chronomaly Chateau Huyuk", you can use "[[Mini-Guts]]", "[[Chronomaly Cabrera Trebuchet]]", "[[Gorgonic Guardian]]" or other card that [[reduces ATK to 0]] as a Plan B.
+
+  === Recommended Cards ===
   {{Decklist|Recommended cards
   <!-- This is not an exact Decklist. Do not add multiples or staples.-->
   |effect monsters =
@@ -232,26 +258,6 @@ wikitext: |-
   |counter traps =
   * [[Xyz Unbreakable Barrier]]
   }}
-
-  === Chronomaly OTK ===
-  This Deck focuses on using the effects of "[[Number 33: Chronomaly Machu Mech]]" and "[[Number 36: Chronomaly Chateau Huyuk]]" to perform a [[One Turn Kill]].
-  What you need:
-  * Four monsters in your field (two needs to be Level 5 and the others Level 4)
-  * "Number 33: Chronomaly Machu Mech" and "Number 36: Chronomaly Chateau Huyuk" in the Extra Deck
-  * Your opponent has a monster with 1800 or more [[ATK]]
-  How it works:
-  * The four monsters you need are: two Level 5 to Summon "Chronomaly Machu Mech" and another two Level 4 to Summon "Chronomaly Chateau Huyuk":
-  ** You can Special Summon "[[Chronomaly Crystal Bones]]" with its own effect, use its effect to Summon "[[Chronomaly Golden Jet]]" (and use its effect to increase its Level), Normal Summon "[[Chronomaly Nebra Disk]]" to search "[[Chronomaly Moai]]" or "[[Chronomaly Tula Guardian]]" and then Special Summon it with its own effect
-  *** Remember that you cannot use "[[Chronomaly Technology]]" and Special Summon non-"Chronomaly" monsters in the same turn.
-  * Xyz Summon "Chronomaly Machu Mech" using the two Level 5 monsters and "Chronomaly Chateau Huyuk" using the two Level 4 monsters.
-  * Activate the effect of "Chronomaly Chateau Huyuk", [[target]] 1 of your opponent's monsters with at least 1800 ATK. The targeted monster's ATK becomes 0.
-  ** All following calculations will be done with the assumption that that monster had exactly 1800 ATK.
-  * Use the effect of "Chronomaly Machu Mech" on the monster that was targeted by the effect of "Chronomaly Chateau Huyuk" to inflict 1800 effect damage to your opponent. Then "Chronomaly Machu Mech" gains ATK equal to the amount of damage inflicted. This makes its total ATK 4200.
-  * Enter the [[Battle Phase]] and [[attack]] your opponent's monster that was targeted by "Chronomaly Chateau Huyuk", then attack directly dealing a total of 6000 damage.
-  1800 (the first effect of "Chronomaly Machu Mech") + 4200 (the ATK of "Chronomaly Machu Mech") + 2000 (the ATK of "Chronomaly Chateau Huyuk") = 8000 damage
-  '''Notes:'''
-  * Each copy of "[[Chronomaly Pyramid Eye Tablet]]" gives ATK + 800 to both "Numbers", allowing the combo to work with monsters with ATK less than 1800.
-  * If you don't have "Chronomaly Chateau Huyuk", you can use "[[Mini-Guts]]", "[[Chronomaly Cabrera Trebuchet]]", "[[Gorgonic Guardian]]" or other card that [[reduces ATK to 0]] as a Plan B.
 
   === Official Decks ===
   From [http://www.yugioh-card.com/japan/topics/?20120613 Let's built a Chronomaly Deck (June 13, 2012)]:
@@ -382,9 +388,10 @@ wikitext: |-
   }}
 
   === Weaknesses ===
-  Since most "Chronomaly" cards involve swarming, mass-removal cards like "[[Dark Hole]]", "[[Torrential Tribute]]" and "[[Deck Devastation Virus]]" can interdict "Chronomaly" monsters before they have a chance to infest the field with the latter-most aforementioned card perhaps being the deadliest to this Deck due to the card's lingering effect and all the non-Xyz "Chronomaly" monsters (except "[[Chronomaly Winged Sphinx|Winged Sphinx]]") sporting 1500 or less [[ATK]]. "[[Light-Imprisoning Mirror]]" also poses a threat to their swarming and effects, as most "Chronomaly" monsters have LIGHT as their Attribute.  However, "[[Mind Drain]]" can be worse in countering their [[Special Summon]]ing as a lot of key Level 5 "Chronomaly" monsters (i.e. "[[Chronomaly Moai|Moai]]" and "[[Chronomaly Moai Carrier|Moai Carrier]]") are helpful in Xyz Summoning "[[Number 33: Chronomaly Machu Mech|Machu Mech]]".
-
-  In addition, cards like "[[Summon Limit]]", "[[Narrow Pass]]" and any cards that render [[Monster Card Zone]]s useless (i.e. "[[Ground Collapse]]") can bar them from the [[field]] completely ("[[Summon Breaker]]" can also flat-out pause a spamming "Chronomaly" player's turn completely). In fact, these countermeasures, combined with anti-Special Summoning support, can almost completely shut down "Chronomaly" Decks. Finally, most "Chronomaly" monsters have scanty [[DEF]]—if "Chronomaly" Duelists go on the defensive, [[Defense Position]]-destroying card effects and [[piercing]] cards can be added boon against "Chronomaly" Decks. If you want to go on the defensive use "[[Giant Soldier of Steel]]" in your [[Extra Deck]] against burns and monsters with 1900 or more ATK.
+  * Many monsters in the archetype, including most of their boss monster, are [[LIGHT]] [[Machine]]s. Therefore cards that counter LIGHT (such as "[[Light-Imprisoning Mirror]]") or Machine (such as "[[Chimeratech Fortress Dragon]]" and "[[System Down]]") can be effective counters.
+  * Floodgates:
+  ** Anti-Special Summon / Xyz floodgates, like "[[Summon Breaker]]" and "[[Dimensional Barrier]]".
+  ** "[[Mind Drain]]", as many monsters have activated effects that Special Summon from hand.
 
   == References ==
   <references />
