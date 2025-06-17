@@ -1,7 +1,5 @@
-title: Artmegia Finemelt
+title: Artmage Finmel
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -17,7 +15,7 @@ wikitext: |-
   | ko_rr_name           = 
   | sc_name              = 神艺学徒 珐艺美忒
   | sc_pinyin_name       = 
-  | image                = ArtmegiaFinemelt-DUAD-JP-SR.png
+  | image                = ArtmageFinmel-DUAD-JP-SR.png
   | attribute            = LIGHT
   | types                = Warrior / Effect
   | level                = 7
@@ -25,7 +23,7 @@ wikitext: |-
   | def                  = 1500
   | password             = 34541940
   | effect_types         = Continuous, Condition, Ignition, Quick
-  | text                 = Your opponent cannot [[target]] Level 6 or lower "[[Artmegia]]" [[monsters]] you [[control]] with card [[effect]]s. You can only use each of the following [[effect]]s of "Artmegia Finemelt" [[once per turn]]. If you control an "Artmegia" card: You can [[Special Summon]] this card from your [[hand]], then you can [[Draw a card|draw]] 1 card. During the [[Main Phase]], if you control 3 or more different Monster Types ([[Quick Effect]]): You can [[negate]] the effects of all face-up monsters your opponent currently controls, also their current [[ATK]] become halved until the end of this [[turn]].
+  | text                 = Your opponent cannot [[target]] Level 6 or lower "[[Artmage]]" [[monsters]] you [[control]] with card [[effect]]s. You can only use each of the following [[effect]]s of "Artmage Finmel" [[once per turn]]. If you control an "Artmage" card: You can [[Special Summon]] this card from your [[hand]], then you can [[Draw a card|draw]] 1 card. During the [[Main Phase]], if you have 3 or more different Monster Types on your [[field]] ([[Quick Effect]]): You can [[negate]] the effects of all face-up monsters your opponent currently controls, also until the end of this [[turn]], their [[ATK]]'s become halved.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -34,12 +32,24 @@ wikitext: |-
   | ja_text              = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「アルトメギア」カードが存在する場合に発動できる。このカードを手札から特殊召喚する。その後、自分は１枚ドローできる。②：自分フィールドのレベル６以下の「アルトメギア」モンスターを相手は効果の対象にできない。③：自分・相手のメインフェイズに、自分フィールドのモンスターの種族が３種類以上の場合に発動できる。相手フィールドの全ての表側表示モンスターの効果は無効化され、その攻撃力はターン終了時まで半分になる。
   | ko_text              = 
   | sc_text              = 此卡名的①③效果1回合仅可各使用1次。①：自己场上存在“神艺”卡的情况下可以发动。从手牌将此卡特殊召唤。然后，自己可抽1张。②：对手不可将自己场上的等级6以下的“神艺”怪兽作为效果的对象。③：在自己・对手的主要阶段，自己场上的怪兽的种族为3种以上的情况下可以发动。对手场上的所有表侧表示怪兽的效果无效化，其攻击力直至回合结束时为止变为一半。
-  | jp_sets              = 
+  | en_sets               = 
+  DUAD-EN009; Duelist's Advance; Secret Rare
+  | fr_sets               = 
+  DUAD-FR009; Duelist's Advance; Secret Rare
+  | de_sets               = 
+  DUAD-DE009; Duelist's Advance; Secret Rare
+  | it_sets               = 
+  DUAD-IT009; Duelist's Advance; Secret Rare
+  | pt_sets               = 
+  DUAD-PT009; Duelist's Advance; Secret Rare
+  | sp_sets               = 
+  DUAD-SP009; Duelist's Advance; Secret Rare
+  | jp_sets               = 
   DUAD-JP009; Duelist's Advance; Super Rare, Prismatic Secret Rare
   | sc_sets               = 
   DUAD-SC009; Duelist's Advance; Super Rare, Prismatic Secret Rare
-  | archseries           = Artmegia
-  | supports_archetypes  = Artmegia
+  | archseries           = Artmage
+  | supports_archetypes  = Artmage
   | action               = 
   * Activates from your hand
   * You draw cards

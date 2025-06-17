@@ -25,9 +25,36 @@ wikitext: |-
   "'''R.B.'''", short for "'''Revol Bots'''"<ref>{{cite web | url = https://www.youtube.com/watch?v=lh6SKhci778&t=4253s | title = Yu-Gi-Oh! TCG {{!}} Duelist's Advance {{!}} Set Introduction | publisher = Official Yu-Gi-Oh! TRADING CARD GAME Channel (YouTube) | date = June 16, 2025 | accessdate = June 16, 2025}}</ref>, is a [[TCG-only|World Premiere]] [[archetype]] of [[Machine]] monsters introduced in ''[[Duelist's Advance]]''.
 
   ==Playing style==
+  "R.B." is centralized around Summoning "[[R.B. The Brute Blues]]", then having it point to other members of the archetype.
+
+  * Each "R.B." Main Deck monster can Special Summon itself if the player controls no monsters other than "R.B." monsters. They all have an effect that can only be activated if [[linked]] to an "R.B." Link Monster. These effects require an LP [[cost]], and destroy the monster (as effect), for some sort of benefit.
+
+  Because the Links can use any Machine as material, the archetype can synergize with various other Machine engines/archetypes, such as "[[Speedroid Terrortop]]" + "[[Speedroid Taketomborg|Taketomborg]]", "[[Sky Striker Mecha - Hornet Drones]]", and "[[Machina]]" (with "[[Machina Citadel]]" able to trigger itself off the EARTH Machine "R.B." monsters). While the archetype has an Extra Deck lock, certain combos can avoid the lock.
+
   === Sample combos ===
+  '''Lockless combo off any 2 Machines'''
+
   {{Combo steps
-  | opening = Having "[[Machina Redeployment]]" + 1 card in hand
+  | opening = Any 2 Machine monsters
+  | end     = "[[R.B. The Brute Blues]]" pointing to any 1 "R.B." Main Deck monster + "[[R.B. Funk Dock]]" 
+  | steps   = 
+  # Link Summon "[[R.B. VALCan Booster]]", use its effect to search "[[R.B. Funk Dock]]".
+  # Activate "Funk Dock", use its effect to search a "R.B." monster (which won't remain on field).
+  # Special Summon the searched "R.B." monster.
+  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and the leftover monster.
+  # Use the effect of "Brute Blues" to search a different "R.B." monster.
+  # Special Summon the other searched "R.B." monster.
+
+  If the Extra Deck lock of "VALCan Booster" can be afforded, the above combo can be adjusted to keep an extra "R.B" monster on field:
+  # At Step 3, with "VALcan Booster" and an "R.B." monster are on field, Link Summon "[[Clockwork Knight]]" using the searched "R.B." monster.
+  # Use "VALCan Booster's" second effect to Special Summon the "R.B." monster used as material.
+  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and "Knight". Continue at Step 5.
+  }}
+
+  '''Machina Redeployment'''
+
+  {{Combo steps
+  | opening = "[[Machina Redeployment]]" + 1 card in hand
   | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Ga10 Cutter]]", with "[[Machina Citadel]]" in GY, and 2 cards drawn
   | steps   = 
   # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
