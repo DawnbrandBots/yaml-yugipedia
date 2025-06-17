@@ -18,8 +18,9 @@ wikitext: |-
   | link_arrows         = Bottom-Left, Bottom-Center, Bottom-Right
   | atk                 = 1500
   | password            = 
+  | materials           = 2+ Machine monsters
   | effect_types        = Condition, Continuous, Continuous, Continuous, Ignition, Condition
-  | text                = 2+ Machine monsters<br />Gains the following effects while this card points to an "R.B." monster.<br />● Gains ATK equal to the total original ATK of "R.B." monsters it points to.<br />● Can make a second attack during each Battle Phase.<br />● Cannot be destroyed by battle or card effects.<br />During your Main Phase: You can add 1 "R.B." card from your Deck to your hand. You can only use this effect of "R.B. The Brute Blues" once per turn.
+  | text                = 2+ [[Machine]] [[monster]]s<br />Gains the following [[effect]]s while this card [[points to]] an "[[R.B.]]" monster.<br />● Gains [[ATK]] equal to the total [[original ATK]] of "R.B." monsters it points to.<br />● Can make a second [[attack]] during each [[Battle Phase]].<br />● Cannot be [[destroyed by battle]] or [[card effect]]s.<br />During your [[Main Phase]]: You can [[add]] 1 "R.B." card from your [[Main Deck|Deck]] to your [[hand]]. You can only use this effect of "R.B. The Brute Blues" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -40,7 +41,17 @@ wikitext: |-
   DUAD-PT094; Duelist's Advance; Ultra Rare
   | sp_sets             = 
   DUAD-SP094; Duelist's Advance; Ultra Rare
+  | supports            = Machine
   | archseries          = R.B.
   | supports_archetypes = R.B.
+  | action              = Adds from Deck to hand
+  | stat_change         = This card gains ATK
+  | m/s/t               = Cannot be destroyed by card effects
+  | attack              = 
+  * Multiple attacker
+  * Cannot be destroyed by battle
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

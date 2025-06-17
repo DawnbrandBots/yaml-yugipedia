@@ -18,8 +18,9 @@ wikitext: |-
   | link_arrows         = Bottom-Center, Top-Center
   | atk                 = 500
   | password            = 
+  | materials           = 2 Machine monsters
   | effect_types        = Trigger, Ignition, Condition
-  | text                = 2 Machine monsters<br />If this card is Link Summoned: You can add 1 "R.B." Spell from your Deck to your hand. If this card is in the Extra Monster Zone: You can Special Summon 1 "R.B." monster from your hand or GY in Defense Position, then you can move this card you control to another of your Main Monster Zones, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters with 1500 or less ATK. You can only use each effect of "R.B. VALCan Booster" once per turn.
+  | text                = 2 [[Machine]] [[monster]]s<br />If this card is [[Link Summon]]ed: You can [[add]] 1 "[[R.B.]]" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is in the [[Extra Monster Zone]]: You can [[Special Summon]] 1 "R.B." monster from your hand or [[GY]] in [[Defense Position]], then you can move this card you [[control]] to another of your [[Main Monster Zone]]s, also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except Machine monsters with 1500 or less [[ATK]]. You can only use each [[effect]] of "R.B. VALCan Booster" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -40,7 +41,21 @@ wikitext: |-
   DUAD-PT093; Duelist's Advance; Ultra Rare
   | sp_sets             = 
   DUAD-SP093; Duelist's Advance; Ultra Rare
+  | supports            = Machine
   | archseries          = R.B.
   | supports_archetypes = R.B.
+  | action              = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  | m/s/t               = Changes Monster Zone
+  | summoning           = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Restricts the player's Special Summons to ATK specific monsters
+  | misc                = Only once per turn
   | database_id         = 
   }}

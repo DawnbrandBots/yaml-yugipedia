@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Unclassified, Condition
-  | text                = Special Summon 1 "R.B." monster from your Deck/Extra Deck with a different name than the cards you control. If an "R.B." monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.
+  | text                = [[Special Summon]] 1 "[[R.B.]]" [[monster]] from your [[Main Deck|Deck]]/[[Extra Deck]] with a different name than the cards you [[control]]. If an "R.B." monster(s) you control would be [[destroyed by battle]] or [[card effect]], you can [[banish]] this card from your [[GY]] instead. You cannot Special Summon from the Extra Deck the [[turn]] you [[activate]] this card, except [[Machine]] monsters with 1500 or less [[original ATK]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -38,7 +38,19 @@ wikitext: |-
   DUAD-PT096; Duelist's Advance; Secret Rare
   | sp_sets             = 
   DUAD-SP096; Duelist's Advance; Secret Rare
+  | supports            = Machine
   | archseries          = R.B.
   | supports_archetypes = R.B.
+  | m/s/t               = 
+  * Redirects destruction
+  * Prevents other cards being destroyed by card effects
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Restricts the player's Special Summons to ATK specific monsters
+  | attack              = Prevents other cards being destroyed by battle
+  | banishes            = Banishes itself from Graveyard
   | database_id         = 
   }}
