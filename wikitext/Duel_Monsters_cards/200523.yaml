@@ -1,16 +1,17 @@
 title: Gagaga Caesar
 wikitext: |-
   {{CardTable2
-  | tc_name             = 我我我帝王
   | fr_name             = César Gagaga
   | de_name             = Gagaga-Caesar
   | it_name             = Cesare Gagaga
-  | ko_name             = 가가가 카이저
   | pt_name             = 
   | es_name             = César Gagaga
   | ja_name             = ガガガカイザー
   | romaji_name         = Gagaga Kaizā
   | translated_name     = Gagaga Kaiser
+  | ko_name             = 가가가 카이저
+  | tc_name             = 我我我帝王
+  | sc_name             = 我我我凯撒
   | image               = GagagaCaesar-ABYR-EN-R-1E.png
   | attribute           = EARTH
   | types               = Warrior / Effect
@@ -28,6 +29,7 @@ wikitext: |-
   | ja_text             = このカードは自分フィールド上にこのカード以外の「ガガガ」と名のついたモンスターが存在する場合のみ攻撃できる。また、１ターンに１度、自分の墓地のモンスター１体をゲームから除外して発動できる。自分フィールド上の全ての「ガガガ」と名のついたモンスターのレベルは、この効果を発動するためにゲームから除外したモンスターと同じレベルになる。このカードはシンクロ素材にできない。
   | ko_text             = 이 카드는 자신 필드 위에 이 카드 이외의 "가가가"라는 이름이 붙은 몬스터가 존재할 경우에만 공격할 수 있다. 또한, 1 턴에 1번, 자신의 묘지의 몬스터 1장을 게임에서 제외하고 발동할 수 있다. 자신 필드 위의 모든 "가가가"라는 이름이 붙은 몬스터의 레벨은, 이 효과를 발동하기 위해 게임에서 제외한 몬스터와 같은 레벨이 된다. 이 카드는 싱크로 소재로 할 수 없다.
   | tc_text             = 此卡仅限我方场上存在除此卡以外冠有「我我我」之名的怪兽的场合可攻击。此外，1回合1次，可将我方墓地的1只怪兽从游戏中除外并发动。我方场上冠有「我我我」之名的全部怪兽的等级变成与为了发动此效果而从游戏中除外的怪兽相同等级。此卡不可作为同步素材。
+  | sc_text             = 此卡不可作为同步素材。①：自己场上不存在其他“我我我”怪兽的情况下，此卡不可攻击。②：1回合1次，从自己墓地将1只怪兽除外可以发动。自己场上的所有“我我我”怪兽的等级变为与除外的怪兽的等级相同。
   | en_sets             = 
   ABYR-EN001; Abyss Rising; Rare
   | fr_sets             = 
@@ -44,6 +46,8 @@ wikitext: |-
   ABYR-KR001; Abyss Rising; Rare
   | tc_sets             = 
   ABYR-TC001; Abyss Rising; Rare
+  | sc_sets         = 
+  25BZ-SC106; Duelist Advance Patchwork Pack; Common
   | archseries          = Gagaga
   | supports_archetypes = Gagaga
   | stat_change         = 
