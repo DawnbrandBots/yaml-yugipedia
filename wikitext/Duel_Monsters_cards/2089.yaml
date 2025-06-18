@@ -17,7 +17,8 @@ wikitext: |-
   2; DarkPaladin-SDMY-EN-C-1E.png;     DarkPaladin-TF05-JP-VG-3-artwork.png
   3; DarkPaladin-MIL1-EN-C-1E.png;     DarkPaladin-TF05-JP-VG-artwork.png
   4; DarkPaladin-711C-JP-NPR.png;      DarkPaladin-CA-4.png
-  | current_image         = 1
+  5; DarkPaladin-BLMM-EN-ScR-1E.png;   DarkPaladin-DAR.png
+  | current_image         = 5
   | attribute             = DARK
   | types                 = Spellcaster / Fusion / Effect
   | level                 = 8
@@ -29,7 +30,7 @@ wikitext: |-
   * Buster Blader
   | materials             = "Dark Magician" + "Buster Blader"
   | effect_types          = Summoning condition, Quick, Condition, Continuous
-  | text                  = "[[Dark Magician]]" + "[[Buster Blader]]"<br />Must be [[Fusion Summon]]ed. When a [[Spell Card]] is [[activate]]d ([[Quick Effect]]): You can [[discard]] 1 card; [[negate]] the activation, and if you do, [[destroy]] it. This card must be [[face-up]] on the [[field]] to activate and to [[resolve]] this [[effect]]. Gains 500 [[ATK]] for each [[Dragon]] [[monster]] on the field and in the [[GY]].
+  | text                  = "[[Dark Magician]]" + "[[Buster Blader]]"<br />Must be [[Fusion Summon]]ed. When a [[Spell Card]] is [[activate]]d ([[Quick Effect]]): You can [[discard]] 1 card; [[negate]] the activation, and if you do, [[destroy]] it. This card must be [[face-up]] on the [[field]] to activate and to [[resolve]] this [[effect]]. Gains 500 [[ATK]] for each [[Dragon]] [[monster]] on the field and in the [[GY]]s.
   | fr_text               = "Magicien Sombre" + "Buster Blader"<br />Uniquement Invocable par Fusion. Lorsqu'une Carte Magie est activée (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez-la. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet. Gagne 500 ATK pour chaque monstre Dragon sur le Terrain et dans le Cimetière.
   | de_text               = „Dunkler Magier“ + „Buster-Klingenkämpfer“<br />Muss als Fusionsbeschwörung beschworen werden. Wenn eine Zauberkarte aktiviert wird (Schnelleffekt): Du kannst 1 Karte abwerfen; annulliere die Aktivierung und falls du dies tust, zerstöre sie. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen. Erhält für jedes Drache-Monster auf dem Spielfeld und im Friedhof 500 ATK.
   | it_text               = "Mago Nero" + "Combattente delle Lame"<br />Deve essere Evocato tramite Fusione. Quando viene attivata una Carta Magia (Effetto Rapido): puoi scartare 1 carta; annulla l'attivazione e, se lo fai, distruggila. Questa carta deve essere scoperta sul Terreno per attivare e risolvere questo effetto. Guadagna 500 ATK per ogni mostro Drago sul Terreno e nel Cimitero.
@@ -49,6 +50,7 @@ wikitext: |-
   HAC1-EN018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-ENA20; Speed Duel: Streets of Battle City; Common
   RA03-EN126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-EN008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | na_sets               = 
   MFC-105; Magician's Force; Ultra Rare
   DMG-001; Duel Master's Guide promotional cards; Secret Rare
@@ -65,6 +67,7 @@ wikitext: |-
   HAC1-FR018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-FRA20; Speed Duel: Streets of Battle City; Common
   RA03-FR126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-FR008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | de_sets               = 
   DR1-DE160; Dark Revelation Volume 1; Ultra Rare
   DPYG-DE016; Duelist Pack: Yugi; Ultra Rare
@@ -77,6 +80,7 @@ wikitext: |-
   HAC1-DE018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-DEA20; Speed Duel: Streets of Battle City; Common
   RA03-DE126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-DE008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | it_sets               = 
   DR1-IT160; Dark Revelation Volume 1; Ultra Rare
   DPYG-IT016; Duelist Pack: Yugi; Ultra Rare
@@ -89,6 +93,7 @@ wikitext: |-
   HAC1-IT018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-ITA20; Speed Duel: Streets of Battle City; Common
   RA03-IT126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-IT008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | pt_sets               = 
   DR1-PT160; Dark Revelation Volume 1; Ultra Rare
   YGLD-PTC41; Yugi's Legendary Decks; Common
@@ -98,6 +103,7 @@ wikitext: |-
   HAC1-PT018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-PTA20; Speed Duel: Streets of Battle City; Common
   RA03-PT126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-PT008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | sp_sets               = 
   DR1-SP160; Dark Revelation Volume 1; Ultra Rare
   DPYG-SP016; Duelist Pack: Yugi; Ultra Rare
@@ -110,6 +116,7 @@ wikitext: |-
   HAC1-SP018; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
   SBC1-SPA20; Speed Duel: Streets of Battle City; Common
   RA03-SP126; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  BLMM-SP008; Battles of Legend: Monster Mayhem; Secret Rare, Starlight Rare
   | jp_sets               = 
   303-051; Champion of Black Magic; Secret Rare, Ultimate Rare
   LE5-001; Limited Edition 5: Yugi Pack; Ultra Rare

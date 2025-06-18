@@ -29,10 +29,35 @@ wikitext: |-
 
   * Each "R.B." Main Deck monster can Special Summon itself if the player controls no monsters other than "R.B." monsters. They all have an effect that can only be activated if [[linked]] to an "R.B." Link Monster. These effects require an LP [[cost]], and destroy the monster (as effect), for some sort of benefit.
 
-  Because the Links can use any Machine as material, the archetype can synergize with various other Machine engines/archetypes, such as "[[Speedroid Terrortop]]" + "[[Speedroid Taketomborg|Taketomborg]]", "[[Sky Striker Mecha - Hornet Drones]]", and "[[Machina]]" (with "[[Machina Citadel]]" able to trigger itself off the EARTH Machine "R.B." monsters). While the archetype has an Extra Deck lock, certain combos can avoid the lock.
+  Because the Links can use any Machine as material, the archetype can synergize with various other Machine engines/archetypes, such as "[[Speedroid Terrortop]]" + "[[Speedroid Taketomborg|Taketomborg]]", "[[Sky Striker Mecha - Hornet Drones]]", "[[Superheavy Samurai Prodigy Wakaushi]]", and "[[Machina]]" (with "[[Machina Citadel]]" able to trigger itself off the EARTH Machine "R.B." monsters).
 
   === Sample combos ===
-  '''Lockless combo off any 2 Machines'''
+  While the archetype has an Extra Deck lock, certain combos can avoid the lock:
+
+  '''R.B. Stage Landing'''
+
+  {{Combo steps
+  | opening = [[R.B. Stage Landing]]
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Cutter]]," "[[R.B. Ga10 Driller]]," and "[[R.B. VALCan Booster]]" + "[[R.B. Funk Dock]]" in the Field Zone
+  | steps   = 
+  # Activate "[[R.B. Stage Landing]]," summoning "[[R.B. The Brute Blues]]" to the Extra Monster Zone
+  # Use the effect of "[[R.B. The Brute Blues]]," adding "[[R.B. Ga10 Cutter]]" from deck to hand.
+  # Special Summon "[[R.B. Ga10 Cutter]]" to a zone "[[R.B. The Brute Blues]]" points to. (Note: If your opponent activated [[Droll & Lock Bird]] upon resolution of the effect of "[[R.B. The Brute Blues]]" or had activated "[[Mulcharmy Fuwalos]]" in response to "[[R.B. Stage Landing]]," you can end the combo here and still retain a Spell or Trap negation.)
+  # Link Summon "[[Clockwork Knight]]" using "[[R.B. Ga10 Cutter]]" as material.
+  # Use the effect of "[[Clockwork Knight]]," tributing "[[R.B. The Brute Blues]]" and Special Summoning "[[R.B. Ga10 Cutter]]."
+  # Link Summon "[[Ancient Gear Ballista]]" using "[[Clockwork Knight]]" and "[[R.B. Ga10 Cutter]]" as material.
+  # Use the effect of "[[Ancient Gear Ballista]]," searching "[[Ancient Gear Box]]."
+  # Use the effect of "[[Ancient Gear Box]]," searching "[[R.B. Ga10 Driller]]."
+  # Normal Summon "[[Ancient Gear Box]]."
+  # Link Summon "[[R.B. VALCan Booster]]" using "[[Ancient Gear Box]]" and "[[Ancient Gear Ballista]]" as material.
+  # Activate the first effect of "[[R.B. VALCan Booster]]," searching "[[R.B. Funk Dock]]."
+  # Activate "[[R.B. Funk Dock]]," searching another copy of "[[R.B. Stage Landing]]."
+  # Activate the second effect of "[[R.B. VALCan Booster]]," placing itself in a zone directly beneath one of the Extra Monster Zones and Special Summoning the "[[R.B. Ga10 Cutter]]" in your Graveyard to a zone adjacent to the new placement of "[[R.B. VALCan Booster]]."
+  # Activate the new copy of "[[R.B. Stage Landing]]," summoning a new copy of "[[R.B. The Brute Blues]]" to the zone directly above "[[R.B. VALCan Booster]]."
+  # Special Summon "[[R.B. Ga10 Driller]]" to the other zone adjacent to "[[R.B. VALCan Booster]]."
+  }}
+
+  '''Any 2 Machines'''
 
   {{Combo steps
   | opening = Any 2 Machine monsters
