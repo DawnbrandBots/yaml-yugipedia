@@ -18,18 +18,33 @@ wikitext: |-
   | card_type             = Trap
   | property              = Normal
   | password              = 
-  | effect_types          = 
-  | text                  = 
+  | effect_types          = Condition, Effect, Trigger-like
+  | text                  = You can [[activate]] this card the [[turn]] it was [[Set]] by [[reveal]]ing 1 [[Spellcaster]] [[monster]] in your [[hand]]. When a [[monster effect]] is activated in response to the activation of a card that [[mention]]s "[[Dark Magician]]" or its [[effect]]: You can [[negate]] that effect, and if you do, for the rest of this turn, the activated effects of monsters with the same original name are negated. If you [[Special Summon]] "Dark Magician" while this card is in your [[GY]]: You can pay 2500 [[LP]]; Set this card.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカードは手札の魔法使い族モンスター１体を相手に見せ、セットしたターンに発動する事もできる。①：「ブラック・マジシャン」のカード名が記されたカードの効果の発動にチェーンして、モンスターの効果が発動した時に発動できる。その効果を無効にし、このターン、そのモンスターと元々のカード名が同じモンスターが発動した効果は無効化される。②：このカードが墓地に存在する状態で、自分が「ブラック・マジシャン」を特殊召喚した場合、２５００ＬＰを払って発動できる。このカードを自分フィールドにセットする。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
   VJMP-JP273; V Jump August 2025 promotional card; Ultra Rare
+  | mentions              = Dark Magician
+  | supports              = Spellcaster
   | related_to_archseries = Dark Magician (archetype)
-  | database_id           = 
+  | action                = 
+  * Reveals your hand for cost
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | m/s/t                 = 
+  * Can be activated the turn it was Set
+  * Negates the effects of Effect Monsters
+  | life_points           = Pays Life Points for cost
+  | misc                  = 
+  * Mentions
+  * Turn limited effects
+  * Requires control of specific card
+  | database_id           = 21749
   }}
