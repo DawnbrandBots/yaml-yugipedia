@@ -1,25 +1,26 @@
 title: Magical Android
 wikitext: |-
   {{CardTable2
-  | tc_name      = 魔力人造人
   | fr_name      = Android Magique
   | de_name      = Magischer Android
   | it_name      = Androide Magico
-  | ko_name      = 매지컬 안드로이드
   | pt_name      = Androide Mágico
   | es_name      = Androide Mágico
   | ja_name      = マジカル・アンドロイド
   | romaji_name  = Majikaru Andoroido
-  | image        = MagicalAndroid-LC5D-EN-UR-1E.png
+  | ko_name      = 매지컬 안드로이드
+  | tc_name      = 魔力人造人
+  | sc_name      = 魔力人造机人
+  | image        = MagicalAndroid-BLMM-EN-ScR-1E.png
   | attribute    = LIGHT
   | types        = Psychic / Synchro / Effect
+  | level        = 5
   | atk          = 2400
   | def          = 1700
-  | level        = 5
   | password     = 43385557
   | effect_types = Trigger
   | materials    = 1 Tuner + 1 or more non-Tuner monsters
-  | text         = 1 [[Tuner monster|Tuner]] + 1 or more non-Tuner monsters<br />During each of your [[End Phase]]s: Gain 600 [[LP]] for each [[Psychic]]-[[Type]] [[monster]] you currently [[control]].
+  | text         = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner monsters<br />[[Once per turn]], during your [[End Phase]]: Gain 600 [[LP]] for each [[Psychic]] [[monster]] you [[control]].
   | fr_text      = 1 Syntoniseur + 1 monstre non-Syntoniseur ou plus<br />Durant chacune de vos End Phases : gagnez 600 LP pour chaque monstre de Type Psychique que vous contrôlez actuellement.
   | de_text      = 1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster<br />Während jeder deiner End Phasen: Du erhältst 600 Life Points für jedes Monster vom Typ Psi, das du derzeit kontrollierst.
   | it_text      = 1 Tuner + 1 o più mostri non-Tuner<br />Durante ogni tua End Phase: guadagna 600 LP per ogni mostro di Tipo Psichico che controlli attualmente.
@@ -28,30 +29,37 @@ wikitext: |-
   | ja_text      = チューナー＋チューナー以外のモンスター１体以上<br />自分のエンドフェイズ時、自分フィールド上のサイキック族モンスター１体につき、自分は６００ライフポイント回復する。
   | ko_text      = 튜너＋튜너 이외의 몬스터 1장 이상<br />자신의 엔드 페이즈시, 자신 필드 위에 앞면 표시로 존재하는 사이킥족 몬스터의 수 × 600 라이프 포인트를 회복한다.
   | tc_text      = 协调＋协调以外的怪兽1只以上<br />在我方的结束阶段时，我方场上每有1只超能族怪兽，我方就恢复600点生命点数。
+  | sc_text      = 协调＋协调以外的怪兽1只以上<br />①：在自己的结束阶段发动。自己恢复相当于自己场上的念动力族怪兽的数量×600的LP。
   | en_sets      = 
   TDGS-EN043; The Duelist Genesis; Super Rare
   TU03-EN009; Turbo Pack: Booster Three; Rare
   LC5D-EN232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-EN147; Battles of Legend: Monster Mayhem; Secret Rare
   | na_sets      = 
   DT05-EN087; Duel Terminal 5b; Duel Terminal Normal Parallel Rare
   | fr_sets      = 
   TDGS-FR043; The Duelist Genesis; Super Rare
   TU03-FR009; Turbo Pack: Booster Three; Rare
   LC5D-FR232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-FR147; Battles of Legend: Monster Mayhem; Secret Rare
   | de_sets      = 
   TDGS-DE043; The Duelist Genesis; Super Rare
   TU03-DE009; Turbo Pack: Booster Three; Rare
   LC5D-DE232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-DE147; Battles of Legend: Monster Mayhem; Secret Rare
   | it_sets      = 
   TDGS-IT043; The Duelist Genesis; Super Rare
   TU03-IT009; Turbo Pack: Booster Three; Rare
   LC5D-IT232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-IT147; Battles of Legend: Monster Mayhem; Secret Rare
   | pt_sets      = 
   LC5D-PT232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-PT147; Battles of Legend: Monster Mayhem; Secret Rare
   | sp_sets      = 
   TDGS-SP043; The Duelist Genesis; Super Rare
   TU03-SP009; Turbo Pack: Booster Three; Rare
   LC5D-SP232; Legendary Collection 5D's Mega Pack; Ultra Rare
+  BLMM-SP147; Battles of Legend: Monster Mayhem; Secret Rare
   | jp_sets      = 
   TDGS-JP043; The Duelist Genesis; Common
   DT10-JP037; Duel Terminal - Raid of the Inverz!!; Duel Terminal Normal Parallel Rare
@@ -60,6 +68,8 @@ wikitext: |-
   SP01-TC032; Starter Pack Volume 1; Rare
   | kr_sets      = 
   TDGS-KR043; The Duelist Genesis; Common
+  | sc_sets         = 
+  25BZ-SC115; Duelist Advance Patchwork Pack; Common
   | ygo_sets     = 
   '''[[Pack 49 (YGOO-BP)|Pack 49]]'''
   | supports     = Psychic
