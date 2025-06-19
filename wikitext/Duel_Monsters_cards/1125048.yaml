@@ -1,7 +1,5 @@
-title: Shipment Error
+title: Shipping Error
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -11,11 +9,10 @@ wikitext: |-
   | ja_name             = {{Ruby|誤出荷|シッピング・エラー}}
   | base_romaji_name    = Goshukka
   | romaji_name         = Shippingu Erā
-  | translated_name     = Shipping Error
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 误出货
-  | image               = ShipmentError-DUAD-JP-C.png
+  | image               = ShippingError-DUAD-JP-C.png
   | card_type           = Trap
   | property            = Normal
   | password            = 58761791
@@ -29,9 +26,21 @@ wikitext: |-
   | ja_text             = ①：デッキからカードを手札に加える効果を含む、魔法・罠・モンスターの効果が発動した時に発動できる。その効果は「相手は自身のデッキからカード１枚を選ぶ。自分はそのカードを手札に加える。自分はこの効果で手札に加えたカードを公開し続け、このターンのエンドフェイズに、公開しているそのカードを元々の持ち主のデッキに戻し、自分は１枚ドローする。」となる。
   | ko_text             = 
   | sc_text             = ①：包含从牌组将卡加入手牌的效果在内的、魔法・陷阱・怪兽的效果发动时可以发动。该效果变为“对手从自身的牌组挑选1张卡。自己将该卡加入手牌。自己持续公开以此效果加入手牌的卡，在此回合的结束阶段，将公开中的该卡放回原本持有者的牌组，自己抽1张。”。
+  | en_sets             = 
+  DUAD-EN079; Duelist's Advance; Common
+  | fr_sets             = 
+  DUAD-FR079; Duelist's Advance; Common
+  | de_sets             = 
+  DUAD-DE079; Duelist's Advance; Common
+  | it_sets             = 
+  DUAD-IT079; Duelist's Advance; Common
+  | pt_sets             = 
+  DUAD-PT079; Duelist's Advance; Common
+  | sp_sets             = 
+  DUAD-SP079; Duelist's Advance; Common
   | jp_sets             = 
   DUAD-JP079; Duelist's Advance; Common
-  | sc_sets               = 
+  | sc_sets             = 
   DUAD-SC079; Duelist's Advance; Common
   | action              = 
   * Overwrites card effects
