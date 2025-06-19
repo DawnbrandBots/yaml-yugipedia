@@ -17,6 +17,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Right
   | atk                   = 1400
   | password              = 
+  | materials             = 2 monsters with different Types and Attributes
   | effect_types          = Continuous, Condition, Ignition, Trigger
   | text                  = 2 [[monsters]] with different [[Type]]s and [[Attribute]]s<br />If a [[Ritual Monster]] this card [[points to]] [[attack]]s a [[Defense Position]] [[monster]], inflict [[piercing]] [[battle damage]] to your opponent. You can only use each of the following effects of "ASHLAN U1000" [[once per turn]]. You can [[reveal]] 1 Ritual Monster in your [[hand]]; [[Add a card|add]] 1 Ritual Monster with a different Type and Attribute from your [[Main Deck|Deck]] to your [[hand]]. If you [[Ritual Summon]] (except during the [[Damage Step]]): You can [[target]] 1 [[face-up]] card your opponent [[control]]s; [[return]] it to the hand.
   | fr_text               = 
@@ -39,6 +40,18 @@ wikitext: |-
   DUAD-PT085; Duelist's Advance; 
   | sp_sets               = 
   DUAD-SP085; Duelist's Advance; 
+  | supports              = Ritual Monster
   | related_to_archseries = Thousand Hands
+  | action                = 
+  * Reveals your hand for cost
+  * Adds from Deck to hand
+  * Activates upon Ritual Summon
+  * Returns from your opponent's field to your opponent's hand
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
+  * Requires Attribute specific Link Materials
+  | attack                = Piercing
+  | misc                  = Only once per turn
   | database_id           = 
   }}
