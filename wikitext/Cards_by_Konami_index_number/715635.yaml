@@ -72,6 +72,19 @@ wikitext: |-
   |offset      = 2000
   |searchlabel = 
   }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 2500
+  |searchlabel = 
+  }}
   |}{{page uses a hardcoded query}}<!-- might substitute the queries at some point to reformat the table more like [[List of cards by Konami index number (4007–5000)]]; anyone else who wants to is free to do so without waiting on me, of course -->
 
   [[Category:Rush Duel cards|*]]
