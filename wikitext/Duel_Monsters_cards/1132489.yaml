@@ -18,9 +18,9 @@ wikitext: |-
   | level               = 1
   | atk                 = 800
   | def                 = 1000
-  | password            = 
+  | password            = 07166709
   | effect_types        = Ignition
-  | text                = If the card is in your hand or GY: You can reveal 1 Level 5 or higher monster in your hand, then activate 1 of these effects (but you can only use each effect of "Steel-Stringed Sacrifice" once per turn); during the End Phase of this turn, lose 1000 LP if you did not Normal Summon the revealed monster, or a monster with the same original name, after activating this effect.<br />● Special Summon this card from your hand.<br />● Add this card from your GY to your hand.<br />● Banish this card from your GY, and if you do, add 1 Level 5 or higher monster from your GY to your hand.
+  | text                = If the card is in your [[hand]] or [[GY]]: You can [[reveal]] 1 [[Level]] 5 or higher [[monster]] in your hand, then [[activate]] 1 of these [[effect]]s (but you can only use each effect of "Steel-Stringed Sacrifice" [[once per turn]]); during the [[End Phase]] of this [[turn]], lose 1000 [[LP]] if you did not [[Normal Summon]] the revealed monster, or a monster with the same original name, after activating this effect.<br />● [[Special Summon]] this card from your hand.<br />● [[Add]] this card from your GY to your hand.<br />● [[Banish]] this card from your GY, and if you do, add 1 Level 5 or higher monster from your GY to your hand.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,5 +41,17 @@ wikitext: |-
   DUAD-PT087; Duelist's Advance; Common
   | sp_sets             = 
   DUAD-SP087; Duelist's Advance; Common
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Reveals your hand for cost
+  * Returns itself from Graveyard to hand
+  * Adds from Graveyard to hand
+  | summoning           = Special Summons itself from your hand
+  | banished            = Banishes itself from your Graveyard
+  | life_points         = You lose Life Points
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}

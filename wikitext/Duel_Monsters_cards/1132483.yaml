@@ -18,9 +18,10 @@ wikitext: |-
   | level               = 7
   | atk                 = 2500
   | def                 = 2000
-  | password            = 
+  | password            = 70659412
+  | materials           = 1 Tuner + 1 or more non-Tuner Psychic-Type monsters
   | effect_types        = Trigger
-  | text                = 1 Tuner + 1+ non-Tuner Psychic monsters<br />Each time your opponent activates a card or effect on the field (except during the Damage Step): You can pay 2000 LP and declare 1 card type (Monster, Spell, or Trap) (but you can only declare each card type once per turn to activate this effect of "Psychic Omnibuster); look at 1 random card in your opponent's hand, and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).<br />● This card cannot be destroyed by the effects of the declared card type this turn.<br />● Banish the card you looked at, face-up, until the End Phase.
+  | text                = 1 [[Tuner]] + 1+ non-Tuner [[Psychic]] [[monster]]s<br />Each time your opponent [[activate]]s a card or [[effect]] on the field (except during the [[Damage Step]]): You can [[pay]] 2000 [[LP]] and [[declare]] 1 [[card type]] (Monster, [[Spell]], or [[Trap]]) (but you can only declare each card type once per turn to activate this effect of "Psychic Omnibuster); look at 1 random card in your opponent's [[hand]], and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).<br />● This card cannot be [[destroy]]ed by the effects of the declared card type this [[turn]].<br />● [[Banish]] the card you looked at, [[face-up]], until the [[End Phase]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,5 +42,17 @@ wikitext: |-
   DUAD-PT089; Duelist's Advance; Common
   | sp_sets             = 
   DUAD-SP089; Duelist's Advance; Common
+  | supports            = Psychic
+  | action              = 
+  * Declares a card type
+  * Reveals your opponent's hand
+  * Returns the opponent's banished cards to the hand
+  | m/s/t               = Cannot be destroyed by card effects
+  | summoning           = 
+  * Does not require specific Tuner Synchro Materials
+  * Requires Type specific non-Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | banished            = Banishes from your opponent's hand
+  | life_points         = Pays Life Points for cost
   | database_id         = 
   }}

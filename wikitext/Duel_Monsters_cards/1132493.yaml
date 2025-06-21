@@ -15,9 +15,9 @@ wikitext: |-
   | image               = XyzLay-DUAD-EN-C-1E.png
   | card_type           = Spell
   | property            = Equip
-  | password            = 
+  | password            = 43150717
   | effect_types        = Continuous-like, Ignition-like, Condition
-  | text                = The equipped monster gains 200 ATK for each Xyz Material on the field. Once per turn: You can activate the following effect, based on the equipped monster's card type;<br />● Xyz: Detach 2 materials from a monster(s) you control; Set 1 "[[Xyz (archetype)|Xyz]]" Spell/Trap from your Deck.<br />● Other: Special Summon 1 monster with the same Level as the equipped monster from your hand in Defense Position, but negate its effects.<br />You can only activate 1 "Xyz Lay" per turn
+  | text                = The [[equip]]ped [[monster]] gains 200 [[ATK]] for each [[Xyz Material]] on the [[field]]. [[Once per turn]]: You can [[activate]] the following [[effect]], based on the equipped monster's card type;<br />● [[Xyz Monster|Xyz]]: [[Detach]] 2 materials from a monster(s) you control; [[Set]] 1 "[[Xyz (archetype)|Xyz]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]].<br />● Other: [[Special Summon]] 1 monster with the same [[Level]] as the equipped monster from your [[hand]] in [[Defense Position]], but [[negate]] its effects.<br />You can only activate 1 "Xyz Lay" per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -38,7 +38,18 @@ wikitext: |-
   DUAD-PT088; Duelist's Advance; Common
   | sp_sets             = 
   DUAD-SP088; Duelist's Advance; Common
+  | supports            = Xyz Monster
+  | anti-supports       = Xyz Monster
   | archseries          = Xyz (archetype)
   | supports_archetypes = Xyz (archetype)
+  | action              = 
+  * Detaches multiple Xyz Materials as cost
+  * Sets from your Deck
+  | stat_change         = Equipped gains ATK
+  | m/s/t               = Negates the effects of the Summoned monsters
+  | summoning           = Special Summons from your hand
+  | misc                = 
+  * Limited activations
+  * Only once per turn
   | database_id         = 
   }}
