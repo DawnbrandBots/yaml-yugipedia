@@ -1,0 +1,77 @@
+title: Defender, the Magical Knight
+wikitext: |-
+  {{CardTable2
+  | de_name               = Verteidiger, der magische Ritter
+  | fr_name               = Bouclier Divin, le Chevalier Magique
+  | it_name               = Difensore, il Cavaliere Magico
+  | pt_name               = Defensor, o Cavaleiro Mágico
+  | es_name               = Defensor, el Caballero Mágico
+  | ja_name               = {{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|騎|き}}{{Ruby|士|し}} ディフェンダー
+  | romaji_name           = Madōkishi Difendā
+  | ko_name               = 마법 기사 디펜더
+  | ko_rr_name            = Mabeop Gisa Dipendeo
+  | image                 = DefendertheMagicalKnight-SR08-EN-C-1E.png
+  | attribute             = LIGHT
+  | types                 = Spellcaster / Effect
+  | atk                   = 1600
+  | def                   = 2000
+  | level                 = 4
+  | password              = 02525268
+  | effect_types          = Trigger, Continuous
+  | text                  = If this card is [[Normal Summon]]ed: Place 1 [[Spell Counter]] on it (max. 1). [[Once per turn]], if a [[Spellcaster]] [[Monster Card|monster]](s) on the [[field]] would be [[destroy]]ed, you can remove 1 Spell Counter from your field for each of those monsters instead.
+  | fr_text               = Si cette carte est Invoquée Normalement : placez 1 Compteur Magie sur elle (max. 1). Une fois par tour, si un ou plusieurs monstres Magicien sur le Terrain vont être détruits, vous pouvez retirer 1 Compteur Magie depuis votre Terrain pour chacun de ces monstres à la place.
+  | de_text               = Falls diese Karte als Normalbeschwörung beschworen wird: Lege 1 Zauberzählmarke darauf (max. 1). Einmal pro Spielzug, falls ein oder mehr Hexer-Monster auf dem Spielfeld zerstört würden, kannst du stattdessen für jedes der Monster 1 Zauberzählmarke von deiner Spielfeldseite entfernen.
+  | it_text               = Se questa carta viene Evocata Normalmente: metti 1 Segnalino Magia su di essa (massimo 1). Una volta per turno, se uno o più mostri Incantatore sul Terreno stanno per essere distrutti, puoi invece rimuovere 1 Segnalino Magia dal tuo Terreno per ognuno di quei mostri.
+  | pt_text               = Se este card for Invocado por Invocação-Normal: coloque 1 Marcador de Magia sobre ele (máx. 1). Uma vez por turno, se um ou mais monstros Mago no campo seriam destruídos, em vez disso, você pode remover 1 Marcador de Magia do seu campo para cada um desses monstros.
+  | es_text               = Si esta carta es Invocada de Modo Normal: pon 1 Contador Mágico en ella (máx. 1). Una vez por turno, si uno o más monstruos Lanzador de Conjuros en el Campo fueran a ser destruidos, puedes, en su lugar, retirar 1 Contador Mágico de tu Campo por cada uno de esos monstruos.
+  | ja_text               = ①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：１ターンに１度、フィールドの魔法使い族モンスターが破壊される場合、代わりにその数だけ自分フィールドの魔力カウンターを取り除く事ができる。
+  | ko_text               = ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다(최대 1개까지). ②: 1턴에 1번, 필드의 마법사족 몬스터가 파괴될 경우, 대신에 그 수만큼 자신 필드의 마력 카운터를 제거할 수 있다.
+  | en_sets               = 
+  SDSC-EN003; Spellcaster's Command Structure Deck; Common
+  DL14-EN006; Duelist League 14 participation cards; Rare
+  BP03-EN054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-EN007; Structure Deck: Order of the Spellcasters; Common
+  | fr_sets               = 
+  SDSC-FR003; Spellcaster's Command Structure Deck; Common
+  DL14-FR006; Duelist League 14 participation cards; Rare
+  BP03-FR054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-FR007; Structure Deck: Order of the Spellcasters; Common
+  | de_sets               = 
+  SDSC-DE003; Spellcaster's Command Structure Deck; Common
+  DL14-DE006; Duelist League 14 participation cards; Rare
+  BP03-DE054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-DE007; Structure Deck: Order of the Spellcasters; Common
+  | it_sets               = 
+  SDSC-IT003; Spellcaster's Command Structure Deck; Common
+  DL14-IT006; Duelist League 14 participation cards; Rare
+  BP03-IT054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-IT007; Structure Deck: Order of the Spellcasters; Common
+  | pt_sets               = 
+  BP03-PT054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-PT007; Structure Deck: Order of the Spellcasters; Common
+  | sp_sets               = 
+  SDSC-SP003; Spellcaster's Command Structure Deck; Common
+  DL14-SP006; Duelist League 14 participation cards; Rare
+  BP03-SP054; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SR08-SP007; Structure Deck: Order of the Spellcasters; Common
+  | jp_sets               = 
+  SD16-JP003; Structure Deck: Lord of Magician; Super Rare
+  SR08-JP007; Structure Deck R: Lord of Magician; Common
+  DR01-JPA08; Duel Royale Deck Set EX; Common
+  | ae_sets               = 
+  SD16-AE003; Structure Deck: Lord of Magician; Super Rare
+  | kr_sets               = 
+  SD16-KR003; Structure Deck: Lord of Magician; Super Rare
+  SR08-KR007; Structure Deck R: Lord of Magician; Common
+  | supports              = Spellcaster
+  | archseries            = Prophecy
+  | counter               = 
+  * Spell Counter
+  * Places counters on itself
+  * Removes counters from itself
+  | action                = Activates upon Normal Summon
+  | m/s/t                 = Redirects destruction
+  | misc                  = Limited activations
+  | related_to_archseries = Endymion
+  | database_id           = 8134
+  }}

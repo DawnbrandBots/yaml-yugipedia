@@ -1,0 +1,65 @@
+title: Scrap Fist
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Poing de Ferraille
+  | de_name               = Schrottfaust
+  | it_name               = Pugno Frammento
+  | pt_name               = Punho de Restolhos
+  | es_name               = Puño de Chatarra
+  | ja_name               = スクラップ・フィスト
+  | romaji_name           = Sukurappu Fisuto
+  | ko_name               = 스크랩 피스트
+  | sc_name               = 废铁拳
+  | image                 = ScrapFist-SDSE-EN-SR-1E.png
+  | card_type             = Spell
+  | property              = Quick-Play
+  | password              = 08529136
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 "[[Junk Warrior]]" you [[control]]; if it [[battle]]s an opponent's [[Monster Card|monster]] this [[turn]] while you control it, apply these [[effect]]s.<br />● Your opponent cannot [[activate]] cards or effects until the end of the [[Damage Step]].<br />● If it [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.<br />● Double any battle damage your opponent takes.<br />● It cannot be [[destroyed by battle]].<br />● [[Destroy]] the opponent's monster that battled it at the end of the Damage Step.
+  | fr_text               = Ciblez 1 "Robot Guerrier" que vous contrôlez ; si la cible combat un monstre de votre adversaire ce tour tant que vous le contrôlez, appliquez ces effets.<br />● Jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.<br />● S'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.<br />● Doublez les dommages de combat que votre adversaire reçoit.<br />● Il ne peut pas être détruit au combat.<br />● À la fin de la Damage Step, détruisez le monstre de votre adversaire qui l'a combattu.
+  | de_text               = Wähle 1 „Gerümpelkrieger“, den du kontrollierst; falls er in diesem Spielzug gegen ein Monster deines Gegners kämpft, solange du ihn kontrollierst, führe diese Effekte aus.<br />● Dein Gegner kann bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren.<br />● Falls er ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.<br />● Verdopple allen Kampfschaden, den dein Gegner erhält.<br />● Er kann nicht durch Kampf zerstört werden.<br />● Zerstöre am Ende des Damage Steps das Monster deines Gegners, gegen das er gekämpft hat.
+  | it_text               = Scegli come bersaglio 1 "Guerriero Rottame" che controlli; se esso combatte con un mostro dell'avversario in questo turno mentre tu lo controlli, applica questi effetti.<br />● Il tuo avversario non può attivare carte o effetti fino alla fine del Damage Step.<br />● Se esso attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.<br />● Raddoppia qualsiasi danno da combattimento subito dal tuo avversario.<br />● Non può essere distrutto in battaglia.<br />● Distruggi il mostro dell'avversario che ha combattuto con lui alla fine del Damage Step.
+  | pt_text               = Escolha 1 "Guerreiro Sucata" que você controla; se ele batalhar um monstro do oponente neste turno enquanto você o controlar, aplique esses efeitos.<br />● Seu oponente não pode ativar cards ou efeitos até o final da Etapa de Dano.<br />● Se ele atacar um monstro em Posição de Defesa, cause dano de Batalha perfurante ao seu oponente.<br />● Dobre qualquer dano de batalha que seu oponente sofrer.<br />● Ele não pode ser destruído em batalha.<br />● No final da Etapa de Dano, destrua o monstro do oponente que o batalhou.
+  | es_text               = Selecciona 1 "Guerrero de Basura" que controles; si ese objetivo batalla con un monstruo de tu adversario este turno mientras lo controlas, aplica estos efectos.<br />● Tu adversario no puede activar cartas ni efectos hasta el final del Damage Step.<br />● Si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.<br />● Dobla el daño de batalla que reciba tu adversario.<br />● No puede ser destruida en batalla.<br />● Destruye el monstruo de tu adversario con el que batalló al final del Damage Step.
+  | ja_text               = ①：自分フィールドの「ジャンク・ウォリアー」１体を対象として発動できる。このターン、その自分のモンスターが相手モンスターと戦闘を行う場合、以下の効果を適用する。●相手はダメージステップ終了時まで魔法・罠・モンスターの効果を発動できない。●対象のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。●相手が受ける戦闘ダメージは倍になる。●対象のモンスターは戦闘では破壊されない。●戦闘を行った相手モンスターはダメージステップ終了時に破壊される。
+  | ko_text               = ① : 자신 필드의 "정크 워리어" 1장을 대상으로 발동할 수 있다. 이 턴에, 그 자신 몬스터가 상대 몬스터와 전투를 실행할 경우, 이하의 효과를 적용한다. ● 상대는 데미지 스텝 종료시까지 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ● 대상 몬스터가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 상대에게 전투 데미지를 준다. ● 상대가 받는 전투 데미지는 배가 된다. ● 대상 몬스터는 전투로는 파괴되지 않는다.
+  ● 전투를 실행한 상대 몬스터는 데미지 스텝 종료시에 파괴된다.
+  | sc_text               = ①：以自己场上的1只"废品战士"为对象可以发动。此回合，自己的该怪兽与对手怪兽进行战斗的情况下，适用以下效果。<br />●对手直至伤害步骤结束时为止不可发动魔法・陷阱・怪兽的效果。<br />●对象怪兽攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。<br />●对手受到的战斗伤害变为两倍。<br />●对象怪兽不会因战斗被破坏。<br />●进行战斗的对手怪兽将在伤害步骤结束时被破坏。
+  | en_sets               = 
+  SDSE-EN024; Synchron Extreme Structure Deck; Super Rare
+  | fr_sets               = 
+  SDSE-FR024; Synchron Extreme Structure Deck; Super Rare
+  | de_sets               = 
+  SDSE-DE024; Synchron Extreme Structure Deck; Super Rare
+  | it_sets               = 
+  SDSE-IT024; Synchron Extreme Structure Deck; Super Rare
+  | pt_sets               = 
+  SDSE-PT024; Synchron Extreme Structure Deck; Super Rare
+  | sp_sets               = 
+  SDSE-SP024; Synchron Extreme Structure Deck; Super Rare
+  | jp_sets               = 
+  SD28-JP024; Structure Deck: Synchron Extreme; Normal Parallel Rare
+  YCPC-JP014; Yu-Gi-Oh! Chips; Common, Millennium Rare
+  | kr_sets               = 
+  SD28-KR024; Structure Deck: Synchron Extreme; Normal Parallel Rare
+  | sc_sets               = 
+  SD28-SC025; Structure Deck: Synchron Extreme; Normal Parallel Rare
+  | mentions              = Junk Warrior
+  | archseries            = 
+  * Scrap
+  * Signature move
+  | related_to_archseries = 
+  * Junk
+  * Warrior (archetype)
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  | attack                = 
+  * Piercing
+  * Cannot be destroyed by battle
+  | life_points           = Increases battle damage
+  | misc                  = Requires control of specific card
+  | database_id           = 11623
+  }}

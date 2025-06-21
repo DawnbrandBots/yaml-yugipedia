@@ -1,0 +1,58 @@
+title: Rain Storm
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Pluie Diluvienne
+  | de_name               = Regensturm
+  | it_name               = Tempesta di Pioggia
+  | pt_name               = Dilúvio
+  | es_name               = Chaparrón
+  | ja_name               = {{Ruby|暴風雨|レインストーム}}
+  | base_romaji_name      = Bōfūu
+  | romaji_name           = Reinsutōmu
+  | ko_name               = 폭풍우
+  | image                 = RainStorm-SGX3-EN-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 45653036
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 "[[Cloudian]]" [[monster]] you [[control]]; reduce its [[ATK]] by exactly 1000 or 2000, and if you do, apply the appropriate effect.<br />● 1000: [[Destroy]] 1 [[Spell]]/[[Trap]] your opponent controls.<br />● 2000: Destroy 2 cards your opponent controls.
+  | fr_text               = Ciblez 1 monstre "Nuagien" que vous contrôlez ; réduisez son ATK d'exactement 1000 ou 2000, et si vous le faites, appliquez l'effet approprié.<br />● 1000 : Détruisez 1 Magie/Piège contrôlé par votre adversaire.<br />● 2000 : Détruisez 2 cartes contrôlées par votre adversaire.
+  | de_text               = Wähle 1 „Wolkian“-Monster, das du kontrollierst; verringere seine ATK um genau 1000 oder 2000 und falls du dies tust, führe den entsprechenden Effekt aus.<br />● 1000: Zerstöre 1 Zauber/Falle, den oder die dein Gegner kontrolliert.<br />● 2000: Zerstöre 2 Karten, die dein Gegner kontrolliert.
+  | it_text               = Scegli come bersaglio 1 mostro "Nubiano" che controlli; riduci il suo ATK di esattamente 1000 o 2000 e, se lo fai, applica l'effetto appropriato.<br />● 1000: Distruggi 1 Magia/Trappola controllata dal tuo avversario.<br />● 2000: Distruggi 2 carte controllate dal tuo avversario.
+  | pt_text               = Escolha 1 monstro "Nuviano" que você controla; reduza seu ATK em exatamente 1000 ou 2000 e, se isso acontecer, aplique o efeito apropriado.<br />● 1000: Destrua 1 Magia/Armadilha que seu oponente controla.<br />● 2000: Destrua 2 cards que seu oponente controla.
+  | es_text               = Selecciona 1 monstruo "Cloudian" que controles; reduce su ATK en exactamente 1000 o 2000 puntos y, si lo haces, aplica el efecto apropiado.<br />● 1000: Destruye 1 Mágica/Trampa que controle tu adversario.<br />● 2000: Destruye 2 cartas que controle tu adversario.
+  | ja_text               = 自分フィールド上に表側表示で存在する「雲魔物」と名のついたモンスター１体を選択して発動する。選択したモンスターの攻撃力を下げる事で、以下の効果を適用する。●１０００ポイント下げる事で、相手フィールド上の魔法または罠カード１枚を破壊する。●２０００ポイント下げる事で、相手フィールド上のカード２枚を破壊する。
+  | ko_text               = 자신 필드 위에 앞면 표시로 존재하는 "운마물"이라는 이름이 붙은 몬스터 1장을 선택하고 발동한다. 선택한 몬스터의 공격력을 내리는 것으로, 이하의 효과를 적용한다.<br />● 1000 포인트 내리는 것으로, 상대 필드 위의 마법 또는 함정카드 1장을 파괴한다.<br />● 2000 포인트 내리는 것으로, 상대 필드 위의 카드 2장을 파괴한다.
+  | en_sets               = 
+  GLAS-EN066; Gladiator's Assault; Common
+  SGX3-ENH19; Speed Duel GX: Duelists of Shadows; Common
+  | fr_sets               = 
+  GLAS-FR066; Gladiator's Assault; Common
+  SGX3-FRH19; Speed Duel GX: Duelists of Shadows; Common
+  | de_sets               = 
+  GLAS-DE066; Gladiator's Assault; Common
+  SGX3-DEH19; Speed Duel GX: Duelists of Shadows; Common
+  | it_sets               = 
+  GLAS-IT066; Gladiator's Assault; Common
+  SGX3-ITH19; Speed Duel GX: Duelists of Shadows; Common
+  | pt_sets               = 
+  SGX3-PTH19; Speed Duel GX: Duelists of Shadows; Common
+  | sp_sets               = 
+  GLAS-SP066; Gladiator's Assault; Common
+  SGX3-SPH19; Speed Duel GX: Duelists of Shadows; Common
+  | jp_sets               = 
+  GLAS-JP066; Gladiator's Assault; Common
+  | kr_sets               = 
+  GLAS-KR066; Gladiator's Assault; Common
+  | ygo_sets              = 
+  '''[[Pack 46 (YGOO-BP)|Pack 46]]'''
+  | supports_archetypes   = Cloudian
+  | stat_change           = Your monsters lose ATK
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | misc                  = Variable effects
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 7273
+  }}

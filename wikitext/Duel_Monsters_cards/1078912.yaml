@@ -1,0 +1,66 @@
+title: Heavy Polymerization
+wikitext: |-
+  {{CardTable2
+  | fr_name            = Grande Polymérisation
+  | fr_translated_name = Great Polymerization
+  | de_name            = Schwere Polymerisation
+  | it_name            = Polimerizzazione Pesante
+  | pt_name            = Polimerização Pesada
+  | es_name            = Polimerización Pesada
+  | ja_name            = {{Ruby|多|た}}{{Ruby|層|そう}}{{Ruby|融|ゆう}}{{Ruby|合|ごう}}
+  | romaji_name        = Tasō Yūgō
+  | translated_name    = Multilayer Fusion
+  | ko_name            = 다층융합
+  | ko_rr_name         = 
+  | sc_name            = 多层融合
+  | image              = HeavyPolymerization-MP24-EN-PScR-1E.png
+  | card_type          = Spell
+  | property           = Normal
+  | password           = 58570206
+  | effect_types       = Effect
+  | text               = [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using 3 or more [[Monster Card|monsters]] from your [[hand]] or [[field]] as [[Fusion Material|material]]. You can also [[banish]] monsters from your Extra Deck as material, up to the number of monsters your opponent [[control]]s, but you lose [[LP]] equal to the total [[ATK]] of monsters banished this way, when the monster is Fusion Summoned.
+  | fr_text            = Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant min. 3 monstres depuis votre main ou Terrain comme Matériel. Vous pouvez aussi bannir un nombre de monstres depuis votre Extra Deck comme Matériel, inférieur ou égal au nombre de monstres contrôlés par votre adversaire, mais vous perdez des LP égaux à la somme des ATK des monstres bannis de cette façon, lorsque le monstre est Invoqué par Fusion.
+  | de_text            = Beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür 3 oder mehr Monster von deiner Hand oder Spielfeldseite als Material. Du kannst auch Monster von deinem Extra Deck bis zur Anzahl der Monster, die dein Gegner kontrolliert, als Material verbannen, aber du verlierst LP in Höhe der Summe der ATK der Monster, die auf diese Art verbannt werden, wenn das Monster als Fusionsbeschwörung beschworen wird.
+  | it_text            = Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando 3 o più mostri dalla tua mano o Terreno come materiale. Puoi anche bandire mostri dal tuo Extra Deck come materiale, fino al numero di mostri controllati dal tuo avversario, ma perdi LP pari alla somma degli ATK dei mostri banditi in questo modo, quando il mostro viene Evocato tramite Fusione.
+  | pt_text            = Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, usando 3 ou mais monstros da sua mão ou do campo como matéria. Quando o monstro for Invocado por Invocação-Fusão, você também pode banir monstros do seu Deck Adicional como matéria, até o número de monstros que seu oponente controla, mas você perde PV igual à soma do ATK dos monstros banidos desta forma.
+  | es_text            = Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando 3 o más monstruos en tu mano o Campo como material. También puedes desterrar monstruos en tu Deck Extra como material, hasta el número de monstruos que controle tu adversario, pero pierdes LP iguales al ATK total de los monstruos desterrados de esta forma cuando el monstruo es Invocado por Fusión.
+  | ja_text            = ①：自分の手札・フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚する（融合素材モンスターは３体以上でなければならない）。相手フィールドにモンスターが存在する場合、その数まで自分のＥＸデッキのモンスターを除外して融合素材とする事もできる。その場合、融合召喚した時に自分はその攻撃力の合計分のＬＰを失う。
+  | ko_text            = ①: 자신의 패 / 필드의 몬스터를 융합 소재로 하고, 융합 몬스터 1장을 융합 소환한다(융합 소재 몬스터는 3장 이상이어야 한다). 상대 필드에 몬스터가 존재할 경우, 그 수까지 자신의 엑스트라 덱의 몬스터를 제외하고 융합 소재로 할 수도 있다. 그 경우, 융합 소환했을 때에 자신은 그 공격력의 합계만큼의 LP를 상실한다.
+  | sc_text            = ①：将自己手牌・场上的怪兽作为融合素材，将1只融合怪兽融合召唤（融合素材怪兽必须为3只以上）。对手场上存在怪兽的情况下，也可以其数量为上限，将自己额外牌组的怪兽除外并作为融合素材。该情况下，融合召唤时自己失去相当于其攻击力合计数值的LP。
+  | en_sets            = 
+  MP24-EN150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | fr_sets            = 
+  MP24-FR150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | de_sets            = 
+  MP24-DE150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | it_sets            = 
+  MP24-IT150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | pt_sets            = 
+  MP24-PT150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | sp_sets            = 
+  MP24-SP150; 25th Anniversary Tin: Dueling Mirrors; Prismatic Secret Rare
+  | jp_sets            = 
+  WPP5-JP072; World Premiere Pack 2024; Rare
+  | kr_sets            = 
+  WPP5-KR072; World Premiere Pack 2024; Rare
+  | sc_sets            = 
+  DBJH-SC060; Deck-Build Pack: Justice Hunters; Common, Normal Parallel Rare
+  | supports           = Fusion Monster
+  | archseries         = Polymerization (archetype)
+  | action             = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards in the player's Extra Deck as Fusion Materials
+  | stat_change        = 
+  | m/s/t              = 
+  | summoning          = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished           = 
+  * Banishes from your Extra Deck
+  * Banishes Fusion Materials used in a Fusion Summon
+  | life_points        = You lose Life Points
+  | database_id        = 20437
+  }}

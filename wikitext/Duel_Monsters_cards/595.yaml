@@ -1,0 +1,286 @@
+title: Book of Moon
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Le Livre de la Lune
+  | de_name               = Buch des Mondes
+  | it_name               = Libro della Luna
+  | pt_name               = Livro da Lua
+  | es_name               = Libro de la Luna
+  | ja_name               = {{Ruby|月|つき}}の{{Ruby|書|しょ}}
+  | romaji_name           = Tsuki no Sho
+  | ko_name               = 달의 서
+  | ko_rr_name            = Dal-ui Seo
+  | tc_name               = 月之書
+  | sc_name               = 月之书
+  | image                 = 
+  1;   BookofMoon-YSDS-EN-C-UE.png; BookofMoon-MADU-JP-VG-artwork.png
+  1.1; BookofMoon-SBC2-NA-C-1E.png; BookofMoon-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
+  | card_type             = Spell
+  | property              = Quick-Play
+  | password              = 14087893
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 [[face-up]] [[monster]] on the [[field]]; change that target to [[face-down]] [[Defense Position]].
+  | fr_text               = Ciblez 1 monstre face recto sur le Terrain ; changez la cible en Position de Défense face verso.
+  | de_text               = Wähle 1 offenes Monster auf dem Spielfeld; ändere jenes gewählte Ziel in die verdeckte Verteidigungsposition.
+  | it_text               = Scegli come bersaglio 1 mostro scoperto sul Terreno; metti quel bersaglio coperto in Posizione di Difesa.
+  | pt_text               = Escolha 1 monstro com a face para cima no campo; coloque o alvo com a face para baixo em Posição de Defesa.
+  | es_text               = Selecciona 1 monstruo boca arriba en el Campo; cambia ese objetivo a Posición de Defensa boca abajo.
+  | ja_text               = ①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを裏側守備表示にする。
+  | ko_text               = ①: 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 뒷면 수비 표시로 한다.
+  | tc_text               = 选择1只以表侧表示存在于场上的怪兽，将其改为里侧守备表示。
+  | sc_text               = ①：以场上１只表侧表示怪兽为对象可以发动。将该怪兽改成里侧守备表示。
+  | en_sets               = 
+  DB2-EN232; Dark Beginning 2; Common
+  CP01-EN002; Champion Pack: Game One; Super Rare
+  YSDS-EN025; Starter Deck: Syrus Truesdale; Common
+  SDSC-EN030; Spellcaster's Command Structure Deck; Common
+  RP02-EN070; Retro Pack 2; Common
+  TU01-EN012; Turbo Pack: Booster One; Common
+  SDMA-EN023; Structure Deck: Marik (TCG); Common
+  TU07-EN001; Turbo Pack: Booster Seven; Ultra Rare
+  SDDC-EN029; Dragons Collide Structure Deck; Common
+  BP01-EN072; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  LCYW-EN270; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
+  BP02-EN138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-EN288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-EN030; Starter Deck: Yugi Reloaded; Common
+  AP05-EN022; Astral Pack Five; Common
+  NKRT-EN027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-EN049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-EN027; Starter Deck: Yuya; Common
+  YS17-EN025; Starter Deck: Link Strike; Common
+  YS18-EN027; Starter Deck: Codebreaker; Common
+  OP13-EN001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-EN052; Battles of Legend: Armageddon; Ultra Rare
+  SBCB-EN013; Speed Duel: Battle City Box; Common
+  EGS1-EN024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-EN039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-EN024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-ENI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-EN025; Speed Duel Tournament Pack 5; Common
+  SGX3-ENI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-ENI28; Speed Duel: Streets of Battle City; Common
+  STAX-EN025; 2-Player Starter Set; Common
+  RA02-EN050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | na_sets               = 
+  PGD-035; Pharaonic Guardian; Rare
+  DT03-EN093; Duel Terminal 3; Duel Terminal Rare Parallel Rare
+  OPTP-EN003; Speed Duel Remote Duel Extravaganza Main Event prize cards; Super Rare
+  SBC2-ENG13; Speed Duel: Battle City Finals; Common
+  | eu_sets               = 
+  OPTP-EN003; Trials of the Pharaoh - Speed Duel: Battle City Box promotional card; Super Rare
+  | fr_sets               = 
+  DB2-FR232; Dark Beginning 2; Common
+  CP01-FR002; Champion Pack: Game One; Super Rare
+  YSDS-FR025; Starter Deck: Syrus Truesdale; Common
+  SDSC-FR030; Spellcaster's Command Structure Deck; Common
+  RP02-FR070; Retro Pack 2; Common
+  TU01-FR012; Turbo Pack: Booster One; Common
+  SDMA-FR023; Structure Deck: Marik (TCG); Common
+  TU07-FR001; Turbo Pack: Booster Seven; Ultra Rare
+  SDDC-FR029; Dragons Collide Structure Deck; Common
+  BP01-FR072; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  LCYW-FR270; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
+  BP02-FR138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-FR288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-FR030; Starter Deck: Yugi Reloaded; Common
+  AP05-FR022; Astral Pack Five; Common
+  NKRT-FR027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-FR049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-FR027; Starter Deck: Yuya; Common
+  YS17-FR025; Starter Deck: Link Strike; Common
+  YS18-FR027; Starter Deck: Codebreaker; Common
+  OP13-FR001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-FR052; Battles of Legend: Armageddon; Ultra Rare
+  SBCB-FR013; Speed Duel: Battle City Box; Common
+  OPTP-FR003; Trials of the Pharaoh - Speed Duel: Battle City Box promotional card; Super Rare
+  EGS1-FR024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-FR039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-FR024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-FRI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-FR025; Speed Duel Tournament Pack 5; Common
+  SGX3-FRI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-FRI28; Speed Duel: Streets of Battle City; Common
+  STAX-FR025; 2-Player Starter Set; Common
+  RA02-FR050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | de_sets               = 
+  DB2-DE232; Dark Beginning 2; Common
+  CP01-DE002; Champion Pack: Game One; Super Rare
+  YSDS-DE025; Starter Deck: Syrus Truesdale; Common
+  SDSC-DE030; Spellcaster's Command Structure Deck; Common
+  RP02-DE070; Retro Pack 2; Common
+  TU01-DE012; Turbo Pack: Booster One; Common
+  SDMA-DE023; Structure Deck: Marik (TCG); Common
+  TU07-DE001; Turbo Pack: Booster Seven; Ultra Rare
+  SDDC-DE029; Dragons Collide Structure Deck; Common
+  BP01-DE072; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  LCYW-DE270; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
+  BP02-DE138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-DE288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-DE030; Starter Deck: Yugi Reloaded; Common
+  AP05-DE022; Astral Pack Five; Common
+  NKRT-DE027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-DE049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-DE027; Starter Deck: Yuya; Common
+  YS17-DE025; Starter Deck: Link Strike; Common
+  YS18-DE027; Starter Deck: Codebreaker; Common
+  OP13-DE001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-DE052; Battles of Legend: Armageddon; Ultra Rare
+  SBCB-DE013; Speed Duel: Battle City Box; Common
+  OPTP-DE003; Trials of the Pharaoh - Speed Duel: Battle City Box promotional card; Super Rare
+  EGS1-DE024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-DE039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-DE024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-DEI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-DE025; Speed Duel Tournament Pack 5; Common
+  SGX3-DEI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-DEI28; Speed Duel: Streets of Battle City; Common
+  STAX-DE025; 2-Player Starter Set; Common
+  RA02-DE050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | it_sets               = 
+  DB2-IT232; Dark Beginning 2; Common
+  CP01-IT002; Champion Pack: Game One; Super Rare
+  YSDS-IT025; Starter Deck: Syrus Truesdale; Common
+  SDSC-IT030; Spellcaster's Command Structure Deck; Common
+  RP02-IT070; Retro Pack 2; Common
+  TU01-IT012; Turbo Pack: Booster One; Common
+  SDMA-IT023; Structure Deck: Marik (TCG); Common
+  TU07-IT001; Turbo Pack: Booster Seven; Ultra Rare
+  SDDC-IT029; Dragons Collide Structure Deck; Common
+  BP01-IT072; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  LCYW-IT270; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
+  BP02-IT138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-IT288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-IT030; Starter Deck: Yugi Reloaded; Common
+  AP05-IT022; Astral Pack Five; Common
+  NKRT-IT027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-IT049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-IT027; Starter Deck: Yuya; Common
+  YS17-IT025; Starter Deck: Link Strike; Common
+  YS18-IT027; Starter Deck: Codebreaker; Common
+  OP13-IT001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-IT052; Battles of Legend: Armageddon; Ultra Rare
+  SBCB-IT013; Speed Duel: Battle City Box; Common
+  OPTP-IT003; Trials of the Pharaoh - Speed Duel: Battle City Box promotional card; Super Rare
+  EGS1-IT024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-IT039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-IT024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-ITI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-IT025; Speed Duel Tournament Pack 5; Common
+  SGX3-ITI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-ITI28; Speed Duel: Streets of Battle City; Common
+  STAX-IT025; 2-Player Starter Set; Common
+  RA02-IT050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | pt_sets               = 
+  BP02-PT138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-PT288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-PT030; Starter Deck: Yugi Reloaded; Common
+  AP05-PT022; Astral Pack Five; Common
+  NKRT-PT027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-PT049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-PT027; Starter Deck: Yuya; Common
+  YS17-PT025; Starter Deck: Link Strike; Common
+  YS18-PT027; Starter Deck: Codebreaker; Common
+  OP13-PT001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-PT052; Battles of Legend: Armageddon; Ultra Rare
+  EGS1-PT024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-PT039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-PT024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-PTI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-PT025; Speed Duel Tournament Pack 5; Common
+  SGX3-PTI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-PTI28; Speed Duel: Streets of Battle City; Common
+  STAX-PT025; 2-Player Starter Set; Common
+  RA02-PT050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | sp_sets               = 
+  DB2-SP232; Dark Beginning 2; Common
+  YSDS-SP025; Starter Deck: Syrus Truesdale; Common
+  SDSC-SP030; Spellcaster's Command Structure Deck; Common
+  RP02-SP070; Retro Pack 2; Common
+  SDMA-SP023; Structure Deck: Marik (TCG); Common
+  TU07-SP001; Turbo Pack: Booster Seven; Ultra Rare
+  SDDC-SP029; Dragons Collide Structure Deck; Common
+  BP01-SP072; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  LCYW-SP270; Legendary Collection 3: Yugi's World Mega Pack; Secret Rare
+  BP02-SP138; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LCJW-SP288; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
+  YSYR-SP030; Starter Deck: Yugi Reloaded; Common
+  AP05-SP022; Astral Pack Five; Common
+  NKRT-SP027; Noble Knights of the Round Table Box Set; Platinum Rare
+  PGL2-SP049; Premium Gold: Return of the Bling; Gold Rare
+  YS16-SP027; Starter Deck: Yuya; Common
+  YS17-SP025; Starter Deck: Link Strike; Common
+  YS18-SP027; Starter Deck: Codebreaker; Common
+  OP13-SP001; OTS Tournament Pack 13; Ultimate Rare
+  BLAR-SP052; Battles of Legend: Armageddon; Ultra Rare
+  SBCB-SP013; Speed Duel: Battle City Box; Common
+  OPTP-SP003; Trials of the Pharaoh - Speed Duel: Battle City Box promotional card; Super Rare
+  EGS1-SP024; Egyptian God Deck: Slifer the Sky Dragon; Common
+  MGED-SP039; Maximum Gold: El Dorado; Premium Gold Rare
+  HAC1-SP024; Hidden Arsenal: Chapter 1; Duel Terminal Ultra Parallel Rare
+  SGX1-SPI15; Speed Duel GX: Duel Academy Box; Common, Secret Rare
+  STP5-SP025; Speed Duel Tournament Pack 5; Common
+  SGX3-SPI31; Speed Duel GX: Duelists of Shadows; Common
+  SBC1-SPI28; Speed Duel: Streets of Battle City; Common
+  STAX-SP025; 2-Player Starter Set; Common
+  RA02-SP050; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | jp_sets               = 
+  PH-34; Pharaonic Guardian (Japanese); Common
+  DL5-119; Duelist Legacy Volume.5; Common
+  BE2-JP232; Beginner's Edition 2; Common
+  DT06-JP043; Duel Terminal - Dragunity of the Hurricane!!; Duel Terminal Rare Parallel Rare
+  GS02-JP011; Gold Series 2010; Common, Gold Rare
+  BE02-JP190; Beginner's Edition 2 (2011); Super Rare
+  SD22-JP028; Structure Deck: Dragonic Legion; Common
+  GDB1-JP031; The Gold Box; Gold Rare
+  DS13-JPD29; Duelist Set: Version Dark Returner; Common
+  DS14-JPM35; Duelist Set: Version Machine-Gear Troopers Enhancement Pack; Ultra Rare
+  TRC1-JP043; The Rarity Collection; Super Rare, Secret Rare, Collector's Rare
+  GP16-JP018; Gold Pack 2016; Gold Rare, Gold Secret Rare
+  ST16-JP027; Starter Deck 2016; Common
+  ST17-JP025; Starter Deck 2017; Common
+  ST18-JP026; Starter Deck 2018; Common
+  ST19-JP027; Starter Deck 2019; Common
+  SD42-JP035; Structure Deck: Overlay Universe; Common
+  DR01-JPA27; Duel Royale Deck Set EX; Common
+  DR01-JPB20; Duel Royale Deck Set EX; Common
+  DR02-JPC21; Duel Royale Deck Set EX Round 2; Common
+  QCLP-JP012; Quarter Century Limited Pack; Ultra Rare, Secret Rare, Quarter Century Secret Rare
+  | ae_sets               = 
+  PGD-035; Pharaonic Guardian; Rare
+  SDRB-AEP14; Structure Deck: Rise of the Blue-Eyes Power-Up Pack; Super Rare
+  | kr_sets               = 
+  PGD-KR035; Pharaonic Guardian; Rare
+  BP2-KR232; Beginner's Edition 2; Common
+  ESP2-KR035; Expansion Pack Vol.2; Super Rare
+  GS02-KR011; Gold Series 2010; Common, Gold Rare
+  SD22-KR028; Structure Deck: Dragonic Legion; Common
+  PGD-KRPR2; Pharaonic Guardian promotional cards; Secret Rare
+  DS13-KRD29; Duelist Set: Version Dark Returner; Common
+  ST16-KR027; Starter Deck 2016; Common
+  ST17-KR025; Starter Deck 2017; Common
+  ST18-KR026; Starter Deck 2018; Common
+  TRC1-KR043; The Rarity Collection; Super Rare, Secret Rare
+  ST19-KR027; Starter Deck 2019; Common
+  SD42-KR035; Structure Deck: Overlay Universe; Common
+  | tc_sets               = 
+  SP01-TC038; Starter Pack Volume 1; Super Rare
+  | sc_sets               = 
+  ST20-SC026; Starter Deck 2020; Common
+  SCTP-SC047; Entry Pack Volume 3; Common
+  TRC1-SC042; The Rarity Collection; Super Rare, Secret Rare, Collector's Rare
+  ST21-SC027; Starter Deck 2021; Common
+  EGS1-SC024; Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk the Tormentor; Common
+  SD42-SC035; Structure Deck: Overlay Universe; Common
+  | ntr_sets              = 
+  '''[[Royal Relics (NTR-BP)|Royal Relics]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 23 (YGOO-BP)|Pack 23]]'''
+  | archseries            = Book of
+  | action                = 
+  * Flips monsters face-down
+  * Changes battle positions
+  | database_id           = 5432
+  | tcg_speed_duel_status = Limited 3
+  }}

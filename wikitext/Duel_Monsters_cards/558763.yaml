@@ -1,0 +1,52 @@
+title: Summon Dice
+wikitext: |-
+  {{CardTable2
+  | fr_name      = Invocation du Dé
+  | de_name      = Ruf der Würfel
+  | it_name      = Evoca Dadi
+  | pt_name      = Dado de Invocação
+  | es_name      = Invocadora de Dados
+  | ja_name      = サモン・ダイス
+  | romaji_name  = Samon Daisu
+  | ko_name      = 서몬 다이스
+  | ko_rr_name   = Seomon Daiseu
+  | image        = SummonDice-BLRR-EN-UR-1E.png
+  | card_type    = Spell
+  | property     = Normal
+  | password     = 41139112
+  | effect_types = Effect, Condition
+  | text         = [[Pay]] 1000 [[LP]]; roll a six-sided die and apply the result.<br />● 1 or 2: Immediately after this [[effect]] [[resolve]]s, you can [[Normal Summon]] 1 [[Monster Card|monster]].<br />● 3 or 4: You can [[Special Summon]] 1 monster from your [[GY]].<br />● 5 or 6: You can Special Summon 1 [[Level]] 5 or higher monster from your [[hand]].<br />You can only [[activate]] 1 "Summon Dice" per [[turn]].
+  | fr_text      = Payez 1000 LP ; lancez un dé à six faces et appliquez le résultat.<br />● 1 ou 2 : Immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre.<br />● 3 ou 4 : Vous pouvez Invoquer Spécialement 1 monstre depuis votre Cimetière.<br />● 5 ou 6 : Vous pouvez Invoquer Spécialement 1 monstre de min. Niveau 5 depuis votre main.<br />Vous ne pouvez activer qu'1 "Invocation du Dé" par tour.
+  | de_text      = Zahle 1000 LP; wirf einen sechsseitigen Würfel und führe das Ergebnis aus.<br />● 1 oder 2: Sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Monster als Normalbeschwörung beschwören.<br />● 3 oder 4: Du kannst 1 Monster als Spezialbeschwörung von deinem Friedhof beschwören.<br />● 5 oder 6: Du kannst 1 Monster der Stufe 5 oder höher als Spezialbeschwörung von deiner Hand beschwören.<br />Du kannst nur 1 „Ruf der Würfel“ pro Spielzug aktivieren.
+  | it_text      = Paga 1000 LP; tira un dado a sei facce e applica il risultato.<br />● 1 o 2: Immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro.<br />● 3 o 4: Puoi Evocare Specialmente 1 mostro dal tuo Cimitero.<br />● 5 o 6: Puoi Evocare Specialmente 1 mostro di Livello 5 o superiore dalla tua mano.<br />Puoi attivare solo 1 "Evoca Dadi" per turno.
+  | pt_text      = Pague 1000 PV; lance um dado de seis faces e aplique o resultado.<br />● 1 ou 2: Imediatamente depois que este efeito resolver, você pode Invocar 1 monstro por Invocação-Normal.<br />● 3 ou 4: Você pode Invocar 1 monstro por Invocação-Especial do seu Cemitério.<br />● 5 ou 6: Você pode Invocar por Invocação-Especial 1 monstro de Nível 5 ou mais da sua mão.<br />Você só pode ativar 1 "Dado de Invocação" por turno.
+  | es_text      = Paga 1000 LP; lanza un dado de seis caras y aplica el resultado.<br />● 1 ó 2: Inmediatamente después de que se resuelva este efecto, puedes Invocar 1 monstruo de Modo Normal.<br />● 3 ó 4: Puedes Invocar, desde tu Cementerio, 1 monstruo de Modo Especial.<br />● 5 ó 6: Puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Nivel 5 o mayor.<br />Sólo puedes activar 1 "Invocadora de Dados" por turno.
+  | ja_text      = このカード名のカードは１ターンに１枚しか発動できない。①：１０００ＬＰを払って発動できる。サイコロを１回振り、出た目の効果を適用する。<br />●１・２：モンスター１体を召喚できる。<br />●３・４：自分の墓地からモンスター１体を選んで特殊召喚できる。<br />●５・６：手札からレベル５以上のモンスター１体を特殊召喚できる。
+  | ko_text      = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 1000 LP를 지불하고 발동할 수 있다. 주사위를 1회 던져, 나온 눈의 효과를 적용한다.<br />●1, 2: 몬스터 1장을 일반 소환할 수 있다.<br />●3, 4: 자신 묘지에서 몬스터 1장을 고르고 특수 소환할 수 있다.<br />●5, 6: 패에서 레벨 5 이상의 몬스터 1장을 특수 소환할 수 있다.
+  | en_sets      = 
+  BLRR-EN002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | fr_sets      = 
+  BLRR-FR002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | de_sets      = 
+  BLRR-DE002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | it_sets      = 
+  BLRR-IT002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | pt_sets      = 
+  BLRR-PT002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | sp_sets      = 
+  BLRR-SP002; Battles of Legend: Relentless Revenge; Ultra Rare
+  | jp_sets      = 
+  CP18-JP002; Collectors Pack 2018; Common
+  | kr_sets      = 
+  CP18-KR002; Collectors Pack 2018; Common
+  | database_id  = 13801
+  | life_points  = Pays Life Points for cost
+  | summoning    = 
+  * Performs a Normal Summon
+  * Special Summons from your Graveyard
+  * Special Summons from your hand
+  | misc         = 
+  * Only once per turn
+  * Variable effects
+  * Die roll
+  }}

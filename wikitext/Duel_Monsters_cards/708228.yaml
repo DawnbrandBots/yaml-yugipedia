@@ -1,0 +1,53 @@
+title: Level Resist Wall
+wikitext: |-
+  {{CardTable2
+  | fr_name      = Mur de Résistance de Niveau
+  | de_name      = Stufen-Widerstandsmauer
+  | it_name      = Muro Resisti Livello
+  | pt_name      = Barreira de Resistência a Nível
+  | es_name      = Pared de Resistencia del Nivel
+  | ja_name      = レベル・レジストウォール
+  | romaji_name  = Reberu Rejisuto Wōru
+  | ko_name      = 레벨 레지스트월
+  | ko_rr_name   = Rebel Rejiseuteuwol
+  | sc_name      = 等级抗蚀墙
+  | image        = LevelResistWall-EGO1-EN-SR-1E.png
+  | card_type    = Trap
+  | property     = Normal
+  | password     = 86133013
+  | effect_types = Effect, Condition
+  | text         = If a [[monster]](s) you [[control]] is [[destroyed by battle]] or an opponent's card [[effect]]: [[Target]] 1 of those monsters; [[Special Summon]] monster(s) from your [[Main Deck|Deck]] in [[Defense Position]] so their combined Levels equal the Level of that monster, but [[negate]] their effects. You can only [[activate]] 1 "Level Resist Wall" per [[turn]].
+  | fr_text      = Si un ou plusieurs monstres que vous contrôlez sont détruits au combat ou par un effet de carte de l'adversaire : ciblez 1 de ces monstres ; Invoquez Spécialement un ou plusieurs monstres depuis votre Deck en Position de Défense afin que la somme de leur Niveau soit égale au Niveau du monstre, mais annulez leurs effets. Vous ne pouvez activer qu'1 "Mur de Résistance de Niveau" par tour.
+  | de_text      = Falls ein oder mehr Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört werden: Wähle 1 der Monster; beschwöre Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, sodass die Summe ihrer Stufen der Stufe des Monsters entspricht, aber annulliere ihre Effekte. Du kannst nur 1 „Stufen-Widerstandsmauer“ pro Spielzug aktivieren.
+  | it_text      = Se uno o più mostri che controlli vengono distrutti in battaglia o dall'effetto di una carta dell'avversario: scegli come bersaglio 1 di quei mostri; Evoca Specialmente mostri dal tuo Deck in Posizione di Difesa in modo che la somma dei loro Livelli sia pari al Livello di quel mostro, ma annulla i loro effetti. Puoi attivare solo 1 "Muro Resisti Livello" per turno.
+  | pt_text      = Se um ou mais monstros que você controla forem destruídos em batalha ou por um efeito de card do oponente: escolha 1 desses monstros; Invoque por Invocação-Especial um ou mais monstros do seu Deck, em Posição de Defesa, de forma que o Nível combinado deles seja igual ao Nível desse monstro, mas negue seus efeitos. Você só pode ativar 1 "Barreira de Resistência a Nível" por turno.
+  | es_text      = Si uno o más monstruos que controles son destruidos en batalla o por el efecto de una carta del adversario: selecciona 1 de esos monstruos; Invoca de Modo Especial, desde tu Deck, uno o más monstruos en Posición de Defensa de forma que sus Niveles combinados sean iguales al Nivel de ese monstruo, pero niega sus efectos. Sólo puedes activar 1 "Pared de Resistencia del Nivel" por turno.
+  | ja_text      = このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのモンスターが戦闘または相手の効果で破壊された場合、そのモンスター１体を対象として発動できる。レベルの合計がそのモンスターと同じになるように、デッキからモンスターを任意の数だけ選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+  | ko_text      = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 몬스터가 전투 또는 상대 효과로 파괴되었을 경우, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 레벨의 합계가 그 몬스터와 같아지도록, 덱에서 몬스터를 임의의 수만큼 고르고 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
+  | sc_text      = 此卡名的卡1回合仅可发动1张。①：自己场上的怪兽因战斗或对手的效果被破坏的情况下，以1只该怪兽为对象可以发动。为使等级合计与该怪兽相同，从牌组挑选任意数量的怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
+  | en_sets      = 
+  EGO1-EN005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | fr_sets      = 
+  EGO1-FR005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | de_sets      = 
+  EGO1-DE005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | it_sets      = 
+  EGO1-IT005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | pt_sets      = 
+  EGO1-PT005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | sp_sets      = 
+  EGO1-SP005; Egyptian God Deck: Obelisk the Tormentor; Super Rare
+  | jp_sets      = 
+  21PP-JP004; Premium Pack 2021; Common, Normal Parallel Rare, Secret Rare
+  | kr_sets      = 
+  PP16-KR004; Premium Pack Vol.16; Common, Normal Parallel Rare, Secret Rare
+  | sc_sets      = 
+  EGO1-SC005; Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk the Tormentor; Super Rare
+  | action       = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | m/s/t        = Negates the effects of the Summoned monsters
+  | summoning    = Special Summons from your Deck
+  | misc         = Only once per turn
+  | database_id  = 7503
+  }}

@@ -1,0 +1,101 @@
+title: Kaiser Glider
+wikitext: |-
+  {{CardTable2
+  | tc_name               = 帝王滑翔機
+  | fr_name               = Planeur du Kaiser
+  | de_name               = Kaiser-Gleiter
+  | it_name               = Kaiser Glider
+  | ko_name               = 카이저 글라이더
+  | pt_name               = Planador Kaiser
+  | es_name               = Planeador Kaiser
+  | ja_name               = カイザー・グライダー
+  | romaji_name           = Kaizā Guraidā
+  | image                 = KaiserGlider-KC01-EN-UR-UE.png
+  | attribute             = LIGHT
+  | types                 = Dragon / Effect
+  | level                 = 6
+  | atk                   = 2400
+  | def                   = 2200
+  | password              = 52824910
+  | effect_types          = Continuous, Trigger
+  | text                  = Cannot be [[destroyed by battle]] with a [[monster]] that has the same [[ATK]]. If this card is [[destroy]]ed and [[sent]] to the [[Graveyard|GY]]: [[Target]] 1 monster on the [[field]]; [[return]] that target to the [[hand]].
+  | fr_text               = Non destructible au combat avec un monstre qui a la même ATK. Si cette carte est détruite et envoyée au Cimetière : ciblez 1 monstre sur le Terrain ; renvoyez la cible à la main.
+  | de_text               = Kann nicht durch Kampf mit einem Monster zerstört werden, das dieselben ATK hat. Falls diese Karte zerstört und auf den Friedhof gelegt wird: Wähle 1 Monster auf dem Spielfeld; gib das gewählte Ziel auf die Hand zurück.
+  | it_text               = Non può essere distrutta in battaglia con un mostro che ha lo stesso ATK. Se questa carta viene distrutta e mandata al Cimitero: scegli come bersaglio 1 mostro sul Terreno; fai ritornare quel bersaglio nella mano.
+  | pt_text               = Não pode ser destruído em uma batalha com um monstro que tenha o mesmo ATK. Se este card for destruído e enviado para o Cemitério: escolha 1 monstro no campo; devolva o alvo para a mão.
+  | es_text               = No puede ser destruido en batalla con un monstruo que tenga su mismo ATK. Si esta carta es destruida y mandada al Cementerio: selecciona 1 monstruo en el Campo; devuelve ese objetivo a la mano.
+  | ja_text               = ①：このカードは同じ攻撃力のモンスターとの戦闘では破壊されない。②：このカードが破壊され墓地へ送られた場合、フィールドのモンスター１体を対象として発動する。そのモンスターを持ち主の手札に戻す。
+  | tc_text               = 此卡在与拥有相同攻击力的怪兽战斗中不会被破坏。当此卡遭受破坏被送入墓地时，选择场上的1只怪兽返回至持有者手牌。
+  | ko_text               = ①: 이 카드는 같은 공격력의 몬스터와의 전투로는 파괴되지 않는다. ②: 이 카드가 파괴되어 묘지로 보내졌을 경우, 필드의 몬스터 1장을 대상으로 하고 발동한다. 그 몬스터를 주인의 패로 되돌린다.
+  | en_sets               = 
+  DR1-EN213; Dark Revelation Volume 1; Ultra Rare
+  DCR-EN051; Dark Crisis; Ultra Rare
+  DPKB-EN015; Duelist Pack: Kaiba; Rare
+  SDBE-EN009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-EN010; Structure Deck: Seto Kaiba; Common
+  SBCB-EN096; Speed Duel: Battle City Box; Common
+  DCR-EN051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  KC01-EN024; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | na_sets               = 
+  DCR-051; Dark Crisis; Ultra Rare
+  YS15-ENF04; Saber Force Starter Deck; Common
+  | fr_sets               = 
+  DCR-FR051; Dark Crisis; Ultra Rare
+  DR1-FR213; Dark Revelation Volume 1; Ultra Rare
+  DPKB-FR015; Duelist Pack: Kaiba; Rare
+  SDBE-FR009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-FR010; Structure Deck: Seto Kaiba; Common
+  SBCB-FR096; Speed Duel: Battle City Box; Common
+  DCR-FR051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  | de_sets               = 
+  DCR-DE051; Dark Crisis; Ultra Rare
+  DR1-DE213; Dark Revelation Volume 1; Ultra Rare
+  DPKB-DE015; Duelist Pack: Kaiba; Rare
+  SDBE-DE009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-DE010; Structure Deck: Seto Kaiba; Common
+  SBCB-DE096; Speed Duel: Battle City Box; Common
+  DCR-DE051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  | it_sets               = 
+  DCR-IT051; Dark Crisis; Ultra Rare
+  DR1-IT213; Dark Revelation Volume 1; Ultra Rare
+  DPKB-IT015; Duelist Pack: Kaiba; Rare
+  SDBE-IT009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-IT010; Structure Deck: Seto Kaiba; Common
+  SBCB-IT096; Speed Duel: Battle City Box; Common
+  DCR-IT051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  | pt_sets               = 
+  DR1-PT213; Dark Revelation Volume 1; Ultra Rare
+  SDBE-PT009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-PT010; Structure Deck: Seto Kaiba; Common
+  DCR-PT051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  | sp_sets               = 
+  DR1-SP213; Dark Revelation Volume 1; Ultra Rare
+  DPKB-SP015; Duelist Pack: Kaiba; Rare
+  SDBE-SP009; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  SDKS-SP010; Structure Deck: Seto Kaiba; Common
+  SBCB-SP096; Speed Duel: Battle City Box; Common
+  DCR-SP051; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  | jp_sets               = 
+  304-051; Power of the Guardian; Secret Rare, Ultimate Rare
+  EE1-JP213; Expert Edition Volume.1; Ultra Rare
+  VS15-JPS04; Duelist Entry Deck VS; Normal Parallel Rare
+  SDKS-JP010; Structure Deck: Seto Kaiba; Common
+  KC01-JP024; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | kr_sets               = 
+  DCR-KR051; Dark Crisis; Ultra Rare
+  HGP1-KR213; Expert Edition Volume.1; Ultra Rare
+  VS15-KRS04; Duelist Entry Deck VS: Saber Force; Normal Parallel Rare
+  SDKS-KR010; Structure Deck: Seto Kaiba; Common
+  | tc_sets               = 
+  SP01-TC010; Starter Pack Volume 1; Super Rare
+  | ae_sets               = 
+  DCR-051; Dark Crisis; Ultra Rare
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Returns from field to hand
+  | attack                = Cannot be destroyed by battle
+  | database_id           = 5353
+  | tcg_speed_duel_status = Unlimited
+  }}

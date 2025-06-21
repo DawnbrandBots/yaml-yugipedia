@@ -1,0 +1,71 @@
+title: D - Chain
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Chaîne de la Destinée
+  | de_name               = Schicksalskette
+  | it_name               = Catena del Destino
+  | pt_name               = Corrente-D
+  | ko_name               = D-체인
+  | es_name               = Cadena del Destino
+  | ja_name               = {{Ruby|Ｄ|ディー}}－チェーン
+  | romaji_name           = Dī - Chēn
+  | image                 = DChain-SGX1-EN-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 43405287
+  | effect_types          = Effect, Continuous-like, Trigger-like
+  | text                  = [[Target]] 1 "[[Destiny HERO]]" [[Monster Card|monster]] you [[control]]; [[equip]] this card to that target. It gains 500 [[ATK]]. If it [[destroy]]s an opponent's monster [[Destroyed by battle|by battle]] and [[send]]s it to the [[GY]]: Inflict 500 [[Effect damage|damage]] to your opponent.
+  | fr_text               = Ciblez 1 monstre "HÉROS de la Destinée" que vous contrôlez ; équipez cette carte à la cible. Il gagne 500 ATK. S'il détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : infligez 500 points de dommages à votre adversaire.
+  | de_text               = Wähle 1 „Schicksals-HELD“-Monster, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Es erhält 500 ATK. Falls es ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner 500 Schaden zu.
+  | it_text               = Scegli come bersaglio 1 mostro "EROE del Destino" che controlli; equipaggia questa carta a quel bersaglio. Esso guadagna 500 ATK. Se esso distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: infliggi 500 danni al tuo avversario.
+  | pt_text               = Escolha 1 monstro "HERÓI do Destino" que você controla; equipe este card no alvo. Ele ganha 500 de ATK. Se ele destruir um monstro do oponente em batalha e enviá-lo para o Cemitério: cause 500 de dano ao seu oponente.
+  | es_text               = Selecciona 1 monstruo "HÉROE del Destino" que controles; equipa esta carta a ese objetivo. Éste gana 500 ATK. Si éste destruye un monstruo del adversario en batalla y lo manda al Cementerio: inflige 500 puntos de daño a tu adversario.
+  | ja_text               = ①：自分フィールドの「Ｄ－ＨＥＲＯ」モンスター１体を対象としてこのカードを発動できる。このカードを攻撃力５００アップの装備カード扱いとして、その自分のモンスターに装備する。②：装備モンスターが戦闘で相手モンスターを破壊し墓地へ送った場合に発動する。相手に５００ダメージを与える。
+  | ko_text               = ①: 자신 필드의 "데스티니 히어로" 몬스터 1장을 대상으로 하고 이 카드를 발동할 수 있다. 이 카드를 공격력 500 올리는 장착 카드로 취급하여, 그 자신의 몬스터에 장착한다. ②: 장착 몬스터가 전투로 상대 몬스터를 파괴하고 묘지로 보냈을 경우에 발동한다. 상대에게 500 데미지를 준다.
+  | en_sets               = 
+  POTD-EN050; Power of the Duelist; Rare, Ultimate Rare
+  DP05-EN028; Duelist Pack: Aster Phoenix; Common
+  LCGX-EN152; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  SGX1-ENB18; Speed Duel GX: Duel Academy Box; Common
+  | fr_sets               = 
+  POTD-FR050; Power of the Duelist; Rare, Ultimate Rare
+  DP05-FR028; Duelist Pack: Aster Phoenix; Common
+  SGX1-FRB18; Speed Duel GX: Duel Academy Box; Common
+  | de_sets               = 
+  POTD-DE050; Power of the Duelist; Rare, Ultimate Rare
+  DP05-DE028; Duelist Pack: Aster Phoenix; Common
+  LCGX-DE152; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  SGX1-DEB18; Speed Duel GX: Duel Academy Box; Common
+  | it_sets               = 
+  POTD-IT050; Power of the Duelist; Rare, Ultimate Rare
+  DP05-IT028; Duelist Pack: Aster Phoenix; Common
+  LCGX-IT152; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  SGX1-ITB18; Speed Duel GX: Duel Academy Box; Common
+  | pt_sets               = 
+  SGX1-PTB18; Speed Duel GX: Duel Academy Box; Common
+  | sp_sets               = 
+  POTD-SP050; Power of the Duelist; Rare, Ultimate Rare
+  DP05-SP028; Duelist Pack: Aster Phoenix; Common
+  SGX1-SPB18; Speed Duel GX: Duel Academy Box; Common
+  | jp_sets               = 
+  POTD-JP050; Power of the Duelist; Rare
+  DP05-JP028; Duelist Pack: Aster Phoenix; Common
+  DE01-JP036; Duelist Edition Volume 1; Common
+  AT15-JP008; Advanced Tournament Pack 2016 Vol.3; Common
+  | kr_sets               = 
+  POTD-KR050; Power of the Duelist; Rare
+  DP05-KR028; Duelist Pack: Aster Phoenix; Common
+  PC01-KR037; Precious Pack Volume 1; Common
+  AE09-KR025; Advanced Event Pack 2016 Vol.1; Common
+  | ygo_sets              = 
+  '''[[Pack 41 (YGOO-BP)|Pack 41]]'''
+  | supports_archetypes   = Destiny HERO
+  | action                = 
+  * Equips self from field
+  * Activates if it destroys a monster by battle
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = Treated as Equip Card
+  | life_points           = Damages your opponent
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 6761
+  }}

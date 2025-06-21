@@ -1,0 +1,90 @@
+title: Rising Energy
+wikitext: |-
+  {{CardTable2
+  | tc_name               = 能量提升
+  | fr_name               = Énergie Ascendante
+  | de_name               = Steigende Energie
+  | it_name               = Energia Ascendente
+  | ko_name               = 라이징 에너지
+  | pt_name               = Aumento de Energia
+  | es_name               = Energía Ascendente
+  | ja_name               = ライジング・エナジー
+  | romaji_name           = Raijingu Enajī
+  | image                 = RisingEnergy-SGX1-EN-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 78211862
+  | effect_types          = Cost, Effect
+  | text                  = [[Discard]] 1 card, then [[target]] 1 [[face-up]] [[monster]] on the [[field]]; that target gains 1500 [[ATK]] until the end of this [[turn]].
+  | fr_text               = Défaussez 1 carte, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, la cible gagne 1500 ATK.
+  | de_text               = Wirf 1 Karte ab und wähle dann 1 offenes Monster auf dem Spielfeld; das gewählte Ziel erhält bis zum Ende dieses Spielzugs 1500 ATK.
+  | it_text               = Scarta 1 carta, poi scegli come bersaglio 1 mostro scoperto sul Terreno; quel bersaglio guadagna 1500 ATK fino alla fine di questo turno.
+  | pt_text               = Descarte 1 card e, depois, escolha 1 monstro com a face para cima no campo; o alvo ganha 1500 de ATK até o final deste turno.
+  | es_text               = Descarta 1 carta, y después selecciona 1 monstruo boca arriba en el Campo; ese objetivo gana 1500 ATK hasta el final de este turno.
+  | ja_text               = ①：手札を１枚捨て、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで１５００アップする。
+  | tc_text               = 舍弃1张手牌，并可选择场上的1只怪兽发动。被选怪兽的攻击力直至结束阶段前上升1500点。
+  | ko_text               = 패를 1장 버린다. 발동 턴의 엔드 페이즈시까지, 필드 위에 앞면 표시로 존재하는 몬스터 1장의 공격력은 1500 포인트 올린다.
+  | en_sets               = 
+  CRV-EN056; Cybernetic Revolution; Rare, Ultimate Rare
+  YSDS-EN039; Starter Deck: Syrus Truesdale; Common
+  5DS3-EN037; Starter Deck: Duelist Toolbox; Common
+  DEM1-EN019; Demo Pack; Common
+  BP02-EN185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-EN046; Starter Deck: Yugi Reloaded; Common
+  SGX1-ENI21; Speed Duel GX: Duel Academy Box; Common
+  | na_sets               = 
+  DR04-EN056; Dark Revelation Volume 4; Rare
+  | fr_sets               = 
+  CRV-FR056; Cybernetic Revolution; Rare, Ultimate Rare
+  YSDS-FR039; Starter Deck: Syrus Truesdale; Common
+  5DS3-FR037; Starter Deck: Duelist Toolbox; Common
+  DEM1-FR019; Demo Pack; Common
+  BP02-FR185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-FR046; Starter Deck: Yugi Reloaded; Common
+  SGX1-FRI21; Speed Duel GX: Duel Academy Box; Common
+  | de_sets               = 
+  CRV-DE056; Cybernetic Revolution; Rare, Ultimate Rare
+  YSDS-DE039; Starter Deck: Syrus Truesdale; Common
+  5DS3-DE037; Starter Deck: Duelist Toolbox; Common
+  DEM1-DE019; Demo Pack; Common
+  BP02-DE185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-DE046; Starter Deck: Yugi Reloaded; Common
+  SGX1-DEI21; Speed Duel GX: Duel Academy Box; Common
+  | it_sets               = 
+  CRV-IT056; Cybernetic Revolution; Rare, Ultimate Rare
+  YSDS-IT039; Starter Deck: Syrus Truesdale; Common
+  5DS3-IT037; Starter Deck: Duelist Toolbox; Common
+  DEM1-IT019; Demo Pack; Common
+  BP02-IT185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-IT046; Starter Deck: Yugi Reloaded; Common
+  SGX1-ITI21; Speed Duel GX: Duel Academy Box; Common
+  | pt_sets               = 
+  CRV-PT056; Cybernetic Revolution; Rare, Ultimate Rare
+  DEM1-PT019; Demo Pack; Common
+  BP02-PT185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-PT046; Starter Deck: Yugi Reloaded; Common
+  SGX1-PTI21; Speed Duel GX: Duel Academy Box; Common
+  | sp_sets               = 
+  CRV-SP056; Cybernetic Revolution; Rare, Ultimate Rare
+  YSDS-SP039; Starter Deck: Syrus Truesdale; Common
+  5DS3-SP037; Starter Deck: Duelist Toolbox; Common
+  DEM1-SP019; Demo Pack; Common
+  BP02-SP185; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  YSYR-SP046; Starter Deck: Yugi Reloaded; Common
+  SGX1-SPI21; Speed Duel GX: Duel Academy Box; Common
+  | jp_sets               = 
+  CRV-JP056; Cybernetic Revolution; Rare
+  EE04-JP056; Expert Edition Volume 4; Rare
+  DC01-JP025; Deck Custom Pack 01; Common, Normal Parallel Rare
+  | ae_sets               = 
+  CRV-AE056; Cybernetic Revolution; Rare, Ultimate Rare
+  | tc_sets               = 
+  ST14-TC036; Duel Starter Deck; Common
+  | kr_sets               = 
+  CRV-KR056; Cybernetic Revolution; Rare, Ultimate Rare
+  HGP4-KR056; Expert Edition Volume 4; Rare
+  | action                = You discard for cost
+  | stat_change           = Your monsters gain ATK
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 6445
+  }}

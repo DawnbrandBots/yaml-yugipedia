@@ -1,0 +1,58 @@
+title: Karakuri Watchdog mdl 313 "Saizan"
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Karakuri 313 "Saizan" le Chien de Garde
+  | de_name             = Karakuri-Wachhund Nr. 313 „Saizan“
+  | it_name             = Karakuri Cane da Guardia mod. 313 "Saizan"
+  | ko_name             = 자동기계수위 313 "삼일삼"
+  | es_name             = Perro Karakuri mod. 313 - "Saizan"
+  | ja_name             = カラクリ{{Ruby|守|しゅ}}{{Ruby|衛|えい}} {{Ruby|参|サ}}{{Ruby|壱|イ}}{{Ruby|参|ザン}}
+  | romaji_name         = Karakuri Shuei Saizan
+  | translated_name     = Karakuri Guard 313
+  | sc_name             = 机偶守卫 叁壹叁
+  | image               = KarakuriWatchdogmdl313Saizan-STOR-EN-C-UE.png
+  | attribute           = EARTH
+  | types               = Machine / Tuner
+  | level               = 4
+  | atk                 = 600
+  | def                 = 1800
+  | password            = 70271583
+  | effect_types        = Continuous, Trigger, Trigger, Continuous
+  | text                = This card must [[attack]] if able. When this [[face-up]] card is [[select]]ed as an [[attack target]], change its [[battle position]]. When you take [[Battle Damage]] from a [[battle]] involving this card, all face-up "[[Karakuri]]" [[monster]]s you [[control]] gain 800 [[ATK]] and [[DEF]] until the [[End Phase]]. While this card is in face-up [[Attack Position]], it cannot be [[destroyed by battle]].
+  | fr_text             = Cette carte doit attaquer, si possible. Lorsque cette carte face recto est sélectionnée comme cible d'une attaque, changez sa position de combat. Lorsque vous recevez des dommages de combat d'un combat impliquant cette carte, tous les monstres "Karakuri" face recto que vous contrôlez gagnent 800 points d'ATK et de DEF jusqu'à la End Phase. Tant que cette carte est en Position d'Attaque face recto, elle ne peut pas être détruite au combat.
+  | de_text             = Diese Karte muss angreifen, falls möglich. Wenn diese offene Karte als Angriffsziel gewählt wird, ändere ihre Kampfposition. Wenn du Kampfschaden aus einem Kampf mit dieser Karte erhältst, erhalten alle offenen „Karakuri“-Monster, die du kontrollierst, bis zur End Phase 800 ATK und DEF. Solange diese Karte in offener Angriffsposition liegt, kann sie nicht durch Kampf zerstört werden.
+  | it_text             = Questa carta deve attaccare se può farlo. Quando questa carta scoperta viene scelta come bersaglio di un attacco, cambia la sua Posizione. Quando subisci danno da combattimento da una battaglia che coinvolge questa carta, tutti i mostri "Karakuri" scoperti che controlli guadagnano 800 ATK e DEF fino alla End Phase. Fino a quando questa carta è scoperta in Posizione di Attacco, essa non può essere distrutta in battaglia.
+  | es_text             = Esta carta debe atacar si puede hacerlo. Cuando esta carta boca arriba es seleccionada como objetivo de un ataque, cambia su posición de batalla. Cuando recibes daño de batalla de una batalla que involucre a esta carta, todos los monstruos "Karakuri" boca arriba que controles ganan 800 ATK y DEF hasta la End Phase. Mientras esta carta está en Posición de Ataque boca arriba, no puede ser destruida en batalla.
+  | ja_text             = このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を変更する。このカードの戦闘によって自分が戦闘ダメージを受けた時、自分フィールド上に表側表示で存在する「カラクリ」と名のついた全てのモンスターの攻撃力・守備力は、エンドフェイズ時まで８００ポイントアップする。また、このカードはフィールド上に表側攻撃表示で存在する限り戦闘では破壊されない。
+  | ko_text             = 이 카드는 공격 가능한 경우에는 공격해야 한다. 필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 변경한다. 이 카드의 전투에 의해서 자신이 전투 데미지를 받았을 때, 자신 필드 위에 앞면 표시로 존재하는 "자동기계" 라는 이름이 붙은 모든 몬스터의 공격력 / 수비력은, 엔드 페이즈시까지 800 포인트 올린다. 또한, 이 카드는 필드 위에 앞면 공격 표시로 존재하는 한, 전투로는 파괴되지 않는다.
+  | sc_text             = ①：此卡在可攻击的情况下必须攻击。②：此卡在被选择为攻击对象的情况下发动。变更此卡的表示形式。③：攻击表示的此卡不会因战斗被破坏。④：因此卡的战斗而使自己受到战斗伤害的情况下发动。自己场上所有的“机偶”怪兽的攻击力・守备力直至回合结束时为止上升８００。
+  | en_sets             = 
+  STOR-EN027; Storm of Ragnarok; Common
+  | fr_sets             = 
+  STOR-FR027; Storm of Ragnarok; Common
+  | de_sets             = 
+  STOR-DE027; Storm of Ragnarok; Common
+  | it_sets             = 
+  STOR-IT027; Storm of Ragnarok; Common
+  | sp_sets             = 
+  STOR-SP027; Storm of Ragnarok; Common
+  | jp_sets             = 
+  STOR-JP027; Storm of Ragnarok; Common
+  | kr_sets             = 
+  STOR-KR027; Storm of Ragnarok; Common
+  | sc_sets             = 
+  CL02-SC103; Classic Pack 02; Common
+  | archseries          = Karakuri
+  | supports_archetypes = Karakuri
+  | action              = 
+  * Activates upon attack declaration
+  * Changes own battle position
+  * Activates if you take battle damage
+  | stat_change         = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | attack              = 
+  * Must attack
+  * Cannot be destroyed by battle
+  | database_id         = 9318
+  }}

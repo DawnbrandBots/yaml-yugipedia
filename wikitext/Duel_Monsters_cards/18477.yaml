@@ -1,0 +1,68 @@
+title: Truckroid
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Camionroid
+  | de_name               = Truckroid
+  | it_name               = Truckroid
+  | pt_name               = Caminharoid
+  | ko_name               = 트럭로이드
+  | es_name               = Truckroid
+  | ja_name               = トラックロイド
+  | romaji_name           = Torakkuroido
+  | image                 = Truckroid-SGX2-EN-C-1E.png
+  | attribute             = EARTH
+  | types                 = Machine / Effect
+  | level                 = 4
+  | atk                   = 1000
+  | def                   = 2000
+  | password              = 61538782
+  | effect_types          = Trigger, Continuous
+  | text                  = If this card [[destroy]]s an opponent's [[Monster Card|monster]] [[Destroyed by battle|by battle]] and [[send]]s it to the [[GY]]: [[Equip]] the destroyed monster to this card. Gains [[ATK]] equal to the combined ATK of the monsters equipped to it by this [[effect]].
+  | fr_text               = Lorsque cette carte détruit un monstre de l’adversaire au combat et l'envoie au Cimetière : équipez le monstre détruit à cette carte. Gagne une ATK égale à la somme des ATK des monstres qui lui sont équipés par cet effet.
+  | de_text               = Wenn diese Karte ein Monster deines Gegner durch Kampf zerstört und auf den Friedhof legt: Rüste diese Karte mit dem zerstörten Monster aus. Diese Karte erhält ATK in Höhe der kombinierten ATK der Monster, die sie durch diesen Effekt ausrüsten.
+  | it_text               = Quando questa carta distrugge in battaglia un mostro controllato dal tuo avversario e lo manda al Cimitero, equipaggialo a questa carta. Questa carta guadagna un ATK pari agli ATK totali dei mostri ad essa equipaggiati.
+  | pt_text               = Quando esta card destruir um monstro do opponente em batalha e enviá-lo para o Cemeterió: equipe o monstro destruído a este card. Este card ganha ATK igual ao ATK combinado dos monstros equipados a ele por este efeito.
+  | es_text               = Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: equipa el monstruo destruido a esta carta. Esta carta gana ATK igual al ATK combinado de los monstruos equipados a ella por este efecto.
+  | ja_text               = このカードが戦闘によって相手モンスターを破壊し墓地へ送った時、破壊したモンスターを装備カード扱いとしてこのカードに装備する。このカードの攻撃力は、装備したモンスターカードの攻撃力分だけアップする。
+  | ko_text               = 이 카드가 전투에 의해서 상대 몬스터를 파괴하여 묘지로 보냈을 때, 파괴한 몬스터를 장착 카드로 취급하여 이 카드에 장착한다. 이 카드의 공격력은 장착한 몬스터 카드의 공격력만큼 올린다.
+  | en_sets               = 
+  GLAS-EN014; Gladiator's Assault; Common
+  BP02-EN055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-ENB11; Speed Duel GX: Midterm Paradox; Common
+  | fr_sets               = 
+  GLAS-FR014; Gladiator's Assault; Common
+  BP02-FR055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-FRB11; Speed Duel GX: Midterm Paradox; Common
+  | de_sets               = 
+  GLAS-DE014; Gladiator's Assault; Common
+  BP02-DE055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-DEB11; Speed Duel GX: Midterm Paradox; Common
+  | it_sets               = 
+  GLAS-IT014; Gladiator's Assault; Common
+  BP02-IT055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-ITB11; Speed Duel GX: Midterm Paradox; Common
+  | pt_sets               = 
+  BP02-PT055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-PTB11; Speed Duel GX: Midterm Paradox; Common
+  | sp_sets               = 
+  GLAS-SP014; Gladiator's Assault; Common
+  BP02-SP055; Battle Pack 2: War of the Giants; Rare, Mosaic Rare
+  SGX2-SPB11; Speed Duel GX: Midterm Paradox; Common
+  | jp_sets               = 
+  GLAS-JP014; Gladiator's Assault; Rare
+  | kr_sets               = 
+  GLAS-KR014; Gladiator's Assault; Rare
+  | ygo_sets              = 
+  '''[[Pack 46 (YGOO-BP)|Pack 46]]'''
+  | archseries            = roid
+  | related_to_archseries = Vehicroid
+  | action                = 
+  * Activates if it destroys a monster by battle
+  * Equips monsters from the player's Graveyard to itself
+  * Equips monsters from the opponent's Graveyard to itself
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Treats monsters as Equip Cards
+  | fm_for                = Super Vehicroid - Stealth Union
+  | database_id           = 6743
+  | tcg_speed_duel_status = Unlimited
+  }}

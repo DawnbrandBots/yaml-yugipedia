@@ -1,0 +1,103 @@
+title: Performapal Pendulum Sorcerer
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Sorcier Pendule Potartiste
+  | de_name               = Künstlerkumpel Pendelzauberer
+  | it_name               = Artistamico Stregone Pendulum
+  | pt_name               = Camarartista Feiticeiro Pêndulo
+  | es_name               = Artistamigo Hechicero del Péndulo
+  | ja_name               = {{Ruby|ＥＭ|エンタメイト}}ペンデュラム・マジシャン
+  | romaji_name           = Entameito Pendyuramu Majishan
+  | translated_name       = Entermate Pendulum Magician
+  | ko_name               = {{Ruby|EM|엔터메이트|lang=ko}} 펜듈럼 매지션
+  | ko_rr_name            = Enteomeiteu Pendyulleom Maejisyeon
+  | sc_name               = 娱乐伙伴 灵摆魔术士
+  | image                 = PerformapalPendulumSorcerer-RA04-EN-PlScR-1E.png
+  | attribute             = EARTH
+  | types                 = Spellcaster / Pendulum / Effect
+  | level                 = 4
+  | pendulum_scale        = 2
+  | atk                   = 1500
+  | def                   = 800
+  | password              = 47075569
+  | pendulum_effect_types = Trigger-like
+  | effect_types          = Trigger, Condition
+  | pendulum_effect       = If a "[[Performapal]]" [[Monster Card|monster]](s) is [[Pendulum Summon]]ed to your [[field]]: All "Performapal" monsters you currently [[control]] gain 1000 [[ATK]] until the end of this [[turn]] (even if this card [[leaves the field]]).
+  | text                  = If this card is [[Special Summon]]ed: You can [[target]] up to 2 cards you [[control]]; [[destroy]] them, and if you do, [[Add a card|add]] "[[Performapal]]" [[Monster Card|monsters]] with different names from your [[Main Deck|Deck]] to your [[hand]], except "Performapal Pendulum Sorcerer", equal to the number of cards destroyed. You can only use this [[effect]] of "Performapal Pendulum Sorcerer" [[once per turn]].
+  | fr_pendulum_effect    = Si un ou plusieurs monstres "Potartiste" sont Invoqués par Pendulation sur votre Terrain : jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), tous les monstres "Potartiste" que vous contrôlez actuellement gagnent 1000 ATK.
+  | fr_text               = Si cette carte est Invoquée Spécialement : vous pouvez cibler max. 2 cartes que vous contrôlez ; détruisez-les, et si vous le faites, ajoutez un nombre de monstres "Potartiste" de noms différents ("Sorcier Pendule Potartiste" exclu) depuis votre Deck à votre main, égal au nombre de cartes détruites. Vous ne pouvez utiliser cet effet de "Sorcier Pendule Potartiste" qu'une fois par tour.
+  | de_pendulum_effect    = Falls ein oder mehr „Künstlerkumpel“-Monster als Pendelbeschwörung auf deine Spielfeldseite beschworen werden: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 1000 ATK (selbst falls diese Karte das Spielfeld verlässt).
+  | de_text               = Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten wählen, die du kontrollierst; zerstöre sie und falls du dies tust, füge deiner Hand „Künstlerkumpel“-Monster mit unterschiedlichen Namen in Höhe der Anzahl der zerstörten Karten von deinem Deck hinzu, außer „Künstlerkumpel Pendelzauberer“. Du kannst diesen Effekt von „Künstlerkumpel Pendelzauberer“ nur einmal pro Spielzug verwenden.
+  | it_pendulum_effect    = Se uno o più mostri "Artistamico" vengono Evocati Pendulum sul tuo Terreno: tutti i mostri "Artistamico" che controlli attualmente guadagnano 1000 ATK fino alla fine di questo turno (anche se questa carta lascia il Terreno).
+  | it_text               = Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio fino a 2 carte che controlli; distruggile e, se lo fai, aggiungi mostri "Artistamico" con nomi diversi dal tuo Deck alla tua mano, eccetto "Artistamico Stregone Pendulum", pari al numero di carte distrutte. Puoi utilizzare questo effetto di "Artistamico Stregone Pendulum" una sola volta per turno.
+  | pt_pendulum_effect    = Se um ou mais monstros "Camarartista" forem Invocados por Invocação-Pêndulo no seu campo: até o final deste turno, todos os monstros "Camarartista" que você controla atualmente ganham 1000 de ATK (mesmo que este card deixe o campo).
+  | pt_text               = Se este card for Invocado por Invocação-Especial: você pode escolher até 2 cards que você controla; destrua-os e, se isso acontecer, adicione monstros "Camarartista" com nomes diferentes do seu Deck à sua mão, exceto "Camarartista Feiticeiro Pêndulo", igual ao número de cards destruídos. Você só pode usar este efeito de "Camarartista Feiticeiro Pêndulo" uma vez por turno.
+  | es_pendulum_effect    = Si uno o más monstruos "Artistamigo" son Invocados por Péndulo a tu Campo: todos los monstruos "Artistamigo" que controles en este momento ganan 1000 ATK hasta el final de este turno (aun si esta carta deja el Campo).
+  | es_text               = Si esta carta es Invocada de Modo Especial: puedes seleccionar hasta 2 cartas que controles; destrúyelas y, si lo haces, añade a tu mano tantos monstruos "Artistamigo" con nombres diferentes en tu Deck (excepto "Artistamigo Hechicero del Péndulo") como la cantidad de cartas destruidas. Sólo puedes usar este efecto de "Artistamigo Hechicero del Péndulo" una vez por turno.
+  | ja_pendulum_effect    = ①：自分フィールドに「ＥＭ」モンスターがＰ召喚された場合に発動する。自分フィールドの全ての「ＥＭ」モンスターの攻撃力はターン終了時まで１０００アップする。
+  | ja_text               = このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合、自分フィールドのカードを２枚まで対象として発動できる。そのカードを破壊し、破壊した数だけデッキから「ＥＭペンデュラム・マジシャン」以外の「ＥＭ」モンスターを手札に加える（同名カードは１枚まで）。
+  | ko_pendulum_effect    = ①: 자신 필드에 "EM(엔터메이트)" 몬스터가 펜듈럼 소환되었을 경우에 발동한다. 자신 필드의 "EM(엔터메이트)" 몬스터의 공격력은 턴 종료시까지 1000 올린다.
+  | ko_text               = 이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 자신 필드의 카드를 2장까지 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 파괴한 수만큼 덱에서 "EM(엔터메이트) 펜듈럼 매지션" 이외의 "EM(엔터메이트)" 몬스터를 패에 넣는다(같은 이름의 카드는 1장까지).
+  | sc_pendulum_effect    = ①：“娱乐伙伴”怪兽被灵摆召唤至自己场上的情况下发动。自己场上的“娱乐伙伴”怪兽的攻击力直至回合结束时为止上升１０００。
+  | sc_text               = 此卡名的怪兽效果１回合仅可使用１次。①：此卡特殊召唤成功的情况下，以自己场上的最多２张卡为对象可以发动。破坏该卡，依破坏的数量从牌组将“娱乐伙伴 灵摆魔术士”以外的“娱乐伙伴”怪兽加入手牌（同名卡最多１张）。
+  | en_sets               = 
+  BOSH-EN090; Breakers of Shadow; Secret Rare
+  CT13-EN007; 2016 Mega-Tins; Super Rare
+  LED6-EN051; Legendary Duelists: Magical Hero; Common
+  RA04-EN242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | fr_sets               = 
+  BOSH-FR090; Breakers of Shadow; Secret Rare
+  CT13-FR007; 2016 Mega-Tins; Super Rare
+  LED6-FR051; Legendary Duelists: Magical Hero; Common
+  RA04-FR242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  BOSH-DE090; Breakers of Shadow; Secret Rare
+  CT13-DE007; 2016 Mega-Tins; Super Rare
+  LED6-DE051; Legendary Duelists: Magical Hero; Common
+  RA04-DE242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  BOSH-IT090; Breakers of Shadow; Secret Rare
+  CT13-IT007; 2016 Mega-Tins; Super Rare
+  LED6-IT051; Legendary Duelists: Magical Hero; Common
+  RA04-IT242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  BOSH-PT090; Breakers of Shadow; Secret Rare
+  CT13-PT007; 2016 Mega-Tins; Super Rare
+  LED6-PT051; Legendary Duelists: Magical Hero; Common
+  RA04-PT242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  BOSH-SP090; Breakers of Shadow; Secret Rare
+  CT13-SP007; 2016 Mega-Tins; Super Rare
+  LED6-SP051; Legendary Duelists: Magical Hero; Common
+  RA04-SP242; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | jp_sets               = 
+  VP14-JPA01; Special Summon Evolution; Secret Rare
+  GP16-JP005; Gold Pack 2016; Gold Rare, Gold Secret Rare
+  DP23-JP051; Duelist Pack: Legend Duelist 6; Common
+  QCCU-JP078; Quarter Century Chronicle side:Unity; Super Rare, Secret Rare, Quarter Century Secret Rare
+  | ae_sets               = 
+  AGOV-AE081; Age of Overlord; Super Rare, Secret Rare, Quarter Century Secret Rare
+  AGOV-AE081; Age of Overlord +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
+  | kr_sets               = 
+  SD29-KRSS2; Structure Deck: Master of Pendulum Special Set; Ultra Rare
+  DP23-KR051; Duelist Pack: Legend Duelist 6; Common
+  QCCU-KR078; Quarter Century Chronicle side:Unity; Super Rare, Secret Rare, Quarter Century Secret Rare
+  | sc_sets               = 
+  SD29-SC019; Structure Deck: Master of Pendulum; Super Parallel Rare
+  | mentions              = Performapal Pendulum Sorcerer
+  | archseries            = 
+  * Pendulum (archetype)
+  * Performapal
+  | supports_archetypes   = Performapal
+  | action                = 
+  * Activates upon Pendulum Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = 
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | misc                  = Only once per turn
+  | database_id           = 11615
+  }}

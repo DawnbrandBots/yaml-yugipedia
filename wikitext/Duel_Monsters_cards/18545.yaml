@@ -1,0 +1,51 @@
+title: Degenerate Circuit
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Circuit Dégénérescent
+  | de_name         = Degenerierter Kreislauf
+  | it_name         = Circuito Degenerato
+  | ko_name         = 축퇴회로
+  | pt_name         = 
+  | es_name         = Circuito Roto
+  | ja_name         = {{Ruby|縮|しゅく}}{{Ruby|退|たい}}{{Ruby|回|かい}}{{Ruby|路|ろ}}
+  | romaji_name     = Shukutai Kairo
+  | image           = DegenerateCircuit-CDIP-EN-R-1E.png
+  | card_type       = Spell
+  | property        = Continuous
+  | effect_types    = Maintenance cost, Continuous-like
+  | text            = The [[control]]ler of this card [[pay]]s 500 [[Life Points]] during each of their [[Standby Phase]]s (this is not optional). [[Monster Card]]s that would be returned from the [[field]] to the [[hand]] are [[Banish|removed from play]] instead.
+  | fr_text         = Le contrôleur de cette carte paye 500 Life Points durant chacune de ses Standby Phases (ceci n'est pas facultatif). Les Cartes Monstre qui devraient être renvoyées depuis le Terrain dans la main sont retirées du jeu à la place.
+  | de_text         = Der Beherrscher dieser Karte bezahlt 500 Life Points während jeder seiner Standby Phasen (dies ist nicht optional). Monsterkarten, die vom Spielfeld auf die Hand zurückgegeben werden würden, werden stattdessen aus dem Spiel entfernt.
+  | it_text         = Il controllore di questa carta paga 500 Life Points durante ogni sua Standby Phase (questo non è opzionale). Le Carte Mostro che verrebbero fatte ritornare dal Terreno alla mano vengono invece rimosse dal gioco.
+  | pt_text         = 
+  | es_text         = El controlador de esta carta paga 500 Life Points durante cada una de sus Standby Phases (esto no es opcional). Las Cartas de Monstruo que serían devueltas del Campo a la mano son retiradas del juego en su lugar.
+  | ja_text         = このカードがフィールド上に存在する限り、フィールド上から手札に戻るモンスターカードは手札に戻らずゲームから除外される。このカードのコントローラーは自分のスタンバイフェイズ毎に５００ライフポイントを払う。この時に５００ライフポイント払えない場合はこのカードを破壊する。
+  | translated_text = The controller of this card pays 500 Life Points during each of their Standby Phases (this is not optional). '''If they cannot, destroy this card.''' Monster Cards that would be returned from the field to the hand are removed from play instead.
+  | ko_text         = 이 카드가 필드 위에 존재하는 한, 필드 위에서 패로 되돌아가는 몬스터 카드는 패로 되돌아가지 않고 게임에서 제외된다. 이 카드의 컨트롤러는 자신의 스텐바이 페이즈마다 500 라이프 포인트를 지불한다. 이때 500 라이프 포인트를 지불하지 않을 경우는 카드를 파괴한다.
+  | password        = 36995273
+  | en_sets         = 
+  CDIP-EN047; Cyberdark Impact; Rare, Ultimate Rare
+  | fr_sets         = 
+  CDIP-FR047; Cyberdark Impact; Rare, Ultimate Rare
+  | de_sets         = 
+  CDIP-DE047; Cyberdark Impact; Rare, Ultimate Rare
+  | it_sets         = 
+  CDIP-IT047; Cyberdark Impact; Rare, Ultimate Rare
+  | sp_sets         = 
+  CDIP-SP047; Cyberdark Impact; Rare, Ultimate Rare
+  | jp_sets         = 
+  CDIP-JP047; Cyberdark Impact; Rare
+  DE01-JP066; Duelist Edition Volume 1; Common
+  | kr_sets         = 
+  CDIP-KR047; Cyberdark Impact; Rare
+  PC01-KR068; Precious Pack Volume 1; Common
+  | ygo_sets        = 
+  '''[[Pack 42 (YGOO-BP)|Pack 42]]'''
+  | banished        = 
+  * Banishes from your field
+  * Banishes from your opponent's field
+  * Banishes cards that would be returned to the hand
+  | life_points     = Pays Life Points for cost
+  | misc            = During the Standby Phase
+  | database_id     = 6908
+  }}

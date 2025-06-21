@@ -1,0 +1,85 @@
+title: Lunalight Tiger
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Tigre de Clair de Lune
+  | de_name               = Lunalicht Tiger
+  | it_name               = Tigre della Lucelunare
+  | pt_name               = Tigresa Luzlunar
+  | es_name               = Tigresa de la Lunaluz
+  | ja_name               = {{Ruby|月光虎|ムーンライト・タイガー}}
+  | base_romaji_name      = Gekkōko
+  | romaji_name           = Mūnraito Taigā
+  | translated_name       = Moonlight Tiger
+  | ko_name               = 문라이트 타이거
+  | sc_name               = 月光虎
+  | image                 = LunalightTiger-RA04-EN-SR-1E.png
+  | attribute             = LIGHT
+  | types                 = Beast-Warrior / Pendulum / Effect
+  | level                 = 3
+  | pendulum_scale        = 5
+  | atk                   = 1200
+  | def                   = 800
+  | password              = 83190280
+  | pendulum_effect_types = Ignition-like
+  | effect_types          = Trigger, Condition
+  | pendulum_effect       = [[Once per turn]]: You can [[target]] 1 "[[Lunalight]]" [[Monster Card|monster]] in your [[GY]]; [[Special Summon]] it, but it cannot attack, its [[effect]]s are [[negate]]d, also it is destroyed during the [[End Phase]].
+  | text                  = If this card on the [[field]] is [[destroyed by battle]] or card [[effect]]: You can [[target]] 1 "[[Lunalight]]" [[Monster Card|monster]] in your [[GY]]; [[Special Summon]] it. You can only use this effect of "Lunalight Tiger" [[once per turn]].
+  | fr_pendulum_effect    = Une fois par tour : vous pouvez cibler 1 monstre "Clair de Lune" dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer, ses effets sont annulés, et aussi, il est détruit durant la End Phase.
+  | fr_text               = Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre "Clair de Lune" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de "Tigre de Clair de Lune" qu'une fois par tour.
+  | de_pendulum_effect    = Einmal pro Spielzug: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber es kann nicht angreifen, seine Effekte werden annulliert, zusätzlich wird es während der End Phase zerstört.
+  | de_text               = Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Lunalicht Tiger“ nur einmal pro Spielzug verwenden.
+  | it_pendulum_effect    = Una volta per turno: puoi scegliere come bersaglio 1 mostro "Lucelunare" nel tuo Cimitero; Evocalo Specialmente, ma esso non può attaccare, i suoi effetti sono annullati, inoltre viene distrutto durante la End Phase.
+  | it_text               = Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro "Lucelunare" nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di "Tigre della Lucelunare" una sola volta per turno.
+  | pt_pendulum_effect    = Uma vez por turno: você pode escolher 1 monstro "Luzlunar" no seu Cemitério; Invoque-o por Invocação-Especial, mas ele não pode atacar, seus efeitos são negados e, além disso, ele é destruído durante a Fase Final.
+  | pt_text               = Se este card no campo for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro "Luzlunar" no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de "Tigresa Luzlunar" uma vez por turno.
+  | es_pendulum_effect    = Una vez por turno: puedes seleccionar 1 monstruo "Lunaluz" en tu Cementerio; Invócalo de Modo Especial, pero no puede atacar, sus efectos son negados, y además es destruido durante la End Phase.
+  | es_text               = Si esta carta en el Campo es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo "Lunaluz" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de "Tigresa de la Lunaluz" una vez por turno.
+  | ja_pendulum_effect    = ①：１ターンに１度、自分の墓地の「ムーンライト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに破壊される。
+  | ja_text               = このカード名のモンスター効果は１ターンに１度しか使用できない。①：フィールドのこのカードが戦闘・効果で破壊された場合、自分の墓地の「ムーンライト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+  | ko_pendulum_effect    = ①: 1턴에 1번, 자신 묘지의 "문라이트" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터는 공격할 수 없으며, 효과는 무효화되고, 엔드 페이즈에 파괴된다.
+  | ko_text               = "문라이트 타이거"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드가 전투 / 효과로 파괴되었을 경우, 자신 묘지의 "문라이트" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  | sc_pendulum_effect    = ①：1回合1次，以自己墓地的1只“月光”怪兽为对象可以发动。将该怪兽特殊召唤。以此效果特殊召唤的怪兽不可攻击，效果无效化，将在结束阶段被破坏。
+  | sc_text               = 此卡名的怪兽效果1回合仅可使用1次。①：场上的此卡因战斗・效果被破坏的情况下，以自己墓地的1只“月光”怪兽为对象可以发动。将该怪兽特殊召唤。
+  | en_sets               = 
+  SHVI-EN013; Shining Victories; Common
+  RA04-EN020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | fr_sets               = 
+  SHVI-FR013; Shining Victories; Common
+  RA04-FR020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | de_sets               = 
+  SHVI-DE013; Shining Victories; Common
+  RA04-DE020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | it_sets               = 
+  SHVI-IT013; Shining Victories; Common
+  RA04-IT020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | pt_sets               = 
+  SHVI-PT013; Shining Victories; Common
+  RA04-PT020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | sp_sets               = 
+  SHVI-SP013; Shining Victories; Common
+  RA04-SP020; Quarter Century Stampede; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | jp_sets               = 
+  SHVI-JP013; Shining Victories; Common
+  DUAD-JPS06; Duelist Advance +1 Assist Pack; Ultra Rare
+  | ae_sets               = 
+  CR08-AE030; Creation Pack 08; Super Rare
+  | kr_sets               = 
+  SHVI-KR013; Shining Victories; Common
+  | sc_sets               = 
+  DP21-SC067; Duelist Pack: Legend Duelist 4; Common
+  DUAD-SCS06; Duelist Advance +1 Assist Pack; Ultra Rare
+  | archseries            = Lunalight
+  | supports_archetypes   = Lunalight
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | m/s/t                 = 
+  * Negates the effects of the Summoned monsters
+  * Destroys your Monster Cards
+  | summoning             = Special Summons from your Graveyard
+  | attack                = Prevents your monsters from attacking
+  | misc                  = 
+  * Limited activations
+  * Only once per turn
+  | database_id           = 12285
+  }}

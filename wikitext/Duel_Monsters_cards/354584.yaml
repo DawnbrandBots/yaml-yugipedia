@@ -1,0 +1,74 @@
+title: Aromage Rosemary
+wikitext: |-
+  {{CardTable2
+  | fr_name       = Romarin Arômage
+  | de_name       = Aromagisterin Rosmarin
+  | it_name       = Aromagus Rosmarino
+  | ko_name       = 아로마지-로즈마리
+  | pt_name       = Aromágico Alecrim
+  | es_name       = Arobruja Romero
+  | ja_name       = アロマージ－ローズマリー
+  | romaji_name   = Aromāji - Rōzumarī
+  | sc_name       = 芬芳法师－迷迭香
+  | image         = 
+  1;   AromageRosemary-CORE-JP-C.png    ; AromageRosemary-MADU-JP-VG-artwork.png
+  1.1; AromageRosemary-DUPO-EN-UR-1E.png; AromageRosemary-MADU-EN-VG-artwork.png
+  | current_image = 1.1
+  | attribute     = WATER
+  | types         = Plant / Effect
+  | level         = 4
+  | atk           = 1800
+  | def           = 700
+  | password      = 58569561
+  | effect_types  = Continuous, Trigger
+  | text          = While your [[LP]] are higher than your opponent's, if a [[Plant]] [[monster]] you [[control]] [[attack]]s, your opponent cannot [[activate]] [[monster effect]]s until the end of the [[Damage Step]]. [[Once per turn]], if you gain LP: [[Target]] 1 [[face-up]] monster on the [[field]]; change its [[battle position]].
+  | fr_text       = Tant que vos LP sont supérieurs à ceux de votre adversaire, si un monstre Plante que vous contrôlez attaque, votre adversaire ne peut pas activer d'effets de monstre jusqu'à la fin de la Damage Step. Une fois par tour, si vous gagnez des LP : ciblez 1 monstre face recto sur le Terrain ; changez sa position de combat.
+  | de_text       = Solange du mehr LP als dein Gegner hast, falls ein Pflanze-Monster angreift, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Monstereffekte aktivieren. Einmal pro Spielzug, falls du LP erhältst: Wähle 1 offenes Monster auf dem Spielfeld; ändere seine Kampfposition.
+  | it_text       = Mentre i tuoi LP sono più alti di quelli del tuo avversario, se un mostro Pianta che controlli attacca, il tuo avversario non può attivare effetti di mostri fino alla fine del Damage Step. Una volta per turno, se guadagni LP: scegli come bersaglio 1 mostro scoperto sul Terreno; cambia la sua Posizione.
+  | pt_text       = Enquanto seus PV forem maiores que os do seu oponente, se um monstro Planta que você controla atacar, seu oponente não pode ativar efeitos de monstro até o final da Etapa de Dano. Uma vez por turno, se você ganhar PV: escolha 1 monstro com a face para cima no campo; mude sua posição de batalha.
+  | es_text       = Mientras tus LP sean más altos que los de tu adversario, si un monstruo Planta que controles ataca, hasta el final del Damage Step tu adversario no puede activar efectos de monstruos. Una vez por turno, si ganas LP: selecciona 1 monstruo boca arriba en el Campo; cambia su posición de batalla.
+  | ja_text       = ①：自分のＬＰが相手より多く、このカードがモンスターゾーンに存在する限り、自分の植物族モンスターが攻撃する場合、ダメージステップ終了時まで相手はモンスターの効果を発動できない。②：１ターンに１度、自分のＬＰが回復した場合、フィールドの表側表示モンスター１体を対象として発動する。そのモンスターの表示形式を変更する。
+  | ko_text       = ① : 자신의 라이프 포인트가 상대보다 많고, 이 카드가 몬스터 존에 존재하는 한, 자신의 식물족 몬스터가 공격할 경우, 데미지 스텝 종료시까지 상대는 몬스터의 효과를 발동할 수 없다. ② : 1턴에 1번, 자신의 라이프 포인트가 회복되었을 경우, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동한다. 그 몬스터의 표시 형식을 변경한다.
+  | sc_text       = ①：只要自己的LP多于对手，且此卡存在于怪兽区域，自己的植物族怪兽攻击的情况下，直至伤害步骤结束时为止，对手不可发动怪兽的效果。<br />②：１回合１次，自己的LP恢复的情况下，以场上的１只表侧表示怪兽为对象发动。变更该怪兽的表示形式。
+  | en_sets       = 
+  CORE-EN036; Clash of Rebellions; Ultra Rare
+  DUPO-EN083; Duel Power; Ultra Rare
+  | fr_sets       = 
+  CORE-FR036; Clash of Rebellions; Ultra Rare
+  DUPO-FR083; Duel Power; Ultra Rare
+  | de_sets       = 
+  CORE-DE036; Clash of Rebellions; Ultra Rare
+  DUPO-DE083; Duel Power; Ultra Rare
+  | it_sets       = 
+  CORE-IT036; Clash of Rebellions; Ultra Rare
+  DUPO-IT083; Duel Power; Ultra Rare
+  | pt_sets       = 
+  CORE-PT036; Clash of Rebellions; Ultra Rare
+  DUPO-PT083; Duel Power; Ultra Rare
+  | sp_sets       = 
+  CORE-SP036; Clash of Rebellions; Ultra Rare
+  DUPO-SP083; Duel Power; Ultra Rare
+  | jp_sets       = 
+  CORE-JP036; Clash of Rebellions; Common
+  | ae_sets       = 
+  CR03-AE096; Creation Pack 03; Super Rare
+  CR03-AES17; Creation Pack 03 +1 Bonus Pack; Secret Rare
+  | kr_sets       = 
+  CORE-KR036; Clash of Rebellions; Common
+  AE15-KR001; Advanced Event Pack 2020 Vol.1; Secret Rare
+  | sc_sets       = 
+  PHNI-SC090; Phantom Nightmare; Common
+  | supports      = Plant
+  | archseries    = 
+  * Aroma
+  * Rose
+  | action        = 
+  * Activates if you gain Life Points
+  * Changes battle positions
+  | m/s/t         = Prevents activation of your opponent's Effect Monsters
+  | life_points   = Requires specific LP
+  | misc          = 
+  * Requires control of specific Type
+  * Limited activations
+  | database_id   = 11820
+  }}

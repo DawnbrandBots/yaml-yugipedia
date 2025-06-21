@@ -1,0 +1,60 @@
+title: Plant Food Chain
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Chaîne Alimentaire Végétale
+  | de_name         = Pflanzliche Futterkette
+  | pt_name         = Cadeia Alimentar da Planta
+  | it_name         = Catena Alimentare delle Piante
+  | ko_name         = 식물연쇄
+  | es_name         = Cadena Alimentaria de la Planta
+  | ja_name         = {{Ruby|植|しょく}}{{Ruby|物|ぶつ}}{{Ruby|連|れん}}{{Ruby|鎖|さ}}
+  | romaji_name     = Shokubutsu Rensa
+  | translated_name = Plant Chain
+  | image           = PlantFoodChain-BP03-EN-C-1E.png
+  | card_type       = Trap
+  | property        = Normal
+  | password        = 54451023
+  | effect_types    = Effect, Continuous-like, Trigger-like
+  | text            = [[Target]] 1 [[Plant]]-[[Type]] [[Monster Card|monster]] you [[control]]; [[equip]] this card to that target. It gains 500 [[ATK]]. If this card is [[destroy]]ed by a card [[effect]] while equipped: You can target 1 Plant-Type monster in your [[Graveyard]]; [[Special Summon]] that target.
+  | fr_text         = Ciblez 1 monstre de Type Plante que vous contrôlez ; équipez cette carte à la cible. Il gagne 500 ATK. Si cette carte est détruite par un effet de carte tant qu'elle était équipée : vous pouvez cibler 1 monstre de Type Plante dans votre Cimetière ; Invoquez Spécialement la cible.
+  | de_text         = Wähle 1 Monster vom Typ Pflanze, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Es erhält 500 ATK. Falls diese Karte durch einen Karteneffekt zerstört wird, solange sie ausrüstet: Du kannst 1 Monster vom Typ Pflanze in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.
+  | it_text         = [[Target|Scegli come bersaglio]] 1 mostro di Tipo [[Plant|Pianta]] che [[control]]li; [[equip]]aggia questa carta a quel bersaglio. Esso guadagna 500 [[ATK]]. Se questa carta viene [[Destroy|distrutta]] dall'[[Effect|effetto di una carta]] mentre è equipaggiata: puoi scegliere come bersaglio 1 mostro di Tipo Pianta nel tuo [[Graveyard|Cimitero]]; [[Special Summon|Evoca Specialmente]] quel bersaglio.
+  | pt_text         = Escolha 1 monstro do Tipo Planta que você controla; equipe este card ao alvo. Ele ganha 500 de ATK. Se este card for destruído por um efeito de card enquanto estiver equipado: você pode escolher 1 monstro do Tipo Planta no seu Cemitério; Invoque o alvo por Invocação-Especial.
+  | es_text         = Selecciona 1 monstruo de Tipo Planta que controles; equipa esta carta a ese objetivo. Éste gana 500 ATK. Si esta carta es destruida por efecto de una carta mientras está equipada: puedes seleccionar 1 monstruo de Tipo Planta en tu Cementerio; Invoca ese objetivo de Modo Especial.
+  | ja_text         = 発動後このカードは[[ATK|攻撃力]]５００ポイントアップの [[Equip Card|装備カード]]となり、自分フィールド上に存在する[[Plant|植物族]]モンスター１体に装備する。装備カードとなったこのカードが他のカードの効果で破壊された場合、自分の[[Graveyard|墓地]]に存在する植物族モンスター１体を選択して[[Special Summon|特殊召喚]]する事ができる。
+  | ko_text         = 발동 후, 이 카드는 공격력을 500 포인트 올리는 장착 카드가 되어, 자신 필드 위에 존재하는 식물족 몬스터 1장에 장착한다. 장착카드가 된 이 카드가 다른 카드의 효과로 파괴되었을 경우, 자신의 묘지에 존재하는 식물족 몬스터 1장을 선택하고 특수소환할 수 있다.
+  | en_sets         = 
+  CSOC-EN076; Crossroads of Chaos; Common
+  BP03-EN212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | fr_sets         = 
+  CSOC-FR076; Crossroads of Chaos; Common
+  BP03-FR212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | de_sets         = 
+  CSOC-DE076; Crossroads of Chaos; Common
+  BP03-DE212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | it_sets         = 
+  CSOC-IT076; Crossroads of Chaos; Common
+  BP03-IT212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | pt_sets         = 
+  BP03-PT212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | sp_sets         = 
+  CSOC-SP076; Crossroads of Chaos; Common
+  BP03-SP212; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  | jp_sets         = 
+  CSOC-JP076; Crossroads of Chaos; Common
+  DE03-JP064; Duelist Edition Volume 3; Common
+  | kr_sets         = 
+  CSOC-KR076; Crossroads of Chaos; Common
+  | ygo_sets        = 
+  '''[[Pack 50 (YGOO-BP)|Pack 50]]'''
+  | supports        = Plant
+  | action          = 
+  * Equips self from field
+  * Activates if destroyed by card effect
+  | stat_change     = Equipped gains ATK
+  | m/s/t           = Treated as Equip Card
+  | summoning       = Special Summons from your Graveyard
+  | misc            = 
+  * Requires control of specific Type
+  | database_id     = 7931
+  }}

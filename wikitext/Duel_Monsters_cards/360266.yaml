@@ -1,0 +1,83 @@
+title: Crystal Keeper
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Garde du Cristal
+  | de_name               = Kristallhüter
+  | it_name               = Detentore dei Cristalli
+  | pt_name               = Defensor Cristalino
+  | es_name               = Cuidador del Cristal
+  | ja_name               = {{Ruby|宝|ほう}}{{Ruby|玉|ぎょく}}の{{Ruby|守|しゅ}}{{Ruby|護|ご}}{{Ruby|者|しゃ}}
+  | romaji_name           = Hōgyoku no Shugosha
+  | translated_name       = Gem Keeper
+  | ko_name               = 보옥의 수호자
+  | ko_rr_name            = Book-ui Suhoja
+  | image                 = CrystalKeeper-SDCB-EN-C-1E.png
+  | attribute             = FIRE
+  | types                 = Warrior / Pendulum / Effect
+  | level                 = 4
+  | pendulum_scale        = 2
+  | atk                   = 1500
+  | def                   = 1800
+  | password              = 14469229
+  | pendulum_effect_types = Continuous-like
+  | effect_types          = Quick
+  | pendulum_effect       = Each [[turn]], the first time an "[[Ultimate Crystal]]" [[Monster Card|monster]](s) and/or "[[Crystal Beast]]" card(s) you [[control]] would be [[destroy]]ed by card [[effect]] that turn, it is not destroyed.
+  | text                  = If a "[[Crystal Beast]]" [[Monster Card|monster]] you [[control]] [[battle]]s an opponent's monster, during [[damage calculation]] ([[Quick Effect]]): You can [[Tribute]] this card from your [[hand]] or [[face-up]] [[field]]; your battling monster's [[ATK]]/[[DEF]] become double its original ATK/DEF during that damage calculation only, but it is [[destroy]]ed at the end of this Damage Step.
+  | fr_pendulum_effect    = Chaque tour, la première fois qu'un ou plusieurs monstres "Cristal Ultime" et/ou une ou plusieurs cartes "Bête Cristalline" que vous contrôlez vont être détruits par un effet de carte ce tour, ils ne sont pas détruits.
+  | fr_text               = Si un monstre "Bête Cristalline" que vous contrôlez combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; l'ATK/DEF de votre monstre combattant deviennent le double de son ATK/DEF d'origine durant ce calcul des dommages uniquement, mais il est détruit durant la fin de cette Damage Step.
+  | de_pendulum_effect    = Das erste Mal in jedem Spielzug, dass ein oder mehr „Ultimativer Kristall“-Monster und/oder „Kristallungeheuer“-Karten, die du kontrollierst, in jenem Spielzug durch einen Karteneffekt zerstört würden, werden sie nicht zerstört.
+  | de_text               = Falls ein „Kristallungeheuer“-Monster, das du kontrollierst, gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite als Tribut anbieten; die ATK/DEF deines kämpfenden Monsters werden nur während jener Schadensberechnung zum Doppelten seiner Grund-ATK/DEF, aber es wird am Ende dieses Damage Steps zerstört.
+  | it_pendulum_effect    = Ogni turno, la prima volta che uno o più mostri "Cristallo Finale" e/o una o più carte "Bestia Cristallo" che controlli stanno per essere distrutti dall'effetto di una carta in quel turno, non vengono distrutti.
+  | it_text               = Se un mostro "Bestia Cristallo" che controlli combatte con un mostro dell'avversario, durante il calcolo dei danni (Effetto Rapido): puoi offrire come Tributo questa carta dalla tua mano o Terreno scoperto; l'ATK/DEF del tuo mostro che sta combattendo diventano il doppio dei suoi ATK/DEF originali solamente durante quel calcolo dei danni, ma esso viene distrutto alla fine di questo Damage Step.
+  | pt_pendulum_effect    = A cada turno, na primeira vez que um ou mais monstros "Cristalino(a) Definitivo(a)" e/ou um ou mais cards "Fera Cristalina" que você controla seriam destruídos por um efeito de card nesse turno, eles não são destruídos.
+  | pt_text               = Se um monstro "Fera Cristalina" que você controla batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode oferecer este card como Tributo da sua mão ou do campo com a face para cima; o ATK/DEF do seu monstro que estiver batalhando se torna o dobro do seu ATK/DEF originais, apenas durante esse cálculo de dano, mas ele é destruído no final desta Etapa de Dano.
+  | es_pendulum_effect    = Cada turno, la primera vez que uno o más monstruos "Cristal Definitivo/a" y/o una o más cartas "Bestia de Cristal" que controlas fueran a ser destruidos por el efecto de una carta ese turno, no lo son.
+  | es_text               = Si un monstruo "Bestia de Cristal" que controlas batalla con un monstruo del adversario, durante el cálculo de daño (Efecto Rápido): puedes Sacrificar esta carta en tu mano o Campo boca arriba; el ATK/DEF de tu monstruo batallante se convierten en el doble de su ATK/DEF originales, sólo durante ese cálculo de daño, pero es destruido al final de este Damage Step.
+  | ja_pendulum_effect    = ①：このカードがＰゾーンに存在する限り、１ターンに１度だけ、自分フィールドの「究極宝玉神」モンスター及び「宝玉獣」カードは効果では破壊されない。
+  | ja_text               = ①：自分の「宝玉獣」モンスターが相手モンスターと戦闘を行うダメージ計算時、手札・フィールドのこのカードをリリースして発動できる。その戦闘を行う自分のモンスターは、攻撃力・守備力がダメージ計算時のみ元々の数値の倍になり、ダメージステップ終了時に破壊される。
+  | ko_pendulum_effect    = ①: 이 카드가 펜듈럼 존에 존재하는 한, 1턴에 1번만, 자신 필드의 "궁극보옥신" 몬스터 및 "보옥수" 카드는 효과로는 파괴되지 않는다.
+  | ko_text               = ①: 자신의 "보옥수" 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산시, 패 / 필드의 이 카드를 릴리스하고 발동할 수 있다. 그 전투를 실행하는 자신 몬스터는, 공격력 / 수비력이 데미지 계산시에만 원래 수치의 배가 되고, 데미지 스텝 종료시에 파괴된다.
+  | en_sets               = 
+  FLOD-EN093; Flames of Destruction; Common
+  MP19-EN066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-EN010; Structure Deck: Legend of the Crystal Beasts; Common
+  | fr_sets               = 
+  FLOD-FR093; Flames of Destruction; Common
+  MP19-FR066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-FR010; Structure Deck: Legend of the Crystal Beasts; Common
+  | de_sets               = 
+  FLOD-DE093; Flames of Destruction; Common
+  MP19-DE066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-DE010; Structure Deck: Legend of the Crystal Beasts; Common
+  | it_sets               = 
+  FLOD-IT093; Flames of Destruction; Common
+  MP19-IT066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-IT010; Structure Deck: Legend of the Crystal Beasts; Common
+  | pt_sets               = 
+  FLOD-PT093; Flames of Destruction; Common
+  MP19-PT066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-PT010; Structure Deck: Legend of the Crystal Beasts; Common
+  | sp_sets               = 
+  FLOD-SP093; Flames of Destruction; Common
+  MP19-SP066; 2019 Gold Sarcophagus Tin Mega Pack; Common
+  SDCB-SP010; Structure Deck: Legend of the Crystal Beasts; Common
+  | jp_sets               = 
+  SECE-JP082; Secrets of Eternity; Rare
+  SD44-JP010; Structure Deck: Legend of the Crystals; Common
+  | kr_sets               = 
+  EP15-KR042; Extra Pack 2015; Rare
+  SD44-KR010; Structure Deck: Legend of the Crystals; Common
+  | archseries            = Crystal
+  | supports_archetypes   = 
+  * Crystal Beast
+  * Ultimate Crystal
+  | action                = Tributes itself for cost
+  | stat_change           = 
+  * Changes ATK value
+  * Changes DEF value
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Destroys your Monster Cards
+  | misc                  = Limited activations
+  | database_id           = 11602
+  }}

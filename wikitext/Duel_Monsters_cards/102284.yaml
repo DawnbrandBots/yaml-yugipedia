@@ -1,0 +1,49 @@
+title: Iron Core Armor
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Armure de Noyau d'Énergie
+  | de_name             = Eisenkern-Rüstung
+  | it_name             = Armatura Nucleo di Ferro
+  | es_name             = Armadura de Núcleo de Hierro
+  | ja_name             = {{Ruby|鋼|こう}}{{Ruby|核|かく}}{{Ruby|収|しゅう}}{{Ruby|納|のう}}
+  | romaji_name         = Kōkaku Shūnō
+  | translated_name     = Steel Core Storage
+  | ko_name             = 강철핵 수납
+  | image               = IronCoreArmor-SOVR-EN-C-UE.png
+  | card_type           = Spell
+  | property            = Equip
+  | password            = 20457551
+  | effect_types        = Condition, Continuous-like, Continuous-like
+  | text                = [[Equip]] only to a "[[Koa'ki Meiru]]" [[monster]]. During [[damage calculation]] only, monsters that [[battle]] with the equipped monster lose [[ATK]] equal to the equipped monster's [[Level]] x 100. If the equipped monster would be [[destroy]]ed during the [[End Phase]], you can [[send]] this card to the [[Graveyard]] instead.
+  | fr_text             = Équipable uniquement à un monstre "Koa'ki Meiru". Durant le calcul des dommages uniquement, les monstres qui combattent avec le monstre équipé perdent un montant d'ATK égal au Niveau du monstre équipé x 100. Si le monstre équipé doit être détruit durant la End Phase, vous pouvez envoyer cette carte au Cimetière à la place.
+  | de_text             = Rüste nur ein "Koa'ki Meiru"-Monster mit dieser Karte aus. Nur während der Schadensberechnung verlieren Monster, die mit dem ausgerüsteten Monster kämpfen, ATK in Höhe der Stufe des ausgerüsteten Monsters x 100. Falls das ausgerüstete Monster während der End Phase zerstört werden würde, kannst du stattdessen diese Karte auf den Friedhof legen.
+  | it_text             = Equipaggia solo ad un mostro "Koa'ki Meiru". Solo durante il calcolo dei danni, i mostri che combattono con il mostro equipaggiato perdono ATK pari al Livello del mostro equipaggiato x 100. Se il mostro equipaggiato sta per essere distrutto durante la End Phase, puoi invece mandare questa carta al Cimitero.
+  | pt_text             = 
+  | es_text             = Sólo puedes equipar esta carta a un monstruo "Koa'ki Meiru". Los monstruos que batallen con el monstruo equipado pierden ATK igual al Nivel del monstruo equipado x 100, sólo durante el cálculo de daño. Si el monstruo equipado fuera a ser destruido durante la End Phase, puedes mandar esta carta al Cementerio en su lugar.
+  | ja_text             = 「コアキメイル」と名のついたモンスターにのみ装備可能。装備モンスターと戦闘を行う相手モンスターの攻撃力は、そのダメージ計算時のみ装備モンスターのレベル×１００ポイントダウンする。装備モンスターがエンドフェイズ時に破壊される場合、代わりにこのカードを墓地へ送る事ができる。
+  | ko_text             = '코아키메일' 이라는 이름이 붙은 몬스터에만 장착 가능. 장착 몬스터와 전투를 실행하는 상대 몬스터의 공격력은, 그 데미지 계산시만 장착 몬스터의 레벨×100포인트 내린다. 장착 몬스터가 엔드 페이즈시에 파괴될 경우, 대신 이 카드를 묘지로 보낼 수 있다.
+  | en_sets             = 
+  SOVR-EN053; Stardust Overdrive; Common
+  | fr_sets             = 
+  SOVR-FR053; Stardust Overdrive; Common
+  | de_sets             = 
+  SOVR-DE053; Stardust Overdrive; Common
+  | it_sets             = 
+  SOVR-IT053; Stardust Overdrive; Common
+  | sp_sets             = 
+  SOVR-SP053; Stardust Overdrive; Common
+  | jp_sets             = 
+  SOVR-JP053; Stardust Overdrive; Common
+  | kr_sets             = 
+  SOVR-KR053; Stardust Overdrive; Common
+  | supports_archetypes = Koa'ki Meiru
+  | action              = Sends itself from field to Graveyard
+  | stat_change         = 
+  * Your monsters lose ATK
+  * Your opponent's monsters lose ATK
+  | m/s/t               = 
+  * Redirects destruction
+  * Cannot be destroyed by card effects
+  | misc                = Equips only to a specific target
+  | database_id         = 8488
+  }}

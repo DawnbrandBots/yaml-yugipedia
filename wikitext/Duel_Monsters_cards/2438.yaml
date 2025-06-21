@@ -1,0 +1,75 @@
+title: Dark Catapulter
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Catapulteur des Ténèbres
+  | de_name               = Finsterer Katapultierer
+  | it_name               = Catapultatore Oscuro
+  | ko_name               = 다크 캐터펄터
+  | pt_name               = Catapultador Sombrio
+  | es_name               = Catapulta Oscura
+  | ja_name               = ダーク・カタパルター
+  | romaji_name           = Dāku Kataparutā
+  | image                 = DarkCatapulter-SGX2-EN-C-1E.png
+  | attribute             = EARTH
+  | types                 = Machine / Effect
+  | level                 = 4
+  | atk                   = 1000
+  | def                   = 1500
+  | password              = 33875961
+  | effect_types          = Trigger, Ignition
+  | text                  = [[Once per turn]], during your [[Standby Phase]], if this card is in [[Defense Position]]: Place 1 [[Counter (counter)|counter]] on this card. You can [[banish]] cards in your [[GY]] equal to the number of counters on this card, then [[target]] that many Spells/[[Traps]] on the [[field]]; [[destroy]] them, then remove all counters from this card.
+  | translated_text       = Once per turn, during your Standby Phase: Place 1 counter on this card. '''This card must be in face-up Defense Position to activate and to resolve this effect.''' You can banish cards in your GY equal to the number of counters on this card, then target that many Spells/Traps on the field; destroy them, then remove all counters from this card.
+  | fr_text               = Une fois par tour, durant votre Standby Phase, si cette carte est en Position de Défense : placez 1 Compteur sur cette carte. Vous pouvez bannir un nombre de cartes dans votre Cimetière égal au nombre de Compteurs sur cette carte, puis ciblez autant de Magies/Pièges sur le Terrain ; détruisez-les, puis retirez tous les Compteurs de cette carte.
+  | de_text               = Während deiner Standby Phase, falls diese Karte in Verteidigungsposition ist, lege 1 Zählmarke auf diese Karte. Entferne eine Anzahl von Karten in Höhe der Zählmarken auf dieser Karte aus deinem Friedhof aus dem Spiel, um die gleiche Anzahl von Zauber- oder Fallenkarten auf dem Spielfeld zu zerstören. Dann entferne alle Zählmarken von dieser Karte.
+  | it_text               = Durante la tua Standby Phase, se questa carta è in Posizione di Difesa, metti 1 Segnalino su questa carta. Rimuovi dal gioco un numero di carte nel tuo Cimitero pari al numero di Segnalini su questa carta per distruggere lo stesso numero di Carte Magia o Trappola sul Terreno. Dopo di che rimuovi tutti i Segnalini da questa carta.
+  | pt_text               = Durante sua Standby Phase, se este card estiver em Posição de Defesa, ponha 1 contador neste card. Remova de jogo um número de cards do seu cemitério igual ao número de contadores neste card para destruir o mesmo número de Cards de Magia ou de Armadilha no Campo. Feito isso, remova todos os contadores deste card.
+  | es_text               = Durante tu Standby Phase, si esta carta está en Posición de Defensa, pon 1 contador en esta carta. Retira del juego un número de cartas en tu Cementerio igual al número de contadores en esta carta para destruir el mismo número de Cartas Mágicas o de Trampa en el Campo. Luego retira todos los contadores de esta carta.
+  | ja_text               = 自分のスタンバイフェイズ時にこのカードが守備表示だった場合、このカードにカウンターを１つ置く。カウンターと同じ数のカードを自分の墓地から除外する事で、その枚数と同じ枚数のフィールド上の魔法・罠カードを破壊する。その後このカードのカウンターを全て取り除く。
+  | ko_text               = 자신의 스턴바이페이즈시에 이 카드가 수비 표시였던 경우, 이 카드로 카운터를 1개둔다. 카운터와 같은 수의 카드를 자신의 묘지로부터 제외하는 일로, 그 매수와 같은 매수의 필드상의 마법·함정 카드를 파괴한다. 그 후 이 카드의 카운터를 모두 없앤다.
+  | en_sets               = 
+  CRV-EN013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-EN008; Duelist Pack: Jaden Yuki; Common
+  SGX2-ENA07; Speed Duel GX: Midterm Paradox; Common
+  | na_sets               = 
+  DR04-EN013; Dark Revelation Volume 4; Common
+  | fr_sets               = 
+  CRV-FR013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-FR008; Duelist Pack: Jaden Yuki; Common
+  SGX2-FRA07; Speed Duel GX: Midterm Paradox; Common
+  | de_sets               = 
+  CRV-DE013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-DE008; Duelist Pack: Jaden Yuki; Common
+  SGX2-DEA07; Speed Duel GX: Midterm Paradox; Common
+  | it_sets               = 
+  CRV-IT013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-IT008; Duelist Pack: Jaden Yuki; Common
+  SGX2-ITA07; Speed Duel GX: Midterm Paradox; Common
+  | pt_sets               = 
+  CRV-PT013; Cybernetic Revolution; Rare, Ultimate Rare
+  SGX2-PTA07; Speed Duel GX: Midterm Paradox; Common
+  | sp_sets               = 
+  CRV-SP013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-SP008; Duelist Pack: Jaden Yuki; Common
+  SGX2-SPA07; Speed Duel GX: Midterm Paradox; Common
+  | jp_sets               = 
+  CRV-JP013; Cybernetic Revolution; Rare
+  DP1-JP008; Duelist Pack: Jaden Yuki; Common
+  EE04-JP013; Expert Edition Volume 4; Common
+  | ae_sets               = 
+  CRV-AE013; Cybernetic Revolution; Rare, Ultimate Rare
+  | kr_sets               = 
+  CRV-KR013; Cybernetic Revolution; Rare, Ultimate Rare
+  DP1-KR008; Duelist Pack: Jaden Yuki; Common
+  HGP4-KR013; Expert Edition Volume 4; Common
+  | counter               = 
+  * Counter (counter)
+  * Places counters on itself
+  * Removes counters from itself
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | banished              = Banishes from your Graveyard
+  | misc                  = During the Standby Phase
+  | database_id           = 6392
+  | tcg_speed_duel_status = Unlimited
+  }}

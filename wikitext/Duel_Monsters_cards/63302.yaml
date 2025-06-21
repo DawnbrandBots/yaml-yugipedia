@@ -1,0 +1,73 @@
+title: Hedge Guard
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Haie de Défense
+  | de_name         = Heckenschutz
+  | it_name         = Siepe Guardiana
+  | ko_name         = 가드 헤지
+  | pt_name         = Cerca Vigia
+  | es_name         = Vigilante del Seto
+  | ja_name         = ガード・ヘッジ
+  | romaji_name     = Gādo Hejji
+  | translated_name = Guard Hedge
+  | image           = HedgeGuard-LC5D-EN-UR-1E.png
+  | attribute       = EARTH
+  | types           = Plant / Effect
+  | atk             = 0
+  | def             = 2100
+  | level           = 3
+  | password        = 59042331
+  | effect_types    = Quick
+  | text            = During [[damage calculation]], in either player's [[turn]], when a [[Monster Card|monster]] you [[control]] [[attack]]s or is attacked: You can [[send]] this card from your [[hand]] to the [[Graveyard]]; halve the [[ATK]] of that monster you control until the end of this turn, but that monster cannot be [[Destroyed by battle|destroyed by this battle]].
+  | fr_text         = Durant le calcul des dommages du tour de chaque joueur, lorsqu'un monstre que vous contrôlez attaque ou est attaqué : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, divisez par deux l'ATK du monstre que vous contrôlez, mais le monstre ne peut pas être détruit par ce combat.
+  | de_text         = Während der Schadensberechnung im Spielzug eines beliebigen Spielers, wenn ein Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen; halbiere bis zum Ende dieses Spielzugs die ATK des Monsters, das du kontrollierst, aber das Monster kann durch diesen Kampf nicht zerstört werden.
+  | it_text         = Durante il calcolo dei danni, nel turno di qualsiasi giocatore, quando un mostro che controlli attacca o viene attaccato: puoi mandare questa carta dalla tua mano al Cimitero; dimezza l'ATK di quel mostro che controlli fino alla fine di questo turno, ma quel mostro non può essere distrutto in questa battaglia.
+  | pt_text         = Durante o Cálculo de Dano, você pode enviar esta carta da sua mão ao Cemitério para prevenir que o monstro que você controla seja destruído nesta batalha. Entretanto, o ATK daquele monstro é reduzido pela metade até a End Phase.
+  | es_text         = Durante el cálculo de daño, en el turno de cualquier jugador, cuando un monstruo que controles ataca o es atacado: puedes mandar al Cementerio esta carta en tu mano; hasta el final de este turno, divide a la mitad el ATK de ese monstruo que controles, pero ese monstruo no puede ser destruido en esta batalla.
+  | ja_text         = 自分フィールド上のモンスターが戦闘を行うダメージ計算時、このカードを手札から墓地へ送って発動できる。その自分のモンスターはその戦闘では破壊されず、エンドフェイズ時まで攻撃力は半分になる。
+  | ko_text         = 전투 데미지 계산시, 이 카드를 패에서 묘지로 보내고 발동한다. 자신 필드 위에 존재하는 몬스터는 그 전투로는 파괴되지 않으며, 공격력은 이 턴의 엔드 페이즈시까지 절반이 된다.
+  | en_sets         = 
+  RGBT-EN008; Raging Battle; Common
+  BP01-EN157; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-EN081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-EN089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | fr_sets         = 
+  RGBT-FR008; Raging Battle; Common
+  BP01-FR157; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-FR081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-FR089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | de_sets         = 
+  RGBT-DE008; Raging Battle; Common
+  BP01-DE157; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-DE081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-DE089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | it_sets         = 
+  RGBT-IT008; Raging Battle; Common
+  BP01-IT157; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-IT081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-IT089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | pt_sets         = 
+  BP02-PT081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-PT089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | sp_sets         = 
+  RGBT-SP008; Raging Battle; Common
+  BP01-SP157; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-SP081; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  LC5D-SP089; Legendary Collection 5D's Mega Pack; Ultra Rare
+  | jp_sets         = 
+  RGBT-JP008; Raging Battle; Common
+  DE03-JP116; Duelist Edition Volume 3; Common
+  | kr_sets         = 
+  RGBT-KR008; Raging Battle; Common
+  SYP1-KR017; Synergy Pack 01: Syncro Acceleration; Super Rare, Secret Rare
+  | ae_sets         = 
+  RGBT-AE008; Raging Battle; Common
+  | action          = 
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
+  | stat_change     = 
+  * Your monsters lose ATK
+  * Halves ATK
+  | attack          = Cannot be destroyed by battle
+  | database_id     = 8160
+  }}

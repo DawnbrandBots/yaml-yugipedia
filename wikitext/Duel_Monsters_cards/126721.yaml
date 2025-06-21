@@ -1,0 +1,69 @@
+title: Genex Ally Bellflame
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Cloche-Flamme, Allié Genex
+  | de_name         = Genex-Verbündeter Flammenglocke
+  | it_name         = Genex Alleato Infiammatore
+  | pt_name         = Aliado Genex Chamalarme
+  | es_name         = Aliado Genex Sirellama
+  | ja_name         = {{Ruby|Ａ|アーリー}}・ジェネクス・ベルフレイム
+  | romaji_name     = Ārī Jenekusu Berufureimu
+  | translated_name = Ally Genex Bellflame
+  | ko_name         = A·제넥스 벨플레임
+  | sc_name         = A次代机・浴焰
+  | image           = GenexAllyBellflame-BP03-EN-R-1E.png
+  | attribute       = DARK
+  | types           = Machine / Effect
+  | level           = 4
+  | atk             = 1700
+  | def             = 1000
+  | password        = 91438994
+  | effect_types    = Continuous, Continuous, Continuous, Trigger
+  | text            = Each time a [[monster]](s) you [[control]] is [[sent]] to the [[Graveyard]], place 1 [[Genex Counter]] on this card. Each time a card(s) in your opponent's Graveyard is [[banish]]ed, place 2 Genex Counters on this card. This card gains 100 [[ATK]] for each Genex Counter on the [[field]]. If this card is [[destroyed by battle]] and sent to the Graveyard: Inflict 300 [[Effect damage|damage]] to your opponent for each Genex Counter that was on this card.
+  | fr_text         = Chaque fois qu'un ou plusieurs monstres que vous contrôlez sont envoyés au Cimetière, placez 1 Compteur Genex sur cette carte. Chaque fois qu'une ou plusieurs cartes dans le Cimetière de votre adversaire sont bannies, placez 2 Compteurs Genex sur cette carte. Cette carte gagne 100 ATK pour chaque Compteur Genex sur le Terrain. Si cette carte est détruite au combat et envoyée au Cimetière : infligez 300 points de dommage à votre adversaire pour chaque Compteur Genex qui était sur cette carte.
+  | de_text         = Jedes Mal, wenn ein oder mehr Monster, die du kontrollierst, auf den Friedhof gelegt werden, lege 1 Genex-Zählmarke auf diese Karte. Jedes Mal, wenn eine oder mehr Karten vom Friedhof deines Gegners verbannt werden, lege 2 Genex-Zählmarken auf diese Karte. Diese Karte erhält 100 ATK für jede Genex-Zählmarke auf dem Spielfeld. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Füge deinem Gegner 300 Schaden für jede Genex-Zählmarke zu, die auf dieser Karte lag.
+  | it_text         = Ogni volta che uno o più mostri che controlli vengono mandati al Cimitero, metti 1 Segnalino Genex su questa carta. Ogni volta che una o più carte nel Cimitero del tuo avversario vengono bandite, metti 2 Segnalini Genex su questa carta. Questa carta guadagna 100 ATK per ogni Segnalino Genex sul Terreno. Se questa carta viene distrutta in battaglia e mandata la Cimitero: infliggi 300 danni al tuo avversario per ogni Segnalino Genex che c'era su questa carta.
+  | pt_text         = Sempre que um ou mais monstros que você controla forem enviados para o Cemitério, coloque 1 Marcador Genex neste card. Sempre que um ou mais cards no Cemitério do seu oponente forem banidos, coloque 2 Marcadores Genex neste card. Este card ganha 100 de ATK para cada Marcador Genex no campo. Se este card for destruído em batalha e enviado para o Cemitério: cause 300 de dano ao seu oponente para cada Marcador Genex que estava neste card.
+  | es_text         = Cada vez que uno o más monstruos que controlas es mandado al Cementerio, pon 1 Contador Genex en esta carta. Cada vez que una o más cartas en el Cementerio de tu adversario son desterradas, pon 2 Contadores Genex en esta carta. Esta carta gana 100 ATK por cada Contador Genex en el Campo. Si esta carta es destruida en batalla y mandada al Cementerio: inflige 300 puntos de daño a tu adversario por cada Contador Genex que había en esta carta.
+  | ja_text         = ①：自分フィールドからモンスターが墓地へ送られる度に、このカードにジェネクスカウンターを１つ置く。②：相手の墓地からカードが除外される度に、このカードにジェネクスカウンターを２つ置く。③：このカードの攻撃力は、フィールドのジェネクスカウンターの数×１００アップする。④：このカードが戦闘で破壊され墓地へ送られた場合に発動する。このカードに置かれていたジェネクスカウンターの数×３００ダメージを相手に与える。
+  | ko_text         = 자신 필드 위에 존재하는 몬스터가 묘지로 보내질 때마다, 이 카드에 제넥스 카운터를 1개 놓는다. 또한, 상대의 묘지에 존재하는 카드가 게임에서 제외될 때마다, 이 카드에 제넥스 카운터를 2개 놓는다. 이 카드의 공격력은 필드 위에 존재하는 제넥스 카운터의 수 × 100 포인트 올린다. 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 이 카드에 얹혀 있는 제넥스 카운터의 수 × 300 포인트 데미지를 상대 라이프에 준다.
+  | sc_text         = ①：每次怪兽被从自己场上送至墓地，在此卡上放１个次代机计数物。<br />②：每次卡被从对手的墓地除外，在此卡上放２个次代机计数物。<br />③：此卡的攻击力上升相当于场上次代机计数物的数量×１００的数值。<br />④：此卡因战斗被破坏并被送至墓地的情况下发动。给予对手相当于此卡上所放次代机计数物的数量×３００的伤害。
+  | en_sets         = 
+  HA04-EN038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  BP03-EN082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | na_sets         = 
+  DT04-EN068; Duel Terminal 4; Duel Terminal Rare Parallel Rare
+  | fr_sets         = 
+  HA04-FR038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  BP03-FR082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | de_sets         = 
+  HA04-DE038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  BP03-DE082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | it_sets         = 
+  HA04-IT038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  BP03-IT082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | pt_sets         = 
+  BP03-PT082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | sp_sets         = 
+  HA04-SP038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  BP03-SP082; Battle Pack 3: Monster League; Rare, Shatterfoil Rare
+  | jp_sets         = 
+  DT08-JP018; Duel Terminal - Pulse of the Trishula!!; Duel Terminal Rare Parallel Rare
+  DTC3-JP038; Duel Terminal Chronicle 3 - Chapter of Destruction; Duel Terminal Rare Parallel Rare
+  TW01-JP084; Terminal World (set); Common, Normal Parallel Rare
+  | kr_sets         = 
+  HA04-KR038; Hidden Arsenal 4: Trishula's Triumph; Super Rare
+  TW01-KR084; Terminal World (set); Common, Normal Parallel Rare
+  | sc_sets         = 
+  TW01-SC084; Terminal World (set); Common
+  | archseries      = Genex
+  | counter         = 
+  * Genex Counter
+  * Places counters on itself
+  | action          = 
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | stat_change     = This card gains ATK
+  | life_points     = Damages your opponent
+  | database_id     = 8710
+  }}

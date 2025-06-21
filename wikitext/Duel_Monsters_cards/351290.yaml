@@ -1,0 +1,83 @@
+title: Deskbot 005
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Robobureau 005
+  | de_name               = Büroboter 005
+  | it_name               = Deskbot 005
+  | pt_name               = Robô-secretário 005
+  | es_name               = Escritoriobot 005
+  | ja_name               = ブンボーグ{{Ruby|０|ゼロ}}{{Ruby|０|ゼロ}}{{Ruby|５|ファイブ}}
+  | romaji_name           = Bunbōgu Zero Zero Faibu
+  | translated_name       = Bunborg 005
+  | ko_name               = 분보그{{Ruby|0|제로|lang=ko}}{{Ruby|0|제로|lang=ko}}{{Ruby|5|파이브|lang=ko}}
+  | sc_name               = 文具博格００５
+  | image                 = Deskbot005-MP16-EN-C-1E.png
+  | attribute             = EARTH
+  | types                 = Machine / Pendulum / Effect
+  | level                 = 5
+  | pendulum_scale        = 10
+  | atk                   = 500
+  | def                   = 500
+  | password              = 10117149
+  | pendulum_effect_types = Continuous-like, Condition
+  | effect_types          = Trigger, Continuous, Trigger, Condition
+  | pendulum_effect       = You cannot [[Pendulum Summon]] [[monster]]s, except "[[Deskbot]]" monsters. This [[effect]] cannot be [[negate]]d.
+  | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[target]] 1 [[Spell Card|Spell]]/[[Trap Card]] on the [[field]]; [[destroy]] it. This card gains 500 [[ATK]] for each [[face-up]] "[[Deskbot]]" [[monster]] in your [[Extra Deck]]. If this card in the [[Pendulum Zone]] is destroyed: You can target 1 "Deskbot" monster in your [[Graveyard]]; Special Summon it. You can only use this [[effect]] of "Deskbot 005" [[once per turn]].
+  | fr_pendulum_effect    = Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres "Robobureau" exclus). Cet effet ne peut pas être annulé.
+  | fr_text               = Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez-la. Cette carte gagne 500 ATK pour chaque monstre "Robobureau" face recto dans votre Extra Deck. Si cette carte dans la Zone Pendule est détruite : vous pouvez cibler 1 monstre "Robobureau" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de "Robobureau 005" qu'une fois par tour.
+  | de_pendulum_effect    = Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.
+  | de_text               = Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Zauber-/Fallenkarte auf dem Spielfeld wählen; zerstöre sie. Diese Karte erhält 500 ATK für jedes offene „Büroboter“-Monster in deinem Extra Deck. Falls diese Karte in der Pendelzone zerstört wird: Du kannst 1 „Büroboter“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Büroboter 005“ nur einmal pro Spielzug verwenden.
+  | it_pendulum_effect    = Non puoi Evocare Pendulum mostri, eccetto mostri "Deskbot". Questo effetto non può essere annullato.
+  | it_text               = Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggila. Questa carta guadagna 500 ATK per ogni mostro "Deskbot" scoperto nel tuo Extra Deck. Se questa carta nella Zona Pendulum viene distrutta: puoi scegliere come bersaglio 1 mostro Deskbot nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di "Deskbot 005" una sola volta per turno.
+  | pt_pendulum_effect    = Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros "Robô-secretário". Este efeito não pode ser negado.
+  | pt_text               = Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 Card de Magia/Armadilha no campo; destrua-o. Este card ganha 500 de ATK para cada monstro "Robô-secretário" com a face para cima no seu Deck Adicional. Se este card na sua Zona de Pêndulo for destruído: você pode escolher 1 monstro "Robô-secretário" no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de "Robô-secretário 005" uma vez por turno.
+  | es_pendulum_effect    = No puedes Invocar monstruos por Péndulo, excepto a monstruos "Escritoriobot". Este efecto no puede ser negado.
+  | es_text               = Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Carta Mágica/de Trampa en el Campo; destrúyela. Esta carta gana 500 ATK por cada monstruo "Escritoriobot" boca arriba en tu Deck Extra. Si esta carta en la Zona del Péndulo es destruida: puedes seleccionar 1 monstruo "Escritoriobot" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de "Escritoriobot 005" una vez por turno.
+  | ja_pendulum_effect    = ①：自分は「ブンボーグ」モンスターしか{{Ruby|Ｐ|ペンデュラム}}召喚できない。この効果は無効化されない。
+  | ja_text               = 「ブンボーグ００５」の③のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。②：このカードの攻撃力は、自分のエクストラデッキの表側表示の「ブンボーグ」モンスターの数×５００アップする。③：このカードが{{Ruby|Ｐ|ペンデュラム}}ゾーンで破壊された場合、自分の墓地の「ブンボーグ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+  | ko_pendulum_effect    = ① : 자신은 "분보그" 몬스터 밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
+  | ko_text               = "분보그 005"의 ③의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환 / 특수 소환에 성공한 경우, 필드의 마법 / 함정 카드 1장을 대상으로 발동할 수 있다. 이 카드를 파괴한다. ② : 이 카드의 공격력은, 자신의 엑스트라 덱의 앞면 표시의 "분보그" 몬스터의 수 × 500 올린다. ③ : 이 카드가 펜듈럼 존에서 파괴된 경우, 자신 묘지의 "분보그" 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  | sc_pendulum_effect    = ①：自己仅可灵摆召唤"文具博格"怪兽。此效果不会被无效化。
+  | sc_text               = 此卡名的③怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下，以场上1张魔法・陷阱卡为对象可以发动。将该卡破坏。②：此卡的攻击力上升相当于自己额外牌组表侧表示"文具博格"怪兽数量×500的数值。③：此卡在灵摆区域被破坏的情况下，以自己墓地的1只"文具博格"怪兽为对象可以发动。将该怪兽特殊召唤。
+  | en_sets               = 
+  CORE-EN044; Clash of Rebellions; Common
+  MP16-EN075; 2016 Mega-Tin Mega Pack; Common
+  | fr_sets               = 
+  CORE-FR044; Clash of Rebellions; Common
+  MP16-FR075; 2016 Mega-Tin Mega Pack; Common
+  | de_sets               = 
+  CORE-DE044; Clash of Rebellions; Common
+  MP16-DE075; 2016 Mega-Tin Mega Pack; Common
+  | it_sets               = 
+  CORE-IT044; Clash of Rebellions; Common
+  MP16-IT075; 2016 Mega-Tin Mega Pack; Common
+  | pt_sets               = 
+  CORE-PT044; Clash of Rebellions; Common
+  MP16-PT075; 2016 Mega-Tin Mega Pack; Common
+  | sp_sets               = 
+  CORE-SP044; Clash of Rebellions; Common
+  MP16-SP075; 2016 Mega-Tin Mega Pack; Common
+  | jp_sets               = 
+  CORE-JP044; Clash of Rebellions; Common
+  | kr_sets               = 
+  CORE-KR044; Clash of Rebellions; Common
+  | sc_sets               = 
+  TM01-SC077; Theme Pack: War of Infinite Machine; Common
+  | mentions              = Deskbot 005
+  | archseries            = Deskbot
+  | supports_archetypes   = Deskbot
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Effect that cannot be negated
+  * Activates if destroyed by card effect
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Restricts the player's Pendulum Summons to archetype specific monsters
+  * Special Summons from your Graveyard
+  | misc                  = Only once per turn
+  | database_id           = 11828
+  }}

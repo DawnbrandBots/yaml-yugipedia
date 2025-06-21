@@ -1,0 +1,91 @@
+title: Skull Dice
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Dé-crâne
+  | de_name               = Totenkopfwürfel
+  | it_name               = Dadi del Teschio
+  | pt_name               = Dado Caveira
+  | es_name               = Dado de Cráneo
+  | ja_name               = {{Ruby|悪|あく}}{{Ruby|魔|ま}}のサイコロ
+  | romaji_name           = Akuma no Saikoro
+  | translated_name       = Demon's Dice
+  | ko_name               = 악마의 주사위
+  | ko_rr_name            = Akma-ui Jusawi
+  | image                 = SkullDice-SBC1-EN-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 00126218
+  | effect_types          = Effect
+  | text                  = Roll a six-sided die. All [[monster]]s your opponent currently [[control]]s lose [[ATK]]/[[DEF]] equal to the result x 100, until the end of this [[turn]].
+  | fr_text               = Lancez un dé à six faces. Jusqu'à la fin de ce tour, tous les monstres actuellement contrôlés par votre adversaire perdent une ATK/DEF égales au résultat x 100.
+  | de_text               = Wirf einen sechsseitigen Würfel. Alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs ATK/DEF in Höhe des Ergebnisses x 100.
+  | it_text               = Tira un dado a sei facce. Tutti i mostri attualmente controllati dal tuo avversario perdono ATK/DEF pari al risultato x 100, fino alla fine di questo turno.
+  | pt_text               = Lance um dado de seis faces. Até o final deste turno, todos os monstros que seu oponente controla atualmente perdem ATK/DEF igual ao resultado x 100.
+  | es_text               = Lanza un dado de seis caras. Hasta el final de este turno, todos los monstruos que controle tu adversario en este momento pierden ATK/DEF igual al resultado x 100.
+  | ja_text               = ①：サイコロを１回振る。相手フィールドのモンスターの攻撃力・守備力は、ターン終了時まで出た目の数×１００ダウンする。
+  | ko_text               = ①: 주사위를 1회 던진다. 상대 필드의 몬스터의 공격력 / 수비력은, 턴 종료시까지 나온 눈의 수 × 100 내린다.
+  | en_sets               = 
+  GLD4-EN046; Gold Series 4: Pyramids Edition; Common
+  LCJW-EN074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-ENB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-EN004; Event Pack Speed Duel; Common
+  SBC1-ENB18; Speed Duel: Streets of Battle City; Common
+  | na_sets               = 
+  EDS-003; Yu-Gi-Oh! The Eternal Duelist Soul promotional cards; Prismatic Secret Rare
+  | eu_sets               = 
+  TSC-E003; Yu-Gi-Oh! The Sacred Cards promotional cards; Prismatic Secret Rare
+  | fr_sets               = 
+  TSC-F003; Yu-Gi-Oh! The Sacred Cards promotional cards; Prismatic Secret Rare
+  GLD4-FR046; Gold Series 4: Pyramids Edition; Common
+  LCJW-FR074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-FRB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-FR004; Event Pack Speed Duel; Common
+  SBC1-FRB18; Speed Duel: Streets of Battle City; Common
+  | de_sets               = 
+  TSC-G003; Yu-Gi-Oh! The Sacred Cards promotional cards; Prismatic Secret Rare
+  GLD4-DE046; Gold Series 4: Pyramids Edition; Common
+  LCJW-DE074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-DEB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-DE004; Event Pack Speed Duel; Common
+  SBC1-DEB18; Speed Duel: Streets of Battle City; Common
+  | it_sets               = 
+  TSC-I003; Yu-Gi-Oh! The Sacred Cards promotional cards; Prismatic Secret Rare
+  GLD4-IT046; Gold Series 4: Pyramids Edition; Common
+  LCJW-IT074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-ITB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-IT004; Event Pack Speed Duel; Common
+  SBC1-ITB18; Speed Duel: Streets of Battle City; Common
+  | pt_sets               = 
+  LCJW-PT074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-PTB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-PT004; Event Pack Speed Duel; Common
+  SBC1-PTB18; Speed Duel: Streets of Battle City; Common
+  | sp_sets               = 
+  WC4-S003; Yu-Gi-Oh! World Championship Tournament 2004 promotional cards; Prismatic Secret Rare
+  GLD4-SP046; Gold Series 4: Pyramids Edition; Common
+  LCJW-SP074; Legendary Collection 4: Joey's World Mega Pack; Common
+  SS02-SPB17; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  EVSD-SP004; Event Pack Speed Duel; Common
+  SBC1-SPB18; Speed Duel: Streets of Battle City; Common
+  | jp_sets               = 
+  G5-05; Yu-Gi-Oh! Duel Monsters 5: Expert 1 promotional cards; Secret Rare
+  JY-29; Structure Deck: Joey; Common
+  SJ2-030; Structure Deck: Joey Volume 2; Common
+  TP05-JP011; Tournament Pack 2008 Vol.1; Common
+  15AX-JPM48; Duelist Road -Piece of Memory- Side: Yugi Muto; Common, Millennium Rare
+  | kr_sets               = 
+  TP05-KR011; Tournament Pack 2010 Vol.5; Common
+  15AX-KRM48; Duelist Road -Piece of Memory- Side: Yugi Muto; Common, Millennium Rare
+  | gx03_sets             = 
+  '''[[Legend of the White Dragon (GX03-BP)|Legend of the White Dragon]]''' ([[Rare]])
+  | ntr_sets              = 
+  '''[[Broken Seal (NTR-BP)|Broken Seal]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 21 (YGOO-BP)|Pack 21]]'''
+  | stat_change           = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | misc                  = Die roll
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 4816
+  }}

@@ -1,0 +1,106 @@
+title: Blast with Chain
+wikitext: |-
+  {{CardTable2
+  | tc_name               = 鎖鍊炸彈
+  | fr_name               = Chaîne Explosive
+  | de_name               = Kettenexplosion
+  | it_name               = Colpo con Catena
+  | ko_name               = 쇠사슬 폭탄
+  | pt_name               = Estouro com Correia
+  | es_name               = Estallido en Cadena
+  | ja_name               = {{Ruby|鎖|くさり}}{{Ruby|付|つ}}き{{Ruby|爆弾|ダイナマイト}}
+  | base_romaji_name      = Kusaritsuki Bakudan
+  | base_translated_name  = Chain-Attached Bomb
+  | romaji_name           = Kusaritsuki Dainamaito
+  | translated_name       = Chain-Attached Dynamite
+  | image                 = BlastwithChain-SBC2-NA-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 98239899
+  | effect_types          = Effect, Continuous-like, Trigger-like
+  | text                  = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] this card to that target. It gains 500 [[ATK]]. If this card is [[destroy]]ed by card [[effect]] while equipped: Target 1 card on the [[field]]; destroy that target.
+  | fr_text               = Ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. Elle gagne 500 ATK. Si cette carte est détruite par un effet de carte tant qu'elle est équipée : ciblez 1 carte sur le Terrain ; détruisez la cible.
+  | de_text               = Wähle 1 offenes Monster, das du kontrollierst; rüste jenes gewählte Ziel mit dieser Karte aus. Es erhält 500 ATK. Falls diese Karte durch einen Karteneffekt zerstört wird, solange sie ausrüstet: Wähle 1 Karte auf dem Spielfeld; zerstöre jenes gewählte Ziel.
+  | it_text               = Scegli come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel bersaglio. Esso guadagna 500 ATK. Se questa carta viene distrutta dall'effetto di una carta mentre è equipaggiata: scegli come bersaglio 1 carta sul Terreno; distruggi quel bersaglio.
+  | pt_text               = Escolha 1 monstro com a face para cima que você controla; equipe este card no alvo. Ele ganha 500 de ATK. Quando este card for destruído por um efeito de card enquanto estiver equipado: escolha 1 card no campo; destrua o alvo.
+  | es_text               = Selecciona 1 monstruo boca arriba que controles; equipa esta carta a ese objetivo. Éste gana 500 ATK. Si esta carta es destruida por el efecto de una carta mientras está equipada: selecciona 1 carta en el Campo; destruye ese objetivo.
+  | ja_text               = ①：自分フィールドの表側表示モンスター１体を対象としてこのカードを発動できる。このカードを攻撃力５００アップの装備カード扱いとして、その自分のモンスターに装備する。②：装備カード扱いのこのカードが効果で破壊された場合、フィールドのカード１枚を対象として発動する。そのカードを破壊する。
+  | ko_text               = 발동 후, 이 카드는 공격력 500 포인트 올리는 장착 카드가 되어, 자신 필드 위의 몬스터 1장에 장착한다. 장착 카드가 된 이 카드가 카드의 효과에 의해서 파괴되었을 때, 필드 위의 카드 1장을 선택하고 파괴한다.
+  | tc_text               = 发动后此卡变为上升攻击力500点的装备卡，并装备于我方场上的1只怪兽。成为装备卡的此卡因卡牌效果被破坏时，选择场上的1张卡牌并破坏。
+  | en_sets               = 
+  LOD-EN088; Legacy of Darkness; Rare
+  DB2-EN197; Dark Beginning 2; Rare
+  SD5-EN036; Structure Deck: Warrior's Triumph; Common
+  BP01-EN093; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SDOK-EN035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-EN194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-ENB17; Speed Duel: Streets of Battle City; Common
+  | na_sets               = 
+  LOD-088; Legacy of Darkness; Rare
+  SBC2-ENC21; Speed Duel: Battle City Finals; Common
+  | fr_sets               = 
+  DB2-FR197; Dark Beginning 2; Rare
+  SD5-FR036; Structure Deck: Warrior's Triumph; Common
+  BP01-FR093; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SDOK-FR035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-FR194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-FRB17; Speed Duel: Streets of Battle City; Common
+  | de_sets               = 
+  DB2-DE197; Dark Beginning 2; Rare
+  SD5-DE036; Structure Deck: Warrior's Triumph; Common
+  BP01-DE093; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SDOK-DE035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-DE194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-DEB17; Speed Duel: Streets of Battle City; Common
+  | it_sets               = 
+  DB2-IT197; Dark Beginning 2; Rare
+  SD5-IT036; Structure Deck: Warrior's Triumph; Common
+  BP01-IT093; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SDOK-IT035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-IT194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-ITB17; Speed Duel: Streets of Battle City; Common
+  | pt_sets               = 
+  SDOK-PT035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-PT194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-PTB17; Speed Duel: Streets of Battle City; Common
+  | sp_sets               = 
+  DB2-SP197; Dark Beginning 2; Rare
+  BP01-SP093; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SDOK-SP035; Onslaught of the Fire Kings Structure Deck; Common
+  BP03-SP194; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  SBC1-SPB17; Speed Duel: Streets of Battle City; Common
+  | jp_sets               = 
+  MA-40; Mythological Age; Rare
+  DL5-079; Duelist Legacy Volume.5; Rare
+  SJ2-037; Structure Deck: Joey Volume 2; Common
+  BE2-JP197; Beginner's Edition 2; Rare
+  SD5-JP036; Structure Deck: Warrior's Triumph; Common
+  BE02-JP160; Beginner's Edition 2 (2011); Rare
+  SD24-JP035; Structure Deck: Onslaught of the Fire Kings; Common
+  DR01-JPC29; Duel Royale Deck Set EX; Common
+  | ae_sets               = 
+  LOD-088; Legacy of Darkness; Rare
+  | tc_sets               = 
+  SD24-TC036; Structure Deck: Onslaught of the Fire Kings; Common
+  | kr_sets               = 
+  LOD-KR088; Legacy of Darkness; Rare
+  BP2-KR197; Beginner's Edition 2; Rare
+  SD5-KR036; Structure Deck: Warrior's Triumph; Common
+  SD24-KR035; Structure Deck: Onslaught of the Fire Kings; Common
+  | ntr_sets              = 
+  '''[[Tricky Toons (NTR-BP)|Tricky Toons]]'''
+  | ygo_sets              = 
+  '''[[Pack 22 (YGOO-BP)|Pack 22]]'''
+  | archseries            = with Chain
+  | action                = 
+  * Equips self from field
+  * Activates if destroyed by card effect
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = 
+  * Treated as Equip Card
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys Monster Cards
+  | database_id           = 5396
+  | tcg_speed_duel_status = Unlimited
+  }}

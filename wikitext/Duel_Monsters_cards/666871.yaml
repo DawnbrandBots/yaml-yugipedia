@@ -1,0 +1,79 @@
+title: Synchro Chase
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Poursuite Synchro
+  | de_name             = Synchrojagd
+  | it_name             = Synchro Inseguimento
+  | pt_name             = Perseguição Sincro
+  | es_name             = Persecución Sincro
+  | ja_name             = シンクロ・チェイス
+  | romaji_name         = Shinkuro Cheisu
+  | ko_name             = 싱크로 체이스
+  | ko_rr_name          = Singkeuron Cheiseu
+  | sc_name             = 同步追走
+  | image               = SynchroChase-MZMI-EN-R-1E.png
+  | card_type           = Spell
+  | property            = Continuous
+  | password            = 23442438
+  | effect_types        = Continuous-like, Trigger-like, Condition
+  | text                = Your opponent cannot [[activate]] cards or [[effect]]s in [[Respond|response]] to the effect activations of your [[Synchro Monster]]s with "[[Warrior (archetype)|Warrior]]", "[[Synchron]]", or "[[Stardust (archetype)|Stardust]]" in their original names. If you [[Synchro Summon]] a "Warrior", "Synchron", or "Stardust" Synchro Monster: You can [[target]] 1 [[Monster Card|monster]] in your [[Graveyard|GY]] used as its [[material]]; [[Special Summon]] it in [[Defense Position]]. You can only use this effect of "Synchro Chase" [[once per turn]].
+  | fr_text             = Votre adversaire ne peut activer ni de cartes ni d'effets en réponse aux activations d'effet de vos Monstres Synchro avec "Guerrier", "Synchronique" ou "Poussière d'Étoile" dans leur nom d'origine. Si vous Invoquez par Synchronisation un Monstre Synchro "Guerrier", "Synchronique" ou "Poussière d'Étoile" : vous pouvez cibler 1 monstre dans votre Cimetière utilisé comme son Matériel ; Invoquez-le Spécialement en Position de Défense. Vous ne pouvez utiliser cet effet de "Poursuite Synchro" qu'une fois par tour.
+  | de_text             = Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung der Effekte deiner Synchromonster mit „Krieger“, „Synchron“ oder „Sternenstaub“ in ihren Grund-Namen aktivieren. Falls du ein „Krieger“-, „Synchron“- oder „Sternenstaub“-Synchromonster als Synchrobeschwörung beschwörst: Du kannst 1 Monster, das als sein Material verwendet wurde, in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition. Du kannst diesen Effekt von „Synchrojagd“ nur einmal pro Spielzug verwenden.
+  | it_text             = Il tuo avversario non può attivare carte o effetti in risposta all'attivazione degli effetti dei tuoi Mostri Synchro con "Guerriero", "Synchron" o "Polvere di Stelle" nel loro nome originale. Se Synchro Evochi un Mostro Synchro "Guerriero", "Synchron" o "Polvere di Stelle": puoi scegliere come bersaglio 1 mostro nel tuo Cimitero utilizzato come suo materiale; Evocalo Specialmente in Posizione di Difesa. Puoi utilizzare questo effetto di "Synchro Inseguimento" una sola volta per turno.
+  | pt_text             = Seu oponente não pode ativar cards ou efeitos em resposta às ativações dos efeitos dos seus Monstros Sincro com "Guerreiro(a)", "Sincron" ou "Poeira Estelar" em seus nomes originais. Se você Invocar por Invocação-Sincro um Monstro Sincro "Guerreiro(a)", "Sincron" ou "Poeira Estelar": você pode escolher 1 monstro no seu Cemitério usado como sua matéria; Invoque-o por Invocação-Especial em Posição de Defesa. Você só pode usar este efeito de "Perseguição Sincro" uma vez por turno.
+  | es_text             = Tu adversario no puede activar cartas o efectos en respuesta a las activaciones de efectos de tus Monstruos de Sincronía con "Guerrero/a", "Sincrón" o "Polvo de Estrellas" en sus nombres originales. Si Invocas por Sincronía un Monstruo de Sincronía "Guerrero/a", "Sincrón" o "Polvo de Estrellas": puedes seleccionar 1 monstruo en tu Cementerio que haya sido usado como su material; Invócalo de Modo Especial en Posición de Defensa. Sólo puedes usar este efecto de "Persecución Sincro" una vez por turno.
+  | ja_text             = このカード名の①の効果は１ターンに１度しか使用できない。①：自分が「ウォリアー」、「シンクロン」、「スターダスト」ＳモンスターをＳ召喚した場合、そのＳ召喚の素材とした自分の墓地のモンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：このカードが魔法＆罠ゾーンに存在する限り、元々のカード名に「ウォリアー」、「シンクロン」、「スターダスト」の内、いずれかを含む自分のＳモンスターの効果の発動に対して相手は魔法・罠・モンスターの効果を発動できない。
+  | ko_text             = 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신이 "워리어", "싱크론", "스타더스트" 싱크로 몬스터의 싱크로 소환에 성공했을 경우, 그 싱크로 소환의 소재로 한 자신 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. ②: 이 카드가 마법 & 함정 존에 존재하는 한, 원래의 카드명에 "워리어", "싱크론", "스타더스트" 중, 어느 것을 포함하는 자신의 싱크로 몬스터의 효과 발동에 대하여 상대는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다.
+  | sc_text             = 此卡名的①效果1回合仅可使用1次。①：自己将“战士”、“同步士”、“星尘”同步怪兽同步召唤成功的情况下，以自己墓地的1只作为该同步召唤素材的怪兽为对象可以发动。以守备表示形式将该怪兽特殊召唤。②：只要此卡存在于魔法与陷阱区域，应对原本卡名中包含“战士”、“同步士”、“星尘”中任一的自己的同步怪兽的效果发动，对手不可发动魔法・陷阱・怪兽的效果。
+  | en_sets             = 
+  LED6-EN026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-EN123; Legendary Duelists: Season 3; Common
+  MZMI-EN047; Maze of Millennia; Rare
+  | fr_sets             = 
+  LED6-FR026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-FR123; Legendary Duelists: Season 3; Common
+  MZMI-FR047; Maze of Millennia; Rare
+  | de_sets             = 
+  LED6-DE026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-DE123; Legendary Duelists: Season 3; Common
+  MZMI-DE047; Maze of Millennia; Rare
+  | it_sets             = 
+  LED6-IT026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-IT123; Legendary Duelists: Season 3; Common
+  MZMI-IT047; Maze of Millennia; Rare
+  | pt_sets             = 
+  LED6-PT026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-PT123; Legendary Duelists: Season 3; Common
+  MZMI-PT047; Maze of Millennia; Rare
+  | sp_sets             = 
+  LED6-SP026; Legendary Duelists: Magical Hero; Ultra Rare
+  LDS3-SP123; Legendary Duelists: Season 3; Common
+  MZMI-SP047; Maze of Millennia; Rare
+  | jp_sets             = 
+  DP23-JP026; Duelist Pack: Legend Duelist 6; Rare
+  AC03-JP037; Animation Chronicle 2023; Common
+  | ae_sets             = 
+  24AT-AE118; Tournament Pack 2024 Vol.1 (Asian-English); Common
+  | kr_sets             = 
+  DP23-KR026; Duelist Pack: Legend Duelist 6; Rare
+  AC03-KR037; Animation Chronicle 2023; Common
+  | sc_sets             = 
+  SD28-SC028; Structure Deck: Synchron Extreme; Common
+  | supports            = Synchro Monster
+  | archseries          = Synchro (archetype)
+  | supports_archetypes = 
+  * Stardust (archetype)
+  * Synchron
+  * Warrior (archetype)
+  | action              = Activates upon Synchro Summon
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Prevents responding to its activation
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Special Summons Materials
+  | misc                = Only once per turn
+  | database_id         = 14918
+  }}

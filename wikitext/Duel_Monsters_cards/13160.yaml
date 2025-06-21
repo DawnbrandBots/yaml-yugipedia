@@ -1,0 +1,56 @@
+title: Counter Cleaner
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Aspirateur à Compteurs
+  | de_name               = Zählmarkensäuberung
+  | it_name               = Spazza Segnalini
+  | pt_name               = Aspirador de Contadores
+  | es_name               = Limpiador de Contadores
+  | ja_name               = カウンタークリーナー
+  | romaji_name           = Kauntā Kurīnā
+  | ko_name               = 카운터 클리너
+  | image                 = CounterCleaner-SGX3-EN-C-1E.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 38834303
+  | effect_types          = Effect
+  | text                  = [[Pay]] 500 [[LP]]; remove all [[counter]]s on the [[field]].
+  | fr_text               = Payez 500 LP ; retirez tous les Compteurs sur le Terrain.
+  | de_text               = Zahle 500 LP; entferne alle Zählmarken auf dem Spielfeld.
+  | it_text               = Paga 500 LP; rimuovi tutti i segnalini sul Terreno.
+  | pt_text               = Pague 500 PV; remova todos os marcadores no campo.
+  | es_text               = Paga 500 LP; retira todos los contadores en el Campo.
+  | ja_text               = ５００ライフポイントを払う。フィールド上に存在する全てのカウンターを取り除く。
+  | ko_text               = 500 라이프 포인트를 지불한다. 필드 위에 존재하는 모든 카운터를 제거한다.
+  | en_sets               = 
+  CDIP-EN041; Cyberdark Impact; Common
+  SGX3-ENI32; Speed Duel GX: Duelists of Shadows; Common
+  | fr_sets               = 
+  CDIP-FR041; Cyberdark Impact; Common
+  SGX3-FRI32; Speed Duel GX: Duelists of Shadows; Common
+  | de_sets               = 
+  CDIP-DE041; Cyberdark Impact; Common
+  SGX3-DEI32; Speed Duel GX: Duelists of Shadows; Common
+  | it_sets               = 
+  CDIP-IT041; Cyberdark Impact; Common
+  SGX3-ITI32; Speed Duel GX: Duelists of Shadows; Common
+  | pt_sets               = 
+  SGX3-PTI32; Speed Duel GX: Duelists of Shadows; Common
+  | sp_sets               = 
+  CDIP-SP041; Cyberdark Impact; Common
+  SGX3-SPI32; Speed Duel GX: Duelists of Shadows; Common
+  | jp_sets               = 
+  CDIP-JP041; Cyberdark Impact; Common
+  CDIP-JP041; Cyberdark Impact: Vendor Edition; Common
+  | kr_sets               = 
+  CDIP-KR041; Cyberdark Impact; Common
+  | ygo_sets              = 
+  '''[[Pack 42 (YGOO-BP)|Pack 42]]'''
+  | archseries            = Counter (archetype)
+  | anti-supports         = Counter
+  | counter               = Removes counters
+  | life_points           = Pays Life Points for cost
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 6902
+  }}
+  {{Counters}}

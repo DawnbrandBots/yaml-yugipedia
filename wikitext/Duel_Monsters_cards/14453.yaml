@@ -1,0 +1,73 @@
+title: Falling Down
+wikitext: |-
+  {{CardTable2
+  | fr_name              = Effondrement
+  | de_name              = Hinabstürzen
+  | it_name              = Cadere in Disgrazia
+  | ko_name              = 타락
+  | pt_name              = Queda
+  | es_name              = Cayendo
+  | ja_name              = {{Ruby|堕落|フォーリン・ダウン}}
+  | base_romaji_name     = Daraku
+  | base_translated_name = Corruption
+  | romaji_name          = Fōrin Daun
+  | image                = FallingDown-DCR-EN-C-UE-25thAnniversaryEdition.png
+  | card_type            = Spell
+  | property             = Equip
+  | password             = 32919136
+  | effect_types         = Effect, Continuous-like, Continuous-like, Trigger-like
+  | text                 = [[Activate]] this card by [[target]]ing an opponent's [[monster]]; [[equip]] this card to it. Take [[control]] of it. [[Destroy]] this card unless you control an "[[Archfiend]]" card. During each of your opponent's [[Standby Phase]]s: You take 800 [[Effect damage|damage]].
+  | fr_text              = Activez cette carte en ciblant un monstre de votre adversaire ; équipez-lui cette carte. Prenez-en le contrôle. Détruisez cette carte sauf si vous contrôlez une carte "Archdémon". Durant chacune des Standby Phases de votre adversaire : vous recevez 800 points de dommages.
+  | de_text              = Aktiviere diese Karte, indem du ein Monster deines Gegners wählst; rüste es mit dieser Karte aus. Übernimm die Kontrolle darüber. Zerstöre diese Karte, es sei denn, du kontrollierst eine „Erzunterweltler“-Karte. Während jeder Standby Phase deines Gegners: Du erhältst 800 Schaden.
+  | it_text              = Attiva questa carta scegliendo come bersaglio un mostro dell'avversario; equipaggia questa carta ad esso. Prendine il controllo. Distruggi questa carta a meno che tu controlli una carta "Arcidemone". Durante ogni Standby Phase del tuo avversario: subisci 800 danni.
+  | pt_text              = Ative este card ao escolher um monstro do oponente; equipe este card a ele. Tome o controle dele. Destrua este card a não ser que você controle um card "Arquidemônio". Durante cada uma das Fases de Apoio do seu oponente: você sofre 800 de dano.
+  | es_text              = Activa esta carta seleccionando un monstruo de tu adversario; equípale esta carta. Toma el control de ese monstruo. Destruye esta carta a menos que controles una carta "Archidemonio". Durante cada una de las Standby Phases de tu adversario: tú recibes 800 puntos de daño.
+  | ja_text              = 相手フィールドのモンスターに装備できる。①：装備モンスターのコントロールを得る。②：相手スタンバイフェイズに発動する。自分は８００ダメージを受ける。③：自分フィールドに「デーモン」カードが存在しない場合にこのカードは破壊される。
+  | ko_text              = 자신 필드 위에 "데몬" 이라는 이름이 붙은 카드가 존재하지 않으면 이 카드를 파괴한다. 이 카드를 장착한 상대 몬스터의 컨트롤을 얻는다. 상대의 스텐바이 페이즈마다, 자신은 800 포인트 데미지를 받는다.
+  | en_sets              = 
+  DR1-EN250; Dark Revelation Volume 1; Common
+  DCR-EN088; Dark Crisis; Short Print
+  AP03-EN006; Astral Pack Three; Super Rare
+  DCR-EN088; Dark Crisis (25th Anniversary Edition); Common
+  | na_sets              = 
+  DCR-088; Dark Crisis; Short Print
+  | fr_sets              = 
+  DR1-FR250; Dark Revelation Volume 1; Common
+  DCR-FR088; Dark Crisis; Short Print
+  AP03-FR006; Astral Pack Three; Super Rare
+  DCR-FR088; Dark Crisis (25th Anniversary Edition); Common
+  | de_sets              = 
+  DR1-DE250; Dark Revelation Volume 1; Common
+  DCR-DE088; Dark Crisis; Short Print
+  AP03-DE006; Astral Pack Three; Super Rare
+  DCR-DE088; Dark Crisis (25th Anniversary Edition); Common
+  | it_sets              = 
+  DR1-IT250; Dark Revelation Volume 1; Common
+  DCR-IT088; Dark Crisis; Short Print
+  AP03-IT006; Astral Pack Three; Super Rare
+  DCR-IT088; Dark Crisis (25th Anniversary Edition); Common
+  | pt_sets              = 
+  DR1-PT250; Dark Revelation Volume 1; Common
+  AP03-PT006; Astral Pack Three; Super Rare
+  DCR-PT088; Dark Crisis (25th Anniversary Edition); Common
+  | sp_sets              = 
+  DR1-SP250; Dark Revelation Volume 1; Common
+  AP03-SP006; Astral Pack Three; Super Rare
+  DCR-SP088; Dark Crisis (25th Anniversary Edition); Common
+  | jp_sets              = 
+  305-035; Threat of the Dark Demon World; Common
+  EE1-JP250; Expert Edition Volume.1; Common
+  LVP1-JP005; LINK VRAINS Pack; Common
+  | ae_sets              = 
+  DCR-088; Dark Crisis; Common
+  | kr_sets              = 
+  DCR-KR088; Dark Crisis; Common
+  HGP1-KR250; Expert Edition Volume.1; Common
+  LVP1-KR005; LINK VRAINS Pack; Common
+  | supports_archetypes  = Archfiend
+  | action               = Takes control of equipped
+  | m/s/t                = Destroys itself
+  | life_points          = Damages you
+  | misc                 = During the Standby Phase
+  | database_id          = 5786
+  }}

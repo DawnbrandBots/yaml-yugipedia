@@ -1,0 +1,108 @@
+title: Magic Drain
+wikitext: |-
+  {{CardTable2
+  | tc_name               = 魔力抽取
+  | fr_name               = Drainage Magique
+  | de_name               = Magischer Abfluss
+  | it_name               = Risucchio Magico
+  | ko_name               = 매직 드레인
+  | pt_name               = Escoadouro Mágico
+  | es_name               = Drenaje Mágico
+  | ja_name               = マジック・ドレイン
+  | romaji_name           = Majikku Dorein
+  | image                 = MagicDrain-PSV-EN-R-UE-25thAnniversaryEdition.png
+  | card_type             = Trap
+  | property              = Counter
+  | password              = 59344077
+  | effect_types          = Activation requirement, Effect
+  | text                  = When your opponent [[activate]]s a [[Spell Card]]: They can [[discard]] 1 Spell to [[negate]] this card's [[effect]], otherwise negate the activation of their Spell Card, and if you do, [[destroy]] it.
+  | fr_text               = Lorsque votre adversaire active une Carte Magie : il peut défausser 1 Magie pour annuler l'effet de cette carte, sinon annulez l'activation de sa Carte Magie, et si vous le faites, détruisez-la.
+  | de_text               = Wenn dein Gegner eine Zauberkarte aktiviert: Er kann 1 Zauber abwerfen, um den Effekt dieser Karte zu annullieren, annulliere andernfalls die Aktivierung seiner Zauberkarte und falls du dies tust, zerstöre sie.
+  | it_text               = Quando il tuo avversario attiva una Carta Magia: lui può scartare 1 Magia per annullare l'effetto di questa carta, altrimenti annulla l'attivazione della sua Carta Magia e, se lo fai, distruggila.
+  | pt_text               = Quando seu oponente ativar um Card de Magia: ele pode descartar 1 Magia para negar o efeito deste card, caso contrário, negue a ativação do Card de Magia dele e, se isso acontecer, destrua-o.
+  | es_text               = Cuando tu adversario activa una Carta Mágica: puede descartar 1 Mágica para negar el efecto de esta carta, o de otro modo niega la activación de su Carta Mágica y, si lo haces, destruye la carta.
+  | ja_text               = 相手が魔法カードを発動した時に発動する事ができる。相手は手札から魔法カード１枚を捨ててこのカードの効果を無効にする事ができる。捨てなかった場合、相手の魔法カードの発動を無効にし破壊する。
+  | ko_text               = 상대가 마법 카드를 발동했을 때 발동 가능. 상대는 패에서 마법 카드를 1장 버리고 이 카드의 효과를 무효화할 수 있다. 버리지 않았을 경우, 상대의 마법 카드의 발동을 무효화하여 파괴한다.
+  | tc_text               = 对手发动魔法卡时可发动。对手可从手牌舍弃1张魔法卡使此卡的效果无效。对手不舍弃的场合，该发动无效并破坏。
+  | en_sets               = 
+  DB1-EN185; Dark Beginning 1; Rare
+  PSV-EN071; Pharaoh's Servant; Rare
+  SD7-EN028; Structure Deck: Invincible Fortress; Common
+  5DS2-EN035; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  RP02-EN017; Retro Pack 2; Common
+  DL13-EN020; Duelist League 13 participation cards; Rare
+  BP01-EN090; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SBCB-EN104; Speed Duel: Battle City Box; Common
+  PSV-EN071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | na_sets               = 
+  PSV-071; Pharaoh's Servant; Rare
+  TP4-017; Tournament Pack 4; Common
+  | eu_sets               = 
+  PSV-E071; Pharaoh's Servant; Rare
+  | fr_sets               = 
+  SDP-F071; Pharaoh's Servant; Rare
+  SD7-FR028; Structure Deck: Invincible Fortress; Common
+  5DS2-FR035; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  RP02-FR017; Retro Pack 2; Common
+  DL13-FR020; Duelist League 13 participation cards; Rare
+  BP01-FR090; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SBCB-FR104; Speed Duel: Battle City Box; Common
+  PSV-FR071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | de_sets               = 
+  PSV-G071; Pharaoh's Servant; Rare
+  DB1-DE185; Dark Beginning 1; Rare
+  SD7-DE028; Structure Deck: Invincible Fortress; Common
+  5DS2-DE035; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  RP02-DE017; Retro Pack 2; Common
+  DL13-DE020; Duelist League 13 participation cards; Rare
+  BP01-DE090; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SBCB-DE104; Speed Duel: Battle City Box; Common
+  PSV-DE071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | it_sets               = 
+  SDF-I071; Pharaoh's Servant; Rare
+  SD7-IT028; Structure Deck: Invincible Fortress; Common
+  5DS2-IT035; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  RP02-IT017; Retro Pack 2; Common
+  DL13-IT020; Duelist League 13 participation cards; Rare
+  BP01-IT090; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SBCB-IT104; Speed Duel: Battle City Box; Common
+  PSV-IT071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | pt_sets               = 
+  PSV-PT071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | sp_sets               = 
+  DB1-SP185; Dark Beginning 1; Rare
+  5DS2-SP035; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  RP02-SP017; Retro Pack 2; Common
+  DL13-SP020; Duelist League 13 participation cards; Rare
+  BP01-SP090; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  SBCB-SP104; Speed Duel: Battle City Box; Common
+  PSV-SP071; Pharaoh's Servant (25th Anniversary Edition); Rare
+  | jp_sets               = 
+  TB-21; Thousand Eyes Bible; Super Rare
+  DL3-018; Duelist Legacy Volume.3; Rare
+  PC3-001; World Ranking Promos: Series 3; Normal Parallel Rare, Common
+  BE1-JP185; Beginner's Edition 1; Rare
+  SD7-JP028; Structure Deck: Invincible Fortress; Common
+  YSD4-JP035; Starter Deck 2009; Common
+  BE01-JP158; Beginner's Edition 1 (2011); Rare
+  | tc_sets               = 
+  SP02-TC059; Starter Pack Volume 2; R
+  | kr_sets               = 
+  PSV-K071; Pharaoh's Servant; Rare
+  BP1-KR185; Beginner's Edition 1; Rare
+  TP4-KR017; Tournament Pack 4; Common
+  ESP1-KR044; Expansion Pack Vol.1; Common
+  SD7-KR028; Structure Deck: Invincible Fortress; Common
+  YSD4-KR035; Starter Deck 2009; Common
+  | ntr_sets              = 
+  '''[[Yu-Gi-Oh! Nightmare Troubadour: Beautiful Challenger|Beautiful Challenger]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 18 (YGOO-BP)|Pack 18]]'''
+  | action                = Your opponent discards
+  | m/s/t                 = 
+  * Negates itself
+  * Negates the activation of your opponent's Spell Cards
+  * Destroys your opponent's Spell Cards
+  | database_id           = 5133
+  | tcg_speed_duel_status = Unlimited
+  }}

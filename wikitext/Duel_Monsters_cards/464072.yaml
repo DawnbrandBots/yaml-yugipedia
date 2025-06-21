@@ -1,0 +1,76 @@
+title: Invoked Elysium
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Elysium l'Invokhé
+  | de_name             = Beschworener Elysium
+  | it_name             = Elysium Invokato
+  | pt_name             = Elísio, o Invokado
+  | es_name             = Elíseo Invokado
+  | ja_name             = {{Ruby|召|しょう}}{{Ruby|喚|かん}}{{Ruby|獣|じゅう}}エリュシオン
+  | romaji_name         = Shōkanjū Eryushion
+  | translated_name     = Invoked Beast Elysion
+  | ko_name             = 소환수 엘리시온
+  | ko_rr_name          = Sohwansu Ellision
+  | sc_name             = 召唤兽 埃律西昂
+  | image               = InvokedElysium-BLAR-EN-UR-1E.png
+  | attribute           = LIGHT
+  | types               = Fairy / Fusion / Effect
+  | level               = 10
+  | atk                 = 3200
+  | def                 = 4000
+  | password            = 11270236
+  | material            = 1 "Invoked" monster + 1 monster that was Special Summoned from the Extra Deck
+  | effect_types        = Summoning condition, Continuous, Quick
+  | text                = 1 "[[Invoked]]" [[Monster Card|monster]] + 1 monster that was [[Special Summon]]ed from the [[Extra Deck]]<br />Must first be [[Fusion Summon]]ed with the above [[Fusion Material]]s. While [[face-up]] on the [[field]], this card is also [[DARK]], [[EARTH]], [[WATER]], [[FIRE]], and [[WIND]]-[[Attribute]]. [[Once per turn]] ([[Quick Effect]]): You can [[target]] 1 "Invoked" monster you [[control]] or in your [[Graveyard|GY]]; [[banish]] it and all monsters your opponent controls with the same Attribute as that monster.
+  | fr_text             = 1 monstre "Invokhé" + 1 monstre qui a été Invoqué Spécialement depuis l'Extra Deck<br />Doit d'abord être Invoquée par Fusion avec les Matériels Fusion ci-dessus. Tant que cette carte est face recto sur le Terrain, elle est aussi TÉNÈBRES, TERRE, EAU, FEU et VENT. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre "Invokhé" que vous contrôlez ou dans votre Cimetière ; bannissez-le ainsi que tous les monstres contrôlés par votre adversaire du même Attribut que le monstre.
+  | de_text             = 1 „Beschworen“-Monster + 1 Monster, das als Spezialbeschwörung vom Extra Deck beschworen wurde<br />Muss erst als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden. Solange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaften FINSTERNIS, ERDE, WASSER, FEUER und WIND. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 „Beschworen“-Monster, das du kontrollierst oder in deinem Friedhof wählen; verbanne es und alle Monster, die dein Gegner kontrolliert und die dieselbe Eigenschaft wie das Monster haben.
+  | it_text             = 1 mostro "Invokato" + 1 mostro che è stato Evocato Specialmente dall'Extra Deck<br />Deve prima essere Evocato tramite Fusione con i Materiali da Fusione sopra indicati. Mentre è scoperta sul Terreno, questa carta ha anche Attributo OSCURITÀ, TERRA, ACQUA, FUOCO e VENTO. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro "Invokato" che controlli o nel tuo Cimitero; bandisci quello e tutti i mostri controllati dal tuo avversario con lo stesso Attributo di quel mostro.
+  | pt_text             = 1 monstro "Invokado(a)" + 1 monstro Invocado por Invocação-Especial do Deck Adicional<br />Primeiro deve ser Invocado por Invocação-Fusão com as Matérias de Fusão acima. Enquanto estiver com a face para cima no campo, este card também é de Atributo TREVAS, TERRA, ÁGUA, FOGO e VENTO. Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro "Invokado(a)" que você controla ou no seu Cemitério; bana-o e todos os monstros que seu oponente controla com o mesmo Atributo que esse monstro.
+  | es_text             = 1 monstruo "Invokado/a" + 1 monstruo que fue Invocado de Modo Especial desde el Deck Extra<br />Debe ser primero Invocado por Fusión con los Materiales de Fusión listados arriba. Mientras esté boca arriba en el Campo, el Atributo de esta carta también se trata como de OSCURIDAD, TIERRA, AGUA, FUEGO y VIENTO. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo "Invokado/a" que controles o en tu Cementerio; destiérralo y también a todos los monstruos con ese Atributo que controle tu adversario.
+  | ja_text             = 「召喚獣」モンスター＋ＥＸから特殊召喚されたモンスター<br />このカードは上記のカードを融合素材にした融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、このカードの属性は「闇」「地」「水」「炎」「風」としても扱う。②：１ターンに１度、自分のフィールド・墓地の「召喚獣」モンスター１体を対象として発動できる。そのモンスター及びそのモンスターと同じ属性を持つ相手フィールドのモンスターを全て除外する。この効果は相手ターンでも発動できる。
+  | ko_text             = "소환수" 몬스터 ＋ 엑스트라 덱에서 특수 소환된 몬스터<br />이 카드는 상기의 카드를 융합 소재로 한 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 속성은 "어둠" "땅" "물" "화염" "바람"으로도 취급한다. ②: 1턴에 1번, 자신의 필드 / 묘지의 "소환수" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터 및 그 몬스터와 같은 속성을 가지는 상대 필드의 몬스터를 전부 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  | sc_text             = “召唤兽”怪兽＋从额外牌组被特殊召唤的怪兽<br />此卡仅可用以上述卡作为融合素材的融合召唤来从额外牌组特殊召唤。①：只要此卡存在于怪兽区域，此卡的属性也视为“暗”“地”“水”“炎”“风”。②：１回合１次，以自己场上・墓地的１只“召唤兽”怪兽为对象可以发动。将该怪兽及与对手场上拥有与该怪兽相同属性的怪兽全部除外。此效果在对手回合中也可以发动。
+  | en_sets             = 
+  FUEN-EN033; Fusion Enforcers; Secret Rare
+  BLAR-EN083; Battles of Legend: Armageddon; Ultra Rare
+  | fr_sets             = 
+  FUEN-FR033; Fusion Enforcers; Secret Rare
+  BLAR-FR083; Battles of Legend: Armageddon; Ultra Rare
+  | de_sets             = 
+  FUEN-DE033; Fusion Enforcers; Secret Rare
+  BLAR-DE083; Battles of Legend: Armageddon; Ultra Rare
+  | it_sets             = 
+  FUEN-IT033; Fusion Enforcers; Secret Rare
+  BLAR-IT083; Battles of Legend: Armageddon; Ultra Rare
+  | pt_sets             = 
+  FUEN-PT033; Fusion Enforcers; Secret Rare
+  BLAR-PT083; Battles of Legend: Armageddon; Ultra Rare
+  | sp_sets             = 
+  FUEN-SP033; Fusion Enforcers; Secret Rare
+  BLAR-SP083; Battles of Legend: Armageddon; Ultra Rare
+  | jp_sets             = 
+  SPFE-JP033; Booster SP: Fusion Enforcers; Secret Rare
+  SLF1-JP028; Selection 5; Common, Super Rare, Secret Rare
+  | ae_sets               = 
+  SLF1-AE028; Selection 5: Quarter Century Edition; Common, Super Rare, Secret Rare
+  | kr_sets             = 
+  SPFE-KR033; Booster SP: Fusion Enforcers; Secret Rare
+  SLF1-KR028; Selection 5; Common, Super Rare, Secret Rare
+  | sc_sets             = 
+  CL03-SC184; Classic Pack 03; Ultra Rare, Secret Rare
+  | archseries          = Invoked
+  | supports_archetypes = Invoked
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires location specific Fusion Materials
+  * Special Summon-only monster
+  * Must be Fusion Summoned with listed Fusion Materials
+  | stat_change         = Treated as multiple Attributes
+  | banished            = 
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
+  * Banishes from your opponent's field
+  | misc                = Limited activations
+  | database_id         = 12850
+  }}

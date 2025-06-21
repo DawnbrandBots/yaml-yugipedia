@@ -1,0 +1,57 @@
+title: Venom Swamp
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Marais Venin
+  | de_name             = Giftsumpf
+  | it_name             = Palude Veleno
+  | pt_name             = Pântano Peçonha<!-- This card name was published in the card lore of "Vennominon the King of Poisonous Snakes" -->
+  | es_name             = Pantano Venenoso
+  | ja_name             = ヴェノム・スワンプ
+  | romaji_name         = Venomu Suwanpu
+  | ko_name             = 베놈 스왐프
+  | image               = VenomSwamp-LCGX-EN-C-1E.png
+  | card_type           = Spell
+  | property            = Field
+  | password            = 54306223
+  | effect_types        = Trigger-like, Continuous-like, Trigger-like
+  | text                = During each player's [[End Phase]]: Place 1 [[Venom Counter]] on each [[face-up]] [[Monster Card|monster]], except "[[Venom]]" monsters. Monsters lose 500 [[ATK]] for each Venom Counter on them. [[Destroy]] a monster if its ATK becomes 0 by this [[effect]]. 
+  | fr_text             = Les monstres perdent 500 points d'ATK pour chaque Compteur Venin placé sur eux. Détruisez un monstre si son ATK devient 0 par cet effet. Durant la End Phase de chaque joueur, placez 1 Compteur Venin sur chaque monstre face recto, excepté les monstres "Venin".
+  | de_text             = Während der End Phase jedes Spielers: Lege 1 Gift-Zählmarke auf jedes offene Monster, außer „Gift“-Monstern. Monster verlieren 500 ATK für jede Gift-Zählmarke auf ihnen. Zerstöre ein Monster, falls seine ATK durch diesen Effekt zu 0 werden.
+  | it_text             = Durante ogni End Phase: metti 1 Segnalino Veleno su ogni mostro scoperto, eccetto i mostri "Veleno". I mostri perdono 500 ATK per ogni Segnalino Veleno su di essi. Distruggi i mostri se il loro ATK diventa 0 per questo effetto.
+  | es_text             = Los Monstruos pierden 500 ATK por cada Contador de Veneno que tengan. Destruye al monstruo si su ATK se convierte en 0 por este efecto. Durante la End Phase de cada jugador, pon 1 Contador de Veneno en cada monstruo boca arriba, excepto monstruos "Venenoso/a".
+  | ja_text             = お互いのターンのエンドフェイズ毎に、フィールド上に表側表示で存在する「ヴェノム」と名のついたモンスター以外の表側表示で存在する全てのモンスターにヴェノムカウンターを１つ置く。ヴェノムカウンター１つにつき、攻撃力は５００ポイントダウンする。この効果で攻撃力が０になったモンスターは破壊される。
+  | translated_text     = During each player's End Phase: Place 1 Venom Counter on each face-up monster, except "Venom" monsters. Monsters lose 500 ATK for each Venom Counter on them. '''<u>If a Venom Counter is placed on a monster(s), and its ATK becomes 0 as a result: Destroy that monster(s).</u>'''
+  | ko_text             = 서로의 턴의 엔드 페이즈마다, 필드상에 겉표시로 존재하는 「베놈」이라고 이름이 붙은 몬스터 이외의 겉표시로 존재하는 모든 몬스터에게 베놈카운터를 1개둔다. 베놈카운터 1개에 대해, 공격력은 500포인트 다운한다. 이 효과로 공격력이 0이 된 몬스터는 파괴된다.
+  | en_sets             = 
+  TAEV-EN051; Tactical Evolution; Common
+  LCGX-EN216; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  | fr_sets             = 
+  TAEV-FR051; Tactical Evolution; Common
+  | de_sets             = 
+  TAEV-DE051; Tactical Evolution; Common
+  LCGX-DE216; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  | it_sets             = 
+  TAEV-IT051; Tactical Evolution; Common
+  LCGX-IT216; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  | sp_sets             = 
+  TAEV-SP051; Tactical Evolution; Common
+  | jp_sets             = 
+  TAEV-JP051; Tactical Evolution; Common
+  | kr_sets             = 
+  TAEV-KR051; Tactical Evolution; Common
+  | ygo_sets            = 
+  '''[[Pack 45 (YGOO-BP)|Pack 45]]'''
+  | archseries          = Venom
+  | supports_archetypes = Venom
+  | counter             = 
+  * Venom Counter
+  * Places counters
+  | stat_change         = 
+  * Your opponent's monsters lose ATK
+  * Your monsters lose ATK
+  * All monsters lose ATK
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys face-up Monster Cards
+  | database_id         = 7164
+  }}

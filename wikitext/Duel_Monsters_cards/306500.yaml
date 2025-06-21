@@ -1,0 +1,79 @@
+title: Shared Ride
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Balade Partagée
+  | de_name         = Mitfahrgelegenheit
+  | it_name         = Viaggio Condiviso
+  | pt_name         = Carona
+  | es_name         = Viaje Compartido
+  | ja_name         = {{Ruby|相|あい}}{{Ruby|乗|の}}り
+  | romaji_name     = Ainori
+  | ko_name         = 합승
+  | ko_rr_name      = Hapseung
+  | sc_name         = 同乘
+  | image           = SharedRide-MAGO-EN-R-1E.png
+  | card_type       = Spell
+  | property        = Quick-Play
+  | password        = 01372887
+  | effect_types    = Effect, Condition
+  | text            = For the rest of this [[turn]], each time a card(s) is [[Add a card|added]] from the [[Main Deck]] or [[GY]] to your opponent's [[hand]], except by [[Draw a card|drawing]] them, you immediately draw 1 card. You can only [[activate]] 1 "Shared Ride" per turn.
+  | fr_text         = Le reste de ce tour, chaque fois qu'une ou plusieurs cartes sont ajoutées depuis le Main Deck ou Cimetière à la main de votre adversaire, sauf en les piochant, vous piochez immédiatement 1 carte. Vous ne pouvez activer qu'1 "Balade Partagée" par tour.
+  | de_text         = Für den Rest dieses Spielzugs, jedes Mal, wenn der Hand deines Gegners eine oder mehr Karten vom Main Deck oder Friedhof hinzugefügt werden, außer durch Ziehen, ziehst du sofort 1 Karte. Du kannst nur 1 „Mitfahrgelegenheit“ pro Spielzug aktivieren.
+  | it_text         = Per il resto di questo turno, ogni volta una o più carte vengono aggiunte dal Main Deck o Cimitero alla mano del tuo avversario, eccetto pescandole, tu peschi immediatamente 1 carta. Puoi attivare solo 1 "Viaggio Condiviso" per turno.
+  | pt_text         = Pelo resto deste turno, sempre que um ou mais cards forem adicionados do Deck Principal ou Cemitério para a mão do seu oponente, exceto ao comprá-los, você imediatamente compra 1 card. Você só pode ativar 1 "Carona" por turno.
+  | es_text         = Por el resto de este turno, cada vez que una o más cartas sean añadidas a la mano de tu adversario desde el Deck Principal o Cementerio, excepto robándolas, inmediatamente tú robas 1 carta. Sólo puedes activar 1 "Viaje Compartido" por turno.
+  | ja_text         = このカード名のカードは１ターンに１枚しか発動できない。①：このターン、相手がドロー以外の方法でデッキ・墓地からカードを手札に加える度に、自分はデッキから１枚ドローする。
+  | translated_text = For the rest of this turn, each time '''your opponent adds''' a card(s) from the Main Deck or GY to '''the''' hand, except by drawing them, you immediately draw 1 card. You can only activate 1 "Shared Ride" per turn.
+  | ko_text         = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 턴에, 상대가 드로우 이외의 방법으로 덱 / 묘지에서 카드를 패에 넣을 때마다, 자신은 덱에서 1장 드로우한다.
+  | sc_text         = 此卡名的卡１回合仅可发动１张。①：此回合，每次对手用抽牌以外的方法从牌组・墓地将卡加入手牌，自己从牌组抽１张。
+  | en_sets         = 
+  LVAL-EN070; Legacy of the Valiant; Secret Rare
+  MP14-EN231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-EN084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-EN033; Structure Deck: Zombie Horde; Common
+  MAGO-EN079; Maximum Gold; Rare
+  | fr_sets         = 
+  LVAL-FR070; Legacy of the Valiant; Secret Rare
+  MP14-FR231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-FR084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-FR033; Structure Deck: Zombie Horde; Common
+  MAGO-FR079; Maximum Gold; Rare
+  | de_sets         = 
+  LVAL-DE070; Legacy of the Valiant; Secret Rare
+  MP14-DE231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-DE084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-DE033; Structure Deck: Zombie Horde; Common
+  MAGO-DE079; Maximum Gold; Rare
+  | it_sets         = 
+  LVAL-IT070; Legacy of the Valiant; Secret Rare
+  MP14-IT231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-IT084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-IT033; Structure Deck: Zombie Horde; Common
+  MAGO-IT079; Maximum Gold; Rare
+  | pt_sets         = 
+  LVAL-PT070; Legacy of the Valiant; Secret Rare
+  MP14-PT231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-PT084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-PT033; Structure Deck: Zombie Horde; Common
+  MAGO-PT079; Maximum Gold; Rare
+  | sp_sets         = 
+  LVAL-SP070; Legacy of the Valiant; Secret Rare
+  MP14-SP231; 2014 Mega-Tin Mega Pack; Secret Rare
+  PGL3-SP084; Premium Gold: Infinite Gold; Gold Rare
+  SR07-SP033; Structure Deck: Zombie Horde; Common
+  MAGO-SP079; Maximum Gold; Rare
+  | jp_sets         = 
+  LVAL-JP070; Legacy of the Valiant; Normal Rare
+  SR07-JP033; Structure Deck R: Undead World; Common
+  | kr_sets         = 
+  LVAL-KR070; Legacy of the Valiant; Normal Rare
+  SR07-KR033; Structure Deck R: Undead World; Common
+  | sc_sets         = 
+  SD29-SC036; Structure Deck: Master of Pendulum; Common
+  | action          = 
+  * Activates if your opponent draws a card
+  * You draw cards
+  | misc            = 
+  * Only once per turn
+  | database_id     = 10956
+  }}

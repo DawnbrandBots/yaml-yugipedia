@@ -1,0 +1,58 @@
+title: Laval Dual Slasher
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Double Lame Laval
+  | de_name             = Laval-Doppelschlächter
+  | it_name             = Doppio Squarciatore Laval
+  | ko_name             = 라바르 트윈 슬레이어
+  | es_name             = Asesino Doble Laval
+  | ja_name             = ラヴァル・ツインスレイヤー
+  | romaji_name         = Ravaru Tsuinsureiyā
+  | translated_name     = Laval Twinslayer
+  | alt_name            = Laval Twin Slayer
+  | image               = LavalDualSlasher-PHSW-EN-C-1E.png
+  | attribute           = FIRE
+  | types               = Warrior / Synchro / Effect
+  | atk                 = 2400
+  | def                 = 200
+  | level               = 5
+  | password            = 31632536
+  | effect_types        = Condition, Continuous, Continuous
+  | materials           = 1 Tuner + 1 or more non-Tuner FIRE monsters
+  | text                = 1 [[Tuner monster|Tuner]] + 1 or more non-Tuner [[FIRE]] [[monster]]s<br />This card gains [[effect]]s based on the number of "[[Laval]]" monsters in your [[Graveyard]]:<br />● 2+: [[Once per turn]], if this card [[attack]]s a [[Defense Position]] monster, it can attack once again in a row.<br />● 3+: If this card attacks a Defense Position monster, inflict [[piercing]] [[Battle Damage]] to your opponent.
+  | fr_text             = 1 Syntoniseur + 1 monstre non-Syntoniseur FEU ou plus<br />Cette carte gagne ses effets selon le nombre de monstres "Laval" dans votre Cimetière :<br />●2+ : Une fois par tour, si cette carte attaque un monstre en Position de Défense, elle peut attaquer une deuxième fois d'affilée.<br />●3+ : Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.
+  | de_text             = 1 Empfänger + 1 oder mehr FEUER Nicht-Empfänger-Monster<br />Diese Karte erhält Effekte basierend auf der Anzahl "Laval"-Monster in deinem Friedhof.<br />● 2+ : Einmal pro Spielzug, falls diese Karte ein Monster in Verteidigungsposition angreift, kann sie sofort noch einmal angreifen.<br />● 3+ : Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.
+  | it_text             = 1 Tuner + 1 o più mostri non-Tuner di Tipo FUOCO<br />Questa carta guadagna effetti a seconda del numero di mostri "Laval" nel tuo Cimitero:<br />●2+: Una volta per turno, se questa carta attacca un mostro in Posizione di Difesa, essa può attaccare un'altra volta di seguito.<br />●3+: Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.
+  | pt_text             = 1 Tuner + 1 ou mais monstros FIRE não-Tuner<br />Esta carta ganha os seguintes efeitos de acordo com o número de monstros "Laval" no seu Cemitério:<br />● 2 ou mais: Uma vez por turno, se esta carta destrói um monstro em batalha que estava na Posição de Defesa, ela pode atacar mais uma vez.<br />● 3 ou mais: Durante uma batalha entre esta carta atacando e um monstro na Posição de Defesa cuja DEF é menor que o ATK desta carta, inflija a diferença como Dano de Batalha ao seu oponente.
+  | es_text             = 1 Cantante + 1 o más monstruos de FUEGO que no sean Cantantes<br />Esta carta gana efectos según la cantidad de monstruos "Laval" en tu Cementerio:<br />●2+: Una vez por turno, si esta carta ataca a un monstruo en Posición de Defensa, puede atacar una vez más inmediatamente.<br />●3+: Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.
+  | ja_text             = チューナー＋チューナー以外の炎属性モンスター１体以上<br />自分の墓地に存在する「ラヴァル」と名のついたモンスターの数によって、このカードは以下の効果を得る。●２体以上：このカードが守備表示モンスターを攻撃した場合、もう１度だけ続けて攻撃する事ができる。●３体以上：このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
+  | ko_text             = 튜너+튜너 이외의 화염 속성 몬스터 1장 이상<br />자신의 묘지의 "라바르" 몬스터의 수에 따라 이하의 효과를 얻는다. ● 2장 이상 : 이 카드가 수비 표시 몬스터를 공격했을 경우, 1번 더 이어서 공격할 수 있다. ● 3장 이상 : 이 카드가 수비 표시 몬스터 카드를 공격했을 경우, 그 수비력을 공격력이 넘은만큼 전투 데미지를 준다.
+  | en_sets             = 
+  PHSW-EN092; Photon Shockwave; Common
+  | fr_sets             = 
+  PHSW-FR092; Photon Shockwave; Common
+  | de_sets             = 
+  PHSW-DE092; Photon Shockwave; Common
+  | it_sets             = 
+  PHSW-IT092; Photon Shockwave; Common
+  | sp_sets             = 
+  PHSW-SP092; Photon Shockwave; Common
+  | jp_sets             = 
+  VE02-JP003; V Jump Edition 2; Duel Terminal Ultra Parallel Rare
+  | kr_sets             = 
+  AE03-KR008; Advanced Event Pack 2014 Vol.1; Super Rare
+  | supports            = FIRE
+  | archseries          = Laval
+  | supports_archetypes = Laval
+  | summoning           = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Tuner Synchro Materials
+  * Requires Attribute specific non-Tuner Synchro Materials
+  | attack              = 
+  * Multiple attacker
+  * Piercing
+  | misc                = 
+  * Limited activations
+  * Variable effects
+  | database_id         = 9214
+  }}

@@ -1,0 +1,118 @@
+title: Decode Talker
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Décodeur Bavard
+  | de_name               = Dekodier-Sprecher
+  | it_name               = Decodificatore Trasmittente
+  | pt_name               = Decodificar Transmissor
+  | es_name               = Decodificador Hablador
+  | ja_name               = デコード・トーカー
+  | romaji_name           = Dekōdo Tōkā
+  | ko_name               = 디코드 토커
+  | ko_rr_name            = Dikodeu Tokeo
+  | sc_name               = 解码语者
+  | image                 = 
+  1; DecodeTalker-TN23-EN-QCScR-LE.png; DecodeTalker-MADU-EN-VG-artwork.png
+  2; DecodeTalker-DUPO-EN-UR-LE.png;    DecodeTalker-OW.png
+  3; DecodeTalker-CCC2-JP-OP.png
+  | current_image         = 1
+  | attribute             = DARK
+  | types                 = Cyberse / Link / Effect
+  | link_arrows           = Bottom-Left, Top-Center, Bottom-Right
+  | atk                   = 2300
+  | password              = 01861629
+  | materials             = 2+ Effect Monsters
+  | effect_types          = Continuous, Quick
+  | text                  = 2+ [[Effect Monster]]s<br />Gains 500 [[ATK]] for each [[Monster Card|monster]] it points to. When your opponent [[activate]]s a card or [[effect]] that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can [[Tribute]] 1 monster this card points to; [[negate]] the activation, and if you do, [[destroy]] that card.
+  | fr_text               = 2+ Monstres à Effet<br />Gagne 500 ATK pour chaque monstre pointé par cette carte. Lorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs cartes que vous contrôlez (Effet Rapide) : vous pouvez Sacrifier 1 monstre pointé par cette carte ; annulez l'activation, et si vous le faites, détruisez la carte.
+  | de_text               = 2+ Effektmonster<br />Diese Karte erhält 500 ATK für jedes Monster, auf das sie zeigt. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der eine oder mehr Karten, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst 1 Monster, auf das diese Karte zeigt, als Tribut anbieten; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.
+  | it_text               = 2+ Mostri con Effetto<br />Guadagna 500 ATK per ogni mostro a cui punta. Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio una o più carte che controlli (Effetto Rapido): puoi offrire come Tributo 1 mostro puntato da questa carta; annulla l'attivazione e, se lo fai, distruggi quella carta.
+  | pt_text               = 2+ Monstros de Efeito<br />Ganha 500 de ATK para cada monstro para o qual ele apontar. Quando seu oponente ativar um card ou efeito que escolha como alvo um ou mais cards que você controla (Efeito Rápido): você pode oferecer como Tributo 1 monstro para o qual este card apontar; negue a ativação e, se isso acontecer, destrua esse card.
+  | es_text               = 2+ Monstruos de Efecto<br />Gana 500 ATK por cada monstruo al que apunte. Cuando tu adversario activa una carta o efecto que selecciona una o más cartas que controles (Efecto Rápido): puedes Sacrificar 1 monstruo al que esta carta apunte; niega la activación y, si lo haces, destruye esa carta.
+  | ja_text               = 効果モンスター２体以上<br />①：このカードの攻撃力は、このカードのリンク先のモンスターの数×５００アップする。②：自分フィールドのカードを対象とする魔法・罠・モンスターの効果を相手が発動した時、このカードのリンク先の自分のモンスター１体をリリースして発動できる。その発動を無効にし破壊する。
+  | ko_text               = 효과 몬스터 2장 이상<br />①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ②: 자신 필드의 카드를 대상으로 하는 마법 / 함정 / 몬스터의 효과를 상대가 발동했을 때, 이 카드의 링크 앞의 자신 몬스터 1장을 릴리스하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  | sc_text               = 效果怪兽2只以上<br />①：此卡的攻击力上升相当于此卡连接端的怪兽数量×500的数值。②：对手发动以自己场上的卡为对象的魔法・陷阱・怪兽的效果时，解放此卡连接端的1只自己的怪兽可以发动。将该发动无效并破坏。
+  | en_sets               = 
+  YS17-EN041; Starter Deck: Link Strike; Ultra Rare
+  OP06-EN001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-EN031; Star Pack VRAINS; Starfoil Rare
+  YS18-EN043; Starter Deck: Codebreaker; Common
+  DUPO-EN106; Duel Power; Ultra Rare
+  DUDE-EN023; Duel Devastator; Ultra Rare
+  TN23-EN009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | fr_sets               = 
+  YS17-FR041; Starter Deck: Link Strike; Ultra Rare
+  OP06-FR001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-FR031; Star Pack VRAINS; Starfoil Rare
+  YS18-FR043; Starter Deck: Codebreaker; Common
+  DUPO-FR106; Duel Power; Ultra Rare
+  DUDE-FR023; Duel Devastator; Ultra Rare
+  TN23-FR009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | de_sets               = 
+  YS17-DE041; Starter Deck: Link Strike; Ultra Rare
+  OP06-DE001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-DE031; Star Pack VRAINS; Starfoil Rare
+  YS18-DE043; Starter Deck: Codebreaker; Common
+  DUPO-DE106; Duel Power; Ultra Rare
+  DUDE-DE023; Duel Devastator; Ultra Rare
+  TN23-DE009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | it_sets               = 
+  YS17-IT041; Starter Deck: Link Strike; Ultra Rare
+  OP06-IT001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-IT031; Star Pack VRAINS; Starfoil Rare
+  YS18-IT043; Starter Deck: Codebreaker; Common
+  DUPO-IT106; Duel Power; Ultra Rare
+  DUDE-IT023; Duel Devastator; Ultra Rare
+  TN23-IT009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | pt_sets               = 
+  YS17-PT041; Starter Deck: Link Strike; Ultra Rare
+  OP06-PT001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-PT031; Star Pack VRAINS; Starfoil Rare
+  YS18-PT043; Starter Deck: Codebreaker; Common
+  DUPO-PT106; Duel Power; Ultra Rare
+  DUDE-PT023; Duel Devastator; Ultra Rare
+  TN23-PT009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | sp_sets               = 
+  YS17-SP041; Starter Deck: Link Strike; Ultra Rare
+  OP06-SP001; OTS Tournament Pack 6; Ultimate Rare
+  SP18-SP031; Star Pack VRAINS; Starfoil Rare
+  YS18-SP043; Starter Deck: Codebreaker; Common
+  DUPO-SP106; Duel Power; Ultra Rare
+  DUDE-SP023; Duel Devastator; Ultra Rare
+  TN23-SP009; 25th Anniversary Tin: Dueling Heroes; Quarter Century Secret Rare
+  | jp_sets               = 
+  ST17-JP041; Starter Deck 2017; Ultra Rare
+  YCPC-JP020; Yu-Gi-Oh! Chips; Common, Millennium Rare
+  20TH-JPBS6; 20th Anniversary Duelist Box; 20th Secret Rare
+  PAC1-JP009; Prismatic Art Collection; Normal Parallel Rare, Secret Rare, Prismatic Secret Rare
+  TGS1-JP001; Tokyo Game Show 2022 promotional card; Normal Parallel Rare
+  24EP-JP108; Event Pack 2024 Vol.1; Common, Normal Parallel Rare
+  CCC2-JP006; Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 2; Normal Parallel Rare
+  | kr_sets               = 
+  ST17-KR041; Starter Deck 2017; Ultra Rare
+  AE12-KR004; Advanced Event Pack 2018 Vol.1; Secret Rare
+  CHBI-KRBS6; Chronicle Binder; Extra Secret Rare
+  PAC1-KR009; Prismatic Art Collection; Normal Parallel Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  MGP1-SC161; Mega Pack 01; Ultra Rare, Secret Rare
+  | archseries            = Code Talker (archetype)
+  | related_to_archseries = 
+  * @Ignister
+  * Signature move
+  | action                = 
+  * Activates if targeted by card effect
+  * Tributes for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  | database_id           = 13036
+  <!-- alt_art_2 = 3885 -->
+  }}

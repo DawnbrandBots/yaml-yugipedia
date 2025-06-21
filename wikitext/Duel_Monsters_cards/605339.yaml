@@ -1,0 +1,54 @@
+title: Megistric Maginician
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Maginicien Mégistrique
+  | de_name         = Megistrischer Maginigier
+  | it_name         = Maginicio Megistrico
+  | pt_name         = Maginista Megístrico
+  | es_name         = Magístico Megistro
+  | ja_name         = メギストリーの{{Ruby|儀|ぎ}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}
+  | romaji_name     = Megisutorī no Gijutsushi
+  | translated_name = Megistry Ritualist
+  | ko_name         = 메기스트리의 의술사
+  | ko_rr_name      = Megiseuteuri-ui Uisulsa
+  | image           = MegistricMaginician-RIRA-EN-C-1E.png
+  | attribute       = FIRE
+  | types           = Spellcaster / Effect
+  | atk             = 0
+  | def             = 2000
+  | level           = 1
+  | password        = 83035296
+  | effect_types    = Continuous, Trigger, Condition
+  | text            = Each time a [[Spell Card]] is [[activate]]d, place 1 [[Spell Counter]] on this card when that Spell [[resolve]]s. During the [[End Phase]]: You can remove 3 Spell Counters from this card, then [[target]] 1 of your [[banish]]ed Spells; [[add]] 1 card with the target's name from your [[Main Deck|Deck]] to your [[hand]]. You can only use this [[effect]] of "Megistric Maginician" [[once per turn]].
+  | fr_text         = Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Durant la End Phase : vous pouvez retirer 3 Compteurs Magie de cette carte, puis ciblez 1 de vos Magies bannies ; ajoutez 1 carte du nom de la cible depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Maginicien Mégistrique" qu'une fois par tour.
+  | de_text         = Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Während der End Phase: Du kannst 3 Zauberzählmarken von dieser Karte entfernen und dann 1 deiner verbannten Zauber wählen; füge deiner Hand 1 Karte mit dem Namen des gewählten Ziels von deinem Deck hinzu. Du kannst diesen Effekt von „Megistrischer Maginigier“ nur einmal pro Spielzug verwenden.
+  | it_text         = Ogni volta che viene attivata una Carta Magia metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Durante la End Phase: puoi rimuovere 3 Segnalini Magia da questa carta, poi scegliere come bersaglio 1 delle tue Magie bandite; aggiungi 1 carta con il nome del bersaglio dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Maginicio Megistrico" una sola volta per turno.
+  | pt_text         = Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Durante a Fase Final: você pode remover 3 Marcadores de Magia deste card e, depois, escolher 1 das suas Magias banidas; adicione 1 card com o nome do alvo do seu Deck à sua mão. Você só pode usar este efeito de "Maginista Megístrico" uma vez por turno.
+  | es_text         = Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Durante la End Phase: puedes retirar 3 Contadores Mágicos de esta carta, y después seleccionar 1 de tus Mágicas desterradas; añade a tu mano 1 carta en tu Deck con el nombre de ese objetivo. Sólo puedes usar este efecto de "Magístico Megistro" una vez por turno.
+  | ja_text         = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：自分・相手のエンドフェイズにこのカードの魔力カウンターを３つ取り除き、除外されている自分の魔法カード１枚を対象として発動できる。そのカードの同名カード１枚をデッキから手札に加える。
+  | ko_text         = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 자신 / 상대의 엔드 페이즈에 이 카드의 마력 카운터를 3개 제거하고, 제외되어 있는 자신의 마법 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드의 같은 이름의 카드 1장을 덱에서 패에 넣는다.
+  | en_sets         = 
+  RIRA-EN036; Rising Rampage; Common
+  | fr_sets         = 
+  RIRA-FR036; Rising Rampage; Common
+  | de_sets         = 
+  RIRA-DE036; Rising Rampage; Common
+  | it_sets         = 
+  RIRA-IT036; Rising Rampage; Common
+  | pt_sets         = 
+  RIRA-PT036; Rising Rampage; Common
+  | sp_sets         = 
+  RIRA-SP036; Rising Rampage; Common
+  | jp_sets         = 
+  RIRA-JP036; Rising Rampage; Normal Rare
+  | kr_sets         = 
+  RIRA-KR036; Rising Rampage; Normal Rare
+  | supports        = Spell Card
+  | counter         = 
+  * Spell Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action          = Adds from Deck to hand
+  | misc            = Only once per turn
+  | database_id     = 14474
+  }}

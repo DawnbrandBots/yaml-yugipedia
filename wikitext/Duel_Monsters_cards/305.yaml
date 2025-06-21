@@ -1,0 +1,69 @@
+title: Dice Jar
+wikitext: |-
+  {{CardTable2
+  | de_name         = Würfelkrug
+  | fr_name         = Jarre Dés
+  | it_name         = Giara Dado
+  | ko_name         = 다이스 포트
+  | pt_name         = Jarro de Dados
+  | es_name         = Jarra de Dados
+  | ja_name         = ダイス・ポット
+  | romaji_name     = Daisu Potto
+  | translated_name = Dice Pot
+  | image           = DiceJar-LCJW-EN-C-1E.png
+  | attribute       = LIGHT
+  | types           = Rock / Effect
+  | level           = 3
+  | atk             = 200
+  | def             = 300
+  | password        = 03549275
+  | effect_types    = Flip
+  | text            = [[Flip effect|FLIP]]: Both players roll a six-sided die. The player with the lower result takes [[Effect damage|damage]] equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.
+  | translated_text = FLIP: Both players roll a six-sided die. The player with the lower result takes damage '''<u>based on their opponent's result. If the player with the higher roll rolled a 2, 3, 4, or 5, the loser takes damage equal to the result x 500.</u>''' However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.
+  | fr_text         = FLIP : Chaque joueur lance un dé à six faces. Le joueur avec le résultat le plus faible reçoit des dommages égaux au résultat de son adversaire x 500. Cependant, si le résultat du gagnant est 6, le perdant reçoit 6000 points de dommages. Si les résultats sont les mêmes, chaque joueur relance le dé.
+  | de_text         = FLIPP: Beide Spieler werfen einen sechsseitigen Würfel. Der Spieler mit dem niedrigeren Ergebnis erhält Schaden in Höhe des Ergebnisses seines Gegners x 500. Wenn der Gewinner allerdings eine 6 gewürfelt hat, erhält der Verlierer 6000 Schaden. Falls beide Ergebnisse gleich sind, würfeln beide Spieler noch einmal.
+  | it_text         = SCOPRI: Entrambi i giocatori tirano un dado a sei facce. Il giocatore con il risultato inferiore subisce danno pari al risultato del tiro del suo avversario x 500. Tuttavia, se il vincitore ha tirato un 6, il perdente subisce 6000 danni. Se i risultati sono uguali, entrambi i giocatori tirano ancora.
+  | pt_text         = VIRE: Os dois duelistas lançam um dado de 6 faces. O duelista que obtiver o menor resultado sofre dano igual ao resultado do oponente x 500. Contudo, se o vencedor obteve um 6, o perdedor sofre 6000 de dano. Em caso de empate, os dois duelistas lançam novamente.
+  | es_text         = VOLTEO: Ambos jugadores lanzan un dado de seis caras. El jugador con el resultado más bajo recibe daño igual al resultado de su adversario x 500. Pero si el resultado del ganador es 6, el perdedor recibe 6000 puntos de daño. Si los resultados son los mismos, ambos jugadores lanzan el dado de nuevo.
+  | ja_text         = リバース：お互いにサイコロを１回ずつ振る。相手より小さい目が出たプレイヤーは、相手の出た目によって以下のダメージを受ける。相手の出た目が２～５だった場合、相手の出た目×５００ポイントダメージを受ける。相手の出た目が６だった場合、６０００ポイントダメージを受ける。お互いの出た目が同じだった場合はサイコロを振り直す。
+  | ko_text         = 리버스 : 서로 주사위를 1회씩 던진다. 상대보다 작은 눈이 나온 플레이어는 상대의 나온 눈 x 500 포인트의 데미지를 받는다. 단, 6의 눈으로 진 플레이어는 6000 포인트의 데미지를 받는다. 무승부인 경우는 다시 한다.
+  | en_sets         = 
+  DB2-EN226; Dark Beginning 2; Common
+  LCJW-EN262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | na_sets         = 
+  PGD-027; Pharaonic Guardian; Short Print
+  | fr_sets         = 
+  DB2-FR226; Dark Beginning 2; Common
+  LCJW-FR262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | de_sets         = 
+  DB2-DE226; Dark Beginning 2; Common
+  LCJW-DE262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | it_sets         = 
+  DB2-IT226; Dark Beginning 2; Common
+  LCJW-IT262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | pt_sets         = 
+  LCJW-PT262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | sp_sets         = 
+  DB2-SP226; Dark Beginning 2; Common
+  LCJW-SP262; Legendary Collection 4: Joey's World Mega Pack; Common
+  | jp_sets         = 
+  PH-27; Pharaonic Guardian (Japanese); Common
+  DL5-112; Duelist Legacy Volume.5; Common
+  SJ2-044; Structure Deck: Joey Volume 2; Common
+  BE2-JP226; Beginner's Edition 2; Common
+  BE02-JP184; Beginner's Edition 2 (2011); Common
+  | ae_sets         = 
+  PGD-027; Pharaonic Guardian; Short Print
+  | kr_sets         = 
+  PGD-KR027; Pharaonic Guardian; Short Print
+  BP2-KR226; Beginner's Edition 2; Common
+  | ygo_sets        = 
+  '''[[Pack 23 (YGOO-BP)|Pack 23]]'''
+  | archseries      = Jar
+  | action          = Activates upon being flipped face-up
+  | life_points     = 
+  * Damages you
+  * Damages your opponent
+  | misc            = Die roll
+  | database_id     = 5424
+  }}

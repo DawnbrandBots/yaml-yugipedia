@@ -1,0 +1,64 @@
+title: Cloudian - Poison Cloud
+wikitext: |-
+  {{CardTable2
+  | fr_name              = Nuagien - Gaz Toxique
+  | de_name              = Wolkian - Toxische Wolke
+  | it_name              = Nubiano - Nuvola Venefica
+  | ko_name              = 운마물-포이즌크라우드
+  | pt_name              = 
+  | es_name              = Cloudian - Nube Tóxica
+  | ja_name              = {{Ruby|雲魔物|クラウディアン}}－ポイズン・クラウド
+  | base_romaji_name     = Unmamono - Poizun Kuraudo
+  | base_translated_name = Cloud Monster - Poison Cloud
+  | romaji_name          = Kuraudian - Poizun Kuraudo
+  | translated_name      = Cloudian - Poison Cloud
+  | image                = CloudianPoisonCloud-BP01-EN-C-1E.png
+  | attribute            = WATER
+  | types                = Fiend / Effect
+  | atk                  = 0
+  | def                  = 1000
+  | level                = 3
+  | password             = 83982270
+  | effect_types         = Trigger
+  | text                 = When this card is [[destroyed by battle]] and [[sent]] to the [[Graveyard]], if it was [[face-up]] at the start of the [[Damage Step]]: [[Destroy]] the monster that destroyed it, and if you do, inflict 800 [[damage]] to your opponent.
+  | fr_text              = Lorsque cette carte est détruite au combat et envoyée au Cimetière, si elle était face recto au début de la Damage Step : détruisez le monstre qui l'a détruite, et si vous le faites, infligez 800 points de dommages à votre adversaire.
+  | de_text              = Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, falls sie am Beginn des Damage Steps offen lag: Zerstöre das Monster, das sie zerstört hat, und falls du dies tust, füge deinem Gegner 800 Schaden zu.
+  | it_text              = Quando questa carta viene distrutta in battaglia e mandata al Cimitero, se era scoperta all'inizio del Damage Step: distruggi il mostro che l'ha distrutta e, se lo fai, infliggi 800 danni al tuo avversario.
+  | pt_text              = 
+  | es_text              = Cuando esta carta es destruida en batalla y mandada al Cementerio, si estaba boca arriba al comienzo del Damage Step: destruye el monstruo que la destruyó y, si lo haces, inflige 800 puntos de daño a tu adversario.
+  | ja_text              = フィールド上に表側表示で存在するこのカードが戦闘によって破壊され墓地へ送られた時、このカードを破壊したモンスターを破壊し相手ライフに８００ポイントダメージを与える。
+  | translated_text      = When this face-up card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.
+  | ko_text              = 필드 위에 앞면 표시로 존재하는 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을때, 이 카드를 파괴한 몬스터를 파괴하고 상대 라이프에 800 포인트 데미지를 준다.
+  | en_sets              = 
+  GLAS-EN009; Gladiator's Assault; Common
+  BP01-EN193; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  | fr_sets              = 
+  GLAS-FR009; Gladiator's Assault; Common
+  BP01-FR193; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  | de_sets              = 
+  GLAS-DE009; Gladiator's Assault; Common
+  BP01-DE193; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  | it_sets              = 
+  GLAS-IT009; Gladiator's Assault; Common
+  BP01-IT193; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  | sp_sets              = 
+  GLAS-SP009; Gladiator's Assault; Common
+  BP01-SP193; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  | jp_sets              = 
+  GLAS-JP009; Gladiator's Assault; Common
+  TP23-JP004; Tournament Pack 2012 Vol.3; Common
+  | kr_sets              = 
+  GLAS-KR009; Gladiator's Assault; Common
+  TP16-KR004; Tournament Pack 2013 Vol.16; Common
+  | ygo_sets             = 
+  '''[[Pack 46 (YGOO-BP)|Pack 46]]'''
+  | archseries           = Cloudian
+  | action               = 
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | m/s/t                = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys battling monster at the end of the Damage Step
+  | life_points          = Damages your opponent
+  | database_id          = 7268
+  }}

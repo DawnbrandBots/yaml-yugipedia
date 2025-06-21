@@ -1,0 +1,78 @@
+title: Performage Mirror Conductor
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Miroir Conducteur Mageartiste
+  | de_name               = Künstlerzauberer Spiegeldirigent
+  | it_name               = Artistamagus Direttore Specchio
+  | ko_name               = {{ruby|Em|엔터메이지|lang=ko}} 미러 컨덕터
+  | pt_name               = Camaramágico Espelho Condutor
+  | es_name               = Artilusionista Director del Espejo
+  | ja_name               = {{Ruby|Ｅｍ|エンタメイジ}}ミラー・コンダクター
+  | romaji_name           = Entameiji Mirā Kondakutā
+  | translated_name       = Entermage Mirror Conductor
+  | sc_name               = 娱乐巫师・镜子指挥
+  | image                 = PerformageMirrorConductor-MP16-EN-C-1E.png
+  | attribute             = LIGHT
+  | types                 = Spellcaster / Pendulum / Effect
+  | level                 = 4
+  | pendulum_scale        = 3
+  | atk                   = 600
+  | def                   = 1400
+  | password              = 71578874
+  | pendulum_effect_types = Ignition-like
+  | effect_types          = Quick
+  | pendulum_effect       = [[Once per turn]]: You can [[target]] 1 [[face-up]] [[Special Summon]]ed [[Monster Card|monster]] on the [[field]]; its [[ATK]] and [[DEF]] become equal to its current ATK or DEF (whichever is lower) until the end of this [[turn]] (even if this card [[leaves the field]]).
+  | text                  = [[Once per turn]], during either player's [[turn]]: You can [[target]] 1 [[face-up]] [[Monster Card|monster]] on the [[field]]; switch its current [[ATK]] and [[DEF]], then take 500 [[Effect damage|damage]]. This ATK and DEF change lasts until the end of this turn.
+  | fr_pendulum_effect    = Une fois par tour : vous pouvez cibler 1 monstre face recto Invoqué Spécialement sur le Terrain ; son ATK/DEF deviennent égales à son ATK ou DEF actuelles (la plus faible valeur) jusqu'à la fin de ce tour (même si cette carte quitte le Terrain).
+  | fr_text               = Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 monstre face recto sur le Terrain ; échangez son ATK et sa DEF actuelles, puis recevez 500 points de dommages. Ce changement d'ATK/DEF dure jusqu'à la fin de ce tour.
+  | de_pendulum_effect    = Einmal pro Spielzug: Du kannst 1 offenes als Spezialbeschwörung beschworenes Monster auf dem Spielfeld wählen; seine ATK und DEF werden bis zum Ende dieses Spielzugs gleich seinen derzeitigen ATK oder DEF (was davon niedriger ist), selbst falls diese Karte das Spielfeld verlässt.
+  | de_text               = Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 offenes Monster auf dem Spielfeld wählen; vertausche seine derzeitigen ATK und DEF, dann erhältst du 500 Schaden. Diese ATK- und DEF-Änderung dauert bis zum Ende dieses Spielzugs an.
+  | it_pendulum_effect    = Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto Evocato Specialmente sul Terreno; i suoi ATK e DEF diventano pari al suo ATK o DEF attuale (il più basso dei due) fino alla fine di questo turno (anche se questa carta lascia il Terreno).
+  | it_text               = Una volta per turno, durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scambia i suoi ATK e DEF attuali, poi subisci 500 danni. Questo cambio di ATK e DEF dura fino alla fine di questo turno.
+  | pt_pendulum_effect    = [[Once per turn|Uma vez por turno]]: você pode [[Target|escolher]] 1 [[Monster Card|monstro]] com a [[Face-up|face para cima]] no [[Field|campo]] [[Summon|Invocado]] por [[Special Summon|Invocação-Especial]]; seu [[ATK]] e [[DEF]] se tornam igual ao seu ATK e DEF atuais (o que for menor) até o final deste [[turn]]o (mesmo que este card deixe o campo).
+  | pt_text               = [[Once per turn|Uma vez por turno]], durante o [[turn]]o de qualquer duelista: você pode [[Target|escolher]] 1 [[Monster Card|monstro]] com a [[Face-up|face para cima]] no [[Field|campo]]; troque o [[ATK]] atual pela [[DEF]] atual dele e, depois, sofra 500 de [[Effect damage|dano]]. Esta troca de ATK e DEF dura até o final deste turno.
+  | es_pendulum_effect    = Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo que haya sido Invocado de Modo Especial; hasta el final de este turno (aún si esta carta deja el Campo), su ATK y DEF se convierten en su ATK o DEF en este momento (lo que sea más bajo).
+  | es_text               = Una vez por turno, durante el turno de cualquier jugador: puedes seleccionar 1 monstruo boca arriba en el Campo; intercambia su ATK y DEF en este momento, y después recibe 500 puntos de daño. Este cambio de ATK y DEF dura hasta el final de este turno.
+  | ja_pendulum_effect    = ①：１ターンに１度、フィールドの特殊召喚された表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力はターン終了時まで、その攻撃力と守備力の内、低い方の数値と同じになる。
+  | ja_text               = ①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力をターン終了時まで入れ替える。その後、自分は５００ダメージを受ける。この効果は相手ターンでも発動できる。
+  | ko_pendulum_effect    = ①: 1턴에 1번, 필드의 특수 소환된 앞면 표시 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터의 공격력 / 수비력은 턴 종료 시까지, 그 공격력과 수비력 중, 낮은 쪽의 수치와 같아진다.
+  | ko_text               = ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터의 공격력 / 수비력을 턴 종료시까지 맞바꾼다. 그 후, 자신은 500 데미지를 받는다. 이 효과는 상대 턴에도 발동할 수 있다.
+  | sc_pendulum_effect    = ①：１回合１次，以场上的１只被特殊召唤的表侧表示怪兽为对象可以发动。该怪兽的攻击力・守备力直至回合结束时为止，变为其攻击力和守备力中较低一方的数值。
+  | sc_text               = ①：在每个自己・对手回合中１次，以场上的１只表侧表示怪兽为对象可以发动。直至回合结束时为止交换该怪兽的攻击力・守备力。然后，自己受到５００伤害。
+  | en_sets               = 
+  DOCS-EN015; Dimension of Chaos; Common
+  MP16-EN118; 2016 Mega-Tin Mega Pack; Common
+  | fr_sets               = 
+  DOCS-FR015; Dimension of Chaos; Common
+  MP16-FR118; 2016 Mega-Tin Mega Pack; Common
+  | de_sets               = 
+  DOCS-DE015; Dimension of Chaos; Common
+  MP16-DE118; 2016 Mega-Tin Mega Pack; Common
+  | it_sets               = 
+  DOCS-IT015; Dimension of Chaos; Common
+  MP16-IT118; 2016 Mega-Tin Mega Pack; Common
+  | pt_sets               = 
+  DOCS-PT015; Dimension of Chaos; Common
+  MP16-PT118; 2016 Mega-Tin Mega Pack; Common
+  | sp_sets               = 
+  DOCS-SP015; Dimension of Chaos; Common
+  MP16-SP118; 2016 Mega-Tin Mega Pack; Common
+  | jp_sets               = 
+  DOCS-JP015; Dimension of Chaos; Common
+  | ae_sets               = 
+  CR04-AE179; Creation Pack 04; Rare
+  | kr_sets               = 
+  DOCS-KR015; Dimension of Chaos; Common
+  | sc_sets               = 
+  DBVS-SC052; Deck-Build Pack: Valiant Smashers; Common, Normal Parallel Rare
+  | archseries            = Performage
+  | stat_change           = 
+  * Your monsters lose ATK
+  * Your monsters lose DEF
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  * Switches ATK and DEF
+  | life_points           = Damages you
+  | misc                  = Limited activations
+  | database_id           = 11959
+  }}

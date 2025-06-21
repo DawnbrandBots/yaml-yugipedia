@@ -1,0 +1,60 @@
+title: Gagaga Sister
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Sœur Gagaga
+  | de_name             = Gagaga-Schwester
+  | it_name             = Sorella Gagaga
+  | pt_name             = Irmã Gagaga
+  | es_name             = Hermana Gagaga
+  | ja_name             = ガガガシスター
+  | romaji_name         = Gagaga Shisutā
+  | ko_name             = 가가가 시스터
+  | ko_rr_name          = Gagaga Siseuteo
+  | sc_name             = 我我我妹妹
+  | image               = GagagaSister-WSUP-EN-PScR-1E.png
+  | attribute           = DARK
+  | types               = Spellcaster / Effect
+  | level               = 2
+  | atk                 = 200
+  | def                 = 800
+  | password            = 00387282
+  | effect_types        = Trigger, Ignition, Condition
+  | text                = When this card is [[Normal Summon]]ed: You can [[Add a card|add]] 1 "[[Gagaga]]" [[Spell Card|Spell]]/[[Trap Card]] from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 other "Gagaga" [[monster]] you [[control]]; the [[Level]]s of that monster and this card become their combined current Levels, until the end of this [[turn]]. You can only use this [[effect]] of "Gagaga Sister" once per turn.
+  | fr_text             = Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 Carte Magie/Piège "Gagaga" depuis votre Deck à votre main. Vous pouvez cibler 1 autre monstre "Gagaga" que vous contrôlez ; jusqu'à la fin de ce tour, les Niveaux du monstre et de cette carte deviennent la somme de leurs Niveaux actuels. Vous ne pouvez utiliser cet effet de "Sœur Gagaga" qu'une fois par tour.
+  | de_text             = Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Gagaga“-Zauber-/Fallenkarte von deinem Deck hinzufügen. Du kannst 1 anderes „Gagaga“-Monster wählen, das du kontrollierst; die Stufen des Monsters und dieser Karte werden bis zum Ende dieses Spielzugs jeweils die Summe ihrer derzeitigen Stufen. Du kannst diesen Effekt von „Gagaga-Schwester“ nur einmal pro Spielzug verwenden.
+  | it_text             = Quando questa carta viene Evocata Normalmente: puoi aggiungere 1 Carta Magia/Trappola "Gagaga" dal tuo Deck alla tua mano. Puoi scegliere come bersaglio 1 altro mostro "Gagaga" che controlli; i Livelli di quel mostro e questa carta diventano la somma dei loro Livelli attuali, fino alla fine di questo turno. Puoi utilizzare questo effetto di "Sorella Gagaga" una sola volta per turno.
+  | pt_text             = Quando este card for Invocado por Invocação-Normal: você pode adicionar 1 Card de Magia/Armadilha "Gagaga" do seu Deck à sua mão. Você pode escolher 1 outro monstro "Gagaga" que você controla; até o final deste turno, os Níveis desse monstro e deste card se tornam igual aos Níveis combinados dos dois. Você só pode usar este efeito de "Irmã Gagaga" uma vez por turno.
+  | es_text             = Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 Carta Mágica/de Trampa "Gagaga" en tu Deck. Puedes seleccionar otro monstruo "Gagaga" que controles; hasta el final de este turno, los Niveles de ese monstruo y esta carta se convierten en sus Niveles en este momento combinados. Sólo puedes usar este efecto de "Hermana Gagaga" una vez por turno.
+  | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「ガガガ」魔法・罠カード１枚を手札に加える。②：このカード以外の自分フィールドの「ガガガ」モンスター１体を対象として発動できる。そのモンスターとこのカードは、ターン終了時までその２体のレベルを合計したレベルになる。
+  | ko_text             = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "가가가" 마법 / 함정 카드 1장을 패에 넣는다. ②: 이 카드 이외의 자신 필드의 "가가가" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와 이 카드는, 턴 종료시까지 그 2장의 레벨을 합계한 레벨이 된다.
+  | sc_text             = 此卡名的②效果１回合仅可使用１次。①：此卡召唤成功时可以发动。从牌组将１张“我我我”魔法・陷阱卡加入手牌。②：以自己场上此卡以外的１只“我我我”怪兽为对象可以发动。该怪兽与此卡直至回合结束时为止，变为该２只等级合计的等级。
+  | en_sets             = 
+  WSUP-EN006; World Superstars; Prismatic Secret Rare
+  | fr_sets             = 
+  WSUP-FR006; World Superstars; Prismatic Secret Rare
+  | de_sets             = 
+  WSUP-DE006; World Superstars; Prismatic Secret Rare
+  | it_sets             = 
+  WSUP-IT006; World Superstars; Prismatic Secret Rare
+  | pt_sets             = 
+  WSUP-PT006; World Superstars; Prismatic Secret Rare
+  | sp_sets             = 
+  WSUP-SP006; World Superstars; Prismatic Secret Rare
+  | jp_sets             = 
+  PRIO-JP081; Primal Origin; Rare
+  SD42-JP007; Structure Deck: Overlay Universe; Common
+  | kr_sets             = 
+  EP14-KR046; Extra Pack: Knights of Order; Common
+  SD42-KR007; Structure Deck: Overlay Universe; Common
+  | sc_sets             = 
+  SD42-SC007; Structure Deck: Overlay Universe; Common
+  | archseries          = Gagaga
+  | supports_archetypes = Gagaga
+  | action              = Adds from Deck to hand
+  | stat_change         = 
+  * Changes Levels
+  * Changes own Level
+  | misc                = 
+  * Only once per turn
+  | database_id         = 11110
+  }}

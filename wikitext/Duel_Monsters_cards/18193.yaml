@@ -1,0 +1,76 @@
+title: Weapon Change
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Changement d'Arme
+  | de_name               = Waffenwechsel
+  | it_name               = Cambio-Arma
+  | ko_name               = 웨폰 체인지
+  | pt_name               = Mudança de Arma
+  | es_name               = Cambio de Arma
+  | ja_name               = ウェポンチェンジ
+  | romaji_name           = Wepon Chenji
+  | image                 = WeaponChange-SGX2-EN-C-1E.png
+  | card_type             = Spell
+  | property              = Continuous
+  | password              = 10035717
+  | effect_types          = Trigger-like
+  | text                  = Once during each of your [[Standby Phase]]s: You can [[pay]] 700 [[LP]], then [[target]] 1 [[Warrior]] or [[Machine]] [[monster]] you [[control]]; switch the current [[ATK]] and [[DEF]] of that target until the end of your opponent's next [[turn]].
+  | fr_text               = Une fois uniquement durant chacune de vos Standby Phases, Vous pouvez payer 700 Life Points pour activer l'effet de cette carte. Echangez l'ATK et la DEF d'1 monstre de Type Guerrier ou Machine sur votre Terrain jusqu'à la fin du prochain tour de votre adversaire. Lorsque cette carte est détruite, l'effet est annulé.
+  | de_text               = Du kannst einmal in deinem [[Turn|Spielzug]] während deiner [[Standby Phase]] 700 [[Life Points]] zahlen, um den [[Effect|Effekt]] dieser Karte zu [[Activate|aktivieren]]. Tausche die [[ATK]] und [[DEF]] eines [[Monster Card|Monsters]] vom [[Type|Typ]] [[Warrior|Krieger]] oder [[Machine|Maschine]] auf deiner [[Field|Spielfeldseite]] bis zum Ende des nächsten Spielzugs deines Gegners. Wenn diese Karte [[Destroy|zerstört]] wird, wird dieser Effekt [[Negate|annulliert]].
+  | it_text               = Una volta durante ogni tua Standby Phase, puoi pagare 700 Life Points per attivare l'effetto di questa carta. Scambia ATK e DEF di 1 mostro di Tipo Guerriero o Macchina sul tuo Terreno, fino alla fine del prossimo turno del tuo avversario. Quando questa carta viene distrutta, l'effetto è annullato.
+  | pt_text               = Você pode pagar 700 Life Points, apenas uma vez por turno, durante a sua Standby Phase, para activar o efeito deste card. Troque o ATK e o DEF de 1 monstro do Tipo Guerreiro ou do Tipo Máquina no seu Campo, até ao final da próxima End Phase do seu adversário. Quando este card é destruído, o efeito é anulado.
+  | es_text               = Puedes pagar 700 Life Points sólo una vez por turno durante tu Standby Phase para activar el efecto de esta carta. Intercambia el ATK y la DEF de 1 monstruo de Tipo Guerrero o de Tipo Máquina en tu Campo hasta el final de la próxima End Phase de tu adversario. Cuando esta carta es destruida, el efecto es negado.
+  | ja_text               = １ターンに１度だけ自分のスタンバイフェイズに７００ライフポイントを払って発動する事ができる。自分フィールド上の戦士族か機械族モンスター１体の攻撃力と守備力を次の相手のエンドフェイズ終了時まで入れ替える。このカードが破壊された時、その効果は無効になる。
+  | ko_text               = 1턴에 1번만 자신의 스텐바이 페이즈에 700 라이프 포인트를 지불하고 발동할수 있다. 자신의 필드 위의 천사족이나 기계족 몬스터 1장의 공격력과 수비력을 다음 상대의 엔드 페이즈 종료시까지 맞바꾼다. 이 카드가 파괴되었을때, 그 효과는 무효화 된다.
+  | en_sets               = 
+  DR2-EN153; Dark Revelation Volume 2; Common
+  SD10-EN028; Structure Deck: Machine Re-Volt; Common
+  SGX2-ENB14; Speed Duel GX: Midterm Paradox; Common
+  | na_sets               = 
+  AST-041; Ancient Sanctuary; Common
+  | fr_sets               = 
+  AST-FR041; Ancient Sanctuary; Common
+  DR2-FR153; Dark Revelation Volume 2; Common
+  SD10-FR028; Structure Deck: Machine Re-Volt; Common
+  SGX2-FRB14; Speed Duel GX: Midterm Paradox; Common
+  | de_sets               = 
+  AST-DE041; Ancient Sanctuary; Common
+  DR2-DE153; Dark Revelation Volume 2; Common
+  SD10-DE028; Structure Deck: Machine Re-Volt; Common
+  SGX2-DEB14; Speed Duel GX: Midterm Paradox; Common
+  | it_sets               = 
+  AST-IT041; Ancient Sanctuary; Common
+  DR2-IT153; Dark Revelation Volume 2; Common
+  SD10-IT028; Structure Deck: Machine Re-Volt; Common
+  SGX2-ITB14; Speed Duel GX: Midterm Paradox; Common
+  | pt_sets               = 
+  AST-PT041; Ancient Sanctuary; Common
+  SGX2-PTB14; Speed Duel GX: Midterm Paradox; Common
+  | sp_sets               = 
+  AST-SP041; Ancient Sanctuary; Common
+  DR2-SP153; Dark Revelation Volume 2; Common
+  SD10-SP028; Structure Deck: Machine Re-Volt; Common
+  SGX2-SPB14; Speed Duel GX: Midterm Paradox; Common
+  | jp_sets               = 
+  308-041; The Sanctuary in the Sky (set); Common
+  EE2-JP153; Expert Edition Volume.2; Common
+  SD10-JP028; Structure Deck: Machine Re-Volt; Common
+  | ae_sets               = 
+  AST-AE041; Ancient Sanctuary; Common
+  | kr_sets               = 
+  AST-KR041; Ancient Sanctuary; Common
+  HGP2-KR153; Expert Edition Volume.2; Common
+  SD10-KR028; Structure Deck: Machine Re-Volt; Common
+  | supports              = 
+  * Warrior
+  * Machine
+  | archseries            = Change
+  | stat_change           = Switches ATK and DEF
+  | life_points           = Pays Life Points for cost
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific Type
+  * During the Standby Phase
+  | database_id           = 5981
+  | tcg_speed_duel_status = Unlimited
+  }}

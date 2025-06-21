@@ -1,0 +1,55 @@
+title: Bending Destiny
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Changement de Destinée
+  | de_name             = Schicksal beeinflussen
+  | it_name             = Piegare il Destino
+  | pt_name             = Torcer o Destino
+  | es_name             = Torcer el Destino
+  | ja_name             = {{Ruby|運|うん}}{{Ruby|命|めい}}{{Ruby|湾|わん}}{{Ruby|曲|きょく}}
+  | romaji_name         = Unmei Wankyoku
+  | ko_name             = 운명만곡
+  | ko_rr_name          = Unmyeongman-gok
+  | image               = BendingDestiny-SOVR-EN-C-1E.jpg
+  | card_type           = Trap
+  | property            = Counter
+  | password            = 94662235
+  | effect_types        = Activation requirement, Effect, Lingering
+  | text                = [[Activate]] only if all [[face-up]] [[monster]]s you [[control]] are "[[Fortune Lady]]" monsters. [[Negate]] the activation of a [[Spell Card|Spell]] or [[Trap Card]], or the [[Normal Summon]] of a monster, and [[Banish|remove that card from play]]. The card removed from play by this [[effect]] is [[return]]ed to its [[owner]]'s [[hand]] during the [[End Phase]].
+  | fr_text             = Activable uniquement si tous les monstres face recto que vous contrôlez sont des monstres "Demoiselle de Fortune". Annulez l'activation d'une Carte Magie ou Piège, ou l'Invocation Normale d'un monstre, et retirez cette carte du jeu. La carte retirée du jeu par cet effet est renvoyée dans la main de son propriétaire durant la End Phase.
+  | de_text             = Aktiviere diese Karte nur, falls alle offenen Monster, die du kontrollierst, „Schicksalsdame“-Monster sind. Annulliere die Aktivierung einer Zauber- oder Fallenkarte oder die Normalbeschwörung eines Monsters und entferne die Karte aus dem Spiel. Die durch diesen Effekt aus dem Spiel entfernte Karte wird während der End Phase auf die Hand ihres Besitzers zurückgegeben.
+  | it_text             = Attiva solo se tutti i mostri scoperti che controlli sono mostri "Signora della Fortuna". Annulla l'attivazione di una Carta Magia o Trappola, o l'Evocazione Normale di un mostro, e rimuovi dal gioco quella carta. La carta rimossa dal gioco da questo effetto viene fatta ritornare nella mano del suo proprietario durante l'End Phase.
+  | pt_text             = Quando um ou mais monstros seriam Invocados por Invocação-Normal, OU um Card de Magia/Armadilha for ativado, enquanto todos os monstros com a face para cima que você controla forem monstros "Senhora Fortuna" (mín. 1): negue a Invocação ou ativação e, se isso acontecer, bana esse card. Esse card banido é devolvido à mão durante a Fase Final deste turno.
+  | es_text             = Sólo puedes activar esta carta si todos los monstruos boca arriba que controlas son monstruos "Adivinadora". Niega la activación de una Carta Mágica o de Trampa, o la Invocación Normal de un monstruo, y retira esa carta del juego. La carta retirada del juego por este efecto se devuelve a la mano de su dueño durante la End Phase.
+  | ja_text             = 自分フィールド上に表側表示で存在するモンスターが「フォーチュンレディ」と名のついたモンスターのみの場合に発動できる。魔法・罠カードの発動、モンスターの召喚のどれか１つを無効にし、そのカードをゲームから除外する。このターンのエンドフェイズ時に、この効果でゲームから除外したカードを持ち主の手札に戻す。
+  | ko_text             = ①: 자신 필드의 앞면 표시 몬스터가 "포츈 레이디" 몬스터뿐일 경우, 이하의 효과를 발동할 수 있다.<br />●마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 제외한다. 이 턴의 엔드 페이즈에, 이 효과로 제외한 카드를 패로 되돌린다.<br />●자신이나 상대가 몬스터를 일반 소환할 시기에 발동할 수 있다. 그 일반 소환을 무효로 하고, 그 몬스터를 제외한다. 이 턴의 엔드 페이즈에, 이 효과로 제외한 몬스터를 패로 되돌린다.
+  | en_sets             = 
+  SOVR-EN066; Stardust Overdrive; Common
+  | fr_sets             = 
+  SOVR-FR066; Stardust Overdrive; Common
+  | de_sets             = 
+  SOVR-DE066; Stardust Overdrive; Common
+  | it_sets             = 
+  SOVR-IT066; Stardust Overdrive; Common
+  | pt_sets             = 
+  OP11-PT031; OTS Tournament Pack 11; Common
+  | sp_sets             = 
+  SOVR-SP066; Stardust Overdrive; Common
+  | jp_sets             = 
+  SOVR-JP066; Stardust Overdrive; Common
+  DE04-JP081; Duelist Edition Volume 4; Common
+  | kr_sets             = 
+  SOVR-KR066; Stardust Overdrive; Common
+  SYP1-KR065; Synergy Pack 01: Syncro Acceleration; Super Rare, Secret Rare
+  | supports_archetypes = Fortune Lady
+  | action              = Adds banished cards to the hand
+  | m/s/t               = 
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | summoning           = Negates Normal Summons
+  | banished            = 
+  * Banishes negated Summons
+  * Banishes negated activations
+  | misc                = Requires control of specific archetype
+  | database_id         = 8501
+  }}

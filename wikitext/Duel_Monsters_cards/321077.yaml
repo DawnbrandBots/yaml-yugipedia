@@ -1,0 +1,57 @@
+title: Saber Reflection
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Reflet de Sabre
+  | de_name             = Säbelreflexion
+  | it_name             = Riflessione Sciabola
+  | ko_name             = 세이버 리플렉트
+  | pt_name             = Reflexo do Sabre
+  | es_name             = Reflejo de Sable
+  | ja_name             = セイバー・リフレクト
+  | romaji_name         = Seibā Rifurekuto
+  | translated_name     = Saber Reflect
+  | image               = SaberReflection-INOV-EN-R-1E.png
+  | card_type           = Spell
+  | property            = Quick-Play
+  | password            = 35037880
+  | effect_types        = Activation requirement, Effect, Condition
+  | text                = When you take [[Battle damage|battle]] or [[effect damage]] while you [[control]] an "[[X-Saber]]" [[Monster Card|monster]]: Gain [[LP]] equal to the damage you took, and if you do, inflict the same amount of damage to your opponent, then you can [[Add a card|add]] 1 "[[Saber]]" [[Spell Card|Spell]]/[[Trap Card]] or "[[Gottoms]]" card from your [[Main Deck|Deck]] to your [[hand]]. You can only [[activate]] 1 "Saber Reflection" per [[turn]].
+  | fr_text             = Lorsque vous recevez des dommages de combat ou d'effet tant que vous contrôlez un monstre "Sabre X" : gagnez des LP égaux aux dommages que vous avez reçus, et si vous le faites, infligez le même montant de dommages à votre adversaire, puis vous pouvez ajouter 1 Carte Magie/Piège "Sabre" ou 1 carte "Gottoms" depuis votre Deck à votre main. Vous ne pouvez activer qu'1 "Reflet de Sabre" par tour.
+  | de_text             = Wenn du Kampf- oder Effektschaden erhältst, solange du ein „X-Säbel“-Monster kontrollierst: Du erhältst LP in Höhe des Schadens, den du erhalten hast, und falls du dies tust, füge deinem Gegner dieselbe Menge Schaden zu, dann kannst du deiner Hand 1 „Säbel“-Zauber-/Fallenkarte oder „Gottoms“-Karte von deinem Deck hinzufügen. Du kannst nur 1 „Säbelreflexion“ pro Spielzug aktivieren.
+  | it_text             = Quando subisci danno da combattimento o da effetto mentre controlli un mostro "Sciabola-X": guadagni LP pari al danno che hai subito e, se lo fai, infliggi lo stesso ammontare di danno al tuo avversario, poi puoi aggiungere 1 Carta Magia/Trappola "Sciabola" o 1 carta "Gottoms" dal tuo Deck alla tua mano. Puoi attivare solo 1 "Riflessione Sciabola" per turno.
+  | pt_text             = Quando você sofrer dano de batalha ou dano de efeito enquanto você controlar um monstro "Sabre-X": ganhe PV igual ao dano que você sofrer e, se isso acontecer, cause a mesma quantidade de dano ao seu oponente e, depois, você pode adicionar 1 Card de Magia/Armadilha "Sabre" ou card "Gottoms" do seu Deck à sua mão. Você só pode ativar 1 "Reflexo do Sabre" por turno.
+  | es_text             = Cuando recibes daño de batalla o efecto mientras controles un monstruo "Sable-X": gana tantos LP como el daño que recibiste y, si lo haces, inflige la misma cantidad de daño a tu adversario, y después puedes añadir a tu mano 1 Carta Mágica/de Trampa "Sable" o 1 carta "Gottom" en tu Deck. Sólo puedes activar 1 "Reflejo de Sable" por turno.
+  | ja_text             = 「セイバー・リフレクト」は１ターンに１枚しか発動できない。①：自分フィールドに「Ｘ－セイバー」モンスターが存在し、自分が戦闘・効果でダメージを受けた時に発動できる。受けたダメージの数値分だけ自分のＬＰを回復し、その数値分だけ相手にダメージを与える。その後、デッキから「セイバー」魔法・罠カード１枚または「ガトムズ」カード１枚を手札に加える事ができる。
+  | ko_text             = "세이버 리플렉트"는 1턴에 1장밖에 발동할 수 없다. ① : 자신 필드에 "X-세이버" 몬스터가 존재하고, 자신이 전투 / 효과로 데미지를 받았을 때에 발동할 수 있다. 받은 데미지의 수치 만큼만 자신의 LP를 회복하고, 그 수치 만큼만 상대에게 데미지를 준다. 그 후, 덱에서 "세이버" 마법 / 함정 카드 1장 또는 "가톰즈" 카드 1장을 패에 넣을 수 있다.
+  | en_sets             = 
+  INOV-EN090; Invasion: Vengeance; Rare
+  | fr_sets             = 
+  INOV-FR090; Invasion: Vengeance; Rare
+  | de_sets             = 
+  INOV-DE090; Invasion: Vengeance; Rare
+  | it_sets             = 
+  INOV-IT090; Invasion: Vengeance; Rare
+  | pt_sets             = 
+  INOV-PT090; Invasion: Vengeance; Rare
+  | sp_sets             = 
+  INOV-SP090; Invasion: Vengeance; Rare
+  | jp_sets             = 
+  SPRG-JP025; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | kr_sets             = 
+  SPRG-KR025; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | mentions            = Saber Reflection
+  | archseries          = Saber
+  | supports_archetypes = 
+  * X-Saber
+  * Saber
+  * Gottoms
+  | action              = 
+  * Activates if you take battle damage
+  * Activates if you take effect damage
+  * Adds from Deck to hand
+  | life_points         = 
+  * You gain Life Points
+  * Damages your opponent
+  | misc                = Only once per turn
+  | database_id         = 11452
+  }}

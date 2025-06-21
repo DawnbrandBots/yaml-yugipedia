@@ -1,0 +1,57 @@
+title: Margin Trading
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Transactions sur Marge
+  | de_name         = Handelsspanne
+  | it_name         = Margine di Negoziazione
+  | pt_name         = Negociação de Margem
+  | es_name         = Comercio de Margen
+  | ja_name         = {{Ruby|信用取引|マージントレード}}
+  | romaji_name     = Mājin Torēdo
+  | translated_name = Margin Trade
+  | ko_name         = 마진트레이드
+  | ko_rr_name      = Majinteureideu
+  | sc_name         = 信用交易
+  | image           = MarginTrading-DAMA-EN-C-1E.png
+  | card_type       = Spell
+  | property        = Normal
+  | password        = 62632427
+  | effect_types    = Effect, Condition
+  | text            = Your opponent can [[discard]] 1 card to [[negate]] this [[effect]], otherwise both players look at their opponent's [[Main Deck|Deck]] and choose 1 card, then [[Add a card|add]] the card from their own Deck chosen by their opponent to their [[hand]]. You can only [[activate]] 1 "Margin Trading" per turn.
+  | fr_text         = Votre adversaire peut défausser 1 carte pour annuler cet effet, sinon chaque joueur regarde le Deck de son adversaire et choisit 1 carte, puis ajoute la carte depuis son propre Deck choisie par son adversaire à sa main. Vous ne pouvez activer qu'1 "Transactions sur Marge" par tour.
+  | de_text         = Dein Gegner kann 1 Karte abwerfen, um diesen Effekt zu annullieren, andernfalls sehen sich beide Spieler das Deck ihres Gegners an und bestimmen 1 Karte, dann fügen sie die von ihrem Gegner bestimmte Karte von ihrem eigenen Deck ihrer Hand hinzu. Du kannst nur 1 „Handelsspanne“ pro Spielzug aktivieren.
+  | it_text         = Il tuo avversario può scartare 1 carta per annullare questo effetto, altrimenti entrambi i giocatori guardano il Deck dell'avversario e selezionano 1 carta, poi aggiungono la carta del loro Deck scelta dal loro avversario alla loro mano. Puoi attivare solo 1 "Margine di Negoziazione" per turno.
+  | pt_text         = Seu oponente pode descartar 1 card para negar este efeito, caso contrário, os dois duelistas olham o Deck do seu oponente e selecionam 1 card e, depois, adicionam à sua mão o card do seu próprio Deck selecionado pelo seu oponente. Você só pode ativar 1 "Negociação de Margem" por turno.
+  | es_text         = Tu adversario puede descartar 1 carta para negar este efecto, de otro modo ambos jugadores miran el Deck de su adversario y eligen 1 carta, y después añaden a su mano la carta de su propio Deck elegida por su adversario. Sólo puedes activar 1 "Comercio de Margen" por turno.
+  | ja_text         = このカード名のカードは１ターンに１枚しか発動できない。①：相手は手札を１枚捨ててこの効果を無効にできる。捨てなかった場合、お互いのプレイヤーは、それぞれ相手のデッキを確認し、その中からカード１枚を選ぶ。その後、お互いのプレイヤーは、それぞれ相手が選んだカードを手札に加える。
+  | ko_text         = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대는 패를 1장 버리고 이 효과를 무효로 할 수 있다. 버리지 않았을 경우, 양쪽 플레이어는, 각각 상대의 덱을 확인하고, 그 중에서 카드 1장을 고른다. 그 후, 양쪽 플레이어는, 각각 상대가 고른 카드를 패에 넣는다.
+  | sc_text         = 此卡名的卡１回合仅可发动１张。①：对手可舍弃１张手牌将此效果无效。不舍弃的情况下，双方玩家分别确认对手的牌组，从其中挑选１张卡。然后，双方玩家分别将对手所挑选的卡加入手牌。
+  | en_sets         = 
+  DAMA-EN069; Dawn of Majesty; Common
+  | fr_sets         = 
+  DAMA-FR069; Dawn of Majesty; Common
+  | de_sets         = 
+  DAMA-DE069; Dawn of Majesty; Common
+  | it_sets         = 
+  DAMA-IT069; Dawn of Majesty; Common
+  | pt_sets         = 
+  DAMA-PT069; Dawn of Majesty; Common
+  | sp_sets         = 
+  DAMA-SP069; Dawn of Majesty; Common
+  | jp_sets         = 
+  DAMA-JP069; Dawn of Majesty; Normal Rare
+  | kr_sets         = 
+  DAMA-KR069; Dawn of Majesty; Normal Rare
+  | sc_sets         = 
+  MGP6-SC098; Mega Pack 06; Rare
+  | action          = 
+  * Your opponent discards
+  * Reveals cards from your Deck
+  * Reveals cards from your opponent's Deck
+  * Exchanges cards
+  * Adds from Deck to hand
+  * Adds from your opponent's Deck to your opponent's hand
+  | m/s/t           = Negates itself
+  | misc            = Only once per turn
+  | database_id     = 16258
+  }}

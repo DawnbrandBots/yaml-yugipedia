@@ -1,0 +1,60 @@
+title: Level Modulation
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Modulation de Niveau
+  | de_name             = Levelmodulation
+  | ko_name             = 레벨 조정
+  | it_name             = Modulazione del Livello
+  | pt_name             = 
+  | es_name             = Modulación de Nivel
+  | ja_name             = レベル{{Ruby|調|ちょう}}{{Ruby|整|せい}}
+  | romaji_name         = Reberu Chōsei
+  | image               = LevelModulation-DR04-NA-C-UE.png
+  | card_type           = Spell
+  | property            = Normal
+  | password            = 61850482
+  | effect_types        = Effect
+  | text                = Your opponent [[Draw a card|draws]] 2 cards. [[Special Summon]] 1 "[[LV]]" [[Monster Card|monster]] from your [[Graveyard]], [[ignoring the Summoning conditions]]. The monster that was Special Summoned by this [[effect]] cannot [[attack]], nor [[activate]] or apply its effect this [[turn]].
+  | fr_text             = Votre adversaire pioche 2 cartes. Faites l'Invocation Spéciale d'1 monstre de votre Cimetière qui inclut "LV" dans son nom de carte, sans tenir compte des conditions de l'Invocation. Le monstre qui a été Invoqué par Invocation Spéciale par cet effet ne peut ni attaquer, ni activer ou appliquer ses effets ce tour-ci.
+  | de_text             = Dein Gegner zieht 2 Karten. Beschwöre 1 Monster von deinem Friedhof als Spezialbeschwörung, dessen Name „LV“ enthält und ignoriere dessen Beschwörungsbeschränkungen. Das Monster, das durch den Effekt dieser Karte als Spezialbeschwörung beschworen wurde, kann in diesem Zug weder angreifen, noch seine Effekte aktivieren oder ausführen.
+  | it_text             = Il tuo avversario pesca 2 carte. Evoca tramite Evocazione Speciale 1 mostro dal tuo Cimitero che includa "LV" nel nome della carta, senza considerare le condizioni di Evocazione. Il mostro che viene Evocato tramite Evocazione Speciale da questo effetto non può attaccare, né attivare o applicare il proprio effetto questo turno.
+  | pt_text             = 
+  | es_text             = Tu adversario roba 2 cartas. Invoca mediante una Invocación Especial 1 monstruo de tu Cementerio que incluya "LV" en su nombre, sin importar las condiciones de Invocación. Este monstruo no puede atacar ni activar o aplicar sus efectos este turno.
+  | ja_text             = 相手はカードを２枚ドローする。自分の墓地に存在する「ＬＶ」を持つモンスター１体を、召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターは、このターン攻撃できず効果を発動及び適用する事もできない。
+  | ko_text             = 상대는 카드를 2장 드로우한다. 자신의 묘지에 존재하는 "LV"를 가진 몬스터 1장을, 소환 조건을 무시하고 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 이 턴 공격할 수 없으며 효과를 발동 및 적용할 수도 없다.
+  | en_sets             = 
+  EEN-EN039; Elemental Energy; Common
+  DP2-EN019; Duelist Pack: Chazz Princeton; Rare
+  | na_sets             = 
+  DR04-EN099; Dark Revelation Volume 4; Common
+  | fr_sets             = 
+  EEN-FR039; Elemental Energy; Common
+  DP2-FR019; Duelist Pack: Chazz Princeton; Rare
+  | de_sets             = 
+  EEN-DE039; Elemental Energy; Common
+  DP2-DE019; Duelist Pack: Chazz Princeton; Rare
+  | it_sets             = 
+  EEN-IT039; Elemental Energy; Common
+  DP2-IT019; Duelist Pack: Chazz Princeton; Rare
+  | sp_sets             = 
+  EEN-SP039; Elemental Energy; Common
+  DP2-SP019; Duelist Pack: Chazz Princeton; Rare
+  | jp_sets             = 
+  EEN-JP039; Elemental Energy; Common
+  DP2-JP019; Duelist Pack: Chazz Princeton; Rare
+  EE04-JP099; Expert Edition Volume 4; Common
+  | ae_sets             = 
+  EEN-AE039; Elemental Energy; Common
+  | kr_sets             = 
+  DP2-KR019; Duelist Pack: Chazz Princeton; Rare
+  EEN-KR039; Elemental Energy; Common
+  HGP4-KR099; Expert Edition Volume 4; Common
+  | supports_archetypes = LV
+  | action              = Your opponent draws cards
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Ignoring the Summoning conditions
+  | attack              = Prevents your monsters from attacking
+  | database_id         = 6468
+  }}

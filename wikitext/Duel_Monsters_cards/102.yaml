@@ -1,0 +1,117 @@
+title: De-Spell
+wikitext: |-
+  {{Distinguish|"[[Cursebreaker]]"}}
+  {{CardTable2
+  | tc_name               = 魔法除去
+  | fr_name               = Exorcisme
+  | de_name               = Fluchzerstörer
+  | it_name               = Annulla Carta Magia
+  | pt_name               = Remover Magia
+  | es_name               = Exorcismo
+  | ja_name               = {{Ruby|魔|ま}}{{Ruby|法|ほう}}{{Ruby|除|じょ}}{{Ruby|去|きょ}}
+  | romaji_name           = Mahō Jokyo
+  | translated_name       = Magic Removal
+  | ko_name               = 마법 제거
+  | image                 = DeSpell-SBLS-EN-C-1E.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 19159413
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 [[face-up]] [[Spell Card|Spell]], or 1 [[Set]] Spell/[[Trap Card|Trap]], on the [[field]]; [[destroy]] that target if it is a Spell. (If the target is Set, [[reveal]] it.)
+  | fr_text               = Ciblez 1 Magie face recto ou 1 Magie/Piège Posé sur le Terrain ; détruisez la cible si c'est une Magie. (Si la cible est Posée, révélez-la.)
+  | de_text               = Wähle 1 offenen Zauber oder 1 gesetzte/n Zauber/Falle auf dem Spielfeld; zerstöre das gewählte Ziel, falls es ein Zauber ist. (Falls das gewählte Ziel gesetzt ist, zeige es vor.)
+  | it_text               = Scegli come bersaglio 1 Magia scoperta, oppure 1 Magia/Trappola Posizionata, sul Terreno; distruggi quel bersaglio se è una Magia. (Se il bersaglio è Posizionato, rivelalo.)
+  | pt_text               = Escolha 1 Magia com a face para cima ou 1 Magia/Armadilha Baixada no campo; destrua o alvo se for uma Magia. (Se o alvo estiver Baixado, revele-o.)
+  | es_text               = Selecciona 1 Mágica boca arriba, o 1 Mágica/Trampa Colocada, en el Campo; destruye ese objetivo si es una Mágica. (Si el objetivo está Colocado, muéstralo).
+  | ja_text               = ①：フィールドの表側表示の魔法カード１枚またはフィールドにセットされた魔法・罠カード１枚を対象として発動できる。その魔法カードを破壊する（そのカードがフィールドにセットされている場合、めくって確認する）。
+  | ko_text               = 필드 위의 마법 카드 1장을 파괴한다. 선택한 카드가 세트되어 있을 경우, 그 카드를 넘겨서 확인하여 마법 카드이면 파괴한다. 함정 카드일 경우에는 원래대로 되돌린다.
+  | tc_text               = 选择场上1张魔法卡并破坏。被选择的卡牌处于被盖牌的场合，翻阅该卡确认，若为魔法卡进行破坏。陷阱卡的场合则恢复原状。
+  | en_sets               = 
+  SKE-028; Starter Deck: Kaiba Evolution; Common
+  SBLS-EN037; Speed Duel: Arena of Lost Souls; Common
+  | na_sets               = 
+  SDY-029; Starter Deck: Yugi; Common
+  SDK-035; Starter Deck: Kaiba; Common
+  SDJ-029; Starter Deck: Joey; Common
+  SDP-029; Starter Deck: Pegasus; Common
+  | au_sets               = 
+  SDY-A029; Starter Deck: Yugi; Common
+  SDK-A035; Starter Deck: Kaiba; Common
+  | eu_sets               = 
+  SDY-E027; Starter Deck: Yugi; Common
+  SDK-E032; Starter Deck: Kaiba; Common
+  | fr_sets               = 
+  DDY-F027; Starter Deck: Yugi; Common
+  DDK-F032; Starter Deck: Kaiba; Common
+  DDJ-F029; Starter Deck: Joey; Common
+  DDP-F029; Starter Deck: Pegasus; Common
+  SKE-FR028; Starter Deck: Kaiba Evolution; Common
+  SBLS-FR037; Speed Duel: Arena of Lost Souls; Common
+  | fc_sets               = 
+  DDY-C029; Starter Deck: Yugi; Common
+  DDK-C035; Starter Deck: Kaiba; Common
+  | de_sets               = 
+  SDY-G027; Starter Deck: Yugi; Common
+  SDK-G032; Starter Deck: Kaiba; Common
+  SDJ-G029; Starter Deck: Joey; Common
+  SDP-G029; Starter Deck: Pegasus; Common
+  SKE-DE028; Starter Deck: Kaiba Evolution; Common
+  SBLS-DE037; Speed Duel: Arena of Lost Souls; Common
+  | it_sets               = 
+  MIY-I027; Starter Deck: Yugi; Common
+  MIK-I032; Starter Deck: Kaiba; Common
+  MIJ-I029; Starter Deck: Joey; Common
+  MIP-I029; Starter Deck: Pegasus; Common
+  SKE-IT028; Starter Deck: Kaiba Evolution; Common
+  SBLS-IT037; Speed Duel: Arena of Lost Souls; Common
+  | pt_sets               = 
+  DIY-P029; Starter Deck: Yugi; Common
+  DIK-P035; Starter Deck: Kaiba; Common
+  DIJ-P029; Starter Deck: Joey; Common
+  DIP-P029; Starter Deck: Pegasus; Common
+  SKE-PT028; Starter Deck: Kaiba Evolution; Common
+  SBLS-PT037; Speed Duel: Arena of Lost Souls; Common
+  | sp_sets               = 
+  BIY-S029; Starter Deck: Yugi; Common
+  BIK-S035; Starter Deck: Kaiba; Common
+  BIJ-S029; Starter Deck: Joey; Common
+  BIP-S029; Starter Deck: Pegasus; Common
+  SKE-SP028; Starter Deck: Kaiba Evolution; Common
+  SBLS-SP037; Speed Duel: Arena of Lost Souls; Common
+  | jp_sets               = 
+  ; Vol.2; Common
+  ; EX Starter Box; Common
+  PG-57; Phantom God; Rare
+  B2-43; Booster R2; Rare
+  EX-29; EX-R Starter Box; Common
+  YU-43; Structure Deck: Yugi; Common
+  DL2-081; Duelist Legacy Volume.2; Common
+  HD13-JPL13; Half-Deck: LIGHT; Common
+  HD13-JPD13; Half-Deck: DARK; Common
+  HD18-JPL13; Half Deck 2018: LIGHT; Common
+  HD18-JPD13; Half Deck 2018: DARK; Common
+  | ae_sets               = 
+  SDY-029; Starter Deck: Yugi; Common
+  SDK-035; Starter Deck: Kaiba; Common
+  | tc_sets               = 
+  HD13-TCL13; Half-Deck: LIGHT; Common
+  HD13-TCD13; Half-Deck: DARK; Common
+  | kr_sets               = 
+  SDY-K029; Starter Deck: Yugi; Common
+  SDK-K035; Starter Deck: Kaiba; Common
+  SDJ-KR029; Starter Deck: Joey; Common
+  SDP-KR029; Starter Deck: Pegasus; Common
+  SKE-KR028; Starter Deck: Kaiba Evolution; Common
+  | gx03_sets             = 
+  '''[[Powerful Seal (GX03-BP)|Powerful Seal]]''' ([[Common]])
+  | ntr_sets              = 
+  '''[[Shadows in the Labyrinth (NTR-BP)|Shadows in the Labyrinth]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 4 (YGOO-BP)|Pack 4]]'''
+  | action                = Reveals face-down cards
+  | m/s/t                 = 
+  * Destroys face-up Spell Cards
+  * Destroys face-down Spell Cards
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 4843
+  }}

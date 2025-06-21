@@ -1,0 +1,81 @@
+title: Shaddoll Hound
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Chien de Chasse Marionnette de l'Ombre
+  | de_name               = Schattenpuppe Hund
+  | it_name               = Bambolaombra Segugio
+  | pt_name               = Sabujo Sombraneco
+  | es_name               = Sabueso Sombrañeca
+  | ja_name               = シャドール・ハウンド
+  | romaji_name           = Shadōru Haundo
+  | ko_name               = 섀도르 하운드
+  | ko_rr_name            = Syaedoreu Haundeu
+  | sc_name               = 影依・猎犬
+  | image                 = ShaddollHound-SDSH-EN-C-1E.png
+  | attribute             = DARK
+  | types                 = Spellcaster / Flip / Effect
+  | level                 = 4
+  | atk                   = 1600
+  | def                   = 900
+  | password              = 52551211
+  | effect_types          = Flip, Trigger, Condition
+  | text                  = [[Flip effect|FLIP]]: You can [[target]] 1 "[[Shaddoll]]" card in your [[Graveyard|GY]]; [[Add a card|add]] it to your [[hand]].<br />If this card is [[sent]] to the GY by a card [[effect]]: You can target 1 [[Monster Card|monster]] on the [[field]]; change its [[battle position]]. ([[Flip monster]]s' effects are not [[activate]]d at this time, except "Shaddoll" monsters'.) You can only use 1 "Shaddoll Hound" effect per [[turn]], and only once that turn.
+  | fr_text               = FLIP : Vous pouvez cibler 1 carte "Marionnette de l'Ombre" dans votre Cimetière ; ajoutez-la à votre main.<br />Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 monstre sur le Terrain ; changez sa position de combat. (Les effets de monstres Flip, monstres "Marionnette de l'Ombre" exclus, ne sont pas activés à ce moment.) Vous ne pouvez utiliser qu'1 effet de "Chien de Chasse Marionnette de l'Ombre" par tour, et uniquement une fois le tour.
+  | de_text               = FLIPP: Du kannst 1 „Schattenpuppe“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu.<br />Falls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 Monster auf dem Spielfeld wählen; ändere seine Kampfposition. (Die Effekte von Flippmonstern werden dabei nicht aktiviert, außer denen von „Schattenpuppe“-Monstern.) Du kannst nur 1 Effekt von „Schattenpuppe Hund“ pro Spielzug verwenden und in dem Spielzug nur einmal.
+  | it_text               = SCOPRI: Puoi scegliere come bersaglio 1 carta "Bambolaombra" nel tuo Cimitero; aggiungila alla tua mano.<br />Se questa carta viene mandata al Cimitero dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro sul Terreno; cambia la sua posizione. (Gli effetti dei mostri Scoperta non vengono attivati in questa occasione, eccetto quelli dei mostri "Bambolaombra".) Puoi utilizzare solo 1 effetto di "Bambolaombra Segugio" per turno, e solo una volta in quel turno.
+  | pt_text               = VIRE: Você pode escolher 1 card "Sombraneco" no seu Cemitério; adicione-o à sua mão.<br />Se este card for enviado para o Cemitério por um efeito de card: você pode escolher 1 monstro no campo; mude a posição de batalha dele. (Os efeitos de monstros de Virar não são ativados neste momento, exceto os efeitos de monstros "Sombraneco".) Você só pode usar 1 efeito de "Sabujo Sombraneco" por turno e apenas uma vez por turno.
+  | es_text               = VOLTEO: Puedes seleccionar 1 carta "Sombrañeca" en tu Cementerio; añádela a tu mano.<br />Si esta carta es mandada al Cementerio por efecto de una carta: puedes seleccionar 1 monstruo en el Campo; cambia su posición de batalla. (Los efectos de monstruos de Volteo no se activan en este momento, excepto los de monstruos "Sombrañeca"). Sólo puedes usar 1 efecto de "Sabueso Sombrañeca" por turno, y sólo una vez ese turno.
+  | ja_text               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、自分の墓地の「シャドール」カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが効果で墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。この時、「シャドール」モンスター以外のリバースモンスターの効果は発動しない。
+  | ko_text               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 리버스했을 경우, 자신 묘지의 "섀도르" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. ②: 이 카드가 효과로 묘지로 보내졌을 경우, 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 표시 형식을 변경한다. 이때, "섀도르" 몬스터 이외의 리버스 몬스터의 효과는 발동하지 않는다.
+  | sc_text               = 此卡名的①②效果1回合1次，仅可使用其中1个。①：在此卡反转的情况下，可以自己墓地的1张“影依”卡为对象发动。将该卡加入手牌。②：在此卡因效果被送至墓地的情况下，可以1只场上的怪兽为对象发动。更改该怪兽的表示形式。此时，“影依”怪兽以外的反转怪兽的效果不会发动。
+  | en_sets               = 
+  DUEA-ENDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-EN030; The New Challengers; Common
+  MP15-EN149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-EN009; Structure Deck: Shaddoll Showdown; Common
+  | fr_sets               = 
+  DUEA-FRDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-FR030; The New Challengers; Common
+  MP15-FR149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-FR009; Structure Deck: Shaddoll Showdown; Common
+  | de_sets               = 
+  DUEA-DEDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-DE030; The New Challengers; Common
+  MP15-DE149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-DE009; Structure Deck: Shaddoll Showdown; Common
+  | it_sets               = 
+  DUEA-ITDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-IT030; The New Challengers; Common
+  MP15-IT149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-IT009; Structure Deck: Shaddoll Showdown; Common
+  | pt_sets               = 
+  DUEA-PTDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-PT030; The New Challengers; Common
+  MP15-PT149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-PT009; Structure Deck: Shaddoll Showdown; Common
+  | sp_sets               = 
+  DUEA-SPDE4; Duelist Alliance: Deluxe Edition; Super Rare
+  NECH-SP030; The New Challengers; Common
+  MP15-SP149; 2015 Mega-Tin Mega Pack; Common
+  SDSH-SP009; Structure Deck: Shaddoll Showdown; Common
+  | jp_sets               = 
+  NECH-JP030; The New Challengers; Common
+  SD37-JP009; Structure Deck: Rebirth of Shaddoll; Common
+  | kr_sets               = 
+  NECH-KR030; The New Challengers; Common
+  SD37-KR009; Structure Deck: Rebirth of Shaddoll; Common
+  | sc_sets               = 
+  SD37-SC009; Structure Deck: Rebirth of Shaddoll; Common
+  | supports              = Flip monster
+  | archseries            = Shaddoll
+  | supports_archetypes   = Shaddoll
+  | related_to_archseries = tellarknight
+  | action                = 
+  * Activates upon being flipped face-up
+  * Activates from your Graveyard
+  * Adds from Graveyard to hand
+  * Changes battle positions
+  | m/s/t                 = Prevents activation of Flip monsters' effects
+  | misc                  = Only 1 effect once per turn
+  | database_id           = 11362
+  }}

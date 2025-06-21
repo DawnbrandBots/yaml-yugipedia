@@ -1,0 +1,72 @@
+title: Tri-Gate Wizard
+wikitext: |-
+  {{CardTable2
+  | fr_name      = Sorcier Tri-Porte
+  | de_name      = Drei-Gatter-Zauberer
+  | it_name      = Mago Tre-Porte
+  | ko_name      = 트라이게이트 위저드
+  | pt_name      = Mago Tri-Portal
+  | es_name      = Hechicero Triportal
+  | ja_name      = トライゲート・ウィザード
+  | romaji_name  = Toraigēto Wizādo
+  | sc_name      = 三闸极男巫
+  | image        = TriGateWizard-CRBR-EN-R-1E.png
+  | attribute    = EARTH
+  | types        = Cyberse / Link / Effect
+  | link_arrows  = Middle-Left, Top-Center, Middle-Right
+  | atk          = 2200
+  | password     = 32617464
+  | materials    = 2+ monsters, except Tokens
+  | effect_types = Condition, Continuous, Ignition, Quick
+  | text         = 2+ [[Monster Card|monsters]], except [[Token]]s<br />Gains these [[effect]]s based on the number of monsters [[co-linked]] to this card.<br />● 1+: If a monster co-linked to this card [[battle]]s your opponent's monster, any [[battle damage]] it inflicts to your opponent is doubled.<br />● 2+: [[Once per turn]]: You can [[target]] 1 card on the [[field]]; [[banish]] it.<br />● 3: Once per turn, when a card or effect is [[activate]]d ([[Quick Effect]]): You can [[negate]] the activation, and if you do, banish that card.
+  | fr_text      = 2+ monstres (Jetons exclus)<br />Gagne ces effets selon le nombre de monstres co-liés à cette carte.<br />● 1+ : Si un monstre co-lié à cette carte combat un monstre de votre adversaire, les dommages de combat qu'il inflige à votre adversaire sont doublés.<br />● 2+ : Une fois par tour : vous pouvez cibler 1 carte sur le Terrain ; bannissez-la.<br />● 3 : Une fois par tour, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, bannissez la carte.
+  | de_text      = 2+ Monster, außer Spielmarken<br />Diese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, mit denen sie kreuzgelinkt ist.<br />● 1+: Falls ein Monster, das mit dieser Karte kreuzgelinkt ist, gegen ein Monster deines Gegners kämpft, wird der Kampfschaden verdoppelt, den es deinem Gegner zufügt.<br />● 2+: Einmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; verbanne sie.<br />● 3: Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, verbanne jene Karte.
+  | it_text      = 2+ mostri, eccetto i Segna-Mostro<br />Guadagna questi effetti, a seconda del numero di mostri co-linkati a questa carta.<br />● 1+: Se un mostro co-linkato a questa carta combatte con un mostro del tuo avversario, qualsiasi danno da combattimento che infligge al tuo avversario viene raddoppiato.<br />● 2+: Una volta per turno: puoi scegliere come bersaglio 1 carta sul Terreno; bandiscila.<br />● 3: Una volta per turno, quando viene attivata una carta o un effetto (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, bandisci quella carta.
+  | pt_text      = 2+ monstros, exceto Fichas<br />Ganha esses efeitos de acordo com o número de monstros co-linkados a este card.<br />● 1+: Se um monstro co-linkado a este card batalhar um monstro do seu oponente, qualquer dano de batalha que ele causar ao seu oponente é dobrado.<br />● 2+: Uma vez por turno: você pode escolher 1 card no campo; bana-o.<br />● 3: Uma vez por turno, quando um card ou efeito for ativado (Efeito Rápido): você pode negar a ativação e, se isso acontecer, bana esse card.
+  | es_text      = 2+ monstruos, excepto Fichas<br />Gana estos efectos basados en el número de monstruos co-enlazados a esta carta.<br />● 1+: Si un monstruo co-enlazado a esta carta batalla con el monstruo de tu adversario, cualquier daño de batalla que inflige a tu adversario es duplicado.<br />● 2+: Una vez por turno: puedes seleccionar 1 carta en el Campo; destiérrala.<br />● 3: Una vez por turno, cuando es activada una carta o efecto (Efecto Rápido): puedes negar la activación y, si lo haces, destierra esa carta.
+  | ja_text      = トークン以外のモンスター２体以上<br />①：このカードと相互リンクしているモンスターの数によって以下の効果を得る。●１体以上：このカードと相互リンクしているモンスターが相手モンスターと戦闘を行う場合、そのモンスターが相手に与える戦闘ダメージは倍になる。●２体以上：１ターンに１度、フィールドのカード１枚を対象として発動できる。そのカードを除外する。●３体：１ターンに１度、魔法・罠・モンスターの効果が発動した時に発動できる。その発動を無効にし除外する。
+  | ko_text      = 토큰 이외의 몬스터 2장 이상<br />① : 이 카드와 상호 링크하고 있는 몬스터의 수에 따라 이하의 효과를 얻는다. ● 1장 이상 : 이 카드와 상호 링크하고 있는 몬스터가 상대 몬스터와 전투를 실행할 경우, 그 몬스터가 상대에게 주는 전투 데미지는 배가 된다. ● 2장 이상 : 1턴에 1번, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 제외한다. ● 3장 : 1턴에 1번, 마법 / 함정 / 몬스터의 효과가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 제외한다.
+  | sc_text      = 衍生物以外的怪兽2只以上<br />①：根据与此卡相互连接着的怪兽数量获得以下效果。<br />●1只以上：与此卡相互连接着的怪兽与对手怪兽进行战斗的情况下，该怪兽给予对手的战斗伤害变为两倍。●2只以上：1回合1次，以场上的1张卡为对象可以发动。将该卡除外。●3只：1回合1次，魔法・陷阱・怪兽的效果发动时可以发动。将该发动无效并除外。
+  | en_sets      = 
+  SDCL-EN042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-EN050; Crossover Breakers; Rare
+  | fr_sets      = 
+  SDCL-FR042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-FR050; Crossover Breakers; Rare
+  | de_sets      = 
+  SDCL-DE042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-DE050; Crossover Breakers; Rare
+  | it_sets      = 
+  SDCL-IT042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-IT050; Crossover Breakers; Rare
+  | pt_sets      = 
+  SDCL-PT042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-PT050; Crossover Breakers; Rare
+  | sp_sets      = 
+  SDCL-SP042; Structure Deck: Cyberse Link; Ultra Rare
+  CRBR-SP050; Crossover Breakers; Rare
+  | jp_sets      = 
+  SD32-JP042; Structure Deck: Cyberse Link; Ultra Rare
+  | kr_sets      = 
+  SD32-KR042; Structure Deck: Cyberse Link; Ultra Rare
+  | sc_sets      = 
+  MGP1-SC164; Mega Pack 01; Super Rare
+  | m/s/t        = 
+  * Negates the activation of Effect Monster's effect
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  | summoning    = 
+  * 2+ Link Materials
+  * Cannot use Tokens as Link Materials for its Summon
+  | life_points  = Increases battle damage
+  | banished     = 
+  * Banishes from your field
+  * Banishes from your opponent's field
+  * Banishes negated activations
+  | misc         = 
+  * Co-link
+  * Variable effects
+  * Limited activations
+  * Cover card
+  | database_id  = 13203
+  }}

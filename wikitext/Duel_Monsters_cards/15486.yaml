@@ -1,0 +1,77 @@
+title: Necroface
+wikitext: |-
+  {{CardTable2
+  | fr_name      = Visage Nécro
+  | de_name      = Gesicht des Todes
+  | it_name      = Necrovolto
+  | pt_name      = Necroface
+  | es_name      = Necrocara
+  | ja_name      = ネクロフェイス
+  | romaji_name  = Nekurofeisu
+  | ko_name      = 네크로페이스
+  | sc_name      = 死灵脸
+  | image        = Necroface-LDS3-EN-C-1E.png
+  | attribute    = DARK
+  | types        = Zombie / Effect
+  | level        = 4
+  | atk          = 1200
+  | def          = 1800
+  | password     = 28297833
+  | effect_types = Trigger, Trigger
+  | text         = If this card is [[Normal Summon]]ed: [[Shuffle]] all [[banish]]ed cards into the [[Main Deck|Deck]]. This card gains 100 [[ATK]] for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).
+  | fr_text      = Si cette carte est Invoquée Normalement : mélangez toutes les cartes bannies dans le Deck. Cette carte gagne 100 ATK pour chaque carte mélangée dans le Main Deck par cet effet. Si cette carte est bannie : chaque joueur bannit 5 cartes du dessus de son Deck (ou tout son Deck, s'il en a moins de 5).
+  | de_text      = Falls diese Karte als Normalbeschwörung beschworen wird: Mische alle verbannten Karten ins Deck. Diese Karte erhält für jede Karte, die durch diesen Effekt ins Main Deck gemischt wird, 100 ATK. Falls diese Karte verbannt wird: Jeder Spieler verbannt die obersten 5 Karten seines Decks (oder sein gesamtes Deck, falls weniger als 5).
+  | it_text      = Se questa carta viene Evocata Normalmente: mischia nel Deck tutte le carte bandite. Questa carta guadagna 100 ATK per ogni carta mischiata nel Main Deck da questo effetto. Se questa carta viene bandita: ogni giocatore bandisce 5 carte dalla cima del suo Deck (o tutto il suo Deck, se meno di 5).
+  | pt_text      = Se este card for Invocado por Invocação-Normal: embaralhe todos os cards banidos no Deck. Este card ganha 100 de ATK para cada card embaralhado no Deck Principal por este efeito. Se este card for banido: cada duelista bane 5 cards do topo do seu Deck (ou todo o seu Deck, se tiver menos de 5).
+  | es_text      = Si esta carta es Invocada de Modo Normal: baraja todas las cartas desterradas al Deck. Esta carta gana 100 ATK por cada carta barajada al Deck Principal por este efecto. Si esta carta es desterrada: cada jugador destierra 5 cartas de la parte superior de su Deck (o todo su Deck, si son menos de 5).
+  | ja_text      = ①：このカードが召喚に成功した場合に発動する。除外されているお互いのカードを全て持ち主のデッキに戻す。このカードの攻撃力は、この効果でデッキに戻った数×１００アップする。②：このカードが除外された場合に発動する。お互いのプレイヤーは、それぞれ自身のデッキの上からカードを５枚除外する。
+  | ko_text      = 이 카드가 소환에 성공했을 때, 게임에서 제외되어 있는 카드를 전부 덱으로 되돌리고 셔플한다. 이 카드의 공격력은 이 효과로 덱에 되돌린 카드의 매수 x １００포인트 올린다. 이 카드가 게임에서 제외되었을 때, 양쪽 플레이어는 덱의 위에서 카드를 5장 게임에서 제외한다.
+  | sc_text      = ①：此卡召唤成功的情况下发动。将双方被除外的卡全部放回持有者的牌组。此卡的攻击力上升相当于以此效果放回牌组的数量×１００的数值。②：此卡被除外的情况下发动。双方玩家分别从自身牌组上面将５张卡除外。
+  | en_sets      = 
+  GLAS-EN090; Gladiator's Assault; Secret Rare
+  CRMS-ENSE1; Crimson Crisis: Special Edition; Super Rare
+  DPRP-EN039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-EN006; Legendary Duelists: Season 3; Common
+  | fr_sets      = 
+  GLAS-FR090; Gladiator's Assault; Secret Rare
+  CRMS-FRSE1; Crimson Crisis: Special Edition; Super Rare
+  DPRP-FR039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-FR006; Legendary Duelists: Season 3; Common
+  | de_sets      = 
+  GLAS-DE090; Gladiator's Assault; Secret Rare
+  CRMS-DESE1; Crimson Crisis: Special Edition; Super Rare
+  DPRP-DE039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-DE006; Legendary Duelists: Season 3; Common
+  | it_sets      = 
+  GLAS-IT090; Gladiator's Assault; Secret Rare
+  CRMS-ITSE1; Crimson Crisis: Special Edition; Super Rare
+  DPRP-IT039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-IT006; Legendary Duelists: Season 3; Common
+  | pt_sets      = 
+  DPRP-PT039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-PT006; Legendary Duelists: Season 3; Common
+  | sp_sets      = 
+  GLAS-SP090; Gladiator's Assault; Secret Rare
+  CRMS-SPSE1; Crimson Crisis: Special Edition; Super Rare
+  DPRP-SP039; Duelist Pack: Rivals of the Pharaoh; Common
+  LDS3-SP006; Legendary Duelists: Season 3; Common
+  | jp_sets      = 
+  VB09-JP001; The Valuable Book 9 promotional cards; Ultra Rare
+  PGB1-JP025; Prismatic God Box; Millennium Rare
+  | kr_sets      = 
+  PP04-KR024; Premium Pack Vol.4; Ultra Rare
+  | sc_sets      = 
+  TM02-SC068; Theme Pack: Undead Rondo; Super Rare, Secret Rare
+  | action       = 
+  * Activates upon Normal Summon
+  * Activates while banished
+  * Returns the player's banished cards to the Deck by effect
+  * Returns the player's banished cards to the Extra Deck
+  * Returns the opponent's banished cards to the Deck
+  * Returns the opponent's banished cards to the Extra Deck
+  | stat_change  = This card gains ATK
+  | banished     = 
+  * Banishes from the top of your Deck
+  * Banishes from the top of your opponent's Deck
+  | database_id  = 6075
+  }}

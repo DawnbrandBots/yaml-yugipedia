@@ -1,0 +1,116 @@
+title: Remove Trap
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Piège Supprimé
+  | de_name               = Falle entfernen
+  | it_name               = Rimuovi Trappola
+  | ko_name               = 함정해제
+  | pt_name               = Remover Armadilha
+  | es_name               = Trampa de Eliminación
+  | ja_name               = {{Ruby|罠|わな}}はずし
+  | romaji_name           = Wanahazushi
+  | image                 = RemoveTrap-SBC2-NA-C-1E.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 51482758
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 [[face-up]] [[Trap]] on the [[field]]; [[destroy]] it.
+  | fr_text               = Détruit 1 Carte Piège face recto sur le Terrain.
+  | de_text               = Wähle 1 offene Fallenkarte auf dem Spielfeld und zerstöre sie.
+  | it_text               = Distruggi 1 Carta Trappola scoperta sul Terreno.
+  | pt_text               = Destrua 1 Card de Armadilha com a face para cima no campo.
+  | es_text               = Destruye 1 Carta de Trampa boca arriba en el campo.
+  | ja_text               = 表側表示でフィールド上に存在する罠カードを１枚選択して破壊する。
+  | ko_text               = 앞면 표시로 필드 위에 존재하는 함정 카드를 1장 선택하여 파괴한다.
+  | en_sets               = 
+  SYE-033; Starter Deck: Yugi Evolution; Common
+  LOB-EN060; Legend of Blue Eyes White Dragon; Common
+  LOB-EN060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | na_sets               = 
+  LOB-060; Legend of Blue Eyes White Dragon; Common
+  SDY-048; Starter Deck: Yugi; Common
+  SDK-048; Starter Deck: Kaiba; Common
+  SDJ-034; Starter Deck: Joey; Common
+  SDP-034; Starter Deck: Pegasus; Common
+  SBC2-END17; Speed Duel: Battle City Finals; Common
+  | eu_sets               = 
+  LOB-E048; Legend of Blue Eyes White Dragon; Common
+  SDY-E044; Starter Deck: Yugi; Common
+  SDK-E044; Starter Deck: Kaiba; Common
+  | au_sets               = 
+  LOB-A060; Legend of Blue Eyes White Dragon; Common
+  SDK-A048; Starter Deck: Kaiba; Common
+  SDY-A048; Starter Deck: Yugi; Common
+  | fr_sets               = 
+  LDD-F048; Legend of Blue Eyes White Dragon; Common
+  DDY-F044; Starter Deck: Yugi; Common
+  DDK-F044; Starter Deck: Kaiba; Common
+  DDJ-F034; Starter Deck: Joey; Common
+  DDP-F034; Starter Deck: Pegasus; Common
+  SYE-FR033; Starter Deck: Yugi Evolution; Common
+  LOB-FR060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | fc_sets               = 
+  LDD-C060; Legend of Blue Eyes White Dragon; Common
+  DDY-C048; Starter Deck: Yugi; Common
+  DDK-C048; Starter Deck: Kaiba; Common
+  | de_sets               = 
+  LOB-G048; Legend of Blue Eyes White Dragon; Common
+  SDY-G044; Starter Deck: Yugi; Common
+  SDK-G044; Starter Deck: Kaiba; Common
+  SDJ-G034; Starter Deck: Joey; Common
+  SDP-G034; Starter Deck: Pegasus; Common
+  SYE-DE033; Starter Deck: Yugi Evolution; Common
+  LOB-DE060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | it_sets               = 
+  LDD-I048; Legend of Blue Eyes White Dragon; Common
+  MIY-I044; Starter Deck: Yugi; Common
+  MIK-I044; Starter Deck: Kaiba; Common
+  MIJ-I034; Starter Deck: Joey; Common
+  MIP-I034; Starter Deck: Pegasus; Common
+  SYE-IT033; Starter Deck: Yugi Evolution; Common
+  LOB-IT060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | pt_sets               = 
+  LDB-P060; Legend of Blue Eyes White Dragon; Common
+  DIY-P048; Starter Deck: Yugi; Common
+  DIK-P048; Starter Deck: Kaiba; Common
+  DIJ-P034; Starter Deck: Joey; Common
+  DIP-P034; Starter Deck: Pegasus; Common
+  SYE-PT033; Starter Deck: Yugi Evolution; Common
+  LOB-PT060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | sp_sets               = 
+  LDD-S060; Legend of Blue Eyes White Dragon; Common
+  BIY-S048; Starter Deck: Yugi; Common
+  BIK-S048; Starter Deck: Kaiba; Common
+  BIJ-S034; Starter Deck: Joey; Common
+  BIP-S034; Starter Deck: Pegasus; Common
+  SYE-SP033; Starter Deck: Yugi Evolution; Common
+  LOB-SP060; Legend of Blue Eyes White Dragon (25th Anniversary Edition); Common
+  | jp_sets               = 
+  ; Starter Box: Theatrical Release; Common
+  ; Starter Box; Common
+  ; EX Starter Box; Common
+  LB-59; Legend of Blue Eyes White Dragon (Japanese); Common
+  EX-46; EX-R Starter Box; Common
+  DL2-041; Duelist Legacy Volume.2; Common
+  SY2-034; Structure Deck: Yugi Volume 2; Common
+  | ae_sets               = 
+  LOB-060; Legend of Blue Eyes White Dragon; Common
+  SDY-048; Starter Deck: Yugi; Common
+  SDK-048; Starter Deck: Kaiba; Common
+  | kr_sets               = 
+  LOB-K060; Legend of Blue Eyes White Dragon; Common
+  SDY-K048; Starter Deck: Yugi; Common
+  SDK-K048; Starter Deck: Kaiba; Common
+  SDJ-KR034; Starter Deck: Joey; Common
+  SDP-KR034; Starter Deck: Pegasus; Common
+  SYE-KR033; Starter Deck: Yugi Evolution; Common
+  | gx03_sets             = 
+  '''[[Legend of the White Dragon (GX03-BP)|Legend of the White Dragon]]''' ([[Common]])
+  | ntr_sets              = 
+  '''[[Infinite Illusion (NTR-BP)|Infinite Illusion]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 4 (YGOO-BP)|Pack 4]]'''
+  | m/s/t                 = Destroys Trap Cards
+  | database_id           = 4838
+  | tcg_speed_duel_status = Unlimited
+  }}

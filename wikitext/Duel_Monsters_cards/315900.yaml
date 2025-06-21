@@ -1,0 +1,86 @@
+title: Qliphort Scout
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Sentinelle Qliphort
+  | de_name               = Qliphort-Kundschafter
+  | ko_name               = 클리포트 툴
+  | it_name               = Scout Qliphort
+  | pt_name               = Batedor Qliphort
+  | es_name               = Explorador Qlifuerte
+  | ja_name               = クリフォート・ツール
+  | romaji_name           = Kurifōto Tsūru
+  | translated_name       = Qliphort Tool
+  | image                 = QliphortScout-RA04-EN-PlScR-1E.png
+  | attribute             = EARTH
+  | types                 = Machine / Pendulum / Normal
+  | level                 = 5
+  | pendulum_scale        = 9
+  | atk                   = 1000
+  | def                   = 2800
+  | password              = 65518099
+  | pendulum_effect_types = Continuous-like, Condition, Ignition-like
+  | pendulum_effect       = You cannot [[Special Summon]] [[Monster Card|monsters]], except "[[Qli]]" monsters. This [[effect]] cannot be [[negate]]d. [[Once per turn]]: You can [[pay]] 800 [[LP]]; [[Add a card|add]] 1 "Qli" card from your [[Main Deck|Deck]] to your [[hand]], except "Qliphort Scout".
+  | text                  = ''Booting in Replica Mode...<br />An error has occurred while executing C:\[[Sophia, Goddess of Rebirth|sophia]]\[[zefra]].exe<br />Unknown publisher.<br />Allow C:\[[Tierra, Source of Destruction|tierra]]\[[qli]]phort.exe ? <Y/N>...[Y]<br />Booting in Autonomy Mode...''
+  | fr_pendulum_effect    = Vous ne pouvez pas Invoquer Spécialement de monstres (monstres "Qli" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez payer 800 LP ; ajoutez 1 carte "Qli" ("Sentinelle Qliphort" exclu) depuis votre Deck à votre main.
+  | fr_text               = ''Démarrage en Mode Réplique...<br />Une erreur est survenue lors de l'exécution de C:\sophia\zefra.exe<br />Éditeur inconnu.<br />Autoriser C:\tierra\qliphort.exe ? <O/N>...[O]<br />Démarrage en Mode Autonomie...''
+  | de_pendulum_effect    = Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 800 LP zahlen; füge deiner Hand 1 „Qli“-Karte von deinem Deck hinzu, außer „Qliphort-Kundschafter“.
+  | de_text               = ''Replika-Modus wird gebootet...<br />Fehler beim Ausführen von C:\sophia\zefra.exe<br />Unbekannter Entwickler.<br />C:\tierra\qliphort.exe zulassen? <J/N>...[J]<br />Autonomie-Modus wird gebootet...''
+  | it_pendulum_effect    = Non puoi Evocare Specialmente mostri, eccetto mostri "Qli". Questo effetto non può essere annullato. Una volta per turno: puoi pagare 800 LP; aggiungi 1 carta "Qli" dal tuo Deck alla tua mano, eccetto "Scout Qliphort".
+  | it_text               = ''Avvio in Modalità Replica...<br />Si è verificato un errore durante l'esecuzione di C:\sophia\zefra.exe<br />Autore sconosciuto.<br />Permettere l'avvio di C:\tierra\qliphort.exe ? <nowiki><S/N></nowiki>...[S]<br />Avvio in Modalità Autonoma...''
+  | pt_pendulum_effect    = Você não pode Invocar monstros por Invocação-Especial, exceto monstros "Qli". Este efeito não pode ser negado. Uma vez por turno: você pode pagar 800 PV; adicione 1 card "Qli" do seu Deck à sua mão, exceto "Batedor Qliphort".
+  | pt_text               = ''Reiniciando em Modo de Réplica...<br />Um erro aconteceu ao executar C:\sofia\zefra.exe<br />Autor desconhecido.<br />Permitir C:\tierra\qliphort.exe ? <nowiki><S/N></nowiki>...[S]<br />Reiniciando em Modo Autônomo...''
+  | es_pendulum_effect    = No puedes Invocar monstruos de Modo Especial, excepto monstruos "Qli". Este efecto no puede ser negado. Una vez por turno: puedes pagar 800 LP; añade a tu mano 1 carta "Qli" en tu Deck, excepto "Explorador Qlifuerte".
+  | es_text               = ''Iniciando en Modo Réplica...<br />Ocurrió un error mientras se ejecutaba C:\sophia\zefra.exe<br />Editor desconocido.<br />¿Permitir ejecutar C:\tierra\qlifuerte.exe? <nowiki><S/N></nowiki>... [S]<br />Iniciando en Modo Autónomo...''
+  | ja_pendulum_effect    = ①：自分は「クリフォート」モンスターしか特殊召喚できない。この効果は無効化されない。②：１ターンに１度、８００ＬＰを払って発動できる。デッキから「クリフォート・ツール」以外の「クリフォート」カード１枚を手札に加える。
+  | ja_text               = システムをレプリカモードで起動する準備をしています...<br />C：\sophia\sefiroth.exe 実行中にエラーが発生しました。<br />次の不明な発行元からのプログラムを実行しようとしています。<br />C：\tierra\qliphoth.exe の実行を許可しますか？ ＜Y／N＞...［Y］<br />システムを自律モードで起動します。
+  | translated_text       = ''Preparing to boot system in Replica Mode...<br />An error has occurred while executing C:\[[Sophia, Goddess of Rebirth|sophia]]\[[Zefra|sefiroth]].exe<br />Attempting to run the following program from an unknown publisher.<br />Allow to run C:\[[Tierra, Source of Destruction|tierra]]\[[Qliphort|qliphoth]].exe ? <Y/N>...[Y]<br />Booting system in Autonomy Mode.''
+  | ko_pendulum_effect    = ①: 자신은 "클리포트" 몬스터밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 1턴에 1번, 800 LP를 지불하고 발동할 수 있다. 덱에서 "클리포트 툴" 이외의 "클리포트" 카드 1장을 패에 넣는다.
+  | ko_text               = 시스템을 레플리카 모드로 기동할 준비를 하고 있습니다...<br />C:\sophia\sefiroth.exe 실행 중에 에러가 발생했습니다.<br />다음의 알 수 없는 발행원으로부터의 프로그램을 실행하려고 합니다.<br />C:\tierra\qlipoth.exe의 실행을 허가하시겠습니까? ＜Y／N＞...[Y]<br />시스템을 자율 모드로 기동합니다.
+  | en_sets               = 
+  NECH-EN021; The New Challengers; Ultra Rare
+  MP15-EN144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-EN057; Pendulum Evolution; Super Rare
+  RA04-EN236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | fr_sets               = 
+  NECH-FR021; The New Challengers; Ultra Rare
+  MP15-FR144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-FR057; Pendulum Evolution; Super Rare
+  RA04-FR236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  NECH-DE021; The New Challengers; Ultra Rare
+  MP15-DE144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-DE057; Pendulum Evolution; Super Rare
+  RA04-DE236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  NECH-IT021; The New Challengers; Ultra Rare
+  MP15-IT144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-IT057; Pendulum Evolution; Super Rare
+  RA04-IT236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  NECH-PT021; The New Challengers; Ultra Rare
+  MP15-PT144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-PT057; Pendulum Evolution; Super Rare
+  RA04-PT236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  NECH-SP021; The New Challengers; Ultra Rare
+  MP15-SP144; 2015 Mega-Tin Mega Pack; Ultra Rare
+  PEVO-SP057; Pendulum Evolution; Super Rare
+  RA04-SP236; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  | jp_sets               = 
+  NECH-JP021; The New Challengers; Rare
+  20AP-JP098; 20th Anniversary Pack 2nd Wave; Normal Parallel Rare
+  LVP1-JP062; LINK VRAINS Pack; Common
+  | kr_sets               = 
+  NECH-KR021; The New Challengers; Rare
+  20AP-KR098; 20th Anniversary Pack 2nd Wave; Normal Parallel Rare
+  LVP1-KR062; LINK VRAINS Pack; Common
+  | archseries            = Qli
+  | supports_archetypes   = Qli
+  | action                = 
+  * Effect that cannot be negated
+  * Adds from Deck to hand
+  | summoning             = Restricts the player's Special Summons to archetype specific monsters
+  | life_points           = Pays Life Points for cost
+  | misc                  = Limited activations
+  | database_id           = 11353
+  }}

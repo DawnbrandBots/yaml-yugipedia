@@ -1,0 +1,60 @@
+title: Card Blocker
+wikitext: |-
+  {{CardTable2
+  | fr_name      = Bloqueur de Cartes
+  | de_name      = Kartenblocker
+  | ko_name      = 카드 블록커
+  | it_name      = Blocca Carta
+  | pt_name      = 
+  | es_name      = Bloqueador de Cartas
+  | ja_name      = カードブロッカー
+  | romaji_name  = Kādo Burokkā
+  | image        = CardBlocker-RYMP-EN-C-UE.png
+  | attribute    = EARTH
+  | types        = Warrior / Effect
+  | atk          = 400
+  | def          = 400
+  | level        = 3
+  | password     = 42256406
+  | effect_types = Trigger, Trigger, Trigger
+  | text         = When this card is [[Summon]]ed: Change it to [[Defense Position]]. When a [[face-up]] [[Monster Card|monster]] you [[control]] is [[target]]ed for an [[attack]]: You can change the target to this card. When this card is targeted for an attack: You can choose a number from 1 to 3, then [[send]] that many cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]]; this card gains 500 [[DEF]] for each card sent, until the [[End Phase]].
+  | fr_text      = Lorsque cette carte est Invoquée : changez-la en Position de Défense. Lorsqu'un monstre face recto que vous contrôlez est ciblé par une attaque : vous pouvez changer la cible à cette carte. Lorsque cette carte est ciblée par une attaque : vous pouvez choisir un nombre entre 1 et 3, puis envoyez ce nombre de cartes du dessus de votre Deck au Cimetière ; jusqu'à la End Phase, cette carte gagne 500 DEF pour chaque carte envoyée.
+  | de_text      = Wenn diese Karte beschworen wird, wird sie in die Verteidigungsposition geändert. Wenn ein offenes Monster, das du kontrollierst, als Angriffsziel gewählt wird, kannst du das Ziel auf diese Karte ändern. Wenn diese Karte als Angriffsziel gewählt wird, kannst du bis zu 3 der obersten Karten deines Decks auf den Friedhof legen, um diese Karte bis zur End Phase 500 DEF für jede dieser Karten zu geben.
+  | it_text      = Quando questa carta viene Evocata: mettila in Posizione di Difesa. Quando un mostro scoperto che controlli viene scelto come bersaglio per un attacco: puoi cambiare il bersaglio a questa carta. Quando questa carta viene scelta come bersaglio per un attacco: puoi scegliere un numero tra 1 e 3, poi manda quel numero di carte dalla cima del tuo Deck al Cimitero; questa carta guadagna 500 DEF per ogni carta mandata al Cimitero, fino alla End Phase.
+  | pt_text      = 
+  | es_text      = Cuando esta carta es Invocada: cámbiala a Posición de Defensa. Cuando un monstruo boca arriba que controles es seleccionado para un ataque: puedes cambiar el objetivo a esta carta. Cuando esta carta es seleccionada para un ataque: puedes elegir un número de 1 a 3, y después mandar al Cementerio esa misma cantidad de cartas de la parte superior de tu Deck; esta carta gana 500 DEF por cada carta mandada, hasta la End Phase.
+  | ja_text      = このカードは召喚・反転召喚・特殊召喚に成功した時、守備表示になる。自分フィールド上に表側表示で存在するモンスターが攻撃対象に選択された時、このカードに攻撃対象を変更する事ができる。このカードが攻撃対象になった時、自分のデッキのカードを上から３枚まで墓地へ送る事ができる。墓地へ送ったカード１枚につき、このカードの守備力はエンドフェイズ時まで５００ポイントアップする。
+  | ko_text      = 이 카드는 일반 소환, 반전 소환, 특수 소환에 성공했을 때, 수비 표시가 된다. 자신 필드 위에 앞면 표시로 존재하는 몬스터가 공격 대상으로 선택되었을 때, 이 카드로 공격 대상을 변경할 수 있다. 이 카드가 공격 대상이 되었을 때, 자신 덱의 카드를 위에서 3장까지 묘지로 보낼 수 있다. 묘지로 보낸 카드 1장당, 이 카드의 수비력은 엔드 페이즈 시까지 500 포인트 올린다.
+  | en_sets      = 
+  ANPR-EN093; Ancient Prophecy; Secret Rare
+  LCGX-EN044; Legendary Collection 2: The Duel Academy Years Mega Pack; Ultra Rare
+  RYMP-EN015; Ra Yellow Mega Pack; Common
+  | fr_sets      = 
+  ANPR-FR093; Ancient Prophecy; Secret Rare
+  RYMP-FR015; Ra Yellow Mega Pack; Common
+  | de_sets      = 
+  ANPR-DE093; Ancient Prophecy; Secret Rare
+  LCGX-DE044; Legendary Collection 2: The Duel Academy Years Mega Pack; Ultra Rare
+  RYMP-DE015; Ra Yellow Mega Pack; Common
+  | it_sets      = 
+  ANPR-IT093; Ancient Prophecy; Secret Rare
+  LCGX-IT044; Legendary Collection 2: The Duel Academy Years Mega Pack; Ultra Rare
+  RYMP-IT015; Ra Yellow Mega Pack; Common
+  | sp_sets      = 
+  ANPR-SP093; Ancient Prophecy; Secret Rare
+  RYMP-SP015; Ra Yellow Mega Pack; Common
+  | jp_sets      = 
+  LE10-JP004; Limited Edition 10: Chaos Black; Ultra Rare
+  | kr_sets      = 
+  PP03-KR020; Premium Pack Vol.3; Ultra Rare
+  | action       = 
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  * Changes own battle position
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change  = This card gains DEF
+  | attack       = Changes attack targets
+  | database_id  = 7345
+  }}

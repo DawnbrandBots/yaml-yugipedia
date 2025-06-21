@@ -1,0 +1,52 @@
+title: Damage Mage
+wikitext: |-
+  {{CardTable2
+  | tc_name      = 傷害法師
+  | fr_name      = Mage de Dommages
+  | de_name      = Schadensmagierin
+  | it_name      = Maga del Danno
+  | ko_name      = 데미지 메이지
+  | pt_name      = 
+  | es_name      = Maga del Daño
+  | ja_name      = ダメージ・メイジ
+  | romaji_name  = Damēji Meiji
+  | image        = DamageMage-REDU-EN-C-UE.png
+  | attribute    = DARK
+  | types        = Spellcaster / Effect
+  | level        = 3
+  | atk          = 600
+  | def          = 1200
+  | password     = 50613779
+  | effect_types = Trigger
+  | text         = When you take [[Effect damage|damage]] from a card [[effect]]: You can [[Special Summon]] this card from your [[hand]], and if you do, gain [[Life Points]] equal to the damage you took.
+  | fr_text      = Lorsque vous recevez des dommages par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez des Life Points égaux aux dommages que vous avez reçus.
+  | de_text      = Wenn du Schaden von einem Karteneffekt erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhältst du Life Points in Höhe des Schadens, den du erhalten hast.
+  | it_text      = Quando subisci danno dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, guadagni Life Point pari al danno che hai subito.
+  | pt_text      = 
+  | es_text      = Cuando recibes daño del efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, gana tantos Life Points como el daño que recibiste.
+  | ja_text      = カードの効果によって自分がダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージの数値分だけ自分のライフポイントを回復する。
+  | ko_text      = 카드의 효과에 의해서 자신이 데미지를 받았을 때 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 받은 데미지의 수치만큼 자신의 라이프 포인트를 회복한다.
+  | tc_text      = 我方因卡牌效果受到伤害时可发动。从手牌特殊召唤此卡，回复相当于所受伤害点数的我方生命点数。
+  | en_sets      = 
+  REDU-EN002; Return of the Duelist; Common
+  | fr_sets      = 
+  REDU-FR002; Return of the Duelist; Common
+  | de_sets      = 
+  REDU-DE002; Return of the Duelist; Common
+  | it_sets      = 
+  REDU-IT002; Return of the Duelist; Common
+  | sp_sets      = 
+  REDU-SP002; Return of the Duelist; Common
+  | jp_sets      = 
+  REDU-JP002; Return of the Duelist; Common
+  | tc_sets      = 
+  REDU-TC002; Return of the Duelist; Common
+  | kr_sets      = 
+  REDU-KR002; Return of the Duelist; Common
+  | action       = 
+  * Activates from your hand
+  * Activates if you take effect damage
+  | summoning    = Special Summons itself from your hand
+  | life_points  = You gain Life Points
+  | database_id  = 10132
+  }}

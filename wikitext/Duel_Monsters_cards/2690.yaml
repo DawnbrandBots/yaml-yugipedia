@@ -1,0 +1,101 @@
+title: E - Emergency Call
+wikitext: |-
+  {{CardTable2
+  | fr_name               = E - Appel de Détresse
+  | de_name               = E - Eiliger Notruf
+  | it_name               = E - Emergenza
+  | pt_name               = E - Chamada de Emergência
+  | es_name               = E- Llamada de Emergencia
+  | ja_name               = {{Ruby|Ｅ|イー}}－エマージェンシーコール
+  | romaji_name           = Ī - Emājenshī Kōru
+  | ko_name               = E－이멀전시 콜
+  | ko_rr_name            = I - Imeoljeonsi Kol
+  | sc_name               = E－紧急呼救
+  | image                 = EEmergencyCall-BLC1-EN-UR-1E.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 00213326
+  | effect_types          = Effect
+  | text                  = [[Add a card|Add]] 1 "[[Elemental HERO]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]].
+  | fr_text               = Ajoutez 1 monstre "HÉROS Élémentaire" depuis votre Deck à votre main.
+  | de_text               = Füge deiner Hand 1 „Elementar-HELD“-Monster von deinem Deck hinzu.
+  | it_text               = Aggiungi 1 mostro "EROE Elementale" dal tuo Deck alla tua mano.
+  | pt_text               = Adicione 1 monstro "HERÓI do Elemento" do seu Deck à sua mão.
+  | es_text               = Añade a tu mano 1 monstruo "HÉROE Elemental" en tu Deck.
+  | ja_text               = ①：デッキから「Ｅ・ＨＥＲＯ」モンスター１体を手札に加える。
+  | ko_text               = ①: 덱에서 "엘리멘틀 히어로" 몬스터 1장을 패에 넣는다.
+  | sc_text               = ①：从牌组将1只“元素-英雄”怪兽加入手牌。
+  | en_sets               = 
+  EOJ-EN039; Enemy of Justice; Common
+  DP03-EN017; Duelist Pack: Jaden Yuki 2; Common
+  LCGX-EN089; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  RYMP-EN024; Ra Yellow Mega Pack; Secret Rare
+  SDHS-EN029; HERO Strike Structure Deck; Common
+  LDS3-EN108; Legendary Duelists: Season 3; Common
+  BLC1-EN032; Battles of Legend: Chapter 1; Ultra Rare
+  | na_sets               = 
+  DR04-EN219; Dark Revelation Volume 4; Common
+  | fr_sets               = 
+  EOJ-FR039; Enemy of Justice; Common
+  DP03-FR017; Duelist Pack: Jaden Yuki 2; Common
+  RYMP-FR024; Ra Yellow Mega Pack; Secret Rare
+  SDHS-FR029; HERO Strike Structure Deck; Common
+  LDS3-FR108; Legendary Duelists: Season 3; Common
+  BLC1-FR032; Battles of Legend: Chapter 1; Ultra Rare
+  | de_sets               = 
+  EOJ-DE039; Enemy of Justice; Common
+  DP03-DE017; Duelist Pack: Jaden Yuki 2; Common
+  LCGX-DE089; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  RYMP-DE024; Ra Yellow Mega Pack; Secret Rare
+  SDHS-DE029; HERO Strike Structure Deck; Common
+  LDS3-DE108; Legendary Duelists: Season 3; Common
+  BLC1-DE032; Battles of Legend: Chapter 1; Ultra Rare
+  | it_sets               = 
+  EOJ-IT039; Enemy of Justice; Common
+  DP03-IT017; Duelist Pack: Jaden Yuki 2; Common
+  LCGX-IT089; Legendary Collection 2: The Duel Academy Years Mega Pack; Common
+  RYMP-IT024; Ra Yellow Mega Pack; Secret Rare
+  SDHS-IT029; HERO Strike Structure Deck; Common
+  LDS3-IT108; Legendary Duelists: Season 3; Common
+  BLC1-IT032; Battles of Legend: Chapter 1; Ultra Rare
+  | pt_sets               = 
+  SDHS-PT029; HERO Strike Structure Deck; Common
+  LDS3-PT108; Legendary Duelists: Season 3; Common
+  BLC1-PT032; Battles of Legend: Chapter 1; Ultra Rare
+  | sp_sets               = 
+  EOJ-SP039; Enemy of Justice; Common
+  DP03-SP017; Duelist Pack: Jaden Yuki 2; Common
+  RYMP-SP024; Ra Yellow Mega Pack; Secret Rare
+  SDHS-SP029; HERO Strike Structure Deck; Common
+  LDS3-SP108; Legendary Duelists: Season 3; Common
+  BLC1-SP032; Battles of Legend: Chapter 1; Ultra Rare
+  | jp_sets               = 
+  EOJ-JP039; Enemy of Justice; Common
+  DP03-JP017; Duelist Pack: Jaden Yuki 2; Common
+  EE04-JP219; Expert Edition Volume 4; Common
+  SD27-JP028; Structure Deck: HERO's Strike; Common
+  19SP-JP508; Special Pack 20th Anniversary Edition Vol.5; Common, Super Rare
+  PAC1-JP037; Prismatic Art Collection; Normal Parallel Rare, Secret Rare, Prismatic Secret Rare
+  QCCU-JP022; Quarter Century Chronicle side:Unity; Ultra Rare, Secret Rare, Quarter Century Secret Rare
+  | ja_sets               = 
+  SD27-JA028; Structure Deck: HERO's Strike; Common
+  | kr_sets               = 
+  EOJ-KR039; Enemy of Justice; Common
+  DP03-KR017; Duelist Pack: Jaden Yuki 2; Common
+  HGP4-KR219; Expert Edition Volume 4; Common
+  AE02-KR012; Advanced Event Pack 2013 Vol.2; Super Rare
+  SD27-KR028; Structure Deck: HERO's Strike; Common
+  PAC1-KR037; Prismatic Art Collection; Normal Parallel Rare, Secret Rare, Prismatic Secret Rare
+  QCCU-KR022; Quarter Century Chronicle side:Unity; Ultra Rare, Secret Rare, Quarter Century Secret Rare
+  | ae_sets               = 
+  EOJ-AE039; Enemy of Justice; Common
+  DI01-AE018; Duel-Ignition Deck: HERO; Common
+  | sc_sets               = 
+  SD27-SC029; Structure Deck: HERO's Strike; Common
+  | ygo_sets              = 
+  '''[[Pack 40 (YGOO-BP)|Pack 40]]'''
+  | supports_archetypes   = Elemental HERO
+  | related_to_archseries = HERO
+  | action                = Adds from Deck to hand
+  | database_id           = 6672
+  }}

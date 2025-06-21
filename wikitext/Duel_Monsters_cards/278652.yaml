@@ -1,0 +1,68 @@
+title: Box of Friends
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Boîte d'Amis
+  | de_name               = Eine Kiste voller Freunde
+  | it_name               = Scatola di Amici
+  | pt_name               = Caixa de Amigos
+  | es_name               = Caja de Amigos
+  | ja_name               = おもちゃ{{Ruby|箱|ばこ}}
+  | romaji_name           = Omochabako
+  | translated_name       = Toy Box
+  | ko_name               = 장난감상자
+  | ko_rr_name            = Jangnan-gamsangja
+  | image                 = BoxofFriends-GFP2-EN-UR-1E.png
+  | attribute             = LIGHT
+  | types                 = Machine / Effect
+  | level                 = 1
+  | atk                   = 0
+  | def                   = 0
+  | password              = 81587028
+  | effect_types          = Trigger, Condition
+  | text                  = If this card is [[destroy]]ed and [[sent]] to the [[GY]]: You can [[Special Summon]] 2 [[Normal Monster]]s with 0 [[ATK]] or [[DEF]] and different names from your [[Main Deck|Deck]] in [[Defense Position]], but they cannot be used as [[Synchro Material]], also they are destroyed during your next [[End Phase]]. You can only use this [[effect]] of "Box of Friends" [[once per turn]].
+  | fr_text               = Si cette carte est détruite et envoyée au Cimetière : vous pouvez Invoquer Spécialement 2 Monstres Normaux avec 0 ATK ou DEF et de noms différents depuis votre Deck en Position de Défense, mais ils ne peuvent pas être utilisés comme Matériel Synchro, et aussi, ils sont détruits durant votre prochaine End Phase. Vous ne pouvez utiliser cet effet de "Boîte d'Amis" qu'une fois par tour.
+  | de_text               = Falls diese Karte zerstört und auf den Friedhof gelegt wird: Du kannst 2 Normale Monster mit 0 ATK oder DEF und unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören, aber sie können nicht als Synchromaterial verwendet werden, zusätzlich werden sie während deiner nächsten End Phase zerstört. Du kannst diesen Effekt von „Eine Kiste voller Freunde“ nur einmal pro Spielzug verwenden.
+  | it_text               = Se questa carta viene distrutta e mandata al Cimitero: puoi Evocare Specialmente 2 Mostri Normali con ATK o DEF 0 e nomi diversi dal tuo Deck in Posizione di Difesa, ma essi non possono essere utilizzati come Materiale Synchro, inoltre vengono distrutti durante la tua prossima End Phase. Puoi utilizzare questo effetto di "Scatola di Amici" una sola volta per turno.
+  | pt_text               = Se este card for destruído e enviado para o Cemitério: você pode Invocar por Invocação-Especial do seu Deck, 2 Monstros Normais com 0 de ATK ou DEF e nomes diferentes em Posição de Defesa, mas eles não podem ser usados como Matéria Sincro e, além disso, eles são destruídos durante sua próxima Fase Final. Você só pode usar este efeito de "Caixa de Amigos" uma vez por turno.
+  | es_text               = Si esta carta es destruida y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 2 Monstruos Normales con 0 ATK o DEF y nombres diferentes en Posición de Defensa, pero no pueden ser usados como Material de Sincronía, y además son destruidos durante tu próxima End Phase. Sólo puedes usar este efecto de "Caja de Amigos" una vez por turno.
+  | ja_text               = このカード名の効果は１ターンに１度しか使用できない。①：このカードが破壊され墓地へ送られた場合に発動できる。デッキから攻撃力か守備力が０の通常モンスター２体を守備表示で特殊召喚する（同名カードは１枚まで）。この効果で特殊召喚したモンスターはＳ素材にできず、次の自分エンドフェイズに破壊される。
+  | ko_text               = 이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 공격력이나 수비력이 0 인 일반 몬스터 2장을 수비 표시로 특수 소환한다(같은 이름의 카드는 1장까지). 이 효과로 특수 소환한 몬스터는 싱크로 소재로 할 수 없으며, 다음 자신 엔드 페이즈에 파괴된다.
+  | en_sets               = 
+  NUMH-EN013; Number Hunters; Secret Rare
+  AC18-EN002; Yu-Gi-Oh! Advent Calendar (2018); Super Rare
+  GFP2-EN104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | fr_sets               = 
+  NUMH-FR013; Number Hunters; Secret Rare
+  GFP2-FR104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | de_sets               = 
+  NUMH-DE013; Number Hunters; Secret Rare
+  AC18-DE002; Yu-Gi-Oh! Advent Calendar (2018); Super Rare
+  GFP2-DE104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | it_sets               = 
+  NUMH-IT013; Number Hunters; Secret Rare
+  GFP2-IT104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | pt_sets               = 
+  NUMH-PT013; Number Hunters; Secret Rare
+  GFP2-PT104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | sp_sets               = 
+  NUMH-SP013; Number Hunters; Secret Rare
+  GFP2-SP104; Ghosts From the Past: The 2nd Haunting; Ultra Rare
+  | jp_sets               = 
+  CPZ1-JP013; Collectors Pack: ZEXAL Version; Common
+  AC01-JP046; Animation Chronicle 2021; Common, Normal Parallel Rare
+  | kr_sets               = 
+  CPZ1-KR013; Collectors Pack: ZEXAL Version; Common
+  AC01-KR046; Animation Chronicle 2021; Common, Normal Parallel Rare
+  AE21-KR022; Advanced Event Pack 2024 Vol.2 Version 1; Common
+  AE21-KRS22; Advanced Event Pack 2024 Vol.2 Version 2; Common
+  | related_to_archseries = Doll Monster
+  | supports              = Normal Monster
+  | action                = Activates from your Graveyard
+  | m/s/t                 = Destroys your Monster Cards
+  | summoning             = 
+  * Special Summons from your Deck
+  * Cannot be used as a Synchro Material
+  | misc                  = 
+  * Only once per turn
+  | database_id           = 10699
+  }}

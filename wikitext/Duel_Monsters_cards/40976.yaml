@@ -1,0 +1,57 @@
+title: Prevention Star
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Étoile de Vigilance
+  | de_name         = Verhinderungsstern
+  | it_name         = Stella Protettiva
+  | pt_name         = Estrela de Prevenção
+  | es_name         = Estrella de la Prevención
+  | ja_name         = プリベント・スター
+  | romaji_name     = Puribento Sutā
+  | translated_name = Prevent Star
+  | ko_name         = 프리벤트 스타
+  | image           = PreventionStar-CRMS-EN-C-1E.png
+  | card_type       = Spell
+  | property        = Equip
+  | password        = 94303232
+  | effect_types    = Condition, Continuous-like, Trigger-like
+  | text            = [[Equip]] only to a [[Monster Card|monster]] you [[control]], if it was changed from [[face-up]] [[Attack Position]] to face-up [[Defense Position]] this [[turn]]. [[Target|Select]] 1 monster your opponent controls. That monster cannot [[attack]] or change its [[battle position]]. When the equipped monster is [[destroy]]ed and this card is [[sent]] to the [[Graveyard]], [[Banish|remove from play]] the selected monster.
+  | fr_text         = Équipable uniquement à un monstre que vous contrôlez, s'il a été changé de Position d'Attaque face recto en Position de Défense face recto ce tour. Sélectionnez 1 monstre contrôlé par votre adversaire. Ce monstre ne peut pas attaquer ou changer sa position de combat. Lorsque le monstre équipé est détruit et que cette carte est envoyée au Cimetière, retirez du jeu le monstre sélectionné.
+  | de_text         = Rüste nur ein Monster, das du kontrollierst, mit dieser Karte aus, falls es in diesem Spielzug aus der offenen Angriffsposition in die offene Verteidigungsposition geändert wurde. Wähle 1 Monster, das dein Gegner kontrolliert. Das Monster kann weder angreifen noch seine Kampfposition ändern. Wenn das ausgerüstete Monster zerstört und diese Karte auf den Friedhof gelegt wird, entferne das gewählte Monster aus dem Spiel.
+  | it_text         = [[Equip]]aggia solo ad un mostro che [[control]]li, se è passato da scoperto in [[Attack Position|Posizione di Attacco]] a scoperto in [[Defense Position|Posizione di Difesa]] in questo [[turn]]o. [[Target|Scegli]] 1 mostro controllato dal tuo avversario. Quel mostro non può attaccare o cambiare la sua [[Battle position|posizione]]. Quando il mostro equipaggiato viene distrutto e questa carta viene mandata al Cimitero, [[Banish|rimuovi dal gioco]] il mostro scelto.
+  | pt_text         = [[Equip]]e somente em um [[Monster Card|monstro]] que você [[control]]a se ele foi alterado da [[Attack Position|Posição de Ataque]] para a [[Defense Position|Posição de Defesa]] neste [[turn]]o. Selecione 1 monstro que o seu oponente controla. Aquele monstro não pode [[Attack|atacar]] ou alterar a sua Posição de Batalha. Quando o monstro equipado é [[Destroy|destruído]] e esta carta é enviada ao [[Graveyard|Cemitério]], [[Banish|remova do jogo]] o monstro selecionado.
+  | es_text         = Sólo puedes equipar esta carta a un monstruo que controles si fue cambiado de Posición de Ataque boca arriba a Posición de Defensa boca arriba este turno. Selecciona 1 monstruo que controle tu adversario. Ese monstruo no puede atacar o cambiar su posición de batalla. Cuando el monstruo equipado es destruido y esta carta mandada al Cementerio, retira del juego al monstruo seleccionado.
+  | ja_text         = 自分フィールド上に[[Face-up|表側]][[Attack Position|攻撃表示]]で存在する[[Monster Card|モンスター]]の[[Battle position|表示形式]]が表側[[Defense Position|守備表示]]に変更されたターン、そのモンスターにのみ[[Equip|装備]]可能。相手フィールド上に存在するモンスター１体を[[Select|選択]]する。そのモンスターは[[Attack|攻撃]]と表示形式の変更ができない。装備モンスターが[[Destroy|破壊]]される事によってこのカードが[[Graveyard|墓地]]へ送られた時、選択した相手モンスターを[[Banish|ゲームから除外する]]。
+  | ko_text         = 자신 필드 위에 앞면 표시로 존재하는 몬스터의 표시 형식이 앞면 수비 표시로 변경된 턴에, 그 몬스터에만 장착 가능. 상대 필드 위에 존재하는 몬스터 1장을 선택한다. 그 몬스터는 공격과 표시 형식의 변경을 할 수 없다. 장착 몬스터가 파괴되는 것에 의해서 이 카드가 묘지로 보내졌을 때, 선택한 상대 몬스터를 게임에서 제외한다.
+  | en_sets         = 
+  CRMS-EN045; Crimson Crisis; Common
+  DP09-EN017; Duelist Pack: Yusei 2; Common
+  | fr_sets         = 
+  CRMS-FR045; Crimson Crisis; Common
+  DP09-FR017; Duelist Pack: Yusei 2; Common
+  | de_sets         = 
+  CRMS-DE045; Crimson Crisis; Common
+  DP09-DE017; Duelist Pack: Yusei 2; Common
+  | it_sets         = 
+  CRMS-IT045; Crimson Crisis; Common
+  DP09-IT017; Duelist Pack: Yusei 2; Common
+  | sp_sets         = 
+  CRMS-SP045; Crimson Crisis; Common
+  DP09-SP017; Duelist Pack: Yusei 2; Common
+  | jp_sets         = 
+  CRMS-JP045; Crimson Crisis; Common
+  DP09-JP017; Duelist Pack: Yusei 2; Common
+  | kr_sets         = 
+  CRMS-KR045; Crimson Crisis; Common
+  DP09-KR017; Duelist Pack: Yusei 2; Common
+  | ae_sets         = 
+  CRMS-AE045; Crimson Crisis; Common
+  | action          = 
+  * Prevents battle position changes
+  * Activates from your Graveyard
+  | attack          = Prevents your opponent's monsters from attacking
+  | banished        = Banishes from your opponent's field
+  | misc            = 
+  * Equips only to a specific target
+  | database_id     = 8040
+  }}

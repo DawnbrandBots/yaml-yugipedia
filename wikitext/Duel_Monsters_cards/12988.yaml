@@ -1,0 +1,92 @@
+title: Silent Doom
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Jugement Silencieux
+  | de_name               = Stilles Verhängnis
+  | it_name               = Destino Silente
+  | pt_name               = Perdição Silenciosa
+  | es_name               = Perdición Silenciosa
+  | ja_name               = {{Ruby|黙|もく}}する{{Ruby|死|し}}{{Ruby|者|しゃ}}
+  | romaji_name           = Mokusuru Shisha
+  | translated_name       = Silent Dead
+  | ko_name               = 침묵의 죽은자
+  | ko_rr_name            = Chimmuk-ui Juk-eunja
+  | image                 = SilentDoom-KC01-EN-UR-UE.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 42534368
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 [[Normal Monster]] in your [[GY]]; [[Special Summon]] it in [[Defense Position]], but it cannot [[attack]].
+  | fr_text               = Ciblez 1 Monstre Normal dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face recto, mais il ne peut pas attaquer.
+  | de_text               = Wähle 1 Normales Monster in deinem Friedhof; beschwöre es als Spezialbeschwörung in die offene Verteidigungsposition, aber es kann nicht angreifen.
+  | it_text               = Scegli come bersaglio 1 Mostro Normale nel tuo Cimitero; Evocalo Specialmente scoperto in Posizione di Difesa, ma esso non può attaccare.
+  | pt_text               = Escolha 1 Monstro Normal no seu Cemitério; Invoque-o por Invocação-Especial com a face para cima em Posição de Defesa, mas ele não pode atacar.
+  | es_text               = Selecciona 1 Monstruo Normal en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa boca arriba, pero no puede atacar.
+  | ja_text               = ①：自分の墓地の通常モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターは攻撃できない。
+  | ko_text               = ①: 자신 묘지의 일반 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 공격할 수 없다.
+  | en_sets               = 
+  GLAS-EN094; Gladiator's Assault; Secret Rare
+  SDWS-EN020; Warriors' Strike Structure Deck; Common
+  LCJW-EN071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-EN039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-ENK25; Legendary Decks II; Common
+  SDKS-EN024; Structure Deck: Seto Kaiba; Common
+  SBCB-EN101; Speed Duel: Battle City Box; Common
+  KC01-EN043; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | fr_sets               = 
+  GLAS-FR094; Gladiator's Assault; Secret Rare
+  SDWS-FR020; Warriors' Strike Structure Deck; Common
+  LCJW-FR071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-FR039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-FRK25; Legendary Decks II; Common
+  SDKS-FR024; Structure Deck: Seto Kaiba; Common
+  SBCB-FR101; Speed Duel: Battle City Box; Common
+  | de_sets               = 
+  GLAS-DE094; Gladiator's Assault; Secret Rare
+  SDWS-DE020; Warriors' Strike Structure Deck; Common
+  LCJW-DE071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-DE039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-DEK25; Legendary Decks II; Common
+  SDKS-DE024; Structure Deck: Seto Kaiba; Common
+  SBCB-DE101; Speed Duel: Battle City Box; Common
+  | it_sets               = 
+  GLAS-IT094; Gladiator's Assault; Secret Rare
+  SDWS-IT020; Warriors' Strike Structure Deck; Common
+  LCJW-IT071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-IT039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-ITK25; Legendary Decks II; Common
+  SDKS-IT024; Structure Deck: Seto Kaiba; Common
+  SBCB-IT101; Speed Duel: Battle City Box; Common
+  | pt_sets               = 
+  LCJW-PT071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-PT039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-PTK25; Legendary Decks II; Common
+  SDKS-PT024; Structure Deck: Seto Kaiba; Common
+  | sp_sets               = 
+  GLAS-SP094; Gladiator's Assault; Secret Rare
+  SDWS-SP020; Warriors' Strike Structure Deck; Common
+  LCJW-SP071; Legendary Collection 4: Joey's World Mega Pack; Super Rare
+  YSKR-SP039; Starter Deck: Kaiba Reloaded; Common
+  LDK2-SPK25; Legendary Decks II; Common
+  SDKS-SP024; Structure Deck: Seto Kaiba; Common
+  SBCB-SP101; Speed Duel: Battle City Box; Common
+  | jp_sets               = 
+  LE5-009; Limited Edition 5: Kaiba Pack; Ultra Rare
+  SD17-JP023; Structure Deck: Warriors' Strike; Common
+  SDKS-JP026; Structure Deck: Seto Kaiba; Common
+  SSD1-JP015; Speed Start Deck Link Edition; Common
+  KC01-JP043; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | kr_sets               = 
+  SD17-KR023; Structure Deck: Warriors' Strike; Common
+  SDKS-KR026; Structure Deck: Seto Kaiba; Common
+  SSD1-KR015; Speed Start Deck Link Edition; Common
+  | ae_sets               = 
+  SSD1-AE015; Speed Start Deck Link Edition; Common
+  | ntr_sets              = 
+  '''[[Cursed Darkness (NTR-BP)|Cursed Darkness]]'''
+  | supports              = Normal Monster
+  | summoning             = Special Summons from your Graveyard
+  | attack                = Prevents your monsters from attacking
+  | database_id           = 5367
+  | tcg_speed_duel_status = Unlimited
+  }}

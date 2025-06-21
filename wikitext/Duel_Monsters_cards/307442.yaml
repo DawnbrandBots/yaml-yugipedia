@@ -1,0 +1,31 @@
+title: Pegasus/Monster D
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name      = ペガサス／モンスターＤ
+  | romaji_name  = Pegasasu/Monsutā Dī
+  | image        = PegasusMonsterD-BD-JP-C.png
+  | types        = / Effect
+  | atk          = 0
+  | def          = 0
+  | password     = none
+  | effect_types = Summoning condition, Summoning condition, Ignition, Continuous, Continuous
+  | text         = '''Printed Effect'''<br />Cannot be [[Special Summon]]ed. Requires 1 [[Tribute]] to [[Normal Summon]]. Up to twice per turn: You can [[target]] 1 [[Monster Card|monster]] on the [[field]] or in either [[Graveyard]]; [[equip]] that target to this card. This card gains [[ATK]] and [[DEF]] equal to the combined ATK and DEF of the monsters equipped to it by this effect.<div style="text-align: center">-I [[Summon]] "[[Relinquished]]"!-</div>'''Hidden Effect'''<br />This card cannot be [[destroyed by battle]], also when you take [[battle damage]] from attacks involving this card, inflict damage to your opponent, equal to the damage you took.
+  | ja_text      = '''Printed Effect'''<br />このカードは特殊召喚できない。このカードを通常召喚する場合、モンスター１体をリリースして召喚しなければならない。①：１ターンに２度、フィールド上・墓地に存在するモンスター１体を選択し、装備カード扱いとしてこのカードに装備する事ができる。このカードの攻撃力・守備力は、この効果で装備したモンスターのそれぞれの数値分アップする。<div style="text-align: center">―[[Relinquished|サクリファイス]]を召喚！―</div>'''Hidden Effect'''<br />②：このカードは戦闘では破壊されず、このカードの戦闘によって自分が戦闘ダメージを受けた時、受けたダメージを相手ライフに与える。
+  | jp_sets      = 
+  BD-JP004; Pegasus Boss Duel Deck; Common
+  | action       = 
+  * Equips monsters from the player's field to itself
+  * Equips monsters from the opponent's field to itself
+  * Equips monsters from the player's Graveyard to itself
+  * Equips monsters from the opponent's Graveyard to itself
+  | stat_change  = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t        = Treats monsters as Equip Cards
+  | summoning    = Cannot be Special Summoned
+  | attack       = Cannot be destroyed by battle
+  | life_points  = Damages your opponent
+  | misc         = Limited activations
+  }}

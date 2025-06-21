@@ -1,0 +1,47 @@
+title: Splash Capture
+wikitext: |-
+  {{CardTable2
+  | fr_name       = Capture Splash
+  | de_name       = Schwall-Gefangennahme
+  | it_name       = Cattura Splash
+  | ko_name       = 스플래시 캡처
+  | es_name       = Captura Salpicada
+  | ja_name       = スプラッシュ・キャプチャー
+  | romaji_name   = Supurasshu Kyapuchā
+  | image         = 
+  1;   SplashCapture-ORCS-JP-C.jpg   ; SplashCapture-MADU-JP-VG-artwork.png
+  1.1; SplashCapture-ORCS-EN-C-UE.png; SplashCapture-MADU-EN-VG-artwork.png
+  | current_image = 1.1
+  | card_type     = Trap
+  | property      = Normal
+  | password      = 39765115
+  | effect_types  = Activation requirement, Cost, Effect
+  | text          = When your opponent [[Xyz Summon]]s: [[Banish]] 2 [[Fish]]-[[Type]] [[Monster Card|monsters]] from your [[Graveyard]] to [[target]] that [[face-up]] [[Xyz Monster]]; take [[control]] of that target.
+  | fr_text       = Lorsque votre adversaire Invoque par Xyz : bannissez 2 monstres de Type Poisson depuis votre Cimetière pour cibler le Monstre Xyz face recto ; prenez le contrôle de la cible.
+  | de_text       = Wenn dein Gegner ein Monster als Xyz-Beschwörung beschwört: Verbanne 2 Monster vom Typ Fisch von deinem Friedhof, um das offene Xyz-Monster zu wählen; übernimm die Kontrolle über das gewählte Ziel.
+  | it_text       = Quando il tuo avversario Evoca Xyz: bandisci 2 mostri di [[Type|Tipo]] [[Fish|Pesce]] dal tuo Cimitero per [[Target|scegliere come bersaglio]] quel Mostro Xyz scoperto; prendi il controllo di quel bersaglio.
+  | es_text       = Cuando tu adversario Invoca Xyz: destierra 2 monstruos de Tipo Pez en tu Cementerio para seleccionar a ese Monstruo Xyz boca arriba; toma el control de ese objetivo.
+  | ja_text       = 相手がエクシーズ召喚に成功した時、自分の墓地の魚族モンスター２体をゲームから除外して発動できる。そのエクシーズモンスター１体のコントロールを得る。
+  | ko_text       = 상대가 엑시즈 소환에 성공했을 때, 자신 묘지의 어류족 몬스터 2장을 게임에서 제외하고 발동할 수 있다. 그 엑시즈 몬스터 1장의 컨트롤을 얻는다.
+  | en_sets       = 
+  ORCS-EN067; Order of Chaos; Common
+  | fr_sets       = 
+  ORCS-FR067; Order of Chaos; Common
+  | de_sets       = 
+  ORCS-DE067; Order of Chaos; Common
+  | it_sets       = 
+  ORCS-IT067; Order of Chaos; Common
+  | sp_sets       = 
+  ORCS-SP067; Order of Chaos; Common
+  | jp_sets       = 
+  ORCS-JP067; Order of Chaos; Common
+  | kr_sets       = 
+  ORCS-KR067; Order of Chaos; Common
+  | supports      = Fish
+  | anti-supports = Xyz Monster
+  | action        = Takes control of an opponent's monster
+  | banished      = 
+  * Banishes from your Graveyard
+  * Banishes from Graveyard for cost
+  | database_id   = 9941
+  }}

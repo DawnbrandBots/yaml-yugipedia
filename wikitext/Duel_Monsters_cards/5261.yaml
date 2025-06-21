@@ -1,0 +1,166 @@
+title: Kunai with Chain
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Kunai avec Chaîne
+  | de_name               = Kunai mit Kette
+  | it_name               = Kunai con Catena
+  | es_name               = Kunai con Cadena
+  | pt_name               = Kunai com Corrente
+  | ja_name               = {{Ruby|鎖|くさり}}{{Ruby|付|つ}}きブーメラン
+  | romaji_name           = Kusaritsuki Būmeran
+  | translated_name       = Chain-Attached Boomerang
+  | ko_name               = 쇠사슬 부메랑
+  | ko_rr_name            = Soesaseul Bumerang
+  | tc_name               = 鎖鍊飛鏢
+  | sc_name               = 锁链飞镖
+  | image                 = 
+  1; KunaiwithChain-SBC2-NA-C-1E.png; KunaiwithChain-MADU-EN-VG-artwork.png
+  2; KunaiwithChain-SBC1-EN-C-1E.png; KunaiwithChain-TF05-JP-VG-2-artwork.png
+  | current_image         = 1
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 37390589
+  | effect_types          = Effect, Effect, Effect, Continuous-like
+  | text                  = [[Activate]] 1 or both of these [[effect]]s (simultaneously);<br />● When an opponent's [[monster]] [[declare]]s an [[attack]]: [[Target]] the attacking monster; change that target to [[Defense Position]].<br />● Target 1 [[face-up]] monster you [[control]]; [[equip]] this card to that target. It gains 500 [[ATK]].
+  | fr_text               = Activez 1 de ces effets ou les deux (simultanément) ;<br />● Lorsqu'un monstre de l'adversaire déclare une attaque : ciblez le monstre attaquant ; changez la cible en Position de Défense.<br />● Ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. Elle gagne 500 ATK.
+  | de_text               = Aktiviere 1 oder beide dieser Effekte (gleichzeitig);<br />● Wenn ein Monster eines Gegners einen Angriff deklariert: Wähle das angreifende Monster; ändere jenes gewählte Ziel in die Verteidigungsposition.<br />● Wähle 1 offenes Monster, das du kontrollierst; rüste jenes gewählte Ziel mit dieser Karte aus. Es erhält 500 ATK.
+  | it_text               = Attiva 1 o entrambi questi effetti (simultaneamente);<br />● Quando un mostro dell'avversario dichiara un attacco: scegli come bersaglio il mostro attaccante; metti quel bersaglio in Posizione di Difesa.<br />● Scegli come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel bersaglio. Esso guadagna 500 ATK.
+  | pt_text               = Ative 1 ou os dois efeitos abaixo (simultaneamente);<br />● Quando um monstro do oponente declarar um ataque: escolha o monstro atacante; mude o alvo para a Posição de Defesa.<br />● Escolha 1 monstro com a face para cima que você controla; equipe este card no alvo. Ele ganha 500 de ATK.
+  | es_text               = Activa 1 o ambos de estos efectos (simultáneamente);<br />● Cuando un monstruo del adversario declara un ataque: selecciona el monstruo atacante; cambia ese objetivo a Posición de Defensa.<br />● Selecciona 1 monstruo boca arriba que controles; equipa esta carta a ese objetivo. Éste gana 500 ATK.
+  | ja_text               = ①：以下の効果から１つ、または両方を選択してこのカードを発動できる。<br />●相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。その攻撃モンスターを守備表示にする。<br />●自分フィールドの表側表示モンスター１体を対象として発動できる。このカードを攻撃力５００アップの装備カード扱いとして、その自分のモンスターに装備する。
+  | ko_text               = ①: 이하의 효과에서 1개, 또는 양쪽을 선택하고 이 카드를 발동할 수 있다.<br />●상대 몬스터의 공격 선언시에, 그 공격 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 공격 몬스터를 수비 표시로 한다.<br />●자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 공격력 500 올리는 장착 카드로 취급하고, 그 자신 몬스터에 장착한다.
+  | tc_text               = 可从以下效果之中选择1个或2个来发动。<br />●可以在对手怪兽的攻击宣言时发动。将1只攻击怪兽变为守备表示。<br />●发动后此卡变为使攻击力提升500点的装备卡，装备我方场上的1只怪兽。
+  | sc_text               = ①：从以下效果中选择1个或者两者，可以发动此卡。<br />●对手怪兽攻击宣言时，可以1只该攻击怪兽为对象发动。将该攻击怪兽变成守备表示。<br />●可以自己场上的1只表侧表示的怪兽为对象发动。此卡视为攻击力上升500的装备卡，装备该自己的怪兽。
+  | en_sets               = 
+  TDGS-EN098; The Duelist Genesis; Super Rare
+  SDWS-EN033; Warriors' Strike Structure Deck; Common
+  BP01-EN087; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-EN198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-EN035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-EN081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-EN210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-EN048; Millennium Pack; Rare
+  LDK2-ENJ36; Legendary Decks II; Common
+  SS02-ENB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-EN026; Speed Duel Tournament Pack 4; Common
+  SBC1-ENB19; Speed Duel: Streets of Battle City; Common
+  STAS-EN025; 2-Player Starter Set; Common
+  RA03-EN204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | na_sets               = 
+  DT05-EN048; Duel Terminal 5a; Duel Terminal Normal Parallel Rare
+  SBC2-ENC20; Speed Duel: Battle City Finals; Common
+  | fr_sets               = 
+  TDGS-FR098; The Duelist Genesis; Super Rare
+  SDWS-FR033; Warriors' Strike Structure Deck; Common
+  BP01-FR087; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-FR198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-FR035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-FR081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-FR210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-FR048; Millennium Pack; Rare
+  LDK2-FRJ36; Legendary Decks II; Common
+  SS02-FRB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-FR026; Speed Duel Tournament Pack 4; Common
+  SBC1-FRB19; Speed Duel: Streets of Battle City; Common
+  STAS-FR025; 2-Player Starter Set; Common
+  RA03-FR204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  TDGS-DE098; The Duelist Genesis; Super Rare
+  SDWS-DE033; Warriors' Strike Structure Deck; Common
+  BP01-DE087; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-DE198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-DE035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-DE081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-DE210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-DE048; Millennium Pack; Rare
+  LDK2-DEJ36; Legendary Decks II; Common
+  SS02-DEB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-DE026; Speed Duel Tournament Pack 4; Common
+  SBC1-DEB19; Speed Duel: Streets of Battle City; Common
+  STAS-DE025; 2-Player Starter Set; Common
+  RA03-DE204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  TDGS-IT098; The Duelist Genesis; Super Rare
+  SDWS-IT033; Warriors' Strike Structure Deck; Common
+  BP01-IT087; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-IT198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-IT035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-IT081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-IT210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-IT048; Millennium Pack; Rare
+  LDK2-ITJ36; Legendary Decks II; Common
+  SS02-ITB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-IT026; Speed Duel Tournament Pack 4; Common
+  SBC1-ITB19; Speed Duel: Streets of Battle City; Common
+  STAS-IT025; 2-Player Starter Set; Common
+  RA03-IT204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  BP02-PT198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-PT035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-PT081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-PT210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-PT048; Millennium Pack; Rare
+  LDK2-PTJ36; Legendary Decks II; Common
+  SS02-PTB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-PT026; Speed Duel Tournament Pack 4; Common
+  SBC1-PTB19; Speed Duel: Streets of Battle City; Common
+  STAS-PT025; 2-Player Starter Set; Common
+  RA03-PT204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  TDGS-SP098; The Duelist Genesis; Super Rare
+  SDWS-SP033; Warriors' Strike Structure Deck; Common
+  BP01-SP087; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-SP198; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-SP035; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  LCJW-SP081; Legendary Collection 4: Joey's World Mega Pack; Common
+  BP03-SP210; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  MIL1-SP048; Millennium Pack; Rare
+  LDK2-SPJ36; Legendary Decks II; Common
+  SS02-SPB18; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  STP4-SP026; Speed Duel Tournament Pack 4; Common
+  SBC1-SPB19; Speed Duel: Streets of Battle City; Common
+  STAS-SP025; 2-Player Starter Set; Common
+  RA03-SP204; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | jp_sets               = 
+  ; Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories promotional cards; Ultra Rare
+  JY-31; Structure Deck: Joey; Common
+  P5-04; Premium Pack 5; Ultra Rare, Ultra Parallel Rare
+  SJ2-036; Structure Deck: Joey Volume 2; Common
+  TP03-JP011; Tournament Pack 2007 Vol.3; Common
+  SD17-JP035; Structure Deck: Warriors' Strike; Common
+  DT09-JP048; Duel Terminal - Vylon Descends!!; Duel Terminal Normal Parallel Rare
+  SD25-JP036; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  15AX-JPM50; Duelist Road -Piece of Memory- Side: Yugi Muto; Common, Millennium Rare
+  HD18-JPL20; Half Deck 2018: LIGHT; Common
+  HD18-JPD20; Half Deck 2018: DARK; Common
+  DR01-JPC27; Duel Royale Deck Set EX; Common
+  | kr_sets               = 
+  TP03-KR011; Tournament Pack 2009 Vol.3 (Korean); Common
+  SD17-KR035; Structure Deck: Warriors' Strike; Common
+  SD25-KR036; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  15AX-KRM50; Duelist Road -Piece of Memory- Side: Yugi Muto; Common, Millennium Rare
+  | tc_sets               = 
+  SD25-TC036; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  | sc_sets               = 
+  SD25-SC036; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  | gx03_sets             = 
+  '''[[Powerful Seal (GX03-BP)|Powerful Seal]]''' ([[Ultra Rare]])
+  | ntr_sets              = 
+  '''[[Flight to a New World (NTR-BP)|Flight to a New World]]''' ([[Ultra Rare]])
+  | ygo_sets              = 
+  '''[[Pack 16 (YGOO-BP)|Pack 16]]'''
+  | archseries            = with Chain
+  | related_to_archseries = 
+  * Flame Swordsman (series)
+  * Red-Eyes
+  * Salamandra (archetype)
+  | action                = 
+  * Activates upon attack declaration
+  * Equips self from field
+  * Changes battle positions
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = Treated as Equip Card
+  | misc                  = Variable effects
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 4657
+  }}

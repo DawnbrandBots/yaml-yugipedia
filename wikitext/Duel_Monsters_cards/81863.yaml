@@ -1,0 +1,63 @@
+title: Psychic Commander
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Commandant Psychique
+  | de_name         = Psi-Befehlshaber
+  | it_name         = Comandante Psichico
+  | es_name         = Comandante Psíquico
+  | ja_name         = サイコ・コマンダー
+  | romaji_name     = Saiko Komandā
+  | translated_name = Psycho Commander
+  | ko_name         = 사이코 코멘더
+  | sc_name         = 念力指挥官
+  | image           = 
+  1;   PsychicCommander-DE03-JP-C.png   ; PsychicCommander-TF05-JP-VG-artwork.png
+  1.1; PsychicCommander-TU04-EN-R-UE.jpg; PsychicCommander-TF04-EN-VG-artwork.png
+  | current_image   = 1.1
+  | attribute       = EARTH
+  | types           = Psychic / Tuner
+  | level           = 3
+  | atk             = 1400
+  | def             = 800
+  | password        = 21454943
+  | effect_types    = Quick
+  | text            = When a [[Psychic]]-[[Type]] [[Monster Card|monster]] you [[control]] [[battle]]s, during the [[Damage Step]] you can [[pay]] [[Life Points]] in multiples of 100 (max. 500) to have the monster it's battling lose that much [[ATK]] and [[DEF]], until the [[End Phase]].
+  | fr_text         = Lorsqu'un monstre de Type Psychique que vous contrôlez combat, durant la Damage Step vous pouvez payer des Life Points en multiples de 100 (max. 500) pour que le monstre qu'il combat perde ce même montant en ATK et DEF, jusqu'à la End Phase.
+  | it_text         = Quando un mostro di Tipo [[Psychic|Psichico]] che [[control]]li combatte, durante il [[Damage Step]] puoi [[Pay|pagare]] [[Life Points]] in multipli di 100 (massimo 500) per far perdere al mostro con cui sta combattendo altrettanto [[ATK]] e [[DEF]], fino alla [[End Phase]].
+  | de_text         = Wenn ein [[Monster Card|Monster]] vom [[Type|Typ]] [[Psychic|Psi]] kämpft, das du [[Control|kontrollierst]], kannst du während des [[Damage Step]]s [[Life Points]] in Vielfachen von 100 (max. 500) [[Pay|zahlen]], um das Monster, gegen das es kämpft, bis zur [[End Phase]] so viele [[ATK]] und [[DEF]] verlieren zu lassen.
+  | pt_text         = 
+  | es_text         = Cuando batalle un monstruo de Tipo [[Psychic|Psíquico]] que controles, durante el [[Damage Step]] puedes pagar [[Life Points]] en múltiplos de 100 (max. 500) para hacer que el monstruo contra el que batalla pierda esa cantidad de [[ATK]] y [[DEF]] hasta la [[End Phase]].
+  | ja_text         = 自分フィールド上のサイキック族モンスターが相手モンスターと戦闘を行うダメージステップ時に１度だけ、１００の倍数のライフポイントを払って発動できる（最大５００まで）。このターンのエンドフェイズ時まで、戦闘を行う相手モンスター１体の攻撃力・守備力は払った数値分ダウンする。
+  | ko_text         = 자신 필드 위에 존재하는 사이킥족몬스터가 전투를 실시하는 경우, 그 데미지 스텝시에 １００의 배수의 라이프 포인트를 지불해 발동할 수 있다(최대 ５００까지). 이 턴의 엔드 페이즈까지, 전투를 실시하는 상대 몬스터 １장의 공격력·수비력은 지불한 수치만큼 내린다.
+  | sc_text         = ①：每次自己的念动力族怪兽与对手怪兽进行战斗，从伤害步骤开始时到伤害计算前为止仅有1次，以该1只对手怪兽为对象，支付100的倍数的LP可以发动（最多500）。进行该战斗的对手怪兽的攻击力・守备力直至回合结束时为止，下降所支付的数值。
+  | en_sets         = 
+  TDGS-EN020; The Duelist Genesis; Common
+  TU04-EN008; Turbo Pack: Booster Four; Rare
+  | fr_sets         = 
+  TDGS-FR020; The Duelist Genesis; Common
+  TU04-FR008; Turbo Pack: Booster Four; Rare
+  | de_sets         = 
+  TDGS-DE020; The Duelist Genesis; Common
+  TU04-DE008; Turbo Pack: Booster Four; Rare
+  | it_sets         = 
+  TDGS-IT020; The Duelist Genesis; Common
+  TU04-IT008; Turbo Pack: Booster Four; Rare
+  | sp_sets         = 
+  TDGS-SP020; The Duelist Genesis; Common
+  TU04-SP008; Turbo Pack: Booster Four; Rare
+  | jp_sets         = 
+  TDGS-JP020; The Duelist Genesis; Common
+  DE03-JP008; Duelist Edition Volume 3; Common
+  | kr_sets         = 
+  TDGS-KR020; The Duelist Genesis; Common
+  | sc_sets         = 
+  25BZ-SC114; Duelist Advance Patchwork Pack; Common
+  | ygo_sets        = 
+  '''[[Pack 49 (YGOO-BP)|Pack 49]]'''
+  | supports        = Psychic
+  | stat_change     = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | life_points     = Pays Life Points for cost
+  | database_id     = 7718
+  }}

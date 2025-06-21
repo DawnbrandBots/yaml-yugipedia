@@ -1,0 +1,63 @@
+title: Disposable Learner Device
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Appareil d'Apprentis Jetables
+  | de_name               = Entbehrlicher Gerätebenutzer
+  | it_name               = Dispositivo di Apprendimento Usa e Getta
+  | pt_name               = Aparelho de Aprendiz Descartável
+  | es_name               = Dispositivo de Aprendizaje de Desechables
+  | ja_name               = {{Ruby|使|つか}}い{{Ruby|捨|す}}て{{Ruby|学習装置|ラーニングマシン}}
+  | romaji_name           = Tsukaisute Rāningu Mashin
+  | translated_name       = Disposable Learning Machine
+  | ko_name               = 일회용 러닝머신
+  | ko_rr_name            = Ilhwiyong Reoningmeosik
+  | image                 = DisposableLearnerDevice-SGX2-EN-C-1E.png
+  | card_type             = Spell
+  | property              = Equip
+  | password              = 42149850
+  | effect_types          = Continuous-like, Trigger-like, Condition
+  | text                  = The [[equip]]ped [[Monster Card|monster]] gains 200 [[ATK]] for each monster in your [[Graveyard|GY]]. During the [[End Phase]], if this card is in the GY because it was [[Send|sent]] there from the [[field]] this [[turn]]: You can [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use this [[effect]] of "Disposable Learner Device" [[once per turn]].
+  | fr_text               = Le monstre équipé gagne 200 ATK pour chaque monstre dans votre Cimetière. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée depuis le Terrain ce tour : vous pouvez Poser cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de "Appareil d'Apprentis Jetables" qu'une fois par tour.
+  | de_text               = Das ausgerüstete Monster erhält für jedes Monster in deinem Friedhof 200 ATK. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug vom Spielfeld dorthin gelegt wurde: Du kannst diese Karte setzen, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Entbehrlicher Gerätebenutzer“ nur einmal pro Spielzug verwenden.
+  | it_text               = Il mostro equipaggiato guadagna 200 ATK per ogni mostro nel tuo Cimitero. Durante la End Phase, se questa carta è nel Cimitero perché è stata mandata lì dal Terreno in questo turno: puoi Posizionare questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare questo effetto di "Dispositivo di Apprendimento Usa e Getta" una sola volta per turno.
+  | pt_text               = O monstro equipado ganha 200 de ATK para cada monstro no seu Cemitério. Durante a Fase Final, se este card estiver no Cemitério porque foi enviado do campo para lá neste turno: você pode Baixar este card, mas bana-o quando ele deixar o campo. Você só pode usar este efeito de "Aparelho de Aprendiz Descartável" uma vez por turno.
+  | es_text               = El monstruo equipado gana 200 ATK por cada monstruo en tu Cementerio. Durante la End Phase, si esta carta está en el Cementerio porque este turno fue mandada allí desde el Campo: puedes Colocar esta carta, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de "Dispositivo de Aprendizaje de Desechables" una vez por turno.
+  | ja_text               = このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は、自分の墓地のモンスターの数×２００アップする。②：このカードがフィールドから墓地へ送られたターンのエンドフェイズに発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
+  | ko_text               = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 장착 몬스터의 공격력은, 자신 묘지의 몬스터의 수 × 200 올린다. ②: 이 카드가 필드에서 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 이 카드를 자신 필드에 세트한다. 이 효과로 세트한 이 카드는 필드에서 벗어났을 경우에 제외된다.
+  | en_sets               = 
+  IGAS-EN065; Ignition Assault; Common
+  MP21-EN027; 2021 Tin of Ancient Battles; Common
+  SGX2-ENE08; Speed Duel GX: Midterm Paradox; Common
+  | fr_sets               = 
+  IGAS-FR065; Ignition Assault; Common
+  MP21-FR027; 2021 Tin of Ancient Battles; Common
+  SGX2-FRE08; Speed Duel GX: Midterm Paradox; Common
+  | de_sets               = 
+  IGAS-DE065; Ignition Assault; Common
+  MP21-DE027; 2021 Tin of Ancient Battles; Common
+  SGX2-DEE08; Speed Duel GX: Midterm Paradox; Common
+  | it_sets               = 
+  IGAS-IT065; Ignition Assault; Common
+  MP21-IT027; 2021 Tin of Ancient Battles; Common
+  SGX2-ITE08; Speed Duel GX: Midterm Paradox; Common
+  | pt_sets               = 
+  IGAS-PT065; Ignition Assault; Common
+  MP21-PT027; 2021 Tin of Ancient Battles; Common
+  SGX2-PTE08; Speed Duel GX: Midterm Paradox; Common
+  | sp_sets               = 
+  IGAS-SP065; Ignition Assault; Common
+  MP21-SP027; 2021 Tin of Ancient Battles; Common
+  SGX2-SPE08; Speed Duel GX: Midterm Paradox; Common
+  | jp_sets               = 
+  IGAS-JP065; Ignition Assault; Common
+  | kr_sets               = 
+  IGAS-KR065; Ignition Assault; Common
+  | action                = 
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | stat_change           = Equipped gains ATK
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = Only once per turn
+  | database_id           = 14874
+  | tcg_speed_duel_status = Unlimited
+  }}

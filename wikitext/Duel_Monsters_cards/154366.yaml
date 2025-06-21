@@ -1,0 +1,46 @@
+title: Power-Up Adapter
+wikitext: |-
+  {{CardTable2
+  | image               = PowerUpAdapter-EXVC-EN-C-UE.png
+  | fr_name             = Prise Électrique
+  | de_name             = Aufladungsadapter
+  | it_name             = Adattatore Potenziante
+  | ko_name             = 파워업 커넥터
+  | es_name             = Adaptador de Encendido
+  | ja_name             = パワーアップ・コネクター
+  | romaji_name         = Pawā Appu Konekutā
+  | translated_name     = Power-Up Connector
+  | card_type           = Trap
+  | property            = Normal
+  | password            = 78586116
+  | effect_types        = Effect, Continuous-like, Trigger-like
+  | text                = After [[activation]], treat this card as an [[Equip Card]] and [[equip]] it to 1 [[face-up]] "[[Morphtronic]]" [[Monster Card|monster]] you [[control]]. The equipped monster cannot [[attack]]. Then, [[Target|select]] 1 face-up monster on the [[field]], except the equipped monster. It gains [[ATK]] equal to the ATK of the equipped monster.
+  | fr_text             = Après activation, traitez cette carte comme une Carte d'Équipement et équipez-la à 1 monstre "Morphtronique" face recto que vous contrôlez. Le monstre équipé ne peut pas attaquer. Ensuite, sélectionnez 1 monstre face recto sur le Terrain, excepté le monstre équipé. Il gagne un montant d'ATK égal à l'ATK du monstre équipé.
+  | de_text             = Behandle diese Karte nach der Aktivierung als Ausrüstungskarte und rüste 1 offenes „Morphtronisch“-Monster damit aus, das du kontrollierst. Das ausgerüstete Monster kann nicht angreifen. Wähle dann 1 offenes Monster auf dem Spielfeld, außer dem ausgerüsteten Monster. Es erhält ATK in Höhe der ATK des ausgerüsteten Monsters.
+  | it_text             = Dopo l'attivazione, considera questa carta come una Carta Equipaggiamento ed equipaggiala ad 1 mostro "Morfotronico" scoperto che controlli. Il mostro equipaggiato non può attaccare. Poi, scegli 1 mostro scoperto sul Terreno, eccetto il mostro equipaggiato. Esso guadagna ATK pari all'ATK del mostro equipaggiato.
+  | es_text             = Después de la activación, trata esta carta como una Carta de Equipo y equípala a 1 monstruo "Morfotrónico/a" boca arriba que controles. El monstruo equipado no puede atacar. Después, selecciona 1 monstruo boca arriba en el Campo, excepto el monstruo equipado. El monstruo gana ATK igual al ATK del monstruo equipado.
+  | ja_text             = 発動後このカードは装備カードとなり、自分フィールド上に表側表示で存在する「Ｄ」と名のついたモンスター１体に装備する。装備モンスターは攻撃をする事ができない。この効果で装備された時、装備モンスター以外のフィールド上に表側表示で存在するモンスター１体を選択する。選択したモンスターの攻撃力は装備モンスターの攻撃力分アップする。
+  | ko_text             = 발동 후, 이 카드는 장착 카드가 되어, 자신 필드 위에 앞면 표시로 존재하는 "D(디포머)" 라는 이름이 붙은 몬스터 1장에 장착한다. 장착 몬스터는 공격을 할 수 없다. 이 효과로 장착되었을 때, 장착 몬스터 이외의 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택한다. 선택한 몬스터의 공격력은 장착 몬스터의 공격력만큼 올린다.
+  | en_sets             = 
+  EXVC-EN064; Extreme Victory; Common
+  | fr_sets             = 
+  EXVC-FR064; Extreme Victory; Common
+  | de_sets             = 
+  EXVC-DE064; Extreme Victory; Common
+  | it_sets             = 
+  EXVC-IT064; Extreme Victory; Common
+  | sp_sets             = 
+  EXVC-SP064; Extreme Victory; Common
+  | jp_sets             = 
+  EXVC-JP064; Extreme Victory; Common
+  | kr_sets             = 
+  EXVC-KR064; Extreme Victory; Common
+  | supports_archetypes = Morphtronic
+  | action              = Equips self from field
+  | stat_change         = 
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
+  | m/s/t               = Treated as Equip Card
+  | attack              = Prevents equipped monster from attacking
+  | database_id         = 9535
+  }}

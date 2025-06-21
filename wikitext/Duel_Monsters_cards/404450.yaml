@@ -1,0 +1,61 @@
+title: Star Pendulumgraph
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Pendulegraphe des Étoiles
+  | de_name             = Stern-Pendelgraf
+  | it_name             = Pendulumgrafo delle Stelle
+  | ko_name             = 성상의 펜듈럼그래프
+  | pt_name             = Estrela Pêndulografa
+  | es_name             = Péndulografo de las Estrellas
+  | ja_name             = {{Ruby|星|せい}}{{Ruby|霜|そう}}のペンデュラムグラフ
+  | romaji_name         = Seisō no Pendyuramugurafu
+  | translated_name     = Time Pendulumgraph
+  | sc_name             = 星霜的灵摆读阵
+  | image               = StarPendulumgraph-PEVO-EN-UR-1E.png
+  | card_type           = Spell
+  | property            = Continuous
+  | password            = 74850403
+  | effect_types        = Continuous-like, Trigger-like, Condition
+  | text                = Your opponent cannot [[target]] [[Spellcaster]]-[[Type]] [[Monster Card|monsters]] you [[control]] with [[Spell Card]]s or [[effect]]s. If a [[face-up]] "[[Magician]]" [[Pendulum Monster|Pendulum Monster Card]](s) [[Leaves the field|leaves]] your [[Monster Zone]] or [[Pendulum Zone]]: [[Add a card|Add]] 1 "Magician" Pendulum Monster from your [[Deck]] to your [[hand]]. You can only use this effect of "Star Pendulumgraph" [[once per turn]].
+  | fr_text             = Votre adversaire ne peut pas cibler de monstres de Type Magicien que vous contrôlez avec des Cartes Magie ou effets de Magie. Si une ou plusieurs Cartes Monstre Pendule "Magicien" face recto quittent votre Zone Monstre ou Zone Pendule : ajoutez 1 Monstre Pendule "Magicien" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Pendulegraphe des Étoiles" qu'une fois par tour.
+  | de_text             = Dein Gegner kann Monster vom Typ Hexer, die du kontrollierst, nicht als Ziel für Zauberkarten oder Zaubereffekte wählen. Falls eine oder mehr offene „Magier“-Pendelmonsterkarten deine Monster- oder Pendelzone verlassen: Füge deiner Hand 1 „Magier“-Pendelmonster von deinem Deck hinzu. Du kannst diesen Effekt von „Stern-Pendelgraf“ nur einmal pro Spielzug verwenden.
+  | it_text             = Il tuo avversario non può scegliere come bersaglio mostri di Tipo Incantatore che controlli con le Carte Magia o i loro effetti. Se una o più Carte Mostro Pendulum "Mago" scoperte lasciano la tua Zona Mostri o Zona Pendulum: aggiungi 1 Mostro Pendulum "Mago" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Pendulumgrafo delle Stelle" una sola volta per turno.
+  | pt_text             = Seu oponente não pode escolher monstros do Tipo Mago que você controla como alvo de Cards ou efeitos de Magia. Se um ou mais Cards de Monstro Pêndulo "Mago" com a face para cima deixarem suas Zonas de Monstro ou Zonas de Pêndulo: adicione 1 Monstro Pêndulo "Mago" do seu Deck à sua mão. Você só pode usar este efeito de "Estrela Pêndulografa" uma vez por turno.
+  | es_text             = Tu adversario no puede seleccionar a monstruos de Tipo Lanzador de Conjuros que controles con Cartas o efectos Mágicos. Si una o más Cartas de Monstruo de Péndulo "Mago/a" boca arriba dejan tu Zona de Monstruos o Zona de Péndulo: añade a tu mano 1 Monstruo de Péndulo "Mago/a" en tu Deck. Sólo puedes usar este efecto de "Péndulografo de las Estrellas" una vez por turno.
+  | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドの魔法使い族モンスターを相手は魔法カードの効果の対象にできない。②：自分のモンスターゾーン・Ｐゾーンの表側表示の「魔術師」Ｐモンスターカードがフィールドから離れた場合に発動する。デッキから「魔術師」Ｐモンスター１体を手札に加える。
+  | ko_text             = "성상의 펜듈럼그래프"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 자신 필드의 마법사족 몬스터를 상대는 마법 카드 효과의 대상으로 할 수 없다. ②: 앞면 표시의 "마술사" 펜듈럼 몬스터 카드가 자신의 몬스터 존 / 펜듈럼 존에서 벗어났을 경우에 발동한다. 덱에서 "마술사" 펜듈럼 몬스터 1장을 패에 넣는다.
+  | sc_text             = 此卡名的②效果１回合仅可使用１次。①：只要此卡存在于魔法与陷阱区域，对手不可将自己场上的魔法师族怪兽作为魔法卡效果的对象。②：自己的怪兽区域・灵摆区域的表侧表示“魔术师”灵摆怪兽卡从场上离开的情况下发动。从牌组将１只“魔术师”灵摆怪兽加入手牌。
+  | en_sets             = 
+  PEVO-EN007; Pendulum Evolution; Ultra Rare
+  | fr_sets             = 
+  PEVO-FR007; Pendulum Evolution; Ultra Rare
+  | de_sets             = 
+  PEVO-DE007; Pendulum Evolution; Ultra Rare
+  | it_sets             = 
+  PEVO-IT007; Pendulum Evolution; Ultra Rare
+  | pt_sets             = 
+  PEVO-PT007; Pendulum Evolution; Ultra Rare
+  | sp_sets             = 
+  PEVO-SP007; Pendulum Evolution; Ultra Rare
+  | jp_sets             = 
+  SD31-JP023; Structure Deck: Pendulum Evolution; Common
+  QCCU-JP091; Quarter Century Chronicle side:Unity; Ultra Rare, Secret Rare, Quarter Century Secret Rare
+  | ae_sets             = 
+  CR02-AE011; Creation Pack 02; Common
+  | kr_sets             = 
+  SD31-KR023; Structure Deck: Pendulum Evolution; Common
+  QCCU-KR091; Quarter Century Chronicle side:Unity; Ultra Rare, Secret Rare, Quarter Century Secret Rare
+  | sc_sets             = 
+  CL03-SC089; Classic Pack 03; Common
+  | database_id         = 12912
+  | supports            = 
+  * Spellcaster
+  * Pendulum Monster
+  | archseries          = 
+  * Pendulum (archetype)
+  * Pendulumgraph
+  | supports_archetypes = Magician
+  | m/s/t               = Prevents other cards being targeted by card effects
+  | action              = Adds from Deck to hand
+  | misc                = Only once per turn
+  }}

@@ -1,0 +1,126 @@
+title: Spirit Reaper
+wikitext: |-
+  {{For|the Tip Card|""Spirit Reaper"" (Tip Card)}}
+  {{CardTable2
+  | tc_name               = 削魂死靈
+  | fr_name               = Moissonneur d'Esprit
+  | de_name               = Geister-Sensenmann
+  | it_name               = Spirito Mietitore
+  | ko_name               = 영혼을 깎는 사령
+  | pt_name               = Ceifeiro de Espíritos
+  | es_name               = Segador del Espíritu
+  | ja_name               = {{Ruby|魂|たましい}}を{{Ruby|削|けず}}る{{Ruby|死|し}}{{Ruby|霊|りょう}}
+  | romaji_name           = Tamashī o Kezuru Shiryō
+  | translated_name       = Soul-Shaving Ghost
+  | sc_name               = 削魂的死灵
+  | image                 = SpiritReaper-SBC2-NA-C-1E.png
+  | attribute             = DARK
+  | types                 = Zombie / Effect
+  | level                 = 3
+  | atk                   = 300
+  | def                   = 200
+  | password              = 23205979
+  | effect_types          = Continuous, Continuous, Trigger
+  | text                  = Cannot be [[destroyed by battle]]. After [[Resolve|resolving]] a card [[effect]] that [[target]]s this [[face-up]] card, [[destroy]] this card. If this card inflicts [[battle damage]] to your opponent by a [[direct attack]]: [[Discard]] 1 [[random]] card from their [[hand]].
+  | fr_text               = Non destructible au combat. Après la résolution d'un effet de carte qui cible cette carte face recto, détruisez cette carte. Si cette carte inflige des dommages de combat à votre adversaire par une attaque directe : défaussez-lui 1 carte au hasard.
+  | de_text               = Kann nicht durch Kampf zerstört werden. Nachdem ein Karteneffekt aufgelöst wurde, der diese offene Karte als Ziel wählt, zerstöre diese Karte. Falls diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Wirf 1 zufällige Karte von seiner Hand ab.
+  | it_text               = Non può essere distrutto in battaglia. Dopo aver risolto l'effetto di una carta che sceglie come bersaglio questa carta scoperta, distruggi questa carta. Se questa carta infligge danno da combattimento al tuo avversario con un attacco diretto: scarta 1 carta a caso dalla sua mano.
+  | pt_text               = Não pode ser destruído em batalha. Depois de resolver um efeito de card que escolha como alvo este card com a face para cima, destrua este card. Se este card causar dano de batalha ao seu oponente em um ataque direto: descarte 1 card aleatório da mão dele.
+  | es_text               = No puede ser destruido en batalla. Después de resolver un efecto de carta que seleccione esta carta boca arriba, destruye esta carta. Si esta carta inflige daño de batalla a tu adversario con un ataque directo: descarta 1 carta al azar de su mano.
+  | ja_text               = ①：このカードは戦闘では破壊されない。②：このカードが直接攻撃で相手に戦闘ダメージを与えた場合に発動する。相手の手札をランダムに１枚選んで捨てる。③：フィールドの表側表示のこのカードは効果の対象になった場合に破壊される。
+  | ko_text               = 이 카드는 전투에 의해서는 파괴되지 않는다. 마법/함정/효과 몬스터의 효과의 대상이 되었을 때, 이 카드를 파괴한다. 이 카드가 상대 플레이어에게로의 직접 공격에 성공했을 경우, 상대는 무작위로 패를 1장 버린다.
+  | tc_text               = 此卡不会被战斗破坏。此卡为卡牌效果的对象时，破坏此卡。并且，此卡因直接攻击给予对手生命战斗伤害时发动。随机舍弃对手手牌1张。
+  | sc_text               = ①：此卡不会因战斗被破坏。②：此卡以直接攻击给予对手战斗伤害的情况下发动。随机挑选对手的１张手牌舍弃。③：场上表侧表示的此卡成为效果的对象的情况下将被破坏。
+  | en_sets               = 
+  SD2-EN006; Structure Deck: Zombie Madness; Common
+  DR1-EN024; Dark Revelation Volume 1; Rare
+  CP03-EN002; Champion Pack: Game Three; Super Rare
+  SDZW-EN009; Zombie World Structure Deck; Common
+  GLD4-EN011; Gold Series 4: Pyramids Edition; Gold Rare
+  BATT-EN013; Battle Pack Tournament Prize Cards; Starfoil Rare
+  LCYW-EN246; Legendary Collection 3: Yugi's World Mega Pack; Ultra Rare
+  LCJW-EN190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-EN083; Premium Gold; Gold Rare
+  RA03-EN122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | na_sets               = 
+  PGD-076; Pharaonic Guardian; Rare
+  SBC2-ENI16; Speed Duel: Battle City Finals; Common, Prismatic Secret Rare
+  | fr_sets               = 
+  SD2-FR006; Structure Deck: Zombie Madness; Common
+  DR1-FR024; Dark Revelation Volume 1; Rare
+  CP03-FR002; Champion Pack: Game Three; Super Rare
+  SDZW-FR009; Zombie World Structure Deck; Common
+  GLD4-FR011; Gold Series 4: Pyramids Edition; Gold Rare
+  LCYW-FR246; Legendary Collection 3: Yugi's World Mega Pack; Ultra Rare
+  LCJW-FR190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-FR083; Premium Gold; Gold Rare
+  RA03-FR122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | de_sets               = 
+  SD2-DE006; Structure Deck: Zombie Madness; Common
+  DR1-DE024; Dark Revelation Volume 1; Rare
+  CP03-DE002; Champion Pack: Game Three; Super Rare
+  SDZW-DE009; Zombie World Structure Deck; Common
+  GLD4-DE011; Gold Series 4: Pyramids Edition; Gold Rare
+  LCYW-DE246; Legendary Collection 3: Yugi's World Mega Pack; Ultra Rare
+  LCJW-DE190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-DE083; Premium Gold; Gold Rare
+  RA03-DE122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | it_sets               = 
+  SD2-IT006; Structure Deck: Zombie Madness; Common
+  DR1-IT024; Dark Revelation Volume 1; Rare
+  CP03-IT002; Champion Pack: Game Three; Super Rare
+  SDZW-IT009; Zombie World Structure Deck; Common
+  GLD4-IT011; Gold Series 4: Pyramids Edition; Gold Rare
+  LCYW-IT246; Legendary Collection 3: Yugi's World Mega Pack; Ultra Rare
+  LCJW-IT190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-IT083; Premium Gold; Gold Rare
+  RA03-IT122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | pt_sets               = 
+  SD2-PT006; Structure Deck: Zombie Madness; Common
+  DR1-PT024; Dark Revelation Volume 1; Rare
+  LCJW-PT190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-PT083; Premium Gold; Gold Rare
+  RA03-PT122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | sp_sets               = 
+  SD2-SP006; Structure Deck: Zombie Madness; Common
+  DR1-SP024; Dark Revelation Volume 1; Rare
+  SDZW-SP009; Zombie World Structure Deck; Common
+  GLD4-SP011; Gold Series 4: Pyramids Edition; Gold Rare
+  LCYW-SP246; Legendary Collection 3: Yugi's World Mega Pack; Ultra Rare
+  LCJW-SP190; Legendary Collection 4: Joey's World Mega Pack; Ultra Rare
+  PGLD-SP083; Premium Gold; Gold Rare
+  RA03-SP122; Quarter Century Bonanza; Platinum Secret Rare, Quarter Century Secret Rare
+  | jp_sets               = 
+  301-024; The New Ruler; Common
+  EE1-JP024; Expert Edition Volume.1; Rare
+  SD2-JP006; Structure Deck: Zombie Madness; Common
+  SD12-JP010; Structure Deck: Curse of Darkness; Common
+  SD13-JP009; Structure Deck: Revival of the Great Dragon; Common
+  GS02-JP004; Gold Series 2010; Common, Gold Rare
+  GDB1-JP024; The Gold Box; Gold Rare
+  DR02-JPA14; Duel Royale Deck Set EX Round 2; Common
+  | ae_sets               = 
+  PGD-076; Pharaonic Guardian; Rare
+  | tc_sets               = 
+  SP02-TC023; Starter Pack Volume 2; Rare
+  | kr_sets               = 
+  PGD-KR076; Pharaonic Guardian; Rare
+  SD2-KR006; Structure Deck: Zombie Madness; Common
+  HGP1-KR024; Expert Edition Volume.1; Rare
+  SD13-KR009; Structure Deck: Revival of the Great Dragon; Common
+  GS02-KR004; Gold Series 2010; Common, Gold Rare
+  | sc_sets               = 
+  FRP1-SCC26; Fusion Ready Pack C; Common
+  | ntr_sets              = 
+  '''[[Dragon's Nest (NTR-BP)|Dragon's Nest]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 24 (YGOO-BP)|Pack 24]]'''
+  | action                = 
+  * Activates if battle damage is inflicted
+  * Your opponent discards
+  | m/s/t                 = Destroys itself
+  | attack                = Cannot be destroyed by battle
+  | fm_for                = Reaper on the Nightmare
+  | database_id           = 5526
+  | tcg_speed_duel_status = Unlimited
+  }}

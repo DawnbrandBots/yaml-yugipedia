@@ -1,0 +1,231 @@
+title: Enemy Controller
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Contrôleur d'Ennemi
+  | de_name               = Feindkontrolle
+  | it_name               = Controlla-Avversario
+  | pt_name               = Controlador de Inimigos
+  | es_name               = Controlador de Enemigos
+  | ja_name               = エネミーコントローラー
+  | romaji_name           = Enemī Kontorōrā
+  | ko_name               = 에너미 컨트롤러
+  | tc_name               = 敵人控制器
+  | sc_name               = 敌人控制器
+  | image                 = EnemyController-SBC2-NA-C-1E.png
+  | card_type             = Spell
+  | property              = Quick-Play
+  | password              = 98045062
+  | effect_types          = Effect
+  | text                  = [[Activate]] 1 of these [[effect]]s;<br />● [[Target]] 1 [[face-up]] [[monster]] your opponent [[control]]s; change that target's [[battle position]].<br />● [[Tribute]] 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the [[End Phase]].
+  | fr_text               = Activez 1 de ces effets ;<br />● Ciblez 1 monstre face recto contrôlé par votre adversaire ; changez la position de combat de la cible.<br />● Sacrifiez 1 monstre, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la End Phase, prenez le contrôle de la cible.
+  | de_text               = Aktiviere 1 dieser Effekte;<br />● Wähle 1 offenes Monster, das dein Gegner kontrolliert; ändere die Kampfposition jenes gewählten Ziels.<br />● Biete 1 Monster als Tribut an und wähle dann 1 offenes Monster, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle über jenes gewählte Ziel.
+  | it_text               = Attiva 1 di questi effetti;<br />● Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; cambia la posizione di quel bersaglio.<br />● Offri come Tributo 1 mostro, poi scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; prendi il controllo di quel bersaglio fino alla End Phase.
+  | pt_text               = Ative 1 desses efeitos;<br />● Escolha 1 monstro com a face para cima que seu oponente controla; mude a posição de batalha do alvo.<br />● Ofereça 1 monstro como Tributo e, depois, escolha 1 monstro com a face para cima que seu oponente controla; tome o controle do alvo até a Fase Final.
+  | es_text               = Activa 1 de estos efectos;<br />● Selecciona 1 monstruo boca arriba que controle tu adversario; cambia la posición de batalla de ese objetivo.<br />● Sacrifica 1 monstruo, y después selecciona 1 monstruo boca arriba que controle tu adversario; toma el control de ese objetivo hasta la End Phase.
+  | ja_text               = ①：以下の効果から１つを選択して発動できる。<br />●相手フィールドの表側表示モンスター１体を対象として発動できる。その相手の表側表示モンスターの表示形式を変更する。<br />●自分フィールドのモンスター１体をリリースし、相手フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターのコントロールをエンドフェイズまで得る。
+  | ko_text               = ①: 이하의 효과에서 1개를 선택하고 발동할 수 있다.<br />●상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대의 앞면 표시 몬스터의 표시 형식을 변경한다.<br />●자신 필드의 몬스터 1장을 릴리스하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 앞면 표시 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
+  | tc_text               = 可从以下效果之中选择1个进行发动。<br />●选择以表侧表示存在于对手场上的1只怪兽，并变更表示形态。<br />●可以释放我方场上的1只怪兽进行发动。选择以表侧表示存在于对手场上的1只怪兽，到结束阶段为止获得控制权。
+  | sc_text               = ①：可从以下效果中选择1个发动。<br />●以对手场上的1只表侧表示的怪兽为对象可以发动。改变该对手的表侧表示怪兽的表示形式。<br />●解放自己场上的1只怪兽，以对手场上的1只表侧表示的怪兽为对象可以发动。直至结束阶段为止获得该表侧表示怪兽的控制权。
+  | en_sets               = 
+  DR2-EN149; Dark Revelation Volume 2; Super Rare
+  CP01-EN010; Champion Pack: Game One; Rare
+  SD10-EN027; Structure Deck: Machine Re-Volt; Common
+  YSDS-EN027; Starter Deck: Syrus Truesdale; Common
+  SDDE-EN025; The Dark Emperor Structure Deck; Common
+  SDSC-EN029; Spellcaster's Command Structure Deck; Common
+  DLDI-EN004; Duelist League Demo 2010; Common
+  5DS3-EN025; Starter Deck: Duelist Toolbox; Common
+  GLD3-EN043; Gold Series 3; Gold Rare
+  BP01-EN078; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-EN144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-EN032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-EN035; Starter Deck: Kaiba Reloaded; Common
+  BP03-EN149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-EN076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-EN019; Duelist Pack: Battle City; Common
+  SR01-EN031; Emperor of Darkness Structure Deck; Common
+  LDK2-ENK23; Legendary Decks II; Common
+  SDKS-EN026; Structure Deck: Seto Kaiba; Common
+  LCKC-EN032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-EN025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-EN025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-EN052; Wild Survivors; Rare
+  OP23-EN002; OTS Tournament Pack 23; Ultimate Rare
+  KC01-EN049; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  RA02-EN051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | na_sets               = 
+  AST-037; Ancient Sanctuary; Ultra Rare
+  DT02-EN040; Duel Terminal 2; Duel Terminal Rare Parallel Rare
+  SBC2-ENB10; Speed Duel: Battle City Finals; Common
+  | fr_sets               = 
+  AST-FR037; Ancient Sanctuary; Ultra Rare
+  DR2-FR149; Dark Revelation Volume 2; Super Rare
+  CP01-FR010; Champion Pack: Game One; Rare
+  SD10-FR027; Structure Deck: Machine Re-Volt; Common
+  YSDS-FR027; Starter Deck: Syrus Truesdale; Common
+  SDDE-FR025; The Dark Emperor Structure Deck; Common
+  SDSC-FR029; Spellcaster's Command Structure Deck; Common
+  DLDI-FR004; Duelist League Demo 2010; Common
+  5DS3-FR025; Starter Deck: Duelist Toolbox; Common
+  GLD3-FR043; Gold Series 3; Gold Rare
+  BP01-FR078; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-FR144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-FR032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-FR035; Starter Deck: Kaiba Reloaded; Common
+  BP03-FR149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-FR076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-FR019; Duelist Pack: Battle City; Common
+  SR01-FR031; Emperor of Darkness Structure Deck; Common
+  LDK2-FRK23; Legendary Decks II; Common
+  SDKS-FR026; Structure Deck: Seto Kaiba; Common
+  LCKC-FR032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-FR025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-FR025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-FR052; Wild Survivors; Rare
+  OP23-FR002; OTS Tournament Pack 23; Ultimate Rare
+  RA02-FR051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | de_sets               = 
+  AST-DE037; Ancient Sanctuary; Ultra Rare
+  DR2-DE149; Dark Revelation Volume 2; Super Rare
+  CP01-DE010; Champion Pack: Game One; Rare
+  SD10-DE027; Structure Deck: Machine Re-Volt; Common
+  YSDS-DE027; Starter Deck: Syrus Truesdale; Common
+  SDDE-DE025; The Dark Emperor Structure Deck; Common
+  SDSC-DE029; Spellcaster's Command Structure Deck; Common
+  DLDI-DE004; Duelist League Demo 2010; Common
+  5DS3-DE025; Starter Deck: Duelist Toolbox; Common
+  GLD3-DE043; Gold Series 3; Gold Rare
+  BP01-DE078; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-DE144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-DE032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-DE035; Starter Deck: Kaiba Reloaded; Common
+  BP03-DE149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-DE076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-DE019; Duelist Pack: Battle City; Common
+  SR01-DE031; Emperor of Darkness Structure Deck; Common
+  LDK2-DEK23; Legendary Decks II; Common
+  SDKS-DE026; Structure Deck: Seto Kaiba; Common
+  LCKC-DE032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-DE025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-DE025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-DE052; Wild Survivors; Rare
+  OP23-DE002; OTS Tournament Pack 23; Ultimate Rare
+  RA02-DE051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | it_sets               = 
+  AST-IT037; Ancient Sanctuary; Ultra Rare
+  DR2-IT149; Dark Revelation Volume 2; Super Rare
+  CP01-IT010; Champion Pack: Game One; Rare
+  YSDS-IT027; Starter Deck: Syrus Truesdale; Common
+  SD10-IT027; Structure Deck: Machine Re-Volt; Common
+  SDDE-IT025; The Dark Emperor Structure Deck; Common
+  SDSC-IT029; Spellcaster's Command Structure Deck; Common
+  DLDI-IT004; Duelist League Demo 2010; Common
+  5DS3-IT025; Starter Deck: Duelist Toolbox; Common
+  GLD3-IT043; Gold Series 3; Gold Rare
+  BP01-IT078; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-IT144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-IT032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-IT035; Starter Deck: Kaiba Reloaded; Common
+  BP03-IT149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-IT076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-IT019; Duelist Pack: Battle City; Common
+  SR01-IT031; Emperor of Darkness Structure Deck; Common
+  LDK2-ITK23; Legendary Decks II; Common
+  SDKS-IT026; Structure Deck: Seto Kaiba; Common
+  LCKC-IT032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-IT025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-IT025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-IT052; Wild Survivors; Rare
+  OP23-IT002; OTS Tournament Pack 23; Ultimate Rare
+  RA02-IT051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | pt_sets               = 
+  AST-PT037; Ancient Sanctuary; Ultra Rare
+  BP02-PT144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-PT032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-PT035; Starter Deck: Kaiba Reloaded; Common
+  BP03-PT149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-PT076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-PT019; Duelist Pack: Battle City; Common
+  SR01-PT031; Emperor of Darkness Structure Deck; Common
+  LDK2-PTK23; Legendary Decks II; Common
+  SDKS-PT026; Structure Deck: Seto Kaiba; Common
+  LCKC-PT032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-PT025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-PT025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-PT052; Wild Survivors; Rare
+  OP23-PT002; OTS Tournament Pack 23; Ultimate Rare
+  RA02-PT051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | sp_sets               = 
+  AST-SP037; Ancient Sanctuary; Ultra Rare
+  DR2-SP149; Dark Revelation Volume 2; Super Rare
+  YSDS-SP027; Starter Deck: Syrus Truesdale; Common
+  SD10-SP027; Structure Deck: Machine Re-Volt; Common
+  SDDE-SP025; The Dark Emperor Structure Deck; Common
+  SDSC-SP029; Spellcaster's Command Structure Deck; Common
+  DLDI-SP004; Duelist League Demo 2010; Common
+  5DS3-SP025; Starter Deck: Duelist Toolbox; Common
+  GLD3-SP043; Gold Series 3; Gold Rare
+  BP01-SP078; Battle Pack: Epic Dawn; Common, Starfoil Rare
+  BP02-SP144; Battle Pack 2: War of the Giants; Common, Mosaic Rare
+  SDBE-SP032; Saga of Blue-Eyes White Dragon Structure Deck; Common
+  YSKR-SP035; Starter Deck: Kaiba Reloaded; Common
+  BP03-SP149; Battle Pack 3: Monster League; Common, Shatterfoil Rare
+  PGL2-SP076; Premium Gold: Return of the Bling; Gold Rare
+  DPBC-SP019; Duelist Pack: Battle City; Common
+  SR01-SP031; Emperor of Darkness Structure Deck; Common
+  LDK2-SPK23; Legendary Decks II; Common
+  SDKS-SP026; Structure Deck: Seto Kaiba; Common
+  LCKC-SP032; Legendary Collection Kaiba Mega Pack; Secret Rare
+  EGS1-SP025; Egyptian God Deck: Slifer the Sky Dragon; Common
+  HAC1-SP025; Hidden Arsenal: Chapter 1; Common, Duel Terminal Normal Parallel Rare
+  WISU-SP052; Wild Survivors; Rare
+  OP23-SP002; OTS Tournament Pack 23; Ultimate Rare
+  RA02-SP051; 25th Anniversary Rarity Collection II; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
+  | jp_sets               = 
+  308-037; The Sanctuary in the Sky (set); Super Rare
+  SK2-030; Structure Deck: Kaiba Volume 2; Common
+  EE2-JP149; Expert Edition Volume.2; Super Rare
+  SD10-JP027; Structure Deck: Machine Re-Volt; Common
+  SD14-JP025; Structure Deck: Advent of the Emperor; Common
+  DT03-JP040; Duel Terminal - Justice Strikes Back!!; DRPR
+  YSD5-JP025; Starter Deck 2010; Common
+  GS04-JP014; Gold Series 2012; Common, Gold Rare
+  GDB1-JP074; The Gold Box; Gold Rare
+  SD25-JP033; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  DP16-JP018; Duelist Pack: Battle City; Common
+  SR01-JP031; Structure Deck R: Advent of the True Monarch; Common
+  SDKS-JP028; Structure Deck: Seto Kaiba; Common
+  LG02-JP012; Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards; Common
+  KC01-JP049; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | kr_sets               = 
+  AST-KR037; Ancient Sanctuary; Ultra Rare
+  HGP2-KR149; Expert Edition Volume.2; Super Rare
+  SD14-KR025; Structure Deck: Advent of the Emperor; Common
+  SD10-KR027; Structure Deck: Machine Re-Volt; Common
+  ESP3-KR040; Expansion Pack Vol.3; Gold Rare
+  YSD5-KR025; Starter Deck 2010; Common
+  AST-KRPR2; Ancient Sanctuary promotional cards; Secret Rare
+  GS04-KR014; Gold Series 2012; Common, Gold Rare
+  SD25-KR033; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  SR01-KR031; Structure Deck R: Advent of the True Monarch; Common
+  DP16-KR018; Duelist Pack: Battle City; Common
+  SDKS-KR028; Structure Deck: Seto Kaiba; Common
+  | tc_sets               = 
+  SD25-TC033; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  SP03-TC046; Starter Pack Volume 3; Rare
+  | sc_sets               = 
+  SD25-SC033; Structure Deck: The Blue-Eyed Dragon's Thundering Descent; Common
+  EGS1-SC025; Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk the Tormentor; Common
+  | ae_sets               = 
+  AST-AE037; Ancient Sanctuary; Ultra Rare
+  SDRB-AE035; Structure Deck: Rise of the Blue-Eyes; Common
+  | ntr_sets              = 
+  '''[[Yu-Gi-Oh! Nightmare Troubadour: Chosen Warrior|Chosen Warrior]]''' ([[Common]])
+  | action                = 
+  * Tributes for cost
+  * Takes control of an opponent's monster
+  * Changes battle positions
+  | related_to_archseries = A-to-Z
+  | database_id           = 5505
+  | tcg_speed_duel_status = Limited 3
+  }}

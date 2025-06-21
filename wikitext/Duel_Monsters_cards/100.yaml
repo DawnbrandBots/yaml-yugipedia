@@ -1,0 +1,112 @@
+title: Cost Down
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Ristourne
+  | de_name               = Kosten verringern
+  | it_name               = Riduzione del Costo
+  | ko_name               = 코스트 다운
+  | pt_name               = Reduzir Custos
+  | es_name               = Coste Abajo
+  | ja_name               = コストダウン
+  | romaji_name           = Kosuto Daun
+  | image                 = CostDown-KC01-EN-UR-UE.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 23265313
+  | effect_types          = Cost, Effect
+  | text                  = [[Discard]] 1 card; for the rest of this [[turn]], reduce the [[Level]]s of all [[monster]]s in your [[hand]] by 2 (even after they are [[Summon]]ed).
+  | fr_text               = Défaussez 1 carte ; le reste de ce tour, réduisez le Niveau de tous les monstres dans votre main de 2 (même après qu'ils ont été Invoqués).
+  | de_text               = Wirf 1 Karte ab; verringere die Stufen aller Monster in deiner Hand für den Rest dieses Spielzugs um 2 (selbst nachdem sie beschworen wurden).
+  | it_text               = Scarta 1 carta; per il resto di questo turno, riduci di 2 il Livello di tutti i mostri nella tua mano (anche dopo che sono stati Evocati).
+  | pt_text               = Descarte 1 card; pelo resto deste turno, reduza em 2 o Nível de todos os monstros na sua mão (mesmo depois que eles forem Invocados).
+  | es_text               = Descarta 1 carta; por el resto de este turno, reduce en 2 los Niveles de todos los monstruos en tu mano (aun después de ser Invocados).
+  | ja_text               = ①：手札を１枚捨てて発動できる。このターン、自分の手札のモンスターのレベルを２つ下げる。
+  | ko_text               = ①: 패를 1장 버리고 발동할 수 있다. 이 턴에, 자신 패의 몬스터의 레벨을 2개 내린다.
+  | en_sets               = 
+  DR1-EN215; Dark Revelation Volume 1; Ultra Rare
+  DCR-EN053; Dark Crisis; Ultra Rare
+  DPKB-EN033; Duelist Pack: Kaiba; Rare
+  LCKC-EN040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-ENA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-ENA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-EN025; Speed Duel Tournament Pack 4; Common
+  MAZE-EN055; Maze of Memories; Rare
+  DCR-EN053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-EN013; 2-Player Starter Set; Common
+  KC01-EN045; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | na_sets               = 
+  DCR-053; Dark Crisis; Ultra Rare
+  | fr_sets               = 
+  DR1-FR215; Dark Revelation Volume 1; Ultra Rare
+  DCR-FR053; Dark Crisis; Ultra Rare
+  DPKB-FR033; Duelist Pack: Kaiba; Rare
+  LCKC-FR040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-FRA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-FRA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-FR025; Speed Duel Tournament Pack 4; Common
+  MAZE-FR055; Maze of Memories; Rare
+  DCR-FR053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-FR013; 2-Player Starter Set; Common
+  | de_sets               = 
+  DR1-DE215; Dark Revelation Volume 1; Ultra Rare
+  DCR-DE053; Dark Crisis; Ultra Rare
+  DPKB-DE033; Duelist Pack: Kaiba; Rare
+  LCKC-DE040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-DEA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-DEA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-DE025; Speed Duel Tournament Pack 4; Common
+  MAZE-DE055; Maze of Memories; Rare
+  DCR-DE053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-DE013; 2-Player Starter Set; Common
+  | it_sets               = 
+  DR1-IT215; Dark Revelation Volume 1; Ultra Rare
+  DCR-IT053; Dark Crisis; Ultra Rare
+  DPKB-IT033; Duelist Pack: Kaiba; Rare
+  LCKC-IT040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-ITA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-ITA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-IT025; Speed Duel Tournament Pack 4; Common
+  MAZE-IT055; Maze of Memories; Rare
+  DCR-IT053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-IT013; 2-Player Starter Set; Common
+  | pt_sets               = 
+  DR1-PT215; Dark Revelation Volume 1; Ultra Rare
+  LCKC-PT040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-PTA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-PTA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-PT025; Speed Duel Tournament Pack 4; Common
+  MAZE-PT055; Maze of Memories; Rare
+  DCR-PT053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-PT013; 2-Player Starter Set; Common
+  | sp_sets               = 
+  DR1-SP215; Dark Revelation Volume 1; Ultra Rare
+  DPKB-SP033; Duelist Pack: Kaiba; Rare
+  LCKC-SP040; Legendary Collection Kaiba Mega Pack; Secret Rare
+  SS02-SPA12; Speed Duel Starter Decks: Duelists of Tomorrow; Common
+  SS03-SPA20; Speed Duel Starter Decks: Ultimate Predators; Common
+  STP4-SP025; Speed Duel Tournament Pack 4; Common
+  MAZE-SP055; Maze of Memories; Rare
+  DCR-SP053; Dark Crisis (25th Anniversary Edition); Ultra Rare
+  STAX-SP013; 2-Player Starter Set; Common
+  | jp_sets               = 
+  304-053; Power of the Guardian; Secret Rare
+  EE1-JP215; Expert Edition Volume.1; Ultra Rare
+  SDKS-JP030; Structure Deck: Seto Kaiba; Common
+  LG02-JP014; Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards; Common
+  KC01-JP045; 25th Anniversary Ultimate Kaiba Set; Ultra Rare
+  | ae_sets               = 
+  DCR-053; Dark Crisis; Ultra Rare
+  | kr_sets               = 
+  DCR-KR053; Dark Crisis; Ultra Rare
+  ESP3-KR029; Expansion Pack Vol.3; Super Rare
+  HGP1-KR215; Expert Edition Volume.1; Ultra Rare
+  SDKS-KR030; Structure Deck: Seto Kaiba; Common
+  | ntr_sets              = 
+  '''[[Beautiful Challenger (WC6-BP)|Beautiful Challenger]]'''
+  | action                = You discard for cost
+  | stat_change           = 
+  * Your monsters lose Levels
+  * Modifies the Levels of monsters in the hand
+  | database_id           = 5575
+  | tcg_speed_duel_status = Unlimited
+  }}

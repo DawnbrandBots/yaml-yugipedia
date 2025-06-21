@@ -1,0 +1,73 @@
+title: Clock Arc
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Arc Montre
+  | de_name               = Uhrbogen
+  | it_name               = Orologio Arco
+  | pt_name               = Relógio Arc
+  | es_name               = Arc Reloj
+  | ja_name               = {{Ruby|変|へん}}{{Ruby|導|どう}}{{Ruby|機|き}}{{Ruby|咎|こう}} クロックアーク
+  | romaji_name           = Hendōkikō Kurokkuāku
+  | translated_name       = Clock Arc, the Fluctuerror Orchanism
+  | ko_name               = 변도기구 클락아크
+  | ko_rr_name            = Byeondogigu Keullak-akeu
+  | image                 = ClockArc-LIOV-EN-C-1E.png
+  | attribute             = DARK
+  | types                 = Machine / Pendulum / Effect
+  | level                 = 4
+  | pendulum_scale        = 4
+  | atk                   = 600
+  | def                   = 1200
+  | password              = 87468732
+  | pendulum_effect_types = Continuous-like, Trigger-like
+  | effect_types          = Continuous, Continuous, Trigger
+  | pendulum_effect       = If you [[control]] no [[Monster Card|monsters]], or only [[Pendulum Monster]]s, apply this [[effect]], based on this card's Pendulum Zone.<br />● Left: Reduce its [[Pendulum Scale]] by 3.<br />● Right: Increase its Pendulum Scale by 4.<br />During your opponent's [[Standby Phase]]: You can [[Special Summon]] this card.
+  | text                  = If this card is [[Special Summon]]ed to a [[zone]] that is not the center [[Main Monster Zone]], [[destroy]] it. Cannot be [[destroyed by battle]]. [[Once per turn]], during your opponent's [[End Phase]]: You can [[target]] 1 card in your [[Pendulum Zone]]; [[destroy]] it, and if you do, place this card in your Pendulum Zone.
+  | fr_pendulum_effect    = Si vous ne contrôlez aucun monstre, ou contrôlez uniquement des Monstres Pendule, appliquez cet effet, selon la Zone Pendule de cette carte.<br />● Gauche : Réduisez son Échelle Pendule de 3.<br />● Droite : Augmentez son Échelle Pendule de 4.<br />Durant la Standby Phase de votre adversaire : vous pouvez Invoquer Spécialement cette carte.
+  | fr_text               = Si cette carte est Invoquée Spécialement dans une zone qui n'est pas la Zone Monstre Main centrale, détruisez-la. Non destructible au combat. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez cibler 1 carte dans votre Zone Pendule ; détruisez-la, et si vous le faites, placez cette carte dans votre Zone Pendule.
+  | de_pendulum_effect    = Falls du keine Monster oder nur Pendelmonster kontrollierst, führe diesen Effekt aus, basierend auf der Pendelzone dieser Karte.<br />● Links: Verringere ihren Pendelbereich um 3.<br />● Rechts: Erhöhe ihren Pendelbereich um 4.<br />Während der Standby Phase deines Gegners: Du kannst diese Karte als Spezialbeschwörung beschwören.
+  | de_text               = Falls diese Karte als Spezialbeschwörung in eine Zone beschworen wird, die nicht die mittlere Main-Monsterzone ist, zerstöre sie. Kann nicht durch Kampf zerstört werden. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 Karte in deiner Pendelzone wählen; zerstöre sie und falls du dies tust, lege diese Karte in deine Pendelzone.
+  | it_pendulum_effect    = Se non controlli nessun mostro, o solo Mostri Pendulum, applica questo effetto, a seconda della Zona Pendulum di questa carta.<br />● Sinistra: Riduci il suo Valore Pendulum di 3.<br />● Destra: Aumenta il suo Valore Pendulum di 4.<br />Durante la Standby Phase del tuo avversario: puoi Evocare Specialmente questa carta.
+  | it_text               = Se questa carta viene Evocata Specialmente in una zona che non è la Zona Mostri Main centrale, distruggila. Non può essere distrutto in battaglia. Una volta per turno, durante la End Phase del tuo avversario: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; distruggila e, se lo fai, metti questa carta nella tua Zona Pendulum.
+  | pt_pendulum_effect    = Se você não controlar nenhum monstro, ou apenas Monstros Pêndulo, aplique este efeito, de acordo com a Zona de Pêndulo deste card.<br />● Esquerda: Reduza sua Escala de Pêndulo em 3.<br />● Direita: Aumente sua Escala de Pêndulo em 4.<br />Durante a Fase de Apoio do seu oponente: você pode Invocar este card por Invocação-Especial.
+  | pt_text               = Se este card for Invocado por Invocação-Especial em uma zona que não seja a Zona de Monstros Principal central, destrua-o. Não pode ser destruído em batalha. Uma vez por turno, durante a Fase Final do seu oponente: você pode escolher 1 card na sua Zona de Pêndulo; destrua-o e, se isso acontecer, coloque este card na sua Zona de Pêndulo.
+  | es_pendulum_effect    = Si no controlas monstruos, o sólo controlas Monstruos de Péndulo, aplica este efecto, basado en la Zona de Péndulo de esta carta.<br />● Izquierda: Reduce su Escala de Péndulo en 3.<br />● Derecha: Aumenta su Escala de Péndulo en 4.<br />Durante la Standby Phase de tu adversario: puedes Invocar esta carta de Modo Especial.
+  | es_text               = Si esta carta es Invocada de Modo Especial a una zona que no sea la Zona de Monstruos Principal central, destrúyela. No puede ser destruida en batalla. Una vez por turno, durante la End Phase de tu adversario: puedes seleccionar 1 carta en tu Zona de Péndulo; destrúyela y, si lo haces, pon esta carta en tu Zona de Péndulo.
+  | ja_pendulum_effect    = ①：自分フィールドのモンスターが、存在しない場合またはＰモンスターのみの場合、このカードのＰゾーンの位置によって以下の効果を適用する。●左側：このカードのＰスケールは３つ下がる。●右側：このカードのＰスケールは４つ上がる。②：相手スタンバイフェイズに発動できる。Ｐゾーンのこのカードを特殊召喚する。
+  | ja_text               = ①：このカードは中央以外のメインモンスターゾーンに特殊召喚した場合、破壊される。②：このカードは戦闘では破壊されない。③：相手エンドフェイズに、自分のＰゾーンのカード１枚を対象として発動できる。そのカードを破壊し、このカードを自分のＰゾーンに置く。
+  | ko_pendulum_effect    = ①: 자신 필드의 몬스터가, 존재하지 않을 경우 또는 펜듈럼 몬스터뿐일 경우, 이 카드의 펜듈럼 존의 위치에 따라 이하의 효과를 적용한다. ●좌측: 이 카드의 펜듈럼 스케일은 3개 내려간다. ●우측: 이 카드의 펜듈럼 스케일은 4개 올라간다. ②: 상대 스탠바이 페이즈에 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다.
+  | ko_text               = ①: 이 카드는 중앙 이외의 메인 몬스터 존에 특수 소환했을 경우, 파괴된다. ②: 이 카드는 전투로는 파괴되지 않는다. ③: 상대 엔드 페이즈에, 자신의 펜듈럼 존의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 이 카드를 자신의 펜듈럼 존에 놓는다.
+  | en_sets               = 
+  LIOV-EN030; Lightning Overdrive; Common
+  | fr_sets               = 
+  LIOV-FR030; Lightning Overdrive; Common
+  | de_sets               = 
+  LIOV-DE030; Lightning Overdrive; Common
+  | it_sets               = 
+  LIOV-IT030; Lightning Overdrive; Common
+  | pt_sets               = 
+  LIOV-PT030; Lightning Overdrive; Common
+  | sp_sets               = 
+  LIOV-SP030; Lightning Overdrive; Common
+  | jp_sets               = 
+  LIOV-JP030; Lightning Overdrive; Normal Rare
+  | kr_sets               = 
+  LIOV-KR030; Lightning Overdrive; Normal Rare
+  | action                = 
+  * Activates upon Special Summon
+  * Places from field to Pendulum Zone
+  | stat_change           = 
+  * Reduces Pendulum Scale
+  * Increases Pendulum Scale
+  | m/s/t                 = 
+  * Destroys itself
+  * Destroys your face-up Spell Cards
+  | summoning             = Special Summons itself from your Pendulum Zone
+  | attack                = Cannot be destroyed by battle
+  | misc                  = 
+  * Requires control of no monsters
+  * Limited activations
+  * Requires control of specific Monster card type
+  * During the Standby Phase
+  | database_id           = 15991
+  }}

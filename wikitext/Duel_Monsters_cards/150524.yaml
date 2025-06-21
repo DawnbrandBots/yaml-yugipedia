@@ -1,0 +1,65 @@
+title: Shien's Advisor
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Conseiller de Shien
+  | de_name             = Shiens Berater
+  | it_name             = Consigliere di Shien
+  | ko_name             = 시엔의 참모
+  | pt_name             = Conselheiro de Shien
+  | es_name             = Consejero de Shien
+  | ja_name             = {{Ruby|紫|シ}}{{Ruby|炎|エン}}の{{Ruby|参|さん}}{{Ruby|謀|ぼう}}
+  | romaji_name         = Shien no Sanbō
+  | translated_name     = Shien's Tactician
+  | image               = ShiensAdvisor-SPWA-EN-SR-1E.png
+  | attribute           = EARTH
+  | types               = Warrior / Effect
+  | atk                 = 1200
+  | def                 = 400
+  | level               = 4
+  | password            = 98126725
+  | effect_types        = Trigger, Continuous
+  | text                = If this card is [[Normal Summon]]ed while you [[control]] a "[[Six Samurai]]" [[Monster Card|monster]]: [[Declare]] 1 Monster [[Type]]; while this card is face-up on the [[field]], monsters with the declared Monster Type cannot declare an [[attack]] or be [[Special Summon]]ed.
+  | fr_text             = Si cette carte est Invoquée Normalement tant que vous contrôlez un monstre "Six Samouraïs" : déclarez 1 Type de Monstre ; tant que cette carte est face recto sur le Terrain, les monstres du Type de Monstre déclaré ne peuvent ni déclarer d'attaque ni être Invoqués Spécialement.
+  | de_text             = Falls diese Karte als Normalbeschwörung beschworen wird, solange du ein „Sechs Samurai“-Monster kontrollierst: Deklariere 1 Monstertyp; solange diese Karte offen auf dem Spielfeld liegt, können Monster mit dem deklarierten Monstertyp weder einen Angriff deklarieren noch als Spezialbeschwörung beschworen werden.
+  | it_text             = Se questa carta viene [[Normal Summon|Evocata Normalmente]] mentre [[control]]li un [[Monster Card|mostro]] "[[Six Samurai|Sei Samurai]]": [[Declare|dichiara]] 1 [[Type|Tipo]] di Mostro; mentre questa carta è scoperta sul [[Field|Terreno]], i mostri con il Tipo di Mostro dichiarato non possono dichiarare un [[Attack|attacco]] o essere [[Special Summon|Evocati Specialmente]].
+  | pt_text             = Se este card for Invocado por Invocação-Normal enquanto você controlar um monstro "Seis Samurai": declare 1 Tipo de Monstro; enquanto este card estiver com a face para cima no campo, monstros do Tipo de Monstro declarado não podem declarar ataque nem serem Invocados por Invocação-Especial.
+  | es_text             = Si esta carta es [[Normal Summon|Invocada de Modo Normal]] mientras [[control]]as un monstruo "[[Six Samurai|Seis Samuráis]]": declara 1 [[Type|Tipo]] de Monstruo; mientras esta carta está [[Face-up|boca arriba]] en el Campo, los monstruos del Tipo de Monstruo declarado no pueden declarar ataques ni ser [[Special Summon|Invocados de Modo Especial]].
+  | ja_text             = 自分フィールド上に「六武衆」と名のついたモンスターが表側表示で存在する場合にこのカードが召喚に成功した時、種族を１つ宣言して発動する。このカードがフィールド上に表側表示で存在する限り、宣言した種族のモンスターは攻撃宣言をする事ができず、お互いのプレイヤーは宣言した種族のモンスターを特殊召喚する事ができない。
+  | ko_text             = 자신 필드 위에 "여섯 무사"라는 이름이 붙은 몬스터가 앞면 표시로 존재할 경우에 이 카드가 일반 소환에 성공했을 때, 종족을 1개 선언하고 발동한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선언한 종족의 몬스터는 공격 선언을 할 수 없고, 양쪽의 플레이어는 선언한 종족의 몬스터를 특수 소환할 수 없다.
+  | en_sets             = 
+  EXVC-EN029; Extreme Victory; Super Rare
+  SDWA-EN022; Samurai Warlords Structure Deck; Common
+  SPWA-EN046; Spirit Warriors; Super Rare
+  | fr_sets             = 
+  EXVC-FR029; Extreme Victory; Super Rare
+  SDWA-FR022; Samurai Warlords Structure Deck; Common
+  SPWA-FR046; Spirit Warriors; Super Rare
+  | de_sets             = 
+  EXVC-DE029; Extreme Victory; Super Rare
+  SDWA-DE022; Samurai Warlords Structure Deck; Common
+  SPWA-DE046; Spirit Warriors; Super Rare
+  | it_sets             = 
+  EXVC-IT029; Extreme Victory; Super Rare
+  SDWA-IT022; Samurai Warlords Structure Deck; Common
+  SPWA-IT046; Spirit Warriors; Super Rare
+  | pt_sets             = 
+  SPWA-PT046; Spirit Warriors; Super Rare
+  | sp_sets             = 
+  EXVC-SP029; Extreme Victory; Super Rare
+  SDWA-SP022; Samurai Warlords Structure Deck; Common
+  SPWA-SP046; Spirit Warriors; Super Rare
+  | jp_sets             = 
+  EXVC-JP029; Extreme Victory; Common
+  | kr_sets             = 
+  EXVC-KR029; Extreme Victory; Common
+  | archseries          = Shien
+  | supports_archetypes = Six Samurai
+  | action              = 
+  * Activates upon Normal Summon
+  * Declares a Type
+  | summoning           = Prevents Special Summons
+  | attack              = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
+  | database_id         = 9500
+  }}

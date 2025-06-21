@@ -1,0 +1,66 @@
+title: Ojama Country
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Village Ojama
+  | de_name               = Ojama-Land
+  | it_name               = Terra degli Ojama
+  | ko_name               = 방해꾼 컨트리
+  | pt_name               = Nação Ojama
+  | es_name               = País de Ojamas
+  | ja_name               = おジャマ・カントリー
+  | romaji_name           = Ojama Kantorī
+  | image                 = OjamaCountry-SGX1-EN-C-1E.png
+  | card_type             = Spell
+  | property              = Field
+  | password              = 90011152
+  | effect_types          = Ignition-like, Continuous-like
+  | text                  = [[Once per turn]]: You can [[send]] 1 "[[Ojama]]" card from your [[hand]] to the [[Graveyard|GY]]; [[Special Summon]] 1 "Ojama" [[Monster Card|monster]] from your GY. While you [[control]] an "Ojama" monster, switch the [[original ATK and DEF|original ATK/DEF]] of all monsters on the [[field]].
+  | translated_text       = Once per turn: You can send 1 "Ojama" card from your hand to the GY'''<u>, then target 1 "Ojama" monster in your GY</u>'''; Special Summon '''<u>it</u>'''. While you control an "Ojama" monster, switch the original ATK/DEF of all monsters on the field.
+  | fr_text               = Une fois par tour : vous pouvez envoyer 1 carte "Ojama" depuis votre main au Cimetière ; Invoquez Spécialement 1 monstre "Ojama" depuis votre Cimetière. Tant que vous contrôlez un monstre "Ojama", échangez l'ATK/DEF d'origine de tous les monstres sur le Terrain.
+  | de_text               = Einmal pro Spielzug: Du kannst 1 „Ojama“-Karte von deiner Hand auf den Friedhof legen; beschwöre 1 „Ojama“-Monster als Spezialbeschwörung von deinem Friedhof. Solange du ein„Ojama“-Monster kontrollierst, vertausche die Grund-ATK/DEF von allen Monstern auf dem Spielfeld.
+  | it_text               = Una volta per turno: puoi mandare 1 carta "Ojama" dalla tua mano al Cimitero; Evoca Specialmente 1 mostro "Ojama" dal tuo Cimitero. Mentre controlli un mostro "Ojama", scambia gli ATK/DEF originali di tutti i mostri sul Terreno.
+  | pt_text               = Uma vez por turno: você pode enviar 1 card "Ojama" da sua mão para o Cemitério; Invoque por Invocação-Especial 1 monstro "Ojama" do seu Cemitério. Enquanto você controlar um monstro "Ojama", troque o ATK original pela DEF original, e vice-versa, de todos os monstros no campo.
+  | es_text               = Una vez por turno: puedes mandar al Cementerio 1 carta "Ojama" en tu mano; Invoca de Modo Especial, desde tu Cementerio, 1 monstruo "Ojama". Mientras controles un monstruo "Ojama", intercambia los ATK/DEF originales de todos los monstruos en el Campo.
+  | ja_text               = １ターンに１度、手札から「おジャマ」と名のついたカード１枚を墓地へ送る事で、自分の墓地に存在する「おジャマ」と名のついたモンスター１体を特殊召喚する。自分フィールド上に「おジャマ」と名のついたモンスターが表側表示で存在する限り、フィールド上に表側表示で存在する全てのモンスターの元々の攻撃力・守備力を入れ替える。
+  | ko_text               = 1턴에 1번, 패에서 "방해꾼"이라는 이름이 붙은 카드 1장을 묘지로 보내는 것으로, 자신의 묘지에 존재하는 "방해꾼"이라는 이름이 붙은 몬스터 1장을 특수 소환한다. 자신 필드 위에 "방해꾼"이라는 이름이 붙은 몬스터가 앞면 표시로 존재하는 한, 필드 위에 앞면 표시로 존재하는 모든 몬스터의 원래 공격력 / 수비력을 맞바꾼다.
+  | en_sets               = 
+  RGBT-EN098; Raging Battle; Rare
+  GFTP-EN110; Ghosts From the Past (set); Ultra Rare
+  SGX1-ENI19; Speed Duel GX: Duel Academy Box; Common
+  | fr_sets               = 
+  RGBT-FR098; Raging Battle; Rare
+  GFTP-FR110; Ghosts From the Past (set); Ultra Rare
+  SGX1-FRI19; Speed Duel GX: Duel Academy Box; Common
+  | de_sets               = 
+  RGBT-DE098; Raging Battle; Rare
+  GFTP-DE110; Ghosts From the Past (set); Ultra Rare
+  SGX1-DEI19; Speed Duel GX: Duel Academy Box; Common
+  | it_sets               = 
+  RGBT-IT098; Raging Battle; Rare
+  GFTP-IT110; Ghosts From the Past (set); Ultra Rare
+  SGX1-ITI19; Speed Duel GX: Duel Academy Box; Common
+  | pt_sets               = 
+  OP13-PT035; OTS Tournament Pack 13; Common
+  GFTP-PT110; Ghosts From the Past (set); Ultra Rare
+  SGX1-PTI19; Speed Duel GX: Duel Academy Box; Common
+  | sp_sets               = 
+  RGBT-SP098; Raging Battle; Rare
+  GFTP-SP110; Ghosts From the Past (set); Ultra Rare
+  SGX1-SPI19; Speed Duel GX: Duel Academy Box; Common
+  | jp_sets               = 
+  JF09-JP010; Jump Festa 2009 - Promotion Pack; Normal Parallel Rare
+  TP09-JP009; Tournament Pack 2009 Vol.1; Common
+  JF10-JP005; Jump Festa 2010 - Promotion Pack; Common
+  PR01-JP005; Promotion Pack; Common
+  | kr_sets               = 
+  TP09-KR009; Tournament Pack 2011 Vol.9; Common
+  PR02-KR014; Promotion Pack 2012 Vol.2; Common
+  | archseries            = Ojama
+  | supports_archetypes   = Ojama
+  | action                = Sends from hand to Graveyard for cost
+  | stat_change           = Switches ATK and DEF
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = Limited activations
+  | tcg_speed_duel_status = Unlimited
+  | database_id           = 8266
+  }}

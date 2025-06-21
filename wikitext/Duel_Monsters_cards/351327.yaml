@@ -1,0 +1,87 @@
+title: Magical Abductor
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Ravisseuse de Magie
+  | de_name               = Magische Entführerin
+  | it_name               = Rapitrice Magica
+  | pt_name               = Abdutor Mágico
+  | es_name               = Secuestradora Mágica
+  | ja_name               = マジカル・アブダクター
+  | romaji_name           = Majikaru Abudakutā
+  | ko_name               = 매지컬 어브덕터
+  | ko_rr_name            = Maejikeol Eobeudeokteo
+  | image                 = MagicalAbductor-SR08-EN-C-1E.png
+  | attribute             = EARTH
+  | types                 = Spellcaster / Pendulum / Effect
+  | level                 = 4
+  | pendulum_scale        = 3
+  | atk                   = 1700
+  | def                   = 1400
+  | password              = 10239627
+  | pendulum_effect_types = Continuous-like, Ignition-like
+  | effect_types          = Continuous, Continuous, Ignition
+  | pendulum_effect       = Each time a [[Spell Card]] is [[activate]]d, place 1 [[Spell Counter]] on this card when that Spell [[resolve]]s. [[Once per turn]]: You can remove 3 Spell Counters from this card; [[Add a card|add]] 1 [[Pendulum Monster]] from your [[Main Deck|Deck]] to your [[hand]].
+  | text                  = Each time a [[Spell Card]] is [[activate]]d, place 1 [[Spell Counter]] on this card when that Spell [[resolve]]s. Gains 100 [[ATK]] for each Spell Counter on it. [[Once per turn]]: You can remove 3 Spell Counters from this card; [[Add a card|add]] 1 [[Level]] 1 [[Spellcaster]] [[Monster Card|monster]] from your [[Main Deck|Deck]] to your [[hand]].
+  | fr_pendulum_effect    = Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 Monstre Pendule depuis votre Deck à votre main.
+  | fr_text               = Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Gagne 100 ATK pour chaque Compteur Magie sur elle. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 monstre Magicien de Niveau 1 depuis votre Deck à votre main.
+  | de_pendulum_effect    = Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug: Du kannst 3 Zauberzählmarken von dieser Karte entfernen; füge deiner Hand 1 Pendelmonster von deinem Deck hinzu.
+  | de_text               = Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Diese Karte erhält 100 ATK für jede Zauberzählmarke auf ihr. Einmal pro Spielzug: Du kannst 3 Zauberzählmarken von dieser Karte entfernen; füge deiner Hand 1 Hexer-Monster der Stufe 1 von deinem Deck hinzu.
+  | it_pendulum_effect    = Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano.
+  | it_text               = Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Guadagna 100 ATK per ogni Segnalino Magia su di essa. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 mostro Incantatore di Livello 1 dal tuo Deck alla tua mano.
+  | pt_pendulum_effect    = Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 Monstro Pêndulo do seu Deck à sua mão.
+  | pt_text               = Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 100 de ATK para cada Marcador de Magia sobre ele. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 monstro Mago de Nível 1 do seu Deck à sua mão.
+  | es_pendulum_effect    = Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 Monstruo de Péndulo en tu Deck.
+  | es_text               = Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Gana 100 ATK por cada Contador Mágico en ella. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 monstruo Lanzador de Conjuros de Nivel 1 en tu Deck.
+  | ja_pendulum_effect    = ①：このカードが{{Ruby|Ｐ|ペンデュラム}}ゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：１ターンに１度、このカードの魔力カウンターを３つ取り除いて発動できる。デッキから{{Ruby|Ｐ|ペンデュラム}}モンスター１体を手札に加える。
+  | ja_text               = ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×１００アップする。③：１ターンに１度、このカードの魔力カウンターを３つ取り除いて発動できる。デッキから魔法使い族・レベル１モンスター１体を手札に加える。
+  | ko_pendulum_effect    = ①: 이 카드가 펜듈럼 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 1턴에 1번, 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 패에 넣는다.
+  | ko_text               = ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 100 올린다. ③: 1턴에 1번, 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 덱에서 마법사족 / 레벨 1 몬스터 1장을 패에 넣는다.
+  | en_sets               = 
+  CORE-EN041; Clash of Rebellions; Rare
+  MP16-EN073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-EN029; Pendulum Evolution; Super Rare
+  SR08-EN012; Structure Deck: Order of the Spellcasters; Common
+  | fr_sets               = 
+  CORE-FR041; Clash of Rebellions; Rare
+  MP16-FR073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-FR029; Pendulum Evolution; Super Rare
+  SR08-FR012; Structure Deck: Order of the Spellcasters; Common
+  | de_sets               = 
+  CORE-DE041; Clash of Rebellions; Rare
+  MP16-DE073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-DE029; Pendulum Evolution; Super Rare
+  SR08-DE012; Structure Deck: Order of the Spellcasters; Common
+  | it_sets               = 
+  CORE-IT041; Clash of Rebellions; Rare
+  MP16-IT073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-IT029; Pendulum Evolution; Super Rare
+  SR08-IT012; Structure Deck: Order of the Spellcasters; Common
+  | pt_sets               = 
+  CORE-PT041; Clash of Rebellions; Rare
+  MP16-PT073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-PT029; Pendulum Evolution; Super Rare
+  SR08-PT012; Structure Deck: Order of the Spellcasters; Common
+  | sp_sets               = 
+  CORE-SP041; Clash of Rebellions; Rare
+  MP16-SP073; 2016 Mega-Tin Mega Pack; Rare
+  PEVO-SP029; Pendulum Evolution; Super Rare
+  SR08-SP012; Structure Deck: Order of the Spellcasters; Common
+  | jp_sets               = 
+  CORE-JP041; Clash of Rebellions; Rare
+  SR08-JP012; Structure Deck R: Lord of Magician; Common
+  | kr_sets               = 
+  CORE-KR041; Clash of Rebellions; Rare
+  SR08-KR012; Structure Deck R: Lord of Magician; Common
+  | supports              = 
+  * Pendulum Monster
+  * Spellcaster
+  | counter               = 
+  * Spell Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action                = Adds from Deck to hand
+  | stat_change           = This card gains ATK
+  | misc                  = 
+  * Limited activations
+  | database_id           = 11825
+  }}
