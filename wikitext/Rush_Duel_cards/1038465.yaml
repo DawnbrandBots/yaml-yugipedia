@@ -1,0 +1,35 @@
+title: Dice Key Minna
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = ダイスキー・ミンナ
+  | romaji_name    = Daisukī Minna
+  | ko_name        = 다이스키 민나
+  | image          = DiceKeyMinna-RDKP16-JP-R.png
+  | attribute      = LIGHT
+  | types          = Fairy / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 0
+  | requirement    = If you have a [[face-up]] [[Monster Card|monster]] with an [[effect]] that requires a die roll on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = All face-up monsters on your field gain 600 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 [[Fairy]] [[Type]] monster with 300 ATK/1200 [[DEF]] from your Graveyard to your [[hand]].
+  | ja_requirement = 自分フィールドにサイコロを振る効果を持つ表側表示モンスターがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = 自分フィールドの全ての表側表示モンスターの攻撃力は次の相手ターン終了時まで６００アップする。その後、自分の墓地のモンスター（天使族／攻撃力３００／守備力１２００）１体を選んで手札に加える事ができる。
+  | ko_requirement = 자신 필드에 주사위를 던지는 효과를 가지는 앞면 표시 몬스터가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 필드의 모든 앞면 표시 몬스터의 공격력은 다음 상대 턴 종료시까지 600 올린다. 그 후, 자신 묘지의 몬스터(천사족 / 공격력 300 / 수비력 1200) 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets        = 
+  RD/KP16-JP015; Transam of Transcendence; Rare, Secret Rare
+  | kr_sets        = 
+  RD/KP16-KR015; Transam of Transcendence; Rare, Secret Rare
+  | supports       = 
+  * Die roll
+  * Fairy
+  | archseries     = Dice (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Your monsters gain ATK
+  | misc           = Turn limited effects
+  | database_id    = 19963
+  }}

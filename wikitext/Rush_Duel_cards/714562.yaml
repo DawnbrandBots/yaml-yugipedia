@@ -1,0 +1,28 @@
+title: Dinomic Pressure
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = ダイノミック・プレッシャー
+  | romaji_name    = Dainomikku Puresshā
+  | ko_name        = 다이노믹 프레셔
+  | image          = DinomicPressure-RDMAX2-JP-R.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[monster]] declares an [[attack]], [[shuffle]] 3 [[Dinosaur]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = All [[face-up]] monsters on your opponent's [[field]] lose 1000 [[ATK]] until the end of this [[turn]].
+  | ja_requirement = 相手モンスターの攻撃宣言時、自分の墓地のモンスター（恐竜族）３体をデッキに戻して発動できる。
+  | ja_text        = 相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで１０００ダウンする。
+  | ko_requirement = 상대 몬스터의 공격 선언시, 자신 묘지의 몬스터(공룡족) 3장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text        = 상대 필드의 모든 앞면 표시 몬스터의 공격력은 턴 종료시까지 1000 내린다.
+  | jp_sets        = 
+  RD/MAX2-JP020; Maximum Ultra Evolution Pack; Rare
+  | kr_sets        = 
+  RD/MAX2-KR020; Maximum Ultra Evolution Pack; Rare
+  | supports       = Dinosaur
+  | action         = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change    = Your opponent's monsters lose ATK
+  | database_id    = 16588
+  }}

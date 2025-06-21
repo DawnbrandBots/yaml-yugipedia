@@ -1,0 +1,31 @@
+title: I Hear Footsteps
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = ひたひたと{{Ruby|迫|せま}}る{{Ruby|足|あし}}{{Ruby|音|おと}}
+  | romaji_name     = Hitahita to Semaru Ashioto
+  | translated_name = Gradually Approaching Footsteps
+  | ko_name         = 차박차박 다가오는 발소리
+  | image           = IHearFootsteps-RDMRP1-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When your opponent conducts a [[normal draw]] during the [[Draw Phase]] while you have a [[face-up]] [[Zombie]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | text            = [[Look]] at your opponent's [[hand]]. You can choose up to 3 [[Spell Card|Spell]]/[[Trap Card]]s from it. Your opponent [[Set]]s those cards to their [[field]], and they [[Damage|take]] [[Effect damage|damage]] equal to [the number of cards Set by this [[effect]]] x 300.
+  | ja_requirement  = 自分フィールドに表側表示モンスター（アンデット族）がいる場合、相手がドローフェイズに通常のドローをした時に発動できる。
+  | ja_text         = 相手の手札を確認する。自分はその中から魔法・罠カードを３枚まで選ぶ事ができる。選んだ場合、相手はそのカードを自身のフィールドにセットし、［この効果でセットしたカードの数］×３００ダメージを相手は受ける。
+  | ko_requirement  = 자신 필드에 앞면 표시 몬스터(언데드족)가 있을 경우, 상대가 드로우 페이즈에 일반 드로우를 했을 때에 발동할 수 있다.
+  | ko_text         = 상대의 패를 확인한다. 자신은 그 중에서 마법 / 함정 카드를 3장까지 고를 수 있다. 고른 경우, 상대는 그 카드를 자신 필드에 세트하고, [이 효과로 세트한 카드의 수] × 300 데미지를 상대는 받는다.
+  | jp_sets         = 
+  RD/MRP1-JP085; Megaroad Pack; Common
+  | kr_sets         = 
+  RD/MRP1-KR085; Megaroad Pack; Common
+  | supports        = Zombie
+  | archseries      = Ghost Story
+  | action          = 
+  * Activates if your opponent draws a card
+  * Reveals your opponent's hand
+  * Sets from your opponent's hand to your opponent's field
+  | life_points     = Damages your opponent
+  | misc            = Requires control of specific Type
+  | database_id     = 17711
+  }}

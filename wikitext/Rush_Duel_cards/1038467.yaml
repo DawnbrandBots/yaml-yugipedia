@@ -1,0 +1,25 @@
+title: Graceful Dice (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ko_name        = 천사의 주사위
+  | image          = GracefulDice-RDKP16-JP-C.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | text           = Roll a six-sided die. All [[face-up]] [[Monster Card|monster]]s on your [[field]] gain [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]].
+  | ja_requirement = なし
+  | ja_text        = サイコロを１回振る。自分フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００アップする。
+  | ko_requirement = 없음
+  | ko_text        = 주사위를 1회 던진다. 자신 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 올린다.
+  | jp_sets        = 
+  RD/KP16-JP049; Transam of Transcendence; Common
+  | kr_sets        = 
+  RD/KP16-KR049; Transam of Transcendence; Common
+  | archseries     = Dice (series)
+  | stat_change    = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | misc           = Die roll
+  | database_id    = 19997
+  }}

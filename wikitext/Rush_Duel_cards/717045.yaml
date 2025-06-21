@@ -1,0 +1,29 @@
+title: The Barrier
+wikitext: |-
+  {{CardTable2
+  | ja_name         = ザ☆バリア
+  | romaji_name     = Za☆Baria
+  | translated_name = The☆Barrier
+  | ko_name         = 더☆베리어
+  | image           = TheBarrier-RDSST1-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 1 monster from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = The attacking monster loses 400 [[ATK]] until the end of this [[turn]].
+  | ja_requirement  = 相手モンスターの攻撃宣言時、自分の墓地のモンスター１体をデッキに戻して発動できる。
+  | ja_text         = 攻撃してきたモンスターの攻撃力はターン終了時まで４００ダウンする。
+  | ko_requirement  = 상대 몬스터의 공격 선언시, 자신 묘지의 몬스터 1장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text         = 공격해 온 몬스터의 공격력은 턴 종료시까지 400 내린다.
+  | jp_sets         = 
+  RD/EXT1-JP028; Extra Transcend Enhancement Pack; Common
+  RD/SST1-JP039; Saikyo Starter Deck; Common
+  RD/ATR1-JP038; Attraction Pack; Common
+  | kr_sets         = 
+  RD/EXT1-KR028; Extra Transcend Enhancement Pack; Common
+  | archseries      = The
+  | action          = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change     = Your opponent's monsters lose ATK
+  | database_id     = 16912
+  }}

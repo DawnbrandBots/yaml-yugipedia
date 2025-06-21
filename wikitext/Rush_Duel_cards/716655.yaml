@@ -1,0 +1,28 @@
+title: Shadow Buyer
+wikitext: |-
+  {{CardTable2
+  | ja_name        = シャドウ・バイヤー
+  | romaji_name    = Shadou Baiyā
+  | ko_name        = 섀도우 바이어
+  | image          = ShadowBuyer-RDKP11-JP-C.png
+  | attribute      = DARK
+  | types          = Fiend / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 0
+  | requirement    = [[Shuffle]] 1 [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = Increase this card's [[Level]] by [the number of [[face-up]] monsters on your opponent's [[field]]] until the end of this [[turn]]. You can only [[attack]] with [[Fiend]] [[Type]] monsters this turn.
+  | ja_requirement = 自分の墓地のモンスター１体をデッキに戻して発動できる。
+  | ja_text        = このカードのレベルはターン終了時まで、［相手フィールドの表側表示モンスターの数］だけ上がる。このターン、自分はモンスター（悪魔族以外）で攻撃できない。
+  | ko_requirement = 자신 묘지의 몬스터 1장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text        = 이 카드의 레벨은 턴 종료시까지, [상대 필드의 앞면 표시 몬스터의 수]만큼 올라간다. 이 턴에, 자신은 몬스터(악마족 이외)로 공격할 수 없다.
+  | jp_sets        = 
+  RD/KP11-JP032; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Common
+  | kr_sets        = 
+  RD/KP11-KR032; Deck Mod Pack: Fortissimo of the Whirlwinds!!; Common
+  | supports       = Fiend
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains Levels
+  | attack         = Prevents your monsters from attacking
+  | database_id    = 18264
+  }}

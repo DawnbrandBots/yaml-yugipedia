@@ -1,0 +1,31 @@
+title: Data Eater
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = データーイーター
+  | romaji_name    = Dētā Ītā
+  | ko_name        = 데이터이터
+  | image          = DataEater-RDKP17-JP-C.png
+  | attribute      = EARTH
+  | types          = Machine / Effect
+  | level          = 3
+  | atk            = 800
+  | def            = 700
+  | requirement    = [[Reveal]] 1 [[EARTH]] [[Attribute]] [[Monster Card|monster]] and 1 non-EARTH Attribute monster in your [[hand]].
+  | text           = [[Shuffle]] 2 cards from your opponent's [[Graveyard]] into the [[Main Deck|Deck]]. Then, you can make 1 [[face-up]] monster on your [[field]] gain 500 [[ATK]] until the end of this [[turn]].
+  | ja_requirement = 手札のモンスター（地属性）１体とモンスター（地属性以外）１体を相手に見せて発動できる。
+  | ja_text        = 相手の墓地のカード２枚を選んでデッキに戻す。その後、自分フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで５００アップできる。
+  | ko_requirement = 패의 몬스터(땅 속성) 1장과 몬스터(땅 속성 이외) 1장을 상대에게 보여주고 발동할 수 있다.
+  | ko_text        = 상대 묘지의 카드 2장을 고르고 덱으로 되돌린다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 500 올릴 수 있다.
+  | jp_sets        = 
+  RD/KP17-JP038; Burst Rex of Awakening; Common
+  | kr_sets        = 
+  RD/KP17-KR038; Burst Rex of Awakening; Common
+  | supports       = EARTH
+  | action         = 
+  * Reveals your hand for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change    = Your monsters gain ATK
+  | database_id    = 20335
+  }}

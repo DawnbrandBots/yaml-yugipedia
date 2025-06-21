@@ -1,0 +1,33 @@
+title: Hybridrive Bumper
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = ハイブリッドライブ・バンパー
+  | romaji_name           = Haiburiddoraibu Banpā
+  | ko_name               = 하이브리드라이브 범퍼
+  | image                 = HybridriveBumper-RDKP17-JP-C.png
+  | card_type             = Trap
+  | property              = Normal
+  | requirement           = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 4 [[Dragon]] and/or [[Machine]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text                  = The attacking monster loses 1600 [[ATK]] until the end of this [[turn]]. Then, if you shuffled 2 different Types to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[face-up]] [[Level]] 9 or lower monster on your opponent's [[field]].
+  | ja_requirement        = 相手モンスターの攻撃宣言時、自分の墓地のモンスター（ドラゴン族・機械族）を合計４体デッキに戻して発動できる。
+  | ja_text               = 攻撃してきたモンスターの攻撃力はターン終了時まで１６００ダウンする。この効果の条件で戻したモンスターの種族が２種類の場合、さらに相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊できる。
+  | ko_requirement        = 상대 몬스터의 공격 선언시, 자신 묘지의 몬스터(드래곤족・기계족)를 합계 4장 덱으로 되돌리고 발동할 수 있다.
+  | ko_text               = 공격해 온 몬스터의 공격력은 턴 종료시까지 1600 내린다. 이 효과의 조건으로 되돌린 몬스터의 종족이 2종류일 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 9 이하) 1장을 고르고 파괴할 수 있다.
+  | jp_sets               = 
+  RD/KP17-JP059; Burst Rex of Awakening; Common
+  | kr_sets               = 
+  RD/KP17-KR059; Burst Rex of Awakening; Common
+  | supports              = 
+  * Dragon
+  * Machine
+  | archseries            = Hybridrive
+  | related_to_archseries = Jointech
+  | action                = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change           = Your opponent's monsters lose ATK
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | database_id           = 20356
+  }}

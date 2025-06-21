@@ -1,0 +1,32 @@
+title: Neo-Spacian Aqua Dolphin (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ko_name               = 네오 스페이시언 아쿠아 돌핀
+  | image                 = NeoSpacianAquaDolphin-RDKP18-JP-C.png
+  | attribute             = WATER
+  | types                 = Warrior / Effect
+  | level                 = 3
+  | atk                   = 600
+  | def                   = 800
+  | requirement           = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text                  = [[Look]] at your opponent's hand. You can send 1 [[Monster Card|monster]] with [[ATK]] less than or equal to [the ATK of the [[face-up]] monster with the highest ATK on your [[field]]] from it to the Graveyard. Then, if you sent a monster to the Graveyard by this [[effect]], [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
+  | ja_requirement        = 手札１枚を墓地へ送って発動できる。
+  | ja_text               = 相手の手札を確認する。自分はその中から、［自分フィールドの攻撃力が一番高い表側表示モンスターの攻撃力］以下の攻撃力を持つモンスター１体を選んで墓地へ送る事ができる。この効果でモンスターを墓地へ送った場合、さらに相手に５００ダメージを与える。
+  | ko_requirement        = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text               = 상대의 패를 확인한다. 자신은 그 중에서, [자신 필드의 공격력이 가장 높은 앞면 표시 몬스터의 공격력] 이하의 공격력을 가지는 몬스터 1장을 고르고 묘지로 보낼 수 있다. 이 효과로 몬스터를 묘지로 보냈을 경우, 추가로 상대에게 500 데미지를 준다.
+  | jp_sets               = 
+  RD/KP18-JP017; Dark Matter of Phantoms; Common
+  | kr_sets               = 
+  RD/KP18-KR017; Dark Matter of Phantoms; Common
+  | archseries            = Neos (Rush Duel)
+  | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Reveals your opponent's hand
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | life_points           = Damages your opponent
+  | fm_for                = Elemental HERO Pulse Neos
+  | misc                  = Requires control of specific ATK
+  | database_id           = 20626
+  }}

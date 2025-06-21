@@ -1,0 +1,30 @@
+title: Thunder Cavalry Triggerdrago
+wikitext: |-
+  {{CardTable2
+  | ja_name         = {{Ruby|雷|らい}}{{Ruby|闘|とう}}{{Ruby|騎|き}}トリガードラゴ
+  | romaji_name     = Raitōki Torigādorago
+  | translated_name = Thunder Battle Cavalry Triggerdrago
+  | ko_name         = 뇌투기 트리거드라고
+  | image           = ThunderCavalryTriggerdrago-RDKP08-JP-UR.png
+  | attribute       = LIGHT
+  | types           = Thunder / Effect
+  | level           = 7
+  | atk             = 2500
+  | def             = 1500
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = This card gains 300 [[ATK]] until the end of this [[turn]]. If your opponent has no cards in their [[hand]], this card also [[Damage|inflict]]s [[piercing]] [[battle damage]] (if the ATK of the [[attack]]ing [[Monster Card|monster]] exceeds the [[DEF]] of the [[attack target]], inflict the difference) if it attacks a [[Defense Position]] monster this turn.
+  | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = このカードの攻撃力はターン終了時まで３００アップする。相手の手札が０枚の場合、さらにこのターン、このカードの攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
+  | ko_requirement  = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 공격력은 턴 종료시까지 300 올린다. 상대의 패가 0장일 경우, 추가로 이 턴에, 이 카드의 공격은 관통한다(수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다).
+  | jp_sets         = 
+  RD/KP08-JP031; Deck Mod Pack: Genesis Master Road!!; Ultra Rare
+  RD/ATR1-JP010; Attraction Pack; Normal Parallel Rare
+  RD/B252-JP013; Battle Pack 2025 Vol.2; Common
+  | kr_sets         = 
+  RD/KP08-KR031; Deck Mod Pack: Genesis Master Road!!; Ultra Rare
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = This card gains ATK
+  | attack          = Piercing
+  | database_id     = 17307
+  }}

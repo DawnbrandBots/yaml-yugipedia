@@ -1,0 +1,38 @@
+title: Abysskite Ultimail
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = アビスカイト・アルティメイル
+  | romaji_name    = Abisukaito Arutimeiru
+  | ko_name        = 어비스카이트 얼티메일
+  | image          = AbysskiteUltimail-RDVSP1-JP-SR.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When a card(s) is [[Send|sent]] to your opponent's [[Graveyard]], send 1 other [[Spell Card|Spell]]/[[Trap Card]] from your [[field]] to the Graveyard.
+  | text           = Make 1 [[face-up]] [[Sea Serpent]] [[Type]] [[Monster Card|monster]] on your field gain 1000 [[ATK]] until the end of this [[turn]], and gain 1000 [[LP]]. Then, if that monster is a [[Maximum Monster]], it cannot be [[destroyed by battle]] or your opponent's card [[effect]]s this turn.
+  | ja_requirement = カードが相手の墓地へ送られた時、このカード以外の自分フィールドの魔法・罠カード１枚を墓地へ送って発動できる。
+  | ja_text        = 自分フィールドの表側表示モンスター（海竜族）１体を選び、その攻撃力をターン終了時まで１０００アップし、自分は１０００ＬＰ回復する。そのモンスターがマキシマムモンスターの場合、さらにこのターン、そのモンスターは戦闘と相手の効果では破壊されない。
+  | ko_requirement = 카드가 상대 묘지로 보내졌을 때, 이 카드 이외의 자신 필드의 마법 / 함정 카드 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 필드의 앞면 표시 몬스터(해룡족) 1장을 골라, 그 공격력을 턴 종료시까지 1000 올리고, 자신은 1000 LP 회복한다. 그 몬스터가 맥시멈 몬스터일 경우, 추가로 이 턴에, 그 몬스터는 전투와 상대의 효과로는 파괴되지 않는다.
+  | jp_sets        = 
+  RD/VSP1-JP048; Versus Pack Maximum Force; Super Rare, Secret Rare
+  | kr_sets        = 
+  RD/VSP1-KR048; Versus Pack Maximum Force; Super Rare, Secret Rare
+  RD/EV05-KR017; Rush Duel Event Pack 2024 Vol.1; Common
+  | supports       = 
+  * Sea Serpent
+  * Maximum Monster
+  | archseries     = Abysskite
+  | action         = 
+  * Activates if other cards are sent to the Graveyard
+  * Sends from field to Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | attack         = Prevents other cards being destroyed by battle
+  | life_points    = You gain Life Points
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  | database_id    = 18783
+  }}

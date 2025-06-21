@@ -1,0 +1,32 @@
+title: Salary Slash
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = アタック{{Ruby|減|げん}}{{Ruby|俸|ぽう}}
+  | romaji_name     = Atakku Genpō
+  | translated_name = Attack Salary Slash
+  | ko_name         = 어택 감봉
+  | image           = SalarySlash-RDSD02-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When an opponent's [[Level]] 8 or lower [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] monster, [[pay]] 600 [[LP]].
+  | text            = The attacking monster loses 400 [[ATK]] until the end of this [[turn]]. Then, monsters cannot be [[destroy]]ed by that [[battle]].
+  | ja_requirement  = 自分の表側表示モンスターが攻撃を受ける相手モンスター（レベル８以下）の攻撃宣言時、６００ＬＰを払って発動できる。
+  | ja_text         = 攻撃してきたモンスターの攻撃力はターン終了時まで４００ダウンする。その後、お互いのモンスターはその戦闘では破壊されない。
+  | ko_requirement  = 자신의 앞면 표시 몬스터가 공격을 받는 상대 몬스터(레벨 8 이하)의 공격 선언시, 600 LP를 지불하고 발동할 수 있다.
+  | ko_text         = 공격해 온 몬스터의 공격력은 턴 종료시까지 400 내린다. 그 후, 서로의 몬스터는 그 전투로는 파괴되지 않는다.
+  | jp_sets         = 
+  RD/KP06-JP062; Deck Mod Pack: Fierce Thunder Storm!!; Common
+  RD/SD02-JP027; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
+  | kr_sets         = 
+  RD/KP06-KR062; Deck Mod Pack: Fierce Thunder Storm!!; Common
+  RD/SD02-KR027; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
+  | archseries      = Worker Warrior
+  | action          = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | stat_change     = Your opponent's monsters lose ATK
+  | attack          = Prevents other cards being destroyed by battle
+  | life_points     = Pays Life Points for cost
+  | database_id     = 16718
+  }}

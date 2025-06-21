@@ -1,0 +1,35 @@
+title: Abysskite Mapping
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = アビスカイト・マッピング
+  | romaji_name    = Abisukaito Mappingu
+  | ko_name        = 어비스카이트 매핑
+  | image          = AbysskiteMapping-RDKP16-JP-R.png
+  | card_type      = Spell
+  | property       = Normal
+  | condition      = This card's name becomes "[[Abysskite Prevent Wall]]" while in the [[Graveyard]].
+  | requirement    = None
+  | text           = Gain [[LP]] equal to [the number of [[face-up]] [[Sea Serpent]] [[Type]] [[Monster Card|monster]]s on your [[field]]] x 300. Then, you can [[Add a card|add]] 1 "[[Abysskite Party]]" from your Graveyard to your [[hand]].
+  | ja_condition   = 墓地にあるこのカードのカード名は「アビスカイト・プリベントウォール」になる。
+  | ja_requirement = なし
+  | ja_text        = 自分は［自分フィールドの表側表示モンスター（海竜族）の数］×３００ＬＰ回復する。その後、自分の墓地の「アビスカイト・パーティ」１枚を選んで手札に加える事ができる。
+  | ko_condition   = 묘지에 있는 이 카드의 카드명은 "어비스카이트 프리벤트월"이 된다.
+  | ko_requirement = 없음
+  | ko_text        = 자신은 [자신 필드의 앞면 표시 몬스터(해룡족)의 수] × 300 LP 회복한다. 그 후, 자신 묘지의 "어비스카이트 파티" 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets        = 
+  RD/KP16-JP052; Transam of Transcendence; Rare, Secret Rare
+  | kr_sets        = 
+  RD/KP16-KR052; Transam of Transcendence; Rare, Secret Rare
+  | mentions       = 
+  * Abysskite Prevent Wall
+  * Abysskite Party
+  | supports       = Sea Serpent
+  | archseries     = Abysskite
+  | action         = Adds from Graveyard to hand
+  | stat_change    = Changes own name while in the GY
+  | life_points    = You gain Life Points
+  | misc           = Requires control of specific Type
+  | database_id    = 20000
+  }}

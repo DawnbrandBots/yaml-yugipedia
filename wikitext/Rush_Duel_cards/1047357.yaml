@@ -1,0 +1,34 @@
+title: Shiny Shady
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = シャイニーシェイディー
+  | romaji_name    = Shainī Sheidī
+  | ko_name        = 샤이니셰이디
+  | image          = ShinyShady-RD5TH1-JP-ScR.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their [[turn]], [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = Choose up to 2 [[face-up]] [[Effect Monster]]s on the [[field]], and [[Battle position change|change]] them to [[face-down]] [[Defense Position]]. Then, if you chose a monster on your opponent's field with 2600 or more [[Original ATK and DEF|original ATK]] by this [[effect]], gain 1500 [[LP]].
+  | ja_requirement = 相手ターンに相手がモンスターを召喚・特殊召喚した時、手札１枚を墓地へ送って発動できる。
+  | ja_text        = 自分または相手フィールドの表側表示の効果モンスターを合計２体まで選んで裏側守備表示にする。この効果で相手フィールドの元々の攻撃力が２６００以上のモンスターを選んだ場合、さらに自分は１５００ＬＰ回復する。
+  | ko_requirement = 상대 턴에 상대가 몬스터를 일반 소환 / 특수 소환했을 때, 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 또는 상대 필드의 앞면 표시 효과 몬스터를 합계 2장까지 고르고 뒷면 수비 표시로 한다. 이 효과로 상대 필드의 원래 공격력이 2600 이상인 몬스터를 고른 경우, 추가로 자신은 1500 LP 회복한다.
+  | jp_sets        = 
+  RD/ORP2-JP079; Over Rush Pack 2; Ultra Rare, Over Rush Rare
+  RD/5TH1-JP141; 5th Anniversary Pack; Secret Rare
+  | kr_sets        = 
+  RD/ORP2-KR079; Over Rush Pack 2; Ultra Rare, Over Rush Rare
+  | supports       = Effect Monster
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Changes battle positions
+  * Flips monsters face-down
+  | life_points    = You gain Life Points
+  | misc           = Requires control of specific Monster type
+  | database_id    = 20151
+  }}

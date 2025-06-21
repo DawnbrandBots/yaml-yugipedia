@@ -1,0 +1,31 @@
+title: Owlchannel
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = オウルチャンネル
+  | romaji_name    = Ouruchanneru
+  | ko_name        = 오울채널
+  | image          = Owlchannel-RDKP15-JP-C.png
+  | attribute      = LIGHT
+  | types          = Winged Beast / Effect
+  | level          = 4
+  | atk            = 1100
+  | def            = 400
+  | requirement    = If your opponent has 2 or more cards on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = This [[turn]], you [[Damage|take]] no [[effect damage]] from your opponent's [[Trap Card]]s. Then, you can [[Add a card|add]] 1 [[Winged Beast]] [[Type]] [[Monster Card|monster]] with 2200 [[ATK]] from your Graveyard to your [[hand]].
+  | ja_requirement = 相手フィールドにカードが２枚以上ある場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = このターン、自分は相手の罠カードの効果ではダメージを受けない。さらに、自分の墓地のモンスター（鳥獣族／攻撃力２２００）１体を選んで手札に加える事ができる。
+  | ko_requirement = 상대 필드에 카드가 2장 이상 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 이 턴에, 자신은 상대의 함정 카드의 효과로는 데미지를 받지 않는다. 추가로, 자신 묘지의 몬스터(비행야수족 / 공격력 2200) 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets        = 
+  RD/KP15-JP031; Red Reboot of Darkness; Common
+  | kr_sets        = 
+  RD/KP15-KR031; Red Reboot of Darkness; Common
+  | supports       = Winged Beast
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | life_points    = Prevents effect damage
+  | database_id    = 19666
+  }}

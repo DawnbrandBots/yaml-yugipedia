@@ -1,0 +1,33 @@
+title: Imaginary Arc Tower
+wikitext: |-
+  {{Video game text}}
+  {{CardTable2
+  | ja_name                = {{Ruby|虚鋼演機塔|イマジナリー・アーク・タワー}}
+  | romaji_name            = Imajinarī Āku Tawā
+  | ko_name                = 이매지너리 아크 타워
+  | image                  = ImaginaryArcTower-RDEXT1-JP-C.png
+  | card_type              = Spell
+  | property               = Field
+  | requirement            = You have a [[LIGHT]] [[Attribute]] [[Normal Monster]] with 500 [[DEF]] in your [[Graveyard]].
+  | text                   = While this card is [[face-up]] in the [[Field Zone]], face-up non-LIGHT Attribute [[Monster Card|monster]]s on the [[field]] lose 300 [[ATK]], and face-up [[Level]] 9 LIGHT Attribute monsters on the field cannot be [[destroy]]ed by [[Trap Card]] [[effect]]s.
+  | ja_requirement         = このカードは、自分の墓地に通常モンスター（光属性／守備力５００）がいる場合に発動できる。
+  | ja_text                = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示モンスター（光属性以外）の攻撃力は３００ダウンし、お互いのフィールドの表側表示モンスター（レベル９／光属性）は罠カードの効果では破壊されない。
+  | translated_requirement = '''Activate this card''' if you have a LIGHT Attribute Normal Monster with 500 DEF in your Graveyard.
+  | translated_text        = While this card is face-up in the Field Zone, face-up non-LIGHT Attribute monsters on the field lose 300 ATK, and face-up Level 9 LIGHT Attribute monsters on the field cannot be destroyed by Trap Card effects.
+  | ko_requirement         = 이 카드는, 자신 묘지에 일반 몬스터(빛 속성 / 수비력 500)가 있을 경우에 발동할 수 있다.
+  | ko_text                = 이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 앞면 표시 몬스터(빛 속성 이외)의 공격력은 300 내리고, 서로의 필드의 앞면 표시 몬스터(레벨 9 / 빛 속성)는 함정 카드의 효과로는 파괴되지 않는다.
+  | jp_sets                = 
+  RD/EXT1-JP012; Extra Transcend Enhancement Pack; Common
+  | kr_sets                = 
+  RD/EXT1-KR012; Extra Transcend Enhancement Pack; Common
+  | supports               = 
+  * LIGHT
+  * Normal Monster
+  | archseries             = Metarion
+  | stat_change            = All monsters lose ATK
+  | m/s/t                  = Prevents other cards being destroyed by card effects
+  | misc                   = 
+  * Requires control of specific Attribute
+  * Requires control of specific Level
+  | database_id            = 16897
+  }}

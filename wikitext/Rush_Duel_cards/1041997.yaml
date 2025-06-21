@@ -1,0 +1,33 @@
+title: Dice of Greed
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|強|ごう}}{{Ruby|欲|よく}}なサイコロ
+  | romaji_name    = Gōyoku na Saikoro
+  | ko_name        = 욕망의 주사위
+  | image          = DiceofGreed-RDKP16-JP-R.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[send]] 3 cards with an [[effect]] that requires a die roll from your [[hand]] to the [[Graveyard]].
+  | text           = Roll a six-sided die. [[Draw a card|Draw]] cards equal to [the result]. Then, you can [[Add a card|add]] up to 2 "[[Graceful Dice (Rush Duel)|Graceful Dice]]" and/or "[[Skull Dice (Rush Duel)|Skull Dice]]" from your Graveyard to your hand if the result is 3 or lower.
+  | ja_requirement = 自分のデッキのカードが１０枚以上の場合、手札のサイコロを振る効果を持つカード３枚を墓地へ送って発動できる。
+  | ja_text        = サイコロを１回振る。自分は［出た目の数］だけドローする。３以下が出た場合、さらに自分の墓地の「天使のサイコロ」「悪魔のサイコロ」を合計２枚まで選んで手札に加える事ができる。
+  | ko_requirement = 자신의 덱의 카드가 10장 이상일 경우, 패의 주사위를 던지는 효과를 가지는 카드 3장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 주사위를 1회 던진다. 자신은 [나온 눈의 수]만큼 드로우한다. 3 이하가 나왔을 경우, 추가로 자신 묘지의 "천사의 주사위" "악마의 주사위"를 합계 2장까지 고르고 패에 넣을 수 있다.
+  | jp_sets        = 
+  RD/KP16-JP050; Transam of Transcendence; Rare
+  | kr_sets        = 
+  RD/KP16-KR050; Transam of Transcendence; Rare
+  | mentions       = 
+  * Graceful Dice (Rush Duel)
+  * Skull Dice (Rush Duel)
+  | supports       = Die roll
+  | archseries     = Dice (series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Adds from Graveyard to hand
+  | misc           = Die roll
+  | database_id    = 19998
+  }}

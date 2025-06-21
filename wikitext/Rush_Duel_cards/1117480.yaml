@@ -1,0 +1,30 @@
+title: Plasmatic Model Lenoir
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} レノアール
+  | romaji_name    = Purazumatikku Moderu Renoāru
+  | image          = 
+  1; PlasmaticModelLenoir-RDKP21-JP-UR.png; PlasmaticModelLenoir-OW.png
+  2; PlasmaticModelLenoir-RDKP21-JP-ORR-AA.png
+  | current_image  = 1
+  | attribute      = LIGHT
+  | types          = Thunder / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 800
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you have not [[Draw a card|drawn]] a card during this [[Main Phase]], you can draw 1 card.
+  | ja_requirement = このカードを召喚したターンに、手札１枚を墓地へ送って発動できる。
+  | ja_text        = このカードのレベルはターン終了時まで４上がる。自分がこのメインフェイズにドローしていない場合、さらに自分は１枚ドローできる。
+  | jp_sets        = 
+  RD/KP21-JP021; Accel Road of the Attack; Ultra Rare, Secret Rare, Over Rush Rare
+  | archseries     = Plasmatic Model
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | stat_change    = This card gains Levels
+  | database_id    = 21665
+  }}

@@ -1,0 +1,40 @@
+title: Dragon's Fortitude
+wikitext: |-
+  {{CardTable2
+  | fr_name        = Courage du Dragon
+  | de_name        = Tapferkeit des Drachen
+  | it_name        = Fortitudine del Drago
+  | es_name        = Fortaleza de Dragón
+  | ja_name        = {{Ruby|竜|りゅう}}の{{Ruby|執|しゅう}}{{Ruby|念|ねん}}
+  | romaji_name    = Ryū no Shūnen
+  | ko_name        = 용의 집념
+  | ko_rr_name     = 
+  | image          = DragonsFortitude-RDJB01-JP-NPR.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]].
+  | text           = The attacking monster loses [[ATK]] equal to [the [[Level]] of 1 [[Dragon]] [[Type]] monster in your [[Graveyard]]] x 100 until the end of this [[turn]]. Then, [[shuffle]] that monster from your Graveyard into the [[Main Deck|Deck]].
+  | fr_requirement = Lorsqu'un monstre de l'adversaire déclare une attaque.
+  | fr_text        = Le monstre attaquant perd une ATK égale au [Niveau d'1 monstre de Type Dragon dans votre Cimetière] x 100 jusqu'à la fin de ce tour. Ensuite, mélangez ce monstre depuis votre Cimetière dans le Deck.
+  | de_requirement = Wenn ein Monster eines Gegners einen Angriff deklariert.
+  | de_text        = Das angreifende Monster verliert bis zum Ende dieses Spielzugs ATK in Höhe [der Stufe von 1 Monster des Typs Drache auf deinem Friedhof] x 100. Mische dann dieses Monster von deinem Friedhof in das Deck.
+  | it_requirement = Quando un mostro dell'avversario dichiara un attacco.
+  | it_text        = Il mostro attaccante perde ATK pari [al Livello di 1 mostro di Tipo Drago nel tuo Cimitero] x 100 fino alla fine di questo turno. Poi, mischia quel mostro dal tuo Cimitero nel Deck.
+  | es_requirement = Cuando un monstruo del adversario declara un ataque.
+  | es_text        = El monstruo atacante pierde ATK igual [al Nivel de 1 monstruo de Tipo Dragón en tu Cementerio] x 100 hasta el final de este turno. A continuación, baraja el monstruo de tu Cementerio al Deck.
+  | ja_requirement = 相手モンスターの攻撃宣言時に発動できる。
+  | ja_text        = 自分の墓地のモンスター（ドラゴン族）１体を選び、攻撃してきたモンスターの攻撃力をターン終了時まで、［選んだモンスターのレベル］×１００ダウンする。その後、選んだモンスターをデッキに戻す。
+  | ko_requirement = 상대 몬스터의 공격 선언시에 발동할 수 있다.
+  | ko_text        = 자신 묘지의 몬스터(드래곤족) 1장을 고르고, 공격해 온 몬스터의 공격력을 턴 종료시까지, [고른 몬스터의 레벨] × 100 내린다. 그 후, 고른 몬스터를 덱으로 되돌린다.
+  | jp_sets        = 
+  RD/JB01-JP003; Rush Road Guide promotional cards; Normal Parallel Rare
+  | kr_sets        = 
+  RD/KP08-KRS02; Deck Mod Pack: Genesis Master Road!!; Super Rare
+  | supports       = Dragon
+  | action         = 
+  * Activates upon attack declaration
+  * Returns from your Graveyard to your Deck
+  | stat_change    = Your opponent's monsters lose ATK
+  | misc                  =  Requires control of specific Type
+  | database_id    = 15583
+  }}

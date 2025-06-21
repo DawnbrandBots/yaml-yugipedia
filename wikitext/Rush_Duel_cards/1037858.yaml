@@ -1,0 +1,24 @@
+title: LED Pigeon
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|Ｌ|エル}}{{Ruby|Ｅ|イー}}{{Ruby|Ｄ|ディー}}ピジョン
+  | romaji_name    = Eru Ī Dī Pijon
+  | image          = LEDPigeon-RDTDPR-JP-NPR.png
+  | attribute      = LIGHT
+  | types          = Winged Beast / Effect
+  | level          = 3
+  | atk            = 0
+  | def            = 0
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = Choose 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]]. This [[turn]], that monster gains 1000 [[ATK]], and cannot be [[destroyed by battle]].
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = 相手フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は１０００アップし、戦闘では破壊されない。
+  | jp_sets        = 
+  RD/TDPR-JP003; Rush Duel The Legend of Duelist Promotion Pack; Normal Parallel Rare, Super Rare
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your opponent's monsters gain ATK
+  | attack         = Prevents other cards being destroyed by battle
+  | database_id    = 20052
+  }}

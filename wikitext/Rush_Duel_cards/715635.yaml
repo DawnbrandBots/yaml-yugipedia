@@ -1,0 +1,91 @@
+title: List of Rush Duel cards by Konami index number
+wikitext: |-
+  {{Konami index number TOC}}
+  This is a list of {{hardcoded query|{{ #ask: [[Medium::Rush Duel]] [[Database ID::+]] |format=count }}}} ''[[Yu-Gi-Oh! Rush Duel|Rush Duel]]'' cards in the order that they appear in [[Konami]]'s database.
+  The IDs used for ''Rush Duel'' cards are from the same numbering system as those used for ''[[OCG]]''/''[[TCG]]'' cards: ''Rush Duel'' IDs do not overlap with any existing ''OCG''/''TCG'' IDs, and cards that have been featured in both ''Rush Duel'' and the ''OCG''/''TCG'' have separate IDs for each medium. For example, the ''OCG''/''TCG'' version of "[[Blue-Eyes White Dragon]]" has an ID of {{database ID|Blue-Eyes White Dragon}}, but [[Blue-Eyes White Dragon (Rush Duel)|its ''Rush Duel'' version]] has an ID of {{database ID|Blue-Eyes White Dragon (Rush Duel)}}.
+
+  {| class="wikitable sortable card-list"
+  ! ID
+  ! Card
+  ! Release date
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |searchlabel = 
+  }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 500
+  |searchlabel = 
+  }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 1000
+  |searchlabel = 
+  }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 1500
+  |searchlabel = 
+  }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 2000
+  |searchlabel = 
+  }}
+  |-
+  {{ #ask: [[Medium::Rush Duel]] [[Database ID::+]]
+  |?Database ID
+  |?English name (linked)
+  |?Debut date
+  |mainlabel   = -
+  |sort        = Database ID
+  |format      = template
+  |template    = table row
+  |limit       = 500
+  |offset      = 2500
+  |searchlabel = 
+  }}
+  |}{{page uses a hardcoded query}}<!-- might substitute the queries at some point to reformat the table more like [[List of cards by Konami index number (4007–5000)]]; anyone else who wants to is free to do so without waiting on me, of course -->
+
+  [[Category:Rush Duel cards|*]]
+  [[Category:Cards by Konami index number]]

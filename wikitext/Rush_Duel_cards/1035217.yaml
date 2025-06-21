@@ -1,0 +1,41 @@
+title: Accelerator
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|電|でん}}{{Ruby|脳|のう}}{{Ruby|加|か}}{{Ruby|速|そく}}{{Ruby|器|き}}
+  | romaji_name     = Dennō Kasokuki
+  | translated_name = Cyber Accelerator
+  | ko_name         = 전뇌가속기
+  | image           = Accelerator-RDKP16-JP-C.png
+  | card_type       = Spell
+  | property        = Equip
+  | condition       = This card's [[effect]] cannot be [[negate]]d.
+  | requirement     = [[Equip]] to 1 [[face-up]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | text            = The equipped monster gains 300 [[ATK]]. If the original name of the equipped monster is "[[Jinzo (Rush Duel)|Jinzo]]", its [[Continuous Effect]] becomes "Your opponent cannot activate [[Trap Card]]s, and their Trap Card effects are negated".
+  | ja_condition    = このカードの効果は無効化されない。
+  | ja_requirement  = 自分フィールドの表側表示モンスター（機械族）１体に装備できる。
+  | ja_text         = 装備モンスターの攻撃力は３００アップする。装備モンスターの元々のカード名が「人造人間－サイコ・ショッカー」の場合、その永続効果は「相手は罠カードを発動できず、相手の罠カードの効果は無効化される」として適用される。
+  | ko_condition    = 이 카드의 효과는 무효화되지 않는다.
+  | ko_requirement  = 자신 필드의 앞면 표시 몬스터(기계족) 1장에 장착할 수 있다.
+  | ko_text         = 장착 몬스터의 공격력은 300 올린다. 장착 몬스터의 원래의 카드명이 "인조인간 －사이코 쇼커－"일 경우, 그 지속 효과는 "상대는 함정 카드를 발동할 수 없으며, 상대의 함정 카드의 효과는 무효화된다"로서 적용된다.
+  | jp_sets         = 
+  RD/KP16-JP056; Transam of Transcendence; Common
+  | kr_sets         = 
+  RD/KP16-KR056; Transam of Transcendence; Common
+  | mentions        = Jinzo (Rush Duel)
+  | supports        = Machine
+  | archseries      = Jinzo (Rush Duel series)
+  | action          = 
+  * Effect that cannot be negated
+  * Overwrites card effects
+  | stat_change     = Equipped gains ATK
+  | m/s/t           = 
+  * Prevents activation of your opponent's Trap Cards
+  * Negates the effects of your opponent's Trap Cards
+  | misc            = 
+  * Equips only to a specific target
+  * Requires control of specific Type
+  * Requires control of specific card
+  | database_id     = 20004
+  }}

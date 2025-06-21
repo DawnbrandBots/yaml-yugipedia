@@ -1,0 +1,28 @@
+title: Bizarrmor
+wikitext: |-
+  {{CardTable2
+  | ja_name        = {{Ruby|奇|き}}{{Ruby|装|そう}}{{Ruby|天|てん}}{{Ruby|鎧|がい}}
+  | romaji_name    = Kisōtengai
+  | ko_name        = 기장천개
+  | ko_rr_name     = 
+  | image          = Bizarrmor-RDKP07-JP-R.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = Place 3 [[Level]] 7 or higher [[Monster Card|monster]]s with different [[Type]]s from your [[Graveyard]] on either the top or bottom of the [[Main Deck|Deck]] in any order.
+  | text           = [[Add a card|Add]] 1 [[Normal Monster]] from your Graveyard to your [[hand]]. You can make 1 [[face-up]] monster on your opponent's [[field]] lose 1500 [[ATK]] until the end of this [[turn]].
+  | ja_requirement = 自分の墓地の種族が異なるモンスター（レベル７以上）３体を、好きな順番で全てデッキの上に戻すか、好きな順番で全てデッキの下に戻して発動できる。
+  | ja_text        = 自分の墓地の通常モンスター１体を選んで手札に加える。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１５００ダウンできる。
+  | ko_requirement = 자신 묘지의 종족이 다른 몬스터(레벨 7 이상) 3장을, 좋아하는 순서대로 전부 덱 위로 되돌리거나, 좋아하는 순서대로 전부 덱 아래로 되돌리고 발동할 수 있다.
+  | ko_text        = 자신 묘지의 일반 몬스터 1장을 고르고 패에 넣는다. 그 후, 상대 필드의 앞면 표시 몬스터 1장을 골라 그 공격력을 턴 종료시까지 1500 내릴 수 있다.
+  | jp_sets        = 
+  RD/KP07-JP044; Deck Mod Pack: Chaotic Omega Rising!!; Rare
+  | kr_sets        = 
+  RD/KP07-KR044; Deck Mod Pack: Chaotic Omega Rising!!; Rare
+  | supports       = Normal Monster
+  | action         = 
+  * Places cards from the player's Graveyard on the top of the Deck for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Your opponent's monsters lose ATK
+  | database_id    = 17010
+  }}

@@ -1,0 +1,27 @@
+title: Insect Rampage
+wikitext: |-
+  {{CardTable2
+  | ja_name        = インセクト・ランページ
+  | romaji_name    = Insekuto Ranpēji
+  | ko_name        = 인섹트 램페이지
+  | image          = InsectRampage-RDKP09-JP-C.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = All [[face-up]] [[Insect]] [[Type]] monsters on your [[field]] gain 300 [[ATK]] until the end of this [[turn]]. If your opponent has a face-up Insect Type monster on their field, you can also [[destroy]] 1 face-up [[Level]] 8 or lower monster on their field.
+  | ja_requirement = 自分の墓地のモンスター２体をデッキに戻して発動できる。
+  | ja_text        = 自分フィールドの全ての表側表示モンスター（昆虫族）の攻撃力をターン終了時まで３００アップする。相手フィールドに表側表示モンスター（昆虫族）がいる場合、さらに相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊できる。
+  | ko_requirement = 자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text        = 자신 필드의 모든 앞면 표시 몬스터(곤충족)의 공격력을 턴 종료시까지 300 올린다. 상대 필드에 앞면 표시 몬스터(곤충족)가 있을 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴할 수 있다.
+  | jp_sets        = 
+  RD/KP09-JP050; Deck Mod Pack: Galaxy of Fate!!; Common
+  | kr_sets        = 
+  RD/KP09-KR050; Deck Mod Pack: Galaxy of Fate!!; Common
+  | supports       = Insect
+  | anti-supports  = Insect
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | misc           = Requires control of specific Type
+  | database_id    = 17536
+  }}

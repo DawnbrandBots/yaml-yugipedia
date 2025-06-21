@@ -1,0 +1,42 @@
+title: Innocent Lancer
+wikitext: |-
+  {{CardTable2
+  | fr_name        = Lancier Innocent
+  | de_name        = Unschuldiger Lanzenträger
+  | it_name        = Lanciere Innocente
+  | es_name        = Lancero Inocente
+  | ja_name        = イノセント・ランサー
+  | romaji_name    = Inosento Ransā
+  | ko_name        = 이노센트 랜서
+  | image          = InnocentLancer-RDSD04-JP-C.png
+  | attribute      = FIRE
+  | types          = Pyro / Effect
+  | level          = 6
+  | atk            = 1700
+  | def            = 900
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = If this card [[attack]]s a [[Defense Position]] [[Monster Card|monster]] this [[turn]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | fr_requirement = Envoyez 1 carte depuis votre main au Cimetière.
+  | fr_text        = Si cette carte attaque un monstre en Position de Défense ce tour, infligez des dommages de combat perçants (si l'ATK du monstre attaquant est supérieure à la DEF de la cible, infligez la différence).
+  | de_requirement = Lege 1 Karte von deiner Hand auf den Friedhof.
+  | de_text        = Falls diese Karte in diesem Spielzug ein Monster in Verteidigungsposition angreift, fügst du durchschlagenden Kampfschaden zu (falls der ATK des angreifenden Monsters die DEF des Angriffsziels übersteigt, fügst du die Differenz an Schaden zu).
+  | it_requirement = Manda 1 carta dalla tua mano al Cimitero.
+  | it_text        = Se questa carta attacca un mostro in Posizione di Difesa in questo turno, infliggi danno da combattimento perforante (se l'ATK del mostro attaccante supera la DEF del bersaglio attaccato, infliggi la differenza).
+  | es_requirement = Manda al Cementerio 1 carta en tu mano.
+  | es_text        = Si esta carta ataca a un monstruo en Posición de Defensa este turno, inflige daño de batalla de penetración (si el ATK del monstruo atacante excede la DEF del objetivo, inflige la diferencia).
+  | ja_requirement = 手札１枚を墓地へ送って発動できる。
+  | ja_text        = このターン、このカードの攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
+  | ko_requirement = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 이 턴에, 이 카드의 공격은 관통한다(수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다).
+  | jp_sets        = 
+  RD/KP02-JP035; Deck Mod Pack: Shocking Lightning Attack!!; Rare
+  RD/SST1-JP008; Saikyo Starter Deck; Common
+  RD/SD04-JP007; Strongest Battle Deck Maddox - Chemist-Meow Draw of Flames!; Common
+  RD/ATR1-JP011; Attraction Pack; Common
+  | kr_sets        = 
+  RD/KP02-KR035; Deck Mod Pack: Shocking Lightning Attack!!; Rare
+  RD/SD04-KR007; Strongest Battle Deck Maddox - Chemist-Meow Draw of Flames!; Common
+  | action         = Sends from hand to Graveyard for cost
+  | attack         = Piercing
+  | database_id    = 15445
+  }}

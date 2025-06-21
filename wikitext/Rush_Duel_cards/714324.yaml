@@ -1,0 +1,44 @@
+title: Constructor Blockade
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Blocus de Construction
+  | de_name         = Konstruktor-Blockade
+  | it_name         = Ostruzione Costruttore
+  | es_name         = Bloqueador Constructor
+  | ja_name         = {{Ruby|幻|げん}}{{Ruby|刃|ば}}{{Ruby|封|ふう}}{{Ruby|鎖|さ}}
+  | romaji_name     = Genbafūsa
+  | translated_name = Mythic Sword Blockade
+  | ko_name         = 환인봉쇄
+  | ko_rr_name      = 
+  | image           = ConstructorBlockade-RDSBD7-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When your opponent [[Normal Summon]]s a [[Level]] 7 or higher [[monster]], [[send]] 1 [[face-up]] [[Wyrm]] [[Type]] monster from your [[field]] to the [[Graveyard]].
+  | text            = Choose 1 face-up monster on your opponent's field. This [[turn]], your opponent cannot [[attack]] with monsters with the same Type as that monster.
+  | fr_requirement  = Lorsque votre adversaire Invoque Normalement un monstre de min. Niveau 7, envoyez 1 monstre de Type Wyrm face recto depuis votre Terrain au Cimetière.
+  | fr_text         = Choisissez 1 monstre face recto sur le Terrain de votre adversaire. Ce tour, votre adversaire ne peut pas attaquer avec des monstres du même Type que ce monstre.
+  | de_requirement  = Wenn dein Gegner ein Monster der Stufe 7 oder höher als Normalbeschwörung beschwört, legst du 1 offenes Monster des Typs Wyrm von deiner Spielfeldseite auf den Friedhof.
+  | de_text         = Bestimme 1 offenes Monster auf dem Spielfeld deines Gegners. In diesem Spielzug kann dein Gegner nicht mit Monstern angreifen, die zum selben Typ wie dieses Monster gehören.
+  | it_requirement  = Quando il tuo avversario Evoca Normalmente un mostro di Livello 7 o superiore, manda 1 mostro scoperto di Tipo Wyrm dal tuo Terreno al Cimitero.
+  | it_text         = Seleziona 1 mostro scoperto sul Terreno del tuo avversario. In questo turno, il tuo avversario non può attaccare con mostri con lo stesso Tipo di quel mostro.
+  | es_requirement  = Cuando tu adversario Invoca de Modo Normal un monstruo de Nivel 7 o mayor, manda al Cementerio 1 monstruo de Tipo Wyrm boca arriba en tu Campo.
+  | es_text         = Elige 1 monstruo boca arriba en el Campo de tu adversario. Este turno, tu adversario no puede atacar con monstruos del mismo Tipo que ese monstruo.
+  | ja_requirement  = 相手がモンスター（レベル７以上）を召喚した時、自分フィールドの表側表示モンスター（幻竜族）１体を墓地へ送って発動できる。
+  | ja_text         = 相手フィールドの表側表示モンスター１体を選ぶ。このターン、相手は選んだモンスターと同じ種族を持つモンスターで攻撃できない。
+  | ko_requirement  = 상대가 몬스터(레벨 7 이상)를 일반 소환했을 때, 자신 필드의 앞면 표시 몬스터(환룡족) 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 상대 필드의 앞면 표시 몬스터 1장을 고른다. 이 턴에, 상대는 고른 몬스터와 같은 종족을 가지는 몬스터로 공격할 수 없다.
+  | jp_sets         = 
+  RD/KP04-JP054; Deck Mod Pack: Destined Power Destruction!!; Common
+  RD/SBD7-JP030; Strongest Battle Deck Asana - Pride of the Heavy Cavalry Style; Common
+  | kr_sets         = 
+  RD/KP04-KR054; Deck Mod Pack: Destined Power Destruction!!; Common
+  RD/SBD7-KR030; Strongest Battle Deck Asana - Pride of the Heavy Cavalry Style; Common
+  | supports        = Wyrm
+  | archseries      = Constructor
+  | action          = 
+  * Activates upon Normal Summon
+  * Sends from field to Graveyard for cost
+  | attack          = Prevents your opponent's monsters from attacking
+  | misc            = Requires control of specific Type
+  | database_id     = 16177
+  }}

@@ -1,0 +1,39 @@
+title: Intercepting Gaia
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|迎|げい}}{{Ruby|撃|げき}}するガイア
+  | romaji_name    = Geigekisuru Gaia
+  | ko_name        = 요격하는 가이아
+  | image          = InterceptingGaia-RDKP14-JP-R.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] while you have a [[face-up]] [[Level]] 7 monster with 2100 [[DEF]] on your [[field]].
+  | text           = [[Battle position change|Change]] 1 face-up monster on your opponent's field to [[face-down]] [[Defense Position]]. Then, if you have "[[Gaia the Dragon Champion (Rush Duel)|Gaia the Dragon Champion]]" face-up on your field, you can [[destroy]] 1 face-down card on your opponent's field.
+  | ja_requirement = 自分フィールドに表側表示モンスター（レベル７／守備力２１００）がいる場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
+  | ja_text        = 相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。自分フィールドに表側表示の「竜騎士ガイア」がいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで破壊できる。
+  | ko_requirement = 자신 필드에 앞면 표시 몬스터(레벨 7 / 수비력 2100)가 있을 경우, 상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
+  | ko_text        = 상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 자신 필드에 앞면 표시의 "용기사 가이아"가 있을 경우, 추가로 상대 필드의 뒷면 표시의 카드 1장을 고르고 파괴할 수 있다.
+  | jp_sets        = 
+  RD/KP14-JP061; Phoenix of the Roaring Flame; Rare
+  RD/B252-JP012; Battle Pack 2025 Vol.2; Common, Super Rare
+  | kr_sets        = 
+  RD/KP14-KR061; Phoenix of the Roaring Flame; Rare
+  | mentions       = Gaia the Dragon Champion (Rush Duel)
+  | archseries     = Gaia (series)
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | m/s/t          = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific DEF
+  * Requires control of specific card
+  | database_id    = 19338
+  }}

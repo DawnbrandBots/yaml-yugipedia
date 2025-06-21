@@ -1,0 +1,28 @@
+title: Scale of Flames
+wikitext: |-
+  {{CardTable2
+  | ja_name        = {{Ruby|炎|ほのお}}の{{Ruby|天|てん}}{{Ruby|秤|びん}}
+  | romaji_name    = Honō no Tenbin
+  | ko_name        = 화염의 천평칭
+  | image          = ScaleofFlames-RDSD04-JP-C.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Shuffle]] 1 [[Pyro]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = 1 [[face-up]] Pyro Type monster on your [[field]] gains 500 [[ATK]] until the end of this [[turn]]. Then, you can make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn.
+  | ja_requirement = 自分の墓地のモンスター（炎族）１体をデッキに戻して発動できる。
+  | ja_text        = 自分フィールドの表側表示モンスター（炎族）１体を選び、その攻撃力をターン終了時まで５００アップする。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで５００ダウンできる。
+  | ko_requirement = 자신 묘지의 몬스터(화염족) 1장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text        = 자신 필드의 앞면 표시 몬스터(화염족) 1장을 고르고, 그 공격력을 턴 종료시까지 500 올린다. 그 후, 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 500 내릴 수 있다.
+  | jp_sets        = 
+  RD/SD04-JP028; Strongest Battle Deck Maddox - Chemist-Meow Draw of Flames!; Common
+  | kr_sets        = 
+  RD/SD04-KR028; Strongest Battle Deck Maddox - Chemist-Meow Draw of Flames!; Common
+  | supports       = Pyro
+  | archseries     = Chemistry
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = 
+  * Your monsters gain ATK
+  * Your opponent's monsters lose ATK
+  | misc           = Requires control of specific Type
+  | database_id    = 17964
+  }}

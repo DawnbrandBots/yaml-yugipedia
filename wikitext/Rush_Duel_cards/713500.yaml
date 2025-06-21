@@ -1,0 +1,34 @@
+title: Battle Demotion
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = バトル{{Ruby|左|さ}}{{Ruby|遷|せん}}
+  | romaji_name    = Batoru Sasen
+  | ko_name        = 배틀 좌천
+  | image          = BattleDemotion-RDSD02-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Machine]] [[Type]] monster, [[pay]] 600 [[LP]].
+  | text           = [[Battle position change|Change]] 1 [[Attack Position]] monster on your opponent's [[field]] to face-up [[Defense Position]].
+  | ja_requirement = 自分の表側表示モンスター（機械族）が攻撃を受ける相手モンスターの攻撃宣言時、６００ＬＰを払って発動できる。
+  | ja_text        = 相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。
+  | ko_requirement = 자신의 앞면 표시 몬스터(기계족)가 공격을 받는 상대 몬스터의 공격 선언시, 600 LP를 지불하고 발동할 수 있다.
+  | ko_text        = 상대 필드의 공격 표시 몬스터 1장을 고르고 앞면 수비 표시로 한다.
+  | jp_sets        = 
+  RD/KP06-JP063; Deck Mod Pack: Fierce Thunder Storm!!; Common
+  RD/GRD2-JP032; Go Rush Deck - Jointech Attack; Common
+  RD/SD02-JP033; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
+  | kr_sets        = 
+  RD/KP06-KR063; Deck Mod Pack: Fierce Thunder Storm!!; Common
+  RD/GRD2-KR032; Go Rush Deck - Jointech Attack; Common
+  RD/SD02-KR033; Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!; Common
+  | supports       = Machine
+  | archseries     = Worker Warrior
+  | action         = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Changes battle positions
+  | life_points    = Pays Life Points for cost
+  | misc           = Requires control of specific Type
+  | database_id    = 16719
+  }}

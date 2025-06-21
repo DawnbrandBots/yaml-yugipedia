@@ -1,0 +1,31 @@
+title: Cure Shot
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Tir de Guérison
+  | de_name         = Heilender Schuss
+  | it_name         = Colpo Cura
+  | es_name         = Disparo Curativo
+  | ja_name         = アキュア・ショット
+  | romaji_name     = Akyua Shotto
+  | translated_name = Aqure Shot
+  | ko_name         = 아큐아 샷
+  | image           = CureShot-RDB001-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | requirement     = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
+  | text            = Gain [[LP]] equal to [the [[Level]] of 1 [[WATER]] [[Attribute]] monster in your [[Graveyard]]] x 100, and [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's Level] x 100.
+  | ja_requirement  = 相手モンスターの攻撃宣言時に発動できる。
+  | ja_text         = 自分の墓地のモンスター（水属性）１体を選び、自分は［選んだモンスターのレベル］×１００ＬＰ回復し、［選んだモンスターのレベル］×１００ダメージを相手に与える。
+  | ko_requirement  = 상대 몬스터의 공격 선언시에 발동할 수 있다.
+  | ko_text         = 자신 묘지의 몬스터(물 속성) 1장을 골라, 자신은 [고른 몬스터의 레벨] × 100 LP 회복하고, [고른 몬스터의 레벨] × 100 데미지를 상대에게 준다.
+  | jp_sets         = 
+  RD/B001-JP005; Battle Pack Vol.1; Common, Super Rare
+  | kr_sets         = 
+  RD/EV01-KR006; Event Pack 2021 Vol.1; Common
+  | supports        = WATER
+  | action          = Activates upon attack declaration
+  | life_points     = 
+  * You gain Life Points
+  * Damages your opponent
+  | database_id     = 16115
+  }}
