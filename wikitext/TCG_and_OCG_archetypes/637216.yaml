@@ -2,28 +2,30 @@ title: Dragonmaid
 wikitext: |-
   {{Infobox archseries
   | cut_from_names = true
-  | image          = DragonmaidHospitality-MADU-EN-VG-artwork.png
-  | caption        = "[[Parlor Dragonmaid|Parlor]]", "[[Kitchen Dragonmaid|Kitchen]]", "[[Nurse Dragonmaid|Nurse]]", "[[Laundry Dragonmaid|Laundry]]", and "[[House Dragonmaid|House]]" in the artwork of "[[Dragonmaid Hospitality]]".
+  | image          = DragonmaidHospitality-OW-2.png
+  | caption        = "[[House Dragonmaid|House]]", "[[Laundry Dragonmaid|Laundry]]", "[[Chamber Dragonmaid|Chamber]]", "[[Nurse Dragonmaid|Nurse]]", "[[Kitchen Dragonmaid|Kitchen]]", and "[[Parlor Dragonmaid|Parlor]]" in the artwork of "[[Dragonmaid Hospitality]]".
   | ja_name        = ドラゴンメイド
   | romaji         = Doragonmeido
   | sc_name        = 龙女仆
   | fr_name        = Dragonirène
   | de_name        = Drachenmädchen
   | it_name        = Dragonzella
+  | it_trans       = Dragonmaiden
   | ko_name        = 드래곤메이드
   | ko_romanized   = Deuraegonmeideu
   | pt_name        = Dragãozela
   | es_name        = Dragoncella
-  | sets           =
+  | sets           = 
   * [[Ignition Assault]]
   * [[Eternity Code]]
   * [[Rise of the Duelist]]
-  | tcg            =
+  | tcg            = 
   * [[Mystic Fighters]]
   * [[Chaos Impact Special Edition]]
   * [[2021 Tin of Ancient Battles]]
   * [[Magnificent Mavens]]
-  | ocg            =
+  * [[Battles of Legend: Monster Mayhem]]
+  | ocg            = 
   * [[Deck-Build Pack: Mystic Fighters]]
   * [[Selection 5]]
   * [[Quarter Century Trinity Box]]
@@ -40,7 +42,7 @@ wikitext: |-
   The "Dragonmaid" archetype appears to take inspiration from the ''[[wikipedia:Miss Kobayashi's Dragon Maid|Miss Kobayashi's Dragon Maid]]'' manga series, which also features the concept of dragons that turn into humanoid maids.
 
   ===Base===
-  The [[Main Deck]] monsters consist of two lineups: Level 2/3/4 humanoid maids, and Level 7/8 dragons. The maids (except "Lady's") are the humanoid versions of the dragons, with every pair sharing the same Attribute (and having a predominant color matching that Attribute) but having a 5-Level difference.
+  The [[Main Deck]] monsters consist of two lineups: Level 2/3/4 humanoid maids, and Level 7/8/9 dragons. The maids (except "Lady's") are the humanoid versions of the dragons, with every pair sharing the same Attribute (and having a predominant color matching that Attribute) but having a 5-Level difference.
 
   === Etymology ===
   The "Dragonmaid" monsters' human forms are broadly based on [[wikipedia:Maid#Types|maid classifications]] found in late modern period European domestic worker hierarchies.
@@ -62,7 +64,7 @@ wikitext: |-
   | [[File:LIGHT.svg|24px]] [[LIGHT]]
   | [[House Dragonmaid|House]]
   | Hauskee
-  | [[wikipedia:Housekeeper (domestic worker)|Housekeeping]]
+  | [[wikipedia:Housekeeper (domestic worker)|Housekeeper]]
   | [[Dragonmaid Sheou|Sheou]]
   | Strahl
   | ''Strahl'' ("ray")
@@ -70,23 +72,23 @@ wikitext: |-
   | [[File:LIGHT.svg|24px]] [[LIGHT]]
   | [[Lady's Dragonmaid|Lady's]]
   | Latys
-  | [[wikipedia:Lady's maid |Lady's Maid]]
-  | 
-  | 
-  | 
+  | [[wikipedia:Lady's maid|Lady's maid]]
+  | —
+  | —
+  | —
   |-
   | [[File:DARK.svg|24px]] [[DARK]]
   | [[Chamber Dragonmaid|Chamber]]
   | Chame
-  | [[wikipedia:Bedroom|Bedchamber]]
-  | TBD
-  | [[Dragonmaid Stern|Stern]]
+  | [[wikipedia:Bedroom|Chamber]] maid
+  | [[Dragonmaid Cehrmba|Cehrmba]]
+  | Stern
   | ''Stern'' ("star")
   |-
   | [[File:WATER.svg|24px]] [[WATER]]
   | [[Laundry Dragonmaid|Laundry]]
   | Laudry
-  | [[wikipedia:Laundry|Laundry]]
+  | [[wikipedia:Laundry|Laundry]] maid
   | [[Dragonmaid Nudyarl|Nudyarl]]
   | Fluss
   | ''Fluss'' ("river")
@@ -94,7 +96,7 @@ wikitext: |-
   | [[File:EARTH.svg|24px]] [[EARTH]]
   | [[Nurse Dragonmaid|Nurse]]
   | Nasary
-  | [[wikipedia:Nursery (room)|Nursery]]
+  | [[wikipedia:Nursemaid|Nursemaid]]
   | [[Dragonmaid Ernus|Ernus]]
   | Erde
   | ''Erde'' ("earth")
@@ -102,7 +104,7 @@ wikitext: |-
   | [[File:WIND.svg|24px]] [[WIND]]
   | [[Parlor Dragonmaid|Parlor]]
   | Parla
-  | [[Wikipedia:Parlour|Parlour]]
+  | [[Wikipedia:Parlour|Parlour]] maid
   | [[Dragonmaid Lorpar|Lorpar]]
   | Luft
   | ''Luft'' ("air")
@@ -110,14 +112,17 @@ wikitext: |-
   | [[File:FIRE.svg|24px]] [[FIRE]]
   | [[Kitchen Dragonmaid|Kitchen]]
   | Tillroo
-  | [[wikipedia:Kitchen|Kitchen]]/[[wikipedia:Still room|Still room]]
+  | [[wikipedia:Kitchen maid (domestic worker)|Kitchen]]/[[wikipedia:Still room maid|still room maid]]
   | [[Dragonmaid Tinkhec|Tinkhec]]
   | Flamme
   | ''Flamme'' ("flame")
   |}
 
   == Playing style ==
-  The "Dragonmaid" archetype revolves around swarming its low-Level members and using their on-summon effects to amass resources during the Main Phase 1, switching them out for their dragon forms during the Battle Phase, and then switching back into the humanoid forms afterwards. The archetype uses self-bouncing and Graveyard recursion as its main methods of gaining card advantage and triggering beneficial effects, has two Extra Deck Fusion boss monsters, and is backed up with many powerful Spells/Traps.
+  The "Dragonmaid" archetype revolves around swarming its low-Level members and using their on-summon effects to amass resources during either the Standby or a Main Phase, switching them out for their dragon forms during the Battle Phase, and then switching back into the humanoid forms afterwards.
+
+  The archetype uses self-bouncing and Graveyard recursion as its main methods of gaining card advantage and triggering beneficial effects, has three Extra Deck Fusion boss monsters, and is backed up with many powerful Spells/Traps.
+
   The low-Level humanoid forms of the "Dragonmaid" monsters each have two effects:
   # ''If this card is Normal or Special Summoned: You can [On-Summon Effect].''
   # ''At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 [high-Level] "Dragonmaid" monster from your hand or GY.''
@@ -150,13 +155,17 @@ wikitext: |-
   | Add 1 "Dragonmaid" monster from your Deck to your hand, except "Kitchen Dragonmaid", then send 1 "Dragonmaid" monster from your hand to the GY.
   |}
 
-  Within these cards, "Chamber" is the archetype's main Spell/Trap searcher. "Parlor" and "Kitchen" are situational card searchers that require setup for maximum effectiveness or otherwise can only send cards to the GY. "Nurse" is an advantage generator that can Special Summon additional "Dragonmaid" monsters (and trigger their effects), and is often summoned and triggered in the opponent's turn. Lastly, "Laundry" is a situational GY setup tool that can theoretically provide significant GY advantage, but at the cost of inconsistency.
+  Within these cards, "Chamber" is the archetype's main Spell/Trap searcher. After "Lady's" release, both "Parlor" and "Kitchen" became 1-card starters that can bring out multiple powerful disruptions entirely on their own. These three are the most commonly played Dragonmaid monsters.
+
+  "Nurse" is an advantage generator that can Special Summon additional "Dragonmaid" monsters (and trigger their effects), and is often summoned and triggered in the opponent's turn. Lastly, "Laundry" is a situational GY setup tool that can theoretically provide significant GY advantage, but at the cost of inconsistency.
 
   Special Summoning a high-Level "Dragonmaid" monster from the GY with the low-Level "Dragonmaid" monsters' switching effect grants a +1 in card advantage, as they bounce themselves to the hand to do so.
-  The high-Level Dragonic forms of the "Dragonmaid" monsters each have three effects:
+  Most of the high-Level Dragonic forms of the "Dragonmaid" monsters each have three effects:
   # ''Cannot be destroyed by card effects while you control a Fusion Monster.''
   # ''You can discard this card, [Discard Effect]''
   # ''At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 [low-Level] "Dragonmaid" monster from your hand.''
+
+  Instead of receiving protection itself, "Cehrmba" forsakes the first effect from the above list and instead prevents your Fusion Monsters from being destroyed by card effects while you control it.
 
   {| class="wikitable mw-collapsible autocollapse"
   ! colspan = 3 | High-Level Dragonmaids
@@ -166,8 +175,8 @@ wikitext: |-
   ! Discard Effect
   |-
   | [[File:DARK.svg|24px]] [[DARK]]
-  | [[Dragonmaid Stern|Stern]]
-  | Special Summon 1 "Dragonmaid" monster from your GY or banishment, except "Dragonmaid Stern".
+  | [[Dragonmaid Cehrmba|Cehrmba]]
+  | Special Summon 1 "Dragonmaid" monster from your GY or banishment, except "Dragonmaid Cehrmba".
   |-
   | [[File:WATER.svg|24px]] [[WATER]]
   | [[Dragonmaid Nudyarl|Nudyarl]]
@@ -188,7 +197,9 @@ wikitext: |-
 
   The Dragonic "Dragonmaid" monsters have high statlines, making them the deck's main battle monsters. They are functionally effectless on the field aside from their switching effect, so they also possess discard effects to provide some value in case they're stuck in the player's hand.
 
-  The switching effects of the "Dragonmaid" monsters are generally Level-restricted, meaning that not all of them can switch to all high-level or low-level "Dragonmaid" monsters. Specifically, the Level 2 monsters "Nurse" and "Laundry" can each switch with Level 7 "Nudyarl" or "Ernus", and the Level 3 monsters "Parlor" and "Kitchen" can each switch with the Level 8 monsters "Lorpar" or "Tinkhec". None of the aforementioned Level 7/8 monsters can switch into "Chamber", but it can switch into any of them.
+  The switching effects of the "Dragonmaid" monsters are generally Level-restricted, meaning that not all of them can switch to all high-level or low-level "Dragonmaid" monsters. Specifically, the Level 2 monsters "Nurse" and "Laundry" can each switch with Level 7 "Nudyarl" or "Ernus", and the Level 3 monsters "Parlor" and "Kitchen" can each switch with the Level 8 monsters "Lorpar" and "Tinkhec".
+
+  The DARK "Dragonmaids" are jacks of all trades, as "Chamber" can bring back from the GY any high-level "Dragonmaid" (including the Fusion Monsters, as long as they were properly Summoned) while "Cehrmba" can Special Summon any Level 4 or lower "Dragonmaid" from your hand.
 
   {| class="wikitable mw-collapsible autocollapse"
   ! colspan = 7 | Dragonmaid Switching Effects
@@ -208,7 +219,7 @@ wikitext: |-
   | [[Chamber Dragonmaid|Chamber]]
   | 4
   | 7+<ref group="lower-alpha">"[[Chamber Dragonmaid|Chamber]]" can switch to all high-Level "Dragonmaid" monsters, including the Fusion Monsters.</ref>
-  | [[Dragonmaid Stern|Stern]]
+  | [[Dragonmaid Cehrmba|Cehrmba]]
   | 9
   | 4 or less
   |-
@@ -239,15 +250,22 @@ wikitext: |-
   ! colspan=7 | <references group="lower-alpha"/>
   |}
 
-  The pair of "Dragonmaid" Fusion Monsters, "[[House Dragonmaid]]" and "[[Dragonmaid Sheou]]", are the deck's main boss monsters. They can easily be made using a pair of low-Level and/or high-Level "Dragonmaid" monsters, and both have two effects: a Special Summoning effect, and a disruptive effect.
+  The trio of "Dragonmaid" Fusion Monsters, "[[Lady's Dragonmaid]]", "[[House Dragonmaid]]" and "[[Dragonmaid Sheou]]", are the deck's main boss monsters. "House" and "Sheou" can easily be made using a pair of low-Level and/or high-Level "Dragonmaid" monsters, and both have two effects: a Special Summoning effect, and a disruptive effect.
+
+  "Lady's" cannot be Fusion Summoned and has an alternative Summoning condition instead, requiring you to banish 1 "Dragonmaid" from your field and 1 from your GY, both of the same attribute but different Levels (the WIND "Parlor" and "Lorpar" for example). In exchange for the hefty cost, "Lady's" immediatly brings out any small Maid from the Deck and allows you to Fusion Summon essentially for free during each Standby Phase, by using monsters on your field OR banished cards and returning them to the Deck, lending herself to a very grindy playstyle of reusing the same resources over and over.
 
   {| class="wikitable mw-collapsible autocollapse"
-  ! colspan = 4 | House Dragonmaid & Dragonmaid Sheou
+  ! colspan = 4 | Dragonmaid Fusion Monsters
   |-
   ! Dragonmaid
   ! Fusion Materials
   ! Effect 1
   ! Effect 2
+  |-
+  | [[Lady's Dragonmaid|Lady's]]
+  | 2 "Dragonmaid" with the same Attribute but different Levels (but cannot be Fusion Summoned, instead [[Special Summon-only monster|must first be Special Summoned by]] banishing 1 material from your field and 1 from your GY).
+  | ([[HOPT]]) If Special Summoned in any way, it can Special Summon 1 Level 4 or lower "Dragonmaid" from your Deck.
+  | ([[HOPT]]) During each Standby Phase, you can Fusion Summon any Dragon Fusion by returning the required materials from your field or banished cards to the Deck.
   |-
   | [[House Dragonmaid|House]]
   | 1 "Dragonmaid" + 1 Dragon
@@ -260,23 +278,34 @@ wikitext: |-
   | ([[HOPT]]) When your opponent activates a card or effect, you can negate and destroy it, then return this card to the Extra Deck and Special Summon 1 "House Dragonmaid" from Extra Deck.
   |}
 
-  "Sheou" is usually the better target to be Fusion Summoned, as her effects are stronger, more flexible, and she can still turn into "House" if needed. In terms of supportive Spell/Traps, the most important Spells and Traps are "[[Dragonmaid Changeover]]", the archetype's Fusion Spell that can recover itself from GY as an immediate +1, "[[Dragonmaid Hospitality]]", which can Special Summon a "Dragonmaid" monster from hand or GY and then search out another "Dragonmaid" monster with the same Attribute (by milling it), and "[[Dragonmaid Tidying]]", a bounce disruption that also has a GY effect that can Special Summon "Dragonmaid" monsters from hand or GY.
+  Your priority is usually getting to "Lady's" ASAP, which shouldn't be too hard as any of "Chamber", "Kitchen" or "Parlor" can do so by herself (in the case of "Chamber", you'd require to search "[[Dragonmaid Hospitality]]" then make a Link-1 using her so you can revive her with "Hospitality" and send "Cehrmba" in the process).
+
+  "Lady's" will then bring out another "Dragonmaid" so it can use its effect, enabling either a Link Summon (typically "[[Hieratic Seal of the Heavenly Spheres]]") or a Fusion Summon. She'll also give you a Fusion during the next Standby Phase essentially for free so it's your best play under most circumstances.
+
+  Should "Lady's" get disrupted, or if you have the chance to do so in addition to her play, your priority for Fusion Summoning is always "Sheou", as it has stronger and more flexible effects than "House" and it rotates into her after negating anyway. Because of "Sheou"'s Summoning requirements, high-level Dragons with generic, useful effects like most "[[Bystial]]" monsters or "[[Fantastical Dragon Phantazmay]]" tend to be rather favored in the Deck as well.
+
+  The most commonly used in-theme support cards are "[[Dragonmaid Changeover]]", "[[Dragonmaid Hospitality]]" and "[[Dragonmaid Tidying]]". "Changeover" is "Parlor"'s default target in most situations and lets you Fusion Summon over and over because it can recycle itself by bouncing Maids to the hand, while "Hospitality" brings out a body from hand or GY while sending the corresponding Attribute counterpart of the Summoned Maid from the Deck to the GY, easily enabling the Summon of "Lady's" or the effect of "Cehrmba". "Tidying" is a superb disruption that doubles as revival, a rather flexible card useful in both turns in either your field or GY and "Parlor"'s second favorite target. It can also bounce ANY Dragon to your hand, making it interesting when paired with other Dragons with useful effects like "[[Bystial Magnamhut]]" or "[[Fantastical Dragon Phantazmay]]".
+
+  When the Deck goes off successfully, it becomes a cycle where the small Maids bring out "Lady's", which sets up "Sheou" during the next Standby Phase, which will cycle into "House" when it negates, then "Lady's" can fuse "House" again returning her to the Extra Deck to bring out "Sheou" once more and keep doing that during subsequent turns, over and over again.
+
+  "Lady's" can Fusion Summon ANY Dragon Fusion too, so cards like "[[Light and Darkness Dragonlord]]", "[[Filia Regis]]" and even "[[Borreload Furious Dragon]]" are good alternatives to have, as you may be able to Fusion Summon "Sheou" with "[[Dragonmaid Changeover]]" before "Lady's" can have a chance to do so, allowing more complex setups.
 
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
   |effect monsters =
-  * [[Chamber Dragonmaid]]
   * [[Dragonmaid Ernus]]
   * [[Dragonmaid Tinkhec]]
   * [[Dragonmaid Lorpar]]
   * [[Dragonmaid Nudyarl]]
-  * [[Dragonmaid Stern]]
-  * [[Kitchen Dragonmaid]]
-  * [[Laundry Dragonmaid]]
+  * [[Dragonmaid Cehrmba]]
   * [[Nurse Dragonmaid]]
+  * [[Kitchen Dragonmaid]]
   * [[Parlor Dragonmaid]]
+  * [[Laundry Dragonmaid]]
+  * [[Chamber Dragonmaid]]
   * [[Dark End Evaporation Dragon]]
   * [[Light End Sublimation Dragon]]
+  * [[Fantastical Dragon Phantazmay]]
   * [[Dragon Tail Fymena]]
   * [[Dragonic Warrior]]
   * [[Red-Eyes Black Fullmetal Dragon]]
@@ -284,6 +313,10 @@ wikitext: |-
   * [[Red-Eyes Metal Claws Dragon]]
   * [[Tempest, Dragon Ruler of Storms]]
   * [[Tidal, Dragon Ruler of Waterfalls]]
+  * [[Bystial Magnamhut]]
+  * [[Bystial Druiswurm]]
+  * [[Bystial Baldrake]]
+  * [[The Bystial Lubellion]]
 
   |tuner monsters =
   * [[Debris Dragon]]
@@ -331,6 +364,7 @@ wikitext: |-
   * [[Guardragon Elpy]] ''(Traditional Format only)''
   * [[Guardragon Pisty]]
   * [[Hieratic Seal of the Heavenly Spheres]]
+  * [[Striker Dragon]] ''(to quickly put a monster in the GY for "Hospitality")''
 
   |normal spells =
   * [[Dragonmaid Changeover]]
