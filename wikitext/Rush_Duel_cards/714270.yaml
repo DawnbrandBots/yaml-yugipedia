@@ -11,8 +11,8 @@ wikitext: |-
   | level           = 7
   | atk             = 2300
   | def             = 1800
-  | requirement     = If your opponent has a [[monster]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Choose 1 [[Level]] 5 or higher [[face-up]] [[Fiend]] [[Type]] monster on your [[field]]. This [[turn]], the chosen monster inflicts [[piercing]] [[battle damage]] (if the [[ATK]] of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
+  | requirement     = If your opponent has a [[Monster Card|monster]] on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = Choose 1 [[Level]] 5 or higher [[face-up]] [[Fiend]] [[Type]] monster on your field. This [[turn]], the chosen monster [[Damage|inflict]]s [[piercing]] [[battle damage]] (if the [[ATK]] of the [[attack]]ing monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
   | ja_requirement  = 相手フィールドにモンスターがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text         = 自分フィールドの表側表示モンスター（レベル５以上／悪魔族）１体を選ぶ。このターン、そのモンスターの攻撃力は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
   | ko_requirement  = 상대 필드에 몬스터가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
@@ -21,8 +21,8 @@ wikitext: |-
   RD/KP05-JP038; Deck Mod Pack: Dynamic Eternal Live!!; Super Rare
   | kr_sets         = 
   RD/KP05-KR038; Deck Mod Pack: Dynamic Eternal Live!!; Super Rare
-  | archseries      = Star Knight
   | supports        = Fiend
+  | archseries      = Star Knight
   | action          = Sends from the top of your Deck to your Graveyard for cost
   | attack          = Piercing
   | misc            = 
