@@ -55,6 +55,30 @@ wikitext: |-
   # Special Summon "[[R.B. Ga10 Driller]]" to the other zone adjacent to "[[R.B. VALCan Booster]]."
   }}
 
+  '''[[Rescue-ACE Air Lifter]]'''
+
+  {{Combo steps
+  | opening = [[Rescue-ACE Air Lifter]]
+  | end     = "[[R.B. The Brute Blues]]" pointing to any 2 "R.B." Main Deck monsters + "[[R.B. Funk Dock]]" + [[Rescue-ACE Turbulence]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]]
+  | steps   = 
+  # Normal Summon Lifter and use its effect to search [[EMERGENCY!]].
+  # EMERGENCY! summon Hydrant tribute Lifter
+  # Hydrant search Turbulence
+  # Turbulence banish Lifter + EMERGENCY! to summon itself
+  # Turbulence set [[ALERT!]], RESCUE!, CONTAIN!, and EXTINGUISH!
+  # Hydrant allows you to activate ALERT! the turn it was set to search [[Rescue-ACE Preventer]]
+  # Hydrant + Turbulence = [[R.B. VALCan Booster]], then use its effect to search [[R.B. Funk Dock]]
+  # Funk Dock search an R.B. Main Deck monster, then use its effect to summon itself. 
+  # R.B. = [[Clockwork Knight]]
+  # Preventer banish Turbulence summon itself
+  # Knight tribute Preventer summon Hydrant
+  # Preventer summon the banished Turbulence
+  # Booster summon the R.B. from GY and move itself. 
+  # Booster + Knight = [[R.B. The Brute Blues]]
+  # Brute search [[R.B. Stage Landing]]
+  # Landing summon a second R.B. Main Deck monster
+  }}
+
   While the archetype has an Extra Deck affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can avoid the lock through external methods:
 
   '''Any 2 Machines'''
@@ -105,6 +129,7 @@ wikitext: |-
   * [[R.B. Ga10 Driller]]
   * [[R.B. Ga10 Cutter]]
   * [[R.B. VALCan Rocket]]
+  * [[Girsu, the Orcust Mekk-Knight]]
   * [[Gizmek Arakami, the Hailbringer Hog]]
   * [[Gizmek Inaba, the Hopping Hare of Hakuto]]
   * [[Gizmek Naganaki, the Sunrise Signaler]]
@@ -138,6 +163,8 @@ wikitext: |-
   * [[R.B. The Brute Blues]]
   * [[Clockwork Knight]]
   * [[Ancient Gear Ballista]]
+  * [[Sky Striker Ace - Camellia]] (with [[Sky Striker Mecha - Hornet Drones]])
+  ** [[Sky Striker Ace - Kagari]]
 
   |normal spells =
   * [[R.B. Stage Landing]]
@@ -157,6 +184,7 @@ wikitext: |-
 
   |quick-play spells =
   * [[Limiter Removal]]
+  * [[Sky Striker Mecha - Hornet Drones]]
   * [[Urgent Schedule]]
 
   |normal traps =
