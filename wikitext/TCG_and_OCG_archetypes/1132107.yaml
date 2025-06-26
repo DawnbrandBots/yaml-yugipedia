@@ -81,10 +81,24 @@ wikitext: |-
 
   While the archetype has an Extra Deck affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can avoid the lock through external methods:
 
-  '''Any 2 Machines'''
+  '''2 Effect Monsters'''
 
   {{Combo steps
-  | opening = Any 2 Machine monsters
+  | opening = 2 Effect Monsters
+  | end     = 2 Machine Monsters (see next combo)
+  | steps   = 
+  # Link Summon [[Sky Striker Ace - Camellia]] and use its effect to send [[Sky Striker Mecha - Hornet Drones]]
+  # Link Camellia into [[Sky Striker Ace - Kagari]] and use its effect to recycle the Hornet Drones
+  # Activate Hornet Drones to summon a [[Sky Striker Ace Token]]
+  # Link Kagari into any Link-1 Sky Striker with a downwards pointing arrow (Amatsu, Hayate, or Kaina)
+  # Link the token into another Link-1 Sky Striker
+  # Proceed from here with the "2 Machine Monsters" combo
+  }}
+
+  '''2 Machine Monsters'''
+
+  {{Combo steps
+  | opening = 2 Machine Monsters
   | end     = "[[R.B. The Brute Blues]]" pointing to any 1 "R.B." Main Deck monster + "[[R.B. Funk Dock]]" in the Field Zone
   | steps   = 
   # Link Summon "[[R.B. VALCan Booster]]", use its effect to search "[[R.B. Funk Dock]]".
