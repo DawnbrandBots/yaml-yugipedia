@@ -11,11 +11,19 @@ wikitext: |-
   | level          = 4
   | atk            = 1600
   | def            = 1600
+  | ritualcard     = Bluefin Oath
   | requirement    = During your [[Main Phase]] that you [[Ritual Summon]]ed this card.
-  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[Fish]] [[Type]] [[monster]] or [[Spell Card]] is among the cards sent, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[Fish]] [[Type]] [[Monster Card|monster]] or [[Spell Card]] is among the cards sent, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP01-JP084; Advance Pack: Devil's Ceremony; Ultra Rare
+  | supports       = Fish
+  | action         = 
+  * Activates during the turn in which it was Ritual Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id    = 
   }}

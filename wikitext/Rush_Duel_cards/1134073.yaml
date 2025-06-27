@@ -2,15 +2,20 @@ title: United We Stand (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = UnitedWeStand-RDAP01-JP-OP.png
-  | card_type       = Spell
-  | property        = Equip
-  | requirement     = [[Equip]] to 1 [[face-up]] [[monster]] on your [[field]].
-  | text            = The equipped monster gains [[ATK]]/[[DEF]] equal to [the number of [[face-up]] monsters on your field] x 800.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = UnitedWeStand-RDAP01-JP-OP.png
+  | card_type      = Spell
+  | property       = Equip
+  | requirement    = [[Equip]] to 1 [[face-up]] [[Monster Card|monster]] on your [[field]].
+  | text           = The equipped monster gains [[ATK]]/[[DEF]] equal to [the number of face-up monsters on your field] x 800.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/AP01-JP086; Advance Pack: Devil's Ceremony; Super Rare
-  | misc            = Legend Card
-  | database_id     = 
+  | stat_change    = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | misc           = 
+  * Equips only to a specific target
+  * Legend Card
+  | database_id    = 
   }}
