@@ -55,30 +55,6 @@ wikitext: |-
   # Special Summon "[[R.B. Ga10 Driller]]" to the other zone adjacent to "[[R.B. VALCan Booster]]."
   }}
 
-  '''[[Rescue-ACE Air Lifter]]'''
-
-  {{Combo steps
-  | opening = [[Rescue-ACE Air Lifter]]
-  | end     = "[[R.B. The Brute Blues]]" pointing to any 2 "R.B." Main Deck monsters + "[[R.B. Funk Dock]]" + [[Rescue-ACE Turbulence]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]]
-  | steps   = 
-  # Normal Summon Lifter and use its effect to search [[EMERGENCY!]].
-  # EMERGENCY! summon Hydrant tribute Lifter
-  # Hydrant search Turbulence
-  # Turbulence banish Lifter + EMERGENCY! to summon itself
-  # Turbulence set [[ALERT!]], RESCUE!, CONTAIN!, and EXTINGUISH!
-  # Hydrant allows you to activate ALERT! the turn it was set to search [[Rescue-ACE Preventer]]
-  # Hydrant + Turbulence = [[R.B. VALCan Booster]], then use its effect to search [[R.B. Funk Dock]]
-  # Funk Dock search an R.B. Main Deck monster, then use its effect to summon itself. 
-  # R.B. = [[Clockwork Knight]]
-  # Preventer banish Turbulence summon itself
-  # Knight tribute Preventer summon Hydrant
-  # Preventer summon the banished Turbulence
-  # Booster summon the R.B. from GY and move itself. 
-  # Booster + Knight = [[R.B. The Brute Blues]]
-  # Brute search [[R.B. Stage Landing]]
-  # Landing summon a second R.B. Main Deck monster
-  }}
-
   While the archetype has an Extra Deck affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can avoid the lock through external methods:
 
   '''2 Effect Monsters'''
@@ -114,6 +90,33 @@ wikitext: |-
   # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and "Knight". Continue at Step 5.
   }}
 
+  '''Girsu the Orcust Mekk-Knight'''
+
+  {{Combo steps
+  | opening = [[Girsu, the Orcust Mekk-Knight]] + 1 card in hand
+  | end     = [[R.B. The Brute Blues]] pointing to [[R.B. Ga10 Driller]] and [[R.B. Ga10 Cutter]] + [[R.B. Funk Dock]] + [[Galatea, the Orcust Automaton]] + [[Orcust Crescendo]] + [[World Legacy's Sorrow]]
+  | steps   = 
+  # Normal Summon Girsu and send [[World Legacy - "World Wand"]] to the GY
+  # Girsu summon a [[World Legacy Token]] to each side of the field
+  # Girsu = [[Galatea-I, the Orcust Automaton]]
+  # Galatea-I send a card in hand to search [[World Legacy - "World Armor"]]
+  # World Legacy Token = [[Clockwork Knight]]
+  # Knight tribute Galatea-I to summon Wand from GY
+  # Knight + Wand = [[R.B. VALCan Booster]]
+  # Wand summon Armor from hand, and Booster search [[R.B. Funk Dock]]
+  # Armor search [[World Legacy's Sorrow]]
+  # Booster + Armor = [[R.B. The Brute Blues]]
+  # Brute search [[R.B. VALCan Rocket]] (or [[R.B. Ga10 Driller]])
+  # Funk Dock search [[R.B. Ga10 Cutter]]
+  # Summon Cutter and Rocket to Brute's middle and right zones
+  # Rocket pay 1000 to destroy itself and the opponent's token
+  # Funk Dock gain you 500 LP and summon [[R.B. Ga10 Driller]] to the same zone
+  # Banish Girsu from GY to summon Galatea-I
+  # Banish Wand from GY to summon banished Girsu
+  # Galatea-I + Girsu = [[Galatea, the Orcust Automaton]]
+  # Galatea shuffle Wand to set [[Orcust Crescendo]]
+  }}
+
   '''Machina Redeployment'''
 
   {{Combo steps
@@ -134,6 +137,30 @@ wikitext: |-
   # Effect of "Brute Blues" to add either "Ga10 Driller" or "Ga10 Cutter" (or "[[R.B. Funk Dock]]", and then one of the aforementioned cards)
   # Summon "Ga10 Driller" and "Ga10 Cutter" to zones that "Brute Blues" points to
   # Draw 2 cards by using "Tunneller" to shuffle "Gear Gigant", "Vespenato", "Ballista", "Gearframe" and "Box" back into Deck
+  }}
+
+  '''Rescue-ACE Air Lifter'''
+
+  {{Combo steps
+  | opening = [[Rescue-ACE Air Lifter]]
+  | end     = [[R.B. The Brute Blues]] pointing to any 2 R.B. Main Deck monsters + [[R.B. Funk Dock]] + [[Rescue-ACE Turbulence]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]]
+  | steps   = 
+  # Normal Summon Lifter and use its effect to search [[EMERGENCY!]].
+  # EMERGENCY! summon Hydrant tribute Lifter
+  # Hydrant search Turbulence
+  # Turbulence banish Lifter + EMERGENCY! to summon itself
+  # Turbulence set [[ALERT!]], RESCUE!, CONTAIN!, and EXTINGUISH!
+  # Hydrant allows you to activate ALERT! the turn it was set to search [[Rescue-ACE Preventer]]
+  # Hydrant + Turbulence = [[R.B. VALCan Booster]], then use its effect to search [[R.B. Funk Dock]]
+  # Funk Dock search an R.B. Main Deck monster, then use its effect to summon itself. 
+  # R.B. = [[Clockwork Knight]]
+  # Preventer banish Turbulence summon itself
+  # Knight tribute Preventer summon Hydrant
+  # Preventer summon the banished Turbulence
+  # Booster summon the R.B. from GY and move itself. 
+  # Booster + Knight = [[R.B. The Brute Blues]]
+  # Brute search [[R.B. Stage Landing]]
+  # Landing summon a second R.B. Main Deck monster
   }}
 
   ===Recommended cards===
