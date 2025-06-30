@@ -8,7 +8,7 @@ wikitext: |-
   | image          = OuTerverSeDiversityScream-RDKP22-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[monster]] [[declare]]s an [[attack]] while you have "[[OuTerverSe]]" in your [[Graveyard]].
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have "[[OuTerverSe]]" in your [[Graveyard]].
   | text           = The attacking monster loses 1000 [[ATK]] until the end of this [[turn]]. Then, if you have 2 or more different [[Attribute]]s [[face-up]] on your [[field]], you can make all face-up monsters on your opponent's field lose 2000 ATK until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
@@ -16,5 +16,8 @@ wikitext: |-
   RD/KP22-JP057; OuTerverSe of Terror; Common
   | mentions       = OuTerverSe
   | archseries     = OuTerverSe (series)
+  | action         = Activates upon attack declaration
+  | stat_change    = Your opponent's monsters lose ATK
+  | misc           = Requires control of specific Attribute
   | database_id    = 
   }}

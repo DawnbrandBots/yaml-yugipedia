@@ -13,7 +13,7 @@ wikitext: |-
   | def            = 800
   | condition      = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
   | requirement    = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
-  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of "[[OuTerverSe Burst Oblivion]]" in [[Attack Position]]. This turn, you can only [[attack]] with Galaxy Type monsters.
+  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, this turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of "[[OuTerverSe Burst Oblivion]]" in [[Attack Position]]. This turn, you can only [[attack]] with Galaxy Type [[Monster Card|monster]]s.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -22,6 +22,13 @@ wikitext: |-
   | mentions       = 
   * OuTerverSe
   * OuTerverSe Burst Oblivion
+  | supports       = Galaxy (Type)
   | archseries     = OuTerverSe (series)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes Type
+  | summoning      = Treated as multiple Tributes
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

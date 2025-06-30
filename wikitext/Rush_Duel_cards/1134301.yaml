@@ -13,7 +13,7 @@ wikitext: |-
   | def            = 800
   | condition      = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can change 1 [[Attack Position]] [[monster]] on your opponent's [[field]] to [[face-up]] [[Defense Position]].
+  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[Battle position change|change]] 1 [[Attack Position]] [[Monster Card|monster]] on your opponent's [[field]] to [[face-up]] [[Defense Position]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -21,5 +21,11 @@ wikitext: |-
   RD/KP22-JP003; OuTerverSe of Terror; Common
   | mentions       = OuTerverSe
   | archseries     = OuTerverSe (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes Type
   | database_id    = 
   }}
