@@ -5,20 +5,28 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|ＯＴＳ|アウターバース}}バグファンガス
   | romaji_name    = Autābāsu Bagu Fangasu
-  | image          = OuTerverSeBugFungus-OW.png
+  | image          = OuTerverSeBugFungus-RDKP22-JP-OP.png
   | attribute      = EARTH
   | types          = Plant / Effect
   | level          = 2
   | atk            = 1100
   | def            = 800
-  | condition      = TBA
-  | requirement    = TBA
-  | text           = TBA
+  | condition      = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[look]] at 1 [[face-down]] [[Monster Card|monster]] on your opponent's [[field]]. Then, if you have 5 or more "OuTerverSe" in your Graveyard, you can [[destroy]] that monster.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP002; OuTerverSe of Terror; Common
+  | mentions       = OuTerverSe
   | archseries     = OuTerverSe (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Reveals face-down cards
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes Type
+  | m/s/t          = Destroys your opponent's face-down Monster Cards
   | database_id    = 
   }}

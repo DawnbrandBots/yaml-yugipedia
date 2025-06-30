@@ -5,30 +5,37 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|ＯＴＳ|アウターバース}}エンドレス・ドゥーム・オブリビオン
   | romaji_name           = Autābāsu Endoresu Dūmu Oburibion
-  | image                 = OuTerverSeEndlessDoomOblivion-OW.png
+  | image                 = OuTerverSeEndlessDoomOblivion-RDKP22-JP-OP.png
   | attribute             = FIRE
   | types                 = Pyro / Fusion / Effect
   | level                 = 9
   | atk                   = 3500
   | def                   = 2500
   | fusion_material       = OuTerverSe Burst Oblivion
-  | materials             = "[[OuTerverSe Burst Oblivion]]" + 2 non-[[LIGHT]] [[Attribute]] non-[[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s
-  | condition             = TBA
-  | requirement           = TBA
-  | text                  = TBA
+  | materials             = "[[OuTerverSe Burst Oblivion]]" + 2 non-[[LIGHT]] [[Attribute]] [[Monster Card|monster]]s
+  | condition             = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
+  | requirement           = [[Shuffle]] 5 "OuTerverSe" from your Graveyard into the [[Main Deck|Deck]].
+  | text                  = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, this card can [[attack]] all opponent's monsters once each this turn.
   | ja_materials          = 
   | ja_condition          = 
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
-  RD/KP22-JP0??; OuTerverSe of Terror
-  | mentions              = OuTerverSe Burst Oblivion
+  RD/KP22-JP029; OuTerverSe of Terror; Ultra Rare, Over Rush Rare
+  | mentions              = 
+  * OuTerverSe Burst Oblivion
+  * OuTerverSe
   | archseries            = OuTerverSe (series)
   | related_to_archseries = Galactica
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = 
+  * Changes own name while in the GY
+  * Changes Type
   | summoning             = 
   * 3 Fusion Materials
   * Requires specific Effect Monsters as Fusion Materials
   * Requires Attribute specific Fusion Materials
-  * Requires Type specific Fusion Materials
+  | attack                = Can make multiple attacks on monsters
+  | misc                  = Cover card
   | database_id           = 
   }}
