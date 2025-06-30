@@ -5,22 +5,30 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|ＯＴＳ|アウターバース}}バースト・オブリビオン
   | romaji_name           = Autābāsu Bāsuto Oburibion
-  | image                 = OuTerverSeBurstOblivion-OW.png
+  | image                 = OuTerverSeBurstOblivion-RDKP22-JP-OP.png
   | attribute             = FIRE
   | types                 = Pyro / Effect
   | level                 = 7
   | atk                   = 2500
   | def                   = 2500
-  | condition             = TBA
-  | requirement           = TBA
-  | text                  = TBA
+  | condition             = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
+  | requirement           = [[Send]] 1 card from your [[hand]] to the Graveyard.
+  | text                  = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[Special Summon]] 1 non-[[Pyro]] Type "OuTerverSe" from your Graveyard [[face-up]] to your [[field]]. This turn, the [[Monster Card|monster]] Special Summoned by this [[effect]] gains 700 [[ATK]], and cannot be [[destroy]]ed by your opponent's [[Trap Card]] effects.
   | ja_condition          = 
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP008; OuTerverSe of Terror; Super Rare
+  | mentions              = OuTerverSe
   | archseries            = OuTerverSe (series)
   | related_to_archseries = Galactica
+  | action                = Sends from hand to Graveyard for cost
+  | stat_change           = 
+  * Changes own name while in the GY
+  * Changes Type
+  * Your monsters gain ATK
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = Special Summons from your Graveyard
   | fm_for                = OuTerverSe Endless Doom Oblivion
   | database_id           = 
   }}

@@ -5,20 +5,30 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|ＯＴＳ|アウターバース}}ビュイギュワッゾ
   | romaji_name    = Autābāsu Byuigyuwazzo
-  | image          = OuTerverSeByugyuwazzo-OW.png
+  | image          = OuTerverSeByugyuwazzo-RDKP22-JP-OP.png
   | attribute      = DARK
   | types          = Spellcaster / Effect
   | level          = 6
   | atk            = 1900
   | def            = 1600
-  | condition      = TBA
-  | requirement    = TBA
-  | text           = TBA
+  | condition      = If you have 3 or more "[[OuTerverSe]]" in your [[Graveyard]], you can [[Normal Summon]] this card without [[Tribute|Tributing]]. This card's name becomes "OuTerverSe" while in the Graveyard.
+  | requirement    = [[Send]] 1 card from your [[hand]] to the Graveyard.
+  | text           = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[OuTerverSe Diversity Scream]]" from your Graveyard to your hand.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP006; OuTerverSe of Terror; Common
+  | mentions       = 
+  * OuTerverSe
+  * OuTerverSe Diversity Scream
   | archseries     = OuTerverSe (series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes Type
+  | summoning      = Normal Summon without Tribute
   | database_id    = 
   }}
