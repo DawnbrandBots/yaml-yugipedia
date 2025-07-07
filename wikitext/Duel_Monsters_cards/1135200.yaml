@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 800
   | password            = 
   | effect_types        = Quick, Condition
-  | text                = If you [[control]] "[[Junk Warrior]]" or a [[monster]] that mentions it, except "Anchorbolt Hedgehog", and this card is in your [[GY]] ([[Quick Effect]]): You can [[Special Summon]] this card in [[Defense Position]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Synchro Monster]]s. You can only use this [[effect]] of "Anchorbolt Hedgehog" [[once per turn]].
+  | text                = If you [[control]] "[[Junk Warrior]]", or a [[monster]] that mentions it other than "Anchorbolt Hedgehog", and this card is in your [[GY]] ([[Quick Effect]]): You can [[Special Summon]] this card in [[Defense Position]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this [[turn]], except [[Synchro Monster]]s. You can only use this [[effect]] of "Anchorbolt Hedgehog" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,6 +33,8 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   SD48-JP002; Structure Deck: Power of Fellows; 
-  | mentions            = Junk Warrior
+  | mentions            = 
+  * Junk Warrior
+  * Anchorbolt Hedgehog
   | database_id         = 
   }}
