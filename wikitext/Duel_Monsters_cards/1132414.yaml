@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 1800
   | password            = 
   | effect_types        = Unclassified, Condition, Condition, Ignition, Trigger
-  | text                = If you [[control]] a [[face-up]] card in your [[Spell & Trap Zone]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Alekus the Shining Stunner Saint" [[once per turn]] this way. You can only use each of the following effects of "Arequus the Shining Mars Saint" [[once per turn]]. You can [[target]] 1 face-up [[Spell]]/[[Trap]] you control; [[destroy]] both it and this card, then [[Draw a card|draw]] 1 card. If this card is destroyed: You can target 1 [[Xyz Monster]] you control; [[attach]] this card to it.
+  | text                = If you [[control]] a [[face-up]] card in your [[Spell & Trap Zone]], you can [[Special Summon]] this card (from your [[hand]]). You can only Special Summon "Arequus the Shining Mars Saint" [[once per turn]] this way. You can only use each of the following effects of "Arequus the Shining Mars Saint" [[once per turn]]. You can [[target]] 1 face-up [[Spell]]/[[Trap]] you control; [[destroy]] both it and this card, then [[Draw a card|draw]] 1 card. If this card is destroyed: You can target 1 [[Xyz Monster]] you control; [[attach]] this card to it.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,5 +32,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP277; V Jump September 2025 promotional card; Ultra Rare
+  | supports            = Xyz Monster
+  | action              = 
+  * You draw cards
+  * Activates if destroyed
+  * Attaches itself from your Graveyard as Xyz Material
+  * Attaches itself while banished as Xyz Material
+  | m/s/t               = 
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  * Destroys itself
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific Monster card type
   | database_id         = 
   }}

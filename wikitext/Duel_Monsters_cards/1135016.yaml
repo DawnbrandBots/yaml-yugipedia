@@ -20,7 +20,7 @@ wikitext: |-
   | level               = 4
   | atk                 = 800
   | def                 = 800
-  | password            = 
+  | password            = 09627299
   | effect_types        = Summoning condition, Trigger, Condition, Ignition, Trigger
   | text                = Cannot be [[Special Summon]]ed. [[Once per turn]], during the [[End Phase]], if this card was [[Normal Summon]]ed or flipped [[face-up]] this [[turn]]: [[Return]] this card to the [[hand]]. You can only use each of the following [[effect]]s of "Ichiki Sayori Hime" [[once per turn]]. If you [[control]] a monster with 800 [[ATK]] or [[DEF]] and this card is in your hand, you can: Immediately after this effect [[resolve]]s, Normal Summon this card. If this card is Normal Summoned: You can [[Add a card|add]] 1 [[Level]] 4 [[LIGHT]] or [[DARK]] monster with 800 ATK or DEF from your [[Main Deck|Deck]] to your hand, except "Ichiki Sayori Hime".
   | fr_text             = 
@@ -33,8 +33,22 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP030; Doom of Dimensions; Rare
-  | database_id         = 
   | mentions            = Ichiki Sayori Hime
-  | supports =
-  * 800 ATK Monster Cards
-  * 800 DEF Monster Cards}}
+  | supports            = 
+  * LIGHT
+  * DARK
+  | action              = 
+  * Returns itself from field to hand
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Adds from Deck to hand
+  | summoning           = 
+  * Cannot be Special Summoned
+  * Performs a Normal Summon
+  | misc                = 
+  * Limited activations
+  * Only once per turn
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  | database_id         = 
+  }}

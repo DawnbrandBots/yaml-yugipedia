@@ -21,7 +21,7 @@ wikitext: |-
   | atk                 = 2900
   | def                 = 1000
   | password            = 
-  | materials           = 
+  | materials           = 1 Psychic-Type monster + 1 Synchro, Xyz, or Link Monster
   | effect_types        = Unclassified, Condition, Quick, Trigger
   | text                = 1 [[Psychic]] [[monster]] + 1 [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]]<br />After this card is [[Fusion Summon]]ed, it gains 1000 [[ATK]] for each Synchro, Xyz, and Link Monster used as its material until the end of the next [[turn]]. You can only use each of the following effects of "Axon Kicker Oracle" [[once per turn]]. When your opponent would [[Special Summon]] a monster(s) ([[Quick Effect]]): You can [[negate]] the Summon, and if you do, [[banish]] that monster(s). If this Fusion Summoned card is sent to the [[GY]]: You can banish 1 "[[Teleport (archetype)|Teleport]]" [[Normal Spell Card|Normal]] or [[Quick-Play Spell]] from your GY; Special Summon this card.
   | fr_text             = 
@@ -34,6 +34,22 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP037; Doom of Dimensions; Rare
+  | supports            = 
+  * Psychic
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
+  * Normal Spell Card
+  * Quick-Play Spell Card
   | supports_archetypes = Teleport (archetype)
+  | action              = Activates if sent to the Graveyard
+  | stat_change         = This card gains ATK
+  | summoning           = 
+  * Negates Special Summons
+  * Special Summons itself from your Graveyard
+  | banished            = 
+  * Banishes negated Summons
+  * Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}

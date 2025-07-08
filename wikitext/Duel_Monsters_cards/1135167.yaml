@@ -21,7 +21,7 @@ wikitext: |-
   | atk                 = 2400
   | def                 = 2200
   | password            = 
-  | materials           = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Trigger, Condition
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[pay]] 1000 [[LP]]; [[Set]] 1 "[[Teleport (archetype)|Teleport]]" [[Normal Spell Card|Normal]] or [[Quick-Play Spell]] from your [[Main Deck|Deck]], [[GY]], or [[banish]]ment. If this Synchro Summoned card is sent to the GY: You can [[target]] 1 card your opponent [[control]]s, or you can target 2 if you control a Psychic [[Fusion Monster|Fusion]] or [[Synchro Monster]]; [[return]] that card(s) to the [[hand]]. You can only use each effect of "Serene Psychic Sorceress" [[once per turn]].
   | fr_text             = 
@@ -34,6 +34,24 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP042; Doom of Dimensions; Rare
+  | supports            = 
+  * Normal Spell Card
+  * Quick-Play Spell Card
+  * Psychic
+  * Fusion Monster
+  * Synchro Monster
   | supports_archetypes = Teleport (archetype)
+  | action              = 
+  * Activates upon Synchro Summon
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * Sets the player's banished cards
+  * Activates if sent to the Graveyard
+  * Returns from your opponent's field to your opponent's hand
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
