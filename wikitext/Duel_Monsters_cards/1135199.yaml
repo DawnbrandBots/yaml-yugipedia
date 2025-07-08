@@ -35,10 +35,23 @@ wikitext: |-
   * Junk Synchron
   * Junk Warrior
   * Stardust Dragon
+  | supports            = Synchro Monster
   | archseries          = 
   * Synchro (archetype)
   * Rose
   | supports_archetypes = Synchron
   | related_to_archseries = Stardust (archetype)
+  | action              = 
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates from your Graveyard
+  | stat_change         = Your monsters lose Levels
+  | summoning           = 
+  * Allows multiple Normal Summons
+  * Performs a Normal Summon
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}
