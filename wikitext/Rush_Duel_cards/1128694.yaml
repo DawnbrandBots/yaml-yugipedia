@@ -1,22 +1,21 @@
-title: Ritty the Hopeful
+title: Lichy the Hopeful
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = {{Ruby|希|き}}{{Ruby|望|ぼう}}のリーチェ
   | romaji_name    = Kibō no Rīche
-  | image          = RittytheHopeful-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = LichytheHopeful-RDAP01-JP-OP.png
+  | attribute      = DARK
+  | types          = Zombie / Effect
+  | level          = 4
+  | atk            = 700
+  | def            = 100
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, place 1 [[monster]] from your [[Graveyard]] on the bottom of the Deck.
+  | text           = [[Send]] the top 3 cards of your Deck to the Graveyard. Then, if you placed a [[Ritual Monster]] to meet the requirement, you can [[Add a card|add]] 1 card sent to the Graveyard by this [[effect]] to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/??01-JP???; Advance Pack: Devil's Ceremony
+  RD/AP01-JP072; Advance Pack: Devil's Ceremony; Over Rush Rare
   | database_id    = 
   }}
