@@ -11,11 +11,17 @@ wikitext: |-
   | level          = 4
   | atk            = 700
   | def            = 100
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, place 1 [[monster]] from your [[Graveyard]] on the bottom of the Deck.
-  | text           = [[Send]] the top 3 cards of your Deck to the Graveyard. Then, if you placed a [[Ritual Monster]] to meet the requirement, you can [[Add a card|add]] 1 card sent to the Graveyard by this [[effect]] to your [[hand]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, place 1 [[Monster Card|monster]] from your [[Graveyard]] on the bottom of the Deck.
+  | text           = [[Send]] the top 3 cards of your Deck to the Graveyard. Then, if you placed a [[Ritual Monster]] to meet the [[Activation condition|requirement]], you can [[Add a card|add]] 1 card sent to the Graveyard by this [[effect]] to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP01-JP072; Advance Pack: Devil's Ceremony; Over Rush Rare
+  | supports       = Ritual Monster
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id    = 
   }}
