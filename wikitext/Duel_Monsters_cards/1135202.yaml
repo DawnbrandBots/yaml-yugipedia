@@ -21,6 +21,8 @@ wikitext: |-
   | atk                 = 2900
   | def                 = 2300
   | password            = 
+  | synchro_material    = Junk Synchron
+  | materials           = "Junk Synchron" + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Trigger, Condition
   | text                = "[[Junk Synchron]]" + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Special Summon]] as many [[Level]] 2 or lower monsters from your [[GY]] as possible, but they cannot [[activate]] their [[effect]]s this [[turn]], also you can only Special Summon once for the rest of this turn. When this card [[destroy]]s an opponent's monster by battle: You can [[banish]] this card; Special Summon 1 "[[Junk]]" [[Synchro Monster]] from your [[Extra Deck]] (this is treated as a Synchro Summon). You can only use each [[effect]] of "Junk Warrior Extreme" [[once per turn]].
   | fr_text             = 
@@ -43,7 +45,7 @@ wikitext: |-
   | action              = 
   * Activates upon Synchro Summon
   * Activates if it destroys a monster by battle
-  | m/s/t               = Negates the effects of the Summoned monsters
+  | m/s/t               = Prevents activation of your Effect Monsters
   | summoning           = 
   * 1 or more non-Tuner Synchro Materials
   * Requires specific monsters as Tuner Synchro Materials
