@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Continuous-like, Trigger-like, Condition
-  | text                = Target 1 "Doom-Z" Xyz Monster you control; equip this card to it as an Equip Card with this effect.<br />● Your opponent cannot add cards from the Deck to the hand, except by drawing them.<br />If this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 "Doom-Z" monster from your Deck to it. You can only use each effect of "Doom-Z Destruction" once per turn.
+  | text                = [[Target]] 1 "[[Doom-Z]]" [[Xyz Monster]] you [[control]]; [[equip]] this card to it as an [[Equip Card]] with this [[effect]].<br />● Your opponent cannot [[add]] cards from the [[Main Deck|Deck]] to the [[hand]], except by [[draw]]ing them.<br />If this card is [[destroy]]ed by [[card effect]]: You can target 1 [[face-up]] [[monster]] on the [[field]]; equip 1 "Doom-Z" monster from your Deck to it. You can only use each effect of "Doom-Z Destruction" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -35,5 +35,17 @@ wikitext: |-
   DOOD-SC074; Doom of Dimensions; 
   | archseries          = Doom-Z
   | supports_archetypes = Doom-Z
+  | action              = 
+  * Equips self from field
+  * Prevents adding cards from Deck to hand
+  * Activates if destroyed by card effect
+  * Equips monsters from the player's Deck
+  | m/s/t               = 
+  * Treated as Equip Card
+  * Treats monsters as Equip Cards
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}
