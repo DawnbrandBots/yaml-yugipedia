@@ -15,10 +15,10 @@ wikitext: |-
   | ritualcard      = Altar of the Twin Blaze Fiends
   | requirement     = If you have a [[FIRE]] [[Attribute]] [[Maximum Monster]] in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | text            = This card gains [[ATK]] equal to [the number of FIRE Attribute Maximum Monsters in your Graveyard] x 300 until the end of this [[turn]]. Then, if you have 3 or more Maximum Monsters in your Graveyard, this card [[Damage|inflict]]s [[piercing]] [[battle damage]] this turn.
-  | ja_requirement  = 
-  | ja_text         = 
+  | ja_requirement  = 自分の墓地にマキシマムモンスター（炎属性）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = このカードの攻撃力はターン終了時まで、［自分の墓地のマキシマムモンスター（炎属性）の数］×３００アップする。自分の墓地のマキシマムモンスターが３体以上の場合、さらにこのターン、このカードの攻撃は貫通する。
   | jp_sets         = 
-  RD/AP01-JP031; Advance Pack: Devil's Ceremony; Ultra Rare
+  RD/AP01-JP031; Advance Pack: Devil's Ceremony; Ultra Rare, Secret Rare
   | supports        = 
   * FIRE
   * Maximum Monster
@@ -26,5 +26,5 @@ wikitext: |-
   | action          = Sends from the top of your Deck to your Graveyard for cost
   | stat_change     = This card gains ATK
   | attack          = Piercing
-  | database_id     = 
+  | database_id     = 21871
   }}
