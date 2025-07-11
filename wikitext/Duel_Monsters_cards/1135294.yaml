@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Trigger-like, Condition, Condition
-  | text                = Target 1 monster in your opponent's GY; return 1 "Artmage" monster you control to the hand/Extra Deck, and if you do, Special Summon the targeted monster to your field, but its effects are negated. If this card is sent to the GY to activate the effect of "Artmage Academic Arcane Arts Acropolis": You can add 1 "Artmage" Spell from your GY or banishment to your hand. You cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except Fusion Monsters. You can only use each effect of "Artmage Peripeteia -Turmoil-" once per turn.
+  | text                = [[Target]] 1 [[monster]] in your opponent's [[GY]]; [[return]] 1 "[[Artmage]]" monster you [[control]] to the [[hand]]/[[Extra Deck]], and if you do, [[Special Summon]] the targeted monster to your [[field]], but its [[effect]]s are [[negate]]d. If this card is [[send|sent]] to the GY to [[activate]] the effect of "[[Artmage Academic Arcane Arts Acropolis]]": You can [[add]] 1 "Artmage" [[Spell]] from your GY or [[banishment]] to your hand. You cannot Special Summon from the [[Extra Deck]] the turn you activate either of this card's effects, except [[Fusion Monster]]s. You can only use each effect of "Artmage Peripeteia -Turmoil-" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -34,7 +34,19 @@ wikitext: |-
   | sc_sets             = 
   DOOD-SC075; Doom of Dimensions; 
   | mentions            = Artmage Academic Arcane Arts Acropolis
+  | supports            = Fusion Monster
   | archseries          = Artmage
   | supports_archetypes = Artmage
+  | action              = 
+  * Returns from your field to your hand
+  * Returns from your field to your Extra Deck
+  * Activates if sent to the Graveyard for cost
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  | m/s/t               = Negates the effects of the Summoned monsters
+  | summoning           = 
+  * Special Summons from your opponent's Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
