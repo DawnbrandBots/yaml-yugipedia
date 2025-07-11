@@ -23,7 +23,7 @@ wikitext: |-
   | def                 = 1200
   | password            = 
   | effect_types        = Trigger, Quick, Condition
-  | text                = If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 "Doom-Z" monster from your Deck to your hand, except "Doom-Z Five - Amalthe". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card and all cards equipped to it to that monster. You can only use each effect of "Doom-Z Five - Amalthe" once per turn.
+  | text                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed, or [[destroy]]ed by [[card effect]]: You can [[add]] 1 "[[Doom-Z]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "Doom-Z Five - Amalthe". While this card is [[equip]]ped with an [[Equip Card]] ([[Quick Effect]]): You can [[Special Summon]] 1 [[WIND]] [[Machine]] [[Xyz Monster]] from your [[Extra Deck]] with a [[Rank]] equal to this card's [[Level]] (this is treated as an [[Xyz Summon]]), and if you do, [[attach]] this card and all cards equipped to it to that monster. You can only use each effect of "Doom-Z Five - Amalthe" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -37,7 +37,22 @@ wikitext: |-
   | sc_sets             = 
   DOOD-SC009; Doom of Dimensions; 
   | mentions            = Doom-Z Five - Amalthe
+  | supports            = 
+  * WIND
+  * Machine
+  * Xyz Monster
   | archseries          = Doom-Z
   | supports_archetypes = Doom-Z
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates if destroyed by card effect
+  * Adds from Deck to hand
+  * Attaches itself from your field as Xyz Material
+  * Attaches from your field as Xyz Material
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}

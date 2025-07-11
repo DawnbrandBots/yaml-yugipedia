@@ -38,9 +38,20 @@ wikitext: |-
   | sc_sets             = 
   DOOD-SC011; Doom of Dimensions; Rare
   | mentions            = Jupiter the Power Patron of Destruction
+  | supports            = Xyz Monster
   | archseries          = 
   * Doom-Z
   * Power Patron
   | supports_archetypes = Doom-Z
+  | action              = 
+  * Equips self from field
+  * Activates if destroyed
+  * Adds from Deck to hand
+  | m/s/t               = Treated as Equip Card
+  | summoning           = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}
