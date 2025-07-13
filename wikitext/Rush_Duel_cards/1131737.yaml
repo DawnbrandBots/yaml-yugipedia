@@ -7,15 +7,28 @@ wikitext: |-
   | base_romaji_name     = Ginen no Shakōjō
   | base_translated_name = Suspicious Social Gathering
   | romaji_name          = Hakku Fō Za Interu
-  | image                = HackfortheIntel-OW.png
-  | card_type            = ???
-  | property             = ???
-  | requirement          = (TBA)
-  | text                 = (TBA)
+  | image                = HackfortheIntel-RDKP22-JP-OP.png
+  | card_type            = Trap
+  | property             = Normal
+  | condition            = This card's name becomes "[[Secret Order]]" while in the [[Graveyard]].
+  | requirement          = When your opponent conducts a [[normal draw]] during the [[Draw Phase]].
+  | text                 = Select 1 [[WIND]] [[Attribute]] [[Monster Card|monster]] with 1200 [[DEF]] in your Graveyard and [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it [[face-up]] to your [[field]]. Then, if you have "[[Handy Lady]]" face-up on your field, you can [[send]] 1 [[random]] card from your opponent's hand to the Graveyard.
+  | ja_condition         = 
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP059; OuTerverSe of Terror; Rare
+  | mentions             = 
+  * Secret Order
+  * Handy Lady
+  | supports             = WIND
   | archseries           = Handy
+  | action               = 
+  * Activates if your opponent draws a card
+  * Adds from Graveyard to hand
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | stat_change          = Changes own name while in the GY
+  | summoning            = Special Summons from your Graveyard
+  | misc                 = Requires control of specific card
   | database_id          = 
   }}

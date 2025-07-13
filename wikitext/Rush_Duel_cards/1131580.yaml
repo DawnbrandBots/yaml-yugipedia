@@ -3,21 +3,36 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = フリーウィンド
   | romaji_name    = Furīwindo
-  | image          = Freewind-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = Freewind-RDKP22-JP-OP.png
+  | attribute      = WIND
+  | types          = Machine / Effect
+  | level          = 7
+  | atk            = 2200
+  | def            = 1200
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[WIND]] [[Attribute]] [[Monster Card|monster]] with 1200 [[DEF]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = [[Add a card|Add]] 1 "[[Handy Lady]]" or "[[Handy Girl]]" from your [[Graveyard]] to your [[hand]]. Then, if you have 2 or more [[Trap Card]]s in your Graveyard, you can [[Battle position change|change]] the [[battle position]] of 1 monster on your opponent's [[field]].
+  | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP017; OuTerverSe of Terror; Rare
+  | mentions       = 
+  * Handy Lady
+  * Handy Girl
+  | supports       = WIND
   | archseries     = Handy
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific DEF
   | database_id    = 
   }}

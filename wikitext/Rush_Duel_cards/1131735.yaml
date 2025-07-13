@@ -5,15 +5,25 @@ wikitext: |-
   {{CardTable2
   | ja_name        = アツアツをお{{Ruby|届|とど}}け
   | romaji_name    = Atsuatsu wo Otodoke
-  | image          = PipingHotDelivery-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | image          = PipingHotDelivery-RDKP22-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 1 card. Then, you can [[Special Summon]] 1 "[[Handy Girl]]" or "[[Cheerful Waitress]]" from your Graveyard [[face-up]] to your field. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Monster Card|monster]]s that have 1200 [[Original ATK and DEF|original DEF]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP045; OuTerverSe of Terror; Super Rare
+  | mentions       = 
+  * Handy Girl
+  * Cheerful Waitress
+  | supports       = WIND
   | archseries     = Handy
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

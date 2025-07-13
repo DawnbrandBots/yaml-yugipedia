@@ -3,18 +3,39 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
-  | ja_name        = ハンディーパートナーズ
-  | romaji_name    = Handī Pātonāzu
-  | image          = HandyPartners-OW.png
-  | card_type      = ???
-  | property       = 
-  | requirement    = 
-  | text           = ''TBA''
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
-  | archseries     = Handy
-  | database_id    = 
+  | ja_name         = ハンディーパートナーズ
+  | romaji_name     = Handī Pātonāzu
+  | image           = HandyPartners-RDKP22-JP-OP.png
+  | attribute       = WIND
+  | types           = Psychic / Fusion / Effect
+  | level           = 8
+  | atk             = 2800
+  | def             = 1200
+  | fusion_material = 
+  * Handy Lady
+  * Handy Girl
+  | materials       = "[[Handy Lady]]" + "[[Handy Girl]]"
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Set]] 1 [[Trap Card]] from among the cards sent, or 1 "[[Secret Order]]" or "[[New Start]]" from your Graveyard, to your [[Spell & Trap Zone]].
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/KP22-JP032; OuTerverSe of Terror; Ultra Rare, Over Rush Rare
+  | mentions        = 
+  * Handy Lady
+  * Handy Girl
+  * Secret Order
+  * New Start
+  | archseries      = Handy
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Sets from your Graveyard
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | database_id     = 
   }}

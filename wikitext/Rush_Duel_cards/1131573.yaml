@@ -3,21 +3,39 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = ハンディーガール
   | romaji_name    = Handī Gāru
-  | image          = HandyGirl-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = HandyGirl-RDKP22-JP-OP.png
+  | attribute      = WIND
+  | types          = Galaxy / Effect
+  | level          = 3
+  | atk            = 800
+  | def            = 1200
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
+  | text           = [[Add a card|Add]] 1 "[[Handy Lady]]" from your [[Graveyard]] to your hand. Then, if you have no [[face-up]] [[Level]] 8 [[Fusion Monster]]s on your [[field]], you can [[Fusion Summon]] by [[send]]ing 2 [[WIND]] [[Attribute]] [[Monster Card|monster]]s with 1200 [[Original ATK and DEF|original DEF]] from your hand and/or field to the Graveyard as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP012; OuTerverSe of Terror; Super Rare
+  | mentions       = Handy Lady
+  | supports       = WIND
   | archseries     = Handy
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | fm_for         = Handy Partners
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific DEF
   | database_id    = 
   }}

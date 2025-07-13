@@ -1,27 +1,32 @@
 title: Handy Lady
 wikitext: |-
   {{CardTable2
-  | rush_duel   = true
-  | ja_name     = ハンディーレディ
-  | romaji_name = Handī Redi
-  | ko_name     = 핸디레이디
-  | ko_rr_name  = Haendi Leidi
-  | image       = HandyLady-RDAP01-JP-C.png
-  | attribute   = WIND
-  | types       = Psychic / Normal
-  | level       = 7
-  | atk         = 2400
-  | def         = 1200
-  | text        = ''From lost cats to dignitary protection, she's a multifaceted troubleshooter. Lately its been all lunch deliveries, but out of nowhere, she [[Cross Target|receives a message from an unknown sender]].''
-  | ja_text     = ネコ探しから要人警護までマルチに請け負う万屋。最近はランチ配達ばかりだったが、ある日差出人不明のメッセージが届いた。
-  | ko_text     = 고양이 찾기부터 VIP 경호까지 다양한 의뢰를 받는 해결사. 최근에는 점심 배달일 뿐이었지만, 어느 날 발신인 불명의 메시지가 도착했다.
-  | jp_sets     = 
+  | rush_duel     = true
+  | ja_name       = ハンディーレディ
+  | romaji_name   = Handī Redi
+  | ko_name       = 핸디레이디
+  | ko_rr_name    = Haendi Leidi
+  | image         = 
+  1; HandyLady-RDAP01-JP-C.png; HandyLady-DBR-JP-VG-artwork.png
+  2; HandyLady-RDKP22-JP-OP.png
+  | current_image = 1
+  | attribute     = WIND
+  | types         = Psychic / Normal
+  | level         = 7
+  | atk           = 2400
+  | def           = 1200
+  | text          = ''From lost cats to dignitary protection, she's a multifaceted troubleshooter. Lately its been all [[Piping Hot Delivery|lunch deliveries]], but out of nowhere, [[Cross Target|she receives a message from an unknown sender]].''
+  | ja_text       = ネコ探しから要人警護までマルチに請け負う万屋。最近はランチ配達ばかりだったが、ある日差出人不明のメッセージが届いた。
+  | ko_text       = 고양이 찾기부터 VIP 경호까지 다양한 의뢰를 받는 해결사. 최근에는 점심 배달일 뿐이었지만, 어느 날 발신인 불명의 메시지가 도착했다.
+  | jp_sets       = 
   RD/KP06-JP013; Deck Mod Pack: Fierce Thunder Storm!!; Rare
   RD/MRP1-JP039; Megaroad Pack; Rare, Secret Rare
   RD/AP01-JP070; Advance Pack: Devil's Ceremony; Common, Super Parallel Rare
-  | kr_sets     = 
+  RD/KP22-JP000; OuTerverSe of Terror; Over Rush Rare
+  | kr_sets       = 
   RD/KP06-KR013; Deck Mod Pack: Fierce Thunder Storm!!; Rare
   RD/MRP1-KR039; Megaroad Pack; Rare, Secret Rare
-  | archseries  = Handy
-  | database_id = 16670
+  | archseries    = Handy
+  | fm_for        = Handy Partners
+  | database_id   = 16670
   }}

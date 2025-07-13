@@ -3,21 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = ビビッドヘッド
   | romaji_name    = Bibiddo Heddo
-  | image          = VividHead-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = VividHead-RDKP22-JP-OP.png
+  | attribute      = WIND
+  | types          = Machine / Effect
+  | level          = 3
+  | atk            = 800
+  | def            = 1200
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = [[Excavate]] the top 3 cards of your Deck. You can send up to 2 excavated [[WIND]] [[Attribute]] [[Monster Card|monster]]s with 1200 [[DEF]] and/or [[Trap Card]]s to the Graveyard. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP013; OuTerverSe of Terror; Common
+  | supports       = WIND
   | archseries     = Handy
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Excavates from the player's Deck
+  * Sends excavated cards to the Graveyard
+  * Places excavated cards on the bottom of the Deck
   | database_id    = 
   }}
