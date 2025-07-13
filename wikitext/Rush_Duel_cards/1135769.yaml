@@ -8,11 +8,19 @@ wikitext: |-
   | image          = PartialDestructionoftheSacredTower-RDKP22-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a non-[[Maximum Monster|Maximum]] [[Effect Monster]](s) [[face-up]], [[send]] 1 card from your [[hand]] and 1 [[monster]] from your [[field]] to the [[Graveyard]].
-  | text           = [[Destroy]] 1 of those Normal or Special Summoned monsters. If it was not destroyed, place it on the bottom of the owner's [[Main Deck|Deck]].
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a non-[[Maximum Monster|Maximum]] [[Effect Monster]] [[face-up]], [[send]] 1 card from your [[hand]] and 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
+  | text           = [[Destroy]] 1 of those Normal or Special Summoned monsters. If that monster was not destroyed, place it on the bottom of the [[owner]]'s [[Main Deck|Deck]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP22-JP064; OuTerverSe of Terror; Ultra Rare, Over Rush Rare
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Places cards from the opponent's field on the bottom of the Deck
+  | m/s/t          = Destroys your opponent's Monster Cards
   | database_id    = 
   }}

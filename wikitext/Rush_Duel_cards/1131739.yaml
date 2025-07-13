@@ -13,7 +13,7 @@ wikitext: |-
   | def            = 1200
   | condition      = This card's name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" while in the [[hand]] or [[Graveyard]].
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text           = Make 1 [[face-up]] [[Effect Monster]] on your opponent's [[field]] lose 300 [[ATK]] until the end of this [[turn]]. Then, you can add 1 "[[Red-Eyes Pluto Dragon]]" or "[[Calling Dark Meteor]]" from your Graveyard to your hand.
+  | text           = Make 1 [[face-up]] [[Effect Monster]] on your opponent's [[field]] lose 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Red-Eyes Pluto Dragon]]" or 1 "[[Calling Dark Meteor]]" from your Graveyard to your hand.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -23,6 +23,14 @@ wikitext: |-
   * Red-Eyes Black Dragon (Rush Duel)
   * Red-Eyes Pluto Dragon
   * Calling Dark Meteor
+  | anti-supports  = Effect Monster
   | archseries     = Red-Eyes (Rush Duel)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Your opponent's monsters lose ATK
   | database_id    = 
   }}
