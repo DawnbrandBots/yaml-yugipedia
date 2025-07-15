@@ -33,7 +33,24 @@ wikitext: |-
   DBPR-JP009; Deck-Build Pack: Phantom Revengers; 
   | sc_sets             = 
   DBPR-SC009; Deck-Build Pack: Phantom Revengers; 
+  | supports            = Fusion Monster
   | archseries          = Hecatoncheire
   | supports_archetypes = Hecatoncheire
+  | action              = 
+  * Returns from your opponent's field to your opponent's hand
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  | stat_change         = Treated as archetype
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished            = 
+  * Banishes from your field
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                = 
+  * Variable effects
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id         = 
   }}

@@ -37,6 +37,17 @@ wikitext: |-
   | sc_sets             = 
   DBPR-SC005; Deck-Build Pack: Phantom Revengers; 
   | archseries          = Hecatoncheire
-  | supports_archetypes = Hecatoncheire
+  | action              = 
+  * Activates from your hand
+  * Activates if your opponent draws a card
+  * Activates if your opponent adds a card to the hand
+  * Reveals your opponent's hand
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your opponent's hand
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                = Only once per turn
   | database_id         = 
   }}

@@ -38,5 +38,15 @@ wikitext: |-
   DBPR-SC002; Deck-Build Pack: Phantom Revengers; 
   | archseries          = Hecatoncheire
   | supports_archetypes = Hecatoncheire
+  | action              = 
+  * Activates from your hand
+  * Returns itself from hand to Deck
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  * Sets from your Graveyard
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                = Only once per turn
   | database_id         = 
   }}
