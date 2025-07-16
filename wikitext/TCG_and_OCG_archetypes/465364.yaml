@@ -13,7 +13,7 @@ wikitext: |-
   | pt_name        = Subterror
   | es_name        = Subterror
   | sets           = [[Savage Strike]]
-  | tcg            =
+  | tcg            = 
   * [[The Dark Illusion]]
   * [[The Dark Illusion: Special Edition]]
   * [[Invasion: Vengeance]]
@@ -25,11 +25,11 @@ wikitext: |-
   * [[Fists of the Gadgets]]
   * [[Structure Deck: Shaddoll Showdown]]
   * [[2020 Tin of Lost Memories]]
-  | ocg            =
+  | ocg            = 
   * [[Extra Pack 2017]]
   * [[V Jump November 2017 promotional card]]
   * [[Structure Deck: Rebirth of Shaddoll]]
-  | korea          =
+  | korea          = 
   * [[Advanced Event Pack 2018 Vol.1]]
   * [[Premium Pack Vol.13]]
   }}
@@ -39,140 +39,82 @@ wikitext: |-
   ==Lore==
   {{Main|Master Duel card storylines#Wicked Dragon of the Hidden City}}
 
-  == Design ==
-  The high-Leveled "[[Subterror Behemoth]]" are comprised of colossal beasts whose names are a reference to subterranean anomalies or types of rock (''TCG''), or bodies of water in the [[wikipedia:Mediterranean Sea|Mediterranean Sea]] (''OCG''). "[[Subterror Fiendess]]" is the humanoid form of "[[Subterror Behemoth Fiendess]]", and "[[Subterror Guru]]" appears to be related to "[[Subterror Behemoth Speleogeist]]", as they have similarly-patterned legs and tails.
+  == Etymology ==
+  The high-Level "[[Subterror Behemoth]]" are comprised of colossal beasts whose names are a reference to subterranean anomalies or types of rock (''TCG''), or bodies of water in the [[wikipedia:Mediterranean Sea|Mediterranean Sea]] (''OCG''). "[[Subterror Fiendess]]" is the humanoid form of "[[Subterror Behemoth Fiendess]]", and "[[Subterror Guru]]" appears to be related to "[[Subterror Behemoth Speleogeist]]", as they have similarly-patterned legs and tails.
 
-  The ''OCG'' name of "Subterror Behemoth" is "Subterror Malice", which is a pun on the Latin genitive singular case for "sea", ''maris''. The ''OCG'' epithet of "[[The Hidden City]]", 地中界 (''Chichūkai'', lit. "World in the Middle of the Earth"), is a pun on the Japanese name for the Mediterranean Sea itself, 地中海 (''Chichūkai'', lit. "Sea in the Middle of the World"). "Mediterranean" originates from the Latin word ''[[wiktionary:mediterraneus|Mediterraneus]]'', meaning "in the middle of the land", referring to the Mediterranean Sea being completely enclosed by Europe and Africa. However, 地中 can also mean "''sub''terranean" as well, so its possible that "Subterror Malice" was intended as a wordplay on "Sub Terra Maris" ("underground sea").
+  The ''OCG'' name of "Subterror Behemoth" is "Subterror Malice", which is a pun on the Latin genitive singular case for "sea", ''maris''. The ''OCG'' epithet of "[[The Hidden City]]", 地中界 (''Chichūkai'', lit. "world within earth"), is a pun on the Japanese name for the Mediterranean Sea itself, 地中海 (''Chichūkai'', lit. "sea within earth"). "Mediterranean" originates from the Latin word ''[[wiktionary:mediterraneus|Mediterraneus]]'', meaning "in the middle of the land", referring to the Mediterranean Sea being completely enclosed by Europe and Africa. However, 地中 can also mean "''sub''terranean" as well, so it is possible that "Subterror Malice" was intended as a wordplay on "Sub Terra Maris" ("underground sea").
 
-  ==Members==
-  ===Main Deck (low Level)===
-  {| class="wikitable sortable"
-  ! scope="col" | Level
-  ! scope="col" | Type
-  ! scope="col" | Subterror
-  ! scope="col" | Japanese name
-  ! scope="col" | Origin
+  {| class="wikitable"
+  ! scope="col" | ''TCG'' name
+  ! scope="col" | ''OCG'' name
+  ! scope="col" | ''TCG'' name origin
+  ! scope="col" | ''OCG'' name origin
   |-
-  | 1
-  | [[Spellcaster]]
-  | [[Subterror Fiendess|Fiendess]]
-  | ''Apparition''
-  | [[wikipedia:Succubus|Succubus]]<br/>[[wikipedia:Ghost|Apparition]]
+  | ([[Subterror Behemoth Fiendess|Behemoth]]) [[Subterror Fiendess|Fiendess]]
+  | (Malice) Apparition
+  | [[wikipedia:Demon|Fiend]]
+  | [[wikipedia:Ghost|Apparition]]
   |-
-  | 2
-  | [[Beast-Warrior]]
-  | [[Subterror Nemesis Defender|Defender]]<ref group="lower-alpha" name="SubterrorNemesis"/>
-  | ''Swordsmith​''
-  | [[wikipedia:Defender|Defender]]<br/>[[wikipedia:Bladesmith|Swordsmith]]
+  | [[Subterror Nemesis Defender|Nemesis Defender]]
+  | Swordsmith​
+  | Defender
+  | [[wikipedia:Bladesmith|Swordsmith]]
   |-
-  | 3
-  | [[Fairy]]
-  | [[Subterror Nemesis Archer|Archer]]<ref group="lower-alpha" name="SubterrorNemesis"/>
-  | ''Archer''
-  | [[wikipedia:Archery|Archer]]
+  | [[Subterror Nemesis Archer|Nemesis Archer]]
+  | Archer
+  | colspan=2 | [[wikipedia:Archery|Archer]]
   |-
-  | rowspan=2| 4
-  | [[Warrior]]
-  | [[Subterror Nemesis Warrior|Warrior]]<ref group="lower-alpha" name="SubterrorNemesis"/>
-  | ''Warrior''
-  | [[wikipedia:Warrior|Warrior]]
+  | [[Subterror Nemesis Warrior|Nemesis Warrior]]
+  | Warrior
+  | colspan=2 | [[wikipedia:Warrior|Warrior]]
   |-
-  | [[Dragon]]
-  | [[Subterror Guru|Guru]]
-  | ''Guru''
-  | [[wikipedia:Guru|Guru]]
-  |}
-  <references group="lower-alpha">
-  <ref name="SubterrorNemesis">"Subterror Nemesis [X]" monster in the TCG.</ref>
-  </references>
-  ===Subterror Behemoth===
-  ====Main Deck====
-  {| class="wikitable sortable"
-  ! scope="col" | Level
-  ! scope="col" | Type
-  ! scope="col" | Subterror
-  ! scope="col" | Japanese name
-  ! scope="col" | TCG name origin<br />(subterranean phenomena)
-  ! scope="col" | OCG name origin<br />(body of water)
+  | colspan=2 | [[Subterror Guru|Guru]]
+  | colspan=2 | [[wikipedia:Guru|Guru]]
   |-
-  | 5
-  | [[Sea Serpent]]
-  | [[Subterror Behemoth Stygokraken|Stygokraken]]
-  | ''Aquadria''
-  | [[wikipedia:Stygofauna|Stygofauna]]<br/>[[wikipedia:Kraken|Kraken]]
-  | [[wikipedia:Adriatic Sea|Adriatic Sea]]
+  | [[Subterror Behemoth Stygokraken|Behemoth Stygokraken]]
+  | Malice Aquadria
+  | [[wikipedia:Stygofauna|Stygofauna]] + [[wikipedia:Kraken|Kraken]]
+  | [[wikipedia:Water|Aqua]] + [[wikipedia:Adriatic Sea|Adriatic Sea]]
   |-
-  | 6
-  | [[Zombie]]
-  | [[Subterror Behemoth Dragossuary|Dragossuary‎]]
-  | ''Alrabone''
-  | [[wikipedia:Dragon|Dragon]]<br/>[[wikipedia:Ossuary|Ossuary]]
-  | [[wikipedia:Alboran Sea|Alboran Sea]]
+  | [[Subterror Behemoth Dragossuary|Behemoth Dragossuary‎]]
+  | Malice Alrabone
+  | [[wikipedia:Dragon|Dragon]] + [[wikipedia:Ossuary|Ossuary]]
+  | [[wikipedia:Alboran Sea|Alboran Sea]] + [[wikipedia:Bone|Bone]]
   |-
-  | 7
-  | [[Reptile]]
-  | [[Subterror Behemoth Umastryx|Umastryx]]
-  | ''Liguriard''
+  | [[Subterror Behemoth Umastryx|Behemoth Umastryx]]
+  | Malice Liguriard
   | [[wikipedia:Uromastyx|Uromastyx]]
   | [[wikipedia:Ligurian Sea|Ligurian Sea]]
   |-
-  | 8
-  | [[Aqua]]
-  | [[Subterror Behemoth Phospheroglacier|Phospheroglacier]]
-  | ''Glaioath''
-  | [[wikipedia:Phosphorus|Phosphorus]]<br/>[[wikipedia:Glacier|Glacier]]
-  | [[wikipedia:Ionian Sea|Ionian Sea]]
+  | [[Subterror Behemoth Phospheroglacier|Behemoth Phospheroglacier]]
+  | Malice Glaioce
+  | [[wikipedia:Phosphorescence|Phosphorescence]] + [[wikipedia:Glacier|Glacier]]
+  | [[wikipedia:Glacier|Glacier]] + [[wikipedia:Ionian Sea|Ionian Sea]]
   |-
-  | 9
-  | [[Thunder]]
-  | [[Subterror Behemoth Voltelluric|Voltelluric]]
-  | ''Voltinia''
-  | [[wikipedia:Volt|Volt]]<br/>[[wikipedia:Telluric current|Telluric current]]
-  | [[wikipedia:Sea of Sardinia|Sea of Sardinia]]
+  | [[Subterror Behemoth Voltelluric|Behemoth Voltelluric]]
+  | Malice Voltinia
+  | [[wikipedia:Volt|Volt]] + [[wikipedia:Telluric current|Telluric current]]
+  | [[wikipedia:Volt|Volt]] + [[wikipedia:Sea of Sardinia|Sea of Sardinia]]
   |-
-  | 10
-  | [[Rock]]
-  | [[Subterror Behemoth Stalagmo|Stalagmo]]
-  | ''Gibraltar''
+  | [[Subterror Behemoth Stalagmo|Behemoth Stalagmo]]
+  | Malice Gibratar
   | [[wikipedia:Stalagmite|Stalagmite]]
-  | [[wikipedia:Strait of Gibraltar|Strait of Gibraltar]]
+  | [[wikipedia:Strait of Gibraltar|Strait of Gibraltar]] + [[wikipedia:Tar|Tar]]
   |-
-  | 11
-  | [[Fiend]]
-  | [[Subterror Behemoth Speleogeist|Speleogeist]]
-  | ''Alegeist''
-  | [[wikipedia:Speleology|Speleology]]<br/>[[wikipedia:Geist|Geist]]
-  | [[wikipedia:Aegean Sea|Aegean Sea]]
+  | [[Subterror Behemoth Speleogeist|Behemoth Speleogeist]]
+  | Malice Alegeist
+  | [[wikipedia:Speleology|Speleology]] + [[wikipedia:Geist|Geist]]
+  | [[wikipedia:Aegean Sea|Aegean Sea]] + [[wikipedia:Geist|Geist]]
   |-
-  | 12
-  | [[Pyro]]
-  | [[Subterror Behemoth Ultramafus|Ultramafus]]
-  | ''Balesash''
+  | [[Subterror Behemoth Ultramafus|Behemoth Ultramafus]]
+  | Malice Balesash
   | [[wikipedia:Ultramafic rock#Volcanic ultramafic rocks|Volcanic ultramafic rocks]]
-  | [[wikipedia:Balearic Sea|Balearic Sea]]
-  |}
-  ====Extra Deck====
-  {| class="wikitable"
-  ! scope="col" | Link Rating
-  ! scope="col" | Type
-  ! scope="col" | Subterror
-  ! scope="col" | Origin
-  |-
-  | 2
-  | [[Wyrm]]
-  | [[Subterror Behemoth Fiendess|Fiendess]]
-  | [[wikipedia:Ghost|Apparition]]
-  |}
-  ===Support===
-  {| class="wikitable"
-  |-
-  ! scope="col" | Spell/Trap
-  ! scope="col" | Japanese name
-  ! scope="col" | Origin
+  | [[wikipedia:Balearic Sea|Balearic Sea]] + [[wikipedia:Ash|Ash]]
   |-
   | [[The Hidden City]]
-  | ''Shambhala the Underground World''
-  | [[wikipedia:Shambhala|Shambhala]]<br/>[[wikipedia:Mediterranean Sea|Mediterranean Sea]]
+  | {{Translated name|The Hidden City|ja}}
+  | 
+  | [[wikipedia:Shambhala|Shambhala]] + [[wikipedia:Mediterranean Sea|Mediterranean Sea]]
   |}
 
   ==Playing style==
@@ -183,45 +125,32 @@ wikitext: |-
   The combination of these effects means that if the player has multiple "Subterror Behemoth" monsters in their hand, and flips a face-up monster they control face-down so that they control no face-up monsters, they can Special Summon 1 "Subterror Behemoth" monster in their hand and then flip it face-down to summon another one, eventually summoning all of them.
 
   {| class="wikitable"
-  ! Role
-  ! Level
-  ! Subterror Behemoth
+  ! Behemoth
   ! Flip effect
   |-
-  ! rowspan = 2 | Consistency
-  | 8
-  | [[Subterror Behemoth Phospheroglacier|Phospheroglacier]]
-  | Send 1 card from your Deck to the Graveyard.
-  |-
-  | 10
-  | [[Subterror Behemoth Stalagmo|Stalagmo]]
-  | Discard 1 "Subterror" monster, and if you do, draw 2 cards. 
-  |-
-  ! rowspan = 2 | Defense
-  | 6
-  | [[Subterror Behemoth Dragossuary|Dragossuary‎]]
-  | Activate this effect; this turn, "Subterror" cards you control cannot be destroyed by your opponent's card effects.
-  |-
-  | 11
-  | [[Subterror Behemoth Speleogeist|Speleogeist]]
-  | Target 1 monster on the field; change it to face-up Attack Position if it is in Defense Position, also change its ATK to 0.
-  |-
-  ! rowspan = 4 | Offense
-  | 5
   | [[Subterror Behemoth Stygokraken|Stygokraken]]
-  | Target Set cards on the field, equal to the number of "Subterror Behemoth" monsters you control; destroy them.
+  | Destroys Set cards on the field equal to the number of "Subterror Behemoth" monsters you control.
   |-
-  | 7
+  | [[Subterror Behemoth Dragossuary|Dragossuary‎]]
+  | Makes "Subterror" cards you control unable to be destroyed by your opponent's card effects for the rest of the turn.
+  |-
   | [[Subterror Behemoth Umastryx|Umastryx]]
-  | Target 1 monster your opponent controls; banish it.
+  | Banishes 1 monster your opponent controls.
   |-
-  | 9
+  | [[Subterror Behemoth Phospheroglacier|Phospheroglacier]]
+  | Sends 1 card from your Deck to the Graveyard.
+  |-
   | [[Subterror Behemoth Voltelluric|Voltelluric]]
-  | Target 1 Set monster your opponent controls; take control of it until your next End Phase.
+  | Takes control of 1 Set monster your opponent controls until your next End Phase.
   |-
-  | 12
+  | [[Subterror Behemoth Stalagmo|Stalagmo]]
+  | Discards 1 "Subterror" monster to draw 2 cards.
+  |-
+  | [[Subterror Behemoth Speleogeist|Speleogeist]]
+  | Changes the ATK of 1 monster on the field to 0, and puts it in face-up Attack Position if it is in Defense Position.
+  |-
   | [[Subterror Behemoth Ultramafus|Ultramafus]]
-  | Change all other face-up monsters on the field to face-down Defense Position.
+  | Changes all other face-up monsters on the field to face-down Defense Position.
   |}
 
   The low-Level "Subterror" monsters, as well as their Spell/Traps, function as support for the "Subterror Behemoth" monsters, providing searching, recovery, and other forms of protection to "Subterror" monsters. The most important member among them is "[[Subterror Guru]]", a Flip-based "Subterror" searcher, who also has a (conditionally [[Quick Effect|Quick]]) effect to flip itself and another monster face-down, instantly setting up the summon requirements of "Subterror Behemoth" monsters. For the other members, the important members are "[[Subterror Fiendess]]", an omni-negate handtrap, "[[Subterror Nemesis Warrior]]", a situational searcher, and "[[Subterror Nemesis Archer]]", a situational removal and monster searcher.
@@ -264,7 +193,7 @@ wikitext: |-
   * [[Ace★Spades Speculation]]
   * [[Invoked Raidjin]]
   * [[Master of Ham]]
-  * [[Thunder Dragon Colossus]] (if running "Voltelluric") (OCG or Traditional Format only)
+  * [[Thunder Dragon Colossus]] (if running "Voltelluric")
   |xyz monsters =
   * [[Ghostrick Alucard]]
   * [[Gallant Granite]]
