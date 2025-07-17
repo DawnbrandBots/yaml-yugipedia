@@ -33,7 +33,20 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP022; Doom of Dimensions; 
-  | archseries          = Regenesis
-  | database_id         = 
   | mentions            = Regenesis Demiurge
+  | archseries          = Regenesis
+  | action              = 
+  * Activates upon Special Summon
+  * Returns from your opponent's field to your opponent's hand
+  * Returns from your opponent's Graveyard to your opponent's hand
+  | stat_change         = Your opponent's monsters lose ATK
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your Graveyard
+  * Special Summon by its own condition once per turn
+  | banished            = Banishes from Graveyard for Summon
+  | misc                = Special Summon Monster
+  | database_id         = 
   }}
