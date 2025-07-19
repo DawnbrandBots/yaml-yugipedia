@@ -48,7 +48,9 @@ wikitext: |-
   | supports        = Tuner monster
   | archseries      = Trap Monster
   | attack          = Cannot be destroyed by battle
-  | m/s/t           = Cannot be destroyed by card effects
+  | m/s/t           =
+  * Cannot be destroyed by card effects
+  * Treats Trap Cards as monsters
   | stat_change     = Treats itself as a Tuner monster
   | summoning       = Special Summons itself from your Spell & Trap Zone
   | database_id     = 12819

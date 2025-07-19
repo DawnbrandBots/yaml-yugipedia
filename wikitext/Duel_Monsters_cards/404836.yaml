@@ -43,11 +43,13 @@ wikitext: |-
   | archseries          = 
   * Phantom Knights
   * The Phantom Knights
+  * Trap Monster
   | supports_archetypes = The Phantom Knights
   | action              = 
   * Adds banished cards to the hand
   * Activates upon attack declaration
   * Activates from your Graveyard
+  | m/s/t               = Treats Trap Cards as monsters
   | summoning           = 
   * Special Summons from your Graveyard
   * Special Summons itself from your Graveyard
@@ -55,6 +57,5 @@ wikitext: |-
   * Changes own Level
   * Treated as a Normal Monster
   | banished            = Banishes itself from field
-  | misc                = Pseudo-Trap Monster
   | database_id         = 12856
   }}

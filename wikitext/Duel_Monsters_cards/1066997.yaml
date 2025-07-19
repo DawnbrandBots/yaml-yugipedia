@@ -61,6 +61,7 @@ wikitext: |-
   * Returns the player's banished cards to the Deck
   * Sets itself from your Graveyard
   | stat_change         = Treated as a Normal Monster
+  | m/s/t               = Treats Trap Cards as monsters
   | summoning           = Special Summons itself from your Spell & Trap Zone
   | banished            = 
   * Banishes from your opponent's Graveyard
