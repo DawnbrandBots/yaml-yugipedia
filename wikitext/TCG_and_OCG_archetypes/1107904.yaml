@@ -32,13 +32,14 @@ wikitext: |-
   {| class="wikitable" style="text-align:center"
   ! Dominus
   ! Effects
-  ! Attributes Locked
+  ! Activatable from the hand requirement
+  ! Attributes locked 
   |-
-  | [[Dominus Impulse|Impulse]] || Negate a card/effect that Special Summons.<br>If a Trap is in your GY, destroy that card. || LIGHT, EARTH, WIND
+  | [[Dominus Impulse|Impulse]] || Negate a card/effect that includes an effect that Special Summons.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || LIGHT, EARTH, WIND
   |-
-  | [[Dominus Purge|Purge]] || Negate a card/effect that adds to hand.<br>If a Trap is in your GY, destroy that card. || DARK, WATER, FIRE
+  | [[Dominus Purge|Purge]] || Negate a card/effect that includes an effect that adds a card from Deck to hand.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || DARK, WATER, FIRE
   |-
-  | [[Dominus Spiral|Spiral]] || Bounce a monster.<br>If a Trap is not in your GY, the opponent can Summon from GY. || LIGHT, DARK
+  | [[Dominus Spiral|Spiral]] || Return a targeted monster to the hand/Extra Deck.<br>If a Trap is not in your GY, the opponent can Summon from GY. || Opponent activated a monster effect in the hand or GY this turn. || LIGHT, DARK
   |}
 
   {{Archseries navbox}}
