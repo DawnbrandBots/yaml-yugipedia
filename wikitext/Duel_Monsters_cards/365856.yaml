@@ -57,7 +57,9 @@ wikitext: |-
   EP16-JP037; Extra Pack 2016; Common
   | kr_sets               = 
   DOCS-KR081; Dimension of Chaos; Common
-  | archseries            = Paleozoic
+  | archseries            =
+  * Paleozoic
+  *  Trap Monster
   | action                = Activates from your Graveyard
   | stat_change           = 
   * Your monsters gain ATK
@@ -70,9 +72,7 @@ wikitext: |-
   * Unaffected by Monster Cards
   | summoning             = Special Summons itself from your Graveyard
   | banished              = Banishes itself when it leaves the field
-  | misc                  = 
-  * Once per Chain
-  * Pseudo-Trap Monster
+  | misc                  = Once per Chain
   | database_id           = 12192
   | tcg_speed_duel_status = Unlimited
   }}
