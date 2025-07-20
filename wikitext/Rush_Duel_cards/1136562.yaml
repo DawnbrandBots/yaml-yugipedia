@@ -5,13 +5,23 @@ wikitext: |-
   | image          = HamburgerRecipe-RDKP22-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
+  | ritualmonster  = Hungry Burger (Rush Duel)
   | requirement    = None
-  | text           = [[Ritual Summon]] "[[Hungry Burger (Rush Duel)|Hungry Burger]]" by [[send]]ing [[monsters]] from your [[hand]] and/or [[field]] to the [[Graveyard]] whose total [[Level]]s equal 6 or more as [[material]] (you cannot use more monsters than necessary as material).
+  | text           = [[Ritual Summon]] "[[Hungry Burger (Rush Duel)|Hungry Burger]]" by [[send]]ing [[Monster Card|monster]]s from your [[hand]] and/or [[field]] to the [[Graveyard]] whose total [[Level]]s equal 6 or more as [[material]] (you cannot use more monsters than necessary as material).
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP22-JP047; OuTerverSe of Terror; Common
   | mentions       = Hungry Burger (Rush Duel)
-  | database_id    = 
   | archseries     = Hungry
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Ritual Materials
+  * Uses cards on the player's field as Ritual Materials
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Level
+  | database_id    = 
   }}

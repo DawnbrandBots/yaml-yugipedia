@@ -9,13 +9,21 @@ wikitext: |-
   | image           = TakeoutAttack-RDKP22-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s), [[send]] 1 [[face-up]] [[Ritual Monster]] from your [[field]] to the [[Graveyard]].
+  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[send]] 1 [[face-up]] [[Ritual Monster]] from your [[field]] to the [[Graveyard]].
   | text            = [[Destroy]] 1 monster on your opponent's field. Then, you can Special Summon 1 "[[Hungry Burger (Rush Duel)|Hungry Burger]]" from your Graveyard face-up to your field.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP22-JP060; OuTerverSe of Terror; Common
   | mentions        = Hungry Burger (Rush Duel)
-  | database_id     = 
+  | supports        = Ritual Monster
   | archseries      = Hungry
+  | action          = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from field to Graveyard for cost
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | summoning       = Special Summons from your Graveyard
+  | misc            = Requires control of specific Monster card type
+  | database_id     = 
   }}

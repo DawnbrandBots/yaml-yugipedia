@@ -11,13 +11,23 @@ wikitext: |-
   | level          = 6
   | atk            = 2000
   | def            = 1900
-  | requirement    = If you have a [[DARK]] [[Attribute]] [[Warrior]] [[Type]] monster in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text           = This card gains [[ATK]] equal to [the number of DARK Attribute Warrior Type monsters in your Graveyard] x 200 until the end of this [[turn]]. Then, if you have "[[Hungry Burger (Rush Duel)|Hungry Burger]]" [[face-up]] on your [[field]], you can destroy 1 [[Spell]]/[[Trap Card]] on your opponent's field.
+  | ritualcard     = Hamburger Fast Recipe
+  | requirement    = If you have a [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]], [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text           = This card gains [[ATK]] equal to [the number of DARK Attribute Warrior Type monsters in your Graveyard] x 200 until the end of this [[turn]]. Then, if you have "[[Hungry Burger (Rush Duel)|Hungry Burger]]" [[face-up]] on your [[field]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP22-JP033; OuTerverSe of Terror; Rare
   | mentions       = Hungry Burger (Rush Duel)
-  | database_id    = 
+  | supports       = 
+  * DARK
+  * Warrior
   | archseries     = Hungry
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc           = Requires control of specific card
+  | database_id    = 
   }}

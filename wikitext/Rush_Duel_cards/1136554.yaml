@@ -12,12 +12,17 @@ wikitext: |-
   | atk            = 1200
   | def            = 900
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Hungry Coupon]]" from your Graveyard to your hand.
+  | text           = Send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Hungry Coupon]]" from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP22-JP018; OuTerverSe of Terror; Common
   | mentions       = Hungry Coupon
-  | database_id    = 
   | archseries     = Hungry
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | database_id    = 
   }}

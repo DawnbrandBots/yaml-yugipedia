@@ -13,11 +13,18 @@ wikitext: |-
   | atk             = 1800
   | def             = 1900
   | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text            = [[Add a card|Add]] 1 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] monster with 1200 [[ATK]]/900 [[DEF]] from your [[Graveyard]] to your [[hand]].
+  | text            = [[Add a card|Add]] 1 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] with 1200 [[ATK]]/900 [[DEF]] from your [[Graveyard]] to your [[hand]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP22-JP022; OuTerverSe of Terror; Common
-  | database_id     = 
+  | supports        = 
+  * DARK
+  * Warrior
   | archseries      = Hungry
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  | database_id     = 
   }}

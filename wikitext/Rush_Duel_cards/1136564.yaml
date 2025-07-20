@@ -9,11 +9,19 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = Make up to 2 [[face-up]] [[Level]] 3 or 6 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]] on your [[field]] gain 1000 [[ATK]] until the end of this [[turn]].
+  | text           = Make up to 2 [[face-up]] [[Level]] 3 or 6 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain 1000 [[ATK]] until the end of this [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP22-JP049; OuTerverSe of Terror; Common
-  | database_id    = 
+  | supports       = 
+  * DARK
+  * Warrior
   | archseries     = Hungry
+  | stat_change    = Your monsters gain ATK
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id    = 
   }}

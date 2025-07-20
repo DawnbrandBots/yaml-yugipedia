@@ -8,8 +8,11 @@ wikitext: |-
   | image          = HamburgerFastRecipe-RDKP22-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
+  | ritualmonster  = 
+  * Hungry Burger (Rush Duel)
+  * Hungreed Burger
   | requirement    = None
-  | text           = [[Ritual Summon]] "[[Hungry Burger (Rush Duel)|Hungry Burger]]" or "[[Hungreed Burger]]" by [[send]]ing [[face-up]] [[monsters]] from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 6 or more as [[material]] (you cannot use more monsters than necessary as material).
+  | text           = [[Ritual Summon]] "[[Hungry Burger (Rush Duel)|Hungry Burger]]" or "[[Hungreed Burger]]" by [[send]]ing [[face-up]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 6 or more as [[material]] (you cannot use more monsters than necessary as material).
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +20,13 @@ wikitext: |-
   | mentions       = 
   * Hungry Burger (Rush Duel)
   * Hungreed Burger
-  | database_id    = 
   | archseries     = Hungry
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Level
+  | database_id    = 
   }}

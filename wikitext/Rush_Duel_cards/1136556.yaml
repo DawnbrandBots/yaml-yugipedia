@@ -12,12 +12,19 @@ wikitext: |-
   | level           = 3
   | atk             = 1200
   | def             = 900
-  | requirement     = During the [[turn]] you [[Normal Summon]]ed this card, [[shuffle]] 2 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement     = During the [[turn]] you [[Normal Summon]]ed this card, [[shuffle]] 2 [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | text            = Gain 1000 [[LP]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP22-JP019; OuTerverSe of Terror; Common
-  | database_id     = 
+  | supports        = 
+  * DARK
+  * Warrior
   | archseries      = Hungry
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Returns from Graveyard to Deck for cost
+  | life_points     = You gain Life Points
+  | database_id     = 
   }}
