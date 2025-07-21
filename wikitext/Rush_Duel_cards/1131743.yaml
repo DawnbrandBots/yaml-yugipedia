@@ -3,21 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = yes
   | ja_name        = ラビュエル・アイヴォリー
   | romaji_name    = Rabyueru Aivorī
-  | image          = RavuelIvory-OW.png
-  | attribute      = ???
-  | types          = ??? / Ritual
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | ritualcard     = 
-  | requirement    = 
-  | text           = ''TBA''
+  | image          = RavuelIvory-RDKP22-JP-OP.png
+  | attribute      = WIND
+  | types          = Rock / Ritual / Effect
+  | level          = 6
+  | atk            = 2400
+  | def            = 1200
+  | ritualcard     = Jeweled Tusk Ritual
+  | requirement    = During your [[Main Phase]] that you [[Ritual Summon]]ed this card by using 2 or more [[Monster Card|monster]]s as [[material]].
+  | text           = [[Draw a card|Draw]] 2 cards.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP22-JP0??; OuTerverSe of Terror
+  RD/KP22-JP039; OuTerverSe of Terror; Ultra Rare, Over Rush Rare
+  | action         = 
+  * Activates during the turn in which it was Ritual Summoned
+  * You draw cards
   | database_id    = 
   }}
