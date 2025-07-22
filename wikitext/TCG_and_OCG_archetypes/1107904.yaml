@@ -17,6 +17,7 @@ wikitext: |-
   | sets           = 
   * [[The Infinite Forbidden]]
   * [[Rage of the Abyss]]
+  * [[Alliance Insight]]
   * [[Doom of Dimensions]]
   | tcg            = 
   | ocg            = 
@@ -24,22 +25,24 @@ wikitext: |-
   * [[Rage of the Abyss +1 Bonus Pack]]
   }}
 
-  "'''Dominus'''" (ドミナス ''Dominasu'') is an [[archetype]] of [[Normal Trap Card]]s that [[can be activated from the hand]] under certain conditions, but doing so prevents the player from activating the [[Monster effect|effects of monsters]] with certain [[Attribute]]s for the rest of the Duel.
+  "'''Dominus'''" (ドミナス ''Dominasu'') is an [[archetype]] of [[Normal Trap Card|Normal]] [[Trap Card]]s that [[can be activated from the hand]] under certain conditions, but doing so prevents the player from activating the [[Monster effect|effects of monsters]] with certain [[Attribute]]s for the rest of the Duel. Their effects also provide an additional benefit if there is a Trap in the [[Graveyard|GY]].
 
   Its first member, "[[Dominus Purge]]", was released in ''[[The Infinite Forbidden]]'', while its first support card, "[[Songs of the Dominators]]", was only released three [[Core Booster|core boosters]] later in ''[[Alliance Insight]]''.
 
-  ==Members==
+  ==Members/Support==
   {| class="wikitable" style="text-align:center"
   ! Dominus
   ! Effects
   ! Activatable from the hand requirement
-  ! Attributes locked 
+  ! Restrictions applied to player if activated from the hand
   |-
-  | [[Dominus Impulse|Impulse]] || Negate a card/effect that includes an effect that Special Summons.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || LIGHT, EARTH, WIND
+  | [[Dominus Impulse|Impulse]] || Negate a card/effect that includes an effect that [[Special Summon]]s.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || Cannot activate the effects of [[LIGHT]], [[EARTH]], and [[WIND]] monsters for the rest of the Duel.
   |-
-  | [[Dominus Purge|Purge]] || Negate a card/effect that includes an effect that adds a card from Deck to hand.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || DARK, WATER, FIRE
+  | [[Dominus Purge|Purge]] || Negate a card/effect that includes an effect that [[Add a card|adds a card]] from [[Deck]] to [[hand]].<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || Cannot activate the effects of [[DARK]], [[WATER]], and [[FIRE]] monsters for the rest of the Duel.
   |-
-  | [[Dominus Spiral|Spiral]] || Return a targeted monster to the hand/Extra Deck.<br>If a Trap is not in your GY, the opponent can Summon from GY. || Opponent activated a monster effect in the hand or GY this turn. || LIGHT, DARK
+  | [[Dominus Spiral|Spiral]] || [[Return]] an opponent's targeted monster to the hand or [[Extra Deck]].<br>If a Trap is not in your GY, the opponent can Special Summon 1 monster from their GY. || Opponent activated a monster effect in the hand or GY this turn. || Cannot activate the effects of LIGHT and DARK monsters for the rest of the Duel.
+  |-
+  | [[Songs of the Dominators]] || Negate a monster's effect that was activated on the field.<br>If you have a Trap in your GY, you can add 1 "Dominus" card from your Deck to your hand. || No monsters in your GY. || Cannot activate the effects of monsters in your hand, GY, and [[banish]]ment, until the end of the next turn.
   |}
 
   {{Archseries navbox}}
