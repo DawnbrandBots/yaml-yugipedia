@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 2950
   | password            = 
   | effect_types        = Summoning condition, Summoning condition, Quick, Trigger, Condition
-  | text                = Requires 3 Tributes to Normal Summon (cannot be Normal Set). To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. When your opponent activates a monster effect in the hand or field and you control this Tribute Summoned card (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Tribute Summoned card is destroyed by battle, or by an opponent's card effect while in its owner's Monster Zone: You can skip your opponent's next Main Phase. You can only use each effect of "Master Peace, the True Dracoverlord" once per turn.
+  | text                = Requires 3 [[Tribute]]s to [[Normal Summon]] (cannot be [[Normal Set]]). To [[Tribute Summon]] this card [[face-up]], you can Tribute [[Continuous Spell]]s/[[Continuous Trap|Traps]] you [[control]], as well as [[monster]]s. When your opponent [[activate]]s a [[monster effect]] in the [[hand]] or [[field]] and you control this Tribute Summoned card ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that card. If this Tribute Summoned card is [[destroyed by battle]], or by an opponent's card effect while in its [[own]]er's [[Monster Zone]]: You can skip your opponent's next [[Main Phase]]. You can only use each effect of "Master Peace, the True Dracoverlord" [[once per turn]].
   | fr_text             =
   | de_text             = 
   | it_text             = 
@@ -33,8 +33,29 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP018; Doom of Dimensions; 
+  | supports            = 
+  * Continuous Spell Card
+  * Continuous Trap Card
   | archseries          = 
   * Dracoverlord
   * True Draco
+  | action              = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Skips Main Phase 1
+  * Skips Main Phase 2
+  | m/s/t               = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Negates the activation of your opponent's Spell Cards
+  * Negates the activation of your opponent's Trap Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning           = 
+  * Normal Summon with 3 Tributes
+  * Normal Summon condition
+  * Cannot be Normal Set
+  * Uses Spell/Trap Cards as Tributes for Normal Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}

@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 1400
   | password            = 
   | effect_types        = Summoning condition, Ignition, Trigger, Condition
-  | text                = To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap you control, instead of a monster. If this card is in your hand: You can destroy 1 other "True Draco" or "True King" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards of your Deck. You can only use each effect of "Mariamne Paradox, the True Dracophoenix Knight" once per turn.
+  | text                = To [[Tribute Summon]] this card [[face-up]], you can [[Tribute]] a [[Continuous Spell]]/[[Continuous Trap|Trap]] you [[control]], instead of a [[monster]]. If this card is in your [[hand]]: You can [[destroy]] 1 other [[True Draco|"True Draco" or "True King"]] card in your hand or [[face-up]] [[field]], and if you do, [[Special Summon]] this card to either field. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed from the hand: [[Banish]] the top 4 cards of your [[Main Deck|Deck]]. You can only use each [[effect]] of "Mariamne Paradox, the True Dracophoenix Knight" [[once per turn]].
   | fr_text             =
   | de_text             = 
   | it_text             = 
@@ -33,7 +33,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DOOD-JP019; Doom of Dimensions; 
+  | supports            = 
+  * Continuous Spell Card
+  * Continuous Trap Card
   | archseries          = True Draco
   | supports_archetypes = True Draco
+  | action              = 
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | m/s/t               = 
+  * Destroys hand
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  | summoning           = 
+  * Uses Spell/Trap Cards as Tributes for Normal Summon
+  * Special Summons itself from your hand
+  * Special Summons itself from your hand to your opponent's field
+  | banished            = 
+  * Banishes from the top of your Deck
+  * Banishes from the top of your opponent's Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
