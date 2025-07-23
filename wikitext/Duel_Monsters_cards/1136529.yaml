@@ -31,7 +31,15 @@ wikitext: |-
   | jp_sets             = 
   DOOD-JP055; Doom of Dimensions; 
   | mentions            = Black Rose Dragon
+  | supports            = Plant
   | archseries          = Rose
   | supports_archetypes = Rose Dragon
+  | action              = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Activates if destroyed
+  | stat_change         = Changes Type
+  | life_points         = Damages your opponent
+  | misc                = Only once per turn
   | database_id         = 
   }}
