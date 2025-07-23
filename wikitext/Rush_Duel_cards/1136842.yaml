@@ -3,28 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|ＯＴＳ|アウターバース}}トキシックブロブ
-  | romaji_name           = Autābāsu Tokishikku Burobu
-  | image                 = OuTerverSeToxicBlob-RDKP22-JP-OP.png
-  | attribute             = WATER
-  | types                 = Aqua / Fusion / Effect
-  | level                 = 9
-  | atk                   = 2600
-  | def                   = 2300
-  | fusion_material       = OuTerverSe Acid Blob
-  | materials             = "[[OuTerverSe Acid Blob]]" + 1 non-[[LIGHT]] [[Attribute]] [[monster]]
-  | condition             = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
-  | requirement           = [[Shuffle]] 2 "OuTerverSe" from your Graveyard into the [[Main Deck|Deck]].
-  | text                  = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[destroy]] 1 [[face-up]] monster on your opponent's [[field]] whose current [[ATK]] is different from its [[original ATK]].
-  | ja_materials          = 
-  | ja_condition          = 
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name         = {{Ruby|ＯＴＳ|アウターバース}}トキシックブロブ
+  | romaji_name     = Autābāsu Tokishikku Burobu
+  | image           = OuTerverSeToxicBlob-RDKP22-JP-OP.png
+  | attribute       = WATER
+  | types           = Aqua / Fusion / Effect
+  | level           = 9
+  | atk             = 2600
+  | def             = 2300
+  | fusion_material = OuTerverSe Acid Blob
+  | materials       = "[[OuTerverSe Acid Blob]]" + 1 non-[[LIGHT]] [[Attribute]] [[Monster Card|monster]]
+  | condition       = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
+  | requirement     = [[Shuffle]] 2 "OuTerverSe" from your Graveyard into the [[Main Deck|Deck]].
+  | text            = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[destroy]] 1 [[face-up]] monster on your opponent's [[field]] whose current [[ATK]] is different from its [[Original ATK and DEF|original ATK]].
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP22-JP028; OuTerverSe of Terror; Common
-  | mentions              = 
+  | mentions        = 
   * OuTerverSe Acid Blob
   * OuTerverSe
-  | archseries            = OuTerverSe (series)
-  | database_id           = 
+  | archseries      = OuTerverSe (series)
+  | action          = Returns from Graveyard to Deck for cost
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Changes Type
+  | m/s/t           = Destroys your opponent's face-up Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | database_id     = 
   }}
