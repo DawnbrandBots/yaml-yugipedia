@@ -10,7 +10,7 @@ wikitext: |-
   | card_type       = Trap
   | property        = Normal
   | condition       = This card's name becomes "[[Abysskite Protection]]" while in the [[Graveyard]].
-  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], [[shuffle]] 2 monsters from your Graveyard into the [[Main Deck|Deck]].
+  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 monsters from your Graveyard into the [[Main Deck|Deck]].
   | text            = Choose up to 2 [[Attack Position]] [[LIGHT]] [[Attribute]] [[Sea Serpent]] [[Type]] monsters on your [[field]]. This [[turn]], those monsters gain 800 [[ATK]], and cannot be [[destroyed by battle]].
   | ja_condition    = 
   | ja_requirement  = 
@@ -18,6 +18,20 @@ wikitext: |-
   | jp_sets         = 
   RD/KP22-JP061; OuTerverSe of Terror; Rare
   | mentions        = Abysskite Protection
+  | supports        = 
+  * LIGHT
+  * Sea Serpent
   | archseries      = Abysskite
+  | action          = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Your monsters gain ATK
+  | attack          = Prevents other cards being destroyed by battle
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}
