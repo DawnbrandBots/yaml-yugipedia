@@ -12,8 +12,8 @@ wikitext: |-
   | atk            = 2200
   | def            = 0
   | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 "[[Abysskite Karen]]".
-  | requirement    = [[Shuffle]] up to 3 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = This card gains 400 [[ATK]] until the end of this [[turn]]. Then, if you shuffled 3 monsters to meet the requirement, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | requirement    = [[Shuffle]] up to 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = This card gains 400 [[ATK]] until the end of this [[turn]]. Then, if you shuffled 3 monsters to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -21,5 +21,12 @@ wikitext: |-
   RD/KP22-JP011; OuTerverSe of Terror; Ultra Rare, Over Rush Rare
   | mentions       = Abysskite Karen
   | archseries     = Abysskite
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = Requires control of specific card
   | database_id    = 
   }}
