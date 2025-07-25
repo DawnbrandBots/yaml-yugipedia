@@ -3,32 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|黙歯録|アポカリエス}}
-  | romaji_name         = Apokariesu
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = Apocaries-DOOD-JP-NR.png
-  | card_type           = Spell
-  | property            = Continuous
-  | password            = 
-  | effect_types        = Effect, Ignition-like, Condition
-  | text                = When this card is [[activate]]d: Place [[C Counter]]s on this card equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 C Counters from your [[field]]; apply this [[effect]] to that monster based on the number removed.<br />● 1: Its loses 500 [[ATK]].<br />● 2: Change its ATK to 0.<br />● 3: [[Negate]] its effects.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocaries" per turn.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|黙歯録|アポカリエス}}
+  | base_translated_name = Silent Dental Record
+  | base_romaji_name     = Mokushiroku
+  | romaji_name          = Apokariesu
+  | translated_name      = 
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = Apocaries-DOOD-JP-NR.png
+  | card_type            = Spell
+  | property             = Continuous
+  | password             = 
+  | effect_types         = Effect, Ignition-like, Condition
+  | text                 = When this card is [[activate]]d: Place [[C Counter]]s on this card equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 C Counters from your [[field]]; apply this [[effect]] to that monster based on the number removed.<br />● 1: Its loses 500 [[ATK]].<br />● 2: Change its ATK to 0.<br />● 3: [[Negate]] its effects.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocaries" per turn.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
   | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、相手フィールドのカードの数だけこのカードにCカウンターを置く。②：相手フィールドの表側表示モンスター１体を対象とし、自分フィールドのCカウンターを４つまで取り除いて発動できる。取り除いたカウンターの数によって以下の効果をそのモンスターに適用する。●１つ：攻撃力を５００ダウンする。●２つ：攻撃力を０にする。●３つ：効果を無効にする。●４つ：破壊する。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DOOD-JP072; Doom of Dimensions; Normal Rare
-  | database_id         = 21838
+  | database_id          = 21838
   }}
