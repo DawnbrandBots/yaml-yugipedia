@@ -3,36 +3,55 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|漆|しっ}}{{Ruby|梏|こく}}の{{Ruby|喰獣|レマルギア}} ケルゼブス
-  | romaji_name         = Shikkoku no Remarugia Keruzebusu
-  | base_translated_name = Cerzebuth, the Black Iron Devourer Beast
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = CerzebuthLaimargiaoftheEbonIrons-DOOD-JP-C.png
-  | attribute           = DARK 
-  | types               = Beast / Xyz / Effect
-  | rank                = 7
-  | atk                 = 700
-  | def                 = 2500
-  | password            = 
-  | effect_types        = Continuous, Quick, Trigger, Condition
-  | text                = 2+ [[Level]] 7 [[monsters]]<br />Gains 700 ATK for each [[material]] [[attach]]ed to it. Once per [[Chain]], when a [[Normal Spell Card|Normal]] or [[Quick-Play Spell Card]] is [[activate]]d ([[Quick Effect]]): You can attach that card on the [[field]] to this [[face-up]] card, and if you do, this card is [[unaffected]] by that activated effect. During the [[End Phase]]: You can [[Set]] 1 [[Spell]] attached to this card. You can only use this [[effect]] of "Cerzebuth, Laimargia of the Ebon Irons" [[once per turn]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = レベル７モンスター×２体以上<br />このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、このカードのX素材の数×７００アップする。②：通常・速攻魔法カードが発動した時に発動できる（同一チェーン上では１度まで）。フィールドのそのカードを表側表示のこのカードのX素材にし、このカードはその発動した効果を受けない。③：自分・相手のエンドフェイズに発動できる。このカードがX素材としている魔法カード１枚を自分フィールドにセットする。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|漆|しっ}}{{Ruby|梏|こく}}の{{Ruby|喰獣|レマルギア}} ケルゼブス
+  | base_translated_name = Cerzebuth, Devouring Beast of the Ebon Irons
+  | romaji_name          = Shikkoku no Remarugia Keruzebusu
+  | translated_name      = 
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = CerzebuthLaimargiaoftheEbonIrons-DOOD-JP-C.png
+  | attribute            = DARK 
+  | types                = Beast / Xyz / Effect
+  | rank                 = 7
+  | atk                  = 700
+  | def                  = 2500
+  | password             = 94503794
+  | materials            = 2 or more Level 7 monsters
+  | effect_types         = Continuous, Quick, Trigger, Condition
+  | text                 = 2+ [[Level]] 7 [[monsters]]<br />Gains 700 ATK for each [[material]] [[attach]]ed to it. Once per [[Chain]], when a [[Normal Spell Card|Normal]] or [[Quick-Play Spell Card]] is [[activate]]d ([[Quick Effect]]): You can attach that card on the [[field]] to this [[face-up]] card, and if you do, this card is [[unaffected]] by that activated effect. During the [[End Phase]]: You can [[Set]] 1 [[Spell]] attached to this card. You can only use this [[effect]] of "Cerzebuth, Laimargia of the Ebon Irons" [[once per turn]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = レベル７モンスター×２体以上<br />このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、このカードのX素材の数×７００アップする。②：通常・速攻魔法カードが発動した時に発動できる（同一チェーン上では１度まで）。フィールドのそのカードを表側表示のこのカードのX素材にし、このカードはその発動した効果を受けない。③：自分・相手のエンドフェイズに発動できる。このカードがX素材としている魔法カード１枚を自分フィールドにセットする。
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DOOD-JP048; Doom of Dimensions; Common
-  | database_id         = 21814
+  | supports             = 
+  * Normal Spell Card
+  * Quick-Play Spell Card
+  | anti-supports        = 
+  * Normal Spell Card
+  * Quick-Play Spell Card
+  | action               = 
+  * Attaches from your field as Xyz Material
+  * Attaches from your opponent's field as Xyz Material
+  * Sets Xyz Materials to your field
+  | stat_change          = This card gains ATK
+  | m/s/t                = Unaffected by activated card effects
+  | summoning            = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                 = 
+  * Once per Chain
+  * Only once per turn
+  | database_id          = 21814
   }}

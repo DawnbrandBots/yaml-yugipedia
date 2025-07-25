@@ -19,18 +19,32 @@ wikitext: |-
   | image                = Apocaries-DOOD-JP-NR.png
   | card_type            = Spell
   | property             = Continuous
-  | password             = 
+  | password             = 28531163
   | effect_types         = Effect, Ignition-like, Condition
-  | text                 = When this card is [[activate]]d: Place [[C Counter]]s on this card equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 C Counters from your [[field]]; apply this [[effect]] to that monster based on the number removed.<br />● 1: Its loses 500 [[ATK]].<br />● 2: Change its ATK to 0.<br />● 3: [[Negate]] its effects.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocaries" per turn.
+  | text                 = When this card is [[activate]]d: Place [[Caries Counter]]s on this card equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 Caries Counters from your [[field]]; apply this [[effect]] to that monster based on the number removed.<br />● 1: Its loses 500 [[ATK]].<br />● 2: Change its ATK to 0.<br />● 3: [[Negate]] its effects.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocaries" per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
   | pt_text              = 
   | es_text              = 
-  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、相手フィールドのカードの数だけこのカードにCカウンターを置く。②：相手フィールドの表側表示モンスター１体を対象とし、自分フィールドのCカウンターを４つまで取り除いて発動できる。取り除いたカウンターの数によって以下の効果をそのモンスターに適用する。●１つ：攻撃力を５００ダウンする。●２つ：攻撃力を０にする。●３つ：効果を無効にする。●４つ：破壊する。
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、相手フィールドのカードの数だけこのカードにＣカウンターを置く。②：相手フィールドの表側表示モンスター１体を対象とし、自分フィールドのＣカウンターを４つまで取り除いて発動できる。取り除いたカウンターの数によって以下の効果をそのモンスターに適用する。<br />●１つ：攻撃力を５００ダウンする。　●２つ：攻撃力を０にする。<br />●３つ：効果を無効にする。　　　　　●４つ：破壊する。
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
   DOOD-JP072; Doom of Dimensions; Normal Rare
+  | counter              = 
+  * C Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | stat_change          = 
+  * Your opponent's monsters lose ATK
+  * Changes ATK value
+  * Reduces ATK to 0
+  | m/s/t                = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys your opponent's face-up Monster Cards
+  | misc                 = 
+  * Variable effects
+  * Only once per turn
   | database_id          = 21838
   }}

@@ -21,7 +21,7 @@ wikitext: |-
   | pendulum_scale        = 9
   | atk                   = 400
   | def                   = 400
-  | password              = 
+  | password              = 84693918
   | pendulum_effect_types = Continuous-like, Condition
   | effect_types          = Unclassified, Ignition, Condition
   | pendulum_effect       = When a [[monster effect]] [[activate]]d by your opponent on the [[field]] [[resolve]]s, if you [[control]] a "[[GranSolfachord]]" [[monster]], you can [[negate]] that [[effect]], then [[destroy]] this card. You can only use this effect of "Solfachord Solfeggia" [[once per turn]].
@@ -36,14 +36,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：相手がフィールドで発動したモンスターの効果の処理時に、自分フィールドに「グランドレミコード」モンスターが存在する場合、その発動した効果を無効にできる。その後、このカードを破壊する。
+  | ja_text               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのモンスターが、存在しない場合または「ドレミコード」モンスターのみの場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる（このカードをリリースして発動する事もできる）。手札から「ドレミコード・ソルフェージア」以外の「ドレミコード」モンスター１体を特殊召喚する。このカードをリリースして発動した場合、特殊召喚するモンスターを自分のＥＸデッキ（表側）・墓地から選ぶ事もできる。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  DOOD-JP020; Doom of Dimensions; 
+  DOOD-JP020; Doom of Dimensions; Common
   | sc_sets               = 
   DOOD-SC020; Doom of Dimensions; 
   | mentions              = Solfachord Solfeggia
@@ -67,5 +67,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Only once per turn
   * Requires control of no monsters
-  | database_id           = 
+  | database_id           = 21786
   }}
