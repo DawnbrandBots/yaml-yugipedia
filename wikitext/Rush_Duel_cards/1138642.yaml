@@ -13,7 +13,7 @@ wikitext: |-
   | def            = 2300
   | condition      = This card's name becomes "[[Buster Blader (Rush Duel)|Buster Blader]]" while in the [[Graveyard]].
   | requirement    = [[Send]] 1 card from your [[hand]] to the Graveyard.
-  | text           = This [[turn]], this card's name becomes "Buster Blader". Then, you can add 1 "[[Polymerization (Rush Duel)|Polymerization]]" or "[[Miracle Secret Arts]]" from your Graveyard to your hand. This turn, this card cannot [[attack]].
+  | text           = This [[turn]], this card's name becomes "Buster Blader". Then, you can [[Add a card|add]] 1 "[[Polymerization (Rush Duel)|Polymerization]]" or "[[Miracle Secret Arts]]" from your Graveyard to your hand. This turn, this card cannot [[attack]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -23,6 +23,13 @@ wikitext: |-
   * Buster Blader (Rush Duel)
   * Polymerization (Rush Duel)
   * Miracle Secret Arts
-  | related_to_archseries = Dark Magician (Rush Duel series)
+  | archseries     = Dark Magician (Rush Duel series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | attack         = Cannot attack
   | database_id    = 
   }}
