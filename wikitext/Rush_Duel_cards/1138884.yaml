@@ -13,7 +13,7 @@ wikitext: |-
   | atk             = 700
   | def             = 1200
   | condition       = This card's name becomes "[[Ritzy King Rex]]" while in the [[Graveyard]].
-  | requirement     = The only [[monsters]] in your [[Graveyard]] are [[Dinosaur]] [[Type]] monsters and you have a [[Legend Card|Legend]] monster or "[[Upstart Goblin (Rush Duel)|Upstart Goblin]]" in your Graveyard.
+  | requirement     = The only [[Monster Card|monster]]s in your Graveyard are [[Dinosaur]] [[Type]] monsters and you have a [[Legend Card|Legend]] monster or "[[Upstart Goblin (Rush Duel)|Upstart Goblin]]" in your Graveyard.
   | text            = [[Destroy]] 1 monster on your opponent's [[field]]. Then, if you have "Upstart Goblin" in your Graveyard, you can [[Draw a card|draw]] 1 card.
   | ja_condition    = 
   | ja_requirement  = 
@@ -23,6 +23,13 @@ wikitext: |-
   | mentions        = 
   * Ritzy King Rex
   * Upstart Goblin (Rush Duel)
+  | supports        = 
+  * Dinosaur
+  * Legend Card
   | archseries      = Nouveau Riche Dinosaur
+  | action          = You draw cards
+  | stat_change     = Changes own name while in the GY
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | misc            = Requires having only specific Type in Graveyard
   | database_id     = 
   }}
