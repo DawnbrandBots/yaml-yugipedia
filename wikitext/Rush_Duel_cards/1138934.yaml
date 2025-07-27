@@ -2,19 +2,26 @@ title: Guardian Eatos (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = GuardianEatos-RDKP22-JP-OP.png
-  | attribute       = WIND
-  | types           = Fairy / Effect
-  | level           = 8
-  | atk             = 2500
-  | def             = 2000
-  | condition       = If you have no [[monsters]] in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
-  | requirement     = [[Send]] 1 face-up [[Equip Spell Card]] from your field to the Graveyard.
-  | text            = [[Shuffle]] up to 3 monsters from your opponent's Graveyard into the [[Main Deck|Deck]]. Then, this card gains [[ATK]] equal to [the number of monsters shuffled by this [[effect]]] x 500 until the end of this [[turn]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = GuardianEatos-RDKP22-JP-OP.png
+  | attribute      = WIND
+  | types          = Fairy / Effect
+  | level          = 8
+  | atk            = 2500
+  | def            = 2000
+  | condition      = If you have no [[Monster Card|monster]]s in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | requirement    = [[Send]] 1 face-up [[Equip Spell Card]] from your field to the Graveyard.
+  | text           = [[Shuffle]] up to 3 monsters from your opponent's Graveyard into the [[Main Deck|Deck]]. Then, this card gains [[ATK]] equal to [the number of monsters shuffled by this [[effect]]] x 500 until the end of this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP22-JP065; OuTerverSe of Terror; Super Rare
-  | database_id     = 
+  | supports       = Equip Spell Card
+  | action         = 
+  * Sends from field to Graveyard for cost
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change    = This card gains ATK
+  | summoning      = Special Summons itself from your hand
+  | misc           = Requires having no monsters in Graveyard
+  | database_id    = 
   }}
