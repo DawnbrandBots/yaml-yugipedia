@@ -1,40 +1,39 @@
 title: Pair Production
 wikitext: |-
   {{CardTable2
-  | fr_name               = Création de Paires
-  | de_name               = Paarbildung
-  | it_name               = Produzione di Coppie
-  | es_name               = Creación de Pares
-  | ja_name               = {{Ruby|対|つい}}{{Ruby|生|せい}}{{Ruby|成|せい}}
-  | romaji_name           = Tsuiseisei
-  | ko_name               = 쌍생성
-  | ko_rr_name            = 
-  | image                 = PairProduction-RDSBD6-JP-C.png
-  | card_type             = Spell
-  | property              = Normal
-  | requirement           = [[Send]] 2 [[Level]] 5 or lower [[Cyberse]] [[Type]] [[monsters]] with the same [[Level]] from your [[hand]] to the [[Graveyard]].
-  | text                  = 1 [[face-up]] monster on your [[field]] gains [[ATK]] equal to [the Level of 1 of the monsters sent to the Graveyard to meet the requirement] x 400 until the end of this [[turn]].
-  | fr_requirement        = Envoyez 2 monstres de Type Cyberse de max. Niveau 5 du même Niveau depuis votre main au Cimetière.
-  | fr_text               = 1 monstre face recto sur votre Terrain gagne une ATK égale au [Niveau d'1 des monstres envoyés au Cimetière pour remplir la condition] x 400 jusqu'à la fin de ce tour.
-  | de_requirement        = Lege 2 Monster des Typs Cyberse der Stufe 5 oder niedriger mit derselben Stufe von deiner Hand auf den Friedhof.
-  | de_text               = 1 offenes Monster auf deiner Spielfeldseite erhält bis zum Ende dieses Spielzugs ATK in Höhe [der Stufe eines der Monster, das du auf den Friedhof gelegt hast, um die Bedingung zu erfüllen] x 400.
-  | it_requirement        = Manda 2 mostri di Tipo Cyberso di Livello 5 o inferiore con lo stesso Livello dalla tua mano al Cimitero.
-  | it_text               = 1 mostro scoperto sul tuo Terreno guadagna ATK pari [al Livello di 1 mostro mandato al Cimitero per soddisfare il requisito] x 400 fino alla fine di questo turno.
-  | es_requirement        = Manda al Cementerio 2 monstruos de Tipo Ciberso de Nivel 5 o menor con el mismo Nivel en tu mano.
-  | es_text               = 1 monstruo boca arriba en tu Campo gana ATK igual [al Nivel de 1 de los monstruos enviados al Cementerio para cumplir con el requisito] x 400 hasta el final de este turno.
-  | ja_requirement        = レベルが同じ手札のモンスター（レベル５以下／サイバース族）２体を墓地へ送って発動できる。
-  | ja_text               = 自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［この効果の条件で墓地へ送ったモンスター１体のレベル］×４００アップする。
-  | ko_requirement        = 레벨이 같은 패의 몬스터(레벨 5 이하 / 사이버스족) 2장을 묘지로 보내고 발동할 수 있다.
-  | ko_text               = 자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [이 효과의 조건으로 묘지로 보낸 몬스터 1장의 레벨] × 400 올린다.
-  | jp_sets               = 
+  | fr_name        = Création de Paires
+  | de_name        = Paarbildung
+  | it_name        = Produzione di Coppie
+  | es_name        = Creación de Pares
+  | ja_name        = {{Ruby|対|つい}}{{Ruby|生|せい}}{{Ruby|成|せい}}
+  | romaji_name    = Tsuiseisei
+  | ko_name        = 쌍생성
+  | image          = PairProduction-RDSBD6-JP-C.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Send]] 2 [[Level]] 5 or lower [[Cyberse]] [[Type]] [[Monster Card|monster]]s with the same [[Level]] from your [[hand]] to the [[Graveyard]].
+  | text           = 1 [[face-up]] monster on your [[field]] gains [[ATK]] equal to [the Level of 1 of the monsters sent to the Graveyard to meet the [[Activation condition|requirement]]] x 400 until the end of this [[turn]].
+  | fr_requirement = Envoyez 2 monstres de Type Cyberse de max. Niveau 5 du même Niveau depuis votre main au Cimetière.
+  | fr_text        = 1 monstre face recto sur votre Terrain gagne une ATK égale au [Niveau d'1 des monstres envoyés au Cimetière pour remplir la condition] x 400 jusqu'à la fin de ce tour.
+  | de_requirement = Lege 2 Monster des Typs Cyberse der Stufe 5 oder niedriger mit derselben Stufe von deiner Hand auf den Friedhof.
+  | de_text        = 1 offenes Monster auf deiner Spielfeldseite erhält bis zum Ende dieses Spielzugs ATK in Höhe [der Stufe eines der Monster, das du auf den Friedhof gelegt hast, um die Bedingung zu erfüllen] x 400.
+  | it_requirement = Manda 2 mostri di Tipo Cyberso di Livello 5 o inferiore con lo stesso Livello dalla tua mano al Cimitero.
+  | it_text        = 1 mostro scoperto sul tuo Terreno guadagna ATK pari [al Livello di 1 mostro mandato al Cimitero per soddisfare il requisito] x 400 fino alla fine di questo turno.
+  | es_requirement = Manda al Cementerio 2 monstruos de Tipo Ciberso de Nivel 5 o menor con el mismo Nivel en tu mano.
+  | es_text        = 1 monstruo boca arriba en tu Campo gana ATK igual [al Nivel de 1 de los monstruos enviados al Cementerio para cumplir con el requisito] x 400 hasta el final de este turno.
+  | ja_requirement = レベルが同じ手札のモンスター（レベル５以下／サイバース族）２体を墓地へ送って発動できる。
+  | ja_text        = 自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［この効果の条件で墓地へ送ったモンスター１体のレベル］×４００アップする。
+  | ko_requirement = 레벨이 같은 패의 몬스터(레벨 5 이하 / 사이버스족) 2장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [이 효과의 조건으로 묘지로 보낸 몬스터 1장의 레벨] × 400 올린다.
+  | jp_sets        = 
   RD/MAX1-JP018; Maximum Ultra Enhancement Pack; Common
   RD/SBD6-JP017; Strongest Battle Deck Nail - Maximum Haven; Common
-  | kr_sets               = 
+  | kr_sets        = 
   RD/MAX1-KR018; Maximum Ultra Enhancement Pack; Common
   RD/SBD6-KR017; Strongest Battle Deck Nail - Maximum Haven; Common
-  | supports              = Cyberse
-  | related_to_archseries = Tron (series)
-  | action                = Sends from hand to Graveyard for cost
-  | stat_change           = Your monsters gain ATK
-  | database_id           = 15912
+  | supports       = Cyberse
+  | archseries     = Tron (series)
+  | action         = Sends from hand to Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | database_id    = 15912
   }}
