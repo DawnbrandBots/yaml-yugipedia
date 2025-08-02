@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 3
   | atk            = 900
   | def            = 1200
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 [[WIND]] [[Attribute]] [[monster]] with 1200 [[DEF]] from your hand to the [[Graveyard]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 [[WIND]] [[Attribute]] [[Monster Card|monster]] with 1200 [[DEF]] from your [[hand]] to the [[Graveyard]].
   | text           = [[Draw a card|Draw]] 1 card. Then, if you have 2 or more [[Trap Card]]s in your Graveyard, you can [[Add a card|add]] 1 "[[Vivid Head]]" or "[[Phantom Float]]" from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
@@ -20,6 +20,12 @@ wikitext: |-
   | mentions       = 
   * Vivid Head
   * Phantom Float
+  | supports       = WIND
   | archseries     = Handy
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Adds from Graveyard to hand
   | database_id    = 
   }}

@@ -16,9 +16,9 @@ wikitext: |-
   * Ophiclaymore the Music Princess
   * Boton the Music Princess
   | materials       = "[[Ophiclaymore the Music Princess]]" + "[[Boton the Music Princess]]"
-  | condition       = You can Summon this card by [[Contact Fusion]].
+  | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = None
-  | text            = Change 1 [[Attack Position]] [[monster]] on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[Straight Pierce]]" from your [[Graveyard]] to your [[hand]].
+  | text            = [[Battle position change|Change]] 1 [[Attack Position]] [[Monster Card|monster]] on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[Straight Pierce]]" from your [[Graveyard]] to your [[hand]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -30,5 +30,15 @@ wikitext: |-
   * Boton the Music Princess
   * Straight Pierce
   | archseries      = Music Princess
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Adds from Graveyard to hand
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id     = 
   }}

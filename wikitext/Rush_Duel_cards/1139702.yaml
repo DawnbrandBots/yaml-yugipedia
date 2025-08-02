@@ -14,7 +14,7 @@ wikitext: |-
   | def             = 500
   | condition       = This card's name becomes "[[Boton the Music Princess]]" while in the [[hand]] or [[Graveyard]].
   | requirement     = [[Send]] 1 card from your hand to the Graveyard.
-  | text            = This [[turn]], this card's name becomes "Boton the Music Princess". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand. This turn, you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] monsters.
+  | text            = This [[turn]], this card's name becomes "Boton the Music Princess". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand. This turn, you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -23,6 +23,17 @@ wikitext: |-
   | mentions        = 
   * Boton the Music Princess
   * Fusion (Rush Duel)
+  | supports        = 
+  * WIND
+  * Warrior
   | archseries      = Music Princess
+  | action          = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change     = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}
