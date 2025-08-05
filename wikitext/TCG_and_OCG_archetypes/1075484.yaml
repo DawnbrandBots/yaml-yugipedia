@@ -47,43 +47,43 @@ wikitext: |-
   ! scope="col" | [[wikipedia:Chess piece|Chess piece]]
   ! scope="col" | [[wikipedia:Malware|Malware]] origin
   |-
-  | [[Maliss P Chessy Cat|<Pawn> Chessy Cat]]
+  | [[Maliss P Chessy Cat|<nowiki><Pawn></nowiki> Chessy Cat]]
   | [[wikipedia:Cheshire Cat|Cheshire Cat]]
   | [[wikipedia:Clubs (suit)|Clubs]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:BlackCat (cyber gang)|BlackCat]]
   |-
-  | [[Maliss P Dormouse|<Pawn> Dormouse]]
+  | [[Maliss P Dormouse|<nowiki><Pawn></nowiki> Dormouse]]
   | [[wikipedia:Dormouse (Alice's Adventures in Wonderland character)|Dormouse]]
   | [[wikipedia:Diamonds (suit)|Diamonds]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:Clickjacking#MouseJack|MouseJack]]
   |-
-  | [[Maliss P March Hare|<Pawn> March Hare]]
+  | [[Maliss P March Hare|<nowiki><Pawn></nowiki> March Hare]]
   | [[wikipedia:March Hare|March Hare]]
   | [[wikipedia:Spades (suit)|Spades]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:Hare (computer virus)|Hare]]
   |-
-  | [[Maliss P White Rabbit|<Pawn> White Rabbit]]
+  | [[Maliss P White Rabbit|<nowiki><Pawn></nowiki> White Rabbit]]
   | [[wikipedia:White Rabbit|White Rabbit]]
   | [[wikipedia:Hearts (suit)|Hearts]]
   | [[wikipedia:Pawn (chess)|Pawn]]
   | [[wikipedia:Ransomware#Bad Rabbit|Bad Rabbit]]
   |-
-  | [[Maliss Q Hearts Crypter|<Queen> Hearts Crypter]]
+  | [[Maliss Q Hearts Crypter|<nowiki><Queen></nowiki> Hearts Crypter]]
   | [[wikipedia:Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts]]
   | [[wikipedia:Hearts (suit)|Hearts]]
   | [[wikipedia:Queen (playing card)|(Cards) Queen]]
   | [[wiktionary:crypter|crypter]]
   |-
-  | [[Maliss Q Red Ransom|<Queen> Red Ransom]]
+  | [[Maliss Q Red Ransom|<nowiki><Queen></nowiki> Red Ransom]]
   | [[wikipedia:Red Queen (Through the Looking-Glass)|Red Queen]]
   | ''<span style="color: grey;">None</span>''
   | [[wikipedia:Queen (chess)|Queen]]
   | [[wikipedia:Ransomware|Ransomware]]
   |-
-  | [[Maliss Q White Binder|<Queen> White Binder]]
+  | [[Maliss Q White Binder|<nowiki><Queen></nowiki> White Binder]]
   | [[wikipedia:White Queen (Through the Looking-Glass)|White Queen]]
   | ''<span style="color: grey;">None</span>''
   | [[wikipedia:Queen (chess)|Queen]]
@@ -133,7 +133,6 @@ wikitext: |-
   * [[Maliss P Dormouse|Maliss <nowiki><P></nowiki> Dormouse]]
   * [[Maliss P March Hare|Maliss <nowiki><P></nowiki> March Hare]]
   * [[Maliss P White Rabbit|Maliss <nowiki><P></nowiki> White Rabbit]]
-  * [[Mad Hacker]]
   * [[Aloof Lupine]]
   * [[Dimension Shifter]]
   * [[Dotscaper]]
@@ -145,7 +144,6 @@ wikitext: |-
   * [[Genro Ryu-Ge Hakva]]
   * [[Gold Pride - Nytro Head]]
   * [[Grid Sweeper]]
-  * [[L Magi Mergy]]
   * "[[Labrynth]]" monsters
   ** [[Arias the Labrynth Butler]]
   ** [[Lady Labrynth of the Silver Castle]]
@@ -156,11 +154,8 @@ wikitext: |-
   * [[Necroface]]
   * [[Parallel eXceed]]
   * [[Planet Pathfinder]]
-  * [[Prohibit Snake]]
-  * [[Retaliating "C"]]
   * [[Scrypton]]
   * [[Template Skipper]]
-  * [[Gizmek Makami, the Ferocious Fanged Fortress]] (w/ "Dimensional Fissure" or "Macro Cosmos")
   * [[Wizard @Ignister]]
 
   |tuner monsters =
@@ -224,12 +219,12 @@ wikitext: |-
   * [[Cynet Backdoor]]
   * [[Cynet Rollback]]
   * [[Galaxy Journey]]
-  * [[Grand Convergence]]
+  * [[Grand Convergence]] (with "Chaos Distill")
 
   |normal traps =
-  * [[Maliss C GWC-06|Maliss <C> GWC-06]]
-  * [[Maliss C MTP-07|Maliss <C> MTP-07]]
-  * [[Maliss C TB-11|Maliss <C> TB-11]]
+  * [[Maliss C GWC-06|Maliss <nowiki><C></nowiki> GWC-06]]
+  * [[Maliss C MTP-07|Maliss <nowiki><C></nowiki> MTP-07]]
+  * [[Maliss C TB-11|Maliss <nowiki><C></nowiki> TB-11]]
   * [[Dark Sacrifice]]
   * [[Different Dimension Ground]]
   * [[Hero's Rule 1: Five Freedoms]]
@@ -245,16 +240,16 @@ wikitext: |-
   * [[D.D. Post]]
   * [[Macro Cosmos]]
   * [[Skull Lair]]
-  * [[Solemn Wishes]]
   }}
 
   === Weaknesses ===
   * "Maliss" card effects rely heavily on [[banish]]ing cards (and becoming banished), therefore anti-banish [[floodgate]]s such as "[[Artifact Lancea]]", "[[Imperial Iron Wall]]" and "[[Chaos Hunter]]" are very effective against them.
   * Cards that prevent Special Summoning, such as "[[Fossil Dyna Pachycephalo]]", "[[Vanity's Fiend]]" and "[[Vanity's Ruler]]", will also shut down "Maliss" Decks.
+  ** Even though "Maliss" do not typically use Xyz Monsters, their Main Deck monsters are all Level 3, which allows "[[And the Band Played On]]" to suppress them.
   * "[[Soul Drain]]" will prevent "Maliss" monsters from activating their effects when banished.
   * As "Maliss" Decks heavily rely on [[Cyberse]]-Type monsters, "[[There Can Be Only One]]" will restrict most of their plays.
   * All "Maliss" monsters are [[DARK]]-Attribute, rendering them vulnerable to anti-DARK floodgates such as "[[Consecrated Light]]" and "[[Shadow-Imprisoning Mirror]]".
-  * With the exception of "[[Maliss P Chessy Cat|Maliss <nowiki><P></nowiki> Chessy Cat]]", all their Main Deck monsters have 1400 or less ATK, rendering them vulnerable to the effect of "[[King Tiger Wanghu]]".
+  * With the exception of "[[Maliss P Chessy Cat|Maliss <nowiki><P></nowiki> Chessy Cat]]", all their Main Deck monsters have 1200 or less ATK, rendering them vulnerable to the effect of "[[King Tiger Wanghu]]".
 
   == Trivia ==
   * The original reveal of the theme was published at 5:00 PM JST, which may be a reference to the time displayed by the White Rabbit's pocket watch in [[wikipedia:Alice in Wonderland (1951 film)|Disney's ''Alice in Wonderland'' movie adaptation]].
