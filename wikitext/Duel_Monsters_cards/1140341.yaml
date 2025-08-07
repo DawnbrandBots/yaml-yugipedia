@@ -35,5 +35,15 @@ wikitext: |-
   | mentions             = Hecahands (card)
   | archseries           = Hecahands
   | supports_archetypes  = Hecahands
+  | action               = 
+  * Applies optional cost
+  * Sends from field to Graveyard for cost
+  * Adds from Deck to hand
+  * Sets from your Deck
+  * Activates from your Graveyard
+  * Your opponent draws cards
+  * Your opponent discards
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = Only once per turn
   | database_id          = 
   }}
