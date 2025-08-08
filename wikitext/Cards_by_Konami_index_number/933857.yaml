@@ -1,0 +1,17 @@
+title: Lists of cards by Konami index number
+wikitext: |-
+  {{Konami index number TOC}}
+
+  The '''Konami index number''' refers to a numeric code assigned to ''Yu-Gi-Oh!'' cards. The name comes from their most prominent usage as the ending part of card pages' URLs on [https://www.db.yugioh-card.com/yugiohdb/ Konami's official card database], though they are also used internally by most video games.
+
+  Unlike the [[password]], the Konami index number is not printed anywhere on physical cards, and is incremental, so a list will lay out cards with one in (roughly) chronological order, though with a large number of gaps. The majority of cards are indexed by earliest real-life release, however cards that first appeared in video games and (until 2011) the manga were usually assigned based on their debut date instead (including unreleased ones, which most likely accounts for many gaps up to the mid-9000s).
+
+  These numbers appear to have originated as the order of the ''[[Yu-Gi-Oh! Duel Monsters (video game)|Yu-Gi-Oh! Duel Monsters]]'' video game's [[List of Yu-Gi-Oh! Duel Monsters cards|card list]] (which begins from "[[Blue-Eyes White Dragon]]"), though offset to start from 4007 for unknown reasons. In later games, the IDs from 3400 to 3999 are used for unreleased cards (except those first featured in ''[[Yu-Gi-Oh! GX Tag Force]]''), alternate [[artwork]]s, and [[Monster Token]]s (although starting with the ''[[Animation Chronicle 2023]]'' artwork of "[[Junk Warrior]]" and with "[[Shinobird Token]]" respectively, new artworks and Tokens are instead located near their debut sets). IDs up to 3399 may be reserved for each video game's miscellaneous items. What the IDs from 4000 to 4006 are used for is completely unknown.
+
+  The IDs used for ''[[Yu-Gi-Oh! Rush Duel|Rush Duel]]'' cards are from the same numbering system as those used for ''OCG''/''TCG'' cards: ''RD'' IDs do not overlap with any existing ''OCG''/''TCG'' IDs, and cards that have been featured in both card games have separate IDs for each. In addition, alternate artworks and [[Over Rush Rare]] variants also get separate IDs in ''RD'' video games, placed in the vicinity of the set they were first printed in.
+
+  There are currently {{hardcoded query|{{formatnum:{{ #ask: [[Database ID::+]] [[Page type::Card page]] | format=count }}}}}} cards with a known ID. The card with the highest-value ID currently known is "{{hardcoded query|{{ #show: {{ #vardefineecho: card | {{ #ask: [[Database ID::+]] [[Page type::Card page]] |sort=Database ID |order=desc |limit=1 |link=none |searchlabel= }} }} |?English name (linked) }}}}" ({{hardcoded query|{{ #show: {{ #var: card }} |?Database ID }}}}).
+
+  {{Game card lists}}
+  [[Category:Lists of cards by properties]]
+  [[Category:Cards by Konami index number| ]]

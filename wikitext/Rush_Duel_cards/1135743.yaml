@@ -10,8 +10,8 @@ wikitext: |-
   | property       = Normal
   | requirement    = You have 10 or more cards in your [[Main Deck|Deck]].
   | text           = [[Send]] the top 2 cards of your Deck to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Secret Order]]", "[[Cross Target]]", "[[Psymprinting]]", or "[[New Start]]" from your Graveyard to your [[hand]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Monster Card|monster]]s that have 1200 [[Original ATK and DEF|original DEF]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分のデッキのカードが１０枚以上の場合に発動できる。
+  | ja_text        = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「潜入開始」「未知との邂逅」「サインプリンティング」「任務完了」のいずれか１枚を選んで手札に加える事ができる。このターン、自分は元々の守備力が１２００のモンスター（風属性）でしか攻撃できない。
   | jp_sets        = 
   RD/KP22-JP046; OuTerverSe of Terror; Rare, Secret Rare
   | mentions       = 
@@ -25,5 +25,5 @@ wikitext: |-
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
   | attack         = Prevents your monsters from attacking
-  | database_id    = 
+  | database_id    = 22022
   }}

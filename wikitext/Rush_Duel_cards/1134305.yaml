@@ -10,8 +10,8 @@ wikitext: |-
   | property       = Normal
   | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have "[[OuTerverSe]]" in your [[Graveyard]].
   | text           = The attacking monster loses 1000 [[ATK]] until the end of this [[turn]]. Then, if you have 2 or more different [[Attribute]]s [[face-up]] on your [[field]], you can make all face-up monsters on your opponent's field lose 2000 ATK until the end of this turn.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分の墓地に「ＯＴＳ」がいる場合、相手モンスターの攻撃宣言時に発動できる。
+  | ja_text        = 攻撃してきたモンスターの攻撃力はターン終了時まで１０００ダウンする。自分フィールドの表側表示モンスターの属性が２種類以上の場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで２０００ダウンできる。
   | jp_sets        = 
   RD/KP22-JP057; OuTerverSe of Terror; Common
   | mentions       = OuTerverSe
@@ -19,5 +19,5 @@ wikitext: |-
   | action         = Activates upon attack declaration
   | stat_change    = Your opponent's monsters lose ATK
   | misc           = Requires control of specific Attribute
-  | database_id    = 
+  | database_id    = 22033
   }}
