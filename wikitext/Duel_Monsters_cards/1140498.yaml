@@ -32,8 +32,22 @@ wikitext: |-
   DBPR-JP024; Deck-Build Pack: Phantom Revengers; 
   | sc_sets               = 
   DBPR-SC024; Deck-Build Pack: Phantom Revengers; 
+  | supports              = Pendulum Monster
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
-  | misc                  = Archetype condition
+  | counter               = 
+  * Sinquisition Counter
+  * Removes counters
+  | action                = 
+  * Returns from your field to your hand
+  * Activates upon being flipped face-up
+  * Places from field to Pendulum Zone
+  | life_points           = Damages your opponent
+  | misc                  = 
+  * Archetype condition
+  * Limited activations
+  * Only once per turn
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
   | database_id           = 
   }}

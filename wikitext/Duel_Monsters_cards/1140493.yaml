@@ -27,7 +27,7 @@ wikitext: |-
   | pendulum_effect_types = Continuous-like, Trigger-like
   | effect_types          = Ignition, Condition, Quick, Continuous
   | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[Sinquisition Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
-  | text                  = You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 [[monster]] from your [[hand]] in [[face-down]] [[Defense Position]]. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position. When your opponent activates a card or effect that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can change this [[Set]] card to [[face-up]] Defense Position; [[negate]] that effect, then you can [[banish]] 1 [[random]] card from your opponen's hand, face-down. After this card was flipped face-up, while it is in the [[Monster Zone]], your opponent cannot target cards in the field or GY with card effects.
+  | text                  = You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 [[monster]] from your [[hand]] in [[face-down]] [[Defense Position]]. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position. When your opponent activates a card or effect that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can change this [[Set]] card to [[face-up]] Defense Position; [[negate]] that effect, then you can [[banish]] 1 [[random]] card from your opponent's hand, face-down. After this card was flipped face-up, while it is in the [[Monster Zone]], your opponent cannot target cards in the field or GY with card effects.
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -50,5 +50,28 @@ wikitext: |-
   DBPR-SC021; Deck-Build Pack: Phantom Revengers; 
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
+  | counter               = 
+  * Sinquisition Counter
+  * Places counters on itself
+  | action                = 
+  * Activates if other Pendulum Zone is occupied by specific card
+  * Reveals itself in the hand for cost
+  * Activates from your hand
+  * Activates if targeted by card effect
+  * Flips itself face-up
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Negates the effects of your opponent's Effect Monsters
+  * Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons face-down
+  * Restricts the player's Special Summons
+  | banished              = Banishes from your opponent's hand
+  | misc                  = 
+  * At the end of the Battle Phase
+  * Requires control of specific archetype
+  * Only once per turn
+  * Flip monster without a Flip effect
   | database_id           = 
   }}
