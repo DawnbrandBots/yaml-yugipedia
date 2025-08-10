@@ -14,7 +14,7 @@ wikitext: |-
   | card_type             = Trap
   | property              = Continuous
   | password              = 90440725
-  | effect_types          = Activation requirement, Effect, Trigger, Trigger
+  | effect_types          = Effect, Trigger, Trigger
   | text                  = During your opponent's [[Main Phase]]: [[Special Summon]] this card as an [[Effect Monster]] ([[Machine]]/[[EARTH]]/[[Level]] 4/[[ATK]] ?/[[DEF]] ?). (This card is also still a [[Trap Card|Trap]].) When an opponent's monster [[declare]]s an [[attack]] that [[target]]s this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. [[Once per turn]], during your opponent's [[End Phase]]: [[Set]] this card in its [[Spell & Trap Zone]].
   | fr_text               = Durant la Main Phase de votre adversaire : Invoquez Spécialement cette carte comme un Monstre à Effet (Machine/TERRE/Niveau 4/ATK ?/DEF ?). (Cette carte est toujours aussi un Piège.) Lorsqu'un monstre de l'adversaire déclare une attaque qui cible cette carte : l'ATK/DEF de cette carte deviennent l'ATK/DEF du monstre attaquant. Une fois par tour, durant la End Phase de votre adversaire : Posez cette carte dans sa Zone Magie & Piège.
   | de_text               = Während der Main Phase deines Gegners: Beschwöre diese Karte als Spezialbeschwörung als Effektmonster (Maschine/ERDE/Stufe 4/ATK ?/DEF ?). (Diese Karte ist zusätzlich weiterhin eine Falle.) Wenn ein Monster eines Gegners einen Angriff deklariert, der diese Karte als Ziel wählt: Die ATK/DEF dieser Karte werden gleich den ATK/DEF des angreifenden Monsters. Einmal pro Spielzug, während der End Phase deines Gegners: Setze diese Karte in ihre Zauber- & Fallenzone.
@@ -57,7 +57,9 @@ wikitext: |-
   | archseries            = 
   * Trap Monster
   * Cyber
-  | action                = Flips itself face-down
+  | action                =
+  * Flips itself face-down
+  * Sets face-up cards in your Spell & Trap Zone
   | stat_change           = 
   * Changes own ATK value
   * Changes own DEF value

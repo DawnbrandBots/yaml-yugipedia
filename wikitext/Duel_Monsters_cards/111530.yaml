@@ -47,7 +47,9 @@ wikitext: |-
   | action          = 
   * Returns from your Graveyard to your Deck
   * Returns from your opponent's Graveyard to your opponent's Deck
-  | banished        = Banishes itself from field
+  | banished        = 
+  * Banishes itself from field
+  * Banishes cards that would be sent to the Graveyard
   | misc            = Only once per turn
   | database_id     = 8672
   }}
