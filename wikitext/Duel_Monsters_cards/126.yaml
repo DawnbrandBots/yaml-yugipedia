@@ -82,7 +82,10 @@ wikitext: |-
   * Activation cannot be negated
   * Effect that cannot be negated
   * Overwrites card effects
-  | m/s/t                 = Destroys equipped
+  | m/s/t                 =
+  * Prevents activation of Trap Cards
+  * Negates the effects of Trap Cards
+  * Destroys equipped
   | misc                  = Equips only to a specific target
   | database_id           = 4819
   | tcg_speed_duel_status = Unlimited
