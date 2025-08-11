@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
-  | sc_name             = 
+  | sc_name             = 杀手旋律・响度战争
   | image               = KillerTuneLoudnessWar-DBPR-JP-OP.png
   | attribute           = LIGHT
   | types               = Machine / Synchro / Tuner / Effect
@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 3000
   | password            = 
+  | materials           = 1 Tuner + 1 or more Tuners
   | effect_types        = Continuous, Quick, Condition
   | text                = 1 [[Tuner]] + 1+ Tuners<br />Other Tuners you [[control]] cannot be [[destroy]]ed by card [[effect]]s, also your opponent cannot [[target]] them with card effects. When your opponent activates a card or effect ([[Quick Effect]]): You can [[banish]] 1 "[[Killer Tune]]" [[monster]] from your [[GY]]; apply its effect that activates if sent to the GY as [[Synchro Material]]. You can only use this effect of "Killer Tune Loudness War" [[once per turn]].
   | fr_text             = 
@@ -33,6 +34,8 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DBPR-JP038; Deck-Build Pack: Phantom Revengers; 
+  | sc_sets             = 
+  DBPR-SC038; Deck-Build Pack: Phantom Revengers; 
   | archseries          = Killer Tune
   | supports_archetypes = Killer Tune
   | database_id         = 
