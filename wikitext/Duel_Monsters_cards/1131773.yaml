@@ -1,4 +1,4 @@
-title: Killertune Redseal
+title: Killer Tune Red Seal
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
@@ -15,16 +15,17 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 杀手旋律・赤印
   | sc_pinyin_name      = 
-  | image               = KillertuneRedseal-OW.png
-  | attribute           = ???
-  | types               = ??? / Synchro / Tuner
-  | level               = ???
-  | atk                 = ???
-  | def                 = ???
+  | image               = KillerTuneRedSeal-DBPR-JP-OP.png
+  | attribute           = DARK
+  | types               = Fiend / Synchro / Tuner / Effect
+  | level               = 5
+  | atk                 = 1700
+  | def                 = 2400
   | password            = 
-  | materials           = 
-  | effect_types        = 
-  | text                = 
+  | materials           = "Killer Tune Reco" + 1 or more Tuners
+  | synchro_material    = Killer Tune Reco
+  | effect_types        = Continuous, Continuous, Quick, Condition
+  | text                = "[[Killer Tune Reco]]" + 1+ [[Tuner]]s<br />Gains 300 [[ATK]] for each Tuner in the GYs. The [[Level]]s of [[monsters]] your opponent controls with 1700 or less [[original ATK]] are increased by 1. During the [[Main Phase]] ([[Quick Effect]]): You can [[banish]] 1 Tuner from your GY, then [[target]] 1 [[face-up]] card your opponent [[control]]s; [[negate]] its [[effect]]s until the end of this [[turn]]. You can only use the this effect of "Killer Tune Red Seal" once per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -34,10 +35,10 @@ wikitext: |-
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  DBPR-JP0??; Deck-Build Pack: Phantom Revengers; 
+  DBPR-JP037; Deck-Build Pack: Phantom Revengers; Ultra Rare
   | sc_sets             = 
   DBPR-SC0??; Deck-Build Pack: Phantom Revengers; 
-  | archseries          = Killertune
-  | supports_archetypes = 
+  | mentions            = Killer Tune Reco
+  | archseries          = Killer Tune
   | database_id         = 
   }}
