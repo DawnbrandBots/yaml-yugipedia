@@ -3,45 +3,63 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = スクラップ・シンクロン
-  | romaji_name         = Sukurappu Shinkuron
-  | translated_name     = 
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = ScrapSynchron-SD48-JP-OP.png
-  | attribute           = EARTH
-  | types               = Machine / Tuner / Effect
-  | level               = 1
-  | atk                 = 700
-  | def                 = 100
-  | password            = 
-  | effect_types        = Condition, Condition, Unclassified, Unclassified
-  | text                = For a [[Synchro Summon]], you can substitute this card for any 1 "[[Synchron]]" [[Tuner]]. You can only use each of the following effects of "Scrap Synchron" [[once per turn]]. If you Synchro Summon a [[monster]] that mentions a "Synchron" Tuner as material, this card in your [[hand]] can also be used as material. If a monster(s) that mentions "[[Junk Warrior]]", and/or a [[Synchro Monster]](s) with "[[Warrior (archetype)|Warrior]]" in its original name, that you [[control]] would be [[destroyed by battle]] or card effect, you can [[banish]] this card from your [[field]] or [[GY]] instead.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = スクラップ・シンクロン
+  | romaji_name           = Sukurappu Shinkuron
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | sc_pinyin_name        = 
+  | image                 = ScrapSynchron-SD48-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Machine / Tuner / Effect
+  | level                 = 1
+  | atk                   = 700
+  | def                   = 100
+  | password              = 
+  | effect_types          = Condition, Condition, Unclassified, Unclassified
+  | text                  = For a [[Synchro Summon]], you can substitute this card for any 1 "[[Synchron]]" [[Tuner]]. You can only use each of the following effects of "Scrap Synchron" [[once per turn]]. If you Synchro Summon a [[monster]] that mentions a "Synchron" Tuner as material, this card in your [[hand]] can also be used as material. If a monster(s) that mentions "[[Junk Warrior]]", and/or a [[Synchro Monster]](s) with "[[Warrior (archetype)|Warrior]]" in its original name, that you [[control]] would be [[destroyed by battle]] or card effect, you can [[banish]] this card from your [[field]] or [[GY]] instead.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 
+  | ko_text               = 
+  | sc_text               = 
+  | jp_sets               = 
   SD48-JP004; Structure Deck: Power of Fellows; Normal Parallel Rare
   SD48-JPP04; Structure Deck: Power of Fellows Light of Gathering Stars Pack; Super Rare, Secret Rare
-  | mentions            = Junk Warrior
-  | archseries          = 
+  | mentions              = Junk Warrior
+  | archseries            = 
   * Scrap
   * Synchro (archetype)
   * Synchron
-  | supports_archetypes = 
+  | supports_archetypes   = 
   * Synchron
   * Warrior (archetype)
-  | database_id         = 
+  | related_to_archseries = 
+  * Junk
+  * Scrap-Iron
+  | action                = Uses cards in the hand as Synchro Materials
+  | m/s/t                 = 
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning             = Substitutes for Synchro Material
+  | attack                = Prevents other cards being destroyed by battle
+  | banished              = 
+  * Banishes itself from field
+  * Banishes itself from Graveyard
+  | sm_for                = Scrap Warrior
+  | misc                  = 
+  * Only once per turn
+  * Mentions
+  * Requires control of specific Monster card type
+  * Requires control of specific archetype
+  | database_id           = 
   }}

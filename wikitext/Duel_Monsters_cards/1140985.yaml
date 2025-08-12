@@ -25,7 +25,7 @@ wikitext: |-
   | materials             = "Scrap Synchron" + 1 or more non-Tuner monsters
   | synchro_material      = Scrap Synchron
   | effect_types          = Trigger, Condition, Continuous
-  | text                  = "[[Scrap Synchron]]" + 1+ non-[[Tuner]] [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] to your [[hand]], or [[send]] to the [[GY]], 1 "[[Junk Synchron]]" or 1 card that mentions "[[Junk Warrior]]" from your [[Main Deck|Deck]]. You can only use this [[effect]] of "Scrap Warrior" [[once per turn]]. The [[activate]]d effects of monsters that mention "Junk Warrior", and Synchro Monsters with "[[Warrior (archetype)|Warrior]]" in their original names, that you [[control]] cannot be negated, except "Scrap Warrior".
+  | text                  = "[[Scrap Synchron]]" + 1+ non-[[Tuner]] [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] to your [[hand]], or [[send]] to the [[GY]], 1 "[[Junk Synchron]]" or 1 card that mentions "[[Junk Warrior]]" from your [[Main Deck|Deck]]. You can only use this [[effect]] of "Scrap Warrior" [[once per turn]]. The [[activate]]d effects of monsters that mention "Junk Warrior", and [[Synchro Monster]]s with "[[Warrior (archetype)|Warrior]]" in their original names, that you [[control]] cannot be negated, except "Scrap Warrior".
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -40,7 +40,9 @@ wikitext: |-
   | mentions              = 
   * Junk Synchron
   * Junk Warrior
+  * Scrap Synchron
   * Scrap Warrior
+  | supports              = Synchro Monster
   | archseries            = 
   * Scrap
   * Warrior (archetype)
@@ -49,5 +51,16 @@ wikitext: |-
   * Junk
   * Synchro (archetype)
   * Synchron
+  | action                = 
+  * Adds from Deck to hand
+  * Sends from your Deck to your Graveyard
+  * Prevents the negation of card effects
+  | summoning             = 
+  * Requires specific monsters as Tuner Synchro Materials
+  * Does not require specific non-Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 
   }}

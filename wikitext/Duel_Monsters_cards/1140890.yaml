@@ -34,7 +34,21 @@ wikitext: |-
   | sc_sets             = 
   DBPR-SC040; Deck-Build Pack: Phantom Revengers; 
   | mentions            = Killer Tune Loudness War
+  | supports            = Tuner monster
+  | anti-supports       = Tuner monster
   | archseries          = Killer Tune
   | supports_archetypes = Killer Tune
+  | action              = 
+  * Tributes for cost
+  * Adds from Deck to hand
+  | stat_change         = Your monsters gain ATK
+  | summoning           = 
+  * Allows multiple Normal Summons
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons
+  | misc                = 
+  * Gain this effect once per turn
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id         = 
   }}

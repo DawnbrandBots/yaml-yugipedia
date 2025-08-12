@@ -36,7 +36,22 @@ wikitext: |-
   DBPR-JP035; Deck-Build Pack: Phantom Revengers; 
   | sc_sets             = 
   DBPR-SC035; Deck-Build Pack: Phantom Revengers; 
+  | supports            = Tuner monster
   | archseries          = Killer Tune
   | supports_archetypes = Killer Tune
+  | action              = 
+  * Uses cards in the hand as Synchro Materials
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  * Activates if used as Synchro Material
+  * Returns from your opponent's field to your opponent's hand
+  | summoning           = 
+  * Requires archetype specific Tuner Synchro Materials
+  * 1 or more Tuner Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  | misc                = 
+  * Tuner Synchro Monster
+  * Only once per turn
   | database_id         = 
   }}
