@@ -2,18 +2,20 @@ title: The Calculator (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = TheCalculator-RDSJMP-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Thunder / Effect
-  | level           = 2
-  | atk             = 0
-  | def             = 0
-  | requirement     = TBA
-  | text            = TBA
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = TheCalculator-RDSJMP-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Effect
+  | level          = 2
+  | atk            = 0
+  | def            = 0
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = This card gains [[ATK]] equal to [the total [[Original Level and Rank|original Level]]s of the [[face-up]] [[Monster Card|monster]]s on your [[field]]] x 300.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/SJMP-JP055; Saikyō Jump October 2025 promotional card; Normal Parallel Rare
-  | misc            = Legend Card
-  | database_id     = 
+  | stat_change    = This card gains ATK
+  | misc           = Legend Card
+  | database_id    = 
   }}
