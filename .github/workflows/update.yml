@@ -19,7 +19,7 @@ jobs:
   download:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -55,7 +55,7 @@ jobs:
     if: needs.download.outputs.status > 0 && !cancelled()
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: ${{ github.ref_name }}
       - name: Duel Monsters cards do not contain Rush Duel cards (naïve check)
