@@ -25,7 +25,7 @@ wikitext: |-
   | materials           = "Fallen of Albaz" + 1 LIGHT or DARK monster + 1 Effect Monster
   | fusion_material     = Fallen of Albaz
   | effect_types        = Continuous, Condition, Trigger, Trigger
-  | text                = "Fallen of Albaz" + 1 LIGHT or DARK monster + 1 Effect Monster<br />While an "Ecclesia" monster is on the field or in either GY, this card gains 500 ATK, also it is unaffected by other cards' effects. You can only use each of the following effects of "The Stigmata-Devouring Dragon" once per turn. If this card is Special Summoned: You can shuffle up to 2 cards from any GY(s) and/or banishment into the Deck. During the End Phase, if this card is in your GY because it was sent there this turn: You can add 1 "Dogmatika" or "Tri-Brigade" card from your Deck to your hand.
+  | text                = "[[Fallen of Albaz]]" + 1 [[LIGHT]] or [[DARK]] [[monster]] + 1 [[Effect Monster]]<br />While an "[[Ecclesia (archetype)|Ecclesia]]" monster is on the [[field]] or in either [[GY]], this card gains 500 [[ATK]], also it is [[unaffected]] by other cards' [[effect]]s. You can only use each of the following effects of "The Stigmata-Devouring Dragon" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[shuffle]] up to 2 cards from any [[GY]](s) and/or [[banishment]] into the [[Deck]]. During the [[End Phase]], if this card is in your GY because it was [[send|sent]] there this [[turn]]: You can [[add]] 1 "[[Dogmatika]]" or "[[Tri-Brigade]]" card from your Deck to your [[hand]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -35,12 +35,32 @@ wikitext: |-
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  CH01-JP014; THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition); Ultra Rare
+  CH01-JP041; THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition); Ultra Rare
   | mentions            = Fallen of Albaz
+  | supports            = 
+  * LIGHT
+  * DARK
   | archseries          = Albaz Dragon
   | supports_archetypes = 
   * Dogmatika
   * Ecclesia (archetype)
   * Tri-Brigade
+  | anti-supports_archetypes = Ecclesia (archetype)
+  | action              = 
+  * Activates upon Special Summon
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Returns the player's banished cards to the Deck
+  * Returns the opponent's banished cards to the Deck
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | stat_change         = This card gains ATK
+  | m/s/t               = Unaffected by other card effects
+  | summoning           = 
+  * 3 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Effect Monsters as Fusion Materials
+  | misc                = Only once per turn
   | database_id         = 
   }}

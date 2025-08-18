@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Middle-Left, Bottom-Left, Bottom-Center
   | atk                 = 2300
   | password            = 
+  | materials           = 2+ DARK Dragon monsters
   | effect_types        = Trigger, Ignition, Condition
   | text                = 2+ [[DARK]] [[Dragon]] [[monsters]], including a "[[Rokket]]" [[monster]]<br />If this card is [[Link Summon]]ed: You can [[Add a card|add]] 1 "[[Rapid Trigger]]", "[[Heavy Interlock]]", or "[[Double Trigger]]" from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 [[face-up]] card you [[control]] and 1 DARK Dragon monster in your [[GY]]; [[destroy]] that card on the [[field]], and if you do, add that other monster from your GY to your hand. You can only use each effect of "Trisborrel Dragon" [[once per turn]].
   | fr_text             = 
@@ -36,7 +37,24 @@ wikitext: |-
   * Rapid Trigger
   * Heavy Interlock
   * Double Trigger
+  | supports            = 
+  * DARK
+  * Dragon
   | archseries          = Borrel
   | supports_archetypes = Rokket
+  | action              = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | m/s/t               = 
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires Attribute specific Link Materials
+  * Requires Type specific Link Materials
+  * Requires archetype specific Link Materials
+  | misc                = Only once per turn
   | database_id         = 
   }}

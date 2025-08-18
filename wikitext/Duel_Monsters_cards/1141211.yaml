@@ -31,5 +31,19 @@ wikitext: |-
   | jp_sets             = 
   ????-JP???; Burst Protocol; 
   | supports_archetypes = Rokket
+  | action              = 
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Must include particular Fusion Materials
+  * Must include particular monsters for Ritual Summon
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Performs a Ritual Summon
+  | banished            = 
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  * Banishes monsters from Graveyard for Ritual Summon
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}

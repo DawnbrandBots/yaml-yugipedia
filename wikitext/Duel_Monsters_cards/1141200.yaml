@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2500
   | def                 = 2000
   | password            = 
+  | materials           = 1 DARK Link Monster + 1 DARK monster
   | effect_types        = Trigger, Ignition, Trigger, Condition
   | text                = 1 [[DARK]] [[Link Monster]] + 1 DARK [[monster]]<br />If this card is [[Fusion Summon]]ed: You can [[Add a card|add]] 1 "[[Rokket]]" monster from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 DARK monster you [[control]]; [[equip]] 1 DARK Link Monster from your [[GY]] or [[banish]]ment to it as an [[Equip Spell]] that gives it 500 [[ATK]]. If this card is sent to the GY as [[Link Material]]: You can target 1 card on the [[field]]; [[destroy]] it. You can only use each [[effect]] of "Borreload Fatal Flare Dragon" [[once per turn]].
   | fr_text             = 
@@ -33,7 +34,30 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ????-JP???; Burst Protocol; 
+  | supports            = 
+  * DARK
+  * Link Monster
   | archseries          = Borrel
   | supports_archetypes = Rokket
+  | action              = 
+  * Activates upon Fusion Summon
+  * Adds from Deck to hand
+  * Equips from the player's Graveyard
+  * Equips the player's banished monsters
+  * Grants effect to Equip Spell Card
+  * Activates if sent to the Graveyard
+  * Activates if used as Link Material
+  | m/s/t               = 
+  * Treats monsters as Equip Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Link Monsters as Fusion Materials
+  | misc                = 
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id         = 
   }}

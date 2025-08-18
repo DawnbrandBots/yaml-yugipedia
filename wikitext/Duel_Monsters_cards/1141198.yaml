@@ -34,7 +34,20 @@ wikitext: |-
   | jp_sets             = 
   ????-JP002; Burst Protocol; 
   | mentions            = Hollowrokket Dragon
+  | supports            = Link Monster
+  | anti-supports       = Link Monster
   | archseries          = Rokket
   | supports_archetypes = Rokket
+  | action              = 
+  * Activates if targeted by card effect
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  | m/s/t               = Destroys itself
+  | summoning           = Special Summons from your Deck
+  | banished            = Banishes excavated cards
+  | misc                = Only once per turn
   | database_id         = 
   }}

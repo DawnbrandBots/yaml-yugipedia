@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Middle-Left, Bottom-Left, Bottom-Center, Bottom-Right, Middle-Right
   | atk                 = 3500
   | password            = 
+  | materials           = 3+ Effect Monsters
   | effect_types        = Continuous, Quick, Condition, Trigger
   | text                = 3+ [[Effect Monster]]s<br />Your opponent cannot [[Tribute]] this card on the [[field]]. [[Once per turn]], during the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 "[[Rokket]]" [[monster]] you [[control]]; [[negate]] the [[effect]]s of 1 [[face-up]] card your opponent controls, then [[destroy]] that monster. Your opponent cannot activate cards or effects in response to this effect's activation. Once while face-up on the field, at the start of the [[Battle Phase]]: You can [[Special Summon]] 1 [[Link Rating|Link]]-4 or lower "[[Borrel]]" [[Link Monster]] from your [[Extra Deck]].
   | fr_text             = 
@@ -32,9 +33,26 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ????-JP???; Burst Protocol; 
+  | supports            = Link Monster
   | archseries          = Borrel
   | supports_archetypes = 
   * Borrel
   * Rokket
+  | action              = Cannot be Tributed
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  * Destroys your face-up Monster Cards
+  * Prevents responding to its activation
+  | summoning           = 
+  * 3+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Special Summons from your Extra Deck
+  | misc                = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Once while face-up on the field
+  * At the start of the Battle Phase
   | database_id         = 
   }}
