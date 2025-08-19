@@ -53,10 +53,15 @@ wikitext: |-
   DP18-JP029; Duelist Pack: Legend Duelist; Rare
   | kr_sets               = 
   DP18-KR029; Duelist Pack: Legend Duelist; Rare
+  | supports              = 
+  * Machine
+  * Fusion Monster
   | archseries            = roid
   | supports_archetypes   = roid
-  | supports              = Machine
-  | action                = Tributes for cost
+  | action                =
+  * Tributes for cost
+  * Activates from your Graveyard
+  | m/s/t                 = Destroys your Monster Cards
   | summoning             = 
   * Special Summons from your Deck
   * Special Summons from your Extra Deck
@@ -64,9 +69,12 @@ wikitext: |-
   | life_points           = 
   * Pays Life Points for cost
   * Halves the player's LP
-  | banished              = Banishes from your Graveyard
-  | m/s/t                 = Destroys your Monster Cards
-  | misc                  = Only once per turn
+  | banished              = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 13184
   | tcg_speed_duel_status = Unlimited
   }}
