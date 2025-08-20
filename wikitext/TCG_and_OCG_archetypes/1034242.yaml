@@ -56,12 +56,12 @@ wikitext: |-
 
   Due to the small number of Main Deck cards required for this strategy, "Tenpai Dragon" Decks can run a large amount of staple cards, such as [[hand trap]]s to disrupt the opponent's plays, or powerful board breaker cards.
 
-  After the deck's consistency was hit, it became an option to implement "[[Watt]]" cards to bolster consistency, with the added benefit of upping damage output.
+  After the deck's consistency was hit, it became an option to implement "[[Watt]]" cards to bolster consistency.
 
   === Sample combos ===
   {{Combo steps
   | opening = Going second, having "[[Sangen Summoning]]" + 1 card in hand
-  | end     = Dealing up to 37400 damage (1700 + 1500 + 1600 + 2600 + 1700 + 3000 + 2600 + 1700 + 3000 + (6.000 * 3)) to your opponent's clear field during [[Battle Phase]], result in [[One Turn Kill]].
+  | end     = Dealing up to 37400 damage (1700 + 1500 + 1600 + 2600 + 1700 + 3000 + 2600 + 1700 + 3000 + (6000 * 3)) to your opponent's clear field during [[Battle Phase]], result in [[One Turn Kill]].
   | steps   = 
   # Activate "[[Sangen Summoning]]", add "[[Tenpai Dragon Paidra]]" and discard 1 card in hand.
   # Normal Summon "Tenpai Dragon Paidra", activate its effect, add "[[Sangen Kaimen]]" to hand.
@@ -89,14 +89,32 @@ wikitext: |-
 
   {{Combo steps
   | opening = Going second, having "[[Wattcobra]]" in hand.
-  | end     = Dealing up to 42300 damage (1000 + 800 + 1600 + 1500 + 1700 + 1500 + 1600 + 2600 + 1700 + 3000 + 2600 + 1700 + 3000 + (6000 * 3)) to your opponent clear field during [[Battle Phase]], result in [[One Turn Kill]].
+  | end     = Dealing up to 33300 damage (1000 + 800 + 1600 + 1500 + 1700 + 1500 + 1600 + 2600 + 1700 + 3000 + 2600 + 1700 + 3000 + (3000 * 3)) to your opponent's clear field during [[Battle Phase]], result in [[One Turn Kill]].
   | steps   = 
-  # Attack directly with "Wattcobra", add "[[Wattuna]]" to hand, summon "Wattuna".
-  # Attack directly with "Wattuna", tribute "Wattuna" and "Wattcobra" for "[[Wattkyuki]]".
-  # Attack directly with "Wattkyuki", shuffle back "Wattkyuki" and "Wattuna" for "[[Watthydra]]".
-  # Attack directly with "Watthydra", banish "[[Blaster, Dragon Ruler of Infernos]]" from deck, search "[[Tenpai Dragon Genroku]]".
-  # Special Summon "Tenpai Dragon Genroku", tribute to summon "Tenpai Dragon Paidra"
-  # Continue with the standard "Tenpai" combo as listed prior.
+  # Attack directly with "Wattcobra" (1000 damage), add "[[Wattuna]]" to hand, summon "Wattuna".
+  # Attack directly with "Wattuna" (800 damage), tribute "Wattuna" and "Wattcobra" for "[[Wattkyuki]]".
+  # Attack directly with "Wattkyuki" (1600 damage), shuffle back "Wattkyuki" and "Wattuna" for "[[Watthydra]]".
+  # Attack directly with "Watthydra" (1500 damage), banish "[[Blaster, Dragon Ruler of Infernos]]" from deck, search "[[Tenpai Dragon Genroku]]".
+  # Special Summon "Tenpai Dragon Genroku", tribute to summon [[Tenpai Dragon Paidra]].
+  # Activate its effect, add "[[Sangen Kaimen]]" to hand.
+  # Attack directly with "Tenpai Dragon Paidra" (1700 damage).
+  # Activate "Sangen Kaimen", add "[[Tenpai Dragon Chundra]]" and Special Summon it to your side of field.
+  # Attack directly with "Tenpai Dragon Chundra" (1500 damage).
+  # Activate "Tenpai Dragon Chundra" effect, Special Summon "[[Tenpai Dragon Fadra]]" from your Deck to your side of field.
+  # Attack directly with "Tenpai Dragon Fadra" (1600 damage).
+  # Activate "Tenpai Dragon Chundra" effect, Synchro Summon "[[Sangenpai Bident Dragion]]" using "Tenpai Dragon Chundra" and "Tenpai Dragon Paidra" as Synchro Material.
+  # Activate "Sangenpai Bident Dragion" effect, Special Summon "Tenpai Dragon Paidra" back from the GY.
+  # Attack directly with "Sangenpai Bident Dragion" and "Tenpai Dragon Paidra" (2600 + 1700 = 4300 damage).
+  # Activate "Tenpai Dragon Paidra" effect, Synchro Summon "[[Sangenpai Transcendent Dragion]]" using "Tenpai Dragon Paidra" and "Sangenpai Bident Dragion" as Synchro Material.
+  # Attack directly with "Sangenpai Transcendent Dragion" (3000 damage).
+  # Activate "Sangenpai Bident Dragion" effect in the GY, Special Summon itself from the GY to your side of field.
+  # Attack directly with "Sangenpai Bident Dragion" (2600 damage).
+  # Activate "Tenpai Dragon Fadra" effect, Special Summon "Tenpai Dragon Paidra" back from the GY for the second time.
+  # Attack directly with "Tenpai Dragon Paidra" (1700 damage).
+  # Activate "Tenpai Dragon Paidra" effect, Synchro Summon "[[Trident Dragion]]" using "Tenpai Dragon Paidra" and "Sangenpai Bident Dragion" as Synchro Material.
+  # Activate "Trident Dragion" effect to destroy "Sangenpai Transcendent Dragion" and "Watthydra" from your side of field, allow "Trident Dragion" to gain 2 additional attacks.
+  # Activate "Sangenpai Transcendent Dragion" effect in the GY, Special Summon itself from the GY to your side of field.
+  # Attack directly with "Sangenpai Transcendent Dragion" and "Trident Dragion" three times. (3000 + (3000 * 3) = 12000 damage).
   }}
 
   ===Recommended cards===
