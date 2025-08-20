@@ -2,6 +2,7 @@ title: Mind Control (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
+  | ko_name        = 정신조작
   | image          = MindControl-RDSD0E-JP-NPR.png
   | card_type      = Spell
   | property       = Normal
@@ -9,8 +10,12 @@ wikitext: |-
   | text           = Take [[control]] of 1 [[Monster Card|monster]] on your opponent's [[field]] that is not in [[Maximum Mode]] until the [[End Phase]] (when control of that monster is returned, if there is no [[Monster Zone]] to return to, [[send]] it to the [[Graveyard]]). This [[turn]], that monster cannot [[attack]] or be [[Tribute]]d for a [[Tribute Summon]].
   | ja_requirement = なし
   | ja_text        = マキシマムモードではない相手フィールドのモンスター１体を選んでそのコントロールをエンドフェイズまで得る（コントロールが戻る時に戻せるモンスターゾーンがない場合、そのモンスターは墓地へ送られる）。このターン、そのモンスターは攻撃できず、アドバンス召喚のためにはリリースできない。
+  | ko_requirement = 없음
+  | ko_text        = 맥시멈 모드가 아닌 상대 필드의 몬스터 1장을 고르고 그 컨트롤을 엔드 페이즈까지 얻는다(컨트롤이 되돌아갈 때에 되돌릴 몬스터 존이 없을 경우, 그 몬스터는 묘지로 보내진다). 이 턴에, 그 몬스터는 공격할 수 없으며, 어드밴스 소환을 위해서는 릴리스할 수 없다.
   | jp_sets        = 
   RD/SD0E-JP029; Structure Deck: Black Magic Ritual; Normal Parallel Rare
+  | kr_sets        = 
+  RD/SD0E-KR029; Structure Deck: Black Magic Ritual; Normal Parallel Rare
   | action         = Takes control of an opponent's monster
   | summoning      = Cannot be Tributed for a Tribute Summon
   | attack         = Prevents your monsters from attacking
