@@ -16,13 +16,13 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 纠罪巧ϝ’－恐怖“tromarIA”
   | sc_translated_name    = Enneacraft Ekto - Fear "tromarIA"
-  | image                 = EnneacraftϝtromarIA-DBPR-JP-OP.png
+  | image                 = EnneacraftϝtromarIA-DBPR-JP-C.png
   | attribute             = EARTH
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 1
   | atk                   = 100
   | def                   = 1000
-  | password              = 
+  | password              = 29570824
   | pendulum_scale        = 0
   | pendulum_effect_types = Continuous-like, Ignition-like, Condition
   | effect_types          = Ignition, Condition, Quick, Trigger
@@ -38,14 +38,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名の②のＰ効果は１ターンに１度しか使用できない。①：モンスターがリバースする度に、このカードに糾罪カウンターを１つ置く。②：９００ＬＰを払って発動できる。デッキから「糾罪巧」カード３枚を相手に見せ、相手はその中からランダムに１枚選ぶ。その１枚を自分の手札に加え、残りをデッキに戻す。
+  | ja_text               = ①：手札のこのカードを相手に見せて発動できる（この効果を発動するターン、自分は裏側守備表示でしかモンスターを特殊召喚できない）。手札からモンスター１体を裏側守備表示で特殊召喚する。②：モンスターを特殊召喚する効果を含む、カードの効果を相手が発動した時、裏側表示のこのカードを表側守備表示にして発動できる。デッキから「糾罪巧」カード１枚を手札に加える。③：このカードがリバースした場合に発動する。相手フィールドの効果モンスター１体の効果をターン終了時まで無効にする。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  DBPR-JP018; Deck-Build Pack: Phantom Revengers; 
+  DBPR-JP018; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare
   | sc_sets               = 
   DBPR-SC018; Deck-Build Pack: Phantom Revengers; 
   | archseries            = Enneacraft
@@ -67,5 +67,5 @@ wikitext: |-
   * Restricts the player's Special Summons
   | life_points           = Pays Life Points for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 21944
   }}

@@ -16,10 +16,10 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－解放始导
   | sc_translated_name    = Enneacraft - Starting Guidance: Release
-  | image                 = EnneacraftRelease-DBPR-JP-OP.png
+  | image                 = EnneacraftRelease-DBPR-JP-SR.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 54020393
   | effect_types          = Effect, Ignition-like, Condition
   | text                  = Place 1 "[[Enneacraft]]" [[Pendulum Monster]] from your [[Main Deck|Deck]] in your [[Pendulum Zone]]. If this card is in your [[GY]], except the [[turn]] it was sent there: You can [[banish]] it; [[Add a card|add]] 1 face-up "Enneacraft" monster from your [[Extra Deck]] to your [[hand]]. You can only [[activate]] 1 "Enneacraft - Release" per turn.
   | fr_text               = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：デッキから「糾罪巧」Ｐモンスター１体を自分のＰゾーンに置く。②：このターンに墓地へ送られていないこのカードを墓地から除外して発動できる。自分のＥＸデッキ（表側）から「糾罪巧」モンスター１体を手札に加える。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  DBPR-JP025; Deck-Build Pack: Phantom Revengers; 
+  DBPR-JP025; Deck-Build Pack: Phantom Revengers; Super Rare
   | sc_sets               = 
   DBPR-SC025; Deck-Build Pack: Phantom Revengers; 
   | supports              = Pendulum Monster
@@ -43,5 +43,5 @@ wikitext: |-
   * Adds from Extra Deck to hand
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 21951
   }}

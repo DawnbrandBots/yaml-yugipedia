@@ -16,13 +16,13 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－嗜蝎 Archaη.TAIL
   | sc_translated_name    = Enneacraft - Scorpion of Lust Archaη.TAIL
-  | image                 = EnneacraftArchaηTAIL-DBPR-JP-OP.png
+  | image                 = EnneacraftArchaηTAIL-DBPR-JP-C.png
   | attribute             = LIGHT
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 9
   | atk                   = 3000
   | def                   = 2500
-  | password              = 
+  | password              = 81237046
   | pendulum_scale        = 0
   | pendulum_effect_types = Continuous-like, Trigger-like
   | effect_types          = Ignition, Condition, Quick, Continuous
@@ -38,14 +38,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = ①：モンスターがリバースする度に、このカードに糾罪カウンターを１つ置く。②：自分・相手のバトルフェイズ終了時、もう片方の自分のＰゾーンに「糾罪巧」カードが存在する場合、このカードより攻撃力が低い相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
+  | ja_text               = ①：手札のこのカードを相手に見せて発動できる（この効果を発動するターン、自分は裏側守備表示でしかモンスターを特殊召喚できない）。手札からモンスター１体を裏側守備表示で特殊召喚する。②：フィールドのカードを破壊する効果を相手が発動した時、裏側表示のこのカードを表側守備表示にして発動できる。このターン中、自分フィールドのモンスター及び「糾罪巧」魔法カードは効果では破壊されない。③：リバースしたこのカードがモンスターゾーンに存在する限り、モンスターが相手の墓地へ送られる度に、相手は９００ダメージを受ける。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  DBPR-JP023; Deck-Build Pack: Phantom Revengers; 
+  DBPR-JP023; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare, Secret Rare
   | sc_sets               = 
   DBPR-SC023; Deck-Build Pack: Phantom Revengers; 
   | archseries            = Enneacraft
@@ -72,5 +72,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Only once per turn
   * Flip monster without a Flip effect
-  | database_id           = 
+  | database_id           = 21949
   }}
