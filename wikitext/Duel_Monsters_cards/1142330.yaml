@@ -34,7 +34,23 @@ wikitext: |-
   | jp_sets             = 
   DBPR-JP034; Deck-Build Pack: Phantom Revengers; Super Rare
   | mentions            = Killer Tune Cue
+  | supports            = Tuner monster
   | archseries          = Killer Tune
   | supports_archetypes = Killer Tune
+  | action              = 
+  * Uses cards in the hand as Synchro Materials
+  * Activates upon Normal Summon
+  * Activates if sent to the Graveyard
+  * Activates if used as Synchro Material
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * Places excavated cards on the bottom of the Deck
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons
+  | banished            = Banishes excavated cards
+  | misc                = Only once per turn
   | database_id         = 21956
   }}

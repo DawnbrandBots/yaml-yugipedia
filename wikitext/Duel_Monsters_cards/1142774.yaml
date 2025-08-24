@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 1100
   | def                   = 2800
   | password              = 
+  | materials             = 2 Level 6 monsters
   | effect_types          = Summoning condition, Condition, Ignition
   | text                  = 2 [[Level]] 6 [[monsters]]<br />[[Once per turn]], you can also [[Xyz Summon]] "Dragon Gate" by using 1 [[Rank]] 3 or lower [[Xyz Monster]] you [[control]] ([[transfer]] its [[material]]s). Cannot be used as material for an Xyz Summon the [[turn]] it was Xyz Summoned. Once per turn: You can [[activate]] this [[effect]]; for the rest of this turn, this card can attack all monsters your opponent [[control]]s, once each, also [[detach]] any number of materials from this card, and if you do, it gains 1000 [[ATK]] for each card type (Monster, [[Spell]], or [[Trap]]) detached, and if it does, any monsters your opponent currently controls lose that much ATK.
   | fr_text               = 
@@ -41,5 +42,22 @@ wikitext: |-
   MP25-PT148; 2025 Mega-Pack Tin; Prismatic Secret Rare
   | sp_sets               = 
   MP25-SP148; 2025 Mega-Pack Tin; Prismatic Secret Rare
+  | supports              = Xyz Monster
+  | action                = 
+  * Transfers
+  * Detaches multiple Xyz Materials for effect
+  | stat_change           = 
+  * This card gains ATK
+  * Your opponent's monsters lose ATK
+  | m/s/t                 = Does not have effects which detach Xyz Materials for cost
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
+  * Cannot be used as an Xyz Material the turn it is Xyz Summoned
+  | attack                = Multiple attacker
+  | misc                  = Limited activations
   | database_id           = 
   }}
