@@ -3,52 +3,54 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|見えざる手|ヘカトンケイル}}ガイガス
-  | romaji_name         = Hekatonkeiru Gaigasu
-  | translated_name     = Hecatoncheir Gygas
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 百臂无形手 盖伽撕
-  | sc_pinyin_name      = 
-  | image               = HecahandsGygas-DBPR-JP-C.png
-  | attribute           = DARK
-  | types               = Illusion / Effect
-  | level               = 7
-  | atk                 = 1200
-  | def                 = 2800
-  | password            = 95132593
-  | effect_types        = Continuous, Condition, Trigger, Ignition
-  | text                = If this card [[battle]]s a [[monster]], neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Gygas" [[once per turn]]. If a card(s) is [[Add a card|added]] to your opponent's [[hand]] (except during the [[Draw Phase]] or [[Damage Step]]): You can [[Special Summon]] this card from your hand. During your [[Main Phase]]: You can [[excavate]] the top 3 cards of your opponent's [[Main Deck|Deck]], you can Special Summon 1 excavated monster, also [[shuffle]] the rest back into the Deck.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：ドローフェイズ以外で相手の手札にカードが加わった場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。相手のデッキの上からカードを３枚めくる。その中からモンスター１体を選んで自分フィールドに特殊召喚できる。残りをデッキに戻す。③：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|見えざる手|ヘカトンケイル}}ガイガス
+  | base_romaji_name     = Miezaru Te Gaigasu
+  | base_translated_name = Unseen Hand Gygas
+  | romaji_name          = Hekatonkeiru Gaigasu
+  | translated_name      = Hecatoncheir Gygas
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 百臂无形手 盖伽撕
+  | sc_pinyin_name       = 
+  | image                = HecahandsGygas-DBPR-JP-C.png
+  | attribute            = DARK
+  | types                = Illusion / Effect
+  | level                = 7
+  | atk                  = 1200
+  | def                  = 2800
+  | password             = 95132593
+  | effect_types         = Continuous, Condition, Trigger, Ignition
+  | text                 = If this card [[battle]]s a [[monster]], neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Gygas" [[once per turn]]. If a card(s) is [[Add a card|added]] to your opponent's [[hand]] (except during the [[Draw Phase]] or [[Damage Step]]): You can [[Special Summon]] this card from your hand. During your [[Main Phase]]: You can [[excavate]] the top 3 cards of your opponent's [[Main Deck|Deck]], you can Special Summon 1 excavated monster, also [[shuffle]] the rest back into the Deck.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：ドローフェイズ以外で相手の手札にカードが加わった場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。相手のデッキの上からカードを３枚めくる。その中からモンスター１体を選んで自分フィールドに特殊召喚できる。残りをデッキに戻す。③：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DBPR-JP004; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare, Secret Rare
-  | sc_sets             = 
+  | sc_sets              = 
   DBPR-SC004; Deck-Build Pack: Phantom Revengers; 
-  | archseries          = Hecahands
-  | action              = 
+  | archseries           = Hecahands
+  | action               = 
   * Activates from your hand
   * Activates if your opponent draws a card
   * Activates if your opponent adds a card to the hand
   * Excavates from the opponent's Deck
   * Shuffles excavated cards into the Deck
-  | summoning           = 
+  | summoning            = 
   * Special Summons itself from your hand
   * Special Summons excavated cards
-  | attack              = 
+  | attack               = 
   * Cannot be destroyed by battle
   * Cannot destroy by battle
-  | misc                = Only once per turn
-  | database_id         = 21934
+  | misc                 = Only once per turn
+  | database_id          = 21934
   }}

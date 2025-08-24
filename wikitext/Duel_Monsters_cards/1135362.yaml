@@ -3,51 +3,53 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|見えざる手|ヘカトンケイル}}ゴッドス
-  | romaji_name         = Hekatonkeiru Goddosu
-  | translated_name     = Hecatoncheir Goddus
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 百臂无形手 格多撕
-  | sc_pinyin_name      = 
-  | image               = HecahandsGoddus-DBPR-JP-C.png
-  | attribute           = DARK
-  | types               = Illusion / Effect
-  | level               = 7
-  | atk                 = 2300
-  | def                 = 2000
-  | password            = 68144894
-  | effect_types        = Continuous, Condition, Trigger, Quick
-  | text                = If this card [[battle]]s a [[monster]], neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Goddus" [[once per turn]]. If a card(s) is [[Add a card|added]] to your opponent's [[hand]]  (except during the [[Draw Phase]] or [[Damage Step]]): You can [[Special Summon]] this card from your hand. During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 monster in your opponent's [[GY]]; Special Summon it to your [[field]], but [[banish]] it when it [[leaves the field]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：ドローフェイズ以外で相手の手札にカードが加わった場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：相手メインフェイズに、相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|見えざる手|ヘカトンケイル}}ゴッドス
+  | base_romaji_name     = Miezaru Te Goddosu
+  | base_translated_name = Unseen Hand Goddus
+  | romaji_name          = Hekatonkeiru Goddosu
+  | translated_name      = Hecatoncheir Goddus
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 百臂无形手 格多撕
+  | sc_pinyin_name       = 
+  | image                = HecahandsGoddus-DBPR-JP-C.png
+  | attribute            = DARK
+  | types                = Illusion / Effect
+  | level                = 7
+  | atk                  = 2300
+  | def                  = 2000
+  | password             = 68144894
+  | effect_types         = Continuous, Condition, Trigger, Quick
+  | text                 = If this card [[battle]]s a [[monster]], neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Goddus" [[once per turn]]. If a card(s) is [[Add a card|added]] to your opponent's [[hand]]  (except during the [[Draw Phase]] or [[Damage Step]]): You can [[Special Summon]] this card from your hand. During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 monster in your opponent's [[GY]]; Special Summon it to your [[field]], but [[banish]] it when it [[leaves the field]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：ドローフェイズ以外で相手の手札にカードが加わった場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：相手メインフェイズに、相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DBPR-JP003; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare
-  | sc_sets             = 
+  | sc_sets              = 
   DBPR-SC003; Deck-Build Pack: Phantom Revengers; 
-  | archseries          = Hecahands
-  | action              = 
+  | archseries           = Hecahands
+  | action               = 
   * Activates from your hand
   * Activates if your opponent draws a card
   * Activates if your opponent adds a card to the hand
-  | summoning           = 
+  | summoning            = 
   * Special Summons itself from your hand
   * Special Summons from your opponent's Graveyard
-  | attack              = 
+  | attack               = 
   * Cannot be destroyed by battle
   * Cannot destroy by battle
-  | banished            = Banishes cards when they leave the field
-  | misc                = Only once per turn
-  | database_id         = 21933
+  | banished             = Banishes cards when they leave the field
+  | misc                 = Only once per turn
+  | database_id          = 21933
   }}

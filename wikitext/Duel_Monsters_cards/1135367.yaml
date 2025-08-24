@@ -3,53 +3,55 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|見えざる神|ヘカトンケイル}}ゼノ
-  | romaji_name         = Hekatonkeiru Zeno
-  | translated_name     = Hecatoncheir Xeno
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 百臂无形神 慑挪
-  | sc_pinyin_name      = 
-  | image               = HecahandsXeno-DBPR-JP-SR.png
-  | attribute           = DARK
-  | types               = Illusion / Fusion / Effect
-  | level               = 9
-  | atk                 = 3400
-  | def                 = 3500
-  | password            = 94410955
-  | materials           = 3 "Hecahands" monsters
-  | effect_types        = Continuous, Condition, Quick, Trigger
-  | text                = 3 "[[Hecahands]]" [[monsters]]<br />If this card [[battle]]s a monster, neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Xeno" [[once per turn]]. During the [[Main Phase]] ([[Quick Effect]]): You can look at 2 [[random]] [[face-down]] cards in your opponent's [[Extra Deck]], and if you do, you can [[Special Summon]] 1 of them to your [[field]]. If this [[Fusion Summon]]ed card in its owner's [[control]] is destroyed by an opponent's card effect: You can take control of any number of monsters they control.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 「ヘカトンケイル」モンスター×３<br />このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。相手のＥＸデッキの裏側のカードをランダムに２枚確認する。その中から１枚を選んで自分フィールドに特殊召喚できる。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：融合召喚したこのカードが相手の効果で破壊された場合に発動できる。相手フィールドのモンスターを任意の数だけ選び、そのコントロールを得る。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|見えざる神|ヘカトンケイル}}ゼノ
+  | base_romaji_name     = Miezaru Kami Zeno
+  | base_translated_name = Unseen God Xeno
+  | romaji_name          = Hekatonkeiru Zeno
+  | translated_name      = Hecatoncheir Xeno
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 百臂无形神 慑挪
+  | sc_pinyin_name       = 
+  | image                = HecahandsXeno-DBPR-JP-SR.png
+  | attribute            = DARK
+  | types                = Illusion / Fusion / Effect
+  | level                = 9
+  | atk                  = 3400
+  | def                  = 3500
+  | password             = 94410955
+  | materials            = 3 "Hecahands" monsters
+  | effect_types         = Continuous, Condition, Quick, Trigger
+  | text                 = 3 "[[Hecahands]]" [[monsters]]<br />If this card [[battle]]s a monster, neither can be [[destroyed by that battle]]. You can only use each of the following [[effect]]s of "Hecahands Xeno" [[once per turn]]. During the [[Main Phase]] ([[Quick Effect]]): You can look at 2 [[random]] [[face-down]] cards in your opponent's [[Extra Deck]], and if you do, you can [[Special Summon]] 1 of them to your [[field]]. If this [[Fusion Summon]]ed card in its owner's [[control]] is destroyed by an opponent's card effect: You can take control of any number of monsters they control.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 「ヘカトンケイル」モンスター×３<br />このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。相手のＥＸデッキの裏側のカードをランダムに２枚確認する。その中から１枚を選んで自分フィールドに特殊召喚できる。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：融合召喚したこのカードが相手の効果で破壊された場合に発動できる。相手フィールドのモンスターを任意の数だけ選び、そのコントロールを得る。
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DBPR-JP007; Deck-Build Pack: Phantom Revengers; Super Rare, Secret Rare
-  | sc_sets             = 
+  | sc_sets              = 
   DBPR-SC007; Deck-Build Pack: Phantom Revengers; 
-  | archseries          = Hecahands
-  | supports_archetypes = Hecahands
-  | action              = 
+  | archseries           = Hecahands
+  | supports_archetypes  = Hecahands
+  | action               = 
   * Reveals your opponent's Extra Deck
   * Activates if destroyed by card effect
   * Takes control of an opponent's monster
-  | summoning           = 
+  | summoning            = 
   * 3 Fusion Materials
   * Requires archetype specific Fusion Materials
   * Special Summons from your opponent's Extra Deck
-  | attack              = 
+  | attack               = 
   * Cannot be destroyed by battle
   * Cannot destroy by battle
-  | misc                = Only once per turn
-  | database_id         = 21937
+  | misc                 = Only once per turn
+  | database_id          = 21937
   }}
