@@ -3,22 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|天|てん}}{{Ruby|地|ち}}{{Ruby|諧|かい}}{{Ruby|謔|ぎゃく}}のコスモス{{Ruby|姫|ひめ}}
-  | romaji_name    = Tenchikaigyaku no Kosumosu-hime
-  | image          = PrincessCosmostheCosmicTrickster-RDORP3-JP-OP.png
-  | attribute      = DARK
-  | types          = Galaxy / Fusion / Effect
-  | level          = 11
-  | atk            = 2800
-  | def            = 2600
-  | materials      = "[[Princess Cosmos the Trickster]]" + 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] monsters with 900 [[ATK]]
-  | requirement    = During your [[Main Phase]] that you [[Special Summon]]ed this card.
-  | text           = [[Destroy]] 1 card on your opponent's [[field]]. If this card was [[Fusion Summon]]ed using 9 or more monsters as material, destroy all other cards on the field instead.
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|天|てん}}{{Ruby|地|ち}}{{Ruby|諧|かい}}{{Ruby|謔|ぎゃく}}のコスモス{{Ruby|姫|ひめ}}
+  | romaji_name     = Tenchikaigyaku no Kosumosu-hime
+  | image           = PrincessCosmostheCosmicTrickster-RDORP3-JP-OP.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 11
+  | atk             = 2800
+  | def             = 2600
+  | fusion_material = Princess Cosmos the Trickster
+  | materials       = "[[Princess Cosmos the Trickster]]" + 2 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 900 [[ATK]]
+  | requirement     = During your [[Main Phase]] that you [[Special Summon]]ed this card.
+  | text            = [[Destroy]] 1 card on your opponent's [[field]]. If you used 9 or more monsters as [[material]] when [[Fusion Summon]]ing this card, destroy all other cards on the field instead.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/ORP3-JP043; Over Rush Pack 3; Over Rush Rare
-  | archseries     = Princess Cosmos
-  | database_id    = 
+  | mentions        = Princess Cosmos the Trickster
+  | supports        = Galaxy (Type)
+  | archseries      = Princess Cosmos
+  | action          = Activates during the turn in which it was Special Summoned
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning       = 
+  * 3+ Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  | database_id     = 
   }}

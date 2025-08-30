@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Trap
   | property       = Normal
   | condition      = This card's name becomes "[[Jest of the Cosmos Princess]]" while in the [[hand]] or [[Graveyard]].
-  | requirement    = When a player [[Normal Summon]]s a [[monster]], [[send]] 1 card from your hand to the Graveyard.
+  | requirement    = When a [[Duelist|player]] [[Normal Summon]]s a [[Monster Card|monster]], [[send]] 1 card from your hand to the Graveyard.
   | text           = [[Destroy]] that Normal Summoned monster. Then, you can [[Draw a card|draw]] 2 cards.
   | ja_condition   = 
   | ja_requirement = 
@@ -18,5 +18,13 @@ wikitext: |-
   RD/ORP3-JP057; Over Rush Pack 3; Over Rush Rare
   | mentions       = Jest of the Cosmos Princess
   | archseries     = Princess Cosmos
+  | action         = 
+  * Activates upon Normal Summon
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | stat_change    = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  | m/s/t          = Destroys Monster Cards
   | database_id    = 
   }}

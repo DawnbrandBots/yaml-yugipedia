@@ -12,12 +12,26 @@ wikitext: |-
   | atk            = 900
   | def            = 2600
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Destroy]] up to 3 [[monsters]] on your [[field]]. Then, you can [[Fusion Summon]] a [[Galaxy (Type)|Galaxy]] [[Type]] monster with 1900 or 2600 [[DEF]] by shuffling up to 9 Galaxy Type monsters from your Graveyard into the [[Main Deck|Deck]] as material. This turn, you cannot activate the effect of "Princess Cosmos the Trickster".
+  | text           = [[Destroy]] up to 3 [[Monster Card|monster]]s on your [[field]]. Then, you can [[Fusion Summon]] a [[Galaxy (Type)|Galaxy]] [[Type]] monster with 1900 or 2600 [[DEF]] by [[Shuffle|shuffling]] up to 9 Galaxy Type monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as [[material]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Princess Cosmos the Trickster".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP3-JP046; Over Rush Pack 3; Over Rush Rare
   | mentions       = Princess Cosmos the Trickster
+  | supports       = Galaxy (Type)
   | archseries     = Princess Cosmos
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | m/s/t          = Destroys your Monster Cards
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | fm_for         = Princess Cosmos the Cosmic Trickster
+  | misc           = Only once per turn
   | database_id    = 
   }}

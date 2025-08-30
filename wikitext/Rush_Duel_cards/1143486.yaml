@@ -11,9 +11,9 @@ wikitext: |-
   | level          = 6
   | atk            = 900
   | def            = 1600
-  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[reveal]]ing 1 "[[Princess Cosmos the Trickster]]" or 1 "[[Jest of the Cosmos Princess]]" in your [[hand]].
-  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Fusion Summon]] a [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] with 1900 or 2600 [[DEF]] by [[send]]ing face-up Galaxy Type monsters from your field to the [[Graveyard]] as [[material]].
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[reveal]]ing 1 "[[Princess Cosmos the Trickster]]" or 1 "[[Jest of the Cosmos Princess]]" in your hand.
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or Special Summoned this card.
+  | text           = [[Fusion Summon]] a [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] with 1900 or 2600 [[DEF]] by [[send]]ing face-up Galaxy Type monsters from your field to the [[Graveyard]] as [[material]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -22,6 +22,19 @@ wikitext: |-
   | mentions       = 
   * Princess Cosmos the Trickster
   * Jest of the Cosmos Princess
+  | supports       = Galaxy (Type)
   | archseries     = Princess Cosmos
+  | action         = 
+  * Reveals your hand for Special Summon
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | summoning      = 
+  * Special Summons itself from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}

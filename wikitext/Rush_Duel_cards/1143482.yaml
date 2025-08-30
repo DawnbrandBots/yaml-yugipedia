@@ -12,9 +12,9 @@ wikitext: |-
   | level           = 10
   | atk             = 2000
   | def             = 1900
-  | materials       = 3 [[Galaxy (Type)|Galaxy]] [[Type]] monsters with 900 [[ATK]]
+  | materials       = 3 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 900 [[ATK]]
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = [[Special Summon]] 1 Galaxy Type [[Fusion Monster]] with 1900 or 2600 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can [[Add a card|add]] 1 "[[Jest of the Cosmos Princess]]" from your Graveyard to your [[hand]]. This [[turn]], you cannot activate the effect of "Cosmostar the White Hole Polairy".
+  | text            = [[Special Summon]] 1 Galaxy Type [[Fusion Monster]] with 1900 or 2600 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can [[Add a card|add]] 1 "[[Jest of the Cosmos Princess]]" from your Graveyard to your [[hand]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Cosmostar the White Hole Polairy".
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -23,6 +23,18 @@ wikitext: |-
   | mentions        = 
   * Jest of the Cosmos Princess
   * Cosmostar the White Hole Polairy
+  | supports        = 
+  * Galaxy (Type)
+  * Fusion Monster
   | archseries      = Princess Cosmos
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Adds from Graveyard to hand
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  * Special Summons from your Graveyard
+  | misc            = Only once per turn
   | database_id     = 
   }}
