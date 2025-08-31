@@ -3,48 +3,49 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|教導の死徒|チャプレーン・ドラグマ}}
-  | romaji_name         = Chapurēn Doraguma
-  | translated_name     = Chaplain Dragma
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | sc_pinyin_name      = 
-  | image               = DogmatikaChaplain-VJMP-JP-UR.png
-  | attribute           = LIGHT
-  | types               = Spellcaster / Effect
-  | level               = 8
-  | atk                 = 2000
-  | def                 = 2000
-  | password            = 30394645
-  | effect_types        = Ignition, Trigger, Trigger, Condition
-  | text                = If a [[monster]] [[Special Summon]]ed from the [[Extra Deck]] is on the [[field]]: You can Special Summon this card from your [[hand]]. If this card is Special Summoned from the hand: You can make each player [[send]] 1 monster from their Extra Deck to the [[GY]]. If this card is sent to the GY: You can [[target]] 1 "[[Dogmatika]]" card in your GY, except "Dogmatika Chaplain"; [[add]] it to your hand. You can only use each [[effect]] of "Dogmatika Chaplain" [[once per turn]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、ＥＸデッキから特殊召喚されたモンスターがフィールドに存在する場合に発動できる。このカードを特殊召喚する。②：このカードが手札から特殊召喚した場合に発動できる。お互いはそれぞれ自身のＥＸデッキからモンスター１体を墓地へ送る。③：このカードが墓地へ送られた場合、「教導の死徒」以外の自分の墓地の「ドラグマ」カード１枚を対象として発動できる。そのカードを手札に加える。
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|教導の死徒|チャプレーン・ドラグマ}}
+  | base_translated_name = Dogmatic Death Apostle
+  | romaji_name          = Chapurēn Doraguma
+  | translated_name      = Chaplain Dragma
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | sc_pinyin_name       = 
+  | image                = DogmatikaChaplain-VJMP-JP-UR.png
+  | attribute            = LIGHT
+  | types                = Spellcaster / Effect
+  | level                = 8
+  | atk                  = 2000
+  | def                  = 2000
+  | password             = 30394645
+  | effect_types         = Ignition, Trigger, Trigger, Condition
+  | text                 = If a [[monster]] [[Special Summon]]ed from the [[Extra Deck]] is on the [[field]]: You can Special Summon this card from your [[hand]]. If this card is Special Summoned from the hand: You can make each player [[send]] 1 monster from their Extra Deck to the [[GY]]. If this card is sent to the GY: You can [[target]] 1 "[[Dogmatika]]" card in your GY, except "Dogmatika Chaplain"; [[add]] it to your hand. You can only use each [[effect]] of "Dogmatika Chaplain" [[once per turn]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、ＥＸデッキから特殊召喚されたモンスターがフィールドに存在する場合に発動できる。このカードを特殊召喚する。②：このカードが手札から特殊召喚した場合に発動できる。お互いはそれぞれ自身のＥＸデッキからモンスター１体を墓地へ送る。③：このカードが墓地へ送られた場合、「教導の死徒」以外の自分の墓地の「ドラグマ」カード１枚を対象として発動できる。そのカードを手札に加える。
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   VJMP-JP278; V Jump October 2025 promotional card; Ultra Rare
-  | mentions            = Dogmatika Chaplain
-  | archseries          = Dogmatika
-  | supports_archetypes = Dogmatika
-  | action              = 
+  | mentions             = Dogmatika Chaplain
+  | archseries           = Dogmatika
+  | supports_archetypes  = Dogmatika
+  | action               = 
   * Activates from your hand
   * Activates upon Special Summon
   * Sends from your Extra Deck to your Graveyard
   * Sends from your opponent's Extra Deck to your opponent's Graveyard
   * Activates if sent to the Graveyard
   * Adds from Graveyard to hand
-  | summoning           = Special Summons itself from your hand
-  | misc                = Only once per turn
-  | database_id         = 22086
+  | summoning            = Special Summons itself from your hand
+  | misc                 = Only once per turn
+  | database_id          = 22086
   }}
