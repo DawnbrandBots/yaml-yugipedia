@@ -1,33 +1,36 @@
 title: Compulsory Evacuation Device
 wikitext: |-
   {{CardTable2
-  | fr_name      = Dispositif d'Évacuation Obligatoire
-  | de_name      = Zwangsevakuierungsgerät
-  | it_name      = Dispositivo di Salvataggio Obbligatorio
-  | pt_name      = Aparelho de Evacuação Obrigatória
-  | es_name      = Artilugio de Evacuación Compulsiva
-  | ja_name      = {{Ruby|強|きょう}}{{Ruby|制|せい}}{{Ruby|脱|だっ}}{{Ruby|出|しゅつ}}{{Ruby|装|そう}}{{Ruby|置|ち}}
-  | romaji_name  = Kyōsei Dasshutsu Sōchi
-  | ko_name      = 강제 탈출 장치
-  | ko_rr_name   = Gangje Talchul Jangchi
-  | sc_name      = 强制脱出装置
-  | tc_name      = 强制逃生裝置
-  | image        = CompulsoryEvacuationDevice-RA01-EN-SR-1E.png
-  | card_type    = Trap
-  | property     = Normal
-  | password     = 94192409
-  | effect_types = Effect
-  | text         = [[Target]] 1 [[monster]] on the [[field]]; [[return]] that target to the [[hand]].
-  | fr_text      = Ciblez 1 monstre sur le Terrain ; renvoyez la cible à la main.
-  | de_text      = Wähle 1 Monster auf dem Spielfeld; gib jenes gewählte Ziel auf die Hand zurück.
-  | it_text      = Scegli come bersaglio 1 mostro sul Terreno; fai ritornare quel bersaglio nella mano.
-  | pt_text      = Escolha 1 monstro no campo; devolva o alvo para a mão.
-  | es_text      = Selecciona 1 monstruo en el Campo; devuelve a la mano ese objetivo.
-  | ja_text      = ①：フィールドのモンスター１体を対象として発動できる。そのモンスターを手札に戻す。
-  | ko_text      = ①: 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 주인의 패로 되돌린다.
-  | tc_text      = 选择场上的1只怪兽并返回至持有者的手牌。
-  | sc_text      = ①：以场上的１只怪兽为对象可以发动。将该怪兽放回手牌。
-  | en_sets      = 
+  | fr_name       = Dispositif d'Évacuation Obligatoire
+  | de_name       = Zwangsevakuierungsgerät
+  | it_name       = Dispositivo di Salvataggio Obbligatorio
+  | pt_name       = Aparelho de Evacuação Obrigatória
+  | es_name       = Artilugio de Evacuación Compulsiva
+  | ja_name       = {{Ruby|強|きょう}}{{Ruby|制|せい}}{{Ruby|脱|だっ}}{{Ruby|出|しゅつ}}{{Ruby|装|そう}}{{Ruby|置|ち}}
+  | romaji_name   = Kyōsei Dasshutsu Sōchi
+  | ko_name       = 강제 탈출 장치
+  | ko_rr_name    = Gangje Talchul Jangchi
+  | sc_name       = 强制脱出装置
+  | tc_name       = 强制逃生裝置
+  | image         = 
+  1; CompulsoryEvacuationDevice-RA01-EN-SR-1E.png; CompulsoryEvacuationDevice-MADU-EN-VG-artwork.png
+  2; CompulsoryEvacuationDevice-LPST-JP-OP.png
+  | current_image = 1
+  | card_type     = Trap
+  | property      = Normal
+  | password      = 94192409
+  | effect_types  = Effect
+  | text          = [[Target]] 1 [[monster]] on the [[field]]; [[return]] that target to the [[hand]].
+  | fr_text       = Ciblez 1 monstre sur le Terrain ; renvoyez la cible à la main.
+  | de_text       = Wähle 1 Monster auf dem Spielfeld; gib jenes gewählte Ziel auf die Hand zurück.
+  | it_text       = Scegli come bersaglio 1 mostro sul Terreno; fai ritornare quel bersaglio nella mano.
+  | pt_text       = Escolha 1 monstro no campo; devolva o alvo para a mão.
+  | es_text       = Selecciona 1 monstruo en el Campo; devuelve a la mano ese objetivo.
+  | ja_text       = ①：フィールドのモンスター１体を対象として発動できる。そのモンスターを手札に戻す。
+  | ko_text       = ①: 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 주인의 패로 되돌린다.
+  | tc_text       = 选择场上的1只怪兽并返回至持有者的手牌。
+  | sc_text       = ①：以场上的１只怪兽为对象可以发动。将该怪兽放回手牌。
+  | en_sets       = 
   SD2-EN028; Structure Deck: Zombie Madness; Common
   DR2-EN104; Dark Revelation Volume 2; Rare
   YSD-EN038; Starter Deck 2006; Common
@@ -52,10 +55,10 @@ wikitext: |-
   TAMA-EN044; Tactical Masters; Rare
   IOC-EN103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-EN069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | na_sets      = 
+  | na_sets       = 
   IOC-103; Invasion of Chaos; Rare
   DT03-EN046; Duel Terminal 3; Duel Terminal Normal Parallel Rare
-  | fr_sets      = 
+  | fr_sets       = 
   SD2-FR028; Structure Deck: Zombie Madness; Common
   DR2-FR104; Dark Revelation Volume 2; Rare
   YSD-FR038; Starter Deck 2006; Common
@@ -80,7 +83,7 @@ wikitext: |-
   TAMA-FR044; Tactical Masters; Rare
   IOC-FR103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-FR069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | de_sets      = 
+  | de_sets       = 
   SD2-DE028; Structure Deck: Zombie Madness; Common
   DR2-DE104; Dark Revelation Volume 2; Rare
   YSD-DE038; Starter Deck 2006; Common
@@ -105,7 +108,7 @@ wikitext: |-
   TAMA-DE044; Tactical Masters; Rare
   IOC-DE103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-DE069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | it_sets      = 
+  | it_sets       = 
   SD2-IT028; Structure Deck: Zombie Madness; Common
   DR2-IT104; Dark Revelation Volume 2; Rare
   YSD-IT038; Starter Deck 2006; Common
@@ -130,7 +133,7 @@ wikitext: |-
   TAMA-IT044; Tactical Masters; Rare
   IOC-IT103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-IT069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | pt_sets      = 
+  | pt_sets       = 
   SD2-PT028; Structure Deck: Zombie Madness; Common
   SDBE-PT038; Saga of Blue-Eyes White Dragon Structure Deck; Common
   LCJW-PT295; Legendary Collection 4: Joey's World Mega Pack; Secret Rare
@@ -144,7 +147,7 @@ wikitext: |-
   TAMA-PT044; Tactical Masters; Rare
   IOC-PT103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-PT069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | sp_sets      = 
+  | sp_sets       = 
   SD2-SP028; Structure Deck: Zombie Madness; Common
   DR2-SP104; Dark Revelation Volume 2; Rare
   YSD-SP038; Starter Deck 2006; Common
@@ -168,7 +171,7 @@ wikitext: |-
   TAMA-SP044; Tactical Masters; Rare
   IOC-SP103; Invasion of Chaos (25th Anniversary Edition); Rare
   RA01-SP069; 25th Anniversary Rarity Collection; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
-  | jp_sets      = 
+  | jp_sets       = 
   307-048; Invader of Darkness (set); Common
   SDM-055; Structure Deck: Marik (OCG); Common
   SD2-JP028; Structure Deck: Zombie Madness; Common
@@ -190,9 +193,10 @@ wikitext: |-
   DBTM-JP044; Deck-Build Pack: Tactical Masters; Common, Normal Parallel Rare
   RC04-JP070; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
   24EP-JP214; Event Pack 2024 Vol.2; Common, Normal Parallel Rare
-  | ja_sets      = 
+  LPST-JP043; Limited Pack: Stamp Edition; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | ja_sets       = 
   SD27-JA039; Structure Deck: HERO's Strike; Common
-  | kr_sets      = 
+  | kr_sets       = 
   SD2-KR028; Structure Deck: Zombie Madness; Common
   IOC-KR103; Invasion of Chaos; Rare
   HGP2-KR104; Expert Edition Volume.2; Rare
@@ -210,20 +214,20 @@ wikitext: |-
   SR12-KR037; Structure Deck R: Lost Sanctuary; Common
   DBTM-KR044; Deck-Build Pack: Tactical Masters; Common, Normal Parallel Rare
   RC04-KR070; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
-  | tc_sets      = 
+  | tc_sets       = 
   SD18-TC037; Structure Deck: Machiners Command; Common
   SP02-TC051; Starter Pack Volume 2; Super Rare
-  | sc_sets      = 
+  | sc_sets       = 
   ST20-SC037; Starter Deck 2020; Common
   TRC1-SC045; The Rarity Collection; Ultra Rare, Secret Rare, Collector's Rare
   SD27-SC039; Structure Deck: HERO's Strike; Common
   DBTM-SC044; Deck-Build Pack: Tactical Masters; Common, Normal Parallel Rare
   23RC-SC072; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
-  | ae_sets      = 
+  | ae_sets       = 
   IOC-AE103; Invasion of Chaos; Rare
   RC04-AE070; Rarity Collection Quarter Century Edition; Super Rare, Ultimate Rare, Collector's Rare, Secret Rare, Extra Secret Rare, Quarter Century Secret Rare
-  | ntr_sets     = 
+  | ntr_sets      = 
   '''[[Roar of Demise (NTR-BP)|Roar of Demise]]'''
-  | action       = Returns from field to hand
-  | database_id  = 5914
+  | action        = Returns from field to hand
+  | database_id   = 5914
   }}
