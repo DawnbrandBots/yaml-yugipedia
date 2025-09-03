@@ -11,8 +11,8 @@ wikitext: |-
   | level          = 4
   | atk            = 1300
   | def            = 1200
-  | requirement    = [[Shuffle]] 2 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]], except monsters with 1300 [[ATK]].
-  | text           = Increase this card's [[Level]] by 3 until the end of this [[turn]]. Then, you can [[Set]] 1 "[[Nobody Scat Thief]]" or "[[Traditional Tax]]" from your Graveyard to your [[Spell & Trap Zone]]. If you do, you can change the [[battle position]] of 1 monster on your opponent's [[field]].
+  | requirement    = [[Shuffle]] 2 [[WIND]] [[Attribute]] [[Psychic]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]], except monsters with 1300 [[ATK]].
+  | text           = Increase this card's [[Level]] by 3 until the end of this [[turn]]. Then, you can [[Set]] 1 "[[Nobody Scat Thief]]" or "[[Traditional Tax]]" from your Graveyard to your [[Spell & Trap Zone]]. If you do, you can [[Battle position change|change]] the [[battle position]] of 1 monster on your opponent's [[field]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,15 @@ wikitext: |-
   | mentions       = 
   * Nobody Scat Thief
   * Traditional Tax
+  | supports       = 
+  * WIND
+  * Psychic
   | archseries     = Shaman Bandit
+  | action         = 
+  * Returns from Graveyard to Deck for cost
+  * Sets from your Graveyard
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change    = This card gains Levels
   | database_id    = 
   }}
