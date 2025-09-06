@@ -15,7 +15,7 @@ wikitext: |-
   | materials       = "[[OuTerverSe Bug Fungus]]" + 1 non-[[LIGHT]] [[Attribute]] [[Monster Card|monster]]
   | condition       = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
   | requirement     = [[Shuffle]] 2 "OuTerverSe" from your Graveyard into the [[Main Deck|Deck]].
-  | text            = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | text            = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -26,5 +26,16 @@ wikitext: |-
   * OuTerverSe Bug Fungus
   * OuTerverSe
   | archseries      = OuTerverSe (series)
+  | action          = Returns from Graveyard to Deck for cost
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Changes Type
+  | m/s/t           = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
   | database_id     = 
   }}
