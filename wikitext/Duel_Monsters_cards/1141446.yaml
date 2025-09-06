@@ -1,11 +1,11 @@
 title: Bot Herder
 wikitext: |-
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
+  | fr_name               = Contrôleur de Bots
+  | de_name               = Bot-Hirte
+  | it_name               = Bot Herder
+  | pt_name               = Controlador de Bots
+  | es_name               = Bot Herder
   | ja_name               = 
   | romaji_name           = 
   | translated_name       = 
@@ -15,14 +15,14 @@ wikitext: |-
   | image                 = BotHerder-MP25-EN-PScR-1E.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 45951104
   | effect_types          = Effect
   | text                  = [[Target]] 1 [[monster]] your opponent [[control]]s, that is a [[face-up]] monster you own or a [[face-down]] [[Defense Position]] monster; if that monster is no longer on the field, or is a monster you own (if face-down, [[reveal]] it briefly to check), apply these [[effect]]s in sequence.<br />● Inflict 200 [[Effect damage|damage]] to your opponent.<br />● Take control of all monsters your opponent controls, except that monster.
-  | fr_text               = 
-  | de_text               = 
-  | it_text               = 
-  | pt_text               = 
-  | es_text               = 
+  | fr_text               = Ciblez 1 monstre contrôlé par votre adversaire, qui est un monstre face recto que vous possédez ou un monstre en Position de Défense face verso ; si le monstre n'est plus sur le Terrain, ou est un monstre que vous possédez (s'il est face verso, révélez-le brièvement pour vérifier), appliquez ces effets dans l'ordre.<br />● Infligez 200 points de dommages à votre adversaire.<br />● Prenez le contrôle de tous les monstres contrôlés par votre adversaire (le monstre exclu).
+  | de_text               = Wähle 1 Monster, das dein Gegner kontrolliert und das ein offenes Monster, das du besitzt, oder ein Monster in verdeckter Verteidigungsposition ist; falls jenes Monster nicht mehr auf dem Spielfeld liegt oder ein Monster ist, das du besitzt (falls verdeckt, zeige es zum Überprüfen kurz vor), führe nacheinander diese Effekte aus.<br />● Füge deinem Gegner 200 Schaden zu.<br />● Übernimm die Kontrolle über alle Monster, die dein Gegner kontrolliert, außer jenem Monster.
+  | it_text               = Scegli come bersaglio 1 mostro controllato dal tuo avversario, che è un mostro scoperto di tua proprietà o un mostro coperto in Posizione di Difesa; se quel mostro non è più sul Terreno o se è un mostro di tua proprietà (se è coperto, rivelalo brevemente per controllare), applica questi effetti in ordine.<br />● Infliggi 200 danni al tuo avversario.<br />● Prendi il controllo di tutti i mostri controllati dal tuo avversario, eccetto quel mostro.
+  | pt_text               = Escolha 1 monstro que seu oponente controla, que seja um monstro com a face para cima do qual você seja dono ou um monstro com a face para baixo em Posição de Defesa; se esse monstro não estiver mais no campo, ou for um monstro do qual você seja dono (se estiver com a face para baixo, revele-o brevemente para verificar), aplique esses efeitos em sequência.<br />● Cause 200 de dano ao seu oponente.<br />● Tome o controle de todos os monstros que seu oponente controla, exceto esse monstro.
+  | es_text               = Selecciona 1 monstruo que controle tu adversario, que sea un monstruo boca arriba que tú posees o un monstruo en Posición de Defensa boca abajo; si ese monstruo ya no está en el Campo, o es un monstruo que tú posees (si está boca abajo, muéstralo brevemente para comprobarlo), aplica estos efectos en secuencia.<br />● Inflige 200 puntos de daño a tu adversario.<br />● Toma el control de todos los monstruos que controle tu adversario, excepto el de ese monstruo.
   | ja_text               = 
   | ko_text               = 
   | sc_text               = 
@@ -42,5 +42,5 @@ wikitext: |-
   * Reveals face-down cards
   * Takes control of an opponent's monster
   | life_points           = Damages your opponent
-  | database_id           = 
+  | database_id           = 21748
   }}
