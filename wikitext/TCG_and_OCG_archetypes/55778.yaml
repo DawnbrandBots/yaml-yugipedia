@@ -135,6 +135,27 @@ wikitext: |-
 
   Due to the effects of "Machina Citadel" and "Machina Ruinforce" triggering from destruction, "Machina" can opt to run cards that benefit from this, such as "[[Torrential Tribute]]", [[Meklord Emperor Wisel]]" and "[[Dark Hole Dragon]]". Additionally, thanks to their ability to swarm the field with EARTH Machine monsters, "Machina" can opt to run a small "Ancient Gear" package to take advantage of "[[Ancient Gear Ballista]]". In formats where "[[Predaplant Verte Anaconda]]" is legal this package can even facilitate the summoning of "[[Chaos Ancient Gear Giant]]".
 
+  === Sample combo ===
+  {{Combo steps
+  | opening = "[[Machina Redeployment]]" + 1 card in hand
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Ga10 Cutter]]", with "[[Machina Citadel]]" in GY, "[[R.B. Funk Dock]]" in the Field Zone and 2 cards drawn
+  | steps   = 
+  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
+  # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
+  # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
+  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]"
+  # Effect of "Gear Gigant X" to search for either "[[R.B. Ga10 Driller]]" or "[[R.B. Ga10 Cutter]]"
+  # Overlay for "[[Drill Driver Vespenato]]" using "Gear Gigant"
+  # Summon "Fortress" using "Citadel" as cost
+  # Link Summon "[[Ancient Gear Ballista]]" using "Vespenato" and "Fortress"
+  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Tunneller]]"
+  # Summon "Fortress" using "Box" and "Tunneller" as cost
+  # Link Summon "[[R.B. The Brute Blues]]" using "Ballista" and "Fortress"
+  # Effect of "Brute Blues" to add either "Ga10 Driller" or "Ga10 Cutter" (or "[[R.B. Funk Dock]]", and then one of the aforementioned cards)
+  # Summon "Ga10 Driller" and "Ga10 Cutter" to zones that "Brute Blues" points to
+  # Draw 2 cards by using "Tunneller" to shuffle "Gear Gigant", "Vespenato", "Ballista", "Gearframe" and "Box" back into Deck
+  }}
+
   === Recommended cards ===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
