@@ -118,13 +118,13 @@ wikitext: |-
   The Deck has 2 [[Main Deck]] monsters: "[[Dinomorphia Therizia]]" and "[[Dinomorphia Diplos]]". If Summoned, "Therizia" sets a Trap from the Deck to the field, while "Diplos" sends a "Dinomorphia" card from Deck to the GY; "Therizia" is the Deck's core starter, able to set the Fusion Traps "Domain" or "Frenzy".
 
   The "Dinomorphia" Fusion boss monsters each reward the player for having as little LP as possible:
-  * "[[Dinomorphia Kentregina]]" is the Deck's multi-role boss monster. Starting at 0 ATK, it gains ATK (up to 4000) the lower the player's LP is. Its activated Quick Effect, costing half LP, copies the effect of a "Dinomorphia" Normal Trap from the Graveyard, letting the player to expand their board by copying "Domain" or "Frenzy", remove opposing cards by copying "Brute", or recover monsters by copying "Alert".
+  * "[[Dinomorphia Kentregina]]" is the Deck's multi-role boss monster. While boasting an original 4000 ATK, it loses ATK equal to the player's LP, thus "gaining ATK" the lower the player's LP is. Its activated Quick Effect, costing half LP, copies the effect of a "Dinomorphia" Normal Trap from the Graveyard, letting the player to expand their board by copying "Domain" or "Frenzy", remove opposing cards by copying "Brute", or recover monsters by copying "Alert".
   * "[[Dinomorphia Stealthbergia]]" is the deck's defensive boss monster. It has a high 2500 DEF, and lets the player activate Trap Cards or "Dinomorphia" monster effects without having to pay LP when the player has ≤2000 LP. It can also conditionally [[burn]] the opponent.
   * "[[Dinomorphia Rexterm]]" is the deck's main board control boss monster, providing both effect and combat lockdowns. It prevents the opponent from activating monster effects if their ATK is equal to or higher than the "Dinomorphia" player's LP. Its activated Quick Effect, costing half LP, equalizes all opposing monsters' ATKs with the player's LP.
 
   All "Dinomorphia" monsters [[float]] into a different "Dinomorphia" monster from the GY if they're destroyed: "Rexterm" floats into any Level 6 or lower "Dinomorphia" (i.e. all other "Dinomorphia" monsters), while all others float into a Level 4 or lower "Dinomorphia" (i.e. the Main Deck "Dinomorphia" monsters).
 
-  Because of the high LP costs to activate the effects of "Dinomorphia" Trap Cards/Fusion Monsters, a "Dinomorphia" player will quickly reduce themselves to a very low LP, and become vulnerable to a quick defeat from [[burn]] or battle damage. However, all Traps have a Graveyard effect that protects the player from a damage source when the player has ≤2000 LP: the [[Normal Trap]]s can prevent effect damage for one turn, while the Counter Traps can prevent battle damage from one battle.
+  Because of the high LP costs to activate the effects of "Dinomorphia" Trap Cards/Fusion Monsters, a "Dinomorphia" player will quickly reduce their LP to very low values, and become vulnerable to a quick defeat from [[burn]] or battle damage. However, all archetypal Traps have a Graveyard effect that protects the player from a damage source when the player has ≤2000 LP: the [[Normal Trap]]s can prevent effect damage for one turn, while the Counter Traps can prevent battle damage from one battle.
 
   Externally, the Deck benefits from other cards with half LP costs, such as "[[Soul of the Supreme King]]", "[[Solemn Judgment]]", "[[Soul Strike]]", and "[[Red Reboot]]", as they can further push down the player's LP, and can be used regardless of how low the player's LP is. The Deck's playstyle also benefits from cards that can take advantage of the player's low LP, such as "[[Ferret Flames]]", "[[Hope for Escape]]", and "[[End of the Line]]". Finally, being a Dinosaur theme, generic support cards like "[[Miscellaneousaurus]]", "[[Souleating Oviraptor]]", "[[Ultimate Conductor Tyranno]]", and "[[Fossil Dig]]" can increase the Deck's overall consistency.
 
@@ -242,6 +242,7 @@ wikitext: |-
   * [[Verdict of Anubis]]
   |continuous traps =
   * [[Floodgate]] cards
+  ** [[Gozen Match]]
   ** [[Rivalry of Warlords]]
   }}
 
