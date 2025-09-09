@@ -3,22 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel             = true
   | ja_name               = {{Ruby|洗|せん}}{{Ruby|礼|れい}}の{{Ruby|暗|あん}}{{Ruby|黒|こく}}{{Ruby|騎|き}}{{Ruby|士|し}}ガイア
   | romaji_name           = Senrei no Ankokukishi Gaia
   | translated_name       = Baptized Gaia the Dark Knight
-  | image                 = DedicatedGaiaTheFierceKnight-OW.png
+  | image                 = DedicatedGaiaTheFierceKnight-RDORP3-JP-OP.png
   | attribute             = EARTH
-  | types                 = Warrior / ???
+  | types                 = Warrior / Effect
   | level                 = 7
   | atk                   = 2300
   | def                   = 2100
-  | requirement           = 
-  | text                  = 
+  | condition             = This card's name becomes "[[Gaia The Fierce Knight (Rush Duel)|Gaia The Fierce Knight]]" while in the [[hand]] or [[Graveyard]].
+  | requirement           = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text                  = [[Add a card|Add]] 1 "[[Black Luster Ritual (Rush Duel)|Black Luster Ritual]]" from your Graveyard to your hand. Then, you can increase this card's [[Level]] by 1 until the end of this [[turn]].
+  | ja_condition          = 
   | ja_requirement        = 
   | ja_text               = 
+  | ja_text               = 
   | jp_sets               = 
-  RD/ORP3-JP0??; Over Rush Pack 3
+  RD/ORP3-JP032; Over Rush Pack 3; Over Rush Rare
+  | mentions              = Black Luster Ritual (Rush Duel)
   | archseries            = Black Luster Soldier (Rush Duel series)
   | related_to_archseries = Gaia (series)
   | database_id           = 
