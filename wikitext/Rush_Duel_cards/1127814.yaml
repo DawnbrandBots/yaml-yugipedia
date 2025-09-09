@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ストライク・タマーボーリング
   | romaji_name    = Sutoraiku Tamābōringu
+  | ko_name        = 스트라이크 타마아볼링
   | image          = StrikeTamabowling-RDKP21-JP-C.png
   | card_type      = Spell
   | property       = Normal
@@ -12,8 +13,12 @@ wikitext: |-
   | text           = Choose 1 [[face-up]] "[[Tamabot]]" on your [[field]] and 1 face-up [[Monster Card|monster]] with 100 or more [[ATK]] on your opponent's field. This [[turn]], your monster gains ATK equal to [that opponent's monster's ATK], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement = なし
   | ja_text        = 自分フィールドの表側表示の「タマボット」１体と相手フィールドの表側表示モンスター（攻撃力１００以上）１体を選ぶ。このターン、選んだ自分のモンスターの攻撃力は［選んだ相手モンスターの攻撃力］だけアップし、その攻撃は貫通する。
+  | ko_requirement = 없음
+  | ko_text        = 자신 필드의 앞면 표시인 "타마봇" 1장과 상대 필드의 앞면 표시 몬스터(공격력 100 이상) 1장을 고른다. 이 턴에, 고른 자신 몬스터의 공격력은 [고른 상대 몬스터의 공격력]만큼 올리고, 그 공격은 관통한다.
   | jp_sets        = 
   RD/KP21-JP051; Accel Road of the Attack; Common
+  | kr_sets        = 
+  RD/KP21-KR051; Accel Road of the Attack; Common
   | mentions       = Tamabot
   | archseries     = Tamabot (series)
   | stat_change    = Your monsters gain ATK

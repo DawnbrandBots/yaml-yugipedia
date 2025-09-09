@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = タマランチャー
   | romaji_name    = Tamaranchā
+  | ko_name        = 타마런처
   | image          = Tamalauncher-RDKP21-JP-C.png
   | card_type      = Spell
   | property       = Normal
@@ -12,8 +13,12 @@ wikitext: |-
   | text           = [[Draw a card|Draw]] 1 card. Then, if you sent a [[Level]] 1 monster with 200 [[ATK]]/0 [[DEF]] to the Graveyard to meet the [[Activation condition|requirement]], you can draw 1 additional card.
   | ja_requirement = 自分フィールドの表側表示モンスター（地属性／機械族）１体を墓地へ送って発動できる。
   | ja_text        = 自分は１枚ドローする。この効果の条件でモンスター（レベル１／攻撃力２００／守備力０）が墓地へ送られた場合、さらに自分は１枚ドローできる。
+  | ko_requirement = 자신 필드의 앞면 표시 몬스터(땅 속성 / 기계족) 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신은 1장 드로우한다. 이 효과의 조건으로 몬스터(레벨 1 / 공격력 200 / 수비력 0)가 묘지로 보내졌을 경우, 추가로 자신은 1장 드로우할 수 있다.
   | jp_sets        = 
   RD/KP21-JP052; Accel Road of the Attack; Common
+  | kr_sets        = 
+  RD/KP21-KR052; Accel Road of the Attack; Common
   | supports       = 
   * EARTH
   * Machine
