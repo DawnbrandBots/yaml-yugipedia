@@ -1,7 +1,5 @@
-title: Doom-Z Destruction
+title: DoomZ Destruction
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|終刻決壊|ドゥームズ・デストラクション}}
   | romaji_name         = Dūmuzu Desutorakushon
-  | translated_name     = 
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 终刻决坏
@@ -20,21 +17,34 @@ wikitext: |-
   | property            = Normal
   | password            = 80320877
   | effect_types        = Effect, Continuous-like, Trigger-like, Condition
-  | text                = [[Target]] 1 "[[Doom-Z]]" [[Xyz Monster]] you [[control]]; [[equip]] this card to it as an [[Equip Card]] with this [[effect]].<br />● Your opponent cannot [[add]] cards from the [[Main Deck|Deck]] to the [[hand]], except by [[draw]]ing them.<br />If this card is [[destroy]]ed by [[card effect]]: You can target 1 [[face-up]] [[monster]] on the [[field]]; equip 1 "Doom-Z" monster from your Deck to it. You can only use each effect of "Doom-Z Destruction" [[once per turn]].
+  | text                = [[Target]] 1 "[[DoomZ]]" [[Xyz Monster]] you [[control]]; [[equip]] this card to it with the following [[effect]].<br />● Cards cannot be [[add]]ed from the [[Main Deck]] to your opponent's [[hand]] except by [[draw]]ing them.<br />If this card is [[destroy]]ed by [[card effect]]: You can target 1 [[face-up]] [[monster]] on the [[field]]; equip 1 "DoomZ" monster from your Deck to it as an [[Equip Spell]]. You can only use each effect of "DoomZ Destruction" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
   | pt_text             = 
   | es_text             = 
   | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「ドゥームズ」Ｘモンスター１体を対象としてこのカードを発動できる。このカードを以下の効果を持つ装備カード扱いでそのモンスターに装備する。●相手はドロー以外の方法でデッキからカードを手札に加える事ができない。②：このカードが効果で破壊された場合、フィールドの表側表示モンスター１体を対象として発動できる。デッキから「ドゥームズ」モンスター１体を装備魔法カード扱いで対象のモンスターに装備する。
+  | translated_text     = Target 1 "DoomZ" Xyz Monster you control; equip this card to it with the following effect.<br />● Your opponent cannot add cards from the Main Deck to the hand except by drawing them.<br />If this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 "DoomZ" monster from your Deck to it as an Equip Spell. You can only use each effect of "DoomZ Destruction" once per turn.
   | ko_text             = 
   | sc_text             = 此卡名的①②效果1回合仅可各使用1次。①：以自己场上的1只“终刻”超量怪兽为对象可以发动此卡。将此卡视为拥有以下效果的装备卡，装备于该怪兽。<br />●对手不可以抽牌以外的方法从牌组将卡加入手牌。<br />②：此卡因效果被破坏的情况下，以场上的1只表侧表示怪兽为对象可以发动。从牌组将1只“终刻”怪兽视为装备魔法卡，装备于对象怪兽。
+  | en_sets             = 
+  DOOD-EN074; Doom of Dimensions; 
+  | fr_sets             = 
+  DOOD-FR074; Doom of Dimensions; 
+  | de_sets             = 
+  DOOD-DE074; Doom of Dimensions; 
+  | it_sets             = 
+  DOOD-IT074; Doom of Dimensions; 
+  | pt_sets             = 
+  DOOD-PT074; Doom of Dimensions; 
+  | sp_sets             = 
+  DOOD-SP074; Doom of Dimensions; 
   | jp_sets             = 
   DOOD-JP074; Doom of Dimensions; Common
   | sc_sets             = 
   DOOD-SC074; Doom of Dimensions; Common
-  | archseries          = Doom-Z
-  | supports_archetypes = Doom-Z
+  | archseries          = DoomZ
+  | supports_archetypes = DoomZ
   | action              = 
   * Equips self from field
   * Prevents adding cards from Deck to hand
