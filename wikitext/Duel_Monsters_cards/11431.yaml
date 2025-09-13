@@ -25,9 +25,9 @@ wikitext: |-
   | it_text               = Se l'ATK di un mostro che attacca questo mostro è inferiore al DEF di questa carta, distruggi il mostro attaccante.
   | pt_text               = Se o ATK de um monstro que estiver atacando este monstro for menor que a DEF deste card, destrua o monstro atacante.
   | es_text               = Si el ATK de un monstruo que ataque a este monstruo es menor a la DEF de esta carta, destruye el monstruo atacante.
-  | ja_text               = 守備表示のこのカードを攻撃したモンスターの攻撃力がこのカードの守備力より低い場合、その攻撃モンスターを破壊する。
+  | ja_text               = ①：守備表示のこのカードに攻撃を行ったモンスターの攻撃力がこのカードの守備力より低かった場合、そのダメージステップ終了時に発動する。そのモンスターを破壊する。
   | translated_text       = At the end of the Damage Step, if this Defense Position monster was attacked by an opponent's monster whose ATK is lower than the DEF of this card: Destroy the attacking monster.
-  | ko_text               = 수비 표시의 이 카드를 공격한 몬스터의 공격력이 이카드의 수비력보다 낮을 경우, 그 공격 몬스터를 파과한다.
+  | ko_text               = 수비 표시의 이 카드를 공격한 몬스터의 공격력이 이 카드의 수비력 보다 낮을 경우, 그 공격 몬스터를 파괴한다.
   | sc_text               = ①：伤害计算时，攻击守备表示的此卡的怪兽的攻击力低于此卡的守备力的情况下，伤害步骤结束时发动。将该怪兽破坏。
   | en_sets               = 
   DR2-EN005; Dark Revelation Volume 2; Common
@@ -62,6 +62,7 @@ wikitext: |-
   | jp_sets               = 
   306-005; Controller of Chaos; Common
   EE2-JP005; Expert Edition Volume.2; Common
+  LPG1-JP036; Limited Pack GX: Slifer Red; Ultra Rare
   | ae_sets               = 
   IOC-AE005; Invasion of Chaos; Common
   | kr_sets               = 
