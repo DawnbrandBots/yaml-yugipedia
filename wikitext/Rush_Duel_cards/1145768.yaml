@@ -8,7 +8,7 @@ wikitext: |-
   | image          = PerseveranceoftheMonarchs-RDSD0F-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
   | text           = [[Shuffle]] 3 monsters with 1000 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]]. Then, if you have no cards in your [[Extra Deck]], you can [[destroy]] 1 [[face-up]] monster on your opponent's [[field]].
   | ja_requirement = 
   | ja_text        = 
@@ -16,5 +16,11 @@ wikitext: |-
   RD/SD0F-JP030; Structure Deck: Triumphant Return of the Monarchs; Common
   RD/SD0F-JPS07; Structure Deck: Triumphant Return of the Monarchs; Super Rare
   | archseries     = Monarch (Rush Duel series)
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from your Graveyard to your Deck
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | misc           = Requires having no cards in Extra Deck
   | database_id    = 
   }}

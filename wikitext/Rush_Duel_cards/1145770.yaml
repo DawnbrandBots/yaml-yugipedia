@@ -18,7 +18,7 @@ wikitext: |-
   | materials       = "[[Executie Leir]]" + "[[Executie Prouty]]"
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = [[Draw a card|Draw]] 1 card. Then, this card gains 500 [[ATK]] until the end of this [[turn]]. This turn, you can only [[attack]] with monsters with 500 [[DEF]].
+  | text            = [[Draw a card|Draw]] 1 card. Then, this card gains 500 [[ATK]] until the end of this [[turn]]. This turn, you can only [[attack]] with [[Monster Card|monster]]s that have 500 [[DEF]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -29,5 +29,16 @@ wikitext: |-
   * Executie Leir
   * Executie Prouty
   | archseries      = Executie
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Activates during the turn in which it was Fusion Summoned
+  * You draw cards
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}
