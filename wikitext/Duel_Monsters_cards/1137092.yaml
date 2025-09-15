@@ -1,7 +1,5 @@
-title: Miss Okiku's Dishrithmetic
+title: Okiku's Dish Count
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 阿菊的如意算盘
-  | image               = MissOkikusDishrithmetic-DOOD-JP-NR.png
+  | image               = OkikusDishCount-DOOD-JP-NR.png
   | card_type           = Trap
   | property            = Continuous
   | password            = 89086647
   | effect_types        = Quick-like, Continuous-like, Trigger-like
-  | text                = Once per [[Chain]], when your opponent [[activate]]s a card or [[effect]]: You can place [[Dish Counter]]s on this card equal to the [[Chain Link]] number of this [[effect]]. Apply this effect based on the number of Dish Counters on this card.<br />● 9 or less: Your opponent cannot [[target]] this card with card effects, also it cannot be [[destroy]]ed by your opponent's card effects.<br />● 10 or more: [[Send]] this card to the [[GY]].<br />If this card is sent to the GY by its own effect: You can send the top 10 cards of your [[Main Deck|Deck]] to the GY.
+  | text                = Once per [[Chain]], when your opponent [[activate]]s a card or [[effect]]: You can place [[Dish Counter]]s on this card, equal to the [[Chain Link]] number of this [[effect]]. Apply this effect depending on the number of Dish Counters on this card.<br />● 9 or less: Your opponent cannot [[target]] this card with card effects, also it cannot be [[destroy]]ed by your opponent's card effects.<br />● 10+: [[Send]] this card to the [[GY]].<br />If this card is sent to the GY by its own effect: You can send the top 10 cards of your [[Main Deck|Deck]] to the GY.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,9 +26,21 @@ wikitext: |-
   | ja_text             = ①：相手がカードの効果を発動した時に発動できる（同一チェーン上では１度まで）。この効果の発動時に積まれているチェーンの数だけこのカードにお皿カウンターを置く。②：このカードのお皿カウンターの数によって以下の効果を適用する。<br />●９以下：このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。<br />●１０以上：このカードは墓地へ送られる。<br />③：このカードが自身の効果で墓地へ送られた場合に発動できる。自分のデッキの上からカードを１０枚墓地へ送る。
   | ko_text             = 
   | sc_text             = ①：对手发动卡的效果时可以发动（同一连锁上最多1次）。依此效果发动时累积的连锁数量在此卡上放盘计数物。②：根据此卡的盘计数物的数量，适用以下效果。<br />●9以下：此卡不会因对手的效果被破坏，对手不可将此卡作为效果的对象。<br />●10以上：将此卡送至墓地。<br />③：此卡因自身的效果被送至墓地的情况下可以发动。从自己牌组上面将10张卡送至墓地。
+  | en_sets             = 
+  DOOD-EN080; Doom of Dimensions; Common
+  | fr_sets             = 
+  DOOD-FR080; Doom of Dimensions; Common
+  | de_sets             = 
+  DOOD-DE080; Doom of Dimensions; Common
+  | it_sets             = 
+  DOOD-IT080; Doom of Dimensions; Common
+  | pt_sets             = 
+  DOOD-PT080; Doom of Dimensions; Common
+  | sp_sets             = 
+  DOOD-SP080; Doom of Dimensions; Common
   | jp_sets             = 
   DOOD-JP080; Doom of Dimensions; Normal Rare
-  | sc_sets               = 
+  | sc_sets             = 
   DOOD-SC080; Doom of Dimensions; Common
   | counter             = 
   * Dish Counter

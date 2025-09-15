@@ -1,7 +1,5 @@
-title: Apocaries
+title: Apocavities
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -16,12 +14,12 @@ wikitext: |-
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 默齿录
-  | image                = Apocaries-DOOD-JP-NR.png
+  | image                = Apocavities-DOOD-JP-NR.png
   | card_type            = Spell
   | property             = Continuous
   | password             = 28531163
   | effect_types         = Effect, Ignition-like, Condition
-  | text                 = When this card is [[activate]]d: Place [[Caries Counter]]s on this card equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 Caries Counters from your [[field]]; apply this [[effect]] to that monster based on the number removed.<br />● 1: It loses 500 [[ATK]].<br />● 2: Change its ATK to 0.<br />● 3: [[Negate]] its effects.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocaries" per turn.
+  | text                 = When this card is [[activate]]d: Place [[C Counter]]s on this card, equal to the number of cards your opponent [[control]]s. You can [[target]] 1 [[face-up]] [[monster]] your opponent controls and remove up to 4 C Counters from your [[field]]; apply this [[effect]] to that monster, based on the number removed.<br />● 1: It loses 500 [[ATK]].<br />● 2: Its ATK becomes 0.<br />● 3: Its effects are [[negate]]d.<br />● 4: [[Destroy]] it.<br />You can only activate 1 "Apocavities" per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -30,9 +28,21 @@ wikitext: |-
   | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、相手フィールドのカードの数だけこのカードにＣカウンターを置く。②：相手フィールドの表側表示モンスター１体を対象とし、自分フィールドのＣカウンターを４つまで取り除いて発動できる。取り除いたカウンターの数によって以下の効果をそのモンスターに適用する。<br />●１つ：攻撃力を５００ダウンする。　●２つ：攻撃力を０にする。<br />●３つ：効果を無効にする。　　　　　●４つ：破壊する。
   | ko_text              = 
   | sc_text              = 此卡名的卡1回合仅可发动1张。①：作为此卡发动时的效果处理，依对手场上卡的数量在此卡上放C计数物。②：以对手场上的1只表侧表示怪兽为对象，去除自己场上的最多4个C计数物可以发动。根据去除的计数物的数量对该怪兽适用以下效果。<br />●1个：攻击力下降500。<br />●2个：将攻击力改成0。<br />●3个：将效果无效。<br />●4个：破坏。
+  | en_sets              = 
+  DOOD-EN072; Doom of Dimensions; Common
+  | fr_sets              = 
+  DOOD-FR072; Doom of Dimensions; Common
+  | de_sets              = 
+  DOOD-DE072; Doom of Dimensions; Common
+  | it_sets              = 
+  DOOD-IT072; Doom of Dimensions; Common
+  | pt_sets              = 
+  DOOD-PT072; Doom of Dimensions; Common
+  | sp_sets              = 
+  DOOD-SP072; Doom of Dimensions; Common
   | jp_sets              = 
   DOOD-JP072; Doom of Dimensions; Normal Rare
-  | sc_sets               = 
+  | sc_sets              = 
   DOOD-SC072; Doom of Dimensions; Common
   | counter              = 
   * C Counter
