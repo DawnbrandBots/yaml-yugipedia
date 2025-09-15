@@ -27,19 +27,23 @@ wikitext: |-
   == Members ==
   {| class="wikitable sortable"
   ! scope="col" | Regenesis
+  ! scope="col" | [[Attribute]]
+  ! scope="col" | [[Type]]
   ! scope="col" | Origin
   |-
-  | [[Regenesis Warrior|Warrior]] || [[wikipedia:Book of Genesis|Beresheet]]
+  | [[Regenesis Warrior|Warrior]] || [[FIRE]] [[File:FIRE.svg|24px]] || [[Warrior]] || [[wikipedia:Book of Genesis|Beresheet]]
   |-
-  | [[Regenesis Sage|Sage]] || [[wikipedia:Book of Exodus|Shemot]]
+  | [[Regenesis Sage|Sage]] || [[WATER]] [[File:WATER.svg|24px]] || [[Spellcaster]] || [[wikipedia:Book of Exodus|Shemot]]
   |-
-  | [[Regenesis Dragon|Dragon]] || [[wikipedia:Book of Leviticus|Vayikra]]
+  | [[Regenesis Dragon|Dragon]] || [[WIND]] [[File:WIND.svg|24px]] || [[Dragon]] || [[wikipedia:Book of Leviticus|Vayikra]]
   |-
-  | [[Regenesis Archfiend|Archfiend]] || [[wikipedia:Book of Numbers|Bemidbar]]
+  | [[Regenesis Archfiend|Archfiend]] || [[EARTH]] [[File:EARTH.svg|24px]] || [[Fiend]] || [[wikipedia:Book of Numbers|Bemidbar]]
   |-
-  | [[Regenesis Lord|Lord]] || [[wikipedia:Book of Deuteronomy|Deuteronomion]]
+  | [[Regenesis Lord|Lord]] || [[LIGHT]] [[File:LIGHT.svg|24px]] || [[Illusion]] || [[wikipedia:Book of Deuteronomy|Deuteronomion]]
   |-
-  | [[Regenesis Code|Code]] || [[wikipedia:Torah|Torah]]
+  | [[Regenesis Overlord|Overlord]] || [[DARK]] [[File:DARK.svg|24px]] || [[Illusion]] || [[wikipedia:Book of Deuteronomy|Devarim]]
+  |-
+  | [[Regenesis Code|Code]] ||  ||  || [[wikipedia:Torah|Torah]]
   |}
 
   == Playing style ==
@@ -48,7 +52,7 @@ wikitext: |-
   <!-- This is not an exact Decklist. Do not add multiples or staples.-->
   |effect monsters =
   * [[Regenesis Archfiend]]
-  * [[Regenesis Demiurge]]
+  * [[Regenesis Overlord]]
   * [[Regenesis Dragon]]
   * [[Regenesis Lord]]
   * [[Regenesis Sage]]
