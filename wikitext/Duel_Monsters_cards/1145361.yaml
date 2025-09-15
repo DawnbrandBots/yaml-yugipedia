@@ -34,7 +34,19 @@ wikitext: |-
   | jp_sets             = 
   BPRO-JP016; Burst Protocol; Rare
   | mentions            = Highness Archfiend
+  | supports            = Ritual Monster
   | archseries          = Archfiend
   | supports_archetypes = Archfiend
+  | action              = 
+  * Activates upon Normal Summon
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | summoning           = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to archetype specific monsters
+  * Special Summons itself from your Graveyard
+  | banished            = Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}

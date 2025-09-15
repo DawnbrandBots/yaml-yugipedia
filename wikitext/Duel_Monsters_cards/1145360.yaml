@@ -34,7 +34,17 @@ wikitext: |-
   | jp_sets             = 
   BPRO-JP015; Burst Protocol; 
   | mentions            = Duke Archfiend
+  | supports            = Ritual Monster
   | archseries          = Archfiend
   | supports_archetypes = Archfiend
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | stat_change         = 
+  * This card gains ATK
+  * Your monsters gain Levels
+  | summoning           = Special Summons itself from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
