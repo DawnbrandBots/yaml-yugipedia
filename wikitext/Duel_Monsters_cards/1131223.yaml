@@ -1,7 +1,5 @@
 title: Megalith Phuloch
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -20,8 +18,8 @@ wikitext: |-
   | atk                 = 2000
   | def                 = 300
   | password            = 08805651
-  | effect_types        = Trigger, Quick, Condition
-  | text                = You can [[Ritual Summon]] this card with any "[[Megalith]]" card. If this card is Ritual Summoned: You can [[Add a card|add]] 1 "Megalith" card from your [[GY]] to your [[hand]]. During the [[Main Phase]] ([[Quick Effect]]): You can Ritual Summon 1 "Megalith" [[Ritual Monster]] from your GY, except "Megalith Phuloch", by Tributing monsters from your hand or [[field]], including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this [[effect]] of "Megalith Phuloch" [[once per turn]], and cannot activate both effects of "Megalith Phuloch" in the same Chain.
+  | effect_types        = Condition, Trigger, Quick, Condition
+  | text                = You can [[Ritual Summon]] this card with a "[[Megalith]]" card. You cannot [[activate]] the following [[effect]]s of "Megalith Phuloch" in the same [[Chain]]. If this card is Ritual Summoned: You can [[Add a card|add]] 1 "Megalith" card from your [[GY]] to your [[hand]]. During the [[Main Phase]] ([[Quick Effect]]): You can activate this effect; Ritual Summon 1 "Megalith" [[Ritual Monster]] from your GY, except "Megalith Phuloch", by Tributing monsters from your hand or [[field]], including this card on your field, whose total Levels equal or exceed its Level. You can only use this [[effect]] of "Megalith Phuloch" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,6 +28,18 @@ wikitext: |-
   | ja_text             = 「メガリス」カードにより降臨<br />このカード名の、②の効果は１ターンに１度しか使用できず、①②の効果は同一チェーン上では発動できない。①：このカードが儀式召喚した場合に発動できる。自分の墓地から「メガリス」カード１枚を手札に加える。②：自分・相手のメインフェイズに発動できる。レベルの合計が儀式召喚するモンスターのレベル以上になるように、フィールドのこのカードを含む自分の手札・フィールドのモンスターをリリースし、自分の墓地から「メガリス・フローチュ」以外の「メガリス」儀式モンスター１体を儀式召喚する。
   | ko_text             = 
   | sc_text             = 以“巨石异物”卡降临<br />此卡名的②效果1回合仅可使用1次，①②效果不可在同一连锁上发动。①：此卡仪式召唤的情况下可以发动。从自己墓地将1张“巨石异物”卡加入手牌。②：在自己・对手的主要阶段可以发动。为使合计等级达到仪式召唤的怪兽的等级以上，解放包含场上的此卡在内的自己手牌・场上的怪兽，从自己墓地将“巨石异物・普赫奥尔”以外的1只“巨石异物”仪式怪兽仪式召唤。
+  | en_sets             = 
+  DOOD-EN033; Doom of Dimensions; Common
+  | fr_sets             = 
+  DOOD-FR033; Doom of Dimensions; Common
+  | de_sets             = 
+  DOOD-DE033; Doom of Dimensions; Common
+  | it_sets             = 
+  DOOD-IT033; Doom of Dimensions; Common
+  | pt_sets             = 
+  DOOD-PT033; Doom of Dimensions; Common
+  | sp_sets             = 
+  DOOD-SP033; Doom of Dimensions; Common
   | jp_sets             = 
   DOOD-JP033; Doom of Dimensions; Common
   | sc_sets             = 

@@ -1,7 +1,5 @@
-title: Tragic Twin Threads
+title: Tragic Twin Twined Jewels
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 哀哉玉绳双魂缱绻
-  | image                 = TragicTwinThreads-DOOD-JP-R.png
+  | image                 = TragicTwinTwinedJewels-DOOD-JP-R.png
   | card_type             = Spell
   | property              = Equip
   | password              = 81143465
   | effect_types          = Condition, Trigger-like
-  | text                  = [[Equip]] only to a [[monster]] you [[control]] that was [[Special Summon]]ed from the [[Extra Deck]]. If your opponent Special Summons a monster(s) from the Extra Deck with higher [[ATK]] than the equipped monster: You can [[target]] 1 of them; [[destroy]] it, also the equipped monster, and if you do, take [[Effect damage|damage]] equal to the total [[original ATK]] of the destroyed monsters, then inflict damage to your opponent equal to the damage you took.
+  | text                  = [[Equip]] only to a [[monster]] you [[control]] that was [[Special Summon]]ed from the [[Extra Deck]]. If your opponent Special Summons a monster(s) from the Extra Deck with [[ATK]] higher than the equipped monster (except during the [[Damage Step]]): You can [[target]] 1 of them; [[destroy]] the targeted monster, destroy the equipped monster, and if you destroyed at least one of them, you take [[Effect damage|damage]] equal to their combined [[original ATK]]. Then, inflict damage to your opponent equal to the damage you took.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text               = ＥＸデッキから特殊召喚された自分フィールドのモンスターにのみ装備可能。①：装備モンスターより攻撃力が高いモンスターを相手がＥＸデッキから特殊召喚した場合、その内の１体を対象として発動できる。そのモンスター及び装備モンスターを破壊し、自分は破壊したモンスターの元々の攻撃力の合計分のダメージを受ける。その後、自分が受けたダメージと同じ数値分のダメージを相手に与える。
   | ko_text               = 
   | sc_text               = 仅可装备于自己场上的被从额外牌组特殊召唤的怪兽。①：有攻击力高于装备怪兽的怪兽被对手从额外牌组特殊召唤的情况下，以其中1只为对象可以发动。将该怪兽与装备怪兽破坏，自己受到相当于所破坏怪兽原本攻击力合计数值的伤害。然后，给予对手与自己所受伤害相同数值的伤害。
+  | en_sets               = 
+  DOOD-EN071; Doom of Dimensions; Common
+  | fr_sets               = 
+  DOOD-FR071; Doom of Dimensions; Common
+  | de_sets               = 
+  DOOD-DE071; Doom of Dimensions; Common
+  | it_sets               = 
+  DOOD-IT071; Doom of Dimensions; Common
+  | pt_sets               = 
+  DOOD-PT071; Doom of Dimensions; Common
+  | sp_sets               = 
+  DOOD-SP071; Doom of Dimensions; Common
   | jp_sets               = 
   DOOD-JP071; Doom of Dimensions; Rare
   | sc_sets               = 
