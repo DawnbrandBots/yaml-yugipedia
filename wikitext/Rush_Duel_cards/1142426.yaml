@@ -3,23 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = キャトルヒーラー・アモーレ
-  | romaji_name    = Kyatoru Hīrā Amōre
-  | image          = CattleHealerAmore-RDORP3-JP-OP.png
-  | attribute      = WIND
-  | types          = Warrior / Fusion / Effect
-  | level          = 9
-  | atk            = 2900
-  | def            = 1200
-  | effect_types   = Continuous
-  | materials      = "[[Driving Cattle Healer]]" + 1 [[Level]] 4 or lower [[WIND]] [[Attribute]] [[monster]]
-  | requirement    = None
-  | text           = Neither player takes [[battle damage]] from [[battle]]s involving this card. During your [[turn]], this card gains 200 [[ATK]].
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = キャトルヒーラー・アモーレ
+  | romaji_name     = Kyatoru Hīrā Amōre
+  | image           = CattleHealerAmore-RDORP3-JP-OP.png
+  | attribute       = WIND
+  | types           = Warrior / Fusion / Effect
+  | level           = 9
+  | atk             = 2900
+  | def             = 1200
+  | effect_types    = Continuous
+  | fusion_material = Driving Cattle Healer
+  | materials       = "[[Driving Cattle Healer]]" + 1 [[Level]] 4 or lower [[WIND]] [[Attribute]] [[Monster Card|monster]]
+  | requirement     = None
+  | text            = Neither [[Duelist|player]] [[Damage|take]]s [[battle damage]] from [[battle]]s involving this card. During your [[turn]], this card gains 200 [[ATK]].
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/ORP3-JP071; Over Rush Pack 3; Over Rush Rare
-  | mentions       = Driving Cattle Healer
-  | database_id    = 
+  | mentions        = Driving Cattle Healer
+  | supports        = WIND
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | life_points     = Prevents battle damage
+  | database_id     = 
   }}
