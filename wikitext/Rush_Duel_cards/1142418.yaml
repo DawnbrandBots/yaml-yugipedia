@@ -3,18 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = true
   | ja_name        = {{Ruby|超|ちょう}}{{Ruby|戦|せん}}{{Ruby|士|し}}の{{Ruby|一|いち}}{{Ruby|撃|げき}}
   | romaji_name    = Chōsenshi no Ichigeki
-  | image          = SuperSoldierStrike-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | image          = SuperSoldierStrike-RDORP3-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = You have "[[Black Luster Soldier (Rush Duel)|Black Luster Soldier]]" [[face-up]] on your [[field]].
+  | text           = [[Shuffle]] 1 face-up [[Monster Card|monster]] from your opponent's field into the [[owner]]'s [[Main Deck|Deck]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/ORP3-JP0??; Over Rush Pack 3
+  RD/ORP3-JP039; Over Rush Pack 3; Over Rush Rare
+  | mentions       = Black Luster Soldier (Rush Duel)
   | archseries     = Black Luster Soldier (Rush Duel series)
+  | action         = Returns from your opponent's field to your opponent's Deck
+  | misc           = Requires control of specific card
   | database_id    = 
   }}

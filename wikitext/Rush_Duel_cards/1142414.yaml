@@ -3,21 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = true
   | ja_name        = {{Ruby|混|こん}}{{Ruby|沌|とん}}の{{Ruby|祈|き}}{{Ruby|祷|とう}}{{Ruby|師|し}}
   | romaji_name    = Konton no Kitōshi
-  | image          = ShamanofChaos-OW.png
-  | attribute      = ???
-  | types          = ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = 
+  | image          = ShamanofChaos-RDORP3-JP-OP.png
+  | attribute      = DARK
+  | types          = Spellcaster / Effect
+  | level          = 4
+  | atk            = 500
+  | def            = 1000
+  | requirement    = [[Shuffle]] 2 [[Level]] 4 [[Monster Card|monster]]s with 500 [[ATK]]/1000 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = This card gains 1000 ATK until the end of your opponent's next [[turn]]. Then, you can [[destroy]] 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/ORP3-JP0??; Over Rush Pack 3
+  RD/ORP3-JP035; Over Rush Pack 3; Super Rare
   | archseries     = Black Luster Soldier (Rush Duel series)
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains ATK
+  | m/s/t          = 
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | misc           = Turn limited effects
   | database_id    = 
   }}
