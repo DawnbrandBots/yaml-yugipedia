@@ -3,21 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | rush_duel      = true
   | ja_name        = カオスソードライダー
   | romaji_name    = Kaosusōdoraidā
-  | image          = Chaoswordrider-OW.png
-  | attribute      = ???
-  | types          = ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = 
-  | text           = 
+  | image          = Chaoswordrider-RDORP3-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Fiend / Effect
+  | level          = 4
+  | atk            = 500
+  | def            = 1000
+  | requirement    = [[Reveal]] 1 [[Level]] 4 [[Monster Card|monster]] with 500 [[ATK]]/1000 [[DEF]] in your [[hand]], and [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = This card gains 1000 ATK until the end of your opponent's next [[turn]]. Then, you can make 1 [[face-up]] Level 8 [[Warrior]] [[Type]] [[Ritual Monster]] on your [[field]] gain 1000 ATK until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/ORP3-JP0??; Over Rush Pack 3
+  RD/ORP3-JP033; Over Rush Pack 3; Super Rare
+  | supports       = 
+  * Warrior
+  * Ritual Monster
   | archseries     = Black Luster Soldier (Rush Duel series)
+  | action         = 
+  * Reveals your hand for cost
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
+  * This card gains ATK
+  * Your monsters gain ATK
+  | misc           = 
+  * Turn limited effects
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id    = 
   }}
