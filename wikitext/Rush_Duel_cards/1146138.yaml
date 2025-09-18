@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 4
   | atk            = 500
   | def            = 1000
-  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]] or [[reveal]] 1 [[Level]] 4 [[Monster Card|monster]] with 500 [[ATK]]/1000 [[DEF]] in your hand.
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]], or [[reveal]] 1 [[Level]] 4 [[Monster Card|monster]] with 500 [[ATK]]/1000 [[DEF]] in your hand.
   | text           = Send the top card of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] 1 "[[Black Luster Ritual (Rush Duel)|Black Luster Ritual]]" or "[[Super Soldier Strike]]" from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
@@ -21,5 +21,10 @@ wikitext: |-
   * Black Luster Ritual (Rush Duel)
   * Super Soldier Strike
   | archseries     = Black Luster Soldier (Rush Duel series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Reveals your hand for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id    = 
   }}
