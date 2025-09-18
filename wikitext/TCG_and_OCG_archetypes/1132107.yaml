@@ -121,6 +121,36 @@ wikitext: |-
   # Special Summon "[[R.B. Ga10 Driller]]" to the other zone adjacent to "[[R.B. VALCan Booster]]."
   }}
 
+  ;R.B. Funk Dock
+
+  {{Combo steps
+  | opening = "[[R.B. Funk Dock]]" + 1 card in hand
+  | end     = "[[R.B. The Brute Blues]]" in the Extra Monster Zone pointing to "[[R.B. Shepherd's Crook]]" and "R.B. Lambda Blade", "[[R.B. Funk Dock]]" in the Field Zone, "[[R.B. Next Phase]]" set, and "[[Machina Citadel]]" in Graveyard.
+  | steps   = 
+  # Activate "[[R.B. Funk Dock]]", add "[[R.B. Stage Landing]]" to hand.
+  # Activate "Stage Landing", summon "[[R.B. The Brute Blues]]", add another "Stage Landing"
+  # Activate "Stage Landing", summon "[[R.B. Lambda Cannon]]
+  # Effect of "Lambda Cannon" to remove summon and negate a monster from the opponent's hand.
+  # Trigger "Funk Dock" off "Lambda Cannon" destruction, summon "[[R.B. Lambda Blade]]"
+  # Effect of "Lambda Blade" to send "[[R.B. Ga10 Cutter]]" to Graveyard
+  # Link "The Brute Blues" and "Lambda Blade" into "[[R.B. VALCan Booster]]"
+  # "VALCan Booster" add "[[R.B. Operation Test]]"
+  # "Operation Test" summons "Lambda Cannon", "Lambda Cannon" adds "Ga10 Cutter" to hand
+  # Summon "Ga10 Cutter"
+  # Use "VALCan Booster" to summon "Lambda Blade" and move itself to another zone
+  # "Operation Test" returns "Lambda Blade" to hand and then re-summons it
+  # Link "Ga10 Cutter" into "[[Clockwork Knight]]"
+  # "Clockwork Knight" send "Operation Test" for "[[Clockwork Night]]"
+  # Link "Clockwork Knight" and "Lambda Cannon" into "[[Barricadeborg Blocker]]"
+  # "Barricadeborg" pitch "Clockwork Night"
+  # "Clockwork Night" effect in Graveyard, discarding a card to search for "[[Machina Gearframe]]"
+  # Summon "Gearframe", add "[[Machina Unclaspare]]"
+  # "Unclaspare" effect to send "[[Machina Citadel]]" to Graveyard
+  # Link "Barricadeborg" and a "Machina" into "The Brute Blues" in the Extra Monster Zone
+  # Link "VALCan Booster" and a "Machina" into "[[R.B. Shepherd's Crook]]" in the Main Monster Zone
+  # "Shepherd's Crook" effect to set "[[R.B. Next Phase]]"
+  }}
+
   While the archetype has an Extra Deck-affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can avoid the lock through external methods:
 
   ;2 Monsters
