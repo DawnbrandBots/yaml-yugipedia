@@ -15,21 +15,21 @@ wikitext: |-
   | ko_rr_name      = 
   | sc_name         = 
   | sc_pinyin_name  = 
-  | image           = TreasurePanther-VJMP-JP-OP.png
+  | image           = TreasurePanther-VJMP-JP-UR.png
   | attribute       = EARTH
   | types           = Beast / Flip / Effect
   | level           = 1
   | atk             = 100
   | def             = 100
-  | password        = 
-  | effect_types    = Ignition, Ignition, Trigger, Condition
-  | text            = If a [[Set]] [[monster]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. You can [[target]] up to 3 Set monsters on the field; change them to [[Attack Position]], then if you changed 3 monsters to Attack Position, inflict 900 [[Effect damage|damage]] to your opponent. If this card is flipped [[face-up]]: You can [[send]] 1 [[Normal Monster]] from your [[Main Deck|Deck]] to the [[GY]]. You can only use each [[effect]] of "Treasure Panther" [[once per turn]].
+  | password        = 84824728
+  | effect_types    = Trigger, Ignition, Ignition, Condition
+  | text            = [[FLIP]]: You can [[send]] 1 [[Normal Monster]] from your [[Main Deck|Deck]] to the [[GY]].<br />If a [[Set]] [[monster]] is on the [[field]]: You can [[Special Summon]] this card from your [[hand]]. You can [[target]] up to 3 Set monsters on the field; change them to [[Attack Position]], then if you changed 3 monsters to Attack Position, inflict 900 [[Effect damage|damage]] to your opponent. You can only use each [[effect]] of "Treasure Panther" [[once per turn]].
   | fr_text         = 
   | de_text         = 
   | it_text         = 
   | pt_text         = 
   | es_text         = 
-  | ja_text         = 
+  | ja_text         = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、フィールドに裏側守備表示モンスターが存在する場合に発動できる。このカードを特殊召喚する。②：フィールドの裏側守備表示モンスターを３体まで対象として発動できる。そのモンスターを攻撃表示にする。この効果で３体のモンスターを攻撃表示にした場合、さらに相手に９００ダメージを与える。③：このカードがリバースした場合に発動できる。デッキから通常モンスター１体を墓地へ送る。
   | ko_text         = 
   | sc_text         = 
   | jp_sets         = 
@@ -42,8 +42,6 @@ wikitext: |-
   * Sends from your Deck to your Graveyard
   | summoning       = Special Summons itself from your hand
   | life_points     = Damages your opponent
-  | misc            = 
-  * Only once per turn
-  * Flip monster without a Flip effect
-  | database_id     = 
+  | misc            = Only once per turn
+  | database_id     = 22184
   }}
