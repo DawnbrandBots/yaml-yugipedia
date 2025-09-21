@@ -3,34 +3,49 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = デーモンの{{Ruby|盤上遊戯|ストラテジー}}
-  | romaji_name         = Dēmon no Sutoratejī
-  | translated_name     = Daemon's Strategy
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = ArchfiendsStrategyGame-BPRO-JP-OP.png
-  | card_type           = Spell
-  | property            = Field
-  | password            = 
-  | effect_types        = Effect, Trigger-like, Condition
-  | text                = [[Fiend]] [[monsters]] in the [[Extra Monster Zone]] gain 1000 [[ATK]]. You can [[activate]] 1 of these [[effect]]s;<br />● [[Banish]] 1 Fiend monster or "[[Archfiend]]" card from your [[hand]] or [[GY]]; [[Add a card|add]] 1 "Archfiend" card from your [[Main Deck|Deck]] to your [[hand]], except a [[Field Spell]].<br />● Add 1 "Archfiend" [[Pendulum Monster]] from your Deck to your [[Extra Deck]] face-up.<br />You can only use this [[effect]] of "Archfiend's Strategy Game" [[once per turn]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = デーモンの{{Ruby|盤上遊戯|ストラテジー}}
+  | base_romaji_name     = Dēmon no Banjō Yūgi
+  | base_translated_name = Daemon's Board Game
+  | romaji_name          = Dēmon no Sutoratejī
+  | translated_name      = Daemon's Strategy
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = ArchfiendsStrategyGame-BPRO-JP-OP.png
+  | card_type            = Spell
+  | property             = Field
+  | password             = 
+  | effect_types         = Effect, Trigger-like, Condition
+  | text                 = [[Fiend]] [[monsters]] in the [[Extra Monster Zone]] gain 1000 [[ATK]]. You can [[activate]] 1 of these [[effect]]s;<br />● [[Banish]] 1 Fiend monster or "[[Archfiend]]" card from your [[hand]] or [[GY]]; [[Add a card|add]] 1 "Archfiend" card from your [[Main Deck|Deck]] to your [[hand]], except a [[Field Spell]].<br />● Add 1 "Archfiend" [[Pendulum Monster]] from your Deck to your [[Extra Deck]] face-up.<br />You can only use this [[effect]] of "Archfiend's Strategy Game" [[once per turn]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   BPRO-JP060; Burst Protocol; 
-  | archseries          = Archfiend
-  | supports_archetypes = Archfiend
-  | database_id         = 
+  | supports             = 
+  * Fiend
+  * Pendulum Monster
+  | archseries           = Archfiend
+  | supports_archetypes  = Archfiend
+  | action               = 
+  * Adds from Deck to hand
+  * Adds from Deck to Extra Deck
+  | stat_change          = All monsters gain ATK
+  | banished             = 
+  * Banishes from hand for cost
+  * Banishes from Graveyard for cost
+  | misc                 = 
+  * Variable effects
+  * Only once per turn
+  | database_id          = 
   }}
