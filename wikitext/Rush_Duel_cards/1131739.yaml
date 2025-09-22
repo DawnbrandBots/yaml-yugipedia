@@ -3,35 +3,36 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|真紅眼の冥飛竜|レッドアイズ・プルートワイバーン}}
-  | romaji_name    = Reddoaizu Purūto Waibān
-  | image          = RedEyesPlutoWyvern-RDKP22-JP-UR.png
-  | attribute      = DARK
-  | types          = Dragon / Effect
-  | base_transkated = Red-Eyes Underworld Flying Dragon
-  | level          = 4
-  | atk            = 1000
-  | def            = 1200
-  | condition      = This card's name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" while in the [[hand]] or [[Graveyard]].
-  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text           = Make 1 [[face-up]] [[Effect Monster]] on your opponent's [[field]] lose 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Red-Eyes Pluto Dragon]]" or 1 "[[Calling Dark Meteor]]" from your Graveyard to your hand.
-  | ja_condition   = 手札または墓地にいるこのカードのカード名は「真紅眼の黒竜」になる。
-  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
-  | ja_text        = 相手フィールドの表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで３００ダウンする。その後、自分の墓地の「真紅眼の冥竜」１体または「コーリング・ダーク・メテオ」１枚を選んで手札に加える事ができる。
-  | jp_sets        = 
+  | ja_name              = {{Ruby|真紅眼の冥飛竜|レッドアイズ・プルートワイバーン}}
+  | base_romaji_name     = Shinkugan no Meihiryū
+  | base_translated_name = Red-Eyes Underworld Flying Dragon
+  | romaji_name          = Reddoaizu Purūto Waibān
+  | image                = RedEyesPlutoWyvern-RDKP22-JP-UR.png
+  | attribute            = DARK
+  | types                = Dragon / Effect
+  | level                = 4
+  | atk                  = 1000
+  | def                  = 1200
+  | condition            = This card's name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" while in the [[hand]] or [[Graveyard]].
+  | requirement          = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text                 = Make 1 [[face-up]] [[Effect Monster]] on your opponent's [[field]] lose 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Red-Eyes Pluto Dragon]]" or 1 "[[Calling Dark Meteor]]" from your Graveyard to your hand.
+  | ja_condition         = 手札または墓地にいるこのカードのカード名は「真紅眼の黒竜」になる。
+  | ja_requirement       = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text              = 相手フィールドの表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで３００ダウンする。その後、自分の墓地の「真紅眼の冥竜」１体または「コーリング・ダーク・メテオ」１枚を選んで手札に加える事ができる。
+  | jp_sets              = 
   RD/KP22-JP024; OuTerverSe of Terror; Ultra Rare, Secret Rare, Over Rush Rare
-  | mentions       = 
+  | mentions             = 
   * Red-Eyes Black Dragon (Rush Duel)
   * Red-Eyes Pluto Dragon
   * Calling Dark Meteor
-  | anti-supports  = Effect Monster
-  | archseries     = Red-Eyes (Rush Duel)
-  | action         = 
+  | anti-supports        = Effect Monster
+  | archseries           = Red-Eyes (Rush Duel)
+  | action               = 
   * Sends from the top of your Deck to your Graveyard for cost
   * Adds from Graveyard to hand
-  | stat_change    = 
+  | stat_change          = 
   * Changes own name while in the hand
   * Changes own name while in the GY
   * Your opponent's monsters lose ATK
-  | database_id    = 22000
+  | database_id          = 22000
   }}
