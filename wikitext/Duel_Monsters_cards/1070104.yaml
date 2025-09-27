@@ -34,8 +34,8 @@ wikitext: |-
   | pt_text               = Quando um monstro do oponente declarar um ataque: você pode colocar este monstro na sua Zona de Pêndulo e, se isso acontecer, devolva o monstro do oponente para a mão. Você só pode usar este efeito de "Vulmina, a Estátua do Dragão Sagrado" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.
   | es_pendulum_effect    = Si uno o más monstruos son Invocados de Modo Especial por el efecto de tu Trampa (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; devuélvela a la mano, y después puedes Invocar esta carta de Modo Especial. Sólo puedes usar este efecto de "Vulmina, Estatua del Dragón Sagrado" una vez por turno.
   | es_text               = Cuando un monstruo del adversario declara un ataque: puedes poner este monstruo en tu Zona de Péndulo y, si lo haces, devuelve a la mano el monstruo del adversario. Sólo puedes usar este efecto de "Vulmina, Estatua del Dragón Sagrado" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の罠カードの効果でモンスターが特殊召喚された場合、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。その後、このカードを特殊召喚できる。
+  | ja_text               = このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを自分のＰゾーンに置き、その相手モンスターを手札に戻す。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_text               = 
@@ -57,6 +57,8 @@ wikitext: |-
   | sp_sets               = 
   INFO-SP082; The Infinite Forbidden; Common
   MP25-SP400; 2025 Mega-Pack Tin; Common
+  | jp_sets               =  
+  WPP6-JP057; World Premiere Pack 2025; Common
   | action                = 
   * Activates upon Special Summon
   * Returns from field to hand
