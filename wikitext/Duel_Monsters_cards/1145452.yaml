@@ -32,6 +32,14 @@ wikitext: |-
   BPRO-JP061; Burst Protocol; 
   | archseries          = Fur Hire
   | supports_archetypes = Fur Hire
-  | misc                = Archetype condition
+  | action              = 
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates if destroyed by card effect
+  | stat_change         = Your monsters gain ATK
+  | summoning           = Special Summons from your Deck
+  | misc                = 
+  * Archetype condition
+  * Only once per turn
   | database_id         = 
   }}

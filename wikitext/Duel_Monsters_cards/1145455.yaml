@@ -19,7 +19,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Unclassified, Condition
-  | text                = If you [[control]] no [[monsters]]: [[Special Summon]] 1 [[Level]] 4 or lower monster "[[Fur Hire]]" from your [[Main Deck|Deck]], then if your opponent [[control]]s 2 or more monsters, you can Special Summon 1 monster “Fur Hire” from your Deck, also you cannot Special Summon for the rest of this [[turn]], except monsters "Fur Hire". If you would [[discard]] a card(s) to [[activate]] the [[effect]] of a monster "Fur Hire", you can [[banish]] this card from your GY instead of 1 of those cards. You can only use each effect of "Storm Fur Hire" [[once per turn]].
+  | text                = If you [[control]] no [[monsters]]: [[Special Summon]] 1 [[Level]] 4 or lower monster "[[Fur Hire]]" from your [[Main Deck|Deck]], then if your opponent [[control]]s 2 or more monsters, you can Special Summon 1 monster "Fur Hire" from your Deck, also you cannot Special Summon for the rest of this [[turn]], except monsters "Fur Hire". If you would [[discard]] a card(s) to [[activate]] the [[effect]] of a monster "Fur Hire", you can [[banish]] this card from your GY instead of 1 of those cards. You can only use each effect of "Storm Fur Hire" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,5 +32,13 @@ wikitext: |-
   BPRO-JP062; Burst Protocol; 
   | archseries          = Fur Hire
   | supports_archetypes = Fur Hire
+  | action              = Changes cost
+  | summoning           = 
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons to archetype specific monsters
+  | banished            = Banishes itself from Graveyard
+  | misc                = 
+  * Requires control of no monsters
+  * Only once per turn
   | database_id         = 
   }}
