@@ -1,17 +1,19 @@
 title: Roll 'n' Boost
 wikitext: |-
   {{Duel Links Skill
-  | fr_name     = Roll 'n' Boost
-  | ja_name     = ダイスdeレベリング
-  | text        = Can be used each time your [[Life Points]] decrease by 2000.<br />[[Reveal|Show]] 1 [[Monster Card|monster card]] in your [[hand]] to the opponent and [[die roll|roll the die]] once.<br />The [[Level]] of the monster shown becomes that of the die number until the end of the [[turn]].
-  | fr_text     = Compétence qui peut être utilisée à chaque fois que vos Life Points diminuent de 2 000.<br />Révélez 1 Carte Monstre de votre main à l'adversaire et lancez un dé.<br />Le niveau du monstre révélé devient le nombre donné par le dé jusqu'à la fin du tour.
-  | ja_text     = 自分のライフポイントが2000減る毎に使用できる。手札のモンスターカードを1枚相手に見せ、サイコロを1回振る。ターン終了時までこのモンスターのレベルは出た目と同じになる。
-  | releases    = 
+  | fr_name         = Roll 'n' Boost
+  | ja_name         = ダイスｄｅレベリング
+  | romaji_name     = Daisu De Reberingu
+  | translated_name = Dice de Leveling
+  | text            = Can be used each time your [[Life Points]] decrease by 2000.<br />[[Reveal|Show]] 1 [[Monster Card|monster card]] in your [[hand]] to the opponent and [[die roll|roll the die]] once.<br />The [[Level]] of the monster shown becomes that of the die number until the end of the [[turn]].
+  | fr_text         = Compétence qui peut être utilisée à chaque fois que vos Life Points diminuent de 2 000.<br />Révélez 1 Carte Monstre de votre main à l'adversaire et lancez un dé.<br />Le niveau du monstre révélé devient le nombre donné par le dé jusqu'à la fin du tour.
+  | ja_text         = 自分のライフポイントが２０００減る毎に使用できる。手札のモンスターカードを１枚相手に見せ、サイコロを１回振る。ターン終了時までこのモンスターのレベルは出た目と同じになる。
+  | releases        = 
   {{Duel Links Skill release table|type=duel_reward|Joey Wheeler (Duel Links)}}
   {{Duel Links Skill release table|type=duel_reward|Duke Devlin (Duel Links)}}
-  | action      = Reveals your hand for effect
-  | stat_change = 
+  | action          = Reveals your hand for effect
+  | stat_change     = 
   * Changes Levels
   * Modifies the Levels of monsters in the hand
-  | misc        = Die roll
+  | misc            = Die roll
   }}
