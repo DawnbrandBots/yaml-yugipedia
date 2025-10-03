@@ -1,75 +1,76 @@
 title: Wiretap
 wikitext: |-
   {{CardTable2
-  | fr_name      = Mouchard Électronique
-  | de_name      = Abhören
-  | it_name      = Microspia
-  | ko_name      = 도청
-  | pt_name      = Escuta
-  | es_name      = Intervención Telefónica
-  | ja_name      = ギャクタン
-  | romaji_name  = Gyakutan
-  | sc_name      = 发讯追踪
-  | image        = Wiretap-DLCS-EN-C-1E.png
-  | card_type    = Trap
-  | property     = Counter
-  | password     = 34507039
-  | effect_types = Activation requirement, Effect
-  | text         = When a [[Trap Card|Trap]] is [[activate]]d: [[Negate]] the activation, and if you do, [[shuffle]] that card into the [[Main Deck|Deck]].
-  | fr_text      = Lorsqu'un Piège est activé : annulez l'activation, et si vous le faites, mélangez la carte dans le Deck.
-  | de_text      = Wenn eine Falle aktiviert wird: Annulliere die Aktivierung und falls du dies tust, mische die Karte ins Deck.
-  | it_text      = Quando viene attivata una Trappola: annulla l'attivazione e, se lo fai, mischia quella carta nel Deck.
-  | pt_text      = Quando uma Armadilha for ativada: negue a ativação e, se isso acontecer, embaralhe esse card no Deck.
-  | es_text      = Cuando una Trampa es activada: niega la activación y, si lo haces, baraja esa carta al Deck.
-  | ja_text      = ①：罠カードが発動した時に発動できる。その発動を無効にし、そのカードをデッキに戻す。
-  | ko_text      = ①: 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고, 그 카드를 주인의 덱으로 되돌린다.
-  | sc_text      = ①：陷阱卡发动时可以发动。将该发动无效，将该卡放回持有者的牌组。
-  | en_sets      = 
+  | fr_name            = Mouchard Électronique
+  | de_name            = Abhören
+  | it_name            = Microspia
+  | ko_name            = 도청
+  | pt_name            = Escuta
+  | es_name            = Intervención Telefónica
+  | ja_name            = ギャクタン
+  | romaji_name        = Gyakutan
+  | sc_name            = 发讯追踪
+  | sc_translated_name = Signal Tracking
+  | image              = Wiretap-DLCS-EN-C-1E.png
+  | card_type          = Trap
+  | property           = Counter
+  | password           = 34507039
+  | effect_types       = Activation requirement, Effect
+  | text               = When a [[Trap Card|Trap]] is [[activate]]d: [[Negate]] the activation, and if you do, [[shuffle]] that card into the [[Main Deck|Deck]].
+  | fr_text            = Lorsqu'un Piège est activé : annulez l'activation, et si vous le faites, mélangez la carte dans le Deck.
+  | de_text            = Wenn eine Falle aktiviert wird: Annulliere die Aktivierung und falls du dies tust, mische die Karte ins Deck.
+  | it_text            = Quando viene attivata una Trappola: annulla l'attivazione e, se lo fai, mischia quella carta nel Deck.
+  | pt_text            = Quando uma Armadilha for ativada: negue a ativação e, se isso acontecer, embaralhe esse card no Deck.
+  | es_text            = Cuando una Trampa es activada: niega la activación y, si lo haces, baraja esa carta al Deck.
+  | ja_text            = ①：罠カードが発動した時に発動できる。その発動を無効にし、そのカードをデッキに戻す。
+  | ko_text            = ①: 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고, 그 카드를 주인의 덱으로 되돌린다.
+  | sc_text            = ①：陷阱卡发动时可以发动。将该发动无效，将该卡放回持有者的牌组。
+  | en_sets            = 
   DRLG-EN035; Dragons of Legend; Super Rare
   OP02-EN027; OTS Tournament Pack 2; Common
   DRL3-EN054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-EN054; Duel Devastator; Ultra Rare
   DLCS-EN037; Dragons of Legend: The Complete Series; Common
-  | fr_sets      = 
+  | fr_sets            = 
   DRLG-FR035; Dragons of Legend; Super Rare
   OP02-FR027; OTS Tournament Pack 2; Common
   DRL3-FR054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-FR054; Duel Devastator; Ultra Rare
   DLCS-FR037; Dragons of Legend: The Complete Series; Common
-  | de_sets      = 
+  | de_sets            = 
   DRLG-DE035; Dragons of Legend; Super Rare
   OP02-DE027; OTS Tournament Pack 2; Common
   DRL3-DE054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-DE054; Duel Devastator; Ultra Rare
   DLCS-DE037; Dragons of Legend: The Complete Series; Common
-  | it_sets      = 
+  | it_sets            = 
   DRLG-IT035; Dragons of Legend; Super Rare
   OP02-IT027; OTS Tournament Pack 2; Common
   DRL3-IT054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-IT054; Duel Devastator; Ultra Rare
   DLCS-IT037; Dragons of Legend: The Complete Series; Common
-  | pt_sets      = 
+  | pt_sets            = 
   DRLG-PT035; Dragons of Legend; Super Rare
   OP02-PT027; OTS Tournament Pack 2; Common
   DRL3-PT054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-PT054; Duel Devastator; Ultra Rare
   DLCS-PT037; Dragons of Legend: The Complete Series; Common
-  | sp_sets      = 
+  | sp_sets            = 
   DRLG-SP035; Dragons of Legend; Super Rare
   OP02-SP027; OTS Tournament Pack 2; Common
   DRL3-SP054; Dragons of Legend: Unleashed; Ultra Rare
   DUDE-SP054; Duel Devastator; Ultra Rare
   DLCS-SP037; Dragons of Legend: The Complete Series; Common
-  | jp_sets      = 
+  | jp_sets            = 
   CPL1-JP035; Collectors Pack: Duelist of Legend Version; Common
   24EP-JP215; Event Pack 2024 Vol.2; Common, Normal Parallel Rare
-  | ja_sets      = 
+  | ja_sets            = 
   CPL1-JA035; Collectors Pack: Duelist of Legend Version; Common
-  | kr_sets      = 
+  | kr_sets            = 
   CPL1-KR035; Collectors Pack: Duelist of Legend Version; Common
-  | sc_sets      = 
+  | sc_sets            = 
   ST21-SCP19; Starter Deck 2021 Special Pack; Super Rare
-  | action       = Returns negated activations to Deck
-  | m/s/t        = Negates the activation of Trap Cards
-  | database_id  = 11180
+  | action             = Returns negated activations to Deck
+  | m/s/t              = Negates the activation of Trap Cards
+  | database_id        = 11180
   }}

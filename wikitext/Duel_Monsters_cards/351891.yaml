@@ -1,83 +1,84 @@
 title: Chicken Game
 wikitext: |-
   {{CardTable2
-  | fr_name         = Jeu de la Poule-mouillée
-  | de_name         = Hemmung!
-  | it_name         = Gioco del Coniglio
-  | pt_name         = Jogo da Galinha
-  | es_name         = Juego de la Gallina
-  | ja_name         = チキンレース
-  | romaji_name     = Chikinrēsu
-  | translated_name = Chicken Race
-  | ko_name         = 치킨게임
-  | ko_rr_name      = Chikingeim
-  | sc_name         = 试胆竞速
-  | image           = 
+  | fr_name            = Jeu de la Poule-mouillée
+  | de_name            = Hemmung!
+  | it_name            = Gioco del Coniglio
+  | pt_name            = Jogo da Galinha
+  | es_name            = Juego de la Gallina
+  | ja_name            = チキンレース
+  | romaji_name        = Chikinrēsu
+  | translated_name    = Chicken Race
+  | ko_name            = 치킨게임
+  | ko_rr_name         = Chikingeim
+  | sc_name            = 试胆竞速
+  | sc_translated_name = Chicken Race
+  | image              = 
   1;   ChickenGame-RC02-JP-ScR.png;   ChickenGame-MADU-JP-VG-artwork.png
   1.1; ChickenGame-CORE-EN-SP-1E.png; ChickenGame-MADU-EN-VG-artwork.png
-  | current_image   = 1.1
-  | card_type       = Spell
-  | property        = Field
-  | password        = 67616300
-  | effect_types    = Continuous-like, Ignition-like, Condition
-  | text            = The player with the lowest [[LP]] takes no [[damage]]. [[Once per turn]], during the [[Main Phase]]: The [[turn player]] can [[pay]] 1000 LP, then [[activate]] 1 of these [[effect]]s;<br />● [[Draw a card|Draw]] 1 card.<br />● [[Destroy]] this card.<br />● Your opponent gains 1000 LP.<br />Neither player can activate cards or effects in [[Respond|response]] to this effect's activation.
-  | fr_text         = Le joueur avec le moins de LP ne reçoit aucun dommage. Une fois par tour, durant la Main Phase : le joueur du tour peut payer 1000 LP, puis activez 1 de ces effets ;<br />● Piochez 1 carte.<br />● Détruisez cette carte.<br />● Votre adversaire gagne 1000 LP.<br />Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet.
-  | de_text         = Der Spieler mit den niedrigsten LP erhält keinen Schaden. Einmal pro Spielzug, während der Main Phase: Der Zugspieler kann 1000 LP zahlen und dann 1 dieser Effekte aktivieren;<br />● Ziehe 1 Karte.<br />● Zerstöre diese Karte.<br />● Dein Gegner erhält 1000 LP.<br />Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.
-  | it_text         = Il giocatore con i LP più bassi non subisce danni. Una volta per turno, durante la Main Phase: il giocatore di turno può pagare 1000 LP, poi attivare 1 di questi effetti;<br />● Pesca 1 carta.<br />● Distruggi questa carta.<br />● Il tuo avversario guadagna 1000 LP.<br />Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.
-  | pt_text         = O duelista com menos PV não sofre dano. Uma vez por turno, durante a Fase Principal: o duelista do turno pode pagar 1000 PV e, depois, ative 1 desses efeitos;<br />● Compre 1 card.<br />● Destrua este card.<br />● Seu oponente ganha 1000 PV.<br />Nenhum duelista pode ativar cards ou efeitos em resposta à ativação deste efeito.
-  | es_text         = El jugador con los LP más bajos no recibe daño. Una vez por turno, durante la Main Phase: el jugador en turno puede pagar 1000 LP, y después activa 1 de estos efectos;<br />● Roba 1 carta.<br />● Destruye esta carta.<br />● Tu adversario gana 1000 LP.<br />Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.
-  | ja_text         = ①：このカードがフィールドゾーンに存在する限り、相手よりＬＰが少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自分メインフェイズに１０００ＬＰを払って以下の効果から１つを選択して発動できる。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。<br />●デッキから１枚ドローする。<br />●このカードを破壊する。<br />●相手は１０００ＬＰ回復する。
-  | ko_text         = ①: 이 카드가 필드 존에 존재하는 한, 상대보다 LP가 적은 플레이어가 받는 모든 데미지는 0 이 된다. ②: 양쪽의 플레이어는 1턴에 1번, 자신 메인 페이즈에 1000 LP를 지불하고 이하의 효과에서 1개를 선택하여 발동할 수 있다. 이 효과의 발동에 대하여, 양쪽의 플레이어는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다.<br />●덱에서 1장 드로우한다.<br />●이 카드를 파괴한다.<br />●상대는 1000 LP 회복한다.
-  | sc_text         = ①：只要此卡存在于场地区域，LP少于对手的玩家将受到的所有伤害变为０。<br />②：双方玩家１回合１次，在自己的主要阶段支付１０００LP，可从以下效果中选择１个发动。应对此效果的发动，双方不可发动魔法・陷阱・怪兽的效果。<br />●从牌组抽１张。<br />●将此卡破坏。<br />●对手恢复１０００LP。
-  | en_sets         = 
+  | current_image      = 1.1
+  | card_type          = Spell
+  | property           = Field
+  | password           = 67616300
+  | effect_types       = Continuous-like, Ignition-like, Condition
+  | text               = The player with the lowest [[LP]] takes no [[damage]]. [[Once per turn]], during the [[Main Phase]]: The [[turn player]] can [[pay]] 1000 LP, then [[activate]] 1 of these [[effect]]s;<br />● [[Draw a card|Draw]] 1 card.<br />● [[Destroy]] this card.<br />● Your opponent gains 1000 LP.<br />Neither player can activate cards or effects in [[Respond|response]] to this effect's activation.
+  | fr_text            = Le joueur avec le moins de LP ne reçoit aucun dommage. Une fois par tour, durant la Main Phase : le joueur du tour peut payer 1000 LP, puis activez 1 de ces effets ;<br />● Piochez 1 carte.<br />● Détruisez cette carte.<br />● Votre adversaire gagne 1000 LP.<br />Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet.
+  | de_text            = Der Spieler mit den niedrigsten LP erhält keinen Schaden. Einmal pro Spielzug, während der Main Phase: Der Zugspieler kann 1000 LP zahlen und dann 1 dieser Effekte aktivieren;<br />● Ziehe 1 Karte.<br />● Zerstöre diese Karte.<br />● Dein Gegner erhält 1000 LP.<br />Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.
+  | it_text            = Il giocatore con i LP più bassi non subisce danni. Una volta per turno, durante la Main Phase: il giocatore di turno può pagare 1000 LP, poi attivare 1 di questi effetti;<br />● Pesca 1 carta.<br />● Distruggi questa carta.<br />● Il tuo avversario guadagna 1000 LP.<br />Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.
+  | pt_text            = O duelista com menos PV não sofre dano. Uma vez por turno, durante a Fase Principal: o duelista do turno pode pagar 1000 PV e, depois, ative 1 desses efeitos;<br />● Compre 1 card.<br />● Destrua este card.<br />● Seu oponente ganha 1000 PV.<br />Nenhum duelista pode ativar cards ou efeitos em resposta à ativação deste efeito.
+  | es_text            = El jugador con los LP más bajos no recibe daño. Una vez por turno, durante la Main Phase: el jugador en turno puede pagar 1000 LP, y después activa 1 de estos efectos;<br />● Roba 1 carta.<br />● Destruye esta carta.<br />● Tu adversario gana 1000 LP.<br />Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.
+  | ja_text            = ①：このカードがフィールドゾーンに存在する限り、相手よりＬＰが少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自分メインフェイズに１０００ＬＰを払って以下の効果から１つを選択して発動できる。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。<br />●デッキから１枚ドローする。<br />●このカードを破壊する。<br />●相手は１０００ＬＰ回復する。
+  | ko_text            = ①: 이 카드가 필드 존에 존재하는 한, 상대보다 LP가 적은 플레이어가 받는 모든 데미지는 0 이 된다. ②: 양쪽의 플레이어는 1턴에 1번, 자신 메인 페이즈에 1000 LP를 지불하고 이하의 효과에서 1개를 선택하여 발동할 수 있다. 이 효과의 발동에 대하여, 양쪽의 플레이어는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다.<br />●덱에서 1장 드로우한다.<br />●이 카드를 파괴한다.<br />●상대는 1000 LP 회복한다. 
+  | sc_text            = ①：只要此卡存在于场地区域，LP少于对手的玩家将受到的所有伤害变为０。②：双方玩家１回合１次，在自己的主要阶段支付１０００LP，可从以下效果中选择１个发动。应对此效果的发动，双方不可发动魔法・陷阱・怪兽的效果。<br />●从牌组抽１张。<br />●将此卡破坏。<br />●对手恢复１０００LP。 
+  | en_sets            = 
   CORE-EN067; Clash of Rebellions; Short Print
   OP26-EN010; OTS Tournament Pack 26; Super Rare
-  | fr_sets         = 
+  | fr_sets            = 
   CORE-FR067; Clash of Rebellions; Short Print
   OP26-FR010; OTS Tournament Pack 26; Super Rare
-  | de_sets         = 
+  | de_sets            = 
   CORE-DE067; Clash of Rebellions; Short Print
   OP26-DE010; OTS Tournament Pack 26; Super Rare
-  | it_sets         = 
+  | it_sets            = 
   CORE-IT067; Clash of Rebellions; Short Print
   OP26-IT010; OTS Tournament Pack 26; Super Rare
-  | pt_sets         = 
+  | pt_sets            = 
   CORE-PT067; Clash of Rebellions; Short Print
   OP26-PT010; OTS Tournament Pack 26; Super Rare
-  | sp_sets         = 
+  | sp_sets            = 
   CORE-SP067; Clash of Rebellions; Short Print
   OP26-SP010; OTS Tournament Pack 26; Super Rare
-  | jp_sets         = 
+  | jp_sets            = 
   CORE-JP067; Clash of Rebellions; Normal Rare
   SD31-JP029; Structure Deck: Pendulum Evolution; Common
   RC02-JP047; Rarity Collection 20th Anniversary Edition; Super Rare, Secret Rare, Collector's Rare
-  | ae_sets               = 
+  | ae_sets                  = 
   24AT-AE522; Tournament Pack 2024 Vol.5 (Asian-English); Common
-  | kr_sets         = 
+  | kr_sets            = 
   CORE-KR067; Clash of Rebellions; Normal Rare
   SD31-KR029; Structure Deck: Pendulum Evolution; Common
   RC02-KR047; Rarity Collection 20th Anniversary Edition; Super Rare, Secret Rare
-  | sc_sets         = 
+  | sc_sets            = 
   22RC-SC048; Rarity Collection 20th Anniversary Edition; Super Rare, Secret Rare, Collector's Rare
   TM03-SC100; Theme Pack: Dragon Sword Trail; Common
-  | action          = 
+  | action             = 
   * You draw cards
   * Your opponent draws cards
-  | m/s/t           = 
+  | m/s/t              = 
   * Prevents activation of Effect Monsters
   * Prevents activation of Spell Cards
   * Prevents activation of Trap Cards
   * Destroys itself
   * Prevents responding to its activation
-  | life_points     = 
+  | life_points        = 
   * Prevents battle damage
   * Prevents effect damage
   * Pays Life Points for cost
   * Your opponent pays Life Points for cost
   * You gain Life Points
   * Your opponent gains Life Points
-  | misc            = 
+  | misc               = 
   * Limited activations
   * Variable effects
-  | database_id     = 11851
+  | database_id        = 11851
   }}
