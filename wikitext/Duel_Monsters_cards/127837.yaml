@@ -3,12 +3,13 @@ wikitext: |-
   {{CardTable2
   | fr_name      = Malédiction d'Invocation
   | de_name      = Beschwörungsfluch
-  | ko_name      = 소환의 주술
   | it_name      = Maledizione dell'Evocazione
   | pt_name      = Maldição da Invocação
   | es_name      = Maldición de la Invocación
   | ja_name      = {{Ruby|召|しょう}}{{Ruby|喚|かん}}の{{Ruby|呪|じゅ}}{{Ruby|詛|そ}}
   | romaji_name  = Shōkan no Juso
+  | ko_name      = 소환의 주술
+  | sc_name      = 召唤的诅咒
   | image        = SummoningCurse-RA03-EN-SR-1E.png
   | card_type    = Spell
   | property     = Continuous
@@ -22,6 +23,7 @@ wikitext: |-
   | es_text      = Si uno o más monstruos son Invocados de Modo Especial: el controlador actual de ese o esos monstruos destierra 1 carta en su mano. Una vez por turno, durante tu End Phase, paga 500 LP o destruye esta carta.
   | ja_text      = このカードのコントローラーは自分のエンドフェイズ毎に５００ライフポイントを払う。または、５００ライフポイント払わずにこのカードを破壊する。このカードがフィールド上に存在する場合にモンスターが特殊召喚に成功した時、そのモンスターのコントローラーは手札を１枚選択してゲームから除外する。
   | ko_text      = 이 카드의 컨트롤러는 자신의 엔드 페이즈마다 500 라이프 포인트를 지불한다. 또한, 500 라이프 포인트를 지불하지 않고 이 카드를 파괴한다. 이 카드가 필드 위에 존재할 경우에 몬스터가 특수 소환에 성공했을 때, 그 몬스터의 컨트롤러는 패를 1장 선택하고 게임에서 제외한다.
+  | sc_text      = 此卡的控制者每当到自己的结束阶段，支付500LP或将此卡破坏。①：每当有怪兽被特殊召唤则发动。拥有该被特殊召唤的怪兽的控制权的玩家挑选自身的1张手牌除外。
   | en_sets      = 
   DREV-EN061; Duelist Revolution; Short Print
   OP01-EN026; OTS Tournament Pack 1; Common
@@ -47,10 +49,12 @@ wikitext: |-
   RA03-SP057; Quarter Century Bonanza; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Quarter Century Secret Rare, Ultimate Rare, Collector's Rare
   | jp_sets      = 
   DREV-JP061; Duelist Revolution; Normal Rare
-  | ae_sets               = 
+  | ae_sets      = 
   25AT-AE316; Tournament Pack 2025 Vol.3 (Asian-English); Common
   | kr_sets      = 
   DREV-KR061; Duelist Revolution; Normal Rare
+  | sc_sets      = 
+  25SP-SC303; Entry Pack 2025 Vol.3; Super Rare
   | m/s/t        = Destroys itself
   | action       = Activates upon Special Summon
   | banished     = 
