@@ -4,11 +4,12 @@ wikitext: |-
   | fr_name       = Perdez 1 Tour
   | de_name       = Einmal aussetzen
   | it_name       = Perdi 1 Turno
-  | ko_name       = 일회쉬기
   | pt_name       = Perder 1 Turno
   | es_name       = Pierde 1 Turno
   | ja_name       = {{Ruby|一|いっ}}{{Ruby|回|かい}}{{Ruby|休|やす}}み
   | romaji_name   = Ikkai Yasumi
+  | ko_name       = 일회쉬기
+  | sc_name       = 休息一回
   | image         = 
   1;   Lose1Turn-CROS-JP-R.png;    Lose1Turn-MADU-JP-VG-artwork.png
   1.1; Lose1Turn-MAGO-EN-R-1E.png; Lose1Turn-MADU-EN-VG-artwork.png
@@ -25,6 +26,7 @@ wikitext: |-
   | es_text       = Sólo puedes activar esta carta si en este momento no controlas monstruos Invocados de Modo Especial. Mientras un monstruo está boca arriba en el Campo, niega sus efectos durante el turno en que ese monstruo fue Invocado de Modo Especial. Si uno o más Monstruos de Efecto son Invocados de Modo Especial en Posición de Ataque: cámbialo a Posición de Defensa.
   | ja_text       = 特殊召喚されたモンスターが自分フィールドに存在しない場合にこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、特殊召喚されたモンスターは、そのターン終了時まで効果が無効化される。②：効果モンスターが攻撃表示で特殊召喚された場合にこの効果を発動する。そのモンスターを守備表示にする。
   | ko_text       = 특수 소환된 몬스터가 자신 필드에 존재하지 않을 경우에 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 특수 소환된 몬스터는, 그 턴 종료시까지 효과가 무효화된다. ②: 효과 몬스터가 공격 표시로 특수 소환되었을 경우에 이 효과를 발동한다. 그 몬스터를 수비 표시로 한다.
+  | sc_text       = 自己场上不存在被特殊召唤的怪兽的情况下可以发动此卡。①：只要此卡存在于魔法与陷阱区域，被特殊召唤的怪兽直至该回合结束时为止效果无效化。②：效果怪兽被以攻击表示特殊召唤的情况下发动。将该怪兽改成守备表示。
   | en_sets       = 
   CROS-EN075; Crossed Souls; Ultra Rare
   AP08-EN013; Astral Pack Eight; Super Rare
@@ -57,11 +59,13 @@ wikitext: |-
   MAGO-SP160; Maximum Gold; Rare
   | jp_sets       = 
   CROS-JP075; Crossed Souls; Rare
-  | ae_sets               = 
+  | ae_sets       = 
   25AT-AE304; Tournament Pack 2025 Vol.3 (Asian-English); Super Rare
   | kr_sets       = 
   CROS-KR075; Crossed Souls; Rare
   DOOD-KRS20; Doom of Dimensions +1 Assist Pack; Ultra Rare
+  | sc_sets       = 
+  25SP-SC322; Entry Pack 2025 Vol.3; Common
   | anti-supports = Effect Monster
   | action        = Changes battle positions
   | m/s/t         = Negates the effects of Effect Monsters
