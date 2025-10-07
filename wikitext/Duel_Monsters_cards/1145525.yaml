@@ -29,7 +29,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP063; Burst Protocol; 
+  | supports            = 
+  * DARK
+  * Fairy
+  * Fusion Monster
   | archseries          = Darklord
   | supports_archetypes = Darklord
+  | anti-supports_archetypes = Darklord
+  | action              = 
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  | stat_change         = Your monsters gain ATK
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished            = 
+  * Banishes from your hand
+  * Banishes from your field
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}

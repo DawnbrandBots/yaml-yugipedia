@@ -17,6 +17,7 @@ wikitext: |-
   | link_arrows         = Middle-Left, Bottom-Center, Bottom-Right
   | atk                 = 1500
   | password            = 80071619
+  | materials           = 2+ monsters, including an "R.B." monster
   | effect_types        = Continuous, Condition, Ignition, Quick
   | text                = 2+ [[monsters]], including an "[[R.B.]]" monster<br />Gains 500 [[ATK]] for each monster you [[control]], except this card. You can only use each of the following [[effect]]s of "R.B. Shepherd's Crook" [[once per turn]]. During your [[Main Phase]]: You can [[Set]] 1 "R.B." [[Trap]] from your [[Main Deck|Deck]] or [[GY]]. During your opponent's Main Phase ([[Quick Effect]]): You can [[target]] 3 [[Level]] 3 or higher "R.B." monsters in your GY; place 2 on the bottom of the Deck in any order, and if you do, [[Special Summon]] the other in [[Defense Position]].
   | fr_text             = 2+ monstres (un monstre "R.B." inclus)<br />Gagne 500 ATK pour chaque monstre que vous contrôlez (cette carte exclue). Vous ne pouvez utiliser chacun des effets suivants de "Bâton de Berger R.B." qu'une fois par tour. Durant votre Main Phase : vous pouvez Poser 1 Piège "R.B." depuis votre Deck ou Cimetière. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 3 monstres "R.B." de min. Niveau 3 dans votre Cimetière ; placez-en 2 au-dessous du Deck dans l'ordre de votre choix, et si vous le faites, Invoquez Spécialement l'autre en Position de Défense.
@@ -41,5 +42,15 @@ wikitext: |-
   DOOD-SP093; Doom of Dimensions; Ultra Rare, Starlight Rare
   | archseries          = R.B.
   | supports_archetypes = R.B.
+  | stat_change         = This card gains ATK
+  | action              = 
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 22075
   }}

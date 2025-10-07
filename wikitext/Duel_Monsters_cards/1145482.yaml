@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Normal
   | password            = 43450363
   | effect_types        = Effect, Lingering, Quick-like, Condition
-  | text                = Special Summon 1 "R.B." monster from your Deck, Extra Deck, or GY, with a different name than the cards you control. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Machine monsters with 1500 or less ATK. When your opponent activates a card or effect that targets an "R.B." monster(s) you control: You can banish this card from your GY; negate that effect. You can only use 1 "R.B. Last Stand" effect per turn, and only once that turn.
+  | text                = [[Special Summon]] 1 "[[R.B.]]" [[monster]] from your [[Main Deck|Deck]], [[Extra Deck]], or [[GY]], with a different name than the cards you [[control]]. For the rest of this [[turn]] after this card [[resolve]]s, you cannot Special Summon from the Extra Deck, except [[Machine]] monsters with 1500 or less [[ATK]]. When your opponent [[activate]]s a card or [[effect]] that [[target]]s an "R.B." monster(s) you control: You can [[banish]] this card from your GY; [[negate]] that effect. You can only use 1 "R.B. Last Stand" effect per turn, and [[once per turn|only once that turn]].
   | fr_text             = Invoquez Spécialement 1 monstre "R.B." depuis votre Deck, Extra Deck ou Cimetière, de nom différent des cartes que vous contrôlez. Le reste de ce tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (monstres Machine avec max. 1500 ATK exclus) depuis l'Extra Deck. Lorsque votre adversaire active une carte ou un effet qui cible un ou plusieurs monstres "R.B." que vous contrôlez : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'effet. Vous ne pouvez utiliser qu'1 effet de "Baroud d'Honneur R.B." par tour, et uniquement une fois le tour.
   | de_text             = Beschwöre 1 „R.B.“-Monster mit einem unterschiedlichen Namen als die Karten, die du kontrollierst, als Spezialbeschwörung von deinem Deck, Extra Deck oder Friedhof. Für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kannst du keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Maschine-Monstern mit 1500 oder weniger ATK. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr „R.B.“-Monster, die du kontrollierst, als Ziel wählt: Du kannst diese Karte von deinem Friedhof verbannen; annulliere jenen Effekt. Du kannst nur 1 Effekt von „Letztes R.B.-Gefecht“ pro Spielzug verwenden und in jenem Spielzug nur einmal.
   | it_text             = Evoca Specialmente dal tuo Deck, Extra Deck, o Cimitero 1 mostro "R.B." con un nome diverso dalle carte che controlli. Per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri Macchina con ATK 1500 o inferiore. Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio uno o più mostri "R.B." che controlli: puoi bandire questa carta dal tuo Cimitero; annulla quell'effetto. Puoi utilizzare solo 1 effetto di "Ultima Resistenza R.B." per turno, e solo una volta in quel turno.
@@ -38,7 +38,25 @@ wikitext: |-
   DOOD-PT095; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP095; Doom of Dimensions; Common
+  | supports            = Machine
   | archseries          = R.B.
   | supports_archetypes = R.B.
+  | action              = 
+  * Activates from your Graveyard
+  * Activates if targeted by card effect
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Restricts the player's Special Summons to ATK specific monsters
+  | misc                = 
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id         = 22077
   }}

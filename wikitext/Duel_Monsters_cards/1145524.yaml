@@ -20,6 +20,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 3000
   | password            = 
+  | materials           = 2 Level 6 or higher DARK Fairy-Type monsters
   | effect_types        = Continuous, Condition, Trigger, Quick
   | text                = 2 [[Level]] 6 or higher [[DARK]] [[Fairy]] [[monsters]]<br />Your opponent cannot [[target]] this card with card [[effect]]s. You can only use each of the following [[effect]]s of "Darklord Eveningstar" once per turn. If this card is [[Fusion Summon]]ed: You can [[Set]] 1 "[[Darklord]]" [[Spell]] and 1 "Darklord" [[Trap]] from your [[Main Deck|Deck]]. ([[Quick Effect]]): You can [[pay]] 1000 [[LP]], then target 1 "Darklord" Spell/Trap in your GY; apply that target's activation effect, then [[shuffle]] that target into the Deck.
   | fr_text             = 
@@ -32,7 +33,23 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP036; Burst Protocol; Ultra Rare
+  | supports            = 
+  * DARK
+  * Fairy
   | archseries          = Darklord
   | supports_archetypes = Darklord
+  | action              = 
+  * Activates upon Fusion Summon
+  * Sets from your Deck
+  * Resolves as another card's effect
+  * Returns from your Graveyard to your Deck
+  | m/s/t               = Cannot be targeted by card effects
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | life_points         = Pays Life Points for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
