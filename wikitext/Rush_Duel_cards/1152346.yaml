@@ -11,12 +11,20 @@ wikitext: |-
   | level          = 4
   | atk            = 500
   | def            = 1000
-  | requirement    = [[Shuffle]] 2 [[Level]] 4 [[monsters]] with 500 [[ATK]]/1000 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = This card gains 1000 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Special Summon]] 1 Level 8 non-Effect [[Warrior]] [[Type]] [[Ritual Monster]] from your Graveyard [[face-up]] to your [[field]].
+  | requirement    = [[Shuffle]] 2 [[Level]] 4 [[Monster Card|monster]]s with 500 [[ATK]]/1000 [[DEF]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = This card gains 1000 ATK until the end of your opponent's next [[turn]]. Then, you can [[Special Summon]] 1 Level 8 [[Non-Effect Monster|non-Effect]] [[Warrior]] [[Type]] [[Ritual Monster]] from your Graveyard [[face-up]] to your [[field]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP3-JP036; Over Rush Pack 3; Super Rare
+  | supports       = 
+  * Non-Effect Monster
+  * Warrior
+  * Ritual Monster
   | archseries     = Black Luster Soldier (Rush Duel series)
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains ATK
+  | summoning      = Special Summons from your Graveyard
+  | misc           = Turn limited effects
   | database_id    = 
   }}
