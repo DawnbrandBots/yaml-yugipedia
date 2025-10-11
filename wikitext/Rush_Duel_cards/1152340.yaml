@@ -11,15 +11,19 @@ wikitext: |-
   | level          = 10
   | atk            = 3000
   | def            = 300
+  | ritualcard     = Legend Possessed
   | effect_types   = Continuous
   | condition      = This card is treated as a [[Legend Card]] while in the [[Graveyard]].
   | requirement    = None
-  | text           = This card inflicts [[piercing]] [[battle damage]]. This [[Attack Position]] card cannot be changed to [[Defense Position]] by your opponent's card [[effect]]s.
+  | text           = This card [[Damage|inflict]]s [[piercing]] [[battle damage]]. This [[Attack Position]] card cannot be [[Battle position change|change]]d to [[Defense Position]] by your opponent's card [[effect]]s.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP3-JP065; Over Rush Pack 3; Ultra Rare, Over Rush Rare
   | archseries     = Legend (series)
+  | action         = Prevents battle position changes
+  | stat_change    = Treated as a Legend Card
+  | attack         = Piercing
   | database_id    = 
   }}

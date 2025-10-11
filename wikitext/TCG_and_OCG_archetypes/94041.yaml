@@ -65,17 +65,25 @@ wikitext: |-
 
   ;Main Deck
   {| class="wikitable" style="text-align:center"
-  ! Dragon "Dragunity" !! Origin
+  ! Dragunity !! [[Type]] !! Origin
   |-
-  | [[Dragunity Aklys|Aklys]] || [[wikipedia:Aklys|Aklys]]
+  | [[Dragunity Aklys|Aklys]] ||rowspan="15"| [[Dragon]] || [[wikipedia:Aklys|Aklys]]
+  |-
+  | [[Dragunity Arma Mystletainn|Arma Mystletainn]] || [[wikipedia:Mistilteinn|Mistilteinn]]
+  |-
+  | [[Dragunity Arma Leyvaten|Arma Leyvaten]]|| [[wikipedia:Lævateinn|Lævateinn]]
+  |-
+  | [[Dragunity Arma Gram|Arma Gram]]|| [[wikipedia:Gram (mythology)|Gram]]
   |-
   | [[Dragunity Brandistock|Brandistock]] || [[wikipedia:Brandistock|Brandistock]]
   |-
   | [[Dragunity Corsesca|Corsesca]] || [[wikipedia:Corseque|Corseque]]
   |-
-  | [[Dragunity Couse|Couse]] || ''Couse''
+  | [[Dragunity Couse|Couse]] || [[wikipedia:de:Kuse|Couse]]
   |-
   | [[Dragunity Darkspear|Darkspear]] || [[wikipedia:Spear|Spear]]
+  |-
+  | [[Dragunity Falchion|Falchion]] || [[wikipedia:Falchion|Falchion]]
   |-
   | [[Dragunity Guisarme|Guisarme]] || [[wikipedia:Guisarme|Guisarme]]
   |-
@@ -89,17 +97,7 @@ wikitext: |-
   |-
   | [[Dragunity Remus|Remus]] || [[wikipedia:Remus|Remus]]
   |-
-  | [[Dragunity Arma Mystletainn|Arma Mystletainn]] || [[wikipedia:Mistilteinn|Mistilteinn]]
-  |-
-  | [[Dragunity Arma Leyvaten|Arma Leyvaten]]|| [[wikipedia:Lævateinn|Lævateinn]]
-  |-
-  | [[Dragunity Arma Gram|Arma Gram]]|| [[wikipedia:Gram (mythology)|Gram]]
-  |}
-
-  {| class="wikitable" style="text-align:center"
-  ! Winged Beast "Dragunity" !! Origin
-  |-
-  | [[Dragunity Angusticlavii|Angusticlavii]] || [[wikipedia:Tribunus angusticlavius|Tribunus Angusticlavia]]
+  | [[Dragunity Angusticlavii|Angusticlavii]] || rowspan="9"| [[Winged Beast]] || [[wikipedia:Tribunus angusticlavius|Tribunus Angusticlavia]]
   |-
   | [[Dragunity Dux|Dux]] || [[wikipedia:Dux|Dux]]
   |-
@@ -111,6 +109,8 @@ wikitext: |-
   |-
   | [[Dragunity Primus Pilus|Primus Pilus]] || [[wikipedia:Primus pilus|Primus pilus]]
   |-
+  | [[Dragunity Quirinus|Quirinus]] || [[wikipedia:Quirinus|Quirinus]]
+  |-
   | [[Dragunity Senatus|Senatus]] || [[wikipedia:Senate of the Roman Republic|Senatus]]
   |-
   | [[Dragunity Tribus|Tribus]] || [[wikipedia:Roman tribe|Tribus]]
@@ -118,29 +118,35 @@ wikitext: |-
 
   ;Extra Deck
   {| class="wikitable" style="text-align:center"
-  ! rowspan=2| Dragunity Knight !! rowspan=2| Origin !! colspan=2 | Combination
+  ! rowspan=2| Dragunity !! rowspan=2| Origin !! colspan=2 | Visual components
   |-
   ! Rider || Mount
   |-
-  | [[Dragunity Knight - Ascalon|Ascalon]] || [[wikipedia:Saint George#Saint George and the dragon|Ascalon]] || [[Dragunity Dux|Dux]] || [[Dragunity Divine Lance|Divine Lance]]
+  | [[Dragunity Knight - Areadbhair|Knight - Areadbhair]] || [[wikipedia:Lugh#Lugh's spear|Areadbhair]] || [[Dragunity Legatus]] || ''Areadbhair''
   |-
-  | [[Dragunity Knight - Areadbhair|Areadbhair]] || [[wikipedia:Lugh#Lugh's spear|Areadbhair]] || [[Dragunity Legatus|Legatus]] || ''?''
+  |rowspan="2"| [[Dragunity Knight - Areus|Knight - Areus]] ||rowspan="2"| [[wikipedia:Ares|Ares]] ||rowspan="2"| [[Dragunity Quirinus]] || [[Dragunity Falchion]]
   |-
-  | [[Dragunity Knight - Barcha|Barcha]] || [[wikipedia:Barcha|Barcha]] || [[Dragunity Angusticlavii|Angusticlavii]] || [[Dragunity Pilum|Pilum]]
+  | [[Dragunity Remus]]
   |-
-  | [[Dragunity Knight - Gae Bulg|Gae Bulg]] || [[wikipedia:Gáe Bulg|Gáe Bulg]] || [[Dragunity Dux|Dux]] || [[Dragunity Phalanx|Phalanx]]
+  | [[Dragunity Knight - Ascalon|Knight - Ascalon]] || [[wikipedia:Saint George#Saint George and the dragon|Ascalon]] || [[Dragunity Dux]] || ''Ascalon'' ([[Dragunity Divine Lance]])
   |-
-  | [[Dragunity Knight - Gae Dearg|Gae Dearg]] || [[wikipedia:Diarmuid Ua Duibhne#Famous weapons|Gáe Derg]] || [[Dragunity Legionnaire|Legionnaire]] || [[Dragunity Darkspear|Darkspear]]
+  | [[Dragunity Knight - Barcha|Knight - Barcha]] || [[wikipedia:Barcha|Barcha]] || [[Dragunity Angusticlavii]] || [[Dragunity Pilum]]
   |-
-  | [[Dragunity Knight - Luin|Luin]] || [[wikipedia:Lúin of Celtchar|Lúin of Celtchar]] || [[Dragunity Senatus|Senatus]] || [[Dragunity Couse|Couse]]
+  | [[Dragunity Knight - Gae Bulg|Knight - Gae Bulg]] || [[wikipedia:Gáe Bulg|Gáe Bulg]] || [[Dragunity Dux]] || [[Dragunity Phalanx]]
   |-
-  | [[Dragunity Knight - Romulus|Romulus]] || [[wikipedia:Romulus|Romulus]] || ''?'' || [[Dragunity Remus|Remus]]
+  | [[Dragunity Knight - Gae Dearg|Knight - Gae Dearg]] || [[wikipedia:Diarmuid Ua Duibhne#Famous weapons|Gáe Derg]] || [[Dragunity Legionnaire]] || [[Dragunity Darkspear]]
   |-
-  | [[Dragunity Knight - Trident|Trident]] || [[wikipedia:Trident|Trident]] || [[Dragunity Primus Pilus|Primus Pilus]] || [[Dragunity Javelin|Javelin]]
+  | [[Dragunity Knight - Gormfaobhar|Knight - Gormfaobhar]] || [[wikipedia:Gorm the Old|Gorm the Old]]  || ''Unknown monster'' || [[Dragunity Guisarme]]
   |-
-  | [[Dragunity Knight - Vajrayana|Vajrayana]] || [[wikipedia:Vajra|Vajra]] || [[Dragunity Militum|Militum]] || [[Dragunity Partisan|Partisan]]
+  | [[Dragunity Knight - Luin|Knight - Luin]] || [[wikipedia:Lúin of Celtchar|Lúin of Celtchar]] || [[Dragunity Senatus]] || [[Dragunity Couse]]
   |-
-  | [[Dragunity Knight - Gormfaobhar|Gormfaobhar]] || [[wikipedia:Gorm the Old|Gorm the Old]]  || ''?'' || [[Dragunity Guisarme|Guisarme]]
+  | [[Dragunity Knight - Romulus|Knight - Romulus]] || [[wikipedia:Romulus|Romulus]] || [[Dragunity Quirinus]] || [[Dragunity Remus]]
+  |-
+  | [[Dragunity Knight - Trident|Knight - Trident]] || [[wikipedia:Trident|Trident]] || [[Dragunity Primus Pilus]] || [[Dragunity Javelin]]
+  |-
+  | [[Dragunity Knight - Vajrayana|Knight - Vajrayana]] || [[wikipedia:Vajra|Vajra]] || [[Dragunity Militum]] || [[Dragunity Partisan]]
+  |-
+  | [[Dragunity Lord - Georgius|Lord - Georgius]] || [[wikipedia:Saint George|Saint George]] || [[Georgius, Swordman of the Ice Barrier]] || ''Ascalon'' ([[Dragunity Divine Lance]])
   |}
 
   == Playing style ==

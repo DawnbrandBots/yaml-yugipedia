@@ -9,14 +9,28 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | condition      = This card's name becomes "[[Jest of the Cosmos Princess]]" while in the [[hand]].
-  | requirement    = If you have 5 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] in your [[Graveyard]], place 1 card from your hand on the bottom of the [[Main Deck|Deck]].
-  | text           = [[Fusion Summon]] a Galaxy Type monster with 1900 or 2600 [[DEF]] by shuffling up to 3 Galaxy Type monsters from your [[field]] and/or Graveyard into the [[owner]]'s [[Main Deck|Deck]] as [[material]].
+  | requirement    = If you have 5 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], place 1 card from your hand on the bottom of the [[Main Deck|Deck]].
+  | text           = [[Fusion Summon]] a Galaxy Type monster with 1900 or 2600 [[DEF]] by [[Shuffle|shuffling]] up to 3 Galaxy Type monsters from your [[field]] and/or Graveyard into the [[owner]]'s Deck as [[material]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP3-JP054; Over Rush Pack 3; Ultra Rare, Over Rush Rare
   | mentions       = Jest of the Cosmos Princess
+  | supports       = Galaxy (Type)
   | archseries     = Princess Cosmos
+  | action         = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | stat_change    = Changes own name while in the hand
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}

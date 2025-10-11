@@ -3,20 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|英魂の憑依|レジェンド・ポゼスト}}
-  | romaji_name    = Rejendo Pozesudo
-  | image          = LegendPossessed-RDORP3-JP-OP.png
-  | card_type      = Spell
-  | property       = Ritual
-  | condition      = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
-  | requirement    = During a [[turn]] you have not activated "Legend Possessed".
-  | text           = [[Ritual Summon]] "[[Legend Lineage Magician]]" by [[send]]ing [[monsters]] from your hand and/or [[field]] to the [[Graveyard]] whose total [[Level]]s equal 10 or more as [[material]] (you cannot use more monsters than necessary as material). You cannot use non-Legend monsters in the hand as material by this effect.
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name              = {{Ruby|英魂の憑依|レジェンド・ポゼスト}}
+  | base_romaji_name     = Eikon no Hyōi
+  | base_translated_name = Possession by a Heroic Soul
+  | romaji_name          = Rejendo Pozesudo
+  | image                = LegendPossessed-RDORP3-JP-OP.png
+  | card_type            = Spell
+  | property             = Ritual
+  | ritualmonster        = Legend Lineage Magician
+  | condition            = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
+  | requirement          = During a [[turn]] you have not [[activate]]d "Legend Possessed".
+  | text                 = [[Ritual Summon]] "[[Legend Lineage Magician]]" by [[send]]ing [[Monster Card|monster]]s from your hand and/or [[field]] to the Graveyard whose total [[Level]]s equal 10 or more as [[material]] (you cannot use more monsters than necessary as material). You cannot use non-Legend monsters in the hand as material by this [[effect]].
+  | ja_condition         = 
+  | ja_requirement       = 
+  | ja_text              = 
+  | jp_sets              = 
   RD/ORP3-JP068; Over Rush Pack 3; Super Rare
-  | mentions       = Legend Lineage Magician
-  | archseries     = Legend (series)
-  | database_id    = 
+  | mentions             = 
+  * Legend Possessed
+  * Legend Lineage Magician
+  | supports             = Legend Card
+  | archseries           = Legend (series)
+  | action               = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Ritual Materials
+  * Uses cards on the player's field as Ritual Materials
+  | stat_change          = Treated as a Legend Card
+  | summoning            = Special Summons from your Extra Deck
+  | misc                 = 
+  * Only once per turn
+  * Specific Ritual Spell Card
+  * Requires control of specific Level
+  | database_id          = 
   }}
