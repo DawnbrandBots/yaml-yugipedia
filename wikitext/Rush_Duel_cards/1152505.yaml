@@ -10,11 +10,19 @@ wikitext: |-
   | card_type       = Trap
   | property        = Normal
   | requirement     = When your opponent [[Draw a card|draw]]s a card(s) while you have 15 or more [[Beast]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], [[send]] your entire [[hand]] to the Graveyard.
-  | text            = [[Shuffle]] all cards from each player's Graveyard into the owner's [[Main Deck|Deck]]. Then, you can draw 1 card and show it. If that card is a [[Level]] 7 or higher Beast Type monster, you can [[Special Summon]] it [[face-up]] to your [[field]].
+  | text            = [[Shuffle]] all cards from the Graveyards into the [[owner]]'s [[Main Deck|Deck]]s. Then, you can draw 1 card and show it. If that card is a [[Level]] 7 or higher Beast Type monster, you can [[Special Summon]] it [[face-up]] to your [[field]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/ORP3-JP030; Over Rush Pack 3; Super Rare
+  | supports        = Beast
   | archseries      = Wooly Wonderland
+  | action          = 
+  * Activates if your opponent draws a card
+  * Sends from hand to Graveyard for cost
+  * Returns from Graveyard to Deck
+  * You draw cards
+  * Shows the player's drawn cards
+  | summoning       = Special Summons from your hand
   | database_id     = 
   }}
