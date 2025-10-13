@@ -18,7 +18,7 @@ wikitext: |-
   | atk                 = 800
   | def                 = 2400
   | password            = 81916745
-  | materials           = 1 Tuner + 1+ non-Tuner monsters
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Trigger, Condition
   | text                = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner [[Monster Card|monsters]]<br />If a monster(s) is [[sent]] from the [[field]] to your opponent's [[GY]], while this card is in your [[Monster Zone]], even during the [[Damage Step]]: You can gain [[LP]] equal to 1 of those monsters' [[ATK]] in their GY. If your opponent takes [[effect damage]], while this card is in your GY (except during the Damage Step): You can [[banish]] this card; send 1 monster from the field to the GY with ATK less than or equal to the difference in your LP and your opponent's. You can only use each [[effect]] of "Lycoris Lilyreaper" once per [[turn]].
   | fr_text             = 1 Syntoniseur + 1+ monstre non-Syntoniseur<br />Si un ou plusieurs monstres sont envoyés depuis le Terrain au Cimetière de votre adversaire, tant que cette carte est dans votre Zone Monstre, même durant la Damage Step : vous pouvez gagner des LP égaux à l'ATK d'1 de ces monstres dans son Cimetière. Si votre adversaire reçoit des dommages d'effet, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; envoyez 1 monstre depuis le Terrain au Cimetière avec une ATK inférieure ou égale à la différence de vos LP et ceux de votre adversaire. Vous ne pouvez utiliser chaque effet de "Lilyfaucheuse Lycoris" qu'une fois par tour.
@@ -41,5 +41,16 @@ wikitext: |-
   DOOD-PT087; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP087; Doom of Dimensions; Common
+  | action              = 
+  * Activates if other cards are sent to the Graveyard
+  * Activates if effect damage is inflicted
+  * Activates from your Graveyard
+  * Sends from field to Graveyard
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | banished            = Banishes itself from Graveyard for cost
+  | life_points         = You gain Life Points
+  | misc                = Only once per turn
   | database_id         = 22069
   }}

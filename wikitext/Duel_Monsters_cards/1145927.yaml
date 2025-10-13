@@ -33,9 +33,29 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP002; Terminal World 3; 
+  | supports            = EARTH
   | archseries          = 
   * Saber
   * X-Saber
   | supports_archetypes = Saber
+  | action              = 
+  * Can only use certain Synchro Materials
+  * Uses itself as a Synchro Material
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | summoning           = 
+  * Performs a Synchro Summon
+  * Special Summons itself from your hand
+  | banished            = 
+  * Banishes from hand for cost
+  * Banishes from field for cost
+  * Banishes from Graveyard for cost
+  | misc                = 
+  * Limited activations
+  * Only once per turn
+  * Requires control of specific Attribute
   | database_id         = 
   }}

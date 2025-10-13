@@ -37,6 +37,24 @@ wikitext: |-
   DOOD-PT086; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP086; Doom of Dimensions; Common
-  | archseries = Hunting Scout of the Deep Forest
+  | supports            = 
+  * EARTH
+  * Warrior
+  * Fusion Monster
+  | archseries          = Hunting Scout of the Deep Forest
+  | action              = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | stat_change         = 
+  * Halves ATK
+  * Your opponent's monsters lose ATK
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Performs a Fusion Summon
+  | attack              = Prevents your monsters from attacking
+  | misc                = Only once per turn
   | database_id         = 22068
   }}

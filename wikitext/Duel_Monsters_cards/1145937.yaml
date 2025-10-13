@@ -19,7 +19,7 @@ wikitext: |-
   | atk                 = 2300
   | def                 = 2300
   | password            = 86038337
-  | materials           = 2 EARTH Warrior monsters
+  | materials           = 2 EARTH Warrior-Type monsters
   | effect_types        = Continuous, Quick, Condition
   | text                = 2 [[EARTH]] [[Warrior]] [[Monster Card|monsters]]<br />[[Unaffected]] by your opponent's [[activate]]d [[effect]]s, during the [[Main Phase]] only. During the [[Battle Phase]] ([[Quick Effect]]): You can [[Tribute]] this [[Fusion Summon]]ed card; [[Special Summon]] 2 EARTH Warrior monsters from your [[GY]], except "Faisan, Hunting Scout of the Deep Forest", and if you do, your EARTH Warrior monsters cannot be [[destroyed]] by [[battle]] for the rest of this [[turn]]. You can only use this effect of "Faisan, Hunting Scout of the Deep Forest" once per turn.
   | fr_text             = 2 monstres TERRE Guerrier<br />Non affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte Invoquée par Fusion ; Invoquez Spécialement 2 monstres TERRE Guerrier ("Faisan, Éclaireur Chasseur de la Forêt Profonde" exclu) depuis votre Cimetière, et si vous le faites, vos monstres TERRE Guerrier ne peuvent pas être détruits au combat le reste de ce tour. Vous ne pouvez utiliser cet effet de "Faisan, Éclaireur Chasseur de la Forêt Profonde" qu'une fois par tour.
@@ -42,6 +42,21 @@ wikitext: |-
   DOOD-PT084; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP084; Doom of Dimensions; Common
-  | archseries = Hunting Scout of the Deep Forest
+  | mentions            = Faisan, Hunting Scout of the Deep Forest
+  | supports            = 
+  * EARTH
+  * Warrior
+  | archseries          = Hunting Scout of the Deep Forest
+  | action              = Tributes itself for cost
+  | m/s/t               = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's card effects
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  | attack              = Prevents other cards being destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 22066
   }}

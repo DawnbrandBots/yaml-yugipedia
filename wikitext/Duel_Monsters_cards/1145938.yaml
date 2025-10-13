@@ -19,7 +19,7 @@ wikitext: |-
   | atk                 = 2600
   | def                 = 2600
   | password            = 13023431
-  | materials           = 1 Level 5 or higher EARTH Warrior monster + 1 EARTH Warrior monster
+  | materials           = 1 Level 5 or higher EARTH Warrior-Type monster + 1 EARTH Warrior-Type monster
   | effect_types        = Continuous, Continuous, Trigger, Condition
   | text                = 1 [[Level]] 5 or higher [[EARTH]] [[Warrior]] [[Monster Card|monster]] + 1 EARTH Warrior monster<br />[[Unaffected]] by your opponent's [[activate]]d [[effects]], during the [[Main Phase]] only. Your opponent's monsters that can [[attack]] must attack the monster you [[control]] with the highest [[ATK]] (their choice, if tied). When another EARTH Warrior monster you control [[destroy]]s an opponent's monster by [[battle]]: You can [[Special Summon]] 1 EARTH Warrior monster from your [[GY]] or [[banish]]ment. You can only use this effect of "Chevreuil, Hunting Scout of the Deep Forest" once per [[turn]].
   | fr_text             = 1 monstre TERRE Guerrier de min. Niveau 5 + 1 monstre TERRE Guerrier<br />Non affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Les monstres de votre adversaire qui peuvent attaquer doivent attaquer le monstre que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit). Lorsqu'un autre monstre TERRE Guerrier que vous contrôlez détruit un monstre de l'adversaire au combat : vous pouvez Invoquer Spécialement 1 monstre TERRE Guerrier depuis votre Cimetière ou bannissement. Vous ne pouvez utiliser cet effet de "Chevreuil, Éclaireur Chasseur de la Forêt Profonde" qu'une fois par tour.
@@ -42,6 +42,25 @@ wikitext: |-
   DOOD-PT085; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP085; Doom of Dimensions; Common
-  | archseries = Hunting Scout of the Deep Forest
+  | supports            = 
+  * EARTH
+  * Warrior
+  | archseries          = Hunting Scout of the Deep Forest
+  | action              = Activates if it destroys a monster by battle
+  | m/s/t               = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's card effects
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  | attack              = Prevents other cards being targeted for attacks
+  | misc                = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 22067
   }}

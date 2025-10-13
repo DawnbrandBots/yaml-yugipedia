@@ -37,6 +37,19 @@ wikitext: |-
   DOOD-PT082; Doom of Dimensions; Common
   | sp_sets             = 
   DOOD-SP082; Doom of Dimensions; Common
+  | supports            = 
+  * Equip Spell Card
+  * Warrior
+  | anti-supports       = Warrior
   | archseries          = Noble Arms
+  | stat_change         = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | m/s/t               = Destroys face-up Monster Cards
+  | summoning           = 
+  * Restricts the player's Special Summons to Type specific monsters
+  * Special Summons from your Deck
+  * Equips to Summoned monster
+  | misc                = Only once per turn
   | database_id         = 22064
   }}

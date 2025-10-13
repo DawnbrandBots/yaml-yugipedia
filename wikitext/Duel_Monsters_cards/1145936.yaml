@@ -18,7 +18,7 @@ wikitext: |-
   | atk                 = 2700
   | def                 = 2100
   | password            = 50643638
-  | materials           = 1 Tuner + 1+ non-Tuner monsters
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Continuous, Condition, Ignition, Ignition
   | text                = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner [[Monster Card|monsters]]<br />Monsters your opponent [[control]]s lose 400 [[ATK]] for each [[Equip Spell]] you control. You can only use each of the following [[effect]]s of "Chanbar, the Flashy Sportsknight" once per [[turn]]. You can [[target]] 1 other card on the [[field]]; [[send]] 1 Equip Spell from your [[hand]] or [[Deck]] to the [[GY]], and if you do, [[destroy]] that target. If this card is in your GY: You can [[target]] 2 [[face-up]] cards in your [[Spell & Trap Zone]]; destroy them, and if you do, [[Special Summon]] this card.
   | fr_text             = 1 Syntoniseur + 1+ monstre non-Syntoniseur<br />Les monstres contrôlés par votre adversaire perdent 400 ATK pour chaque Magie d'Équipement que vous contrôlez. Vous ne pouvez utiliser chacun des effets suivants de "Chanbar, le Chevalier du Sport Tape-à-l'Œil" qu'une fois par tour. Vous pouvez cibler 1 autre carte sur le Terrain ; envoyez 1 Magie d'Équipement depuis votre main ou Deck au Cimetière, et si vous le faites, détruisez la cible. Si cette carte est dans votre Cimetière : vous pouvez cibler 2 cartes face recto dans votre Zone Magie & Piège ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte.
@@ -41,5 +41,22 @@ wikitext: |-
   DOOD-PT083; Doom of Dimensions; Super Rare
   | sp_sets             = 
   DOOD-SP083; Doom of Dimensions; Super Rare
+  | supports            = Equip Spell Card
+  | action              = 
+  * Sends from your hand to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons itself from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 22065
   }}

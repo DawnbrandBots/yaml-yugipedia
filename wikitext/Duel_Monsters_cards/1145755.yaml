@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2700
   | def                 = 2700
   | password            = 
+  | materials           = 3 Level 7 monsters
   | effect_types        = Summoning condition, Continuous, Quick
   | text                = 3 [[Level]] 7 [[monsters]]<br />[[Once per turn]], during your [[Main Phase 2]], you can also Xyz Summon "Exstellarknight Constellar Ptolemy Ω7" by using a "[[tellarknight]]" or "[[Constellar]]" [[Xyz Monster]] you [[control]] ([[transfer]] its [[material]]s). While you have 7 or more "tellarknight" monsters with different names in your [[GY]] and/or [[banish]]ment, this card gains 2700 [[ATK]]/[[DEF]], also it is [[unaffected]] by your opponent's activated effects. [[Once per turn]] ([[Quick Effect]]): You can [[detach]] any number of materials from this card, then [[target]] that many monsters your opponent controls; [[shuffle]] them into the [[Main Deck|Deck]].
   | fr_text             = 
@@ -34,6 +35,7 @@ wikitext: |-
   | jp_sets             = 
   TW03-JP042; Terminal World 3; Ultra Parallel Rare
   | mentions            = Exstellarknight Constellar Ptolemy Ω7
+  | supports            = Xyz Monster
   | archseries          = 
   * Constellar
   * Stellarknight
@@ -42,5 +44,22 @@ wikitext: |-
   * Constellar
   * tellarknight
   | related_to_archseries = Vylon
+  | action              = 
+  * Transfers
+  * Detaches multiple Xyz Materials as cost
+  * Returns from your opponent's field to your opponent's Deck
+  | stat_change         = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t               = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's card effects
+  | summoning           = 
+  * 3 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summon by its own condition once per turn
+  * Special Summons itself from your Extra Deck
+  * Xyz Evolution
+  | misc                = Limited activations
   | database_id         = 
   }}

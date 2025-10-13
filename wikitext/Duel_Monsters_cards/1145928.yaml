@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2500
   | def                 = 1600
   | password            = 
+  | materials           = 1 Tuner + 1 or more EARTH monsters
   | effect_types        = Condition, Continuous, Trigger, Quick, Continuous
   | text                = 1 [[Tuner]] + 1+ [[EARTH]] [[monsters]]<br />(This card is always treated as an "[[X-Saber]]" card.)<br />Gains 200 [[ATK]] for each [[banish]]ed monster. When this card [[destroy]]s a monster [[by battle]]: You can [[Draw a card|draw]] 1 card. [[Once per turn]], when your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can [[Tribute]] 1 "X-Saber" monster; destroy 1 card your opponent controls. If this card would be destroyed by battle or card effect, you can banish 1 "Saber" card from your [[GY]] instead.
   | fr_text             = 
@@ -33,12 +34,33 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP003; Terminal World 3; Ultra Parallel Rare
+  | supports            = EARTH
   | archseries          = 
   * Saber
   * X-Saber
   | supports_archetypes = 
   * Saber
   * X-Saber
-  | misc                = Archetype condition
+  | action              = 
+  * Activates if it destroys a monster by battle
+  * You draw cards
+  * Tributes for cost
+  | stat_change         = This card gains ATK
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  * Cannot be destroyed by battle
+  * Redirects destruction
+  | summoning           = 
+  * Does not require specific Tuner Synchro Materials
+  * Requires Attribute specific non-Tuner Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  | attack              = Cannot be destroyed by battle
+  | banished            = Banishes from your Graveyard
+  | misc                = 
+  * Archetype condition
+  * Limited activations
+  * Requires control of specific archetype
   | database_id         = 
   }}

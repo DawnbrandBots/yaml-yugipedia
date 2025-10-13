@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2500
   | def                 = 2500
   | password            = 
+  | materials           = 3 or more Level 4 monsters
   | effect_types        = Continuous, Ignition, Trigger
   | text                = 3+ [[Level]] 4 [[monsters]]<br />Your opponent cannot [[target]] [[Rank]] 5 or higher "[[tellarknight]]" or "[[Constellar]]" [[Xyz Monster]]s you [[control]] with card [[effect]]s. [[Once per turn]]: You can [[detach]] 1 [[material]] from this card; [[Add a card|add]] 1 "tellarknight" or "Constellar" monster from your [[Main Deck|Deck]] to your [[hand]], then immediately after this effect [[resolve]]s, you can [[Normal Summon]] 1 [[LIGHT]] monster. If this card is [[sent]] to the [[GY]], except from the [[field]]: You can [[Special Summon]] 1 "tellarknight" or "Constellar" monster from your [[hand]] or [[banish]]ment.
   | fr_text             = 
@@ -33,11 +34,25 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP043; Terminal World 3; Ultra Parallel Rare
+  | supports            = 
+  * Xyz Monster
+  * LIGHT
   | archseries          = 
   * Constellar
   * tellarknight
   | supports_archetypes = 
   * Constellar
   * tellarknight
+  | action              = 
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  | m/s/t               = Prevents other cards being targeted by card effects
+  | summoning           = 
+  * 3+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Performs a Normal Summon
+  * Special Summons from your hand
+  * Special Summons the player's banished monsters
+  | misc                = Limited activations
   | database_id         = 
   }}
