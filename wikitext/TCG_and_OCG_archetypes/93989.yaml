@@ -87,7 +87,11 @@ wikitext: |-
 
   === Plus & Minus monsters ===
   {| class="wikitable" style="text-align:center"
-  ! Origin !! [[Plus monster]] !! [[Minus monster]]
+  ! rowspan="2" | Origin
+  ! colspan="2" | Monster
+  |-
+  ! [[Plus monster|Plus]]
+  ! [[Minus monster|Minus]]
   |-
   | [[wikipedia:Sigma|Sigma]]
   | [[Magnet Warrior Σ＋]]
