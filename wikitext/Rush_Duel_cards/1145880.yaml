@@ -5,18 +5,23 @@ wikitext: |-
   {{CardTable2
   | ja_name               = {{Ruby|超|ちょう}}{{Ruby|撃|げき}}{{Ruby|龍|りゅう}}ドラギアスター{{Ruby|ＩＦ|イフ}}
   | romaji_name           = Chōgekiryū Doragiasutā Ifu
-  | image                 = HyperstrikeDragonDragiastarIF-OW.png
-  | attribute             = ???
-  | types                 = High Dragon / Fusion
-  | level                 = ???
-  | atk                   = ???
-  | def                   = ???
-  | requirement           = (TBA)
-  | text                  = (TBA)
+  | image                 = HyperstrikeDragonDragiastarIF-RDKP23-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = High Dragon / Fusion / Effect
+  | level                 = 9
+  | atk                   = 3000
+  | def                   = 2000
+  | effect_types          = Multi-Choice
+  | fusion_material       = Multistrike Dragon Dragias
+  | materials             = "[[Multistrike Dragon Dragias]]" + 1 [[Level]] 1 [[Dragon]] [[Type]] [[monster]] with 0 [[ATK]]
+  | requirement           = If the only monsters in your [[Graveyard]] are [[High Dragon]] and/or Dragon Type monsters, [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text                  = ● This card gains 2000 [[ATK]] until the end of this [[turn]].<br />● [[Destroy]] 1 card on your opponent's [[field]].
+  | ja_materials          = 
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
-  RD/KP23-JP0??; Gias Charge of the Nova
+  RD/KP23-JP040; Gias Charge of the Nova; Ultra Rare, Over Rush Rare
+  | mentions              = Multistrike Dragon Dragias
   | archseries            = Strike Dragon
   | related_to_archseries = The
   | misc                  = Cover card
