@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Bottom-Left, Bottom-Right
   | atk                 = 0
   | password            = 
+  | materials           = 2 "Radiant Typhoon" monsters
   | effect_types        = Trigger, Ignition, Trigger, Condition
   | text                = 2 "[[Radiant Typhoon]]" [[monsters]]<br />If this card is [[Link Summon]]ed: You can [[Add a card|add]] 1 "[[Mystical Space Typhoon]]" from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can [[target]] 2 [[face-up]] monsters on the [[field]], including a "Radiant Typhoon" monster you [[control]]; place them face-up in their [[owner]]s' [[Spell & Trap Zone]]s as Continuous Spells. If a [[Quick-Play Spell Card]] is activated (except during the [[Damage Step]]): You can place 1 "Radiant Typhoon" [[Continuous Trap]] from your Deck or GY face-up on your field. You can only use each [[effect]] of "Radiant Typhoon Varuroon, the Sea Spirit" [[once per turn]].
   | fr_text             = 
@@ -33,7 +34,24 @@ wikitext: |-
   | jp_sets             = 
   BPRO-JP049; Burst Protocol; 
   | mentions            = Mystical Space Typhoon
+  | supports            = 
+  * Quick-Play Spell Card
+  * Continuous Trap Card
   | archseries          = Radiant Typhoon
   | supports_archetypes = Radiant Typhoon
+  | action              = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Places cards from field in Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from Graveyard in Spell & Trap Zone
+  | m/s/t               = Treats monsters as Continuous Spell Cards
+  | summoning           = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

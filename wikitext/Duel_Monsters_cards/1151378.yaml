@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 1500
   | def                 = 2000
   | password            = 
+  | materials           = 2 "D/D" monsters
   | effect_types        = Ignition, Trigger, Condition
   | text                = 2 "[[D/D]]" [[monsters]]<br />During your [[Main Phase]]: You can [[Fusion Summon]] 1 "[[D/D/D]]" [[Fusion Monster]] from your [[Extra Deck]], by shuffling its [[material]]s from your [[hand]], [[field]], and/or [[banish]]ment into the [[Main Deck|Deck]]. If this card is banished: You can target "[[Dark Contract]]" [[Continuous Spell]]s/[[Continuous Trap|Traps]] in your [[GY]] and/or banishment, up to the number of "D/D/D" monsters you [[control]]; place them [[face-up]] on your field. You can only use each [[effect]] of "D/D/D Sage King Alfred" [[once per turn]].
   | fr_text             = 
@@ -33,6 +34,10 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP033; Burst Protocol; Rare
+  | supports            = 
+  * Fusion Monster
+  * Continuous Spell Card
+  * Continuous Trap Card
   | archseries          = 
   * D/D
   * D/D/D
@@ -40,5 +45,23 @@ wikitext: |-
   * D/D
   * D/D/D
   * Dark Contract
+  | action              = 
+  * Returns from your hand to your Deck
+  * Returns from your field to your Deck
+  * Returns the player's banished cards to the Deck
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses the player's banished cards as Fusion Materials
+  * Activates while banished
+  * Places cards from Graveyard in Spell & Trap Zone
+  * Places the player's banished cards in Spell & Trap Zone
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}
