@@ -3,27 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|両|りょう}}{{Ruby|手|て}}{{Ruby|乗|の}}りドラコ
-  | romaji_name           = Ryōtenori Dorako
-  | translated_name       = Two-Hands-Sized Draco
-  | image                 = DracotheDoublyTiny-RDKP23-JP-OP.png
-  | attribute             = WIND
-  | types                 = Dragon / Fusion / Effect
-  | level                 = 5
-  | atk                   = 0
-  | def                   = 2400
-  | effect_types          = Continuous
-  | fusion_material       = Draco the Tiny
-  | materials             = "[[Draco the Tiny]]" + 1 [[Level]] 1 [[Dragon]] [[Type]] [[monster]] with 0 [[ATK]]
-  | condition             = You can Summon this card by [[Contact Fusion]].
-  | requirement           = None
-  | text                  = This card gains [[ATK]] equal to [the number of monsters in your [[Graveyard]]] x 200. [[Face-up]] Level 7-9 Dragon Type monsters on your [[field]] cannot be destroyed by your opponent's card [[effect]]s.
-  | ja_materials          = 
-  | ja_condition          = 
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name         = {{Ruby|両|りょう}}{{Ruby|手|て}}{{Ruby|乗|の}}りドラコ
+  | romaji_name     = Ryōtenori Dorako
+  | translated_name = Two-Hands-Sized Draco
+  | image           = DracotheDoublyTiny-RDKP23-JP-OP.png
+  | attribute       = WIND
+  | types           = Dragon / Fusion / Effect
+  | level           = 5
+  | atk             = 0
+  | def             = 2400
+  | effect_types    = Continuous
+  | fusion_material = Draco the Tiny
+  | materials       = "[[Draco the Tiny]]" + 1 [[Level]] 1 [[Dragon]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]]
+  | condition       = You can [[Summon]] this card by [[Contact Fusion]].
+  | requirement     = None
+  | text            = This card gains ATK equal to [the number of monsters in your [[Graveyard]]] x 200. [[Face-up]] Level 7-9 Dragon Type monsters on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP23-JP039; Gias Charge of the Nova; Rare
-  | mentions              = Draco the Tiny
-  | database_id           = 
+  | mentions        = Draco the Tiny
+  | supports        = Dragon
+  | archseries      = Draco
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change     = This card gains ATK
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  | database_id     = 
   }}

@@ -11,12 +11,20 @@ wikitext: |-
   | level          = 1
   | atk            = 0
   | def            = 1400
-  | requirement    = [[Send]] 1 [[Dragon]] [[Type]] [[monster]] with 0 [[ATK]]/1400 [[DEF]] from your [[hand]] to the [[Graveyard]].
+  | requirement    = [[Send]] 1 [[Dragon]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]]/1400 [[DEF]] from your [[hand]] to the [[Graveyard]].
   | text           = [[Draw a card|Draw]] 1 card. Then, if you have "[[Draco the Tiny]]" in your Graveyard, you can [[destroy]] 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP006; Gias Charge of the Nova; Common
   | mentions       = Draco the Tiny
+  | supports       = Dragon
+  | archseries     = Draco
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | m/s/t          = 
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
   | database_id    = 
   }}

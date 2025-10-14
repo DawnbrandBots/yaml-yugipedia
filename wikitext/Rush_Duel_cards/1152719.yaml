@@ -3,16 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ローリング×ローリング
-  | romaji_name    = Rōringu x Rōringu
-  | image          = RollingxRolling-RDKP23-JP-OP.png
-  | card_type      = Spell
-  | property       = Normal
-  | requirement    = If you have not drawn a card during this [[Main Phase]], [[send]] 2 [[Dragon]] and/or [[Spellcaster]] [[Type]] [[monsters]] with 0 [[ATK]]/1400 [[DEF]] from your [[hand]] to the [[Graveyard]].
-  | text           = [[Draw a card|Draw]] 3 cards.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = ローリング×ローリング
+  | romaji_name           = Rōringu x Rōringu
+  | image                 = RollingxRolling-RDKP23-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = If you have not [[Draw a card|drawn]] a card during this [[Main Phase]], [[send]] 2 [[Dragon]] and/or [[Spellcaster]] [[Type]] [[Monster Card|monster]]s with 0 [[ATK]]/1400 [[DEF]] from your [[hand]] to the [[Graveyard]].
+  | text                  = Draw 3 cards.
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP23-JP048; Gias Charge of the Nova; Common
-  | database_id    = 
+  | supports              = 
+  * Dragon
+  * Spellcaster
+  | archseries            = Draco
+  | related_to_archseries = Straynge Cat (series)
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | database_id           = 
   }}

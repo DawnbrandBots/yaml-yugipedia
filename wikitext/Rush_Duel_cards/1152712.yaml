@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 0
   | def            = 1400
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 "[[Draco the Rider]]" or 1 "[[Vengeful Dragon's Counterattack]]" from your [[Graveyard]] to your [[hand]]. During your opponent's next [[turn]], if you activate "Vengeful Dragon's Counterattack", you do not [[send]] a card from your [[hand]] to the Graveyard to meet the requirement.
+  | text           = [[Add a card|Add]] 1 "[[Draco the Rider]]" or 1 "[[Vengeful Dragon's Counterattack]]" from your [[Graveyard]] to your [[hand]]. During your opponent's next [[turn]], if you [[activate]] "Vengeful Dragon's Counterattack", you do not [[send]] a card from your hand to the Graveyard to meet the [[Activation condition|requirement]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,5 +20,12 @@ wikitext: |-
   | mentions       = 
   * Draco the Rider
   * Vengeful Dragon's Counterattack
+  | archseries     = Draco
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  * Changes cost
+  | misc           = Turn limited effects
   | database_id    = 
   }}

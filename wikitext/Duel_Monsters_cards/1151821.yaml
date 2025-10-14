@@ -23,6 +23,7 @@ wikitext: |-
   | atk                  = 2400
   | def                  = 1500
   | password             = 
+  | materials            = 1 "Dracotail" monster + 1 monster in the hand
   | effect_types         = Ignition, Trigger, Condition
   | text                 = 1 "[[Dracotail]]" [[monster]] + 1 monster in the [[hand]]<br />You can [[target]] 2 "Dracotail" cards in your [[GY]], and 1 [[face-up]] card on the [[field]] of the same type (Monster, [[Spell]], or [[Trap]]) as 1 of them; [[shuffle]] all 3 into the [[Main Deck|Deck]]. If 2 or more monsters are sent to the GY at the same time, while this card is in your GY (except during the [[Damage Step]]): You can [[Special Summon]] this card, but [[banish]] it when it [[leaves the field]]. You can only use each effect of "Dracotail Shaurus" [[once per turn]].
   | fr_text              = 
@@ -37,5 +38,17 @@ wikitext: |-
   BPRO-JP037; Burst Protocol; Rare
   | archseries           = Dracotail
   | supports_archetypes  = Dracotail
+  | action               = 
+  * Returns from your Graveyard to your Deck
+  * Returns from field to Deck
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  | summoning            = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires location specific Fusion Materials
+  * Special Summons itself from your Graveyard
+  | banished             = Banishes itself when it leaves the field
+  | misc                 = Only once per turn
   | database_id          = 
   }}

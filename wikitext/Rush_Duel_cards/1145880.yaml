@@ -13,17 +13,37 @@ wikitext: |-
   | def                   = 2000
   | effect_types          = Multi-Choice
   | fusion_material       = Multistrike Dragon Dragias
-  | materials             = "[[Multistrike Dragon Dragias]]" + 1 [[Level]] 1 [[Dragon]] [[Type]] [[monster]] with 0 [[ATK]]
+  | materials             = "[[Multistrike Dragon Dragias]]" + 1 [[Level]] 1 [[Dragon]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]]
   | requirement           = If the only monsters in your [[Graveyard]] are [[High Dragon]] and/or Dragon Type monsters, [[send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text                  = ● This card gains 2000 [[ATK]] until the end of this [[turn]].<br />● [[Destroy]] 1 card on your opponent's [[field]].
+  | text                  = ●This card gains 2000 ATK until the end of this [[turn]]. ●[[Destroy]] 1 card on your opponent's [[field]].
   | ja_materials          = 
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
   RD/KP23-JP040; Gias Charge of the Nova; Ultra Rare, Over Rush Rare
   | mentions              = Multistrike Dragon Dragias
+  | supports              = 
+  * Dragon
+  * High Dragon
   | archseries            = Strike Dragon
-  | related_to_archseries = The
-  | misc                  = Cover card
+  | related_to_archseries = 
+  * Draco
+  * The
+  | action                = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  | misc                  = 
+  * Requires having only specific Type in Graveyard
+  * Variable effects
+  * Cover card
   | database_id           = 
   }}

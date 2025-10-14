@@ -13,7 +13,7 @@ wikitext: |-
   | atk             = 1100
   | def             = 600
   | condition       = This card's name becomes "[[Dragon Knight of Darkness]]" while in the [[Graveyard]].
-  | requirement     = If you have a [[Level]] 5 [[Dragon]] [[Type]] [[monster]] in your Graveyard, [[pay]] 500 [[LP]].
+  | requirement     = If you have a [[Level]] 5 [[Dragon]] [[Type]] [[Monster Card|monster]] in your Graveyard, [[pay]] 500 [[LP]].
   | text            = [[Destroy]] 1 [[face-up]] Level 6 or lower monster on your opponent's [[field]]. Then, you can [[Special Summon]] 1 Level 5 "Dragon Knight of Darkness" from your Graveyard face-up to your field.
   | ja_condition    = 
   | ja_requirement  = 
@@ -21,5 +21,10 @@ wikitext: |-
   | jp_sets         = 
   RD/KP23-JP009; Gias Charge of the Nova; Common
   | mentions        = Dragon Knight of Darkness
+  | supports        = Dragon
+  | stat_change     = Changes own name while in the GY
+  | m/s/t           = Destroys your opponent's face-up Monster Cards
+  | summoning       = Special Summons from your Graveyard
+  | life_points     = Pays Life Points for cost
   | database_id     = 
   }}
