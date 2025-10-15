@@ -33,5 +33,20 @@ wikitext: |-
   | mentions            = Assist★Yummy!
   | archseries          = Yummy
   | supports_archetypes = Yummy
+  | action              = 
+  * Sends from field to Graveyard for cost
+  * Sends itself from field to Graveyard for cost
+  * Returns from field to hand
+  * Returns from Graveyard to hand
+  * Activates from your Graveyard
+  * Sends from your Deck to your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | life_points         = 
+  * You gain Life Points
+  * Your opponent pays Life Points for effect
+  | misc                = 
+  * Limited activations
+  * Only 1 effect once per turn
+  * Requires control of specific archetype
   | database_id         = 
   }}

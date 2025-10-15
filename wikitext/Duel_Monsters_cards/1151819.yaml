@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 3100
   | def                 = 2600
   | password            = 
+  | materials           = 2 Level 9 monsters
   | effect_types        = Continuous, Condition, Trigger, Quick
   | text                = 2 [[Level]] 9 [[monsters]]<br />If this card [[attack]]s a [[Defense Position]] [[monster]], inflict [[piercing]] [[battle damage]] to your opponent. You can only use each of the following [[effect]]s of "K9-X "Ripper/Millennia"" once per turn. If this card is [[Special Summon]]ed by a "[[K9]]" [[Spell]]/[[Trap]] effect: You can [[target]] up to 2 cards in your opponent's [[GY]] and/or [[banish]]ment; [[shuffle]] them into the [[Main Deck|Deck]]. When your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can [[detach]] 2 [[material]]s from this card; [[negate]] that effect, then [[destroy]] all cards on the [[field]].
   | fr_text             = 
@@ -35,5 +36,20 @@ wikitext: |-
   BPRO-JP043; Burst Protocol; 
   | archseries          = K9
   | supports_archetypes = K9
+  | action              = 
+  * Activates upon Special Summon
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Returns the opponent's banished cards to the Deck
+  * Detaches multiple Xyz Materials as cost
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | attack              = Piercing
+  | misc                = Only once per turn
   | database_id         = 
   }}
