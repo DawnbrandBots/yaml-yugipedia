@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2500
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Lingering, Ignition, Condition
   | text                  = 1 [[Tuner]] + 1+ non-Tuner monsters<br />If this card is [[Special Summon]]ed: You can [[Set]] 1 "[[Assault Mode Activate]]" from your [[hand]], [[Main Deck|Deck]], or [[GY]]. It can be activated this [[turn]]. You can [[discard]] 1 card; [[Add a card|add]] to your hand, or Special Summon, 1 [[monster]] that mentions "Assault Mode Activate" from your Deck, also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except [[Synchro Monster]]s. You can only use each effect of "Night Wing Priestess" once per turn.
   | fr_text               = 
@@ -34,6 +35,23 @@ wikitext: |-
   | jp_sets               = 
   BPRO-JP038; Burst Protocol; Rare
   | mentions              = Assault Mode Activate
+  | supports              = Synchro Monster
   | related_to_archseries = /Assault Mode
+  | action                = 
+  * Activates upon Special Summon
+  * Sets from your hand
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * You discard for cost
+  * Adds from Deck to hand
+  | m/s/t                 = Allows activation of Trap Cards the turn they were Set
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 
   }}

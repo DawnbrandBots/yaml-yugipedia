@@ -33,7 +33,17 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP011; Burst Protocol; 
+  | supports            = Continuous Spell Card
   | archseries          = Elvennotes
   | supports_archetypes = Elvennotes
+  | action              = 
+  * Places cards from Deck in Spell & Trap Zone
+  * Returns the opponent's banished cards to the hand
+  | m/s/t               = Changes Monster Zone
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | banished            = Banishes from your opponent's hand
+  | misc                = Only once per turn
   | database_id         = 
   }}

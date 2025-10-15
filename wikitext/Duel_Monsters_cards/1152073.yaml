@@ -41,5 +41,21 @@ wikitext: |-
   * Junk
   * Warrior (archetype)
   | supports_archetypes = /Assault Mode
+  | action              = 
+  * Activates if destroyed
+  * Returns from your Graveyard to your Extra Deck
+  | stat_change         = This card gains ATK
+  | m/s/t               = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's Monster Cards
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Must be Special Summoned by a specific card effect
+  * Nomi
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | life_points         = Increases battle damage
+  | misc                = Special Summon Monster
   | database_id         = 
   }}

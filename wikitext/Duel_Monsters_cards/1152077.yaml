@@ -31,6 +31,18 @@ wikitext: |-
   | jp_sets               = 
   BPRO-JP054; Burst Protocol; 
   | mentions              = Assault Mode Activate
-  | supports_archetypes = /Assault Mode
+  | supports              = Synchro Monster
+  | supports_archetypes   = /Assault Mode
+  | action                = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Changes cost
+  * Tributes from Extra Deck
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | attack                = Prevents other cards being destroyed by battle
+  | life_points           = Pays Life Points for cost
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 
   }}

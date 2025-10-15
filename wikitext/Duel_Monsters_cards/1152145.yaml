@@ -34,9 +34,20 @@ wikitext: |-
   | jp_sets             = 
   BPRO-JP013; Burst Protocol; Rare
   | mentions            = Junora the Power Patron of Tuning
+  | supports            = Synchro Monster
   | archseries          = 
   * Elvennotes
   * Power Patron
   | supports_archetypes = Elvennotes
+  | action              = 
+  * Activates if sent to the Graveyard
+  * Activates if used as Synchro Material
+  * Adds from Deck to hand
+  | stat_change         = Your monsters gain Levels
+  | summoning           = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
