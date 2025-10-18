@@ -33,9 +33,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP034; Burst Protocol; 
+  | supports            = 
+  * EARTH
+  * Rock
+  * Normal Spell Card
+  * Quick-Play Spell Card
+  * Field Spell Card
   | supports_archetypes = 
   * Magna Warrior
   * Magnet
   * Magnet Warrior
+  | action              = 
+  * Activates upon Fusion Summon
+  * Adds from Deck to hand
+  * Sends from Deck to Graveyard for cost
+  | stat_change         = Changes Attribute
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Allows multiple Normal Summons
+  * Performs a Normal Summon
+  | misc                = Only once per turn
   | database_id         = 
   }}

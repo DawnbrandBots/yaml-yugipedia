@@ -31,10 +31,35 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP006; Burst Protocol; 
+  | supports            = 
+  * EARTH
+  * Fusion Monster
+  * Rock
+  | anti-supports       = EARTH
   | archseries          = 
   * Magnet 
   * Magnet Warrior
   * Magnet Warrior Σ
   | supports_archetypes = Magna Warrior
+  | action              = 
+  * Activates upon attack declaration
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from your Deck to your Graveyard
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack              = Negates attacks
+  | misc                = 
+  * Limited activations
+  * Requires control of specific Attribute
   | database_id         = 
   }}
