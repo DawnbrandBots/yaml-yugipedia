@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 0
   | password            = 
+  | materials           = 2 monsters with different Types (Fiend, Illusion, or Spellcaster-Type)
   | effect_types        = Trigger, Condition, Continuous, Continuous, Continuous
   | text                = 2 [[monsters]] with different [[Type]]s ([[Fiend]], [[Illusion]], or [[Spellcaster]])<br />If this card is [[Special Summon]]ed, or at the end of the [[Battle Phase]], if this card [[battle]]d: You can [[equip]] 1 monster your opponent [[control]]s to this card as an [[Equip Spell]]. You can only use this [[effect]] of "Nightmare-Eyes Restrict" once per turn. Gains [[ATK]] equal to the combined ATK of those equipped monsters. If this card battles a monster, neither can be [[destroyed by that battle]]. Your opponent's monsters cannot [[attack]] monsters, except this one.
   | fr_text             = 
@@ -33,8 +34,27 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   25DB-JP002; Duelist Box: Prismatic Summon; Super Rare, Secret Rare, Prismatic Secret Rare
+  | supports            = 
+  * Fiend
+  * Illusion
+  * Spellcaster
   | archseries          = 
   * Eyes Restrict
   * Relinquished (archetype)
+  | action              = 
+  * Activates upon Special Summon
+  * Equips monsters from the opponent's field to itself
+  | stat_change         = This card gains ATK
+  | m/s/t               = Treats monsters as Equip Cards
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  * Prevents other cards being targeted for attacks
+  | misc                = 
+  * At the end of the Battle Phase
+  * Only once per turn
   | database_id         = 
   }}

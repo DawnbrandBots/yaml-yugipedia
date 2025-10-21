@@ -30,5 +30,14 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP078; Burst Protocol; 
+  | supports            = Equip Spell Card
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  * Equips from the player's hand
+  * Equips from the player's Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | life_points         = Reduces battle damage
+  | misc                = Only 1 effect once per turn
   | database_id         = 
   }}

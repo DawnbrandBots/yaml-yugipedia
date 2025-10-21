@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2800
   | def                 = 2100
   | password            = 
+  | materials           = 1 Tuner + 1 or more Synchro Monsters
   | effect_types        = Unclassified, Quick, Condition
   | text                = 1 [[Tuner]] + 1+ [[Synchro Monsters]]<br />If this card you [[control]] would be used as [[Synchro Material]], you can treat it as a non-Tuner. When a card or [[effect]] is [[activate]]d in [[response]] to a card or effect activation ([[Quick Effect]]): You can activate 1 of these effects;<br />● [[Negate]] that effect, and if you do, [[destroy]] that card.<br />● Negate the effects of the card that was responded to, and if you do, [[destroy]] that card.<br />You can only use this effect of "Zaren the Chainbound Dragon" once per turn.
   | fr_text             = 
@@ -33,5 +34,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP042; Burst Protocol; Rare
+  | stat_change         = Treats itself as a non-Tuner monster
+  | m/s/t               = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * Does not require specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Requires Synchro Monsters as Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  | misc                = 
+  * Variable effects
+  * Only once per turn
   | database_id         = 
   }}
