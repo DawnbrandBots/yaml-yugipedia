@@ -35,5 +35,16 @@ wikitext: |-
   * Change
   * DoomZ
   | supports_archetypes = DoomZ
+  | action              = 
+  * Activates if destroyed by card effect
+  * Adds from Graveyard to hand
+  | m/s/t               = 
+  * Destroys hand
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  * Destroys Main Deck
+  | summoning           = Special Summons from your hand
+  | misc                = Only once per turn
   | database_id         = 
   }}
