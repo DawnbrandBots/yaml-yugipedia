@@ -30,5 +30,18 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP069; Burst Protocol; 
+  | action              = 
+  * Returns from field to hand
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  * Changes battle positions
+  * Flips monsters face-up
+  | summoning           = 
+  * Special Summons from your hand
+  * Your opponent Special Summons
+  * Special Summons from your opponent's hand to your opponent's field
+  * Special Summons face-down
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}

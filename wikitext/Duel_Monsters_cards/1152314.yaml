@@ -33,7 +33,22 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP019; Terminal World 3; 
+  | supports            = Dragon
   | archseries          = Dragunity
   | supports_archetypes = Dragunity
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Equips monsters from the player's Deck
+  * Equips monsters from the player's Graveyard
+  * Sends itself from field to Graveyard for cost
+  | m/s/t               = Treats monsters as Equip Cards
+  | banished            = 
+  * Banishes itself from hand for cost
+  * Banishes itself from Graveyard for cost
+  * Banishes from your opponent's field
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}

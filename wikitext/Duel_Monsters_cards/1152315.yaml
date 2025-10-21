@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2900
   | def                 = 2500
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner Synchro Monsters
   | effect_types        = Ignition, Condition, Ignition-like, Condition
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[Synchro Monster]]s<br />You can [[target]] [[face-up]] cards your opponent [[control]]s, up to the number of face-up [[Monster Card]]s in your [[Spell & Trap Zone]]; [[negate]] their [[effect]]s until the end of this [[turn]]. This is a [[Quick Effect]] if this card is equipped with an [[Equip Card]]. While this card is equipped to a monster: You can [[Special Summon]] this card, then you can Special Summon 1 "[[Dragunity]]" Tuner from your [[GY]]. You can only use each effect of "Dragunity Knight - Areus" [[once per turn]].
   | fr_text             = 
@@ -33,7 +34,24 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP020; Terminal World 3; 
+  | supports            = 
+  * Synchro Monster
+  * Tuner monster
   | archseries          = Dragunity
   | supports_archetypes = Dragunity
+  | action              = Applies effect while equipped with an Equip Card
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning           = 
+  * Does not require specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Requires Synchro Monsters only as non-Tuner Synchro Materials
+  * Special Summons itself from your Spell & Trap Zone
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Can be activated during either player's turn
+  * Only once per turn
   | database_id         = 
   }}

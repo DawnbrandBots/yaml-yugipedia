@@ -20,6 +20,7 @@ wikitext: |-
   | atk                 = 2400
   | link_arrows         = Middle-Left, Bottom-Left, Bottom-Right, Middle-Right
   | password            = 
+  | materials           = 2+ monsters, including a Tuner
   | effect_types        = Continuous, Condition, Trigger, Quick
   | text                = 2+ [[monsters]], including a [[Tuner]]<br />Your opponent cannot [[activate]] the [[effect]]s of monsters in the [[GY]] while this card is equipped with a "[[Dragunity]]" card. You can only use each of the following effects of "Dragunity Lord - Georgius" once per turn. If this card is [[Link Summon]]ed, or your opponent [[Special Summon]]s a monster(s): You can Special Summon 1 [[Level]] 5 or higher "Dragunity" monster from your [[Extra Deck]] or GY. When your opponent activates a [[Spell]]/[[Trap Card]] or effect ([[Quick Effect]]): You can [[send]] 1 [[Equip Card]] you [[control]] to the GY; [[negate]] that effect.
   | fr_text             = 
@@ -32,7 +33,23 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   TW03-JP021; Terminal World 3; Ultra Parallel Rare
+  | supports            = Tuner monster
   | archseries          = Dragunity
   | supports_archetypes = Dragunity
+  | action              = 
+  * Applies effect while equipped with an Equip Card
+  * Activates upon Link Summon
+  * Activates upon Special Summon
+  * Sends from field to Graveyard for cost
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires Tuner monsters as Link Materials
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | misc                = Only once per turn
   | database_id         = 
   }}
