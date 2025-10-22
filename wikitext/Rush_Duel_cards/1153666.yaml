@@ -13,11 +13,18 @@ wikitext: |-
   | atk             = 1200
   | def             = 700
   | requirement     = None
-  | text            = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[send]] 1 excavated [[Zombie]] [[Type]] [[monster]] or 1 [[Ritual Spell Card]] to the [[Graveyard]]. Place the remaining cards on the bottom of the Deck in any order.
+  | text            = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[send]] 1 excavated [[Zombie]] [[Type]] [[Monster Card|monster]] or 1 [[Ritual Spell Card]] to the [[Graveyard]]. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP017; Gias Charge of the Nova; Common
-  | archseries     = Necromaid
-  | database_id    = 
+  | supports        = 
+  * Zombie
+  * Ritual Spell Card
+  | archseries      = Necromaid
+  | action          = 
+  * Excavates from the player's Deck
+  * Sends excavated cards to the Graveyard
+  * Places excavated cards on the bottom of the Deck
+  | database_id     = 
   }}

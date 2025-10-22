@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 2500
   | password            = 
   | effect_types        = Summoning condition, Summoning condition, Quick, Quick
-  | text                = Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing 1 "[[Magnet Warrior Σ＋]]" and 1 "[[Magnet Warrior Σ－]]" from your hand, face-up field, and/or GY. Once per turn, when your opponent activates a card or effect (Quick Effect): You can target 1 monster your opponent controls; destroy it, or if you targeted an EARTH monster at activation, you can take control of it instead. During your opponent's turn (Quick Effect): You can Tribute this card; Special Summon 2 of your banished "[[Magnet Warrior Σ]]" monsters.
+  | text                = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[GY]]) by [[banish]]ing 1 "[[Magnet Warrior Σ＋]]" and 1 "[[Magnet Warrior Σ－]]" from your [[hand]], [[face-up]] [[field]], and/or GY. [[Once per turn]], when your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can [[target]] 1 [[monster]] your opponent [[control]]s; [[destroy]] it, or if you targeted an [[EARTH]] monster at activation, you can take control of it instead. During your opponent's [[turn]] (Quick Effect): You can [[Tribute]] this card; Special Summon 2 of your banished "[[Magnet Warrior Σ]]" monsters.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -44,14 +44,11 @@ wikitext: |-
   | action              = 
   * Takes control of an opponent's monster
   * Tributes itself for cost
-  | m/s/t               = 
-  * Destroys your opponent's Monster Cards
-  * Destroys your opponent's Spell Cards
-  * Destroys your opponent's Spell Cards
+  | m/s/t               = Destroys your opponent's Monster Cards
   | summoning           = 
   * Cannot be Normal Summoned
   * Cannot be Normal Set
-  * Special Summon-only monster
+  * Nomi
   * Special Summons itself from your Graveyard
   * Special Summons the player's banished monsters
   | banished            = 

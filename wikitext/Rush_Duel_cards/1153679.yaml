@@ -3,22 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|湧|ゆう}}{{Ruby|軍|ぐん}}{{Ruby|機|き}}{{Ruby|海|カイ}}{{Ruby|炎|エン}}
-  | romaji_name     = Yūgunki Kaien
-  | translated_name = 
-  | image           = KaientheMoltenMartialMachine-RDKP23-JP-OP.png
-  | attribute       = FIRE
-  | types           = Machine / Effect
-  | level           = 7
-  | atk             = 1700
-  | def             = 800
-  | condition       = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[reveal]]ing 1 non-[[Level]] 7 [[FIRE]] [[Attribute]] [[Machine]] [[Type]] [[monster]] in your hand.
-  | requirement     = If you have 10 or more cards in your [[Main Deck|Deck]], place 1 face-up monster from your field on the bottom of the owner's Deck.
-  | text            = Special Summon 1 Level 9 FIRE Attribute Machine Type [[Effect Monster]] from your hand or [[Graveyard]] face-up to your field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|湧|ゆう}}{{Ruby|軍|ぐん}}{{Ruby|機|き}}{{Ruby|海|カイ}}{{Ruby|炎|エン}}
+  | romaji_name    = Yūgunki Kaien
+  | image          = KaientheMoltenMartialMachine-RDKP23-JP-OP.png
+  | attribute      = FIRE
+  | types          = Machine / Effect
+  | level          = 7
+  | atk            = 1700
+  | def            = 800
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[reveal]]ing 1 non-[[Level]] 7 [[FIRE]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] in your hand.
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], place 1 face-up monster from your field on the bottom of the [[owner]]'s Deck.
+  | text           = Special Summon 1 Level 9 FIRE Attribute Machine Type [[Effect Monster]] from your hand or [[Graveyard]] face-up to your field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP23-JP032; Gias Charge of the Nova; Common
-  | archseries      = Molten Martial Machine
-  | database_id     = 
+  | supports       = 
+  * FIRE
+  * Machine
+  * Effect Monster
+  | archseries     = Molten Martial Machine
+  | action         = 
+  * Reveals your hand for Special Summon
+  * Places cards from the player's field on the bottom of the Deck for cost
+  | summoning      = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | database_id    = 
   }}

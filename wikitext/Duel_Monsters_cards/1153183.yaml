@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 1500
   | password            = 
   | effect_types        = Continuous, Continuous, Trigger, Condition
-  | text                = While you control an EARTH monster, your opponent's monsters that can attack must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack targets for your opponent's attacks. If this card is sent to the GY: You can target 1 Level 4 or lower "[[Magnet Warrior]]" monster in your GY, except "Magnet Warrior Σ＋"; add it to your hand or Special Summon it. You can only use this effect of "Magnet Warrior Σ＋" once per turn.
+  | text                = While you [[control]] an [[EARTH]] [[monster]], your opponent's monsters that can [[attack]] must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack [[target]]s for your opponent's attacks. If this card is [[send|sent]] to the [[GY]]: You can target 1 [[Level]] 4 or lower "[[Magnet Warrior]]" monster in your GY, except "Magnet Warrior Σ＋"; [[add]] it to your [[hand]] or [[Special Summon]] it. You can only use this [[effect]] of "Magnet Warrior Σ＋" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -40,8 +40,6 @@ wikitext: |-
   * Magnet 
   * Magnet Warrior
   * Magnet Warrior Σ
-  | action              = 
-  * Adds from Graveyard to hand
   | supports_archetypes = Magnet Warrior
   | action              = 
   * Activates if sent to the Graveyard
@@ -49,6 +47,7 @@ wikitext: |-
   | summoning           = Special Summons from your Graveyard
   | attack              = 
   * Must attack
+  * Prevents other cards being targeted for attacks
   * Chooses your opponent's attack targets
   | misc                = 
   * Requires control of specific Attribute

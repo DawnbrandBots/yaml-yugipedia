@@ -13,12 +13,16 @@ wikitext: |-
   | atk             = 2500
   | def             = 700
   | requirement     = None
-  | text            = [[Send]] the bottom card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you sent a [[Zombie]] [[Type]] [[monster]] to the Graveyard by this [[effect]], you can [[Special Summon]] it [[face-up]] to your [[field]]. If you do, you cannot [[activate]] the effect of "Necromaid Carriage" this [[turn]].
+  | text            = [[Send]] the bottom card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if you sent a [[Zombie]] [[Type]] [[Monster Card|monster]] to the Graveyard by this [[effect]], you can [[Special Summon]] it [[face-up]] to your [[field]]. If you do, you cannot [[activate]] the effect of "Necromaid Carriage" this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP018; Gias Charge of the Nova; Super Rare
   | mentions        = Necromaid Carriage
+  | supports        = Zombie
   | archseries      = Necromaid
+  | action          = Sends from the bottom of your Deck to your Graveyard
+  | summoning       = Special Summons from your Graveyard
+  | misc            = Only once per turn
   | database_id     = 
   }}
