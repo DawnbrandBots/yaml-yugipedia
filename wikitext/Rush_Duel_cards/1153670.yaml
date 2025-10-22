@@ -10,11 +10,23 @@ wikitext: |-
   | card_type       = Spell
   | property        = Ritual
   | requirement     = None
-  | text            = [[Ritual Summon]] a [[Level]] 7 [[LIGHT]] [[Attribute]] [[Zombie]] [[Type]] [[monster]] by [[send]]ing [[face-up]] Zombie Type monsters from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 7 or more as [[material]] (you cannot use more monsters than necessary as material). This turn, you can only [[attack]] with Zombie Type monsters.
+  | text            = [[Ritual Summon]] a [[Level]] 7 [[LIGHT]] [[Attribute]] [[Zombie]] [[Type]] [[Monster Card|monster]] by [[send]]ing [[face-up]] Zombie Type monsters from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 7 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], you can only [[attack]] with Zombie Type monsters.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP050; Gias Charge of the Nova; Super Rare
+  | supports        = 
+  * LIGHT
+  * Zombie
   | archseries      = Necromaid
+  | action          = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  | summoning       = Special Summons from your Extra Deck
+  | attack          = Prevents your monsters from attacking
+  | misc            = 
+  * Nonspecific Ritual Spell Card
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id     = 
   }}

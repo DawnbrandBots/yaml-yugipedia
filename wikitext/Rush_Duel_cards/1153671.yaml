@@ -10,11 +10,20 @@ wikitext: |-
   | card_type       = Spell
   | property        = Normal
   | requirement     = None
-  | text            = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Zombie]] [[Type]] [[Effect Monster]] with 700 [[DEF]] or 1 [[Ritual Spell Card]] to your [[hand]]. Place the remaining cards on the bottom of the Deck in any order. This turn, you can only [[attack]] with Zombie Type monsters.
+  | text            = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Zombie]] [[Type]] [[Effect Monster]] with 700 [[DEF]] or 1 [[Ritual Spell Card]] to your [[hand]]. Place the other cards on the bottom of your Deck in any order. This [[turn]], you can only [[attack]] with Zombie Type [[Monster Card|monster]]s.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP051; Gias Charge of the Nova; Super Rare
+  | supports        = 
+  * Zombie
+  * Effect Monster
+  * Ritual Spell Card
   | archseries      = Necromaid
+  | action          = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}

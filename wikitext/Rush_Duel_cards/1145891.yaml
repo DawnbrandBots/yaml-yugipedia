@@ -3,19 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = ローレ・ライミー
-  | romaji_name           = Rōre Raimī
-  | image                 = LoreLeimey-RDKP23-JP-OP.png
-  | attribute             = LIGHT
-  | types                 = Aqua / Effect
-  | level                 = 4
-  | atk                   = 1100
-  | def                   = 500
-  | requirement           = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text                  = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can choose 1 [[Level]] 3 or 4 [[Effect Monster]] with 1500 or less [[ATK]] in your opponent's Graveyard. If you do, neither player can [[activate]] the effects of monsters with the same original name as that monster until the end of your opponent's next [[turn]].
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name        = ローレ・ライミー
+  | romaji_name    = Rōre Raimī
+  | image          = LoreLeimey-RDKP23-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Aqua / Effect
+  | level          = 4
+  | atk            = 1100
+  | def            = 500
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can choose 1 [[Level]] 3 or 4 [[Effect Monster]] with 1500 or less [[ATK]] in your opponent's Graveyard. If you do, neither [[Duelist|player]] can [[activate]] the [[effect]]s of [[Monster Card|monster]]s with the same original name as that monster until the end of your opponent's next [[turn]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP23-JP037; Gias Charge of the Nova; Ultra Rare, Over Rush Rare
-  | database_id           = 
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | m/s/t          = Prevents activation of Effect Monsters
+  | misc           = Turn limited effects
+  | database_id    = 
   }}

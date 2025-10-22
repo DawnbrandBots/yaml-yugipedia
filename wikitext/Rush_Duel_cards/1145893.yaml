@@ -12,16 +12,27 @@ wikitext: |-
   | level                 = 7
   | atk                   = 1100
   | def                   = 2600
+  | ritualcard            = Necromaid Stitch
   | condition             = This card's name becomes "[[Necromaid Nana]]" while in the [[Graveyard]].
-  | requirement           = [[Shuffle]] 1 [[Ritual Monster]] or 3 [[Zombie]] [[Type]] [[monsters]] from your Graveyard into the [[Main Deck|Deck]].
-  | text                  = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can inflict 700 damage to your opponent.
+  | requirement           = [[Shuffle]] 1 [[Ritual Monster]] or 3 [[Zombie]] [[Type]] [[Monster Card|monster]]s from your Graveyard into the [[Main Deck|Deck]].
+  | text                  = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent.
   | ja_condition          = 
   | ja_requirement        = 
   | ja_text               = 
   | jp_sets               = 
   RD/KP23-JP044; Gias Charge of the Nova; Ultra Rare, Over Rush Rare
   | mentions              = Necromaid Nana
+  | supports              = 
+  * Ritual Monster
+  * Zombie
   | archseries            = Necromaid
   | related_to_archseries = Ghost Story
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = Changes own name while in the GY
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | life_points           = Damages your opponent
   | database_id           = 
   }}
