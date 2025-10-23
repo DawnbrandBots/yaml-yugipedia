@@ -24,7 +24,7 @@ wikitext: |-
   | def                  = 1000
   | password             = 
   | effect_types         = Ignition, Trigger, Condition
-  | text                 = If you control a "[[Tri-Brigade]]" or "[[Springans]]" monster other than "Tri-Brigade Springans Kitt": You can Special Summon this card from your hand. If this card is sent to the GY: You can Special Summon 1 of the following monsters from your GY in Defense Position, except "Tri-Brigade Springans Kitt".<br />● "Tri-Brigade" monster ● "Springans" monster ● "[[Fallen of Albaz]]" or monster that mentions it<br />You can only use each [[effect]] of "Tri-Brigade Springans Kitt" [[once per turn]].
+  | text                 = If you [[control]] a "[[Tri-Brigade]]" or "[[Springans]]" [[monster]] other than "Tri-Brigade Springans Kitt": You can [[Special Summon]] this card from your [[hand]]. If this card is [[send|sent]] to the [[GY]]: You can Special Summon 1 of the following monsters from your GY in [[Defense Position]], except "Tri-Brigade Springans Kitt".<br />● "Tri-Brigade" monster ● "Springans" monster ● "[[Fallen of Albaz]]" or monster that [[mention]]s it<br />You can only use each [[effect]] of "Tri-Brigade Springans Kitt" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -35,12 +35,24 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   BPRO-JP025; Burst Protocol; 
-  | mentions             = Fallen of Albaz
+  | mentions             = 
+  * Tri-Brigade Springans Kitt
+  * Fallen of Albaz
   | archseries           = 
   * Springans
   * Tri-Brigade
   | supports_archetypes  = 
   * Springans
   * Tri-Brigade
+  | action               = 
+  * Activates from your hand
+  * Activates if sent to the Graveyard
+  | summoning            = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  | misc                 = 
+  * Requires control of specific archetype
+  * Mentions
+  * Only once per turn
   | database_id          = 
   }}
