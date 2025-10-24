@@ -2,18 +2,31 @@ title: Red-Eyes Darkness Metal Dragon (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image                 = RedEyesDarknessMetalDragon-OW-RD.png
-  | attribute             = DARK
-  | types                 = Dragon / Effect
-  | level                 = 10
-  | atk                   = 2800
-  | def                   = 2400
-  | requirement           = (TBA)
-  | text                  = (TBA)
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
-  RD/KP23-JP0??; Gias Charge of the Nova
-  | archseries            = Red-Eyes (Rush Duel)
-  | database_id           = 
+  | image          = RedEyesDarknessMetalDragon-RDKP23-JP-OP.png
+  | attribute      = DARK
+  | types          = Dragon / Effect
+  | level          = 10
+  | atk            = 2800
+  | def            = 2400
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by placing 1 face-up [[Dragon]] [[Type]] [[Monster Card|monster]] from your field on the bottom of the [[Main Deck|Deck]].
+  | requirement    = None
+  | text           = Special Summon 1 Dragon Type monster from your hand or [[Graveyard]] face-up to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Red-Eyes Darkness Metal Dragon".
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
+  RD/KP23-JP000; Gias Charge of the Nova; Super Rare, Over Rush Rare
+  | mentions       = Red-Eyes Darkness Metal Dragon (Rush Duel)
+  | supports       = Dragon
+  | archseries     = Red-Eyes (Rush Duel)
+  | action         = Returns from field to Deck for Summon
+  | summoning      = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc           = 
+  * Requires control of specific Type
+  * Only once per turn
+  * Legend Card
+  | database_id    = 
   }}
