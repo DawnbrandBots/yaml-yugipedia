@@ -2,54 +2,54 @@ title: Darklord Dance
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|佚|いつ}}{{Ruby|楽|らく}}の{{Ruby|堕|だ}}{{Ruby|天|てん}}{{Ruby|使|し}}
-  | romaji_name         = Itsuraku no Datenshi
-  | translated_name     = Fallen Angel in Pleasure
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = DarklordDance-BPRO-JP-OP.png
-  | card_type           = Spell
-  | property            = Normal
-  | password            = 
-  | effect_types        = Effect, Condition
-  | text                = [[Fusion Summon]] 1 [[DARK]] [[Fairy]] [[Fusion Monster]] from your [[Extra Deck]], by banishing its [[material]]s from your [[hand]], [[field]], and/or [[GY]], and if you do, it gains 1000 [[ATK]]. If Summoning a "[[Darklord]]" monster this way, you can also use "Darklord" monsters your opponent controls as material. You can only [[activate]] 1 "Darklord Dance" per turn.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
-  BPRO-JP063; Burst Protocol; 
-  | supports            = 
+  | fr_name                  = 
+  | de_name                  = 
+  | it_name                  = 
+  | pt_name                  = 
+  | es_name                  = 
+  | ja_name                  = {{Ruby|佚|いつ}}{{Ruby|楽|らく}}の{{Ruby|堕|だ}}{{Ruby|天|てん}}{{Ruby|使|し}}
+  | romaji_name              = Itsuraku no Datenshi
+  | translated_name          = Fallen Angel in Pleasure
+  | ko_name                  = 
+  | ko_rr_name               = 
+  | sc_name                  = 
+  | image                    = DarklordDance-BPRO-JP-C.png
+  | card_type                = Spell
+  | property                 = Normal
+  | password                 = 99941223
+  | effect_types             = Effect, Condition
+  | text                     = [[Fusion Summon]] 1 [[DARK]] [[Fairy]] [[Fusion Monster]] from your [[Extra Deck]], by banishing its [[material]]s from your [[hand]], [[field]], and/or [[GY]], and if you do, it gains 1000 [[ATK]]. If Summoning a "[[Darklord]]" monster this way, you can also use "Darklord" monsters your opponent controls as material. You can only [[activate]] 1 "Darklord Dance" per turn.
+  | fr_text                  = 
+  | de_text                  = 
+  | it_text                  = 
+  | pt_text                  = 
+  | es_text                  = 
+  | ja_text                  = このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールド・墓地のモンスターを融合素材として除外し、天使族・闇属性の融合モンスター１体を融合召喚する。「堕天使」融合モンスターを融合召喚する場合、相手フィールドの「堕天使」モンスターも融合素材とする事ができる。この効果で特殊召喚したモンスターの攻撃力は１０００アップする。
+  | ko_text                  = 
+  | sc_text                  = 
+  | jp_sets                  = 
+  BPRO-JP063; Burst Protocol; Common
+  | supports                 = 
   * DARK
   * Fairy
   * Fusion Monster
-  | archseries          = Darklord
-  | supports_archetypes = Darklord
+  | archseries               = Darklord
+  | supports_archetypes      = Darklord
   | anti-supports_archetypes = Darklord
-  | action              = 
+  | action                   = 
   * Uses cards in the hand as Fusion Materials
   * Uses cards on the player's field as Fusion Materials
   * Uses cards in the player's Graveyard as Fusion Materials
   * Uses cards on the opponent's field as Fusion Materials
-  | stat_change         = Your monsters gain ATK
-  | summoning           = 
+  | stat_change              = Your monsters gain ATK
+  | summoning                = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
-  | banished            = 
+  | banished                 = 
   * Banishes from your hand
   * Banishes from your field
   * Banishes from your Graveyard
   * Banishes Fusion Materials used in a Fusion Summon
-  | misc                = Only once per turn
-  | database_id         = 
+  | misc                     = Only once per turn
+  | database_id              = 22166
   }}

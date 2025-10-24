@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ArsenalOrganization-BPRO-JP-OP.png
+  | image               = ArsenalOrganization-BPRO-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 49652661
   | effect_types        = Effect, Quick-like, Condition
   | text                = [[Send]] up to 2 [[Equip Spell]]s with different names from your [[Main Deck|Deck]] to the [[GY]]. You can [[banish]] this card from your GY, then [[target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] it with up to 2 [[Equip Spell]]s with different names from your [[hand]] and/or GY that can equip to it, but any [[battle damage]] it inflicts to your opponent is halved while equipped with any of those Equip Spells. You can only use 1 "Arsenal Organization" effect per turn, and only once that turn.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：デッキから装備魔法カードを２枚まで墓地へ送る（同名カードは１枚まで）。②：墓地のこのカードを除外し、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターが装備可能な装備魔法カードを自分の手札・墓地から２枚までそのモンスターに装備する（同名カードは１枚まで）。この効果で装備魔法カードを装備している限り、そのモンスターが相手に与える戦闘ダメージは半分になる。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP078; Burst Protocol; 
+  BPRO-JP078; Burst Protocol; Common
   | supports            = Equip Spell Card
   | action              = 
   * Sends from your Deck to your Graveyard
@@ -39,5 +39,5 @@ wikitext: |-
   | banished            = Banishes itself from Graveyard for cost
   | life_points         = Reduces battle damage
   | misc                = Only 1 effect once per turn
-  | database_id         = 
+  | database_id         = 22180
   }}

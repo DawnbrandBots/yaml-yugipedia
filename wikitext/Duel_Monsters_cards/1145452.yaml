@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = FandoratheFearsomeFlyingFurtress-BPRO-JP-OP.png
+  | image               = FandoratheFearsomeFlyingFurtress-BPRO-JP-C.png
   | card_type           = Spell
   | property            = Field
-  | password            = 
+  | password            = 26162470
   | effect_types        = Condition, Continuous-like, Condition, Ignition-like, Trigger-like
   | text                = (This card is always treated as a card "[[Fur Hire]]".)<br />[[Monsters]] "[[Fur Hire]]" you [[control]] gain 300 [[ATK]] for each monster "Fur Hire" you control with different names. You can only use each of the following effects of "Fandora, the Fearsome Flying Furtress" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 monster "Fur Hire" from your [[Main Deck|Deck]] to your [[hand]], then [[discard]] 1 card. If a [[face-up]] monster(s) "Fur Hire" you control is [[destroy]]ed by an opponent's card effect: You can [[Special Summon]] 1 monster "Fur Hire" from your Deck.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名はルール上「空牙団」カードとしても扱う。このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「空牙団」モンスターの攻撃力は、自分フィールドの「空牙団」モンスターの種類×３００アップする。②：自分メインフェイズに発動できる。デッキから「空牙団」モンスター１体を手札に加える。その後、自分の手札を１枚選んで捨てる。③：自分フィールドの表側表示の「空牙団」モンスターが相手の効果で破壊された場合に発動できる。デッキから「空牙団」モンスター１体を特殊召喚する。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP061; Burst Protocol; 
+  BPRO-JP061; Burst Protocol; Common
   | archseries          = Fur Hire
   | supports_archetypes = Fur Hire
   | action              = 
@@ -41,5 +41,5 @@ wikitext: |-
   | misc                = 
   * Archetype condition
   * Only once per turn
-  | database_id         = 
+  | database_id         = 22164
   }}

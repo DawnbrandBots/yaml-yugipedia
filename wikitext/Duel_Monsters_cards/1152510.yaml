@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = Riot-BPRO-JP-OP.png
+  | image               = Riot-BPRO-JP-NR.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 51612489
   | effect_types        = Effect, Trigger-like, Condition
   | text                = [[Target]] 1 [[face-down]] [[Defense Position]] [[monster]] on the [[field]]; [[return]] it to the [[hand]], then the player who added it to their hand can [[Special Summon]] 1 monster from their hand in face-down Defense Position. When an opponent's monster [[declare]]s an [[attack]]: You can [[banish]] this card from your [[GY]]; change 1 face-down Defense Position monster on the field to [[Attack Position]]. You can only use each effect of "Riot" once per turn.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドの裏側守備表示モンスター１体を対象として発動できる。そのモンスターを手札に戻す。その後、この効果でカードが手札に加わったプレイヤーは、自身の手札からモンスター１体を裏側守備表示で特殊召喚できる。②：相手モンスターの攻撃宣言時、墓地のこのカードを除外して発動できる。フィールドの裏側守備表示モンスター１体を表側攻撃表示にする。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP069; Burst Protocol; 
+  BPRO-JP069; Burst Protocol; Normal Rare
   | action              = 
   * Returns from field to hand
   * Activates upon attack declaration
@@ -43,5 +43,5 @@ wikitext: |-
   * Special Summons face-down
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22171
   }}
