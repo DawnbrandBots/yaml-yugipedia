@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = DoomEmperorArchfiend-BPRO-JP-OP.png
+  | image                 = DoomEmperorArchfiend-BPRO-JP-UR.png
   | attribute             = FIRE
   | types                 = Fiend / Ritual / Pendulum / Effect
   | level                 = 7
   | pendulum_scale        = 0
   | atk                   = 2500
   | def                   = 1200
-  | password              = 
+  | password              = 48469380
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Summoning condition, Continuous, Condition, Trigger, Ignition
   | pendulum_effect       = You can [[target]] 1 other [[face-up]] [[Spell]]/[[Trap]] on the field; [[destroy]] both it and this card. You can only use this [[effect]] of "Doom Emperor Archfiend" [[once per turn]].
@@ -36,14 +36,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：フィールドの他の表側表示の魔法・罠カード１枚を対象として発動できる。そのカードとこのカードを破壊する。
+  | ja_text               = 「スローン・オブ・デーモンズ」により降臨<br />このカードは儀式召喚でしか特殊召喚できない。このカード名の①③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＥＸデッキから儀式召喚した場合に発動できる。ＥＸモンスターゾーン以外のフィールドのモンスターを全て除外する。②：ＥＸモンスターゾーンのこのカードは他のモンスターの効果を受けない。③：このカードがＥＸモンスターゾーンに存在する場合に発動できる。自分の手札・デッキ・墓地・除外状態の悪魔族モンスター１体を特殊召喚する。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  BPRO-JP031; Burst Protocol; Ultra Rare
+  BPRO-JP031; Burst Protocol; Ultra Rare, Prismatic Secret Rare
   | mentions              = Throne of Archfiends
   | supports              = Fiend
   | archseries            = Archfiend
@@ -63,5 +63,5 @@ wikitext: |-
   | misc                  = 
   * Ritual Pendulum Monster
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22134
   }}

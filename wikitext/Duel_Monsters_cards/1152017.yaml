@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = WAKECUPErl-BPRO-JP-OP.png
+  | image               = WAKECUPErl-BPRO-JP-C.png
   | attribute           = WIND
   | types               = Aqua / Flip / Effect
   | level               = 7
   | atk                 = 2700
   | def                 = 400
-  | password            = 
+  | password            = 85586937
   | effect_types        = Trigger, Ignition, Trigger, Condition
   | text                = FLIP: You can [[send]] [[face-up]] cards your opponent [[control]]s to the [[GY]], up to the number of [[Flip monster]]s you [[control]].<br />If this card is in your [[hand]]: You can [[discard]] 1 other Flip monster, and if you do, [[Special Summon]] this card in [[Attack Position]] or [[face-down]] [[Defense Position]]. During your [[End Phase]]: You can [[target]] 1 Flip monster in your GY; Special Summon it in face-down Defense Position. You can only use each [[effect]] of "WAKE CUP! Erl" [[once per turn]].
   | fr_text             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合に発動できる。自分の手札から他のリバースモンスター１体を選んで捨て、このカードを表側攻撃表示か裏側守備表示で特殊召喚する。②：このカードがリバースした場合に発動できる。自分フィールドのリバースモンスターの数まで、相手フィールドの表側表示カードを墓地へ送る。③：自分エンドフェイズに、自分の墓地のリバースモンスター１体を対象として発動できる。そのモンスターを裏側守備表示で特殊召喚する。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP029; Burst Protocol; 
+  BPRO-JP029; Burst Protocol; Common, Prismatic Secret Rare
   | supports            = Flip monster
   | archseries          = WAKE CUP!
   | action              = 
@@ -47,5 +47,5 @@ wikitext: |-
   | misc                = 
   * Requires control of specific Monster type
   * Only once per turn
-  | database_id         = 
+  | database_id         = 22132
   }}

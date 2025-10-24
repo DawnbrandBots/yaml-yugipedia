@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = HighnessArchfiend-BPRO-JP-OP.png
+  | image               = HighnessArchfiend-BPRO-JP-R.png
   | attribute           = LIGHT
   | types               = Fiend / Effect
   | level               = 3
   | atk                 = 1000
   | def                 = 800
-  | password            = 
+  | password            = 11248645
   | effect_types        = Trigger, Trigger, Condition
   | text                = If this card is [[Normal Summon]]ed: You can [[banish]] 1 "[[Archfiend]]" card from your [[GY]]; [[Add a card|add]] 2 "Archfiend" cards from your [[Main Deck|Deck]] to your [[hand]], except "Highess Archfiend", also you cannot [[Special Summon]] from the [[Extra Deck]] for the rest of this [[turn]], except "Archfiend" monsters. When your [[Ritual Monster]] is [[destroyed by battle]] while this card is in your GY: You can Special Summon this card. You can only use each [[effect]] of "Highness Archfiend" [[once per turn]].
   | fr_text             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚した場合、自分の墓地から「デーモン」カード１枚を除外して発動できる。デッキから「ハイネス・デーモン」以外の「デーモン」カード２枚を手札に加える。この効果の発動後、ターン終了時まで自分は「デーモン」モンスターしかＥＸデッキから特殊召喚できない。②：このカードが墓地に存在する状態で、自分の儀式モンスターが戦闘で破壊された時に発動できる。このカードを特殊召喚する。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP016; Burst Protocol; Rare
+  BPRO-JP016; Burst Protocol; Rare, Secret Rare
   | mentions            = Highness Archfiend
   | supports            = Ritual Monster
   | archseries          = Archfiend
@@ -48,5 +48,5 @@ wikitext: |-
   * Special Summons itself from your Graveyard
   | banished            = Banishes from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22122
   }}

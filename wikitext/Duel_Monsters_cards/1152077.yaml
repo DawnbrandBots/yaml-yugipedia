@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = DuelEvolutionAssaultZone-BPRO-JP-OP.png
+  | image                 = DuelEvolutionAssaultZone-BPRO-JP-C.png
   | card_type             = Spell
   | property              = Field
-  | password              = 
+  | password              = 91002901
   | effect_types          = Effect, Continuous-like, Ignition-like, Condition, Condition
   | text                  = When this card is [[activate]]d: You can [[Add a card|add]] 1 [[monster]] that mentions "[[Assault Mode Activate]]" from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. "[[/Assault Mode]]" monsters cannot be [[destroyed by battle]] or your opponent's card effects during the [[turn]] they are [[Special Summon]]ed. You can pay 2000 [[LP]]; once this turn, you can activate "Assault Mode Activate" by Tributing a [[Synchro Monster]] in the [[Extra Deck]]. You can only use this effect of "Duel Evolution - Assault Zone" once per turn. You can only activate 1 "Duel Evolution - Assault Zone" per turn.
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、自分のデッキ・墓地から「バスター・モード」のカード名が記されたモンスター１体を手札に加える事ができる。②：「／バスター」モンスターは特殊召喚されたターンには戦闘及び相手の効果では破壊されない。③：２０００ＬＰを払って発動できる。このターンに１度だけ、自分が「バスター・モード」を発動するためにリリースするＳモンスターをＥＸデッキから選ぶ事ができる。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BPRO-JP054; Burst Protocol; 
+  BPRO-JP054; Burst Protocol; Common
   | mentions              = Assault Mode Activate
   | supports              = Synchro Monster
   | supports_archetypes   = /Assault Mode
@@ -44,5 +44,5 @@ wikitext: |-
   | misc                  = 
   * Mentions
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22157
   }}

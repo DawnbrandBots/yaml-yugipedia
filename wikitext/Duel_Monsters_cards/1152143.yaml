@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ElvennotesDyina-BPRO-JP-OP.png
+  | image               = ElvennotesDyina-BPRO-JP-C.png
   | attribute           = WATER
   | types               = Spellcaster / Effect
   | level               = 6
   | atk                 = 2400
   | def                 = 1800
-  | password            = 
+  | password            = 59581480
   | effect_types        = Unclassified, Condition, Condition, Ignition, Quick
   | text                = You can [[Special Summon]] this card (from your [[hand]]) to your center [[Main Monster Zone]]. You can only Special Summon "Elvennotes Dyina" [[once per turn]] this way. You can only use each of the following effects of "Elvennotes Dyina" once per turn. During your [[Main Phase]]: You can place 1 "[[Elvennotes]]" [[Continuous Spell]] from your [[Main Deck|Deck]] [[face-up]] on your field. During your opponent's [[turn]] ([[Quick Effect]]): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can [[banish]] 1 [[random]] card from your opponent's hand face-up until the [[End Phase]].
   | fr_text             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードは手札から自分の中央のメインモンスターゾーンに特殊召喚できる。②：自分メインフェイズに発動できる。デッキから「エルフェンノーツ」永続魔法カード１枚を自分フィールドに表側表示で置く。③：相手ターンに発動できる。自分のメインモンスターゾーンの、このカードと中央のモンスターの位置を入れ替える。その後、相手の手札をランダムに１枚選んでエンドフェイズまで表側で除外できる。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP011; Burst Protocol; 
+  BPRO-JP011; Burst Protocol; Common, Secret Rare
   | supports            = Continuous Spell Card
   | archseries          = Elvennotes
   | supports_archetypes = Elvennotes
@@ -45,5 +45,5 @@ wikitext: |-
   * Special Summon by its own condition once per turn
   | banished            = Banishes from your opponent's hand
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22117
   }}

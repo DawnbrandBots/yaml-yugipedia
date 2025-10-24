@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = DukeArchfiend-BPRO-JP-OP.png
+  | image               = DukeArchfiend-BPRO-JP-C.png
   | attribute           = WATER
   | types               = Fiend / Effect
   | level               = 4
   | atk                 = 0
   | def                 = 2000
-  | password            = 
+  | password            = 85154941
   | effect_types        = Continuous, Condition, Ignition, Trigger
   | text                = Gains [[ATK]] equal to its [[Level]] x 200. You can only use each of the following [[effect]]s of "Duke Archfiend" [[once per turn]]. You can [[target]] 1 [[face-up]] [[monster]] you [[control]]; [[send]] 1 "Archfiend" monster from your [[Main Deck|Deck]] to the [[GY]], except "Duke Archfiend", and if you do, increase the targeted monster's Level by the sent monster's. When your [[Ritual Monster]] is [[destroyed by battle]] while this card is in your GY: You can [[Special Summon]] this card.
   | fr_text             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードの攻撃力は、このカードのレベル×２００アップする。②：自分フィールドの表側表示モンスター１体を対象として発動できる。デッキから「デューク・デーモン」以外の「デーモン」モンスター１体を墓地へ送る。対象のモンスターのレベルは墓地へ送ったモンスターのレベル分だけ上がる。③：このカードが墓地に存在する状態で、自分の儀式モンスターが戦闘で破壊された時に発動できる。このカードを特殊召喚する。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP015; Burst Protocol; 
+  BPRO-JP015; Burst Protocol; Common
   | mentions            = Duke Archfiend
   | supports            = Ritual Monster
   | archseries          = Archfiend
@@ -46,5 +46,5 @@ wikitext: |-
   * Your monsters gain Levels
   | summoning           = Special Summons itself from your Graveyard
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22121
   }}

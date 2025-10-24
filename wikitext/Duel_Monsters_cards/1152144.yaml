@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ElvennotesFortona-BPRO-JP-OP.png
+  | image               = ElvennotesFortona-BPRO-JP-C.png
   | attribute           = LIGHT
   | types               = Spellcaster / Effect
   | level               = 6
   | atk                 = 2200
   | def                 = 1800
-  | password            = 
+  | password            = 85976588
   | effect_types        = Unclassified, Condition, Condition, Ignition, Quick
   | text                = You can [[Special Summon]] this card (from your [[hand]]) to your center [[Main Monster Zone]]. You can only Special Summon "Elvennotes Fortona" [[once per turn]] this way. You can only use each of the following effects of "Elvennotes Fortona" once per turn. During your [[Main Phase]]: You can place 1 "[[Elvennotes]]" [[Continuous Trap]] from your hand or [[Main Deck|Deck]] [[face-up]] on your [[field]]. During your opponent's [[turn]] ([[Quick Effect]]): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can [[return]] 1 face-up [[Spell]]/[[Trap]] on the field to the hand.
   | fr_text             = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードは手札から自分の中央のメインモンスターゾーンに特殊召喚できる。②：自分メインフェイズに発動できる。手札・デッキから「エルフェンノーツ」永続罠カード１枚を自分フィールドに表側表示で置く。③：相手ターンに発動できる。自分のメインモンスターゾーンの、このカードと中央のモンスターの位置を入れ替える。その後、フィールドの表側表示の魔法・罠カード１枚を手札に戻す事ができる。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP012; Burst Protocol; 
+  BPRO-JP012; Burst Protocol; Common, Secret Rare
   | supports            = Continuous Trap Card
   | archseries          = Elvennotes
   | supports_archetypes = Elvennotes
@@ -45,5 +45,5 @@ wikitext: |-
   * Special Summons itself from your hand
   * Special Summon by its own condition once per turn
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22118
   }}

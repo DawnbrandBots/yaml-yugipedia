@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = ThroneofArchfiends-BPRO-JP-OP.png
+  | image               = ThroneofArchfiends-BPRO-JP-C.png
   | card_type           = Spell
   | property            = Ritual
-  | password            = 
+  | password            = 63679166
   | effect_types        = Effect, Trigger-like, Condition
   | text                = This card can be used to [[Ritual Summon]] any "[[Archfiend]]" [[Ritual Monster]] from your [[hand]], [[face-up]] [[Extra Deck]], [[GY]], or [[banish]]ment. You must also Tribute monsters from your hand or [[field]] whose total [[Level]]s equal or exceed the Level of the Ritual Monster. During the [[Standby Phase]], if you have "[[Doom Emperor Archfiend]]" face-up in your [[Extra Deck]]: You can [[Add a card|add]] this card from your GY or banishment to your hand. You can only use this effect of "Throne of Archfiends" [[once per turn]].
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、自分の手札・ＥＸデッキ（表側）・墓地・除外状態の「デーモン」儀式モンスター１体を儀式召喚する。②：自分・相手のスタンバイフェイズに、自分のＥＸデッキに表側の「デス・エンペラー・デーモン」が存在する場合に発動できる。墓地・除外状態のこのカードを手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BPRO-JP059; Burst Protocol; 
+  BPRO-JP059; Burst Protocol; Common
   | mentions            = Doom Emperor Archfiend
   | supports            = Ritual Monster
   | archseries          = Archfiend
@@ -48,5 +48,5 @@ wikitext: |-
   * Nonspecific Ritual Spell Card
   * During the Standby Phase
   * Only once per turn
-  | database_id         = 
+  | database_id         = 22162
   }}
