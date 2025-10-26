@@ -61,10 +61,29 @@ wikitext: |-
   * The "[[Superheavy Samurai Prodigy Wakaushi]]" engine can tutor out starter card "[[Rescue-ACE Air Lifter|Air Lifter]]" by making "[[Battlin' Boxer King Dempsey]]".
 
   === Sample combos ===
+  ;Pure Deck
+  {{Combo steps
+  | opening = [[Rescue-ACE Air Lifter]] + any "Rescue-ACE" monster
+  | end     = [[Rescue-ACE Arbitrator]] + [[Laevateinn the Burning Blade]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]] + [[Promethean Princess, Bestower of Flames]] in GY + 4 cards in hand
+  | steps   = 
+  # Normal Summon Lifter and use its effect to search [[EMERGENCY!]].
+  # EMERGENCY! summon Hydrant tribute monster in hand
+  # Hydrant search Turbulence
+  # Monster originally in hand + Hydrant = Laevateinn the Burning Blade
+  # Turbulence Lifter + EMERGENCY! to summon itself
+  # Turbulence set ALERT!, RESCUE!, CONTAIN!, and EXTINGUISH!, chain Laevateinn to tribute Turbulence and special Hydrant (dodging Imperm). 
+  # Hydrant allows you to activate ALERT! the turn it was set to search [[Rescue-ACE Preventer]]
+  # Preventer banish Hydrant to summon itself
+  # Preventer + Laevateinn = Promethean, activate Preventer to bring back Monster originally in hand
+  # Promethean effect, bring back Laevateinn
+  # Promethean + Monster originally in hand = Arbitrator
+  # Activate Arbitrator, add HQ
+  # Activate HQ, use effect to shuffle monster originally in hand, EMERGENCY!, ALERT!, and Turbulence to deck and draw 1
+  }}
   ;R.B. Hybrid Deck
   {{Combo steps
   | opening = [[Rescue-ACE Air Lifter]]
-  | end     = [[R.B. The Brute Blues]] pointing to any 2 R.B. Main Deck monsters + [[R.B. Funk Dock]] + [[Rescue-ACE Turbulence]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]]
+  | end     = [[R.B. The Brute Blues]] pointing to any 2 R.B. Main Deck monsters + [[R.B. Funk Dock]] + [[Rescue-ACE Turbulence]] + [[Rescue-ACE Hydrant]] + [[RESCUE!]] + [[CONTAIN!]] + [[EXTINGUISH!]] + 4 cards in hand
   | steps   = 
   # Normal Summon Lifter and use its effect to search [[EMERGENCY!]].
   # EMERGENCY! summon Hydrant tribute Lifter
