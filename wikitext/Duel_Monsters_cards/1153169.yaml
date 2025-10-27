@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 800
   | password              = 78910832
   | effect_types          = Trigger, Trigger, Condition
-  | text                  = At the start of your Battle Phase: You can activate 1 of these effects;<br />● Special Summon 1 Machine monster from your hand.<br />● Send 1 Level 4 or lower LIGHT Machine monster from your Deck to the GY.<br />If this card is destroyed: You can target 1 LIGHT Machine monster in your GY; Special Summon it, and if its original ATK is 1200 or less, it gains 1200 ATK. You can only use each [[effect]] of "Vic Viper Type-L" [[once per turn]].
+  | text                  = At the start of your [[Battle Phase]]: You can [[activate]] 1 of these [[effect]]s;<br />● [[Special Summon]] 1 [[Machine]] [[monster]] from your [[hand]].<br />● [[Send]] 1 [[Level]] 4 or lower [[LIGHT]] Machine monster from your [[Main Deck|Deck]] to the [[GY]].<br />If this card is [[destroy]]ed: You can target 1 LIGHT Machine monster in your GY; Special Summon it, and if its [[original ATK]] is 1200 or less, it gains 1200 [[ATK]]. You can only use each [[effect]] of "Vic Viper Type-L" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,7 +33,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BPRO-JP020; Burst Protocol; Common
+  | supports              = 
+  * Machine
+  * LIGHT
   | archseries            = Konami Arcade Games
   | related_to_archseries = B.E.S.
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * At the start of the Battle Phase
+  * Variable effects
+  * Only once per turn
   | database_id           = 22084
   }}
