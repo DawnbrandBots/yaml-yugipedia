@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 3100
   | password            = 41516133
   | effect_types        = Ignition, Condition, Quick
-  | text                = You can send up to 5 Level 10 or lower "[[B.E.S.]]" monsters with different names from your hand and/or Deck to the GY; Special Summon this card from your hand, then place counters on this card equal to the number sent to the GY to activate this effect. You can only use this effect of "Super B.E.S. Metal Slave" once per turn. Once per Chain (Quick Effect): You can remove 1 counter from this card, then target 2 face-up cards on the field, including 1 "B.E.S." monster you control; destroy them.
+  | text                = You can [[send]] up to 5 [[Level]] 10 or lower "[[B.E.S.]]" monsters with different names from your [[hand]] and/or [[Deck]] to the [[GY]]; [[Special Summon]] this card from your hand, then place [[counter]]s on this card equal to the number sent to the GY to [[activate]] this [[effect]]. You can only use this effect of "Super B.E.S. Metal Slave" once per turn. [[Once per Chain]] ([[Quick Effect]]): You can [[remove]] 1 counter from this card, then [[target]] 2 [[face-up]] cards on the field, including 1 "B.E.S." monster you [[control]]; [[destroy]] them.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,5 +33,21 @@ wikitext: |-
   BPRO-JP022; Burst Protocol; Super Rare, Prismatic Secret Rare
   | archseries          = B.E.S.
   | supports_archetypes = B.E.S.
+  | counter             = 
+  * Counter (counter)
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action              = 
+  * Sends from Deck to Graveyard for Special Summon
+  * Sends from hand to Graveyard
+  | summoning           = Special Summons itself from your hand
+  | m/s/t               = 
+  * Destroys face-up Monster Cards
+  * Destroys face-up Spell Cards
+  * Destroys face-up Trap Cards
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific archetype
+  * Once per Chain
   | database_id         = 22083
   }}
