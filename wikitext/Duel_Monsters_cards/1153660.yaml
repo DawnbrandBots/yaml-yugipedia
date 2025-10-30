@@ -21,6 +21,7 @@ wikitext: |-
   | def                   = 2500
   | password              = 78397661
   | effect_types          = Quick, Ignition, Condition
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | text                  = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[banish]] this card (until the [[End Phase]]), and if you do, [[Special Summon]] 1 "[[Fallen of Albaz]]" or 1 [[Level]] 4 or lower monster that mentions it from your [[Main Deck|Deck]] or [[GY]]. If this card is in your GY: You can [[target]] 1 Level 8 [[Fusion Monster]] in your GY or [[banish]]ment and 1 card on the [[field]]; shuffle both and this card into the Deck. You can only use each [[effect]] of "Ecclesia of the Black Dragon" [[once per turn]].
   | fr_text               = 
   | de_text               = 
@@ -35,7 +36,24 @@ wikitext: |-
   | sc_sets             = <!--
   BPRO-SC041; Burst Protocol; -->
   | mentions              = Fallen of Albaz
+  | supports              = Fusion Monster
   | archseries            = Ecclesia (archetype)
   | related_to_archseries = Albaz Dragon
+  | action                = 
+  * Returns itself to field while banished
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to Extra Deck
+  * Returns from your Graveyard to your Extra Deck
+  * Returns the player's banished cards to the Extra Deck
+  * Returns from field to Deck
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from field
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 22144
   }}

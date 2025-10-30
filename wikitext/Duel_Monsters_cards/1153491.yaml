@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2600
   | def                 = 1800
   | password            = 77675029
+  | materials           = 2 Level 4 "Exosister" monsters
   | effect_types        = Trigger, Quick, Condition
   | text                = 2 [[Level]] 4 "[[Exosister]]" [[monsters]]<br />If this card is [[Xyz Summon]]ed: You can [[activate]] this [[effect]]; during the [[End Phase]] of this [[turn]], [[Set]] 1 "[[Exosister]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]], [[GY]], or [[banish]]ment. When your opponent activates a [[monster effect]] or a [[Normal Spell]]/[[Normal Trap Card|Trap Card]] ([[Quick Effect]]): You can [[detach]] all [[material]]s from this card, and if you do, the activated effect becomes "[[Add a card|Add]] 1 card from your opponent's [[GY]] to their hand". You can only use each [[effect]] of "Exosister Karmael" once per turn.
   | fr_text             = 
@@ -35,7 +36,23 @@ wikitext: |-
   BPRO-JP044; Burst Protocol; Ultra Rare, Prismatic Secret Rare
   | sc_sets             = <!--
   BPRO-SC044; Burst Protocol; -->
+  | anti-supports       = 
+  * Normal Spell Card
+  * Normal Trap Card
   | archseries          = Exosister
   | supports_archetypes = Exosister
+  | action              = 
+  * Activates upon Xyz Summon
+  * Sets from your Deck
+  * Sets from your Graveyard
+  * Sets the player's banished cards
+  * Detaches multiple Xyz Materials for effect
+  * Overwrites card effects
+  * Adds from Graveyard to hand
+  | m/s/t               = Does not have effects which detach Xyz Materials for cost
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires archetype specific Xyz Materials
+  | misc                = Only once per turn
   | database_id         = 22147
   }}

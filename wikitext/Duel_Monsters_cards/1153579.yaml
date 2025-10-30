@@ -35,7 +35,23 @@ wikitext: |-
   BPRO-JP023; Burst Protocol; Common
   | sc_sets             = <!--
   BPRO-SC023; Burst Protocol; -->
+  | supports            = FIRE
   | archseries          = Rescue-ACE
   | supports_archetypes = Rescue-ACE
+  | action              = 
+  * Activates from your hand
+  * Returns from hand to Deck for cost
+  * Returns from field to Deck for cost
+  * Tributes itself for cost
+  * Adds from Deck to hand
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of no monsters
+  * Only once per turn
   | database_id         = 22126
   }}
