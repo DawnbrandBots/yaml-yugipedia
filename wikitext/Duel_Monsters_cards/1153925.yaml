@@ -30,5 +30,13 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BPRO-JP079; Burst Protocol; Common
+  | action              = 
+  * Adds from Deck to hand
+  * Activates if destroyed while Set
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
   | database_id         = 22181
   }}
