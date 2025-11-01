@@ -179,6 +179,9 @@ wikitext: |-
   |-
   | [[Cyber Eternity Dragon]]
   | 1 "Cyber Dragon" monster + 2 Machine monsters
+  |-
+  | [[Cyberdark End Dragon]]
+  | "Cyberdark Dragon" + "Cyber End Dragon"
   |}
   {| class="wikitable"
   ! Fusion Monster (Chimeratech)
@@ -198,10 +201,10 @@ wikitext: |-
   There are exactly two "Cyber Dragon" Xyz Monsters, the Rank 5 "[[Cyber Dragon Nova]]" and the Rank 6 "[[Cyber Dragon Infinity]]", with the latter being an upgraded form of the former that can even be Xyz Summoned using the former by itself.
 
   ==== Other "Cyber Dragon"-Related ====
-  There are also other "Cyber" monsters that aren't part of the "Cyber Dragon" archetype nor fit into the preceding categories, but still have visual design based on "Cyber Dragon" and are related outside of gameplay. These are "[[Cyber Larva]]", "[[Cyber Valley]]", "[[Cyber Dinosaur]]", "[[Cyber Phoenix]]", "[[Cyber Kirin]]", "[[Cyber Ouroboros]]", "[[Cyber Eltanin]]", and "[[Cyber Jormungardr]]".
+  There are also other "Cyber" monsters that aren't part of the "Cyber Dragon" archetype nor fit into the preceding categories, but still have visual design based on "Cyber Dragon" and are related outside of gameplay. These are "[[Cyber Larva]]", "[[Cyber Valley]]", "[[Cyber Dinosaur]]", "[[Cyber Phoenix]]", "[[Cyber Kirin]]", "[[Cyber Ouroboros]]", "[[Cyber Eltanin]]", and "[[Cyber Jormungardr]]". Additionally, "[[Heosvarog the Mechanical Dawn]]" is a monster with a "Cyber Dragon"-inspired design, with materials and an effect intended for use with "Cyber Dragon" related cards.
 
   == Playing style ==
-  The "Cyber Dragon" archetype is often built as a blind-second [[OTK]] Deck, defeating the opponent with their powerful [[Fusion Monster]]s, and potentially able to clear the opponent's field through [[Contact Fusion]]. It is secondarily focused on controlling the game state with the Xyz Monster "[[Cyber Dragon Infinity]]". As of ''[[Alliance Insight]]'', going first is also reasonable.
+  For most of its histiry, the "Cyber Dragon" archetype was often built as a blind-second [[OTK]] Deck, defeating the opponent with their powerful [[Fusion Monster]]s, and potentially able to clear the opponent's field through [[Contact Fusion]]. It is secondarily focused on controlling the game state with the Xyz Monster "[[Cyber Dragon Infinity]]". As of the direct support provided in ''[[Alliance Insight]]'', and the indirect support prior, the deck became more capable at going first - with the added bonus of still having strong going second plays.
 
   The Main Deck low-Level "Cyber Dragon" monsters serve as the Deck's main Normal Summons and supportive monsters. Several of them share the effect to change their name to "Cyber Dragon" while in the Field/GY; this supports certain card effects that require the presence of "Cyber Dragon", "[[Machine Duplication]]", and Fusion Material requirements specifying "Cyber Dragon". Of these monsters, the key ones are "Core", "Nachster", and "Herz".
 
@@ -235,11 +238,14 @@ wikitext: |-
   ! Summary
   |-
   | [[Cyber End Dragon]]
-  | rowspan = 6 | [[Fusion Monster|Fusion]]
-  | 4000 ATK and [[piercing]] attacker. Largely outdated.
+  | rowspan = 8 | [[Fusion Monster|Fusion]]
+  | 4000 ATK and [[piercing]] attacker.
   |-
   | [[Cyber Twin Dragon]]
-  | 2800 ATK and double attacker. Largely outdated.
+  | 2800 ATK and double attacker.
+  |-
+  | [[Cyber Eternity Dragon]]
+  | Defensive monster.
   |-
   | [[Chimeratech Overdragon]]
   | Gains ATK and can attack more times the more materials were used for its Fusion Summon. In historical decks, it was commonly used with pre-errata "[[Future Fusion]]" to rapidly mill the deck for Machine monsters.
@@ -252,6 +258,9 @@ wikitext: |-
   |-
   | [[Chimeratech Megafleet Dragon]]
   | Contact Fusion-based instant removal for [[Extra Monster Zone]] monsters.
+  |-
+  | [[Heosvarog the Mechanical Dawn]]
+  | Defensive negate that also recycles "[[Power Bond]]".
   |-
   |[[Cyber Dragon Nova]]
   | rowspan = 2 | [[Xyz Monster|Xyz]]
@@ -285,6 +294,38 @@ wikitext: |-
   * "[[Clockwork Night]]" turns all monsters on field into Machines, enabling the opponent's monsters to be Contact Fused into "Chimeratech Fortress Dragon". It can be searched by "[[Clockwork Knight]]" sending "Cyberdark Realm".
 
   * The archetype can also search EARTH Machines through the GY effect of "Clockwork Night", as well as the Rank 5 "[[Infinitrack River Stormer]]". One notable card is "[[Therion "King" Regulus]]" as an omni-negate.
+
+  * During the Battle Phase, "[[Duality]]" can allow "[[Chimeratech Fortress Dragon]]" and "[[Chimeratech Megafleet Dragon]]" to be converted into "[[Cyber Twin Dragon]]" and "[[Cyber End Dragon]]" respectively help close games.
+  ** It can also convert "Cyber Dragon" into "[[Chimeratech Rampage Dragon]]".
+  ** [[Carnot the Eternal Machine]]" can also be run alongside "Duality" to summon "[[Arms of Genex Return Zero]]".
+
+  * Thanks to easily being able to summon out LIGHT and DARK Level 5 monsters, "[[Chaos Angel]]" is easily summonable with both effects active.
+
+  === Sample combo ===
+  {{Combo steps
+  | opening = "[[Cyber Dragon Core]]" (or "[[Cyber Emergency]]")
+  | end     = "[[Cyber Dragon Infinity]]", "[[Heosvarog the Mechanical Dawn]] , and "[[Therion "King" Regulus]]", with 1 card drawn, as well as "[[Cyber Dragon]]", "[[Cyber Dragon Nachster]]" and "[[Power Bond]]" in hand for follow up.
+  | steps   = 
+  # Summon "Cyber Dragon Core" and activate its effect to search for "[[Cyberdark Realm]]".
+  # Activate "Realm", search and summon "[[Cyberdark Chimera]]".
+  # Link "Core" into "[[Clockwork Knight]]", sending "Realm" for "[[Clockwork Night]]".
+  # Use "Chimera" effect to discard "Clockwork Night" for "[[Power Bond]]".
+  # Use "Clockwork Knight" effect to send "Chimera" for "Core".
+  # Use "Chimera" effect to send "[[Cyberdark Wurm]]" to Graveyard.
+  # Link Summon "[[Cyber Dragon Sieger]]" using "Clockwork Knight" and "Core"
+  # Summon "Wurm" from Graveyard, adding back "Realm", and also sending "[[Cyber Dragon Herz]]" to Graveyard to add "[[Cyber Dragon]]" to hand.
+  # Use "Clockwork Night" effect in Graveyard to discard "Realm" and add "[[Therion "King" Regulus]]".
+  # Summon "Regulus", equipping "Chimera".
+  # Use "Power Bond" to fuse "Core" and "Herz" into "[[Chimeratech Rampage Dragon]]".
+  ## Optionally on Summon, "Rampage Dragon" effect to destroy "Chimera" and return it to Graveyard.
+  # Use "Rampage Dragon" effect to send "[[Cyber Dragon Nachster]]" and "[[Cyber Jormungardr]]" to Graveyard.
+  # Overlay "Rampage Dragon" and "Wurm" into "[[Cyber Dragon Nova]]".
+  # Effect of "Nova" (detaching "Rampage Dragon") to summon "Nachester", who then summons "Jormungardr".
+  # Summon "[[Cyber Dragon Infinity]]" using "Nova".
+  # Effect of "Jormungardr" to return "Nachester" to hand, adding "[[Fusion Substitute]]" to hand.
+  # Fusion Summon "[[Heosvarog the Mechanical Dawn]]" using "Sieger" and "Jormungardr".
+  # Effect of "Fusion Substitute" to return "Rampage Dragon" to Extra Deck and draw a card.
+  }}
 
   === Recommended cards ===
   {{Decklist|Recommended cards
@@ -329,13 +370,14 @@ wikitext: |-
   * [[Cyber Eternity Dragon]]
   * [[Cyber Twin Dragon]]
   * [[Heosvarog the Mechanical Dawn]]
-  * [[Invoked Mechaba]] ''(if using "[[Invoked]]" engine)''
+  * [[Invoked Mechaba]] ''(if using "[[Invoked]]" engine, or as a target if "Cyber Dragon Nova" is removed from the field)''
   * [[Pair Cycroid]] ''(with "Power Bond")''
   * [[Panzer Dragon]] ''(with "Instant Fusion")''
   |synchro monsters =
   * [[Arms of Genex Return Zero]] ''(using "Duality" to Tribute either "Carnot the Eternal Machine", "Cyber End Dragon" or "Jizukiru, the Star Destroying Kaiju")''
   * [[F.A. Dawn Dragster]]
   * [[Samurai Destroyer]]
+  * [[Chaos Angel]]
   |xyz monsters =
   * [[Cyber Dragon Nova]]
   ** [[Cyber Dragon Infinity]]

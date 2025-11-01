@@ -96,12 +96,14 @@ wikitext: |-
   | Qad- || [[Qadshaddoll Keios|Keios]] || [[Spellcaster]] || {{Attribute|LIGHT|size=24px}} || [[Evilswarm Kerykeion]]
   |-
   | Ree- || [[Reeshaddoll Wendi|Wendi]] || [[Psychic]] || {{Attribute|WIND|size=24px}} || [[Ritual Beast Tamer Zefrawendi]]
+  |-
+  | Tohu- || [[Tohushaddoll Grysta|Grysta]] || [[Rock]] || {{Attribute|EARTH|size=24px}} || [[El Shaddoll Grysta]]
   |}
   ====Fusion Monsters====
   {| class="wikitable" style="text-align: center"
-  ! El Shaddoll !! Type !! Attribute !! Original form
+  ! Prefix !! Shaddoll !! Type !! Attribute !! Original form
   |-
-  | [[El Shaddoll Anoyatyllis|Anoyatyllis]] || [[Fiend]] || {{Attribute|WATER|size=24px}} || [[El Shaddoll Shekhinaga]] + [[Infernoid Devyaty]]
+  | rowspan="8" | El || [[El Shaddoll Anoyatyllis|Anoyatyllis]] || [[Fiend]] || {{Attribute|WATER|size=24px}} || [[El Shaddoll Shekhinaga]] + [[Infernoid Devyaty]]
   |-
   | [[El Shaddoll Apkallone|Apkallone]] || rowspan="2" | [[Spellcaster]] || rowspan="2" | {{Attribute|DARK|size=24px}} || [[Evigishki Mind Augus]]
   |-
@@ -111,9 +113,13 @@ wikitext: |-
   |-
   | [[El Shaddoll Grysta|Grysta]] || [[Rock]] || {{Attribute|FIRE|size=24px}} || [[Shaddoll Core]] + 9 'Pyroxenes'
   |-
-  | [[El Shaddoll Shekhinaga|Shekhinaga]] || [[Machine]] || {{Attribute|EARTH|size=24px}} || [[El Shaddoll Construct]] + [[Apoqliphort Towers]]
+  | [[El Shaddoll Shekhinaga|Shekhinaga]] || rowspan="2" | [[Machine]] || rowspan="2" | {{Attribute|EARTH|size=24px}} || [[El Shaddoll Construct]] + [[Apoqliphort Towers]]
   |-
-  | [[El Shaddoll Wendigo|Wendigo]] || [[Psychic]] || {{Attribute|WIND|size=24px}} || [[Ritual Beast Ulti-Pettlephin]]<br/>([[Ritual Beast Tamer Wen]] + [[Spiritual Beast Pettlephin]])
+  | [[El Shaddoll Meshahrail|Meshahrail]] || [[El Shaddoll Winda]]
+  |-
+  | [[El Shaddoll Wendigo|Wendigo]] || rowspan="2" | [[Psychic]] || rowspan="2" | {{Attribute|WIND|size=24px}} || [[Ritual Beast Ulti-Pettlephin]]
+  |-
+  | Ree- || [[Reeshaddoll Wendikurhu|Wendikurhu]] || [[Reeshaddoll Wendi]] + [[Spiritual Beast Pettlephin]]
   |}
   ====Link Monsters====
   {| class="wikitable" style="text-align: center"
@@ -121,6 +127,7 @@ wikitext: |-
   |-
   | [[Shaddoll Construct|Construct]] || {{Attribute|LIGHT|size=24px}} || [[Gem-Knight Lapis]]
   |}
+
   ==Playing style==
   The "Shaddoll" archetype is a [[Fusion Summon|Fusion]]-focused archetype, with a secondary focus on [[Flip Effect]]s. The archetype focuses on gaining advantage by using [[Main Deck]] "Shaddoll" monsters as [[Fusion Material]]s, and [[Summon]]ing the powerful "[[El Shaddoll]]" [[Fusion Monster]]s to suppress the opponent.
   The Main Deck "Shaddoll" monsters all have two effects (with an [[only 1 effect once per turn]] condition) that generate card or [[field]] advantage: a [[Flip Effect]], and a second effect [[trigger]]ed when they are sent to the [[Graveyard]] by a card [[effect]].
@@ -245,12 +252,16 @@ wikitext: |-
   * [[Performage Damage Juggler]]
   * [[Performage Trick Clown]]
   * [[Ranryu]]
+  * [[Gale Dogra]] (with "Infernoid Evil")
+  * [[Infernoid Decatron]]
+  ** [[Infernoid Devyaty]]
   |flip monsters =
   * [[Helshaddoll Hollow]]
   * [[Naelshaddoll Ariel]]
   * [[Nehshaddoll Genius]]
   * [[Qadshaddoll Keios]]
   * [[Reeshaddoll Wendi]]
+  * [[Tohushaddoll Grysta]]
   * [[Shaddoll Beast]]
   * [[Shaddoll Dragon]]
   * [[Shaddoll Hedgehog]]
@@ -272,10 +283,11 @@ wikitext: |-
   * [[El Shaddoll Apkallone]]
   * [[El Shaddoll Construct]]
   * [[El Shaddoll Grysta]]
+  * [[El Shaddoll Meshahrail]]
   * [[El Shaddoll Shekhinaga]]
   * [[El Shaddoll Wendigo]]
   * [[El Shaddoll Winda]]
-  * [[Reeshaddoll Wendicluhu]]
+  * [[Reeshaddoll Wendikurhu]]
   * [[Ace★Spades Speculation]]
   * [[Invoked Caliga]]
   * [[Invoked Elysium]]
@@ -285,6 +297,7 @@ wikitext: |-
   * [[Starving Venom Fusion Dragon]]
   * [[Magistus Chorozo]]
   * [[Master of Ham]] (with "Instant Fusion")
+  * [[Infernoid Evil]] (with "Instant Fusion" or "Gale Dogra")
   |link monsters =
   * [[Shaddoll Construct]]
   * [[Cross-Sheep]]
@@ -312,6 +325,7 @@ wikitext: |-
   * [[Curse of the Shadow Prison]]
   * [[Magical Meltdown]]
   |continuous spells =
+  * [[Void Liberation]]
   * [[Terrors in the Hidden City]]
   * [[Sunset Beat]]
   |quick-play spells =
@@ -322,6 +336,7 @@ wikitext: |-
   * [[Purushaddoll Aeon]]
   * [[Resh Shaddoll Incarnation]]
   * [[Sinister Shadow Games]]
+  * [[Void Trap Hole]]
   * [[Paleozoic Dinomischus]]
   * [[Trap Trick]]
   |continuous traps =

@@ -35,6 +35,9 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   TW03-JP063; Terminal World 3; 
+  | supports              = 
+  * DARK
+  * EARTH
   | archseries            = Shaddoll
   | supports_archetypes   = 
   * Shaddoll
@@ -42,5 +45,21 @@ wikitext: |-
   | related_to_archseries = 
   * Gusto
   * Qli
+  | action                = 
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  | m/s/t                 = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's Spell Cards
+  * Unaffected by the opponent's Trap Cards
+  * Unaffected by the opponent's Monster Cards
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Nomi
+  * Special Summons from your Graveyard
+  | life_points           = Pays Life Points for cost
+  | misc                  = Limited activations
   | database_id           = 
   }}

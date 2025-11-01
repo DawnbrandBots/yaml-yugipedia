@@ -35,5 +35,13 @@ wikitext: |-
   | supports_archetypes = 
   * Infernoid
   * Shaddoll
+  | action              = 
+  * Reveals your hand for cost
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates from your Graveyard
+  * Adds from Graveyard to hand
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
