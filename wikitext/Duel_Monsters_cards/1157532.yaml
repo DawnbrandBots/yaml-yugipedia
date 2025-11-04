@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 0
   | def                 = 0
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Continuous, Trigger, Continuous, Continuous
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />Cannot be [[destroyed by battle]]. Each time a card(s) is placed in your opponent's [[Spell & Trap Zone]]: [[Excavate]] cards from the top of your [[Main Deck|Deck]] until you excavate a monster, [[equip]] it to this card as an [[Equip Spell]], also place the rest on the bottom of the Deck in any order. Gains [[ATK]]/[[DEF]] equal to the total Levels of the monsters equipped to this card x 300. If the total Levels of the monsters equipped to this card is greater than 21, [[destroy]] this card.
   | fr_text             = 
@@ -33,5 +34,19 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   26PR-JP002; Promotion Pack 2026; Normal Parallel Rare
+  | action              = 
+  * Excavates from the player's Deck
+  * Equips excavated cards
+  * Places excavated cards on the bottom of the Deck
+  | stat_change         = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t               = 
+  * Treats monsters as Equip Cards
+  * Destroys itself
+  | summoning           = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  | attack              = Cannot be destroyed by battle
   | database_id         = 
   }}
