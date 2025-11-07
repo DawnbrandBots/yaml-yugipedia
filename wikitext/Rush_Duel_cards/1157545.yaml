@@ -11,11 +11,16 @@ wikitext: |-
   | level          = 3
   | atk            = 1000
   | def            = 500
-  | requirement    = During the turn you [[Normal Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 non-[[Legend Card|Legend]] [[Normal Trap Card]] from your [[Graveyard]] to your [[hand]]. You cannot [[Set]] [[Spell]]/[[Trap Card]]s from the hand for the rest of this [[turn]].
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text           = [[Add a card|Add]] 1 non-[[Legend Card|Legend]] [[Normal Trap Card]] from your [[Graveyard]] to your [[hand]]. You cannot [[Set]] [[Spell Card|Spell]]/[[Trap Card]]s from the hand until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/26PR-JP001; Rush Duel Promotion Pack 2026; Normal Parallel Rare
+  | supports       = Normal Trap Card
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  * Prevents your Sets
   | database_id    = 
   }}

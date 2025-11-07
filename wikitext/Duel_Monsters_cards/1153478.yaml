@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2500
   | def                 = 2500
   | password            = 
+  | materials           = 1 Level 4 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Ignition, Condition
   | text                = 1 [[Level]] 4 [[Tuner]] + 1+ non-Tuner [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] 1 [[Level]] 4 or 8 [[Spellcaster]] monster whose [[ATK]] equals its own [[DEF]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can [[target]] 1 [[face-up]] card on the [[field]]; [[negate]] its [[effect]]s, then if you have an "[[Ecclesia (archetype)|Ecclesia]]" monster or "[[Fallen of Albaz]]" in your GY, you can [[destroy]] that card. You can only use each effect of "The Three Brave Swordsouls" once per turn.
   | fr_text             = 
@@ -34,7 +35,24 @@ wikitext: |-
   | jp_sets             = 
   VJMP-JP281; V Jump January 2026 promotional card; Ultra Rare
   | mentions            = Fallen of Albaz
+  | supports            = Spellcaster
   | archseries          = Swordsoul
   | supports_archetypes = Ecclesia (archetype)
+  | action              = 
+  * Activates upon Synchro Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | m/s/t               = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * Requires Level specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  | misc                = Only once per turn
   | database_id         = 
   }}
