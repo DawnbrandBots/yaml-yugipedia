@@ -9,12 +9,23 @@ wikitext: |-
   | atk            = 0
   | def            = 800
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This card gains [[ATK]] equal to [the [[original ATK]] of 1 [[face-up]] [[Level]] 4 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monster]] with 800 [[original DEF]] on your [[field]]] until the end of your opponent's next [[turn]].
+  | text           = This card gains [[ATK]] equal to [the [[Original ATK and DEF|original ATK]] of 1 [[face-up]] [[Level]] 4 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]] with 800 original DEF] until the end of your opponent's next [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP023; Gias Charge of the Nova; Rare
+  | supports       = 
+  * LIGHT
+  * Machine
   | archseries     = Gradius (Rush Duel series)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = This card gains ATK
   | fm_for         = Vic Viper Full Custom
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific DEF
+  * Turn limited effects
   | database_id    = 
   }}

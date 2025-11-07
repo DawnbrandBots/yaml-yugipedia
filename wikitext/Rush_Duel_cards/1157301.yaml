@@ -3,16 +3,22 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ドラゴニック・ピースボンバー
-  | romaji_name     = Doragonikku Pīsu Bonbā
-  | image           = DragonicPeaceBomber-RDKP23-JP-OP.png
-  | card_type       = Trap
-  | property        = Normal
-  | requirement     = When your opponent [[Set]]s a [[Spell]]/[[Trap Card]] during their [[turn]].
-  | text            = [[Destroy]] 1 [[face-down]] Spell/Trap Card on your opponent's [[field]]. Then, if your opponent has a non-[[Normal Spell Card]] in their [[Graveyard]], you can [[Special Summon]] up to 2 [[monsters]] from your [[hand]] and/or Graveyard [[face-up]] to your field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ドラゴニック・ピースボンバー
+  | romaji_name    = Doragonikku Pīsu Bonbā
+  | image          = DragonicPeaceBomber-RDKP23-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Set]]s a [[Spell Card|Spell]]/[[Trap Card]] during their [[turn]].
+  | text           = [[Destroy]] 1 [[face-down]] Spell/Trap Card on your opponent's [[field]]. Then, if your opponent has a non-[[Normal Spell Card]] in their [[Graveyard]], you can [[Special Summon]] up to 2 [[Monster Card|monster]]s from your [[hand]] and/or Graveyard [[face-up]] to your field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP23-JP062; Gias Charge of the Nova; Super Rare
-  | database_id     = 
+  | archseries     = Draco
+  | action         = Activates upon Set
+  | m/s/t          = 
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | summoning      = Special Summons from your Graveyard
+  | database_id    = 
   }}

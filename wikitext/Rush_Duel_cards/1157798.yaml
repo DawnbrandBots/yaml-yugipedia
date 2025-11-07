@@ -12,10 +12,13 @@ wikitext: |-
   | atk            = 1000
   | def            = 1000
   | requirement    = Your [[LP]] are lower than your opponent's.
-  | text           = Gain 300 LP. Then, if you have not drawn a card during this [[Main Phase]], draw 1 card. Then, if the total original Levels of the face-up monsters on your opponent's field is 30 or higher, you can gain 3000 LP.
+  | text           = Gain 300 LP. Then, if you have not [[Draw a card|drawn]] a card during this [[Main Phase]], draw 1 card. Then, if the total [[Original Level and Rank|original Level]]s of the [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] is 30 or higher, you can gain 3000 LP.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP021; Gias Charge of the Nova; Rare
+  | action         = You draw cards
+  | life_points    = You gain Life Points
+  | misc           = Requires specific LP
   | database_id    = 
   }}

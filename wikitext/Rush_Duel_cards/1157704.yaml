@@ -12,11 +12,23 @@ wikitext: |-
   | atk            = 800
   | def            = 1200
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Fusion Summon]] "[[Torna the Magician of Whirlwinds]]" by shuffling 2 [[Level]] 6 or lower [[monsters]] from your [[field]] or [[Graveyard]] into the owner's [[Main Deck|Deck]] as [[material]].
+  | text           = [[Fusion Summon]] "[[Torna the Magician of Whirlwinds]]" by [[Shuffle|shuffling]] 2 [[Level]] 6 or lower [[Monster Card|monster]]s from your [[field]] and/or [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP020; Gias Charge of the Nova; Common
   | mentions       = Torna the Magician of Whirlwinds
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Fusion Summons specific Fusion Monster
+  | misc           = Requires control of specific Level
   | database_id    = 
   }}

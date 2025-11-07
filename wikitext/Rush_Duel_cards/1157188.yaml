@@ -9,13 +9,26 @@ wikitext: |-
   | image           = PowerMeter-RDKP23-JP-OP.png
   | card_type       = Spell
   | property        = Normal
-  | requirement     = Place 1 [[face-up]] [[monster]] from your [[field]] on the bottom of the owner's [[Main Deck|Deck]].
-  | text            = [[Add a card|Add]] 1 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] [[monster]] with 800 [[DEF]] from your [[Graveyard]] to your [[hand]]. Then, if you have "[[Power Capsule Red]]" in your Graveyard, you can [[Fusion Summon]] a [[Level]] 4 Machine Type monster with 800 DEF by [[send]]ing monsters from your hand or field to the Graveyard as [[material]].
+  | requirement     = Place 1 [[face-up]] [[Monster Card|monster]] from your [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]].
+  | text            = [[Add a card|Add]] 1 [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] monster with 800 [[DEF]] from your [[Graveyard]] to your [[hand]]. Then, if you have "[[Power Capsule Red]]" in your Graveyard, you can [[Fusion Summon]] a [[Level]] 4 Machine Type monster with 800 DEF by [[send]]ing monsters from your hand and/or field to the Graveyard as [[material]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP054; Gias Charge of the Nova; Common
   | mentions        = Power Capsule Red
+  | supports        = 
+  * LIGHT
+  * Machine
   | archseries      = Gradius (Rush Duel series)
+  | action          = 
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning       = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
   | database_id     = 
   }}

@@ -5,21 +5,20 @@ wikitext: |-
   {{CardTable2
   | ja_name         = ビック・バイパー フルカスタム
   | romaji_name     = Bikku Baipā Furu Kasutamu
-  | translated_name = 
   | image           = VicViperFullCustom-RDKP23-JP-OP.png
   | attribute       = LIGHT
   | types           = Machine / Fusion / Effect
   | level           = 4
   | atk             = 3200
   | def             = 800
+  | effect_types    = Continuous
   | fusion_material = 
   * Gradius (Rush Duel)
   * Gradius' Option (Rush Duel)
-  | effect_types    = Continuous
   | materials       = "[[Gradius (Rush Duel)|Gradius]]" + "[[Gradius' Option (Rush Duel)|Gradius' Option]]" + "Gradius' Option"
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = None
-  | text            = This card cannot be [[destroy]]ed by card [[effect]]s. This card inflicts [[piercing]] [[battle damage]].
+  | text            = This card cannot be [[destroy]]ed by card [[effect]]s. This card [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -28,5 +27,15 @@ wikitext: |-
   * Gradius (Rush Duel)
   * Gradius' Option (Rush Duel)
   | archseries      = Gradius (Rush Duel series)
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack          = Piercing
   | database_id     = 
   }}
