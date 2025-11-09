@@ -94,7 +94,9 @@ wikitext: |-
   * Special Summons itself from your Extra Deck
   * Can be Special Summoned either by Fusion Summon or Contact Fusion
   * Nomi
-  | action           = Sends Fusion Materials for Contact Fusion to Graveyard
+  | action           =
+  * Sends Fusion Materials for Contact Fusion to Graveyard
+  * Sends from field to Graveyard for Special Summon
   | attack           = 
   * Cannot be destroyed by battle
   * Can make multiple attacks on monsters
