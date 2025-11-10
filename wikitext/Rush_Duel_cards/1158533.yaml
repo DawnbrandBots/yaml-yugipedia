@@ -3,8 +3,9 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = 超時空戦闘機ロードブリティッシュ
-  | romaji_name     = 
+  | ja_name         = {{Ruby|超|ちょう}}{{Ruby|時|じ}}{{Ruby|空|くう}}{{Ruby|戦|せん}}{{Ruby|闘|とう}}{{Ruby|機|き}}ロードブリティッシュ
+  | romaji_name     = Chōjikū Sentōki Rōdoburitisshu
+  | translated_name = Super Spacetime Fighter Lord British
   | image           = LordBritishSalamander-RDKP23-JP-OP.png
   | attribute       = LIGHT
   | types           = Machine / Effect
@@ -12,14 +13,19 @@ wikitext: |-
   | atk             = 1200
   | def             = 800
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = This [[turn]], this card's name becomes "[[Gradius (Rush Duel)|Gradius]]". Then, you can [[Special Summon]] 1 "[[Gradius' Option (Rush Duel)|Gradius' Option]]" from your Graveyard [[face-up]] to your [[field]]. This turn, you can only [[attack]] with [[Machine]] [[Type]] [[monsters]] with 800 [[original DEF]].
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | text            = This [[turn]], this card's name becomes "[[Gradius (Rush Duel)|Gradius]]". Then, you can [[Special Summon]] 1 "[[Gradius' Option (Rush Duel)|Gradius' Option]]" from your Graveyard [[face-up]] to your [[field]]. This turn, you can only [[attack]] with [[Machine]] [[Type]] [[Monster Card|monster]]s that have 800 [[Original ATK and DEF|original DEF]].
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP23-JP065; Gias Charge of the Nova; Super Rare
-  | mentions       = 
+  | mentions        = 
   * Gradius (Rush Duel)
   * Gradius' Option (Rush Duel)
-  | archseries     = Gradius (Rush Duel series)
-  | database_id    = 
+  | supports        = Machine
+  | archseries      = Gradius (Rush Duel series)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = Changes own name while on the field
+  | summoning       = Special Summons from your Graveyard
+  | attack          = Prevents your monsters from attacking
+  | database_id     = 
   }}

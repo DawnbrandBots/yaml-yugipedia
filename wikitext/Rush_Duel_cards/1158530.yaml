@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = マルチプル
-  | romaji_name     = 
+  | romaji_name     = Maruchipuru
   | translated_name = Multiple
   | image           = LordBritishsMultiple-RDKP23-JP-OP.png
   | attribute       = LIGHT
@@ -12,17 +12,26 @@ wikitext: |-
   | level           = 1
   | atk             = 0
   | def             = 800
-  | condition       = This card's name becomes "[[Gradius' Option]]" while in the [[hand]] or [[Graveyard]].
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = This [[turn]], this card's name becomes "Gradius' Option". Then, if you have a [[face-up]] [[monster]] on your [[field]] whose original name is "[[Lord British Salamander]]", you can change the [[battle position]] of 1 monster on your opponent's field.
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | condition       = This card's name becomes "[[Gradius' Option (Rush Duel)|Gradius' Option]]" while in the [[hand]] or [[Graveyard]].
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text            = This [[turn]], this card's name becomes "Gradius' Option". Then, if you have a [[face-up]] [[Monster Card|monster]] on your [[field]] whose original name is "[[Lord British Salamander]]", you can [[Battle position change|change]] the [[battle position]] of 1 monster on your opponent's field.
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP23-JP024; Gias Charge of the Nova; Rare
-  | mentions       = 
-  * Gradius' Option
+  | mentions        = 
+  * Gradius' Option (Rush Duel)
   * Lord British Salamander
-  | archseries     = Gradius (Rush Duel series)
-  | database_id    = 
+  | archseries      = Gradius (Rush Duel series)
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change     = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | misc            = Requires control of specific card
+  | database_id     = 
   }}

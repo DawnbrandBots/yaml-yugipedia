@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = ビック・バイパー リップルレーザー
-  | romaji_name     = 
+  | romaji_name     = Bikku Baipā Rippururēzā
   | image           = VicViperRippleLaser-RDKP23-JP-OP.png
   | attribute       = LIGHT
   | types           = Machine / Fusion / Effect
@@ -17,7 +17,7 @@ wikitext: |-
   | materials       = "[[Gradius (Rush Duel)|Gradius]]" + "[[Gradius' Option (Rush Duel)|Gradius' Option]]"
   | condition       = You can [[Summon]] this card by [[Contact Fusion]].
   | requirement     = None
-  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can make up to 2 [[face-up]] monsters on your opponent's [[field]] lose 800 [[ATK]] until the end of this [[turn]].
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can make up to 2 [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 800 [[ATK]] until the end of this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -26,5 +26,15 @@ wikitext: |-
   * Gradius (Rush Duel)
   * Gradius' Option (Rush Duel)
   | archseries      = Gradius (Rush Duel series)
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change     = Your opponent's monsters lose ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
   | database_id     = 
   }}

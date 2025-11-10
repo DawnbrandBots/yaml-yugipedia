@@ -3,21 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ビック・バイパー スプレッドボム
-  | romaji_name     = 
-  | image           = VicViperSpreadBomb-RDKP23-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Machine / Effect
-  | level           = 4
-  | atk             = 1200
-  | def             = 800
-  | requirement     = [[Send]] 1 other [[monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
-  | text            = This turn, this card's name becomes "[[Gradius (Rush Duel)|Gradius]]". Then, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field. This turn, you can only [[attack]] with [[Machine]] [[Type]] monsters with 800 [[original DEF]].
+  | ja_name        = ビック・バイパー スプレッドボム
+  | romaji_name    = Bikku Baipā Supureddobomu
+  | image          = VicViperSpreadBomb-RDKP23-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Machine / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 800
+  | requirement    = [[Send]] 1 other [[Monster Card|monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = This [[turn]], this card's name becomes "[[Gradius (Rush Duel)|Gradius]]". Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field. This turn, you can only [[attack]] with [[Machine]] [[Type]] monsters that have 800 [[Original ATK and DEF|original DEF]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP025; Gias Charge of the Nova; Common
   | mentions       = Gradius (Rush Duel)
+  | supports       = Machine
   | archseries     = Gradius (Rush Duel series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | stat_change    = Changes own name while on the field
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
