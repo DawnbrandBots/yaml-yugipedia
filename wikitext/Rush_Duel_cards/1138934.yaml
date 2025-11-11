@@ -2,6 +2,7 @@ title: Guardian Eatos (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
+  | ko_name        = 가디언 에아토스
   | image          = GuardianEatos-RDKP22-JP-SR.png
   | attribute      = WIND
   | types          = Fairy / Effect
@@ -14,8 +15,13 @@ wikitext: |-
   | ja_condition   = 自分の墓地にモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   | ja_requirement = 自分フィールドの表側表示の装備魔法カード１枚を墓地へ送って発動できる。
   | ja_text        = 相手の墓地のモンスターを３体まで選んでデッキに戻す。その後、このカードの攻撃力をターン終了時まで、［この効果で戻したモンスターの数］×５００アップする。
+  | ko_condition   = 자신 묘지에 몬스터가 없을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+  | ko_requirement = 자신 필드의 앞면 표시인 장착 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 상대 묘지의 몬스터를 3장까지 고르고 덱으로 되돌린다. 그 후, 이 카드의 공격력을 턴 종료시까지, [이 효과로 되돌린 몬스터의 수] × 500 올린다.
   | jp_sets        = 
   RD/KP22-JP065; OuTerverSe of Terror; Super Rare, Secret Rare
+  | kr_sets        = 
+  RD/KP22-KR065; OuTerverSe of Terror; Super Rare, Secret Rare
   | supports       = Equip Spell Card
   | action         = 
   * Sends from field to Graveyard for cost
