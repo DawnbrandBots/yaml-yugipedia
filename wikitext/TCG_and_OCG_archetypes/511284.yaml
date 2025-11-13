@@ -55,17 +55,19 @@ wikitext: |-
 
   {| class="wikitable" style="text-align: center"
   ! rowspan="2" | Color
-  ! rowspan="2" | Crystal Beast
-  ! rowspan="2" | Advanced Counterpart
+  ! colspan="2" | Crystal Beast
   ! colspan="2" | Origin
   ! colspan="2" | Attack name
-  ! rowspan="2" | Unique [[Monster effect|effect]]
-  ! rowspan="2" | Unique Advanced [[Monster effect|effect]]
+  ! colspan="2" | Unique [[Monster effect|effect]]
   |-
+  ! Original
+  ! Counterpart
   ! Gem
   ! Animal
   ! English
   ! Japanese
+  ! Original
+  ! Advanced
   |-
   | data-sort-value="1" style="background-color:#F77" | Red
   | [[Crystal Beast Ruby Carbuncle|Ruby Carbuncle]]
