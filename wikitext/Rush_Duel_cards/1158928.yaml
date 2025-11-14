@@ -12,11 +12,16 @@ wikitext: |-
   | atk            = 1200
   | def            = 0
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Reduce the [[Level]] of 1 [[face-up]] [[Level]] 3 or higher [[monster]] on your opponent's [[field]] by 2 until the end of this [[turn]]. Then, if this card is in [[Attack Position]], you can [[Special Summon]] 1 "Kyoshee of the Forbidden Fist" from your Graveyard to your field in face-up [[Defense Position]].
+  | text           = Reduce the [[Level]] of 1 [[face-up]] Level 3 or higher [[Monster Card|monster]] on your opponent's [[field]] by 2 until the end of this [[turn]]. Then, if this card is in [[Attack Position]], you can [[Special Summon]] 1 "Kyoshee of the Forbidden Fist" from your Graveyard to your field in face-up [[Defense Position]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/5THS-JPB05; 5th Special Pack Vol.2; Super Parallel Rare
-  | database_id    = 
   | mentions       = Kyoshee of the Forbidden Fist
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your opponent's monsters lose Levels
+  | summoning      = 
+  * Special Summons from your Graveyard
+  * Special Summons copies of itself
+  | database_id    = 
   }}
