@@ -21,6 +21,7 @@ wikitext: |-
   | atk                 = 2400
   | def                 = 2600
   | password            = 
+  | materials           = 1 "Resonator" Tuner + 1 or more non-Tuner monsters
   | effect_types        = Condition, Trigger, Condition, Trigger
   | text                = 1 "[[Resonator]]" [[Tuner]] + 1+ non-Tuner [[monsters]]<br />(This card is always treated as "[[Crimson Blader]]".)<br />If this card is [[Synchro Summon]]ed: You can take 1 [[Level]] 8 or higher monster from your [[Main Deck|Deck]] or [[GY]] that cannot be [[Normal Summon]]ed/[[Set]], and either [[Special Summon]] it (but [[negate]] its [[effect]]s) or [[Add a card|add]] it to your [[hand]]. You can only use this effect of "Crimson Blade Dragon" [[once per turn]]. At the start of the [[Damage Step]], if this card [[battle]]s a Level 5 or higher monster: You can [[destroy]] that monster.
   | fr_text             = 
@@ -33,14 +34,15 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   ????-JP0??; Blazing Dominion; 
+  | supports            = Special Summon Monster
   | mentions            = Crimson Blader
   | supports_archetypes = Resonator
   | related_to_archseries = Red Dragon Archfiend (archetype)
-  | stat_change         = Name condition
   | action              = 
   * Activates upon Synchro Summon
   * Adds from Deck to hand
   * Adds from Graveyard to hand
+  | stat_change         = Name condition
   | m/s/t               = 
   * Negates the effects of the Summoned monsters
   * Destroys your opponent's Monster Cards

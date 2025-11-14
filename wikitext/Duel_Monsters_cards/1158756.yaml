@@ -38,11 +38,14 @@ wikitext: |-
   * Signer Dragon
   | action              = 
   * Adds from Graveyard to hand
+  * Adds from Deck to hand
   * Activates from your Graveyard
   | attack              = Allows multiple attacks
   | banished            = Banishes itself from Graveyard for cost
   | misc                = 
   * Requires control of specific card
+  * Requires control of specific Monster card type
+  * Mentions
   * Requires control of specific archetype
   * Only once per turn
   | database_id         = 

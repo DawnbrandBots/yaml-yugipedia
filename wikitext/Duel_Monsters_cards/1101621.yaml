@@ -23,6 +23,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 2500
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner DARK monsters
   | effect_types        = Trigger, Quick, Condition
   | text                = 1 [[Tuner]] + 1+ non-Tuner [[DARK]] [[monsters]]<br />If this card is [[Synchro Summon]]ed: You can [[Add a card|add]] 1 card that mentions "[[Red Dragon Archfiend]]" from your [[Main Deck|Deck]] to your [[hand]]. When your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can [[banish]] this card; [[Special Summon]] 1 "Red Dragon Archfiend" from your [[Extra Deck]] (this is treated as a [[Synchro Summon]]), and if you do, its [[ATK]] becomes doubled, also it cannot be [[destroy]]ed by your opponent's card [[effect]]s. You can only use each effect of "The Crimson King" [[once per turn]].
   | fr_text             = 
@@ -36,6 +37,7 @@ wikitext: |-
   | jp_sets             = 
   ????-JP0??; Blazing Dominion; 
   | mentions            = Red Dragon Archfiend
+  | supports            = DARK
   | related_to_archseries = 
   * Red Dragon Archfiend (archetype)
   * Signer Dragon
@@ -45,8 +47,9 @@ wikitext: |-
   | stat_change         = 
   * Doubles ATK
   * Your monsters gain ATK
-  | m/s/t               = Cannot be destroyed by card effects
+  | m/s/t               = Prevents other cards being destroyed by card effects
   | summoning           = 
+  * Does not require specific Tuner Synchro Materials
   * 1 or more non-Tuner Synchro Materials
   * Requires Attribute specific non-Tuner Synchro Materials
   * Special Summons from your Extra Deck

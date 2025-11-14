@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 集約の魔導師
-  | romaji_name    = 
+  | ja_name        = {{Ruby|集|しゅう}}{{Ruby|約|やく}}の{{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|師|し}}
+  | romaji_name    = Shūyaku no Madōshi
   | image          = IntensiveMagician-RDKP23-JP-OP.png
   | attribute      = EARTH
   | types          = Spellcaster / Effect
@@ -12,10 +12,15 @@ wikitext: |-
   | atk            = 1000
   | def            = 500
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This card gains ATK equal to [the number of Spell/Trap Cards on your field] x 500 until the end of this turn. Then, if you have "[[Mage Power (Rush Duel)|Mage Power]]" in your Graveyard, this card gains 1000 ATK until the end of this turn.
+  | text           = This card gains [[ATK]] equal to [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]]] x 500 until the end of this turn. Then, if you have "[[Mage Power (Rush Duel)|Mage Power]]" in your Graveyard, this card gains an additional 1000 ATK until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP035; Gias Charge of the Nova; Common
+  | mentions       = Mage Power (Rush Duel)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = This card gains ATK
   | database_id    = 
   }}
