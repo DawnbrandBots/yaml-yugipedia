@@ -13,15 +13,15 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = 26PP-BoosterJP.png
-  | attribute           = ???
-  | types               = Warrior / ???
+  | image               = JunkArmor-26PP-JP-OP.png
+  | attribute           = EARTH
+  | types               = Warrior / Effect
   | level               = 2
   | atk                 = 600
   | def                 = 1200
   | password            = 
-  | effect_types        = 
-  | text                = 
+  | effect_types        = Continuous, Condition, Trigger, Ignition
+  | text                = Your opponent cannot [[target]] [[Synchro Monster]]s you [[control]] with "[[Warrior (archetype)|Warrior]]" or "[[Stardust (archetype)|Stardust]]" in their original names with card [[effect]]s. You can only use each of the following effects of "Junk Armor" [[once per turn]]. If this card is added to your [[hand]], except by drawing it: You can Special Summon it. You can [[Tribute]] this card; Special Summon 1 "[[Junk]]" or "[[Synchron]]" [[monster]] from your [[Main Deck|Deck]] in [[Defense Position]], except "Junk Armor".
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,8 +31,12 @@ wikitext: |-
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  26PP-JP0??; Premium Pack 2026; 
+  26PP-JP007; Premium Pack 2026; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
   | archseries          = Junk
   | supports_archetypes = 
+  * Junk
+  * Stardust (archetype)
+  * Synchron
+  * Warrior (archetype)
   | database_id         = 
   }}

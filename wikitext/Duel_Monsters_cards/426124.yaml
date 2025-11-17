@@ -13,15 +13,15 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = 26PP-BoosterJP.png
+  | image               = MaskedHEROFountain-26PP-JP-OP.png
   | attribute           = WATER
-  | types               = ???
+  | types               = Warrior / Effect
   | level               = 4
   | atk                 = 1000
   | def                 = 1400
   | password            = 
-  | effect_types        = 
-  | text                = 
+  | effect_types        = Ignition, Trigger, Condition
+  | text                = You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 "[[HERO]]" [[monster]] from your hand in [[Defense Position]]. If this card is [[sent]] to the [[GY]] to [[activate]] a card [[effect]], or by card effect: You can [[Set]] 1 "[[Mask Change]]" from your [[Main Deck|Deck]] or GY. You can only use each effect of "Masked HERO Fountain" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -31,10 +31,11 @@ wikitext: |-
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  26PP-JP0??; Premium Pack 2026; 
+  26PP-JP004; Premium Pack 2026; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | mentions            = Mask Change
   | archseries          = 
   * Masked HERO
   * HERO
-  | supports_archetypes = 
+  | supports_archetypes = HERO
   | database_id         = 
   }}
