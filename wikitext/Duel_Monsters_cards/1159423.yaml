@@ -1,6 +1,8 @@
 title: Fallen Angel in Darkness
 wikitext: |-
   {{Unofficial lore|English}}
+  {{Not archetype member|Darkness (archetype)|ダークネス}}
+
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -29,8 +31,20 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   26PP-JP006; Premium Pack 2026; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports            = Fairy
   | archseries          = Darklord
   | supports_archetypes = Darklord
-  | misc                = Archetype condition
+  | action              = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons the player's banished monsters
+  * Ignoring the Summoning conditions
+  | misc                = 
+  * Archetype condition
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}

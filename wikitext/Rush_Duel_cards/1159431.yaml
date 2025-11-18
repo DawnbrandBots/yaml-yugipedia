@@ -13,13 +13,21 @@ wikitext: |-
   | def            = 1700
   | effect_types   = Continuous
   | requirement    = None
-  | text           = Face-up Beast Type monsters on your field gain ATK equal to [the number of face-up Beast Type non-Effect Monsters on your field] x 500. Your "Super War-Lion" inflicts piercing battle damage.
-  | ja_condition   = 
+  | text           = [[Face-up]] [[Beast]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain [[ATK]] equal to [the number of face-up Beast Type [[non-Effect Monster]]s on your field] x 500. Your "[[Super War-Lion (Rush Duel)|Super War-Lion]]" [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP030; Gias Charge of the Nova; Common
   | mentions       = Super War-Lion (Rush Duel)
+  | supports       = 
+  * Beast
+  * Non-Effect Monster
   | archseries     = War-Lion
+  | stat_change    = Your monsters gain ATK
+  | attack         = Piercing
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  * Requires control of specific card
   | database_id    = 
   }}

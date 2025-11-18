@@ -11,11 +11,19 @@ wikitext: |-
   | level          = 5
   | atk            = 1600
   | def            = 800
-  | requirement    = Send this face-up card from your field to the Graveyard.
-  | text           = Shuffle 1 Ritual Spell Card from either player's Graveyard into the owner's Deck. Then, you can Special Summon 1 Level 7-9 Ritual Monster from your Graveyard face-up to your field.
+  | requirement    = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
+  | text           = [[Shuffle]] 1 [[Ritual Spell Card]] from either [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]]. Then, you can [[Special Summon]] 1 [[Level]] 7-9 [[Ritual Monster]] from your Graveyard face-up to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP23-JP038; Gias Charge of the Nova; Ultra Rare, Over Rush Rare
+  | supports       = 
+  * Ritual Spell Card
+  * Ritual Monster
+  | anti-supports  = Ritual Spell Card
+  | action         = 
+  * Sends itself from field to Graveyard for cost
+  * Returns from Graveyard to Deck
+  | summoning      = Special Summons from your Graveyard
   | database_id    = 
   }}

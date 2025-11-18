@@ -18,7 +18,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Trigger-like, Condition
-  | text                = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] this card to it as an [[Equip Card]] with this [[effect]].<br />● Once per [[Battle Step]], if the equipped monster [[battle]]s an opponent's monster: You can [[destroy]] that opponent's monster.<br />If this card is [[destroy]]ed: You can [[Add a card|add]] 1 "[[Armament Reincarnation]]" from your [[Main Deck|Deck]] to your [[hand]]. You can only use this effect of "Mirror Barrier" [[once per turn]].
+  | text                = [[Target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] this card to it as an [[Equip Card]] with this [[effect]].<br />● Once per [[battle]], during the [[Battle Step]], if the equipped monster battles an opponent's monster: You can [[destroy]] that opponent's monster.<br />If this card is [[destroy]]ed: You can [[Add a card|add]] 1 "[[Armament Reincarnation]]" from your [[Main Deck|Deck]] to your [[hand]]. You can only use this effect of "Mirror Barrier" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,5 +30,17 @@ wikitext: |-
   | jp_sets             = 
   26PP-JP003; Premium Pack 2026; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
   | mentions            = Armament Reincarnation
+  | action              = 
+  * Equips self from field
+  * Grants effect to equipped monster
+  * Activates if destroyed
+  * Adds from Deck to hand
+  | m/s/t               = 
+  * Treated as Equip Card
+  * Destroys your opponent's Monster Cards
+  | misc                = 
+  * Treated as Equip Card
+  * Limited activations
+  * Only once per turn
   | database_id         = 
   }}

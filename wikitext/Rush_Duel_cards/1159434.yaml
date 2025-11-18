@@ -9,14 +9,25 @@ wikitext: |-
   | image           = WarLionAssault-RDKP23-JP-OP.png
   | card_type       = Spell
   | property        = Ritual
+  | ritualmonster   = Super War-Lion (Rush Duel)
   | requirement     = None
-  | text            = [[Ritual Summon]] "[[Super War-Lion (Rush Duel)|Super War-Lion]]" by [[send]]ing [[face-up]] [[Beast]] [[Type]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 7 or more as [[material]] (you cannot use more monsters than necessary as material). The Special Summoned monster gains 2000 ATK until the end of this turn.
-  | ja_condition    = 
+  | text            = [[Ritual Summon]] "[[Super War-Lion (Rush Duel)|Super War-Lion]]" by [[send]]ing [[face-up]] [[Beast]] [[Type]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 7 or more as [[material]] (you cannot use more monsters than necessary as material). The monster [[Special Summon]]ed by this [[effect]] gains 2000 [[ATK]] until the end of this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP23-JP058; Gias Charge of the Nova; Rare
   | mentions        = Super War-Lion (Rush Duel)
+  | supports        = Beast
   | archseries      = War-Lion
+  | action          = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | stat_change     = Your monsters gain ATK
+  | summoning       = Special Summons from your Extra Deck
+  | misc            = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id     = 
   }}

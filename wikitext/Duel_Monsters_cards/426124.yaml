@@ -37,5 +37,13 @@ wikitext: |-
   * Masked HERO
   * HERO
   | supports_archetypes = HERO
+  | action              = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Activates from your Graveyard
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | summoning           = Special Summons from your hand
+  | misc                = Only once per turn
   | database_id         = 
   }}

@@ -9,9 +9,9 @@ wikitext: |-
   | image           = WarLionBattleground-RDKP23-JP-OP.png
   | card_type       = Spell
   | property        = Normal
-  | condition       = This card's name becomes "War-Lion Assault" while in the Graveyard.
-  | requirement     = If you have "Super War-Lion" face-up on your field, shuffle 1 monster from your Graveyard into the Deck.
-  | text            = Make up to 3 face-up Beast Type monsters on your field gain 1000 ATK until the end of this turn.
+  | condition       = This card's name becomes "[[War-Lion Assault]]" while in the [[Graveyard]].
+  | requirement     = If you have "[[Super War-Lion (Rush Duel)|Super War-Lion]]" [[face-up]] on your [[field]], [[shuffle]] 1 [[Monster Card|monster]] from your Graveyard into the [[Main Deck|Deck]].
+  | text            = Make up to 3 face-up [[Beast]] [[Type]] monsters on your field gain 1000 [[ATK]] until the end of this [[turn]].
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -20,6 +20,14 @@ wikitext: |-
   | mentions        = 
   * War-Lion Assault
   * Super War-Lion (Rush Duel)
+  | supports        = Beast
   | archseries      = War-Lion
+  | action          = Returns from Graveyard to Deck for cost
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Your monsters gain ATK
+  | misc            = 
+  * Requires control of specific card
+  * Requires control of specific Type
   | database_id     = 
   }}
