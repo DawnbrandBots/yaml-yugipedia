@@ -36,15 +36,20 @@ wikitext: |-
   * Declares an Attribute
   * Sends from your field to your Graveyard
   * Uses cards on the player's field as Fusion Materials
+  * Must include particular Fusion Materials
   * Activates from your Graveyard
+  * Tributes as an effect
   | stat_change         = 
   * Changes Type
   * Changes Attribute
+  * Changes Levels
   | summoning           = 
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
   * Special Summons Tokens
   | banished            = Banishes itself from Graveyard for cost
-  | misc                = Only once per turn
+  | misc                = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}

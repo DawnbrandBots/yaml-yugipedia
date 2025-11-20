@@ -72,11 +72,10 @@ wikitext: |-
   * Equips self from field
   * Adds from Graveyard to hand
   | m/s/t               = 
+  * Treated as Equip Card
   * Destroys equipped
   * Destroys face-up Monster Cards
   | banished            = Banishes itself from Graveyard for cost
-  | misc                = 
-  * Treated as Equip Card
-  * Only once per turn
+  | misc                = Only once per turn
   | database_id         = 13441
   }}

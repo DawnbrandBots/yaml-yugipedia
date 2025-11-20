@@ -64,12 +64,11 @@ wikitext: |-
   | action                = 
   * Equips self from field
   * Activates if it destroys a monster by battle
+  | stat_change           = Equipped gains ATK
+  | m/s/t                 = Treated as Equip Card
   | banished              = 
   * Banishes from your field
   * Banishes from your Graveyard
-  | stat_change           = Equipped gains ATK
   | attack                = Allows multiple attacks
-  | misc                  = 
-  * Treated as Equip Card
   | database_id           = 13001
   }}

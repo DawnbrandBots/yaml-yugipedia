@@ -176,9 +176,13 @@ wikitext: |-
   | Banish up to 3 cards from the GYs.
   |-
   | [[Nehshaddoll Genius|Genius]]
-  | {{Attribute|EARTH|size=24px}}
+  | rowspan="2" | {{Attribute|EARTH|size=24px}}
   | Target 1 friendly "Shaddoll" monster; it is [[unaffected]] by monster effects this turn.
   | Target 1 [[Effect Monster]]; it can't activate its on-field effects this turn.
+  |-
+  | [[Tohushaddoll Grysta|Grysta]]
+  | Target 1 non-Rock "Shaddoll" monster in GY; apply its Flip effect.
+  | Fusion Summon 1 "Shaddoll" Fusion Monster, by banishing its materials from hand, field and/or GY.
   |-
   | [[Qadshaddoll Keios|Keios]]
   | {{Attribute|LIGHT|size=24px}}
@@ -195,12 +199,12 @@ wikitext: |-
 
   Their true importance comes in the fact that they are also triggered if they're sent from the Deck to the GY, such as with the effect of the archetype's core Fusion Summon [[Spell]], "[[Shaddoll Fusion]]", which can use monsters in the Deck as Fusion Materials: sending "Shaddoll" monsters directly from the Deck to the GY provides consistent card searches, and sending multiple "Shaddoll" monsters with single cards outright generates advantage instead of merely offsetting costs.
 
-  [[Mill]]ing "Shaddoll" monsters can be performed with a variety of in-archetype and external cards: the major in-theme cards that do so are the aformentioned "[[Shaddoll Fusion]]", "[[El Shaddoll Construct]]", and "[[Sinister Shadow Games]]". Externally, cards such as "[[Mathematician]]" or "[[That Grass Looks Greener]]" can also perform this task efficiently. The best targets to send generally are "[[Reeshaddoll Wendi|Wendi]]", "[[Shaddoll Beast|Beast]]", "[[Shaddoll Falco|Falco]]", "[[Shaddoll Squamata|Squamata]]", and "[[Shaddoll Hedgehog|Hedgehog]]", who have advantage-generating GY effects. "[[Helshaddoll Hollow]]" can mill even more cards from the Deck when sent to the GY to potentially proc more "Shaddoll" effects. "[[Naelshaddoll Ariel|Ariel]]", who has a GY disruption effect in the GY, can also be a situationally beneficial milling target.
+  [[Mill]]ing "Shaddoll" monsters can be performed with a variety of in-archetype and external cards: the major in-theme cards that do so are the aformentioned "[[Shaddoll Fusion]]", "[[Lev Shaddoll Fusion]]", "[[El Shaddoll Construct]]", and "[[Sinister Shadow Games]]". Externally, cards such as "[[Armageddon Knight]]", "[[Mathematician]]" or "[[That Grass Looks Greener]]" can also perform this task efficiently. The best targets to send generally are "[[Reeshaddoll Wendi|Wendi]]", "[[Shaddoll Beast|Beast]]", "[[Shaddoll Falco|Falco]]", "[[Shaddoll Squamata|Squamata]]", and "[[Shaddoll Hedgehog|Hedgehog]]", who have advantage-generating GY effects. "[[Helshaddoll Hollow]]" can mill even more cards from the Deck when sent to the GY to potentially proc more "Shaddoll" effects. "[[Naelshaddoll Ariel|Ariel]]", who has a GY disruption effect in the GY, can also be a situationally beneficial milling target. "[[Tohushaddoll Grysta]]", provides the Deck another way to Fusion Summon, by taking advantage of the used "Shaddoll" monsters in the GY, while also allowing using materials from the hand and/or field.
 
-  The archetype contains 7 "El Shaddoll" [[Fusion Monster]]s. The 6 original "El Shaddoll" monsters each have a different Attribute (and also a different Level), and each require 1 "Shaddoll" monster + 1 monster of their Attribute as Fusion Materials. The last "El Shaddoll" monster, "[[El Shaddoll Apkallone]]", requires 2 "Shaddoll" monsters with different Attributes as materials. Their on-field effects generally focus on punishing the opponent's Special Summons, and each of them also have a floating effect.
+  The archetype contains 9 "Shaddoll" [[Fusion Monster]]s. The 6 original "El Shaddoll" monsters each have a different Attribute (and also a different Level), and each require 1 "Shaddoll" monster + 1 monster of their Attribute as Fusion Materials. While "[[El Shaddoll Apkallone]]", requires 2 "Shaddoll" monsters with different Attributes as materials, and "[[El Shaddoll Meshahrail]]", requires 1 "Shaddoll" monster + 2 monsters with different Attributes (1 DARK + 1 EARTH) as materials. The only non-"El Shaddoll" Fusion Monster, "[[Reeshaddoll Wendikurhu]]" has the same requirement as its WIND counterpart, "[[El Shaddoll Wendigo]]". Their on-field effects generally focus on punishing the opponent's Special Summons, and each of them also have a floating effect.
   {| class="wikitable mw-collapsible autocollapse" style="margin-left: auto; margin-right: auto; border: none; text-align: center" 
-  |+ {{nowrap|Fusion "El Shaddoll" Effects}}
-  ! El Shaddoll !! Attribute !! On-Field Effect !! Floating Effect
+  |+ {{nowrap|Fusion "Shaddoll" Effects}}
+  ! Shaddoll !! Attribute !! On-Field Effect !! Floating Effect
   |-
   | [[El Shaddoll Winda|Winda]] || {{Attribute|DARK|size=24px}}
   | 
@@ -226,17 +230,29 @@ wikitext: |-
   * Can't be destroyed by battle.
   * If Special Summoned, target 1 face-up card and negate its effects.
   | Add 1 "Shaddoll" card from Deck/GY to hand, then discard 1 card.
+  |-
+  | [[El Shaddoll Meshahrail|Meshahrail]] || {{Attribute|EARTH|size=24px}}
+  |
+  * Unaffected by opposing activated Spell/Trap effects and effects of monsters whose original Level/Rank is lower than its current Level.
+  * Add 1 "Shaddoll" card or "Void" Spell/Trap from Deck to hand at the cost of 800 LP.
+  | Revive 1 "Shaddoll" monster from GY.
+  |-
+  | [[Reeshaddoll Wendikurhu|Wendikurhu]] || {{Attribute|WIND|size=24px}}
+  |
+  Flips any number of face-down monsters to face-up, then change face-up monsters to face-down up to the number of Flip monsters flipped face-up.
+  | Recover 1 "Shaddoll" card from GY.
   |}
-  The two most commonly used "El Shaddoll" boss monsters are "[[El Shaddoll Winda]]", who is easy to Summon (since most "Shaddoll" Main Deck monsters are [[DARK]]) and has a powerful [[floodgate]] effect, and "[[El Shaddoll Construct]]", whose non-once per turn on-Summon effect generates massive amounts of advantage. Because of the importance of "Construct", "Shaddoll" Decks were historically ran with [[LIGHT]] monster engines, such as "[[Performage Trick Clown]]".
+  The two most commonly used "Shaddoll" boss monsters are "[[El Shaddoll Winda]]", who is easy to Summon (since most "Shaddoll" Main Deck monsters are [[DARK]]) and has a powerful [[floodgate]] effect, and "[[El Shaddoll Construct]]", whose non-once per turn on-Summon effect generates massive amounts of advantage. Because of the importance of "Construct", "Shaddoll" Decks were historically ran with [[LIGHT]] monster engines, such as "[[Performage Trick Clown]]".
 
-  To perform Fusion Summons of "El Shaddoll" monsters, the main Fusion Spell/Traps are: 
+  To perform Fusion Summons of "Shaddoll" monsters, the main Fusion Spell/Traps are: 
 
   *"[[Shaddoll Fusion]]", which can use materials from the Deck to generate advantage.
   *"[[El Shaddoll Fusion]]", a [[Quick-Play Spell Card]] which can Fusion Summon at [[Spell Speed 2]].
   *"[[Nephe Shaddoll Fusion]], an [[Equip Spell Card]] which can change the Attribute of the equipped "Shaddoll" monster, then Fusion Summon using the equipped monster.
-  *"[[Shaddoll Schism]]", a powerful Continuous Trap that can Fusion Summon every turn using "Shaddoll" monsters in the GY, continuously making "El Shaddoll" monsters and further extending the Deck's grind game. After the "El Shaddoll" monster is Fusion Summoned, it can also send an opposing monster of the same Attribute as the Summoned monster, doubling as an effective removal tool. 
+  *"[[Shaddoll Schism]]", a powerful [[Continuous Trap Card]] that can Fusion Summon every turn using "Shaddoll" monsters in the GY, continuously making "El Shaddoll" monsters and further extending the Deck's grind game. After the "El Shaddoll" monster is Fusion Summoned, it can also send an opposing monster of the same Attribute as the Summoned monster, doubling as an effective removal tool. 
+  *"[[Lev Shaddoll Fusion]]", a [[Continuous Spell Card]] which can dump any Fusion Monster on activation, and efficiently transform any Fusion Monster into a "Shaddoll" Fusion Monster with a different Attribute (but its ATK becomes 0).
 
-  Since the GY effects of the "El Shaddoll" Fusion Monsters and "[[Shaddoll Core]]" can recycle "Shaddoll" Spells or Traps, this ensures that the player can recover their tools needed to Fusion Summon again should their board gets wiped.
+  Since the GY effects of the "Shaddoll" Fusion Monsters and "[[Shaddoll Core]]" can mostly recycle "Shaddoll" Spells or Traps, this ensures that the player can recover their tools needed to Fusion Summon again should their board gets wiped.
 
   The "Shaddoll" [[Link Monster]], "[[Shaddoll Construct]]", is primarily intended to be Summoned to the [[Main Monster Zone]] via its revival effect. Its first effect can free up the [[Extra Monster Zone]] via using itself as [[Fusion Material]], while its revival effect can trigger the effects of other "Shaddoll" monsters (though its [[Link Summon]] will not), and frees up to three zones for [[Link Summon]]s.
 
@@ -278,6 +294,7 @@ wikitext: |-
   * [[WAKE CUP! Macchia]]
   * [[WAKE CUP! Mocha]]
   |tuner monsters =
+  * [[Blazing Cartesia, the Virtuous]]
   * [[Effect Veiler]]
   * [[Shaddoll Falco]]
   |pendulum monsters =
@@ -298,11 +315,19 @@ wikitext: |-
   * [[Invoked Elysium]]
   * [[Invoked Mechaba]]
   * [[Invoked Purgatrio]]
+  * [[Granguignol the Dusk Dragon]] (with "Blazing Cartesia, the Virtuous")
   * [[Masked HERO Dark Law]] (with "[[Mask Change II]]")
   * [[Starving Venom Fusion Dragon]]
   * [[Magistus Chorozo]]
   * [[Master of Ham]] (with "Instant Fusion")
-  * [[Infernoid Evil]] (with "Instant Fusion" or "Gale Dogra")
+  * Targets for "Lev Shaddoll Fusion"
+  ** [[Alba-Lenatus the Abyss Dragon]]
+  ** [[Cyber Eternity Dragon]]
+  ** [[Elder Entity N'tss]]
+  ** [[Garura, Wings of Resonant Life]]
+  ** [[Infernoid Evil]]
+  ** [[Lunalight Sabre Dancer]]
+  ** [[Predaplant Chimerafflesia]]
   |link monsters =
   * [[Shaddoll Construct]]
   * [[Cross-Sheep]]
@@ -330,6 +355,7 @@ wikitext: |-
   * [[Curse of the Shadow Prison]]
   * [[Magical Meltdown]]
   |continuous spells =
+  * [[Lev Shaddoll Fusion]]
   * [[Void Liberation]]
   * [[Terrors in the Hidden City]]
   * [[Sunset Beat]]

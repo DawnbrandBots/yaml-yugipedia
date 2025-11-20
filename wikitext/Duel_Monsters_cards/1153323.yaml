@@ -36,15 +36,16 @@ wikitext: |-
   * Xyz Monster
   | archseries          = Xyz (archetype)
   | supports_archetypes = Utopic
-  | action              = Activates if destroyed by battle
+  | action              = Activates if it destroys a monster by battle
   | stat_change         = 
   * Your monsters gain ATK
   * Your monsters lose ATK
-  | summoning           = 
-  * Special Summons from your Graveyard
+  | summoning           = Special Summons from your Graveyard
   | attack              = Allows multiple attacks
   | misc                = 
   * Archetype condition
+  * Requires control of specific archetype
+  * Requires control of specific Attribute
   * Only once per turn
   | database_id         = 
   }}
