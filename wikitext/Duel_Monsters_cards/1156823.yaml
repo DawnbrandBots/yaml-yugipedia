@@ -15,10 +15,10 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = VoidLiberation-TW03-JP-OP.png
+  | image               = VoidLiberation-TW03-JP-SPR.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 61345801
   | effect_types        = Effect, Ignition-like, Condition
   | text                = [[Reveal]] 1 "[[Shaddoll]]" card in your [[hand]]; [[Add a card|add]] 2 "Shaddoll" cards from your [[Main Deck|Deck]] to your hand of different types ([[Monster]], [[Spell]], or [[Trap]]) from the revealed card and each other, then [[discard]] 1 card. You can [[banish]] this card from your [[GY]]; add 1 "[[Infernoid]]" monster from your Deck or GY your hand. You can only use each effect of "Void Liberation" once per turn.
   | fr_text             = 
@@ -26,11 +26,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札の「シャドール」カード１枚を相手に見せて発動できる。見せたカードとは種類（モンスター・魔法・罠）が異なる「シャドール」カード２枚をデッキから手札に加える（同じ種類は１枚まで）。その後、自分の手札を１枚選んで捨てる。②：墓地のこのカードを除外して発動できる。自分のデッキ・墓地から「インフェルノイド」モンスター１体を手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  TW03-JP066; Terminal World 3; 
+  TW03-JP066; Terminal World 3; Super Parallel Rare, Secret Parallel Rare
   | archseries          = Void
   | supports_archetypes = 
   * Infernoid
@@ -43,5 +43,5 @@ wikitext: |-
   * Adds from Graveyard to hand
   | banished            = Banishes itself from Graveyard for cost
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 22210
   }}
