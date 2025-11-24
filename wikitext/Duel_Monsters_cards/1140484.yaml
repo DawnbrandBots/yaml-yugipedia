@@ -1,7 +1,5 @@
-title: Enneacraft β' "alazoneIA"
+title: Deftero Enneacraft - "alazoneIA"
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -16,7 +14,7 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 纠罪巧β’－傲慢“alazoneIA”
   | sc_translated_name    = Enneacraft Deftero - Arrogance "alazoneIA"
-  | image                 = EnneacraftβalazoneIA-DBPR-JP-C.png
+  | image                 = DefteroEnneacraftalazoneIA-DBPR-JP-C.png
   | attribute             = EARTH
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 1
@@ -25,9 +23,9 @@ wikitext: |-
   | password              = 92171126
   | pendulum_scale        = 0
   | pendulum_effect_types = Continuous-like, Ignition-like, Condition
-  | effect_types          = Trigger, Ignition, Condition, Quick
-  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[Sinquisition Counter]] on this card. You can [[pay]] 900 [[LP]]; [[reveal]] 3 "[[Enneacraft]]" cards from your [[Main Deck|Deck]], your opponent randomly picks 1 for you to [[Add a card|add]] to your [[hand]], also you shuffle the rest back into the Deck. You can only use this [[effect]] of "Enneacraft β' "alazoneIA"" [[once per turn]].
-  | text                  = FLIP: [[Banish]] 1 [[random]] card from your opponent's [[hand]] [[face-up]] until the [[End Phase]].<br />You can [[reveal]] this card in your hand; [[Special Summon]] 1 [[monster]] from your [[hand]] in [[face-down]] [[Defense Position]]. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position. When your opponent activates a card or effect that includes an effect that adds a card(s) from the [[Main Deck|Deck]] to the hand ([[Quick Effect]]): You can change this [[Set]] card to face-up Defense Position; [[Add a card|add]] 1 "[[Enneacraft]]" card from your Deck to your hand.
+  | effect_types          = Trigger, Quick, Ignition, Condition
+  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[E.C. Counter]] on this card. You can [[pay]] 900 [[LP]]; [[reveal]] 3 "[[Enneacraft]]" cards from your [[Main Deck|Deck]], your opponent randomly picks 1 for you to [[Add a card|add]] to your [[hand]], shuffle the rest into the Deck. You can only use this [[effect]] of "Deftero Enneacraft - "alazoneIA"" [[once per turn]].
+  | text                  = FLIP: [[Banish]] ([[face-up]]) 1 [[random]] card from your opponent's [[hand]], until the [[End Phase]].<br />When your opponent activates a card or effect that includes an effect that adds a card(s) from the [[Main Deck|Deck]] to the hand ([[Quick Effect]]): You can change this [[face-down]] card to face-up [[Defense Position]]; [[Add a card|add]] 1 "[[Enneacraft]]" card from your Deck to your hand. You can [[reveal]] this card in your hand; [[Special Summon]] 1 [[monster]] from your [[hand]] in face-down Defense Position. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position.
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -44,6 +42,18 @@ wikitext: |-
   | ko_text               = ①: 패의 이 카드를 상대에게 보여주고 발동할 수 있다(이 효과를 발동하는 턴에, 자신은 뒷면 수비 표시로밖에 몬스터를 특수 소환할 수 없다). 패에서 몬스터 1장을 뒷면 수비 표시로 특수 소환한다. ②: 덱에서 카드를 패에 넣는 효과를 포함하는, 카드의 효과를 상대가 발동했을 때, 뒷면 표시의 이 카드를 앞면 수비 표시로 하고 발동할 수 있다. 덱에서 "에니아크래프트" 카드 1장을 패에 넣는다. ③: 이 카드가 리버스했을 경우에 발동한다. 상대의 패를 무작위로 1장 고르고 엔드 페이즈까지 앞면으로 제외한다.
   | sc_pendulum_effect    = 此卡名的②灵摆效果1回合仅可使用1次。①：每当有怪兽反转，就在此卡上放1个纠罪计数物。②：支付900LP可以发动。从牌组将3张“纠罪巧”卡出示给对手，对手从其中随机挑选1张。将该1张加入自己手牌，剩余的放回牌组。
   | sc_text               = ①：向对手出示手牌的此卡可以发动（发动此效果的回合中，自己仅可以里侧守备表示特殊召唤怪兽）。从手牌将1只怪兽以里侧守备表示特殊召唤。②：对手发动包含从牌组将卡加入手牌的效果的、卡的效果时，将里侧表示的此卡改成表侧守备表示可以发动。从牌组将1张“纠罪巧”卡加入手牌。③：此卡反转的情况下发动。随机挑选对手的1张手牌直至结束阶段为止以表侧除外。
+  | en_sets               = 
+  PHRE-EN017; Phantom Revenge; Rare
+  | fr_sets               = 
+  PHRE-FR017; Phantom Revenge; Rare
+  | de_sets               = 
+  PHRE-DE017; Phantom Revenge; Rare
+  | it_sets               = 
+  PHRE-IT017; Phantom Revenge; Rare
+  | pt_sets               = 
+  PHRE-PT017; Phantom Revenge; Rare
+  | sp_sets               = 
+  PHRE-SP017; Phantom Revenge; Rare
   | jp_sets               = 
   DBPR-JP017; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare
   | kr_sets               = 
@@ -53,7 +63,7 @@ wikitext: |-
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
   | counter               = 
-  * Sinquisition Counter
+  * E.C. Counter
   * Places counters on itself
   | action                = 
   * Reveals cards from your Deck

@@ -1,7 +1,5 @@
-title: Enneacraft - Astaγ.PIXIEA
+title: Enneacraft - Asta.PIXEA
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -11,12 +9,11 @@ wikitext: |-
   | ja_name               = {{Ruby|糾罪巧|エニアクラフト}}－{{Ruby|Ａｓｔａγ．ＰＩＸＩＥＡ|アスタピクシア}}
   | base_translated_name  = 
   | romaji_name           = Eniakurafuto - Asutapikushia
-  | translated_name       = Enneacraft - AstaPIXIEA
   | ko_name               = 에니아크래프트－Astaγ.PIXIEA
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－诈狐 Astaγ.PIXIEA
   | sc_translated_name    = Enneacraft - Fox of Deceit Astaγ.PIXIEA
-  | image                 = EnneacraftAstaγPIXIEA-DBPR-JP-C.png
+  | image                 = EnneacraftAstaPIXEA-DBPR-JP-C.png
   | attribute             = LIGHT
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 9
@@ -25,9 +22,9 @@ wikitext: |-
   | password              = 28454232
   | pendulum_scale        = 0
   | pendulum_effect_types = Continuous-like, Trigger-like
-  | effect_types          = Ignition, Condition, Quick, Continuous
-  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[Sinquisition Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
-  | text                  = You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 [[monster]] from your [[hand]] in [[face-down]] [[Defense Position]]. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position. When your opponent activates a card or effect that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can change this [[Set]] card to [[face-up]] Defense Position; [[negate]] that effect, then you can [[banish]] 1 [[random]] card from your opponent's hand, face-down. After this card was flipped face-up, while it is in the [[Monster Zone]], your opponent cannot target cards in the field or GY with card effects.
+  | effect_types          = Continuous, Quick, Ignition, Condition
+  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[E.C. Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
+  | text                  = After this card was flipped face-up, while it is in the [[Monster Zone]], your opponent cannot target cards in the field or GYs with card effects. When your opponent activates a card or effect that [[target]]s a card(s) you [[control]] ([[Quick Effect]]): You can change this [[face-down]] card to [[face-up]] [[Defense Position]]; [[negate]] that effect, then you can [[banish]] (face-down) 1 [[random]] card from your opponent's hand. You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 [[monster]] from your [[hand]] in face-down Defense Position. You cannot Special Summon the [[turn]] you [[activate]] this [[effect]], except in face-down Defense Position.
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -44,6 +41,18 @@ wikitext: |-
   | ko_text               = ①: 패의 이 카드를 상대에게 보여주고 발동할 수 있다(이 효과를 발동하는 턴에, 자신은 뒷면 수비 표시로밖에 몬스터를 특수 소환할 수 없다). 패에서 몬스터 1장을 뒷면 수비 표시로 특수 소환한다. ②: 자신 필드의 카드를 대상으로 하는 효과를 상대가 발동했을 때, 뒷면 표시의 이 카드를 앞면 수비 표시로 하고 발동할 수 있다. 그 효과를 무효로 한다. 그 후, 상대의 패를 무작위로 1장 뒷면으로 제외할 수 있다. ③: 리버스한 이 카드가 몬스터 존에 존재하는 한, 상대는 필드 / 묘지의 카드를 효과의 대상으로 할 수 없다.
   | sc_pendulum_effect    = ①：每当有怪兽反转，就在此卡上放1个纠罪计数物。②：在自己・对手的战斗阶段结束时，另一方自己的灵摆区域存在“纠罪巧”卡的情况下，以对手场上的1只攻击力低于此卡的怪兽为对象可以发动。将该怪兽破坏。
   | sc_text               = ①：向对手出示手牌的此卡可以发动（发动此效果的回合中，自己仅可以里侧守备表示特殊召唤怪兽）。从手牌将1只怪兽以里侧守备表示特殊召唤。②：对手发动以自己场上的卡为对象的效果时，将里侧表示的此卡改成表侧守备表示可以发动。将该效果无效。然后，可随机将对手的1张手牌以里侧除外。③：只要反转的此卡存在于怪兽区域，对手不可将场上・墓地的卡作为效果的对象。
+  | en_sets               = 
+  PHRE-EN021; Phantom Revenge; Rare
+  | fr_sets               = 
+  PHRE-FR021; Phantom Revenge; Rare
+  | de_sets               = 
+  PHRE-DE021; Phantom Revenge; Rare
+  | it_sets               = 
+  PHRE-IT021; Phantom Revenge; Rare
+  | pt_sets               = 
+  PHRE-PT021; Phantom Revenge; Rare
+  | sp_sets               = 
+  PHRE-SP021; Phantom Revenge; Rare
   | jp_sets               = 
   DBPR-JP021; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare, Secret Rare
   | kr_sets               = 
@@ -53,7 +62,7 @@ wikitext: |-
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
   | counter               = 
-  * Sinquisition Counter
+  * E.C. Counter
   * Places counters on itself
   | action                = 
   * Activates if other Pendulum Zone is occupied by specific card

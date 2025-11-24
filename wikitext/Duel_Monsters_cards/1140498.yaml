@@ -1,7 +1,5 @@
-title: Enneapolis, the Sinquisition City
+title: Enneapolis
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,16 +8,16 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|糾|きゅう}}{{Ruby|罪|ざい}}{{Ruby|都|と}}{{Ruby|市|し}}－エニアポリス
   | romaji_name           = Kyūzaitoshi - Eniaporisu
-  | translated_name       = 
+  | translated_name       = Sinquisition City - Enneapolis
   | ko_name               = 규죄도시－에니아폴리스
   | ko_rr_name            = 
   | sc_name               = 纠罪都市
-  | image                 = EnneapolistheSinquisitionCity-DBPR-JP-SR.png
+  | image                 = Enneapolis-DBPR-JP-SR.png
   | card_type             = Spell
   | property              = Field
   | password              = 17621695
   | effect_types          = Condition, Trigger-like, Condition, Ignition-like, Trigger-like
-  | text                  = (This card is always treated as an "[[Enneacraft]]" card.)<br />[[Once per turn]], during the [[End Phase]]: Remove all [[Sinquisition Counter]]s from your [[field]], and if you do, inflict 900 [[Effect damage|damage]] to your opponent for each. You can only use each of the following [[effect]]s of "Enneapolis, the Sinquisition City" once per turn. You can [[target]] any number of "Enneacraft" [[Pendulum Monster|Pendulum Monster Cards]] you [[control]]; [[return]] them to the [[hand]]. If an "Enneacraft" Pendulum Monster(s) you control is flipped face-up during the [[Main Phase]]: You can return to the hand, or place in your [[Pendulum Zone]], 1 of them.
+  | text                  = (This card is always treated as an "[[Enneacraft]]" card.)<br />[[Once per turn]], during the [[End Phase]]: Remove all [[E.C. Counter]]s from your [[field]], and if you do, your opponent takes 900 [[Effect damage|damage]] for each. You can only use each of the following [[effect]]s of "Enneapolis" once per turn. You can [[target]] any number of "Enneacraft" [[Pendulum Monster|Pendulum Monster Cards]] you [[control]]; [[return]] them to the [[hand]]. If an "Enneacraft" Pendulum Monster(s) you control is flipped face-up during the [[Main Phase]]: You can choose 1 of them and either return it to the hand or place it in your [[Pendulum Zone]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text               = このカード名はルール上「糾罪巧」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「糾罪巧」Ｐモンスターカードを任意の数だけ対象として発動できる。そのカードを手札に戻す。②：自分フィールドの「糾罪巧」Ｐモンスターがメインフェイズにリバースした場合に発動できる。その内の１体を選び、手札に戻すか自分のＰゾーンに置く。③：自分・相手のエンドフェイズに発動する。自分フィールドの糾罪カウンターを全て取り除き、相手はその数×９００ダメージを受ける。
   | ko_text               = 이 카드명은 룰상 "에니아크래프트" 카드로도 취급한다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 "에니아크래프트" 펜듈럼 몬스터 카드를 임의의 수만큼 대상으로 하고 발동할 수 있다. 그 카드를 패로 되돌린다. ②: 자신 필드의 "에니아크래프트" 펜듈럼 몬스터가 메인 페이즈에 리버스했을 경우에 발동할 수 있다. 그 중의 1장을 고르고, 패로 되돌리거나 자신의 펜듈럼 존에 놓는다. ③: 자신 / 상대의 엔드 페이즈에 발동한다. 자신 필드의 규죄 카운터를 전부 제거하고, 상대는 그 수 × 900 데미지를 받는다.
   | sc_text               = 此卡名在规则上也视为“纠罪巧”卡。此卡名的①②效果1回合仅可各使用1次。①：以自己场上任意数量的“纠罪巧”灵摆怪兽卡为对象可以发动。将该卡放回手牌。②：自己场上的“纠罪巧”灵摆怪兽在主要阶段反转的情况下可以发动。挑选其中1只，放回手牌或放在自己的灵摆区域。③：在自己・对手的结束阶段发动。将自己场上的纠罪计数物全部去除，对手受到其数量×900的伤害。
+  | en_sets               = 
+  PHRE-EN024; Phantom Revenge; Super Rare
+  | fr_sets               = 
+  PHRE-FR024; Phantom Revenge; Super Rare
+  | de_sets               = 
+  PHRE-DE024; Phantom Revenge; Super Rare
+  | it_sets               = 
+  PHRE-IT024; Phantom Revenge; Super Rare
+  | pt_sets               = 
+  PHRE-PT024; Phantom Revenge; Super Rare
+  | sp_sets               = 
+  PHRE-SP024; Phantom Revenge; Super Rare
   | jp_sets               = 
   DBPR-JP024; Deck-Build Pack: Phantom Revengers; Super Rare
   | kr_sets               = 
@@ -38,7 +48,7 @@ wikitext: |-
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
   | counter               = 
-  * Sinquisition Counter
+  * E.C. Counter
   * Removes counters
   | action                = 
   * Returns from your field to your hand

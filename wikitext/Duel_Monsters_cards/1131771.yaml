@@ -1,7 +1,5 @@
-title: Enneacraft - Atoriϝ.MAR
+title: Enneacraft - Atori.MAR
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -11,12 +9,11 @@ wikitext: |-
   | ja_name               = {{Ruby|糾罪巧|エニアクラフト}}－{{Ruby|Ａｔｏｒｉϝ．ＭＡＲ|アトリマール}}
   | base_translated_name  = Sinquisition Machine - Atoriϝ.MAR
   | romaji_name           = Eniakurafuto - Atorimāru
-  | translated_name       = Enneacraft - AtoriMAR
   | ko_name               = 에니아크래프트－Atoriϝ.MAR
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－惧鲸 Atoriϝ.MAR
   | sc_translated_name    = Enneacraft - Whale of Fear Atoriϝ.MAR
-  | image                 = EnneacraftAtoriϝMAR-DBPR-JP-UR.png
+  | image                 = EnneacraftAtoriMAR-DBPR-JP-UR.png
   | attribute             = LIGHT
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 9
@@ -25,9 +22,9 @@ wikitext: |-
   | password              = 54842941
   | pendulum_scale        = 0
   | pendulum_effect_types = Continuous-like, Trigger-like
-  | effect_types          = Trigger, Lingering, Ignition, Condition, Quick
-  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[Sinquisition Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
-  | text                  = FLIP: Change all [[Monster Card|monsters]] your opponent [[control]]s to [[face-down]] [[Defense Position]]. Monsters changed to face-down Defense Position by this [[effect]] cannot change their [[battle position]]s.<br />You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 monster from your [[hand]] in face-down Defense Position. You cannot Special Summon the [[turn]] you [[activate]] this effect, except in face-down Defense Position. When your opponent activates a card or effect on the [[field]] during your turn ([[Quick Effect]]): You can change this [[Set]] card to [[face-up]] Defense Position; [[negate]] the activation, and if you do, destroy that card.
+  | effect_types          = Trigger, Lingering, Quick, Ignition, Condition
+  | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[E.C. Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
+  | text                  = FLIP: Change all your opponent's [[Monster Card|monsters]] to [[face-down]] [[Defense Position]]. The monsters that were, cannot change their [[battle position]]s.<br />During your turn, when your opponent activates a card or effect on the [[field]] ([[Quick Effect]]): You can change this face-down card to [[face-up]] Defense Position; [[negate]] the activation, and if you do, destroy that card. You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 monster from your [[hand]] in face-down Defense Position. You cannot Special Summon the [[turn]] you [[activate]] this effect, except in face-down Defense Position.
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -44,6 +41,18 @@ wikitext: |-
   | ko_text               = ①: 패의 이 카드를 상대에게 보여주고 발동할 수 있다(이 효과를 발동하는 턴에, 자신은 뒷면 수비 표시로밖에 몬스터를 특수 소환할 수 없다). 패에서 몬스터 1장을 뒷면 수비 표시로 특수 소환한다. ②: 자신 턴에 상대가 필드에서 카드의 효과를 발동했을 때, 뒷면 표시의 이 카드를 앞면 수비 표시로 하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ③: 이 카드가 리버스했을 경우에 발동한다. 상대 필드의 몬스터를 전부 뒷면 수비 표시로 한다. 이 효과로 뒷면 수비 표시가 된 몬스터는 표시 형식을 변경할 수 없다.
   | sc_pendulum_effect    = ①：每当有怪兽反转，就在此卡上放1个纠罪计数物。②：在自己・对手的战斗阶段结束时，另一方自己的灵摆区域存在“纠罪巧”卡的情况下，以对手场上的1只攻击力低于此卡的怪兽为对象可以发动。将该怪兽破坏。
   | sc_text               = ①：向对手出示手牌的此卡可以发动（发动此效果的回合中，自己仅可以里侧守备表示特殊召唤怪兽）。从手牌将1只怪兽以里侧守备表示特殊召唤。②：在自己回合中，对手在场上发动卡的效果时，将里侧表示的此卡改成表侧守备表示可以发动。将该发动无效并破坏。③：此卡反转的情况下发动。将对手场上的怪兽全部改成里侧守备表示。以此效果变为里侧守备表示的怪兽不可变更表示形式。
+  | en_sets               = 
+  PHRE-EN022; Phantom Revenge; Ultra Rare
+  | fr_sets               = 
+  PHRE-FR022; Phantom Revenge; Ultra Rare
+  | de_sets               = 
+  PHRE-DE022; Phantom Revenge; Ultra Rare
+  | it_sets               = 
+  PHRE-IT022; Phantom Revenge; Ultra Rare
+  | pt_sets               = 
+  PHRE-PT022; Phantom Revenge; Ultra Rare
+  | sp_sets               = 
+  PHRE-SP022; Phantom Revenge; Ultra Rare
   | jp_sets               = 
   DBPR-JP022; Deck-Build Pack: Phantom Revengers; Ultra Rare, Prismatic Secret Rare
   | kr_sets               = 
@@ -53,7 +62,7 @@ wikitext: |-
   | archseries            = Enneacraft
   | supports_archetypes   = Enneacraft
   | counter               = 
-  * Sinquisition Counter
+  * E.C. Counter
   * Places counters on itself
   | action                = 
   * Activates if other Pendulum Zone is occupied by specific card

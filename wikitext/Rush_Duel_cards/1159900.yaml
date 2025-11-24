@@ -12,7 +12,7 @@ wikitext: |-
   | level           = 4
   | atk             = 1100
   | def             = 700
-  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 other [[face-up]] [[Zombie]] [[Type]] [[monster]] from your [[field]] to the [[Graveyard]].
+  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 other [[face-up]] [[Zombie]] [[Type]] [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
   | text            = [[Set]] 1 "[[Maid's Baneful Gift]]" or "[[Necromaid Trickment]]" from your Graveyard to your [[Spell & Trap Zone]].
   | ja_requirement  = 
   | ja_text         = 
@@ -21,6 +21,13 @@ wikitext: |-
   | mentions        = 
   * Maid's Baneful Gift
   * Necromaid Trickment
+  | supports        = Zombie
   | archseries      = Necromaid
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from field to Graveyard for cost
+  * Sets from your Graveyard
+  | misc            = Requires control of specific Type
   | database_id     = 
   }}
