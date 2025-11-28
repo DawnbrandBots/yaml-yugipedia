@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = {{Ruby|稀輝岩竜|レアドラゴライト}}
-  | romaji_name     = Rea Doragoraite
+  | romaji_name     = Rea Doragoraito
   | translated_name = Rare Dragolite
   | image           = RareDragorite-RDKP23-JP-OP.png
   | attribute       = LIGHT
@@ -14,8 +14,8 @@ wikitext: |-
   | def             = 500
   | requirement     = [[Reveal]] 1 [[LIGHT]] [[Attribute]] [[High Dragon]] [[Type]] [[Fusion Monster]] in your [[Extra Deck]], and [[declare]] 1 card name listed as [[material]] on that [[Monster Card|monster]].
   | text            = This [[turn]], this card's name becomes the name declared to meet the [[Activation condition|requirement]]. This turn, you can only [[attack]] with High Dragon and/or [[Dragon]] Type monsters.
-  | ja_requirement  = 
-  | ja_text         = 
+  | ja_requirement  = ＥＸデッキのフュージョンモンスター（光属性／ハイドラゴン族）１体を相手に見せ、そのモンスターに素材として記されたカード名を１つ宣言して発動できる。
+  | ja_text         = このカードのカード名はこのターン、この効果の条件で宣言したカード名になる。このターン、自分はモンスター（ハイドラゴン族・ドラゴン族）でしか攻撃できない。
   | jp_sets         = 
   RD/KP23-JP008; Gias Charge of the Nova; Rare
   | supports        = 
@@ -28,5 +28,5 @@ wikitext: |-
   * Declares a card name
   | stat_change     = Changes own name while on the field
   | attack          = Prevents your monsters from attacking
-  | database_id     = 
+  | database_id     = 22413
   }}

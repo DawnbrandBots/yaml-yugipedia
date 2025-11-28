@@ -13,8 +13,8 @@ wikitext: |-
   | def            = 500
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text           = This card gains [[ATK]] equal to [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]]] x 500 until the end of this turn. Then, if you have "[[Mage Power (Rush Duel)|Mage Power]]" in your Graveyard, this card gains an additional 1000 ATK until the end of this turn.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = このカードを召喚したターンに、デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_text        = このカードの攻撃力はターン終了時まで、［自分フィールドの魔法・罠カードの数］×５００アップする。自分の墓地に「魔導師の力」がある場合、さらにこのカードの攻撃力はターン終了時まで１０００アップする。
   | jp_sets        = 
   RD/KP23-JP035; Gias Charge of the Nova; Common
   | mentions       = Mage Power (Rush Duel)
@@ -22,5 +22,5 @@ wikitext: |-
   * Activates during the turn in which it was Normal Summoned
   * Sends from the top of your Deck to your Graveyard for cost
   | stat_change    = This card gains ATK
-  | database_id    = 
+  | database_id    = 22440
   }}
