@@ -3,34 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ベリーフレッシュ・ハピネス
-  | romaji_name    = Berīfuresshu Hapinesu
-  | ko_name        = 베리프레쉬 하피니스
-  | image          = FreshberryHappiness-RDKP10-JP-C.png
-  | attribute      = WATER
-  | types          = Aqua / Effect
-  | level          = 1
-  | atk            = 100
-  | def            = 500
-  | requirement    = [[Send]] 1 [[Aqua]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
-  | text           = This card gains 1500 [[ATK]] until the end of this [[turn]]. Then, if you sent a monster with 100 or less ATK to the Graveyard to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
-  | ja_requirement = 手札のモンスター（水族）１体を墓地へ送って発動できる。
-  | ja_text        = このカードの攻撃力はターン終了時まで１５００アップする。この効果の条件でモンスター（攻撃力１００以下）を墓地へ送った場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  | ko_requirement = 패의 몬스터(물족) 1장을 묘지로 보내고 발동할 수 있다.
-  | ko_text        = 이 카드의 공격력은 턴 종료시까지 1500 올린다. 이 효과의 조건으로 몬스터(공격력 100 이하)를 묘지로 보냈을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
-  | jp_sets        = 
+  | ja_name         = ベリーフレッシュ・ハピネス
+  | romaji_name     = Berīfuresshu Hapinesu
+  | translated_name = Berryfresh Happiness
+  | ko_name         = 베리프레쉬 하피니스
+  | image           = FreshberryHappiness-RDKP10-JP-C.png
+  | attribute       = WATER
+  | types           = Aqua / Effect
+  | level           = 1
+  | atk             = 100
+  | def             = 500
+  | requirement     = [[Send]] 1 [[Aqua]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | text            = This card gains 1500 [[ATK]] until the end of this [[turn]]. Then, if you sent a monster with 100 or less ATK to the Graveyard to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | ja_requirement  = 手札のモンスター（水族）１体を墓地へ送って発動できる。
+  | ja_text         = このカードの攻撃力はターン終了時まで１５００アップする。この効果の条件でモンスター（攻撃力１００以下）を墓地へ送った場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  | ko_requirement  = 패의 몬스터(물족) 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 공격력은 턴 종료시까지 1500 올린다. 이 효과의 조건으로 몬스터(공격력 100 이하)를 묘지로 보냈을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
+  | jp_sets         = 
   RD/KP10-JP034; Deck Mod Pack: Requiem of Destruction!!; Common
   RD/B242-JP004; Battle Pack 2024 Vol.2; Common, Super Rare
-  | kr_sets        = 
+  | kr_sets         = 
   RD/KP10-KR034; Deck Mod Pack: Requiem of Destruction!!; Common
   RD/EV06-KR005; Rush Duel Event Pack 2024 Vol.2; Common, Secret Rare
   RD/AGF1-KR001; Freshberry Duel Set; Ultra Parallel Rare
-  | supports       = Aqua
-  | archseries     = Freshberry
-  | action         = Sends from hand to Graveyard for cost
-  | stat_change    = This card gains ATK
-  | m/s/t          = 
+  | supports        = Aqua
+  | archseries      = Freshberry
+  | action          = Sends from hand to Graveyard for cost
+  | stat_change     = This card gains ATK
+  | m/s/t           = 
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | database_id    = 17882
+  | database_id     = 17882
   }}

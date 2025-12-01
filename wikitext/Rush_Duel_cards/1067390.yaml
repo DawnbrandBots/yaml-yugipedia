@@ -1,34 +1,35 @@
 title: Freshberry Cure
 wikitext: |-
   {{CardTable2
-  | ja_name        = ベリーフレッシュ・キュア
-  | romaji_name    = Berīfuresshu Kyua 
-  | ko_name        = 베리프레쉬 큐어
-  | image          = FreshberryCure-RDKP18-JP-C.png
-  | attribute      = WATER
-  | types          = Aqua / Effect
-  | level          = 1
-  | atk            = 100
-  | def            = 500
-  | requirement    = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
-  | text           = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 "[[Freshberry Garden]]" or "[[Freshberry Swimming]]" from your Graveyard to your hand.
-  | ja_requirement = このカード以外の自分の手札・フィールドのカード１枚を墓地へ送って発動できる。
-  | ja_text        = このカードの攻撃力は次の相手ターン終了時まで１５００アップする。その後、自分の墓地の「ベリーフレッシュ・ガーデン」または「ベリーフレッシュ・スイミング」１枚を選んで手札に加える事ができる。
-  | ko_requirement = 이 카드 이외의 자신의 패 / 필드의 카드 1장을 묘지로 보내고 발동할 수 있다.
-  | ko_text        = 이 카드의 공격력은 다음 상대 턴 종료시까지 1500 올린다. 그 후, 자신 묘지의 "베리프레쉬 가든" 또는 "베리프레쉬 스위밍" 1장을 고르고 패에 넣을 수 있다.
-  | jp_sets        = 
+  | ja_name         = ベリーフレッシュ・キュア
+  | romaji_name     = Berīfuresshu Kyua
+  | translated_name = Berryfresh Cure
+  | ko_name         = 베리프레쉬 큐어
+  | image           = FreshberryCure-RDKP18-JP-C.png
+  | attribute       = WATER
+  | types           = Aqua / Effect
+  | level           = 1
+  | atk             = 100
+  | def             = 500
+  | requirement     = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text            = This card gains 1500 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 "[[Freshberry Garden]]" or "[[Freshberry Swimming]]" from your Graveyard to your hand.
+  | ja_requirement  = このカード以外の自分の手札・フィールドのカード１枚を墓地へ送って発動できる。
+  | ja_text         = このカードの攻撃力は次の相手ターン終了時まで１５００アップする。その後、自分の墓地の「ベリーフレッシュ・ガーデン」または「ベリーフレッシュ・スイミング」１枚を選んで手札に加える事ができる。
+  | ko_requirement  = 이 카드 이외의 자신의 패 / 필드의 카드 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 공격력은 다음 상대 턴 종료시까지 1500 올린다. 그 후, 자신 묘지의 "베리프레쉬 가든" 또는 "베리프레쉬 스위밍" 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets         = 
   RD/KP18-JP025; Dark Matter of Phantoms; Common
-  | kr_sets        = 
+  | kr_sets         = 
   RD/KP18-KR025; Dark Matter of Phantoms; Common
-  | mentions       = 
+  | mentions        = 
   * Freshberry Garden
   * Freshberry Swimming
-  | archseries     = Freshberry
-  | action         = 
+  | archseries      = Freshberry
+  | action          = 
   * Sends from hand to Graveyard for cost
   * Sends from field to Graveyard for cost
   * Adds from Graveyard to hand
-  | stat_change    = This card gains ATK
-  | misc           = Turn limited effects
-  | database_id    = 20634
+  | stat_change     = This card gains ATK
+  | misc            = Turn limited effects
+  | database_id     = 20634
   }}

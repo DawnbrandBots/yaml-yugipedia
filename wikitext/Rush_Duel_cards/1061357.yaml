@@ -2,34 +2,35 @@ title: Freshberry Happiness Harvest
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ベリーフレッシュ・ハピネス・ハーベスト
-  | romaji_name    = Berīfuresshu Hapinesu Hābesuto
-  | ko_name        = 베리프레쉬 하피니스 하베스트
-  | image          = FreshberryHappinessHarvest-RDKP18-JP-UR.png
-  | attribute      = WATER
-  | types          = Aqua / Effect
-  | level          = 1
-  | atk            = 100
-  | def            = 500
-  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] up to 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
-  | text           = This card gains [[ATK]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 1500 until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] [[Monster Card|monster]]s in your Graveyard, this card cannot be [[destroy]]ed by your opponent's [[Spell Card|Spell]]/[[Trap Card]] [[effect]]s until the end of your opponent's next turn.
-  | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに、このカード以外の自分の手札・フィールドのカードを２枚まで墓地へ送って発動できる。
-  | ja_text        = このカードの攻撃力は次の相手ターン終了時まで、［この効果の条件で墓地へ送ったカードの数］×１５００アップする。自分の墓地にモンスター（水族）が５体以上いる場合、さらにこのカードは次の相手ターン終了時まで相手の魔法・罠カードの効果では破壊されない。
-  | ko_requirement = 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 이 카드 이외의 자신의 패 / 필드의 카드를 2장까지 묘지로 보내고 발동할 수 있다.
-  | ko_text        = 이 카드의 공격력은 다음 상대 턴 종료시까지, [이 효과의 조건으로 묘지로 보낸 카드의 수] × 1500 올린다. 자신 묘지에 몬스터(물족)가 5장 이상 있을 경우, 추가로 이 카드는 다음 상대 턴 종료시까지 상대의 마법 / 함정 카드의 효과로는 파괴되지 않는다.
-  | jp_sets        = 
+  | ja_name         = ベリーフレッシュ・ハピネス・ハーベスト
+  | romaji_name     = Berīfuresshu Hapinesu Hābesuto
+  | translated_name = Berryfresh Happiness Harvest
+  | ko_name         = 베리프레쉬 하피니스 하베스트
+  | image           = FreshberryHappinessHarvest-RDKP18-JP-UR.png
+  | attribute       = WATER
+  | types           = Aqua / Effect
+  | level           = 1
+  | atk             = 100
+  | def             = 500
+  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] up to 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
+  | text            = This card gains [[ATK]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 1500 until the end of your opponent's next [[turn]]. Then, if you have 5 or more [[Aqua]] [[Type]] [[Monster Card|monster]]s in your Graveyard, this card cannot be [[destroy]]ed by your opponent's [[Spell Card|Spell]]/[[Trap Card]] [[effect]]s until the end of your opponent's next turn.
+  | ja_requirement  = このカードを召喚・特殊召喚した自分メインフェイズに、このカード以外の自分の手札・フィールドのカードを２枚まで墓地へ送って発動できる。
+  | ja_text         = このカードの攻撃力は次の相手ターン終了時まで、［この効果の条件で墓地へ送ったカードの数］×１５００アップする。自分の墓地にモンスター（水族）が５体以上いる場合、さらにこのカードは次の相手ターン終了時まで相手の魔法・罠カードの効果では破壊されない。
+  | ko_requirement  = 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 이 카드 이외의 자신의 패 / 필드의 카드를 2장까지 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 공격력은 다음 상대 턴 종료시까지, [이 효과의 조건으로 묘지로 보낸 카드의 수] × 1500 올린다. 자신 묘지에 몬스터(물족)가 5장 이상 있을 경우, 추가로 이 카드는 다음 상대 턴 종료시까지 상대의 마법 / 함정 카드의 효과로는 파괴되지 않는다.
+  | jp_sets         = 
   RD/KP18-JP022; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
-  | kr_sets        = 
+  | kr_sets         = 
   RD/KP18-KR022; Dark Matter of Phantoms; Ultra Rare, Secret Rare, Over Rush Rare
-  | supports       = Aqua
-  | archseries     = Freshberry
-  | action         = 
+  | supports        = Aqua
+  | archseries      = Freshberry
+  | action          = 
   * Activates during the turn in which it was Normal Summoned
   * Activates during the turn in which it was Special Summoned
   * Sends from hand to Graveyard for cost
   * Sends from field to Graveyard for cost
-  | stat_change    = This card gains ATK
-  | m/s/t          = Cannot be destroyed by card effects
-  | misc           = Turn limited effects
-  | database_id    = 20631
+  | stat_change     = This card gains ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | misc            = Turn limited effects
+  | database_id     = 20631
   }}
