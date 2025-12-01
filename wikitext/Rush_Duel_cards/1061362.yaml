@@ -1,22 +1,20 @@
-title: Berry Fresh Rich
+title: Freshberry Rich
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = ベリーフレッシュ・リッチ
   | romaji_name    = Berīfuresshu Ritchi
   | ko_name        = 베리프레쉬 리치
   | image          = 
-  1; BerryFreshRich-RDKP18-JP-SR.png; BerryFreshRich-OW.png
-  2; BerryFreshRich-RDKP18-JP-ScR-AA.png
+  1; FreshberryRich-RDKP18-JP-SR.png; FreshberryRich-OW.png
+  2; FreshberryRich-RDKP18-JP-ScR-AA.png
   | current_image  = 1
   | attribute      = WATER
   | types          = Aqua / Effect
   | level          = 1
   | atk            = 100
   | def            = 500
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]].
-  | text           = [[Draw a card|Draw]] 1 card. Then, if you sent an [[Aqua]] [[Type]] [[Monster Card|monster]] with 100 [[Original ATK and DEF|original ATK]] to the Graveyard to meet the [[Activation condition|requirement]], you can draw 1 additional card.
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, [[send]] 2 other cards from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 1 card. If you sent an [[Aqua]] [[Type]] [[Monster Card|monster]] with 100 [[Original ATK and DEF|original ATK]] to the Graveyard to meet the [[Activation condition|requirement]], you can also draw 1 card.
   | ja_requirement = このカードを召喚したターンに、自分のデッキのカードが１０枚以上の場合、このカード以外の自分の手札・フィールドのカード２枚を墓地へ送って発動できる。
   | ja_text        = 自分は１枚ドローする。この効果の条件で元々の攻撃力が１００のモンスター（水族）を墓地へ送った場合、さらに自分は１枚ドローできる。
   | ko_requirement = 이 카드를 일반 소환한 턴에, 자신의 덱의 카드가 10장 이상일 경우, 이 카드 이외의 자신의 패 / 필드의 카드 2장을 묘지로 보내고 발동할 수 있다.
@@ -26,7 +24,7 @@ wikitext: |-
   | kr_sets        = 
   RD/KP18-KR027; Dark Matter of Phantoms; Super Rare, Secret Rare
   | supports       = Aqua
-  | archseries     = Berry Fresh
+  | archseries     = Freshberry
   | action         = 
   * Activates during the turn in which it was Normal Summoned
   * Sends from hand to Graveyard for cost

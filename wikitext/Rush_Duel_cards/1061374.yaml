@@ -1,6 +1,5 @@
 title: Neo-Spacian Aqua Dolphin (Rush Duel)
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | ko_name               = 네오 스페이시언 아쿠아 돌핀
   | image                 = NeoSpacianAquaDolphin-RDKP18-JP-C.png
@@ -10,7 +9,7 @@ wikitext: |-
   | atk                   = 600
   | def                   = 800
   | requirement           = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text                  = [[Look]] at your opponent's hand. You can send 1 [[Monster Card|monster]] with [[ATK]] less than or equal to [the ATK of the [[face-up]] monster with the highest ATK on your [[field]]] from it to the Graveyard. Then, if you sent a monster to the Graveyard by this [[effect]], [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
+  | text                  = [[Look]] at your opponent's hand. You can send 1 [[Monster Card|monster]] with [[ATK]] equal or less than [the [[face-up]] monster with the highest ATK on your [[field]]] from your opponent's hand to the Graveyard. If you sent a monster to the Graveyard by this [[effect]], also [[Damage|inflict]] 500 [[Effect damage|damage]] to your opponent.
   | ja_requirement        = 手札１枚を墓地へ送って発動できる。
   | ja_text               = 相手の手札を確認する。自分はその中から、［自分フィールドの攻撃力が一番高い表側表示モンスターの攻撃力］以下の攻撃力を持つモンスター１体を選んで墓地へ送る事ができる。この効果でモンスターを墓地へ送った場合、さらに相手に５００ダメージを与える。
   | ko_requirement        = 패 1장을 묘지로 보내고 발동할 수 있다.
