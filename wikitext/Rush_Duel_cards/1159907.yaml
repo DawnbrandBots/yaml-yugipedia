@@ -3,20 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|髑|どく}}{{Ruby|巌|がん}}{{Ruby|騎|き}}{{Ruby|士|し}}モルドルネ
-  | romaji_name     = Dokugankishi Morudorune
-  | image           = MordornetheSkullcragKnight-OW.png
-  | attribute       = WIND
-  | types           = Zombie / ???
-  | level           = ???
-  | atk             = ???
-  | def             = ???
-  | requirement     = (TBA)
-  | text            = (TBA)
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
-  | archseries      = Defiant Soul
-  | database_id     = 
+  | ja_name        = {{Ruby|髑|どく}}{{Ruby|巌|がん}}{{Ruby|騎|き}}{{Ruby|士|し}}モルドルネ
+  | romaji_name    = Dokugankishi Morudorune
+  | image          = MordornetheSkullcragKnight-RDAP02-JP-OP.png
+  | attribute      = WIND
+  | types          = Zombie / Effect
+  | level          = 7
+  | atk            = 2000
+  | def            = 0
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Zombie]] [[Type]] [[Monster Card|monster]].
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = Make 1 [[face-up]] [[WIND]] [[Attribute]] Zombie Type monster on your [[field]] gain [[ATK]] equal to [the number of face-up Zombie Type monsters on your field] x 400 until the end of this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
+  RD/AP02-JP004; Advance Pack: Revenge Hearts; Super Rare
+  | supports       = 
+  * Zombie
+  * WIND
+  | archseries     = Defiant Soul
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific Attribute
+  | database_id    = 
   }}

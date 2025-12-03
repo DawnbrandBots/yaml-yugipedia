@@ -1,23 +1,28 @@
-title: Guyghasberg the Defiant Soulclad Sword
+title: Gaigustvelgr the Defiant Soulclad Sword
 wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}{{Ruby|装|そう}}{{Ruby|剣|けん}}ガイガスベルグ
   | romaji_name    = Hankotsusōken Gaigasuberugu
-  | image          = GuyghasbergtheDefiantSoulcladSword-OW.png
+  | image          = GaigustvelgrtheDefiantSoulcladSword-RDAP02-JP-OP.png
   | attribute      = WIND
-  | types          = Zombie / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | types          = Zombie / Ritual / Effect
+  | level          = 5
+  | atk            = 2000
+  | def            = 0
+  | ritualcard     = Skullrise Squall
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = During your [[turn]], this card gains 1000 [[ATK]]. If you have "[[Souffraes the Defiant Soul]]" in your [[Graveyard]], this card cannot be [[destroy]]ed by card [[effect]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
+  RD/AP02-JP001; Advance Pack: Revenge Hearts; Ultra Rare, Over Rush Rare
+  | mentions       = Souffraes the Defiant Soul
   | archseries     = Defiant Soul
+  | stat_change    = This card gains ATK
+  | m/s/t          = Cannot be destroyed by card effects
   | misc           = Cover card
   | database_id    = 
   }}

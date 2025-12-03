@@ -120,7 +120,7 @@ wikitext: |-
   === Overview ===
   The "Machina" archetype's overall game plan is a relentless [[beatdown]] strategy, constantly dumping and reviving easily Special Summoned high-ATK boss monsters to end the game as quickly as possible. The two main boss monsters are "[[Machina Citadel]]" and "[[Machina Ruinforce]]". "[[Machina Fortress]]" is an additional monster of significance that was previously the deck's boss but now acts as more of an extension material for plays. "Fortress" can easily be Special Summoned from hand/GY by discarding Machines from the hand (including itself) and had high ATK for its time. "Citadel" can be summoned from the GY when any EARTH Machine is destroyed, and has a Quick Effect to destroy a Machine you control and all opposing monsters with equal/less ATK. "Ruinforce" can be summoned by banishing Machines, has a Battle Phase Negate and Life Point halving effect, and when destroyed revives banished "Machina". However, many cards rely on discarding or banishing from the GY, limiting its grind game.
 
-  Machina is often combined with other [[EARTH]] [[Machine]] archetypes, primarily the "[[Infinitrack]]" archetype. The archetype also has synergy with the "[[R.B.]]" archetype, and historically was also played alongside the "[[Gadget]]" and "[[Ancient Gear]]" archetypes, or the "[[Train]]" series. These improve the deck's grind game while bolstering the Deck's potential endboards.
+  Machina is often combined with other [[EARTH]] [[Machine]] archetypes, primarily the "[[Infinitrack]]" archetype and [[Train]] series. The archetype also has synergy with the "[[R.B.]]" archetype, and historically was also played alongside the "[[Gadget]]" and "[[Ancient Gear]]" archetypes. These improve the deck's grind game while bolstering the Deck's potential endboards.
 
   The original "Machina" playstyle was focused on [[Special Summon]]ing "[[Machina Force]]" with the effect of "[[Commander Covington]]"; considering how difficult it was to pull off, this playstyle quickly become obsolete with later "Machina" support and boss monsters, which are far more effective and poorly synergize with this original playstyle. Some "Machina" monsters are also [[Union monster]]s, but these effects only play a minimal role in the current "Machina" playstyle, generally the only relevant factor being unequipping "Gearframe" after it has been equipped from the Graveyard by the effect of "[[Therion "King" Regulus]]" so it can be used as an additional body.
 
@@ -137,6 +137,31 @@ wikitext: |-
   Due to the effects of "Machina Citadel" and "Machina Ruinforce" triggering from destruction, "Machina" can opt to run cards that benefit from this, such as "[[Torrential Tribute]]", [[Meklord Emperor Wisel]]" and "[[Dark Hole Dragon]]". Additionally, thanks to their ability to swarm the field with EARTH Machine monsters, "Machina" can opt to run a small "Ancient Gear" package to take advantage of "[[Ancient Gear Ballista]]". In formats where "[[Predaplant Verte Anaconda]]" is legal this package can even facilitate the summoning of "[[Chaos Ancient Gear Giant]]".
 
   === Sample combo ===
+  ;Infinitrack Hybrid
+  {{Combo steps
+  | opening = "[[Machina Redeployment]]" + 1 card in hand
+  | end     = "[[Therion "King" Regulus]]", "[[Machina Gearframe]]", "[[Infinitrack River Stormer]]" (with "[[Infinitrack Road Roller]]" as material), with 2 cards drawn and "[[Machina Citadel]]" in Graveyard.
+  | steps   = 
+  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
+  # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
+  # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
+  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]"
+  # Effect of "Gear Gigant X" to search for "[[Infinitrack Harvester]].
+  # Overlay for "[[Drill Driver Vespenato]]" using "Gear Gigant"
+  # Summon "Fortress" using "Citadel" as cost
+  # Link Summon "[[Ancient Gear Ballista]]" using "Vespenato" and "Fortress"
+  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Tunneller]]"
+  # Summon "Fortress" using "Box" and "Tunneller" as cost
+  # Link Summon "[[Platinum Gadget]]" using "Ballista" and "Fortress".
+  # Effect of "Platinum" to summon "Harvester", "Harvester" searches for "[[Infinitrack Brutal Dozer]]".
+  # Tribute "Harvester" for "Dozer", "Dozer" summons "[[Infinitrack Road Roller]]".
+  # Overlay "Dozer" and "Road Roller" for "[[Infinitrack River Stormer]]".
+  # "River Stormer" searches for "[[Therion "King" Regulus]]".
+  # Summon "Regulus", equipping "Gearframe", who can then summon itself.
+  # Banish "Tunneler" to return 5 cards to the Deck/Extra Deck to draw 2 cards.
+  }}
+
+  ;R.B. Hybrid
   {{Combo steps
   | opening = "[[Machina Redeployment]]" + 1 card in hand
   | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Ga10 Cutter]]", with "[[Machina Citadel]]" in GY, "[[R.B. Funk Dock]]" in the Field Zone and 2 cards drawn
@@ -175,13 +200,12 @@ wikitext: |-
   * [[Machina Unclaspare]]
   * [[Dark Hole Dragon]]
   * "[[Gadget]]" monsters
-  * [[Heavy Knight Babel Decker]]
   * "[[Infinitrack]]" monsters
   * "[[Meklord Emperor]]" monsters
   * [[Psychic Processor]]
   * [[Scrap Recycler]]
-  * [[Super Express Bullet Train]]
   * [[Therion "King" Regulus]]
+  * [[Train]] monsters
   * [[R.B. Ga10 Driller]]
   * [[R.B. Ga10 Cutter]]
   * [[Queen of the Blazing Domain]]
@@ -213,6 +237,8 @@ wikitext: |-
   * [[Springans Merrymaker]]
   ** [[Gigantic "Champion" Sargas]]
   * [[Superdreadnought Rail Cannon Gustav Max]]
+  ** [[Superdreadnought Rail Cannon Gustav Rocket]]
+  * [[Superdreadnought Rail Cannon Flying Launcher]]
   * [[Superdreadnought Rail Cannon Juggernaut Liebe]]
   |link monsters =
   * [[Aussa the Earth Charmer, Immovable]]
@@ -232,6 +258,7 @@ wikitext: |-
   * [[Foolish Burial Goods]]
   * [[Gravity Balance]]
   * [[Iron Call]]
+  * [[Exceptional Schedule]]
   |continuous spells = 
   * [[Machina Armored Unit]]
   * [[Machina Defense Perimeter]]

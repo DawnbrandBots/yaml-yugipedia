@@ -3,20 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = スパークハーツ・パッションガール
-  | romaji_name     = Supākuhātsu Passhongāru
-  | image           = SparkheartsPassionGirl-OW.png
-  | attribute       = FIRE
-  | types           = Spellcaster / ???
-  | level           = ???
-  | atk             = ???
-  | def             = ???
-  | requirement     = (TBA)
-  | text            = (TBA)
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
-  | archseries      = Sparkhearts
-  | database_id     = 
+  | ja_name        = スパークハーツ・パッションガール
+  | romaji_name    = Supākuhātsu Passhon Gāru
+  | image          = SparkheartsPassionGirl-RDAP02-JP-OP.png
+  | attribute      = FIRE
+  | types          = Spellcaster / Ritual / Effect
+  | level          = 6
+  | atk            = 2000
+  | def            = 1600
+  | ritualcard     = 
+  | requirement    = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = [[Destroy]] 1 card on your opponent's field. Then, if you have "[[Sparks (Rush Duel)|Sparks]]" and "[[Curtain of Sparks]]" in your Graveyard, [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent. This [[turn]], you cannot [[activate]] the [[effect]] of "Sparkhearts Passion Girl".
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
+  RD/AP02-JP018; Advance Pack: Revenge Hearts; Ultra Rare, Over Rush Rare
+  | mentions       = 
+  * Sparks (Rush Duel)
+  * Curtain of Sparks
+  * Sparkhearts Passion Girl
+  | archseries     = Sparkhearts
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | life_points    = Damages your opponent
+  | misc           = Only once per turn
+  | database_id    = 
   }}

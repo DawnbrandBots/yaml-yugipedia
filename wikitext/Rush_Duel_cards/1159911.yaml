@@ -5,15 +5,27 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|叛|はん}}{{Ruby|骨|こつ}}の{{Ruby|命|めい}}{{Ruby|運|うん}}
   | romaji_name    = Hankotsu no Meiun
-  | image          = DestinedDoomoftheDefiantSouls-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | image          = DestinedDoomoftheDefiantSouls-RDAP02-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | text           = Choose up to 2 [[Attack Position]] [[Level]] 5 or lower [[WIND]] [[Attribute]] [[Zombie]] [[Type]] monsters on your [[field]]. This [[turn]], those monsters cannot be [[destroyed by battle]] or your opponent's card [[effect]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
+  RD/AP02-JP016; Advance Pack: Revenge Hearts; Common
+  | supports       = 
+  * WIND
+  * Zombie
   | archseries     = Defiant Soul
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | attack         = Prevents other cards being destroyed by battle
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

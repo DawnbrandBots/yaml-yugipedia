@@ -3,20 +3,36 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = スパークハーツ・アネッシュ
-  | romaji_name     = Supākuhātsu Anesshu
-  | image           = SparkheartsAnesh-OW.png
-  | attribute       = FIRE
-  | types           = Spellcaster / ???
-  | level           = ???
-  | atk             = ???
-  | def             = ???
-  | requirement     = (TBA)
-  | text            = (TBA)
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
-  | archseries      = Sparkhearts
-  | database_id     = 
+  | ja_name        = スパークハーツ・アネッシュ
+  | romaji_name    = Supākuhātsu Anesshu
+  | image          = SparkheartsAnesh-RDAP02-JP-OP.png
+  | attribute      = FIRE
+  | types          = Spellcaster / Effect
+  | level          = 6
+  | atk            = 1800
+  | def            = 1200
+  | condition      = If you have "[[Sparks (Rush Duel)|Sparks]]" or "[[Curtain of Sparks]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or Special Summoned this card.
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Add a card|add]] to your hand 1 [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] from among the cards sent. This [[turn]], you cannot [[activate]] the [[effect]] of "Sparkhearts Anesh".
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
+  RD/AP02-JP022; Advance Pack: Revenge Hearts; Ultra Rare, Over Rush Rare
+  | mentions       = 
+  * Sparks (Rush Duel)
+  * Curtain of Sparks
+  * Sparkhearts Anesh
+  | supports       = 
+  * FIRE
+  * Spellcaster
+  | archseries     = Sparkhearts
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | summoning      = Special Summons itself from your hand
+  | misc           = Only once per turn
+  | database_id    = 
   }}

@@ -5,15 +5,24 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ビギニング・スカルライズ
   | romaji_name    = Biginingu Sukaruraizu
-  | image          = BeginningSkullrise-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | image          = BeginningSkullrise-RDAP02-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = During a [[turn]] you have not [[activate]]d "Beginning Skullrise", [[send]] 1 "[[Gaigust the Defiant Soul]]" or "[[Souffraes the Defiant Soul]]" from your [[hand]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 3 cards. Then, if you have 4 or more [[Monster Card|monster]]s in your Graveyard, send 1 card from your hand to the Graveyard.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/AP02-JP0??; Advance Pack: Revenge Hearts;
+  RD/AP02-JP014; Advance Pack: Revenge Hearts; Common
+  | mentions       = 
+  * Beginning Skullrise
+  * Gaigust the Defiant Soul
+  * Souffraes the Defiant Soul
   | archseries     = Defiant Soul
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Sends from your hand to your Graveyard
+  | misc           = Only once per turn
   | database_id    = 
   }}
