@@ -137,21 +137,30 @@ wikitext: |-
   Due to the effects of "Machina Citadel" and "Machina Ruinforce" triggering from destruction, "Machina" can opt to run cards that benefit from this, such as "[[Torrential Tribute]]", [[Meklord Emperor Wisel]]" and "[[Dark Hole Dragon]]". Additionally, thanks to their ability to swarm the field with EARTH Machine monsters, "Machina" can opt to run a small "Ancient Gear" package to take advantage of "[[Ancient Gear Ballista]]". In formats where "[[Predaplant Verte Anaconda]]" is legal this package can even facilitate the summoning of "[[Chaos Ancient Gear Giant]]".
 
   === Sample combo ===
-  ;Infinitrack Hybrid
+  ;Standard Opening
   {{Combo steps
   | opening = "[[Machina Redeployment]]" + 1 card in hand
-  | end     = "[[Therion "King" Regulus]]", "[[Machina Gearframe]]", "[[Infinitrack River Stormer]]" (with "[[Infinitrack Road Roller]]" as material), with 2 cards drawn and "[[Machina Citadel]]" in Graveyard.
+  | end     = "[[Gear Gigant X]]" into any of the following combos.
   | steps   = 
   # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
   # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
   # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
-  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]"
-  # Effect of "Gear Gigant X" to search for "[[Infinitrack Harvester]].
+  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]".
+  # Effect of "Gear Gigant X" to search.
   # Overlay for "[[Drill Driver Vespenato]]" using "Gear Gigant"
   # Summon "Fortress" using "Citadel" as cost
   # Link Summon "[[Ancient Gear Ballista]]" using "Vespenato" and "Fortress"
   # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Tunneller]]"
   # Summon "Fortress" using "Box" and "Tunneller" as cost
+  }}
+
+  ;Infinitrack Hybrid
+  {{Combo steps
+  | opening = "[[Machina Redeployment]]" + 1 card in hand
+  | end     = "[[Therion "King" Regulus]]", "[[Machina Gearframe]]", "[[Infinitrack River Stormer]]" (with "[[Infinitrack Road Roller]]" as material), with 2 cards drawn and "[[Machina Citadel]]" in Graveyard.
+  | steps   = 
+  # Do the '''Standard Opening'''.
+  ## "Gear Gigant X" search is "[[Infinitrack Harvester]]".
   # Link Summon "[[Platinum Gadget]]" using "Ballista" and "Fortress".
   # Effect of "Platinum" to summon "Harvester", "Harvester" searches for "[[Infinitrack Brutal Dozer]]".
   # Tribute "Harvester" for "Dozer", "Dozer" summons "[[Infinitrack Road Roller]]".
@@ -166,20 +175,34 @@ wikitext: |-
   | opening = "[[Machina Redeployment]]" + 1 card in hand
   | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Ga10 Cutter]]", with "[[Machina Citadel]]" in GY, "[[R.B. Funk Dock]]" in the Field Zone and 2 cards drawn
   | steps   = 
-  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
-  # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
-  # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
-  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]"
-  # Effect of "Gear Gigant X" to search for either "[[R.B. Ga10 Driller]]" or "[[R.B. Ga10 Cutter]]"
-  # Overlay for "[[Drill Driver Vespenato]]" using "Gear Gigant"
-  # Summon "Fortress" using "Citadel" as cost
-  # Link Summon "[[Ancient Gear Ballista]]" using "Vespenato" and "Fortress"
-  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Tunneller]]"
-  # Summon "Fortress" using "Box" and "Tunneller" as cost
+  # Do the '''Standard Opening'''.
+  ## "Gear Gigant X" search is either "[[R.B. Ga10 Driller]]" or "[[R.B. Ga10 Cutter]]"
   # Link Summon "[[R.B. The Brute Blues]]" using "Ballista" and "Fortress"
   # Effect of "Brute Blues" to add either "Ga10 Driller" or "Ga10 Cutter" (or "[[R.B. Funk Dock]]", and then one of the aforementioned cards)
   # Summon "Ga10 Driller" and "Ga10 Cutter" to zones that "Brute Blues" points to
   # Draw 2 cards by using "Tunneller" to shuffle "Gear Gigant", "Vespenato", "Ballista", "Gearframe" and "Box" back into Deck
+  }}
+
+  ;Train Hybrid
+  {{Combo steps
+  | opening = "[[Machina Redeployment]]" + 2 cards in hand
+  | end     = "[[Superdreadnought Rail Cannon Gustav Rocket]]", "[[Infinitrack River Stormer]]" (with "[[Infinitrack Road Roller]]" as material), with 2 cards drawn and "[[Machina Citadel]]" in Graveyard.
+  | steps   = 
+  # Do the '''Standard Opening'''.
+  ## "Gear Gigant X" search is "[[Flying Pegasus Railroad Stampede]]".
+  # Link Summon "[[Platinum Gadget]]" using "Ballista" and "Fortress".
+  # Effect of "Platinum" to summon "Flying Pegasus".
+  # "Flying Pegasus" effect to summon "Machina Citadel" and regulate both to Level 10.
+  # Overlay "Flying Pegasus" and "Machina Citadel" for "[[Superdreadnought Rail Cannon Flying Launcher]]".
+  ## To return "Machina Citadel" to Graveyard, destroy a spare Spell/Trap, or Link off "Flying Launcher".
+  # "Flying Launcher" search for "Infinitrack Harvester" to Normal Summon and add "Brutal Dozer".
+  # "Brutal Dozer" summons "Road Roller".
+  # Overlay "Brutal Dozer" and "Road Roller" for "River Stormer".
+  # "River Stormer" searches for "[[Noctilucent Train Bleu Traveler]]".
+  # Discard "Bleu Traveler" to search for "[[Revolving Switchyard]]" and activate it.
+  # Effect of "Bleu Traveler" to summon itself and a monster from Graveyard, "Switchyard" will then summon a monster from deck.
+  # Overlay "Bleu Traveler" and the monster from deck for "[[Superdreadnought Rail Cannon Gustav Max]]" and then "[[Superdreadnought Rail Cannon Gustav Rocket|Gustav Rocket]]".
+  # Banish "Tunneler" to return 5 cards to the Deck/Extra Deck to draw 2 cards.
   }}
 
   === Recommended cards ===
