@@ -38,7 +38,25 @@ wikitext: |-
   | mentions              = 
   * Fairy Prince
   * Fairy Tail Tales
+  | supports              = Spellcaster
+  | anti-supports         = Spellcaster
   | archseries            = Fairy Tail
   | supports_archetypes   = Fairy Tail
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | stat_change           = Changes card names
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | life_points           = Pays Life Points for cost
+  | misc                  = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id           = 
   }}

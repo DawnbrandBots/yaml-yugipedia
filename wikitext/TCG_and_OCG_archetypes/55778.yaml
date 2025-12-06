@@ -186,9 +186,9 @@ wikitext: |-
   ;EARTH Machine Hybrid
   {{Combo steps
   | opening = "[[Machina Redeployment]]" + 2 cards in hand
-  | end     = "[[Therion "King" Regulus]]" (with "[[Machina Gearframe]]" equipped), "[[Superdreadnought Rail Cannon Gustav Rocket]]", "[[Superdreadnought Rail Cannon Flying Launcher]]", "[[Cyber Dragon Infinity]]", "[[Infinitrack River Stormer]]" (with "[[Infinitrack Road Roller]]" as material or 2 cards drawn), and "[[Machina Citadel]]" in Graveyard.
+  | end     = "[[Therion "King" Regulus]]", "[[Superdreadnought Rail Cannon Gustav Rocket]]" (with "[[Infinitrack Goliath]]" attached), "[[Superdreadnought Rail Cannon Flying Launcher]]", "[[Cyber Dragon Infinity]]" and "[[Double Headed Anger Knuckle]]" on field + "[[Machina Citadel]]" in Graveyard + any EARTH Machine in hand for follow up + 2 draws + 2000 Damage.
   | steps   = 
-  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]"
+  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]".
   # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
   # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
   # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]".
@@ -196,7 +196,7 @@ wikitext: |-
   # Summon "Fortress" using "Citadel" as cost.
   # Link Summon "[[Ancient Gear Ballista]]" using "Gear Gigant" and "Fortress"
   ## "Gear Gigant" could be Overlayed into "Vespenato" prior to this to add another monster to Graveyard.
-  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Trencher]]"
+  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Trencher]]".
   # Summon "Fortress" using "Box" and "Trencher" as cost.
   # Link Summon "[[Platinum Gadget]]" using "Ballista" and "Fortress".
   # Effect of "Platinum Gadget" to summon "Scrap Recycler", who sends "[[Noctilucent Train Bleu Traveler]]" to graveyard.
@@ -215,10 +215,13 @@ wikitext: |-
   ## Detach "Citadel" from "Gustav Max" to deal 2000 Damage.
   # Tribute "Genius" for "Brutal Dozer", who summons another Level 5 "Infinitrack" from deck.
   # Overlay "Brutal Dozer" and Level 5 "Infinitrack" for "River Stormer".
-  ## "River Stormer" can search for another EARTH Machine, e.g. "[[Ancient Gear Statue]]" for follow up.
-  ## If "Tunneler" is detached it can be banished to return 5 cards to deck and draw 2.
-  ## "Infinitrack Goliath" can be Link Summoned and then send to Graveyard to attach to "Gustav Rocket".
+  # "River Stormer" searches for another EARTH Machine (e.g. "[[Ancient Gear Statue]]" for a follow up OTK).
+  ## If "Tunneler" is detached it can be banished at the end of the combo to draw 2.
+  # Link Summon "Infinitrack Goliath" using "River Stormer".
+  ## Alternatively, "River Stormer" can remain on field with "Road Roller" as material to force all opponent's monsters into defense position.
   # Summon "Therion "King" Regulus" by equipping "Machina Gearframe".
+  # Summon "Gearframe" and use it and "Goliath" to Link Summon "[[Double Headed Anger Knuckle]]".
+  # Attach "Goliath" to "Gustav Rocket" (or "Cyber Dragon Infinity").
   }}
 
   === Recommended cards ===

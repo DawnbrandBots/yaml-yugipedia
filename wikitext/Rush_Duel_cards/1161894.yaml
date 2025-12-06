@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 髑巌王ヴァルストルム
-  | romaji_name    = 
+  | ja_name        = {{Ruby|髑|どく}}{{Ruby|巌|がん}}{{Ruby|王|おう}}ヴァルストルム
+  | romaji_name    = Dokugan'ō Varusutorumu
   | image          = ValstormtheSkullcragKing-RDAP02-JP-OP.png
   | attribute      = WIND
   | types          = Zombie / Fusion / Effect
@@ -12,14 +12,24 @@ wikitext: |-
   | atk            = 2500
   | def            = 0
   | effect_types   = Continuous
-  | materials      = 3 [[Level]] 8 or lower [[Zombie]] [[Type]] [[monsters]]
+  | materials      = 3 [[Level]] 8 or lower [[Zombie]] [[Type]] [[Monster Card|monster]]s
   | requirement    = None
-  | text           = [[Spell]]/[[Trap Card]]s on your [[field]] cannot be destroyed by your opponent's card [[effect]]s. During your opponent's [[turn]], this card and Spell/Trap Cards on your field cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card effects.
+  | text           = [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s. During your opponent's [[turn]], this card and Spell/Trap Cards on your field cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card effects.
   | ja_materials   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP02-JP003; Advance Pack: Revenge Hearts; Ultra Rare
+  | supports       = Zombie
   | archseries     = Defiant Soul
+  | action         = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | summoning      = 
+  * 3 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
   | database_id    = 
   }}
