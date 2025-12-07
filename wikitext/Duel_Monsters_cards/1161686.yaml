@@ -33,7 +33,28 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC064; Blazing Dominion; 
   | mentions              = Fairy Prince
+  | supports              = 
+  * Spellcaster
+  * Fusion Monster
   | archseries            = Fairy Tail
   | supports_archetypes   = Fairy Tail
+  | anti-supports_archetypes = Fairy Tail
+  | action                = 
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Activates from your Graveyard
+  * Equips self from Graveyard
+  | stat_change           = Equipped gains ATK
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Deck
+  * Performs a Normal Summon
+  | misc                  = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}

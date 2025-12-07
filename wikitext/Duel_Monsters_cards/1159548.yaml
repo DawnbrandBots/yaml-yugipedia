@@ -18,13 +18,13 @@ wikitext: |-
   | sc_name               = 
   | image                 = RegulusthePrinceofEndymion-VJMP-JP-OP.png
   | attribute             = LIGHT
-  | types                 = ??? / Effect
+  | types                 = Spellcaster / Effect
   | level                 = 4
-  | atk                   = ???
-  | def                   = ???
+  | atk                   = 1700
+  | def                   = 1300
   | password              = 
-  | effect_types          = 
-  | text                  = 
+  | effect_types          = Continuous, Condition, Ignition, Trigger
+  | text                  = The first time this card would be [[destroyed by battle]] each [[turn]], it is not destroyed. You can only use each of the following [[effect]]s of "Regulus, the Prince of Endymion" [[once per turn]]. If this card is in your [[hand]]: You can [[reveal]] 1 other [[Spellcaster]] [[monster]] in your hand; you lose [[LP]] equal to the revealed monster's [[Level]] x 300, and if you do, Special Summon this card. If this card is Special Summoned: You can [[Add a card|add]] 1 [[Spell]] that mentions "Regulus, the Prince of Endymion" from your [[Main Deck|Deck]] to your hand.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -36,7 +36,6 @@ wikitext: |-
   | jp_sets               = 
   VJMP-JP282; V Jump February 2026 promotional card; Ultra Rare
   | archseries            = Endymion
-  | supports_archetypes   = 
   | related_to_archseries = Witchcrafter
   | database_id           = 
   }}

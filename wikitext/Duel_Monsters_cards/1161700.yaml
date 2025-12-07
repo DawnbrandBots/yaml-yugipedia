@@ -32,7 +32,23 @@ wikitext: |-
   BLZD-JP062; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC062; Blazing Dominion; 
+  | supports              = 
+  * LIGHT
+  * Spellcaster
   | archseries            = Fairy Tail
   | supports_archetypes   = Fairy Tail
+  | action                = 
+  * Activates if sent to the Graveyard
+  * Activates while banished
+  * Sets itself from your Graveyard
+  * Sets itself while banished
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons the player's banished monsters
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}
