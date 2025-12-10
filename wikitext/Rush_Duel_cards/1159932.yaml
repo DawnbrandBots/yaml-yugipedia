@@ -12,14 +12,27 @@ wikitext: |-
   | level           = 5
   | atk             = 1500
   | def             = 2000
-  | condition       = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[monster]] on your [[field]], you can [[Normal Summon]] this card without Tributing.
+  | condition       = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement     = During your [[Main Phase]] that you Normal or [[Special Summon]]ed this card.
-  | text            = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 3 or 8 EARTH Attribute Insect Type monster to your hand. Place the other cards on the bottom of your Deck in any order.
+  | text            = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 3 or 8 EARTH Attribute Insect Type monster to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/AP02-JP038; Advance Pack: Revenge Hearts; Super Rare
+  | supports        = 
+  * EARTH
+  * Insect
   | archseries      = Moth (Rush Duel)
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | summoning       = Normal Summon without Tribute
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}
