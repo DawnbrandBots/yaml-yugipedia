@@ -8,8 +8,11 @@ wikitext: |-
   | image          = ImHavingTroublewithMyFieldsBeingDestroyed-RDAP02-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
+  | ritualmonster  = 
+  * Sparkhearts Passion Girl
+  * Sparkhearts Passion Makma
   | requirement    = None
-  | text           = [[Ritual Summon]] "[[Sparkhearts Passion Girl]]" or "[[Sparkhearts Passion Makma]]" by [[send]]ing [[face-up]] [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[monsters]] from your [[field]] to the [[Graveyard]] as [[material]] whose total [[Level]]s equal or exceed the Level of the monster you Ritual Summon (you cannot use more monsters than necessary as material). Then, you can [[destroy]] 1 face-up Level 6 or lower [[Beast]] or [[Winged Beast]] Type monster on your opponent's field.
+  | text           = [[Ritual Summon]] "[[Sparkhearts Passion Girl]]" or "[[Sparkhearts Passion Makma]]" by [[send]]ing [[face-up]] [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] as [[material]] whose total [[Level]]s equal or exceed the Level of the monster you Ritual Summon (you cannot use more monsters than necessary as material). Then, you can [[destroy]] 1 face-up Level 6 or lower [[Beast]] or [[Winged Beast]] Type monster on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +20,23 @@ wikitext: |-
   | mentions       = 
   * Sparkhearts Passion Girl
   * Sparkhearts Passion Makma
+  | supports       = 
+  * FIRE
+  * Spellcaster
+  | anti-supports  = 
+  * Beast
+  * Winged Beast
   | archseries     = Sparkhearts
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id    = 
   }}

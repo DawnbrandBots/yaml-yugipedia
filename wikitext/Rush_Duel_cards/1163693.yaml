@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 800
   | def            = 1200
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Increase this card's [[Level]] by 3 until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Sparkhearts Girl]]" or 1 "[[I Need Holy Water to Ward Off Evil Spirits!]]" from your Graveyard to your [[hand]]. This turn, you can only [[attack]] with [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[monsters]].
+  | text           = Increase this card's [[Level]] by 3 until the end of this turn. Then, you can [[Add a card|add]] 1 "[[Sparkhearts Girl]]" or 1 "[[I Need Holy Water to Ward Off Evil Spirits!]]" from your Graveyard to your [[hand]]. This turn, you can only [[attack]] with [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,15 @@ wikitext: |-
   | mentions       = 
   * Sparkhearts Girl
   * I Need Holy Water to Ward Off Evil Spirits!
+  | supports       = 
+  * FIRE
+  * Spellcaster
   | archseries     = Sparkhearts
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = This card gains Levels
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

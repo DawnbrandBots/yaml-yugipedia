@@ -11,10 +11,10 @@ wikitext: |-
   | level          = 9
   | atk            = 2600
   | def            = 1200
-  | ritualcard     = 
+  | ritualcard     = I'm Having Trouble with My Fields Being Destroyed!
   | effect_types   = Continuous
   | requirement    = None
-  | text           = Any [[Effect damage|damage]] you inflict by the [[effect]] of "[[Sparks (Rush Duel)|Sparks]]" becomes 700. [[Face-up]] "[[Sparkhearts Girl]]" on your [[field]] gain 1300 [[ATK]]. Face-up monsters on your opponent's field lose ATK equal to [the number of "Sparks" and "[[Curtain of Sparks]]" with different names in your Graveyard] x 400.
+  | text           = Any [[Effect damage|damage]] you [[Damage|inflict]] by the [[effect]] of "[[Sparks (Rush Duel)|Sparks]]" becomes 700. [[Face-up]] "[[Sparkhearts Girl]]" on your [[field]] gain 1300 [[ATK]]. Face-up [[Monster Card|monster]]s on your opponent's field lose ATK equal to [the number of "Sparks" and "[[Curtain of Sparks]]" with different names in your [[Graveyard]]] x 400.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -24,5 +24,10 @@ wikitext: |-
   * Sparkhearts Girl
   * Curtain of Sparks
   | archseries     = Sparkhearts
+  | stat_change    = 
+  * Your monsters gain ATK
+  * Your opponent's monsters lose ATK
+  | life_points    = Increases effect damage
+  | misc           = Requires control of specific card
   | database_id    = 
   }}

@@ -9,11 +9,20 @@ wikitext: |-
   | card_type      = Spell
   | property       = Field
   | requirement    = None
-  | text           = While this card is [[face-up]] in the [[Field Zone]], face-up [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[monsters]] on the [[field]] cannot be [[destroy]]ed by card [[effect]]s, and face-up [[Level]] 6 or lower FIRE Attribute Spellcaster Type monsters on the field gain 400 [[ATK]].
+  | text           = While this card is [[face-up]] in the [[Field Zone]], face-up [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]s on the [[field]] cannot be [[destroy]]ed by card [[effect]]s, and face-up [[Level]] 6 or lower FIRE Attribute Spellcaster Type monsters on the field gain 400 [[ATK]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP02-JP030; Advance Pack: Revenge Hearts; Common
+  | supports       = 
+  * FIRE
+  * Spellcaster
   | archseries     = Sparkhearts
+  | stat_change    = All monsters gain ATK
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id    = 
   }}
