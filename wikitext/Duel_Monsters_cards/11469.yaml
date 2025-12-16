@@ -11,15 +11,15 @@ wikitext: |-
   | pt_name          = 
   | es_name          = Salva Completa
   | image            = 
-  1;   FullSalvo-EE04-JP-C.jpg   ; FullSalvo-MADU-JP-VG-artwork.png
-  1.1; FullSalvo-DR04-NA-C-UE.png; FullSalvo-MADU-EN-VG-artwork.png
-  | current_image    = 1.1
+  1;   FullSalvo-LART-EN-UR-LE.png ; FullSalvo-MADU-JP-VG-artwork.png
+  1.1; FullSalvo-DR04-NA-C-UE.png  ; FullSalvo-MADU-EN-VG-artwork.png
+  | current_image    = 1
   | it_name          = Fuoco a Volontà
   | card_type        = Trap
   | property         = Normal
   | password         = 70865988
   | effect_types     = Effect
-  | text             = When this card [[resolve]]s, send your entire [[hand]] to the [[Graveyard]]. Inflict 200 [[Effect damage|damage]] to your opponent for each card you sent to the Graveyard by this [[effect]].
+  | text             = [[Send]] your entire [[hand]] to the [[GY]], and if you do, inflict 200 [[Effect damage|damage]] to your opponent for each card sent to the GY by this [[effect]].
   | fr_text          = Après l'activation de cette carte, envoyez votre main entière au Cimetière. Infligez 200 points de dommages aux Life Points de votre adversaire pour chaque carte que vous avez envoyée au Cimetière par cet effet.
   | de_text          = Wirf nach der Aktivierung dieser Karte deine komplette Hand auf den Friedhof ab. Füge den Life Points deines Gegners 200 Punkte Schaden für jede Karte zu, die durch diesen Effekt auf den Friedhof gelegt wurde.
   | it_text          = Dopo l'attivazione di questa carta, manda tutta la tua mano al Cimitero. Infliggi 200 punti di danno ai Life Points del tuo avversario per ogni carta che hai mandato al Cimitero con questo effetto.
@@ -29,16 +29,23 @@ wikitext: |-
   | ko_text          = 이 카드의 발동 후, 손패를 전부 묘지에 보낸다. 묘지에 보냈던 카드의 매수× 200 포인트 데미지를 상대 라이프에 준다.
   | en_sets          = 
   SOI-EN056; Shadow of Infinity; Common
+  LART-EN075; The Lost Art Promotion 2025 F; Ultra Rare
   | na_sets          = 
   DR04-EN176; Dark Revelation Volume 4; Common
   | fr_sets          = 
   SOI-FR056; Shadow of Infinity; Common
+  LART-FR075; The Lost Art Promotion 2025 F; Ultra Rare
   | de_sets          = 
   SOI-DE056; Shadow of Infinity; Common
+  LART-DE075; The Lost Art Promotion 2025 F; Ultra Rare
   | it_sets          = 
   SOI-IT056; Shadow of Infinity; Common
+  LART-IT075; The Lost Art Promotion 2025 F; Ultra Rare
+  | pt_sets          = 
+  LART-PT075; The Lost Art Promotion 2025 F; Ultra Rare
   | sp_sets          = 
   SOI-SP056; Shadow of Infinity; Common
+  LART-SP075; The Lost Art Promotion 2025 F; Ultra Rare
   | jp_sets          = 
   SOI-JP056; Shadow of Infinity; Common
   EE04-JP176; Expert Edition Volume 4; Common
