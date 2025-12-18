@@ -35,5 +35,23 @@ wikitext: |-
   BLZD-JP023; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC023; Blazing Dominion; 
+  | supports              = 
+  * Fiend
+  * Illusion
+  * Spellcaster
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  | stat_change           = Changes own Type
+  | summoning             = Special Summons itself from your Graveyard
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Only once per Duel
   | database_id           = 
   }}

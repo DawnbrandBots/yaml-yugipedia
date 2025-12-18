@@ -12,12 +12,17 @@ wikitext: |-
   | atk            = 1000
   | def            = 500
   | requirement    = You have 1 or less cards in your [[Spell & Trap Zone]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Set]] 1 non-[[Legend Card|Legend]] [[Normal Spell Card]] from your [[Graveyard]] to your Spell & Trap Zone. This [[turn]], you cannot [[activate]] that card or the [[effect]] of "Yabume the Frost-Purifying Purebreed".
+  | text           = [[Set]] 1 non-[[Legend Card|Legend]] [[Normal Spell Card]] from your [[Graveyard]] to your Spell & Trap Zone. This turn, you cannot [[activate]] that card or the [[effect]] of "Yabume the Frost-Purifying Purebreed".
   | ja_requirement = 
   | ja_text        = 
-  | ko_requirement = 
-  | ko_text        = 
   | jp_sets        = 
   RD/AP02-JP045; Advance Pack: Revenge Hearts; Ultra Rare, Over Rush Rare
+  | mentions       = Yabume the Frost-Purifying Purebreed
+  | supports       = Normal Spell Card
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sets from your Graveyard
+  | m/s/t          = Prevents activation of your Spell Cards
+  | misc           = Only once per turn
   | database_id    = 
   }}

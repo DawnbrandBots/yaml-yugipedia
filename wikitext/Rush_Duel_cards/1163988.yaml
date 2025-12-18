@@ -11,15 +11,21 @@ wikitext: |-
   | level          = 7
   | atk            = 2400
   | def            = 1200
-  | condition      = You can [[Special Summon]] this card from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]] by [[send]]ing 1 other card from your [[hand]] to the [[Graveyard]].
+  | condition      = You can [[Special Summon]] this card from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]] by [[send]]ing 1 other card from your hand to the [[Graveyard]].
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or Special Summoned this card, send 1 card from your hand to the Graveyard.
-  | text           = [[Return]] 1 [[Spell]]/[[Trap Card]] from your opponent's field to the [[owner]]'s hand. Then, you can change this card's [[battle position]].
+  | text           = [[Return]] 1 [[Spell Card|Spell]]/[[Trap Card]] from your opponent's field to the [[owner]]'s hand. Then, you can [[Battle position change|change]] this card's [[battle position]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
-  | ko_requirement = 
-  | ko_text        = 
   | jp_sets        = 
   RD/AP02-JP044; Advance Pack: Revenge Hearts; Ultra Rare, Over Rush Rare
+  | action         = 
+  * Sends from hand to Graveyard for Special Summon
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  * Changes own battle position
+  | summoning      = Special Summons itself from your hand
   | database_id    = 
   }}
