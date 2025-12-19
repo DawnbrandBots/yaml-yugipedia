@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = WindUnicornParalleltheDracoslayer-25DB-JP-OP.png
+  | image                 = WindUnicornParalleltheDracoslayer-25DB-JP-SR.png
   | attribute             = WIND
   | types                 = Spellcaster / Pendulum / Effect
   | level                 = 6
   | pendulum_scale        = 2
   | atk                   = 2000
   | def                   = 2000
-  | password              = 
+  | password              = 39016067
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Continuous, Quick, Condition
   | pendulum_effect       = If you have a card in your other [[Pendulum Zone]]: You can [[activate]] 1 of these [[effect]]s;<br />● [[Special Summon]] this card.<br />● [[Destroy]] this card, and if you do, Special Summon 1 [[Level]] 5 or lower [[Pendulum Monster Card]] from your [[Pendulum Zone]].<br />You can only use this [[effect]] of "Wind Unicorn Parallel, the Dracoslayer" [[once per turn]].
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンにカードが存在する場合、以下の効果から１つを選択して発動できる。●このカードを特殊召喚する。●このカードを破壊し、自分のＰゾーンのレベル５以下のＰモンスターカード１枚を特殊召喚する。
+  | ja_text               = このカード名の②のモンスター効果は１ターンに１度しか使用できない。①：Ｐ召喚したこのカードがモンスターゾーンに存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。②：自分・相手ターンに、自分フィールドのＰモンスターカード１枚と相手フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -61,5 +61,5 @@ wikitext: |-
   * Variable effects
   * Only once per turn
   * Requires control of specific Monster type
-  | database_id           = 
+  | database_id           = 22215
   }}
