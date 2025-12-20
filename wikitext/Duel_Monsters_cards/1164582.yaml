@@ -14,7 +14,7 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 精灵术的使役魔
-  | image                 = FamiliarsoftheSpiritualArts-BLZD-JP-OP.png
+  | image                 = FamiliarsoftheSpiritualArts-BLZD-SC-OP.png
   | attribute             = WATER
   | types                 = Reptile / Effect
   | level                 = 4
@@ -42,7 +42,6 @@ wikitext: |-
   * Charmer
   * Gigo
   | supports_archetypes   = Possessed
-  | misc                  = Archetype condition
   | action                =
   * Activates upon Normal Summon
   * Activates upon Special Summon
@@ -53,6 +52,8 @@ wikitext: |-
   | summoning             =
   * Special Summons from your Deck
   * Special Summons from your Graveyard
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   }}

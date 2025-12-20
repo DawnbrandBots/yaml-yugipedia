@@ -36,11 +36,22 @@ wikitext: |-
   BLZD-JP005; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC005; Blazing Dominion; 
-  | archseries            = Warrior (archetype)
   | mentions              = 
   * Junk Warrior
   * Assault Mode Activate
+  | archseries            = Warrior (archetype)
   | supports_archetypes   = Synchron
   | related_to_archseries = /Assault Mode
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Applies effect when used as Synchro Material
+  | stat_change  = Your monsters gain ATK
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 
   }}
