@@ -8,21 +8,21 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 白き幻獣－{{Ruby|青眼の白龍|ブルーアイズ・ホワイト・ドラゴン}}
-  | romaji_name           = 
+  | ja_name               = {{Ruby|白|しろ}}き{{Ruby|幻|げん}}{{Ruby|獣|じゅう}}－{{Ruby|青眼の白龍|ブルーアイズ・ホワイト・ドラゴン}}
+  | romaji_name           = Shiroki Genjū - Burūaizu Howaito Doragon
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
   | image                 = BlueEyesWhiteDragontheWhitePhantomBeast-LOCR-JP-OP.png
   | attribute             = LIGHT
-  | types                 = ??? / Effect
+  | types                 = Dragon / Effect
   | level                 = 8
-  | atk                   = ???
-  | def                   = ???
+  | atk                   = 3000
+  | def                   = 2500
   | password              = 
-  | effect_types          = 
-  | text                  = 
+  | effect_types          = Quick, Condition, Trigger, Trigger
+  | text                  = When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the following effects of "Blue-Eyes White Dragon, the White Phantom Beast" once per turn. When this card is added from the Deck to your hand, or your monster is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you can only attack with "Blue-Eyes" monsters this turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -36,5 +36,6 @@ wikitext: |-
   | archseries            = 
   * Blue-Eyes
   * Phantom Beast
+  | supports_archetypes   = Blue-Eyes
   | database_id           = 
   }}
