@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 2000
   | password              = 
   | effect_types          = Summoning condition, Trigger, Quick
-  | text                  = 2 [[DARK]] [[monster]]s on the [[field]]<br />(This card is always treated as a "[[Predaplant]]" card.)<br />If this card is [[Special Summon]]ed: You can [[target]] 1 other [[face-up]] monster on the [[field]]; change its [[ATK]] to 0, [[negate]] its [[effect]]s, also it becomes DARK. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[Fusion Summon]] 1 DARK [[Fusion Monster]] from your [[Extra Deck]], using DARK monsters on either field, including this card. You can only use each effect of "Starving Venom Fusion Dragon of the Four Heavenly Dragons" once per [[turn]].
+  | text                  = 2 [[DARK]] [[monster]]s on the [[field]]<br />(This card is always treated as a "[[Predaplant]]" card.)<br />If this card is [[Special Summon]]ed: You can [[target]] 1 other [[face-up]] monster on the [[field]]; change its [[ATK]] to 0, [[negate]] its [[effect]]s, also it becomes DARK. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[Fusion Summon]] 1 DARK [[Fusion Monster]] from your [[Extra Deck]], using DARK monsters on either field, including this card. You can only use each effect of "Starving Venom Fusion Dragon of the Four Heavenly Dragons" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -40,6 +40,7 @@ wikitext: |-
   * Predaplant
   * Starving Venom
   * Venom
+  | related_to_archseries = Four Dimensional Dragons
   | supports              = DARK
   | summoning             = 
   * 2 Fusion Materials
@@ -55,10 +56,11 @@ wikitext: |-
   * Uses cards on the player's field as Fusion Materials
   * Uses cards on the opponent's field as Fusion Materials
   | stat_change           = 
-  * Name condition    
   * Reduces ATK to 0
   * Changes Attribute
   | m/s/t                 = Negates the effects of Effect Monsters
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Only once per turn
+  * Archetype condition
   | database_id           = 
   }}

@@ -9,7 +9,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|捕食植物|プレデター・プランツ}}テッポウリザード
   | romaji_name           = Puredetā Purantsu Teppourizādo
-  | translated_name       = Predator Plants Easter Lily Lizard
+  | translated_name       = Predator Plants Squirting Cucumber Lizard
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 捕食植物 铁炮瓜蜥蜴
@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 1200
   | password              = 
   | effect_types          = Ignition, Ignition, Trigger, Condition
-  | text                  = If you control a "[[Predaplant]]" or "[[Starving Venom]]" monster: You can Special Summon this card from your hand, then you can add 1 "[[Polymerization]]" from your Deck to your hand. You can target 1 face-up monster on the field; it becomes DARK until the end of this turn. If this card is Special Summoned from the GY: You can draw 1 card. You can only use each effect of "Predaplant Lilizard" once per turn.
+  | text                  = If you [[control]] a "[[Predaplant]]" or "[[Starving Venom]]" [[monster]]: You can [[Special Summon]] this card from your [[hand]], then you can [[add]] 1 "[[Polymerization]]" from your [[Deck]] to your [[hand]]. You can [[target]] 1 [[face-up]] monster on the [[field]]; it becomes [[DARK]] until the end of this [[turn]]. If this card is Special Summoned from the [[GY]]: You can [[draw a card|draw]] 1 card. You can only use each [[effect]] of "Predaplant Lilizard" once per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -41,5 +41,12 @@ wikitext: |-
   | supports_archetypes   = 
   * Predaplant
   * Starving Venom
+  | summoning             = Special Summons itself from your hand
+  | action                =
+  * Adds from Deck to hand
+  * Activates upon Special Summon
+  * You draw cards
+  | stat_change           = Changes Attribute
+  | misc                  = Only once per turn
   | database_id           = 
   }}

@@ -21,7 +21,7 @@ wikitext: |-
   | atk                   = 2300
   | password              = 
   | effect_types          = Continuous, Quick, Condition
-  | text                  = 2+ Effect Monsters<br />While this card is in the Extra Monster Zone, it gains 500 ATK for every other Link Monster in the field and GYs, also your opponent cannot target it with card effects. (Quick Effect): You can Tribute 1 monster this card points to; send 1 Cyberse monster from your Extra Deck to the GY, also this card can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use this effect of "Decode Talker Integration" once per turn.
+  | text                  = 2+ [[Effect Monster]]s<br />While this card is in the [[Extra Monster Zone]], it gains 500 [[ATK]] for every other [[Link Monster]] in the [[field]] and [[GY]]s, also your opponent cannot [[target]] it with [[card effect]]s. ([[Quick Effect]]): You can [[Tribute]] 1 [[monster]] this card [[points to]]; [[send]] 1 [[Cyberse]] monster from your [[Extra Deck]] to the GY, also this card can make up to 2 [[attack]]s on monsters during each [[Battle Phase]] this [[turn]]. You can only use this effect of "Decode Talker Integration" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -35,5 +35,18 @@ wikitext: |-
   | archseries            = 
   * Code Talker (archetype)
   * Signature move
+  | supports              =
+  * Link Monster
+  * Cyberse
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Cannot be targeted by card effects
+  | action                = 
+  * Tributes for cost
+  * Sends from your Extra Deck to your Graveyard
+  | attack                = Multiple attacker
+  | misc                  = Only once per turn
   | database_id           = 
   }}
