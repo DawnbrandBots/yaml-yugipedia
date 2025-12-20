@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 800
   | password              = 
   | effect_types          = Ignition, Condition, Trigger
-  | text                  = You can send any number of face-down cards from your Spell & Trap Zone to the GY; inflict 800 damage to your opponent for each, also your opponent takes no damage from non-Fiend monsters' effects for the rest of this turn. You can only use this effect of "Gatling Ogre" once per turn. Once per turn, when this card is targeted for an attack: You can inflict 500 damage to your opponent for each Attack Position monster they control, then end the Battle Phase.
+  | text                  = You can [[send]] any number of [[face-down]] cards from your [[Spell & Trap Zone]] to the [[GY]]; inflict 800 [[effect damage|damage]] to your opponent for each, also your opponent takes no damage from non-[[Fiend]] [[monster]]s' [[effect]]s for the rest of this [[turn]]. You can only use this effect of "Gatling Ogre" once per turn. Once per turn, when this card is [[target]]ed for an [[attack]]: You can inflict 500 damage to your opponent for each [[Attack Position]] monster they [[control]], then end the [[Battle Phase]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -31,5 +31,14 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCR-JP024; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | mentions              = Gatling Ogre
+  | action                =
+  * Sends from your field to your Graveyard
+  * Ends the Battle Phase 
+  | life_points           = Damages your opponent
+  * Prevents effect damage
+  | misc                  = 
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   }}

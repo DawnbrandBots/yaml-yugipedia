@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = ヴァレルロード・Ｌ・ドラゴン
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = ヴァレルロード・{{Ruby|Ｌ|リベレイター}}・ドラゴン
+  | romaji_name           = Varerurōdo Ribereitā Doragon
+  | translated_name       = Varrelload Liberator Dragon
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,7 +21,7 @@ wikitext: |-
   | atk                   = 3000
   | password              = 
   | effect_types          = Condition, Quick, Condition, Quick
-  | text                  = 3+ Effect Monsters<br />You can only Special Summon "Borreload Liberator Dragon(s)" once per turn. Once per turn, during the Battle Phase (Quick Effect): You can place 1 monster your opponent controls in a zone this card points to and take control of it. Your opponent cannot activate cards or effects in response to this effect's activation. Once per Chain, if this card is in your GY (Quick Effect): You can target 1 monster you control; destroy it, and if you do, Special Summon this card.
+  | text                  = 3+ [[Effect Monster]]s<br />You can only [[Special Summon]] "Borreload Liberator Dragon(s)" once per [[turn]]. Once per turn, during the [[Battle Phase]] ([[Quick Effect]]): You can place 1 [[monster]] your opponent [[control]]s in a zone this card [[points]] to and take control of it. Your opponent cannot [[activate]] cards or [[effect]]s in [[response]] to this effect's activation. Once per [[Chain]], if this card is in your [[GY]] ([[Quick Effect]]): You can target 1 monster you control; [[destroy]] it, and if you do, Special Summon this card.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -32,6 +32,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCR-JP016; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | mentions              = Borreload Liberator Dragon
   | archseries            = Borrel
+  | summoning             = 
+  * 3+ Link Materials
+  * Special Summons itself from your Graveyard
+  | misc                  = 
+  * Only once per turn
+  * Limited activations
+  | action                =
+  * Changes Monster Zone 
+  * Changes control
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  * Activates from your Graveyard
+  | m/s/t                 = Destroys your Monster Cards
   | database_id           = 
   }}
