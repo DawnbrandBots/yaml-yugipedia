@@ -1,8 +1,7 @@
 title: Fallen Angel in Darkness
 wikitext: |-
-  {{Unofficial lore|English}}
   {{Not archetype member|Darkness (archetype)|ダークネス}}
-
+  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -15,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = FallenAngelinDarkness-26PP-JP-OP.png
+  | image               = FallenAngelinDarkness-26PP-JP-C.png
   | card_type           = Trap
   | property            = Normal
-  | password            = 
+  | password            = 93023136
   | effect_types        = Condition, Effect, Condition
   | text                = (This card is always treated as a "[[Darklord]]" card.)<br />[[Send]] 1 [[Fairy]] [[monster]] from your [[hand]] or [[face-up]] [[field]] to the [[GY]]; [[Special Summon]] 1 "Darklord" monster from your [[hand]], [[Main Deck|Deck]], or [[banish]]ment, [[ignoring its Summoning conditions]]. You can only [[activate]] 1 "Fallen Angel in Darkness" per turn.
   | fr_text             = 
@@ -26,7 +25,7 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名はルール上「堕天使」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールド（表側表示）から天使族モンスター１体を墓地へ送って発動できる。自分の手札・デッキ・除外状態の「堕天使」モンスター１体を召喚条件を無視して特殊召喚する。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
@@ -46,5 +45,5 @@ wikitext: |-
   * Archetype condition
   * Requires control of specific Type
   * Only once per turn
-  | database_id         = 
+  | database_id         = 8381
   }}

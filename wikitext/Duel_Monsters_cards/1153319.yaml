@@ -13,13 +13,13 @@ wikitext: |-
   | ko_rr_name     = 
   | sc_name        = 
   | sc_pinyin_name = 
-  | image          = LearningElf-26PP-JP-OP.png
+  | image          = LearningElf-26PP-JP-C.png
   | attribute      = LIGHT
   | types          = Spellcaster / Effect
   | level          = 3
   | atk            = 1400
   | def            = 1500
-  | password       = 
+  | password       = 32126000
   | effect_types   = Trigger, Trigger, Condition
   | text           = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Set]] 1 [[Trap]] from your [[Main Deck|Deck]] with an [[effect]] that equips itself to a monster. If this card is [[sent]] from the [[field]] to the [[GY]]: You can [[Draw a card|draw]] 1 card. You can only use each effect of "Learning Elf" [[once per turn]].
   | fr_text        = 
@@ -27,7 +27,7 @@ wikitext: |-
   | it_text        = 
   | pt_text        = 
   | es_text        = 
-  | ja_text        = 
+  | ja_text        = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。自身を装備カード扱いで装備する効果を持つ罠カード１枚をデッキから自分フィールドにセットする。②：このカードがフィールドから墓地へ送られた場合に発動できる。自分は１枚ドローする。
   | ko_text        = 
   | sc_text        = 
   | jp_sets        = 
@@ -39,5 +39,5 @@ wikitext: |-
   * Activates if sent to the Graveyard
   * You draw cards
   | misc           = Only once per turn
-  | database_id    = 
+  | database_id    = 6627
   }}
