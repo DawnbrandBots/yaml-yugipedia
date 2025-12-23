@@ -13,10 +13,11 @@ wikitext: |-
   | atk             = 2600
   | def             = 2500
   | effect_types    = Continuous
-  | materials       = "[[Cocoon of Evolution (Rush Duel)|Cocoon of Evolution]]" + 1 [[Level]] 5 or higher [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[monster]]
+  | fusion_material = Cocoon of Evolution (Rush Duel)
+  | materials       = "[[Cocoon of Evolution (Rush Duel)|Cocoon of Evolution]]" + 1 [[Level]] 5 or higher [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]]
   | condition       = This card's name becomes "[[Great Moth (Rush Duel)|Great Moth]]" while in the [[Graveyard]].
   | requirement     = None
-  | text            = This card's name becomes "Great Moth", and it cannot be destroyed by your opponent's card [[effect]]s. Your Level 8 Insect Type monsters inflict [[piercing]] [[battle damage]].
+  | text            = This card's name becomes "Great Moth", and it cannot be [[destroy]]ed by your opponent's card [[effect]]s. Your Level 8 Insect Type monsters [[Damage|inflict]] [[piercing]] [[battle damage]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -26,6 +27,23 @@ wikitext: |-
   | mentions        = 
   * Cocoon of Evolution (Rush Duel)
   * Great Moth (Rush Duel)
+  | supports        = 
+  * EARTH
+  * Insect
   | archseries      = Moth (Rush Duel)
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack          = Piercing
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id     = 
   }}

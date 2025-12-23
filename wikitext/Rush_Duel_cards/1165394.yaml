@@ -3,22 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|群|む}}れをなす{{Ruby|昆虫人間|ベーシック・インセクト}}
-  | romaji_name     = Mure o Nasu Bēshikku Insekuto
-  | image           = SwarmingBasicInsect-RDAP02-JP-OP.png
-  | attribute       = EARTH
-  | types           = Insect / Effect
-  | level           = 2
-  | atk             = 500
-  | def             = 700
-  | requirement     = If you have an [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[monster]] with 2000 [[DEF]] in your [[Graveyard]], [[send]] 1 other monster from your [[hand]] or [[field]] to the Graveyard.
-  | text            = [[Add a card|Add]] 1 EARTH Attribute Insect Type monster with 2000 DEF from your Graveyard to your hand. Then, if you added "[[Double Cannon Armor]]" by this [[effect]], you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field.
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|群|む}}れをなす{{Ruby|昆虫人間|ベーシック・インセクト}}
+  | romaji_name    = Mure o Nasu Bēshikku Insekuto
+  | image          = SwarmingBasicInsect-RDAP02-JP-OP.png
+  | attribute      = EARTH
+  | types          = Insect / Effect
+  | level          = 2
+  | atk            = 500
+  | def            = 700
+  | requirement    = If you have an [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] with 2000 [[DEF]] in your [[Graveyard]], [[send]] 1 other monster from your [[hand]] or [[field]] to the Graveyard.
+  | text           = [[Add a card|Add]] 1 EARTH Attribute Insect Type monster with 2000 DEF from your Graveyard to your hand. If you added "[[Double Cannon Armor]]" by this [[effect]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/AP02-JP040; Advance Pack: Revenge Hearts; Super Rare
-  | mentions        = Double Cannon Armor
-  | archseries      = Moth (Rush Duel)
-  | database_id     = 
+  | mentions       = Double Cannon Armor
+  | supports       = 
+  * EARTH
+  * Insect
+  | archseries     = Moth (Rush Duel)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Adds from Graveyard to hand
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | database_id    = 
   }}

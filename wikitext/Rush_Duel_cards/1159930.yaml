@@ -3,22 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|連装砲機甲鎧|ダブルキャノンアーマー}}
-  | romaji_name     = Daburu Kyanon Āmā
-  | image           = DoubleCannonArmor-RDAP02-JP-OP.png
-  | attribute       = EARTH
-  | types           = Insect / Effect
-  | level           = 5
-  | atk             = 1500
-  | def             = 2000
-  | condition       = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[monster]] on your [[field]], you can [[Normal Summon]] this card without Tributing.
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Make 1 face-up EARTH Attribute Insect Type monster on your field gain 700 [[ATK]] until the end of this [[turn]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|連装砲機甲鎧|ダブルキャノンアーマー}}
+  | romaji_name    = Daburu Kyanon Āmā
+  | image          = DoubleCannonArmor-RDAP02-JP-OP.png
+  | attribute      = EARTH
+  | types          = Insect / Effect
+  | level          = 5
+  | atk            = 1500
+  | def            = 2000
+  | condition      = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = Make 1 face-up EARTH Attribute Insect Type monster on your field gain 700 [[ATK]] until the end of this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/AP02-JP037; Advance Pack: Revenge Hearts; Common
-  | archseries      = Moth (Rush Duel)
-  | database_id     = 
+  | supports       = 
+  * EARTH
+  * Insect
+  | archseries     = Moth (Rush Duel)
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | summoning      = Normal Summon without Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id    = 
   }}
