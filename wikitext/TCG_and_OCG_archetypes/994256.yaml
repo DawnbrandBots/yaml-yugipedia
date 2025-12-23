@@ -34,12 +34,14 @@ wikitext: |-
   {| class="wikitable" style="text-align: center"
   |+ Xyz Armor
   |-
-  ! Monster
-  ! Armor basis
-  ! Weapon basis
+  ! rowspan="2" | Monster
+  ! colspan="2" | Basis
+  |-
+  ! Armor
+  ! Weapon
   |-
   | [[Xyz Armor Fortress]]
-  | [[Full Armored Xyz]]
+  | [[Full-Armored Xyz]]
   | [[Shark Fortress]]
   |-
   | [[Xyz Armor Torpedo]]
@@ -51,7 +53,9 @@ wikitext: |-
   {| class="wikitable" style="text-align: center"
   |+ Full Armored
   |-
-  ! Monster
+  ! rowspan="2" | Monster
+  ! colspan="2" | Components
+  |-
   ! Base
   ! Equip
   |-
