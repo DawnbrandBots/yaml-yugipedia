@@ -21,8 +21,9 @@ wikitext: |-
   | atk                   = 4500
   | def                   = 3000
   | password              = 
+  | summoning             = 4 Tuners + 1 or more non-Tuner Synchro Monsters
   | effect_types          = Summoning condition, Continuous, Continuous, Quick
-  | text                  = 4 Tuners + 1+ non-Tuner Synchro Monsters<br />Must first be Synchro Summoned with the above materials. Gains 500 ATK for each Tuner in your GY. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. Once per turn (Quick Effect): You can activate this effect; banish this card, also banish as many cards from your opponent's field and GY as possible, then you can Special Summon 1 "[[Red Nova Dragon]]" from your Extra Deck (this is treated as a Synchro Summon).
+  | text                  = 4 [[Tuner]]s + 1+ non-Tuner [[Synchro Monster]]s<br />Must first be [[Synchro Summon]]ed with the above [[material]]s. Gains 500 [[ATK]] for each Tuner in your [[GY]]. Your opponent cannot [[target]] this card with [[card effect]]s, also it cannot be [[destroy]]ed by your opponent's card effects. [[Once per turn]] ([[Quick Effect]]): You can [[activate]] this effect; [[banish]] this card, also banish as many cards from your opponent's [[field]] and GY as possible, then you can [[Special Summon]] 1 "[[Red Nova Dragon]]" from your [[Extra Deck]] (this is treated as a Synchro Summon).
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -41,5 +42,23 @@ wikitext: |-
   * Earthbound Immortal
   * Red Dragon Archfiend (archetype)
   * Signer Dragon
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Cannot be targeted by card effects
+  * Cannot be destroyed by card effects
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Quadruple Tuning
+  * Does not require specific Tuner Synchro Materials
+  * Requires Synchro Monsters only as non-Tuner Synchro Materials
+  * Must be Synchro Summoned with listed Synchro Materials
+  * Special Summon-only monster
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | banished              = 
+  * Banishes itself from field
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  | misc                  = Limited activations
   | database_id           = 
   }}

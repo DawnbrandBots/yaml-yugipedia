@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Left, Bottom-Right, Middle-Right
   | atk                   = 1850
   | password              = 
+  | materials             = 2+ monsters
   | effect_types          = Continuous, Quick, Condition
   | text                  = 2+ [[monsters]]<br />Gains 300 [[ATK]] for each different [[Attribute]] on the [[field]]. Once while [[face-up]] on the field, during the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 2 monsters with the same [[Attribute]] but different [[Type]]s, or 2 monsters with the same Type but different Attributes, in your [[GY]]; [[Special Summon]] both, but this card, also those monsters, cannot be used as [[material]] for a [[Fusion Summon|Fusion]], [[Synchro Summon|Synchro]], [[Xyz Summon|Xyz]], or [[Link Summon]] until the end of the next [[turn]]. You can only use this effect of "Four Charmers in Profusion" once per turn.
   | fr_text               = 
@@ -35,5 +36,18 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC050; Blazing Dominion; 
   | archseries            = Charmer
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2+ Link Materials
+  * Does not require specific Link Materials
+  * Special Summons from your Graveyard
+  * Cannot be used as a Fusion Material
+  * Cannot be used as a Synchro Material
+  * Cannot be used as an Xyz Material
+  * Cannot be used as a Link Material
+  | misc                  = 
+  * Once while face-up on the field
+  * Turn limited effects
+  * Only once per turn
   | database_id           = 
   }}

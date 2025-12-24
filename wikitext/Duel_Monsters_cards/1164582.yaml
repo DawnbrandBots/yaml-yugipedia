@@ -46,10 +46,14 @@ wikitext: |-
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Adds from Deck to hand
+  * Declares a Type
+  * Declares an Attribute
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
   | stat_change           = 
-  * Changes Type
-  * Changes Attribute
-  | summoning             =
+  * Changes own Type
+  * Changes own Attribute
+  | summoning             = 
   * Special Summons from your Deck
   * Special Summons from your Graveyard
   | misc                  = 
