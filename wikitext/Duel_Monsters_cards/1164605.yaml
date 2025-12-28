@@ -14,7 +14,7 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 超逸融合
-  | image                 = ApexFusion-BLZD-JP-OP.png
+  | image                 = ApexPolymerization-BLZD-JP-OP.png
   | card_type             = Spell
   | property              = Normal
   | password              = 
@@ -32,21 +32,26 @@ wikitext: |-
   BLZD-JP069; Blazing Dominion; Ultra Rare
   | sc_sets               = 
   BLZD-SC069; Blazing Dominion; 
+  | supports              = Fusion Monster
   | archseries            = Polymerization (archetype)
+  | action                =
+  * Sends from your field to your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Can only use certain Fusion Materials
   | m/s/t                 = 
   * Prevents activation of Effect Monsters
   * Prevents activation of Spell Cards
   * Prevents activation of Trap Cards
-  * Negates the effects of your Effect Monsters
-  | life_points           = Pays Life Points for cost
-  | summoning             =
+  * Prevents responding to its activation
+  * Negates the effects of the Summoned monsters
+  | summoning             = 
   * Special Summons from your Extra Deck
   * Performs a Fusion Summon
-  | action                =
-  * Sends from your field to your Graveyard
-  * Sends from field to Graveyard
-  * Sends from your opponent's field to your opponent's Graveyard
-  * Uses cards on the player's field as Fusion Materials
-  | misc                  = Only once per turn
+  | life_points           = Pays Life Points for cost
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   }}
