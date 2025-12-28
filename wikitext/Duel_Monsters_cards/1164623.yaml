@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Quick, Trigger, Condition
   | text                  = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner [[monster]]s<br />When your opponent [[activate]]s a card or [[effect]] in [[response]] to your card or effect activation ([[Quick Effect]]): You can [[Tribute]] this card; [[negate]] that opponent's effect, and if you do, [[destroy]] that card. If a monster(s) in your [[possession]] was Tributed this [[turn]] (Quick Effect): You can [[banish]] this card from your [[GY]]; [[Special Summon]] 1 "[[Stardust (archetype)|Stardust]]" [[Synchro Monster]] from your [[Extra Deck]]. You can only use each effect of "Stardust Dragon - Victim Sanctuary" [[once per turn]], and cannot activate more than 1 in the same [[Chain]].
   | fr_text               = 
@@ -33,15 +34,14 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCH-JP007; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Synchro Monster
   | archseries            = 
   * Stardust (archetype)
   * Signature move
   | supports_archetypes   = Stardust (archetype)
-  | supports              = Synchro Monster
-  | summmoning            =
-  * 1 or more non-Tuner Synchro Materials
-  * Special Summons from your Extra Deck
-  | action                = Tributes itself for cost
+  | action                = 
+  * Tributes itself for cost
+  * Activates from your Graveyard
   | m/s/t                 =
   * Negates the effects of your opponent's Effect Monsters
   * Negates the effects of your opponent's Spell Cards
@@ -49,7 +49,11 @@ wikitext: |-
   * Destroys your opponent's Monster Cards
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | banished              = Banishes itself from your Graveyard
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
   | database_id           = 
   }}

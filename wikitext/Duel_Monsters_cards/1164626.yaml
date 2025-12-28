@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2100
   | password              = 
+  | materials             = 1 Fusion Monster + 1 face-up monster on the field
   | effect_types          = Condition, Trigger, Condition, Trigger
   | text                  = 1 [[Fusion Monster]] + 1 [[face-up]] [[monster]] on the [[field]]<br />(This card is always treated as an "[[Elemental HERO]]" card.)<br />If this card is [[Special Summon]]ed from the [[Extra Deck]]: You can [[shuffle]] 5 monsters from your [[GY]] into the [[Deck]], then [[draw a card|draw]] 2 cards, and if you do, this card gains 1000 [[ATK]]. You can only use this [[effect]] of "Favorite HERO Shining Flare Wingman" [[once per turn]]. If this card [[destroy]]s a monster by [[battle]]: Inflict [[effect damage|damage]] to your opponent equal to that monster's [[original ATK]].
   | fr_text               = 
@@ -38,18 +39,20 @@ wikitext: |-
   * Favorite
   * HERO
   * Wingman
-  | summoning             = 
-  * 2 Fusion Materials
-  * Requires location specific Fusion Materials
-  | stat_change           =
-  * This card gains ATK 
+  | supports              = Fusion Monster
   | action                = 
   * Activates upon Special Summon
   * Returns from your Graveyard to your Deck
-  * You draw cards 
+  * You draw cards
+  * Activates if it destroys a monster by battle
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires location specific Fusion Materials
+  | life_points           = Damages your opponent
   | misc                  = 
   * Archetype condition
   * Only once per turn
-  | life_points           = Damages your opponent 
   | database_id           = 
   }}

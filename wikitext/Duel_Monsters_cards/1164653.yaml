@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 4500
   | def                   = 3000
   | password              = 
+  | materials             = 3 Level 8 monsters
   | effect_types          = Summoning condition, Trigger, Quick
   | text                  = 3 [[Level]] 8 [[monster]]s<br />[[Once per turn]], you can also [[Xyz Summon]] "Neo Galaxy-Eyes Photon Dragon - Photon Howling" by using 1 [[Rank]] 8 [[Xyz Monster]] you [[control]] ([[transfer]] its [[Xyz Material|materials]]). If this card is Xyz Summoned: You can take 1 "[[Photon]]" monster from your [[Deck]], and either [[Special Summon]] it in [[Defense Position]] or [[attach]] it to this card as material. ([[Quick Effect]]): You can [[detach]] 3 materials from this card; [[Tribute]] 1 other Xyz Monster, and if you do, [[negate]] the [[effect]]s of all other [[face-up]] cards currently on the [[field]] until the end of this [[turn]].
   | fr_text               = 
@@ -34,26 +35,29 @@ wikitext: |-
   | jp_sets               = 
   LOCR-JP010; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | mentions              = Neo Galaxy-Eyes Photon Dragon - Photon Howling
+  | supports              = Xyz Monster
   | archseries            = 
   * Galaxy
   * Galaxy-Eyes
   * Photon
   * Signature move
   | supports_archetypes   = Photon
-  | supports              = Xyz Monster
-  | summoning             =
-  * 3 Xyz Materials
-  * Special Summons itself from your Extra Deck
-  * Special Summons from your Deck
-  | misc                  = Limited activations
-  | action                =
+  | action                = 
   * Transfers
   * Activates upon Xyz Summon
-  * Attaches as Xyz Material
-  * Tributes for cost
+  * Attaches from your Deck as Xyz Material
+  * Detaches multiple Xyz Materials as cost
+  * Tributes as an effect
   | m/s/t                 =
   * Negates the effects of Effect Monsters
   * Negates the effects of Spell Cards
   * Negates the effects of Trap Cards
+  | summoning             =
+  * 3 Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
+  * Special Summons from your Deck
+  | misc                  = Requires control of specific Monster card type
   | database_id           = 
   }}

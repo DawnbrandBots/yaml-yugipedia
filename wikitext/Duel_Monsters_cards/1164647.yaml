@@ -44,21 +44,24 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCH-JP013; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Pendulum Monster
   | archseries            = 
   * Odd-Eyes
   * Pendulum (archetype)
   * Pendulum Dragon
-  | supports              = Pendulum Monster
   | related_to_archseries = Four Dimensional Dragons
-  | m/s/t                 = Destroys itself
   | action                =
   * Adds from Deck to hand
-  * Prevents activation of Effect Monsters
   * Applies effects if Pendulum Summoned
-  * Adds from Graveyard to hand
-  | summoning             = Special Summons itself from your Graveyard
-  | misc                  = Only once per turn
-  | stat_change           = This card gains ATK 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Returns itself from Extra Deck to hand
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys itself
+  * Prevents activation of your Effect Monsters
+  | summoning             = Special Summons itself from your hand
   | life_points           = Increases battle damage
+  | misc                  = Only once per turn
   | database_id           = 
   }}

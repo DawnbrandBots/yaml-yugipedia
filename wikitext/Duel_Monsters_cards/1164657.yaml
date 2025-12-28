@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Left, Bottom-Right, Middle-Right
   | atk                   = 3000
   | password              = 
+  | materials             = 3+ Effect Monsters
   | effect_types          = Condition, Quick, Condition, Quick
   | text                  = 3+ [[Effect Monster]]s<br />You can only [[Special Summon]] "Borreload Liberator Dragon(s)" [[once per turn]]. Once per [[turn]], during the [[Battle Phase]] ([[Quick Effect]]): You can place 1 [[monster]] your opponent [[control]]s in a zone this card [[points]] to and take control of it. Your opponent cannot [[activate]] cards or [[effect]]s in [[response]] to this effect's activation. Once per [[Chain]], if this card is in your [[GY]] ([[Quick Effect]]): You can target 1 monster you control; [[destroy]] it, and if you do, Special Summon this card.
   | fr_text               = 
@@ -35,19 +36,22 @@ wikitext: |-
   | mentions              = Borreload Liberator Dragon
   | archseries            = Borrel
   | related_to_archseries = Rokket
-  | summoning             = 
-  * 3+ Link Materials
-  * Special Summons itself from your Graveyard
-  | misc                  = 
-  * Only once per turn
-  * Limited activations
   | action                =
-  * Changes Monster Zone 
-  * Changes control
+  * Takes control of an opponent's monster
+  * Activates from your Graveyard
+  | m/s/t                 = 
   * Prevents activation of your opponent's Effect Monsters
   * Prevents activation of your opponent's Spell Cards
   * Prevents activation of your opponent's Trap Cards
-  * Activates from your Graveyard
-  | m/s/t                 = Destroys your Monster Cards
+  * Prevents responding to its activation
+  * Destroys your Monster Cards
+  | summoning             = 
+  * 3+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Special Summon once per turn
+  * Special Summons itself from your Graveyard
+  | misc                  = 
+  * Limited activations
+  * Once per Chain
   | database_id           = 
   }}

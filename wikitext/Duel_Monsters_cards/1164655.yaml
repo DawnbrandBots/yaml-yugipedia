@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2800
   | def                   = 2000
   | password              = 
+  | materials             = 2 DARK monsters on the field
   | effect_types          = Summoning condition, Trigger, Quick
   | text                  = 2 [[DARK]] [[monster]]s on the [[field]]<br />(This card is always treated as a "[[Predaplant]]" card.)<br />If this card is [[Special Summon]]ed: You can [[target]] 1 other [[face-up]] monster on the [[field]]; change its [[ATK]] to 0, [[negate]] its [[effect]]s, also it becomes DARK. When your opponent [[activate]]s a card or effect ([[Quick Effect]]): You can [[Fusion Summon]] 1 DARK [[Fusion Monster]] from your [[Extra Deck]], using DARK monsters on either field, including this card. You can only use each effect of "Starving Venom Fusion Dragon of the Four Heavenly Dragons" [[once per turn]].
   | fr_text               = 
@@ -33,6 +34,9 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCR-JP013; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = 
+  * DARK
+  * Fusion Monster
   | archseries            = 
   * Fusion (archetype)
   * Fusion Dragon
@@ -41,26 +45,26 @@ wikitext: |-
   * Starving Venom
   * Venom
   | related_to_archseries = Four Dimensional Dragons
-  | supports              = DARK
+  | action                = 
+  * Activates upon Special Summon
+  * Sends from your field to your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  * Must include particular Fusion Materials
+  | stat_change           = 
+  * Reduces ATK to 0
+  * Changes Attribute
+  | m/s/t                 = Negates the effects of Effect Monsters
   | summoning             = 
   * 2 Fusion Materials
   * Requires Attribute specific Fusion Materials
   * Requires location specific Fusion Materials
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
-  | action                = 
-  * Activates upon Special Summon
-  * Sends from field to Graveyard
-  * Sends from your field to your Graveyard
-  * Sends from your opponent's field to your opponent's Graveyard
-  * Uses cards on the player's field as Fusion Materials
-  * Uses cards on the opponent's field as Fusion Materials
-  | stat_change           = 
-  * Reduces ATK to 0
-  * Changes Attribute
-  | m/s/t                 = Negates the effects of Effect Monsters
   | misc                  = 
-  * Only once per turn
   * Archetype condition
+  * Only once per turn
   | database_id           = 
   }}

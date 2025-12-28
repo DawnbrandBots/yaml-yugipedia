@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 0
   | def                   = 0
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Continuous, Condition, Trigger, Quick
   | text                  = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner [[monster]]s<br />Gains [[ATK]] equal to the total [[original ATK]] of all other [[Synchro Monster]]s you [[control]]. You can only use each of the following [[effect]]s of "Crimson Dragon Quetzacoatl" [[once per turn]]. If this card is [[Synchro Summon]]ed: You can [[Special Summon]] as many [[Dragon]] Synchro Monsters from your [[GY]] as possible, also you cannot Special Summon for the rest of this [[turn]]. When your opponent [[activate]]s a monster effect ([[Quick Effect]]): You can [[return]] 1 other Dragon Synchro Monster you control to the [[Extra Deck]], and if you do, [[negate]] that activation.
   | fr_text               = 
@@ -33,19 +34,23 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCR-JP007; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
-  | related_to_archseries = Signer Dragon
   | supports              =
   * Synchro Monster
   * Dragon
-  | summoning             =
-  * 1 or more non-Tuner Synchro Materials
-  * Special Summons from your Graveyard
-  * Prevents your Special Summons
-  | stat_change           = This card gains ATK
-  | misc                  = Only once per turn
+  | related_to_archseries = Signer Dragon
   | action                = 
   * Activates upon Synchro Summon
   * Returns from your field to your Extra Deck
+  | stat_change           = This card gains ATK
   | m/s/t                 = Negates the activation of your opponent's Effect Monster's effect
+  | summoning             =
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Graveyard
+  * Prevents your Special Summons
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id           = 
   }}

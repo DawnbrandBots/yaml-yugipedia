@@ -11,6 +11,8 @@ wikitext: |-
   | ja_name               = {{Ruby|王|ファラオ}}のしもべ－ブラック・マジシャン
   | romaji_name           = Farao no Shimobe - Burakku Majishan
   | translated_name       = Pharaoh's Servant - Black Magician
+  | base_romaji_name     = Ō no Shimobe - Burakku Majishan
+  | base_translated_name = King's Servant - Black Magician
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -35,19 +37,21 @@ wikitext: |-
   LOCH-JP001; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | mentions              = Dark Magician
   | archseries            = Dark Magician (archetype)
-  | stat_change           =
-  * Changes own name while on the field
-  * Changes own name while in the GY
-  | misc                  = 
-  * Only once per turn
-  * Limited activations
   | action                =
+  * Activates from your hand
   * Reveals your hand for cost
   * Sets from your Deck
   * Discards for cost
-  | summoning             = Special Summons itself from your hand
+  | stat_change           =
+  * Changes own name while on the field
+  * Changes own name while in the GY
   | m/s/t                 =
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Only 1 effect once per turn
+  * Mentions
+  * Limited activations
   | database_id           = 
   }}

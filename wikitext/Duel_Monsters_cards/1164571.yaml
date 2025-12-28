@@ -38,16 +38,20 @@ wikitext: |-
   * Phantom Beast
   | supports_archetypes   = Blue-Eyes
   | action                = 
+  * Activates if targeted by card effect
   * Discards for cost
   * Activates from your hand
-  * Reveals your hand for cost
+  * Activates if added to the hand
+  * Activates if destroyed by battle
+  * Reveals itself in the hand for cost
+  * Activates upon Special Summon
   | summoning             = Special Summons itself from your hand
   | m/s/t                  =
   * Negates the effects of Effect Monsters
   * Negates the effects of Spell Cards
   * Negates the effects of Trap Cards
-  * Destroys your opponent's Monster Cards 
-  | attack                = Cannot attack directly 
+  * Destroys your opponent's Monster Cards
+  | attack                = Cannot attack directly
   | misc                  = Only once per turn
   | database_id           = 
   }}

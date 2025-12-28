@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2000
   | password              = 
+  | materials             = 2 Level 4 monsters
   | effect_types          = Continuous, Quick, Trigger, Trigger
   | text                  = 2 [[Level]] 4 [[monster]]s<br />Cannot be [[destroy]]ed by [[battle]], except with a "[[Number]]" monster. ([[Quick Effect]]): You can [[detach]] 1 [[Xyz Material|material]] from this card, then [[target]] 1 monster you [[control]]; the first time it would be destroyed by battle or [[card effect]] this [[turn]], it is not destroyed. When the second [[attack]] of this turn is [[declare]]d: You can make this card gain 2500 [[ATK]], and if you do, it gains this effect.<br />● When this card destroys a monster by battle and [[send]]s it to the [[GY]]: You can [[Special Summon]] it to your [[field]].
   | fr_text               = 
@@ -38,12 +39,17 @@ wikitext: |-
   * Number (Spell/Trap archetype)
   * Utopia (archetype)
   * Utopic
-  | supports_archetypes   = Number        
-  | summoning             =
-  * 2 Xyz Materials
-  * Special Summons from your opponent's Graveyard to your field
-  | attack                = Cannot be destroyed by battle
-  | m/s/t                 = Cannot be destroyed by card effects
-  | action                = Activates upon attack declaration
+  | supports_archetypes   = Number
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if it destroys a monster by battle
   | stat_change           = This card gains ATK
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your opponent's Graveyard to your field
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Prevents other cards being destroyed by battle
   }}
