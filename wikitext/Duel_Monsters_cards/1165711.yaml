@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Center
   | atk                   = 1200
   | password              = 
-  | materials             = 
+  | materials             = 2 DARK Dragon monsters, including a "Rokket" monster
   | effect_types          = Trigger, Quick, Condition
   | text                  = 2 [[DARK]] [[Dragon]] [[monsters]], including a "[[Rokket]]" monster<br />If this card is [[Link Summon]]ed: You can [[Add a card|add]] 1 "[[Borrel]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. ([[Quick Effect]]): You can [[target]] 1 DARK monster you [[control]]; it gains 500 [[ATK]], or if that monster is no longer on the [[field]], you can [[Special Summon]] 1 "Rokket" monster from your Deck in [[Defense Position]] instead. You can only use each [[effect]] of "Breechborrel Dragon" once per turn.
   | fr_text               = 
@@ -35,9 +35,25 @@ wikitext: |-
   BLZD-JP049; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC049; Blazing Dominion; 
+  | supports              = 
+  * DARK
+  * Dragon
   | archseries            = Borrel
   | supports_archetypes   = 
   * Borrel
   * Rokket
+  | action                = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Attribute specific Link Materials
+  * Requires Type specific Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your Deck
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   }}
