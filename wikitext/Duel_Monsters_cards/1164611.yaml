@@ -21,8 +21,9 @@ wikitext: |-
   | atk                   = 1900
   | def                   = 1000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Trigger, Condition
-  | text                  = 1 Tuner + 1+ non-Tuner monsters<br />If this card is Synchro Summoned: You can Special Summon 1 "[[Predaplant]]" or "[[Starving Venom]]" monster from your face-up Extra Deck or GY. If a monster(s) is Special Summoned to your opponent's field: You can banish this card and 1 "[[Polymerization]]" from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of "Predaplant Baalthea" once per turn.
+  | text                  = 1 [[Tuner]] + 1+ non-Tuner [[monster]]s<br />If this card is [[Synchro Summon]]ed: You can [[Special Summon]] 1 "[[Predaplant]]" or "[[Starving Venom]]" monster from your [[face-up]] [[Extra Deck]] or [[GY]]. If a monster(s) is Special Summoned to your opponent's [[field]]: You can [[banish]] this card and 1 "[[Polymerization]]" from your GY; [[Fusion Summon]] 1 [[Fusion Monster]] from your Extra Deck, using monsters from your [[hand]] or field. You can only use each [[effect]] of "Predaplant Baalthea" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -36,11 +37,33 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC039; Blazing Dominion; 
   | mentions              = Polymerization
+  | supports              = Fusion Monster
   | archseries            = 
   * Predap
   * Predaplant 
   | supports_archetypes   = 
   * Predaplant
   * Starving Venom
+  | related_to_archseries = Polymerization (archetype)
+  | action                = 
+  * Activates upon Synchro Summon
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  * Performs a Fusion Summon
+  | banished              = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
+  | misc                  = 
+  * Tuner Synchro Monster
+  * Only once per turn
   | database_id           = 
   }}

@@ -35,18 +35,23 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC008; Blazing Dominion; 
   | mentions              = Polymerization
+  | supports              = DARK
   | archseries            = 
   * Predap
   * Predaplant
   | supports_archetypes   = 
   * Predaplant
   * Starving Venom
-  | summoning             = Special Summons itself from your hand
-  | action                =
+  | related_to_archseries = Polymerization (archetype)
+  | action                = 
+  * Activates from your hand
   * Adds from Deck to hand
   * Activates upon Special Summon
   * You draw cards
   | stat_change           = Changes Attribute
-  | misc                  = Only once per turn
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}

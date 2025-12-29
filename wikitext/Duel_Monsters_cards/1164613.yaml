@@ -42,15 +42,21 @@ wikitext: |-
   * Predap
   * Predaplant
   | supports_archetypes   = Predap
-  | counter               = Predator Counter
+  | related_to_archseries = Polymerization (archetype)
+  | counter               = 
+  * Predator Counter
+  * Places counters
   | action                =
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Adds from Deck to hand
+  * Activates from your Graveyard
   * Sets from your Deck
-  * Sets from your banishment
-  | banished              = Banishes itself from your Graveyard
+  * Sets the player's banished cards
   | stat_change           = Changes Levels
-  | misc                  = Only once per turn 
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   }}

@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Trigger-like, Condition
-  | text                  = Send 1 "[[Predap]]" card from your Deck to the GY, except "Predaprimitive"; add 1 "[[Polymerization (archetype)|Polymerization]]" Spell or "[[Fusion (archetype)|Fusion]]" Spell from your Deck to your hand, also you cannot Special Summon for the rest of this turn after this card resolves, except Plant and Dragon monsters. If a monster(s) is Special Summoned to your opponent's field: You can banish this card from your GY, then target 1 Fusion Monster you control; destroy it. You can only activate 1 "Predaprimitive" per turn.
+  | text                  = [[Send]] 1 "[[Predap]]" card from your [[Main Deck|Deck]] to the [[GY]], except "Predaprimitive"; [[add]] 1 "[[Polymerization (archetype)|Polymerization]]" [[Spell]] or "[[Fusion (archetype)|Fusion]]" Spell from your Deck to your [[hand]], also you cannot [[Special Summon]] for the rest of this [[turn]] after this card [[resolve]]s, except [[Plant]] and [[Dragon]] monsters. If a monster(s) is Special Summoned to your opponent's field: You can [[banish]] this card from your GY, then [[target]] 1 [[Fusion Monster]] you [[control]]; [[destroy]] it. You can only [[activate]] 1 "Predaprimitive" [[once per turn|per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,9 +33,24 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC055; Blazing Dominion; 
   | mentions              = Predaprimitive
+  | supports              = 
+  * Plant
+  * Dragon
+  * Fusion Monster
   | archseries            = Predap
   | supports_archetypes   = 
   * Polymerization (archetype)
   * Fusion (archetype)
+  | action                = 
+  * Sends from Deck to Graveyard for cost
+  * Adds from Deck to hand
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | m/s/t                 = Destroys your face-up Monster Cards
+  | summoning             = Restricts the player's Special Summons to Type specific monsters
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}
