@@ -12,12 +12,21 @@ wikitext: |-
   | atk            = 600
   | def            = 1200
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[monster]] from your Graveyard to your [[hand]], except a monster with 600 ATK. This turn, you cannot activate the effect of "Sparkhearts Hat".
+  | text           = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your Graveyard to your hand, except a monster with 600 [[ATK]]. This turn, you cannot [[activate]] the [[effect]] of "Sparkhearts Hat".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP02-JP026; Advance Pack: Revenge Hearts; Super Rare
   | mentions       = Sparkhearts Hat
+  | supports       = 
+  * FIRE
+  * Spellcaster
   | archseries     = Sparkhearts
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Adds from Graveyard to hand
+  | misc           = Only once per turn
   | database_id    = 
   }}
