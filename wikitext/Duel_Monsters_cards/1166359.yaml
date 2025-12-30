@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Right
   | atk                   = 1400
   | password              = 
-  | materials             = 
+  | materials             = 2 Effect Monsters
   | effect_types          = Continuous, Quick, Trigger, Condition
   | text                  = 2 [[Effect Monster]]s<br />Once while this [[Link Summon]]ed card is [[face-up]] on the [[field]], you can [[Normal Summon]] 1 [[Level]] 5 or higher [[monster]] without Tributing. During the [[Main Phase]], you can ([[Quick Effect]]): Immediately after this [[effect]] [[resolve]]s, [[Normal Summon]] 1 Level 5 or higher [[DARK]] monster. During your [[End Phase]]: You can [[reveal]] any number of monsters in your [[hand]] and place them on the bottom of the [[Main Deck|Deck]] in any order, then draw the same number of cards. You can only use each [[effect]] of "Lahamu the Messenger of Sacred Scripture" once per turn.
   | fr_text               = 
@@ -35,5 +35,16 @@ wikitext: |-
   BLZD-JP051; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC051; Blazing Dominion; 
+  | supports              = DARK
+  | action                = 
+  * Reveals your hand
+  * Places cards from the player's hand on the bottom of the Deck
+  * You draw cards
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Normal Summon without Tribute
+  * Performs a Normal Summon
+  | misc                  = Only once per turn
   | database_id           = 
   }}

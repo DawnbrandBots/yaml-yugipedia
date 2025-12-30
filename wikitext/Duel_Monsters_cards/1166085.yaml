@@ -36,7 +36,18 @@ wikitext: |-
   BLZD-JP017; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC017; Blazing Dominion; 
+  | supports              = Flip monster
   | archseries            = Mimighoul
   | supports_archetypes   = Mimighoul
+  | action                = 
+  * Activates upon being flipped face-up
+  * Adds from your opponent's Deck to your opponent's hand
+  * Changes control
+  * Activates from your hand
+  | summoning             = 
+  * Special Summons itself from your hand to your opponent's field
+  * Special Summons itself face-down
+  * Special Summons itself from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   }}
