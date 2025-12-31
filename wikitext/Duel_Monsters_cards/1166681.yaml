@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 北十字炮击
   | image                 = NorthernCrossFire-BLZD-JP-OP.png
   | card_type             = Trap
   | property              = Normal
@@ -30,5 +30,20 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BLZD-JP076; Blazing Dominion; 
+  | sc_sets               = 
+  BLZD-SC076; Blazing Dominion; 
+  | action                = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  | banished              = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
+  * Banishes from your opponent's field
+  | misc                  = 
+  * Requires control of specific Level
+  * Only 1 effect once per turn
   | database_id           = 
   }}
