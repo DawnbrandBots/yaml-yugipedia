@@ -1,12 +1,13 @@
 title: Reinforcements (Skill)
 wikitext: |-
   {{Duel Links Skill
-  | fr_name  = Renforts
-  | ja_name = 戦力補充
-  | ja_text = 自分のライフポイントが1500減る毎に使用できる。自分は手札を1枚デッキに戻し、ランダムで戦士族モンスターをデッキから手札に加える。
-  | text     = Can be used each time your [[Life Points]] decrease by 1500.<br />[[Return]] 1 card from your [[hand]] to your [[Main Deck|Deck]] and draw a random [[Warrior]]-[[Type]] [[Monster Card|monster]].
-  | fr_text  = Compétence qui peut être utilisée à chaque fois que vos Life Points diminuent de 1 500.<br />Renvoyez 1 carte depuis votre main dans votre Deck et piochez un monstre de Type Guerrier au hasard.
-  | releases = 
+  | fr_name     = Renforts
+  | ja_name     = 戦力補充
+  | romaji_name = Senryoku Hojū
+  | text        = Can be used each time your [[Life Points]] decrease by 1500.<br />[[Return]] 1 card from your [[hand]] to your [[Main Deck|Deck]] and draw a random [[Warrior]]-[[Type]] [[Monster Card|monster]].
+  | fr_text     = Compétence qui peut être utilisée à chaque fois que vos Life Points diminuent de 1 500.<br />Renvoyez 1 carte depuis votre main dans votre Deck et piochez un monstre de Type Guerrier au hasard.
+  | ja_text     = 自分のライフポイントが１５００減る毎に使用できる。自分は手札を１枚デッキに戻し、ランダムで戦士族モンスターをデッキから手札に加える。
+  | releases    = 
   {{Duel Links Skill release table|type=level_up|Joey Wheeler (Duel Links)|Level 20}}
   {{Duel Links Skill release table|type=duel_reward|Tristan Taylor (Duel Links)}}
   {{Duel Links Skill release table|type=duel_reward|Joey Wheeler (DSOD) (Duel Links)}}
@@ -18,8 +19,8 @@ wikitext: |-
   {{Duel Links Skill release table|type=duel_reward|Alito (Duel Links)}}
   {{Duel Links Skill release table|type=duel_reward|Yuto (Duel Links)}}
   {{Duel Links Skill release table|type=duel_reward|The Gore (Duel Links)}}
-  | supports = Warrior
-  | action   = 
+  | supports    = Warrior
+  | action      = 
   * Returns from hand to Deck
   * You draw cards
   }}
