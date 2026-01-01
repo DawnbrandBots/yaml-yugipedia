@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 600
   | def            = 1200
   | requirement    = You have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Send]] 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]]. Then, if you have "[[Sparkhearts Girl]]", "[[Sparks (Rush Duel)|Sparks]]", or "[[Curtain of Sparks]]" in your Graveyard, you can [[Draw a card|draw]] 2 cards. This [[turn]], you can only [[attack]] with [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[monsters]].
+  | text           = [[Send]] 2 other cards from your [[hand]] and/or [[field]] to the [[Graveyard]]. Then, if you have "[[Sparkhearts Girl]]", "[[Sparks (Rush Duel)|Sparks]]", or "[[Curtain of Sparks]]" in your Graveyard, you can [[Draw a card|draw]] 2 cards. This turn, you can only [[attack]] with [[FIRE]] [[Attribute]] [[Spellcaster]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,6 +21,15 @@ wikitext: |-
   * Sparkhearts Girl
   * Sparks (Rush Duel)
   * Curtain of Sparks
+  | supports       = 
+  * FIRE
+  * Spellcaster
   | archseries     = Sparkhearts
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * You draw cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
