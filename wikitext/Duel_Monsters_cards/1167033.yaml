@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2900
   | def                   = 3000
   | password              = 
+  | materials             = 2 "Hecahands" monsters
   | effect_types          = Ignition, Condition, Continuous, Continuous
   | text                  = 2 "[[Hecahands]]" [[monsters]]<br />You can [[target]] 1 monster your opponent [[control]]s; take control of it. You can only use this [[effect]] of "Hecahands Dandalos" [[once per turn]]. Your "Hecahands" [[Fusion Monster]]s and your monsters that are owned by your opponent can attack directly. If this card [[battle]]s a monster, neither can be destroyed by that battle.
   | fr_text               = 
@@ -35,7 +36,18 @@ wikitext: |-
   BLZD-JP035; Blazing Dominion; Rare
   | sc_sets               = 
   BLZD-SC035; Blazing Dominion; 
+  | supports              = Fusion Monster
   | archseries            = Hecahands
   | supports_archetypes   = Hecahands
+  | action                = Takes control of an opponent's monster
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  | attack                = 
+  * Direct attacker
+  * Allows direct attacks
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                  = Only once per turn
   | database_id           = 
   }}

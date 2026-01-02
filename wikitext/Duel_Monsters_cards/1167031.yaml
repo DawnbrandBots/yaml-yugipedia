@@ -37,7 +37,29 @@ wikitext: |-
   BLZD-JP018; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC018; Blazing Dominion; 
+  | supports              = 
+  * Fusion Monster
+  * Illusion
   | archseries            = Hecahands
   | supports_archetypes   = Hecahands
+  | action                = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                  = Only once per turn
   | database_id           = 
   }}
