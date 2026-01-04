@@ -10,11 +10,11 @@ wikitext: |-
   Some cards have never been printed in the ''OCG''/''TCG'', but still have spots reserved for them in Konami's database numbering; these are indicated with a grey background on the row and empty quotes in the "''OCG''/''TCG''" column. The identities of some of these cards may be guessed, and where reasonable certainty is possible, these guesses are provided as well.
 
   {| class="wikitable sortable card-list floatable-header"
-  ! scope="col" style="text-align: left;" | #
-  ! scope="col" style="text-align: left;" | ''OCG''/''TCG''
-  ! scope="col" style="text-align: left;" | Debut version
-  ! scope="col" style="text-align: left;" | First appearance
-  ! scope="col" style="text-align: left; min-width: 6em;" | Date
+  ! scope="col" style="text-align:left" | #
+  ! scope="col" style="text-align:left" | ''OCG''/''TCG''
+  ! scope="col" style="text-align:left" | Debut version
+  ! scope="col" style="text-align:left" | First appearance
+  ! scope="col" style="text-align:left; min-width:6em" | Date
   |-
   | 5001
   | colspan=2 |"[[Windstorm of Etaqua]]"
@@ -81,13 +81,13 @@ wikitext: |-
   | "[[Summoned Lord Exodia]]" (''DOR'')
   | ''[[Yu-Gi-Oh! The Duelists of the Roses]]''
   | 2001-09-06
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5013
   | "{{ #ask: [[Database ID::5013]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5014
   | "{{ #ask: [[Database ID::5014]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -237,7 +237,7 @@ wikitext: |-
   | "[[Shapesnatch (DOR)|Shapesnatch]]" (''DOR'')
   | ''[[Yu-Gi-Oh! The Duelists of the Roses]]''
   | 2001-09-06
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5039
   | "{{ #ask: [[Database ID::5039]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Carat Idol]]" (''DOR'')
@@ -283,79 +283,79 @@ wikitext: |-
   | 5046
   | "[[Boneheimer]]"
   | "[[Boneheimer (DM4)|Boneheimer]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5047
   | "{{ #ask: [[Database ID::5047]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | <!--"[[Spirit of the Gems - Hassan]]" (''DM4'')-->
-  | <!--''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''-->
+  | <!--''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''-->
   | <!--2000-12-07-->
   |-
   | 5048
   | "[[Flame Dancer]]"
   | "[[Flame Dancer (DM4)|Flame Dancer]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5049
   | "{{ #ask: [[Database ID::5049]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Burning Phoenix]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5050
   | "{{ #ask: [[Database ID::5050]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Emperor of Flames]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
   |-
   | 5051
   | "[[Soul Scissors]]"
   | "[[Soul Scissors (DM4)|Soul Scissors]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5052
   | "{{ #ask: [[Database ID::5052]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Owl Hermit of the Black Forest]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
   |-
   | 5053
   | "[[Sonic Jammer]]"
   | "[[Sonic Jammer (DM4)|Sonic Jammer]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5054
   | "{{ #ask: [[Database ID::5054]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Southern Ocean Diabolos]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5055
   | "{{ #ask: [[Database ID::5055]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Rough Missile Launcher]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5056
   | "{{ #ask: [[Database ID::5056]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Dragon Pirate Soldier]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5057
   | "{{ #ask: [[Database ID::5057]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Captain Leo]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5058
   | "{{ #ask: [[Database ID::5058]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Spectre (card)|Spectre]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
   |-
   | 5059
@@ -387,7 +387,7 @@ wikitext: |-
   | "[[Revival Jam (manga)|Revival Jam]]" (manga)
   | {{chapter|Yu-Gi-Oh!|172|ref}}
   | 2000-04-24
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5064
   | "{{ #ask: [[Database ID::5064]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -411,7 +411,7 @@ wikitext: |-
   | "[[Rocket Warrior (manga)|Rocket Warrior]]" (manga)
   | {{chapter|Yu-Gi-Oh!|180|ref}}
   | 2000-06-30
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5068
   | "{{ #ask: [[Database ID::5068]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Sea Snake (manga)|Sea Snake]]" (manga)
@@ -423,13 +423,13 @@ wikitext: |-
   | "[[The Legendary Fisherman (manga)|The Legendary Fisherman]]" (manga)
   | {{chapter|Yu-Gi-Oh!|181|ref}}
   | 2000-07-10
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5070
   | "{{ #ask: [[Database ID::5070]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5071
   | "{{ #ask: [[Database ID::5071]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -439,63 +439,63 @@ wikitext: |-
   | 5072
   | "[[Robolady]]"
   | "[[Robolady (DM4)|Robolady]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
   |-
   | 5073
   | "[[Roboyarou]]"
   | "[[Roboyarou (DM4)|Roboyarou]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5074
   | "{{ #ask: [[Database ID::5074]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Legend Nymph]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5075
   | "{{ #ask: [[Database ID::5075]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Boomerang Boy]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5076
   | "{{ #ask: [[Database ID::5076]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Beauty Lip]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5077
   | "{{ #ask: [[Database ID::5077]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Mechanical Ninja - Raikoh]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5078
   | "{{ #ask: [[Database ID::5078]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Lightning Wallaby]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
   |-
   | 5079
   | "[[Lightning Conger]]"
   | "[[Lightning Conger (DM4)|Lightning Conger]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5080
   | "{{ #ask: [[Database ID::5080]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Iron Face]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5081
   | "{{ #ask: [[Database ID::5081]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Umbrella Chimera]]" (''DM4'')
-  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist]]''
+  | ''[[Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists]]''
   | 2000-12-07
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5082
   | "{{ #ask: [[Database ID::5082]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[RootWood]] (''DDS'')
@@ -507,13 +507,13 @@ wikitext: |-
   | "[[Light LawMedium]]" (''DDS'')
   | ''[[Yu-Gi-Oh! Dark Duel Stories]]''
   | 2000-07-13
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5084
   | "{{ #ask: [[Database ID::5084]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[AnglerFat Fish]] (''DDS'')
   | ''[[Yu-Gi-Oh! Dark Duel Stories]]''
   | 2000-07-13
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5085
   | "{{ #ask: [[Database ID::5085]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Long NoseMammoth]] (''DDS'')
@@ -525,7 +525,7 @@ wikitext: |-
   | "[[SpherusLady]]" (''DDS'')
   | ''[[Yu-Gi-Oh! Dark Duel Stories]]''
   | 2000-07-13
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5087
   | "{{ #ask: [[Database ID::5087]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | "[[Red MainBlutches]] (''DDS'')
@@ -537,7 +537,7 @@ wikitext: |-
   | "[[SoulicerCrystal]] (''DDS'')
   | ''[[Yu-Gi-Oh! Dark Duel Stories]]''
   | 2000-07-13
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5089
   | "{{ #ask: [[Database ID::5089]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -603,7 +603,7 @@ wikitext: |-
   | "[[Soul Exchange (manga)|Soul Exchange]]" (manga)
   | {{chapter|Yu-Gi-Oh!|189|ref}}
   | 2000-09-11
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5100
   | "{{ #ask: [[Database ID::5100]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -633,7 +633,7 @@ wikitext: |-
   | "[[Mask of Dispel (manga)|Mask of Dispel]]" (manga)
   | {{chapter|Yu-Gi-Oh!|186|ref}}
   | 2000-08-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5105
   | "{{ #ask: [[Database ID::5105]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -693,7 +693,7 @@ wikitext: |-
   | "[[Torrential Tribute (manga)|Torrential Tribute]]" (manga)
   | {{chapter|Yu-Gi-Oh!|178|ref}}
   | 2000-06-19
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5115
   | "[[Insect Monster Token]]"
   | "[[Insect Larva (manga)|Insect Larva]]" (manga)
@@ -705,7 +705,7 @@ wikitext: |-
   | "[[Multiplication of Ants (manga)|Multiplication of Ants]]" (manga)
   | {{chapter|Yu-Gi-Oh!|169|ref}}
   | 2000-04-03
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5117
   | "{{ #ask: [[Database ID::5117]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -902,43 +902,43 @@ wikitext: |-
   | colspan=2 |"[[Type Zero Magic Crusher]]"
   | ''[[Thousand Eyes Bible]]''
   | 2000-12-14
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5154
   | "[[Army Ant Token]]"
   | "[[Army Ant]]" (manga)
   | {{chapter|Yu-Gi-Oh!|169|ref}}
   | 2000-04-03
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5155
   | "{{ #ask: [[Database ID::5155]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5156
   | "{{ #ask: [[Database ID::5156]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5157
   | "{{ #ask: [[Database ID::5157]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5158
   | "{{ #ask: [[Database ID::5158]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5159
   | "{{ #ask: [[Database ID::5159]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5160
   | "{{ #ask: [[Database ID::5160]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -956,7 +956,7 @@ wikitext: |-
   | "[[Creature Swap (DOR)|Creature Swap]]" (''DOR'')
   | ''[[Yu-Gi-Oh! The Duelists of the Roses]]''
   | 2001-09-06
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5163
   | "{{ #ask: [[Database ID::5163]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -980,7 +980,7 @@ wikitext: |-
   | "[[Thousand Knives (manga)|Thousand Knives]]" (manga)
   | {{chapter|Yu-Gi-Oh!|162|ref}}
   | 2000-02-14
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5167
   | "{{ #ask: [[Database ID::5167]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -992,7 +992,7 @@ wikitext: |-
   | "[[Mystic Box (manga)|Mystic Box]]" (manga)
   | {{chapter|Yu-Gi-Oh!|094|ref}}
   | 1998-08-24
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5169
   | "{{ #ask: [[Database ID::5169]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1123,13 +1123,13 @@ wikitext: |-
   | "[[Ayers Rock Sunrise (anime)|Ayers Rock Sunrise]]" (anime)
   | {{episode|GX|50|ref}}
   | 2005-09-14
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5191
   | "{{ #ask: [[Database ID::5191]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5192
   | "{{ #ask: [[Database ID::5192]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1245,7 +1245,7 @@ wikitext: |-
   | colspan=2 |"[[Offerings to the Doomed]]"
   | ''[[Spell of Mask]]''
   | 2001-04-19
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5215
   | "{{ #ask: [[Database ID::5215]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1323,7 +1323,7 @@ wikitext: |-
   | "[[Dark Spirit of the Silent (manga)|Dark Spirit of the Silent]]" (manga)
   | {{chapter|Yu-Gi-Oh!|206|ref}}
   | 2001-01-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5228
   | "{{ #ask: [[Database ID::5228]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1353,7 +1353,7 @@ wikitext: |-
   | "[[Judgment of Anubis (manga)|Judgment of Anubis]]" (manga)
   | {{chapter|Yu-Gi-Oh!|210|ref}}
   | 2001-02-26
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5233
   | "{{ #ask: [[Database ID::5233]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1365,7 +1365,7 @@ wikitext: |-
   | "[[Embodiment of Apophis (manga)|Embodiment of Apophis]]" (manga)
   | {{chapter|Yu-Gi-Oh!|211|ref}}
   | 2001-03-05
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5235
   | "{{ #ask: [[Database ID::5235]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1394,13 +1394,13 @@ wikitext: |-
   | colspan=2 |"[[Cyber Harpie Lady]]"
   | ''[[V Jump July 2001 promotional card]]''
   | 2001-05-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5240
   | "{{ #ask: [[Database ID::5240]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5241
   | "{{ #ask: [[Database ID::5241]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1608,13 +1608,13 @@ wikitext: |-
   | colspan=2 |"[[Vengeful Bog Spirit]]"
   | ''[[Labyrinth of Nightmare (Japanese)|Labyrinth of Nightmare]]''
   | 2001-07-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5282
   | "{{ #ask: [[Database ID::5282]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5283
   | "{{ #ask: [[Database ID::5283]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1644,7 +1644,7 @@ wikitext: |-
   | "[[Rope of Life (manga)|Rope of Life]]" (manga)
   | {{chapter|Yu-Gi-Oh!|219|ref}}
   | 2001-05-14
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5288
   | "{{ #ask: [[Database ID::5288]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -1674,13 +1674,13 @@ wikitext: |-
   | "[[Viser Des (manga)|Viser Des]]" (manga)
   | {{chapter|Yu-Gi-Oh!|220|ref}}
   | 2001-05-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5293
   | "{{ #ask: [[Database ID::5293]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5294
   | "{{ #ask: [[Database ID::5294]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -2050,7 +2050,7 @@ wikitext: |-
   | "[[Zolga (manga)|Zolga]]" (manga)
   | {{chapter|Yu-Gi-Oh!|227|ref}}
   | 2001-07-16
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5364
   | "{{ #ask: [[Database ID::5364]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -2080,13 +2080,13 @@ wikitext: |-
   | "[[Kuriboh Token (DM6)|Kuriboh Token]]" (''DM6'')
   | ''[[Yu-Gi-Oh! Duel Monsters 6: Expert 2]]''
   | 2001-12-20
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5369
   | "[[Sheep Token]]" (blue)
   | "[[Sheep]]" (manga)
   | {{chapter|Yu-Gi-Oh!|158|ref}}
   | 2000-01-17
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5370
   | "[[Slime Token]]"
   | "[[Slime (manga)|Slime]]" (manga)
@@ -2272,7 +2272,7 @@ wikitext: |-
   | colspan=2 |"[[Last Turn]]"
   | ''[[Mythological Age]]''
   | 2001-11-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5407
   | "{{ #ask: [[Database ID::5407]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -2510,115 +2510,115 @@ wikitext: |-
   | "[[Legend Devil (manga)|Legend Devil]]" (manga)
   | {{chapter|Yu-Gi-Oh!|245|ref}}
   | 2001-12-03
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5454
   | "[[Wicked Token]]"
   | "[[Wicked Token (anime)|Wicked Token]]" (anime)
   | {{episode|Yu-Gi-Oh! GX|001|ref}}
   | 2004-10-06
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5455
   | "[[Sheep Token]]" (orange)
   | "[[Sheep]]" (manga)
   | {{chapter|Yu-Gi-Oh!|158|ref}}
   | 2000-01-17
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5456
   | "[[Sheep Token]]" (pink)
   | "[[Sheep]]" (manga)
   | {{chapter|Yu-Gi-Oh!|158|ref}}
   | 2000-01-17
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5457
   | "[[Sheep Token]]" (yellow)
   | "[[Sheep]]" (manga)
   | {{chapter|Yu-Gi-Oh!|158|ref}}
   | 2000-01-17
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5458
   | "{{ #ask: [[Database ID::5458]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5459
   | "{{ #ask: [[Database ID::5459]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5460
   | "{{ #ask: [[Database ID::5460]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5461
   | "{{ #ask: [[Database ID::5461]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5462
   | "{{ #ask: [[Database ID::5462]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5463
   | "{{ #ask: [[Database ID::5463]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5464
   | "{{ #ask: [[Database ID::5464]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5465
   | "{{ #ask: [[Database ID::5465]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5466
   | "{{ #ask: [[Database ID::5466]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5467
   | "{{ #ask: [[Database ID::5467]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5468
   | "{{ #ask: [[Database ID::5468]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5469
   | "{{ #ask: [[Database ID::5469]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5470
   | "{{ #ask: [[Database ID::5470]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5471
   | "{{ #ask: [[Database ID::5471]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5472
   | "{{ #ask: [[Database ID::5472]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -2750,7 +2750,7 @@ wikitext: |-
   | "[[Question (manga)|Question]]" (manga)
   | {{chapter|Yu-Gi-Oh!|245|ref}}
   | 2001-12-03
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5495
   | "{{ #ask: [[Database ID::5495]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -2780,7 +2780,7 @@ wikitext: |-
   | "[[Dark Jeroid (manga)|Dark Jeroid]]" (manga)
   | {{chapter|Yu-Gi-Oh!|241|ref}}
   | 2001-10-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5500
   | "{{ #ask: [[Database ID::5500]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -3113,7 +3113,7 @@ wikitext: |-
   | "[[Drillago (manga)|Drillago]]" (manga)
   | {{chapter|Yu-Gi-Oh!|234|ref}}
   | 2001-09-10
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5563
   | "{{ #ask: [[Database ID::5563]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -3125,55 +3125,55 @@ wikitext: |-
   | "[[Rekunga (manga)|Rekunga]]" (manga)
   | {{chapter|Yu-Gi-Oh!|239|ref}}
   | 2001-10-15
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5565
   | "[[Poisonous Snake Token]]"
   | "[[Poisonous Snake Token (World Championship 2006)|Poisonous Snake Token]]" (''WC06'')
   | ''[[Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006]]''
   | 2006-02-23
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5566
   | "[[Lekunga Token]]"
   | "[[Lekunga Token (World Championship 2006)|Lekunga Token]]" (''WC06'')
   | ''[[Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006]]''
   | 2006-02-23
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5567
   | "{{ #ask: [[Database ID::5567]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5568
   | "{{ #ask: [[Database ID::5568]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5569
   | "{{ #ask: [[Database ID::5569]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5570
   | "{{ #ask: [[Database ID::5570]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5571
   | "{{ #ask: [[Database ID::5571]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5572
   | "{{ #ask: [[Database ID::5572]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5573
   | "{{ #ask: [[Database ID::5573]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -3484,19 +3484,19 @@ wikitext: |-
   | "[[Fiend's Sanctuary (manga)|Fiend's Sanctuary]]" (manga)
   | {{chapter|Yu-Gi-Oh!|264|ref}}
   | 2002-05-13
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5633
   | "{{ #ask: [[Database ID::5633]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5634
   | "[[Clone Token]]"
   | "[[Clone Token (anime)|Clone Token]]" (anime)
   | {{episode|Yu-Gi-Oh!|132|ref}}
   | 2002-11-05
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5635
   | "[[Wicked Plant Token]]"
   | "[[Wicked Plant Token (World Championship 2006)|Wicked Plant Token]]" (''WC6'')
@@ -3520,13 +3520,13 @@ wikitext: |-
   | "[[Revival of the Dark]]" (manga)
   | {{chapter|Yu-Gi-Oh!|267|ref}}
   | 2002-06-10
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5639
   | "{{ #ask: [[Database ID::5639]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5640
   | "[[Mirage Token]]"
   | "[[Mirage Token (Online)|Mirage Token]]" (''YGOO'')
@@ -3775,37 +3775,37 @@ wikitext: |-
   | "[[Magical Stone Excavation (manga)|Magical Stone Excavation]]" (manga)
   | {{chapter|Yu-Gi-Oh!|272|ref}}
   | 2002-07-15
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5689
   | "[[Metal Fiend Token]]"
   | "[[Metal Fiend Token (manga)|Metal Fiend Token]]" (manga)
   | {{chapter|Yu-Gi-Oh!|270|ref}}
   | 2002-07-01
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5690
   | "{{ #ask: [[Database ID::5690]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5691
   | "{{ #ask: [[Database ID::5691]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5692
   | "{{ #ask: [[Database ID::5692]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5693
   | "{{ #ask: [[Database ID::5693]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5694
   | "{{ #ask: [[Database ID::5694]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -3903,7 +3903,7 @@ wikitext: |-
   | colspan=2 |"[[Guardian Tryce]]"
   | ''[[Power of the Guardian]]''
   | 2002-11-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5712
   | "{{ #ask: [[Database ID::5712]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4057,7 +4057,7 @@ wikitext: |-
   | colspan=2 |"[[Really Eternal Rest]]"
   | ''[[Power of the Guardian]]''
   | 2002-11-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5742
   | "{{ #ask: [[Database ID::5742]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4069,49 +4069,49 @@ wikitext: |-
   | "[[Soul Taker (manga)|Soul Taker]]" (manga)
   | {{chapter|Yu-Gi-Oh!|274|ref}}
   | 2002-08-05
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5744
   | "[[Ojama Token]]" (green)
   | "[[Ojama Token (anime)|Ojama Token]]" (anime)
   | {{episode|GX|039|ref}}
   | 2005-06-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5745
   | "[[Ojama Token]]" (yellow)
   | "[[Ojama Token (anime)|Ojama Token]]" (anime)
   | {{episode|GX|039|ref}}
   | 2005-06-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5746
   | "[[Ojama Token]]" (black)
   | "[[Ojama Token (anime)|Ojama Token]]" (anime)
   | {{episode|GX|039|ref}}
   | 2005-06-29
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5747
   | "{{ #ask: [[Database ID::5747]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5748
   | "{{ #ask: [[Database ID::5748]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5749
   | "{{ #ask: [[Database ID::5749]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5750
   | "{{ #ask: [[Database ID::5750]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5751
   | "{{ #ask: [[Database ID::5751]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4367,13 +4367,13 @@ wikitext: |-
   | colspan=2 |"[[Ray of Hope]]"
   | ''[[Threat of the Dark Demon World]]''
   | 2003-02-20
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5801
   | "{{ #ask: [[Database ID::5801]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5802
   | "{{ #ask: [[Database ID::5802]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4391,7 +4391,7 @@ wikitext: |-
   | "[[Perfect Machine King (anime)|Perfect Machine King]]" (anime)
   | {{episode|Yu-Gi-Oh!|107|ref}}
   | 2002-05-21
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5805
   | "{{ #ask: [[Database ID::5805]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4409,13 +4409,13 @@ wikitext: |-
   | "[[Penguin Torpedo (anime)|Penguin Torpedo]]" (anime)
   | {{episode|Yu-Gi-Oh!|103|ref}}
   | 2002-04-23
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5808
   | "{{ #ask: [[Database ID::5808]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5809
   | "{{ #ask: [[Database ID::5809]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4678,43 +4678,43 @@ wikitext: |-
   | colspan=2 |"[[Chaos Emperor Dragon - Envoy of the End]]"
   | ''[[Controller of Chaos]]''
   | 2003-04-24
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5861
   | "{{ #ask: [[Database ID::5861]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5862
   | "{{ #ask: [[Database ID::5862]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5863
   | "{{ #ask: [[Database ID::5863]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5864
   | "{{ #ask: [[Database ID::5864]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5865
   | "{{ #ask: [[Database ID::5865]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5866
   | "{{ #ask: [[Database ID::5866]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5867
   | "{{ #ask: [[Database ID::5867]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -4730,7 +4730,7 @@ wikitext: |-
   | colspan=2 |"[[Magician's Valkyria]]"
   | ''[[Limited Edition 5: Yugi Pack]]''
   | 2003-04-08
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5870
   | "{{ #ask: [[Database ID::5870]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -5063,43 +5063,43 @@ wikitext: |-
   | "[[Death Spirit Zoma (manga)|Death Spirit Zoma]]" (manga)
   | {{chapter|Yu-Gi-Oh!|307|ref}}
   | 2003-05-19
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5936
   | "[[Lamb Token]]" (pink)
   | "[[Lamb Token (anime)|Lamb Token]]" (anime)
   | {{episode|GX|060|ref}}
   | 2005-11-23
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5937
   | "[[Lamb Token]]" (white)
   | "[[Lamb Token (anime)|Lamb Token]]" (anime)
   | {{episode|GX|060|ref}}
   | 2005-11-23
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5938
   | "{{ #ask: [[Database ID::5938]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5939
   | "{{ #ask: [[Database ID::5939]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5940
   | "{{ #ask: [[Database ID::5940]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5941
   | "{{ #ask: [[Database ID::5941]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5942
   | "{{ #ask: [[Database ID::5942]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
@@ -5375,19 +5375,19 @@ wikitext: |-
   | colspan=2 |"[[Mazera DeVille]]"
   | ''[[The Sanctuary in the Sky (set)|The Sanctuary in the Sky]]''
   | 2003-11-20
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5997
   | "{{ #ask: [[Database ID::5997]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5998
   | "{{ #ask: [[Database ID::5998]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
   | 
   |
-  |- style="background: #ddd;"
+  |- style="background:#ddd"
   | 5999
   | "{{ #ask: [[Database ID::5999]] |?English name|format=template|template=pipeLink|link=none}}{{hardcoded query}}"
   | 
