@@ -3,20 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ヴォイドヴェルグ・ビヨンドプローブ
-  | romaji_name    = Voidoverugu Biyondo Purōbu
-  | image          = VoidvelgBeyondProbe-OW.png
-  | attribute      = DARK
-  | types          = Galaxy / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
-  RD/KP24-JP0??; Overforce of the Abyss; 
-  | archseries     = Voidvelg
-  | database_id    = 
+  | ja_name         = ヴォイドヴェルグ・ビヨンドプローブ
+  | romaji_name     = Voidoverugu Biyondo Purōbu
+  | image           = VoidvelgBeyondProbe-RDKP24-JP-OP.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 7
+  | atk             = 2000
+  | def             = 1300
+  | fusion_material = Contact Dark Matter Voyager
+  | materials       = "[[Contact Dark Matter Voyager]]" + 1 [[Level]] 4 or lower [[DARK]] [[Attribute]] [[monster]]
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Destroy]] 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. This [[turn]], you can only [[attack]] with DARK Attribute [[Galaxy (Type)|Galaxy]] [[Type]] monsters.
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/KP24-JP031; Overforce of the Abyss; Rare
+  | mentions        = Contact Dark Matter Voyager
+  | archseries      = Voidvelg
+  | database_id     = 
   }}

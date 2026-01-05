@@ -3,21 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = エテルナム・ヴォイドヴェルグ・レクイエム
-  | romaji_name    = Eterunamu Voidoverugu Rekuiemu
-  | image          = EternumVoidvelgRequiem-OW.png
-  | attribute      = DARK
-  | types          = Galaxy / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
-  RD/KP24-JP0??; Overforce of the Abyss; 
-  | archseries     = Voidvelg
-  | misc           = Cover card
-  | database_id    = 
+  | ja_name         = エテルナム・ヴォイドヴェルグ・レクイエム
+  | romaji_name     = Eterunamu Voidoverugu Rekuiemu
+  | image           = EternumVoidvelgRequiem-RDKP24-JP-OP.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 9
+  | atk             = 3500
+  | def             = 2500
+  | effect_types    = Continuous
+  | fusion_material = Voidvelg Requiem
+  | materials       = "[[Voidvelg Requiem]]" + 1 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]]
+  | requirement     = None
+  | text            = During your opponent's [[turn]], this card cannot be returned to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by [[monster effect]]s. This card that was [[Fusion Summon]]ed using 3 or more monsters as [[material]] cannot be [[destroy]]ed by card effects.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/KP24-JP032; Overforce of the Abyss; Ultra Rare, Over Rush Rare
+  | mentions        = Voidvelg Requiem
+  | archseries      = Voidvelg
+  | misc            = Cover card
+  | database_id     = 
   }}
