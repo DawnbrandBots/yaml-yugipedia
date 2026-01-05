@@ -3,23 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ワーム・ヴォイド・ホール
-  | romaji_name     = Wāmu Voido Hōru
-  | image           = WormVoidHole-RDKP24-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = None
-  | text            = [[Fusion Summon]] a [[Level]] 9 or lower [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] that lists "[[Voidvelg Requiem]]" or "[[Contact Dark Matter Voyager]]" as [[material]] by [[send]]ing monsters from your [[hand]] or [[field]] to the [[Graveyard]] as [[material]].
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = ワーム・ヴォイド・ホール
+  | romaji_name           = Wāmu Voido Hōru
+  | image                 = WormVoidHole-RDKP24-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = None
+  | text                  = [[Fusion Summon]] a [[Level]] 9 or lower [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] that lists "[[Voidvelg Requiem]]" or "[[Contact Dark Matter Voyager]]" as [[material]] by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as material.
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP24-JP043; Overforce of the Abyss; Common
-  | mentions        = 
+  | mentions              = 
   * Voidvelg Requiem
   * Contact Dark Matter Voyager
-  | related_to_archseries =
+  | supports              = Galaxy (Type)
+  | related_to_archseries = 
   * Dark Matter (series)
   * Voidvelg
-  | database_id     = 
+  | action                = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | database_id           = 
   }}

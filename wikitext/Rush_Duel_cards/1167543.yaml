@@ -3,18 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = シャドウフォース・エクスプロージョン
-  | romaji_name     = Shadoufōsu Ekusupurōjon
-  | image           = ShadowforceExplosion-RDKP24-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = During a [[turn]] you have not [[activate]]d "Shadowforce Explosion", place 1 card from your [[hand]] on the top or bottom of the [[Main Deck|Deck]].
-  | text            = [[Add a card|Add]] 2 [[Level]] 8 or lower [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] with different names from your [[Graveyard]] to your hand.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = シャドウフォース・エクスプロージョン
+  | romaji_name    = Shadoufōsu Ekusupurōjon
+  | image          = ShadowforceExplosion-RDKP24-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = During a [[turn]] you have not [[activate]]d "Shadowforce Explosion", place 1 card from your [[hand]] on the top or bottom of the [[Main Deck|Deck]].
+  | text           = [[Add a card|Add]] 2 [[Level]] 8 or lower [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with different names from your [[Graveyard]] to your hand.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP24-JP042; Overforce of the Abyss; Common
-  | mentions        = Shadowforce Explosion
-  | database_id     = 
+  | mentions       = Shadowforce Explosion
+  | supports       = 
+  * DARK
+  * Galaxy (Type)
+  | action         = 
+  * Places cards from the player's hand on the top of the Deck for cost
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | misc           = Only once per turn
+  | database_id    = 
   }}

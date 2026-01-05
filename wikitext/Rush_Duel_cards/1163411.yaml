@@ -13,16 +13,29 @@ wikitext: |-
   | def             = 2500
   | effect_types    = Continuous
   | fusion_material = Voidvelg Requiem
-  | materials       = "[[Voidvelg Requiem]]" + 1 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]]
+  | materials       = "[[Voidvelg Requiem]]" + 1 or more [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s
   | requirement     = None
-  | text            = During your opponent's [[turn]], this card cannot be returned to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by [[monster effect]]s. This card that was [[Fusion Summon]]ed using 3 or more monsters as [[material]] cannot be [[destroy]]ed by card effects.
+  | text            = During your opponent's [[turn]], this card cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by [[monster effect]]s. This card that was [[Fusion Summon]]ed using 3 or more monsters as [[material]] cannot be [[destroy]]ed by card [[effect]]s.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP032; Overforce of the Abyss; Ultra Rare, Over Rush Rare
   | mentions        = Voidvelg Requiem
+  | supports        = 
+  * DARK
+  * Galaxy (Type)
   | archseries      = Voidvelg
+  | action          = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2+ Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
   | misc            = Cover card
   | database_id     = 
   }}
