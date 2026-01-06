@@ -18,9 +18,10 @@ wikitext: |-
   * ''[[Duelist's Advance]]''
   * ''[[Doom of Dimensions]]''
   * ''[[Burst Protocol]]''
+  * ''[[Blazing Dominion]]''
   }}
 
-  "'''Power Patron'''", known as "'''Imprisoned God'''" ({{Ruby|獄|ごく}}{{Ruby|神|しん}} ''Gokushin'') in the ''OCG'', is an [[archetype]] of [[Main Deck]] [[Level]] 1 monsters with 300 [[ATK]]/200 [[DEF]] and [[Extra Deck]] Level/[[Rank]] 10 monsters introduced in ''[[Duelist's Advance]]''. It is connected to "[[Medius the Pure]]" and the "[[Artmage]]", "[[DoomZ]]", and "[[Elvennotes]]" archetypes.
+  "'''Power Patron'''", known as "'''Imprisoned God'''" ({{Ruby|獄|ごく}}{{Ruby|神|しん}} ''Gokushin'') in the ''OCG'', is an [[archetype]] introduced in ''[[Duelist's Advance]]''. It is connected to "[[Medius the Pure]]" and the "[[Artmage]]", "[[DoomZ]]", and "[[Elvennotes]]" archetypes.
 
   ==Lore==
   "Power Patrons" are higher beings living in the Spiritual World, which is cut off from the Real World. In an era of chaos brought about by various nations vying for supremacy, there was one powerful nation that prospered with the power of the "Power Patron": "[[Artmage Academic Arcane Arts Acropolis]]". It is an Academy City State that won the war against other nations with the power of "[[Nerva the Power Patron of Creation]]", one of the Gods of the Spiritual World. The academy, which was created for students to compete against each other learning "Armagi", drawing its magic power of "Nerva", eventually became a nation.
@@ -31,57 +32,138 @@ wikitext: |-
   The [[Level 10]]/[[Rank 10]] "Power Patrons" are named after [[wikipedia:Roman mythology|Roman gods and goddesses]]. <!--If Blazing Dominion does not add a new Power Patron, replace "Roman gods and goddesses" with the Capitoline Triad (Jupiter, Juno, and Minerva).--> The [[Level 1]] members have the associated archetype in their names, and in the ''[[OCG]]'', they follow the naming scheme "Imprisoned God [descriptor]" ("[[Artmage Power Patron|Beast]]", "[[Power Patron DoomZ|Machine]]", and "[[Elvennotes Power Patron|Spirit]]").
 
   ==Members==
-  Each "Power Patron" is associated with an archetype of a different [[Extra Deck]] [[monster card type]]. They come in pairs: a Level/Rank 10 Extra Deck monster and a Level 1 monster with 300 [[ATK]] and 200 [[DEF]] that brings out the former, or a monster from the archetype, but locks the Extra Deck to the specific monster type.
+  Each "Power Patron" is associated with an archetype of a different [[Extra Deck]] [[monster card type]]. The Main Deck monsters all have 300 [[ATK]] and 200 [[DEF]], except for "[[Vidrium the Power Patron of Chaos Extermination]]".
 
-  In addition, pairs can have a "Diactorus" monster belonging to the associated monster card type, depicting "[[Medius the Pure]]" inheriting their power.
+  In addition, each "Power Patron" can have a Diactorus monster belonging to the associated monster card type, depicting "[[Medius the Pure]]" inheriting their power.
 
   {| class="wikitable" style="text-align:center"
-  ! colspan="2"| Power Patron
+  ! rowspan="2"| Power Patron
+  ! colspan="2"| 300 [[ATK]]/200 [[DEF]] "Power Patron"
   ! rowspan="2"| Attribute
   ! rowspan="2"| Type
   ! rowspan="2"| Monster type
   ! rowspan="2"| God
   ! rowspan="2"| Animal motif
-  ! rowspan="2"| Vision
   ! rowspan="2"| [[Archetype]]
   ! rowspan="2"| Diactorus counterpart
   |-
   ! Level 1
-  ! Level/Rank 10
+  ! Level 10<br/><small>({{Attribute|DARK|size=12px}})</small>
   |-
-  | [[Artmage Power Patron|Artmage]]
   | [[Nerva the Power Patron of Creation|Nerva of Creation]]
+  | [[Artmage Power Patron|Artmage]]
+  | [[Power Patron Shadow Beast Nervedo|Shadow Beast Nervedo]]
   | [[EARTH]] [[File:EARTH.svg|24px]]
   | [[Illusion]]
   | [[Fusion Monster|Fusion]]
   | [[wikipedia:Minerva|Minerva]]
   | [[wikipedia:Owl|Owl]]
-  | [[Theorealize]]
   | [[Artmage]]
   | [[Artmage Diactorus]]
   |-
-  | [[Power Patron DoomZ|DoomZ]]
   | [[Jupiter the Power Patron of Destruction|Jupiter of Destruction]]
+  | [[Power Patron DoomZ|DoomZ]]
+  | [[Power Patron Shadow Machine Zegredo|Shadow Machine Zegredo]]
   | [[WIND]] [[File:WIND.svg|24px]]
   | [[Machine]]
   | [[Xyz Monster|Xyz]]
   | [[wikipedia:Jupiter (god)|Jupiter]]
   | [[wikipedia:Dragon|Dragon]]
-  | [[Theorealize Overdrive]]
   | [[DoomZ]]
   | [[DoomZ Break - Diactorus]]
   |-
-  | [[Elvennotes Power Patron|Elvennotes]]
   | [[Junora the Power Patron of Tuning|Junora of Tuning]]
+  | [[Elvennotes Power Patron|Elvennotes]]
+  | [[Power Patron Shadow Spirit Junordo|Shadow Spirit Junordo]]
   | [[FIRE]] [[File:FIRE.svg|24px]]
   | [[Fiend]]
   | [[Synchro Monster|Synchro]]
   | [[wikipedia:Juno (mythology)|Juno]]
   | [[wikipedia:Peafowl|Peacock]]
-  | [[Theorealize Liberation]]
   | [[Elvennotes]]
   | -
+  |-
+  | [[Vidrium the Power Patron of Chaos Extermination|Vidrium of Chaos Extermination]]
+  | -
+  | -
+  | [[DARK]] [[File:DARK.svg|24px]]
+  | [[Fairy]]
+  | [[Pendulum Monster|Pendulum]]
+  | -
+  | -
+  | Power Patron
+  | -
   |}
+  ==Playing style==
+  ===Recommended cards===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Artmage Power Patron]]
+  * [[Power Patron DoomZ]]
+  * [[Carnot the Eternal Machine]]
+  * [[Finis Terrae, Tower of the Necroworld]]
+  * [[Medius the Pure]]
+  * [[Nightmare Apprentice]]
+  |tuner monsters =
+  * [[Elvennotes Power Patron]]
+  * [[Diviner of the Herald]]
+  |pendulum monsters =
+  * [[Power Patron Shadow Beast Nervedo]]
+  * [[Power Patron Shadow Machine Zegredo]]
+  * [[Power Patron Shadow Spirit Junordo]]
+  * [[Vidrium the Power Patron of Chaos Extermination]]
+  * [[Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons]]
+  |fusion monsters =
+  * [[Nerva the Power Patron of Creation]]
+  * [[Artmage Diactorus]]
+  * [[Master Spirit Tech Force - Pendulum Ruler]]
+  * [[Odd-Eyes Vortex Dragon]]
+  |synchro monsters =
+  * [[Junora the Power Patron of Tuning]]
+  * [[Juraishin, the Cursed Thunder God]]
+  * [[Psychic End Punisher]]
+  |xyz monsters =
+  * [[Jupiter the Power Patron of Destruction]]
+  * [[DoomZ Break - Diactorus]]
+  * [[Cherubidamn Irisfiel]]
+  * [[Skypalace Gangaridai]]
+  * [[Superdreadnought Rail Cannon Gustav Max]]
+  ** [[Superdreadnought Rail Cannon Gustav Rocket]]
+  ** [[Superdreadnought Rail Cannon Juggernaut Liebe]]
+  * [[Varudras, the Final Bringer of the End Times]]
+  |link monsters =
+  * [[Beyond the Pendulum]]
+  * [[Black Luster Soldier - Soldier of Chaos]]
+  * [[Dharc the Dark Charmer, Gloomy]]
+  * [[Exceed the Pendulum]]
+  * [[Silhouhatte Rabbit]]
+  |normal spells =
+  * [[Unleashed Power Patron Portal - Terminus]]
+  * [[Theorealize]]
+  * [[Allure of Darkness]]
+  * [[Foolish Burial]]
+  * [[Foolish Burial Goods]]
+  * [[One for One]]
+  * [[Pendulum Fusion]]
+  * [[Pendulum Treasure]]
+  * [[Tokusano Shinkyojin]]
+  |field spells =
+  * [[Null Power Patron Realm - Vidria]]
+  |continuous spells =
+  * [[Artmage Vandalism -Assault-]]
+  |quick-play spells =
+  * [[Theorealize Liberation]]
+  * [[Theorealize Overdrive]]
+  |normal traps =
+  * [[Northern Cross Fire]]
+  * [[Proof of Powerlessness]]
+  |counter traps =
+  * [[Mannadium Reframing]]
+  * [[Unbreakable Xyz Barrier]]
+  |continuous traps =
+  * [[Silhouhatte Trick]]
+  }}
 
   ==Trivia==
   * The "Power Patrons" so far are based on the [[wikipedia:Capitoline Triad|Capitoline Triad]].
