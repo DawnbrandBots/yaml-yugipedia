@@ -43,7 +43,7 @@ wikitext: |-
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP010; Blazing Dominion; Rare
+  BLZD-JP011; Blazing Dominion; Rare
   | mentions              = 
   * Nerva the Power Patron of Creation
   * Power Patron Shadow Beast Nervedo
@@ -53,6 +53,20 @@ wikitext: |-
   | supports_archetypes   = 
   * Artmage
   * Power Patron
-  | misc                  = Archetype condition
+  | action                = Activates if added to the Extra Deck
+  | m/s/t                 = 
+  * Destroys itself
+  * Negates the effects of your opponent's Effect Monsters
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Fusion Summon
+  * Special Summons from your Deck
+  * Special Summons from your face-up Extra Deck
+  | banished              = 
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  | misc                  = 
+  * Only once per turn
+  * Archetype condition
   | database_id           = 
   }}
