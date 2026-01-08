@@ -38,5 +38,21 @@ wikitext: |-
   * Junora the Power Patron of Tuning
   | archseries            = Power Patron
   | supports_archetypes   = Power Patron
+  | action                = 
+  * Reveals your Extra Deck for cost
+  * Adds from Deck to hand
+  | stat_change           = Your opponent's monsters lose ATK
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | summoning             = Special Summons from your Deck
+  | banished              = 
+  * Banishes from your hand
+  * Banishes face-down
+  | misc                  = 
+  * Mentions
+  * Only once per turn
+  * Requires control of specific card
   | database_id           = 
   }}

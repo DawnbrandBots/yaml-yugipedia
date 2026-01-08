@@ -32,7 +32,20 @@ wikitext: |-
   BLZD-JP072; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC072; Blazing Dominion; 
+  | supports              = Fusion Monster
   | archseries            = Artmage
   | supports_archetypes   = Artmage
+  | action                = 
+  * Returns banished cards to the field
+  * Returns from your opponent's field to your opponent's hand
+  | m/s/t                 = 
+  * Can be activated the turn it was Set
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Destroys your opponent's Monster Cards
+  | banished              = Banishes from your field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}

@@ -55,6 +55,23 @@ wikitext: |-
   | supports_archetypes   = 
   * Elvennotes
   * Power Patron
-  | misc                  = Archetype condition
+  | action                = 
+  * Activates upon Special Summon
+  * You draw cards
+  * You discard as an effect
+  * Activates if added to the Extra Deck
+  * Adds from Extra Deck to hand
+  * Adds from Graveyard to hand
+  | m/s/t                 = Destroys itself
+  | banished              = 
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
+  * Archetype condition
   | database_id           = 
   }}

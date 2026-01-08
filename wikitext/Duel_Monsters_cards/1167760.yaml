@@ -53,6 +53,26 @@ wikitext: |-
   | supports_archetypes   = 
   * DoomZ
   * Power Patron
-  | misc                  = Archetype condition
+  | action                = 
+  * Attaches from your hand as Xyz Material
+  * Activates if added to the Extra Deck
+  * Adds from Deck to hand
+  | m/s/t                 = 
+  * Destroys itself
+  * Destroys hand
+  * Destroys your face-up Monster Cards
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Xyz Summon
+  | banished              = 
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
+  * Archetype condition
   | database_id           = 
   }}

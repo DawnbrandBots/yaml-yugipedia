@@ -32,7 +32,23 @@ wikitext: |-
   BLZD-JP056; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC056; Blazing Dominion; 
+  | supports              = 
+  * DARK
+  * Fairy
   | archseries            = Power Patron
   | supports_archetypes   = Power Patron
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Sends from your Extra Deck to your Graveyard
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | attack                = Prevents your monsters from attacking
+  | banished              = 
+  * Banishes itself from Graveyard for cost
+  * Banishes battling monster at the start of the Damage Step
+  * Banishes face-down
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}

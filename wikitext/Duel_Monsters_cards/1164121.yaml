@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Condition
-  | text                = Apply this [[effect]] 3 times.<br />● Each player [[reveal]]s 1 [[Monster Card|monster]] in their [[Main Deck|Deck]], except a monster with ? [[ATK]]. [[Add a card|Add]] the monster with higher ATK to the [[hand]] of the player that chose it, also [[destroy]] the monster with lower ATK, and if you do, inflict 500 [[Effect damage|damage]] to the player that chose it. If they have the same ATK, [[shuffle]] them into the Deck. Each player cannot [[activate]] the effects of monsters with the same name as the monster they chose for the rest of this [[turn]].<br />You can only activate 1 "Subspace Battle" per turn.
+  | text                = Apply this [[effect]] 3 times.<br />● Each player [[reveal]]s 1 [[Monster Card|monster]] in their [[Main Deck|Deck]], except a monster with ? [[ATK]]. [[Add a card|Add]] the monster with higher ATK to the [[hand]] of the player that revealed it, also [[destroy]] the monster with lower ATK, and if you do, inflict 500 [[Effect damage|damage]] to the player that revealed it. If they have the same ATK, [[shuffle]] them into the Deck. Each player cannot [[activate]] the effects of monsters with the same name as the monster they revealed for the rest of this [[turn]].<br />You can only activate 1 "Subspace Battle" per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,10 +32,11 @@ wikitext: |-
   * Reveals cards from your Deck
   * Reveals cards from your opponent's Deck
   * Adds from Deck to hand
-  * Sends from Deck to Graveyard
+  * Adds from your opponent's Deck to your opponent's hand
   | m/s/t               = 
   * Prevents activation of your Effect Monsters
   * Prevents activation of your opponent's Effect Monsters
+  * Destroys Main Deck
   | life_points         = 
   * Damages you
   * Damages your opponent

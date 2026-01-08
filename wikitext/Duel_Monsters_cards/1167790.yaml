@@ -34,5 +34,16 @@ wikitext: |-
   BLZD-SC058; Blazing Dominion; 
   | archseries            = DoomZ
   | supports_archetypes   = DoomZ
+  | action                = 
+  * Activates from your Graveyard
+  * Equips self from Graveyard
+  | m/s/t                 = Destroys equipped
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons from your banishment
+  | attack                = Equipped cannot be destroyed by battle
+  | life_points           = Damages you
+  | misc                  = Only once per turn
   | database_id           = 
   }}
