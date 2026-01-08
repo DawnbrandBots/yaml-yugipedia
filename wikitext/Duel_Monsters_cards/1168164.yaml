@@ -36,7 +36,23 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC040; Blazing Dominion; 
   | mentions              = Clown Clan Meteor
+  | supports              = Synchro Monster
+  | anti-supports         = Synchro Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Graveyard to Deck
+  * Adds from Graveyard to hand
+  | m/s/t                 = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Prevents activations upon Summon
+  | misc                  = Only once per turn
   | database_id           = 
   }}

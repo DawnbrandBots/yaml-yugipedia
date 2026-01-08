@@ -35,7 +35,20 @@ wikitext: |-
   BLZD-JP046; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC046; Blazing Dominion; 
+  | supports              = Xyz Monster
+  | anti-supports         = Xyz Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Graveyard to Deck
+  * Sets from your Deck
+  | stat_change           = Your monsters gain ATK
+  | m/s/t                 = Does not have effects which detach Xyz Materials for cost
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  | misc                  = Only once per turn
   | database_id           = 
   }}

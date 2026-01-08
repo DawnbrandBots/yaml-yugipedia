@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Ignition-like, Trigger-like, Condition
-  | text                  = During your [[Main Phase]]: You can [[Special Summon]] 1 "[[Clown Clan]]" [[monster]] from your [[Main Deck|Deck]] or [[Extra Deck]], [[ignoring its Summoning conditions]], also you cannot [[activate]] the [[effect]]s of monsters Special Summoned from the Deck or Extra Deck until the end of the next [[turn]]. During the [[End Phase]]: You can [[Draw a card|draw]] cards equal to the number of monster card types ([[Ritual]], [[Fusion]], [[Synchro]], [[Xyz]], [[Pendulum]], [[Link]]) [[Tribute]]d this turn, then you can [[Set]] 1 [[Spell]]/[[Trap]] from your [[hand]]. You can only use each effect of "Clown Clan "Matinee"" once per turn.
+  | text                  = During your [[Main Phase]]: You can [[Special Summon]] 1 "[[Clown Clan]]" [[monster]] from your [[Main Deck|Deck]] or [[Extra Deck]], [[ignoring its Summoning conditions]], also you cannot [[activate]] the [[effect]]s of monsters Special Summoned from the Deck or Extra Deck until the end of the next [[turn]]. During the [[End Phase]]: You can [[Draw a card|draw]] cards equal to the number of monster card types ([[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], [[Pendulum Monster|Pendulum]], [[Link Monster|Link]]) [[Tribute]]d this turn, then you can [[Set]] 1 [[Spell]]/[[Trap]] from your [[hand]]. You can only use each effect of "Clown Clan "Matinee"" once per turn.
   | de_text               = 
   | it_text               = 
   | pt_text               = 
@@ -31,7 +31,32 @@ wikitext: |-
   BLZD-JP060; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC060; Blazing Dominion; 
+  | supports              = 
+  * Ritual Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Pendulum Monster
+  * Link Monster
+  | anti-supports         = 
+  * Ritual Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Pendulum Monster
+  * Link Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * You draw cards
+  * Sets from your hand
+  | m/s/t                 = Prevents activation of your Effect Monsters
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Ignoring the Summoning conditions
+  | misc                  = 
+  * Turn limited effects
+  * Only once per turn
   | database_id           = 
   }}

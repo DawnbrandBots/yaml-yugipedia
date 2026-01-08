@@ -35,7 +35,21 @@ wikitext: |-
   BLZD-JP029; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC029; Blazing Dominion; 
+  | supports              = Ritual Monster
+  | anti-supports         = Ritual Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Graveyard to Deck
+  * Flips monsters face-down
+  * Changes battle positions
+  | misc                  = 
+  * Only once per turn
+  * Variable effects
   | database_id           = 
   }}

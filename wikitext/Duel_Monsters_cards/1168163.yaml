@@ -35,7 +35,23 @@ wikitext: |-
   BLZD-JP032; Blazing Dominion; 
   | sc_sets               = 
   BLZD-SC032; Blazing Dominion; 
+  | supports              = Fusion Monster
+  | anti-supports         = Fusion Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Graveyard to Deck
+  * Sets from your Deck
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack                = Piercing
+  | life_points           = Increases battle damage
+  | misc                  = 
+  * Only once per turn
+  * Variable effects
   | database_id           = 
   }}
