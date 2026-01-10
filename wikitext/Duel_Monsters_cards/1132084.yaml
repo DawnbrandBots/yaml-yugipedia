@@ -38,6 +38,8 @@ wikitext: |-
   DUAD-PT096; Duelist's Advance; Secret Rare, Starlight Rare
   | sp_sets             = 
   DUAD-SP096; Duelist's Advance; Secret Rare, Starlight Rare
+  | ae_sets             = 
+  CR10-AE082; Creation Pack 10; Ultra Rare, Prismatic Secret Rare
   | supports            = Machine
   | archseries          = R.B.
   | supports_archetypes = R.B.
@@ -51,6 +53,6 @@ wikitext: |-
   * Restricts the player's Special Summons to Type specific monsters
   * Restricts the player's Special Summons to ATK specific monsters
   | attack              = Prevents other cards being destroyed by battle
-  | banishes            = Banishes itself from Graveyard
+  | banished            = Banishes itself from Graveyard
   | database_id         = 21639
   }}
