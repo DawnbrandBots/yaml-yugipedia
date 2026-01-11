@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-anyio==4.11.0
+anyio==4.12.1
     # via httpx
 certifi==2026.1.4
     # via
@@ -30,7 +30,5 @@ ruamel-yaml==0.18.17
     # via -r requirements.in
 ruamel-yaml-clib==0.2.15
     # via ruamel-yaml
-sniffio==1.3.1
-    # via anyio
 typing-extensions==4.15.0
     # via anyio
