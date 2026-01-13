@@ -11,16 +11,29 @@ wikitext: |-
   | level          = 4
   | atk            = 1000
   | def            = 3500
+  | ritualcard     = Monumenthes Festival -The Isyria Seance-
   | effect_types   = Continuous
-  | condition      = This card cannot be [[Special Summon]]ed, except by the [[effect]] of "[[Monumenthes Festival -The Isyria Seance-]]".
+  | condition      = Must be [[Special Summon]]ed by the [[effect]] of "[[Monumenthes Festival -The Isyria Seance-]]".
   | requirement    = None
-  | text           = This card cannot be [[destroy]]ed by card [[effect]]s. When you [[Normal Summon|Normal]] or [[Special Summon]] a [[Beast-Warrior]] [[Type]] [[monster]] [[face-up]], your opponent cannot [[activate]] [[Trap Card]]s. During your [[turn]], other face-up [[EARTH]] [[Attribute]] Beast-Warrior Type monsters on your [[field]] gain 3000 [[ATK]] and inflict [[piercing]] [[battle damage]].
+  | text           = This card cannot be [[destroy]]ed by card effects. When you [[Normal Summon|Normal]] or Special Summon a [[Beast-Warrior]] [[Type]] [[Monster Card|monster]] [[face-up]], your opponent cannot [[activate]] [[Trap Card]]s. During your [[turn]], other face-up [[EARTH]] [[Attribute]] Beast-Warrior Type monsters on your [[field]] gain 3000 [[ATK]], and they [[Damage|inflict]] [[piercing]] [[battle damage]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP037; Overforce of the Abyss; Super Rare
   | mentions       = Monumenthes Festival -The Isyria Seance-
+  | supports       = 
+  * Beast-Warrior
+  * EARTH
   | archseries     = Monumenthes
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = 
+  * Cannot be destroyed by card effects
+  * Prevents activation of your opponent's Trap Cards
+  | summoning      = Nomi
+  | attack         = Piercing
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific Attribute
   | database_id    = 
   }}

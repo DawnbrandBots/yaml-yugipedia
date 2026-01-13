@@ -11,12 +11,22 @@ wikitext: |-
   | level          = 4
   | atk            = 1300
   | def            = 1100
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, place 1 card from your [[hand]] and 1 [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] from your [[Graveyard]] on the bottom of the Deck in any order.
-  | text           =  [[Draw a card|Draw]] 2 cards. This turn, you can only [[attack]] with EARTH Attribute Galaxy Type monsters, and your opponent takes no [[effect damage]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]] during the [[turn]] you [[Normal Summon]]ed this card, place 1 card from your [[hand]] and 1 [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] on the bottom of the Deck in any order.
+  | text           = [[Draw a card|Draw]] 2 cards. This turn, you can only [[attack]] with EARTH Attribute Galaxy Type monsters, and your opponent [[Damage|take]]s no [[effect damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP015; Overforce of the Abyss; Rare
+  | supports       = 
+  * EARTH
+  * Galaxy (Type)
   | archseries     = Moonforce
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * You draw cards
+  | attack         = Prevents your monsters from attacking
+  | life_points    = Prevents effect damage
   | database_id    = 
   }}

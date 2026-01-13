@@ -2,20 +2,34 @@ title: Beast King Barbaros (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = BeastKingBarbaros-RDKP24-JP-OP.png
-  | attribute       = EARTH
-  | types           = Beast-Warrior / Effect
-  | level           = 8
-  | atk             = 3000
-  | def             = 1200
-  | condition       = You can [[Normal Summon]] this card in [[Attack Position]] without Tributing or by Tributing 3 [[face-up]] [[EARTH]] [[Attribute]] [[monsters]]. If Summoned without Tributing, its [[original ATK]] becomes 1900.
-  | requirement     = During the [[turn]] you Normal Summoned this card by Tributing 3 monsters the above way.
-  | text            = [[Destroy]] all face-up cards on your opponent's [[field]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = BeastKingBarbaros-RDKP24-JP-OP.png
+  | attribute      = EARTH
+  | types          = Beast-Warrior / Effect
+  | level          = 8
+  | atk            = 3000
+  | def            = 1200
+  | condition      = You can [[Normal Summon]] this card in [[Attack Position]] without [[Tribute|Tributing]] or by Tributing 3 [[face-up]] [[EARTH]] [[Attribute]] [[Monster Card|monster]]s. If [[Summon]]ed without Tributing, its [[Original ATK and DEF|original ATK]] becomes 1900.
+  | requirement    = During the [[turn]] you Normal Summoned this card by Tributing 3 monsters the above way.
+  | text           = [[Destroy]] all face-up cards on your opponent's [[field]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP24-JP000; Overforce of the Abyss; Super Rare, Over Rush Rare
-  | misc            = Legend Card
-  | database_id     = 
+  | supports       = EARTH
+  | action         = Activates during the turn in which it was Normal Summoned
+  | stat_change    = 
+  * Changes own ATK value
+  * Changes original ATK
+  | m/s/t          = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning      = 
+  * Normal Summon without Tribute
+  * Normal Summon with 3 Tributes
+  | misc           = 
+  * Legend Card
+  * Requires control of specific Attribute
+  | database_id    = 
   }}

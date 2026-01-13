@@ -11,12 +11,18 @@ wikitext: |-
   | level          = 3
   | atk            = 0
   | def            = 1400
-  | requirement    = Change the [[battle position]] of 1 [[face-up]] [[monster]] on your [[field]].
-  | text           = Choose 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's field. Your opponent cannot [[attack]] with that monster during their next [[turn]]. Then, you can place 1 monster from your [[Graveyard]] on the bottom of your [[Main Deck|Deck]]. If you do, this card gains 500 [[DEF]] until the end of your opponent's next turn.
+  | requirement    = [[Battle position change|Change]] the [[battle position]] of 1 [[face-up]] [[Monster Card|monster]] on your [[field]].
+  | text           = Choose 1 face-up [[Level]] 8 or lower monster on your opponent's field. During your opponent's next [[turn]], your opponent cannot [[attack]] with that monster. Then, you can place 1 monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]]. If you do, this card gains 500 [[DEF]] until the end of your opponent's next turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP014; Overforce of the Abyss; Common
   | archseries     = Moonforce
+  | action         = 
+  * Changes battle positions for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | stat_change    = This card gains DEF
+  | attack         = Prevents your opponent's monsters from attacking
+  | misc           = Turn limited effects
   | database_id    = 
   }}

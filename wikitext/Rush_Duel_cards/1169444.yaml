@@ -11,12 +11,22 @@ wikitext: |-
   | level          = 1
   | atk            = 300
   | def            = 800
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[show]] up to 2 other cards from your [[hand]] and/or [[field]] and place them on the bottom of the owner's Deck in any order.
-  | text           = [[Draw a card|Draw]] cards equal to [the number of cards placed under the Deck to meet the requirement]. You cannot activate [[monster effect]]s until the end of this [[turn]], except those of [[EARTH]] [[Attribute]] [[Galaxy]] [[Type]] [[monsters]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[show]] up to 2 other cards from your [[hand]] and/or [[field]] and place them on the bottom of the [[owner]]'s Deck in any order.
+  | text           = [[Draw a card|Draw]] cards equal to [the number of cards placed to meet the [[Activation condition|requirement]]]. You cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of [[EARTH]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP011; Overforce of the Abyss; Common
+  | supports       = 
+  * EARTH
+  * Galaxy (Type)
   | archseries     = Moonforce
+  | action         = 
+  * Reveals your hand for cost
+  * Reveals your face-down cards for cost
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * You draw cards
+  | m/s/t          = Prevents activation of your Effect Monsters
   | database_id    = 
   }}

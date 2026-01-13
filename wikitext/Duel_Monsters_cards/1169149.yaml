@@ -46,21 +46,27 @@ wikitext: |-
   LOCH-JP014; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets               = 
   LOCH-SC014; Limit Over Collection: The Heroes; 
+  | supports              = Pendulum Monster
   | archseries            = Magician
   | supports_archetypes   = 
   * Magician
   * Odd-Eyes
   * Performapal
-  | m/s/t                 = 
-  * Negates the activation of your opponent's Spell Cards
-  * Negates the effects of your opponent's Spell Cards
-  * Destroys itself
-  * Destroys your Monster Cards
-  | misc                  = Only once per turn
   | action                = 
-  * Discards for cost
+  * Activates from your hand
+  * You discard for cost
+  * Activates upon Special Summon
   * Adds from Deck to hand
   * Adds from Extra Deck to hand
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Spell Cards
+  * Destroys itself
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
   | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id           = 
   }}

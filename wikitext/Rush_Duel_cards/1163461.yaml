@@ -11,13 +11,21 @@ wikitext: |-
   | level          = 2
   | atk            = 1000
   | def            = 1100
-  | requirement    = You have 4 or less [[monsters]] in your [[Graveyard]].
-  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 non-[[Level]] 2 [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] and/or 1 "[[The Eternal Land -Spectrika-]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order. This [[turn]], you can only [[attack]] with EARTH Attribute Galaxy Type monsters.
+  | requirement    = You have 4 or less [[Monster Card|monster]]s in your [[Graveyard]].
+  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 non-[[Level]] 2 [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] monster and/or 1 "[[The Eternal Land -Spectrika-]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order. This [[turn]], you can only [[attack]] with EARTH Attribute Galaxy Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP013; Overforce of the Abyss; Common
   | mentions       = The Eternal Land -Spectrika-
+  | supports       = 
+  * EARTH
+  * Galaxy (Type)
   | archseries     = Moonforce
+  | action         = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
