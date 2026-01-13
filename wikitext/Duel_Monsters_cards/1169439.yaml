@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Condition, Continuous-like, Continuous-like, Condition
-  | text                  = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 "[[Red Dragon Archfiend]]" in your [[Extra Deck]]. Activate this card by revealing any number of monsters in your hand, then [[target]] [[Effect Monster]]s your opponent [[control]]s equal to the number of [[Tuner]]s revealed +1; they lose 100 [[ATK]] for each card revealed, also their [[effect]]s are [[negate]]d. If the last of those monsters is not on the [[field]], [[destroy]] this card. You can only activate 1 "Red Dragon Archfiend's Chain" per turn.
+  | text                  = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 "[[Red Dragon Archfiend]]" in your [[Extra Deck]]. Activate this card by revealing any number of [[monsters]] in your hand, then [[target]] [[Effect Monster]]s your opponent [[control]]s equal to the number of [[Tuner]]s revealed +1; they lose 100 [[ATK]] for each card revealed, also their [[effect]]s are [[negate]]d. If the last of those monsters is not on the [[field]], [[destroy]] this card. You can only activate 1 "Red Dragon Archfiend's Chain" per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,6 +33,15 @@ wikitext: |-
   | mentions              = Red Dragon Archfiend
   | archseries            = 
   * Archfiend
-  * Red Dragon Archfiend (archetype)
+  * Red Dragon Archfiend (archetype)       
+  | action                 =
+  * Reveals cards from your Extra Deck
+  * Reveals your hand        
+  | m/s/t                 = 
+  * Can be activated from the hand
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys itself
+  | stat_change           = Your opponent's monsters lose ATK      
+  | misc                  = Only once per turn 
   | database_id           = 
   }}

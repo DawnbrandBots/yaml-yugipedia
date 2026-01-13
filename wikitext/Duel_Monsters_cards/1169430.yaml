@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Effect, Continuous-like, Continuous-like, Condition
-  | text                  = When this card is [[activate]]d: [[Fusion Summon]] 1 [[LIGHT]] [[Machine]] [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[Main Deck|Deck]], including "[[Cyber Dragon]]", also for the rest of this turn after this card [[resolve]]s, you cannot [[Special Summon]], except Machine monsters, also you cannot [[declare]] [[attack]]s, except with the Summoned monster. When this card [[leaves the field]], [[destroy]] that monster. When that monster is destroyed, destroy this card. You can only activate 1 "Future Fusion Nova" per turn.
+  | text                  = When this card is [[activate]]d: [[Fusion Summon]] 1 [[LIGHT]] [[Machine]] [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[Main Deck|Deck]], including "[[Cyber Dragon]]", also for the rest of this [[turn]] after this card [[resolve]]s, you cannot [[Special Summon]], except Machine [[monster]]s, also you cannot [[declare]] [[attack]]s, except with the Summoned monster. When this card [[leaves the field]], [[destroy]] that monster. When that monster is destroyed, destroy this card. You can only activate 1 "Future Fusion Nova" per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -37,5 +37,15 @@ wikitext: |-
   | related_to_archseries = 
   * Cyber
   * Cyber Dragon (archetype)
+  | action                = Uses cards in the player's Deck as Fusion Materials
+  | summoning             =
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Prevents your Special Summons
+  | attack                = Prevents your monsters from attacking
+  | m/s/t                 =
+  * Destroys your Monster Cards
+  * Destroys itself
+  | misc                  = Only once per turn
   | database_id           = 
   }}

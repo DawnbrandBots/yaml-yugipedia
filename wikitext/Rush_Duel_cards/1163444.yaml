@@ -8,8 +8,9 @@ wikitext: |-
   | image          = MonumenthesFestivalTheIsyriaSeance-RDKP24-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
+  | ritualmonster  = Isyria, Deity of the Monumenthes
   | requirement    = [[Send]] 1 "[[Offering to Isyria]]", 1 "[[Sarcophagus of Isyria]]", and 1 "[[Spirit of Isyria]]" from your [[hand]] and/or [[face-down]] on your [[field]] to the [[Graveyard]].
-  | text           = [[Ritual Summon]] "[[Isyria, Deity of the Monumenthes]]" by [[send]]ing [[face-up]] "[[Yorishiro of Isyria]]" from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 4 or more as [[material]] (you cannot use more monsters than necessary as material).
+  | text           = [[Ritual Summon]] "[[Isyria, Deity of the Monumenthes]]" by sending [[face-up]] "[[Yorishiro of Isyria]]" from your field to the Graveyard whose total [[Level]]s equal 4 or more as [[material]] (you cannot use more [[Monster Card|monster]]s than necessary as material).
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +22,16 @@ wikitext: |-
   * Isyria, Deity of the Monumenthes
   * Yorishiro of Isyria
   | archseries     = Monumenthes
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Must include particular monsters for Ritual Summon
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Requires control of specific card
+  * Specific Ritual Spell Card
+  * Requires control of specific Level
   | database_id    = 
   }}

@@ -11,11 +11,25 @@ wikitext: |-
   | card_type            = Spell
   | property             = Ritual
   | requirement          = None
-  | text                 = [[Ritual Summon]] an [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] with a different name from the monsters used as [[material]] by shuffling [[face-up]] Galaxy Type monsters from your [[field]] into the owner's [[Main Deck|Deck]] as material whose total [[Level]]s equal the Level of the monster you Ritual Summon. Then, you can [[send]] cards from the top of your opponent's Deck to the [[Graveyard]], up to [the number of monsters used as material by this [[effect]]].
+  | text                 = [[Ritual Summon]] an [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] with a different name from the monsters used as [[material]] by [[Shuffle|shuffling]] [[face-up]] Galaxy Type monsters from your [[field]] into the [[owner]]'s [[Main Deck|Deck]] as material whose total [[Level]]s equal the Level of the monster you Ritual Summon. Then, you can [[send]] cards from the top of your opponent's Deck to the [[Graveyard]], up to [the number of monsters used as material by this [[effect]]].
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/KP24-JP050; Overforce of the Abyss; Rare
+  | supports             = 
+  * EARTH
+  * Galaxy (Type)
   | archseries           = Moonforce
+  | action               = 
+  * Returns from your field to your Deck
+  * Uses cards on the player's field as Ritual Materials
+  * Returns Ritual Materials used in a Ritual Summon to Deck
+  * Can only use certain monsters for Ritual Summon
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
+  | summoning            = Special Summons from your Extra Deck
+  | misc                 = 
+  * Nonspecific Ritual Spell Card
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id          = 
   }}

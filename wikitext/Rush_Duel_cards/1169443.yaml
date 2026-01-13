@@ -8,12 +8,18 @@ wikitext: |-
   | image          = SpiritofIsyria-RDKP24-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]] during their [[turn]].
-  | text           = Choose 1 [[face-up]] [[Level]] 8 or lower [[Effect Monster]] on your opponent's [[field]]. This [[turn]], your opponent cannot activate the chosen monster's [[effect]]s. Then, you can [[Draw a card|draw]] 1 card.
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their [[turn]].
+  | text           = Choose 1 [[face-up]] [[Level]] 8 or lower [[Effect Monster]] on your opponent's [[field]]. This turn, your opponent cannot [[activate]] that monster's [[effect]]s. Then, you can [[Draw a card|draw]] 1 card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP061; Overforce of the Abyss; Rare
+  | anti-supports  = Effect Monster
   | archseries     = Monumenthes
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * You draw cards
+  | m/s/t          = Prevents activation of your opponent's Effect Monsters
   | database_id    = 
   }}

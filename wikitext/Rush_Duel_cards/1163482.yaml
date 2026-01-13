@@ -8,13 +8,22 @@ wikitext: |-
   | image          = TheEternalLandSpectrika-RDKP24-JP-OP.png
   | card_type      = Spell
   | property       = Field
-  | requirement    = [[Activate]] this card if you have 4 or more [[monsters]] in your [[Graveyard]].
-  | text           = While this card is [[face-up]] in the [[Field Zone]], if a player would [[Ritual Summon]] by the effect of "[[Endless Partner]]", they can also use [[Galaxy (Type)|Galaxy]] Type monsters in their Graveyard as [[material]].
+  | requirement    = [[Activate]] this card if you have 4 or more [[Monster Card|monster]]s in your [[Graveyard]].
+  | text           = While this card is [[face-up]] in the [[Field Zone]], if a [[Duelist|player]] [[Ritual Summon]]s by the [[effect]] of "[[Endless Partner]]", they can also use [[Galaxy (Type)|Galaxy]] [[Type]] monsters in their Graveyard as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP052; Overforce of the Abyss; Common
   | mentions       = Endless Partner
+  | supports       = Galaxy (Type)
   | archseries     = Moonforce
+  | action         = 
+  * Modifies which cards can be used as Ritual Material
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Uses cards in the player's Graveyard as Ritual Materials
+  * Uses cards in the opponent's Graveyard as Ritual Materials
+  * Returns Ritual Materials used in a Ritual Summon to Deck
+  * Can only use certain monsters for Ritual Summon
   | database_id    = 
   }}
