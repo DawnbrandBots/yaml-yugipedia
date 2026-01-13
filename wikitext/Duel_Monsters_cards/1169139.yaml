@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 200
   | password              = 
   | effect_types          = Quick, Condition, Quick
-  | text                  = When your opponent [[activate]]s a [[monster effect]], or an opponent's [[monster]] [[declare]]s an [[attack]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. You can only use this [[effect]] of "Multiplying Kuriboh!" [[once per turn]]. Once per [[turn]], when your opponent activates a monster effect on the [[field]], or during [[damage calculation]], when an opponent's monster [[attack]]s (Quick Effect): You[ can [[Add a card|add]] to your hand, or Special Summon, 1 "[[Dark Magician]]" or 1 monster with 300 [[ATK]]/200 [[DEF]] from your [[Main Deck|Deck]] or [[GY]], then you can change that opponent's monster's ATK to 0. 
+  | text                  = When your opponent [[activate]]s a [[monster effect]], or an opponent's [[monster]] [[declare]]s an [[attack]] ([[Quick Effect]]): You can [[Special Summon]] this card from your [[hand]]. You can only use this [[effect]] of "Multiplying Kuriboh!" [[once per turn]]. Once per [[turn]], when your opponent activates a monster effect on the [[field]], or during [[damage calculation]], when an opponent's monster [[attack]]s (Quick Effect): You can [[Add a card|add]] to your hand, or Special Summon, 1 "[[Dark Magician]]" or 1 monster with 300 [[ATK]]/200 [[DEF]] from your [[Main Deck|Deck]] or [[GY]], then you can change that opponent's monster's ATK to 0.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -38,6 +38,13 @@ wikitext: |-
   | mentions              = Dark Magician
   | archseries            = Kuriboh (archetype)
   | related_to_archseries = Dark Magician (archetype)
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | stat_change           = 
+  * Changes ATK value
+  * Reduces ATK to 0
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons from your Deck
@@ -45,8 +52,5 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Limited activations
-  | action                = 
-  * Adds from Deck to hand
-  * Returns from your Graveyard to your hand
   | database_id           = 
   }}

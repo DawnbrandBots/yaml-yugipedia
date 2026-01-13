@@ -1,19 +1,17 @@
 title: Yamiruler the Dark Delayer (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | fr_name         = Yamiruler le Retardateur des Ténèbres
-  | de_name         = Yamiruler der dunkle Verzögerer
-  | it_name         = Yamiruler il Ritardatore Oscuro
-  | es_name         = Yamiruler el Retrasador Oscuro
-  | ja_name         = {{Ruby|魔|ま}}{{Ruby|将|しょう}}ヤメルーラ
-  | romaji_name     = Mashō Yamerūra
-  | translated_name = Yameruler the Demon Commander
+  | fr_name   = Yamiruler le Retardateur des Ténèbres
+  | de_name   = Yamiruler der dunkle Verzögerer
+  | it_name   = Yamiruler il Ritardatore Oscuro
+  | es_name   = Yamiruler el Retrasador Oscuro
+  | ko_name   = 마장 야메룰러
   | image     = 
-  | attribute       = DARK
-  | types           = Warrior / Effect
-  | level           = 8
-  | atk             = 2500
-  | def             = 2500
+  | attribute = DARK
+  | types     = Warrior / Effect
+  | level     = 8
+  | atk       = 2500
+  | def       = 2500
   | rarity    = UR
   | status    = Limited 3
   | text      = '''[REQUIREMENT]''' During the [[turn]] you [[Normal Summon]]ed this card, [[Battle position change|change]] its [[battle position]] ([[Attack Position]] becomes [[face-up]] [[Defense Position]], Defense Position becomes face-up Attack Position).<br />'''[EFFECT]''' Until the end of the opponent's next turn, while this card is face-up, neither [[Duelist|player]] can [[Tribute Summon]] [[Level]] 7 or higher [[Monster Card|monster]]s.
@@ -22,6 +20,10 @@ wikitext: |-
   | releases  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=box|Sevens New Road}}
-  {{Duel Links release table|type=box|Deck Build Box: Divine Genesis Blade}}
+  {{Duel Links release table/footer}}
+  | artwork2_name = Alternative artwork
+  | releases2     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Deck Build Box: Divine Genesis Blade|foil=Over-Rush Style}}
   {{Duel Links release table/footer}}
   }}

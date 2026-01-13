@@ -36,21 +36,27 @@ wikitext: |-
   | sc_sets               = 
   LOCH-SC008; Limit Over Collection: The Heroes; 
   | mentions              = Junk Warrior
+  | supports              = Synchro Monster
   | archseries            = 
   * Junk
   * Synchro (archetype)
   * Synchron
   | supports_archetypes   = Synchron
   | related_to_archseries = Stardust (archetype)
-  | misc                  = Only once per turn
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Negates the effects of the Summoned monsters
+  * Prevents other cards being destroyed by card effects
   | summoning             = 
   * Special Summons itself from your hand
   * Special Summons from your Graveyard
   * Substitutes for Synchro Material
-  * Prevents your Special Summons
-  | m/s/t                 = 
-  * Negates the effects of your Effect Monsters
-  * Cannot be destroyed by card effects
-  | banished              = Banishes itself from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id           = 
   }}

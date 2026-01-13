@@ -1,19 +1,17 @@
 title: Prima Guitarna the Shining Superstar (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | fr_name         = Prima Guitarna la Superstar Flamboyante
-  | de_name         = Prima Guitarna der glänzende Superstar
-  | it_name         = Prima Guitarna la Brillante Superstar
-  | es_name         = Guitarna Prima la Superestrella Brillante
-  | ja_name         = {{Ruby|彩|さい}}{{Ruby|光|こう}}のプリマギターナ
-  | romaji_name     = Saikō no Purima Gitāna
-  | translated_name = Prima Guitarna of the Colorful Light
+  | fr_name   = Prima Guitarna la Superstar Flamboyante
+  | de_name   = Prima Guitarna der glänzende Superstar
+  | it_name   = Prima Guitarna la Brillante Superstar
+  | es_name   = Guitarna Prima la Superestrella Brillante
+  | ko_name   = 채광의 프리마기타나
   | image     = 
-  | attribute       = LIGHT
-  | types           = Psychic / Effect
-  | level           = 7
-  | atk             = 2200
-  | def             = 0
+  | attribute = LIGHT
+  | types     = Psychic / Effect
+  | level     = 7
+  | atk       = 2200
+  | def       = 0
   | rarity    = UR
   | status    = 
   | text      = '''[REQUIREMENT]''' [[Pay]] 1000 [[LP]].<br />'''[EFFECT]''' All [[face-up]] [[Monster Card|monster]]s on your [[field]] gain [[ATK]] equal to [the number of monsters on your opponent's field] x 300 until the end of this [[turn]].
@@ -22,7 +20,11 @@ wikitext: |-
   | releases  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=box|Sevens New Road}}
-  {{Duel Links release table|type=box|Rush Selection BOX Vol.01}}
+  {{Duel Links release table/footer}}
+  | artwork2_name = Alternative artwork
+  | releases2     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Rush Selection BOX Vol.01|foil=Over-Rush Style}}
   {{Duel Links release table|type=box|Deck Build Box: Divine Genesis Blade}}
   {{Duel Links release table/footer}}
   }}

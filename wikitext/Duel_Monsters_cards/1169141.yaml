@@ -44,15 +44,19 @@ wikitext: |-
   * HERO
   * Polymerization (archetype)
   | action                = 
-  * Reveals your hand for cost
+  * Activates from your hand
+  * Reveals itself in the hand for cost
   * Adds from Deck to hand
   * Returns itself from hand to Deck
+  | summoning             =
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to archetype specific monsters
+  * Special Summons itself from your hand
   | life_points           = 
   * Pays Life Points for cost
   * Damages your opponent
-  | summoning             =
-  * Prevents your Special Summons
-  * Special Summons itself from your hand
-  | misc                  = Only once per turn
+  | misc                  = 
+  * Requires specific LP
+  * Only once per turn
   | database_id           = 
   }}
