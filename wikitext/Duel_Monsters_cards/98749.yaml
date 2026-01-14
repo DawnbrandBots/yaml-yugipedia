@@ -1,57 +1,60 @@
 title: Gauntlet Warrior
 wikitext: |-
   {{CardTable2
-  | de_name      = Panzerhandschuh-Krieger
-  | fr_name      = Guerrier au Gant de Force
-  | it_name      = Guerriero Guantato
-  | ko_name      = 건틀릿 워리어
-  | pt_name      = Guerreiro de Manoplas
-  | es_name      = Guerrero del Guantelete
-  | ja_name      = ガントレット・ウォリアー
-  | romaji_name  = Gantoretto Woriā
-  | image        = GauntletWarrior-BP03-EN-C-1E.png
-  | attribute    = EARTH
-  | types        = Warrior / Effect
-  | level        = 3
-  | atk          = 400
-  | def          = 1600
-  | effect_types = Quick
-  | password     = 79337169
-  | text         = During either player's [[turn]]: You can [[Tribute]] this card; each [[Warrior]]-[[Type]] [[monster]] you currently [[control]] gains 500 [[ATK]] and [[DEF]], until the end of the next [[Damage Step]] that monster attacks or is attacked.
-  | fr_text      = Durant le tour de chaque joueur : vous pouvez Sacrifier cette carte ; jusqu'à la fin de la prochaine Damage Step où le monstre attaque ou est attaqué, chaque monstre de Type Guerrier que vous contrôlez actuellement gagne 500 ATK/DEF.
-  | de_text      = Du kannst diese Karte als Tribut anbieten, um alle Krieger-Monster die du kontrollierst 500 ATK und DEF erhalten zu lassen, bis zum nächsten Damage Step indem sie kämpfen. Dieser Effekt kann beiden Zügen der Spieler aktiviert werden.
-  | it_text      = Durante il turno di qualsiasi giocatore: puoi offrire come Tributo questa carta; ogni mostro di Tipo Guerriero che controlli attualmente guadagna 500 ATK e DEF fino alla fine del prossimo Damage Step in cui quel mostro attacca o viene attaccato.
-  | pt_text      = Durante o turno de qualquer duelista: você pode oferecer este card como Tributo; os monstros do Tipo Guerreiro que você controla atualmente ganham 500 de ATK e DEF até o final da próxima Etapa de Dano que esses monstros atacarem ou forem atacados.
-  | es_text      = Durante el turno de cualquier jugador: puedes Sacrificar esta carta; cada monstruo de Tipo Guerrero que controles en este momento gana 500 ATK y DEF, hasta el final del próximo Damage Step en que ese monstruo ataque o sea atacado.
-  | ja_text      = このカードをリリースして発動する。自分フィールド上に表側表示で存在する全ての戦士族モンスターの攻撃力・守備力は５００ポイントアップし、そのモンスターが戦闘を行ったダメージステップ終了時まで適用される。この効果は相手ターンでも発動する事ができる。
-  | ko_text      = 이 카드를 릴리스하고 발동한다. 자신 필드 위에 앞면 표시로 존재하는 모든 전사족 몬스터의 공격력 / 수비력은 500 포인트 올리고, 그 몬스터가 전투를 실행한 데미지스텝 종료시까지 적용된다. 이 효과를 상대 턴에도 발동할 수 있다.
-  | en_sets      = 
+  | de_name          = Panzerhandschuh-Krieger
+  | fr_name          = Guerrier au Gant de Force
+  | it_name          = Guerriero Guantato
+  | ko_name          = 건틀릿 워리어
+  | pt_name          = Guerreiro de Manoplas
+  | es_name          = Guerrero del Guantelete
+  | ja_name          = ガントレット・ウォリアー
+  | romaji_name      = Gantoretto Woriā
+  | image            = 
+  1;   GauntletWarrior-DP09-JP-UR.jpg;      GauntletWarrior-MADU-JP-VG-artwork.png
+  1.1; GauntletWarrior-BP03-EN-C-1E.png;   GauntletWarrior-MADU-EN-VG-artwork.png
+  | current_image    = 1.1
+  | attribute        = EARTH
+  | types            = Warrior / Effect
+  | level            = 3
+  | atk              = 400
+  | def              = 1600
+  | effect_types     = Quick
+  | password         = 79337169
+  | text             = During either player's [[turn]]: You can [[Tribute]] this card; each [[Warrior]]-[[Type]] [[monster]] you currently [[control]] gains 500 [[ATK]] and [[DEF]], until the end of the next [[Damage Step]] that monster attacks or is attacked.
+  | fr_text          = Durant le tour de chaque joueur : vous pouvez Sacrifier cette carte ; jusqu'à la fin de la prochaine Damage Step où le monstre attaque ou est attaqué, chaque monstre de Type Guerrier que vous contrôlez actuellement gagne 500 ATK/DEF.
+  | de_text          = Du kannst diese Karte als Tribut anbieten, um alle Krieger-Monster die du kontrollierst 500 ATK und DEF erhalten zu lassen, bis zum nächsten Damage Step indem sie kämpfen. Dieser Effekt kann beiden Zügen der Spieler aktiviert werden.
+  | it_text          = Durante il turno di qualsiasi giocatore: puoi offrire come Tributo questa carta; ogni mostro di Tipo Guerriero che controlli attualmente guadagna 500 ATK e DEF fino alla fine del prossimo Damage Step in cui quel mostro attacca o viene attaccato.
+  | pt_text          = Durante o turno de qualquer duelista: você pode oferecer este card como Tributo; os monstros do Tipo Guerreiro que você controla atualmente ganham 500 de ATK e DEF até o final da próxima Etapa de Dano que esses monstros atacarem ou forem atacados.
+  | es_text          = Durante el turno de cualquier jugador: puedes Sacrificar esta carta; cada monstruo de Tipo Guerrero que controles en este momento gana 500 ATK y DEF, hasta el final del próximo Damage Step en que ese monstruo ataque o sea atacado.
+  | ja_text          = このカードをリリースして発動する。自分フィールド上に表側表示で存在する全ての戦士族モンスターの攻撃力・守備力は５００ポイントアップし、そのモンスターが戦闘を行ったダメージステップ終了時まで適用される。この効果は相手ターンでも発動する事ができる。
+  | ko_text          = 이 카드를 릴리스하고 발동한다. 자신 필드 위에 앞면 표시로 존재하는 모든 전사족 몬스터의 공격력 / 수비력은 500 포인트 올리고, 그 몬스터가 전투를 실행한 데미지스텝 종료시까지 적용된다. 이 효과를 상대 턴에도 발동할 수 있다.
+  | en_sets          = 
   DP09-EN013; Duelist Pack: Yusei 2; Ultra Rare
   BP03-EN070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | fr_sets      = 
+  | fr_sets          = 
   DP09-FR013; Duelist Pack: Yusei 2; Ultra Rare
   BP03-FR070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | de_sets      = 
+  | de_sets          = 
   DP09-DE013; Duelist Pack: Yusei 2; Ultra Rare
   BP03-DE070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | it_sets      = 
+  | it_sets          = 
   DP09-IT013; Duelist Pack: Yusei 2; Ultra Rare
   BP03-IT070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | pt_sets      = 
+  | pt_sets          = 
   BP03-PT070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | sp_sets      = 
+  | sp_sets          = 
   DP09-SP013; Duelist Pack: Yusei 2; Ultra Rare
   BP03-SP070; Battle Pack 3: Monster League; Common, Shatterfoil Rare
-  | jp_sets      = 
+  | jp_sets          = 
   DP09-JP013; Duelist Pack: Yusei 2; Ultra Rare
-  | kr_sets      = 
+  | kr_sets          = 
   DP09-KR013; Duelist Pack: Yusei 2; Ultra Rare
-  | supports     = Warrior
-  | archseries   = Warrior (archetype)
-  | action       = Tributes itself for cost
-  | stat_change  = 
+  | supports         = Warrior
+  | archseries       = Warrior (archetype)
+  | action           = Tributes itself for cost
+  | stat_change      = 
   * Your monsters gain ATK
   * Your monsters gain DEF
-  | misc         = Requires control of specific Type
-  | database_id  = 8579
+  | misc             = Requires control of specific Type
+  | database_id      = 8579
   }}
