@@ -34,17 +34,26 @@ wikitext: |-
   | jp_sets               = 
   LOCR-JP017; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grandmaster Rare
   | mentions              = Rokket Barrage
+  | supports              = 
+  * DARK
+  * Dragon
+  * Link Monster
+  | anti-supports         = Link Monster
   | archseries            = Rokket
   | supports_archetypes   = Rokket
-  | action                = Sends from your Deck to your Graveyard
+  | action                = 
+  * Activates from your hand
+  * Sends from Deck to Graveyard for cost
+  * Activates if targeted by card effect
+  | m/s/t                 = Destroys itself
   | summoning             =
   * Special Summons itself from your hand
-  * Prevents your Special Summons
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
   * Special Summons from your hand
   * Special Summons from your Deck
   * Special Summons from your Graveyard
-  * Special Summons banished monsters
-  | m/s/t                 = Destroys itself
+  * Special Summons from your banishment
   | misc                  = Only once per turn
   | database_id           = 
   }}
