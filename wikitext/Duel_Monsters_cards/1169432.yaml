@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Condition, Trigger, Quick, Condition
   | text                  = 1 [[Tuner]] + 1+ non-Tuner [[Monster Card|monsters]]<br />(This card is always treated as a "[[Speedroid]]" card.)<br />If this card is [[Special Summon]]ed: You can [[destroy]] 1 [[Effect Monster]] your opponent [[control]]s, and if you do, this card gains [[ATK]] equal to that monster's [[original ATK]]. When your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can Special Summon 1 [[Level]] 4 or lower [[WIND]] Tuner from your [[hand]] or [[GY]] (but [[negate]] its effects), then immediately after this effect [[resolve]]s, you can [[Synchro Summon]] 1 WIND [[Synchro Monster]]. You can only use each effect of "Clear Wing Synchro Dragon of the Four Heavenly Dragons" [[once per turn]].
   | fr_text               = 
@@ -33,6 +34,10 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCR-JP014; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grandmaster Rare
+  | supports              = 
+  * WIND
+  * Tuner monster
+  * Synchro Monster
   | archseries            = 
   * Clear Wing
   * roid
@@ -40,18 +45,20 @@ wikitext: |-
   * Synchro (archetype)
   * Synchro Dragon
   | related_to_archseries = Four Dimensional Dragons
-  | misc                  = 
-  * Archetype condition
-  * Only once per turn      
+  | action                = Activates upon Special Summon
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys your opponent's face-up Monster Cards
+  * Negates the effects of the Summoned monsters
   | summoning             = 
   * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
   * Special Summons from your hand
   * Special Summons from your Graveyard
   * Performs a Synchro Summon
   * Special Summons from your Extra Deck
-  | m/s/t                 = 
-  * Destroys your opponent's Monster Cards
-  * Negates the effects of your Effect Monsters
-  | stat_change           = This card gains ATK
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
   | database_id           = 
   }}

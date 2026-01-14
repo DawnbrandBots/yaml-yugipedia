@@ -1,21 +1,20 @@
 title: Maximum Overload
 wikitext: |-
   {{Duel Links Skill
-  | fr_name             = Surcharge Maximum
-  | romaji_name         = 
-  | text                = This Skill can be used if the only monsters in your Deck are [[Spellcaster]] Type or [[Machine]] Type monsters with 2100 or less [[ATK]].<br />[REQUIREMENT] Send 1 [[Maximum Monster]] from your [[hand]] to the [[Graveyard]].<br/>[EFFECT] Place 1 monster from your hand onto your field in face-down [[Defense Position]]. (Its battle position can be changed.) Then, you can decrease the ATK of 1 face-up monster on your opponent's field by 800 until the end of the turn. During the [[End Phase]] of this turn, return 1 Maximum Monster in your Graveyard to the top of the Deck.
-  | fr_text             = Cette Compétence peut être utilisée si les seuls monstres dans votre Deck sont de Type Magicien ou de Type Machine avec 2 100 ATK ou moins.<br />[CONDITION] Envoyez 1 Monstre Maximum au Cimetière depuis votre main.<br />[EFFET] Placez 1 monstre de votre main sur votre Terrain en Position de Défense face verso. (Sa position de combat peut être modifiée.) Puis, vous pouvez réduire de 800 l'ATK d'un monstre face recto sur le Terrain de votre adversaire jusqu'à la fin du tour. Pendant la End Phase de ce tour, renvoyez 1 Monstre Maximum de votre Cimetière au-dessus de votre Deck.
-  | ja_text             = 
-  | releases            = 
+  | fr_name     = Surcharge Maximum
+  | text        = This Skill can be used if the only monsters in your Deck are [[Spellcaster]] Type or [[Machine]] Type monsters with 2100 or less [[ATK]].<br />'''[REQUIREMENT]''' Send 1 [[Maximum Monster]] from your [[hand]] to the [[Graveyard]].<br/>'''[EFFECT]''' Place 1 monster from your hand onto your field in face-down [[Defense Position]]. (Its battle position can be changed.) Then, you can decrease the ATK of 1 face-up monster on your opponent's field by 800 until the end of the turn. During the [[End Phase]] of this turn, return 1 Maximum Monster in your Graveyard to the top of the Deck.
+  | fr_text     = Cette Compétence peut être utilisée si les seuls monstres dans votre Deck sont de Type Magicien ou de Type Machine avec 2 100 ATK ou moins.<br />'''[CONDITION]''' Envoyez 1 Monstre Maximum au Cimetière depuis votre main.<br />'''[EFFET]''' Placez 1 monstre de votre main sur votre Terrain en Position de Défense face verso. (Sa position de combat peut être modifiée.) Puis, vous pouvez réduire de 800 l'ATK d'un monstre face recto sur le Terrain de votre adversaire jusqu'à la fin du tour. Pendant la End Phase de ce tour, renvoyez 1 Monstre Maximum de votre Cimetière au-dessus de votre Deck.
+  | ja_text     = 
+  | releases    = 
   {{Duel Links Skill release table|type=mission|Yuga Ohdo (Duel Links)|Perform 1 Maximum Summon using Yuga Ohdo.|release_date=2024-02-29}}
-  | supports            = 
+  | supports    = 
+  * Spellcaster
+  * Machine
   * Maximum Monster
-  | supports_archetypes = 
-  | action              = 
+  | action      = 
   * Returns from Graveyard to Deck
   * Sends from hand to Graveyard
   * Sets from your hand
-  | life_points         = 
-  | stat_change         = Your opponent's monsters lose ATK
-  | misc                = 
+  | stat_change = Your opponent's monsters lose ATK
+  | misc        = 
   }}

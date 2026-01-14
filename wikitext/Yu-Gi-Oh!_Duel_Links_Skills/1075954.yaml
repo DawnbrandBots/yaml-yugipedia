@@ -3,12 +3,15 @@ wikitext: |-
   {{Duel Links Skill
   | fr_name             = Hypermoteur Maximum
   | ja_name             = 
-  | text                = This Skill can be used if the only monsters in your Deck are [[Spellcaster]] or [[Warrior]] Type monsters with 2100 or less ATK, and the Deck contains 8 or more Maximum Monsters.<br/>[REQUIREMENT] None<br/>[EFFECT] Choose up to 2 face-up Maximum Monsters with 1500 or less ATK on your field. The chosen monster(s) gain 1200 ATK until the end of your opponent's next turn. Then, you can place 1 random [[Maximum Monster]] from your Deck with a different Level than the chosen monster(s) on the top of your Deck.
-  | fr_text             = Cette Compétence peut être utilisée si les seuls monstres dans votre Deck sont de Type Magicien ou Guerrier avec max. 2 100 ATK, et si le Deck contient au moins 8 Monstres Maximum.<br/>[CONDITION] Aucune<br/>[EFFET] Choisissez jusqu'à 2 Monstres Maximum avec max. 1 500 ATK face recto sur votre Terrain. Le ou les monstres choisis gagnent 1 200 ATK jusqu'à la fin du prochain tour de votre adversaire. Ensuite, vous pouvez placer 1 Monstre Maximum au hasard de votre Deck avec un Niveau différent que celui du ou des monstres choisis au-dessus de votre Deck.
+  | text                = This Skill can be used if the only monsters in your Deck are [[Spellcaster]] or [[Warrior]] Type monsters with 2100 or less ATK, and the Deck contains 8 or more [[Maximum Monster]]s.<br/>'''[REQUIREMENT]''' None<br/>'''[EFFECT]''' Choose up to 2 face-up Maximum Monsters with 1500 or less ATK on your field. The chosen monster(s) gain 1200 ATK until the end of your opponent's next turn. Then, you can place 1 random Maximum Monster from your Deck with a different Level than the chosen monster(s) on the top of your Deck.
+  | fr_text             = Cette Compétence peut être utilisée si les seuls monstres dans votre Deck sont de Type Magicien ou Guerrier avec max. 2 100 ATK, et si le Deck contient au moins 8 Monstres Maximum.<br/>'''[CONDITION]''' Aucune<br/>'''[EFFET]''' Choisissez jusqu'à 2 Monstres Maximum avec max. 1 500 ATK face recto sur votre Terrain. Le ou les monstres choisis gagnent 1 200 ATK jusqu'à la fin du prochain tour de votre adversaire. Ensuite, vous pouvez placer 1 Monstre Maximum au hasard de votre Deck avec un Niveau différent que celui du ou des monstres choisis au-dessus de votre Deck.
   | ja_text             = 
   | releases            = 
   {{Duel Links Skill release table|type=mission|Yuga Ohdo (Duel Links)|Summon (Normal or Special Summon(s)) Level 10 or higher Warrior Monster 3 time(s) in Duels using Yuga Ohdo.|release_date=2024-06-26}}
-  | supports            = Maximum Monster
+  | supports            = 
+  * Spellcaster
+  * Warrior
+  * Maximum Monster
   | supports_archetypes = 
   | action              = Your monsters gain ATK
   | misc                = 
