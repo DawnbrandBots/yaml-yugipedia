@@ -23,9 +23,6 @@ wikitext: |-
   | password              = 
   | effect_types         = Trigger, Ignition, Quick, Condition
   | text                 = FLIP: You can [[target]] 1 other [[face-up]] [[monster]] on the [[field]]; change it to [[face-down]] [[Defense Position]].<br />You can [[reveal]] this card in your [[hand]]; [[Add a card|add]] 1 [[WIND]] [[Flip monster]] from your [[Main Deck|Deck]] to your hand, except "WAKE CUP! Kuro", then [[discard]] 1 card. ([[Quick Effect]]): You can target 1 face-down Defense Position  monster on the field; change it to face-up Defense Position. You can only use each [[effect]] of "WAKE CUP! Kuro" [[once per turn]].
-  | supports             =
-  * WIND
-  * Flip monster
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -39,6 +36,19 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC028; Blazing Dominion; 
   | mentions              = WAKE CUP! Kuro
+  | supports             =
+  * WIND
+  * Flip monster
   | archseries            = WAKE CUP!
+  | action                = 
+  * Activates upon being flipped face-up
+  * Flips monsters face-down
+  * Changes battle positions
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Adds from Deck to hand
+  * You discard as an effect
+  * Flips monsters face-up
+  | misc                  = Only once per turn
   | database_id           = 
   }}
