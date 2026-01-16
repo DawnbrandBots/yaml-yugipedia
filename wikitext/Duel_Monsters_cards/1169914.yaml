@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name       = Killer Tune Back 2 Back
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 杀手旋律・背靠背
   | image                 = KewlTuneBack2Back-BLZD-JP-OP.png
   | attribute             = DARK
   | types                 = Fiend / Synchro / Tuner / Effect
@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 3200
   | def                   = 0
   | password              = 
+  | materials             = 1 Tuner + 1 or more Synchro Monsters
   | effect_types          = Continuous, Continuous, Quick, Condition
   | text                  = 1 [[Tuner]] + 1+ [[Synchro Monster]]s<br />The [[Level]]s of [[monsters]] your opponent [[control]]s are increased by 2. Your Tuners can make a second [[attack]] during each [[Battle Phase]]. When your opponent [[activate]]s a [[monster effect]] ([[Quick Effect]]): You can [[target]] 1 Tuner in your [[GY]] or [[banish]]ment, except a Level 10 monster; either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it, then immediately after this effect resolves, you can [[Synchro Summon]] 1 [[Synchro Monster]]. You can only use this effect of "Kewl Tune Back 2 Back" twice per turn.
   | fr_text               = 
@@ -33,6 +34,27 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BLZD-JP042; Blazing Dominion; Ultra Rare
+  | sc_sets               = 
+  BLZD-SC042; Blazing Dominion; 
+  | supports              = 
+  * Synchro Monster
+  * Tuner monster
   | archseries            = Kewl Tune
+  | action                = 
+  * Adds from Graveyard to hand
+  * Adds banished cards to the hand
+  | stat_change           = Your opponent's monsters gain Levels
+  | summoning             = 
+  * Does not require specific Tuner Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Requires Synchro Monsters as Synchro Materials
+  * Does not require non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your banishment
+  * Performs a Synchro Summon
+  | attack                = Allows multiple attacks
+  | misc                  = 
+  * Tuner Synchro Monster
+  * Only twice per turn
   | database_id           = 
   }}
