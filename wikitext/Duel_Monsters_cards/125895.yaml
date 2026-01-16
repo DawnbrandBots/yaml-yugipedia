@@ -11,7 +11,10 @@ wikitext: |-
   | ko_name               = 하프 카운터
   | card_type             = Trap
   | property              = Normal
-  | image                 = HalfCounter-SGX3-EN-C-1E.png
+  | image                 = 
+  1;   HalfCounter-STBL-JP-C.jpg;      HalfCounter-MADU-JP-VG-artwork.png
+  1.1; HalfCounter-SGX3-EN-C-1E.png;   HalfCounter-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
   | password              = 06799227
   | effect_types          = Effect
   | text                  = During [[damage calculation]], if a [[Monster Card|monster]] you [[control]] is being [[attack]]ed: [[Target]] that monster you control; that target gains [[ATK]] equal to half the [[original ATK]] of the attacking monster, until the end of this [[turn]].
