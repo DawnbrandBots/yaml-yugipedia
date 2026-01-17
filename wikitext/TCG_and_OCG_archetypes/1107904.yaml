@@ -20,7 +20,6 @@ wikitext: |-
   * [[Alliance Insight]]
   * [[Doom of Dimensions]]
   * [[Blazing Dominion]]
-  | tcg            = 
   | ocg            = 
   * [[Infinite Forbidden +1 Bonus Pack]]
   * [[Rage of the Abyss +1 Bonus Pack]]
@@ -28,27 +27,78 @@ wikitext: |-
   * [[Limit Over Special Pack Vol.2]]
   }}
 
-  "'''Dominus'''" (ドミナス ''Dominasu'') is an [[archetype]] of [[Normal Trap Card|Normal]] [[Trap Card]]s that [[can be activated from the hand]] under certain conditions, but doing so prevents the player from activating the [[Monster effect|effects of monsters]] with certain [[Attribute]]s for the rest of the Duel. Their effects also provide an additional benefit if there is a Trap in the [[Graveyard|GY]].
+  "'''Dominus'''" (ドミナス ''Dominasu'') is an [[archetype]] of [[Normal Trap Card]]s that debutted in ''[[The Infinite Forbidden]]''.
 
-  Its first member, "[[Dominus Purge]]", was released in ''[[The Infinite Forbidden]]'', while its first support card, "[[Songs of the Dominators]]", was only released three [[Core Booster|core boosters]] later in ''[[Alliance Insight]]''.
+  ==Design==
+  "Dominus" cards depict large colorful creatures accompanied by young girls with the same color scheme. In Japanese, the archetype's name is a reading for some form of "X King", implying the large creatures are rulers of certain elements, while the concept art of "[[Dominus Impulse]]" labelling to its girl as "Spirit Princess" seems to indicate they serve them.
 
-  ==Members/Support==
+  Effect-wise, the cards all follow a very specific format: they can be [[activate]]d from the [[hand]] under a certain condition, but doing so prevents the player from activating the [[Monster effect|effects of monsters]] with certain [[Attribute]]s for the rest of the Duel. Their effects also have either a bonus if the player has a Trap in their [[Graveyard]] or a downside if they do not.
+
   {| class="wikitable" style="text-align:center"
-  ! Dominus
-  ! Effects
-  ! Activatable from the hand requirement
-  ! Restrictions applied to player if activated from the hand
+  ! rowspan=2 | Card
+  ! rowspan=2 | Title
+  ! rowspan=2 | Main color
+  ! rowspan=2 | Hand activation requirement
+  ! rowspan=2 | Effect
+  ! colspan=6 | Attributes usable after hand activation
   |-
-  | [[Dominus Impulse|Impulse]] || Negate a card/effect that includes an effect that [[Special Summon]]s.<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || Cannot activate the effects of [[LIGHT]], [[EARTH]], and [[WIND]] monsters for the rest of the Duel.
+  ! [[LIGHT]]
+  ! [[DARK]]
+  ! [[EARTH]]
+  ! [[WATER]]
+  ! [[FIRE]]
+  ! [[WIND]]
   |-
-  | [[Dominus Purge|Purge]] || Negate a card/effect that includes an effect that [[Add a card|adds a card]] from [[Deck]] to [[hand]].<br>If a Trap is in your GY, destroy that card. || Opponent controls a card. || Cannot activate the effects of [[DARK]], [[WATER]], and [[FIRE]] monsters for the rest of the Duel.
+  | [[Dominus Purge|Purge]]
+  | Holy King
+  | Red
+  | Opponent [[control]]s a card
+  | [[Negate]]s a card or [[card effect|effect]] that [[add a card|adds]] from [[Main Deck|Deck]] to [[hand]]. If a Trap is in GY, the card is also destroyed
+  | {{yes}}
+  | {{no}}
+  | {{yes}}
+  | {{no}}
+  | {{no}}
+  | {{yes}}
   |-
-  | [[Dominus Spiral|Spiral]] || [[Return]] an opponent's targeted monster to the hand or [[Extra Deck]].<br>If a Trap is not in your GY, the opponent can Special Summon 1 monster from their GY. || Opponent activated a monster effect in the hand or GY this turn. || Cannot activate the effects of LIGHT and DARK monsters for the rest of the Duel.
+  | [[Dominus Impulse|Impulse]]
+  | Spirit King
+  | Blue
+  | Opponent controls a card
+  | Negates a card or effect that [[Special Summon]]s. If a Trap is in GY, the card is also destroyed
+  | {{no}}
+  | {{yes}}
+  | {{no}}
+  | {{yes}}
+  | {{yes}}
+  | {{no}}
   |-
-  | [[Dominus Spark|Spark]] || [[Target]] 1 monster your opponent controls; [[banish]] it.<br>If a Trap is not in your GY, the opponent can Special Summon 1 monster from their hand. || Opponent activated a monster effect in the hand or GY this turn. || Cannot activate the effects of f EARTH, WATER, FIRE, and WIND monsters for the rest of the Duel.
+  | [[Dominus Spiral|Spiral]]
+  | Life King
+  | Green
+  | Opponent activated a monster effect in hand or GY that turn
+  | [[Return]]s an opponent's monster to hand/[[Extra Deck]]. If no Trap is in GY, they can Summon one from GY
+  | {{no}}
+  | {{no}}
+  | {{yes}}
+  | {{yes}}
+  | {{yes}}
+  | {{yes}}
   |-
-  | [[Songs of the Dominators]] || Negate a monster's effect that was activated on the field.<br>If you have a Trap in your GY, you can add 1 "Dominus" card from your Deck to your hand. || No monsters in your GY. || Cannot activate the effects of monsters in your hand, GY, and [[banish]]ment, until the end of the next turn.
+  | [[Dominus Spark|Spark]]
+  | Thunder King
+  | Black
+  | Opponent activated a monster effect in hand or GY that turn
+  | [[Banish]]es an opponent's monster. If no Trap is in GY, they can Summon one from hand
+  | {{yes}}
+  | {{yes}}
+  | {{no}}
+  | {{no}}
+  | {{no}}
+  | {{no}}
   |}
+
+  The effect of (currently) the only support card of the archetype, "[[Songs of the Dominators]]", is also constructed in a very similar way, with the difference that it prevents the player from using monster effects in the hand, Graveyard, or [[banish]]ment for 2 turns.
 
   {{Archseries navbox}}
   [[Category:TCG and OCG archetypes]]
