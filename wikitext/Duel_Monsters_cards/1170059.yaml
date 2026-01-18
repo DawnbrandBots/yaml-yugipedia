@@ -4,15 +4,16 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name   = スペルスピード①
-  | image     = NewExpertRule4-B1-JP.png
-  | image2    = NewExpertRule-B1-JP-Back2.png
-  | card_type = New Expert Rule
-  | text      = [[Spell]]s, [[Trap]]s, and [[Effect Monster]]s' [[effect]]s have starting speeds. The timing at which you can [[chain]] them differs. [[Spell Speed]] 1 cards can only be placed at [[Chain Link]] 1 (they cannot be used [[response|responsively]]), while [[Counter Trap]]s cannot be placed at Chain Link 1 (they can only be used responsively).
-  {{(!}} class="wikitable"
-  ! style="width: unset" {{!}} Speed
-  ! style="width: unset" {{!}} Applicable/Not applicable
-  ! style="width: unset" {{!}} Categories
+  | ja_name     = スペルスピード①
+  | romaji_name = Superu Supīdo Ichi
+  | image       = NewExpertRule4-B1-JP.png
+  | image2      = NewExpertRule-B1-JP-Back2.png
+  | card_type   = New Expert Rule
+  | text        = [[Spell]]s, [[Trap]]s, and [[Effect Monster]]s' [[effect]]s have starting speeds. The timing at which you can [[chain]] them differs. [[Spell Speed]] 1 cards can only be placed at [[Chain Link]] 1 (they cannot be used [[response|responsively]]), while [[Counter Trap]]s cannot be placed at Chain Link 1 (they can only be used responsively).
+  {{(!}} class  ="wikitable"
+  ! style  ="width: unset" {{!}} Speed
+  ! style  ="width: unset" {{!}} Applicable/Not applicable
+  ! style  ="width: unset" {{!}} Categories
   {{!}}-
   {{!}} '''1'''
   {{!}} Cannot be played responsively (also cannot be used in the [[Battle Phase]])
@@ -27,11 +28,11 @@ wikitext: |-
   {{!}} Counter Traps
   {{!)}}
 
-  | ja_text   = 魔法や罠、効果モンスターの効果の起動スピード。これらの違いによって連鎖できるタイミングが変わってくる。スペルスピード１のカードはチェーン１にしか置くことができず（対応使用不可）、逆に力ウンター罠は、チェーン１に置くことができない（対応のみで使用可能)。 
-  {{{!}} class="wikitable"
-  ! style="width: unset" {{!}} スピード
-  ! style="width: unset" {{!}} 適用・不適用
-  ! style="width: unset" {{!}} 種類
+  | ja_text     = 魔法や罠、効果モンスターの効果の起動スピード。これらの違いによって連鎖できるタイミングが変わってくる。スペルスピード１のカードはチェーン１にしか置くことができず（対応使用不可）、逆に力ウンター罠は、チェーン１に置くことができない（対応のみで使用可能)。 
+  {{{!}} class  ="wikitable"
+  ! style  ="width: unset" {{!}} スピード
+  ! style  ="width: unset" {{!}} 適用・不適用
+  ! style  ="width: unset" {{!}} 種類
   {{!}}-
   {{!}} '''１'''
   {{!}} 対応プレイ不可(バトルフェイズにも自発的には使用不可)
@@ -45,6 +46,7 @@ wikitext: |-
   {{!}} スペルスピード３以上に対応プレイ可能
   {{!}} カウンター罠
   {{!}}}
-  | jp_sets   = 
+  | jp_sets     = 
   ; Booster R1;
+  | database_id = none
   }}
