@@ -1,44 +1,47 @@
 title: Reanimation Wave
 wikitext: |-
   {{CardTable2
-  | it_name      = Onda Rianimatrice
-  | de_name      = Reanimationswelle
-  | ko_name      = 파동 재생
-  | pt_name      = 
-  | fr_name      = Vague de Réanimation
-  | es_name      = Ola de Reanimación
-  | ja_name      = {{Ruby|波|は}}{{Ruby|動|どう}}{{Ruby|再|さい}}{{Ruby|生|せい}}
-  | romaji_name  = Hadō Saisei
-  | image        = ReanimationWave-DREV-EN-R-1E.jpg
-  | card_type    = Trap
-  | property     = Normal
-  | password     = 60312997
-  | effect_types = Activation requirement, Effect, Lingering
-  | text         = [[Activate]] only when your opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]]. [[Target|Select]] 1 [[Synchro Monster]] in your [[Graveyard]] with a [[Level]] less than or equal to the [[attack]]ing monster's. The [[Battle Damage]] you take from that attack is halved. At the end of the [[Damage Step]], [[Special Summon]] the selected Synchro Monster from the Graveyard.
-  | fr_text      = Activable uniquement lorsqu'un monstre de votre adversaire déclare une attaque directe. Sélectionnez 1 Monstre Synchro dans votre Cimetière avec un Niveau inférieur ou égal à celui du monstre attaquant. Les dommages de combat que vous recevez par cette attaque sont divisés par deux. À la fin de la Damage Step, Invoquez Spécialement le Monstre Synchro sélectionné depuis le Cimetière.
-  | de_text      = Aktiviere diese Karte nur, wenn ein Monster deines Gegners direkt angreift. Wähle 1 Synchromonster in deinem Friedhof, dessen Stufe kleiner oder gleich der des angreifenden Monsters ist. Der Kampfschaden, den du aus dem Kampf erhältst, wird halbiert. Am Ende des Damage Steps, beschwöre das gewählte Synchromonster als Spezialbeschwörung vom Friedhof.
-  | it_text      = Attiva solo quando un mostro del tuo avversario dichiara un attacco diretto. Scegli 1 Mostro Synchro nel tuo Cimitero con un Livello pari o inferiore a quello del mostro attaccante. Il danno da combattimento che subisci da quell'attacco viene dimezzato. Alla fine del Damage Step, Evoca Specialmente il Mostro Synchro scelto dal Cimitero.
-  | pt_text      = 
-  | es_text      = Sólo puedes activar esta carta cuando tu adversario declara un ataque directo. Selecciona 1 Monstruo de Sincronía en tu Cementerio cuyo Nivel sea menor o igual que el del monstruo atacante. El daño de batalla que recibes de ese ataque se divide a la mitad. Al final del Damage Step, Invoca de Modo Especial, desde el Cementerio, al Monstruo de Sincronía seleccionado.
-  | ja_text      = 相手モンスターの[[Direct attack|直接攻撃宣]]言時、その攻撃モンスターの[[Level|レベル]]以下のレベルを持つ[[Synchro Monster|シンクロモンスター]]１体を自分の[[Graveyard|墓地]]から選択して発動する。その時の攻撃によって発生する自分への[[Battle Damage|戦闘ダメージ]]は半分になる。その[[Damage Step|ダメージステップ]]終了時、選択したシンクロモンスターを自分の墓地から[[Special Summon|特殊召喚]]する。
-  | ko_text      = 상대 몬스터의 직접 공격 선언시, 그 공격 몬스터의 레벨 이하의 레벨을 가진 싱크로 몬스터 1장을 자신의 묘지에서 선택하고 발동한다. 그 때의 공격에 의해서 발생하는 자신에게로의 전투 데미지는 절반이 된다. 그 데미지 스텝 종료시, 선택한 싱크로 몬스터를 자신의 묘지에서 특수 소환한다.
-  | en_sets      = 
+  | it_name         = Onda Rianimatrice
+  | de_name         = Reanimationswelle
+  | ko_name         = 파동 재생
+  | pt_name         = 
+  | fr_name         = Vague de Réanimation
+  | es_name         = Ola de Reanimación
+  | ja_name         = {{Ruby|波|は}}{{Ruby|動|どう}}{{Ruby|再|さい}}{{Ruby|生|せい}}
+  | romaji_name     = Hadō Saisei
+  | image           = 
+  1;   ReanimationWave-DREV-JP-R.jpg;      ReanimationWave-MADU-JP-VG-artwork.png
+  1.1; ReanimationWave-DREV-EN-R-1E.jpg;   ReanimationWave-MADU-EN-VG-artwork.png
+  | current_image   = 1.1
+  | card_type       = Trap
+  | property        = Normal
+  | password        = 60312997
+  | effect_types    = Activation requirement, Effect, Lingering
+  | text            = [[Activate]] only when your opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]]. [[Target|Select]] 1 [[Synchro Monster]] in your [[Graveyard]] with a [[Level]] less than or equal to the [[attack]]ing monster's. The [[Battle Damage]] you take from that attack is halved. At the end of the [[Damage Step]], [[Special Summon]] the selected Synchro Monster from the Graveyard.
+  | fr_text         = Activable uniquement lorsqu'un monstre de votre adversaire déclare une attaque directe. Sélectionnez 1 Monstre Synchro dans votre Cimetière avec un Niveau inférieur ou égal à celui du monstre attaquant. Les dommages de combat que vous recevez par cette attaque sont divisés par deux. À la fin de la Damage Step, Invoquez Spécialement le Monstre Synchro sélectionné depuis le Cimetière.
+  | de_text         = Aktiviere diese Karte nur, wenn ein Monster deines Gegners direkt angreift. Wähle 1 Synchromonster in deinem Friedhof, dessen Stufe kleiner oder gleich der des angreifenden Monsters ist. Der Kampfschaden, den du aus dem Kampf erhältst, wird halbiert. Am Ende des Damage Steps, beschwöre das gewählte Synchromonster als Spezialbeschwörung vom Friedhof.
+  | it_text         = Attiva solo quando un mostro del tuo avversario dichiara un attacco diretto. Scegli 1 Mostro Synchro nel tuo Cimitero con un Livello pari o inferiore a quello del mostro attaccante. Il danno da combattimento che subisci da quell'attacco viene dimezzato. Alla fine del Damage Step, Evoca Specialmente il Mostro Synchro scelto dal Cimitero.
+  | pt_text         = 
+  | es_text         = Sólo puedes activar esta carta cuando tu adversario declara un ataque directo. Selecciona 1 Monstruo de Sincronía en tu Cementerio cuyo Nivel sea menor o igual que el del monstruo atacante. El daño de batalla que recibes de ese ataque se divide a la mitad. Al final del Damage Step, Invoca de Modo Especial, desde el Cementerio, al Monstruo de Sincronía seleccionado.
+  | ja_text         = 相手モンスターの[[Direct attack|直接攻撃宣]]言時、その攻撃モンスターの[[Level|レベル]]以下のレベルを持つ[[Synchro Monster|シンクロモンスター]]１体を自分の[[Graveyard|墓地]]から選択して発動する。その時の攻撃によって発生する自分への[[Battle Damage|戦闘ダメージ]]は半分になる。その[[Damage Step|ダメージステップ]]終了時、選択したシンクロモンスターを自分の墓地から[[Special Summon|特殊召喚]]する。
+  | ko_text         = 상대 몬스터의 직접 공격 선언시, 그 공격 몬스터의 레벨 이하의 레벨을 가진 싱크로 몬스터 1장을 자신의 묘지에서 선택하고 발동한다. 그 때의 공격에 의해서 발생하는 자신에게로의 전투 데미지는 절반이 된다. 그 데미지 스텝 종료시, 선택한 싱크로 몬스터를 자신의 묘지에서 특수 소환한다.
+  | en_sets         = 
   DREV-EN067; Duelist Revolution; Rare
-  | fr_sets      = 
+  | fr_sets         = 
   DREV-FR067; Duelist Revolution; Rare
-  | de_sets      = 
+  | de_sets         = 
   DREV-DE067; Duelist Revolution; Rare
-  | it_sets      = 
+  | it_sets         = 
   DREV-IT067; Duelist Revolution; Rare
-  | sp_sets      = 
+  | sp_sets         = 
   DREV-SP067; Duelist Revolution; Rare
-  | jp_sets      = 
+  | jp_sets         = 
   DREV-JP067; Duelist Revolution; Rare
-  | kr_sets      = 
+  | kr_sets         = 
   DREV-KR067; Duelist Revolution; Rare
-  | supports     = Synchro Monster
-  | action       = Activates upon attack declaration
-  | summoning    = Special Summons from your Graveyard
-  | life_points  = Reduces battle damage
-  | database_id  = 8998
+  | supports        = Synchro Monster
+  | action          = Activates upon attack declaration
+  | summoning       = Special Summons from your Graveyard
+  | life_points     = Reduces battle damage
+  | database_id     = 8998
   }}

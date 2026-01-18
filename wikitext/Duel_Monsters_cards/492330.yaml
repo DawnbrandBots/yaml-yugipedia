@@ -1,57 +1,60 @@
 title: Parry Knights
 wikitext: |-
   {{CardTable2
-  | fr_name      = Chevaliers de la Parade
-  | de_name      = Parierritter
-  | it_name      = Cavalieri Parata
-  | pt_name      = Cavaleiros Aparadores
-  | es_name      = Caballeros de la Parada
-  | ko_name      = 파리나이츠
-  | ja_name      = パーリィナイツ
-  | romaji_name  = Pāryi Naitsu
-  | image        = ParryKnights-MP18-EN-C-1E.png
-  | attribute    = EARTH
-  | types        = Warrior / Effect
-  | level        = 6
-  | atk          = 2300
-  | def          = 2100
-  | password     = 17988746
-  | effect_types = Trigger
-  | text         = When you take [[battle damage]] from an opponent's [[attack]]ing [[Monster Card|monster]]: You can [[Special Summon]] this card from your [[hand]], then you can Special Summon 1 monster from your hand with [[ATK]] less than or equal to the damage you took.
-  | fr_text      = Lorsque vous recevez des dommages de combat d'un monstre attaquant de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez Invoquer Spécialement 1 monstre depuis votre main avec une ATK inférieure ou égale aux dommages que vous avez reçus.
-  | de_text      = Wenn du Kampfschaden von einem angreifenden Monster deines Gegners erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 Monster, dessen ATK kleiner oder gleich dem Schaden sind, den du erhalten hast, als Spezialbeschwörung von deiner Hand beschwören.
-  | it_text      = Quando subisci danno da combattimento da un mostro attaccante dell'avversario: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi Evocare Specialmente dalla tua mano 1 mostro con ATK pari o inferiore al danno che hai subito.
-  | pt_text      = Quando você sofrer dano de batalha de um monstro atacante do oponente: você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode Invocar por Invocação-Especial 1 monstro da sua mão com ATK menor ou igual que o dano que você sofreu.
-  | es_text      = Cuando recibes daño de batalla de un monstruo atacante de tu adversario: puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar de Modo Especial, desde tu mano, 1 monstruo con ATK menor o igual al daño que recibiste.
-  | ja_text      = ①：相手モンスターの攻撃で自分が戦闘ダメージを受けた時に発動できる。このカードを手札から特殊召喚する。その後、受けたダメージの数値以下の攻撃力を持つモンスター１体を手札から特殊召喚できる。
-  | ko_text      = ① : 상대 몬스터의 공격으로 자신이 전투 데미지를 받았을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 그 후, 받은 데미지의 수치 이하의 공격력을 가지는 몬스터 1장을 패에서 특수 소환할 수 있다.
-  | en_sets      = 
+  | fr_name         = Chevaliers de la Parade
+  | de_name         = Parierritter
+  | it_name         = Cavalieri Parata
+  | pt_name         = Cavaleiros Aparadores
+  | es_name         = Caballeros de la Parada
+  | ko_name         = 파리나이츠
+  | ja_name         = パーリィナイツ
+  | romaji_name     = Pāryi Naitsu
+  | image           = 
+  1;   ParryKnights-COTD-JP-NR.png;     ParryKnights-MADU-JP-VG-artwork.png
+  1.1; ParryKnights-MP18-EN-C-1E.png;   ParryKnights-MADU-EN-VG-artwork.png
+  | current_image   = 1.1
+  | attribute       = EARTH
+  | types           = Warrior / Effect
+  | level           = 6
+  | atk             = 2300
+  | def             = 2100
+  | password        = 17988746
+  | effect_types    = Trigger
+  | text            = When you take [[battle damage]] from an opponent's [[attack]]ing [[Monster Card|monster]]: You can [[Special Summon]] this card from your [[hand]], then you can Special Summon 1 monster from your hand with [[ATK]] less than or equal to the damage you took.
+  | fr_text         = Lorsque vous recevez des dommages de combat d'un monstre attaquant de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez Invoquer Spécialement 1 monstre depuis votre main avec une ATK inférieure ou égale aux dommages que vous avez reçus.
+  | de_text         = Wenn du Kampfschaden von einem angreifenden Monster deines Gegners erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 Monster, dessen ATK kleiner oder gleich dem Schaden sind, den du erhalten hast, als Spezialbeschwörung von deiner Hand beschwören.
+  | it_text         = Quando subisci danno da combattimento da un mostro attaccante dell'avversario: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi Evocare Specialmente dalla tua mano 1 mostro con ATK pari o inferiore al danno che hai subito.
+  | pt_text         = Quando você sofrer dano de batalha de um monstro atacante do oponente: você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode Invocar por Invocação-Especial 1 monstro da sua mão com ATK menor ou igual que o dano que você sofreu.
+  | es_text         = Cuando recibes daño de batalla de un monstruo atacante de tu adversario: puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar de Modo Especial, desde tu mano, 1 monstruo con ATK menor o igual al daño que recibiste.
+  | ja_text         = ①：相手モンスターの攻撃で自分が戦闘ダメージを受けた時に発動できる。このカードを手札から特殊召喚する。その後、受けたダメージの数値以下の攻撃力を持つモンスター１体を手札から特殊召喚できる。
+  | ko_text         = ① : 상대 몬스터의 공격으로 자신이 전투 데미지를 받았을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 그 후, 받은 데미지의 수치 이하의 공격력을 가지는 몬스터 1장을 패에서 특수 소환할 수 있다.
+  | en_sets         = 
   COTD-EN037; Code of the Duelist; Short Print
   MP18-EN061; 2018 Mega-Tin Mega Pack; Common
-  | fr_sets      = 
+  | fr_sets         = 
   COTD-FR037; Code of the Duelist; Short Print
   MP18-FR061; 2018 Mega-Tin Mega Pack; Common
-  | de_sets      = 
+  | de_sets         = 
   COTD-DE037; Code of the Duelist; Short Print
   MP18-DE061; 2018 Mega-Tin Mega Pack; Common
-  | it_sets      = 
+  | it_sets         = 
   COTD-IT037; Code of the Duelist; Short Print
   MP18-IT061; 2018 Mega-Tin Mega Pack; Common
-  | pt_sets      = 
+  | pt_sets         = 
   COTD-PT037; Code of the Duelist; Short Print
   MP18-PT061; 2018 Mega-Tin Mega Pack; Common
-  | sp_sets      = 
+  | sp_sets         = 
   COTD-SP037; Code of the Duelist; Short Print
   MP18-SP061; 2018 Mega-Tin Mega Pack; Common
-  | jp_sets      = 
+  | jp_sets         = 
   COTD-JP037; Code of the Duelist; Normal Rare
-  | kr_sets      = 
+  | kr_sets         = 
   COTD-KR037; Code of the Duelist; Normal Rare
-  | action       = 
+  | action          = 
   * Activates if you take battle damage
   * Activates from your hand
-  | summoning    = 
+  | summoning       = 
   * Special Summons itself from your hand
   * Special Summons from your hand
-  | database_id  = 13076
+  | database_id     = 13076
   }}

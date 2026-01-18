@@ -1,67 +1,70 @@
 title: Rose Archer
 wikitext: |-
   {{CardTable2
-  | de_name      = Rosenbogenschützin
-  | fr_name      = Archère de la Rose
-  | it_name      = Arciere Rosa
-  | ko_name      = 로즈 아처
-  | pt_name      = Arqueiro da Rosas
-  | es_name      = Arquera de la Rosa
-  | ja_name      = {{Ruby|薔薇の聖弓手|ローズ・アーチャー}}
-  | romaji_name  = Rōzu Āchā
-  | image        = RoseArcher-LDS2-EN-C-1E.png
-  | attribute    = EARTH
-  | types        = Warrior / Effect
-  | level        = 3
-  | atk          = 1000
-  | def          = 100
-  | password     = 51852507
-  | effect_types = Quick
-  | text         = When your opponent activates a [[Trap Card]] while you [[control]] a [[Plant]] [[Monster Card|monster]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[Graveyard|GY]]; [[negate]] the activation, and if you do, [[destroy]] it.
-  | fr_text      = Lorsque votre adversaire active une Carte Piège tant que vous contrôlez un monstre Plante (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.
-  | de_text      = Wenn dein Gegner eine Fallenkarte aktiviert, solange du ein Pflanze-Monster kontrollierst (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.
-  | it_text      = Quando il tuo avversario attiva una Carta Trappola mentre controlli un mostro Pianta (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila.
-  | pt_text      = Quando seu oponente ativar um Card de Armadilha enquanto você controlar um monstro Planta (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; negue a ativação e, se isso acontecer, destrua-o.
-  | es_text      = Cuando tu adversario activa una Carta de Trampa mientras tú controlas un monstruo Planta (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano; niega la activación y, si lo haces, destrúyela.
-  | ja_text      = 自分フィールド上に植物族モンスターが存在し、相手が罠カードを発動した時、このカードを手札から墓地へ送って発動できる。その発動を無効にし破壊する。この効果は相手ターンでも発動できる。
-  | ko_text      = 자신 필드 위에 식물족 몬스터가 존재하고, 상대가 함정 카드를 발동했을 때, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
-  | en_sets      = 
+  | de_name         = Rosenbogenschützin
+  | fr_name         = Archère de la Rose
+  | it_name         = Arciere Rosa
+  | ko_name         = 로즈 아처
+  | pt_name         = Arqueiro da Rosas
+  | es_name         = Arquera de la Rosa
+  | ja_name         = {{Ruby|薔薇の聖弓手|ローズ・アーチャー}}
+  | romaji_name     = Rōzu Āchā
+  | image           = 
+  1;   RoseArcher-VJMP-JP-UR.png;     RoseArcher-MADU-JP-VG-artwork.png
+  1.1; RoseArcher-LDS2-EN-C-1E.png;   RoseArcher-MADU-EN-VG-artwork.png
+  | current_image   = 1.1
+  | attribute       = EARTH
+  | types           = Warrior / Effect
+  | level           = 3
+  | atk             = 1000
+  | def             = 100
+  | password        = 51852507
+  | effect_types    = Quick
+  | text            = When your opponent activates a [[Trap Card]] while you [[control]] a [[Plant]] [[Monster Card|monster]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[Graveyard|GY]]; [[negate]] the activation, and if you do, [[destroy]] it.
+  | fr_text         = Lorsque votre adversaire active une Carte Piège tant que vous contrôlez un monstre Plante (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.
+  | de_text         = Wenn dein Gegner eine Fallenkarte aktiviert, solange du ein Pflanze-Monster kontrollierst (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.
+  | it_text         = Quando il tuo avversario attiva una Carta Trappola mentre controlli un mostro Pianta (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila.
+  | pt_text         = Quando seu oponente ativar um Card de Armadilha enquanto você controlar um monstro Planta (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; negue a ativação e, se isso acontecer, destrua-o.
+  | es_text         = Cuando tu adversario activa una Carta de Trampa mientras tú controlas un monstruo Planta (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano; niega la activación y, si lo haces, destrúyela.
+  | ja_text         = 自分フィールド上に植物族モンスターが存在し、相手が罠カードを発動した時、このカードを手札から墓地へ送って発動できる。その発動を無効にし破壊する。この効果は相手ターンでも発動できる。
+  | ko_text         = 자신 필드 위에 식물족 몬스터가 존재하고, 상대가 함정 카드를 발동했을 때, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  | en_sets         = 
   PRIO-EN093; Primal Origin; Rare
   LC5D-EN098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-EN105; Legendary Duelists: Season 2; Common
-  | fr_sets      = 
+  | fr_sets         = 
   PRIO-FR093; Primal Origin; Rare
   LC5D-FR098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-FR105; Legendary Duelists: Season 2; Common
-  | de_sets      = 
+  | de_sets         = 
   PRIO-DE093; Primal Origin; Rare
   LC5D-DE098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-DE105; Legendary Duelists: Season 2; Common
-  | it_sets      = 
+  | it_sets         = 
   PRIO-IT093; Primal Origin; Rare
   LC5D-IT098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-IT105; Legendary Duelists: Season 2; Common
-  | pt_sets      = 
+  | pt_sets         = 
   PRIO-PT093; Primal Origin; Rare
   LC5D-PT098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-PT105; Legendary Duelists: Season 2; Common
-  | sp_sets      = 
+  | sp_sets         = 
   PRIO-SP093; Primal Origin; Rare
   LC5D-SP098; Legendary Collection 5D's Mega Pack; Super Rare
   LDS2-SP105; Legendary Duelists: Season 2; Common
-  | jp_sets      = 
+  | jp_sets         = 
   VJMP-JP078; V Jump Spring 2013 subscription bonus; Ultra Rare
-  | kr_sets      = 
+  | kr_sets         = 
   PP09-KR028; Premium Pack Vol.9; Secret Rare
-  | supports     = Plant
-  | archseries   = Rose
-  | action       = 
+  | supports        = Plant
+  | archseries      = Rose
+  | action          = 
   * Activates from your hand
   * Sends itself from hand to Graveyard for cost
-  | m/s/t        = 
+  | m/s/t           = 
   * Negates the activation of your opponent's Trap Cards
   * Destroys your opponent's Trap Cards
-  | misc         = 
+  | misc            = 
   * Requires control of specific Type
-  | database_id  = 10587
+  | database_id     = 10587
   }}
