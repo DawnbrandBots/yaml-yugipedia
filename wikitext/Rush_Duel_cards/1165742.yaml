@@ -5,11 +5,19 @@ wikitext: |-
   | image          = DustTornado-RDKP24-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Draw a card|draws]] a card, when your opponent [[Set]]s a [[Spell]]/[[Trap Card]], or when an opponent's monster [[declare]]s an [[attack]].
-  | text           = [[Destroy]] 1 Spell/Trap Card on your opponent's [[field]]. Then, you can [[Set]] 1 Spell/Trap Card from your [[hand]] to your field.
+  | requirement    = When your opponent [[Draw a card|draw]]s a card, when your opponent [[Set]]s a [[Spell Card|Spell]]/[[Trap Card]], or when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].
+  | text           = [[Destroy]] 1 Spell/Trap Card on your opponent's [[field]]. Then, you can Set 1 Spell/Trap Card from your [[hand]] to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP064; Overforce of the Abyss; Ultra Rare, Over Rush Rare
+  | action         = 
+  * Activates if your opponent draws a card
+  * Activates upon Set
+  * Activates upon attack declaration
+  * Sets from your hand
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
   | database_id    = 
   }}

@@ -1,0 +1,38 @@
+title: Junior Rule Introduction Vol. 5
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name     = ジュニアルール{{Ruby|入|にゅう}}{{Ruby|門|もん}}{{Ruby|編|へん}}５
+  | romaji_name = Junia Rūru Nyūmonhen Go
+  | image       = JuniorRuleIntroductionVol5-B2-JP.png
+  | image2      = JuniorRuleIntroduction-B2-JP-Back1.png
+  | card_type   = Junior Rule Introduction
+  | text        = '''④ [[Battle Phase]]…… The main attacking phase'''<br />There are 4 steps in the Battle Phase. The player going second can [[attack]] on their first turn. Alternatively, they can skip their Battle Phase.
+
+  '''A. [[Start Step]]'''…… Declare the start of the Battle Phase.
+
+  '''B. [[Battle Step]]'''…… Choose one of your [[attack]]ing monsters and an opponent's monster. If the opponent doesn't have any monsters, you can attack their Life Points [[direct attack|directly]]. Each monster can only attack once per turn. If the opponent's monster is [[face-down|hidden]], it is flipped face-up.
+
+  '''C. [[Damage Step]]'''…… Conduct damage calculation for monsters/players
+  * If the opposing monster is in [[Attack Position]]: Compare both monsters' [[ATK]] and inflict the excess as damage to the opponent. If your opponent's monster's ATK is higher, you take the damage.
+  * If the opposing monster is in [[Defense Position]]: Compare your monster's ATK and the opposing monster's [[DEF]], then if your ATK is higher only the the opposing monster is [[destroy]]ed, otherwise if the DEF is higher then you take damage equal to the excess.
+  * The monster that lost the Damage Step is destroyed and sent to the Graveyard.
+
+  '''D. [[End Step]]'''<br />Repeat Steps B and C, then declare the end of the Battle Phase once all attacks are complete.<br />※ You can use Quick-Play Spells and Traps that are Set on the field during Steps A, B, and D.
+  | ja_text     = '''④バトルフェイズ……攻撃がメインのフェイズ'''<br />バトルフェイズは４つのステップに別れている。１ターン目の後攻から相手を攻撃できる。またバトルフェイズを飛ばすこともできる。
+
+  '''Ａ．スタートステップ'''……バトルフェイズの開始を宣言する。
+
+  '''Ｂ．バトルステップ'''……自分の攻撃モンスター１体と相手の敵モンスター１体を決定。相手にモンスターがいない場合は相手のライフポイントを直接攻撃できる。攻撃は１ターン１体につき１回だけだ。相手のモンスターが裏向きだった場合は表にぎる。
+
+  '''Ｃ．ダメージステツプ'''……モンスター、プレイヤーへのダメージ計算をする。
+  * 敵が攻撃表示の場合：お互いの攻撃力を比べて高い方が上回った分だけ相手プレイヤーにダメージを与える。相手モンスターが上回った場合は自分がダメージを受ける。
+  * 敵が守備表示の場合：自分の攻撃力と敵の守備力を比べて、攻撃力が高ければ敵を破壊するのみ、守備力が高ければ上回った分のダメージを自分が受ける。
+  * ダメージステップで負けたモンスターは破壊され、墓地へ置く。
+
+  '''Ｄ．エンドステップ'''<br />Ｂ・Ｃを繰り返し、攻撃が全て終わったらバトルフェイズ終了を宣言。<br />※Ａ・Ｂ・Ｄのステツブでフィールドにセットされた速攻魔法や罠を使用できる。
+
+  | jp_sets     = 
+  ; Booster R2;
+  }}

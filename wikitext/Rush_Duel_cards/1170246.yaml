@@ -3,19 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = ラストカル・チェインバース
-  | romaji_name           = 
-  | image                 = LastcalChainverse-RDKP24-JP-OP.png
-  | attribute             = WIND
-  | types                 = Galaxy / Effect
-  | level                 = 9
-  | atk                   = 1500
-  | def                   = 1500
-  | requirement           = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[pay]] 500 [[LP]].
-  | text                  = [[Draw a card|Draw]] 3 cards. Then, place 2 cards from your [[hand]] on the bottom of the [[Main Deck|Deck]] in any order. This [[turn]], you cannot [[activate]] the effect of "Lastcal Chainverse".
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name        = ラストカル・チェインバース
+  | romaji_name    = Rasutokaru Cheinbāsu
+  | image          = 
+  1; LastcalChainverse-RDKP24-JP-OP.png
+  2; LastcalChainverse-RDKP24-JP-OP-AA.png
+  | current_image  = 1
+  | attribute      = WIND
+  | types          = Galaxy / Effect
+  | level          = 9
+  | atk            = 1500
+  | def            = 1500
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[pay]] 500 [[LP]].
+  | text           = [[Draw a card|Draw]] 3 cards. Then, place 2 cards from your [[hand]] on the bottom of the [[Main Deck|Deck]] in any order. This [[turn]], you cannot [[activate]] the [[effect]] of "Lastcal Chainverse".
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP24-JPS00; Overforce of the Abyss; Super Rare, Over Rush Rare (Premium Black Version)
-  | database_id           = 
+  | mentions       = Lastcal Chainverse
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * You draw cards
+  * Places cards from the player's hand on the bottom of the Deck
+  | life_points    = Pays Life Points for cost
+  | misc           = Only once per turn
+  | database_id    = 
   }}
