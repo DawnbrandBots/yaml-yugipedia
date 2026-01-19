@@ -1,65 +1,68 @@
 title: Worm Apocalypse
 wikitext: |-
   {{CardTable2
-  | de_name      = Wurm Apokalypse
-  | ko_name      = 웜 어포컬립스
-  | fr_name      = Ver - Apocalypse
-  | it_name      = Verme Apocalisse
-  | pt_name      = Lombriga Apocalipse
-  | es_name      = Gusano Apocalipsis
-  | ja_name      = ワーム・アポカリプス
-  | romaji_name  = Wāmu Apokaripusu
-  | image        = WormApocalypse-BPW2-NA-C-1E.png
-  | attribute    = LIGHT
-  | types        = Reptile / Effect
-  | atk          = 300
-  | def          = 200
-  | level        = 1
-  | password     = 88650530
-  | effect_types = Flip
-  | text         = [[Flip effect|FLIP]]: [[Target]] 1 [[Spell Card|Spell]]/[[Trap Card]] on the [[field]]; [[destroy]] that target.
-  | fr_text      = FLIP : Ciblez 1 Carte Magie/Piège sur le Terrain ; détruisez la cible.
-  | de_text      = FLIPP: Wähle 1 Zauber-/Fallenkarte auf dem Spielfeld; zerstöre das gewählte Ziel.
-  | it_text      = SCOPRI: Scegli come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggi quel bersaglio.
-  | pt_text      = VIRE: Escolha 1 Card de Magia/Armadilha no campo; destrua o alvo.
-  | es_text      = VOLTEO: Selecciona 1 Carta Mágica/de Trampa en el Campo; destruye ese objetivo.
-  | ja_text      = リバース：フィールド上の魔法・罠カード１枚を選択して破壊する。
-  | ko_text      = 리버스 : 필드 위의 마법 또는 함정 카드 1장을 파괴한다.
-  | en_sets      = 
+  | de_name             = Wurm Apokalypse
+  | ko_name             = 웜 어포컬립스
+  | fr_name             = Ver - Apocalypse
+  | it_name             = Verme Apocalisse
+  | pt_name             = Lombriga Apocalipse
+  | es_name             = Gusano Apocalipsis
+  | ja_name             = ワーム・アポカリプス
+  | romaji_name         = Wāmu Apokaripusu
+  | image               = 
+  1;   WormApocalypse-DTC1-JP-DNPR-DT.jpg;     WormApocalypse-MADU-JP-VG-artwork.png
+  1.1; WormApocalypse-BPW2-NA-C-1E.png;        WormApocalypse-MADU-EN-VG-artwork.png
+  | current_image       = 1.1
+  | attribute           = LIGHT
+  | types               = Reptile / Effect
+  | atk                 = 300
+  | def                 = 200
+  | level               = 1
+  | password            = 88650530
+  | effect_types        = Flip
+  | text                = [[Flip effect|FLIP]]: [[Target]] 1 [[Spell Card|Spell]]/[[Trap Card]] on the [[field]]; [[destroy]] that target.
+  | fr_text             = FLIP : Ciblez 1 Carte Magie/Piège sur le Terrain ; détruisez la cible.
+  | de_text             = FLIPP: Wähle 1 Zauber-/Fallenkarte auf dem Spielfeld; zerstöre das gewählte Ziel.
+  | it_text             = SCOPRI: Scegli come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggi quel bersaglio.
+  | pt_text             = VIRE: Escolha 1 Card de Magia/Armadilha no campo; destrua o alvo.
+  | es_text             = VOLTEO: Selecciona 1 Carta Mágica/de Trampa en el Campo; destruye ese objetivo.
+  | ja_text             = リバース：フィールド上の魔法・罠カード１枚を選択して破壊する。
+  | ko_text             = 리버스 : 필드 위의 마법 또는 함정 카드 1장을 파괴한다.
+  | en_sets             = 
   HA01-EN017; Hidden Arsenal; Super Rare
   5DS3-EN009; Starter Deck: Duelist Toolbox; Common
-  | na_sets      = 
+  | na_sets             = 
   DT01-EN026; Duel Terminal 1; Duel Terminal Normal Parallel Rare
   BPW2-EN028; War of the Giants: Round 2; Common
-  | eu_sets      = 
+  | eu_sets             = 
   WGRT-EN028; War of the Giants Reinforcements; Common
-  | fr_sets      = 
+  | fr_sets             = 
   HA01-FR017; Hidden Arsenal; Super Rare
   5DS3-FR009; Starter Deck: Duelist Toolbox; Common
   WGRT-FR028; War of the Giants Reinforcements; Common
-  | de_sets      = 
+  | de_sets             = 
   HA01-DE017; Hidden Arsenal; Super Rare
   5DS3-DE009; Starter Deck: Duelist Toolbox; Common
   WGRT-DE028; War of the Giants Reinforcements; Common
-  | it_sets      = 
+  | it_sets             = 
   HA01-IT017; Hidden Arsenal; Super Rare
   5DS3-IT009; Starter Deck: Duelist Toolbox; Common
   WGRT-IT028; War of the Giants Reinforcements; Common
-  | pt_sets      = 
+  | pt_sets             = 
   WGRT-PT028; War of the Giants Reinforcements; Common
-  | sp_sets      = 
+  | sp_sets             = 
   HA01-SP017; Hidden Arsenal; Super Rare
   5DS3-SP009; Starter Deck: Duelist Toolbox; Common
   WGRT-SP028; War of the Giants Reinforcements; Common
-  | kr_sets      = 
+  | kr_sets             = 
   HA01-KR017; Hidden Arsenal; Super Rare
-  | jp_sets      = 
+  | jp_sets             = 
   DT01-JP026; Duel Terminal - Synchro Awakening!!; Duel Terminal Normal Parallel Rare
   DTC1-JP017; Duel Terminal Chronicle 1 - Chapter of Awakening; Duel Terminal Normal Parallel Rare
-  | archseries   = Worm
-  | action       = Activates upon being flipped face-up
-  | m/s/t        = 
+  | archseries          = Worm
+  | action              = Activates upon being flipped face-up
+  | m/s/t               = 
   * Destroys Spell Cards
   * Destroys Trap Cards
-  | database_id  = 7543
+  | database_id         = 7543
   }}

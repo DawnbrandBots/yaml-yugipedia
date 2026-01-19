@@ -1,56 +1,59 @@
 title: Trading Places
 wikitext: |-
   {{CardTable2
-  | fr_name      = Transfert de Places
-  | de_name      = Platztausch
-  | it_name      = Invertire i Posti
-  | ko_name      = 신분전환
-  | pt_name      = Trocar de Lugares
-  | es_name      = Trocando Lugares
-  | ja_name      = {{Ruby|身|み}}{{Ruby|分|ぶん}}{{Ruby|転|てん}}{{Ruby|換|かん}}
-  | romaji_name  = Mibuntenkan
-  | sc_name      = 身份对换
-  | image        = TradingPlaces-MP18-EN-C-1E.png
-  | card_type    = Spell
-  | property     = Quick-Play
-  | password     = 63875853
-  | effect_types = Effect
-  | text         = If your LP is higher than your opponent's, switch your [[LP]] with your opponent.
-  | fr_text      = Si vos LP sont supérieurs à ceux de votre adversaire, échangez vos LP avec ceux de votre adversaire.
-  | de_text      = Falls du mehr LP hast als dein Gegner, tausche deine LP mit deinem Gegner.
-  | it_text      = Se i tuoi LP sono superiori a quelli del tuo avversario, scambia i tuoi LP con quelli del tuo avversario.
-  | ko_text      = ① : 자신의 LP가 상대보다 많을 경우, 서로의 LP를 맞바꾼다.
-  | pt_text      = Se seus PV forem maiores que o do seu oponente, troque seus PV com os do seu oponente.
-  | es_text      = Si tus LP son mayores que los de tu adversario, intercámbialos con los de tu adversario.
-  | ja_text      = ①：自分のＬＰが相手より多い場合、お互いのＬＰを入れ替える。
-  | sc_text      = ①：自己的LP多于对手的情况下，对换双方的LP。
-  | en_sets      = 
+  | fr_name         = Transfert de Places
+  | de_name         = Platztausch
+  | it_name         = Invertire i Posti
+  | ko_name         = 신분전환
+  | pt_name         = Trocar de Lugares
+  | es_name         = Trocando Lugares
+  | ja_name         = {{Ruby|身|み}}{{Ruby|分|ぶん}}{{Ruby|転|てん}}{{Ruby|換|かん}}
+  | romaji_name     = Mibuntenkan
+  | sc_name         = 身份对换
+  | image           = 
+  1;   TradingPlaces-EXFO-JP-NR.png;     TradingPlaces-MADU-JP-VG-artwork.png
+  1.1; TradingPlaces-MP18-EN-C-1E.png;   TradingPlaces-MADU-EN-VG-artwork.png
+  | current_image   = 1.1
+  | card_type       = Spell
+  | property        = Quick-Play
+  | password        = 63875853
+  | effect_types    = Effect
+  | text            = If your LP is higher than your opponent's, switch your [[LP]] with your opponent.
+  | fr_text         = Si vos LP sont supérieurs à ceux de votre adversaire, échangez vos LP avec ceux de votre adversaire.
+  | de_text         = Falls du mehr LP hast als dein Gegner, tausche deine LP mit deinem Gegner.
+  | it_text         = Se i tuoi LP sono superiori a quelli del tuo avversario, scambia i tuoi LP con quelli del tuo avversario.
+  | ko_text         = ① : 자신의 LP가 상대보다 많을 경우, 서로의 LP를 맞바꾼다.
+  | pt_text         = Se seus PV forem maiores que o do seu oponente, troque seus PV com os do seu oponente.
+  | es_text         = Si tus LP son mayores que los de tu adversario, intercámbialos con los de tu adversario.
+  | ja_text         = ①：自分のＬＰが相手より多い場合、お互いのＬＰを入れ替える。
+  | sc_text         = ①：自己的LP多于对手的情况下，对换双方的LP。
+  | en_sets         = 
   EXFO-EN065; Extreme Force; Short Print
   MP18-EN212; 2018 Mega-Tin Mega Pack; Common
-  | fr_sets      = 
+  | fr_sets         = 
   EXFO-FR065; Extreme Force; Short Print
   MP18-FR212; 2018 Mega-Tin Mega Pack; Common
-  | de_sets      = 
+  | de_sets         = 
   EXFO-DE065; Extreme Force; Short Print
   MP18-DE212; 2018 Mega-Tin Mega Pack; Common
-  | it_sets      = 
+  | it_sets         = 
   EXFO-IT065; Extreme Force; Short Print
   MP18-IT212; 2018 Mega-Tin Mega Pack; Common
-  | pt_sets      = 
+  | pt_sets         = 
   EXFO-PT065; Extreme Force; Short Print
   MP18-PT212; 2018 Mega-Tin Mega Pack; Common
-  | sp_sets      = 
+  | sp_sets         = 
   EXFO-SP065; Extreme Force; Short Print
   MP18-SP212; 2018 Mega-Tin Mega Pack; Common
-  | jp_sets      = 
+  | jp_sets         = 
   EXFO-JP065; Extreme Force; Normal Rare
-  | kr_sets      = 
+  | kr_sets         = 
   EXFO-KR065; Extreme Force; Normal Rare
-  | sc_sets      = 
+  | sc_sets         = 
   MGP1-SC137; Mega Pack 01; Common
-  | life_points  = 
+  | life_points     = 
   * Requires specific LP
   * Changes your Life Points
   * Changes your opponent's Life Points
-  | database_id  = 13436
+  | database_id     = 13436
   }}
