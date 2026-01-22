@@ -12,15 +12,16 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = MercuriumtheLivingQuicksilver-OW.png
+  | image               = MercuriumtheLivingQuicksilver-BPRO-EN-1E-OP.png
   | attribute           = DARK
   | types               = Aqua / Xyz / Effect
   | rank                = 10
   | atk                 = 3000
   | def                 = 3000
   | password            = 
-  | effect_types        = 
-  | text                = {{quote|text=Mercurium the Living Quicksilver is a Rank 10 Xyz Monster (Aqua/DARK/ATK 3000/DEF 3000) that attaches a monster from your Deck to itself as material when it’s Xyz Summoned. And while Mercurium has material, your opponent cannot activate any monster effects in their Graveyard, if you have a monster with that same Attribute in YOUR Graveyard. Mercurium needs to be kept fed with new materials to keep this effect going, but as long as you can keep him satisfied, you’ll be able to shut down your opponent’s key strategies!|source=Blurb from [https://www.yugioh-card.com/en/products/bpro/ yugioh-card.com]}}
+  | materials           = 2 or more Level 10 monsters
+  | effect_types        = Trigger, Condition, Continuous, Trigger
+  | text                = 2+ [[Level]] 10 [[monsters]]<br />If this card is [[Xyz Summon]]ed: You can [[attach]] 1 monster from your [[Main Deck|Deck]] to this card as [[material]]. You can only use this effect of "Mercurium the Living Quicksilver" [[once per turn]]. While this card has material, your opponent cannot [[activate]] the [[effect]]s of monsters in their [[GY]] with the same [[Attribute]] as a monster in your GY. Once per turn, during the [[End Phase]]: [[Detach]] 1 material from this card or take 3000 [[Effect damage|damage]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -30,19 +31,29 @@ wikitext: |-
   | ko_text             = 
   | sc_text             = 
   | en_sets             = 
-  BPRO-EN0??; Burst Protocol; 
+  BPRO-EN084; Burst Protocol; Ultra Rare, Starlight Rare
   | fr_sets             = 
-  BPRO-FR0??; Burst Protocol; 
+  BPRO-FR084; Burst Protocol; Ultra Rare, Starlight Rare
   | de_sets             = 
-  BPRO-DE0??; Burst Protocol; 
+  BPRO-DE084; Burst Protocol; Ultra Rare, Starlight Rare
   | it_sets             = 
-  BPRO-IT0??; Burst Protocol; 
+  BPRO-IT084; Burst Protocol; Ultra Rare, Starlight Rare
   | pt_sets             = 
-  BPRO-PT0??; Burst Protocol; 
+  BPRO-PT084; Burst Protocol; Ultra Rare, Starlight Rare
   | sp_sets             = 
-  BPRO-SP0??; Burst Protocol; 
+  BPRO-SP084; Burst Protocol; Ultra Rare, Starlight Rare
   | action              = 
+  * Activates upon Xyz Summon
   * Attaches from your Deck as Xyz Material
+  * Applies effects if Xyz Material is attached
+  * Detaches Xyz Materials for effect
   | m/s/t               = Prevents activation of your opponent's Effect Monsters
+  | summoning           = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | life_points         = Damages you
+  | misc                = 
+  * Only once per turn
+  * Limited activations
   | database_id         = 
   }}
