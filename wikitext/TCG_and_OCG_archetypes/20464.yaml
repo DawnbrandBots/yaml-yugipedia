@@ -57,17 +57,20 @@ wikitext: |-
 
   The "Cyberdark" monsters' equipping effects are represented as cables connecting to the Dragon monster's head and locking the monster in place with their claws.
 
-  == Design ==
-  === Members ===
-  ==== Main Deck monsters ====
+  == Members ==
+  === [[Main Deck]] ===
   {| class="wikitable" style="text-align: center"
   ! Cyberdark
-  ! [[Type]]
   ! [[Battle]] effect
   |-
+  | [[Cyberdark Cannon|Cannon]]
+  | [[Send]] from [[Main Deck]]
+  |-
   | [[Cyberdark Chimera|Chimera]]
-  | rowspan="5" | [[Machine]]
   | -
+  |-
+  | [[Cyberdark Claw|Claw]]
+  | [[Send]] from [[Extra Deck]]
   |-
   | [[Cyberdark Edge|Edge]]
   | [[Direct attack]]
@@ -80,16 +83,9 @@ wikitext: |-
   |-
   | [[Cyberdark Wurm|Wurm]]
   | -
-  |-
-  | [[Cyberdark Cannon|Cannon]]
-  | rowspan="2" | [[Dragon]]
-  | [[Send]] from [[Main Deck]]
-  |-
-  | [[Cyberdark Claw|Claw]]
-  | [[Send]] from [[Extra Deck]]
   |}
 
-  ==== Fusion Monsters ====
+  === [[Extra Deck]] ===
   {| class="wikitable" style="text-align: center"
   ! Monster
   ! Visual [[Fusion Material]]s
@@ -97,11 +93,11 @@ wikitext: |-
   | [[Cyberdark Dragon]]
   | [[Cyberdark Horn]] + [[Cyberdark Edge]] + [[Cyberdark Keel]]
   |-
-  | [[Cyberdarkness Dragon]]
-  | [[Cyberdark Horn]] + [[Cyberdark Edge]] + [[Cyberdark Keel]] +<br/>[[Cyberdark Cannon]] + [[Cyberdark Claw]]
-  |-
   | [[Cyberdark End Dragon]]
   | [[Cyberdark Dragon]] + [[Cyber End Dragon]]
+  |-
+  | [[Cyberdarkness Dragon]]
+  | [[Cyberdark Horn]] + [[Cyberdark Edge]] + [[Cyberdark Keel]] +<br/>[[Cyberdark Cannon]] + [[Cyberdark Claw]]
   |}
 
   == Playing style ==
