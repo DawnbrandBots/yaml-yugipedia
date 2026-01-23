@@ -14,18 +14,18 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 狱神影精－朱诺璐多
-  | image                 = PowerPatronShadowSpiritJunordo-BLZD-JP-OP.png
+  | image                 = PowerPatronShadowSpiritJunordo-BLZD-JP-R.png
   | attribute             = DARK
   | types                 = Fiend / Pendulum / Effect
   | level                 = 10
   | pendulum_scale        = 1
   | atk                   = 300
   | def                   = 200
-  | password              = 
+  | password              = 10266279
   | pendulum_effect_types = Trigger-like, Condition
   | effect_types          = Condition, Ignition, Trigger, Condition
-  | pendulum_effect       = If a "[[Power Patron]]" and/or "[[Elvennotes]]" [[monster]](s) is [[Special Summon]]ed to your [[field]] while this card is in the [[Pendulum Zone]]: You can [[destroy]] this card, and if you do, [[Draw a card|draw]] 2 cards, then [[discard]] 1 card. You can only use this [[effect]] of "Power Patron Shadow Spirit Junordo" [[once per turn]].
-  | text                  = (This card is always treated as an "[[Elvennotes]]" card.)<br />You can [[banish]] ([[face-down]]) the top 3 cards of your [[Main Deck|Deck]]; [[destroy]] this card, and if you do, [[Special Summon]] 1 "[[Junora the Power Patron of Tuning]]" from your [[Extra Deck]] (this is treated as a [[Synchro Summon]]). If this card is added to your Extra Deck [[face-up]]: You can add 1 "[[Power Patron]]" or "Elvennotes" card from your face-up Extra Deck or [[GY]] to your [[hand]], except "Power Patron Shadow Spirit Junordo". You can only use each [[effect]] of "Power Patron Shadow Spirit Junordo" [[once per turn]].
+  | pendulum_effect       = If a "[[Power Patron]]" and/or "[[Elfnote]]" [[monster]](s) is [[Special Summon]]ed to your [[field]] while this card is in the [[Pendulum Zone]]: You can [[destroy]] this card, and if you do, [[Draw a card|draw]] 2 cards, then [[discard]] 1 card. You can only use this [[effect]] of "Power Patron Shadow Spirit Junordo" [[once per turn]].
+  | text                  = (This card is always treated as an "[[Elfnote]]" card.)<br />You can [[banish]] ([[face-down]]) the top 3 cards of your [[Main Deck|Deck]]; [[destroy]] this card, and if you do, [[Special Summon]] 1 "[[Junora the Power Patron of Tuning]]" from your [[Extra Deck]] (this is treated as a [[Synchro Summon]]). If this card is added to your Extra Deck [[face-up]]: You can add 1 "[[Power Patron]]" or "Elfnote" card from your face-up Extra Deck or [[GY]] to your [[hand]], except "Power Patron Shadow Spirit Junordo". You can only use each [[effect]] of "Power Patron Shadow Spirit Junordo" [[once per turn]].
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：このカードがＰゾーンに存在する状態で、自分フィールドに「獄神」モンスターか「エルフェンノーツ」モンスターが特殊召喚された場合に発動できる。このカードを破壊し、自分は２枚ドローする。その後、自分の手札を１枚選んで捨てる。
+  | ja_text               = このカード名はルール上「エルフェンノーツ」カードとしても扱う。このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：デッキの上からカード３枚を裏側で除外して発動できる。このカードを破壊し、ＥＸデッキから「調獄神ジュノーラ」１体をＳ召喚扱いで特殊召喚する。②：このカードがＥＸデッキに表側で加わった場合に発動できる。「獄神影精－ジュノルド」を除く、「獄神」カードか「エルフェンノーツ」カード１枚を自分のＥＸデッキ（表側）・墓地から手札に加える。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -50,10 +50,10 @@ wikitext: |-
   * Junora the Power Patron of Tuning
   * Power Patron Shadow Spirit Junordo
   | archseries            = 
-  * Elvennotes
+  * Elfnote
   * Power Patron
   | supports_archetypes   = 
-  * Elvennotes
+  * Elfnote
   * Power Patron
   | action                = 
   * Activates upon Special Summon
@@ -73,5 +73,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Only once per turn
   * Archetype condition
-  | database_id           = 
+  | database_id           = 22522
   }}

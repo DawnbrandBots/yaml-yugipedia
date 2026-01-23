@@ -21,7 +21,7 @@ wikitext: |-
   | pendulum_scale        = 1
   | atk                   = 300
   | def                   = 200
-  | password              = 
+  | password              = 17473466
   | pendulum_effect_types = Continuous-like, Condition
   | effect_types          = Condition, Ignition, Trigger, Condition
   | pendulum_effect       = When a [[monster effect]] [[activate]]d by your opponent in response to the activation of your "[[Power Patron]]" or "[[Artmage]]" monster's effect [[resolve]]s, you can [[negate]] that effect, then [[destroy]] this card. You can only use this [[effect]] of "Power Patron Shadow Beast Nervedo" [[once per turn]].
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：「獄神」モンスターか「アルトメギア」モンスターの効果の発動にチェーンして相手が発動したモンスターの効果の処理時に、その効果を無効にできる。その後、このカードを破壊する。
+  | ja_text               = このカード名はルール上「アルトメギア」カードとしても扱う。このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：デッキの上からカード３枚を裏側で除外して発動できる。このカードを破壊し、ＥＸデッキから「創獄神ネルヴァ」１体を融合召喚扱いで特殊召喚する。②：このカードがＥＸデッキに表側で加わった場合に発動できる。「獄神影獣－ネルヴェド」を除く、「獄神」モンスターか「アルトメギア」モンスター１体を自分のデッキ・ＥＸデッキ（表側）から特殊召喚する。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -70,5 +70,5 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Archetype condition
-  | database_id           = 
+  | database_id           = 22520
   }}

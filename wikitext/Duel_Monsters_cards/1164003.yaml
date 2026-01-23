@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 假形幻脸师
-  | image                 = TransientMasqueraderofIllusion-BLZD-JP-OP.png
+  | image                 = TransientMasqueraderofIllusion-BLZD-JP-C.png
   | attribute             = EARTH
   | types                 = Illusion / Effect
   | level                 = 8
   | atk                   = 2400
   | def                   = 0
-  | password              = 
+  | password              = 44694191
   | effect_types          = Trigger, Condition, Continuous, Ignition, Condition
   | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[send]] 1 [[Fiend]], [[Illusion]], or [[Spellcaster]] [[monster]] from your [[Main Deck|Deck]] to the [[GY]], then you can change this card's Type to the sent monster's original Type. You can only use this [[effect]] of "Transient Masquerader of Illusion" once per turn. If this card [[battle]]s a monster, neither can be [[destroyed by that battle]]. If this card is in your GY: You can [[banish]] 1 [[Spell]] from your GY; Special Summon this card. You can only use this effect of "Transient Masquerader of Illusion" once per Duel.
   | fr_text               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の、①の効果は１ターンに１度しか使用できず、③の効果はデュエル中に１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから悪魔族・幻想魔族・魔法使い族モンスター１体を墓地へ送る。その後、このカードの種族をこの効果で墓地へ送ったモンスターの元々の種族と同じにできる。②：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。③：このカードが墓地に存在する場合、自分の墓地から魔法カード１枚を除外して発動できる。このカードを特殊召喚する。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP023; Blazing Dominion; 
+  BLZD-JP023; Blazing Dominion; Common
   | sc_sets               = 
   BLZD-SC023; Blazing Dominion; 
   | supports              = 
@@ -53,5 +53,5 @@ wikitext: |-
   | misc                  = 
   * Only once per turn
   * Only once per Duel
-  | database_id           = 
+  | database_id           = 22532
   }}

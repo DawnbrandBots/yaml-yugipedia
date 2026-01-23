@@ -41,7 +41,25 @@ wikitext: |-
   BPRO-PT092; Burst Protocol; 
   | sp_sets             = 
   BPRO-SP092; Burst Protocol; 
+  | supports            = Fusion Monster
   | archseries          = GMX
   | supports_archetypes = GMX
+  | action              = 
+  * Activates upon Special Summon
+  * Places cards from the player's Graveyard on the top of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
+  * Activates upon Normal Summon
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Uses the player's banished cards as Fusion Materials
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Returns the player's banished cards to the Deck
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}

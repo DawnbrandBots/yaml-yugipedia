@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 特别时刻表
-  | image                 = ExceptionalSchedule-BLZD-JP-OP.png
+  | image                 = ExceptionalSchedule-BLZD-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 52782439
   | effect_types          = Effect, Ignition-like, Condition
   | text                  = [[Add a card|Add]] 1 "[[Special Schedule]]" or "[[Urgent Schedule]]" from your [[Main Deck|Deck]] to your [[hand]], then you can [[Special Summon]] 1 "[[Schedule Token]]" ([[Machine]]/[[EARTH]]/[[Level]] 10/[[ATK]] 3000/[[DEF]] 3000) to your opponent's [[field]]. You can [[banish]] this card from your [[GY]], then [[target]] 1 [[Level]] 10 Machine [[monster]] in your GY or [[banish]]ment; [[send]] 1 card you [[control]] to the GY, and if you do, Special Summon that monster. You can only use each [[effect]] of "Exceptional Schedule" [[once per turn]].
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「臨時ダイヤ」か「緊急ダイヤ」１枚を手札に加える。その後、相手フィールドに「ダイヤグラムトークン」（機械族・地・星１０・攻／守３０００）１体を特殊召喚できる。②：墓地のこのカードを除外し、自分の墓地・除外状態の機械族・レベル１０モンスター１体を対象として発動できる。自分フィールドのカード１枚を墓地へ送り、対象のモンスターを特殊召喚する。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP054; Blazing Dominion; 
+  BLZD-JP054; Blazing Dominion; Common
   | sc_sets               = 
   BLZD-SC054; Blazing Dominion; 
   | mentions              = 
@@ -48,5 +48,5 @@ wikitext: |-
   * Special Summons from your banishment
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22563
   }}

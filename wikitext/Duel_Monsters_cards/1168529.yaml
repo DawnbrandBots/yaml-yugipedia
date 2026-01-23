@@ -15,14 +15,14 @@ wikitext: |-
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－欲蛛 Atilε.SPIA
   | sc_translated_name    = Enneacraft - Spider of Greed Atilε.SPIA
-  | image                 = EnneacraftAtilSPIA-BLZD-JP-OP.png
+  | image                 = EnneacraftAtilSPIA-BLZD-JP-SR.png
   | attribute             = LIGHT
   | types                 = Machine / Pendulum / Flip / Effect
   | level                 = 9
   | pendulum_scale        = 0
   | atk                   = 3000
   | def                   = 2500
-  | password              = 
+  | password              = 71801447
   | pendulum_effect_types = Continuous-like, Trigger-like
   | effect_types          = Continuous, Quick, Ignition, Condition
   | pendulum_effect       = Each time a [[monster]](s) is flipped [[face-up]], place 1 [[E.C. Counter]] on this card. At the end of the [[Battle Phase]], if you have an "[[Enneacraft]]" card in your other [[Pendulum Zone]]: You can [[target]] 1 monster your opponent [[control]]s with less [[ATK]] than this card; [[destroy]] it.
@@ -37,14 +37,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    =  ①：モンスターがリバースする度に、このカードに糾罪カウンターを１つ置く。②：自分・相手のバトルフェイズ終了時、もう片方の自分のＰゾーンに「糾罪巧」カードが存在する場合、このカードより攻撃力が低い相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
-  | ja_text               = ①：手札のこのカードを相手に見せて発動できる（この効果を発動するターン、自分は裏側守備表示でしかモンスターを特殊召喚できない）。手札からモンスター１体を裏側守備表示で特殊召喚する。②：相手がチェーン３以降にカードの効果を発動した時、裏側表示のこのカードを表側守備表示にして発動できる。この効果の発動時に積まれているチェーン上全ての相手の効果の発動を無効にし破壊する。③：リバースしたこのカードがモンスターゾーンに存在する限り、相手は自身のカードの効果の発動に時してカードの効果に発動できない。
+  | ja_pendulum_effect    = ①：モンスターがリバースする度に、このカードに糾罪カウンターを１つ置く。②：自分・相手のバトルフェイズ終了時、もう片方の自分のＰゾーンに「糾罪巧」カードが存在する場合、このカードより攻撃力が低い相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
+  | ja_text               = ①：手札のこのカードを相手に見せて発動できる（この効果を発動するターン、自分は裏側守備表示でしかモンスターを特殊召喚できない）。手札からモンスター１体を裏側守備表示で特殊召喚する。②：相手がチェーン３以降にカードの効果を発動した時、裏側表示のこのカードを表側守備表示にして発動できる。この効果の発動時に積まれていたチェーン上の全ての相手の効果の発動を無効にし破壊する。③：リバースしたこのカードがモンスターゾーンに存在する限り、相手は自身のカードの効果の発動に対してカードの効果を発動できない。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 每当有怪兽反转，就在此卡上放1个纠罪计数物。②：在自己・对手的战斗阶段结束时，另一方自己的灵摆区域存在“纠罪巧”卡的情况下，以对手场上的1只攻击力低于此卡的怪兽为对象可以发动。将该怪兽破坏。
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP020; Blazing Dominion; 
+  BLZD-JP020; Blazing Dominion; Super Rare, Secret Rare
   | sc_sets               = 
   BLZD-SC020; Blazing Dominion; 
   | archseries            = Enneacraft
@@ -78,5 +78,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Chain Effects
   * Flip monster without a Flip effect
-  | database_id           = 
+  | database_id           = 22530
   }}

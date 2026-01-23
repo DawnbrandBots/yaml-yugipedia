@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 霸王暴龙 凶饿猛毒透翼龙
-  | image                 = StarvingVenomWingDragon-BLZD-JP-OP.png
+  | image                 = StarvingVenomWingDragon-BLZD-JP-UR.png
   | attribute             = DARK
   | types                 = Dragon / Fusion / Pendulum / Effect
   | level                 = 10
   | pendulum_scale        = 10
   | atk                   = 3300
   | def                   = 2500
-  | password              = 
+  | password              = 05148778
   | pendulum_effect_types = Continuous-like
   | materials             = 1 Fusion Monster + 1 "Clear Wing" monster
   | effect_types          = Trigger, Quick, Trigger
@@ -37,14 +37,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = ①：このカードがＰゾーンに存在する限り、相手フィールドにモンスターが特殊召喚される度に、そのモンスターに捕食カウンターを１つ置く。捕食カウンターが置かれたレベル２以上のモンスターのレベルは１になる。
+  | ja_text               = 融合モンスター＋「クリアウィング」モンスター<br />①：１ターンに１度、相手がモンスターを表側表示で特殊召喚した場合、その内の１体を対象として発動できる。ターン終了時まで、そのモンスターの攻撃力分だけこのカードの攻撃力をアップし、そのモンスターの効果は無効化される。②：１ターンに１度、このカード以外のカードの効果がフィールドで発動した時に発動できる。フィールドのカード１枚を破壊する。③：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP031; Blazing Dominion; Ultra Rare
+  BLZD-JP031; Blazing Dominion; Ultra Rare, Prismatic Secret Rare
   | sc_sets               = 
   BLZD-SC031; Blazing Dominion; 
   | supports              = Fusion Monster
@@ -72,5 +72,5 @@ wikitext: |-
   * Requires Fusion Monsters as Fusion Materials
   * Requires archetype specific Fusion Materials
   | misc                  = Limited activations
-  | database_id           = 
+  | database_id           = 22540
   }}

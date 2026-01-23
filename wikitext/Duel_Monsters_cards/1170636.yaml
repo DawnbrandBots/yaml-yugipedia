@@ -42,7 +42,18 @@ wikitext: |-
   BPRO-PT094; Burst Protocol; 
   | sp_sets             = 
   BPRO-SP094; Burst Protocol; 
+  | supports            = Dinosaur
   | archseries          = GMX
   | supports_archetypes = GMX
+  | m/s/t               = Destroys battling monster at the start of the Damage Step
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your banishment
+  | attack              = Cannot attack
+  | life_points         = You gain Life Points
+  | misc                = Only once per turn
   | database_id         = 
   }}

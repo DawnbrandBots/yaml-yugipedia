@@ -1,7 +1,5 @@
-title: Arsenal Organization
+title: Arsenal Audit
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name             = 무기창고 정리
   | ko_rr_name          = 
   | sc_name             = 武器库整理
-  | image               = ArsenalOrganization-BPRO-JP-C.png
+  | image               = ArsenalAudit-BPRO-JP-C.png
   | card_type           = Trap
   | property            = Normal
   | password            = 49652661
   | effect_types        = Effect, Quick-like, Condition
-  | text                = [[Send]] up to 2 [[Equip Spell]]s with different names from your [[Main Deck|Deck]] to the [[GY]]. You can [[banish]] this card from your GY, then [[target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] it with up to 2 [[Equip Spell]]s with different names from your [[hand]] and/or GY that can equip to it, but any [[battle damage]] it inflicts to your opponent is halved while equipped with any of those Equip Spells. You can only use 1 "Arsenal Organization" effect per turn, and only once that turn.
+  | text                = [[Send]] up to 2 [[Equip Spell]]s with different names from your [[Main Deck|Deck]] to the [[GY]]. You can [[banish]] this card from your GY, then [[target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] it with up to 2 [[Equip Spell]]s with different names from your [[hand]] and/or GY that can equip to it, but any [[battle damage]] it inflicts to your opponent is halved while equipped with a card by this [[effect]]. You can only use 1 "Arsenal Audit" effect per turn, and only once that turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text             = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：デッキから装備魔法カードを２枚まで墓地へ送る（同名カードは１枚まで）。②：墓地のこのカードを除外し、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターが装備可能な装備魔法カードを自分の手札・墓地から２枚までそのモンスターに装備する（同名カードは１枚まで）。この効果で装備魔法カードを装備している限り、そのモンスターが相手に与える戦闘ダメージは半分になる。
   | ko_text             = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 덱에서 장착 마법 카드를 2장까지 묘지로 보낸다(같은 이름의 카드는 1장까지). ②: 묘지의 이 카드를 제외하고, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터가 장착 가능한 장착 마법 카드를 자신의 패 / 묘지에서 2장까지 그 몬스터에 장착한다(같은 이름의 카드는 1장까지). 이 효과로 장착 마법 카드를 장착하고 있는 한, 그 몬스터가 상대에게 주는 전투 데미지는 절반이 된다.
   | sc_text             = 此卡名的①②效果1回合1次，仅可使用其中1个。①：从牌组将最多2张装备魔法卡送至墓地（同名卡最多1张）。②：将墓地的此卡除外，以自己场上的1只表侧表示怪兽为对象可以发动。从自己手牌・墓地将最多2张可装备于该怪兽的装备魔法卡装备于该怪兽（同名卡最多1张）。只要以此效果装备着装备魔法卡，该怪兽给予对手的战斗伤害变为一半。
+  | en_sets             = 
+  BPRO-EN078; Burst Protocol; Common
+  | fr_sets             = 
+  BPRO-FR078; Burst Protocol; Common
+  | de_sets             = 
+  BPRO-DE078; Burst Protocol; Common
+  | it_sets             = 
+  BPRO-IT078; Burst Protocol; Common
+  | pt_sets             = 
+  BPRO-PT078; Burst Protocol; Common
+  | sp_sets             = 
+  BPRO-SP078; Burst Protocol; Common
   | jp_sets             = 
   BPRO-JP078; Burst Protocol; Common
   | kr_sets             = 

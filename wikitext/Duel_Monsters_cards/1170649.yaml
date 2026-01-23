@@ -40,7 +40,19 @@ wikitext: |-
   BPRO-PT096; Burst Protocol; 
   | sp_sets             = 
   BPRO-SP096; Burst Protocol; 
+  | supports            = 
+  * Dinosaur
+  * Fusion Monster
   | archseries          = GMX
   | supports_archetypes = GMX
+  | action              = 
+  * Excavates from the player's Deck
+  * Uses excavated cards as Fusion Materials
+  * Shuffles excavated cards into the Deck
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | life_points         = You lose Life Points
+  | misc                = Only once per turn
   | database_id         = 
   }}

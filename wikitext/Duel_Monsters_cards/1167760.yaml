@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 狱神影机－宙格黎多
-  | image                 = PowerPatronShadowMachineZegredo-BLZD-JP-OP.png
+  | image                 = PowerPatronShadowMachineZegredo-BLZD-JP-R.png
   | attribute             = DARK
   | types                 = Machine / Pendulum / Effect
   | level                 = 10
   | pendulum_scale        = 1
   | atk                   = 300
   | def                   = 200
-  | password              = 
+  | password              = 43871165
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Ignition, Trigger, Condition
   | pendulum_effect       = During your [[Main Phase]]: You can [[destroy]] both this card and 1 "[[Power Patron]]" or "[[DoomZ]]" monster in your [[hand]] or [[face-up]] [[field]], then you can destroy 1 card on the [[field]]. You can only use this [[effect]] of "Power Patron Shadow Machine Zegredo" [[once per turn]].
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードと自分の手札・フィールド（表側表示）の「獄神」モンスターか「ドゥームズ」モンスター１体を破壊する。その後、フィールドのカード１枚を破壊できる。
+  | ja_text               = このカード名はルール上「ドゥームズ」カードとしても扱う。このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：デッキの上からカード３枚を裏側で除外して発動できる。このカードを破壊し、ＥＸデッキから「壊獄神ユピテル」１体をＸ召喚扱いで特殊召喚する。その後、自分の手札を１枚選んでそのＸ素材にできる。②：このカードがＥＸデッキに表側で加わった場合に発動できる。デッキから「獄神」魔法・罠カードか「ドゥームズ」魔法・罠カード１枚を手札に加える。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -74,5 +74,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Only once per turn
   * Archetype condition
-  | database_id           = 
+  | database_id           = 22521
   }}

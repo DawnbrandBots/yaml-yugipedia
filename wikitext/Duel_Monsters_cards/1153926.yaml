@@ -1,7 +1,5 @@
-title: Shichigosan Shugo
+title: Shichi-Go-San
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -9,17 +7,17 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = {{Ruby|死|し}}{{Ruby|地|ち}}{{Ruby|誤|ご}}{{Ruby|算|さん}}{{Ruby|守|しゅ}}{{Ruby|護|ご}}
-  | romaji_name         = Shichigosan Shugo
+  | romaji_name         = Shichi-Go-San
   | translated_name     = Grave Miscalculation Safeguard
   | ko_name             = 사지오산수호
   | ko_rr_name          = 
   | sc_name             = 死地误算守护
-  | image               = ShichigosanShugo-BPRO-JP-NR.png
+  | image               = ShichiGoSan-BPRO-JP-NR.png
   | card_type           = Trap
   | property            = Normal
   | password            = 11035075
   | effect_types        = Effect, Trigger-like, Continuous-like, Trigger-like
-  | text                = [[Special Summon]] 1 [[Level]]/[[Rank]] 1 [[monster]] from either [[GY]] to your [[field]], and if you do, [[equip]] this card to it. [[Once per turn]], during the [[End Phase]]: Increase the equipped monster's Level/Rank by 1. Apply these effects based on the equipped monster's Level/Rank.<br />● 3+: It gains ATK equal to its original ATK.<br />● 5+: It is unaffected by your opponent's activated effects.<br />Once per turn, during your [[Standby Phase]], if the equipped monster's Level/Rank is 7 or higher: [[Send]] all cards on the field to the GY.
+  | text                = [[Special Summon]] 1 [[Level]]/[[Rank]] 1 [[monster]] from either [[GY]] to your [[field]], and if you do, [[equip]] this card to it. [[Once per turn]], during the [[End Phase]]: Increase the equipped monster's Level/Rank by 1. Apply the following effects based on the equipped monster's Level/Rank.<br />● 3+: It gains ATK equal to its original ATK.<br />● 5+: It is unaffected by your opponent's activated effects.<br />Once per turn, during your [[Standby Phase]], if the equipped monster's Level/Rank is 7 or higher: [[Send]] all cards on the field to the GY.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text             = ①：自分か相手の墓地のレベル１かランク１のモンスター１体を自分フィールドに特殊召喚し、このカードを装備する。②：自分・相手のエンドフェイズに発動する。装備モンスターのレベル・ランクを１つ上げる。③：装備モンスターのレベル・ランクによって以下の効果を適用する。<br />●３以上：そのモンスターの攻撃力はその元々の攻撃力分アップする。<br />●５以上：そのモンスターは相手が発動した効果を受けない。<br />④：自分スタンバイフェイズに、装備モンスターのレベル・ランクが７以上の場合に発動する。フィールドのカードを全て墓地へ送る。
   | ko_text             = ①: 자신이나 상대 묘지의 레벨 1 이나 랭크 1 인 몬스터 1장을 자신 필드에 특수 소환하고, 이 카드를 장착한다. ②: 자신 / 상대의 엔드 페이즈에 발동한다. 장착 몬스터의 레벨 / 랭크를 1개 올린다. ③: 장착 몬스터의 레벨 / 랭크에 따라 이하의 효과를 적용한다.<br />●3 이상: 그 몬스터의 공격력은 그 원래 공격력만큼 올린다.<br />●5 이상: 그 몬스터는 상대가 발동한 효과를 받지 않는다.<br />④: 자신 스탠바이 페이즈에, 장착 몬스터의 레벨 / 랭크가 7 이상일 경우에 발동한다. 필드의 카드를 전부 묘지로 보낸다.
   | sc_text             = ①：将自己或对手墓地的1只等级1或阶级1的怪兽特殊召唤至自己场上，装备此卡。②：在自己・对手的结束阶段发动。装备怪兽的等级・阶级上升1。③：根据装备怪兽的等级・阶级，适用以下效果。<br />●3以上：该怪兽的攻击力上升相当于其原本攻击力的数值。<br />●5以上：该怪兽不受对手发动的效果影响。<br />④：在自己的准备阶段，装备怪兽的等级・阶级在7以上的情况下发动。将场上的卡全部送至墓地。
+  | en_sets             = 
+  BPRO-EN080; Burst Protocol; Common
+  | fr_sets             = 
+  BPRO-FR080; Burst Protocol; Common
+  | de_sets             = 
+  BPRO-DE080; Burst Protocol; Common
+  | it_sets             = 
+  BPRO-IT080; Burst Protocol; Common
+  | pt_sets             = 
+  BPRO-PT080; Burst Protocol; Common
+  | sp_sets             = 
+  BPRO-SP080; Burst Protocol; Common
   | jp_sets             = 
   BPRO-JP080; Burst Protocol; Normal Rare
   | kr_sets             = 

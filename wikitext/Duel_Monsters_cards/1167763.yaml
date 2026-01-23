@@ -22,7 +22,7 @@ wikitext: |-
   | pendulum_scale        = 11
   | atk                   = 5000
   | def                   = 0
-  | password              = 
+  | password              = 70488851
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Summoning condition, Trigger, Condition, Trigger, Continuous
   | pendulum_effect       = You can [[activate]] 1 of these [[effect]]s;<br />● [[Destroy]] this card, and if you do, [[Special Summon]] 1 "[[Power Patron]]" [[monster]] from your [[hand]] or [[GY]].<br />● Destroy this card, also this [[turn]], "Power Patron" monsters you [[control]] whose [[original Level]] is 12 gain 5000 [[ATK]].<br />You can only use this [[effect]] of "Vidrium the Power Patron of Chaos Extermination" [[once per turn]].
@@ -37,14 +37,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。●このカードを破壊し、自分の手札・墓地から「獄神」モンスター１体を特殊召喚する。●このカードを破壊する。このターン中、自分フィールドの元々のレベルが１２の「獄神」モンスターの攻撃力は５０００アップする。
+  | ja_text               = このカードは通常召喚できない。融合・Ｓ・Ｘモンスターを１体ずつ、自分のフィールド（表側表示）・墓地からＥＸデッキに戻した場合のみＥＸデッキ・墓地から特殊召喚できる。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードがＥＸデッキに表側で加わった場合に発動できる。デッキから「獄神」カード１枚を手札に加える。②：このカードが特殊召喚した場合に発動する。お互いの墓地のカードを全て裏側で除外する。③：フィールドのこのカードは「獄神」モンスター以外のモンスターの効果を受けない。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP010; Blazing Dominion; Ultra Rare
+  BLZD-JP010; Blazing Dominion; Ultra Rare, Prismatic Secret Rare
   | sc_sets               = 
   BLZD-SC010; Blazing Dominion; 
   | supports              = 
@@ -78,5 +78,5 @@ wikitext: |-
   | misc                  = 
   * Variable effects
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22519
   }}

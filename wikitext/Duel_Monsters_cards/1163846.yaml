@@ -14,14 +14,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 死亡女后恶魔
-  | image                 = DoomReginaArchfiend-BLZD-JP-OP.png
+  | image                 = DoomReginaArchfiend-BLZD-JP-R.png
   | attribute             = LIGHT
   | types                 = Fiend / Ritual / Pendulum / Effect
   | level                 = 7
   | pendulum_scale        = 9
   | atk                   = 2100
   | def                   = 2900
-  | password              = 
+  | password              = 78744660
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Summoning condition, Summoning condition, Trigger, Condition, Continuous
   | pendulum_effect       = You can [[target]] 1 "[[Archfiend]]" [[Spell]]/[[Trap]] in your [[GY]] or [[banish]]ment; [[destroy]] this card, and if you do, [[Add a card|add]] the targeted card to your [[hand]]. You can only use this [[effect]] of "Doom Regina Archfiend" [[once per turn]].
@@ -36,14 +36,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の墓地・除外状態の「デーモン」魔法・罠カード１枚を対象として発動できる。このカードを破壊し、対象のカードを手札に加える。
+  | ja_text               = 「スローン・オブ・デーモンズ」により降臨<br />このカードは儀式召喚でしか特殊召喚できない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが儀式召喚した場合に発動できる。相手フィールドの魔法・罠カードを全て破壊する。このカードがＥＸモンスターゾーンに存在する場合、さらに相手の墓地の魔法・罠カードを全て除外できる。②：ＥＸモンスターゾーンのこのカードは他のモンスターの効果を受けない。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP030; Blazing Dominion; Rare
+  BLZD-JP030; Blazing Dominion; Rare, Secret Rare
   | sc_sets               = 
   BLZD-SC030; Blazing Dominion; 
   | mentions              = Throne of Archfiends
@@ -61,5 +61,5 @@ wikitext: |-
   | summoning             = Nomi
   | banished              = Banishes from your opponent's Graveyard
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22539
   }}

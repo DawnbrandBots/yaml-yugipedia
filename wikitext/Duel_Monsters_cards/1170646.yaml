@@ -41,6 +41,24 @@ wikitext: |-
   BPRO-PT093; Burst Protocol; 
   | sp_sets             = 
   BPRO-SP093; Burst Protocol; 
+  | supports            = 
+  * Dinosaur
+  * Fusion Monster
   | supports_archetypes = GMX
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Activates if sent to the Graveyard
+  | stat_change         = Your monsters gain ATK
+  | summoning           = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}
