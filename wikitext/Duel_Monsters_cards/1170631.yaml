@@ -41,7 +41,24 @@ wikitext: |-
   BPRO-PT090; Burst Protocol; 
   | sp_sets             = 
   BPRO-SP090; Burst Protocol; 
+  | supports            = 
+  * Dinosaur
+  * Fusion Summon
+  | anti-supports       = 
+  * Dinosaur
+  * Fusion Summon
   | archseries          = GMX
   | supports_archetypes = GMX
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Returns itself from field to Deck
+  | m/s/t               = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning           = Special Summons from your Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
