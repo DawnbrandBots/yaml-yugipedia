@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 召唤冲击
-  | image                 = SummonShock-BLZD-JP-OP.png
+  | image                 = SummonShock-BLZD-JP-C.png
   | card_type             = Trap
   | property              = Continuous
-  | password              = 
+  | password              = 42719764
   | effect_types          = Continuous, Trigger-like
   | text                  = Each time a [[monster]](s) is Normal or [[Special Summon]]ed, place 1 [[Summon Counter]] on this card (max. 4). If the 4th Summon Counter is placed on this card: Remove all Summon Counters from this card, and if you do, [[send]] all monsters on the [[field]] to the [[GY]].
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = ①：モンスターが召喚・特殊召喚される度に、このカードにサモンカウンターを１つ置く（最大４つまで）。②：このカードにサモンカウンターが置かれ、そのサモンカウンターの数が４つになった場合に発動する。このカードのサモンカウンターを全て取り除き、フィールドのモンスターを全て墓地へ送る。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP078; Blazing Dominion; 
+  BLZD-JP078; Blazing Dominion; Common
   | sc_sets               = 
   BLZD-SC078; Blazing Dominion; 
   | related_to_archseries = Summon Restriction
@@ -40,5 +40,5 @@ wikitext: |-
   | action                = 
   * Sends from your field to your Graveyard
   * Sends from your opponent's field to your opponent's Graveyard
-  | database_id           = 
+  | database_id           = 22587
   }}

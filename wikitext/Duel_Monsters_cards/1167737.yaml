@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 神艺厚涂－夺还－
-  | image                 = ArtmageImpastoRecapture-BLZD-JP-OP.png
+  | image                 = ArtmageImpastoRecapture-BLZD-JP-C.png
   | card_type             = Trap
   | property              = Counter
-  | password              = 
+  | password              = 44654994
   | effect_types          = Condition, Effect, Condition
   | text                  = If you [[control]] an "[[Artmage]]" [[monster]], you can [[activate]] this card the turn it was [[Set]]. When your opponent activates a [[monster effect]]: [[Banish]] 1 [[Fusion Monster]] you control (until the [[End Phase]]), and if you do, [[negate]] the activation, and if you do that, [[destroy]] that card, then if you have 3 or more different [[Type|Monster Types]] on your [[field]], you can [[return]] all [[Spells]]/[[Traps]] your opponent controls to the [[hand]]. You can only activate 1 "Artmage Impasto -Recapture-" per turn.
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。自分フィールドに「アルトメギア」モンスターが存在する場合、このカードはセットしたターンでも発動できる。①：相手がモンスターの効果を発動した時に発動できる。自分フィールドの融合モンスター１体をエンドフェイズまで除外し、その発動を無効にし破壊する。その後、自分フィールドのモンスターの種族が３種類以上の場合、相手フィールドの魔法・罠カードを全て手札に戻す事ができる。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BLZD-JP072; Blazing Dominion; 
+  BLZD-JP072; Blazing Dominion; Common
   | sc_sets               = 
   BLZD-SC072; Blazing Dominion; 
   | supports              = Fusion Monster
@@ -47,5 +47,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22581
   }}

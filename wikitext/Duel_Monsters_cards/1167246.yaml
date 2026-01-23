@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 二选一
-  | image               = OneofTwo-BLZD-JP-OP.png
+  | image               = OneofTwo-BLZD-JP-NR.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 71275181
   | effect_types        = Effect
   | text                = [[Reveal]] 1 [[monster]] and 2 [[Traps]] from your [[Main Deck|Deck]], your opponent randomly picks 1, you look at the rest and [[banish]] 1 Trap, then your opponent chooses 1 of these effects for you to apply.<br />● Show the picked card, and if it is a monster, either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it. Otherwise, banish it. Shuffle the remaining card into the Deck.<br />● Show the card that was not picked nor banished, and if it is a monster, add it to your hand. Otherwise, banish it. Shuffle the remaining card into the Deck.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = ①：モンスター１体と罠カード２枚をデッキから相手に見せ、相手はその中からランダムに１枚選ぶ。自分は残りのカードを確認し、その内の罠カード１枚を除外する。その後、相手は以下から１つを選び、自分はその効果を適用する。<br />●相手が選んだカードをお互いに確認し、モンスターだった場合、手札に加えるか特殊召喚する。違った場合、除外する。残りをデッキに戻す。<br />●相手が選ばなかったカードの内、除外しなかったカードをお互いに確認し、モンスターだった場合、手札に加える。違った場合、除外する。残りをデッキに戻す。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  BLZD-JP070; Blazing Dominion; 
+  BLZD-JP070; Blazing Dominion; Normal Rare
   | sc_sets             = 
   BLZD-SC070; Blazing Dominion; 
   | action              = 
@@ -38,5 +38,5 @@ wikitext: |-
   | summoning           = Special Summons from your Deck
   | banished            = Banishes from your Deck
   | misc                = Variable effects
-  | database_id         = 
+  | database_id         = 22579
   }}
