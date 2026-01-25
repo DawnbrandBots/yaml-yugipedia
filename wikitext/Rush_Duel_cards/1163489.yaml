@@ -12,12 +12,27 @@ wikitext: |-
   | level           = 4
   | atk             = 0
   | def             = 1400
-  | requirement     = If you have another [[face-up]] [[LIGHT]] [[Attribute]] [[Aqua]] [[Type]] [[monster]] on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Make 1 face-up monster on your opponent's field lose 500 [[ATK]]/[[DEF]] until the end of this [[turn]]. Then, if you have "[[Grace Princess Kana]]" face-up on your field, you can change the [[battle position]] of up to 2 monsters on your opponent's field.
+  | requirement     = If you have another [[face-up]] [[LIGHT]] [[Attribute]] [[Aqua]] [[Type]] [[Monster Card|monster]] on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = Make 1 face-up monster on your opponent's field lose 500 [[ATK]]/[[DEF]] until the end of this [[turn]]. Then, if you have "[[Grace Princess Kana]]" face-up on your field, you can [[Battle position change|change]] the [[battle position]] of up to 2 monsters on your opponent's field.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP020; Overforce of the Abyss; Rare
+  | mentions        = Grace Princess Kana
+  | supports        = 
+  * LIGHT
+  * Aqua
   | archseries      = Grace Princess
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change     = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific card
   | database_id     = 
   }}

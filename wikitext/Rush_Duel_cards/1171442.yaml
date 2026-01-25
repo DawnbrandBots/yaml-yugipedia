@@ -16,16 +16,27 @@ wikitext: |-
   * Strain the Noodle Ninja
   * Flavor Inspector
   | materials       = "[[Strain the Noodle Ninja]]" + "[[Flavor Inspector]]"
-  | requirement     = [[Shuffle]] 3 [[Pyro]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text            = This [[turn]], this card can [[attack directly]]. Then, you can change 1 [[Attack Position]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
+  | requirement     = [[Shuffle]] 3 [[Pyro]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = This [[turn]], this card can [[attack]] [[Direct attack|directly]]. Then, you can [[Battle position change|change]] 1 [[Attack Position]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP035; Overforce of the Abyss; Common
   | mentions        = 
-  * Spice the Elite Noodle Ninja
+  * Strain the Noodle Ninja
   * Flavor Inspector
+  | supports        = Pyro
   | archseries      = Noodle Ninja
+  | action          = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | attack          = Direct attacker
   | database_id     = 
   }}

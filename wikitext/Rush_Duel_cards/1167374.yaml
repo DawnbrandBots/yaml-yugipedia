@@ -11,12 +11,20 @@ wikitext: |-
   | level          = 2
   | atk            = 800
   | def            = 1200
-  | requirement    = Change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | text           = This [[turn]], this face-up card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[monster]] in [[Attack Position]]. Then, you can make 1 face-up monster on your opponent's [[field]] become Insect Type until the end of this turn.
+  | requirement    = [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | text           = This [[turn]], this face-up card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[LIGHT]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]] in [[Attack Position]]. Then, you can make 1 face-up monster on your opponent's [[field]] become Insect Type until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP025; Overforce of the Abyss; Super Rare
+  | supports       = 
+  * LIGHT
+  * Insect
   | archseries     = Delirium
+  | action         = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  | stat_change    = Changes Type
+  | summoning      = Treated as multiple Tributes
   | database_id    = 
   }}

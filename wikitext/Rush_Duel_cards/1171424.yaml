@@ -9,13 +9,23 @@ wikitext: |-
   | image           = LovelyClean-RDKP24-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
-  | text            = Make up to 3 [[face-up]] [[Fairy]] [[Type]] monsters with 0 [[original ATK]] on your [[field]] gain 1000 [[ATK]] until the end of this [[turn]]. Then, if you have "[[All Love Goddess]]" face-up on your field, you can [[return]] 1 monster from your opponent's field to the [[owner]]'s [[hand]].
+  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | text            = Make up to 3 [[face-up]] [[Fairy]] [[Type]] monsters with 0 [[Original ATK and DEF|original ATK]] on your [[field]] gain 1000 [[ATK]] until the end of this [[turn]]. Then, if you have "[[All Love Goddess]]" face-up on your field, you can [[return]] 1 monster from your opponent's field to the [[owner]]'s [[hand]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
-  RD/KP24-JP063; Overforce of the Abyss; Ultra Rare, Over Rush Rare
+  RD/KP24-JP063; Overforce of the Abyss; Rare
   | mentions        = All Love Goddess
+  | supports        = Fairy
   | archseries      = Lovely
+  | action          = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change     = Your monsters gain ATK
+  | misc            = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Requires control of specific card
   | database_id     = 
   }}

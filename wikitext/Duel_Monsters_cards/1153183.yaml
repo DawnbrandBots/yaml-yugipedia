@@ -1,6 +1,5 @@
-title: Magnet Warrior Σ＋
+title: Magnet Warrior Sigma Plus
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -9,10 +8,11 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|磁石の戦士Σ＋|マグネット・ウォリアー・シグマプラス}}
   | romaji_name           = Magunetto Woriā Shiguma Purasu
+  | translated_name       = Magnet Warrior Σ+
   | ko_name               = 마그넷 워리어 Σ＋
   | ko_rr_name            = 
   | sc_name               = 磁石战士西格玛＋
-  | image                 = MagnetWarriorΣ＋-BPRO-JP-C.png
+  | image                 = MagnetWarriorSigmaPlus-BPRO-JP-C.png
   | attribute             = EARTH
   | types                 = Rock / Effect
   | level                 = 4
@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 51826619
   | effect_types          = Continuous, Continuous, Trigger, Condition
-  | text                  = While you [[control]] an [[EARTH]] [[monster]], your opponent's monsters that can [[attack]] must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack [[target]]s for your opponent's attacks. If this card is [[send|sent]] to the [[GY]]: You can target 1 [[Level]] 4 or lower "[[Magnet Warrior]]" monster in your GY, except "Magnet Warrior Σ＋"; [[add]] it to your [[hand]] or [[Special Summon]] it. You can only use this [[effect]] of "Magnet Warrior Σ＋" [[once per turn]].
+  | text                  = While you [[control]] an [[EARTH]] [[monster]], your opponent's monsters that can [[attack]] must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack [[target]]s for your opponent's attacks. If this card is [[send|sent]] to the [[GY]]: You can target 1 [[Level]] 4 or lower "[[Magnet Warrior]]" monster in your GY, except "Magnet Warrior Sigma Plus"; [[add]] it to your [[hand]] or [[Special Summon]] it. You can only use this [[effect]] of "Magnet Warrior Sigma Plus" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -29,13 +29,25 @@ wikitext: |-
   | ja_text               = このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドに地属性モンスターが存在する限り、攻撃可能な相手モンスターは地属性モンスターを攻撃しなければならない。②：相手フィールドに地属性モンスターが存在する限り、相手が自身のモンスターの攻撃対象を選択する際、その攻撃対象は自分が選択する。③：このカードが墓地へ送られた場合、「磁石の戦士Σ＋」を除く、自分の墓地のレベル４以下の「マグネット・ウォリアー」モンスター１体を対象として発動できる。そのモンスターを手札に加えるか特殊召喚する。
   | ko_text               = 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 땅 속성 몬스터가 존재하는 한, 공격 가능한 상대 몬스터는 땅 속성 몬스터를 공격해야 한다. ②: 상대 필드에 땅 속성 몬스터가 존재하는 한, 상대가 자신 몬스터의 공격 대상을 선택할 시기에, 그 공격 대상은 자신이 선택한다. ③: 이 카드가 묘지로 보내졌을 경우, "마그넷 워리어 Σ＋(플러스)"가 아닌, 자신 묘지의 레벨 4 이하의 "마그넷 워리어" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣거나 특수 소환한다.
   | sc_text               = 此卡名的③效果1回合仅可使用1次。①：只要自己场上存在地属性怪兽，可攻击的对手怪兽必须攻击地属性怪兽。②：只要对手场上存在地属性怪兽，对手要选择自身的怪兽的攻击对象之际，该攻击对象由自己来选择。③：此卡被送至墓地的情况下，以除“磁石战士西格玛＋”以外的、自己墓地的1只等级4以下的“磁石战士”怪兽为对象可以发动。将该怪兽加入手牌或特殊召唤。
+  | en_sets               = 
+  BPRO-EN005; Burst Protocol; Common
+  | fr_sets               = 
+  BPRO-FR005; Burst Protocol; Common
+  | de_sets               = 
+  BPRO-DE005; Burst Protocol; Common
+  | it_sets               = 
+  BPRO-IT005; Burst Protocol; Common
+  | pt_sets               = 
+  BPRO-PT005; Burst Protocol; Common
+  | sp_sets               = 
+  BPRO-SP005; Burst Protocol; Common
   | jp_sets               = 
   BPRO-JP005; Burst Protocol; Common
   | kr_sets               = 
   BPRO-KR005; Burst Protocol; Common
   | sc_sets               = 
   BPRO-SC005; Burst Protocol; Common
-  | mentions              = Magnet Warrior Σ＋
+  | mentions              = Magnet Warrior Sigma Plus
   | supports              = EARTH
   | anti-supports         = EARTH
   | supports_archetypes   = Magnet Warrior
@@ -43,7 +55,7 @@ wikitext: |-
   | archseries            = 
   * Magnet 
   * Magnet Warrior
-  * Magnet Warrior Σ
+  * Magnet Warrior Sigma
   | action                = 
   * Activates if sent to the Graveyard
   * Adds from Graveyard to hand

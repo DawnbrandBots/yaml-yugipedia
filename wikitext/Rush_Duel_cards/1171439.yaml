@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name         = {{Ruby|火|か}}{{Ruby|麺|めん}}{{Ruby|特|とく}}{{Ruby|忍|にん}}ゴックブート・ノウコウ{{Ruby|弐|に}}{{Ruby|星|ほし}}
   | romaji_name     = Kamen Tokunin Gokkubūto Noukou Nihoshi
-  | translated_name = Gockboot Noukou Two Star the Masked Fiery Noodle Special Shinobi
+  | translated_name = Gockboot Tasty Two Stars the Masked Fiery Noodle Special Shinobi
   | image           = ExcellentSpicetheSpecialNoodleNinja-RDKP24-JP-OP.png
   | attribute       = FIRE
   | types           = Pyro / Fusion / Effect
@@ -17,7 +17,7 @@ wikitext: |-
   * Flavor Inspector
   | materials       = "[[Spice the Elite Noodle Ninja]]" + "[[Flavor Inspector]]"
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = [[Special Summon]] 1 [[Level]] 7 [[Pyro]] [[Type]] [[monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you Special Summoned "Spice the Elite Noodle Ninja" by this [[effect]], you can [[destroy]] 1 card on your opponent's field.
+  | text            = [[Special Summon]] 1 [[Level]] 7 [[Pyro]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. If you Special Summoned "Spice the Elite Noodle Ninja" by this [[effect]], you can [[destroy]] 1 card on your opponent's field.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,19 @@ wikitext: |-
   | mentions        = 
   * Spice the Elite Noodle Ninja
   * Flavor Inspector
+  | supports        = Pyro
   | archseries      = Noodle Ninja
+  | action          = Activates during the turn in which it was Fusion Summoned
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Special Summons from your Graveyard
+  | misc            = Requires control of specific card
   | database_id     = 
   }}

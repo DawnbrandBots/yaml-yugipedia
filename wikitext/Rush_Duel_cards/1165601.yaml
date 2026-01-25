@@ -13,12 +13,19 @@ wikitext: |-
   | atk             = 0
   | def             = 0
   | requirement     = [[Send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
-  | text            = This card gains 1800 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this [[effect]] during the turn you [[Normal Summon]]ed this card, you can [[Add a card|add]] 1 [[Level]] 7 or higher [[Fairy]] [[Type]] monster with 0 [[ATK]] or 1 "[[Lovely Clean]]" from your Graveyard to your hand.
+  | text            = This card gains 1800 [[ATK]] until the end of your opponent's next [[turn]]. Then, if you [[activate]]d this [[effect]] during the turn you [[Normal Summon]]ed this card, you can [[Add a card|add]] 1 [[Level]] 7 or higher [[Fairy]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]] or 1 "[[Lovely Clean]]" from your Graveyard to your hand.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP019; Overforce of the Abyss; Ultra Rare, Over Rush Rare
   | mentions        = Lovely Clean
+  | supports        = Fairy
   | archseries      = Lovely
+  | action          = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change     = This card gains ATK
+  | misc            = Turn limited effects
   | database_id     = 
   }}

@@ -13,12 +13,16 @@ wikitext: |-
   | atk             = 1200
   | def             = 900
   | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text            = Add 1 "[[Takeout Attack]]" from your [[Graveyard]] to your [[hand]].
+  | text            = [[Add a card|Add]] 1 "[[Takeout Attack]]" from your [[Graveyard]] to your [[hand]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP022; Overforce of the Abyss; Common
   | mentions        = Takeout Attack
   | archseries      = Hungry
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
   | database_id     = 
   }}
