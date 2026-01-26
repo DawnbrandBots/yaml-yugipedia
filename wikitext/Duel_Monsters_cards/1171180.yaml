@@ -38,6 +38,15 @@ wikitext: |-
   BPRO-PT086; Burst Protocol; Common
   | sp_sets             = 
   BPRO-SP086; Burst Protocol; Common
+  | supports            = Aqua
   | archseries          = Frog
+  | action              = 
+  * Sends from field to Graveyard
+  * Activates if destroyed while Set
+  * Sets itself from your Graveyard
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id         = 
   }}
