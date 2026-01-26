@@ -19,6 +19,7 @@ wikitext: |-
   | atk                 = 3000
   | def                 = 2800
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Continuous, Condition, Ignition, Condition, Trigger
   | text                = 1 [[Tuner]] + 1+ non-Tuners<br />Your opponent cannot [[target]] this card with card [[effect]]s. You can only use each of the following effects of "Storm-Bane Dragon Destorbim" [[once per turn]]. You can [[banish]] any number of [[DARK]] [[monsters]] from your [[GY]] that cannot be [[Normal Summon]]ed/[[Set]]; banish that many cards your opponent [[control]]s. This is a [[Quick Effect]] if your opponent controls more cards than you do. If this card is [[sent]] to the GY: You can [[Special Summon]] 1 of your banished [[Dragon]] monsters.
   | fr_text             = 
@@ -41,5 +42,21 @@ wikitext: |-
   BPRO-PT089; Burst Protocol; Common
   | sp_sets             = 
   BPRO-SP089; Burst Protocol; Common
+  | supports            = 
+  * DARK
+  * Special Summon Monster
+  * Dragon
+  | action              = Activates if sent to the Graveyard
+  | m/s/t               = Cannot be targeted by card effects
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your banishment
+  | banished            = 
+  * Banishes from Graveyard for cost
+  * Banishes from your opponent's field
+  | misc                = 
+  * Only once per turn
+  * Can be activated during either player's turn
   | database_id         = 
   }}

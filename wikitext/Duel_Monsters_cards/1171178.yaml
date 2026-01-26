@@ -19,6 +19,7 @@ wikitext: |-
   | atk                 = 2700
   | def                 = 1800
   | password            = 
+  | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Trigger, Condition, Trigger
   | text                = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: You can [[send]] 1 [[Machine]] [[Tuner]] from your [[Main Deck|Deck]] to the [[GY]], or if you [[control]] a [[monster]] whose current [[Level]] is different from its [[original Level]], you can Special Summon it instead. You can only use this [[effect]] of "Jade Dragon Mech" once per turn. If this [[Synchro Summon]]ed card is destroyed by card effect and sent to the GY: You can [[banish]] any number of Tuners from your GY, then [[target]] that many cards on the [[field]]; [[destroy]] them.
   | fr_text             = 
@@ -41,5 +42,23 @@ wikitext: |-
   BPRO-PT082; Burst Protocol; Super Rare
   | sp_sets             = 
   BPRO-SP082; Burst Protocol; Super Rare
+  | supports            = 
+  * Machine
+  * Tuner monster
+  | action              = 
+  * Activates upon Special Summon
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed by card effect
+  * Activates if sent to the Graveyard
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Deck
+  | banished            = Banishes from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}
