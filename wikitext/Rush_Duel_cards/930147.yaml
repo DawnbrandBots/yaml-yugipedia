@@ -1,30 +1,31 @@
 title: The Emperor Realm
 wikitext: |-
   {{CardTable2
-  | ja_name        = エンペラー・レルム
-  | romaji_name    = Enperā Rerumu
-  | ko_name        = 엠페러 렐름
-  | image          = TheEmperorRealm-RDSD0F-JP-C.png
-  | card_type      = Spell
-  | property       = Field
-  | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = While this card is [[face-up]] in the [[Field Zone]], face-up [[Level]] 5 or higher [[Monster Card|monster]]s with 1000 [[Original ATK and DEF|original DEF]] on the [[field]] gains 400 [[ATK]].
-  | ja_requirement = このカードは、デッキの上からカード２枚を墓地へ送って発動できる。
-  | ja_text        = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が１０００の表側表示モンスター（レベル５以上）の攻撃力は４００アップする。
-  | ko_requirement = 이 카드는, 덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
-  | ko_text        = 이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 원래 수비력이 1000 인 앞면 표시 몬스터(레벨 5 이상)의 공격력은 400 올린다.
-  | jp_sets        = 
+  | ja_name         = エンペラー・レルム
+  | romaji_name     = Enperā Rerumu
+  | translated_name = Emperor Realm
+  | ko_name         = 엠페러 렐름
+  | image           = TheEmperorRealm-RDSD0F-JP-C.png
+  | card_type       = Spell
+  | property        = Field
+  | requirement     = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = While this card is [[face-up]] in the [[Field Zone]], face-up [[Level]] 5 or higher [[Monster Card|monster]]s with 1000 [[Original ATK and DEF|original DEF]] on the [[field]] gains 400 [[ATK]].
+  | ja_requirement  = このカードは、デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_text         = このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が１０００の表側表示モンスター（レベル５以上）の攻撃力は４００アップする。
+  | ko_requirement  = 이 카드는, 덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 원래 수비력이 1000 인 앞면 표시 몬스터(레벨 5 이상)의 공격력은 400 올린다.
+  | jp_sets         = 
   RD/KP13-JP056; Oblivion of the Flash; Common
   RD/SD0F-JP026; Structure Deck: Triumphant Return of the Monarchs; Common
   RD/B254-JP004; Battle Pack 2025 Vol.4; Super Rare
-  | kr_sets        = 
+  | kr_sets         = 
   RD/KP13-KR056; Oblivion of the Flash; Common
   RD/SD0F-KR026; Structure Deck: Triumphant Return of the Monarchs; Common
-  | archseries     = Monarch (Rush Duel series)
-  | action         = Sends from the top of your Deck to your Graveyard for cost
-  | stat_change    = All monsters gain ATK
-  | misc           = 
+  | archseries      = Monarch (Rush Duel series)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = All monsters gain ATK
+  | misc            = 
   * Requires control of specific Level
   * Requires control of specific DEF
-  | database_id    = 18985
+  | database_id     = 18985
   }}
