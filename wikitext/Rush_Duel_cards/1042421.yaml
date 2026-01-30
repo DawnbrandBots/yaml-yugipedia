@@ -13,9 +13,9 @@ wikitext: |-
   | atk            = 0
   | def            = 0
   | effect_types   = Continuous
-  | condition      = If you have a [[face-up]] [[Monster Card|monster]] on your [[field]] with 0 [[Original ATK and DEF|original ATK]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
+  | condition      = If you have a [[face-up]] [[Monster Card|monster]] with 0 [[Original ATK and DEF|original ATK]] on your [[field]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement    = None
-  | text           = This card gains [[ATK]] equal to [the number of face-up monsters on your field with 0 original ATK] x 1000. You [[Damage|take]] no [[battle damage]] from [[battle]]s involving your monsters with 0 ATK.
+  | text           = This card gains [[ATK]] equal to [the number of face-up monsters with 0 original ATK on your field] x 1000. You [[Damage|take]] no [[battle damage]] from [[battle]]s involving your monsters with 0 ATK.
   | ja_condition   = 自分フィールドに元々の攻撃力が０の表側表示モンスターがいる場合、このカードはリリースなしで召喚できる。
   | ja_requirement = なし
   | ja_text        = このカードの攻撃力は、［自分フィールドの元々の攻撃力が０の表側表示モンスターの数］×１０００アップする。自分のモンスター（攻撃力０）の戦闘で、自分は戦闘ダメージを受けない。
