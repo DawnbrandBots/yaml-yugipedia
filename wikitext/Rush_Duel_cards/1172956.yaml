@@ -12,11 +12,18 @@ wikitext: |-
   | atk            = 800
   | def            = 800
   | requirement    = You have 4 or less [[Monster Card|monster]]s in your [[Graveyard]].
-  | text           = [[Send]] the top 2 cards of your opponent's [[Main Deck|Deck]] to the [[Graveyard]]. Then, if your opponent has 5 or more Monster Cards in their Graveyard, and you have not [[Draw a card|drawn]] a card during this [[Main Phase]], you can draw 2 cards. You cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of [[EARTH]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]]s.
+  | text           = [[Send]] the top 2 cards of your opponent's [[Main Deck|Deck]] to the Graveyard. Then, if your opponent has 5 or more monsters in their Graveyard, and you have not [[Draw a card|drawn]] a card during this [[Main Phase]], you can draw 2 cards. You cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of [[EARTH]] [[Attribute]] [[Galaxy]] [[Type]] monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP012; Overforce of the Abyss; Common
+  | supports       = 
+  * EARTH
+  * Galaxy (Type)
   | archseries     = Moonforce
+  | action         = 
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
+  * You draw cards
+  | m/s/t          = Prevents activation of your Effect Monsters
   | database_id    = 
   }}

@@ -14,11 +14,17 @@ wikitext: |-
   | def             = 1600
   | effect_types    = Continuous
   | requirement     = None
-  | text            = During the [[Battle Phase]], [[face-up]] [[Fish]] [[Type]] [[monsters]] on your [[field]] gain [[ATK]] equal to [the number of monsters on your field] x 400. Your "[[Fortress Whale (Rush Duel)|Fortress Whale]]" can attack directly.
+  | text            = During the [[Battle Phase]], [[face-up]] [[Fish]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain [[ATK]] equal to [the number of monsters on your field] x 400. Your "[[Fortress Whale (Rush Duel)|Fortress Whale]]" can [[attack]] [[Direct attack|directly]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP024; Overforce of the Abyss; Common
   | mentions        = Fortress Whale (Rush Duel)
+  | supports        = Fish
+  | stat_change     = Your monsters gain ATK
+  | attack          = Allows direct attacks
+  | misc            = 
+  * Requires control of specific Type
+  * Requires control of specific card
   | database_id     = 
   }}

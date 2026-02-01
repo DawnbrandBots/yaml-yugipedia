@@ -13,10 +13,21 @@ wikitext: |-
   | atk             = 500
   | def             = 400
   | requirement     = You have a [[face-up]] [[Level]] 7 or lower [[WATER]] [[Attribute]] [[Fish]] [[Type]] [[Ritual Monster]] on your [[field]].
-  | text            = [[Return]] 1 card from your opponent's [[field]] to the owner's [[hand]]. This [[turn]], you can only [[attack]] with Fish Type monsters.
+  | text            = [[Return]] 1 card from your opponent's field to the [[owner]]'s [[hand]]. This [[turn]], you can only [[attack]] with Fish Type [[Monster Card|monster]]s.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP023; Overforce of the Abyss; Common
+  | supports        = 
+  * WATER
+  * Fish
+  * Ritual Monster
+  | action          = Returns from your opponent's field to your opponent's hand
+  | attack          = Prevents your monsters from attacking
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id     = 
   }}

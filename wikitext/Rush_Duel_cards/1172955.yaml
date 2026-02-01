@@ -11,15 +11,21 @@ wikitext: |-
   | card_type            = Spell
   | property             = Normal
   | requirement          = During a [[turn]] you have not [[activate]]d "Memory of Sunlit".
-  | text                 = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated [[Level]] 5 or lower [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] [[face-up]] to your field. Place the other cards on the bottom of your Deck in any order. This [[turn]], you can only [[attack]] with EARTH Attribute Galaxy Type monsters.
+  | text                 = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated [[Level]] 5 or lower [[EARTH]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] [[face-up]] to your [[field]]. Place the other cards on the bottom of your Deck in any order. This turn, you can only [[attack]] with EARTH Attribute Galaxy Type monsters.
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/KP24-JP051; Overforce of the Abyss; Common
+  | mentions             = Memory of Sunlit
   | supports             = 
   * EARTH
   * Galaxy (Type)
   | archseries           = Moonforce
-  | mentions             = Memory of Sunlit
+  | action               = 
+  * Excavates from the player's Deck
+  * Places excavated cards on the bottom of the Deck
+  | summoning            = Special Summons excavated cards
+  | attack               = Prevents your monsters from attacking
+  | misc                 = Only once per turn
   | database_id          = 
   }}
