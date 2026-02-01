@@ -1,11 +1,26 @@
 title: Command Performance (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Ordre de Représentation
+  | de_name      = Anordnung des Künstlers
+  | it_name      = Comando Artistico
+  | ko_name      = 엔터메 플래시
+  | es_name      = Representación Excelente
   | image        = CommandPerformance-DULI-EN-VG.png
   | card_type    = Trap
   | property     = Normal
-  | rarity       = ???
+  | rarity       = N
+  | status       = Limited 1
   | effect_types = Activation requirement, Effect, Condition
   | text         = If you [[control]] a "[[Performapal]]" [[Monster Card|monster]]: Change all [[face-up]] [[Attack Position]] monsters your opponent controls to [[Defense Position]]. Monsters changed to Defense Position by this effect cannot change their [[battle position]]s until the end of the next [[turn]].
-  | ja_text      = 
+  | fr_text      = Si vous contrôlez un monstre "Potartiste" : changez tous les monstres en Position d'Attaque face recto contrôlés par votre adversaire en Position de Défense. Jusqu'à la fin du prochain tour, les monstres changés en Position de Défense par cet effet ne peuvent pas changer leur position de combat.
+  | de_text      = Falls du ein „Künstlerkumpel“-Monster kontrollierst: Ändere alle Monster in offener Angriffsposition, die dein Gegner kontrolliert, in die Verteidigungsposition. Die Kampfpositionen von Monstern, die durch diesen Effekt in die Verteidigungsposition geändert werden, kann bis zum Ende des nächsten Spielzugs nicht geändert werden.
+  | it_text      = Se controlli un mostro "Artistamico": metti in Posizione di Difesa tutti i mostri scoperti in Posizione di Attacco controllati dal tuo avversario. I mostri messi in Posizione di Difesa da questo effetto non possono cambiare posizione fino alla fine del prossimo turno.
+  | es_text      = Si controlas un monstruo "Artistamigo": cambia a Posición de Defensa todos los monstruos en Posición de Ataque boca arriba que controle tu adversario. Hasta el final del próximo turno, los monstruos cambiados a Posición de Defensa por este efecto no pueden cambiar sus posiciones de batalla.
+  | ja_text      = ①：自分フィールドに「ＥＭ」モンスターが存在する場合に発動できる。相手フィールドの表側攻撃表示モンスターは全て守備表示になり、そのモンスターは次のターンの終了時まで表示形式を変更できない。
+  | ko_text      = ① : 자신 필드에 "EM(엔터메이트)" 몬스터가 존재할 경우에 발동할 수 있다. 상대 필드의 앞면 공격 표시 몬스터는 전부 수비 표시가 되고, 그 몬스터는 다음 턴의 종료시까지 표시 형식을 변경할 수 없다.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Starving Venom (Duel Links set)}}
+  {{Duel Links release table/footer}}
   }}
