@@ -1,12 +1,22 @@
 title: Ectoplasmer (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Ectoplasmer
+  | de_name      = Ektoplasmer
+  | it_name      = Ectoplasmer
+  | es_name      = Ectoplasmador
+  | ko_name      = 엑토플라즈머
   | image        = Ectoplasmer-DULI-EN-VG.png
   | ja_image     = Ectoplasmer-DULI-JP-VG.png
   | card_type    = Spell
   | property     = Continuous
-  | rarity       = ???
+  | rarity       = SR
   | effect_types = Trigger-like
-  | text         = Once per turn, during each player's [[End Phase]]: The [[turn player]] must [[Tribute]] 1 [[face-up]] [[Monster Card|monster]], and if they do, inflict [[Effect damage|damage]] to their opponent equal to half the [[Original ATK and DEF|original ATK]] of the Tributed monster.
-  | ja_text      = お互いのプレイヤーは、それぞれ自分のエンドフェイズ時に１度だけ、自分フィールド上の表側表示モンスター１体を選び、そのモンスターをリリースし、リリースしたそのモンスターの元々の攻撃力の半分のダメージを相手ライフに与える。
+  | text         = Once per turn, during each player's [[End Phase]]: The [[turn player]] must [[Tribute]] 1 [[face-up]] [[Monster Card|monster]], and if they do, inflict [[Effect damage|damage]] to their opponent equal to quarter the [[Original ATK and DEF|original ATK]] of the Tributed monster.
+  | fr_text      = Une fois par tour, durant la End Phase de chaque joueur : le joueur du tour doit Sacrifier 1 monstre face recto, et s'il le fait, il doit infliger des dommages à son adversaire égaux au quart de l'ATK d'origine du monstre Sacrifié.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Card Flipper Campaign}}
+  {{Duel Links release table|type=box|Bingo Missions Event}}
+  {{Duel Links release table/footer}}
   }}

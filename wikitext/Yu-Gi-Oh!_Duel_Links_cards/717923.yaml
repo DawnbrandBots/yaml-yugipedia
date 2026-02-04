@@ -1,12 +1,27 @@
 title: Dark Scheme (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Combine Ténébreuse
+  | de_name      = Finstere Pläne
+  | it_name      = Piano Oscuro
+  | ko_name      = 암흑의 모략
+  | es_name      = Plan Oscuro
   | image        = DarkScheme-DULI-EN-VG.png
   | ja_image     = DarkScheme-DULI-JP-VG.png
   | card_type    = Trap
   | property     = Normal
-  | rarity       = ???
+  | rarity       = N
   | effect_types = Effect
   | text         = Your opponent can [[discard]] 1 card to [[negate]] this card's [[effect]], otherwise both players discard 2 cards, then [[Draw a card|draw]] 2 cards.
-  | ja_text      = 
+  | fr_text      = Votre adversaire peut défausser 1 carte pour annuler l'effet de cette carte, sinon chaque joueur défausse 2 cartes, puis pioche 2 cartes.
+  | de_text      = Dein Gegner kann 1 Karte abwerfen, um den Effekt dieser Karte zu annullieren, andernfalls werfen beide Spieler 2 Karten ab und ziehen dann 2 Karten.
+  | it_text      = Il tuo avversario può scartare 1 carta per annullare l'effetto di questa carta, altrimenti entrambi i giocatori scartano 2 carte, poi pescano 2 carte.
+  | es_text      = Tu adversario puede descartar 1 carta para negar el efecto de esta carta. De otro modo, ambos jugadores descartan 2 cartas, y después roban 2 cartas.
+  | ja_text      = お互いのプレイヤーは手札を２枚選択して捨て、デッキからカードを２枚ドローする。相手は手札を１枚捨ててこのカードの効果を無効にする事ができる。
+  | ko_text      = 양쪽의 플레이어는 패를 2장 선택하여 버리고, 덱에서 카드를 2장 드로우한다. 상대는 패를 1장 버리고 이 카드의 효과를 무효로 할 수 있다.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Phoenix Blaze}}
+  {{Duel Links release table|type=box|Selection BOX Mini Vol.06}}
+  {{Duel Links release table/footer}}
   }}
