@@ -5,17 +5,27 @@ wikitext: |-
   {{CardTable2
   | ja_name        = マッドレア・アメロ
   | romaji_name    = Maddorea Amero
-  | image          = MadRareAmelo-RDKP24-JP-OP.png
+  | image          = 
+  1; MadRareAmelo-RDKP24-JP-OP.png; MadRareAmelo-OW.png
+  2; MadRareAmelo-RDKP24-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = DARK
   | types          = Reptile / Effect
   | level          = 4
   | atk            = 1300
   | def            = 1100
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[shuffle]] 3 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = [[Destroy]] 1 [[Attack Position]] [[Level]] 3-8 [[Effect Monster]] on your opponent's [[field]]. Then, if you destroyed a monster whose original Level is 6 by this [[effect]], you can inflict 600 damage to your opponent. This turn, you cannot attack with Level 6 or lower monsters.
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[shuffle]] 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = [[Destroy]] 1 [[Attack Position]] [[Level]] 3-8 [[Effect Monster]] on your opponent's [[field]]. Then, if you destroyed a monster whose [[Original Level and Rank|original Level]] is 6 by this [[effect]], you can [[Damage|inflict]] 600 [[Effect damage|damage]] to your opponent. This turn, you cannot [[attack]] with Level 6 or lower monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP028; Overforce of the Abyss; Ultra Rare, Over Rush Rare
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Returns from Graveyard to Deck for cost
+  | m/s/t          = Destroys your opponent's Attack Position Monster Cards
+  | attack         = Prevents your monsters from attacking
+  | life_points    = Damages your opponent
   | database_id    = 
   }}
