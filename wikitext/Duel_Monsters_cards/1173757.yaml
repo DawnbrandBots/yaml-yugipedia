@@ -20,7 +20,7 @@ wikitext: |-
   | password              = 
   | materials             = 2+ Effect Monsters
   | effect_types          = Quick, Quick, Condition, Condition
-  | text                  = 2+ Effect Monsters<br />When your opponent activates a monster effect on the field or GY (Quick Effect): You can banish this card that was Special Summoned this turn until the End Phase; negate that effect, and if you do, banish it. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster, and if this card you control would be used as material for that Link Summon, you can also use 1 Link-2 or lower monster your opponent controls. Neither player can activate the effects of Link Monsters in response to this effect's activation. You can only use each effect of "W:P Fancy Ball" once per turn.
+  | text                  = 2+ [[Effect Monster]]s<br />When your opponent [[activate]]s a [[monster effect]] on the [[field]] or [[GY]] ([[Quick Effect]]): You can [[banish]] this card that was [[Special Summon]]ed this [[turn]] until the [[End Phase]]; [[negate]] that effect, and if you do, banish it. During your opponent's [[Main Phase]], you can (Quick Effect): Immediately after this effect [[resolve]]s, [[Link Summon]] 1 [[Link Monster]], and if this card you control would be used as [[material]] for that Link Summon, you can also use 1 Link-2 or lower monster your opponent [[control]]s. Neither player can activate the effects of Link Monsters in [[response]] to this effect's activation. You can only use each effect of "W:P Fancy Ball" [[once per turn]].
   | fr_text              = 2+ Monstres à Effet<br />Lorsque votre adversaire active un effet de monstre sur le Terrain ou Cimetière (Effet Rapide) : jusqu'à la End Phase, vous pouvez bannir cette carte qui a été Invoquée Spécialement ce tour ; annulez l'effet, et si vous le faites, bannissez-le. Durant la Main Phase de votre adversaire, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Lien 1 Monstre Lien, et si cette carte que vous contrôlez va être utilisée comme Matériel pour l'Invocation Lien, vous pouvez aussi utiliser 1 monstre de max. Link-2 contrôlé par votre adversaire. Aucun joueur ne peut activer les effets de Monstres Lien en réponse à l'activation de cet effet. Vous ne pouvez utiliser chaque effet de "W:P Bal Raffiné" qu'une fois par tour.
   | de_text              = 2+ Effektmonster<br />Wenn dein Gegner einen Monstereffekt auf dem Spielfeld oder im Friedhof aktiviert (Schnelleffekt): Du kannst diese Karte, die in diesem Spielzug als Spezialbeschwörung beschworen wurde, bis zur End Phase verbannen; annulliere jenen Effekt und falls du dies tust, verbanne es. Während der Main Phase deines Gegners kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Linkmonster als Linkbeschwörung und falls diese Karte, die du kontrollierst, als Material für jene Linkbeschwörung verwendet würde, kannst du auch 1 Monster mit Link-2 oder niedriger verwenden, das dein Gegner kontrolliert. Kein Spieler kann Effekte von Linkmonstern als Reaktion auf die Aktivierung dieses Effekts aktivieren. Du kannst jeden Effekt von „W:P Eleganter Ball“ nur einmal pro Spielzug verwenden.
   | it_text              = 2+ Mostri con Effetto<br />Quando il tuo avversario attiva l'effetto di un mostro sul Terreno o Cimitero (Effetto Rapido): puoi bandire questa carta che è stata Evocata Specialmente in questo turno fino alla End Phase; annulla quell'effetto e, se lo fai, bandiscila. Durante la Main Phase del tuo avversario, puoi (Effetto Rapido): immediatamente dopo che questo effetto si è risolto, Evoca Link 1 Mostro Link e, se questa carta che controlli sta per essere utilizzata come materiale per quell'Evocazione Link, puoi anche utilizzare 1 mostro Link-2 o inferiore controllato dal tuo avversario. Nessun giocatore può attivare gli effetti dei Mostri Link in risposta all'attivazione di questo effetto. Puoi utilizzare ogni effetto di "W:P Ballo Elegante" una sola volta per turno.
@@ -31,7 +31,25 @@ wikitext: |-
   | sc_text              = 效果怪兽2只以上<br />此卡名的①②效果1回合仅可各使用1次。①：对手发动场上・墓地的怪兽的效果时，将在此回合特殊召唤的此卡直至结束阶段为止除外可以发动。将该效果无效并除外。②：在对手的主要阶段可以发动（应对此发动，双方不可发动连接怪兽的效果）。进行1只连接怪兽的连接召唤。要将自己场上的此卡作为连接素材的情况下，也可将对手场上的1只连接2以下的连接怪兽作为连接素材。
   | jp_sets               = 
   LOCH-JP026; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Link Monster
+  | anti-supports         = Link Monster
   | archseries            = P (series)
   | related_to_archseries = S-Force
+  | action                = 
+  * Returns itself to field while banished
+  * Uses cards on the opponent's field as Link Materials
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Prevents activation of Effect Monsters
+  * Prevents responding to its activation
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Effect Monsters as Link Materials
+  * Performs a Link Summon
+  * Special Summons from your Extra Deck
+  | banished              = 
+  * Banishes itself from field for cost
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
   | database_id           = 22715
   }}

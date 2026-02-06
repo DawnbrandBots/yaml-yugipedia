@@ -2,21 +2,26 @@ title: Voidalfr Heavenstar
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = ヴォイドアルヴ・ヘヴンスター
-  | romaji_name           = Voidoaruvu Hevunsutā
-  | image                 = VoidalfrHeavenstar-RDKP24-JP-OP.png
-  | attribute             = FIRE
-  | types                 = Galaxy / Effect
-  | level                 = 7
-  | atk                   = 2400
-  | def                   = 1600
-  | requirement           = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 1 card from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text                  = [[Send]] 1 card from your [[hand]] to the Graveyard. Then, you can [[Draw a card|draw]] 1 card. If you do, you can [[Add a card|add]] 1 "[[Micronova Fusion]]" from your Graveyard to your hand.
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
-  RD/KP24-JP006; Overforce of the Abyss; Rare
-  | mentions              = Micronova Fusion
-  | archseries            = Voidalfr
-  | database_id           = 
+  | ja_name        = ヴォイドアルヴ・ヘヴンスター
+  | romaji_name    = Voidoaruvu Hevunsutā
+  | image          = VoidalfrHeavenstar-RDKP24-JP-OP.png
+  | attribute      = FIRE
+  | types          = Galaxy / Effect
+  | level          = 7
+  | atk            = 2400
+  | def            = 1600
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 1 card from your [[Graveyard]] into the Deck.
+  | text           = [[Send]] 1 card from your [[hand]] to the Graveyard. Then, you can [[Draw a card|draw]] 1 card. If you do, you can [[Add a card|add]] 1 "[[Micronova Fusion]]" from your Graveyard to your hand.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
+  RD/KP24-JP006; Overforce of the Abyss; Rare, Secret Rare
+  | mentions       = Micronova Fusion
+  | archseries     = Voidalfr
+  | action         = 
+  * Returns from Graveyard to Deck for cost
+  * Sends from your hand to your Graveyard
+  * You draw cards
+  * Adds from Graveyard to hand
+  | database_id    = 
   }}
