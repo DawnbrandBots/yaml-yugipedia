@@ -10,12 +10,22 @@ wikitext: |-
   | level          = 1
   | atk            = 100
   | def            = 100
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[send]] 1 [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]] or [[shuffle]] 4 non-[[Level]] 1 Galaxy Type monsters from your Graveyard into the Deck.
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[send]] 1 [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]] or [[shuffle]] 4 non-[[Level]] 1 Galaxy Type monsters from your Graveyard into the Deck.
   | text           = [[Draw a card|Draw]] 1 card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP002; Overforce of the Abyss; Common
+  | supports       = 
+  * EARTH
+  * WATER
+  * FIRE
+  * WIND
+  * Galaxy (Type)
   | archseries     = Voidalfr
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Returns from Graveyard to Deck for cost
+  * You draw cards
   | database_id    = 
   }}

@@ -2,17 +2,20 @@ title: Micronova
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = マイクロノヴァ
-  | romaji_name     = Maikuronova
-  | image           = Micronova-RDKP24-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text            = Make 1 [[face-up]] [[monster]] on your [[field]] gain 800 [[ATK]] until the end of this [[turn]]. Then, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of different [[Attributes]] in your Graveyard] x 100.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = マイクロノヴァ
+  | romaji_name    = Maikuronova
+  | image          = Micronova-RDKP24-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = Make 1 [[face-up]] [[Monster Card|monster]] on your [[field]] gain 800 [[ATK]] until the end of this [[turn]]. Then, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of different [[Attributes]] in your Graveyard] x 100.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP24-JP044; Overforce of the Abyss; Common
-  | archseries      = Voidalfr
-  | database_id     = 
+  | archseries     = Voidalfr
+  | action         = Sends from hand to Graveyard for cost
+  | stat_change    = Your monsters gain ATK
+  | life_points    = Damages your opponent
+  | database_id    = 
   }}

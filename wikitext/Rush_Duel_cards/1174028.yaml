@@ -10,7 +10,7 @@ wikitext: |-
   | level          = 5
   | atk            = 1000
   | def            = 1700
-  | condition      = If you have 3 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] in your [[Graveyard]], you can [[Normal Summon]] this card without Tributing.
+  | condition      = If you have 3 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | text           = This [[turn]], this [[face-up]] card can be treated as 2 Tributes for the [[Tribute Summon]] of a Galaxy Type monster in [[Attack Position]]. Then, you can [[Add a card|add]] 1 "[[Voidalfr Heavenstar]]" from your Graveyard to your [[hand]].
   | ja_condition   = 
@@ -19,6 +19,13 @@ wikitext: |-
   | jp_sets        = 
   RD/KP24-JP005; Overforce of the Abyss; Common
   | mentions       = Voidalfr Heavenstar
+  | supports       = Galaxy (Type)
   | archseries     = Voidalfr
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | summoning      = 
+  * Normal Summon without Tribute
+  * Treated as multiple Tributes
   | database_id    = 
   }}

@@ -11,12 +11,21 @@ wikitext: |-
   | atk            = 1000
   | def            = 600
   | requirement    = You have 3 different [[Attribute]]s [[face-up]] on your [[field]], or you have "[[Micronova]]" in your [[Graveyard]].
-  | text           = [[Add a card|Add]] 1 non-[[Level]] 4 [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]] from your Graveyard to your [[hand]]. Then, you can add 1 "Micronova" from your Graveyard to your hand.
+  | text           = [[Add a card|Add]] 1 non-[[Level]] 4 [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] Attribute [[Galaxy (Type)|Galaxy]] [[Type]] [[Effect Monster]] from your Graveyard to your [[hand]]. Then, you can add 1 "Micronova" from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP24-JP004; Overforce of the Abyss; Common
   | mentions       = Micronova
+  | supports       = 
+  * EARTH
+  * WATER
+  * FIRE
+  * WIND
+  * Galaxy (Type)
+  * Effect Monster
   | archseries     = Voidalfr
+  | action         = Adds from Graveyard to hand
+  | misc           = Requires control of specific Attribute
   | database_id    = 
   }}

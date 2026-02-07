@@ -12,15 +12,27 @@ wikitext: |-
   | atk             = 3000
   | def             = 2400
   | fusion_material = Voidalfr Heavenstar
-  | materials       = "[[Voidalfr Heavenstar]]" + 1 [[WATER]] [[Attribute]] [[monster]]
+  | materials       = "[[Voidalfr Heavenstar]]" + 1 [[WATER]] [[Attribute]] [[Monster Card|monster]]
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, [[shuffle]] 3 [[Galaxy (Type)|Galaxy]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]], including a WATER Attribute monster.
-  | text            = [[Return]] up to 3 [[face-up]] [[Level]] 8 or lower monsters and/or [[face-down]] monsters from your opponent's [[field]] to the owner's [[hand]]. This [[turn]], you can only [[attack]] with 1 monster.
+  | text            = [[Return]] up to 3 [[face-up]] [[Level]] 8 or lower monsters and/or [[face-down]] monsters from your opponent's [[field]] to the [[owner]]'s [[hand]]. This [[turn]], you can only [[attack]] with 1 monster.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP034; Overforce of the Abyss; Rare
   | mentions        = Voidalfr Heavenstar
+  | supports        = 
+  * WATER
+  * Galaxy (Type)
   | archseries      = Voidalfr
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from Graveyard to Deck for cost
+  * Returns from your opponent's field to your opponent's hand
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}

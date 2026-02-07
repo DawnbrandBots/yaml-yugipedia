@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 900
   | def            = 1300
   | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "[[Voidalfr Heavenstar]]". Then, you can [[Add a card|add]] up to 2 "[[Micronova]]" from your Graveyard to your hand. You cannot [[activate]] the effects of non-[[Galaxy (Type)|Galaxy]] [[Type]] monsters until the end of this turn.
+  | text           = This [[turn]], this card's name becomes "[[Voidalfr Heavenstar]]". Then, you can [[Add a card|add]] up to 2 "[[Micronova]]" from your Graveyard to your [[hand]]. You cannot [[activate]] the [[effect]]s of non-[[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,12 @@ wikitext: |-
   | mentions       = 
   * Voidalfr Heavenstar
   * Micronova
+  | supports       = Galaxy (Type)
   | archseries     = Voidalfr
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Changes own name while on the field
+  | m/s/t          = Prevents activation of your Effect Monsters
   | database_id    = 
   }}
