@@ -12,15 +12,27 @@ wikitext: |-
   | atk             = 3000
   | def             = 2400
   | fusion_material = Voidalfr Heavenstar
-  | materials       = "[[Voidalfr Heavenstar]]" + 1 [[WIND]] [[Attribute]] [[monster]]
-  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, place 1 [[Level]] 7 or lower [[WIND]] [[Attribute]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | text            = This card gains [[ATK]] equal to [the [[Level]] of the monster placed on the Deck to meet the requirement] x 500 until the end of this [[turn]]. This turn, you can only [[attack]] with [[Galaxy (Type)|Galaxy]] [[Type]] monsters.
+  | materials       = "[[Voidalfr Heavenstar]]" + 1 [[WIND]] [[Attribute]] [[Monster Card|monster]]
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, place 1 [[Level]] 7 or lower WIND Attribute monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
+  | text            = This card gains [[ATK]] equal to [the Level of the monster placed to meet the [[Activation condition|requirement]]] x 500 until the end of this [[turn]]. This turn, you can only [[attack]] with [[Galaxy (Type)|Galaxy]] [[Type]] monsters.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP24-JP033; Overforce of the Abyss; Rare
   | mentions        = Voidalfr Heavenstar
+  | supports        = 
+  * WIND
+  * Galaxy (Type)
   | archseries      = Voidalfr
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}
