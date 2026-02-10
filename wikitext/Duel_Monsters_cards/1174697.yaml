@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Quick-Play
   | password            = 
   | effect_types        = Effect, Condition
-  | text                = When your opponent activates a Normal or Quick-Play Spell Card or effect, or a monster effect, while you control a Zombie monster and "[[Call of the Haunted]]" (except during the Damage Step): Your opponent tosses a coin and their activated effect becomes the following effect.<br />● Heads: "Your opponent must banish 1 monster they control".<br />● Tails: "You must banish all monsters you control".<br />You can only activate 1 "Vortex of Time" per turn.
+  | text                = When your opponent [[activate]]s a [[Normal Spell|Normal]] or [[Quick-Play Spell Card]] or [[effect]], or a [[monster effect]], while you [[control]] a [[Zombie]] [[monster]] and "[[Call of the Haunted]]" (except during the [[Damage Step]]): Your opponent tosses a coin and their activated effect becomes the following effect.<br />● Heads: "Your opponent must [[banish]] 1 monster they control".<br />● Tails: "You must banish all monsters you control".<br />You can only activate 1 "Vortex of Time" [[once per turn|per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -39,6 +39,20 @@ wikitext: |-
   | sp_sets             = 
   MZMU-SP009; Maze of Muertos; Super Rare
   | mentions            = Call of the Haunted
+  | supports            = Zombie
+  | anti-supports       = 
+  * Normal Spell Card
+  * Quick-Play Spell Card
   | archseries          = Call of the Haunted (series)
+  | related_to_archseries = Aged counterpart
+  | action              = Overwrites card effects
+  | banished            = 
+  * Makes the opponent banish from the field
+  * Banishes from your field
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific card
+  * Coin toss
+  * Only once per turn
   | database_id         = 22352
   }}

@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Quick-like, Condition
-  | text                = If you control a Zombie monster and "[[Call of the Haunted]]": Target 1 monster your opponent controls; send it to the GY. If you control a Zombie monster: You can banish this card from your GY, then target 1 face-up card you control and 1 face-up card your opponent controls; send them to the GY. You can only use 1 "Deadly Zombie Breath" effect per turn, and only once that turn.
+  | text                = If you [[control]] a [[Zombie]] [[monster]] and "[[Call of the Haunted]]": [[Target]] 1 monster your opponent controls; [[send]] it to the [[GY]]. If you control a Zombie monster: You can [[banish]] this card from your GY, then target 1 [[face-up]] card you control and 1 face-up card your opponent controls; send them to the GY. You can only use 1 "Deadly Zombie Breath" [[effect]] per [[turn]], and [[once per turn|only once that turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -39,8 +39,18 @@ wikitext: |-
   | sp_sets             = 
   MZMU-SP010; Maze of Muertos; Super Rare
   | mentions            = Call of the Haunted
+  | supports            = Zombie
   | archseries          = 
   * Call of the Haunted (series)
   * Signature move
+  | action              = 
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Activates from your Graveyard
+  * Sends from your field to your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific card
+  * Only 1 effect once per turn
   | database_id         = 22353
   }}
