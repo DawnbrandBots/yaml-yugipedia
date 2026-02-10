@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 1800
   | password            = 
   | effect_types        = Trigger, Condition, Condition, Continuous
-  | text                = If this card is Special Summoned and you control "[[Call of the Haunted]]" or a Zombie monster, except "Great Mammoth of the Netherworld": You can target 1 card on the field; destroy it. You can only use this effect of "Great Mammoth of the Netherworld" once per turn. A Zombie Xyz Monster that has this card as material gains this effect.<br />● Gains 1000 ATK.
+  | text                = If this card is [[Special Summon]]ed and you [[control]] "[[Call of the Haunted]]" or a [[Zombie]] [[monster]], except "Great Mammoth of the Netherworld": You can [[target]] 1 card on the [[field]]; [[destroy]] it. You can only use this [[effect]] of "Great Mammoth of the Netherworld" [[once per turn]]. A Zombie [[Xyz Monster]] that has this card as [[material]] gains this effect.<br />● Gains 1000 [[ATK]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -41,7 +41,24 @@ wikitext: |-
   MZMU-PT004; Maze of Muertos; Rare
   | sp_sets             = 
   MZMU-SP004; Maze of Muertos; Rare
-  | mentions            = Call of the Haunted
+  | mentions            = 
+  * Call of the Haunted
+  * Great Mammoth of the Netherworld
+  | supports            = 
+  * Zombie
+  * Xyz Monster
   | archseries          = Call of the Haunted (series)
+  | action              = 
+  * Activates upon Special Summon
+  * Grants effect while attached as Xyz Material
+  | stat_change         = Your monsters gain ATK
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | misc                = 
+  * Requires control of specific card
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 22347
   }}

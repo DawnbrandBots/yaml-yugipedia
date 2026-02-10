@@ -12,15 +12,16 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = 
+  | image               = PumpkingtheGreatGhostKing-OW.png
   | attribute           = DARK
   | types               = Zombie / Xyz / Effect
   | rank                = 6
   | atk                 = 2400
   | def                 = 2600
   | password            = 
+  | materials           = 2 Level 6 Zombie-Type monsters
   | effect_types        = Continuous, Condition, Trigger, Ignition
-  | text                = 2 Level 6 Zombie monsters<br />While you control "[[Call of the Haunted]]", your opponent cannot target Zombie monsters you control with monster effects. You can only use each of the following effects of "Pumpking the Great Ghost King" once per turn. If this card is Special Summoned: You can add 1 "Call of the Haunted" or 1 card that mentions it from your Deck to your hand. You can detach 1 material from this card, then target up to 2 cards on the field; return them to the hand.
+  | text                = 2 [[Level]] 6 [[Zombie]] [[monster]]s<br />While you [[control]] "[[Call of the Haunted]]", your opponent cannot [[target]] Zombie monsters you control with [[monster effect]]s. You can only use each of the following [[effect]]s of "Pumpking the Great Ghost King" [[once per turn]]. If this card is [[Special Summon]]ed: You can [[add]] 1 "Call of the Haunted" or 1 card that [[mention]]s it from your [[Main Deck|Deck]] to your [[hand]]. You can [[detach]] 1 [[material]] from this card, then target up to 2 cards on the [[field]]; [[return]] them to the hand.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -42,6 +43,21 @@ wikitext: |-
   | sp_sets             = 
   MZMU-SP005; Maze of Muertos; Ultra Rare, Collector's Rare
   | mentions            = Call of the Haunted
+  | supports            = Zombie
   | archseries          = Call of the Haunted (series)
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Returns from field to hand
+  | m/s/t               = 
+  * Cannot be targeted by card effects
+  * Prevents other cards being targeted by card effects
+  | summoning           = 
+  * 2 Xyz Materials
+  * Requires Type specific Xyz Materials
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
+  * Mentions
   | database_id         = 22348
   }}

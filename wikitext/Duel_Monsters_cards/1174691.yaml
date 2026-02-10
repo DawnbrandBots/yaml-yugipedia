@@ -20,7 +20,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Ignition, Trigger, Condition
-  | text                = If you control "[[Call of the Haunted]]" and this card is in your hand or GY: You can Special Summon this card. If this card is sent to the GY: You can target 1 "Call of the Haunted" in your GY; Set it. You can only use each effect of "Army of the Haunted" once per turn.
+  | text                = If you [[control]] "[[Call of the Haunted]]" and this card is in your [[hand]] or [[GY]]: You can [[Special Summon]] this card. If this card is [[send|sent]] to the GY: You can [[target]] 1 "Call of the Haunted" in your GY; [[Set]] it. You can only use each [[effect]] of "Army of the Haunted" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -43,5 +43,16 @@ wikitext: |-
   MZMU-SP002; Maze of Muertos; Super Rare
   | mentions            = Call of the Haunted
   | archseries          = Call of the Haunted (series)
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates if sent to the Graveyard
+  * Sets from your Graveyard
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
   | database_id         = 22345
   }}
