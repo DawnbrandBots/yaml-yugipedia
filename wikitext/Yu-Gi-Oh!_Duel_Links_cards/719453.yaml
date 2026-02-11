@@ -1,12 +1,21 @@
 title: Ring of Destruction (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Anneau de Destruction
+  | de_name      = Ring der Zerstörung
+  | it_name      = Anello della Distruzione
+  | es_name      = Anillo Destructor
+  | ko_name      = 파괴륜
   | image        = RingofDestruction-DULI-EN-VG.png
   | ja_image     = RingofDestruction-DULI-JP-VG.png
   | card_type    = Trap
   | property     = Normal
-  | rarity       = ???
+  | rarity       = UR
   | effect_types = Activation requirement, Effect, Condition
-  | text         = During your opponent's [[turn]]: [[Target]] 1 [[face-up]] [[monster]] your opponent [[control]]s whose ATK is less than or equal to their [[LP]]; [[destroy]] that face-up monster, and if you do, take [[Effect damage|damage]] equal to its [[original ATK]], then inflict damage to your opponent, equal to the damage you took. You can only activate 1 "Ring of Destruction" per turn.
-  | ja_text      = 
+  | text         = During your opponent's [[turn]]: [[Target]] 1 [[face-up]] [[monster]] your opponent [[control]]s whose ATK is less than or equal to their [[LP]]; [[destroy]] that face-up monster, and if you do, take [[Effect damage|damage]] equal to half its [[original ATK]], then inflict damage to your opponent, equal to the damage you took. You can only activate 1 "Ring of Destruction" per turn.
+  | fr_text      = Durant le tour de votre adversaire : ciblez 1 monstre face recto contrôlé par votre adversaire dont l'ATK est inférieure ou égale à ses LP ; détruisez le monstre face recto, et si vous le faites, recevez des dommages égaux à la moitié de son ATK d'origine, puis infligez des dommages à votre adversaire égaux aux dommages que vous avez reçus. Vous ne pouvez activer qu'1 "Anneau de Destruction" par tour.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Raiders Requiem}}
+  {{Duel Links release table/footer}}
   }}

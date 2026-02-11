@@ -1,11 +1,26 @@
 title: Robbin' Goblin (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | de_name      = Raubender Goblin
+  | fr_name      = Gobelin de Robbin
+  | it_name      = Goblin Ladro
+  | ko_name      = 로빈 고블린
+  | es_name      = Goblin Robando
   | image        = RobbinGoblin-DULI-EN-VG.png
   | card_type    = Trap
   | property     = Continuous
-  | rarity       = ???
+  | rarity       = N
   | effect_types = Trigger-like
   | text         = Each time a [[monster]] you [[control]] inflicts [[Battle Damage]] to your opponent, your opponent [[discard]]s 1 [[random]] card.
-  | ja_text      = 
+  | fr_text      = Chaque fois qu'un monstre que vous contrôlez inflige des dommages de combat à votre adversaire, votre adversaire défausse 1 carte au hasard.
+  | de_text      = Jedesmal, wenn 1 Monster, das du kontrollierst, den Life Points deines Gegners Kampfschaden zufügt, wähle 1 zufällige Karte aus der Hand deines Gegners und lege sie auf den Friedhof.
+  | it_text      = Ogni volta che 1 mostro che controlli infligge danno da combattimento al tuo avversario, il tuo avversario scarta 1 carta a caso.
+  | es_text      = Cada vez que un monstruo que controles inflige daño de batalla a los Life Points de tu adversario, tu adversario descarta 1 carta al azar de su mano.
+  | ja_text      = 自分フィールド上に存在するモンスターが相手ライフに戦闘ダメージを与えた時、相手の手札をランダムに１枚捨てる。
+  | ko_text      = 자신 필드 위의 몬스터가 상대에게 전투 데미지를 줄때마다. 상대는 무작위로 패를 １장 버린다.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Braver Victory}}
+  {{Duel Links release table|type=box|Deep Emotion}}
+  {{Duel Links release table/footer}}
   }}

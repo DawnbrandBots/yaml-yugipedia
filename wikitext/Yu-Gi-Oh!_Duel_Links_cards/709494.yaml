@@ -1,12 +1,23 @@
 title: Roulette Spider (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Arraignée à Roulette
+  | de_name      = Roulettespinne
+  | it_name      = Ragno Roulette
+  | ko_name      = 룰렛 스파이더
+  | es_name      = Ruleta de Araña
   | image        = RouletteSpider-DULI-EN-VG.png
   | ja_image     = RouletteSpider-DULI-JP-VG.png
   | card_type    = Spell
   | property     = Quick-Play
-  | rarity       = ???
+  | rarity       = SR
   | effect_types = Activation requirement, Effect
-  | text         = When an opponent's [[Monster Card|monster]] [[declare]]s an attack: Roll a six-sided die and apply the result.<br />1: Halve your [[LP]].<br />2: Make that attack a [[direct attack]].<br />3: Choose 1 monster you [[control]], change the [[attack target]] to it, and perform [[damage calculation]].<br />4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.<br />5: [[Negate]] the attack, and if you do, inflict damage to your opponent equal to that monster's [[ATK]].<br />6: [[Destroy]] that opponent's monster.
-  | ja_text      = ①：相手モンスターの攻撃宣言時に発動できる。サイコロを１回振り、出た目の効果を適用する。<br />１・自分のＬＰを半分にする。<br />２・その攻撃を自分への直接攻撃にする。<br />３・自分フィールドのモンスター１体を選び、そのモンスターに攻撃対象を移し替えてダメージ計算を行う。<br />４・攻撃モンスター以外の相手フィールドのモンスター１体を選び、そのモンスターに攻撃対象を移し替えてダメージ計算を行う。<br />５・その攻撃を無効にし、そのモンスターの攻撃力分のダメージを相手に与える。<br />６・その相手モンスターを破壊する。
+  | text         = When an opponent's [[Monster Card|monster]] [[declare]]s an attack: Roll a six-sided die and apply the result.<br />1: Halve your [[LP]].<br />2: Make that attack a [[direct attack]].<br />3: Choose 1 monster you [[control]], change the [[attack target]] to it, and perform [[damage calculation]].<br />4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.<br />5: [[Negate]] the attack, and if you do, inflict damage to your opponent equal to half that monster's [[ATK]].<br />6: [[Destroy]] that opponent's monster.
+  | fr_text      = Lorsqu'un monstre de l'adversaire déclare une attaque : lancez un dé à six faces et appliquez le résultat.<br />1 : Divisez par deux vos LP.<br />2 : Faites devenir l'attaque une attaque directe.<br />3 : Choisissez 1 monstre que vous contrôlez, transférez-lui la cible de l'attaque et faites le calcul des dommages.<br />4 : Choisissez 1 autre monstre contrôlé par votre adversaire, transférez-lui la cible de l'attaque et faites le calcul des dommages.<br />5 : Annulez l'attaque, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de l'ATK du monstre.<br />6 : Détruisez le monstre de l'adversaire.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=event|Card Flipper Campaign}}
+  {{Duel Links release table|type=event|Duel Capsule}}
+  {{Duel Links release table|type=event|Mission Circuit}}
+  {{Duel Links release table/footer}}
   }}
