@@ -33,15 +33,20 @@ wikitext: |-
   LOCH-SC022; Limit Over Collection: The Heroes; 
   | archseries          = Malefic
   | supports_archetypes = Malefic
+  | action              = 
+  * Equips self from field
+  * Grants effect to Equip Spell Card
+  * Adds from Deck to hand
+  * Activates from your Graveyard
   | m/s/t               = 
+  * Treated as Equip Card
   * Unaffected by Spell Cards
   * Destroys itself
-  * Adds from Deck to hand
   * Destroys Monster Cards
-  | banished            = Banishes itself from your field
-  * Banishes from your Graveyard
+  | banished            = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
   | misc                = 
-  * Treated as Equip Card
   * Limited activations
   * Only once per turn
   | database_id         = 

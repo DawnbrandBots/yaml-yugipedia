@@ -35,15 +35,18 @@ wikitext: |-
   LOCH-JP024; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets             = 
   LOCH-SC024; Limit Over Collection: The Heroes; 
+  | supports            = Synchro Monster
   | archseries          = 
   * Assault Blackwing
   * Blackwing
   | supports_archetypes = Blackwing
-  | summoning           = 
-  | action              = Activates upon Synchro Summon
+  | action              = Gains effects if Synchro Summoned using specific Synchro Material
   | stat_change         = 
   * Treats itself as a Tuner monster
   * This card gains ATK
+  | summoning           = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
   | attack              =
   * Multiple attacker
   * Piercing
