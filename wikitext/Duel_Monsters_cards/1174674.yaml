@@ -22,7 +22,7 @@ wikitext: |-
   | password            = 
   | materials           = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types        = Unclassified, Unclassified, Continuous, Continuous
-  | text                = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Synchro Summon]]ed using a "[[Blackwing]]" [[monster]] as [[material]], it is treated as a [[Tuner]] while [[face-up]] on the [[field]]. After this card is Synchro Summoned, for the rest of this [[turn]], it gains [[ATK]] equal to the total [[original ATK]] of the Synchro Monsters used as its material. Can attack all your opponent's monsters, once each. If this card [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.
+  | text                = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Synchro Summon]]ed using a "[[Blackwing]]" [[monster]] as [[material]], it is treated as a [[Tuner]] while [[face-up]] on the [[field]]. After this card is Synchro Summoned, for the rest of this [[turn]], it gains [[ATK]] equal to the total [[original ATK]] of the [[Synchro Monster]]s used as its material. Can [[attack]] all your opponent's monsters, once each. If this card attacks a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -39,5 +39,13 @@ wikitext: |-
   * Assault Blackwing
   * Blackwing
   | supports_archetypes = Blackwing
+  | summoning           = 
+  | action              = Activates upon Synchro Summon
+  | stat_change         = 
+  * Treats itself as a Tuner monster
+  * This card gains ATK
+  | attack              =
+  * Multiple attacker
+  * Piercing
   | database_id         = 
   }}
