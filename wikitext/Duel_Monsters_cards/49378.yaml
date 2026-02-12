@@ -5,6 +5,7 @@ wikitext: |-
   | fr_name               = Mercenaire d'Assaut
   | de_name               = Angriffssöldner
   | it_name               = Mercenario d'Assalto
+  | pt_name               = Mercenário de Ataque
   | es_name               = Mercenario de Ataque
   | ja_name               = バスター・マーセナリ
   | romaji_name           = Basutā Māsenari
@@ -15,15 +16,16 @@ wikitext: |-
   | image                 = AssaultMercenary-CRMS-EN-C-1E.png
   | attribute             = EARTH
   | types                 = Warrior / Effect
+  | level                 = 4
   | atk                   = 1800
   | def                   = 300
-  | level                 = 4
-  | effect_types          = Ignition
   | password              = 77036039
+  | effect_types          = Ignition
   | text                  = [[Once per turn]], you can [[return]] 1 "[[Assault Mode Activate]]" from your [[hand]] or [[Graveyard]] to the [[Main Deck|Deck]] to [[destroy]] 1 [[Spell Card|Spell]] or [[Trap Card]] your opponent [[control]]s.
   | fr_text               = Une fois par tour, vous pouvez renvoyer 1 "Activation Mode Assaut" depuis votre main ou Cimetière au Deck pour détruire 1 Carte Magie ou Piège contrôlée par votre adversaire.
   | de_text               = Einmal pro Spielzug kannst du 1 „Angriffsmodus aktivieren“ von deiner Hand oder deinem Friedhof ins Deck zurücklegen, um 1 Zauber- oder Fallenkarte zu zerstören, die dein Gegner kontrolliert.
   | it_text               = Una volta per turno, puoi far ritornare 1 "Attivazione Modalità Assalto" dalla tua mano o Cimitero al Deck per distruggere 1 Carta Magia o Trappola controllata dal tuo avversario.
+  | pt_text               = Uma vez por turno: você pode embaralhar no Deck 1 "Ativar Modo de Ataque" da sua mão ou do Cemitério e, depois, escolha 1 Magia/Armadilha que seu oponente controla; destrua o alvo.
   | es_text               = Una vez por turno, puedes devolver al Deck, desde tu mano o Cementerio, 1 "Activar Modo de Ataque" para destruir 1 Carta Mágica o de Trampa que controle tu adversario.
   | ja_text               = 自分の手札または墓地に存在する「バスター・モード」１枚をデッキに戻す事で、相手フィールド上に存在する魔法・罠カード１枚を破壊する。この効果は１ターンに１度しか使用できない。
   | ko_text               = 자신의 패 또는 묘지에 존재하는 '버스터 모드' 1장을 덱으로 되돌리는 것으로, 상대 필드 위에 존재하는 마법 / 함정 카드 1장을 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
@@ -36,6 +38,8 @@ wikitext: |-
   CRMS-DE023; Crimson Crisis; Common
   | it_sets               = 
   CRMS-IT023; Crimson Crisis; Common
+  | pt_sets               = 
+  OP30-PT033; OTS Tournament Pack 30; Common
   | sp_sets               = 
   CRMS-SP023; Crimson Crisis; Common
   | jp_sets               = 

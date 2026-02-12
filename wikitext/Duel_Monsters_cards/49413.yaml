@@ -19,11 +19,11 @@ wikitext: |-
   | password            = 76407432
   | effect_types        = Activation requirement, Effect
   | text                = When a [[Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d while you [[control]] an "[[/Assault Mode]]" [[monster]]: [[Negate]] the activation, and if you do, [[destroy]] that card.
-  | fr_text             = Activable uniquement lorsque vous contrôlez un monstre "/Mode Assaut". Annulez l'activation d'une Carte Magie, Carte Piège ou de l'effet d'une carte Monstre à Effet et détruisez cette carte.
-  | de_text             = Aktiviere diese Karte nur, solange du ein „/Angriffsmodus“-Monster kontrollierst. Annulliere die Aktivierung einer Zauberkarte, einer Fallenkarte oder den Effekt eines Effektmonsters und zerstöre sie oder es.
-  | it_text             = Attiva solo fino a quando controlli un mostro "/Assalto". Annulla l'attivazione di una Carta Magia, Carta Trappola o effetto di un Mostro con Effetto, e distruggilo.
+  | fr_text             = Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé, tant que vous contrôlez un monstre "/Mode Assaut" : annulez l'activation, et si vous le faites, détruisez la carte.
+  | de_text             = Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird, solange du ein „/Angriffsmodus“-Monster kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte.
+  | it_text             = (Questa carta viene sempre considerata come una carta "Contra".)<br />Quando viene attivata una Carta Magia/Trappola, o l'effetto di un mostro, mentre controlli un mostro "/Assalto": annulla l'attivazione e, se lo fai, distruggi quella carta.
   | pt_text             = Quando um Card de Magia/Armadilha ou efeito de monstro for ativado enquanto você controlar um monstro "/Modo de Ataque": negue a ativação e, se isso acontecer, destrua esse card.
-  | es_text             = Sólo puedes activar esta carta mientras controles 1 monstruo "/Modo de Ataque". Niega la activación de una Carta Mágica, de Trampa, o del Efecto de un Monstruo de Efecto, y destruye esa carta.
+  | es_text             = Cuando es activada una Carta Mágica/de Trampa, o efecto de monstruo, mientras controlas un monstruo "/Modo de Ataque": niega la activación y, si lo haces, destruye esa carta.
   | ja_text             = ①：自分フィールドに「／バスター」モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。
   | ko_text             = ①: 자신 필드에 "/ 버스터" 몬스터가 존재하고, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
   | sc_text             = ①：自己场上存在“／爆裂”怪兽，且怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
@@ -65,5 +65,6 @@ wikitext: |-
   * Destroys Spell Cards
   * Destroys Trap Cards
   * Destroys Monster Cards
+  | misc                = Archetype condition
   | database_id         = 8070
   }}
