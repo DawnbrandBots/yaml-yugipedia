@@ -15,9 +15,9 @@ wikitext: |-
   | condition             = If you have a [[Pyro]] [[Type]] [[Normal Monster]] in your [[Graveyard]], you can [[Normal Summon]] this card without [[Tribute|Tributing]].
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | text                  = This [[turn]], this card's name becomes "[[Flavor Inspector]]". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]].
-  | ja_condition          = 
-  | ja_requirement        = 
-  | ja_text               = 
+  | ja_condition          = 自分の墓地に通常モンスター（炎族）がいる場合、このカードはリリースなしで召喚できる。
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text               = このカードのカード名はこのターン、「万能調味査察官」になる。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
   | jp_sets               = 
   RD/KP24-JP017; Overforce of the Abyss; Common
   | mentions              = 
@@ -32,5 +32,5 @@ wikitext: |-
   * Adds from Graveyard to hand
   | stat_change           = Changes own name while on the field
   | summoning             = Normal Summon without Tribute
-  | database_id           = 
+  | database_id           = 22847
   }}

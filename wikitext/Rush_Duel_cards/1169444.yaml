@@ -13,8 +13,8 @@ wikitext: |-
   | def            = 800
   | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[show]] up to 2 other cards from your [[hand]] and/or [[field]], and place them on the bottom of the [[owner]]'s Deck in any order.
   | text           = [[Draw a card|Draw]] cards equal to [the number of cards placed to meet the [[Activation condition|requirement]]]. You cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of [[EARTH]] [[Attribute]] [[Galaxy]] [[Type]] [[Monster Card|monster]]s.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分のデッキのカードが１０枚以上の場合、このカード以外の自分の手札・フィールドのカードを２枚までお互いに確認し、好きな順番で持ち主のデッキの下に戻して発動できる。
+  | ja_text        = 自分は［この効果の条件で戻したカードの数］だけドローする。この効果の発動後、ターン終了時まで自分はモンスター（地属性／ギャラクシー族）以外のモンスターの効果を発動できない。
   | jp_sets        = 
   RD/KP24-JP011; Overforce of the Abyss; Common
   | supports       = 
@@ -28,5 +28,5 @@ wikitext: |-
   * Places cards from the player's field on the bottom of the Deck for cost
   * You draw cards
   | m/s/t          = Prevents activation of your Effect Monsters
-  | database_id    = 
+  | database_id    = 22841
   }}

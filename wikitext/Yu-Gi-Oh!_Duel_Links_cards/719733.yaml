@@ -1,6 +1,11 @@
 title: Stygian Sergeants (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | de_name      = Stygische Unteroffiziere
+  | fr_name      = Sergent Stygien
+  | it_name      = Sergenti Stygian
+  | ko_name      = 헬 트윈 컵
+  | es_name      = Sargentos Estigios
   | image        = StygianSergeants-DULI-EN-VG.png
   | ja_image     = StygianSergeants-DULI-JP-VG.png
   | attribute    = DARK
@@ -8,8 +13,18 @@ wikitext: |-
   | atk          = 2200
   | def          = 1800
   | level        = 5
-  | rarity       = ???
+  | rarity       = UR
   | effect_types = Trigger
   | text         = 1 [[Fiend]]-[[Type]] [[Tuner monster|Tuner]] + 1 or more non-Tuner [[Monster Card|monsters]]<br />When this card [[destroy]]s an opponent's monster [[by battle]] and [[send]]s it to the [[Graveyard]]: You can have this card gain 800 [[ATK]] until the end of the [[Battle Phase]], also this card can make a second [[attack]] in a row.
+  | fr_text      = 1 Syntoniseur Démon + 1+ monstre non-Syntoniseur<br />Lorsque cette carte détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : vous pouvez faire gagner 800 ATK à cette carte jusqu'à la fin de la Battle Phase, et aussi, cette carte peut faire une seconde attaque à la suite.
+  | de_text      = 1 Unterweltler-Empfänger + 1+ Nicht-Empfänger-Monster<br />Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst diese Karte bis zum Ende der Battle Phase 800 ATK erhalten lassen, zusätzlich kann diese Karte sofort einen zweiten Angriff durchführen.
+  | it_text      = 1 Tuner Demone + 1+ mostri non-Tuner<br />Quando questa carta distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: puoi far guadagnare a questa carta 800 ATK fino alla fine della Battle Phase, inoltre questa carta può effettuare un secondo attacco di seguito.
+  | es_text      = 1 Cantante Demonio + 1+ monstruos que no sean Cantantes<br />Cuando esta carta destruye un monstruo del adversario en batalla y lo manda al Cementerio: puedes hacer que esta carta gane 800 ATK hasta el final de la Battle Phase, y además esta carta puede hacer un segundo ataque inmediatamente después.
   | ja_text      = 悪魔族チューナー＋チューナー以外のモンスター１体以上<br />①：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。このカードは、バトルフェイズ終了時まで攻撃力が８００アップし、もう１度だけ続けて攻撃できる。
+  | ko_text      = 악마족 튜너 + 튜너 이외의 몬스터 1장 이상<br />이 카드가 전투에 의해서 상대 몬스터를 파괴하여 묘지로 보냈을 때, 이 카드의 공격력을 배틀 페이즈 종료시까지 800 포인트 올리고, 1번 더 이어서 공격할 수 있다.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=event|Turbo Duel Grand Prix}}
+  {{Duel Links release table|type=ticket|Ranked Duels Ticket}}
+  {{Duel Links release table/footer}}
   }}
