@@ -28,7 +28,7 @@ wikitext: |-
   | es_text         = Una vez por turno: puedes infligir 500 puntos de daño a tu adversario. El turno en el que activas este efecto no puedes realizar tu Battle Phase. Durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí este turno: puedes añadir a tu mano 1 monstruo Máquina de TIERRA de Nivel 10 en tu Deck. Sólo puedes usar este efecto de "Vagón Rufián" una vez por turno.
   | ja_text         = このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、自分メインフェイズに発動できる。相手に５００ダメージを与える。この効果を発動するターン、自分はバトルフェイズを行えない。②：このカードが墓地へ送られたターンのエンドフェイズに発動できる。デッキから機械族・地属性・レベル１０モンスター１体を手札に加える。
   | ko_text         = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 상대에게 500 데미지를 준다. 이 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다. ②: 이 카드가 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 기계족 / 땅 속성 / 레벨 10 몬스터 1장을 패에 넣는다.
-  | sc_text         = 此卡名的②效果1回合仅可使用1次。①：1回合1次，在自己的主要阶段可以发动。给予对手500伤害。发动此效果的回合中，自己无法进行战斗阶段。②：在此卡被送至墓地的回合的结束阶段可以发动。从牌组将1只机械族・地属性・等级10怪兽加入手牌。
+  | sc_text         = 此卡名的②效果1回合仅可使用1次。①：1回合1次，在自己的主要阶段可以发动（发动此效果的回合中，自己无法进行战斗阶段）。给予对手500伤害。②：在此卡被送至墓地的回合的结束阶段可以发动。从牌组将1只机械族・地属性・等级10怪兽加入手牌。
   | en_sets         = 
   NECH-EN090; The New Challengers; Common
   LED4-EN042; Legendary Duelists: Sisters of the Rose; Common
@@ -52,7 +52,7 @@ wikitext: |-
   RC02-JP014; Rarity Collection 20th Anniversary Edition; Super Rare, Secret Rare, Collector's Rare
   DP21-JP042; Duelist Pack: Legend Duelist 4; Common
   SLF1-JP007; Selection 5; Common, Super Rare, Secret Rare
-  | ae_sets               = 
+  | ae_sets         = 
   SLF1-AE007; Selection 5: Quarter Century Edition; Common, Super Rare, Secret Rare
   | kr_sets         = 
   CPL1-KR048; Collectors Pack: Duelist of Legend Version; Super Rare, Secret Rare
@@ -61,6 +61,7 @@ wikitext: |-
   SLF1-KR007; Selection 5; Common, Super Rare, Secret Rare
   | sc_sets         = 
   DP21-SC054; Duelist Pack: Legend Duelist 4; Common
+  BLZD-SCS04; Blazing Dominion +1 Assist Pack; Ultra Rare
   | supports        = 
   * EARTH
   * Machine
