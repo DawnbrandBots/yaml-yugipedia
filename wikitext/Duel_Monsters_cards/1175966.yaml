@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 光と闇の儀式
-  | romaji_name           = 
+  | ja_name               = {{Ruby|光|ひかり}}と{{Ruby|闇|やみ}}の{{Ruby|儀|ぎ}}{{Ruby|式|しき}}
+  | romaji_name           = Hikari to Yami no Gishiki
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -18,8 +18,11 @@ wikitext: |-
   | card_type             = Spell
   | property              = Ritual
   | password              = 
-  | effect_types          = Effect, Ignition-like, Condition
-  | text                  = [[Ritual Summon]] 1 "[[Black Chaos the Dark Chaos Magician]]" or "[[Black Luster Soldier - Soldier of Light and Darkness]]" from your [[hand]], by [[Tributing]] [[monsters]] from your [[hand]] or [[field]], and/or [[banish]]ing monsters from your [[GY]], whose total [[Level]]s equal or exceed its Level. If this card is in your GY: You can [[Add a card|add]] both this card and 1 card that mentions "Ritual of Light and Darkness" from your GY to your hand. You can only use this [[effect]] of "Ritual of Light and Darkness" [[once per turn]].
+  | ritualmonster         = 
+  * Black Chaos the Dark Chaos Magician
+  * Black Luster Soldier - Soldier of Light and Darkness
+  | effect_types          = Effect, Effect, Ignition-like, Condition
+  | text                  = This card can be used to [[Ritual Summon]] "[[Black Chaos the Dark Chaos Magician]]" or "[[Black Luster Soldier - Soldier of Light and Darkness]]". You must also [[Tribute]] [[monsters]] from your [[hand]] or [[field]] and/or [[banish]] monsters from your [[GY]], whose total [[Level]]s equal or exceed the Level of the monster you Ritual Summon. If this card is in your GY: You can [[Add a card|add]] both it and 1 other card that mentions "Ritual of Light and Darkness" from your GY to your hand. You can only use this [[effect]] of "Ritual of Light and Darkness" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,5 +37,9 @@ wikitext: |-
   * Black Chaos the Dark Chaos Magician
   * Black Luster Soldier - Soldier of Light and Darkness
   * Ritual of Light and Darkness
+  | related_to_archseries = 
+  * Black Luster Soldier (archetype)
+  * Chaos
+  * Magician (archetype)
   | database_id           = 
   }}

@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 混沌のマジック・ボックス
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = {{Ruby|混|こん}}{{Ruby|沌|とん}}のマジック・ボックス
+  | romaji_name           = Konton no Majikku Bokkusu
+  | translated_name       = Magic Box of Chaos
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect, Trigger-like
-  | text                  = When your opponent [[activate]]s a card or [[effect]] that [[target]]s another card(s) you [[control]]: [[Return]] 1 of those cards you control to the [[hand]] (if [[face-down]], reveal it briefly to check), and if you do, [[destroy]] 1 card on the [[field]], then you can [[Special Summon]] 1 [[monster]] that mentions "[[Ritual of Light and Darkness]]" from your hand, with a different name than the returned card, [[ignoring its Summoning conditions]]. If this card in its owner's [[possess]]ion is destroyed by an opponent's card: You can Special Summon 1 [[Ritual Monster]] that mentions "Ritual of Light and Darkness" from your hand or [[Main Deck|Deck]].
+  | text                  = When your opponent [[activate]]s a card or [[effect]] that [[target]]s another card(s) you [[control]]: [[Return]] 1 of those cards you control to the [[hand]] (if [[face-down]], reveal it), and if you do, [[destroy]] 1 card on the [[field]], then you can [[Special Summon]] 1 [[monster]] that mentions "[[Ritual of Light and Darkness]]" from your hand, with a different name than the returned card, [[ignoring its Summoning conditions]]. If this card in its owner's [[possess]]ion is destroyed by an opponent's card: You can Special Summon 1 [[Ritual Monster]] that mentions "Ritual of Light and Darkness" from your hand or [[Main Deck|Deck]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -30,6 +30,9 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP045; Chaos Origins; 
+  | related_to_archseries = 
+  * Chaos (archetype)
+  * Dark Magician (archetype)
   | mentions              = Ritual of Light and Darkness
   | database_id           = 
   }}
