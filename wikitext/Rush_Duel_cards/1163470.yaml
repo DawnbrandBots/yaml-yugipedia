@@ -16,8 +16,8 @@ wikitext: |-
   | def            = 2900
   | requirement    = If the number of [[Monster Card|monster]]s in your opponent's [[Graveyard]] exceeds the number of monsters in your Graveyard, place 1 monster from your Graveyard on the bottom of the [[Main Deck|Deck]].
   | text           = Until the end of your opponent's next [[turn]], this card gains [[ATK]] equal to [the difference between the number of monsters in both [[Duelist|player]]s' Graveyards] x 100, and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 相手の墓地のモンスターの数が自分の墓地のモンスターの数より多い場合、自分の墓地のモンスター１体をデッキの下に戻して発動できる。
+  | ja_text        = 次の相手ターン終了時まで、このカードの攻撃力は［お互いの墓地のモンスターの数の差］×１００アップし、その攻撃は貫通する。
   | jp_sets        = 
   RD/KP24-JP040; Overforce of the Abyss; Rare, Secret Rare
   | archseries     = Moonforce
@@ -25,5 +25,5 @@ wikitext: |-
   | stat_change    = This card gains ATK
   | attack         = Piercing
   | misc           = Turn limited effects
-  | database_id    = 
+  | database_id    = 22870
   }}
