@@ -12,12 +12,24 @@ wikitext: |-
   | level           = 3
   | atk             = 0
   | def             = 2400
+  | ritualcard      = Rite of Despair
   | requirement     = None
-  | text            = [[Fusion Summon]] a [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] with 2400 [[DEF]] by [[send]]ing monsters from your [[hand]] or [[field]] to the [[Graveyard]] as [[material]].
+  | text            = [[Fusion Summon]] a [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] with 2400 [[DEF]] by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/ORP4-JP0??; Over Rush Pack 4
+  | supports        = 
+  * DARK
+  * Fiend
   | archseries      = Mad Fiend of Despair
+  | action          = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning       = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
   | database_id     = 
   }}

@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 9
   | atk            = 1800
   | def            = 2300
-  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] or 1 [[Fairy]] Type monster.
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] or 1 [[Fairy]] Type monster.
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
   | text           = [[Add a card|Add]] up to 2 "[[Soleil the Skysavior Angel]]", "[[Lua the Skysavior Angel]]", and/or "[[Fusion (Rush Duel)|Fusion]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[send]] 1 monster from your [[field]] to the Graveyard.
   | ja_condition   = 
@@ -23,6 +23,18 @@ wikitext: |-
   * Soleil the Skysavior Angel
   * Lua the Skysavior Angel
   * Fusion (Rush Duel)
+  | supports       = 
+  * WATER
+  * Warrior
+  * Fairy
   | archseries     = Skysavior
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  * Sends from your field to your Graveyard
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

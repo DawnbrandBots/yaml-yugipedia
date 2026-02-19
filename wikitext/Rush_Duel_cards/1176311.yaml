@@ -11,13 +11,13 @@ wikitext: |-
   | level           = 10
   | atk             = 3000
   | def             = 2000
+  | effect_types    = Multi-Choice
   | fusion_material = 
   * Soleil the Skysavior Angel
   * Soul of the Skysavior Angel
-  | effect_types    = Multi-Choice
-  | materials       = 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] + "[[Soleil the Skysavior Angel]]" + "[[Soul of the Skysavior Angel]]"
+  | materials       = 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] + "[[Soleil the Skysavior Angel]]" + "[[Soul of the Skysavior Angel]]"
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = ● This [[turn]], this card can [[attack directly]].<br />● This card gains 1500 [[ATK]]/[[DEF]] until the end of this [[turn]].<br />● This turn, this card can [[attack]] twice.
+  | text            = ●This [[turn]], this card can [[attack]] [[Direct attack|directly]]. ●This card gains 1500 [[ATK]]/[[DEF]] until the end of this turn. ●This turn, this card can attack twice.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,22 @@ wikitext: |-
   | mentions        = 
   * Soleil the Skysavior Angel
   * Soul of the Skysavior Angel
+  | supports        = 
+  * WATER
+  * Warrior
   | archseries      = Skysavior
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = 
+  * This card gains ATK
+  * This card gains DEF
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | attack          = 
+  * Direct attacker
+  * Multiple attacker
+  | misc            = Variable Effects
   | database_id     = 
   }}
