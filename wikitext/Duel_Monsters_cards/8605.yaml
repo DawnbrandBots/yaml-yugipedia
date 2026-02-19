@@ -12,7 +12,10 @@ wikitext: |-
   | ja_name               = デス・コアラ
   | romaji_name           = Desu Koara
   | translated_name       = Death Koala
-  | image                 = DesKoala-SGX2-EN-C-1E.png
+  | image                 = 
+  1; DesKoala-SGX2-EN-C-1E.png; DesKoala-MADU-EN-VG-artwork.png
+  2; DesKoala-MZMU-EN-ScR-1E.png; 
+  | current_image         = 2
   | attribute             = DARK
   | types                 = Beast / Flip / Effect
   | level                 = 3
@@ -88,6 +91,7 @@ wikitext: |-
   | archseries            = Koala
   | action                = Activates upon being flipped face-up
   | life_points           = Damages your opponent
+  | misc                  = Archetype condition
   | database_id           = 5661
   | tcg_speed_duel_status = Unlimited
   }}
