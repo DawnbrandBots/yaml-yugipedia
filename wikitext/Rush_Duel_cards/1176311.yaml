@@ -3,20 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|閃|せん}}{{Ruby|戟|げき}}{{Ruby|士|し}} ディグレイシオン
-  | romaji_name    = Sōkyū no Sengekishi Digureishion
-  | image          = DigracheontheSkysaviorRadiaknight-OW.png
-  | attribute      = LIGHT
-  | types          = Celestial Warrior / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|閃|せん}}{{Ruby|戟|げき}}{{Ruby|士|し}} ディグレイシオン
+  | romaji_name     = Sōkyū no Sengekishi Digureishion
+  | image           = DigracheontheSkysaviorRadiaknight-OW.png
+  | attribute       = LIGHT
+  | types           = Celestial Warrior / Fusion / Effect
+  | level           = 10
+  | atk             = 3000
+  | def             = 2000
+  | fusion_material = 
+  * Soleil the Skysavior Angel
+  * Soul of the Skysavior Angel
+  | effect_types    = Multi-Choice
+  | materials       = 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] + "[[Soleil the Skysavior Angel]]" + "[[Soul of the Skysavior Angel]]"
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = ● This [[turn]], this card can [[attack directly]].<br />● This card gains 1500 [[ATK]]/[[DEF]] until the end of this [[turn]].<br />● This turn, this card can [[attack]] twice.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/ORP4-JP0??; Over Rush Pack 4
-  | archseries     = Skysavior
-  | database_id    = 
+  | mentions        = 
+  * Soleil the Skysavior Angel
+  * Soul of the Skysavior Angel
+  | archseries      = Skysavior
+  | database_id     = 
   }}
