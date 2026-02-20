@@ -8,12 +8,21 @@ wikitext: |-
   | image          = LightofBewitchment-RDORP4-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = During a [[turn]] you have not activated "Light of Bewitchment", [[declare]] the [[Attribute]] of 1 [[face-up]] [[Spellcaster]] [[Type]] [[monster]] on your [[field]].
-  | text           = The Attribute of 1 face-up monster on your opponent's field becomes the Attribute declared to meet the requirement until the end of this [[turn]]. After activation, you can Set this card instead of sending it to the Graveyard.
+  | requirement    = During a [[turn]] you have not [[activate]]d "Light of Bewitchment", [[declare]] the [[Attribute]] of 1 [[face-up]] [[Spellcaster]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | text           = The Attribute of 1 face-up monster on your opponent's field becomes the Attribute declared to meet the [[Activation condition|requirement]] until the end of this turn. After activation, you can [[Set]] this card instead of [[send]]ing it to the [[Graveyard]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP4-JP074; Over Rush Pack 4; Common
   | mentions       = Light of Bewitchment
+  | supports       = Spellcaster
+  | action         = 
+  * Declares an Attribute
+  * Flips itself face-down
+  * Sets face-up cards in your Spell & Trap Zone‎
+  | stat_change    = Changes Attribute
+  | misc           = 
+  * Only once per turn
+  * Requires control of specific Type
   | database_id    = 
   }}
