@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Center
   | atk                   = 800
   | password              = 
-  | materials             = 
+  | materials             = 2 monsters with the same Type
   | effect_types          = Trigger, Ignition, Condition
   | text                  = 2 [[monsters]] with the same [[Type]]<br />If this card is [[Link Summon]]ed, or a monster(s) is [[Special Summon]]ed to a [[zone]](s) this card [[points to]]: You can [[send]] 1 [[Spell]] from your [[hand]] or [[face-up]] [[field]] to the [[GY]]; [[Add a card|add]] 1 [[Ritual Monster]] from your [[Main Deck|Deck]] to your [[hand]]. You can [[target]] 1 Ritual, [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], or [[Xyz Monster]] this card points to; Special Summon 1 monster from your GY with the same [[Type]] but a different card type (Ritual, Fusion, Synchro, or Xyz). You can only use each effect of "Cyberse Contract Witch" [[once per turn]].
   | fr_text               = 
@@ -33,6 +33,24 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LOCH-JP018; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grandmaster Rare
+  | supports              = 
+  * Ritual Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
   | archseries            = Cyber
+  | action                = 
+  * Activates upon Link Summon
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Adds from Deck to hand
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}

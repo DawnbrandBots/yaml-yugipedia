@@ -36,5 +36,19 @@ wikitext: |-
   | archseries            = 
   * Gagaga
   * Signature move
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your hand
+  * Uses itself as an Xyz Material
+  * Activates if detached from Xyz Monster to activate its effect
+  | stat_change           = 
+  * Treated as alternate Level
+  * Your opponent's monsters lose ATK
+  * Reduces ATK to 0
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Performs an Xyz Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Only once per turn
   | database_id           = 
   }}
