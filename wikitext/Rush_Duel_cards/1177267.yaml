@@ -5,11 +5,11 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}と{{Ruby|切|せつ}}{{Ruby|望|ぼう}}
   | romaji_name    = Zetsubō to Setsubō
-  | image          = DespairandDesire-ORP4-JP-OP.png
+  | image          = DespairandDesire-RDORP4-JP-OP.png
   | card_type      = Spell
   | property       = Normal
   | requirement    = During a [[turn]] you have not [[activate]]d "Despair and Desire", [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = [[Special Summon]] 1 [[Level]] 3 or 8 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] monster with 1200 [[DEF]] from your [[hand]] [[face-up]] to your [[field]]. Then, if you have "[[Dead Core the Mad Fiend of Despair]]" on your field, you can [[Add a card|add]] 1 DARK Attribute Fiend Type monster from your Graveyard to your hand.
+  | text           = [[Special Summon]] 1 [[Level]] 3 or 8 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] with 1200 [[DEF]] from your [[hand]] [[face-up]] to your [[field]]. Then, if you have "[[Dead Core the Mad Fiend of Despair]]" on your field, you can [[Add a card|add]] 1 DARK Attribute Fiend Type monster from your Graveyard to your hand.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +17,16 @@ wikitext: |-
   | mentions       = 
   * Despair and Desire
   * Dead Core the Mad Fiend of Despair
+  | supports       = 
+  * DARK
+  * Fiend
   | archseries     = Mad Fiend of Despair
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | summoning      = Special Summons from your hand
+  | misc           = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id    = 
   }}

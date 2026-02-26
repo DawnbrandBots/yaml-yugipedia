@@ -2,16 +2,25 @@ title: Hiita the Fire Charmer (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = HiitatheFireCharmer-ORP4-JP-OP.png
-  | attribute       = FIRE
-  | types           = Spellcaster / Effect
-  | level           = 3
-  | atk             = 500
-  | def             = 1500
-  | requirement     = During your [[Main Phase]] this card was [[flip]]ped [[face-up]], or you have another face-up [[Spellcaster]] [[Type]] [[Monster Card|monster]] with 1500 [[DEF]] on your [[field]].
-  | text            = Take [[control]] of 1 face-up [[Level]] 8 or lower [[FIRE]] [[Attribute]] monster on your opponent's field, except a [[Maximum Monster]].
-  | jp_sets         = 
+  | image         = 
+  1; HiitatheFireCharmer-RDORP4-JP-OP.png; HiitatheFireCharmer-OW-RD.png
+  2; HiitatheFireCharmer-RDORP4-JP-OP-AA.png
+  | current_image = 1
+  | attribute     = FIRE
+  | types         = Spellcaster / Effect
+  | level         = 3
+  | atk           = 500
+  | def           = 1500
+  | requirement   = During your [[Main Phase]] this card was [[flip]]ped [[face-up]], or you have another face-up [[Spellcaster]] [[Type]] [[Monster Card|monster]] with 1500 [[DEF]] on your [[field]].
+  | text          = Take [[control]] of 1 face-up [[Level]] 8 or lower [[FIRE]] [[Attribute]] monster on your opponent's field, except a [[Maximum Monster]].
+  | jp_sets       = 
   RD/ORP4-JP003; Over Rush Pack 4; Ultra Rare, Secret Rare, Full Over Rush Rare
-  | archseries      = Charmer (Rush Duel)
-  | misc            = Cover card
+  | supports      = Spellcaster
+  | anti-supports = FIRE
+  | archseries    = Charmer (Rush Duel)
+  | action        = Takes control of an opponent's monster
+  | misc          = 
+  * Requires control of specific Type
+  * Requires control of specific DEF
+  * Cover card
   }}

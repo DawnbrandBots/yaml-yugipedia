@@ -5,13 +5,13 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|火|か}}{{Ruby|霊|れい}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}ヒータ
   | romaji_name    = Kareijutsushi Hīta
-  | image          = HiitatheFireSpiritualist-ORP4-JP-OP.png
+  | image          = HiitatheFireSpiritualist-RDORP4-JP-OP.png
   | attribute      = FIRE
   | types          = Spellcaster / Effect
   | level          = 5
   | atk            = 1900
   | def            = 1500
-  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 [[monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 [[Monster Card|monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
   | text           = [[Damage|Inflict]] 500 [[Effect damage|damage]] to your opponent. Then, you can [[Draw a card|draw]] 1 card. This [[turn]], you cannot [[activate]] the [[effect]] of "Hiita the Fire Spiritualist".
   | ja_requirement = 
   | ja_text        = 
@@ -19,5 +19,13 @@ wikitext: |-
   RD/ORP4-JP011; Over Rush Pack 4; Ultra Rare, Over Rush Rare
   | mentions       = Hiita the Fire Spiritualist
   | archseries     = Charmer (Rush Duel)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  | life_points    = Damages your opponent
+  | misc           = Only once per turn
   | database_id    = 
   }}
