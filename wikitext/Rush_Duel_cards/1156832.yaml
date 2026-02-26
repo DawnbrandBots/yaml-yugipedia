@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = パワー・ショックボーグ
   | romaji_name    = Pawā Shokkubōgu
+  | ko_name        = 파워 쇼크보그
   | image          = PowerShockborg-RDKP23-JP-C.png
   | attribute      = FIRE
   | types          = Machine / Effect
@@ -15,8 +16,12 @@ wikitext: |-
   | text           = Make 1 [[face-up]] [[Machine]] [[Type]] [[Monster Card|monster]] on the [[field]] gain 1000 [[ATK]] until the end of this turn. [[Destroy]] that monster during the [[End Phase]] of this turn.
   | ja_requirement = このカードを召喚したターンに、デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text        = 自分または相手フィールドの表側表示モンスター（機械族）１体を選び、その攻撃力をターン終了時まで１０００アップする。この効果で選んだモンスターはこのターンのエンドフェイズに破壊される。
+  | ko_requirement = 이 카드를 일반 소환한 턴에, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 또는 상대 필드의 앞면 표시 몬스터(기계족) 1장을 고르고, 그 공격력을 턴 종료시까지 1000 올린다. 이 효과로 고른 몬스터는 이 턴의 엔드 페이즈에 파괴된다.
   | jp_sets        = 
   RD/KP23-JP022; Gias Charge of the Nova; Common
+  | kr_sets        = 
+  RD/KP23-KR022; Gias Charge of the Nova; Common
   | supports       = Machine
   | action         = 
   * Activates during the turn in which it was Normal Summoned

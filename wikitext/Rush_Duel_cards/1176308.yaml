@@ -3,19 +3,42 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|祈|き}}{{Ruby|誓|せい}}
-  | romaji_name           = Sōkyū no Kisei
-  | image                 = SkysaviorOath-ORP4-JP-OP.png
-  | card_type             = Spell
-  | property              = Normal
-  | condition             = This card's name becomes "[[Skysavior Prayer]]" while in the [[hand]] or [[Graveyard]].
-  | requirement           = None
-  | text                  = [[Fusion Summon]] a [[Celestial Warrior]] [[Type]] [[Monster Card|monster]] by [[send]]ing 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] monster and 1 or more [[Fairy]] Type [[Effect Monster]]s from your hand or [[field]] to the Graveyard as [[material]].
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name        = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|祈|き}}{{Ruby|誓|せい}}
+  | romaji_name    = Sōkyū no Kisei
+  | image          = SkysaviorOath-RDORP4-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | condition      = This card's name becomes "[[Skysavior Prayer]]" while in the [[hand]] or [[Graveyard]].
+  | requirement    = None
+  | text           = [[Fusion Summon]] a [[Celestial Warrior]] [[Type]] [[Monster Card|monster]] by [[send]]ing 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] monster and 1 or more [[Fairy]] Type [[Effect Monster]]s from your hand and/or [[field]] to the Graveyard as [[material]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP050; Over Rush Pack 4; Common
-  | mentions              = Skysavior Prayer
-  | archseries            = Skysavior
-  | database_id           = 
+  | mentions       = Skysavior Prayer
+  | supports       = 
+  * Celestial Warrior
+  * WATER
+  * Warrior
+  * Fairy
+  * Effect Monster
+  | archseries     = Skysavior
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | stat_change    = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  | database_id    = 
   }}

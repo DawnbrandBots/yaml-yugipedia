@@ -3,18 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name               = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|防|ぼう}}{{Ruby|衛|えい}}
-  | romaji_name           = Sōkyū no Bōei
-  | image                 = SkysaviorDefense-ORP4-JP-OP.png
-  | card_type             = Trap
-  | property              = Normal
-  | requirement           = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text                  = Choose up to 2 [[Attack Position]] [[Celestial Warrior]] and/or Warrior [[Type]] monsters on your field. This turn, those monsters cannot be [[destroyed by battle]]. Then, you can [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard in your [[Spell & Trap Zone]].
-  | ja_requirement        = 
-  | ja_text               = 
-  | jp_sets               = 
+  | ja_name        = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|防|ぼう}}{{Ruby|衛|えい}}
+  | romaji_name    = Sōkyū no Bōei
+  | image          = SkysaviorDefense-RDORP4-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 2 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = Choose up to 2 [[Attack Position]] [[Celestial Warrior]] and/or Warrior Type monsters on your [[field]]. This [[turn]], those monsters cannot be [[destroyed by battle]]. Then, you can [[Set]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[Spell & Trap Zone]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP054; Over Rush Pack 4; Super Rare
-  | mentions              = Fusion (Rush Duel)
-  | archseries            = Skysavior
-  | database_id           = 
+  | mentions       = Fusion (Rush Duel)
+  | supports       = 
+  * WATER
+  * Warrior
+  * Celestial Warrior
+  | archseries     = Skysavior
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  * Sets from your Graveyard
+  | attack         = Prevents other cards being destroyed by battle
+  | misc           = Requires control of specific Type
+  | database_id    = 
   }}

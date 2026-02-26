@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ローレ・ライミー
   | romaji_name    = Rōre Raimī
+  | ko_name        = 로레 라이미
   | image          = 
   1; LoreLeimey-RDKP23-JP-UR.png; LoreLeimey-OW.png
   2; LoreLeimey-RDKP23-JP-ORR-AA.png
@@ -18,8 +19,12 @@ wikitext: |-
   | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can choose 1 [[Level]] 3 or 4 [[Effect Monster]] with 1500 or less [[ATK]] in your opponent's Graveyard. If you do, neither [[Duelist|player]] can [[activate]] the [[effect]]s of [[Monster Card|monster]]s with the same original name as that monster until the end of your opponent's next [[turn]].
   | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
   | ja_text        = 自分のデッキの上からカード３枚を墓地へ送る。その後、相手の墓地の効果モンスター（レベル３・４／攻撃力１５００以下）１体を選ぶ事ができる。選んだ場合、さらに次の相手ターン終了時まで、お互いはそのモンスターと元々のカード名が同じモンスターの効果を発動できない。
+  | ko_requirement = 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
+  | ko_text        = 자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 상대 묘지의 효과 몬스터(레벨 3・4 / 공격력 1500 이하) 1장을 고를 수 있다. 고른 경우, 추가로 다음 상대 턴 종료시까지, 양쪽 플레이어는 그 몬스터와 원래의 카드명이 같은 몬스터의 효과를 발동할 수 없다.
   | jp_sets        = 
   RD/KP23-JP037; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets        = 
+  RD/KP23-KR037; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
   | anti-supports  = Effect Monster
   | action         = 
   * Activates during the turn in which it was Normal Summoned
