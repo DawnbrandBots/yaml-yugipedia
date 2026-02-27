@@ -3,23 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} ツールキート
-  | romaji_name     = Purazumatikku Moderu Tsūru Kīto
-  | image           = PlasmaticModelToolCeto-RDORP4-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Thunder / Effect
-  | level           = 8
-  | atk             = 2400
-  | def             = 800
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[Level]] 8 or higher [[monster]].
-  | requirement     = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
-  | text            = [[Special Summon]] 2 Level 4 or lower [[Thunder]] [[Type]] monsters with 800 [[DEF]] from your Graveyard to your field in face-up [[Defense Position]]. Then, you can add 1 "[[Plasmatic Model Open]]" from your Graveyard to your [[hand]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} ツールキート
+  | romaji_name    = Purazumatikku Moderu Tsūru Kīto
+  | image          = PlasmaticModelToolCeto-RDORP4-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Effect
+  | level          = 8
+  | atk            = 2400
+  | def            = 800
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Level]] 8 or higher [[Monster Card|monster]].
+  | requirement    = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
+  | text           = [[Special Summon]] 2 Level 4 or lower [[Thunder]] [[Type]] monsters with 800 [[DEF]] from your Graveyard to your field in face-up [[Defense Position]]. Then, you can [[Add a card|add]] 1 "[[Plasmatic Model Open]]" from your Graveyard to your [[hand]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP069; Over Rush Pack 4; Super Rare
-  | mentions        = Plasmatic Model Open
-  | archseries      = Plasmatic Model
-  | database_id     = 
+  | mentions       = Plasmatic Model Open
+  | supports       = Thunder
+  | archseries     = Plasmatic Model
+  | action         = 
+  * Sends itself from field to Graveyard for cost
+  * Adds from Graveyard to hand
+  | summoning      = 
+  * Normal Summon with 1 Tribute
+  * Special Summons from your Graveyard
+  | misc           = Requires control of specific Level
+  | database_id    = 
   }}
