@@ -13,14 +13,14 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 大精灵机巧军－灵摆统御者
-  | image                 = MasterSpiritTechForcePendulumRuler-LOCH-JP-OP.png
+  | image                 = MasterSpiritTechForcePendulumRuler-LOCH-JP-UR.png
   | attribute             = LIGHT
   | types                 = Machine / Fusion / Pendulum / Effect
   | level                 = 12
   | pendulum_scale        = 1
   | atk                   = 3500
   | def                   = 3000
-  | password              = 
+  | password              = 68508433
   | pendulum_effect_types = Ignition-like, Condition
   | materials             = 1 Level 7 or higher Pendulum Monster + 1 Pendulum Monster
   | effect_types          = Continuous, Continuous, Ignition, Condition, Ignition
@@ -36,8 +36,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードをＥＸデッキに戻す。その後、自分のデッキ・ＥＸデッキ（表側）からレベル７のＰモンスター１体を手札に加える事ができる。
+  | ja_text               = レベル７以上のＰモンスター＋Ｐモンスター<br />このカード名の③のモンスター効果は１ターンに２度まで使用できる。①：フィールドのこのカードは効果では破壊されない。②：このカードがモンスターゾーンに存在する限り、レベルを持たないＰモンスターを除き、相手モンスターは攻撃できない。③：自分フィールドのモンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊し、相手に１６００ダメージを与える。④：１ターンに１度、自分メインフェイズに発動できる。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
@@ -69,5 +69,5 @@ wikitext: |-
   * Only once per turn
   * Only twice per turn
   * Limited activations
-  | database_id           = 
+  | database_id           = 22714
   }}

@@ -21,7 +21,7 @@ wikitext: |-
   | pendulum_scale        = 4
   | atk                   = 2500
   | def                   = 2000
-  | password              = 
+  | password              = 75787708
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Condition, Continuous, Continuous, Trigger, Condition
   | pendulum_effect       = During your [[Main Phase]]: You can [[destroy]] this card, and if you do, [[add]] 1 [[Pendulum Monster]] with 1500 or less [[ATK]] from your [[Deck]] to your [[hand]], also for the rest of this [[turn]], unless you [[Pendulum Summon]] after this [[effect]] [[resolve]]s, you cannot [[activate]] monster [[effect]]s on the [[field]]. You can only use this effect of "Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons" [[once per turn]].
@@ -36,14 +36,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを破壊し、デッキから攻撃力１５００以下のＰモンスター１体を手札に加える。このターン自分はＰ召喚に成功しない限り、フィールドのモンスターの効果を発動できない。
+  | ja_text               = このカード名の②のモンスター効果は１ターンに１度しか使用できない。①：Ｐ召喚したこのカードは以下の効果を得る。●自分のＰゾーンにカードが２枚存在する限り、そのＰスケールの差×３００だけ、このカードの攻撃力はアップする。●このカードの戦闘で発生する相手への戦闘ダメージは倍になる。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを手札に加える。このカードが相手によって破壊されていた場合、さらにこのカードを特殊召喚できる。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  LOCH-JP013; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  LOCH-JP013; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
   | sc_sets               = 
   LOCH-SC013; Limit Over Collection: The Heroes; 
   | supports              = Pendulum Monster
@@ -65,5 +65,5 @@ wikitext: |-
   | summoning             = Special Summons itself from your hand
   | life_points           = Increases battle damage
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22702
   }}

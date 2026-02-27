@@ -21,7 +21,7 @@ wikitext: |-
   | pendulum_scale        = 1
   | atk                   = 2500
   | def                   = 2000
-  | password              = 
+  | password              = 48171151
   | pendulum_effect_types = Ignition-like, Condition
   | effect_types          = Trigger, Quick, Condition
   | pendulum_effect       = During your [[Main Phase]]: You can [[destroy]] this card, and if you do, place 1 [[Pendulum Monster]] whose [[Pendulum Scale]] is 1 from your [[hand]] or [[Main Deck|Deck]] in your [[Pendulum Zone]], except "Astrograph Sorcerer, the Star Magician", but it cannot [[activate]] its [[Pendulum Effect]]s this turn. You can only use this [[effect]] of "Astrograph Sorcerer, the Star Magician" once per turn.
@@ -36,14 +36,14 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを破壊し、手札・デッキから「星霜の魔術師－アストログラフ・マジシャン」以外のＰスケールが１のＰモンスター１体を自分のＰゾーンに置く。この効果で置いたカードのＰ効果はこのターン発動できない。
+  | ja_text               = このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示のモンスターカードが戦闘・効果で破壊された場合に発動できる。このカードを手札から特殊召喚する。その後、その破壊されたモンスターの内１体を自分のＥＸデッキ（表側）・墓地から特殊召喚できる。②：自分・相手のメインフェイズに発動できる。このカードをリリースする。その後、自分のＥＸデッキ（表側）・フィールドのモンスターを融合素材としてデッキに戻し、ドラゴン族の融合モンスター１体を融合召喚できる。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = 
   | sc_text               = 
   | jp_sets               = 
-  LOCH-JP015; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grandmaster Rare
+  LOCH-JP015; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
   | sc_sets               = 
   LOCH-SC015; Limit Over Collection: The Heroes; 
   | mentions              = Astrograph Sorcerer, the Star Magician
@@ -73,5 +73,5 @@ wikitext: |-
   * Performs a Fusion Summon
   * Special Summons from your Extra Deck
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22704
   }}
