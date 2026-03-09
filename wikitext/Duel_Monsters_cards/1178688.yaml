@@ -44,7 +44,24 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   YO12-JP001; Yu-Gi-Oh! OCG Structures Volume 12 promotional card; Ultra Rare
+  | supports              = Pendulum Monster
+  | anti-supports         = Pendulum Monster
   | archseries            = Clown Clan
   | supports_archetypes   = Clown Clan
+  | action                = 
+  * Sends from your Deck to your Graveyard
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Extra Deck to Main Deck
+  | stat_change           = Your opponent's monsters lose DEF
+  | m/s/t                 = Prevents activation of your Effect Monsters
+  | summoning             = 
+  * Special Summons itself from your Pendulum Zone
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Ignoring the Summoning conditions
+  | misc                  = 
+  * Only once per turn
+  * Variable effects
   | database_id           = 
   }}

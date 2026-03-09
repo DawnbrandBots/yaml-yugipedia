@@ -16,8 +16,8 @@ wikitext: |-
   * Seir the Skysavior Knight
   * Soleil the Skysavior Angel
   | materials       = "[[Seir the Skysavior Knight]]" + "[[Soleil the Skysavior Angel]]"
-  | requirement     = Show 1 other card from your [[hand]] or [[field]] and place it on the bottom of the owner's [[Main Deck|Deck]].
-  | text            = ● [[Destroy]] 1 [[face-up]] [[Level]] 9 or lower [[monster]] on your opponent's [[field]].<br />● [[Add a card|Add]] 1 Level 1 [[Fairy]] [[Type]] monster from your [[Graveyard]] to your hand.
+  | requirement     = Show 1 other card from your [[hand]] or [[field]], and place it on the bottom of the [[owner]]'s [[Main Deck|Deck]].
+  | text            = ●[[Destroy]] 1 [[face-up]] [[Level]] 9 or lower [[Monster Card|monster]] on your opponent's field. ●[[Add a card|Add]] 1 Level 1 [[Fairy]] [[Type]] monster from your [[Graveyard]] to your hand.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,18 @@ wikitext: |-
   | mentions        = 
   * Seir the Skysavior Knight
   * Soleil the Skysavior Angel
+  | supports        = Fairy
   | archseries      = Skysavior
+  | action          = 
+  * Reveals your hand for cost
+  * Reveals your face-down cards for cost
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | m/s/t           = Destroys your opponent's face-up Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | misc            = Variable effects
   | database_id     = 
   }}

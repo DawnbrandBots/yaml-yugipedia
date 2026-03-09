@@ -17,7 +17,7 @@ wikitext: |-
   * Lua the Skysavior Angel
   | materials       = "[[Claymont the Skysavior Advisor]]" + "[[Lua the Skysavior Angel]]"
   | requirement     = None
-  | text            = During your [[turn]], [[face-up]] [[Celestial Warrior]] and [[Warrior]] [[Type]] [[monsters]] on your [[field]] gain 500 [[ATK]], and your opponent cannot [[activate]] [[Trap Card]]s when they [[declare]] an [[attack]].
+  | text            = During your [[turn]], [[face-up]] [[Celestial Warrior]] and [[Warrior]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]], and your opponent cannot [[activate]] [[Trap Card]]s when they [[declare]] [[attack]]s.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,15 @@ wikitext: |-
   | mentions        = 
   * Claymont the Skysavior Advisor
   * Lua the Skysavior Angel
+  | supports        = 
+  * Celestial Warrior
+  * Warrior
   | archseries      = Skysavior
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Prevents activation of your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  | misc            = Requires control of specific Type
   | database_id     = 
   }}

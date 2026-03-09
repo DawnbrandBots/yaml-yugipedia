@@ -17,7 +17,7 @@ wikitext: |-
   | property            = Continuous
   | password            = 
   | effect_types        = Continuous-like, Ignition-like, Condition
-  | text                = Each time a monster(s) is destroyed by battle or effect, place 1 [[Full Moon Counter]] on this card for each. You can remove Full Moon Counters from this card, then activate 1 of these effects;<br />● 1: Special Summon 1 Level 6 or lower monster (Fiend or Fairy) from your hand or GY.<br />● 3: Add 1 Level 10 DARK monster from your Deck to your hand.<br />● 5: Special Summon 1 Level 10 monster from your hand or GY.<br />You can only use this effect of "Full Moon Mirror" once per turn.
+  | text                = Each time a [[monster]](s) is [[destroyed by battle]] or [[effect]], place 1 [[Full Moon Counter]] on this card for each. You can remove Full Moon Counters from this card, then [[activate]] 1 of these effects;<br />● 1: [[Special Summon]] 1 [[Level]] 6 or lower monster ([[Fiend]] or [[Fairy]]) from your [[hand]] or [[GY]].<br />● 3: [[Add]] 1 Level 10 [[DARK]] monster from your [[Main Deck|Deck]] to your hand.<br />● 5: Special Summon 1 Level 10 monster from your hand or GY.<br />You can only use this effect of "Full Moon Mirror" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,8 +28,20 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP288; V Jump May 2026 promotional card; Ultra Rare
-  | database_id         = 
-  | counter       = 
+  | supports            = 
+  * Fiend
+  * Fairy
+  * DARK
+  | counter             = 
   * Full Moon Counter
   * Places counters on itself
+  * Removes counters from itself for cost
+  | action              = Adds from Deck to hand
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Variable effects
+  * Only once per turn
+  | database_id         = 
   }}

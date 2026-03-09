@@ -17,7 +17,7 @@ wikitext: |-
   * Soleil the Skysavior Angel
   | materials       = "[[Claymont the Skysavior Advisor]]" + "[[Soleil the Skysavior Angel]]"
   | requirement     = During your [[Main Phase]] that you [[Special Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = ● Until the end of your opponent's next [[turn]], while this card is [[face-up]], neither player can Special Summon [[Level]] 8 or lower [[Effect Monster]]s in [[face-up]] [[Attack Position]].<br />● Until the end of your opponent's next turn, while this card is face-up, your opponent cannot [[Set]] monsters from the [[hand]].
+  | text            = ●Until the end of your opponent's next [[turn]], while this card is [[face-up]], neither [[Duelist|player]] can Special Summon [[Level]] 8 or lower [[Effect Monster]]s in face-up [[Attack Position]]. ●Until the end of your opponent's next turn, while this card is face-up, your opponent cannot [[Set]] [[Monster Card|monster]]s from the [[hand]].
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -26,6 +26,19 @@ wikitext: |-
   | mentions        = 
   * Claymont the Skysavior Advisor
   * Soleil the Skysavior Angel
+  | anti-supports   = Effect Monster
   | archseries      = Skysavior
+  | action          = 
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Prevents your opponent's Sets
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Prevents Special Summons
+  * Restricts the player's Special Summons to Level specific monsters
+  | misc            = 
+  * Variable effects
+  * Turn limited effects
   | database_id     = 
   }}

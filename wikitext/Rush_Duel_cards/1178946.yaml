@@ -3,21 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|風|ふう}}{{Ruby|霊|れい}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}の{{Ruby|使|つか}}い{{Ruby|魔|ま}}
-  | romaji_name     = Fūreijutsushi no Tsukaima
-  | image           = FamiliaroftheWindSpiritualist-RDORP4-JP-OP.png
-  | attribute       = WIND
-  | types           = Dragon / Effect
-  | level           = 4
-  | atk             = 1500
-  | def             = 200
-  | requirement     = [[Send]] this [[face-up]] card from your [[field]] or the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Make 1 face-up monster on your opponent's field become [[WIND]] [[Attribute]] until the end of this [[turn]]. Then, you can change 1 [[face-down]] "[[Wynn the Wind Charmer (Rush Duel)|Wynn the Wind Charmer]]" on your field to face-up [[Defense Position]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|風|ふう}}{{Ruby|霊|れい}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}の{{Ruby|使|つか}}い{{Ruby|魔|ま}}
+  | romaji_name    = Fūreijutsushi no Tsukaima
+  | image          = FamiliaroftheWindSpiritualist-RDORP4-JP-OP.png
+  | attribute      = WIND
+  | types          = Dragon / Effect
+  | level          = 4
+  | atk            = 1500
+  | def            = 200
+  | requirement    = [[Send]] this [[face-up]] card from your [[field]] or the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = Make 1 face-up [[Monster Card|monster]] on your opponent's field become [[WIND]] [[Attribute]] until the end of this [[turn]]. Then, you can [[Battle position change|change]] 1 [[face-down]] "[[Wynn the Wind Charmer (Rush Duel)|Wynn the Wind Charmer]]" on your field to face-up [[Defense Position]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP016; Over Rush Pack 4; Super Rare
-  | mentions        = Wynn the Wind Charmer (Rush Duel)
-  | archseries      = Charmer (Rush Duel)
-  | database_id     = 
+  | mentions       = Wynn the Wind Charmer (Rush Duel)
+  | archseries     = Charmer (Rush Duel)
+  | action         = 
+  * Sends itself from field to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  * Flips your monsters face-up
+  | stat_change    = Changes Attribute
+  | misc           = Requires control of specific card
+  | database_id    = 
   }}

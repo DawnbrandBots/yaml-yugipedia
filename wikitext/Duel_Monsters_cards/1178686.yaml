@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Center
   | atk                   = 1000
   | password              = 
+  | materials             = 2 Ritual, Fusion, Synchro, Xyz, and/or Pendulum Monsters
   | effect_types          = Continuous, Trigger
   | text                  = 2 [[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], and/or [[Pendulum Monster]]s<br />Your [[Tribute Summon]]ed [[monsters]] can make a second [[attack]] during each [[Battle Phase]]. If this card is [[Tribute]]d: You can [[activate]] 1 of these [[effect]]s (but you can only use each of these effects of "Clown Clan Drish" [[once per turn]]);<br />● [[Return]] all [[Link Monster]]s on the [[field]] and in the [[GY]]s to the [[Extra Deck]].<br />● Each player shuffles their entire [[hand]] into the [[Main Deck|Deck]], then they [[Draw a card|draw]] the same number of cards they shuffled.
   | fr_text               = 
@@ -32,6 +33,25 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP042; Chaos Origins; 
+  | supports              = 
+  * Ritual Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Pendulum Monster
+  * Link Monster
+  | anti-supports         = Link Monster
   | archseries            = Clown Clan
+  | action                = 
+  * Activates if Tributed
+  * Returns from field to Deck
+  * Returns from Graveyard to Deck
+  * Returns from hand to Deck
+  * You draw cards
+  * Your opponent draws cards
+  | attack                = Allows multiple attacks
+  | misc                  = 
+  * Variable effects
+  * Only once per turn
   | database_id           = 
   }}
