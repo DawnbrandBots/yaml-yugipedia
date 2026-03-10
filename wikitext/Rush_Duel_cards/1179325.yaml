@@ -8,11 +8,17 @@ wikitext: |-
   | image          = OverRushVolcano-RDORP4-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When an opponent's [[Level]] 8 or lower [[Effect Monster]] declares an [[attack]], place 3 [[monsters]] with different [[ATK]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
-  | text           = Destroy the attacking monster. If it was not destroyed, inflict 1000 [[Effect damage|damage]] to your opponent.
+  | requirement    = When an opponent's [[Level]] 8 or lower [[Effect Monster]] [[declare]]s an [[attack]], place 3 [[Monster Card|monster]]s with different [[ATK]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
+  | text           = [[Destroy]] the attacking monster. If it was not destroyed, [[Damage|inflict]] 1000 [[Effect damage|damage]] to your opponent.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP4-JP076; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates upon attack declaration
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | life_points    = Damages your opponent
   | database_id    = 
   }}

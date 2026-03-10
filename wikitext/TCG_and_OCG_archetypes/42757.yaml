@@ -244,7 +244,7 @@ wikitext: |-
   * [[Yu-Gi-Oh! 5D's (manga)|Yu-Gi-Oh! 5D's]]
   }}
 
-  "'''Chaos'''" (カオス ''Kaosu'') is a very large [[archetype]] of monsters, comprised of several different sub-archetypes. No card directly supports all "Chaos" monsters, with cards that reference the "Chaos" namestring referring to a particular group of monsters. These include:
+  "'''Chaos'''" (カオス ''Kaosu'') is a very large [[archetype]] of monsters, comprised of several different sub-archetypes. No card directly supports all "Chaos" monsters, with cards that reference the "Chaos" name substring always referring to a particular subset of monsters. These include:
   *The "Chaos" [[Ritual Monster]]s, which are primarily based on monsters used by [[Yugi Muto]] and [[Seto Kaiba]]. Due to its Japanese name, "[[Black Luster Soldier]]" is a subarchetype of "Chaos" - in the ''TCG'', support for "Chaos" Ritual Monsters always also supports "Black Luster Soldier" Ritual Monsters.
   *The "Chaos" [[Synchro Monster]]s.
   *The "[[CXyz]]" and "[[Number C]]" archetypes, which are sub-archetypes of "Chaos" due to their Japanese names. They are collectively referred as the "[[C_(archetype)|C]]" cards.
@@ -255,7 +255,8 @@ wikitext: |-
 
   == Members ==
   === Ritual Chaos ===
-  All of the "Chaos" Ritual Monsters are [[Card evolutions|upgraded]] [[Ritual Monster|Ritual]] "Chaos" forms of iconic [[Signature card|signature monsters]] used by [[Yugi Muto]] ("[[Dark Magician]]" and "[[Gaia The Fierce Knight]]") and [[Seto Kaiba]] ("[[Blue-Eyes White Dragon]]").
+  All "Chaos" Ritual Monsters are [[Card evolutions|upgraded]] [[Ritual Monster|Ritual]] "Chaos" forms of [[Signature card|signature monsters]] used by [[Yugi Muto]] ("[[Dark Magician]]" and "[[Gaia The Fierce Knight]]") and [[Seto Kaiba]] ("[[Blue-Eyes White Dragon]]").
+
   All "Chaos" Ritual Monsters released after the introduction of "[[Chaos Form]]" specify it as the [[Ritual Spell Card|Ritual Spell]] for their [[Ritual Summon]]. "Chaos Form" also supports the "Chaos" Ritual Monsters that predate its release, including the "[[Black Luster Soldier (archetype)|Black Luster Soldier]]" (''OCG'': "Chaos Soldier") Ritual Monsters.
   {| class="wikitable" style="text-align:center"
   ! colspan="2" | Ritual
@@ -301,7 +302,9 @@ wikitext: |-
 
   === Synchro Chaos ===
   "Chaos" Synchro monsters are all LIGHT or DARK monsters, and (with the exception of "[[Chaos King Archfiend]]") have effects that support LIGHT/DARK monsters and banishing; this loosely ties them to the playstyle of the LIGHT and DARK [[Chaos (series)|Chaos series]].
+
   A sub-series of "Chaos" Synchro Monsters can be distinguished by having a consistent naming pattern: In the Japanese OCG, they each have a two-part name, with the first part being a non-Japanese name consisting of "Chaos" (Japanese: 「カオス」) followed by a title after an interpunct, and the second part being a kanji name enclosed in dashes, consisting of "of Chaos" (Japanese: 「混沌の」) followed by a title.
+
   Members of the themed "Chaos" Synchro Monster sub-series all feature a black/white/gold color palette.
   {{Show card image gallery|widths=100
   | Chaos Goddess | 
@@ -351,6 +354,7 @@ wikitext: |-
 
   ==== Support ====
   Archetype-specific support Monster cards that specifically have "Number C" (Japanese: 「{{Ruby|Ｃ|カオス}}{{Ruby|Ｎｏ．|ナンバーズ}}」) or "CXyz" (Japanese: 「{{Ruby|ＣＸ|カオスエクシーズ}}」) in their name strings.
+
   These cards are also supported by [[Rank-Up]] cards. Many of these cards which support one or both of the "C" archetypes also belong to the "[[Rank-Up-Magic]]" archetype.
 
   No card supports a Chaos Xyz Monster through the term "Chaos" Xyz Monster.
