@@ -15,13 +15,17 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PhantasmalSacredBeastsofChaos-CORI-JP-OP.png
+  | image                 = 
+  1; PhantasmalSacredBeastsofChaos-CORI-JP-OP.png
+  2; PhantasmalSacredBeastsofChaos-CORI-JP-OP-EA.png
+  | current_image         = 1
   | attribute             = DARK
   | types                 = Fiend / Fusion / Effect
   | level                 = 10
   | atk                   = 5000
   | def                   = 5000
   | password              = 
+  | materials             = 3 Level 10 monsters that cannot be Normal Summoned/Set
   | effect_types          = Summoning condition, Condition, Continuous, Quick
   | text                  = 3 [[Level]] 10 [[monsters]] that cannot be [[Normal Summon]]ed/[[Set]]<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by [[send]]ing the above cards you [[control]] to the [[GY]]. You can only Special Summon "Phantasmal Sacred Beasts of Chaos" [[once per turn]] this way, no matter which method you use. The first two times this card would be destroyed by card [[effect]] each [[turn]], it is not [[destroy]]ed. Once per [[Chain]] and thrice per turn ([[Quick Effect]]): You can [[target]] 1 [[face-up]] monster your opponent controls; [[negate]] its effects (until the end of this turn), then you can gain [[LP]] equal to half its [[ATK]].
   | fr_text               = 
@@ -35,9 +39,24 @@ wikitext: |-
   | jp_sets               = 
   CORI-JP029; Chaos Origins; Ultra Rare, Prismatic Secret Rare
   | mentions              = Phantasmal Sacred Beasts of Chaos
+  | supports              = Special Summon Monster
   | archseries            = 
   * Phantasm
   * Sacred Beast
   | supports_archetypes   = Sacred Beast
+  | action                = 
+  * Sends Fusion Materials for Contact Fusion to Graveyard
+  * Sends from field to Graveyard for Special Summon
+  * Special Summon by its own condition once per turn
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Negates the effects of your opponent's Effect Monsters
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires Level specific Fusion Materials
+  | life_points           = You gain Life Points
+  | misc                  = 
+  * Once per Chain
+  * Limited activations
   | database_id           = 
   }}

@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Trigger, Ignition, Trigger, Condition
-  | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can place 1 "[[Sacred Beast]]" [[Field Spell]] or "Sacred Beast" [[Continuous Spell]]/[[Trap]] from your [[Main Deck|Deck]] [[face-up]] on your [[field]]. If you [[control]] another "Sacred Beast" [[monster]]: You can [[Special Summon]] 2 "Martyr of the Sacred Beasts" from your [[hand]], [[Main deck|Deck]], and/or [[GY]]. During your opponent's [[End Phase]], if this card and a [[Level]] 10 "Sacred Beast" monster are in your GY: You can [[Add a card|add]] this card to your hand. You can only use each [[effect]] of "Martyr of the Sacred Beasts" [[once per turn]].
+  | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can place 1 "[[Sacred Beast]]" [[Field Spell]] or "Sacred Beast" [[Continuous Spell]]/[[Trap]] from your [[Main Deck|Deck]] [[face-up]] on your [[field]]. If you [[control]] another "Sacred Beast" [[monster]]: You can [[Special Summon]] 2 "Martyr of the Sacred Beasts" from your [[hand]], [[Main Deck|Deck]], and/or [[GY]]. During your opponent's [[End Phase]], if this card and a [[Level]] 10 "Sacred Beast" monster are in your GY: You can [[Add a card|add]] this card to your hand. You can only use each [[effect]] of "Martyr of the Sacred Beasts" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,9 +34,27 @@ wikitext: |-
   | jp_sets               = 
   CORI-JP009; Chaos Origins; Rare
   | mentions              = Martyr of the Sacred Beasts
+  | supports              = 
+  * Field Spell Card
+  * Continuous Spell Card
+  * Continuous Trap Card
   | archseries            = 
   * Phantasm
   * Sacred Beast
   | supports_archetypes   = Sacred Beast
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Places cards from Deck in Spell & Trap Zone
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning             = 
+  * Special Summons copies of itself
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}

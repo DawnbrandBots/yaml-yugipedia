@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 5000
   | link_arrows           = Middle-Left, Bottom-Left, Bottom-Center, Bottom-Right, Middle-Right
   | password              = 
+  | materials             = 1+ Link Monster
   | effect_types          = Trigger, Continuous, Continuous, Continuous
   | text                  = 1+ [[Link Monster]]s<br />If this card is [[Link Summon]]ed, or at the end of the [[Damage Step]] if this card [[battle]]d: [[Destroy]] as many monsters your opponent [[control]]s as possible, then inflict 300 [[Effect damage|damage]] to your opponent for each [[Link Monster]] in your GY. While [[face-up]] on the [[field]], this card is also [[LIGHT]], [[WATER]], [[FIRE]], and [[WIND]]-[[Attribute]]. [[Unaffected]] by the activated effects of monsters that share an Attribute with this card. If this card with 1000 or more [[ATK]] would be [[destroyed by battle]] or card effect, you can make its ATK become reduced by 1000 instead.
   | fr_text               = 
@@ -33,7 +34,6 @@ wikitext: |-
   LOCR-JP028; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets               = 
   LOCR-SC028; Limit Over Collection: The Rivals; 
-  | database_id           = 
   | supports              = Link Monster
   | action                = Activates upon Link Summon
   | stat_change           = 
@@ -41,9 +41,14 @@ wikitext: |-
   * This card loses ATK
   | m/s/t                 = 
   * Destroys your opponent's Monster Cards
+  * Unaffected by activated card effects
   * Unaffected by Monster Cards
+  * Cannot be destroyed by card effects
+  * Redirects destruction
   | summoning             = 
   * 1+ Link Materials
   * Requires Link Monsters as Link Materials
+  | attack                = Cannot be destroyed by battle
   | life_points           = Damages your opponent
+  | database_id           = 
   }}

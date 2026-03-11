@@ -37,6 +37,26 @@ wikitext: |-
   * Phantasm
   * Sacred Beast
   | supports_archetypes   = Sacred Beast
-  | misc                  = Special Summon Monster
+  | action                = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Adds from Deck to hand
+  * You discard as an effect
+  | stat_change           = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Prevents responding to its activation
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Must be Special Summoned by a specific card effect
+  * Nomi
+  | misc                  = 
+  * Special Summon Monster
+  * Only once per turn
+  * Limited activations
   | database_id           = 
   }}
