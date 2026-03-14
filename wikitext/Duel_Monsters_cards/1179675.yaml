@@ -30,6 +30,9 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP057; Chaos Origins; 
+  | supports              = 
+  * DARK
+  * Xyz Monster
   | archseries            = 
   * Phantom Knights
   * Rank-Up-Magic
@@ -37,5 +40,18 @@ wikitext: |-
   | supports_archetypes   = 
   * The Phantom Knights
   * Xyz Dragon
+  | action                = Transfer
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Special Summons from your Graveyard
+  * Special Summons from your banishment
+  * Special Summons from your Extra Deck
+  * Rank-Up by 1 Rank
+  * Performs Xyz Evolution
+  * Treats Special Summon as Xyz Summon
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}

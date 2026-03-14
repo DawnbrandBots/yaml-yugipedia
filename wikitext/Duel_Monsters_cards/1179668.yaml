@@ -33,9 +33,26 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP019; Chaos Origins; 
+  | supports              = DARK
   | archseries            = 
   * Phantom Knights
   * The Phantom Knights
   | supports_archetypes   = The Phantom Knights
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sets from your Deck
+  * Activates from your Graveyard
+  | stat_change           = 
+  * Your monsters gain Levels
+  * Your monsters gain Ranks
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of no monsters
+  * Only once per turn
+  * Requires control of specific Level
+  * Requires control of specific Rank
+  * Requires control of specific Attribute
   | database_id           = 
   }}

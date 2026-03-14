@@ -33,9 +33,25 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP018; Chaos Origins; Rare
+  | supports              = Xyz Monster
   | archseries            = 
   * Phantom Knights
   * The Phantom Knights
   | supports_archetypes   = The Phantom Knights
+  | action                = 
+  * Reveals your hand for cost
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | stat_change           = 
+  * Gives Xyz Monsters Levels
+  * Treated as alternate Level
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}

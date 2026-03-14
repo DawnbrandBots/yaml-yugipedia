@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 1900
   | def                   = 0
   | password              = 
+  | materials             = 2 Level 3 DARK monsters
   | effect_types          = Ignition, Trigger, Trigger, Condition
   | text                  = 2 [[Level]] 3 [[DARK]] [[monsters]]<br />You can [[detach]] 1 [[material]] from this card; [[Special Summon]] 1 "[[The Phantom Knights]]" [[monster]] from your [[Main Deck|Deck]]. If you [[Xyz Summon]] an "[[Xyz Dragon]]" monster while this card is in the [[Monster Zone]]: You can [[Add a card|add]] 1 "[[Rank-Up-Magic]]" [[Spell]] from your Deck to your [[hand]]. If this card is [[destroy]]ed: You can add 1 of your banished "The Phantom Knights" cards to your hand, except an [[Xyz Monster]]. You can only use each [[effect]] of "The Phantom Knights of Malevolent Scythe" [[once per turn]].
   | fr_text               = 
@@ -33,6 +34,7 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP037; Chaos Origins; Ultra Rare
+  | supports              = DARK
   | archseries            = 
   * Phantom Knights
   * The Phantom Knights
@@ -40,5 +42,16 @@ wikitext: |-
   * Rank-Up-Magic
   * The Phantom Knights
   * Xyz Dragon
+  | action                = 
+  * Activates upon Xyz Summon
+  * Adds from Deck to hand
+  * Activates if destroyed
+  * Adds banished cards to the hand
+  | summoning             = 
+  * 2 Xyz Materials
+  * Requires Attribute specific Xyz Materials
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}
