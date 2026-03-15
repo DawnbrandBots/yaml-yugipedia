@@ -22,7 +22,7 @@ wikitext: |-
   | atk                   = 3500
   | def                   = 3000
   | password              = 
-  | materials             = 
+  | materials             = 2 Tuners + 1 non-Tuner monster
   | effect_types          = Summoning condition, Trigger, Condition, Continuous
   | text                  = 2 [[Tuner monster|Tuners]] + 1 non-Tuner<br />Must be either [[Synchro Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by [[banish]]ing 2 Tuners and 1 "[[Red Dragon Archfiend]]" from your [[GY]]. If this card is Special Summoned: You can [[Add a card|add]] 1 card from your GY to your [[hand]], and if you do, this card gains 2000 [[ATK]]. You can only use this effect of "Red Nova Dragon - Burning Soul" once per Duel, and only during a Duel you Synchro Summoned "Red Dragon Archfiend". Cannot be destroyed by card effects.
   | fr_text               = 
@@ -38,6 +38,7 @@ wikitext: |-
   | sc_sets               = 
   LOCR-SC008; Limit Over Collection: The Rivals; 
   | mentions              = Red Dragon Archfiend
+  | supports              = Tuner monster
   | archseries            = 
   * Cosmic Synchro Monster
   * Signature move
@@ -45,6 +46,20 @@ wikitext: |-
   * Archfiend
   * Red Dragon Archfiend (archetype)
   * Signer Dragon
-  | summoning = Double Tuning
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Graveyard to hand
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Cannot be destroyed by card effects
+  | summoning             = 
+  * Double Tuning
+  * Does not require specific Tuner Synchro Materials
+  * 1 non-Tuner Synchro Material
+  * Does not require specific non-Tuner Synchro Materials
+  * Can be Special Summoned either by Synchro Summon or by its own condition
+  * Nomi
+  * Special Summons itself from your Extra Deck
+  | banished              = Banishes from Graveyard for Summon
+  | misc                  = Only once per Duel
   | database_id           = 
   }}
