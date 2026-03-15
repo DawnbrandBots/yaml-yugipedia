@@ -19,7 +19,7 @@ wikitext: |-
   | property              = Field
   | password              = 
   | effect_types          = Continuous-like, Condition, Ignition-like, Trigger-like
-  | text                  = [[Monsters]] you [[control]] that were [[Normal Summon|Normal]] or [[Special Summon]]ed from the [[hand]] gain 500 [[ATK]]/[[DEF]]. You can only use each of the following [[effect]]s of "Kowloon, Citadel of the Sky" [[once per turn]]. During your [[Main Phase]]: You can Special Summon 1 "[[Mechbeast Token]]" ([[Machine]]/[[EARTH]]/[[Level]] 6/[[ATK]] 2000/[[DEF]] 2000) to your opponent's field, and if you do, [[Add a card|add]] 1 "[[Blitzclique]]" monster from your [[Main Deck|Deck]] to your hand. If a card(s) is [[destroy]]ed by your "Blitzclique" card’s effect, while this card is in your GY: You can add this card to your hand.
+  | text                  = [[Monsters]] you [[control]] that were [[Normal Summon|Normal]] or [[Special Summon]]ed from the [[hand]] gain 500 [[ATK]]/[[DEF]]. You can only use each of the following [[effect]]s of "Kowloon, Citadel of the Sky" [[once per turn]]. During your [[Main Phase]]: You can Special Summon 1 "[[Mechbeast Token]]" ([[Machine]]/[[EARTH]]/[[Level]] 6/[[ATK]] 2000/[[DEF]] 2000) to your opponent's field, and if you do, [[Add a card|add]] 1 "[[Blitzclique]]" monster from your [[Main Deck|Deck]] to your hand. If a card(s) is [[destroy]]ed by your "Blitzclique" card's effect, while this card is in your GY: You can add this card to your hand.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -32,5 +32,15 @@ wikitext: |-
   CORI-JP050; Chaos Origins; 
   | mentions              = Mechbeast Token
   | supports_archetypes   = Blitzclique
+  | action                = 
+  * Adds from Deck to hand
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | summoning             = Special Summons Tokens to your opponent's field
+  | misc                  = Only once per turn
   | database_id           = 
   }}

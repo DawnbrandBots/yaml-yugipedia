@@ -31,7 +31,20 @@ wikitext: |-
   | jp_sets               = 
   CORI-JP069; Chaos Origins; 
   | mentions              = Kowloon, Citadel of the Sky
+  | supports              = Thunder
   | archseries            = Blitzclique
   | supports_archetypes   = Blitzclique
+  | action                = 
+  * Returns from hand to Deck for cost
+  * Returns from field to Deck for cost
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | stat_change           = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id           = 
   }}
