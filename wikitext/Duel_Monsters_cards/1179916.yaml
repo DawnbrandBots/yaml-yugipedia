@@ -34,6 +34,19 @@ wikitext: |-
   | jp_sets             = 
   RV01-JP003; Revolution Booster: Toon / Witchcrafter / Unchained; 
   | mentions            = Toon World
-  | supports_archetypes = Toon 
+  | supports            = Toon monster
+  | supports_archetypes = Toon
+  | action              = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Sets from your Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
+  | stat_change         = Grants abilities to monsters
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
+  * Limited activations
   | database_id         = 
   }}
