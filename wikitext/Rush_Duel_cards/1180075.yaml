@@ -3,17 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 絶望との遭遇
-  | romaji_name    = 
+  | ja_name        = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}との{{Ruby|遭|そう}}{{Ruby|遇|ぐう}}
+  | romaji_name    = Zetsubō to no Sōgū
   | image          = EncounterwithDespair-RDORP4-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
-  | text           = [[Special Summon]] 1 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] monster with 1200 or 2400 [[DEF]] from your [[hand]] or [[Graveyard]] to your opponent's [[field]] in [[face-up]] [[Defense Position]]. Then, you can [[destroy]] 1 face-up [[Level]] 8 or lower monster on your opponent's field.
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | text           = Special Summon 1 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] monster with 1200 or 2400 [[DEF]] from your [[hand]] or [[Graveyard]] to your opponent's [[field]] in [[face-up]] [[Defense Position]]. Then, you can [[destroy]] 1 face-up [[Level]] 8 or lower monster on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/ORP4-JP035; Over Rush Pack 4; Super Rare
+  | supports       = 
+  * DARK
+  * Fiend
   | archseries     = Mad Fiend of Despair
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | summoning      = 
+  * Special Summons from your hand to your opponent's field
+  * Special Summons from your Graveyard to your opponent's field
   | database_id    = 
   }}

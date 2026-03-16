@@ -4,8 +4,8 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・ロック
-  | romaji_name     = 
-  | translated_name = 
+  | romaji_name     = Zetsubōkyōma Deddo Rokku
+  | translated_name = Dead Lock the Mad Demon of Despair
   | image           = DeadLocktheMadFiendofDespair-RDORP4-JP-OP.png
   | attribute       = DARK
   | types           = Fiend / Effect
@@ -14,12 +14,16 @@ wikitext: |-
   | def             = 1200
   | effect_types    = Continuous
   | requirement     = None
-  | text            = This card cannot be [[Tribute]]d for the [[Tribute Summon]] of a [[monster]] in [[Attack Position]]. [[Face-up]] non-[[Fiend]] [[Type]] monsters on your [[field]] lose 1000 [[ATK]].
-  | ja_materials    = 
+  | text            = This card cannot be [[Tribute]]d for the [[Tribute Summon]] of a [[Monster Card|monster]] in [[Attack Position]]. [[Face-up]] non-[[Fiend]] [[Type]] monsters on your [[field]] lose 1000 [[ATK]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/ORP4-JP028; Over Rush Pack 4; Super Rare
+  | supports        = Fiend
   | archseries      = Mad Fiend of Despair
+  | stat_change     = Your monsters lose ATK
+  | summoning       = Cannot be Tributed for a Tribute Summon
+  | fm_for          = Lock Core the Mad Fiend of Despair
+  | misc            = Requires control of specific Type
   | database_id     = 
   }}

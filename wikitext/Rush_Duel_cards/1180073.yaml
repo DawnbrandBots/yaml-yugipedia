@@ -4,8 +4,8 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・ヒート
-  | romaji_name     = 
-  | translated_name = 
+  | romaji_name     = Zetsubōkyōma Deddo Hīto
+  | translated_name = Dead Heat the Mad Demon of Despair
   | image           = DeadHeattheMadFiendofDespair-RDORP4-JP-OP.png
   | attribute       = DARK
   | types           = Fiend / Effect
@@ -13,13 +13,20 @@ wikitext: |-
   | atk             = 1200
   | def             = 1200
   | requirement     = You have "[[Dead Core the Mad Fiend of Despair]]" [[face-up]] on your [[field]].
-  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] from among the cards sent.
-  | ja_materials    = 
+  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] from among the cards sent.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/ORP4-JP029; Over Rush Pack 4; Common
   | mentions        = Dead Core the Mad Fiend of Despair
+  | supports        = 
+  * DARK
+  * Fiend
   | archseries      = Mad Fiend of Despair
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | fm_for          = Heat Core the Mad Fiend of Despair
+  | misc            = Requires control of specific card
   | database_id     = 
   }}
