@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 暗红恶魔锁链
-  | image                 = RedDragonArchfiendsChain-LOCR-JP-OP.png
+  | image                 = RedDragonArchfiendsChain-LOCR-JP-UR.png
   | card_type             = Trap
   | property              = Continuous
-  | password              = 
+  | password              = 92936364
   | effect_types          = Condition, Continuous-like, Continuous-like, Condition
   | text                  = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 "[[Red Dragon Archfiend]]" in your [[Extra Deck]]. Activate this card by revealing any number of [[monsters]] in your hand, then [[target]] [[Effect Monster]]s your opponent [[control]]s equal to the number of [[Tuner]]s revealed +1; they lose 100 [[ATK]] for each card you revealed in the hand to activate this card, also their [[effect]]s are [[negate]]d. If the last of those monsters is not on the [[field]], [[destroy]] this card. You can only activate 1 "Red Dragon Archfiend's Chain" per turn.
   | fr_text               = 
@@ -25,7 +25,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。このカードはＥＸデッキの「レッド・デーモンズ・ドラゴン」１体を相手に見せ、セットしたターンに発動する事もできる。①：手札のモンスターを任意の数だけ相手に見せ、その内のチューナーの数＋１体だけ相手フィールドの効果モンスターを対象としてこのカードを発動できる。このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターの攻撃力は手札から見せた数×１００ダウンし、効果は無効化される。対象のモンスターがフィールドに存在しない場合にこのカードは破壊される。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
@@ -46,5 +46,5 @@ wikitext: |-
   * Destroys itself
   | stat_change           = Your opponent's monsters lose ATK
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22724
   }}
