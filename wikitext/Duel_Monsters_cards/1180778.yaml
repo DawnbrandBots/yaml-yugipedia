@@ -30,7 +30,17 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP060; Chaos Origins; 
+  | supports              = Spellcaster
   | archseries            = Possessed
-  | misc                  = Archetype condition
+  | action                = Activates from your Graveyard
+  | stat_change           = Your monsters gain ATK
+  | summoning             = Special Summons from your hand
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes itself from Graveyard for cost
+  | life_points           = You gain Life Points
+  | misc                  = 
+  * Archetype condition
+  * Only 1 effect once per turn
   | database_id           = 
   }}
