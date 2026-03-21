@@ -32,36 +32,47 @@ wikitext: |-
   {| class="wikitable"
   ! Monster
   ! [[Level]]
+  ! [[Link Rating]]
   ! [[Type]]
   ! Reference(s)
   |-
   | [[Radiant Typhoon Fonix, the Great Flame]]
   | 9
+  | 
   | [[Pyro]]
   | [[wikipedia:Thunderbird (mythology)|Thunderbird]] / [[wikipedia:Phoenix|Phoenix]]
   |-
   | [[Radiant Typhoon Varuroon, the Vibrant Vortex]]
   | 9
-  | [[Aqua]]
-  | [[wikipedia:Varuna|Varuna]]
+  | 
+  | rowspan=2 | [[Aqua]]
+  | rowspan=2 | [[wikipedia:Varuna|Varuna]]
+  |-
+  | [[Radiant Typhoon Varuroon, the Marine Eidolon]]
+  | 
+  | 2
   |-
   | [[Radiant Typhoon Krosea]]
   | 6
+  | 
   | [[Winged Beast]]
   | [[wikipedia:List of storms named Krosa|Krosa]]
   |-
   | [[Radiant Typhoon Eldam]]
   | 3
+  | 
   | [[Beast]]
   | [[wikipedia:List of storms named Damrey|Damrey]]
   |-
   | [[Radiant Typhoon Meghala]]
   | 3
+  | 
   | [[Fairy]]
   | [[wikipedia:List of storms named Mekkhala|Mekkhala]]
   |-
   | [[Radiant Typhoon Swen]]
   | 3
+  | 
   | [[Beast-Warrior]]
   | [[wikipedia:List of storms named Wukong|Wukong]] (スェン・ウーコ Sun Wukong)
   |}
