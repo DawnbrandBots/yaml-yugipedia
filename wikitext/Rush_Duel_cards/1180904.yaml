@@ -3,16 +3,20 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディパーチャー・ゾーン
-  | romaji_name     = Dipāchā Zōn
-  | image           = DepartureZone-RDORP4-JP-OP.png
-  | card_type       = Spell
-  | property        = Field
-  | requirement     = [[Activate]] this card by [[send]]ing the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]], except during the first turn of the player going first.
-  | text            = While this card is [[face-up]] in the [[Field Zone]], this card cannot be [[destroy]]ed by card [[effect]]s, and during the [[Draw Phase]] of a player that has a card in their Field Zone, if they would draw until they have 5 cards in their hand for their normal draw, instead they draw until they have 6 cards.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディパーチャー・ゾーン
+  | romaji_name    = Dipāchā Zōn
+  | image          = DepartureZone-RDORP4-JP-OP.png
+  | card_type      = Spell
+  | property       = Field
+  | requirement    = [[Activate]] this card by [[send]]ing the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]], except during the first [[turn]] of the [[Duelist|player]] going first.
+  | text           = While this card is [[face-up]] in the [[Field Zone]], it cannot be [[destroy]]ed by card [[effect]]s, and during the [[Draw Phase]] of a player that has a card in their Field Zone, if they would [[Draw a card|draw]] until they have 5 cards in their [[hand]] for their [[normal draw]], instead they draw until they have 6 cards.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP075; Over Rush Pack 4; Ultra Rare, Over Rush Rare
-  | database_id     = 
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Increases normal draw
+  | m/s/t          = Cannot be destroyed by card effects
+  | database_id    = 
   }}

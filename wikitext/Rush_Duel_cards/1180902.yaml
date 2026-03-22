@@ -3,22 +3,25 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} {{Ruby|ＡＲ|アナザーライジング}}－ブラウ
-  | romaji_name     = Purazumatikku Moderu Anazā Raijingu - Burau
-  | translated_name = 
-  | image           = PlasmaticModelAnotherRisingBlau-RDORP4-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Thunder / Ritual / Effect
-  | level           = 8
-  | atk             = 2500
-  | def             = 1600
-  | effect_types    = Continuous
-  | requirement     = None
-  | text            = [[Face-up]] monsters on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = {{Ruby|Ｐ・Ｍ|プラズマティックモデル}} {{Ruby|ＡＲ|アナザーライジング}}－ブラウ
+  | romaji_name    = Purazumatikku Moderu Anazā Raijingu - Burau
+  | image          = PlasmaticModelAnotherRisingBlau-RDORP4-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Thunder / Ritual / Effect
+  | level          = 8
+  | atk            = 2500
+  | def            = 1600
+  | ritualcard     = Plasmatic Model Another Play
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = [[Face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 600 [[ATK]]/[[DEF]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP068; Over Rush Pack 4; Ultra Rare, Over Rush Rare
-  | archseries      = Plasmatic Model
-  | database_id     = 
+  | archseries     = Plasmatic Model
+  | stat_change    = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | database_id    = 
   }}
