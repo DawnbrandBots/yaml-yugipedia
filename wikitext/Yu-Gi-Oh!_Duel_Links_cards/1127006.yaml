@@ -1,16 +1,14 @@
 title: Fenriritter Sol (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | fr_name         = Chevalier Fenrir Sol
-  | ja_name         = フェンリルリッター・ソル
-  | romaji_name     = Fenrirurittā Soru
-  | ko_name         = 펜리르리터 솔
+  | fr_name   = Chevalier Fenrir Sol
+  | ko_name   = 펜리르리터 솔
   | image     = 
-  | attribute       = LIGHT
-  | types           = Cyberse / Fusion / Effect
-  | level           = 9
-  | atk             = 2800
-  | def             = 2100
+  | attribute = LIGHT
+  | types     = Cyberse / Fusion / Effect
+  | level     = 9
+  | atk       = 2800
+  | def       = 2100
   | rarity    = UR
   | status    = 
   | text      = "[[Sigurstate Sol (Duel Links)|Sigurstate Sol]]" + "[[Connector Dog (Duel Links)|Connector Dog]]"<br />'''[REQUIREMENT]''' [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Draw a card|Draw]] 1 card. If your opponent has a [[monster]] on their [[field]], you can [[Special Summon]] 1 [[Cyberse]] [[Type]] monster from your [[hand]] [[face-up]] to your [[field]].
@@ -18,5 +16,10 @@ wikitext: |-
   | releases  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|type=event|Duel Quest}}
+  {{Duel Links release table|type=event|Bingo Missions}}
+  {{Duel Links release table|type=event|Duel Links Mission Research|release_date=2026-03-23|removal_date=2026-03-30}}
   {{Duel Links release table/footer}}
+  | mentions  = 
+  * Sigurstate Sol (Duel Links)
+  * Connector Dog (Duel Links)
   }}
