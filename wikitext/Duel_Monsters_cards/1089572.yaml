@@ -28,7 +28,7 @@ wikitext: |-
   | es_text                  = Si no controlas cartas (Efecto Rápido): puedes descartar esta carta; aplica estos efectos este turno.<br />● Cada vez que tu adversario Invoca de Modo Especial uno o más monstruos desde cualquier Cementerio o destierro, inmediatamente robas 1 carta.<br />● Una vez, durante esta End Phase, si el número de cartas en tu mano es mayor que el número de cartas que controla tu adversario +6, debes barajar al Deck cartas al azar en tu mano para que el número en tu mano sea igual al número que controla tu adversario +6.<br />Sólo puedes activar otro efecto de monstruo "Multivador/a" el turno en el que activas este efecto.
   | ja_text                  = このカードの効果を発動するターン、自分はこのカード以外の「マルチャミー」モンスターの効果を１度しか発動できない。①：自分・相手ターンに、自分フィールドにカードが存在しない場合、このカードを手札から捨てて発動できる。このターン中、以下の効果を適用する。●相手が墓地・除外状態のモンスターを特殊召喚する度に、自分は１枚ドローする。●エンドフェイズに、自分の手札が相手フィールドのカードの数＋６枚より多い場合、その差の数だけ自分の手札をランダムにデッキに戻す。
   | ko_text                  = 이 카드의 효과를 발동하는 턴에, 자신은 이 카드 이외의 "마루챠미" 몬스터의 효과를 1번밖에 발동할 수 없다. ①: 자신 / 상대 턴에, 자신 필드에 카드가 존재하지 않을 경우, 이 카드를 패에서 버리고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다. ●상대가 묘지 / 제외 상태인 몬스터를 특수 소환할 때마다, 자신은 1장 드로우한다. ●엔드 페이즈에, 자신의 패가 상대 필드의 카드의 수 ＋ 6장보다 많을 경우, 그 차의 수만큼 자신의 패를 무작위로 덱으로 되돌린다.
-  | sc_text                  = 发动此卡的效果的回合中，自己仅可发动此卡以外的“多多迷宝”怪兽的效果1次。①：在自己・对手回合中，自己场上不存在卡的情况下，从手牌将此卡舍弃可以发动。在此回合中适用以下效果。<br />●对手每次将墓地・除外状态的怪兽特殊召唤，自己抽1张。<br />●在结束阶段，自己的手牌多于对手场上的卡的数量＋6张的情况下，依其数量差将自己的手牌随机放回牌组。
+  | sc_text                  = 发动此卡的效果的回合中，自己仅可发动1次此卡以外的“多多迷宝”怪兽的效果。①：在自己・对手回合中，自己场上不存在卡的情况下，从手牌将此卡舍弃可以发动。在此回合中适用以下效果。<br />●对手每次将墓地・除外状态的怪兽特殊召唤，自己抽1张。<br />●在结束阶段，自己手牌多于对手场上的卡的数量＋6张的情况下，依其数量差将自己手牌随机放回牌组。
   | en_sets                  = 
   SUDA-EN025; Supreme Darkness; Secret Rare, Quarter Century Secret Rare
   L5DD-ENA14; Legendary 5D's Decks; Common
@@ -56,13 +56,14 @@ wikitext: |-
   | jp_sets                  = 
   SUDA-JP025; Supreme Darkness; Rare
   LOCH-JP048; Limit Over Collection: The Heroes; Super Rare, Secret Rare, Prismatic Secret Rare, Collector's Rare
-  | ae_sets               = 
+  | ae_sets                  = 
   SUDA-AE025; Supreme Darkness; Super Rare, Secret Rare, Quarter Century Secret Rare
   SUDA-AE025; Supreme Darkness +1 Bonus Pack; Super Rare, Quarter Century Secret Rare
   | kr_sets                  = 
   SUDA-KR025; Supreme Darkness; Rare
   | sc_sets                  = 
   SUDA-SC025; Supreme Darkness; Rare
+  LOCH-SC045; Limit Over Collection: The Heroes; Super Rare, Secret Rare, Prismatic Secret Rare, Collector's Rare
   | archseries               = Mulcharmy
   | anti-supports_archetypes = Mulcharmy
   | action                   = 
