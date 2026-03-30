@@ -1,19 +1,24 @@
 title: Speed Roll
 wikitext: |-
+  {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = スピード・ロール
-  | romaji_name     = Supīdo Rōru
-  | image           = SpeedRoll-RDORP4-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = During a [[turn]] you have not [[activate]]d "Speed Roll".
-  | text            = [[Special Summon]] 1 [[Warrior]] [[Type]] [[monster]] with 1400 [[ATK]]/100 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you have not drawn a card during this [[Main Phase]], you can draw 1 card.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = スピード・ロール
+  | romaji_name    = Supīdo Rōru
+  | image          = SpeedRoll-RDORP4-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = During a [[turn]] you have not [[activate]]d "Speed Roll".
+  | text           = [[Special Summon]] 1 [[Warrior]] [[Type]] [[Monster Card|monster]] with 1400 [[ATK]]/100 [[DEF]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you have not [[Draw a card|drawn]] a card during this [[Main Phase]], you can draw 1 card.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP063; Over Rush Pack 4; Super Rare
-  | mentions        = Speed Roll
-  | archseries      = Speed
-  | database_id     = 
+  | mentions       = Speed Roll
+  | supports       = Warrior
+  | archseries     = Speed
+  | action         = You draw cards
+  | summoning      = Special Summons from your Graveyard
+  | misc           = Only once per turn
+  | database_id    = 
   }}

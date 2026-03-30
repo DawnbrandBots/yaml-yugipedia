@@ -2,17 +2,27 @@ title: Speed Up
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = スピード・アップ
-  | romaji_name     = Supīdo Appu
-  | image           = SpeedUp-RDORP4-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = None
-  | text            = [[Special Summon]] 1 [[Level]] 6 or lower [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] from your [[hand]] [[face-up]] to your [[field]]. Then, if you have 2 or more face-up WIND Attribute Warrior Type monsters on your field, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = スピード・アップ
+  | romaji_name    = Supīdo Appu
+  | image          = SpeedUp-RDORP4-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | text           = [[Special Summon]] 1 [[Level]] 6 or lower [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] from your [[hand]] [[face-up]] to your [[field]]. Then, if you have 2 or more face-up WIND Attribute Warrior Type monsters on your field, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/ORP4-JP062; Over Rush Pack 4; Common
-  | archseries      = Speed
-  | database_id     = 
+  | supports       = 
+  * WIND
+  * Warrior
+  | archseries     = Speed
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning      = Special Summons from your hand
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id    = 
   }}

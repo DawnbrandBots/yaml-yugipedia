@@ -15,13 +15,29 @@ wikitext: |-
   | fusion_material = Speed Sniper
   | materials       = "[[Speed Sniper]]" + 1 [[Warrior]] [[Type]] [[Effect Monster]] with 2000 or less [[DEF]]
   | requirement     = None
-  | text            = Other [[face-up]] [[WIND]] and [[EARTH]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]] on your [[field]] gain 500 [[ATK]]. Those monsters gain an additional 500 ATK if you have a face-up WIND or EARTH Attribute Warrior Type monster on your field with 2600 or more [[original ATK]].
+  | text            = Other [[face-up]] [[WIND]] and [[EARTH]] [[Attribute]] Warrior Type [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]]. Those monsters gain an additional 500 ATK if you have a face-up WIND or EARTH Attribute Warrior Type monster with 2600 or more [[Original ATK and DEF|original ATK]] on your field.
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/ORP4-JP057; Over Rush Pack 4; Super Rare
   | mentions        = Speed Sniper
+  | supports        = 
+  * Warrior
+  * Effect Monster
+  * WIND
+  * EARTH
   | archseries      = Speed
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires nonspecific Effect Monsters as Fusion Materials
+  * Requires DEF specific Fusion Materials
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific ATK
   | database_id     = 
   }}
