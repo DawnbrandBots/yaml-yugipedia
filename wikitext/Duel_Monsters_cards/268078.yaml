@@ -1,15 +1,16 @@
 title: Summon Breaker
 wikitext: |-
   {{CardTable2
-  | tc_name               = 召喚斷路器
   | fr_name               = Briseur d'Invocation
   | de_name               = Beschwörungsbrecher
   | it_name               = Spezza Evocazione
-  | ko_name               = 서몬 브레이커
   | pt_name               = Interromper Invocação
   | es_name               = Rompedor de Invocación
   | ja_name               = サモンブレーカー
   | romaji_name           = Samon Burēkā
+  | ko_name               = 서몬 브레이커
+  | tc_name               = 召喚斷路器
+  | sc_name               = 召唤断路器
   | image                 = SummonBreaker-MP14-EN-C-1E.png
   | card_type             = Spell
   | property              = Field
@@ -24,6 +25,7 @@ wikitext: |-
   | ja_text               = このカードがフィールド上に存在する限り、ターンプレイヤーがそのターン３回目の召喚・反転召喚・特殊召喚に成功した時、そのターンのエンドフェイズになる。この効果はメインフェイズ１でのみ発動する。
   | ko_text               = 이 카드가 필드 위에 존재하는 한, 턴 플레이어가 그 턴의 3번째 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 그 턴의 엔드 페이즈가 된다. 이 효과는 메인 페이즈 1에서만 발동한다.
   | tc_text               = 只要此卡存在于场上，回合玩家于该回合的第3次的召唤、反转召唤、特殊召唤成功时，变为该回合的结束阶段。此效果仅在主要阶段1发动。
+  | sc_text               = ①：回合玩家在主要阶段1，进行该回合的第3次召唤・反转召唤・特殊召唤的情况下发动。直接变为该回合的结束阶段。
   | en_sets               = 
   LTGY-EN068; Lord of the Tachyon Galaxy; Short Print
   MP14-EN043; 2014 Mega-Tin Mega Pack; Common
@@ -44,10 +46,12 @@ wikitext: |-
   MP14-SP043; 2014 Mega-Tin Mega Pack; Common
   | jp_sets               = 
   LTGY-JP068; Lord of the Tachyon Galaxy; Normal Rare
-  | tc_sets               = 
-  LTGY-TC068; Lord of the Tachyon Galaxy; Normal Rare
   | kr_sets               = 
   LTGY-KR068; Lord of the Tachyon Galaxy; Normal Rare
+  | tc_sets               = 
+  LTGY-TC068; Lord of the Tachyon Galaxy; Normal Rare
+  | sc_sets               = 
+  26SP-SC119; Tournament Pack 2026 Vol.1 (Simplified Chinese); Common
   | action                = 
   * Skips Battle Phase
   * Skips Main Phase 2

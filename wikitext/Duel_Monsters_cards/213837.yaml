@@ -1,7 +1,6 @@
 title: Soul Drain
 wikitext: |-
   {{CardTable2
-  | tc_name       = 靈魂抽取
   | fr_name       = Absorption d'Âme
   | de_name       = Seelenentzug
   | it_name       = Risucchio dell'Anima
@@ -11,6 +10,7 @@ wikitext: |-
   | romaji_name   = Sōru Dorein
   | ko_name       = 소울 드레인
   | ko_rr_name    = Soul Deurein
+  | tc_name       = 靈魂抽取
   | sc_name       = 灵魂抽取
   | image         = 
   1;   SoulDrain-LART-EN-UR-LE.png; SoulDrain-MADU-JP-VG-artwork.png
@@ -29,7 +29,7 @@ wikitext: |-
   | ja_text       = １０００ライフポイントを払って発動できる。このカードがフィールド上に存在する限り、ゲームから除外されているモンスターの効果及び墓地に存在するモンスターの効果は発動できない。
   | ko_text       = 1000 LP를 지불하고 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 묘지의 몬스터 및 제외되어 있는 몬스터의 효과는 발동할 수 없다.
   | tc_text       = 可支付1000生命点数发动。只要此卡存在于场上，被从游戏中除外的怪兽的效果和存在于墓地的怪兽的效果均不可发动。
-  | sc_text       = 支付１０００LP可以发动此卡。①：只要此卡存在于魔法与陷阱区域，不可发动双方被除外的怪兽的效果及墓地怪兽的效果。
+  | sc_text       = 支付1000LP可以发动此卡。①：只要此卡存在于魔法与陷阱区域，双方不可发动墓地・除外状态的怪兽的效果。
   | en_sets       = 
   REDU-EN078; Return of the Duelist; Rare
   AP04-EN013; Astral Pack Four; Super Rare
@@ -62,6 +62,7 @@ wikitext: |-
   LART-KR011; The Lost Art Promotion Vol.1; Ultra Rare, Secret Rare
   | sc_sets       = 
   SD29-SC037; Structure Deck: Master of Pendulum; Common
+  26SP-SC104; Tournament Pack 2026 Vol.1 (Simplified Chinese); Super Rare
   | archseries    = Drain
   | m/s/t         = Prevents activation of Effect Monsters
   | life_points   = Pays Life Points for cost
