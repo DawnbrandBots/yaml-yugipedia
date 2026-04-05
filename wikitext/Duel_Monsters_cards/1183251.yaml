@@ -33,11 +33,17 @@ wikitext: |-
   | sc_sets               = 
   CORI-SC064; Chaos Origins; 
   | mentions              = Spring
-  | supports            = Field Spell Card
-  | counter             = 
+  | supports              = Field Spell Card
+  | counter               = 
   * Season Counter
   * Places counters on itself
   * Places counters
-  | action              = Places cards from your Deck in your Field Zone
+  | action                = 
+  * Activates upon attack declaration
+  * Places cards from your hand in your Field Zone
+  * Places cards from your Deck in your Field Zone
+  | m/s/t                 = Prevents activation of your Spell Cards
+  | life_points           = Damages your opponent
+  | misc                  = Limited activations
   | database_id           = 
   }}
