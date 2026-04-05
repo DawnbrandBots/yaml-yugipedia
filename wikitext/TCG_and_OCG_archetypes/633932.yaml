@@ -166,6 +166,27 @@ wikitext: |-
 
   "Mathmech" is often used in Cyberse pile decks, using the archetype for Link fodder and the powerful effect of "Superfactorial".
 
+  === Sample combo ===
+  This is a simple one-card combo using just "Mathmech Circular" to end on a net positive in hand advantage and set up "Superfactorial" with "Diameter" on the opponent's turn for future disruption and negation.
+  * Searchers like "[[Cynet Mining]]" and "[[Small World]]" are crucial to getting to "Mathmech Circular" quickly.
+  * In cases where "Circular" is not immediately available, other lines start with Xyz Summoning "Primathmech Alembertian" to search for "Circular" to get three Cyberse monsters on the board.
+  * Additional extenders in hand can build on this combo to Link-climb into boss monsters like "[[Firewall Dragon Darkfluid - Neo Tempest Terahertz]]" or "[[Allied Code Talker @Ignister]]".
+  {{Combo steps
+  | opening = "[[Mathmech Circular]]"
+  | end     = "[[Decode Talker Heatsoul]]" and "[[Mathmech Superfactorial]]" on field, three different "Mathmech" monsters including "[[Mathmech Diameter]]" in GY, another "Diameter" and one additional card in hand
+  | steps   = 
+  # Activate the effect of "[[Mathmech Circular]]", sending "[[Mathmech Sigma]]" to the GY as cost to Special Summon "Circular".
+  # Activate the effect of "Sigma" in the GY to Special Summon itself. Trigger the effect of "Circular" to search "[[Mathmech Superfactorial]]".
+  # Xyz Summon "[[Primathmech Alembertian]]" using "Circular" and "Sigma". Trigger the first effect of "Alembertian" by detaching two Materials, and search "[[Mathmech Diameter]]".
+  # Normal Summon "Diameter" and use its effect to Special Summon either "Circular" or "Sigma".
+  # Link Summon "[[Cyberse Wicckid]]" using your two non-Xyz monsters.
+  # Tribute "Alembertian" to its own effect, Special Summoning any other "Mathmech" monster from your GY to a Zone "Wicckid" points to.
+  # Trigger the effect of "Wicckid" and banish "Alembertian" to add another copy of "Diameter" to your hand.
+  # Link Summon "[[Decode Talker Heatsoul]]" using "Wicckid" and your one monster.
+  # Pay 1000 LP to activate the effect of "Heatsoul" and draw a card.
+  # Set "Superfactorial".
+  }}
+
   === Recommended cards ===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
@@ -210,7 +231,6 @@ wikitext: |-
   * [[Link Disciple]]
   * [[Mekk-Knight Crusadia Avramax]]
   * [[Pitknight Earlie]]
-  * [[Splash Mage]]
   * [[Topologic Bomber Dragon]]
   * [[Topologic Trisbaena]]
   * [[Update Jammer]]
