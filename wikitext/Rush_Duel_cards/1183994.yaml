@@ -3,17 +3,23 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ソウルフリップ
-  | romaji_name    = Souru Furippu
-  | image          = SoulFlip-RDORP4-JP-OP.png
-  | card_type      = Trap
-  | property       = Normal
-  | requirement    = When your opponent [[Normal Summon]]s a [[Level]] 4 or lower [[Effect Monster]] with 1400 or less [[DEF]].
-  | text           = Change that monster to [[face-down]] [[Defense Position]]. Then, if you have 3 or more different [[Attribute]]s in your [[Graveyard]], you can take control of that face-down Defense Position monster.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = ソウルフリップ
+  | romaji_name           = Souru Furippu
+  | image                 = SoulFlip-RDORP4-JP-OP.png
+  | card_type             = Trap
+  | property              = Normal
+  | requirement           = When your opponent [[Normal Summon]]s a [[Level]] 4 or lower [[Effect Monster]] with 1400 or less [[DEF]].
+  | text                  = [[Battle position change|Change]] that [[Monster Card|monster]] to [[face-down]] [[Defense Position]]. Then, if you have 3 or more different [[Attribute]]s in your [[Graveyard]], you can take [[control]] of that face-down Defense Position monster.
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/ORP4-JP055; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | anti-supports         = Effect Monster
   | related_to_archseries = Skysavior
-  | database_id    = 
+  | action                = 
+  * Activates upon Normal Summon
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Takes control of an opponent's monster
+  | database_id           = 
   }}

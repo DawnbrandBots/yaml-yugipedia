@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = During a [[turn]] you have not [[activate]]d "Beacon of Dragon Destroyer".
-  | text           = [[Special Summon]] 1 [[Warrior]] [[Type]] [[monster]] from your [[hand]] to your field in [[face-up]] [[Defense Position]]. Then, if you have "[[Buster Blader (Rush Duel)|Buster Blader]]" face-up on your field, you can [[Draw a card|draw]] 2 cards.
+  | text           = [[Special Summon]] 1 [[Warrior]] [[Type]] [[Monster Card|monster]] from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]]. Then, if you have "[[Buster Blader (Rush Duel)|Buster Blader]]" face-up on your field, you can [[Draw a card|draw]] 2 cards.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,5 +17,11 @@ wikitext: |-
   | mentions       = 
   * Beacon of Dragon Destroyer
   * Buster Blader (Rush Duel)
+  | supports       = Warrior
+  | action         = You draw cards
+  | summoning      = Special Summons from your hand
+  | misc           = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id    = 
   }}
