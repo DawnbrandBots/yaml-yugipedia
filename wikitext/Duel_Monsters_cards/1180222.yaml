@@ -21,7 +21,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Ignition, Trigger, Condition, Condition
-  | text                = You can reveal 3 Dragon monsters in your Extra Deck with 3000 or more ATK and different names; Special Summon this card from your hand. If this card is sent to the GY: You can target 1 Dragon Fusion, Synchro, Xyz, or Link Monster you control; your opponent cannot target it with card effects this turn. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of "Ilios the Black Sun Dragon" once per turn.
+  | text                = You can [[reveal]] 3 [[Dragon]] [[monster]]s in your [[Extra Deck]] with 3000 or more [[ATK]] and different names; [[Special Summon]] this card from your [[hand]]. If this card is [[send|sent]] to the [[GY]]: You can target 1 [[Dragon]] [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]] you [[control]]; your opponent cannot [[target]] it with [[card effect]]s this [[turn]]. Neither player can [[activate]] cards or effects in [[response]] to this effect's activation. You can only use each effect of "Ilios the Black Sun Dragon" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -32,5 +32,26 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP289; V Jump June 2026 promotional card; Ultra Rare
+  | supports            = 
+  * Dragon
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
+  | action              = 
+  * Activates from your hand
+  * Reveals your Extra Deck for cost
+  * Activates if sent to the Graveyard
+  | m/s/t               = 
+  * Prevents other cards being targeted by card effects
+  * Prevents activation of Effect Monsters
+  * Prevents activation of Spell Cards
+  * Prevents activation of Trap Cards
+  * Prevents responding to its activation
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}
