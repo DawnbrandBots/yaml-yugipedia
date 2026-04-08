@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 無垢なる祈りの獄神使
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = {{Ruby|無|む}}{{Ruby|垢|く}}なる{{Ruby|祈|いの}}りの{{Ruby|獄|ごく}}{{Ruby|神|しん}}{{Ruby|使|し}}
+  | romaji_name           = Mukunaru Inori no Gokushinshi
+  | translated_name       = Imprisoned God Envoy of Pure Prayers
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Center, Top-Center
   | atk                   = 300
   | password              = 
-  | materials             = 
+  | materials             = 2 non-Link Monster
   | effect_types          = Trigger, Quick, Condition
   | text                  = 2 non-[[Link Monster]]s<br />If this card is [[Link Summon]]ed and you have a "[[Power Patron]]" [[monster]] in your [[GY]]: You can [[Add a card|add]] 1 "[[Theorealize (archetype)|Theorealize]]" card from your [[Main Deck|Deck]] to your [[hand]]. During the [[Main Phase]], if you [[control]] another [[DARK]] [[Fairy]] monster, you can ([[Quick Effect]]): Immediately after this [[effect]] [[resolve]]s, [[Link Summon]] using materials you control, including this card. You can only use each effect of "Power Patron Envoy of Pure Prayers" [[once per turn]].
   | fr_text               = 
@@ -33,9 +33,25 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP039; Chaos Origins; 
+  | supports              = 
+  * DARK
+  * Fairy
   | archseries            = Power Patron
   | supports_archetypes   = 
   * Power Patron
   * Theorealize (archetype)
+  | action                = 
+  * Activates upon Link Summon
+  * Adds from Deck to hand
+  * Uses itself as a Link Material
+  | summoning             = 
+  * 2 Link Materials
+  * Cannot use Link Monsters as Link Materials for its Summon
+  * Performs a Link Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   }}

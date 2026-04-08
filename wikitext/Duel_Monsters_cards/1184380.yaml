@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = エルフェンノーツ～継唱のクウォートレイン～
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = エルフェンノーツ～{{Ruby|継|けい}}{{Ruby|唱|しょう}}のクウォートレイン～
+  | romaji_name           = Erufennōtsu ~Keishō no Kuwōtorein~
+  | translated_name       = Elfennotes ~Quatrain of Succession Chant~
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -30,7 +30,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP072; Chaos Origins; 
+  | mentions              = Elfnote Seraphim Token
   | archseries            = Elfnote
   | supports_archetypes   = Elfnote
+  | action                = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Declares a Level
+  | stat_change           = 
+  * Treats monsters as Tuner monsters
+  * Changes Levels
+  | summoning             = 
+  * Special Summons Tokens
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to archetype specific monsters
+  | banished              = Prevents cards from being banished
+  | misc                  = Only once per turn
   | database_id           = 
   }}
