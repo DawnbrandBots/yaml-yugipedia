@@ -31,8 +31,23 @@ wikitext: |-
   | jp_sets               = 
   CORI-JP053; Chaos Origins; 
   | mentions              = Invocation
+  | supports              = Fusion Monster
   | supports_archetypes   = 
   * Aleister
   * Invoked
+  | action                = 
+  * Uses cards on the player's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Uses the player's banished cards as Fusion Materials
+  * Uses the opponent's banished cards as Fusion Materials
+  * Returns banished cards to the Graveyard
+  * Returns Fusion Materials used in a Fusion Summon to Graveyard
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to Deck
+  * Adds from Graveyard to hand
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Only once per turn
   | database_id           = 
   }}

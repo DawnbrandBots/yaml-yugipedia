@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 3000
   | password              = 
+  | materials             = 1 "Aleister" monster + 1 DARK or WATER monster
   | effect_types          = Continuous, Continuous, Ignition, Condition
   | text                  = 1 "[[Aleister]]" [[monster]] + 1 [[DARK]] or [[WATER]] monster<br />While this card is in the [[Main Monster Zone]], your opponent's monsters cannot [[target]] monsters for [[attack]]s, except this one. While this card is in the [[Extra Monster Zone]], any monster sent to your opponent's [[GY]] is [[banish]]ed instead. You can banish this card from your GY, then target 1 [[Fusion Monster]] you [[control]]; it can [[attack directly]] this [[turn]]. You can only use this effect of "Invoked Okeanos" [[once per turn]].
   | fr_text               = 
@@ -33,7 +34,23 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP032; Chaos Origins; 
+  | supports              = 
+  * DARK
+  * WATER
+  * Fusion Monster
   | archseries            = Invoked
   | supports_archetypes   = Aleister
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack                = 
+  * Prevents other cards being targeted for attacks
+  * Allows direct attacks
+  | banished              = 
+  * Banishes cards that would be sent to the Graveyard
+  * Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
   | database_id           = 
   }}

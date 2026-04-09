@@ -33,8 +33,30 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP016; Chaos Origins; 
+  | supports              = 
+  * Spellcaster
+  * Fusion Monster
   | supports_archetypes   = 
   * Aleister
   * Invoked
+  | related_to_archseries = Magistus
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  | summoning             = 
+  * Performs a Normal Summon
+  * Special Summons itself from your Graveyard
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = 
+  * Banishes itself from hand for cost
+  * Banishes itself from field for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}

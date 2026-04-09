@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 3800
   | def                   = 3200
   | password              = 
+  | materials             = 2 or more Fusion Monsters with different Attributes
   | effect_types          = Trigger, Quick, Condition
   | text                  = 2+ [[Fusion Monster]]s with different [[Attribute]]s<br />If this card is [[Fusion Summon]]ed: You can [[banish]] cards from the [[field]] and/or [[GY]]s, up to the number of materials used, then if you used 3 or more, you can look at your opponent's [[Extra Deck]], and if you do, banish up to 3 cards from it. ([[Quick Effect]]): You can [[declare]] 1 [[Attribute]]; all other monsters currently on the [[field]] become that Attribute until the end of this [[turn]]. You can only use 1 "Invoked Transcendence Aeon" [[effect]] per turn, and only once that turn.
   | fr_text               = 
@@ -33,6 +34,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP033; Chaos Origins; Ultimate Rare
+  | supports              = Fusion Monster
   | archseries            = Invoked
+  | action                = 
+  * Activates upon Fusion Summon
+  * Reveals your opponent's Extra Deck
+  * Declares an Attribute
+  | stat_change           = Changes Attribute
+  | summoning             = 
+  * 2+ Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | banished              = 
+  * Banishes from field
+  * Banishes from Graveyard
+  * Banishes from your opponent's Extra Deck
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   }}

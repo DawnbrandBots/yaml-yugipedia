@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = 1600
   | def                   = 2600
   | password              = 
+  | materials             = 1 "Aleister" monster + 1 FIRE or WIND monster
   | effect_types          = Quick, Ignition, Condition
   | text                  = 1 "[[Aleister]]" [[monster]] + 1 [[FIRE]] or [[WIND]] monster<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[target]] 1 [[Level]] 6 or lower monster in either [[GY]]; [[Special Summon]] it to your [[field]] in [[Defense Position]], but [[negate]] its [[effect]]s. If this card is in your GY: You can [[Fusion Summon]] 1 "[[Invoked]]" [[Fusion Monster]] from your [[Extra Deck]], by [[banish]]ing its materials from your field and/or GY, including this card in the GY. You can only use each effect of "Invoked Sorath" [[once per turn]].
   | fr_text               = 
@@ -33,9 +34,30 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP030; Chaos Origins; Rare
+  | supports              = 
+  * FIRE
+  * WIND
+  * Fusion Monster
   | archseries            = Invoked
   | supports_archetypes   = 
   * Aleister
   * Invoked
+  | action                = 
+  * Activates from your Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Uses itself as a Fusion Material
+  | m/s/t                 = Negates the effects of the Summoned monsters
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard
+  | banished              = 
+  * Banishes Fusion Materials used in a Fusion Summon
+  * Banishes from your field
+  * Banishes from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   }}

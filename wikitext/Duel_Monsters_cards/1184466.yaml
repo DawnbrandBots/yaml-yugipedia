@@ -32,8 +32,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP070; Chaos Origins; 
+  | supports              = Fusion Monster
   | supports_archetypes   = 
   * Aleister
   * Invoked
+  | action                = 
+  * Activates if other cards are banished
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Ignoring the Summoning conditions
+  * Special Summons from your banishment
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes from your field
+  * Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}
