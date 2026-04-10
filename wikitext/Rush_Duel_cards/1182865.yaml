@@ -12,8 +12,8 @@ wikitext: |-
   | def            = 100
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text           = This card gains 200 [[ATK]] until the end of this [[turn]]. Then, if you [[activate]]d this [[effect]] during your [[Main Phase]] that you [[Special Summon]]ed this card, you can send the top card of either [[Duelist|player]]'s Deck to the Graveyard.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = このカードの攻撃力はターン終了時まで２００アップする。このカードを特殊召喚した自分メインフェイズにこの効果を発動した場合、さらに自分または相手のデッキの一番上のカードを墓地へ送る事ができる。
   | jp_sets        = 
   RD/ORP4-JP061; Over Rush Pack 4; Common
   | archseries     = Speed
@@ -23,5 +23,5 @@ wikitext: |-
   * Sends from the top of your opponent's Deck to your opponent's Graveyard
   | stat_change    = This card gains ATK
   | fm_for         = Speed Officer
-  | database_id    = 
+  | database_id    = 23083
   }}

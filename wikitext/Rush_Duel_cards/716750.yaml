@@ -17,10 +17,10 @@ wikitext: |-
   * Ciela the Skysavior Knight
   * Soleil the Skysavior Angel
   | materials       = "[[Ciela the Skysavior Knight]]" + "[[Soleil the Skysavior Angel]]"
-  | requirement     = Place 1 other card from your [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]].
+  | requirement     = Show 1 other card from your [[field]], and place it on the bottom of the [[owner]]'s [[Main Deck|Deck]].
   | text            = ●[[Destroy]] [[Spell Card|Spell]]/[[Trap Card]]s on your opponent's field, up to [the number of [[face-up]] [[Celestial Warrior]] [[Type]] [[Monster Card|monster]]s on your field]. ●[[Add a card|Add]] 1 "[[Skysavior Symbol]]" from your [[Graveyard]] to your [[hand]].
   | ja_materials    = 「蒼救騎士 シエーラ」＋「蒼救天使 ソレイル」
-  | ja_requirement  = このカード以外の自分フィールドのカード１枚を持ち主のデッキの下に戻して発動できる。
+  | ja_requirement  = このカード以外の自分フィールドのカード１枚をお互いに確認し、持ち主のデッキの下に戻して発動できる。
   | ja_text         = ●相手フィールドの魔法・罠カードを［自分フィールドの表側表示モンスター（天界戦士族）の数］まで選んで破壊する。●自分の墓地の「蒼救の証」１枚を選んで手札に加える。
   | ko_materials    = "창구기사 시에라" ＋ "창구천사 솔레일"
   | ko_requirement  = 이 카드 이외의 자신 필드의 카드 1장을 주인의 덱 아래로 되돌리고 발동할 수 있다.
@@ -37,6 +37,7 @@ wikitext: |-
   | supports        = Celestial Warrior
   | archseries      = Skysavior
   | action          = 
+  * Reveals your face-down cards for cost
   * Places cards from the player's field on the bottom of the Deck for cost
   * Adds from Graveyard to hand
   | m/s/t           = 
