@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 沼地魔道王
   | image                 = MagicalKingoftheSwamp-CORI-JP-OP.png
   | attribute             = WATER
   | types                 = Spellcaster / Effect
@@ -30,8 +30,22 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的效果1回合仅可使用1次。①：此卡存在于手牌的情况下可以发动。向对手出示额外牌组的1只融合怪兽，从牌组将1只卡名记载于该怪兽的融合素材怪兽除外。然后，将此卡特殊召唤。此回合，要将以此效果特殊召唤的此卡作为融合素材的情况下，可视为以此效果所除外的怪兽的同名卡。
   | jp_sets               = 
   CORI-JP024; Chaos Origins; 
+  | sc_sets               = 
+  CORI-SC024; Chaos Origins; 
+  | supports              = Fusion Monster
+  | action                = 
+  * Activates from your hand
+  * Reveals cards from your Extra Deck
+  | stat_change           = 
+  * Treated as alternate name
+  * Copies name
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes from your Deck
+  | misc                  = 
+  * Mentions
+  * Only once per turn
   | database_id           = 
   }}
