@@ -9,7 +9,7 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|光|こう}}{{Ruby|幻|げん}}{{Ruby|獣|じゅう}} カンデラード
   | romaji_name           = Kōgenjū Kanderādo
-  | translated_name       = Candelato, the Phantom Beast of Light
+  | translated_name       = Candelado, the Phantom Beast of Light
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,7 +21,7 @@ wikitext: |-
   | def                   = 0
   | password              = 
   | effect_types          = Condition, Continuous, Condition, Ignition, Quick
-  | text                  = (This card is always treated as a "[[Phantom Beast]]" card.)<br />Gains 1000 [[ATK]]/[[DEF]] for each card in your [[hand]]. You can only use each of the following [[effect]]s of "Candelato, the Beast of Light" [[once per turn]]. You can [[discard]] 2 other cards; [[Special Summon]] this card from your [[hand]], then you can [[Add a card|add]] 1 card from your [[Main Deck|Deck]] to your hand that has a coin tossing effect. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand ([[Quick Effect]]): You can [[negate]] that effect.
+  | text                  = (This card is always treated as a "[[Phantom Beast]]" card.)<br />Gains 1000 [[ATK]]/[[DEF]] for each card in your [[hand]]. You can only use each of the following [[effect]]s of "Candelato, the Beast of Light" [[once per turn]]. You can [[discard]] 2 other cards; [[Special Summon]] this card from your [[hand]], then you can [[Add a card|add]] 1 card from your [[Main Deck|Deck]] to your hand that has a [[coin toss]]ing effect. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand ([[Quick Effect]]): You can [[negate]] that effect.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -32,6 +32,20 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LPG2-JP003; Limited Pack GX: Ra Yellow;  Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Coin toss
   | archseries            = Phantom Beast
+  | action                = 
+  * Activates from your hand
+  * You discard for cost
+  * Adds from Deck to hand
+  | stat_change           = 
+  * This card gains ATK
+  * This card gains DEF
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning             = Special Summons itself from your hand
+  | misc                  = Only once per turn
   | database_id           = 
   }}
