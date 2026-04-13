@@ -20,6 +20,7 @@ wikitext: |-
   | atk                   = 0
   | def                   = 2800
   | password              = 
+  | materials             = 1 "Elemental HERO" monster + 1 Warrior-Type monster
   | effect_types          = Condition, Trigger, Condition, Continuous
   | text                  = 1 "[[Elemental HERO]]" [[monster]] + 1 [[Warrior]] monster<br />(This card is not treated as a "[[Guardian]]" card.)<br />If this card is [[Special Summon]]ed: You can Special Summon 1 "Elemental HERO" monster from your [[Main Deck|Deck]], then if your opponent [[control]]s a card, you can inflict 400 damage to your opponent for each, also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except "[[HERO]]" monsters. You can only use this [[effect]] of "Elemental HERO Clay Guardian" [[once per turn]]. Other "Elemental HERO" monsters you control cannot be [[destroyed by battle]] or card effects.
   | fr_text               = 
@@ -32,11 +33,24 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LPG2-JP007; Limited Pack GX: Ra Yellow; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Warrior
   | archseries            = 
   * Elemental HERO
   * HERO
   | supports_archetypes   = 
   * Elemental HERO
   * HERO
+  | action                = Activates upon Special Summon
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to archetype specific monsters
+  | attack                = Prevents other cards being destroyed by battle
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
   | database_id           = 
   }}

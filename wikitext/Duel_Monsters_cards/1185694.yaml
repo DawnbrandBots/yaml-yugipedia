@@ -17,7 +17,7 @@ wikitext: |-
   | property              = Quick-Play
   | password              = 
   | effect_types          = Effect, Ignition-like, Condition
-  | text                  = Immediately after this [[effect]] [[resolve]]s, [[Normal Summon]]/[[Set]] 1 [[monster]]. When you do, if your opponent [[control]]s a monster, you can Normal Summon a [[Level]] 5 or higher monster without Tributing. During your [[Main Phase]], if this card is in your [[GY]], except the [[turn]] it was sent there: You can [[banish]] it; [[Add a card|add]] 1 Level 5 or higher monster that can be Normal Summoned/Set from your [[Main Deck|Deck]] or GY to your hand, then immediately after this effect resolves, you can [[Tribute Summon]] it. You can only use this [[effect]] of "Quick Summon" [[once per turn]].
+  | text                  = Immediately after this [[effect]] [[resolve]]s, [[Normal Summon]]/[[Set]] 1 [[monster]]. When you do, if your opponent [[control]]s a monster, you can Normal Summon a [[Level]] 5 or higher monster without Tributing. During your [[Main Phase]], if this card is in your [[GY]], except the [[turn]] it was sent there: You can [[banish]] it; [[Add a card|add]] 1 Level 5 or higher monster that can be Normal Summoned/Set from your [[Main Deck|Deck]] or GY to your hand, then immediately after this effect resolves, [[Tribute Summon]] it. You can only use this [[effect]] of "Quick Summon" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -28,5 +28,16 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   LPG2-JP009; Limited Pack GX: Ra Yellow; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | action                = 
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | summoning             = 
+  * Performs a Normal Summon
+  * Performs a Normal Set
+  * Normal Summon without Tribute
+  * Performs a Tribute Summon
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}
