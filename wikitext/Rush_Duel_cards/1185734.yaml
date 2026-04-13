@@ -11,7 +11,7 @@ wikitext: |-
   | level                 = 4
   | atk                   = 900
   | def                   = 1200
-  | requirement           = [[Shuffle]] 2 [[Galaxy (Type)|Galaxy]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | requirement           = [[Shuffle]] 2 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
   | text                  = This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[LIGHT]] [[Attribute]] Galaxy Type monster in [[Attack Position]]. Then, you can [[Add a card|add]] 1 "[[Galactica Oblivion]]" or "[[Vanishing Heliacal Riser]]" from your Graveyard to your [[hand]].
   | ja_requirement        = 
   | ja_text               = 
@@ -20,6 +20,13 @@ wikitext: |-
   | mentions              = 
   * Galactica Oblivion
   * Vanishing Heliacal Riser
+  | supports              = 
+  * Galaxy (Type)
+  * LIGHT
   | related_to_archseries = Galactica
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Adds from Graveyard to hand
+  | summoning             = Treated as multiple Tributes
   | database_id           = 
   }}

@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1000
   | def            = 0
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "[[Interstellime]]". Then, you can [[Add a card|add]] 1 [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] with 1000 [[ATK]] or 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]]. If you do, you cannot [[activate]] the effect of "Enceladustellime" this turn.
+  | text           = This [[turn]], this card's name becomes "[[Interstellime]]". Then, you can [[Add a card|add]] 1 [[LIGHT]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] with 1000 [[ATK]] or 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]]. If you do, you cannot [[activate]] the [[effect]] of "Enceladustellime" this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,13 @@ wikitext: |-
   * Interstellime
   * Fusion (Rush Duel)
   * Enceladustellime
+  | supports       = 
+  * LIGHT
+  * Galaxy (Type)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Changes own name while on the field
+  | misc           = Only once per turn
   | database_id    = 
   }}

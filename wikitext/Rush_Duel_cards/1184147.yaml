@@ -12,15 +12,29 @@ wikitext: |-
   | atk             = 3200
   | def             = 2500
   | fusion_material = 
+  * Galactica Oblivion
+  * Vanishing Heliacal Riser
   | materials       = "[[Galactica Oblivion]]" + "[[Vanishing Heliacal Riser]]"
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = [[Shuffle]] all cards from your opponent's [[field]] into the owner's [[Main Deck|Deck]]. This [[turn]], you can only [[attack]] with this card.
-  | ja_materials    = 「ギャラクティカ・オブリビオン」＋「バニシング・ヘリアカルライザー」
-  | ja_requirement  = このカードをフュージョン召喚した自分メインフェイズに発動できる。
-  | ja_text         = 相手フィールドのカードを全て持ち主のデッキに戻す。このターン、自分はこのカードでしか攻撃できない。
+  | text            = [[Shuffle]] all cards on your opponent's [[field]] into the [[owner]]'s [[Main Deck|Deck]]. This [[turn]], you can only [[attack]] with this card.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP038; Rising of the Aurora; Super Rare
+  | mentions        = 
+  * Galactica Oblivion
+  * Vanishing Heliacal Riser
   | archseries      = Galactica
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from your opponent's field to your opponent's Deck
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | attack          = Prevents your monsters from attacking
   | misc            = Cover card
   | database_id     = 
   }}

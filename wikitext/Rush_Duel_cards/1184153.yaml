@@ -3,24 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = リザレクション・ヘリアカルライザー
-  | romaji_name    = Rizarekushon Heriakaru Raizā
-  | image          = ResurrectionHeliacalRiser-RDKP25-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Galaxy / Fusion / Effect
-  | level          = 8
-  | atk            = 2700
-  | def            = 2000
-  | materials      = "[[Vanishing Heliacal Riser]]" + 1 [[Level]] 4 or lower [[LIGHT]] [[Attribute]] [[monster]]
-  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "Vanishing Heliacal Riser". Then, you can [[Special Summon]] 1 Level 7 [[Galaxy (Type)|Galaxy]] [[Type]] monster from your Graveyard [[face-up]] to your [[field]]. This turn, you cannot activate the effect of "Resurrection Heliacal Riser".
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = リザレクション・ヘリアカルライザー
+  | romaji_name     = Rizarekushon Heriakaru Raizā
+  | image           = ResurrectionHeliacalRiser-RDKP25-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Galaxy / Fusion / Effect
+  | level           = 8
+  | atk             = 2700
+  | def             = 2000
+  | fusion_material = Vanishing Heliacal Riser
+  | materials       = "[[Vanishing Heliacal Riser]]" + 1 [[Level]] 4 or lower [[LIGHT]] [[Attribute]] [[Monster Card|monster]]
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = This [[turn]], this card's name becomes "Vanishing Heliacal Riser". Then, you can [[Special Summon]] 1 Level 7 [[Galaxy (Type)|Galaxy]] [[Type]] monster from your Graveyard [[face-up]] to your [[field]]. This turn, you cannot [[activate]] the [[effect]] of "Resurrection Heliacal Riser".
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP25-JP039; Rising of the Aurora; Rare
-  | mentions       = 
+  | mentions        = 
   * Vanishing Heliacal Riser
   * Resurrection Heliacal Riser
-  | database_id    = 
+  | supports        = 
+  * LIGHT
+  * Galaxy (Type)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = Changes own name while on the field
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Special Summons from your Graveyard
+  | misc            = Only once per turn
+  | database_id     = 
   }}
