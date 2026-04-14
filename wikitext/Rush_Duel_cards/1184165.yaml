@@ -11,12 +11,19 @@ wikitext: |-
   | level          = 4
   | atk            = 1200
   | def            = 900
-  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[Wyrm]] [[Type]] [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = Change 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, [[send]] the top card of your Deck to the Graveyard. Then, if you sent a Wyrm Type monster with 2400 [[DEF]] to the Graveyard by this [[effect]], you can [[Add a card|add]] it to your [[hand]].
+  | requirement    = If you have 10 or more cards in your [[Main Deck|Deck]], [[shuffle]] 2 [[Wyrm]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the Deck.
+  | text           = [[Battle position change|Change]] 1 [[face-up]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, [[send]] the top card of your Deck to the Graveyard. Then, if you sent a Wyrm Type monster with 2400 [[DEF]] to the Graveyard by this [[effect]], you can [[Add a card|add]] that monster to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP017; Rising of the Aurora; Rare
+  | supports       = Wyrm
   | archseries     = Clad Dragon
+  | action         = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id    = 
   }}

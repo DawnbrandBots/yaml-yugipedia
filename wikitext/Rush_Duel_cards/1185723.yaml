@@ -12,11 +12,15 @@ wikitext: |-
   | atk            = 2400
   | def            = 2400
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This card gains 800 [[ATK]] until the end of this [[turn]]. Then, if your opponent has no [[face-up]] [[monsters]] on their [[field]], you can [[shuffle]] 1 [[face-down]] card from your opponent's field into the owner's Deck.
+  | text           = This card gains 800 [[ATK]] until the end of this [[turn]]. Then, if your opponent has no [[face-up]] [[Monster Card|monster]]s on their [[field]], you can [[shuffle]] 1 [[face-down]] card from their field into the [[owner]]'s Deck.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP020; Rising of the Aurora; Super Rare
   | archseries     = Clad Dragon
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Returns from your opponent's field to your opponent's Deck
+  | stat_change    = This card gains ATK
   | database_id    = 
   }}

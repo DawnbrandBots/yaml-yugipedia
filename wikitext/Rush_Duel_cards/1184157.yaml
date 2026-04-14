@@ -3,23 +3,44 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|Ｒ・ＨＥＲＯ|ライジングヒーロー}} アルジェント{{Ruby|Ｏ|オー}}
-  | romaji_name    = Raijingu Hīrō Arujento Ō
-  | image          = RisingHEROArgentO-RDKP25-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Warrior / Fusion / Effect
-  | level          = 9
-  | atk            = 2500
-  | def            = 2000
-  | materials      = 1 [[Warrior]] [[Type]] monster with 1000 [[DEF]] + "[[Rising Unit]]"
-  | requirement    = During a [[turn]] you have not [[Special Summon]]ed a [[monster]], [[return]] this [[face-up]] card from your [[field]] to the owner's [[Extra Deck]].
-  | text           = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can [[Fusion Summon]] "Rising HERO Argent O" by shuffling monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as [[material]].
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|Ｒ・ＨＥＲＯ|ライジングヒーロー}} アルジェント{{Ruby|Ｏ|オー}}
+  | romaji_name     = Raijingu Hīrō Arujento Ō
+  | image           = RisingHEROArgentO-RDKP25-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Warrior / Fusion / Effect
+  | level           = 9
+  | atk             = 2500
+  | def             = 2000
+  | fusion_material = Rising Unit
+  | materials       = 1 [[Warrior]] [[Type]] [[Monster Card|monster]] with 1000 [[DEF]] + "[[Rising Unit]]"
+  | requirement     = During a [[turn]] you have not [[Special Summon]]ed a monster, [[return]] this [[face-up]] card from your [[field]] to the [[owner]]'s [[Extra Deck]].
+  | text            = [[Destroy]] 1 card on your opponent's field. Then, you can [[Fusion Summon]] "Rising HERO Argent O" by [[Shuffle|shuffling]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as [[material]].
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP25-JP042; Rising of the Aurora; Ultra Rare, Over Rush Rare
-  | mentions       = Rising Unit
-  | archseries     = Rising HERO
-  | database_id    = 
+  | mentions        = 
+  * Rising Unit
+  * Rising HERO Argent O
+  | supports        = Warrior
+  | archseries      = Rising HERO
+  | action          = 
+  * Returns itself from field to Extra Deck for cost
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires DEF specific Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Fusion Summons specific Fusion Monster
+  | database_id     = 
   }}

@@ -8,12 +8,20 @@ wikitext: |-
   | image          = LootfromtheCladDragondom-RDKP25-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = [[Send]] 1 [[Wyrm]] [[Type]] [[monster]] from your [[hand]] or 1 [[face-up]] Wyrm Type monster from your [[field]] to the [[Graveyard]].
-  | text           = [[Draw a card|Draw]] 1 card and show it. Then, if that card is a Wyrm Type monster, you can [[Special Summon]] 1 [[Level]] 7 or higher Wyrm Type monster from your hand [[face-up]] to your field.
+  | requirement    = [[Send]] 1 [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[hand]] or 1 [[face-up]] Wyrm Type monster from your [[field]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 1 card and show it. If that card is a Wyrm Type monster, you can [[Special Summon]] 1 [[Level]] 7 or higher Wyrm Type monster from your hand face-up to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP051; Rising of the Aurora; Common
+  | supports       = Wyrm
   | archseries     = Clad Dragon
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  * Shows the player's drawn cards
+  | summoning      = Special Summons from your hand
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}

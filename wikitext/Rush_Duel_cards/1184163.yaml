@@ -6,7 +6,7 @@ wikitext: |-
   | ja_name        = {{Ruby|纏|てん}}{{Ruby|竜|りゅう}}の{{Ruby|探|たん}}{{Ruby|索|さく}}{{Ruby|者|しゃ}} ステラ
   | romaji_name    = Tenryū no Tansakusha Sutera
   | image          = 
-  1; StellatheCladDragonResearcher-RDKP25-JP-OP.png
+  1; StellatheCladDragonResearcher-RDKP25-JP-OP.png; StellatheCladDragonResearcher-OW.png
   2; StellatheCladDragonResearcher-OW-2.png
   | current_image  = 1
   | attribute      = LIGHT
@@ -15,11 +15,18 @@ wikitext: |-
   | atk            = 1000
   | def            = 900
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 7 or higher [[monster]] to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
+  | text           = [[Excavate]] the top 4 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 7 or higher [[Monster Card|monster]] to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP016; Rising of the Aurora; Ultra Rare, Over Rush Rare
   | archseries     = Clad Dragon
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | fm_for         = Lightclad Dragon Egg
   | database_id    = 
   }}

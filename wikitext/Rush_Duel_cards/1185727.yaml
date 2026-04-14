@@ -3,25 +3,39 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|光|こう}}{{Ruby|纏|てん}}{{Ruby|竜|りゅう}}の{{Ruby|卵|たまご}}
-  | romaji_name    = Kōtenryū no Tamago
-  | image          = LightcladDragonEgg-RDKP25-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Wyrm / Fusion / Effect
-  | level          = 5
-  | atk            = 1000
-  | def            = 900
-  | materials      = "[[Stella the Clad Dragon Researcher]]" + 1 [[Level]] 4 or lower [[Wyrm]] [[Type]] [[monster]]
-  | condition      = This card can be [[Contact Fusion]]ed.
-  | requirement    = None
-  | text           = [[Special Summon]] 1 Level 7 or higher monster from your [[hand]] [[face-up]] to your [[field]]. Then, if you Special Summoned a monster whose original Type is Wyrm by this [[effect]], this [[turn]], it gains 800 [[ATK]] and inflicts [[piercing]] [[battle damage]].
-  | ja_materials   = 
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|光|こう}}{{Ruby|纏|てん}}{{Ruby|竜|りゅう}}の{{Ruby|卵|たまご}}
+  | romaji_name     = Kōtenryū no Tamago
+  | image           = LightcladDragonEgg-RDKP25-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Wyrm / Fusion / Effect
+  | level           = 5
+  | atk             = 1000
+  | def             = 900
+  | fusion_material = Stella the Clad Dragon Researcher
+  | materials       = "[[Stella the Clad Dragon Researcher]]" + 1 [[Level]] 4 or lower [[Wyrm]] [[Type]] [[Monster Card|monster]]
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = None
+  | text            = [[Special Summon]] 1 Level 7 or higher monster from your [[hand]] [[face-up]] to your [[field]]. If you Special Summoned a monster whose original Type is Wyrm by this [[effect]], this [[turn]], it gains 800 [[ATK]], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP25-JP041; Rising of the Aurora; Super Rare, Secret Rare
-  | mentions       = Stella the Clad Dragon Researcher
-  | archseries     = Clad Dragon
-  | database_id    = 
+  | mentions        = Stella the Clad Dragon Researcher
+  | supports        = Wyrm
+  | archseries      = Clad Dragon
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Special Summons from your hand
+  | attack          = Piercing
+  | misc            = Requires control of specific Type
+  | database_id     = 
   }}

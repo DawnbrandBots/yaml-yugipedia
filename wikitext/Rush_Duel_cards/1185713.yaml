@@ -8,8 +8,8 @@ wikitext: |-
   | image          = RisingEquip-RDKP25-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]].
-  | text           = [[Fusion Summon]] "[[Rising HERO Argent O]]" or "[[Rising HERO Argent F]]" by [[shuffling]] [[LIGHT]] [[Attribute]] monsters from your [[field]] or [[Graveyard]] into the owner's [[Main Deck|Deck]] as [[material]]. Then, you can [[destroy]] 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's field.
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
+  | text           = [[Fusion Summon]] "[[Rising HERO Argent O]]" or "[[Rising HERO Argent F]]" by [[Shuffle|shuffling]] [[LIGHT]] [[Attribute]] monsters from your [[field]] and/or [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]. Then, you can [[destroy]] 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +17,22 @@ wikitext: |-
   | mentions       = 
   * Rising HERO Argent O
   * Rising HERO Argent F
+  | supports       = LIGHT
   | archseries     = Rising HERO
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Fusion Summons specific Fusion Monster
+  | misc           = Requires control of specific Attribute
   | database_id    = 
   }}

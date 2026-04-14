@@ -9,13 +9,22 @@ wikitext: |-
   | card_type      = Spell
   | property       = Field
   | requirement    = None
-  | text           = While this card is [[face-up]] in the [[Field Zone]], if a player [[Fusion Summon]]s a [[LIGHT]] or [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", they can also use LIGHT or DARK Attribute Galaxy Type monsters in their [[hand]] as [[material]].
-  | ja_materials   = 
+  | text           = While this card is [[face-up]] in the [[Field Zone]], if a [[Duelist|player]] [[Fusion Summon]]s a [[LIGHT]] or [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] by the [[effect]] of "[[Fusion (Rush Duel)|Fusion]]", they can also use LIGHT or DARK Attribute Galaxy Type monsters in their [[hand]] as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP047; Rising of the Aurora; Rare
   | mentions       = Fusion (Rush Duel)
+  | supports       = 
+  * LIGHT
+  * DARK
+  * Galaxy (Type)
   | archseries     = Galactica
+  | action         = 
+  * Modifies which cards can be used as Fusion Material
+  * Sends from your hand to your Graveyard
+  * Sends from your opponent's hand to your opponent's Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Can only use certain Fusion Materials
   | database_id    = 
   }}

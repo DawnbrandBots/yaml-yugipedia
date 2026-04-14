@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 7
   | atk            = 1500
   | def            = 2400
-  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tributing]] 1 [[Wyrm]] [[Type]] [[monster]].
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Wyrm]] [[Type]] [[Monster Card|monster]].
   | requirement    = Your opponent has no [[face-up]] monsters on their [[field]] during your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
   | text           = [[Destroy]] 1 [[face-down]] card on your opponent's field. This [[turn]], you can only [[attack]] with Wyrm Type monsters.
   | ja_condition   = 
@@ -19,6 +19,17 @@ wikitext: |-
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP019; Rising of the Aurora; Rare
+  | supports       = Wyrm
   | archseries     = Clad Dragon
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  | m/s/t          = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | summoning      = Normal Summon with 1 Tribute
+  | attack         = Prevents your monsters from attacking
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}

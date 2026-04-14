@@ -11,13 +11,17 @@ wikitext: |-
   | level          = 1
   | atk            = 0
   | def            = 900
-  | requirement    = During the turn you [[Normal Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 "[[Stella the Clad Dragon Researcher]]" or [[Level]] 9 [[Wyrm]] [[Type]] [[monster]] from your [[Graveyard]] to your [[hand]].
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text           = [[Add a card|Add]] 1 "[[Stella the Clad Dragon Researcher]]" or 1 [[Level]] 9 [[Wyrm]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP015; Rising of the Aurora; Common
-  |mentions        = Stella the Clad Dragon Researcher
+  | mentions       = Stella the Clad Dragon Researcher
+  | supports       = Wyrm
   | archseries     = Clad Dragon
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
   | database_id    = 
   }}

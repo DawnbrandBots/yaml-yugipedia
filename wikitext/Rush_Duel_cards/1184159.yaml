@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 7
   | atk            = 2000
   | def            = 1000
-  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by Tributing 1 [[Warrior]] [[Type]] [[monster]].
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Warrior]] [[Type]] [[Monster Card|monster]].
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
   | text           = [[Add a card|Add]] 1 [[Level]] 3 [[LIGHT]] [[Attribute]] Warrior Type monster with 1000 [[DEF]] from your [[Graveyard]] to your [[hand]]. This [[turn]], you can only [[attack]] with LIGHT Attribute Warrior Type monsters.
   | ja_condition   = 
@@ -19,6 +19,17 @@ wikitext: |-
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP026; Rising of the Aurora; Common
+  | supports       = 
+  * Warrior
+  * LIGHT
   | archseries     = Rising HERO
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  | summoning      = Normal Summon with 1 Tribute
+  | attack         = Prevents your monsters from attacking
+  | fm_for         = Rising HERO Argent O
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}
