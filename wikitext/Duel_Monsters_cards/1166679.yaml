@@ -1,7 +1,5 @@
 title: Convex Knight
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name               = 
   | ja_name               = コンベックス・ナイト
   | romaji_name           = Konbekkusu Naito
-  | translated_name       = 
   | ko_name               = 콘벡스 나이트
   | ko_rr_name            = 
   | sc_name               = 卷尺骑士
@@ -22,7 +19,7 @@ wikitext: |-
   | def                   = 500
   | password              = 43471513
   | effect_types          = Ignition, Ignition, Condition
-  | text                  = If a [[Machine]] [[monster]] is on the [[field]] and this card is in your [[hand]]: You can [[Special Summon]] this card in [[Defense Position]], then you can make its [[Level]] become equal to the Level/[[Rank]] of 1 Machine monster on the field. During your [[Main Phase]]: You can [[send]] 1 [[EARTH]] [[Machine]] monster from your [[Main Deck|Deck]] to the [[GY]], then this card gains [[ATK]] equal to the sent monster's Level x 100 until the end of this turn. You can only use each effect of "Convex Knight" once per turn.
+  | text                  = If a [[Machine]] [[monster]] is on the [[field]] and this card is in your [[hand]]: You can [[Special Summon]] this card in [[Defense Position]], then you can make this card's [[Level]] become the Level/[[Rank]] of 1 Machine monster on the field. During your [[Main Phase]]: You can [[send]] 1 [[EARTH]] [[Machine]] monster from your [[Main Deck|Deck]] to the [[GY]], then until the end of this turn, this card gains [[ATK]] equal to the Level of the monster sent to the GY x 100. You can only use each effect of "Convex Knight" once per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,6 +30,8 @@ wikitext: |-
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：此卡存在于手牌，且场上存在机械族怪兽的情况下可以发动。将此卡以守备表示特殊召唤。然后，可将此卡的等级改成与场上的1只机械族怪兽的等级・阶级的数值相同。②：在自己的主要阶段可以发动。从牌组将1只机械族・地属性怪兽送至墓地。然后，此卡的攻击力直至回合结束时为止，上升被送至墓地的怪兽等级×100的数值。
   | jp_sets               = 
   BLZD-JP026; Blazing Dominion; Common
+  | ae_sets               = 
+  BLZD-AE026; Blazing Dominion; Common
   | kr_sets               = 
   BLZD-KR026; Blazing Dominion; Common
   | sc_sets               = 
