@@ -8,13 +8,20 @@ wikitext: |-
   | level          = 5
   | atk            = 1600
   | def            = 1200
-  | materials      = 
-  | requirement    = 
-  | text           = 
+  | effect_types   = Continuous
+  | materials      = 2 [[Machine]] [[Type]] [[Monster Card|monster]]s with the same name
+  | requirement    = None
+  | text           = This card can [[attack]] [[Direct attack|directly]].
   | ja_materials   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SJMP-JP063; Saikyō Jump June 2026 promotional card; Normal Parallel Rare
+  | supports       = Machine
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  | attack         = Direct attacker
   | database_id    = 
   }}
