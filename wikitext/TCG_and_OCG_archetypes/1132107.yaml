@@ -86,57 +86,33 @@ wikitext: |-
   ;R.B. Stage Landing
 
   {{Combo steps
-  | opening = "[[R.B. Stage Landing]]"
-  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Cutter]]," "[[R.B. Ga10 Driller]]," and "[[R.B. VALCan Booster]]" + "[[R.B. Funk Dock]]" in the Field Zone
+  | opening = "[[R.B. Stage Landing]]" or "[[R.B. Funk Dock]]".
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Shepherd's Crook]]", a set "[[R.B. Next Phase]]", and "[[R.B. Funk Dock]]". After using "Driller"'s effect, "Brute Blues" pointing to "[[R.B. Lambda Blade]]" and "[[R.B. Ga10 Cutter]]". 
   | steps   = 
   # Activate "[[R.B. Stage Landing]]," summoning "[[R.B. The Brute Blues]]" to the Extra Monster Zone
-  # Use the effect of "[[R.B. The Brute Blues]]," adding "[[R.B. Ga10 Cutter]]" from deck to hand.
-  # Special Summon "[[R.B. Ga10 Cutter]]" to a zone "[[R.B. The Brute Blues]]" points to. (Note: If your opponent activated [[Droll & Lock Bird]] upon resolution of the effect of "[[R.B. The Brute Blues]]" or had activated "[[Mulcharmy Fuwalos]]" in response to "[[R.B. Stage Landing]]," you can end the combo here and still retain a Spell or Trap negation.)
-  # Link Summon "[[Clockwork Knight]]" using "[[R.B. Ga10 Cutter]]" as material.
-  # Use the effect of "[[Clockwork Knight]]," tributing "[[R.B. The Brute Blues]]" and Special Summoning "[[R.B. Ga10 Cutter]]."
-  # Link Summon "[[Ancient Gear Ballista]]" using "[[Clockwork Knight]]" and "[[R.B. Ga10 Cutter]]" as material.
-  # Use the effect of "[[Ancient Gear Ballista]]," searching "[[Ancient Gear Box]]."
-  # Use the effect of "[[Ancient Gear Box]]," searching "[[R.B. Ga10 Driller]]."
-  # Normal Summon "[[Ancient Gear Box]]."
-  # Link Summon "[[R.B. VALCan Booster]]" using "[[Ancient Gear Box]]" and "[[Ancient Gear Ballista]]" as material.
-  # Activate the first effect of "[[R.B. VALCan Booster]]," searching "[[R.B. Funk Dock]]."
-  # Activate "[[R.B. Funk Dock]]," searching another copy of "[[R.B. Stage Landing]]."
-  # Activate the second effect of "[[R.B. VALCan Booster]]," placing itself in a zone directly beneath one of the Extra Monster Zones and Special Summoning the "[[R.B. Ga10 Cutter]]" in your Graveyard to a zone adjacent to the new placement of "[[R.B. VALCan Booster]]."
-  # Activate the new copy of "[[R.B. Stage Landing]]," summoning a new copy of "[[R.B. The Brute Blues]]" to the zone directly above "[[R.B. VALCan Booster]]."
-  # Special Summon "[[R.B. Ga10 Driller]]" to the other zone adjacent to "[[R.B. VALCan Booster]]."
+  # Use the effect of "[[R.B. The Brute Blues]]," adding "[[R.B. Funk Dock]]" from deck to hand.
+  # Activate "Funk Dock", searching a second copy of "Stage Landing". 
+  # Activate "Stage Landing", Special Summon "[[R.B. Lambda Cannon]]" from your Deck to a zone "Brute Blues" points to. 
+  # Activate the effect of "Lambda Cannon", destroying itself to check the opponent's hand, and Special Summon a monster if appropriate. 
+  # Activate the second effect of "Funk Dock", Special Summon "[[R.B. Lambda Blade]]" from your Deck to a zone "Brute Blues" points to. 
+  # Activate the first effect of "Lambda Blade", send "[[R.B. Ga10 Driller]]" from your Deck to GY. 
+  # Link Summon "[[R.B. VALCan Booster]]" using "Blues" and "Blade" as material. 
+  # Activate the first effect of "VALCan Booster", searching the final copy of "Stage Landing". 
+  # Activate the second effect of "VALCan Booster", Special Summon "Lambda Cannon" from the GY. 
+  # Activate the first effect of "Lambda Cannon", add "Ga10 Driller" from GY to hand. 
+  # Link Summon a second copy of "Brute Blues", using "VALCan Booster" and "Lambda Cannon" as material.
+  # Activate "Stage Landing", Special Summon "[[R.B. Shepherd's Crook]]" to the rightmost zone under "Brute Blues". 
+  # Activate the first effect of "Shepherd Crook", set "[[R.B. Next Phase]]" from Deck to the S/T zone. 
+  # Special Summon "Ga10 Driller" to your field, so "Brute Blues" points to it.
+  # If appropriate, activate "Ga10 Driller"'s effect to destroy the monster summoned by "Lambda Cannon", using "Stage Landing"'s effect to prevent "Ga10 Driller" destruction.
+  # On the opponent's Main Phase;
+  # Activate "Ga10 Driller"'s effect, destroy one monster your opponent controls and "Ga10 Driller". 
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Ga10 Cutter]]" from your Deck to any zone under "Brute Blues". 
+  # Activate "Shepherd Crook"'s effect, Special Summon "Lambda Blade" from your GY to the remaining zone under "Brute Blues", returning "Lambda Cannon" and "Ga10 Driller" to the Deck. 
   }}
 
-  ;R.B. Funk Dock
 
-  {{Combo steps
-  | opening = "[[R.B. Funk Dock]]" + 1 card in hand
-  | end     = "[[R.B. The Brute Blues]]" in the Extra Monster Zone pointing to "[[R.B. Shepherd's Crook]]" and "R.B. Lambda Blade", "[[R.B. Funk Dock]]" in the Field Zone, "[[R.B. Next Phase]]" set, and "[[Machina Citadel]]" in Graveyard.
-  | steps   = 
-  # Activate "[[R.B. Funk Dock]]", add "[[R.B. Stage Landing]]" to hand.
-  # Activate "Stage Landing", summon "[[R.B. The Brute Blues]]", add another "Stage Landing"
-  # Activate "Stage Landing", summon "[[R.B. Lambda Cannon]]
-  # Effect of "Lambda Cannon" to remove summon and negate a monster from the opponent's hand.
-  # Trigger "Funk Dock" off "Lambda Cannon" destruction, summon "[[R.B. Lambda Blade]]"
-  # Effect of "Lambda Blade" to send "[[R.B. Ga10 Cutter]]" to Graveyard
-  # Link "The Brute Blues" and "Lambda Blade" into "[[R.B. VALCan Booster]]"
-  # "VALCan Booster" add "[[R.B. Operation Test]]"
-  # "Operation Test" summons "Lambda Cannon", "Lambda Cannon" adds "Ga10 Cutter" to hand
-  # Summon "Ga10 Cutter"
-  # Use "VALCan Booster" to summon "Lambda Blade" and move itself to another zone
-  # "Operation Test" returns "Lambda Blade" to hand and then re-summons it
-  # Link "Ga10 Cutter" into "[[Clockwork Knight]]"
-  # "Clockwork Knight" send "Operation Test" for "[[Clockwork Night]]"
-  # Link "Clockwork Knight" and "Lambda Cannon" into "[[Barricadeborg Blocker]]"
-  # "Barricadeborg" pitch "Clockwork Night"
-  # "Clockwork Night" effect in Graveyard, discarding a card to search for "[[Machina Gearframe]]"
-  # Summon "Gearframe", add "[[Machina Unclaspare]]"
-  # "Unclaspare" effect to send "[[Machina Citadel]]" to Graveyard
-  # Link "Barricadeborg" and a "Machina" into "The Brute Blues" in the Extra Monster Zone
-  # Link "VALCan Booster" and a "Machina" into "[[R.B. Shepherd's Crook]]" in the Main Monster Zone
-  # "Shepherd's Crook" effect to set "[[R.B. Next Phase]]"
-  }}
-
-  While the archetype has an Extra Deck-affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can avoid the lock through external methods:
+  While the archetype has an Extra Deck-affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can play through the lock to achieve similar endboards, and grant the deck additional consistency. 
 
   ;2 Monsters
 
@@ -154,19 +130,27 @@ wikitext: |-
 
   {{Combo steps
   | opening = 2 Machine Monsters
-  | end     = "[[R.B. The Brute Blues]]" pointing to any 1 "R.B." Main Deck monster + "[[R.B. Funk Dock]]" in the Field Zone
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Shepherd's Crook]]", a set "[[R.B. Next Phase]]", and "[[R.B. Funk Dock]]". After using "Driller"'s effect, "Brute Blues" pointing to "[[R.B. Lambda Blade]]" and "[[R.B. Ga10 Cutter]]". 
   | steps   = 
   # Link Summon "[[R.B. VALCan Booster]]", use its effect to search "[[R.B. Funk Dock]]".
-  # Activate "Funk Dock", use its effect to search a "R.B." monster (which won't remain on field).
-  # Special Summon the searched "R.B." monster.
-  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and the leftover monster.
-  # Use the effect of "Brute Blues" to search a different "R.B." monster.
-  # Special Summon the other searched "R.B." monster.
+  # Activate "Funk Dock", use its effect to search "[[R.B. Stage Landing]]".
+  # Activate "Stage Landing", Special Summon "[[R.B. Lambda Cannon]]" to the zone "VALCan Booster" is pointing at.
+  # Activate "Lambda Cannon", destroy "Lambda Cannon" and check the opponent's hand, Special Summon a monster if appropriate.
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Lambda Blade]]" from your Deck.
+  # Activate "Lambda Blade"'s effect, send "[[R.B. Ga10 Driller]]" from Deck to GY. 
+  # Activate "VALCan Booster"'s effect, target "Lambda Cannon" in GY, Special Summon it.
+  # Activate "Lambda Cannon"'s effect, target "Ga10 Driller" in GY, add it to hand. 
+  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and "Lambda Blade".
+  # Activate "Brute Blues"' effect to search a second copy of "Stage Landing".
+  # Activate "Stage Landing", Special Summon "[[R.B. Shepherd's Crook]]" to the rightmost zone under "Brute Blues".
+  # Activate "Brute Blues"' effect, Set "[[R.B. Next Phase]]" from your Deck to the S/T zone. 
+  # Special Summon "Ga10 Driller" to your field, so "Brute Blues" points to it.
+  # If appropriate, activate "Ga10 Driller"'s effect to destroy the monster summoned by "Lambda Cannon", using "Stage Landing"'s effect to prevent "Ga10 Driller" destruction.
+  # On the opponent's Main Phase;
+  # Activate "Ga10 Driller"'s effect, destroy one monster your opponent controls and "Ga10 Driller". 
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Ga10 Cutter]]" from your Deck to any zone under "Brute Blues". 
+  # Activate "Shepherd Crook"'s effect, Special Summon "Lambda Blade" from your GY to the remaining zone under "Brute Blues", returning "Lambda Cannon" and "Ga10 Driller" to the Deck. 
 
-  If the Extra Deck lock of "VALCan Booster" can be afforded, the above combo can be adjusted to keep an extra "R.B" monster on field:
-  # At Step 3, with "VALcan Booster" and an "R.B." monster are on field, Link Summon "[[Clockwork Knight]]" using the searched "R.B." monster.
-  # Use "VALCan Booster's" second effect to Special Summon the "R.B." monster used as material.
-  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and "Knight". Continue at Step 5.
   }}
 
   ;Hybridized with other archetypes
