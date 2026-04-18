@@ -13,12 +13,19 @@ wikitext: |-
   | atk             = 700
   | def             = 1000
   | requirement     = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text            = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 7 [[Plant]] [[Type]] [[monster]] and/or 1 "[[Fusion (Rush Duel)|Fusion]]" to your hand. Place the other cards on the bottom of your Deck in any order. Then, if you added 2 cards to your hand by this [[effect]], [[send]] 1 card from your hand to the [[Graveyard]].
+  | text            = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 7 [[Plant]] [[Type]] [[Monster Card|monster]] and/or 1 "[[Fusion (Rush Duel)|Fusion]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order. If you added 2 cards to your hand by this [[effect]], [[send]] 1 card from your hand to the [[Graveyard]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP029; Rising of the Aurora; Super Rare
   | mentions        = Fusion (Rush Duel)
+  | supports        = Plant
   | archseries      = Shadow Flower
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  * Sends from your hand to your Graveyard
   | database_id     = 
   }}
