@@ -22,7 +22,7 @@ wikitext: |-
   | def                 = 0
   | password            = 
   | effect_types        = Ignition, Continuous
-  | text                = If this card battles a monster, neither can be destroyed by that battle. You can discard this card, then activate 1 of these effects (but you can only use each of these effects of "Dark-Eyes Illusionist Faceless Mage" once per turn);<br />● Place 1 "[[Mind Scan (card)|Mind Scan]]" from your hand or Deck face-up on your field.<br />● Add 1 other monster from your GY to your hand that mentions "[[Toon World]]", then you can Special Summon it, ignoring its Summoning conditions.
+  | text                = If this card [[battle]]s a [[monster]], neither can be [[destroyed by battle|destroyed by that battle]]. You can [[discard]] this card, then [[activate]] 1 of these [[effect]]s (but you can only use each of these effects of "Dark-Eyes Illusionist Faceless Mage" [[once per turn]]);<br />● Place 1 "[[Mind Scan (card)|Mind Scan]]" from your [[hand]] or [[Main Deck|Deck]] [[face-up]] on your [[field]].<br />● [[Add]] 1 other monster from your [[GY]] to your hand that [[mention]]s "[[Toon World]]", then you can [[Special Summon]] it, [[ignoring its Summoning conditions]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -36,5 +36,21 @@ wikitext: |-
   | mentions            = 
   * Mind Scan (card)
   * Toon World
+  | action              = 
+  * Activates from your hand
+  * Discards itself for cost
+  * Places cards from hand in Spell & Trap Zone
+  * Places cards from Deck in Spell & Trap Zone
+  * Adds from Graveyard to hand
+  | summoning           = 
+  * Special Summons from your hand
+  * Ignoring the Summoning conditions
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Cannot destroy by battle
+  | misc                = 
+  * Variable effects
+  * Only once per turn
+  * Mentions
   | database_id         = 
   }}

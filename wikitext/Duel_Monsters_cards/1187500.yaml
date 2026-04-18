@@ -20,7 +20,7 @@ wikitext: |-
   | property             = Continuous
   | password             = 
   | effect_types         = Continuous-like, Quick-like, Condition
-  | text                 = While you have a "[[Toon]]" card in your field or GY, your opponent must keep their hand revealed, also you can look at their Set cards at any time. If you have a Toon monster and a "Toon" Spell in your field and/or GY: You can declare 1 card name that is not among the cards/effects activated in this Chain; negate the activated effects of cards with that original name until the end of this turn, while this card is face-up on the field. You can only use this effect of "Mind Scan" once per turn.
+  | text                 = While you have a "[[Toon]]" card in your [[field]] or [[GY]], your opponent must keep their [[hand]] revealed, also you can look at their [[Set]] cards at any time. If you have a [[Toon monster]] and a "Toon" [[Spell]] in your field and/or GY: You can [[declare]] 1 card name that is not among the cards/[[effect]]s [[activate]]d in this [[Chain]]; [[negate]] the activated effects of cards with that original name until the end of this [[turn]], while this card is [[face-up]] on the field. You can only use this effect of "Mind Scan" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -31,6 +31,19 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   RV01-JP007; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | supports             = Toon monster
   | supports_archetypes  = Toon
+  | action               = 
+  * Reveals your opponent's hand
+  * Reveals face-down cards
+  * Declares a card name
+  | m/s/t                = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | misc                 = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id          = 
   }}
