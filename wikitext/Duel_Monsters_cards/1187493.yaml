@@ -21,8 +21,9 @@ wikitext: |-
   | atk                   = 0
   | def                   = 2000
   | password              = 
+  | materials             = 3 or more Level 2 Beast-Type monster
   | effect_types          = Summoning condition, Trigger, Continuous, Ignition
-  | text                  = 3+ Level 2 Beast monsters<br />Once per turn, you can also Xyz Summon "Melffy God Mommy" by using "[[Melffy Mommy]]" you control (transfer its materials). If this card is Special Summoned: You can add 1 "[[Melffy]]" Spell/Trap from your Deck or GY to your hand. Gains ATK equal to the combined ATK and DEF of all "Melffy" monsters attached to it. You can detach 5 materials from the card; return all cards your opponent controls to the hand.
+  | text                  = 3+ [[Level]] 2 [[Beast]] [[monster]]s<br />[[Once per turn]], you can also [[Xyz Summon]] "Melffy God Mommy" by using "[[Melffy Mommy]]" you [[control]] ([[transfer]] its [[material]]s). If this card is [[Special Summon]]ed: You can [[add]] 1 "[[Melffy]]" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. Gains [[ATK]] equal to the combined ATK and [[DEF]] of all "Melffy" monsters [[attach]]ed to it. You can [[detach]] 5 materials from this card; [[return]] all cards your opponent controls to the [[hand]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -33,8 +34,26 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP038; Chaos Origins; 
-  | mentions              = Melffy Mommy
+  | mentions              = 
+  * Melffy God Mommy
+  * Melffy Mommy
+  | supports              = Beast
   | archseries            = Melffy
   | supports_archetypes   = Melffy
+  | action                = 
+  * Transfers
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Applies effects if specific Xyz Material is attached
+  * Detaches multiple Xyz Materials as cost
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 3+ Xyz Materials
+  * Requires Type specific Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
   | database_id           = 
   }}

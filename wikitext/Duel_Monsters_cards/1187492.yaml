@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 100
   | password              = 
   | effect_types          = Trigger, Trigger, Condition
-  | text                  = If your opponent Normal or Special Summons a monster(s): You can Special Summon this card from your hand, then you can Fusion Summon 1 "[[Melffy]]" Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is Normal or Special Summoned: You can add 1 "Melffy" monster from your Deck to your hand, then if you added a Normal Monster, you can Special Summon any number of Beast monsters from your hand. You can only use 1 "Melffy Rabbys" effect per turn, and only once that turn.
+  | text                  = If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s): You can Special Summon this card from your [[hand]], then you can [[Fusion Summon]] 1 "[[Melffy]]" [[Fusion Monster]] from your [[Extra Deck]], using monsters from your [[hand]] or [[field]]. If this card is Normal or Special Summoned: You can [[add]] 1 "Melffy" monster from your [[Main Deck|Deck]] to your hand, then if you added a [[Normal Monster]], you can Special Summon any number of [[Beast]] monsters from your hand. You can only use 1 "Melffy Rabbys" effect per [[turn]], and [[once per turn|only once that turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,7 +34,25 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   CORI-JP021; Chaos Origins; 
+  | supports              = 
+  * Fusion Monster
+  * Normal Monster
+  * Beast
   | archseries            = Melffy
   | supports_archetypes   = Melffy
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Adds from Deck to hand
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Special Summons from your hand
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   }}
