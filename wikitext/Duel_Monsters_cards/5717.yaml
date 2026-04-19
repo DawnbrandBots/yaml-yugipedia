@@ -85,11 +85,29 @@ wikitext: |-
   '''[[Yu-Gi-Oh! Nightmare Troubadour: Cursed Darkness|Cursed Darkness]]'''
   | ygo_sets        = 
   '''[[Pack 18 (YGOO-BP)|Pack 18]]'''
-  | action          = Declares a card name
+  | action          = 
+  * Declares a card name
+  * Prevents the player placing cards on the field
+  * Prevents the opponent placing cards on the field
+  * Prevents battle position changes
   | m/s/t           = 
   * Prevents activation of Effect Monsters
   * Prevents activation of Spell Cards
   * Prevents activation of Trap Cards
   * Prevents cards from being used
+  | summoning       = 
+  * Restricts the player's Normal Summons
+  * Restricts the player's Flip Summons
+  * Restricts the player's Special Summons
+  * Restricts the opponent's Normal Summons
+  * Restricts the opponent's Flip Summons
+  * Restricts the opponent's Special Summons
+  * Cannot be used as a Fusion Material
+  * Cannot be used as a Synchro Material
+  * Cannot be used as an Xyz Material
+  * Cannot be used as a Link Material
+  | attack          =
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
   | database_id     = 4968
   }}
