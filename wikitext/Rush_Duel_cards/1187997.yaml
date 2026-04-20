@@ -12,11 +12,21 @@ wikitext: |-
   | atk            = 2500
   | def            = 1600
   | requirement    = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
-  | text           = Your opponent [[excavate]]s the top card of their Deck and places it on top of their Deck. If it was the declared card type, you can add 1 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] to your [[hand]]. If you do, you cannot [[activate]] the [[effect]] of "High-Speed Machine ENG" this [[turn]].
+  | text           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]] and places it on top of their Deck. If it was the declared card type, you can add 1 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] monster from your [[Graveyard]] to your [[hand]]. If you do, you cannot [[activate]] the [[effect]] of "High-Speed Machine ENG" this [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP012; Rising of the Aurora; Common
+  | mentions       = High-Speed Machine ENG
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Reporter
+  | action         = 
+  * Declares a card type
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * Adds from Graveyard to hand
+  | misc           = Only once per turn
   | database_id    = 
   }}

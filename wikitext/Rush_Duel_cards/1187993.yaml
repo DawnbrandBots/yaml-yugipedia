@@ -3,19 +3,33 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|号|ごう}}{{Ruby|外|がい}}バーン
-  | romaji_name    = Gōgai Bān
+  | ja_name         = {{Ruby|号|ごう}}{{Ruby|外|がい}}バーン
+  | romaji_name     = Gōgai Bān
   | translated_name = Newspaper Extra Burn
-  | image          = ExtraExtraHotOffthePress-RDKP25-JP-OP.png
-  | card_type      = Spell
-  | property       = Normal
-  | condition      = This card's name becomes "[[Hot Off the Press]]" while in the [[Graveyard]].
-  | requirement    = You have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
-  | text           = Your opponent [[excavate]]s the bottom 3 cards of their [[Main Deck|Deck]] and shows them. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the number of monsters among the shown cards] x 400. Place 2 of the 3 excavated cards on top of your opponent's Deck in any order, and place the remaining card on the bottom of your opponent's Deck.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | image           = ExtraExtraHotOffthePress-RDKP25-JP-OP.png
+  | card_type       = Spell
+  | property        = Normal
+  | condition       = This card's name becomes "[[Hot Off the Press]]" while in the [[Graveyard]].
+  | requirement     = You have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]].
+  | text            = Your opponent [[excavate]]s the bottom 3 cards of their [[Main Deck|Deck]] and shows them. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the number of monsters among the shown cards] x 400. Place 2 of the 3 excavated cards on the top of your opponent's Deck in any order, and place the remaining card on the bottom of your opponent's Deck.
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP25-JP049; Rising of the Aurora; Rare
-  | archseries     = Reporter
-  | database_id    = 
+  | mentions        = Hot Off the Press
+  | supports        = 
+  * EARTH
+  * Machine
+  | archseries      = Reporter
+  | action          = 
+  * Reveals from the bottom of your opponent's Deck
+  * Places cards from the opponent's Deck on the top of the Deck
+  * Places cards from the opponent's Deck on the bottom of the Deck
+  | stat_change     = Changes own name while in the GY
+  | life_points     = Damages your opponent
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id     = 
   }}

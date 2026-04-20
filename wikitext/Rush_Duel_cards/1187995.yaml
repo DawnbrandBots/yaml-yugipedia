@@ -8,12 +8,25 @@ wikitext: |-
   | image          = HappyJournal-RDKP25-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]] during a [[turn]] you have not [[activate]]d "Happy Journal", [[declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
+  | requirement    = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]] during a [[turn]] you have not [[activate]]d "Happy Journal", [[declare]] a card type (Monster, [[Spell Card|Spell]], or [[Trap Card|Trap]]).
   | text           = Your opponent [[excavate]]s the top 2 cards of their [[Main Deck|Deck]] and places them on top of their Deck in the same order. [[Draw a card|Draw]] cards equal to [the number of cards of the declared card type among the excavated cards].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP048; Rising of the Aurora; Rare
+  | mentions       = Happy Journal
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Reporter
+  | action         = 
+  * Declares a card type
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * You draw cards
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Only once per turn
   | database_id    = 
   }}

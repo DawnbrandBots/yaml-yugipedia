@@ -10,12 +10,22 @@ wikitext: |-
   | card_type       = Trap
   | property        = Normal
   | condition       = This card's name becomes "[[Soul of a Reporter]]" while in the [[Graveyard]].
-  | requirement     = When a card is [[sent]] to your opponent's Graveyard during their [[Main Phase]].
-  | text            = Place up to 2 cards from your opponent's Graveyard on top of the [[Main Deck|Deck]] in any order. Then, you can [[Special Summon]] up to 2 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monsters]] from your [[hand]] to your [[field]] in face-up [[Defense Position]].
+  | requirement     = When a card(s) is [[Send|sent]] to your opponent's Graveyard during their [[Main Phase]].
+  | text            = Place up to 2 cards from your opponent's Graveyard on top of the [[Main Deck|Deck]] in any order. Then, you can [[Special Summon]] up to 2 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]]s from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]].
+  | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP060; Rising of the Aurora; Common
+  | mentions        = Soul of a Reporter
+  | supports        = 
+  * EARTH
+  * Machine
   | archseries      = Reporter
+  | action          = 
+  * Activates if other cards are sent to the Graveyard
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  | stat_change     = Changes own name while in the GY
+  | summoning       = Special Summons from your hand
   | database_id     = 
   }}

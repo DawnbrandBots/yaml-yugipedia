@@ -13,11 +13,18 @@ wikitext: |-
   | atk             = 1300
   | def             = 1100
   | requirement     = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
-  | text            = Your opponent [[excavate]]s the top card of their Deck and places it on top of their Deck. If it was the declared card type, you can [[Draw a card|draw]] 1 card. If you do, you cannot [[activate]] the [[effect]] of "Reporter Lilim" this [[turn]].
+  | text            = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]] and places it on top of their Deck. If it was the declared card type, you can [[Draw a card|draw]] 1 card. If you do, you cannot [[activate]] the [[effect]] of "Reporter Lilim" this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP011; Rising of the Aurora; Super Rare
+  | mentions        = Reporter Lilim
   | archseries      = Reporter
+  | action          = 
+  * Declares a card type
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * You draw cards
+  | misc            = Only once per turn
   | database_id     = 
   }}
