@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Middle-Right
   | atk                   = 1700
   | password              = 
-  | materials             = 
+  | materials             = 2 monsters, including an "S-Force" monster
   | effect_types          = Trigger, Quick, Condition
   | text                  = 2 [[monsters]], including an "[[S-Force]]" monster<br />If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "S-Force" [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] to your [[hand]]. ([[Quick Effect]]): You can [[banish]] this card you [[control]] and 1 "S-Force" card from your hand; Special Summon 1 "S-Force" monster from your Deck or [[Extra Deck]], except "S-Force Nightslayer". You can only use each effect of "S-Force Nightslayer" [[once per turn]].
   | fr_text               = 
@@ -38,5 +38,17 @@ wikitext: |-
   | mentions              = S-Force Nightslayer
   | archseries            = S-Force
   | supports_archetypes   = S-Force
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | summoning             = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  | banished              = 
+  * Banishes itself from field for cost
+  * Banishes from hand for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}

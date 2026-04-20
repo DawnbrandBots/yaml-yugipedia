@@ -4,21 +4,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name            = Reporter Wars Scoopies [L]
-  | ja_name         = {{Ruby|報|ほう}}{{Ruby|道|どう}}{{Ruby|合|かっ}}{{Ruby|戦|せん}}スクーピーズ［{{Ruby|Ｌ|エル}}］
-  | romaji_name     = Hōdōgassen Sukūpīzu [Eru]
-  | image           = ReporterWarsScoopiesL-RDKP25-JP-OP.png
-  | attribute       = EARTH
-  | types           = Machine / Maximum / Effect
-  | level           = 4
-  | atk             = 1000
-  | def             = 0
-  | requirement     = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
-  | text            = Your opponent [[excavate]]s the top card of their [[Deck]] and places it on top of their Deck. If it was the declared card type, gain 400 [[LP]]. Then, if this card is in [[Maximum Mode]], you can [[destroy]] 1 card on your opponent's [[field]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | name           = Reporter Wars Scoopies [L]
+  | ja_name        = {{Ruby|報|ほう}}{{Ruby|道|どう}}{{Ruby|合|かっ}}{{Ruby|戦|せん}}スクーピーズ［{{Ruby|Ｌ|エル}}］
+  | romaji_name    = Hōdōgassen Sukūpīzu [Eru]
+  | image          = ReporterWarsScoopiesL-RDKP25-JP-OP.png
+  | attribute      = EARTH
+  | types          = Machine / Maximum / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 0
+  | requirement    = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
+  | text           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]] and places it on top of their Deck. If it was the declared card type, gain 400 [[LP]]. Then, if this card is in [[Maximum Mode]], you can [[destroy]] 1 card on your opponent's [[field]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP25-JP007; Rising of the Aurora; Common
-  | archseries      = Reporter
-  | database_id     = 
+  | archseries     = Reporter
+  | action         = 
+  * Declares a card type
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | life_points    = You gain Life Points
+  | misc           = Requires Maximum Mode
+  | database_id    = 
   }}

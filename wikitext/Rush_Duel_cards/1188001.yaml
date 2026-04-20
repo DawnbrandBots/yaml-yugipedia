@@ -4,21 +4,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | name            = Reporter Wars Scoopies [R]
-  | ja_name         = {{Ruby|報|ほう}}{{Ruby|道|どう}}{{Ruby|合|かっ}}{{Ruby|戦|せん}}スクーピーズ［{{Ruby|Ｒ|アール}}］
-  | romaji_name     = Hōdōgassen Sukūpīzu [Āru]
-  | image           = ReporterWarsScoopiesR-RDKP25-JP-OP.png
-  | attribute       = EARTH
-  | types           = Machine / Maximum / Effect
-  | level           = 4
-  | atk             = 900
-  | def             = 0
-  | requirement     = You have 10 or more cards in your [[Main Deck|Deck]].
-  | text            = Your opponent [[excavate]]s the top card of their Deck and places it on top of their Deck. If it was a [[Monster Card]], [[send]] the top 3 cards of your Deck to the [[Graveyard]]. Then, if this card is in [[Maximum Mode]], you can place up to 2 "[[Hot Off the Press]]" from your Graveyard on top of your Deck in any order.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | name           = Reporter Wars Scoopies [R]
+  | ja_name        = {{Ruby|報|ほう}}{{Ruby|道|どう}}{{Ruby|合|かっ}}{{Ruby|戦|せん}}スクーピーズ［{{Ruby|Ｒ|アール}}］
+  | romaji_name    = Hōdōgassen Sukūpīzu [Āru]
+  | image          = ReporterWarsScoopiesR-RDKP25-JP-OP.png
+  | attribute      = EARTH
+  | types          = Machine / Maximum / Effect
+  | level          = 4
+  | atk            = 900
+  | def            = 0
+  | requirement    = You have 10 or more cards in your [[Main Deck|Deck]].
+  | text           = Your opponent [[excavate]]s the top card of their Deck and places it on top of their Deck. If it was a [[Monster Card]], [[send]] the top 3 cards of your Deck to the [[Graveyard]]. Then, if this card is in [[Maximum Mode]], you can place up to 2 "[[Hot Off the Press]]" from your Graveyard on top of the Deck in any order.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP25-JP009; Rising of the Aurora; Common
-  | archseries      = Reporter
-  | database_id     = 
+  | mentions       = Hot Off the Press
+  | archseries     = Reporter
+  | action         = 
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the top of the Deck
+  * Sends from the top of your Deck to your Graveyard
+  * Places cards from the player's Graveyard on the top of the Deck
+  | misc           = Requires Maximum Mode
+  | database_id    = 
   }}

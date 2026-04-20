@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Middle-Left, Bottom-Center, Middle-Right
   | atk                   = 2700
   | password              = 
-  | materials             = 
+  | materials             = 2+ monsters, including an "S-Force" monster
   | effect_types          = Continuous, Quick, Condition
   | text                  = 2+ [[monsters]], including an "[[S-Force]]" monster<br />While an opponent's monster is in this card's [[column]], your opponent cannot [[target]] this card with card [[effect]]s, also they cannot [[Special Summon]] with [[activate]]d monster effects. ([[Quick Effect]]): You can [[target]] 1 monster on the [[field]]; move it to another of its controller's [[Main Monster Zone]]s. You can only use this effect of "S-Force Mystify" [[once per turn]].
   | fr_text               = 
@@ -37,5 +37,14 @@ wikitext: |-
   CORI-SC041; Chaos Origins; 
   | archseries            = S-Force
   | supports_archetypes   = S-Force
+  | m/s/t                 = Cannot be targeted by card effects
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Prevents your opponent's Special Summons
+  * Changes Monster Zone
+  | misc                  = 
+  * Column
+  * Only once per turn
   | database_id           = 
   }}

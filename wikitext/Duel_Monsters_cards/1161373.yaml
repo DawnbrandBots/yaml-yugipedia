@@ -1,7 +1,5 @@
 title: Exceptional Schedule
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -19,7 +17,7 @@ wikitext: |-
   | property              = Normal
   | password              = 52782439
   | effect_types          = Effect, Ignition-like, Condition
-  | text                  = [[Add a card|Add]] 1 "[[Special Schedule]]" or "[[Urgent Schedule]]" from your [[Main Deck|Deck]] to your [[hand]], then you can [[Special Summon]] 1 "[[Schedule Token]]" ([[Machine]]/[[EARTH]]/[[Level]] 10/[[ATK]] 3000/[[DEF]] 3000) to your opponent's [[field]]. You can [[banish]] this card from your [[GY]], then [[target]] 1 [[Level]] 10 Machine [[monster]] in your GY or [[banish]]ment; [[send]] 1 card you [[control]] to the GY, and if you do, Special Summon that monster. You can only use each [[effect]] of "Exceptional Schedule" [[once per turn]].
+  | text                  = [[Add a card|Add]] 1 "[[Special Schedule]]" or "[[Urgent Schedule]]" from your [[Main Deck|Deck]] to your [[hand]], then you can [[Special Summon]] 1 "[[Diagram Token]]" ([[Machine]]/[[EARTH]]/[[Level]] 10/[[ATK]] 3000/[[DEF]] 3000) to your opponent's [[field]]. You can [[banish]] this card from your [[GY]], then [[target]] 1 [[Level]] 10 Machine [[monster]] in your GY or [[banish]]ment; [[send]] 1 card you [[control]] to the GY, and if you do, Special Summon that monster. You can only use each [[effect]] of "Exceptional Schedule" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「臨時ダイヤ」か「緊急ダイヤ」１枚を手札に加える。その後、相手フィールドに「ダイヤグラムトークン」（機械族・地・星１０・攻／守３０００）１体を特殊召喚できる。②：墓地のこのカードを除外し、自分の墓地・除外状態の機械族・レベル１０モンスター１体を対象として発動できる。自分フィールドのカード１枚を墓地へ送り、対象のモンスターを特殊召喚する。
   | ko_text               = 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 덱에서 "임시 다이어"나 "긴급 다이어" 1장을 패에 넣는다. 그 후, 상대 필드에 "다이어그램 토큰"(기계족 / 땅 / 레벨 10 / 공 3000 / 수 3000) 1장을 특수 소환할 수 있다. ②: 묘지의 이 카드를 제외하고, 자신의 묘지 / 제외 상태인 기계족 / 레벨 10 몬스터 1장을 대상으로 하여 발동할 수 있다. 자신 필드의 카드 1장을 묘지로 보내고, 대상 몬스터를 특수 소환한다.
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：从牌组将1张“临时时刻表”或“紧急时刻表”加入手牌。然后，可将1只“时刻表衍生物”（机械族・地・星10・攻/守3000）特殊召唤至对手场上。②：将墓地的此卡除外，以自己墓地・除外状态的1只机械族・等级10怪兽为对象可以发动。将自己场上的1张卡送至墓地，将对象怪兽特殊召唤。
+  | en_sets               = 
+  BLZD-EN054; Blazing Dominion; Secret Rare
+  | fr_sets               = 
+  BLZD-FR054; Blazing Dominion; Secret Rare
+  | de_sets               = 
+  BLZD-DE054; Blazing Dominion; Secret Rare
+  | it_sets               = 
+  BLZD-IT054; Blazing Dominion; Secret Rare
+  | pt_sets               = 
+  BLZD-PT054; Blazing Dominion; Secret Rare
+  | sp_sets               = 
+  BLZD-SP054; Blazing Dominion; Secret Rare
   | jp_sets               = 
   BLZD-JP054; Blazing Dominion; Common
   | kr_sets               = 
@@ -35,9 +45,9 @@ wikitext: |-
   | sc_sets               = 
   BLZD-SC054; Blazing Dominion; Common
   | mentions              = 
+  * Diagram Token
   * Special Schedule
   * Urgent Schedule
-  * Schedule Token
   | supports              = Machine
   | archseries            = Train
   | action                = 
