@@ -1,18 +1,17 @@
 title: Mystic Dealer (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | fr_name        = Donneur Mystique
-  | de_name        = Mystischer Austeiler
-  | it_name        = Mazziere Mistico
-  | es_name        = Distribuidor Místico
-  | ja_name        = ミスティック・ディーラー
-  | romaji_name    = Misutikku Dīrā
+  | fr_name   = Donneur Mystique
+  | de_name   = Mystischer Austeiler
+  | it_name   = Mazziere Mistico
+  | es_name   = Distribuidor Místico
+  | ko_name   = 미스틱 딜러
   | image     = 
-  | attribute      = WATER
-  | types          = Spellcaster / Effect
-  | level          = 3
-  | atk            = 1000
-  | def            = 0
+  | attribute = WATER
+  | types     = Spellcaster / Effect
+  | level     = 3
+  | atk       = 1000
+  | def       = 0
   | rarity    = R
   | status    = 
   | text      = '''[REQUIREMENT]''' [[Send]] 1 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Draw a card|Draw]] 1 card.
@@ -20,9 +19,10 @@ wikitext: |-
   | ja_text   = 
   | releases  = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Sevens New Road}}
-  {{Duel Links release table|type=box|Structure Deck: Lightspeed Voltcondor}}
-  {{Duel Links release table|type=box|Rush Selection BOX Vol.01}}
-  {{Duel Links release table|type=box|Eternal Galaxy Road}}
+  {{Duel Links release table|type=box|Sevens New Road|quantity=7}}
+  {{Duel Links release table|type=box|Structure Deck: Lightspeed Voltcondor|quantity=1}}
+  {{Duel Links release table|type=box|Rush Selection BOX Vol.01|quantity=6}}
+  {{Duel Links release table|type=box|Eternal Galaxy Road|quantity=8}}
+  {{Duel Links release table|type=box|Deck Build Box: Gladimagia of Unity|quantity=4}}
   {{Duel Links release table/footer}}
   }}
