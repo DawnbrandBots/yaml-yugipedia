@@ -188,45 +188,32 @@ wikitext: |-
   # Draw 2 cards by using "Tunneller" to shuffle "Gear Gigant", "Vespenato", "Ballista", "Gearframe" and "Box" back into Deck
   }}
 
-  ;EARTH Machine Hybrid
   {{Combo steps
-  | opening = "[[Machina Redeployment]]" + 2 cards in hand
-  | end     = "[[Therion "King" Regulus]]", "[[Superdreadnought Rail Cannon Gustav Rocket]]" (with "[[Infinitrack Goliath]]" attached), "[[Superdreadnought Rail Cannon Flying Launcher]]", "[[Cyber Dragon Infinity]]" and "[[Double Headed Anger Knuckle]]" on field + "[[Machina Citadel]]" in Graveyard + any EARTH Machine in hand for follow up + 2 draws + 2000 Damage.
+  | opening = "[[R.B. Funk Dock]]" or "[[R.B. Stage Landing]]" + 1 card in hand
+  | end     = "[[R.B. The Brute Blues]]" in the Extra Monster Zone pointing to "[[R.B. Shepherd's Crook]]" and "R.B. Lambda Blade", "[[R.B. Funk Dock]]" in the Field Zone, "[[R.B. Next Phase]]" set, and "[[Machina Citadel]]" in Graveyard.
   | steps   = 
-  # Activate "[[Machina Redeployment]]", discard 1 card and add "[[Machina Gearframe]]" and "[[Machina Unclaspare]]".
-  # "Unclaspare" effect to summon itself, send "[[Machina Fortress]]" to GY
-  # Summon "Gearframe", add "[[Machina Citadel]]" to hand.
-  # Overlay "Gearframe" and "Unclaspare" for "[[Gear Gigant X]]".
-  # Effect of "Gear Gigant X" to search for "[[Scrap Recycler]]".
-  # Summon "Fortress" using "Citadel" as cost.
-  # Link Summon "[[Ancient Gear Ballista]]" using "Gear Gigant" and "Fortress"
-  ## "Gear Gigant" could be Overlayed into "Vespenato" prior to this to add another monster to Graveyard.
-  # Effect of "Ballista" to add "[[Ancient Gear Box]]", whose effect adds "[[Infinitrack Trencher]]".
-  # Summon "Fortress" using "Box" and "Trencher" as cost.
-  # Link Summon "[[Platinum Gadget]]" using "Ballista" and "Fortress".
-  # Effect of "Platinum Gadget" to summon "Scrap Recycler", who sends "[[Noctilucent Train Bleu Traveler]]" to graveyard.
-  # Link Summon "[[Clockwork Knight]]" using "Recycler".
-  # "Clockwork Knight" sends "Platinum Gadget" for "Scrap Recycler", who sends "Infinitrack Harvester".
-  # Link Summon "[[Qliphort Genius]]" using "Clockwork Knight" and "Scrap Recycler".
-  # Effect of "Blue Traveler" to summon itself and "Scrap Recycler", who sends "[[Machina Ruinforce]]".
-  ## As they are summoned to the Zones "Genius" points to, "Genius" adds "[[Therion "King" Regulus]]".
-  # Banish "Trencher" to revive "Harvester", who adds "Brutal Dozer".
-  # "Harvester" regulates Levels with "Scrap Recycler".
-  # Overlay "Harvester" and "Recycler" for "[[Cyber Dragon Nova]]" and then "[[Cyber Dragon Infinity]]".
-  # Summon "Ruinfoce" by banishing the appropriate Machine monsters from Graveyard.
-  # Overlay "Ruinforce" and "Bleu Traveler" for "Superdreadnought Rail Cannon Flying Launcher", who adds "[[Flying Pegasus Railroad Stampede]]".
-  # Normal Summon "Railroad Stampede" who revives "Citadel" and regulates both to Level 10.
-  # Overlay "Citadel" and "Railroad Stampede" for "[[Superdreadnought Rail Cannon Gustav Max]]" and then "[[Superdreadnought Rail Cannon Gustav Rocket|Gustav Rocket]]".
-  ## Detach "Citadel" from "Gustav Max" to deal 2000 Damage.
-  # Tribute "Genius" for "Brutal Dozer", who summons another Level 5 "Infinitrack" from deck.
-  # Overlay "Brutal Dozer" and Level 5 "Infinitrack" for "River Stormer".
-  # "River Stormer" searches for another EARTH Machine (e.g. "[[Ancient Gear Statue]]" for a follow up OTK).
-  ## If "Tunneler" is detached it can be banished at the end of the combo to draw 2.
-  # Link Summon "Infinitrack Goliath" using "River Stormer".
-  ## Alternatively, "River Stormer" can remain on field with "Road Roller" as material to force all opponent's monsters into defense position.
-  # Summon "Therion "King" Regulus" by equipping "Machina Gearframe".
-  # Summon "Gearframe" and use it and "Goliath" to Link Summon "[[Double Headed Anger Knuckle]]".
-  # Attach "Goliath" to "Gustav Rocket" (or "Cyber Dragon Infinity").
+  # Activate "[[R.B. Funk Dock]]", add "[[R.B. Stage Landing]]" to hand.
+  # Activate "Stage Landing", summon "[[R.B. The Brute Blues]]", add another "Stage Landing"
+  # Activate "Stage Landing", summon "[[R.B. Lambda Cannon]]
+  # Effect of "Lambda Cannon" to remove summon and negate a monster from the opponent's hand.
+  # Trigger "Funk Dock" off "Lambda Cannon" destruction, summon "[[R.B. Lambda Blade]]"
+  # Effect of "Lambda Blade" to send "[[R.B. Ga10 Cutter]]" to Graveyard
+  # Link "The Brute Blues" and "Lambda Blade" into "[[R.B. VALCan Booster]]"
+  # "VALCan Booster" add "[[R.B. Operation Test]]"
+  # "Operation Test" summons "Lambda Cannon", "Lambda Cannon" adds "Ga10 Cutter" to hand
+  # Summon "Ga10 Cutter"
+  # Use "VALCan Booster" to summon "Lambda Blade" and move itself to another zone
+  # "Operation Test" returns "Lambda Blade" to hand and then re-summons it
+  # Link "Ga10 Cutter" into "[[Clockwork Knight]]"
+  # "Clockwork Knight" send "Operation Test" for "[[Clockwork Night]]"
+  # Link "Clockwork Knight" and "Lambda Cannon" into "[[Barricadeborg Blocker]]"
+  # "Barricadeborg" pitch "Clockwork Night"
+  # "Clockwork Night" effect in Graveyard, discarding a card to search for "[[Machina Gearframe]]"
+  # Summon "Gearframe", add "[[Machina Unclaspare]]"
+  # "Unclaspare" effect to send "[[Machina Citadel]]" to Graveyard
+  # Link "Barricadeborg" and a "Machina" into "The Brute Blues" in the Extra Monster Zone
+  # Link "VALCan Booster" and a "Machina" into "[[R.B. Shepherd's Crook]]" in the Main Monster Zone
+  # "Shepherd's Crook" effect to set "[[R.B. Next Phase]]"
   }}
 
   === Recommended cards ===
