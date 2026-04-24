@@ -1,6 +1,5 @@
 title: Clown Crew Matinee Operatics
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -8,6 +7,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|道化の一座|クラウン・クラン}}『{{Ruby|開演|マチネ}}』
+  | base_romaji_name      = Dōke no Ichiza "Kaien"
+  | base_translated_name  = Clown Clan "Curtain Rise"
   | romaji_name           = Kuraun Kuran "Machine"
   | translated_name       = Clown Clan "Matinee"
   | ko_name               = 크라운 클랜 『마티네』
@@ -18,7 +19,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 57847269
   | effect_types          = Ignition-like, Trigger-like, Condition
-  | text                  = During your [[Main Phase]]: You can [[Special Summon]] 1 "[[Clown Crew]]" [[monster]] from your [[Main Deck|Deck]] or [[Extra Deck]], [[ignoring its Summoning conditions]], also you cannot [[activate]] the [[effect]]s of monsters Special Summoned from the Deck or Extra Deck until the end of the next [[turn]]. During the [[End Phase]]: You can [[Draw a card|draw]] cards equal to the number of monster card types ([[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], [[Pendulum Monster|Pendulum]], [[Link Monster|Link]]) [[Tribute]]d this turn, then you can [[Set]] 1 [[Spell]]/[[Trap]] from your [[hand]]. You can only use each effect of "Clown Crew Matinee Operatics" once per turn.
+  | text                  = During your [[Main Phase]]: You can [[Special Summon]] 1 "[[Clown Crew]]" [[monster]] from your [[Main Deck|Deck]] or [[Extra Deck]], [[ignoring its Summoning conditions]], also until the end of the next [[turn]] after this [[effect]] [[resolve]]s, you cannot [[activate]] the effects of monsters Special Summoned from the Deck or Extra Deck. During the [[End Phase]]: You can [[Draw a card|draw]] cards equal to the number of different card types of monsters [[Tribute]]d this turn ([[Ritual Monster|Ritual]], [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], [[Pendulum Monster|Pendulum]], [[Link Monster|Link]]), then you can [[Set]] 1 [[Spell]]/[[Trap]] from your [[hand]]. You can only use each effect of "Clown Crew Matinee Operatics" once per turn.
   | de_text               = 
   | it_text               = 
   | pt_text               = 
@@ -26,6 +27,18 @@ wikitext: |-
   | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキ・ＥＸデッキから「道化の一座」モンスター１体を召喚条件を無視して特殊召喚する。この効果の発動後、次のターンの終了時まで自分はデッキ・ＥＸデッキから特殊召喚されたモンスターの効果を発動できない。②：自分・相手のエンドフェイズに発動できる。このターンにリリースされたモンスターの種類（儀式・融合・Ｓ・Ｘ・Ｐ・Ｌ）の数だけ自分はドローする。その後、手札から魔法・罠カード１枚をセットできる。
   | ko_text               = 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 덱 / 엑스트라 덱에서 "크라운 클랜" 몬스터 1장을 소환 조건을 무시하고 특수 소환한다. 이 효과의 발동 후, 다음 턴의 종료시까지 자신은 덱 / 엑스트라 덱에서 특수 소환된 몬스터의 효과를 발동할 수 없다. ②: 자신 / 상대의 엔드 페이즈에 발동할 수 있다. 이 턴에 릴리스된 몬스터의 종류(의식 / 융합 / 싱크로 / 엑시즈 / 펜듈럼 / 링크)의 수만큼 자신은 드로우한다. 그 후, 패에서 마법 / 함정 카드 1장을 세트할 수 있다.
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：在自己的主要阶段可以发动。从牌组・额外牌组将1只“小丑戏帮”怪兽无视召唤条件特殊召唤。此效果发动后，直至下个回合结束时为止，自己不可发动被从牌组・额外牌组特殊召唤的怪兽的效果。②：在自己・对手的结束阶段可以发动。自己依此回合被解放的怪兽种类（仪式・融合・同步・超量・灵摆・连接）的数量抽牌。然后，可从手牌放置1张魔法・陷阱卡。
+  | en_sets               = 
+  BLZD-EN060; Blazing Dominion; 
+  | fr_sets               = 
+  BLZD-FR060; Blazing Dominion; 
+  | de_sets               = 
+  BLZD-DE060; Blazing Dominion; 
+  | it_sets               = 
+  BLZD-IT060; Blazing Dominion; 
+  | pt_sets               = 
+  BLZD-PT060; Blazing Dominion; 
+  | sp_sets               = 
+  BLZD-SP060; Blazing Dominion; 
   | jp_sets               = 
   BLZD-JP060; Blazing Dominion; Common
   | kr_sets               = 

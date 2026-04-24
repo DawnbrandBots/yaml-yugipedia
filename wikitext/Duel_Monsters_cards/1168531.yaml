@@ -1,7 +1,5 @@
 title: Enneacraft Reset
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name               = 
   | ja_name               = {{Ruby|糾罪巧|エニアクラフト}}－{{Ruby|再巧|リセット}}
   | romaji_name           = Eniakurafuto - Risetto
-  | translated_name       = 
   | ko_name               = 에니아크래프트－리셋
   | ko_rr_name            = 
   | sc_name               = 纠罪巧－重置再巧
@@ -20,7 +17,7 @@ wikitext: |-
   | property              = Normal
   | password              = 19504025
   | effect_types          = Effect, Trigger-like, Condition
-  | text                  = Place 1 "[[Enneapolis]]" from your [[Main Deck|Deck]] or [[GY]] [[face-up]] in your [[Field Zone]], or if you [[control]] "Enneapolis", you can [[negate]] the [[effect]]s of [[face-up]] cards your opponent controls up to the number of cards in your [[Pendulum Zone]]s instead. If your opponent [[activate]]s a card or effect while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; change "[[Enneacraft]]" [[monsters]] you control to [[face-down]] [[Defense Position]] up to the number of cards in your Pendulum Zones. You can only activate 1 "Enneacraft Reset" per turn.
+  | text                  = Place 1 "[[Enneapolis]]" from your [[Main Deck|Deck]] or [[GY]], [[face-up]] in your [[Field Zone]], or if you [[control]] "Enneapolis", you can [[negate]] the [[effect]]s of [[face-up]] cards your opponent controls, up to the number of cards in your [[Pendulum Zone]]s, instead. If your opponent [[activate]]s a card or effect, while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; change "[[Enneacraft]]" [[monsters]] you control to [[face-down]] [[Defense Position]], up to the number of cards in your Pendulum Zones. You can only activate 1 "Enneacraft Reset" per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -31,6 +28,8 @@ wikitext: |-
   | sc_text               = 此卡名的卡1回合仅可发动1张。①：从自己牌组・墓地将1张“纠罪都市”以表侧表示放在自己的场地区域。自己场上存在“纠罪都市”的情况下，作为代替可以自己灵摆区域的卡的数量为上限，将对手场上的表侧表示卡的效果无效。②：此卡存在于墓地的状态下，对手发动卡的效果的情况下，将此卡除外可以发动。以自己灵摆区域的卡的数量为上限，将自己场上的“纠罪巧”怪兽改成里侧守备表示。
   | jp_sets               = 
   BLZD-JP065; Blazing Dominion; Common
+  | ae_sets               = 
+  BLZD-AE065; Blazing Dominion; Common
   | kr_sets               = 
   BLZD-KR065; Blazing Dominion; Common
   | sc_sets               = 
