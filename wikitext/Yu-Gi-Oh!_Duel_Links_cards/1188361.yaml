@@ -1,6 +1,11 @@
 title: Effect Veiler (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name       = Illusionniste d'Effet
+  | de_name       = Effektverschleierin
+  | it_name       = Dissimulatore di Effetto
+  | es_name       = Ocultador de Efectos
+  | ko_name       = 이펙트 뵐러
   | image        = EffectVeiler-DULI-EN-VG.png
   | attribute    = LIGHT
   | types        = Spellcaster / Tuner / Effect
@@ -9,18 +14,17 @@ wikitext: |-
   | level        = 1
   | rarity       = UR
   | effect_types = Quick
-  | text         = During your opponent's [[Main Phase]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[GY]], then [[target]] 1 [[Effect Monster]] your opponent [[control]]s; [[negate]] the [[effect]]s of that [[face-up]] [[Monster Card|monster]] your opponent controls, until the end of this [[turn]].
+  | text         = During your opponent's [[Main Phase]] : You can [[send]] this card from your [[hand]] to the [[Graveyard]], then [[target]] 1 face-up [[Effect Monster]] your opponent [[control]]s; that [[face-up]] monster your opponent controls has is [[effect]]s [[negate]]d until the end of this [[turn]] (this is a [[Quick Effect]]).
+  | fr_text       = Durant la Main Phase de votre adversaire : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 Monstre à Effet face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, le monstre face recto contrôlé par votre adversaire a ses effets annulés (ceci est un Effet Rapide).
   | releases     = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Deep Emotion}}
-  {{Duel Links release table|type=box|Selection Box Mini: Vol. 06}}
-  {{Duel Links release table|type=box|Anniversary Box Vol. 02}}
+  {{Duel Links release table|type=box|Deep Emotion|quantity=1}}
+  {{Duel Links release table|type=box|Selection BOX Mini Vol.06|quantity=1}}
+  {{Duel Links release table|type=box|Anniversary BOX Vol.02|quantity=3}}
   {{Duel Links release table|release_date=2026-04-28|type=trader|Respect Orb Exchange|30 Respect Orbs}}
   {{Duel Links release table/footer}}
   | action        = 
   * Activates from your hand
   * Sends itself from hand to Graveyard for cost
   | m/s/t         = Negates the effects of your opponent's Effect Monsters
-  | summoning       = 
-  | misc            = 
   }}

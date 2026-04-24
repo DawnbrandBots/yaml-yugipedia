@@ -1,7 +1,5 @@
-title: Doom Regina Archfiend
+title: Archfiend Matriarch
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,7 +12,7 @@ wikitext: |-
   | ko_name               = 데스 레지나 데몬
   | ko_rr_name            = 
   | sc_name               = 死亡女后恶魔
-  | image                 = DoomReginaArchfiend-BLZD-JP-R.png
+  | image                 = ArchfiendMatriarch-BLZD-JP-R.png
   | attribute             = LIGHT
   | types                 = Fiend / Ritual / Pendulum / Effect
   | level                 = 7
@@ -23,9 +21,9 @@ wikitext: |-
   | def                   = 2900
   | password              = 78744660
   | pendulum_effect_types = Ignition-like, Condition
-  | effect_types          = Summoning condition, Summoning condition, Trigger, Condition, Continuous
-  | pendulum_effect       = You can [[target]] 1 "[[Archfiend]]" [[Spell]]/[[Trap]] in your [[GY]] or [[banish]]ment; [[destroy]] this card, and if you do, [[Add a card|add]] the targeted card to your [[hand]]. You can only use this [[effect]] of "Doom Regina Archfiend" [[once per turn]].
-  | text                  = You can [[Ritual Summon]] this card with "[[Throne of the Archfiends]]". Must be Ritual Summoned. If this card is Ritual Summoned: You can [[destroy]] as many [[Spells]]/[[Traps]] your opponent [[control]]s as possible, then if this card is in the [[Extra Monster Zone]], you can [[banish]] all Spells and Traps from your opponent's GY. You can only use this [[effect]] of "Doom Regina Archfiend" [[once per turn]]. [[Unaffected]] by other monsters' effects while in the Extra Monster Zone.
+  | effect_types          = Summoning condition, Summoning condition, Continuous, Trigger, Condition
+  | pendulum_effect       = You can [[target]] 1 "[[Archfiend]]" [[Spell]]/[[Trap]] in your [[GY]] or [[banish]]ment; [[destroy]] this card, and if you do, [[Add a card|add]] that target to your [[hand]]. You can only use this [[effect]] of "Archfiend Matriarch" [[once per turn]].
+  | text                  = You can [[Ritual Summon]] this card with "[[Throne of the Archfiends]]". Must be Ritual Summoned. [[Unaffected]] by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can [[destroy]] as many [[Spells]]/[[Traps]] your opponent [[control]]s as possible, then if this card is in the [[Extra Monster Zone]], you can [[banish]] all Spells/Traps from your opponent's GY. You can only use this [[effect]] of "Archfiend Matriarch" [[once per turn]].
   | fr_pendulum_effect    = 
   | fr_text               = 
   | de_pendulum_effect    = 
@@ -42,6 +40,18 @@ wikitext: |-
   | ko_text               = "쓰론 오브 데몬즈"에 의해 의식 소환<br />이 카드는 의식 소환으로밖에 특수 소환할 수 없다. 이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 의식 소환했을 경우에 발동할 수 있다. 상대 필드의 마법 / 함정 카드를 전부 파괴한다. 이 카드가 엑스트라 몬스터 존에 존재할 경우, 추가로 상대 묘지의 마법 / 함정 카드를 전부 제외할 수 있다. ②: 엑스트라 몬스터 존의 이 카드는 다른 몬스터의 효과를 받지 않는다.
   | sc_pendulum_effect    = 此卡名的灵摆效果1回合仅可使用1次。①：以自己墓地・除外状态的1张“恶魔”魔法・陷阱卡为对象可以发动。将此卡破坏，将对象卡加入手牌。
   | sc_text               = 以“恶魔王座”降临<br />此卡仅可通过仪式召唤方式特殊召唤。此卡名的①怪兽效果1回合仅可使用1次。①：此卡仪式召唤的情况下可以发动。将对手场上的魔法・陷阱卡全部破坏。此卡存在于额外怪兽区域的情况下，进而可将对手墓地的魔法・陷阱卡全部除外。②：额外怪兽区域的此卡不受其他怪兽的效果影响。
+  | en_sets               = 
+  BLZD-EN030; Blazing Dominion; Common
+  | fr_sets               = 
+  BLZD-FR030; Blazing Dominion; Common
+  | de_sets               = 
+  BLZD-DE030; Blazing Dominion; Common
+  | it_sets               = 
+  BLZD-IT030; Blazing Dominion; Common
+  | pt_sets               = 
+  BLZD-PT030; Blazing Dominion; Common
+  | sp_sets               = 
+  BLZD-SP030; Blazing Dominion; Common
   | jp_sets               = 
   BLZD-JP030; Blazing Dominion; Rare, Secret Rare
   | kr_sets               = 

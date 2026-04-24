@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 2600
   | def                   = 2000
   | password              = 
+  | materials             = 2 Level 4 Machine-Type monsters
   | effect_types          = Trigger, Ignition, Condition
   | text                  = 2 [[Level]] 4 [[Machine]] [[monsters]]<br />If this card is [[Special Summon]]ed: You can change all monsters your opponent [[control]]s to [[Attack Position]]. If your opponent has a monster in their [[field]] or [[GY]]: You can [[detach]] 1 [[material]] from this card; [[send]] 1 Machine monster from your [[Main Deck|Deck]]/[[Extra Deck]] to the GY, then you can apply this [[effect]].<br />● Choose 1 Machine [[Xyz Monster]] in your GY, and this card's name becomes that monster's name until the [[End Phase]].<br />You can only use this effect of "Gaming Gamer GG" once per turn.
   | fr_text               = 
@@ -41,5 +42,20 @@ wikitext: |-
   BLZD-PT081; Blazing Dominion; Common
   | sp_sets               = 
   BLZD-SP081; Blazing Dominion; Common
+  | supports              = 
+  * Machine
+  * Xyz Monster
+  | action                = 
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Sends from your Deck to your Graveyard
+  * Sends from your Extra Deck to your Graveyard
+  | stat_change           = 
+  * Copies name
+  * Changes own name while on the field
+  | summoning             = 
+  * 2 Xyz Materials
+  * Requires Type specific Xyz Materials
+  | misc                  = Only once per turn
   | database_id           = 
   }}

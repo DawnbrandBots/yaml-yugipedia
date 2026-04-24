@@ -9,12 +9,21 @@ wikitext: |-
   | image           = BrassdesTrapHole-RDKP25-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Normal Summon]]s a [[Level]] 8 or lower [[Effect Monster]] while you have a [[face-up]] [[Level]] 3 [[Fiend]] [[Type]] [[monster]] on your [[field]] or "[[Brassdes of the Diabolic Duds]]" in your [[Graveyard]].
+  | requirement     = When your opponent [[Normal Summon]]s a [[Level]] 8 or lower [[Effect Monster]] while you have a [[face-up]] Level 3 [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]] or "[[Brassdes of the Diabolic Duds]]" in your [[Graveyard]].
   | text            = [[Destroy]] that Normal Summoned monster. Then, you can make 1 face-up Level 3 monster on your field gain 700 [[ATK]] until the end of this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP064; Rising of the Aurora; Super Rare
   | mentions        = Brassdes of the Diabolic Duds
+  | supports        = Fiend
+  | anti-supports   = Effect Monster
+  | archseries      = Brassdes
+  | action          = Activates upon Normal Summon
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id     = 
   }}
