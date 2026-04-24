@@ -1,6 +1,5 @@
 title: Subspace Battle
 wikitext: |-
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -17,7 +16,7 @@ wikitext: |-
   | property            = Normal
   | password            = 89693655
   | effect_types        = Effect, Condition
-  | text                = Apply this [[effect]] 3 times.<br />● Each player [[reveal]]s 1 [[Monster Card|monster]] in their [[Main Deck|Deck]], except a monster with ? [[ATK]]. [[Add a card|Add]] the monster with higher ATK to the [[hand]] of the player that revealed it, also [[destroy]] the monster with lower ATK, and if you do, inflict 500 [[Effect damage|damage]] to the player that revealed it. If they have the same ATK, [[shuffle]] them into the Deck. Each player cannot [[activate]] the effects of monsters with the same name as the monster they revealed for the rest of this [[turn]].<br />You can only activate 1 "Subspace Battle" per turn.
+  | text                = Apply the following [[effect]], 3 times, in sequence.<br />● Each player [[reveal]]s 1 [[Monster Card|monster]] from their [[Main Deck|Deck]] that does not have ? [[ATK]]. [[Add a card|Add]] the monster with the higher ATK to the [[hand]] of the player that revealed it, also [[destroy]] the monster with the lower ATK and inflict 500 [[Effect damage|damage]] to the player that revealed it. If tied, [[shuffle]] those monsters into the Decks.<br />For the rest of this [[turn]], neither player can [[activate]] the effects of monsters with any of their revealed monsters' names. You can only activate 1 "Subspace Battle" per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -26,6 +25,18 @@ wikitext: |-
   | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果を３回適用する。●お互いはそれぞれ自身のデッキから攻撃力？以外のモンスター１体を選び、お互いに確認する。攻撃力が高い方のモンスターは、それを選んだプレイヤーの手札に加わる。攻撃力が低い方のモンスターは破壊され、それを選んだプレイヤーは５００ダメージを受ける。攻撃力が同じだった場合、選んだモンスターはデッキに戻す。このターン、お互いはこの効果で自身が選んだモンスター及びその同名モンスターのモンスター効果を発動できない。
   | ko_text             = 
   | sc_text             = 
+  | en_sets             = 
+  BLZD-EN100; Blazing Dominion; Common
+  | fr_sets             = 
+  BLZD-FR100; Blazing Dominion; Common
+  | de_sets             = 
+  BLZD-DE100; Blazing Dominion; Common
+  | it_sets             = 
+  BLZD-IT100; Blazing Dominion; Common
+  | pt_sets             = 
+  BLZD-PT100; Blazing Dominion; Common
+  | sp_sets             = 
+  BLZD-SP100; Blazing Dominion; Common
   | jp_sets             = 
   VJMP-JP283; V Jump March 2026 promotional card; Ultra Rare
   | action              = 
