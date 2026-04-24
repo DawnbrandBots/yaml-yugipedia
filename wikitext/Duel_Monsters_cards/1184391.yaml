@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = PlasmaBlast-CORI-JP-OP.png
+  | image                 = PlasmaBlast-CORI-JP-R.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 51869363
   | effect_types          = Effect, Condition
   | text                  = [[Activate]] this [[effect]] depending on whose [[turn]] it is;<br />● Yours: Place 1 [[Thunder]] or [[Rock]] [[monster]] from your [[Main Deck|Deck]] on top of your Deck, then if a Thunder or Rock monster is in your [[field]] or GY, you can [[destroy]] 1 card on the field.<br />● Opponent's: [[Add a card|Add]] 1 Thunder or Rock monster from your field, GY, or [[banish]]ment to the hand, or if a monster(s) was [[destroyed by battle]] or card effect this turn, you can add from your Deck instead.<br />You can only activate 1 "Plasma Blast" per turn.
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：発動ターンによって以下の効果を発動できる。<br />●自分ターン：デッキから雷族・岩石族モンスター１体を選んでデッキの一番上に置く。自分のフィールドか墓地に雷族・岩石族モンスターのいずれかが存在する場合、さらにフィールドのカード１枚を破壊できる。<br />●相手ターン：自分のフィールド・墓地・除外状態の雷族・岩石族モンスター１体を手札に加える。このターンにモンスターが戦闘・効果で破壊されている場合、手札に加えるモンスターをデッキから選ぶ事もできる。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  CORI-JP063; Chaos Origins; 
+  CORI-JP063; Chaos Origins; Rare
   | supports              = 
   * Thunder
   * Rock
@@ -47,5 +47,5 @@ wikitext: |-
   * Variable effects
   * Requires control of specific Type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23012
   }}

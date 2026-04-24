@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 超元特防队 本源
-  | image                 = SForceOrigin-CORI-JP-OP.png
+  | image                 = SForceOrigin-CORI-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 99199231
   | effect_types          = Effect, Trigger-like, Condition
   | text                  = [[Special Summon]] 1 "[[S-Force]]" [[monster]] from your [[hand]], [[GY]], or [[banish]]ment, but banish it when it [[leaves the field]]. If another card(s) is banished while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] it; take 2 "S-Force" cards from your [[Main Deck|Deck]], except "S-Force Origin", banish 1 of them, and [[send]] the other to the GY. You can only use each effect of "S-Force Origin" [[once per turn]].
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・墓地・除外状態の「Ｓ－Ｆｏｒｃｅ」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。②：このカードが墓地に存在する状態で、他のカードが除外された場合、このカードを除外して発動できる。デッキから「Ｓ－Ｆｏｒｃｅ オリジン」以外の「Ｓ－Ｆｏｒｃｅ」カード２枚を選び、その内の１枚を除外し、もう１枚を墓地へ送る。
   | ko_text               = 
-  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②效果1回合仅可各使用1次。①：将自己手牌・墓地・除外状态的1只“超元特防队”怪兽特殊召唤。以此效果特殊召唤的怪兽从场上离开的情况下，将其除外。②：此卡存在于墓地的状态下，且其他卡被除外的情况下，将此卡除外可以发动。从牌组挑选2张“超元特防队 本源”以外的“超元特防队”卡，将其中1张除外，另1张送至墓地。
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：将自己手牌・墓地・除外状态的1只“超元特防队”怪兽特殊召唤。以此效果特殊召唤的怪兽从场上离开的情况下，将其除外。②：此卡存在于墓地的状态下，且其他卡被除外的情况下，将此卡除外可以发动。从牌组挑选2张“超元特防队 本源”以外的“超元特防队”卡，将其中1张除外，另1张送至墓地。
   | jp_sets               = 
-  CORI-JP058; Chaos Origins; 
+  CORI-JP058; Chaos Origins; Common
   | sc_sets               = 
   CORI-SC058; Chaos Origins; 
   | mentions              = S-Force Origin
@@ -48,5 +48,5 @@ wikitext: |-
   * Banishes itself from Graveyard for cost
   * Banishes from your Deck
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23007
   }}

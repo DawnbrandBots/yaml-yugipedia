@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 超元特防队 征义
-  | image                 = SForceSignus-CORI-JP-OP.png
+  | image                 = SForceSignus-CORI-JP-C.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 3
   | atk                   = 1600
   | def                   = 0
-  | password              = 
+  | password              = 19951423
   | effect_types          = Trigger, Trigger, Condition
   | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[S-Force]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "S-Force Signus", then if an opponent's monster is in this card's [[column]], you can [[Draw a card|draw]] 1 card. If an opponent's monster activates its effect in the same column as your monster (except during the [[Damage Step]]): You can make all "S-Force" monsters you currently control gain 1000 [[ATK]]. You can only use each effect of "S-Force Signus" [[once per turn]].
   | fr_text               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「Ｓ－Ｆｏｒｃｅ シグナス」以外の「Ｓ－Ｆｏｒｃｅ」モンスター１体を手札に加える。このカードの正面に相手モンスターが存在する場合、さらに自分は１枚ドローできる。②：自分フィールドのモンスターの正面の相手モンスターが効果を発動した場合に発動できる。自分フィールドの全ての「Ｓ－Ｆｏｒｃｅ」モンスターの攻撃力は１０００アップする。
   | ko_text               = 
-  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将“超元特防队 征义”以外的1只“超元特防队”怪兽加入手牌。此卡的正面存在对手怪兽的情况下，自己可进而抽1张。②：自己场上的怪兽的正面的、对手怪兽发动效果的情况下可以发动。自己场上所有“超元特防队”怪兽的攻击力上升1000。
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将“超元特防队 征义”以外的1只“超元特防队”怪兽加入手牌。此卡的正面存在对手怪兽的情况下，自己可进而抽1张。②：自己场上的怪兽的正面的、对手怪兽发动效果的情况下可以发动。自己场上所有“超元特防队”怪兽的攻击力上升1000。
   | jp_sets               = 
-  CORI-JP020; Chaos Origins; 
+  CORI-JP020; Chaos Origins; Common
   | sc_sets               = 
   CORI-SC020; Chaos Origins; 
   | mentions              = S-Force Signus
@@ -48,5 +48,5 @@ wikitext: |-
   * Column
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22969
   }}

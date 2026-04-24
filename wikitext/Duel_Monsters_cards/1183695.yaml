@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 灰层
-  | image                 = GrayLayer-CORI-JP-OP.png
+  | image                 = GrayLayer-CORI-JP-C.png
   | attribute             = LIGHT
   | types                 = Machine / Effect
   | level                 = 4
   | atk                   = 1200
   | def                   = 1000
-  | password              = 
+  | password              = 18616294
   | effect_types          = Ignition, Trigger, Condition
   | text                  = You can [[Tribute]] this card and [[reveal]] 1 [[Machine]] [[monster]] in your [[hand]]; [[Add a card|add]] 1 Machine monster from your [[Main Deck|Deck]] to your hand with a different [[Attribute]] than the revealed monster, then if you added a monster with 1200 or less [[ATK]], you can [[Special Summon]] 1 Machine monster from your hand. If a monster(s) in your [[possess]]ion is [[destroy]]ed by card [[effect]], while this card is in your [[GY]] (except during the [[Damage Step]]): You can [[banish]] this card; [[destroy]] 1 card on the field. You can only use each effect of "Gray Layer" once per turn.
   | fr_text               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをリリースし、手札の機械族モンスター１体を相手に見せて発動できる。見せたモンスターとは属性が異なる機械族モンスター１体をデッキから手札に加える。この効果で攻撃力１２００以下のモンスターを手札に加えた場合、さらに手札から機械族モンスター１体を特殊召喚できる。②：このカードが墓地に存在する状態で、自分のモンスターが効果で破壊された場合、このカードを除外して発動できる。フィールドのカード１枚を破壊する。
   | ko_text               = 
-  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②效果1回合仅可各使用1次。①：解放此卡，向对手出示手牌的1只机械族怪兽可以发动。从牌组将1只属性与所出示怪兽不同的机械族怪兽加入手牌。以此效果将攻击力1200以下的怪兽加入了手牌的情况下，进而可从手牌将1只机械族怪兽特殊召唤。②：此卡存在于墓地的状态下，自己的怪兽因效果被破坏的情况下，将此卡除外可以发动。将场上的1张卡破坏。
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：解放此卡，向对手出示手牌的1只机械族怪兽可以发动。从牌组将1只属性与所出示怪兽不同的机械族怪兽加入手牌。以此效果将攻击力1200以下的怪兽加入了手牌的情况下，进而可从手牌将1只机械族怪兽特殊召唤。②：此卡存在于墓地的状态下，自己的怪兽因效果被破坏的情况下，将此卡除外可以发动。将场上的1张卡破坏。
   | jp_sets               = 
-  CORI-JP026; Chaos Origins; 
+  CORI-JP026; Chaos Origins; Common
   | sc_sets               = 
   CORI-SC026; Chaos Origins; 
   | supports              = Machine
@@ -51,5 +51,5 @@ wikitext: |-
   | summoning             = Special Summons from your hand
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22975
   }}

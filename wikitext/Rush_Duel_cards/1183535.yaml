@@ -3,27 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = アクツキのブラスデス
-  | romaji_name    = Akutsuki no Burasudesu
-  | image          = BrassdesoftheDiabolicDuds-RDORP4-JP-UR.png
-  | attribute      = DARK
-  | types          = Fiend / Effect
-  | level          = 3
-  | atk            = 0
-  | def            = 0
-  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Choose 1 [[face-up]] non-[[Maximum Monster|Maximum]] [[Effect Monster]] with 100 or more [[ATK]] on your opponent's [[field]], and this card gains ATK equal to [the chosen [[Monster Card|monster]]'s ATK] until the end of this [[turn]]. Then, until the end of your opponent's next turn, neither [[Duelist|player]] [[Damage|take]]s [[battle damage]] from [[battle]]s involving this card.
-  | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに、デッキの一番上のカードを墓地へ送って発動できる。
-  | ja_text        = マキシマムモンスター以外の相手フィールドの表側表示の効果モンスター（攻撃力１００以上）１体を選び、このカードの攻撃力はターン終了時まで、［選んだモンスターの攻撃力］だけアップする。さらに次の相手ターン終了時まで、このカードの戦闘でお互いは戦闘ダメージを受けない。
-  | jp_sets        = 
+  | ja_name         = アクツキのブラスデス
+  | romaji_name     = Akutsuki no Burasudesu
+  | translated_name = Evil-Wearing Brassdes
+  | image           = BrassdesoftheDiabolicDuds-RDORP4-JP-UR.png
+  | attribute       = DARK
+  | types           = Fiend / Effect
+  | level           = 3
+  | atk             = 0
+  | def             = 0
+  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = Choose 1 [[face-up]] non-[[Maximum Monster|Maximum]] [[Effect Monster]] with 100 or more [[ATK]] on your opponent's [[field]], and this card gains ATK equal to [the chosen [[Monster Card|monster]]'s ATK] until the end of this [[turn]]. Then, until the end of your opponent's next turn, neither [[Duelist|player]] [[Damage|take]]s [[battle damage]] from [[battle]]s involving this card.
+  | ja_requirement  = このカードを召喚・特殊召喚した自分メインフェイズに、デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = マキシマムモンスター以外の相手フィールドの表側表示の効果モンスター（攻撃力１００以上）１体を選び、このカードの攻撃力はターン終了時まで、［選んだモンスターの攻撃力］だけアップする。さらに次の相手ターン終了時まで、このカードの戦闘でお互いは戦闘ダメージを受けない。
+  | jp_sets         = 
   RD/ORP4-JP073; Over Rush Pack 4; Ultra Rare, Over Rush Rare
-  | anti-supports  = Effect Monster
-  | action         = 
+  | anti-supports   = Effect Monster
+  | action          = 
   * Activates during the turn in which it was Normal Summoned
   * Activates during the turn in which it was Special Summoned
   * Sends from the top of your Deck to your Graveyard for cost
-  | stat_change    = This card gains ATK
-  | life_points    = Prevents battle damage
-  | misc           = Turn limited effects
-  | database_id    = 23094
+  | stat_change     = This card gains ATK
+  | life_points     = Prevents battle damage
+  | misc            = Turn limited effects
+  | database_id     = 23094
   }}

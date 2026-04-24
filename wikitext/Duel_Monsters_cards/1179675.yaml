@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ThePhantomKnightsRankUpMagicRequiem-CORI-JP-OP.png
+  | image                 = ThePhantomKnightsRankUpMagicRequiem-CORI-JP-C.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 62104532
   | effect_types          = Effect, Condition
   | text                  = [[Target]] 1 "[[The Phantom Knights]]" or "[[Xyz Dragon]]" [[monster]] in your [[GY]] or [[banish]]ment; [[Special Summon]] it (but [[negate]] its [[effect]]s), then Special Summon from your [[Extra Deck]], 1 "The Phantom Knights" or "Xyz Dragon" [[Xyz Monster]] that is 1 Rank higher than a [[DARK]] Xyz Monster you [[control]], by using that monster as [[material]] (this is treated as an [[Xyz Summon]], [[transfer]] its materials). You can only [[activate]] 1 "The Phantom Knights' Rank-Up-Magic Requiem" per turn.
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地・除外状態の「幻影騎士団」モンスターか「エクシーズ・ドラゴン」モンスター１体を対象として発動できる。そのモンスターを効果を無効にして特殊召喚する。その後、以下の効果を適用する。●自分フィールドの闇属性Ｘモンスター１体を選び、そのモンスターよりランクが１つ高い、「幻影騎士団」Ｘモンスターか「エクシーズ・ドラゴン」Ｘモンスター１体を、選んだモンスターの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚する。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  CORI-JP057; Chaos Origins; 
+  CORI-JP057; Chaos Origins; Common
   | supports              = 
   * DARK
   * Xyz Monster
@@ -53,5 +53,5 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23006
   }}

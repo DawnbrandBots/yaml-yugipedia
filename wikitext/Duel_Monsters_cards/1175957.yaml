@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 精灵圣贤者
-  | image                 = MysticalCelticSage-CORI-JP-OP.png
+  | image                 = MysticalCelticSage-CORI-JP-C.png
   | attribute             = LIGHT
   | types                 = Warrior / Effect
   | level                 = 4
   | atk                   = 1400
   | def                   = 2000
-  | password              = 
+  | password              = 50073633
   | effect_types          = Trigger, Ignition, Condition
   | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[activate]] this [[effect]]; you can only Special Summon from the [[Extra Deck]] once for the rest of this [[turn]], also [[reveal]] your entire [[hand]], and if there is a card that mentions "[[Ritual of Light and Darkness]]" in it, you can [[Draw a card|draw]] 3 cards, then [[discard]] 2 cards. You can [[Tribute]] this card; Special Summon 1 [[Ritual Monster]] that mentions "Ritual of Light and Darkness" from your hand. You can only use each effect of "Mystical Celtic Sage" [[once per turn]].
   | fr_text               = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。自分の手札を全て相手に見せる。その中に「光と闇の儀式」のカード名が記されたカードがあった場合、自分は３枚ドローできる。ドローした場合、さらに自分の手札を２枚選んで捨てる。この効果の発動後、ターン終了時まで自分は１回しかＥＸデッキからモンスターを特殊召喚できない。②：このカードをリリースして発動できる。手札から「光と闇の儀式」のカード名が記された儀式モンスター１体を特殊召喚する。
   | ko_text               = 
-  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。向对手出示自己的所有手牌。其中有记载有“光与暗的仪式”卡名的卡的情况下，自己可抽3张。抽了牌的情况下，进而挑选自己的2张手牌舍弃。此效果发动后，直至回合结束时为止，自己从额外牌组仅可特殊召唤怪兽1次。②：解放此卡可以发动。从手牌将1只记载有“光与暗的仪式”卡名的仪式怪兽特殊召唤。
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。向对手出示自己的所有手牌。其中有记载有“光与暗的仪式”卡名的卡的情况下，自己可抽3张。抽了牌的情况下，进而挑选自己的2张手牌舍弃。此效果发动后，直至回合结束时为止，自己从额外牌组仅可特殊召唤怪兽1次。②：解放此卡可以发动。从手牌将1只记载有“光与暗的仪式”卡名的仪式怪兽特殊召唤。
   | jp_sets               = 
-  CORI-JP003; Chaos Origins; 
+  CORI-JP003; Chaos Origins; Common
   | sc_sets               = 
   CORI-SC003; Chaos Origins; 
   | mentions              = Ritual of Light and Darkness
@@ -40,7 +40,7 @@ wikitext: |-
   | supports              = Ritual Monster
   | related_to_archseries = 
   * Celtic Guard
-  * Chaos (archetype)
+  * Chaos
   | action                = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
@@ -54,5 +54,5 @@ wikitext: |-
   | misc                  = 
   * Mentions
   * Only once per turn
-  | database_id           = 
+  | database_id           = 22952
   }}

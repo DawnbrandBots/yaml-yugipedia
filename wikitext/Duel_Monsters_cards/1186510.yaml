@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 腐朽的祭仪要录
-  | image                 = CorruptedRitualRecords-CORI-JP-OP.png
+  | image                 = CorruptedRitualRecords-CORI-JP-R.png
   | card_type             = Spell
   | property              = Normal
-  | password              = 
+  | password              = 24461358
   | effect_types          = Effect, Trigger-like, Condition
   | text                  = [[Reveal]] 1 [[Ritual Spell]] in your [[hand]] or [[Main Deck|Deck]], and [[Add a card|add]] 1 [[monster]] that mentions it from your Deck to your hand. If a [[face-up]] [[Ritual Monster]](s) you [[control]] [[leaves the field]] by card [[effect]] while this card is in your [[GY]], and you control no [[face-up]] non-Ritual Monsters (except during the [[Damage Step]]): You can add this card to your hand. You can only use each effect of "Corrupted Ritual Records" once per turn.
   | fr_text               = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・デッキから儀式魔法カード１枚を相手に見せ、そのカード名が記されたモンスター１体をデッキから手札に加える。②：このカードが墓地に存在する状態で、自分フィールドの表側表示の儀式モンスターが効果でフィールドから離れた場合、自分フィールドに儀式モンスター以外の表側表示モンスターが存在しなければ発動できる。このカードを手札に加える。
   | ko_text               = 
-  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②效果1回合仅可各使用1次。①：从手牌・牌组将1张仪式魔法卡出示给对手，从牌组将1只记载有该卡名的怪兽加入手牌。②：此卡存在于墓地的状态下，自己场上有表侧表示的仪式怪兽因效果从场上离开的情况下，如果自己场上不存在仪式怪兽以外的表侧表示怪兽则可以发动。将此卡加入手牌。
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：从手牌・牌组将1张仪式魔法卡出示给对手，从牌组将1只记载有该卡名的怪兽加入手牌。②：此卡存在于墓地的状态下，自己场上有表侧表示的仪式怪兽因效果从场上离开的情况下，如果自己场上不存在仪式怪兽以外的表侧表示怪兽则可以发动。将此卡加入手牌。
   | jp_sets               = 
-  CORI-JP062; Chaos Origins; 
+  CORI-JP062; Chaos Origins; Rare
   | sc_sets               = 
   CORI-SC062; Chaos Origins; 
   | supports              = 
@@ -45,5 +45,5 @@ wikitext: |-
   | misc                  = 
   * Mentions
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23011
   }}
