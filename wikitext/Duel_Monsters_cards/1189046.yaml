@@ -19,6 +19,7 @@ wikitext: |-
   | atk                   = 1000
   | def                   = 2500
   | password              = 
+  | materials             = 2 monsters with the same Type and Attribute, but different Levels
   | effect_types          = Continuous, Trigger, Condition
   | text                  = 2 [[monsters]] with the same [[Type]] and [[Attribute]], but different [[Level]]s<br />Your opponent cannot [[target]] [[Fusion Monster]]s you [[control]] with card [[effect]]s. If this card is [[sent]] to the [[GY]] as [[material]] for a [[Fusion Summon]]: You can [[Special Summon]] 1 Fusion Monster from your [[Extra Deck]] in [[Defense Position]] (but [[negate]] its [[effect]]s, also [[return]] it to the Extra Deck during the [[End Phase]]), also for the rest of this [[turn]], you cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use this effect of "Fata Dragna" once per turn.
   | fr_text               = 
@@ -41,5 +42,21 @@ wikitext: |-
   BLZD-PT082; Blazing Dominion; Ultra Rare
   | sp_sets               = 
   BLZD-SP082; Blazing Dominion; Ultra Rare
+  | supports              = Fusion Monster
+  | action                = 
+  * Activates if sent to the Graveyard
+  * Activates if used as Fusion Material
+  * Returns from your field to your Extra Deck
+  | m/s/t                 = 
+  * Prevents other cards being targeted by card effects
+  * Negates the effects of the Summoned monsters
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                  = Only once per turn
   | database_id           = 
   }}

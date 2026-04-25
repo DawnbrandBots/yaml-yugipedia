@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 1100
   | password              = 
   | effect_types          = Ignition, Trigger, Trigger, Condition
-  | text                  = If this card is in your [[hand]]: You can [[discard]] 1 other card; [[Special Summon]] this card. If an [[Xyz Monster]](s) is [[sent]] to the [[GY]], while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; Special Summon 1 [[Zombie]] [[monster]] from your GY. During the [[Standby Phase]] of the next turn after this card was banished: You can [[target]] 1 Zombie Xyz Monster you [[control]]; [[attach]] this banished card to it. You can only use each effect of "Officiating Reverie" once per turn.
+  | text                  = If this card is in your [[hand]]: You can [[discard]] 1 other card; [[Special Summon]] this card. If an [[Xyz Monster]](s) is [[sent]] to the [[GY]], while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card; Special Summon 1 [[Zombie]] [[monster]] from your GY. During the [[Standby Phase]] of the next turn after this card was banished: You can [[target]] 1 Zombie Xyz Monster you [[control]]; [[attach]] this banished card to it. You can only use each effect of "Officiating Reverie" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -41,5 +41,25 @@ wikitext: |-
   BLZD-PT088; Blazing Dominion; Common
   | sp_sets               = 
   BLZD-SP088; Blazing Dominion; Common
+  | supports              = 
+  * Xyz Monster
+  * Zombie
+  | anti-supports         = Xyz Monster
+  | action                = 
+  * Activates from your hand
+  * You discard for cost
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your Graveyard
+  * Activates while banished
+  * Attaches itself from your banishment as Xyz Material
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * During the Standby Phase
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}
