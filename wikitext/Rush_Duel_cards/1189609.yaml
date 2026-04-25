@@ -12,10 +12,16 @@ wikitext: |-
   | atk            = 1600
   | def            = 2100
   | requirement    = [[Send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
-  | text           = [[Special Summon]] up to 2 [[Level]] 6 or lower [[Rock]] [[Type]] [[Normal Monster]]s from your Graveyard face-up to your field. The [[Level]]s of the monsters Special Summoned by this [[effect]] are increased by 1 until the end of this [[turn]]. Then, you can increase the Level of 1 face-up monster on your field by 1 until the end of this turn.
+  | text           = [[Special Summon]] up to 2 [[Level]] 6 or lower [[Rock]] [[Type]] [[Normal Monster]]s from your Graveyard face-up to your field. Increase the Levels of the [[Monster Card|monster]]s Special Summoned by this [[effect]] by 1 until the end of this [[turn]]. Then, you can increase the Level of 1 face-up monster on your field by 1 until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP027; Rising of the Aurora; Common
+  | supports       = 
+  * Rock
+  * Normal Monster
+  | action         = Sends itself from field to Graveyard for cost
+  | stat_change    = Your monsters gain Levels
+  | summoning      = Special Summons from your Graveyard
   | database_id    = 
   }}

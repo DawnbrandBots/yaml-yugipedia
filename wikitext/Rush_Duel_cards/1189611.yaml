@@ -8,9 +8,9 @@ wikitext: |-
   | image          = RisingLicense-RDKP25-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | condition      = This card's name becomes "[[Rising Equip]]" while in the [[Graveyard]]. 
+  | condition      = This card's name becomes "[[Rising Equip]]" while in the [[Graveyard]].
   | requirement    = None
-  | text           = [[Fusion Summon]] a [[monster]] that mentions "[[Rising Unit]]" or "[[Rising HERO Argent O]]" as [[material]] by [[send]]ing [[LIGHT]] [[Attribute]] monsters from your hand or [[field]] to the Graveyard as material.
+  | text           = [[Fusion Summon]] a [[Monster Card|monster]] that mentions "[[Rising Unit]]" or "[[Rising HERO Argent O]]" as [[material]] by [[send]]ing [[LIGHT]] [[Attribute]] monsters from your [[hand]] and/or [[field]] to the Graveyard as material.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -20,6 +20,18 @@ wikitext: |-
   * Rising Equip
   * Rising Unit
   * Rising HERO Argent O
+  | supports       = LIGHT
   | archseries     = Rising HERO
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Can only use certain Fusion Materials
+  | stat_change    = Changes own name while in the GY
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = Requires control of specific Attribute
   | database_id    = 
   }}

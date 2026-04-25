@@ -11,8 +11,8 @@ wikitext: |-
   | level          = 3
   | atk            = 1200
   | def            = 1000
-  | requirement    = [[Send]] 2 [[face-up]] [[Level]] 4 or lower [[monsters]] from your [[field]] to the [[Graveyard]].
-  | text           = [[Special Summon]] 1 "[[Rising HERO Argent O]]" or 1 [[Level]] 7 [[Warrior]] [[Type]] monster with 1000 [[DEF]] from your Graveyard face-up to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Rising HERO Reglam".
+  | requirement    = [[Send]] 2 [[face-up]] [[Level]] 4 or lower [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]].
+  | text           = [[Special Summon]] 1 "[[Rising HERO Argent O]]" or 1 Level 7 [[Warrior]] [[Type]] monster with 1000 [[DEF]] from your Graveyard face-up to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Rising HERO Reglam".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,12 @@ wikitext: |-
   | mentions       = 
   * Rising HERO Argent O
   * Rising HERO Reglam
+  | supports       = Warrior
   | archseries     = Rising HERO
+  | action         = Sends from field to Graveyard for cost
+  | summoning      = Special Summons from your Graveyard
+  | misc           = 
+  * Requires control of specific Level
+  * Only once per turn
   | database_id    = 
   }}

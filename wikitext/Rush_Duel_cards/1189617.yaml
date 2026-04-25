@@ -12,9 +12,9 @@ wikitext: |-
   | atk            = 1100
   | def            = 1000
   | effect_types   = Continuous
-  | condition      = This card's name becomes "[[Rising Unit]]" while in the [[hand]] or [[Graveyard]]. 
+  | condition      = This card's name becomes "[[Rising Unit]]" while in the [[hand]] or [[Graveyard]].
   | requirement    = None
-  | text           = This card's name becomes "Rising Unit". You take no [[battle damage]] from [[battle]]s involving this card. Your "Rising Unit" whose original Level is 3 can attack directly.
+  | text           = This card's name becomes "Rising Unit". You [[Damage|take]] no [[battle damage]] from [[battle]]s involving this card. Your "Rising Unit" whose [[Original Level and Rank|original Level]] is 3 can [[attack]] [[Direct attack|directly]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -22,5 +22,14 @@ wikitext: |-
   RD/KP25-JP022; Rising of the Aurora; Common
   | mentions       = Rising Unit
   | archseries     = Rising HERO
+  | stat_change    = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | attack         = Allows direct attacks
+  | life_points    = Prevents battle damage
+  | misc           = 
+  * Requires control of specific card
+  * Requires control of specific Level
   | database_id    = 
   }}
