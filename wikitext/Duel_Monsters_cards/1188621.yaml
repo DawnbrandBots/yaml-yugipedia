@@ -30,16 +30,30 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  BLZD-EN084; Blazing Dominion; 
+  BLZD-EN084; Blazing Dominion; Common
   | fr_sets               = 
-  BLZD-FR084; Blazing Dominion; 
+  BLZD-FR084; Blazing Dominion; Common
   | de_sets               = 
-  BLZD-DE084; Blazing Dominion; 
+  BLZD-DE084; Blazing Dominion; Common
   | it_sets               = 
-  BLZD-IT084; Blazing Dominion; 
+  BLZD-IT084; Blazing Dominion; Common
   | pt_sets               = 
-  BLZD-PT084; Blazing Dominion; 
+  BLZD-PT084; Blazing Dominion; Common
   | sp_sets               = 
-  BLZD-SP084; Blazing Dominion; 
+  BLZD-SP084; Blazing Dominion; Common
+  | counter               = 
+  * VIP Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action                = Activates upon Tribute Summon
+  | stat_change           = 
+  * Changes original ATK
+  * This card loses ATK
+  | m/s/t                 = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning             = Normal Summon with variable Tributes
+  | misc                  = Coin toss
   | database_id           = 
   }}
