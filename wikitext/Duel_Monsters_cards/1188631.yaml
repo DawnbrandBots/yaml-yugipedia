@@ -38,7 +38,26 @@ wikitext: |-
   BLZD-PT094; Blazing Dominion; Ultra Rare
   | sp_sets               = 
   BLZD-SP094; Blazing Dominion; Ultra Rare
+  | supports              = 
+  * Dinosaur
+  * Fusion Monster
   | archseries            = GMX
   | supports_archetypes   = GMX
+  | action                = 
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Deck as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Activates from your Graveyard
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Shuffles excavated cards into the Deck
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only 1 effect once per turn
   | database_id           = 
   }}

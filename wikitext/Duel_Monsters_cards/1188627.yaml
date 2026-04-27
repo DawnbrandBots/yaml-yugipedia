@@ -19,6 +19,8 @@ wikitext: |-
   | atk                   = 2400
   | def                   = 1200
   | password              = 
+  | fusion_material       = Returned Dino Daneen
+  | materials             = "Returned Dino Daneen" + 1 Dinosaur-Type monster
   | effect_types          = Trigger, Condition, Trigger
   | text                  = "[[Returned Dino Daneen]]" + 1 [[Dinosaur]] [[monster]]<br />If this card is [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[GMX]]" card from your [[Main Deck|Deck]] to your [[hand]]. You can only use this effect of "Evolved Daneen" once per turn. If you [[excavate]] a card(s) by a "GMX" card effect: You can [[activate]] the following effect, based on where this card is at activation (but you can only use each effect of "Evolved Daneen" once per turn);<br />● Field: Gain 1500 [[LP]].<br />● GY: Special Summon this card.
   | fr_text               = 
@@ -30,18 +32,30 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  BLZD-EN092; Blazing Dominion; 
+  BLZD-EN092; Blazing Dominion; Super Rare
   | fr_sets               = 
-  BLZD-FR092; Blazing Dominion; 
+  BLZD-FR092; Blazing Dominion; Super Rare
   | de_sets               = 
-  BLZD-DE092; Blazing Dominion; 
+  BLZD-DE092; Blazing Dominion; Super Rare
   | it_sets               = 
-  BLZD-IT092; Blazing Dominion; 
+  BLZD-IT092; Blazing Dominion; Super Rare
   | pt_sets               = 
-  BLZD-PT092; Blazing Dominion; 
+  BLZD-PT092; Blazing Dominion; Super Rare
   | sp_sets               = 
-  BLZD-SP092; Blazing Dominion; 
-  | archseries            = GMX
+  BLZD-SP092; Blazing Dominion; Super Rare
+  | mentions              = Returned Dino Daneen
+  | supports              = Dinosaur
   | supports_archetypes   = GMX
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons itself from your Graveyard
+  | life_points           = You gain Life Points
+  | misc                  = Only once per turn
   | database_id           = 
   }}

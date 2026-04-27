@@ -30,18 +30,30 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  BLZD-EN091; Blazing Dominion; 
+  BLZD-EN091; Blazing Dominion; Common
   | fr_sets               = 
-  BLZD-FR091; Blazing Dominion; 
+  BLZD-FR091; Blazing Dominion; Common
   | de_sets               = 
-  BLZD-DE091; Blazing Dominion; 
+  BLZD-DE091; Blazing Dominion; Common
   | it_sets               = 
-  BLZD-IT091; Blazing Dominion; 
+  BLZD-IT091; Blazing Dominion; Common
   | pt_sets               = 
-  BLZD-PT091; Blazing Dominion; 
+  BLZD-PT091; Blazing Dominion; Common
   | sp_sets               = 
-  BLZD-SP091; Blazing Dominion; 
+  BLZD-SP091; Blazing Dominion; Common
+  | supports              = Dinosaur
   | archseries            = GMX
   | supports_archetypes   = GMX
+  | action                = 
+  * Activates from your hand
+  * Excavates from the player's Deck
+  * Sends excavated cards to the Graveyard
+  * Shuffles excavated cards into the Deck
+  | stat_change           = Changes Type
+  | summoning             = Special Summons itself from your hand
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Type
+  * Only once per turn
   | database_id           = 
   }}
