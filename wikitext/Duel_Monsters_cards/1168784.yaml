@@ -1,11 +1,11 @@
 title: Solving for Pendulum
 wikitext: |-
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
+  | fr_name               = Solution pour le Pendule
+  | de_name               = Pendelbereich berechnen
+  | it_name               = Risolvere il Pendulum
+  | pt_name               = Resolva seu Pêndulo
+  | es_name               = Despejando el Péndulo
   | ja_name               = {{Ruby|動|どう}}{{Ruby|点|てん}}する{{Ruby|Ｐ|ペンデュラム}}
   | romaji_name           = Dōtensuru Pendyuramu
   | translated_name       = Moving Point Pendulum
@@ -19,11 +19,11 @@ wikitext: |-
   | password              = 05208118
   | effect_types          = Quick-like, Quick-like
   | text                  = [[Once per turn]], during the [[Standby Phase]]: Place 1 [[T Counter]] on this card. Once per turn: You can [[target]] 1 [[Pendulum Monster]] in your [[Main Monster Zone]]; for each T Counter on this card, move that Pendulum Monster to an adjacent (horizontal) Monster Zone, 1 move at a time. Then, after you have finished moving, [[destroy]] all [[Fusion Monster|Fusion]] or [[Xyz Monster]]s your opponent [[control]]s in the same (final) [[column]], with an equal or lower [[Level]]/[[Rank]] than that monster's [[Pendulum Scale]], and if you do, inflict damage to your opponent equal to their combined ATK they had on the field.
-  | fr_text               = 
-  | de_text               = 
-  | it_text               = 
-  | pt_text               = 
-  | es_text               = 
+  | fr_text               = Une fois par tour, durant la Standby Phase : placez 1 Compteur T sur cette carte. Une fois par tour : vous pouvez cibler 1 Monstre Pendule dans votre Zone Monstre Main ; pour chaque Compteur T sur cette carte, déplacez le Monstre Pendule dans une Zone Monstre (horizontale) adjacente, 1 déplacement à la fois. Puis, après avoir fini de déplacer, détruisez tous les Monstres Fusion ou Xyz contrôlés par votre adversaire dans la même colonne (finale), d'un Niveau/Rang inférieur ou égal à l'Échelle Pendule du monstre, et si vous le faites, infligez des dommages à votre adversaire égaux à la somme de leur ATK qu'ils avaient sur le Terrain.
+  | de_text               = Einmal pro Spielzug, während der Standby Phase: Lege 1 T-Zählmarke auf diese Karte. Einmal pro Spielzug: Du kannst 1 Pendelmonster in deiner Main-Monsterzone wählen; bewege jenes Pendelmonster für jede T-Zählmarke auf dieser Karte in eine (waagerecht) benachbarte Monsterzone, 1 Bewegung nach der anderen. Dann, nachdem du die Bewegungen beendet hast, zerstöre alle Fusions- und Xyz-Monster, die dein Gegner in derselben (finalen) Spalte kontrolliert und deren Stufe/Rang kleiner oder gleich dem Pendelbereich jenes Monsters ist, und falls du dies tust, füge deinem Gegner Schaden in Höhe der kombinierten ATK zu, die sie auf dem Spielfeld hatten.
+  | it_text               = Una volta per turno, durante la Standby Phase: metti 1 Segnalino T su questa carta. Una volta per turno: puoi scegliere come bersaglio 1 Mostro Pendulum nella tua Zona Mostri Main; per ogni Segnalino T su questa carta, sposta quel Mostro Pendulum in una Zona Mostri adiacente (orizzontalmente), 1 spostamento alla volta. Poi, dopo che hai finito di spostarlo, distruggi tutti i Mostri Fusione o Xyz controllati dal tuo avversario nella stessa colonna (finale), con Livello/Rango pari o inferiore al Valore Pendulum di quel mostro e, se lo fai, infliggi al tuo avversario danno pari alla somma degli ATK che avevano sul Terreno.
+  | pt_text               = Uma vez por turno, durante a Fase de Apoio: coloque 1 Marcador T neste card. Uma vez por turno: você pode escolher 1 Monstro Pêndulo na sua Zona de Monstros Principal; para cada Marcador T neste card, mova esse Monstro Pêndulo para uma Zona de Monstros adjacente (horizontal), 1 movimento por vez. Depois, quando você terminar de movê-los, destrua todos os Monstros de Fusão ou Xyz que seu oponente controla na mesma coluna (final), com um Nível/Classe igual ou menor que a Escala de Pêndulo desse monstro e, se isso acontecer, cause dano ao seu oponente igual ao ATK combinado que eles tinham no campo.
+  | es_text               = Una vez por turno, durante la Standby Phase: pon 1 Contador T en esta carta. Una vez por turno: puedes seleccionar 1 Monstruo de Péndulo en tu Zona de Monstruos Principal; por cada Contador T en esta carta, mueve ese Monstruo de Péndulo a una Zona de Monstruos adyacente (horizontal), 1 movimiento cada vez. Después, cuando hayas terminado el movimiento, destruye todos los Monstruos de Fusión o Xyz que controle tu adversario en la misma columna (final), con un Nivel/Rango igual o menor que la Escala de Péndulo de ese monstruo y, si lo haces, inflige daño a tu adversario igual al ATK combinado que tenían en el Campo.
   | ja_text               = ①：自分・相手のスタンバイフェイズに発動する。このカードにＴカウンターを１つ置く。②：１ターンに１度、自分のメインモンスターゾーンのＰモンスター１体を対象として発動できる。「対象のＰモンスターの位置をその隣のモンスターゾーンに移動する」処理をこのカードのＴカウンターの数だけ繰り返す。その後、対象のモンスターのＰスケールの数値以下のレベル・ランクを持つ融合・Ｘモンスターが、対象のモンスターと同じ縦列の相手フィールドに存在する場合、それらを全て破壊し、その攻撃力の合計分のダメージを相手に与える。
   | ko_text               = ①: 자신 / 상대의 스탠바이 페이즈에 발동한다. 이 카드에 T(티) 카운터를 1개 놓는다. ②: 1턴에 1번, 자신 메인 몬스터 존의 펜듈럼 몬스터 1장을 대상으로 하고 발동할 수 있다. "대상의 펜듈럼 몬스터의 위치를 그 옆의 몬스터 존으로 이동한다" 처리를 이 카드의 T(티) 카운터의 수만큼 반복한다. 그 후, 대상 몬스터의 펜듈럼 스케일의 수치 이하의 레벨 / 랭크를 가지는 융합 / 엑시즈 몬스터가, 대상 몬스터와 같은 세로열의 상대 필드에 존재할 경우, 그 카드들을 전부 파괴하고, 그 공격력의 합계만큼의 데미지를 상대에게 준다.
   | sc_text               = ①：在自己・对手的准备阶段发动。在此卡上放1个T计数物。②：1回合1次，以自己主要怪兽区域的1只灵摆怪兽为对象可以发动。依此卡的T计数物的数量，重复“将对象灵摆怪兽的位置移动至其相邻的怪兽区域”的处理。然后，与对象怪兽同一纵列的对手场上，存在等级・阶级在对象怪兽的灵摆刻度数值以下的融合・超量怪兽的情况下，将那些怪兽全部破坏，给予对手相当于其攻击力合计数值的伤害。
