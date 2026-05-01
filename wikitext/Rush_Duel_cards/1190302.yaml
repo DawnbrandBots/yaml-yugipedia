@@ -9,11 +9,17 @@ wikitext: |-
   | image           = BeaconoftheDarkTitan-RDKP25-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Set]]s a [[monster]] from the [[hand]], or when a [[face-up]] monster on your opponent's [[field]] is flipped [[face-down]].
-  | text            = Look at 1 face-down monster on your opponent's field. Then, if you have a face-up monster on your field with [[ATK]] greater than or equal to [the [[original ATK]] of the monster you looked at], you can [[destroy]] that monster.
+  | requirement     = When your opponent [[Set]]s a [[Monster Card|monster]] from their [[hand]], or when a [[face-up]] monster(s) on your opponent's [[field]] is [[flipped]] [[face-down]].
+  | text            = [[Look]] at 1 face-down monster on your opponent's field. Then, if you have a face-up monster with [[ATK]] greater than or equal to [that monster's [[Original ATK and DEF|original ATK]]] on your field, you can [[destroy]] the monster you looked at.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP065; Rising of the Aurora; Common
+  | action          = 
+  * Activates upon Set
+  * Activates if battle positions change
+  * Reveals face-down cards
+  | m/s/t           = Destroys your opponent's face-down Monster Cards
+  | misc            = Requires control of specific ATK
   | database_id     = 
   }}
