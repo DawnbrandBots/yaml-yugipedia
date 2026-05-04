@@ -1,15 +1,17 @@
 title: Spirit Converter
 wikitext: |-
   {{CardTable2
-  | tc_name               = 靈魂變換裝置
   | fr_name               = Convertisseur d'Esprit
   | de_name               = Geisterumwandler
   | it_name               = Convertitore di Spirito
-  | ko_name               = 스피릿 변환 장치
   | pt_name               = Conversor de Espírito
   | es_name               = Convertidor de Espíritus
   | ja_name               = スピリット{{Ruby|変|へん}}{{Ruby|換|かん}}{{Ruby|装|そう}}{{Ruby|置|ち}}
   | romaji_name           = Supiritto Henkan Sōchi
+  | translated_name       = Spirit-Converting Device
+  | ko_name               = 스피릿 변환 장치
+  | tc_name               = 靈魂變換裝置
+  | sc_name               = 灵魂变换装置
   | image                 = SpiritConverter-BLTR-EN-UR-1E.png
   | card_type             = Spell
   | property              = Continuous
@@ -24,6 +26,7 @@ wikitext: |-
   | ja_text               = ①：１ターンに１度、自分フィールドのＸモンスター１体を対象として発動できる。自分フィールドの光属性・レベル４モンスター１体を選び、対象のＸモンスターのＸ素材とする。②：このカードがフィールドから墓地へ送られた場合、自分の墓地の雷族・光属性・レベル４の同名モンスター２体を対象として発動する。その雷族・光属性モンスターを手札に加える。
   | ko_text               = 1턴에 1번, 자신 필드 위의 엑시즈 몬스터 1장을 선택하고 발동할 수 있다. 자신 필드 위의 빛 속성 / 레벨 4 몬스터 1장을, 선택한 엑시즈 몬스터의 아래에 겹쳐 엑시즈 소재로 한다. 또한, 이 카드가 필드 위에서 묘지로 보내졌을 때, 자신 묘지의 번개족 / 빛 속성 / 레벨 4의 같은 이름의 몬스터 2장을 선택하고 패에 넣는다.
   | tc_text               = 1回合1次，可选择我方场上的1只超量怪兽并发动。将我方场上的1只光属性、等级4怪兽重叠至被选择的超量怪兽的下方成为超量素材。此外，此卡从场上被送入墓地时，选择我方墓地的2只雷族、光属性、等级4的同名怪兽加入手牌。
+  | sc_text               = 
   | en_sets               = 
   REDU-EN099; Return of the Duelist; Secret Rare
   BLTR-EN099; Battles of Legend: Terminal Revenge; Ultra Rare
@@ -44,12 +47,14 @@ wikitext: |-
   | jp_sets               = 
   VE07-JP005; V Jump Edition 7; Ultra Rare
   24TP-JP115; Tournament Pack 2024 Vol.1; Common
-  | tc_sets               = 
-  REDU-TC097; Return of the Duelist; Common
   | kr_sets               = 
   PP08-KR027; Premium Pack Vol.8; Super Rare
   AE20-KR017; Advanced Event Pack 2024 Vol.1 Version 1; Common
   AE20-KRS17; Advanced Event Pack 2024 Vol.1 Version 2; Common
+  | tc_sets               = 
+  REDU-TC097; Return of the Duelist; Common
+  | sc_sets               = 
+  26BZ-SC116; Chaos Origins Complement Pack; Common
   | supports              = 
   * Xyz Monster
   * LIGHT
