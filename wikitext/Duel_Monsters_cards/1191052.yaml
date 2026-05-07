@@ -14,13 +14,18 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = RedEyesBlackDragonExceed-BETB-JP-OP.png
+  | image                 = 
+  1; RedEyesBlackDragonExceed-BETB-JP-OP.png
+  2; RedEyesBlackDragonExceed-BETB-JP-OP-EA.png
+  | current_image         = 1
   | attribute             = DARK
   | types                 = Dragon / Fusion / Effect
   | level                 = 9
   | atk                   = 3400
   | def                   = 3000
   | password              = 
+  | fusion_material       = Red-Eyes Black Dragon
+  | materials             = "Red-Eyes Black Dragon" + 1 monster that mentions "Dark Time Wizard"
   | effect_types          = Summoning condition, Condition, Trigger, Continuous
   | text                  = "[[Red-Eyes Black Dragon]]" + 1 [[monster]] that mentions "[[Dark Time Wizard]]"<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by [[Tributing]] 1 [[face-up]] monster on either [[field]] during the [[turn]] a monster(s) was destroyed by the [[effect]] of "[[Dark Time Wizard]]". You can only Special Summon "Red-Eyes Black Dragon Exceed" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 [[Level]] 8 or lower monster from your [[hand]] or [[GY]]. [[Unaffected]] by your opponent's activated monster and Spell effects.
   | fr_text               = 
@@ -41,5 +46,25 @@ wikitext: |-
   * Red-Eyes
   * Aged counterpart
   * Dark Time Wizard (series)
+  | action                = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Uses cards on the opponent's field for Contact Fusion
+  * Activates upon Special Summon
+  | m/s/t                 = 
+  * Unaffected by activated card effects
+  * Unaffected by the opponent's Monster Cards
+  * Unaffected by the opponent's Spell Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Nomi
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                  = Mentions
   | database_id           = 
   }}

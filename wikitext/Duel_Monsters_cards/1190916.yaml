@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Middle-Left, Bottom-Center, Middle-Right
   | atk                 = 2100
   | password            = 
+  | materials           = 2+ monsters, including a Fiend monster
   | effect_types        = Trigger, Quick, Condition
   | text                = 2+ [[monsters]], including a [[Fiend]] monster<br />If your opponent [[Special Summon]]s a monster(s) [[face-up]]: You can [[target]] 1 of them; [[destroy]] 1 Fiend monster you [[control]], and if you do, [[negate]] the targeted monster's [[effect]]s until the end of this [[turn]]. When a [[monster effect]] is [[activate]]d on the [[field]] and you control a [[Link Rating|Link]]-4 or higher "[[Unchained]]" [[Link Monster]] ([[Quick Effect]]): You can [[banish]] this card from your [[GY]]; [[destroy]] the monster that activated that effect. You can only use each effect of "Unchained Soul Rage Abominator" [[once per turn]].
   | fr_text             = 
@@ -34,9 +35,29 @@ wikitext: |-
   RV01-JP051; Revolution Booster: Toon / Witchcrafter / Unchained; Ultra Rare
   | sc_sets             = 
   RV01-SC051; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | supports            = 
+  * Fiend
+  * Link Monster
   | archseries          = 
   * Unchained
   * Unchained Soul
   | supports_archetypes = Unchained
+  | action              = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | m/s/t               = 
+  * Destroys your face-up Monster Cards
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys Monster Cards
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires Type specific Link Materials
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific Link Rating
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}

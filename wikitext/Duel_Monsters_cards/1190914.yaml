@@ -20,6 +20,7 @@ wikitext: |-
   | link_arrows         = Bottom-Left, Bottom-Center, Bottom-Right, Top-Center
   | atk                 = 3000
   | password            = 
+  | materials           = 2+ monsters, including an "Unchained Soul" monster
   | effect_types        = Trigger, Trigger, Condition
   | text                = 2+ [[monsters]], including an "[[Unchained Soul]]" monster<br />During your [[End Phase]]: You can [[target]] up to 2 [[Fiend]] monsters in your [[GY]] that were [[destroy]]ed and [[sent]] there this [[turn]]; [[Special Summon]] them, but you cannot Special Summon, except Fiend monsters, while you control either of those [[face-up]] monsters. If this card on the [[field]] would be [[destroyed by battle]] or card effect, you can destroy 1 face-up card on either [[field]] instead. You can only use each effect of "Unchained Enma Lord Yama" [[once per turn]].
   | fr_text             = 
@@ -34,7 +35,24 @@ wikitext: |-
   RV01-JP050; Revolution Booster: Toon / Witchcrafter / Unchained; Ultra Rare
   | sc_sets             = 
   RV01-SC050; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | supports            = Fiend
   | archseries          = Unchained
   | supports_archetypes = Unchained Soul
+  | m/s/t               = 
+  * Cannot be destroyed by battle
+  * Redirects destruction
+  * Destroys your face-up Monster Cards
+  * Destroys your face-up Spell Cards
+  * Destroys your face-up Trap Cards
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | attack              = Cannot be destroyed by battle
+  | misc                = Only once per turn
   | database_id         = 
   }}

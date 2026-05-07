@@ -18,7 +18,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Condition, Effect, Condition
-  | text                = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 [[Normal Monster]] in your [[hand]]. [[Special Summon]] up to 5 Normal Monsters from your hand and/or [[GY]] in [[Attack Position]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn after this card [[resolve]]s. You can only activate 1 "Stage of Destiny" per turn. 
+  | text                = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 [[Normal Monster]] in your [[hand]]. [[Special Summon]] up to 5 Normal Monsters from your hand and/or [[GY]] in [[Attack Position]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn after this card [[resolve]]s. You can only activate 1 "Stage of Destiny" per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -29,5 +29,13 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   VJMP-JP290; V Jump July 2026 promotional card; Ultra Rare
+  | supports            = Normal Monster
+  | action              = Reveals your hand for cost
+  | m/s/t               = Can be activated the turn it was Set
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Prevents the player's Special Summons from the Extra Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
