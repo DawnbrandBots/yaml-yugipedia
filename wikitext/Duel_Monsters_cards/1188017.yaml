@@ -18,8 +18,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Quick-Play
   | password              = 
-  | effect_types          = 
-  | text                  = 
+  | effect_types          = Condition, Effect, Ignition-like, Condition
+  | text                  = (This card is always treated as an "[[Archfiend]]" card.)<br />[[Target]] 1 "[[Archfiend]]" [[monster]] you [[control]]; it gains 600 [[ATK]], then you can [[destroy]] all monsters your opponent controls with lower [[original ATK]] than that monster's ATK. During your [[Main Phase]]: You can [[banish]] this card from your [[GY]], then [[target]] 1 [[Level]] 6 [[Fiend]] monster with 2500 [[ATK]] in your GY; [[Add a card|add]] it to your [[hand]]. You can only use each effect of "Makourai, the Lightning Strike" once per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -30,9 +30,9 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   VP26-JP003; 30th Anniversary Demon's Pack; Ultra Rare
-  | archseries            = Signature move
-  | related_to_archseries = 
+  | archseries            = 
   * Archfiend
-  * Skull Archfiend
+  * Signature move
+  | related_to_archseries = Skull Archfiend
   | database_id           = 
   }}
