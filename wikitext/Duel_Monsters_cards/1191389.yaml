@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|Ｄ－ＨＥＲＯ|デステニーヒーロー}} ドレッドノートサーヴァント
-  | romaji_name           = 
+  | romaji_name           = Desutenī Hīrō Doreddonōto Sāvanto
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 700
   | password              = 
   | effect_types          = Ignition, Trigger, Condition
-  | text                  = If you [[control]] a [[face-up]] "[[Destiny HERO]]" [[monster]] or [[Field Spell]]: You can [[Special Summon]] this card from your [[hand]], then you can [[destroy]] 1 card you [[control]], and if you do, [[Add a card|add]] 1 "[[Polymerization]]" from your [[Main Deck|Deck]] to your [[hand]]. If you Special Summon a [[Level]] 8 "Destiny HERO" monster(s): You can [[banish]] this card from your [[GY]], then [[target]] 1 card your opponent [[control]]s; place it on top of the [[Main Deck|Deck]]. You can only use each effect of "Destiny HERO - Dreadnought Servant" [[once per turn]].
+  | text                  = If you [[control]] a "[[Destiny HERO]]" [[monster]] or a [[face-up]] [[Field Spell]]: You can [[Special Summon]] this card from your [[hand]], then you can [[destroy]] 1 card you [[control]], and if you do, [[Add a card|add]] 1 "[[Polymerization]]" from your [[Main Deck|Deck]] to your [[hand]]. If you Special Summon a [[Level]] 8 "Destiny HERO" monster(s): You can [[banish]] this card from your [[GY]], then [[target]] 1 card your opponent [[control]]s; place it on top of the [[Main Deck|Deck]]. You can only use each effect of "Destiny HERO - Dreadnought Servant" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,9 +34,27 @@ wikitext: |-
   | jp_sets               = 
   BETB-JP023; Beyond The Brave; 
   | mentions              = Polymerization
+  | supports              = Field Spell Card
   | archseries            = 
   * Destiny HERO
   * HERO
   | supports_archetypes   = Destiny HERO
+  | related_to_archseries = Polymerization (archetype)
+  | action                = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * Places cards from the opponent's field on the top of the Deck
+  | m/s/t                 = 
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Level
+  * Only once per turn
   | database_id           = 
   }}

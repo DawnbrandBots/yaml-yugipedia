@@ -1,15 +1,15 @@
 title: Proto-Cyber Dragon (Duel Links Rush Duel)
 wikitext: |-
   {{Duel Links card
-  | main           = Proto-Cyber Dragon (Rush Duel)
-  | fr_name        = Cyber Dragon Proto
-  | ko_name        = 프로토 사이버 드래곤
-  | image     = 
-  | attribute      = LIGHT
-  | types          = Machine / Effect
-  | level          = 3
-  | atk            = 1100
-  | def            = 600
+  | fr_name   = Cyber Dragon Proto
+  | ko_name   = 프로토 사이버 드래곤
+  | image     = ProtoCyberDragon-DULI-EN-VG-RD.png
+  | image_nc  = ProtoCyberDragon-DULI-EN-VG-NC-RD.png
+  | attribute = LIGHT
+  | types     = Machine / Effect
+  | level     = 3
+  | atk       = 1100
+  | def       = 600
   | rarity    = SR
   | status    = 
   | text      = '''[REQUIREMENT]''' None<br />'''[CONTINUOUS EFFECT]''' This card's name becomes "[[Cyber Dragon (Duel Links Rush Duel)|Cyber Dragon]]".
@@ -17,6 +17,7 @@ wikitext: |-
   | ja_text   = 
   | releases  = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Structure Deck: Cyber Dragon Launch}}
+  {{Duel Links release table|type=box|Structure Deck: Cyber Dragon Launch|quantity=1}}
   {{Duel Links release table/footer}}
+  | mentions  = Cyber Dragon (Duel Links Rush Duel)
   }}

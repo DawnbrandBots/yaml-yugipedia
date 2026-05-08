@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 幽獄の時計都市－ダーク・シティ
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = {{Ruby|幽|ゆう}}{{Ruby|獄|ごく}}の{{Ruby|時|と}}{{Ruby|計|けい}}{{Ruby|都|と}}{{Ruby|市|し}}－ダーク・シティ
+  | romaji_name           = Yūgoku no Tokeitoshi - Dāku Shiti
+  | translated_name       = Clock City of Confinement - Dark City
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -18,8 +18,8 @@ wikitext: |-
   | card_type             = Spell
   | property              = Field
   | password              = 
-  | effect_types          = Continuous-like, Condition, Ignition-like, Trigger-like
-  | text                  = Each time you [[Special Summon]] [[Level]] 8 or higher "[[Destiny HERO]]" [[monster]](s): All [[Warrior]] monsters you currently [[control]] gain 300 [[ATK]]. You can only use each of the following effects of "Clock Tower Prison City - Dark City" once per turn. During your [[Main Phase]], if this card was [[activate]]d this turn: You can [[Add a card|add]] 1 "Destiny HERO" monster, or 1 card that mentions a "Destiny HERO" monster's card name, from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[destroy]]ed: You can Special Summon 1 "Destiny HERO" monster from your Deck (this is treated as a Special Summon with "[[Clock Tower Prison]]").
+  | effect_types          = Trigger-like, Condition, Ignition-like, Trigger-like
+  | text                  = Each time you [[Special Summon]] a [[Level]] 8 or higher "[[Destiny HERO]]" [[monster]](s): All [[Warrior]] monsters you currently [[control]] gain 300 [[ATK]]. You can only use each of the following effects of "Clock Tower Prison City - Dark City" once per turn. During your [[Main Phase]], if this card was [[activate]]d this turn: You can [[Add a card|add]] 1 "Destiny HERO" monster, or 1 card that mentions a "Destiny HERO" monster's card name, from your [[Main Deck|Deck]] to your [[hand]]. If this card is [[destroy]]ed: You can Special Summon 1 "Destiny HERO" monster from your Deck (this is treated as a Special Summon with "[[Clock Tower Prison]]").
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -31,6 +31,20 @@ wikitext: |-
   | jp_sets               = 
   BETB-JP062; Beyond The Brave; 
   | mentions              = Clock Tower Prison
+  | supports              = Warrior
   | supports_archetypes   = Destiny HERO
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if destroyed
+  | stat_change           = Your monsters gain ATK
+  | summoning             = 
+  * Special Summons from your Deck
+  * Treats Special Summon as Special Summon with a different card
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific archetype
+  * Only once per turn
+  * Mentions
   | database_id           = 
   }}

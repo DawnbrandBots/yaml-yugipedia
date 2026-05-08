@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|Ｄ－ＨＥＲＯ|デステニーヒーロー}} ドレッドノートガイ
-  | romaji_name           = 
-  | translated_name       = 
+  | romaji_name           = Desutenī Hīrō Doreddonōtogai
+  | translated_name       = Destiny HERO Dreadnoughtguy
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,6 +21,7 @@ wikitext: |-
   | atk                   = ?
   | def                   = 2800
   | password              = 
+  | materials             = 2 Level 5 or higher "Destiny HERO" monsters
   | effect_types          = Summoning condition, Condition, Trigger, Continuous
   | text                  = 2 [[Level]] 5 or higher "[[Destiny HERO]]" [[monsters]]<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by [[Tributing]] 1 "[[Destiny HERO - Dreadmaster]]". You can only Special Summon "Destiny HERO - Dreadnought" [[once per turn]] this way, no matter which method you use. If this card is Special Summoned: You can [[Add a card|add]] 2 "Destiny HERO" monsters and/or cards that mention a "Destiny HERO" monster's card name from your [[Main Deck|Deck]] to your [[hand]]. This card's ATK becomes the total [[original ATK]] of all other "Destiny HERO" monsters in your [[field]] and [[GY]].
   | fr_text               = 
@@ -33,10 +34,28 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BETB-JP037; Beyond The Brave; Rare
-  | mentions              = Destiny HERO - Dreadmaster
+  | mentions              = 
+  * Destiny HERO - Dreadmaster
+  * Destiny HERO - Dreadnought
   | archseries            = 
   * Destiny HERO
   * HERO
   | supports_archetypes   = Destiny HERO
+  | action                = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  | stat_change           = Changes own ATK value
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Nomi
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  | misc                  = Mentions
   | database_id           = 
   }}
