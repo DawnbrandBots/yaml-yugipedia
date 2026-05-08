@@ -1,18 +1,17 @@
 title: Kuribot (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | fr_name        = Kuribot
-  | de_name        = Kuribot
-  | it_name        = Kuribot
-  | es_name        = Kuribot
-  | ja_name        = クリボット
-  | romaji_name    = Kuribotto
+  | fr_name   = Kuribot
+  | de_name   = Kuribot
+  | it_name   = Kuribot
+  | es_name   = Kuribot
+  | ko_name   = 크리봇
   | image     = 
-  | attribute      = DARK
-  | types          = Fiend / Effect
-  | level          = 1
-  | atk            = 300
-  | def            = 200
+  | attribute = DARK
+  | types     = Fiend / Effect
+  | level     = 1
+  | atk       = 300
+  | def       = 200
   | rarity    = UR
   | status    = 
   | text      = '''[REQUIREMENT]''' If you have no other [[Monster Card|monster]]s on your [[field]], [[pay]] 500 [[LP]].<br />'''[EFFECT]''' [[Add a card|Add]] 1 "Kuribot" from your [[Graveyard]] to your [[hand]].
@@ -20,8 +19,17 @@ wikitext: |-
   | ja_text   = 
   | releases  = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Sevens New Road}}
-  {{Duel Links release table|type=box|Rush Selection BOX Vol.01}}
-  {{Duel Links release table|type=box|Deck Build Box: Infinite Grand Crush}}
+  {{Duel Links release table|type=box|Sevens New Road|quantity=1}}
   {{Duel Links release table/footer}}
+  | artwork2_name = Alternative artwork
+  | releases2 = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Rush Selection BOX Vol.01|quantity=1}}
+  {{Duel Links release table/footer}}
+  | artwork3_name = Alternative artwork
+  | releases3 = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Deck Build Box: Infinite Grand Crush|quantity=1}}
+  {{Duel Links release table/footer}}
+  | mentions  = Kuribot (Duel Links)
   }}
