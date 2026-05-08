@@ -13,7 +13,7 @@ wikitext: |-
   | atk             = 1100
   | def             = 1400
   | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text            = [[Set]] 1 "[[Beastly Mirror Ritual (Rush Duel)|Beastly Mirror Ritual]]" and/or 1 "[[Beastly Mirror Calling]]" from your [[Graveyard]] to your [[Spell & Trap Zone]]. If you Set 2 cards by this [[effect]], [[send]] 1 [[monster]] from your [[field]] to the Graveyard.
+  | text            = [[Set]] 1 "[[Beastly Mirror Ritual (Rush Duel)|Beastly Mirror Ritual]]" and/or "[[Beastly Mirror Calling]]" from your [[Graveyard]] to your [[Spell & Trap Zone]]. If you Set 2 cards by this [[effect]], [[send]] 1 [[Monster Card|monster]] from your [[field]] to the Graveyard.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -21,5 +21,10 @@ wikitext: |-
   | mentions        = 
   * Beastly Mirror Ritual (Rush Duel)
   * Beastly Mirror Calling
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sets from your Graveyard
+  * Sends from your field to your Graveyard
   | database_id     = 
   }}
