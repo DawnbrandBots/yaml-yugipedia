@@ -12,12 +12,20 @@ wikitext: |-
   | level           = 6
   | atk             = 2100
   | def             = 1800
+  | ritualcard      = Beastly Mirror Calling
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Make 1 [[face-up]] [[monster]] on your opponent's [[field]] lose 1500 [[ATK]]/[[DEF]] until the end of this [[turn]]. If you have a non-[[Effect]] [[Fiend]] [[Type]] [[Ritual Monster]] in your Graveyard, you can choose 2 monsters instead.
+  | text            = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 1500 [[ATK]]/[[DEF]] until the end of this [[turn]]. If you have a [[Non-Effect Monster|non-Effect]] [[Fiend]] [[Type]] [[Ritual Monster]] in your Graveyard, you can choose 2 monsters instead.
   | ja_requirement  = 
-  | ja_text         = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP045; Rising of the Aurora; Super Rare
+  | supports        = 
+  * Non-Effect Monster
+  * Fiend
+  * Ritual Monster
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id     = 
   }}
