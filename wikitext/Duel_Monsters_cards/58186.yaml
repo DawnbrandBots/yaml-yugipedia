@@ -3,13 +3,14 @@ wikitext: |-
   {{CardTable2
   | fr_name         = Grenouille Subaquatique
   | de_name         = U-Boot-Frosch
-  | ko_name         = 미지 개구리
   | pt_name         = 
   | it_name         = RANA Sommozzatrice
   | es_name         = RANA Submarina
-  | translated_name = Unknown Frog
   | ja_name         = {{Ruby|未|み}}{{Ruby|知|ち}}ガエル
   | romaji_name     = Michigaeru
+  | translated_name = Unknown Frog
+  | ko_name         = 미지 개구리
+  | sc_name         = 未知青蛙
   | image           = SubmarineFrog-CRMS-EN-C-1E.png
   | attribute       = WATER
   | types           = Aqua / Effect
@@ -26,6 +27,7 @@ wikitext: |-
   | pt_text         = 
   | ja_text         = このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
   | ko_text         = 이 카드가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘고 있으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다.
+  | sc_text         = 
   | en_sets         = 
   CRMS-EN087; Crimson Crisis; Common
   | fr_sets         = 
@@ -40,6 +42,8 @@ wikitext: |-
   EXP2-JP038; Extra Pack Volume 2; Common
   | kr_sets         = 
   EXP2-KR038; Extra Pack Volume 2; Common
+  | sc_sets         = 
+  26BZ-SC146; Chaos Origins Complement Pack; Common
   | archseries      = Frog
   | attack          = Piercing
   | database_id     = 8145
