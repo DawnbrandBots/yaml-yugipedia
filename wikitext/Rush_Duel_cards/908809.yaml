@@ -1,12 +1,10 @@
-title: Sevens Chariot the Magical Knight
+title: Sevens Chariot
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = {{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|騎|き}}{{Ruby|士|し}}－セブンス・チャリオット
   | romaji_name     = Madōkishi - Sebunsu Chariotto
   | ko_name         = 마도 기사－세븐즈 채리어트
-  | image           = SevensChariottheMagicalKnight-RDKP13-JP-SR.png
+  | image           = SevensChariot-RDKP13-JP-SR.png
   | attribute       = DARK
   | types           = Magical Knight / Fusion / Effect
   | level           = 9
@@ -15,10 +13,10 @@ wikitext: |-
   | effect_types    = Multi-Choice
   | fusion_material = 
   * Sevens Road Magician
-  * Magiarms Beast Gearpard
-  | materials       = "[[Sevens Road Magician]]" + "[[Magiarms Beast Gearpard]]"
+  * Gearpold the Magically Armored Beast
+  | materials       = "[[Sevens Road Magician]]" + "[[Gearpold the Magically Armored Beast]]"
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = ●This card gains [[ATK]] equal to [the number of cards in both [[Duelist|player]]s' [[Spell & Trap Zone]]s] x 500 until the end of this [[turn]]. ●This turn, this card cannot be [[destroy]]ed by your opponent's card [[effect]]s. Then, you can destroy [[face-up]] cards on your opponent's [[field]], up to [the number of cards in your Spell & Trap Zone].
+  | text            = ●This card gains [[ATK]] equal to [the number of cards in the [[Spell & Trap Zone]]s] x 500 until the end of this [[turn]]. ●This turn, this card cannot be [[destroy]]ed by your opponent's card [[effect]]s. You can also destroy [[face-up]] cards on your opponent's [[field]] up to [the number of cards in your Spell & Trap Zone].
   | ja_materials    = 「セブンスロード・マジシャン」＋「魔装獣ギアパルド」
   | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text         = ●このカードの攻撃力はターン終了時まで、［お互いの魔法＆罠ゾーンのカードの数］×５００アップする。●このターン、このカードは相手の効果では破壊されない。さらに相手フィールドの表側表示のカードを［自分の魔法＆罠ゾーンのカードの数］まで選んで破壊できる。
@@ -31,7 +29,7 @@ wikitext: |-
   RD/KP13-KR043; Oblivion of the Flash; Super Rare, Secret Rare
   | mentions        = 
   * Sevens Road Magician
-  * Magiarms Beast Gearpard
+  * Gearpold the Magically Armored Beast
   | archseries      = Sevens Road
   | action          = Sends from the top of your Deck to your Graveyard for cost
   | stat_change     = This card gains ATK
