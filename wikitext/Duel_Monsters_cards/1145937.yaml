@@ -1,62 +1,66 @@
 title: Faisan, Hunting Scout of the Deep Forest
 wikitext: |-
   {{CardTable2
-  | fr_name             = Faisan, Éclaireur Chasseur de la Forêt Profonde
-  | de_name             = Faisan, jagender Kundschafter aus dem tiefen Wald
-  | it_name             = Faisan, Scout Cacciatore della Foresta Profonda
-  | pt_name             = Faisan, o Batedor Caçador da Floresta Profunda
-  | es_name             = Faisán, Rastreador Cazador del Bosque Profundo
-  | ja_name             = 密林の狩猟者フザン
-  | romaji_name         = Mitsurin no Shuryōsha Fuzan
-  | translated_name     = Faisan, Hunter of the Deep Forest
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = FaisanHuntingScoutoftheDeepForest-DOOD-EN-C-1E.png
-  | attribute           = EARTH
-  | types               = Warrior / Fusion / Effect
-  | level               = 5
-  | atk                 = 2300
-  | def                 = 2300
-  | password            = 86038337
-  | materials           = 2 EARTH Warrior-Type monsters
-  | effect_types        = Continuous, Quick, Condition
-  | text                = 2 [[EARTH]] [[Warrior]] [[Monster Card|monsters]]<br />[[Unaffected]] by your opponent's [[activate]]d [[effect]]s, during the [[Main Phase]] only. During the [[Battle Phase]] ([[Quick Effect]]): You can [[Tribute]] this [[Fusion Summon]]ed card; [[Special Summon]] 2 EARTH Warrior monsters from your [[GY]], except "Faisan, Hunting Scout of the Deep Forest", and if you do, your EARTH Warrior monsters cannot be [[destroyed]] by [[battle]] for the rest of this [[turn]]. You can only use this effect of "Faisan, Hunting Scout of the Deep Forest" once per turn.
-  | fr_text             = 2 monstres TERRE Guerrier<br />Non affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte Invoquée par Fusion ; Invoquez Spécialement 2 monstres TERRE Guerrier ("Faisan, Éclaireur Chasseur de la Forêt Profonde" exclu) depuis votre Cimetière, et si vous le faites, vos monstres TERRE Guerrier ne peuvent pas être détruits au combat le reste de ce tour. Vous ne pouvez utiliser cet effet de "Faisan, Éclaireur Chasseur de la Forêt Profonde" qu'une fois par tour.
-  | de_text             = 2 ERDE Krieger-Monster<br />Bleibt nur während der Main Phase von aktivierten Effekten deines Gegners unberührt. Während der Battle Phase (Schnelleffekt): Du kannst diese als Fusionsbeschwörung beschworene Karte als Tribut anbieten; beschwöre 2 ERDE Krieger-Monster als Spezialbeschwörung von deinem Friedhof, außer „Faisan, jagender Kundschafter aus dem tiefen Wald“, und falls du dies tust, können deine ERDE Krieger-Monster für den Rest dieses Spielzugs nicht durch Kampf zerstört werden. Du kannst diesen Effekt von „Faisan, jagender Kundschafter aus dem tiefen Wald“ nur einmal pro Spielzug verwenden.
-  | it_text             = 2 mostri TERRA Guerriero<br />Immune agli effetti attivati del tuo avversario, solamente durante la Main Phase. Durante la Battle Phase (Effetto Rapido): puoi offrire come Tributo questa carta Evocata tramite Fusione; Evoca Specialmente 2 mostri TERRA Guerriero dal tuo Cimitero, eccetto "Faisan, Scout Cacciatore della Foresta Profonda" e, se lo fai, i tuoi mostri TERRA Guerriero non possono essere distrutti in battaglia per il resto di questo turno. Puoi utilizzare questo effetto di "Faisan, Scout Cacciatore della Foresta Profonda" una sola volta per turno.
-  | pt_text             = 2 monstros Guerreiro de TERRA<br />Não é afetado pelos efeitos ativados do seu oponente, apenas durante a Fase Principal. Durante a Fase de Batalha (Efeito Rápido): você pode oferecer como Tributo este card Invocado por Invocação-Fusão; Invoque por Invocação-Especial 2 monstros Guerreiro de TERRA do seu Cemitério, exceto "Faisan, o Batedor Caçador da Floresta Profunda" e, se isso acontecer, seus monstros Guerreiro de TERRA não podem ser destruídos em batalha pelo resto deste turno. Você só pode usar este efeito de "Faisan, o Batedor Caçador da Floresta Profunda" uma vez por turno.
-  | es_text             = 2 monstruos Guerrero de TIERRA<br />No es afectado por los efectos activados de tu adversario, sólo durante la Main Phase. Durante la Battle Phase (Efecto Rápido): puedes Sacrificar esta carta Invocada por Fusión; Invoca de Modo Especial, desde tu Cementerio, 2 monstruos Guerrero de TIERRA, excepto "Faisán, Rastreador Cazador del Bosque Profundo" y, si lo haces, tus monstruos Guerrero de TIERRA no pueden ser destruidos en batalla por el resto de este turno. Sólo puedes usar este efecto de "Faisán, Rastreador Cazador del Bosque Profundo" una vez por turno.
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | en_sets             = 
+  | fr_name              = Faisan, Éclaireur Chasseur de la Forêt Profonde
+  | de_name              = Faisan, jagender Kundschafter aus dem tiefen Wald
+  | it_name              = Faisan, Scout Cacciatore della Foresta Profonda
+  | pt_name              = Faisan, o Batedor Caçador da Floresta Profunda
+  | es_name              = Faisán, Rastreador Cazador del Bosque Profundo
+  | ja_name              = {{Ruby|密林の狩猟者|ハンティング・スカウト}}フザン
+  | base_romaji_name     = Mitsurin no Shuryōsha Fuzan
+  | base_translated_name = Faisan, Hunter of the Deep Forest
+  | romaji_name          = Hantingu Sukauto Fuzan
+  | translated_name      = Faisan, Hunting Scout
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = FaisanHuntingScoutoftheDeepForest-DOOD-EN-C-1E.png
+  | attribute            = EARTH
+  | types                = Warrior / Fusion / Effect
+  | level                = 5
+  | atk                  = 2300
+  | def                  = 2300
+  | password             = 86038337
+  | materials            = 2 EARTH Warrior-Type monsters
+  | effect_types         = Continuous, Quick, Condition
+  | text                 = 2 [[EARTH]] [[Warrior]] [[Monster Card|monsters]]<br />[[Unaffected]] by your opponent's [[activate]]d [[effect]]s, during the [[Main Phase]] only. During the [[Battle Phase]] ([[Quick Effect]]): You can [[Tribute]] this [[Fusion Summon]]ed card; [[Special Summon]] 2 EARTH Warrior monsters from your [[GY]], except "Faisan, Hunting Scout of the Deep Forest", and if you do, your EARTH Warrior monsters cannot be [[destroyed]] by [[battle]] for the rest of this [[turn]]. You can only use this effect of "Faisan, Hunting Scout of the Deep Forest" once per turn.
+  | fr_text              = 2 monstres TERRE Guerrier<br />Non affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte Invoquée par Fusion ; Invoquez Spécialement 2 monstres TERRE Guerrier ("Faisan, Éclaireur Chasseur de la Forêt Profonde" exclu) depuis votre Cimetière, et si vous le faites, vos monstres TERRE Guerrier ne peuvent pas être détruits au combat le reste de ce tour. Vous ne pouvez utiliser cet effet de "Faisan, Éclaireur Chasseur de la Forêt Profonde" qu'une fois par tour.
+  | de_text              = 2 ERDE Krieger-Monster<br />Bleibt nur während der Main Phase von aktivierten Effekten deines Gegners unberührt. Während der Battle Phase (Schnelleffekt): Du kannst diese als Fusionsbeschwörung beschworene Karte als Tribut anbieten; beschwöre 2 ERDE Krieger-Monster als Spezialbeschwörung von deinem Friedhof, außer „Faisan, jagender Kundschafter aus dem tiefen Wald“, und falls du dies tust, können deine ERDE Krieger-Monster für den Rest dieses Spielzugs nicht durch Kampf zerstört werden. Du kannst diesen Effekt von „Faisan, jagender Kundschafter aus dem tiefen Wald“ nur einmal pro Spielzug verwenden.
+  | it_text              = 2 mostri TERRA Guerriero<br />Immune agli effetti attivati del tuo avversario, solamente durante la Main Phase. Durante la Battle Phase (Effetto Rapido): puoi offrire come Tributo questa carta Evocata tramite Fusione; Evoca Specialmente 2 mostri TERRA Guerriero dal tuo Cimitero, eccetto "Faisan, Scout Cacciatore della Foresta Profonda" e, se lo fai, i tuoi mostri TERRA Guerriero non possono essere distrutti in battaglia per il resto di questo turno. Puoi utilizzare questo effetto di "Faisan, Scout Cacciatore della Foresta Profonda" una sola volta per turno.
+  | pt_text              = 2 monstros Guerreiro de TERRA<br />Não é afetado pelos efeitos ativados do seu oponente, apenas durante a Fase Principal. Durante a Fase de Batalha (Efeito Rápido): você pode oferecer como Tributo este card Invocado por Invocação-Fusão; Invoque por Invocação-Especial 2 monstros Guerreiro de TERRA do seu Cemitério, exceto "Faisan, o Batedor Caçador da Floresta Profunda" e, se isso acontecer, seus monstros Guerreiro de TERRA não podem ser destruídos em batalha pelo resto deste turno. Você só pode usar este efeito de "Faisan, o Batedor Caçador da Floresta Profunda" uma vez por turno.
+  | es_text              = 2 monstruos Guerrero de TIERRA<br />No es afectado por los efectos activados de tu adversario, sólo durante la Main Phase. Durante la Battle Phase (Efecto Rápido): puedes Sacrificar esta carta Invocada por Fusión; Invoca de Modo Especial, desde tu Cementerio, 2 monstruos Guerrero de TIERRA, excepto "Faisán, Rastreador Cazador del Bosque Profundo" y, si lo haces, tus monstruos Guerrero de TIERRA no pueden ser destruidos en batalla por el resto de este turno. Sólo puedes usar este efecto de "Faisán, Rastreador Cazador del Bosque Profundo" una vez por turno.
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | en_sets              = 
   DOOD-EN084; Doom of Dimensions; Common
-  | fr_sets             = 
+  | fr_sets              = 
   DOOD-FR084; Doom of Dimensions; Common
-  | de_sets             = 
+  | de_sets              = 
   DOOD-DE084; Doom of Dimensions; Common
-  | it_sets             = 
+  | it_sets              = 
   DOOD-IT084; Doom of Dimensions; Common
-  | pt_sets             = 
+  | pt_sets              = 
   DOOD-PT084; Doom of Dimensions; Common
-  | sp_sets             = 
+  | sp_sets              = 
   DOOD-SP084; Doom of Dimensions; Common
-  | mentions            = Faisan, Hunting Scout of the Deep Forest
-  | supports            = 
+  | jp_sets              = 
+  WPP-JP055; World Premiere Pack 2026; 
+  | mentions             = Faisan, Hunting Scout of the Deep Forest
+  | supports             = 
   * EARTH
   * Warrior
-  | archseries          = Hunting Scout of the Deep Forest
-  | action              = Tributes itself for cost
-  | m/s/t               = 
+  | archseries           = Hunting Scout of the Deep Forest
+  | action               = Tributes itself for cost
+  | m/s/t                = 
   * Unaffected by activated card effects
   * Unaffected by the opponent's card effects
-  | summoning           = 
+  | summoning            = 
   * 2 Fusion Materials
   * Requires Attribute specific Fusion Materials
   * Requires Type specific Fusion Materials
   * Special Summons from your Graveyard
-  | attack              = Prevents other cards being destroyed by battle
-  | misc                = Only once per turn
-  | database_id         = 22066
+  | attack               = Prevents other cards being destroyed by battle
+  | misc                 = Only once per turn
+  | database_id          = 22066
   }}
