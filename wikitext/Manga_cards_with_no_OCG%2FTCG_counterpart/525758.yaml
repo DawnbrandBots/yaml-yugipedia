@@ -1,0 +1,21 @@
+title: Extra Salvation
+wikitext: |-
+  {{Manga card
+  | article_messages = {{Unofficial name|English}} {{Unofficial lore|English}}
+  | ja_name          = エクストラ・サルベーション
+  | romaji_name      = Ekusutora Sarubēshon
+  | ja_image         = ExtraSalvation-JP-Manga-DY.png
+  | card_type        = Spell
+  | property         = Normal
+  | text             = Decrease the opponent's [[ATK]] until the end of the [[turn]].
+  | ja_text          = ターン終了時まで相手の攻撃力を下げる
+  | text_note        = <ref group=Notes name=one>Although not specified in the lore, this card is [[activate]]d by returning 1 [[Pendulum Monster]] from your [[Extra Deck]] to your [[Main Deck|Deck]], and all opponent's [[Monster Card|monsters]] lose [[ATK]] equal to that monster's [[DEF]] until the end of the turn.</ref>
+  | appears_in_dy    = 015
+  | supports         = Pendulum Monster
+  | action           = Returns from Extra Deck to Main Deck
+  | stat_change      = Your opponent's monsters lose ATK
+  | misc             = Action Card
+  }}
+
+  == Notes ==
+  <references group=Notes />

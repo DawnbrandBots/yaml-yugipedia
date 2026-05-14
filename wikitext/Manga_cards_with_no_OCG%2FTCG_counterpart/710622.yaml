@@ -1,0 +1,18 @@
+title: Reversal Charge
+wikitext: |-
+  {{Manga card
+  | reconstructed_text = yes
+  | ja_name            = リバーサル・チャージ
+  | romaji_name        = Ribāsaru Chāji
+  | ja_image           = ReversalCharge-JP-Manga-SV.png
+  | card_type          = Trap
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] monster while your [[LP]] are lower than theirs.<br />'''[EFFECT]''' The attack target gains [[ATK]] equal to [the difference between your LP and your opponent's LP] until the end of this [[turn]].
+  | appears_in_sv      = 019
+  | decks              = Yuga Ohdo (manga)
+  | action             = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | stat_change        = Your monsters gain ATK
+  | misc               = Requires specific LP
+  }}

@@ -1,0 +1,21 @@
+title: Laminate Armor
+wikitext: |-
+  {{Manga card
+  | ja_name      = ラミネート・アーマー
+  | romaji_name  = Raminēto Āmā
+  | image        = LaminateArmor-EN-Manga-R.png
+  | ja_image     = LaminateArmor-JP-Manga-R.png
+  | image_ca     = LaminateArmor-JP-Manga-R-CA.png
+  | image_nc     = LaminateArmor-JP-Manga-R-NC.png
+  | card_type    = Spell
+  | property     = Equip
+  | text         = Increases [[DEF]] by 1000. [[Send]] this card to the [[Graveyard]] to reduce the [[Battle damage|damage]] to the [[Monster Card|monster]] to 0.
+  | viz_text     = The [[equip]]ped [[Monster Card|monster]] increases its [[DEF]] by 1000 points. If the equipped monster would be [[destroyed]] as a result of [[battle]], [[destroy]] this card instead, and reduce the [[Battle Damage]] to the [[control]]ler of the equipped monster to 0.
+  | ja_text      = 守備力を１０００ポイント上げる<br />このカードを墓地に送ることでモンスターのダメージを０にする
+  | appears_in_r = 018
+  | decks        = Gekko Tenma
+  | stat_change  = Equipped gains DEF
+  | life_points  = Prevents battle damage
+  | action       = Sends itself from field to Graveyard
+  | attack       = Equipped cannot be destroyed by battle
+  }}

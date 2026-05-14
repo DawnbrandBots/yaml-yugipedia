@@ -1,0 +1,19 @@
+title: Chemicalized Salamander (manga)
+wikitext: |-
+  {{Manga card
+  | ja_image      = ChemicalizedSalamander-JP-Manga-GR.png
+  | image_nc      = ChemicalizedSalamander-JP-Manga-GR-NC.png
+  | attribute     = FIRE
+  | types         = Pyro / Effect
+  | level         = 7
+  | atk           = 2500
+  | def           = 1500
+  | text          = '''[REQUIREMENT]''' [[Shuffle]] 3 [[Pyro]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' All [[face-up]] monsters on your opponent's [[field]] lose [[ATK]] equal to [the number of monsters in your opponent's Graveyard] x 100 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分の墓地のモンスター（炎族）３体をデッキに戻して発動できる。<br />'''【効果】'''相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［相手の墓地のモンスターの数］×１００ダウンする。
+  | appears_in_gr = 007
+  | decks         = Manabu Sogetsu (manga)
+  | supports      = Pyro
+  | archseries    = Chemistry
+  | action        = Returns from Graveyard to Deck for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

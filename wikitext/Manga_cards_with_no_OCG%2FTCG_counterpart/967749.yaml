@@ -1,0 +1,19 @@
+title: Constructor Ambush (manga)
+wikitext: |-
+  {{Manga card
+  | reconstructed_text = yes
+  | ja_image           = ConstructorAmbush-JP-Manga-SV.png
+  | card_type          = Trap
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Wyrm]] [[Type]] monster on your [[field]], [[send]] 1 [[Level]] 6 or lower Wyrm Type monster from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' The attacking monster loses [[ATK]] equal to [the ATK of the monster sent to the Graveyard to meet the [[Activation condition|requirement]]] until the end of this [[turn]].
+  | appears_in_sv      = 015
+  | decks              = Asana Mutsuba (manga)
+  | supports           = Wyrm
+  | archseries         = Constructor
+  | action             = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from hand to Graveyard for cost
+  | stat_change        = Your opponent's monsters lose ATK
+  | misc               = Requires control of specific Type
+  }}
