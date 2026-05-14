@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 1500
   | password              = 
   | effect_types          = Trigger, Ignition, Condition
-  | text                  = If this card is Normal or Special Summoned and you control a "Witchcrafter" monster other than "Witchcrafter Seed", or "Regulus, the Prince of Endymion": You can target 1 face-up card on the field; return it to the hand. You can banish this card from your GY; reveal any number of cards in your hand, including a Spell, and shuffle them into the Deck, then draw that many cards. You can only use each effect of "Witchcrafter Seed" once per turn.
+  | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed and you [[control]] a "[[Witchcrafter]]" [[monster]] other than "Witchcrafter Seed", or "[[Regulus, the Prince of Endymion]]": You can [[target]] 1 [[face-up]] card on the [[field]]; [[return]] it to the [[hand]]. You can [[banish]] this card from your [[GY]]; [[reveal]] any number of cards in your hand, including a [[Spell]], and [[shuffle]] them into the [[Main Deck|Deck]], then [[draw]] that many cards. You can only use each [[effect]] of "Witchcrafter Seed" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -40,5 +40,18 @@ wikitext: |-
   | archseries            = Witchcrafter
   | supports_archetypes   = Witchcrafter
   | related_to_archseries = Endymion
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from field to hand
+  * Activates from your Graveyard
+  * Reveals cards from your hand
+  * Returns from your hand to your Deck
+  * You draw cards
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific card
+  * Only once per turn
   | database_id           = 
   }}
