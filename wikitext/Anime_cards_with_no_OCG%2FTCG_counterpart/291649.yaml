@@ -1,0 +1,23 @@
+title: Overlay Connection
+wikitext: |-
+  {{Anime card
+  | ja_name         = オーバーレイ・コネクト
+  | romaji_name     = Ōbārei Konekuto
+  | translated_name = Overlay Connect
+  | image           = OverlayConnection-EN-Anime-ZX.png
+  | ja_image        = OverlayConnection-JP-Anime-ZX.png
+  | card_type       = Trap
+  | property        = Normal
+  | effect_types    = Effect, Trigger-like
+  | text            = [[Target]] 1 [[face-up]] [[Xyz Monster]] you [[control]] that has no [[Xyz Material]]; [[attach]] this card to that target as an Xyz Material. During your [[Standby Phase]], if this card is in your [[Graveyard]] because it was [[sent]] there to [[activate]] that target's [[Card effect|effect]]: You can [[pay]] 1000 [[Life Points]]; attach this card to that target as an Xyz Material.
+  | ja_text         = 自分フィールド上のエクシーズ素材の無いモンスターエクシーズ１体を選択して発動できる。選択したモンスターエクシーズの下にこのカードを重ねてエクシーズ素材とする。この効果でエクシーズ素材としたこのカードが、エクシーズ素材を取り除いて効果を発動するために墓地へ送られた場合、自分のターンのスタンバイフェイズ時に１０００ライフポイントを払う事で、もう１度このカードを、選択したモンスターエクシーズの下に重ねてエクシーズ素材とする事ができる。
+  | appears_in_zx   = 125
+  | decks           = Nash
+  | supports        = Xyz Monster
+  | archseries      = Overlay (series)
+  | action          = 
+  * Attaches itself from your field as Xyz Material
+  * Attaches itself from your Graveyard as Xyz Material
+  * Activates from your Graveyard
+  | life_points     = Pays Life Points for cost
+  }}

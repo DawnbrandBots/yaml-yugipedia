@@ -1,0 +1,28 @@
+title: Suspend Wand
+wikitext: |-
+  {{Anime card
+  | ja_name       = サスペンド・ワンド
+  | romaji_name   = Sasupendo Wando
+  | image         = SuspendWand-EN-Anime-VR.png
+  | ja_image      = SuspendWand-JP-Anime-VR.png
+  | image_nc      = SuspendWand-JP-Anime-VR-NC.png
+  | card_type     = Spell
+  | property      = Equip
+  | effect_types  = Condition, Trigger-like, Trigger-like
+  | text          = [[Equip]] only to a [[Level]] 4 or higher [[Cyberse]] [[Monster Card|monster]]. [[Once per turn]], when the equipped monster [[declare]]s an [[attack]]: You can [[activate]] this [[Card effect|effect]]; this [[turn]], the equipped monster cannot be [[destroyed by battle]], any [[battle damage]] you take from that battle is doubled, also the equipped monster can make a second attack during each [[Battle Phase]]. If the equipped monster attacks an opponent's monster, during [[damage calculation]]: You can [[send]] this card to the [[Graveyard|GY]]; the monster this card was equipped to gains [[ATK]] equal to the total battle damage you took this turn from battles involving the equipped monster, until the end of the opponent's turn.
+  | ja_text       = レベル４以上のサイバース族モンスターにのみ装備可能。①：１ターンに１度、装備モンスターの攻撃宣言時に発動できる。このターン、装備モンスターは戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは倍になる。また、装備モンスターはこのターン、１度のバトルフェイズ中に２回までモンスターに攻撃できる。②：装備モンスターが相手モンスターに攻撃するダメージ計算時に、このカードを墓地へ送って発動できる。このカードを装備していたモンスターの攻撃力は、相手ターン終了時まで、その装備モンスターの戦闘でこのターンに自分が受けた戦闘ダメージの数値分アップする。
+  | appears_in_vr = 072, 073
+  | decks         = Yusaku Fujiki
+  | supports      = Cyberse
+  | action        = 
+  * Activates upon attack declaration
+  * Sends itself from field to Graveyard
+  | m/s/t         = Equipped gains ATK
+  | attack        = 
+  * Equipped cannot be destroyed by battle
+  * Allows multiple attacks
+  | life_points   = Increases battle damage
+  | misc          = 
+  * Equips only to a specific target
+  * Limited activations
+  }}

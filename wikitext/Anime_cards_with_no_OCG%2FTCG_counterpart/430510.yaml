@@ -1,0 +1,20 @@
+title: Piping Pipes
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|聖楽器|サイント・インスツルメント}}
+  | romaji_name         = Sainto Insutsurumento
+  | translated_name     = Saint Instrument
+  | ja_image            = PipingPipes-JP-Anime-AV.png
+  | image_nc            = PipingPipes-JP-Anime-AV-NC.png
+  | card_type           = Spell
+  | property            = Equip
+  | effect_types        = Continuous, Quick-like
+  | text                = While this card is [[equip]]ped to a "[[Melodious]]" [[Monster Card|monster]], your opponent cannot [[target]] monsters for [[attack]]s, except the equipped monster. During either player's [[turn]], if a player would take [[effect damage]]: You can make the equipped monster gain [[ATK]] equal to that damage, and if you do, make that effect damage 0.
+  | ja_text             = ①：装備モンスターが「幻奏」モンスターの場合、相手モンスターは装備モンスター以外のモンスターに攻撃できない。②：効果ダメージが発生する場合に発動できる。装備モンスターの攻撃力はそのダメージの数値分アップし、その後そのダメージを０にする。
+  | appears_in_av       = 069
+  | decks               = Zuzu Boyle
+  | attack              = Manages attack targets
+  | stat_change         = Equipped gains ATK
+  | life_points         = Prevents effect damage
+  | supports_archetypes = Melodious
+  }}

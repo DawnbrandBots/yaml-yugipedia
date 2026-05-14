@@ -1,0 +1,33 @@
+title: Judgment Roll
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|裁きの賽渦|ジャッジメント・ロール}}
+  | romaji_name   = Jajjimento Rōru
+  | image         = JudgmentRoll-EN-Anime-VR.png
+  | ja_image      = JudgmentRoll-JP-Anime-VR.png
+  | image_nc      = JudgmentRoll-JP-Anime-VR-NC.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Condition, Condition, Quick-like
+  | text          = When your opponent [[activate]]s a [[monster effect]] that [[target]]s a [[Link Monster]](s) you [[control]], you can activate this card and its [[effect]] from your [[hand]]. [[Destroy]] this card during the [[End Phase]]. When your opponent activates a monster effect that targets a [[Monster Card|monster(s)]] you control: You can [[Tribute]] 1 of those targeted monsters; your opponent rolls a six-sided die. Until the end of this [[turn]], the [[ATK]] of all monsters on the [[field]] with an [[Attribute]] that corresponds to the result becomes double their current ATK, also change the ATK of as many other monsters on the field as possible to 0, and if you do, inflict [[Effect damage|damage]] to their controllers equal to the total [[Original ATK and DEF|original ATK]] of their monsters whose ATK were changed to 0 by this effect.<br />● 1: [[EARTH]] ● 2: [[WATER]] ● 3: [[FIRE]] ● 4: [[WIND]] ● 5: [[LIGHT]] ● 6: [[DARK]]
+  | ja_text       = 自分フィールドのリンクモンスターが相手モンスターの効果の対象になった時、このカードの発動及び効果の発動は手札からもできる。このカードはエンドフェイズに破壊される。①：自分フィールドのモンスターが相手モンスターの効果の対象になった時、その対象のモンスター１体をリリースして発動できる。相手はサイコロを１回降る。お互いのフィールドのモンスターはターん終了時まで、その出た目に対応した属性のモンスターの攻撃力は倍になり、その他の属性のモンスターの攻撃力は０になる。この効果で攻撃力が０になったモンスターのコントローラはその元々の攻撃力のダメージを受ける。●１：地属性 ●２：水属性 ●３：炎属性 ●４：風属性 ●５：光属性 ●６：闇属性
+  | appears_in_vr = 095
+  | decks         = Bohman
+  | supports      = Link Monster
+  | action        = 
+  * Activates if targeted by card effect
+  * Tributes for cost
+  | stat_change   = 
+  * Doubles ATK
+  * Changes ATK value
+  * Reduces ATK to 0
+  | m/s/t         = 
+  * Can be activated from the hand
+  * Destroys itself
+  | life_points   = 
+  * Damages you
+  * Damages your opponent
+  | misc          = 
+  * Requires control of specific Monster card type
+  * Die roll
+  }}

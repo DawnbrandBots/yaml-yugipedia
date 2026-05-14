@@ -1,0 +1,18 @@
+title: Paradigm Shift
+wikitext: |-
+  {{Anime card
+  | ja_name       = パラダイムシフト
+  | romaji_name   = Paradaimu Shifuto
+  | image         = ParadigmShift-EN-Anime-SV.png
+  | ja_image      = ParadigmShift-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Draw a card|draw]]s a card.<br />'''[EFFECT]''' Your opponent [[shuffle]]s their entire [[hand]] into the [[Main Deck|Deck]]. Then, they draw the same number of cards.
+  | ja_text       = '''【条件】'''相手がドローした時に発動できる。<br />'''【効果】'''相手は手札を全てデッキに戻してシャッフルする。その後、その数値分だけ相手はドローする。
+  | appears_in_sv = 026, 065
+  | decks         = Nail Saionji
+  | action        = 
+  * Activates if your opponent draws a card
+  * Returns from your opponent's hand to your opponent's Deck
+  * Your opponent draws cards
+  }}

@@ -1,0 +1,20 @@
+title: Romic n' Roller (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = RomicnRoller-JP-Anime-SV.png
+  | image_nc      = RomicnRoller-JP-Anime-SV-NC.png
+  | attribute     = DARK
+  | types         = Psychic / Effect
+  | level         = 6
+  | atk           = 1700
+  | def           = 0
+  | text          = '''[REQUIREMENT]''' Your [[LP]] are 2000 or lower.<br />'''[EFFECT]''' All [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose 500 [[ATK]] and [[DEF]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分のＬＰが２０００以下の場合に発動できる。<br />'''【効果】'''相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで５００ダウンする。
+  | appears_in_sv = 016, 024, 028, 040, 045, 049, 087
+  | decks         = Romin Kassidy
+  | archseries    = Psychic Musician
+  | stat_change   = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | life_points   = Requires specific LP
+  }}

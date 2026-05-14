@@ -1,0 +1,20 @@
+title: Vapor Blind
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = ヴェイパー・ブラインド
+  | romaji_name   = Veipā Buraindo
+  | ja_image      = VaporBlind-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' [[Battle position change|Change]] up to 3 [[Attack Position]] [[Normal Monster]]s on your [[field]] to [[face-up]] [[Defense Position]]. Then, all Attack Position monsters on your opponent's field lose [[ATK]] equal to [the number of monsters on your opponent's field] x 200 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分フィールドの攻撃表示の通常モンスターを３体まで選んで表側守備表示にする。その後、相手フィールドの全ての攻撃表示モンスターの攻撃力をターン終了時まで、［相手フィールドのモンスターの数］×２００ダウンする。
+  | appears_in_gr = 118
+  | decks         = Yudias Velgear
+  | supports      = Normal Monster
+  | action        = 
+  * Activates upon attack declaration
+  * Changes battle positions
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = Requires control of specific Monster type
+  }}

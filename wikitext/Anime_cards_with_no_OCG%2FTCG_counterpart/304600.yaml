@@ -1,0 +1,19 @@
+title: Damage Rebound
+wikitext: |-
+  {{Anime card
+  | ja_name       = ダメージ・リバウンド
+  | romaji_name   = Damēji Ribaundo
+  | image         = DamageRebound-EN-Anime-ZX.png
+  | ja_image      = DamageRebound-JP-Anime-ZX.png
+  | card_type     = Trap
+  | property      = Counter
+  | effect_types  = Activation requirement, Effect
+  | text          = When an [[Card effect|effect]] that would inflict [[effect damage|damage]] to a player(s) is [[activate]]d: That damage becomes 0, and if it does, your opponent [[shuffle]]s 1 [[face-up]] card they [[control]] into the [[Main Deck|Deck]], then, if that card was a [[Monster Card|monster]] on the [[field]], inflict damage to your opponent equal to its [[ATK]] on the field.
+  | ja_text       = 相手がダメージを与える効果を発動した時、その効果ダメージを０にして発動できる。相手フィールド上に表側表示で存在するカード１枚を相手が選択しデッキに戻す。選択したカードがモンスターだった場合、その攻撃力分のダメージを相手ライフに与える。
+  | appears_in_zx = 127, 128
+  | decks         = Mizar
+  | life_points   = 
+  * Prevents effect damage
+  * Damages your opponent
+  | action        = Returns from field to Deck
+  }}

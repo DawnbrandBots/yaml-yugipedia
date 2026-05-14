@@ -1,0 +1,27 @@
+title: Marincess Decision
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|海晶乙女の決意|マリンセス・デシジョン}}
+  | romaji_name         = Marinsesu Deshijon
+  | image               = MarincessDecision-EN-Anime-VR.png
+  | ja_image            = MarincessDecision-JP-Anime-VR.png
+  | card_type           = Trap
+  | property            = Normal
+  | effect_types        = Cost, Effect, Quick-like
+  | text                = [[Banish]] 1 "[[Marincess]]" card from your [[Graveyard|GY]], then [[target]] 1 [[face-down]] [[Defense Position]] [[Monster Card|monster]] you [[control]]; change it to [[face-up]] Defense Position (its [[effect]]s are not [[activate]]d), then, immediately after this effect [[resolve]]s, [[Link Summon]] 1 [[Link Monster]] using monsters you control as [[Link Material|material]], including that monster. You can banish this card and 1 "Marincess" monster from your GY, then target 1 face-up monster your opponent controls; it loses [[ATK]] equal to the banished monster's original ATK, until the end of this turn.
+  | ja_text             = ①：自分の墓地の「マリンセス」カード１枚を除外し、自分フィールドの裏側守備表示モンスター１体を対象として発動できる。そのモンスターを表側守備表示にする。この時、対象のモンスターの効果は発動できない。その後、対象のモンスターを含む自分フィールドのモンスターをリンク素材としてリンク召喚できる。②：自分の墓地から、このカードと「マリンセス」モンスター１体を除外し、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、除外したモンスターの元々の攻撃力分ダウンする。
+  | appears_in_vr       = 110, 111
+  | decks               = Skye Zaizen
+  | supports            = Link Monster
+  | archseries          = Marincess
+  | supports_archetypes = Marincess
+  | action              = Flips monsters face-up
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | summoning           = 
+  * Performs a Link Summon
+  * Special Summons from your Extra Deck
+  | banished            = 
+  * Banishes from Graveyard for cost
+  * Banishes itself from Graveyard for cost
+  }}

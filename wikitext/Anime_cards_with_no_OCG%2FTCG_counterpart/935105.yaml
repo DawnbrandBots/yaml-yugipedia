@@ -1,0 +1,22 @@
+title: Nirvana King of the Burning Flame
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|焼|しょう}}{{Ruby|炎|えん}}{{Ruby|槃|はん}}{{Ruby|王|のう}}
+  | romaji_name   = Shōenhannō
+  | ja_image      = NirvanaKingoftheBurningFlame-JP-Anime-GR.png
+  | image_nc      = NirvanaKingoftheBurningFlame-JP-Anime-GR-NC.png
+  | attribute     = FIRE
+  | types         = Pyro / Effect
+  | level         = 6
+  | atk           = 1800
+  | def           = 1000
+  | text          = '''[REQUIREMENT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' This card loses 300 [[ATK]] until the end of this [[turn]]. If you sent a [[Pyro]] [[Type]] [[Monster Card|monster]] to the Graveyard to meet the [[Activation condition|requirement]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's [[Level]]] x 100.
+  | ja_text       = '''【条件】'''デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''このカードの攻撃力はターン終了時まで３００ダウンする。この効果の条件で墓地へ送ったカードがモンスター（炎族）だった場合、［そのモンスターのレベル］×１００ダメージを相手に与える。
+  | appears_in_gr = 046, 054, 121
+  | decks         = Maddox Sogetsu
+  | supports      = Pyro
+  | archseries    = Chemistry
+  | action        = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change   = This card loses ATK
+  | life_points   = Damages your opponent
+  }}

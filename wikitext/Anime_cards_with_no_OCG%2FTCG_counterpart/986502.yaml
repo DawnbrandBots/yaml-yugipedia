@@ -1,0 +1,18 @@
+title: Constructor Blockade (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ConstructorBlockade-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon]]s a [[Level]] 7 or higher [[Monster Card|monster]], [[send]] 1 [[face-up]] [[Wyrm]] [[Type]] monster from your [[field]] to the [[Graveyard]].<br />'''[EFFECT]''' Choose 1 face-up monster on your opponent's field. This [[turn]], your opponent cannot [[attack]] with monsters with the same Type as that monster.
+  | ja_text       = '''【条件】'''相手がモンスター（レベル７以上）を召喚した時、自分フィールドの表側表示モンスター（幻竜族）１体を墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選ぶ。このターン、相手は選んだモンスターと同じ種族を持つモンスターで攻撃できない。
+  | appears_in_sv = 039
+  | decks         = Asana Mutsuba
+  | supports      = Wyrm
+  | archseries    = Constructor
+  | action        = 
+  * Activates upon Normal Summon
+  * Sends from field to Graveyard for cost
+  | attack        = Prevents your opponent's monsters from attacking
+  | misc          = Requires control of specific Type
+  }}

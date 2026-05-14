@@ -1,0 +1,26 @@
+title: Mirror Coat Unit
+wikitext: |-
+  {{Anime card
+  | ja_name             = ミラーコート・ユニット
+  | romaji_name         = Mirā Kōto Yunitto
+  | image               = MirrorCoatUnit-EN-Anime-VR.png
+  | ja_image            = MirrorCoatUnit-JP-Anime-VR.png
+  | image_nc            = MirrorCoatUnit-JP-Anime-VR-NC.png
+  | card_type           = Spell
+  | property            = Equip
+  | effect_types        = Condition, Continuous-like, Continuous-like, Trigger-like
+  | text                = [[Equip]] only to a "[[Drone]]" [[Monster Card|monster]]. Your opponent takes any [[battle damage]] you would have taken from [[attack]]s involving the equipped monster and their [[Level]] 4 or lower monster, instead. If the equipped monster would be [[destroyed by battle]], [[destroy]] this card instead, and if you do, the equipped monster's [[control]]ler takes no battle damage from that [[battle]]. When this [[face-up]] card [[leaves the field]]: You can [[return]] to the [[hand]] the monster this card was equipped to, and if you do, [[Add a card|add]] 1 monster with the same name from your [[Main Deck|Deck]] to your hand.
+  | ja_text             = 「ドローン」モンスターにのみ装備可能。①：装備モンスターとレベル４以下の相手モンスターとの戦闘で発生する自分への戦闘ダメージは代わりに相手が受ける。②：装備モンスターが戦闘で破壊される場合、代わりにこのカードを破壊し、装備モンスターのコントローラーへの戦闘ダメージを０にする。③：表側表示のこのカードがフィールドから離れた時に発動できる。このカードを装備していたモンスターを持ち主の手札に戻し、そのモンスターの同名モンスター１体を自分のデッキから手札に加える。
+  | appears_in_vr       = 062
+  | decks               = The Shepherd
+  | supports_archetypes = Drone
+  | life_points         = 
+  * Your opponent takes battle damage
+  * Prevents battle damage
+  | m/s/t               = 
+  * Destroys itself
+  * Redirects destruction
+  | action              = 
+  * Returns from your field to your hand
+  * Adds from Deck to hand
+  }}

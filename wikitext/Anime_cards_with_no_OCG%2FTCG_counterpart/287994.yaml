@@ -1,0 +1,22 @@
+title: Rank Domination
+wikitext: |-
+  {{Anime card
+  | ja_name       = ランク・ドミネーション
+  | romaji_name   = Ranku Dominēshon
+  | it_name       = Dominazione del Rango
+  | image         = RankDomination-EN-Anime-ZX.png
+  | ja_image      = RankDomination-JP-Anime-ZX.png
+  | card_type     = Spell
+  | property      = Continuous
+  | effect_types  = Continuous, Continuous
+  | text          = [[Monster Card|Monsters]] without a [[Rank]] cannot [[declare]] an [[attack]], also monsters the [[turn]] player [[control]]s can only attack in order of their Rank, starting from the lowest. During [[battle]] between 2 monsters that have a Rank, the monster with the lower Rank loses [[ATK]] equal to the difference in Ranks × 1000, during the [[Damage Step]] only.
+  | ja_text       = このカードがフィールド上に存在する限り、ランクを持つモンスター以外は攻撃宣言できない。また、ランクの低い順に攻撃しなければならない。ランクを持つモンスターと戦闘を行う場合のダメージステップの間、ランクが低い方のモンスターの攻撃力は、戦闘を行うモンスターのランクの差分×１０００ポイントダウンする。
+  | appears_in_zx = 119, 120, 121
+  | decks         = Eliphas
+  | attack        = 
+  * Prevents your monsters from attacking
+  * Prevents your opponent's monsters from attacking
+  | stat_change   = 
+  * Your monsters lose ATK
+  * Your opponent's monsters lose ATK
+  }}

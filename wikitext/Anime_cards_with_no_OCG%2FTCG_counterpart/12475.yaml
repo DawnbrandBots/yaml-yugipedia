@@ -1,0 +1,23 @@
+title: Sword of Soul
+wikitext: |-
+  {{Anime card
+  | ja_name            = ソードオブソウル
+  | romaji_name        = Sōdo Obu Souru
+  | ja_image           = SwordofSoul-JP-Anime-DM.png
+  | image_nc           = SwordofSoul-JP-Anime-DM-NC.png
+  | image_ca           = SwordofSoul-OW.png
+  | attribute          = LIGHT
+  | types              = Fairy / Effect
+  | level              = 4
+  | atk                = 0
+  | def                = 1900
+  | effect_types       = Trigger
+  | text               = When this [[Monster Card|monster]] is [[destroyed by battle]] and [[sent]] to the [[Graveyard]], you can increase the [[ATK]] of 1 of your monsters by 1000 points until the end of this [[turn]].
+  | ja_text            = このモンスターが戦闘によって墓地に送られた時に発動可能。自軍のモンスター１体の攻撃力をこのターンのみ１０００ポイントアップさせる。
+  | appears_in_dm      = 131
+  | decks              = Seto Kaiba
+  | action             = 
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | stat_change        = Your monsters gain ATK
+  }}

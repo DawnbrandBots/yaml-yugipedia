@@ -1,0 +1,20 @@
+title: Universe Dea (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = UniverseDea-JP-Anime-GR.png
+  | attribute          = LIGHT
+  | types              = Galaxy / Effect
+  | level              = 7
+  | atk                = 2200
+  | def                = 2000
+  | text               = '''[REQUIREMENT]''' [[Send]] 1 card from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 800 [[ATK]] until the end of this [[turn]]. If you sent a [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] to the Graveyard to meet the [[Activation condition|requirement]], gain 800 [[LP]].
+  | ja_text            = '''【条件】'''手札１枚を墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで８００ダウンする。この効果の条件で通常モンスター（ギャラクシー族）を墓地へ送った場合、さらに自分は８００ＬＰ回復する。
+  | appears_in_gr      = 002, 137
+  | supports           = 
+  * Galaxy (Type)
+  * Normal Monster
+  | action             = Sends from hand to Graveyard for cost
+  | stat_change        = Your opponent's monsters lose ATK
+  | life_points        = You gain Life Points
+  }}

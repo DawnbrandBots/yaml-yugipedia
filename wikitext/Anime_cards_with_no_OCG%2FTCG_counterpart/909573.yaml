@@ -1,0 +1,24 @@
+title: Romanpick (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = Romanpick-JP-Anime-SV.png
+  | image_nc      = Romanpick-JP-Anime-SV-NC.png
+  | attribute     = LIGHT
+  | types         = Psychic / Effect
+  | level         = 1
+  | atk           = 500
+  | def           = 0
+  | text          = '''[REQUIREMENT]''' If your [[LP]] are lower than your opponent's, [[pay]] 500 LP.<br />'''[EFFECT]''' [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. If a [[Psychic]] [[Type]] [[Monster Card|monster]](s) is among the cards sent, [[Add a card|add]] 1 Psychic Type monster from the Graveyard to your [[hand]].
+  | ja_text       = '''【条件】'''自分のＬＰが相手より少ない場合、５００ＬＰを払って発動できる。<br />'''【効果】'''自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（サイキック族）がいた場合、自分の墓地のモンスター（サイキック族）１体を選んで手札に加える。
+  | appears_in_sv = 011, 016, 027, 028, 040, 049, 056, 071, 086, 087
+  | decks         = 
+  * Romin Kassidy
+  * Gwendoline Purdy
+  | supports      = Psychic
+  | archseries    = Psychic Musician
+  | action        = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | life_points   = Pays Life Points for cost
+  | misc          = Requires specific LP
+  }}

@@ -1,0 +1,20 @@
+title: Trick Guard
+wikitext: |-
+  {{Anime card
+  | ja_name       = トリック・ガード
+  | romaji_name   = Torikku Gādo
+  | image         = TrickGuard-EN-Anime-SV.png
+  | ja_image      = TrickGuard-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have a [[face-up]] [[Monster Card|monster]] with 0 [[ATK]] on your [[field]].<br />'''[EFFECT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]], and make the [[battle damage]] [[Damage|take]]n from that [[battle]] 0.
+  | ja_text       = '''【条件】'''自分フィールドに表側表示モンスターが（攻撃力０）がいる場合、相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''デッキの一番上のカードを墓地へ送り、その戦闘で発生する戦闘ダメージを０にする。
+  | appears_in_sv = 025, 038
+  | appears_in_gr = 057
+  | decks         = Yuga Ohdo
+  | action        = 
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard
+  | life_points   = Prevents battle damage
+  | misc          = Requires control of specific ATK
+  }}

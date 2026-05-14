@@ -1,0 +1,21 @@
+title: Heist At Midnight
+wikitext: |-
+  {{Anime card
+  | ja_name         = ミッドナイト・タケダケシーフ
+  | romaji_name     = Middonaito Takedake Shīfu
+  | translated_name = Midnight Brazen Thief
+  | ja_image        = HeistAtMidnight-JP-Anime-GR.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' After your opponent [[activate]]s a [[Spell Card]].<br />'''[EFFECT]''' Make 1 [[face-up]] [[Psychic]] [[Type]] [[Monster Card|monster]] on your [[field]] gain 1200 [[DEF]] until the end of this [[turn]]. This turn, your opponent cannot [[attack]] with monsters with [ATK less than or equal to that monster's DEF].
+  | ja_text         = '''【条件】'''相手が魔法カードを発動した後に発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター（サイキック族）１体を選び、その守備力をターン終了時まで１２００アップする。このターン、相手は［選んだモンスターの守備力以下の攻撃力］を持つモンスターでは攻撃できない。
+  | appears_in_gr   = 026
+  | decks           = Rovian Kassidy
+  | supports        = Psychic
+  | archseries      = Shaman Bandit
+  | stat_change     = Your monsters gain DEF
+  | attack          = Prevents your opponent's monsters from attacking
+  | misc            = 
+  * Requires control of specific Type
+  * Requires control of specific DEF
+  }}

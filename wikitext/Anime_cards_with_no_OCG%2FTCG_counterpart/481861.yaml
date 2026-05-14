@@ -1,0 +1,24 @@
+title: Brutal Red
+wikitext: |-
+  {{Anime card
+  | ja_name             = ブルータル・レッド
+  | romaji_name         = Burūtaru Reddo
+  | image               = BrutalRed-EN-Anime-AV.png
+  | ja_image            = BrutalRed-JP-Anime-AV.png
+  | attribute           = FIRE
+  | types               = Dragon / Effect
+  | level               = 3
+  | atk                 = 1000
+  | def                 = 1000
+  | effect_types        = Trigger
+  | text                = If exactly 1 "[[Red (archetype)|Red]]" [[Monster Card|monster]] you [[control]] would be [[destroyed by battle]] or [[card effect]]: You can [[send]] this card from your [[hand]] to the [[Graveyard]]; until the end of this turn, that "Red" monster cannot be destroyed by battle or card effects, also it gains 1000 [[ATK]].
+  | ja_text             = ①：自分フィールドの「レッド」モンスター１体が戦闘・効果で破壊される場合、代わりにこのカードを手札から墓地へ送って発動できる。その「レッド」モンスター１体はターン終了時まで、戦闘・効果では破壊されず、攻撃力は１０００アップする。
+  | appears_in_av       = 138
+  | decks               = Jack Atlas (ARC-V)
+  | archseries          = Red (archetype)
+  | supports_archetypes = Red (archetype)
+  | action              = Sends itself from hand to Graveyard for cost
+  | attack              = Cannot be destroyed by battle
+  | m/s/t               = Cannot be destroyed by card effects
+  | stat_change         = Your monsters gain ATK
+  }}

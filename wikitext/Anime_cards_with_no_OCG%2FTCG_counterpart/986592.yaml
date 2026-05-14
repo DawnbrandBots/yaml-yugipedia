@@ -1,0 +1,13 @@
+title: Three Cavalteers (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ThreeCavalteers-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Level]] 7 or higher [[Monster Card|monster]] [[declare]]s an [[attack]] while you have 3 or more Level 7 or higher monsters in your [[Graveyard]].<br />'''[EFFECT]''' The attacking monster loses 1000 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分の墓地にモンスター（レベル７以上）が３体以上いる場合、相手モンスター（レベル７以上）の攻撃宣言時に発動できる。<br />'''【効果】'''攻撃してきたモンスターの攻撃力はターン終了時まで１０００ダウンする。
+  | appears_in_sv = 065
+  | decks         = Asana Mutsuba
+  | action        = Activates upon attack declaration
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

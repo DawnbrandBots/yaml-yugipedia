@@ -1,0 +1,21 @@
+title: Link Atrocity
+wikitext: |-
+  {{Anime card
+  | ja_name       = リンク・アトロシティ
+  | romaji_name   = Rinku Atoroshiti
+  | image         = LinkAtrocity-EN-Anime-VR.png
+  | ja_image      = LinkAtrocity-JP-Anime-VR.png
+  | card_type     = Spell
+  | property      = Normal
+  | effect_types  = Cost, Effect
+  | text          = [[Tribute]] 1 [[Link Monster]], then [[target]] 1 Link Monster you [[control]]; it gains [[ATK]] equal to the ATK the Tributed monster had on the [[Playing Field|field]] until the end of this [[turn]], also if it [[attack]]s an opponent's Link Monster this turn, that opponent's monster loses 400 ATK for each Link Monster in the [[GY]]s until the end of the [[Damage Step]].
+  | ja_text       = ①：自分フィールドのリンクモンスター１体をリリースし、自分フィールドのリンクモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、リリースしたモンスターの攻撃力分アップする。このターン、対象の自分のモンスターが攻撃する場合、その攻撃対象の相手リンクモンスターの攻撃力はダメージステップ終了時まで、自分・相手の墓地のリンクモンスターの数×４００ダウンする。
+  | appears_in_vr = 037
+  | decks         = Yusaku Fujiki
+  | supports      = Link Monster
+  | anti-supports = Link Monster
+  | action        = Tributes for cost
+  | stat_change   = 
+  * Your monsters gain ATK
+  * Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,27 @@
+title: String of Destiny
+wikitext: |-
+  {{Anime card
+  | ja_name             = デステニー・ストリングス
+  | romaji_name         = Desutenī Sutoringusu
+  | translated_name     = Destiny Strings
+  | it_name             = Corde del Destino
+  | ja_image            = StringofDestiny-JP-Anime-ZX.png
+  | image_ca            = StringofDestiny-OW.png
+  | card_type           = Spell
+  | property            = Equip
+  | effect_types        = Condition, Trigger-like
+  | text                = [[Equip]] only to a "[[Gimmick Puppet]]" [[Monster Card|monster]]. When the equipped monster [[declare]]s an [[attack]]: [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]], and if that card is a Monster Card, the equipped monster can continue to attack your opponent's monster that was the [[attack target]] as many times in a row as the [[Level]] of the monster sent to the Graveyard, but your opponent's monster cannot be [[destroy]]ed. If that card was a [[Spell Card|Spell]] or [[Trap Card]], [[negate]] the attack, and if you do, end the [[Battle Phase]].
+  | ja_text             = 「ギミック・パペット」と名のついたモンスターにのみ装備可能。装備モンスターの攻撃宣言時、自分のデッキの上からカードを１枚墓地へ送る。墓地へ送ったカードがモンスターカードだった場合、攻撃対象になった相手モンスターは破壊されず、墓地へ送ったモンスターのレベルの数まで連続攻撃できる。墓地へ送ったカードが魔法・罠カードだった場合、攻撃を無効にしてバトルフェイズを終了する。
+  | appears_in_zx       = 057, 058
+  | decks               = Quattro
+  | supports_archetypes = Gimmick Puppet
+  | action              = 
+  * Sends from the top of your Deck to your Graveyard
+  * Ends the Battle Phase
+  | attack              = 
+  * Cannot be destroyed by battle
+  * Allows multiple attacks
+  * Negates attacks
+  | misc                = 
+  * Equips only to a specific target
+  }}

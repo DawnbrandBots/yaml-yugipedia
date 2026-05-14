@@ -1,0 +1,19 @@
+title: Reporting from the Scene! (anime)
+wikitext: |-
+  {{Anime card
+  | image         = ReportingfromtheScene-EN-Anime-SV.png
+  | ja_image      = ReportingfromtheScene-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]], [[send]] 1 [[Machine]] [[Type]] monster from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Damage|Inflict]] 300 [[Effect damage|damage]] to your opponent, then end the [[Battle Phase]].
+  | ja_text       = '''【条件】'''相手モンスターの直接攻撃宣言時、手札のモンスター（機械族）１体を墓地へ送って発動できる。<br />'''【効果】'''相手に３００ダメージを与え、その後バトルフェイズを終了する。
+  | appears_in_sv = 005, 072
+  | decks         = Scoop Pitman
+  | supports      = Machine
+  | archseries    = Reporter
+  | action        = 
+  * Activates upon attack declaration
+  * Sends from hand to Graveyard for cost
+  * Ends the Battle Phase
+  | life_points   = Damages your opponent
+  }}

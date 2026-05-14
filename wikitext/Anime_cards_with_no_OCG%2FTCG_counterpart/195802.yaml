@@ -1,0 +1,26 @@
+title: Scandal Snapper
+wikitext: |-
+  {{Anime card
+  | ja_name         = スキャンダル・スナイパー
+  | romaji_name     = Sukyandaru Sunaipā
+  | translated_name = Scandal Sniper
+  | it_name         = Cecchino di Scandali
+  | es_name         = Cazador de Escándalos 
+  | image           = ScandalSnapper-EN-Anime-ZX.png
+  | ja_image        = ScandalSnapper-JP-Anime-ZX.png
+  | image_nc        = ScandalSnapper-JP-Anime-ZX-NC.png
+  | attribute       = DARK
+  | types           = Warrior / Effect
+  | level           = 4
+  | atk             = 700
+  | def             = 2000
+  | effect_types    = Trigger
+  | text            = When this card inflicts [[battle damage]] to your opponent: Increase the [[Level]] of this card by 2 (max. 12) and change it to [[face-up]] [[Defense Position]].
+  | ja_text         = このカードが相手ライフに戦闘ダメージを与えた時、このカードのレベルを２つ上げ、表示形式を守備表示にする（最大レベル１２まで）。
+  | appears_in_zx   = 036
+  | decks           = Cameron Clix
+  | action          = 
+  * Activates if battle damage is inflicted
+  * Changes battle positions
+  | stat_change     = This card gains Levels
+  }}

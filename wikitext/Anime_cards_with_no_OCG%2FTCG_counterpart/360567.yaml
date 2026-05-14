@@ -1,0 +1,38 @@
+title: Critical Tuning
+wikitext: |-
+  {{Anime card
+  | ja_name               = パスト・チューニング
+  | romaji_name           = Pasuto Chūningu
+  | translated_name       = Past Tuning
+  | ja_image              = CriticalTuning-JP-Anime-AV.png
+  | image_other           = CriticalTuning-JP-Anime-AV-AA.png
+  | card_type             = Spell
+  | property              = Quick-Play
+  | effect_types          = Effect
+  | text                  = If you [[control]] "[[C/C Critical Eye]]": [[Target]] 1 [[Monster Card|monster]] your opponent controls; that target's [[Level]] becomes the following value until the [[End Phase]] of this [[turn]].<br />● Level 1-4 monster: Level 1.<br />● Level 5-6 monster: Level 3.<br />● Level 7 or higher monster: Level 5.<br />Then, treat this card as a monster, and its [[Type]], [[Attribute]], Level, [[ATK]], and [[DEF]] become the same as the targeted monster's, also 1 "C/C Critical Eye" you control is treated as a [[Tuner monster]], also its [[effect]]s are [[negate]]d. Then, immediately after this effect [[resolve]]s, [[Synchro Summon]] 1 [[Synchro Monster]], using only this card treated as a monster by this effect and the "C/C Critical Eye" treated as a Tuner monster, but [[destroy]] that Synchro Summoned monster during the End Phase.
+  | ja_text               = ①：自分フィールドに「ＣＣ 隻眼のパスト・アイ」が存在する場合、相手フィールドのモンスター１体を対象として発動できる。その相手モンスターのレベルはこのターンのエンドフェイズまで、以下の数値になる。<br />●レベル１～４のモンスター：レベル１ ●レベル５～６のモンスター：レベル３<br />●レベル７以上のモンスター：レベル５<br />その後、このカードをモンスターとして扱い、このカードの種族・属性・レベル・攻撃力・守備力を対象のモンスターと同じにする。また、自分フィールドの「ＣＣ 隻眼のパスト・アイ」１体をチューナーとして扱い、その効果を無効にする。さらにその後、このカードの効果でモンスター扱いとしたこのカードとチューナー扱いとした「ＣＣ 隻眼のパスト・アイ」のみを素材として{{Ruby|Ｓ|シンクロ}}召喚する。この効果で{{Ruby|Ｓ|シンクロ}}召喚したモンスターはエンドフェイズに破壊される。
+  | appears_in_av         = 086, 096
+  | decks                 = Riley Akaba
+  | mentions              = C/C Critical Eye
+  | supports              = Synchro Monster
+  | related_to_archseries = 
+  * C/C
+  * Spell Monster
+  | action                = Uses Spell Cards as Synchro Materials
+  | stat_change           = 
+  * Changes Levels
+  * Changes own Type
+  * Changes own Attribute
+  * Changes own Level
+  * Changes own ATK value
+  * Changes own DEF value
+  * Treats Spell Cards as monsters
+  * Treats monsters as Tuner monsters
+  | m/s/t                 = 
+  * Negates the effects of your Effect Monsters
+  * Destroys your Monster Cards
+  * Treats Spell Cards as monsters
+  | summoning             = 
+  * Special Summons from your Extra Deck
+  * Performs a Synchro Summon
+  }}

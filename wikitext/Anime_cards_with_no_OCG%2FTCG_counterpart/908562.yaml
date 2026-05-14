@@ -1,0 +1,21 @@
+title: Gravity Press Dragon (anime)
+wikitext: |-
+  {{Anime card
+  | image         = GravityPressDragon-EN-Anime-SV.png
+  | ja_image      = GravityPressDragon-JP-Anime-SV.png
+  | image_nc      = GravityPressDragon-JP-Anime-SV-NC.png
+  | attribute     = EARTH
+  | types         = Dragon / Effect
+  | level         = 6
+  | atk           = 1500
+  | def           = 1000
+  | text          = '''[REQUIREMENT]''' [[Send]] 1 card from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] loses 700 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''手札１枚を墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、ターン終了時までその攻撃力・守備力は７００ダウンする。
+  | appears_in_sv = 001, 017, 024, 027
+  | appears_in_gr = 013, 057, 067, 125, 135
+  | decks         = Lucidien Kallister
+  | action        = Sends from hand to Graveyard for cost
+  | stat_change   = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  }}

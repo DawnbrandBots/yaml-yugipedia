@@ -1,0 +1,26 @@
+title: Mirage Target
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|蜃気楼の標的|ミラージュターゲット}}
+  | romaji_name         = Mirāju Tāgetto
+  | de_name             = Trügerisches Ziel
+  | it_name             = Bersaglio Miraggio
+  | pt_name             = Alvo Miragem
+  | image               = MirageTarget-EN-Anime-GX.png
+  | ja_image            = MirageTarget-JP-Anime-GX.png
+  | image_ca            = MirageTarget-OW.png
+  | image_nc            = MirageTarget-JP-Anime-GX-NC.png
+  | card_type           = Trap
+  | property            = Normal
+  | effect_types        = Activation requirement, Effect
+  | text                = [[Activate]] only when an opponent's [[monster]] [[declare]]s an [[attack]]. [[Send]] 1 [[face-up]] "[[Cloudian]]" monster you [[control]] to the [[Graveyard]] and [[negate]] the attack of that opponent's monster. Then, gain [[Life Points]] equal to the [[original ATK]] of the monster sent to the Graveyard.
+  | ja_text             = 相手モンスターが攻撃して来た時発動する事ができる。自分フィールド上の「雲魔物」と名のつくモンスター１体を墓地へ送り、相手モンスター１体の攻撃を無効にする。その後、墓地へ送ったモンスターの元々の攻撃力分のライフを回復する。
+  | appears_in_gx       = 112
+  | decks               = Adrian Gecko
+  | supports_archetypes = Cloudian
+  | action              = 
+  * Activates upon attack declaration
+  * Sends from field to Graveyard
+  | attack              = Negates attacks
+  | life_points         = You gain Life Points
+  }}

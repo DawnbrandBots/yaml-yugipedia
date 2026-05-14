@@ -1,0 +1,20 @@
+title: Guard Off
+wikitext: |-
+  {{Anime card
+  | article_messages   = {{Not archetype member|Guard|{{Ruby|Ｇ|ガード}}}}
+  | reconstructed_text = yes
+  | ja_name            = ガード・オフ
+  | romaji_name        = Gādo Ofu
+  | image              = GuardOff-EN-Anime-ZX.png
+  | ja_image           = GuardOff-JP-Anime-ZX.png
+  | image_nc           = GuardOff-JP-Anime-ZX-NC.png
+  | card_type          = Trap
+  | property           = Normal
+  | effect_types       = Effect
+  | text               = The [[DEF]] of all [[Monster Card|monsters]] currently on the [[field]] becomes 0, then inflict 400 [[Effect damage|damage]] to your opponent for each monster you [[control]] that has 0 DEF.
+  | ja_text            = フィールド上の全てのモンスターの守備力を０にする。その後、自分フィールド上の守備力が０のモンスターの数×４００ポイントダメージを相手ライフに与える。
+  | appears_in_zx      = 136
+  | decks              = Vector
+  | stat_change        = Reduces DEF to 0
+  | life_points        = Damages your opponent
+  }}

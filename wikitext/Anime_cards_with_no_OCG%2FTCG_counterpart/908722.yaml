@@ -1,0 +1,17 @@
+title: Shaman Octopus (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ShamanOctopus-JP-Anime-GR.png
+  | attribute     = WATER
+  | types         = Fish / Effect
+  | level         = 3
+  | atk           = 1000
+  | def           = 0
+  | text          = '''[REQUIREMENT]''' [[Pay]] 800 [[LP]].<br />'''[EFFECT]''' This card gains [[ATK]] equal to [the [[Level]] of 1 [[Normal Monster]] in your [[Graveyard]]] x 100 until the end of this [[turn]]. Then, [[shuffle]] that [[Monster Card|monster]] into your [[Main Deck|Deck]].
+  | ja_text       = '''【条件】'''８００ＬＰを払って発動できる。<br />'''【効果】'''自分の墓地の通常モンスター１体を選び、このカードの攻撃力はターン終了時まで、［選んだモンスターのレベル］×１００アップする。その後、選んだモンスターをデッキに戻す。
+  | appears_in_gr = 007
+  | supports      = Normal Monster
+  | action        = Returns from your Graveyard to your Deck
+  | stat_change   = This card gains ATK
+  | life_points   = Pays Life Points for cost
+  }}

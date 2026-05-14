@@ -1,0 +1,18 @@
+title: King's Tax
+wikitext: |-
+  {{Anime card
+  | ja_name       = キングス・タックス
+  | romaji_name   = Kingusu Takkusu
+  | ja_image      = KingsTax-JP-Anime-SV.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' You have a [[face-up]] [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]].<br />'''[EFFECT]''' Make 1 face-up monster on your opponent's field lose [[ATK]] equal to [the number of cards in your opponent's [[hand]]] x 500 until the end of this [[turn]]. Then, [[send]] 1 [[random]] card from your opponent's hand to the [[Graveyard]].
+  | ja_text       = '''【条件】'''自分フィールドに表側表示モンスター（悪魔族）がいる場合に発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［相手の手札の数］×５００ダウンする。その後、相手の手札をランダムに１枚選んで墓地へ送る。
+  | appears_in_sv = 012, 063
+  | decks         = Roa Kassidy
+  | supports      = Fiend
+  | archseries    = King's
+  | action        = Sends from your opponent's hand to your opponent's Graveyard
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = Requires control of specific Type
+  }}

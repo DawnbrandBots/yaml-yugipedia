@@ -1,0 +1,30 @@
+title: Resume Mace
+wikitext: |-
+  {{Anime card
+  | ja_name       = レジューム・メイス
+  | romaji_name   = Rejūmu Meisu
+  | image         = ResumeMace-EN-Anime-VR.png
+  | ja_image      = ResumeMace-JP-Anime-VR.png
+  | image_nc      = ResumeMace-JP-Anime-VR-NC.png
+  | card_type     = Spell
+  | property      = Equip
+  | effect_types  = Condition, Continuous-like, Trigger-like, Trigger-like
+  | text          = [[Equip]] only to a [[Level]] 4 or higher [[Cyberse]] [[Monster Card|monster]]. It loses 800 [[ATK]]. If the equipped monster [[attack]]s a monster with higher ATK, during [[damage calculation]]: You can [[send]] this card to the [[Graveyard|GY]]; the ATK of the monster this card was equipped to becomes double its [[Original ATK and DEF|original ATK]], until the end of the [[Battle Phase]]. At the start of your opponent's Battle Phase, if this card is in your GY: You can [[banish]] 1 monster and 2 [[Equip Spell Card|Equip Spells]] from your GY, including this card, then you can have 1 [[face-up]] monster your opponent controls lose ATK equal to the original ATK of the monster banished by this effect, until the end of this [[turn]].
+  | ja_text       = レベル４以上のサイバース族モンスターにのみ装備可能。①：装備モンスターの攻撃力は８００ダウンする。②：装備モンスターが、装備モンスターより攻撃力が高いモンスターに攻撃するダメージ計算時に、このカードを墓地へ送って発動できる。このカードを装備していたモンスターの攻撃力は、バトルフェイズ終了時まで元々の攻撃力の倍になる。③：このカードが墓地に存在する場合、相手バトルフェイズ開始時に発動できる。このカードを含む装備魔法カード２枚とモンスター１体の合計３枚のカードを自分の墓地から除外する。その後、相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、この効果で除外したモンスターの元々の攻撃力分ダウンする事ができる。
+  | appears_in_vr = 072, 073
+  | decks         = Yusaku Fujiki
+  | supports      = 
+  * Cyberse
+  * Equip Spell Card
+  | action        = 
+  * Sends itself from field to Graveyard
+  * Activates from your Graveyard
+  | stat_change   = 
+  * Equipped loses ATK
+  * Changes ATK value
+  * Your opponent's monsters lose ATK
+  | banished      = 
+  * Banishes from your Graveyard
+  * Banishes itself from Graveyard
+  | misc          = Equips only to a specific target
+  }}

@@ -1,0 +1,24 @@
+title: Assemble Drone
+wikitext: |-
+  {{Anime card
+  | ja_name             = アセンブル・ドローン
+  | romaji_name         = Asenburu Dorōn
+  | image               = AssembleDrone-EN-Anime-VR.png
+  | ja_image            = AssembleDrone-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Equip
+  | effect_types        = Effect, Continuous-like, Continuous-like
+  | text                = [[Activate]] this card by [[target]]ing 1 "[[Drone]]" [[Link Monster]] in your [[Graveyard|GY]]; [[Special Summon]] it and [[equip]] it with this card. When this card [[leaves the field]], [[destroy]] that [[Monster Card|monster]]. The equipped monster gains 500 [[ATK]], also it cannot [[declare]] an [[attack]] while you [[control]] "[[Drone Pawn]]".
+  | ja_text             = ①：自分の墓地の「ドローン」リンクモンスター１体を対象としてこのカードを発動できる。その対象のモンスターを特殊召喚し、このカードを装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：装備モンスターの攻撃力は５００アップし、自分フィールドに「ドローン・ポーン」が存在する限り、装備モンスターは攻撃宣言できない。
+  | appears_in_vr       = 054
+  | decks               = The Shepherd
+  | mentions            = Drone Pawn
+  | supports            = Link Monster
+  | archseries          = Drone
+  | supports_archetypes = Drone
+  | summoning           = Special Summons from your Graveyard
+  | action              = Equips to Summoned monster
+  | m/s/t               = Destroys your Monster Cards
+  | stat_change         = This card gains ATK
+  | attack              = Prevents your monsters from attacking
+  }}

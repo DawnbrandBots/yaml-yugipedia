@@ -1,0 +1,18 @@
+title: Gate Gargoyle (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = GateGargoyle-JP-Anime-SV.png
+  | image_nc           = GateGargoyle-JP-Anime-SV-NC.png
+  | attribute          = LIGHT
+  | types              = Fiend / Effect
+  | level              = 6
+  | atk                = 1600
+  | def                = 1200
+  | text               = '''[REQUIREMENT]''' [[Send]] 1 [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Increase the [[Level]] of 1 [[face-up]] monster on your [[field]] by 1 until the end of this [[turn]].
+  | ja_text            = '''【条件】'''手札のモンスター１体を墓地へ送って発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター１体を選び、そのレベルをターン終了時まで１つ上げる。
+  | appears_in_sv      = 075
+  | decks              = Roa Kassidy
+  | action             = Sends from hand to Graveyard for cost
+  | stat_change        = Your monsters gain Levels
+  }}

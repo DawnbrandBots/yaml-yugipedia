@@ -1,0 +1,25 @@
+title: Black Hole Shield (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = BlackHoleShield-JP-Anime-DM.png
+  | image_ca      = BlackHoleShield-OW.png
+  | image_nc      = BlackHoleShield-JP-Anime-DM-NC.png
+  | attribute     = Earth
+  | types         = Machine / Armor
+  | level         = 4
+  | atk           = 0
+  | def           = 0
+  | effect_types  = Continuous, Trigger, Quick
+  | text          = Only 1 [[Armor monster]] can [[attack]] per [[turn]]. Also, if there are 2 or more Armor [[Monster Card|monster]]s on the [[field]] when an Armor monster is [[select]]ed as an [[attack target]], its controller can change the [[target]] to another Armor monster they control with a different name. You can [[Tribute]] this card to make an instance of [[Battle Damage]] 0.
+  | ja_text       = アーマーモンスターは１ターンに１体しか攻撃できない。また、２体以上のアーマーモンスターがフィールド上にいて、アーマーモンスターが攻撃対象にされた時、そのアーマーモンスターのコントローラーは攻撃対象を自分のコントロールする別名のアーマーモンスターに変更する事ができる。このカードを生け贄に捧げることで、戦闘ダメージを０にすることができる。
+  | appears_in_dm = 171
+  | decks         = Valon
+  | supports      = Armor monster
+  | archseries    = Hole
+  | action        = Tributes itself for cost
+  | attack        = 
+  * Cannot be destroyed by battle
+  * Manages attack targets
+  * Prevents attacks
+  | life_points   = Prevents battle damage
+  }}

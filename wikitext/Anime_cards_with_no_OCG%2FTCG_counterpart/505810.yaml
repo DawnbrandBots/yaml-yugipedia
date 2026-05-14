@@ -1,0 +1,21 @@
+title: Scab Blast
+wikitext: |-
+  {{Anime card
+  | ja_name       = スカブ・ブラスト
+  | romaji_name   = Sukabu Burasuto
+  | image         = ScabBlast-EN-Anime-GX.png
+  | ja_image      = ScabBlast-JP-Anime-GX.png
+  | card_type     = Spell
+  | property      = Normal
+  | effect_types  = Effect, Trigger-like
+  | text          = Inflict 200 [[Effect damage|damage]] to your opponent for each [[Scab Counter]] on the [[field]]. If this card is in the [[Graveyard]], you can [[Add a card|add]] it to your [[hand]] instead of conducting your [[normal draw]] during your [[Draw Phase]].
+  | ja_text       = フィールド上に存在するスカブカウンター１つにつき、相手プレイヤーに２００ポイントのダメージを与える。このカードが墓地に存在する場合、自分のドローフェイズに通常のドローを行う代わりに、このカードを手札にが加える事ができる。
+  | appears_in_gx = 114, 117
+  | decks         = Mr. Stein
+  | counter       = Scab Counter
+  | action        = 
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  * Replaces normal draw
+  | life_points   = Damages your opponent
+  }}

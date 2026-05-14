@@ -1,0 +1,18 @@
+title: Downloadragon
+wikitext: |-
+  {{Anime card
+  | ja_name         = ダウンロー・ドラゴン
+  | romaji_name     = Daunrō Doragon
+  | translated_name = Downlow Dragon
+  | ja_image        = Downloadragon-JP-Anime-GR.png
+  | card_type       = Spell
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' Your opponent has a [[face-up]] [[Level]] 7 or higher [[Monster Card|monster]] on their [[field]].<br />'''[EFFECT]''' [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[Dragon]] [[Type]] monster(s) is among the cards sent, all face-up monsters on your opponent's field lose [[ATK]] equal to [the number of monsters sent to the Graveyard by this [[effect]]] x 100 until the end of this [[turn]].
+  | ja_text         = '''【条件】'''相手フィールドに表側表示モンスター（レベル７以上）がいる場合に発動できる。<br />'''【効果】'''自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（ドラゴン族）がいた場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［この効果で墓地へ送ったモンスターの数］×１００ダウンする。
+  | appears_in_gr   = 030
+  | decks           = Yuamu Ohdo
+  | supports        = Dragon
+  | archseries      = High Tech Dragon
+  | action          = Sends from the top of your Deck to your Graveyard
+  | stat_change     = Your opponent's monsters lose ATK
+  }}

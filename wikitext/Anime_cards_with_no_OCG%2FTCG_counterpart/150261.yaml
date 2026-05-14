@@ -1,0 +1,22 @@
+title: Revenge Twin Soul
+wikitext: |-
+  {{Anime card
+  | ja_name       = リベンジ・ツイン・ソウル
+  | romaji_name   = Ribenji Tsuin Souru
+  | ja_image      = RevengeTwinSoul-JP-Anime-5D.png
+  | image_ca      = RevengeTwinSoul-OW.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Activation requirement, Cost, Effect
+  | text          = [[Activate]] only when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]]. [[Banish|Remove from play]] 2 [[Synchro Monster]]s in your [[Graveyard]]. The [[attack target]] you [[control]] gains [[DEF]] equal to the total [[Level]]s of the removed monsters x 100, until the [[End Phase]]. Then, if its DEF is higher than the [[ATK]] of your opponent's attacking monster, [[destroy]] that opponent's monster.
+  | ja_text       = 相手モンスターの攻撃宣言時に発動する。自分の墓地に存在するシンクロモンスター２体をゲームから除外する事で、エンドフェイズ時まで、自分フィールド上に存在する攻撃対象モンスター１体の守備力は、除外したモンスターのレベルの合計×１００ポイントアップする。この時、その守備力が相手の攻撃モンスターの攻撃力を超えていれば、その相手モンスターを破壊する。
+  | appears_in_5d = 136
+  | decks         = Jack Atlas
+  | supports      = Synchro Monster
+  | action        = Activates upon attack declaration
+  | banished      = 
+  * Banishes from your Graveyard
+  * Banishes from Graveyard for cost
+  | stat_change   = Your monsters gain DEF
+  | m/s/t         = Destroys your opponent's Monster Cards
+  }}

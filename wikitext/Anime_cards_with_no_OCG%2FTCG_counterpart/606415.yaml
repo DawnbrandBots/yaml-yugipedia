@@ -1,0 +1,25 @@
+title: Borrel Ring
+wikitext: |-
+  {{Anime card
+  | ja_name             = ロシアン・ヴァレル
+  | romaji_name         = Roshian Vareru
+  | translated_name     = Russian Varrel
+  | image               = BorrelRing-EN-Anime-VR.png
+  | ja_image            = BorrelRing-JP-Anime-VR.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Cost, Effect, Trigger-like, Continuous-like
+  | text                = [[Activate]] this card by [[Tribute|Tributing]] 1 "[[Borrel]]" [[Link Monster]]; place [[counter]]s on this card equal to the Tributed [[Monster Card|monster]]'s [[Link Rating]]. Once per [[attack]], when your [[Monster Card|monster]] is [[target]]ed for an [[attack]] by an opponent's monster: You can [[remove]] 1 counter from this card; your monster cannot be [[Destroyed by battle|destroyed by that battle]], also that opponent's monster loses [[ATK]] equal to the number of counters on this card x 100 until the end of the [[Damage Step]]. If the last counter(s) is removed from this card, [[destroy]] it.
+  | ja_text             = ①：自分フィールドの「ヴァレル」リンクモンスター１体をリリースしてこのカードを発動できる。リリースしたモンスターのリンクマーカーの数だけ、このカードにカウンターを置く。②：自分のモンスターが相手のモンスターの攻撃対象に選択された場合に１度、このカードのカウンターを１つ取り除いて発動できる。自分のモンスターはその戦闘では破壊されず、相手のモンスターの攻撃力はそのダメージステップ終了時まで、このカードのカウンターの数×１００ダウンする。③：このカードのカウンターが全て取り除かれた場合にこのカードは破壊される。
+  | appears_in_vr       = 098
+  | decks               = Roken Kogami
+  | supports            = Link Monster
+  | archseries          = Borrel
+  | supports_archetypes = Borrel
+  | action              = Tributes for cost
+  * Places counters
+  * Removes counters
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = Destroys itself
+  | attack              = Cannot be destroyed by battle
+  }}

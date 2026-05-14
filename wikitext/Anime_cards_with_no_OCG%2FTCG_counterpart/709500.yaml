@@ -1,0 +1,23 @@
+title: Battle Demotion (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = BattleDemotion-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[LIGHT]] [[Attribute]] [[Machine]] [[Type]] monster, [[pay]] 600 [[LP]].<br />'''[EFFECT]''' [[Battle position change|Change]] 1 [[Attack Position]] monster on your opponent's [[field]] to face-up [[Defense Position]].
+  | ja_text       = '''【条件】'''自分の表側表示モンスター（光属性／機械族）が攻撃を受ける相手モンスターの攻撃宣言時に６００ＬＰを払って発動できる。<br />'''【効果】'''相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。
+  | appears_in_sv = 047
+  | decks         = Kaizo
+  | supports      = 
+  * LIGHT
+  * Machine
+  | archseries    = Worker Warrior
+  | action        = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Changes battle positions
+  | life_points   = Pays Life Points for cost
+  | misc          = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  }}

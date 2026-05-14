@@ -1,0 +1,35 @@
+title: Borrel Half Replace
+wikitext: |-
+  {{Anime card
+  | ja_name             = ヴァレル・ハーフ・リプレイス
+  | romaji_name         = Vareru Hāfu Ripureisu
+  | translated_name     = Varrel Half Replace
+  | image               = BorrelHalfReplace-EN-Anime-VR.png
+  | ja_image            = BorrelHalfReplace-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Effect, Ignition-like, Condition
+  | text                = [[Target]] 1 "[[Borrel]]" [[Link Monster]] in your [[Graveyard|GY]]; [[Special Summon]] 1 "Borrel" Link Monster from your [[Extra Deck]] with the same [[Link Rating]] as that [[Monster Card|monster]], but a different name, and if you do, its [[ATK]] becomes halved, its [[effect]]s are [[negate]]d, also it is [[destroy]]ed during the [[End Phase]]. You can [[banish]] this card and 2 "[[Rokket]]" monsters from your GY; Special Summon 1 Link-2 [[DARK]] Link Monster from your Extra Deck to your [[zone]] a "Borrel" Link Monster [[points to]]. (This is treated as a [[Link Summon]].) You can only use each effect of "Borrel Half Replace" [[once per turn]].
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「ヴァレル」リンクモンスター１体を対象として発動できる。そのモンスターとリンクマーカーの数が同じで、カード名が異なる「ヴァレル」リンクモンスター１体をＥＸデッキから特殊召喚する。この効果で特殊召喚したモンスターの攻撃力は半分になり、効果は無効化され、エンドフェイズに破壊される。②：自分の墓地からこのカードと「ヴァレット」モンスター２体を除外して発動できる。リンク２の闇属性リンクモンスター１体をリンク召喚扱いとしてＥＸデッキから「ヴァレル」リンクモンスターのリンク先となる自分フィールドに特殊召喚する。
+  | appears_in_vr       = 116
+  | decks               = Roken Kogami
+  | supports            = 
+  * DARK
+  * Link Monster
+  | archseries          = Borrel
+  | supports_archetypes = 
+  * Borrel
+  * Rokket
+  | action              = Activates from your Graveyard
+  | stat_change         = Your monsters lose ATK
+  | m/s/t               = 
+  * Negates the effects of the Summoned monsters
+  * Destroys face-up Attack Position Monster Cards
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Link Summon
+  | banished            = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from Graveyard for cost
+  | misc                = Only once per turn
+  }}

@@ -1,0 +1,18 @@
+title: Attribute Shift Bomb (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = AttributeShiftBomb-JP-Anime-SV.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' [[Reveal]] 1 [[Monster Card|monster]] in your [[hand]] to your opponent.<br />'''[EFFECT]''' This [[turn]], the [[Attribute]]s of up to 3 [[face-up]] monsters on your opponent's [[field]] become the same as the monster revealed to meet the [[Activation condition|requirement]].
+  | ja_text       = '''【条件】'''手札のモンスター１体を相手に見せて発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスターを３体まで選ぶ。このターン、そのモンスターの属性をこの効果の条件で見せたモンスターと同じ属性にする。
+  | appears_in_sv = 038, 041, 046, 075
+  | appears_in_gr = 013, 057
+  | decks         = 
+  * Yuga Ohdo
+  * Rayne Nanahoshi
+  * Briscoe
+  * Zuwijo Zwil Velgear
+  | action        = Reveals your hand for cost
+  | stat_change   = Changes Attribute
+  }}

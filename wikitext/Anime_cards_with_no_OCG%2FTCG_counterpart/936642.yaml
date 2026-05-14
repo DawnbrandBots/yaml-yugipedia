@@ -1,0 +1,21 @@
+title: Bridge of Indecisiveness
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|迷|まよ}}い{{Ruby|橋|はし}}
+  | romaji_name   = Mayoihashi
+  | ja_image      = BridgeofIndecisiveness-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] [[face-up]].<br />'''[EFFECT]''' Choose 1 face-up monster whose [[ATK]] equals its own [[DEF]] on your [[field]] and 1 face-up monster on your opponent's field. This [[turn]], your monster gains ATK equal to [that opponent's monster's [[Level]]] x 100. Then, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the difference between your monster's ATK and their monster's].
+  | ja_text       = '''【条件】'''相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。<br />'''【効果】'''自分フィールドの同じ攻撃力・守備力を持つ表側表示モンスター１体と相手フィールドの表側表示モンスター１体を選ぶ。このターン、選んだ自分モンスターの攻撃力は［選んだ相手モンスターのレベル］×１００アップする。その後、［選んだ自分のモンスターの攻撃力と選んだ相手モンスターの攻撃力の差］だ相手にダメージを与える。
+  | appears_in_gr = 045
+  | decks         = Nisho Dukas
+  | action        = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change   = Your monsters gain ATK
+  | life_points   = Damages your opponent
+  | misc          = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  }}

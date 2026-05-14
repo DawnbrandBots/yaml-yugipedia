@@ -1,0 +1,24 @@
+title: Hook the Hidden Knight (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = HooktheHiddenKnight-JP-Anime-5D.png
+  | image_ca      = HooktheHiddenKnight-OW.png
+  | image_nc      = HooktheHiddenKnight-JP-Anime-5D-NC.png
+  | attribute     = DARK
+  | types         = Fiend / Effect
+  | level         = 4
+  | atk           = 1600
+  | def           = 0
+  | effect_types  = Trigger
+  | text          = When this [[Attack Position]] card is [[select]]ed as an [[attack target]], change this card and the [[attack]]ing [[Monster Card|monster]] to [[Defense Position]]. When this card is changed from Attack Position to Defense Position, inflict 800 [[effect damage|damage]] to your opponent.
+  | ja_text       = 自分フィールド上に攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードと相手の攻撃モンスター１体を表側守備表示にする。このカードの表示形式が攻撃表示から守備表示に変更された時、相手ライフに８００ポイントダメージを与える。
+  | appears_in_5d = 097, 104, 105
+  | decks         = 
+  * Nicolas
+  * Hermann
+  | archseries    = Knight
+  | action        = 
+  * Activates if battle positions change
+  * Changes battle positions
+  | life_points   = Damages your opponent
+  }}

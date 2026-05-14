@@ -1,0 +1,23 @@
+title: Negative Image Inversion
+wikitext: |-
+  {{Anime card
+  | ja_name         = ネガ⇔ポジ{{Ruby|反|はん}}{{Ruby|転|てん}}
+  | romaji_name     = Nega ⇔ Poji Hanten
+  | translated_name = Negative ⇔ Positive Swap
+  | it_name         = Scambio Positivo ⇔ Negativo
+  | es_name         = Inversión de Imagen en Negativo
+  | image           = NegativeImageInversion-EN-Anime-ZX.png
+  | ja_image        = NegativeImageInversion-JP-Anime-ZX.png
+  | image_nc        = NegativeImageInversion-JP-Anime-ZX-NC.png
+  | card_type       = Spell
+  | property        = Normal
+  | effect_types    = Effect
+  | text            = [[Target]] 1 [[face-down]] [[Defense Position]] [[Monster Card|monster]] your opponent [[control]]s; change the target to [[face-up]] [[Attack Position]], and if you do, switch its [[ATK]] and [[DEF]].
+  | ja_text         = 相手フィールド上に裏側守備表示で存在するモンスター１体を選択して発動する。選択したモンスターの表示形式を表側攻撃表示にする。その後、選択したモンスターの元々の攻撃力・守備力を入れ替える。
+  | appears_in_zx   = 035
+  | decks           = Cameron Clix
+  | stat_change     = Switches ATK and DEF
+  | action          = 
+  * Changes battle positions
+  * Flips monsters face-up
+  }}

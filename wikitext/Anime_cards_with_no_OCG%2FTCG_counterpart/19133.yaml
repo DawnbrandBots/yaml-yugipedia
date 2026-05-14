@@ -1,0 +1,24 @@
+title: Satellite Base
+wikitext: |-
+  {{Anime card
+  | ja_name       = サテライト・ベース
+  | romaji_name   = Sateraito Bēsu
+  | image         = SatelliteBase-EN-Anime-GX.png
+  | ja_image      = SatelliteBase-JP-Anime-GX.png
+  | image_nc      = SatelliteBase-JP-Anime-GX-NC.png
+  | attribute     = Light
+  | types         = Machine / Effect
+  | level         = 4
+  | atk           = 0
+  | def           = 0
+  | effect_types  = Continuous, Trigger, Continuous
+  | text          = This card cannot be [[Destroyed by battle|destroyed in battle]] by a [[Level]] 5 or lower [[Monster Card|monster]]. During each of your [[End Phase]]s, this card gains 1000 [[DEF]]. If a monster you [[control]] [[battle]]s, this card's DEF is returned to 0, after [[damage calculation]].
+  | ja_text       = このカードはレベル５以下のモンスターとの戦闘では破壊されない。自分のエンドフェイズ毎にこのカードの守備力は１０００ポイントアップする。このカードの守備力は自分フィールド上のモンスターが戦闘を行う時、０に戻る。
+  | appears_in_gx = 084
+  | decks         = Prince Ojin
+  | attack        = Cannot be destroyed by battle
+  | stat_change   = 
+  * This card gains DEF
+  * This card loses DEF
+  | archseries    = Satellite (series)
+  }}

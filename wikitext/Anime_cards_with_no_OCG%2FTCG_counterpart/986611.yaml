@@ -1,0 +1,23 @@
+title: Gig and Take
+wikitext: |-
+  {{Anime card
+  | ja_name               = ギグ＆テイク
+  | romaji_name           = Gigu Ando Teiku
+  | ja_image              = GigandTake-JP-Anime-SV.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Attack Position]] [[Fiend]] [[Type]] monster.<br />'''[EFFECT]''' The attack target cannot be [[destroy]]ed by this [[battle]]. Then, each [[Duelist|player]] gains [[LP]] equal to [the [[Battle damage|damage]] [[Damage|inflict]]ed from this battle].
+  | ja_text               = '''【条件】'''自分の攻撃表示モンスター（悪魔族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''攻撃を受けるモンスターはこの戦闘で破壊されない。その後、お互いは［この戦闘で受けたダメージ］だけＬＰを回復する。
+  | appears_in_sv         = 084, 085
+  | decks                 = Roa Kassidy
+  | supports              = Fiend
+  | related_to_archseries = Royal Rebel's
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | attack                = Prevents other cards being destroyed by battle
+  | life_points           = 
+  * You gain Life Points
+  * Your opponent gains Life Points
+  | misc                  = Requires control of specific Type
+  }}

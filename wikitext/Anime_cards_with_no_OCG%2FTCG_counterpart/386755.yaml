@@ -1,0 +1,21 @@
+title: Dark Archetype (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = DarkArchetype-JP-Anime-GX.png
+  | image_nc      = DarkArchetype-JP-Anime-GX-NC.png
+  | attribute     = DARK
+  | level         = 4
+  | types         = Spellcaster / Effect
+  | atk           = 1400
+  | def           = 400
+  | effect_types  = Trigger
+  | text          = If this card is [[destroyed by battle]] and [[Send|sent]] to the [[Graveyard]], you can choose 1 [[Monster Card|monster]] in your [[Main Deck|Deck]] with an [[ATK]] equal to the [[Battle damage|Battle Damage]] you took from that [[battle]]. Send monsters whose total [[Level]]s equal the Level of the chosen monster from your [[hand]] to the [[Graveyard]], and [[Special Summon]] the chosen monster.
+  | ja_text       = このカードが戦闘で破壊され墓地に送られた場合、効果を発動する事ができる。この時受けたプレイヤーの戦闘ダメージと同じ攻撃力を持つモンスター１体をデッキから選択し、選択したモンスターのレベルと合計が同じになるように手札のモンスターを墓地に送る。選択したモンスター１体を特殊召喚する。
+  | appears_in_gx = 157, 158, 168, 169, 170
+  | decks         = Trueman
+  | action        = 
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  * Sends from your hand to your Graveyard
+  | summoning     = Special Summons from your Deck
+  }}

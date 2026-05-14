@@ -1,0 +1,25 @@
+title: Topologina Beeswax
+wikitext: |-
+  {{Anime card
+  | ja_name             = トポロジーナ・ビーワックス
+  | romaji_name         = Toporojīna Bīwakkusu
+  | translated_name     = Topologina Beewax
+  | image               = TopologinaBeeswax-EN-Anime-VR.png
+  | ja_image            = TopologinaBeeswax-JP-Anime-VR.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Effect, Continuous-like, Continuous-like, Continuous-like
+  | text                = [[Activate]] this card when a [[Link Monster]](s) you [[control]] is [[destroy]]ed by a card [[effect]]: Place [[counter]]s on this card equal to that monster's [[Link Rating]], then, if you have a [[banish]]ed "[[Topologina]]" [[Monster Card|monster]](s), place that many additional counters on this card. Players never take [[battle damage]] if the amount is less than or equal to the number of counters on this card x 500. After [[damage calculation]], if a monster [[battle]]d, remove 1 counter from this card. When the last counter(s) is removed from this card, destroy it.
+  | ja_text             = ①：自分フィールドのリンクモンスターが効果で破壊された時にこのカードを発動できる。そのモンスターのリンクマーカーの数だけこのカードにカウンターを置く。除外されている自分の「トポロジーナ」モンスターが存在する場合、さらにその数だけこのカードにカウンターを置く。②：お互いのプレイヤーはこのカードのカウンターの数×５００以下の戦闘ダメージを受けない。③：自分または相手のモンスターが戦闘を行うダメージ計算後に、このカードのカウンターを１つ取り除く。④：このカードのカウンターが全て取り除かれた場合にこのカードは破壊される。
+  | appears_in_vr       = 109
+  | decks               = Pandor
+  | supports            = Link Monster
+  | archseries          = Topologina
+  | supports_archetypes = Topologina
+  | counter             = 
+  * Places counters on itself
+  * Removes counters from itself
+  | action              = Activates if destroyed by card effect
+  | m/s/t               = Destroys itself
+  | life_points         = Prevents battle damage
+  }}

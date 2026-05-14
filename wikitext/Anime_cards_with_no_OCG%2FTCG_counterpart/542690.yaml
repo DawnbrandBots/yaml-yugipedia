@@ -1,0 +1,29 @@
+title: Gagaga Mirror Slash
+wikitext: |-
+  {{Anime card
+  | ja_name             = ガガガ{{Ruby|流|りゅう}}－{{Ruby|明|めい}}{{Ruby|鏡|きょう}}{{Ruby|死|し}}{{Ruby|斬|ざん}}
+  | romaji_name         = Gagaga-ryū - Meikyō Shizan
+  | translated_name     = Gagaga Style - Clear Mirror Death Slash
+  | ja_image            = GagagaMirrorSlash-JP-Anime-ZX.png
+  | card_type           = Spell
+  | property            = Quick-Play
+  | effect_types        = Effect, Condition, Trigger-like
+  | text                = [[Target]] 1 "[[Gagaga]]" [[Monster Card|monster]] you [[control]]; it cannot be [[destroyed by battle]], also if it [[battle]]s an opponent's monster, its name and [[ATK]] become the respective name and ATK of your opponent's battling monster. These [[effect]]s last until the end of this [[turn]]. Also, until the end of this turn, each time it [[destroy]]s an opponent's monster by battle: Inflict [[Effect damage|damage]] to your opponent equal to the destroyed monster's ATK.
+  | ja_text             = 自分フィールド上の「ガガガ」と名のついたモンスター１体を選択して発動できる。このターン、選択したモンスターは戦闘では破壊されず、戦闘を行う相手モンスターと同名カードとして扱い、同じ攻撃力を得る。選択したモンスターが戦闘によって相手モンスターを破壊した時、その相手モンスターの攻撃力分のダメージを相手ライフに与える。
+  | appears_in_zx       = 145
+  | decks               = Yuma Tsukumo
+  | archseries          = Gagaga
+  | supports_archetypes = Gagaga
+  | action              = Activates if it destroys a monster by battle
+  | stat_change         = 
+  * Changes card names
+  * Copies name
+  * Changes ATK value
+  | attack              = Cannot be destroyed by battle
+  | life_points         = Damages your opponent
+  }}
+
+  {{Unofficial names
+  | hr_name = Gagaga Stil - Vedrosjek
+  | de_name = Gagagastil - Streich der Klarheit
+  }}

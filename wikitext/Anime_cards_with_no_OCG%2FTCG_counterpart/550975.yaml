@@ -1,0 +1,23 @@
+title: Overload Anchor
+wikitext: |-
+  {{Anime card
+  | ja_name       = オーバーロード・アンカー
+  | romaji_name   = Ōbārōdo Ankā
+  | image         = OverloadAnchor-EN-Anime-VR.png
+  | ja_image      = OverloadAnchor-JP-Anime-VR.png
+  | image_nc      = OverloadAnchor-JP-Anime-VR-NC.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Trigger-like, Quick-like
+  | text          = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you [[control]] 1 [[Link Monster]] (and no other monsters): You can make that monster you control unable to be [[destroyed by battle|destroyed by that battle]], and if you do, halve any [[battle damage]] you take from that [[battle]], then end the [[Battle Phase]]. If this [[card effect|effect]] was applied this [[turn]]: You can [[banish]] this card you control; the [[ATK]] of all Link Monsters your opponent controls become half their current ATK until your opponent's next [[Standby Phase]].
+  | ja_text       = ①：自分フィールドのモンスターがリンクモンスター１体のみの場合、相手モンスターの攻撃宣言時に発動できる。その自分のモンスターはその戦闘では破壊されず、その戦闘で発生する自分へのダメージは半分になる。その後、バトルフェイズを終了する。②：このカードの①の効果を通用したターン、自分フィールドのこのカードを除外して発動できる。次の相手スタンバイフェイズまで、相手フィールドのリンクモンスターの攻撃力は半分になる。
+  | appears_in_vr = 037
+  | decks         = Yusaku Fujiki
+  | supports      = Link Monster
+  | anti-supports = Link Monster
+  | action        = Ends the Battle Phase
+  | stat_change   = Changes ATK value
+  | attack        = Cannot be destroyed by battle
+  | banished      = Banishes itself from field
+  | life_points   = Reduces battle damage
+  }}

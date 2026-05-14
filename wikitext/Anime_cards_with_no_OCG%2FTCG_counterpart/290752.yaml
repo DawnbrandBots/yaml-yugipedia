@@ -1,0 +1,22 @@
+title: Damage Pot
+wikitext: |-
+  {{Anime card
+  | ja_name       = ダメージ・ポット
+  | romaji_name   = Damēji Potto
+  | image         = DamagePot-EN-Anime-ZX.png
+  | ja_image      = DamagePot-JP-Anime-ZX.png
+  | image_nc      = DamagePot-JP-Anime-ZX-NC.png
+  DamagePot-JP-Anime-ZX-NC-2.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Activation requirement, Effect, Trigger-like
+  | text          = During [[damage calculation]], when you would take [[battle damage]]: [[Activate]] this card; neither player takes any battle damage from this [[battle]]. When this card [[leaves the field]]: Inflict [[Effect damage|damage]] to both players equal to the amount of battle damage you would have taken at the activation of this card.
+  | ja_text       = 戦闘ダメージが発生した時に発動できる。その戦闘ダメージを０にする。その後、このカードがフィールド上から離れた時、このカードの発動時に発生した戦闘ダメージをお互いのライフに与える。
+  | appears_in_zx = 132
+  | decks         = Vector
+  | life_points   = 
+  * Prevents battle damage
+  * Damages you
+  * Damages your opponent
+  | action        = Activates from your Graveyard
+  }}

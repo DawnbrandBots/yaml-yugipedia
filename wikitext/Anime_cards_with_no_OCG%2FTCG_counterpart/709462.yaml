@@ -1,0 +1,20 @@
+title: Yurushima Sage (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = YurushimaSage-JP-Anime-SV.png
+  | image_nc      = YurushimaSage-JP-Anime-SV-NC.png
+  | attribute     = WIND
+  | types         = Fairy / Effect
+  | level         = 6
+  | atk           = 0
+  | def           = 1800
+  | text          = '''[REQUIREMENT]''' [[Battle position change|Change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].<br />'''[EFFECT]''' Change 1 Attack Position [[Monster Card|monster]] on your opponent's [[field]] to face-up Defense Position, and if you do, it loses 600 [[DEF]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''攻撃表示のこのカードを表側守備表示にして発動できる。<br />'''【効果】'''相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。この効果で表側守備表示にしたモンスターの守備力はターン終了時まで６００ダウンする。
+  | appears_in_sv = 033, 041, 074
+  | decks         = Gavin Sogetsu
+  | action        = 
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Changes battle positions
+  | stat_change   = Your opponent's monsters lose DEF
+  }}

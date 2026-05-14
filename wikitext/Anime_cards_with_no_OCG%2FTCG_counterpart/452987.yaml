@@ -1,0 +1,34 @@
+title: Battle Buffer
+wikitext: |-
+  {{Anime card
+  | ja_name       = バトル・バッファ
+  | romaji_name   = Batoru Baffa
+  | image         = BattleBuffer-EN-Anime-VR.png
+  | ja_image      = BattleBuffer-JP-Anime-VR.png
+  | image_nc      = BattleBuffer-JP-Anime-VR-NC.png
+  BattleBuffer-JP-Anime-VR-NC-2.png
+  | card_type     = Spell
+  | property      = Continuous
+  | effect_types  = Continuous-like, Trigger-like, Continuous-like
+  | text          = [[Activate]] this card by [[target]]ing [[Monster Card|monsters]] your opponent [[control]]s, up to the number of co-[[linked]] monsters you control; those monsters cannot activate their [[Card effect|effects]] while you control co-linked monsters, also [[destroy]] this card during the [[End Phase]] of this [[turn]]. After [[damage calculation]], if your [[Cyberse]] [[Link Monster]] [[battle]]d: Place 1 [[Battle Buffer Counter]] on this card. The [[ATK]] of all Cyberse Link Monsters you control become their [[original ATK]] + the number of Battle Buffer Counters on this card x 700.
+  | text_note     = <ref group="Note">Although the Japanese text mentions original ATK, the actual usage of the card ignores that completely. The last effect is treated as "All Cyberse Link Monsters you control gain 700 ATK for each Battle Buffer Counter on this card," in the anime.</ref>
+  | ja_text       = ①：自分フィールドの相互リンクしているモンスターの数まで、相手フィールドのモンスターを対象としてこのカードを発動できる。自分フィールドに相互リンクしているモンスターが存在する限り、そのモンスターは効果を発動できない。このカードはこのターンのエンドフェイズに破壊される。②：自分のサイバース族リンクモンスターが戦闘を行ったダメージ計算後にこの効果を発動する。このカードにバトル・バッファ・カウンターを１つ置く。自分フィールドのサイバース族リンクモンスターの攻撃力は、その元々の攻撃力＋このカードのバトル・バッファ・カウンターの数×７００になる。
+  | appears_in_vr = 012
+  | decks         = Yusaku Fujiki
+  | supports      = 
+  * Cyberse
+  * Link Monster
+  | counter       = 
+  * Battle Buffer Counter
+  * Places counters on itself
+  | m/s/t         = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Destroys itself
+  | stat_change   = 
+  * Changes ATK value
+  * Your monsters gain ATK
+  | misc          = Co-link
+  }}
+
+  == Notes ==
+  <references group="Note" />

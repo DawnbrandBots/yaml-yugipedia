@@ -1,0 +1,29 @@
+title: Dice Crisis
+wikitext: |-
+  {{Anime card
+  | ja_name       = ダイス・クライシス
+  | romaji_name   = Daisu Kuraishisu
+  | it_name       = Crisi dei Dadi
+  | es_name       = Crisis de Dados
+  | image         = DiceCrisis-EN-Anime-ZX.png
+  | ja_image      = DiceCrisis-JP-Anime-ZX.png
+  | image_ca      = DiceCrisis-OW.png
+  | image_other   = DiceCrisis-JP-Anime-ZX-NC.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Effect, Continuous-like, Continuous-like, Continuous-like
+  | text          = When a [[Monster Card|monster]] your opponent [[control]]s [[declare]]s an [[attack]]: [[Activate]] this card by [[target]]ing the attacking monster; roll a six-sided die, and if the result is 6, [[equip]] this card to that target. Take [[control]] of it, also its [[ATK]] becomes 0. When this card [[leaves the field]], return control of the equipped monster to its [[owner]]. When the equipped monster leaves the field, [[destroy]] this card.
+  | ja_text       = 相手フィールド上に存在するモンスター１体の攻撃宣言時に発動する事ができる。サイコロを１回振る。６が出た場合、このカードは相手の攻撃モンスター１体の装備カードとなり、そのモンスター１体の攻撃力を０にしてコントロールを得る。このカードがフィールド上から離れた時、装備モンスターのコントロールは元々の持ち主に戻る。装備モンスターがフィールド上から離れた時、このカードを破壊する。
+  | appears_in_zx = 032
+  | decks         = Charlie McCay
+  | action        = 
+  * Activates upon attack declaration
+  * Takes control of equipped
+  | stat_change   = 
+  * Reduces ATK to 0
+  * Changes ATK value of equipped
+  | m/s/t         = Destroys itself
+  | misc          = 
+  * Treated as Equip Card
+  * Die roll
+  }}

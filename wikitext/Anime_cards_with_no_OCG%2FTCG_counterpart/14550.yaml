@@ -1,0 +1,20 @@
+title: Compensation Mediation
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|仲|ちゅう}}{{Ruby|裁|さい}}の{{Ruby|代|だい}}{{Ruby|償|しょう}}
+  | romaji_name   = Chūsai no Daishō
+  | image         = CompensationMediation-EN-Anime-DM.png
+  | ja_image      = CompensationMediation-JP-Anime-DM.png
+  | image_ca      = CompensationMediation-OW.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Effect
+  | text          = Your opponent [[select]]s 2 cards from their [[Graveyard]], then they [[shuffle]] them together with this card. You then select 1 card from among those 3 cards. If that card is "Compensation Mediation", end the [[Battle Phase]] for this [[turn]], then your opponent places the remaining cards on top of their [[Main Deck|Deck]] in a random order. If that card is not "Compensation Mediation", the Battle Phase continues and you [[send]] the card you picked and "Compensation Mediation" to the Graveyard. Your opponent places the remaining card on top of their Deck.
+  | ja_text       = 相手プレイヤーは墓地から２枚カードを選ぶ。相手プレイヤーはそのカードとこのカードをシャッフルする。自分はその３枚の中から１枚カードを選択する。そのカードが「仲裁の代償」だった場合、このターンのバトルフェイズは終了となり、相手は残ったカードをランダムにデッキの上に置く。「仲裁の代償」以外だった場合、バトルフェイズは続行し自分の引いたカードと「仲裁の代償」をそれぞれの墓地に置く。残った１枚を相手は自分のデッキの上に置く。
+  | appears_in_dm = 153, 191
+  | decks         = Joey Wheeler
+  | action        = 
+  * Ends the Battle Phase
+  * Sends itself from field to Graveyard
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  }}

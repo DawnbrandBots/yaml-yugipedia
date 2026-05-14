@@ -1,0 +1,25 @@
+title: Drilling Mandrill (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = DrillingMandrill-JP-Anime-SV.png
+  | image_nc      = DrillingMandrill-JP-Anime-SV-NC.png
+  | attribute     = EARTH
+  | types         = Machine / Effect
+  | level         = 7
+  | atk           = 1700
+  | def           = 2000
+  | text          = '''[REQUIREMENT]''' During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.<br />'''[EFFECT]''' Choose [[face-down]] [[Defense Position]] [[Monster Card|monster]]s on your opponent's [[field]], up to [the number of [[face-up]] [[Machine]] [[Type]] monsters on your field]. [[Battle position change|Change]] those monsters to face-up [[Attack Position]], and change their [[Original ATK and DEF|original ATK]] to 0 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''このカードを召喚・特殊召喚した自分メインフェイズに発動できる。<br />'''【効果】'''相手フィールドの裏側守備表示モンスターを［自分フィールドの表側表示モンスター（機械族）の数］まで選ぶ。そのモンスターを表側攻撃表示にし、その元々の攻撃力をターン終了時まで０にする。
+  | appears_in_sv = 029, 033, 070, 080
+  | decks         = Galian Townsend
+  | supports      = Machine
+  | action        = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change   = 
+  * Changes original ATK
+  * Reduces ATK to 0
+  | misc          = Requires control of specific Type
+  }}

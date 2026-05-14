@@ -1,0 +1,31 @@
+title: Karmacept Dragon
+wikitext: |-
+  {{Anime card
+  | ja_name       = カルマセプト・ドラゴン
+  | romaji_name   = Karumaseputo Doragon
+  | image         = KarmaceptDragon-EN-Anime-VR.png
+  | ja_image      = KarmaceptDragon-JP-Anime-VR.png
+  | image_nc      = KarmaceptDragon-JP-Anime-VR-NC.png
+  | attribute     = DARK
+  | types         = Dragon / Effect
+  | level         = 4
+  | atk           = 1600
+  | def           = 1600
+  | effect_types  = Trigger, Condition, Trigger, Trigger
+  | text          = If a [[Link Monster]](s) is [[Special Summon]]ed to your opponent's [[field]]: You can [[target]] 1 of those [[Monster Card|monsters]]; [[equip]] this monster from your [[hand]] or field to that target. You can only use 1 of the following effects of "Karmacept Dragon" per turn, and only once that turn.<br />● If the monster equipped with this card by this card's [[effect]] is [[banish]]ed: You can inflict [[Effect damage|damage]] to your opponent equal to the [[ATK]] of the monster this card was equipped to.<br />● If this card is [[Send|sent]] to the [[Graveyard|GY]]: You can target 1 Link Monster in your opponent's GY; Special Summon 1 of your banished [[Dragon]] Link Monsters with an equal or lower [[Link Rating]] than the targeted monster.
+  | ja_text       = このカード名の②③の効果は１ターンに１度、いずれか１つしか使用できない。①：相手フィールドにリンクモンスターが特殊召喚した場合、そのモンスター１体を対象として発動できる。自分の手札・フィールドからこのモンスターを装備カード扱いとして対象のモンスターに装備する。②：このカードの効果でこのカードを装備したモンスターが除外された場合に発動できる。このカードを装備していたモンスターの攻撃力分のダメージを相手に与える。③：このカードが墓地へ送られた場合、相手の墓地のリンクモンスター１体を対象として発動できる。そのモンスターのリンクマーカーの数以下のリンクマーカーを持つ除外されている自分のドラゴン族リンクモンスター１体を選んで特殊召喚する。
+  | appears_in_vr = 116
+  | decks         = Varis
+  | supports      = 
+  * Dragon
+  * Link Monster
+  | anti-supports = Link Monster
+  | action        = 
+  * Activates upon Special Summon
+  * Equips self from hand
+  * Equips self from field
+  * Activates from your Graveyard
+  | summoning     = Special Summons from your banishment
+  | life_points   = Damages your opponent
+  | misc          = Only 1 effect once per turn
+  }}

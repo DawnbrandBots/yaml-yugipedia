@@ -1,0 +1,25 @@
+title: Spell Arsenal
+wikitext: |-
+  {{Anime card
+  | ja_name       = スペル・アーセナル
+  | romaji_name   = Superu Āsenaru
+  | ja_image      = SpellArsenal-JP-Anime-GR.png
+  | image_nc      = SpellArsenal-JP-Anime-GR-NC.png
+  | attribute     = WIND
+  | types         = Spellcaster / Effect
+  | level         = 3
+  | atk           = 400
+  | def           = 1000
+  | text          = '''[REQUIREMENT]''' [[Shuffle]] 1 [[Monster Card|monster]], 1 [[Spell Card]], and 1 [[Trap Card]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' [[Send]] this card from your [[field]] to the [[Graveyard]]. Then, [[Draw a card|draw]] 1 card and show it. If that card is an [[Equip Spell Card|Equip Spell]], you can draw 1 additional card.
+  | ja_text       = '''【条件】'''自分の墓地のモンスター・魔法カード・罠カードそれぞれ１枚ずつをデッキに戻して発動できる。<br />'''【効果】'''自分フィールドのこのカードを墓地へ送る。その後、自分は１枚ドローし、お互い確認する。そのカードが装備魔法だった場合、さらに自分は１枚ドローできる。
+  | appears_in_gr = 038, 039, 053
+  | decks         = 
+  * Yuna Goha
+  * Yuga Ohdo
+  | supports      = Equip Spell Card
+  | action        = 
+  * Returns from Graveyard to Deck for cost
+  * Sends itself from field to Graveyard
+  * You draw cards
+  * Shows the player's drawn cards
+  }}

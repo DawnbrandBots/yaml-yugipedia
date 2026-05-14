@@ -1,0 +1,21 @@
+title: Xyz Charge Up
+wikitext: |-
+  {{Anime card
+  | ja_name       = エクシーズ・チャージ・アップ
+  | romaji_name   = Ekushīzu Chāji Appu
+  | image         = XyzChargeUp-EN-Anime-ZX.png
+  | ja_image      = XyzChargeUp-JP-Anime-ZX.png
+  | image_nc      = XyzChargeUp-JP-Anime-ZX-NC.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Activation requirement, Effect, Quick-like
+  | text          = When you would take [[Effect damage|damage]] from a [[card effect]]: [[Activate]] this card; that damage becomes 0. You can [[send]] this [[face-up]] card to the [[Graveyard]]; 1 face-up [[Xyz Monster]] you [[control]] gains [[ATK]] equal to the amount of damage you would have taken at the activation of this card.
+  | ja_text       = 効果ダメージが発生した時に発動できる。その効果ダメージを０にする。このカードを墓地へ送る事で、自分フィールド上のモンスターエクシーズ１体の攻撃力はこのカードの発動時に発生した効果ダメージの数値分アップする。
+  | appears_in_zx = 136
+  | decks         = Nash
+  | supports      = Xyz Monster
+  | archseries    = Xyz (archetype)
+  | life_points   = Prevents effect damage
+  | action        = Sends itself from field to Graveyard for cost
+  | stat_change   = Your monsters gain ATK
+  }}

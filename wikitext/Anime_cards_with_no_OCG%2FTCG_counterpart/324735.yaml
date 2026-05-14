@@ -1,0 +1,34 @@
+title: Quiz Monkey
+wikitext: |-
+  {{Anime card
+  | reconstructed_text  = yes
+  | ja_name             = クイズーモンキー
+  | romaji_name         = Kuizū Monkī
+  | ko_name             = 퀴즈몽키
+  | ko_rr_name          = Kwijeumongki
+  | image               = QuizMonkey-EN-Anime-AV.png
+  | ja_image            = QuizMonkey-JP-Anime-AV.png
+  | ko_image            = QuizMonkey-KR-Anime-AV.png
+  | image_nc            = QuizMonkey-JP-Anime-AV-NC.png
+  | attribute           = DARK
+  | types               = ??? / Effect
+  | atk                 = 0
+  | def                 = 0
+  | level               = 1
+  | effect_types        = Trigger
+  | text                = [[Once per turn]], during your opponent's [[turn]], if this card [[battle]]s an opponent's [[Monster Card|monster]]: Your opponent must answer the following question. At the end of the [[Battle Phase]], apply the appropriate [[effect]], based on the answer.<br />(Question: How many "[[Quiz]]" monsters will be on my side of the [[field]] at the end of the Battle Phase?)<br />● Correct answer: Your opponent gains 1000 [[Life Points|LP]].<br />● Incorrect answer: If this card is in the [[Graveyard]], [[Special Summon]] it to your side of the field, also, after that, [[destroy]] 1 monster your opponent [[control]]s, and if you do, this card's [[ATK]] and [[DEF]] become equal to the destroyed monster's ATK and DEF.
+  | ja_text             = 
+  | appears_in_av       = 019, 020
+  | decks               = Pierre L'Supérieure
+  | archseries          = Quiz
+  | supports_archetypes = Quiz
+  | stat_change         = 
+  * Changes own ATK value
+  * Changes own DEF value
+  | m/s/t               = Destroys your opponent's Monster Cards
+  | summoning           = Special Summons itself from your Graveyard
+  | life_points         = Your opponent gains Life Points
+  | misc                = 
+  * Limited activations
+  * Variable effects
+  }}

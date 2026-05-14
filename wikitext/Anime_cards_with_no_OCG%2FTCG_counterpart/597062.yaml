@@ -1,0 +1,26 @@
+title: Property Flood
+wikitext: |-
+  {{Anime card
+  | ja_name             = プロパティ・フラッド
+  | romaji_name         = Puropati Furaddo
+  | image               = PropertyFlood-EN-Anime-VR.png
+  | ja_image            = PropertyFlood-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Effect, Condition, Condition
+  | text                = [[Tribute]] 1 "[[Hydradrive]]" [[Monster Card|monster]], then [[target]] 1 "Hydradrive" [[Link Monster]] you [[control]]; [[Special Summon]] "Hydradrive" Link Monsters from your [[Graveyard|GY]] with the same [[Attribute]](s) as the Tributed monster had on the [[field]], up to the targeted monster's [[Link Rating]], but they cannot [[attack]], their [[effect]]s are [[negate]]d, also they are [[destroy]]ed during the [[End Phase]]. You can only [[activate]] 1 "Property Flood" per [[turn]]. You cannot [[Special Summon]] monsters the turn you activate this card, except "Hydradrive" monsters.
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は「ハイドライブ」モンスターしか特殊召喚できない。①：自分フィールドの「ハイドライブ」モンスター１体をリリースし、自分フィールドの「ハイドライブ」リンクモンスター１体を対象として発動できる。リリースしたモンスターと同じ属性の自分の墓地の「ハイドライブ」リンクモンスターを、対象のモンスターのリンクマーカーの数まで特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに破壊される。
+  | appears_in_vr       = 091
+  | decks               = Bohman
+  | supports            = Link Monster
+  | supports_archetypes = Hydradrive
+  | action              = Tributes for cost
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons to archetype specific monsters
+  | attack              = Prevents your monsters from attacking
+  | m/s/t               = 
+  * Negates the effects of your Effect Monsters
+  * Destroys your Monster Cards
+  | misc                = Only once per turn
+  }}

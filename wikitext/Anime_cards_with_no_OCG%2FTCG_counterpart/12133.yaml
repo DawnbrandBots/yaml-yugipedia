@@ -1,0 +1,21 @@
+title: Spell Textbook
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|魔|ま}}{{Ruby|法|ほう}}の{{Ruby|教|きょう}}{{Ruby|科|か}}{{Ruby|書|しょ}}
+  | romaji_name   = Mahō no Kyōkasho
+  | image         = SpellTextbook-EN-Anime-DM.png
+  | ja_image      = SpellTextbook-JP-Anime-DM.png
+  | card_type     = Spell
+  | property      = Quick-Play
+  | effect_types  = Cost, Effect
+  | text          = [[Discard]] all cards in your [[hand]]. [[Shuffle]] your [[Main Deck|Deck]] and [[Draw a card|draw]] a card from the top of your Deck. If that card is a [[Spell Card]], you can [[activate]] it immediately.
+  | ja_text       = 手札のカードを全て捨てる。デッキをシャッフルしてカードをデッキの上から引く。そのカードが、魔法カードだった場合、その直で発動してよい。
+  | appears_in_dm = 131, 224
+  | decks         = Yugi Muto
+  | supports      = Spell Card
+  | action        = 
+  * You discard for cost
+  * You draw cards
+  * Activates cards from your hand
+  | m/s/t         = Allows activation of Spell Cards from the player's hand during the opponent's turn
+  }}

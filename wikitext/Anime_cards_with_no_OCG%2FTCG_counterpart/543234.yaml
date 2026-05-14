@@ -1,0 +1,22 @@
+title: Danger Draw
+wikitext: |-
+  {{Anime card
+  | article_messages = {{About|the ''[[Yu-Gi-Oh! ZEXAL]]'' anime card|the ''[[Yu-Gi-Oh! ARC-V]]'' anime card|[[Danger Draw (ARC-V)]]}}
+  | ja_name          = マストダイ・ドロー
+  | romaji_name      = Masutodai Dorō
+  | translated_name  = Mustdie Draw
+  | ja_image         = DangerDraw-JP-Anime-ZX.png
+  | card_type        = Trap
+  | property         = Normal
+  | effect_types     = Activation requirement, Effect
+  | text             = When an opponent's [[Monster Card|monster]] whose [[ATK]] is higher than your [[Life Points]] [[declare]]s a [[direct attack]]: [[Draw a card|Draw]] 1 card and [[reveal]] it. If it is a [[Trap Card]], [[negate]] the [[attack]], and if you do, you can [[activate]] that Trap Card.
+  | ja_text          = 自分のライフポイントよりも高い攻撃力を持つ相手モンスターの直接攻撃宣言時に発動できる。自分のデッキからカードを１枚ドローし、お互いに確認する。確認したカードが罠カードだった場合、その相手モンスターの直接攻撃を無効にし、このカードの効果でドローした罠カードを発動できる。
+  | appears_in_zx    = 146
+  | decks            = Yuma Tsukumo
+  | action           = 
+  * Activates upon attack declaration
+  * You draw cards
+  * Shows the player's drawn cards
+  | attack           = Negates attacks
+  | m/s/t            = Allows activation of Trap Cards from your hand
+  }}

@@ -1,0 +1,22 @@
+title: Invalidate
+wikitext: |-
+  {{Anime card
+  | ja_name         = インヴァリッド・インセンシティブ
+  | romaji_name     = Invariddo Insenshitibu
+  | translated_name = Invalid Insensitive
+  | image           = Invalidate-EN-Anime-AV.png
+  | ja_image        = Invalidate-JP-Anime-AV.png
+  | image_nc        = Invalidate-JP-Anime-AV-NC.png
+  | card_type       = Trap
+  | property        = Continuous
+  | effect_types    = Quick-like, Trigger-like, Continuous-like
+  | text            = When your opponent [[activate]]s a card or [[effect]] that would [[destroy]] a [[Monster Card|monster]](s): You can activate this effect; this [[turn]], monsters on the [[field]] cannot be [[destroy]]ed by card effects. During [[damage calculation]], when a monster [[battle]]s: You can [[send]] this card to the [[Graveyard]]; halve any [[battle damage]] from that battle. During the [[End Phase]], destroy this card.
+  | ja_text         = ①：モンスターを破壊する相手の魔法・罠・モンスターの効果が発動した場合にこの効果を発動できる。このターン、フィールドのモンスターは効果では破壊されない。②：モンスターが戦闘を行うダメージ計算時、 このカードを墓地へ送ってこの効果を発動できる。その戦闘で発生する戦闘ダメージは半分になる。③：このカードはエンドフェイズに破壊される。
+  | appears_in_av   = 146, 147
+  | decks           = Jack Atlas (ARC-V)
+  | m/s/t           = 
+  * Cannot be destroyed by card effects
+  * Destroys itself
+  | action          = Sends itself from field to Graveyard for cost
+  | life_points     = Reduces battle damage
+  }}

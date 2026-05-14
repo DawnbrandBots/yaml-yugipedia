@@ -1,0 +1,20 @@
+title: Galactica Tabula Rasa (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = GalacticaTabulaRasa-JP-Anime-GR.png
+  | image_nc      = GalacticaTabulaRasa-JP-Anime-GR-NC.png
+  | attribute     = LIGHT
+  | types         = Galaxy / Effect
+  | level         = 6
+  | atk           = 1500
+  | def           = 1600
+  | text          = '''[REQUIREMENT]''' [[Send]] 1 [[Spell Card]] from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Return]] 1 card from your opponent's [[Spell & Trap Zone]] to the [[owner]]'s hand. Then, you can make 1 [[face-up]] [[Level]] 7 or lower [[Monster Card|monster]] with 2500 or more [[ATK]] on your opponent's field lose 2500 ATK until the end of this [[turn]].
+  | ja_text       = '''【条件】'''手札の魔法カード１枚を墓地へ送って発動できる。<br />'''【効果】'''相手の魔法＆罠ゾーンのカード１枚を選んで持ち主の手札に戻す。その後、相手フィールドの表側表示モンスター（レベル７以下／攻撃力２５００以上）１体を選んでその攻撃力をターン終了時まで２５００ダウンできる。
+  | appears_in_gr = 029, 051, 085
+  | decks         = Yudias Velgear
+  | archseries    = Galactica
+  | action        = 
+  * Sends from hand to Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

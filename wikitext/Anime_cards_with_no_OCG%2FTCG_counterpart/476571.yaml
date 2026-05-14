@@ -1,0 +1,34 @@
+title: Spirit Tech Force - Pendulum Governor
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|精霊機巧軍|スピリット・テック・フォース}}－ペンデュラム・ガバナー
+  | romaji_name         = Supiritto Tekku Fōsu - Pendyuramu Gabanā
+  | ja_image            = SpiritTechForcePendulumGovernor-JP-Anime-AV.png
+  | image_nc            = SpiritTechForcePendulumGovernor-JP-Anime-AV-NC.png
+  | attribute           = LIGHT
+  | types               = Machine / Pendulum / Effect
+  | level               = 7
+  | atk                 = 2800
+  | def                 = 2500
+  | effect_types        = Ignition-like, Continuous, Continuous, Ignition
+  | pendulum_scale      = 4
+  | pendulum_effect     = [[Once per turn]]: You can [[add a card|add]] 1 "[[Spirit Gem]]" [[Monster Card|monster]] from your [[Deck]] to your [[hand]].
+  | text                = [[Monster Card|Monsters]] your opponent [[control]]s, except [[Pendulum Monster]]s, cannot [[target]] this card for [[attack]]s. While you have 2 cards in your [[Pendulum Zone]]s, monsters your opponent controls with a [[Level]] between (exclusive) the [[Pendulum Scale]]s of the cards in your Pendulum Zones cannot attack. [[Once per turn]]: You can target 1 "[[Spirit Gem]]" monster that was [[Pendulum Summon]]ed from the hand and whose monster [[Card effect|effect]] was not used; [[Tribute]] that monster, and if you do, you can use the targeted monster's effects up to twice.
+  | ja_pendulum_effect  = ①：１ターンに１度、自分メインフェイズに発動できる。デッキから「精霊結晶」モンスター１体を手札に加える。
+  | ja_text             = ①：{{Ruby|Ｐ|ペンデュラム}}モンスター以外の相手モンスターはこのカードを攻撃対象に選択できない。②：自分の{{Ruby|Ｐ|ペンデュラム}}ゾーンにカードが２枚存在する限り、その{{Ruby|Ｐ|ペンデュラム}}スケールで{{Ruby|Ｐ|ペンデュラム}}召喚可能なレベルを持つ相手モンスターは攻撃できない。③：１ターンに１度、そのモンスター効果を使用していない手札から{{Ruby|Ｐ|ペンデュラム}}召喚した「{{Ruby|精霊結晶|スピリット・クリスタル}}」モンスター１体を対象として発動できる。そのモンスターをリリースし、その対象のモンスターの効果を２回まで使用できる。
+  | appears_in_av       = 128, 129
+  | decks               = Leo Akaba
+  | archseries          = 
+  * Spirit (archetype)
+  * Pendulum (archetype)
+  | supports_archetypes = Spirit Gem
+  | action              = 
+  * Adds from Deck to hand
+  * Tributes for cost
+  * Copies effects
+  | attack              = 
+  * Manages attack targets
+  * Prevents your opponent's monsters from attacking
+  | misc                = Limited activations
+  | fm_for              = Master Spirit Tech Force - Pendulum Ruler
+  }}

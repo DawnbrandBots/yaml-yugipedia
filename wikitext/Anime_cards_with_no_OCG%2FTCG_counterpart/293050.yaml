@@ -1,0 +1,24 @@
+title: Boom Shark
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = ボム・シャーク
+  | romaji_name        = Bomu Shāku
+  | translated_name    = Bomb Shark
+  | image              = BoomShark-EN-Anime-ZX.png
+  | ja_image           = BoomShark-JP-Anime-ZX.png
+  | image_nc           = BoomShark-JP-Anime-ZX-NC.png
+  | attribute          = WATER
+  | types              = Fish / Effect
+  | level              = 3
+  | atk                = 1000
+  | def                = 0
+  | effect_types       = Trigger, Continuous
+  | text               = At the end of the [[Damage Step]], if this card [[attack]]ed or was attacked: [[Destroy]] this card, and if you do, inflict [[Effect damage|damage]] to your opponent equal to this card's [[ATK]] on the [[field]]. If you [[control]] another [[Monster Card|monster]], destroy this card.
+  | ja_text            = このカードが戦闘を・・・時、このカードは破壊され、このカード・・・相手ライフに与える。自分フィールド上に・・・が存在する場合、このカードを破壊する。
+  | decks              = Nash
+  | appears_in_zx      = 139
+  | archseries         = Shark (archetype)
+  | m/s/t              = Destroys itself
+  | life_points        = Damages your opponent
+  }}

@@ -1,0 +1,16 @@
+title: Kappa's Blast (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = KappasBlast-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-down]] [[Defense Position]] monster while they have a [[face-up]] [[Level]] 5 or higher monster on their [[field]].<br />'''[EFFECT]''' The attacking monster loses 2000 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手フィールドに表側表示モンスター（レベル５以上）がいる場合、自分の裏側守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''攻撃してきたモンスターの攻撃力はターン終了時まで２０００ダウンする。
+  | appears_in_gr = 005, 104
+  | decks         = Teru Kawai
+  | archseries    = Kappa
+  | action        = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,26 @@
+title: Crazy Evolution
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|狂|きょう}}{{Ruby|進|しん}}{{Ruby|化|か}}
+  | romaji_name         = Kyōshinka
+  | alt_names           = Mad Evolution
+  | image               = CrazyEvolution-EN-Anime-VR.png
+  | ja_image            = CrazyEvolution-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Effect, Trigger-like, Condition
+  | text                = [[Target]] 1 [[face-up]] [[Monster Card|monster]] your opponent [[control]]s; [[Special Summon]] 1 "[[Dinowrestler]]" monster with the same [[Level]] as that monster from your [[hand]] in [[Defense Position]], then the [[Type]] of all face-up monsters you currently control become the same as the targeted monster's, until the end of this [[turn]]. If the monster targeted by this card's [[effect]] is [[destroyed by battle]] or card effect: You can [[banish]] this card from your [[Graveyard|GY]]; [[Draw a card|draw]] 1 card. You can only [[activate]] 1 "Crazy Evolution" per turn.
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターと同じレベルの「ダイナレスラー」モンスター１体を手札から守備表示で特殊召喚する。その後、自分フィールドの全ての表側表示モンスターの種族はターン終了時まで、対象のモンスターの種族と同じになる。②：このカードの①の効果の対象のモンスターが戦闘・効果で破壊された場合、墓地のこのカードを除外して発動できる。自分はデッキから１枚ドローする。
+  | appears_in_vr       = 081, 082
+  | decks               = George Gore
+  | supports_archetypes = Dinowrestler
+  | action              = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  * You draw cards
+  | stat_change         = Changes Type
+  | summoning           = Special Summons from your hand
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
+  }}

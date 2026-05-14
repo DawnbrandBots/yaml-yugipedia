@@ -1,0 +1,24 @@
+title: Match Pump
+wikitext: |-
+  {{Anime card
+  | ja_name       = マッチポンプ
+  | romaji_name   = Matchi Ponpu
+  | image         = MatchPump-EN-Anime-AV.png
+  | ja_image      = MatchPump-JP-Anime-AV.png
+  | card_type     = Spell
+  | property      = Normal
+  | effect_types  = Effect, Condition
+  | text          = [[Draw a card|Draw]] 1 card and [[reveal]] it, then if it is a [[Level]] 4 or lower [[Monster Card|monster]], [[Special Summon]] it. Otherwise, [[banish]] the card you drew. If a [[Pendulum Monster]] is Special Summoned by this [[card effect|effect]], [[destroy]] it. You cannot Special Summon other monsters the [[turn]] you [[activate]] this card.
+  | ja_text       = このカードの効果を発動するターン、自分はこのカードの効果でしか特殊召喚できない。①：自分はデッキから１枚ドローし、お互いに確認する。確認したカードがレベル４以下のモンスターだった場合、そのモンスターを特殊召喚する。違った場合、そのドローしたカードを除外する。この効果で{{Ruby|Ｐ|ペンデュラム}}モンスターを特殊召喚した場合、そのモンスターを破壊する。
+  | appears_in_av = 079
+  | decks         = Yuya Sakaki
+  | anti-supports = Pendulum Monster
+  | action        = 
+  * You draw cards
+  * Shows the player's drawn cards
+  | summoning     = 
+  * Special Summons from your hand
+  * Prevents the player's Special Summons
+  | banished      = Banishes from your hand
+  | m/s/t         = Destroys your Monster Cards
+  }}

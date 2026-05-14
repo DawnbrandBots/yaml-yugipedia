@@ -1,0 +1,18 @@
+title: Telepathic Agent (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = TelepathicAgent-JP-Anime-SV.png
+  | attribute          = LIGHT
+  | types              = Psychic / Effect
+  | level              = 4
+  | atk                = 1000
+  | def                = 800
+  | text               = '''[REQUIREMENT]''' If your opponent's [[LP]] are at least 1000 higher than yours, [[shuffle]] 1 [[Psychic]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' This card can [[attack]] [[Direct attack|directly]] this [[turn]].
+  | ja_text            = '''【条件】'''自分のＬＰが相手より１０００以上少ない場合、自分の墓地のモンスター（サイキック族）１体をデッキに戻して発動できる。<br />'''【効果】'''このターン、このカードは直接攻撃できる。
+  | appears_in_sv      = 011
+  | supports           = Psychic
+  | action             = Returns from Graveyard to Deck for cost
+  | attack             = Direct attacker
+  | life_points        = Requires specific LP
+  }}

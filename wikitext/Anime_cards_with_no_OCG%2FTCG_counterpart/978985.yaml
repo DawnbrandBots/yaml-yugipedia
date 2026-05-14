@@ -1,0 +1,20 @@
+title: Bendorbreak the Conqueror (anime)
+wikitext: |-
+  {{Anime card
+  | image         = BendorbreaktheConqueror-EN-Anime-SV.png
+  | ja_image      = BendorbreaktheConqueror-JP-Anime-SV.png
+  | image_nc      = BendorbreaktheConqueror-JP-Anime-SV-NC.png
+  | attribute     = WIND
+  | types         = Beast / Effect
+  | level         = 7
+  | atk           = 1900
+  | def           = 2500
+  | text          = '''[REQUIREMENT]''' If [the number of [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]]] and [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your field] are the same, [[send]] up to 3 Spell/Trap Cards from your field to the [[Graveyard]].<br />'''[EFFECT]''' 1 face-up monster on your opponent's field loses [[ATK]]/[[DEF]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 1000 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''［相手フィールドの表側表示モンスターの数］と［自分フィールドの魔法・罠カードの数］が同じ場合、自分フィールドの魔法・罠カードを３枚まで墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで、［この効果の条件で墓地へ送ったカードの数］×１０００ダウンする。
+  | appears_in_sv = 030, 040, 051, 052, 054, 086, 092
+  | decks         = Yuga Ohdo
+  | action        = Sends from field to Graveyard for cost
+  | stat_change   = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  }}

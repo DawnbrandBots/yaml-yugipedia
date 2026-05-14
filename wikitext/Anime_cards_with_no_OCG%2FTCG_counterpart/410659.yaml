@@ -1,0 +1,37 @@
+title: Performage Magic Tactician
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = {{Ruby|Ｅｍ|エンタメイジ}}マジック・タクティシャン
+  | romaji_name        = Entameiji Majikku Takutishan
+  | translated_name    = Entermage Magic Tactician
+  | ja_image           = PerformageMagicTactician-JP-Anime-AV.png
+  | image_nc           = 
+  | attribute          = DARK
+  | types              = Spellcaster / Pendulum / Effect
+  | level              = 1
+  | atk                = 0
+  | def                = 0
+  | effect_types       = Quick, Quick
+  | pendulum_scale     = 5
+  | pendulum_effect    = During either player's [[turn]], when a card(s) in your [[Spell & Trap Zone]] is [[target]]ed by a card or [[effect]]: You can [[destroy]] all cards in your [[Pendulum Zone]]s; [[negate]] the effect.
+  | text               = During either player's [[turn]], when exactly 1 [[Monster Card|monster]] you [[control]] (and no other cards) is [[target]]ed by a card or effect: You can [[send]] this card from your [[hand]] and 1 monster you control to the [[Graveyard]], then target another monster you control that would be an appropriate target for that card/effect; that card/effect now targets the new target.
+  | ja_pendulum_effect = ①：自分の魔法＆罠ゾーンのカードが魔法・罠・モンスターの効果の対象になった場合、自分の{{Ruby|Ｐ|ペンデュラム}}ゾーンのカードを全て破壊して発動できる。その効果を無効にする。
+  | ja_text            = ①：自分フィールドのモンスター１体が魔法・罠・モンスターの効果の対象になった場合、手札のこのカードと自分フィールドのモンスター１体を墓地へ送り、それ以外の自分フィールドのモンスター１体を対象として発動できる。その対象をそのモンスターに移し替える。
+  | appears_in_av      = 074
+  | decks              = Dennis McField
+  | archseries         = Performage
+  | action             = 
+  * Sends itself from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | m/s/t              = 
+  * Destroys your face-up Spell Cards
+  * Destroys itself
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  * Manages effect targets of Effect Monsters
+  * Manages effect targets of Spell Cards
+  * Manages effect targets of Trap Cards
+  | misc               = Female
+  }}

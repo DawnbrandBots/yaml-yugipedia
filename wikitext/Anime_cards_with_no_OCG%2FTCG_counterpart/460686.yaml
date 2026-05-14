@@ -1,0 +1,22 @@
+title: D-Faceoff
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|Ｄ|ディー}}－デス・マッチ
+  | translated_name     = D - Death Match
+  | romaji_name         = Dī - Desu Matchi
+  | image               = DFaceoff-EN-Anime-AV.png
+  | ja_image            = DFaceoff-JP-Anime-AV.png
+  | image_nc            = DFaceoff-JP-Anime-AV-NC.png
+  | card_type           = Spell
+  | property            = Continuous
+  | text                = [[Once per turn]], during the [[End Phase]]: Compare the total [[Level]]s of all [[Monster Card|monsters]] each player [[control]]s and apply this [[card effect|effect]].<br />● The player who has the lowest total Levels takes [[effect damage|damage]] equal to the difference in total Levels x 100.<br />● If you have the highest total Levels and you control a "[[Destiny HERO]]" monster: You can [[target]] 1 of those monsters; it gains [[ATK]] equal to the difference in total Levels x 100.
+  | ja_text             = ①：お互いのエンドフェイズ毎にこの効果を発動する。 それぞれのフィールドのモンスターのレベルの合計を比べ、以下の効果を適用する。<br />●合計が低い方のプレイヤーに、レベルの合計の差分×１００ダメージを与える。<br />●自分の合計の方が高く、自分フィールドに「{{Ruby|Ｄ－ＨＥＲＯ|デステニーヒーロー}}」モンスターが存在する場合、そのモンスター１体を対象として発動する。そのモンスターの攻撃力は、レベルの合計の差分×１００アップする。
+  | appears_in_av       = 104
+  | decks               = Aster Phoenix (ARC-V)
+  | supports_archetypes = Destiny HERO
+  | misc                = Limited activations
+  | life_points         = 
+  * Damages you
+  * Damages your opponent
+  | stat_change         = Your monsters gain ATK
+  }}

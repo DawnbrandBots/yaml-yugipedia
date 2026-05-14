@@ -1,0 +1,21 @@
+title: Camouflage Sword
+wikitext: |-
+  {{Anime card
+  | ja_name         = {{Ruby|擬|ぎ}}{{Ruby|態|たい}}の{{Ruby|迷|めい}}{{Ruby|彩|さい}}{{Ruby|剣|けん}}
+  | romaji_name     = Gitai no Meisaiken
+  | translated_name = Camouflage Sword of Mimicry
+  | ja_image        = CamouflageSword-JP-Anime-SV.png
+  | card_type       = Spell
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' [[Shuffle]] 1 [[Reptile]] [[Type]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' [[Look]] at your opponent's [[hand]], choose 1 monster, and [[send]] it to the Graveyard. Then, you can make 1 [[face-up]] monster on your opponent's [[field]] lose [[ATK]] equal to [the ATK of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
+  | ja_text         = '''【条件】'''自分の墓地のモンスター（爬虫類族）１体をデッキに戻して発動できる。<br />'''【効果】'''相手の手札を確認し、その中からモンスター１体を選んで墓地へ送る。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで、［この効果で墓地へ送られたモンスターの攻撃力］だけダウンできる。
+  | appears_in_sv   = 081
+  | decks           = Yuga Goha
+  | supports        = Reptile
+  | archseries      = Chameleon
+  | action          = 
+  * Returns from Graveyard to Deck for cost
+  * Reveals your opponent's hand
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | stat_change     = Your opponent's monsters lose ATK
+  }}

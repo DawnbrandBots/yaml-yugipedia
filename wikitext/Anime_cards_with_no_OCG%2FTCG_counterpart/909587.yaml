@@ -1,0 +1,18 @@
+title: Shock Dragon (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ShockDragon-JP-Anime-SV.png
+  | image_nc      = ShockDragon-JP-Anime-SV-NC.png
+  | attribute     = FIRE
+  | types         = Dragon / Effect
+  | level         = 7
+  | atk           = 1600
+  | def           = 2500
+  | text          = '''[REQUIREMENT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' Until the end of this [[turn]], all [[face-up]] [[Monster Card|monster]]s with the highest [[ATK]] on your opponent's [[field]] lose ATK equal to [the ATK of the face-up monster with the highest ATK on your field]. This card can only [[attack]] [[Attack Position]] monsters this turn.
+  | ja_text       = '''【条件】'''デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの攻撃力が一番高い表側表示モンスター全ての攻撃力はターン終了時まで、［自分フィールドの攻撃力が一番高い表側表示モンスターの攻撃力］だけダウンする。このターン、このカードは攻撃表示モンスターにしか攻撃できない。
+  | appears_in_sv = 010, 018, 022, 027, 037, 055, 058, 059, 073, 079, 086, 089
+  | decks         = Lucidien Kallister
+  | action        = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  | attack        = Can only attack certain monsters
+  }}

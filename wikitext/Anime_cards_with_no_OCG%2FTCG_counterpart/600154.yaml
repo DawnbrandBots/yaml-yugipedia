@@ -1,0 +1,24 @@
+title: Dice Logic
+wikitext: |-
+  {{Anime card
+  | ja_name             = サイコロジック
+  | romaji_name         = Saikorojikku
+  | image               = DiceLogic-EN-Anime-VR.png
+  | ja_image            = DiceLogic-JP-Anime-VR.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Trigger-like, Trigger-like
+  | text                = Once per [[attack]], when an opponent's [[Monster Card|monster]] [[declare]]s an attack: You can [[target]] that attacking monster; roll a six-sided die and apply the result. [[Once per turn]], if you [[activate]] this [[card effect|effect]] during a [[turn]] in which you applied another card's effect that rolls a die and the result of this effect is 5 or lower, you can apply this effect as the result +1.<br />● 1, 3, or 5: Change the [[ATK]] of the targeted monster and monsters with that same name to 0 until the end of this turn.<br />● 2, 4, or 6: The ATK of the targeted monster and monsters with that same name become double their current ATK until the end of this turn.<br />If this [[face-up]] card in its owner's [[control]] is [[destroy]]ed by an opponent's card effect: You can [[Special Summon]] 1 "[[Hydradrive]]" [[Link Monster]] from your [[Extra Deck]].
+  | ja_text             = ①：相手モンスターの攻撃宣言時に１度、その攻撃モンスター１体を対象としてこの効果を発動できる。サイコロを１回振り、出た目の効果を適用する。このカード以外のサイコロを降る効果を適用しているターンの効果を発動する場合、１ターンに１度だけ、この効果で出た５以下の目の数を、その目の数＋１として効果を適用できる。●１・３・５：ターン終了時まで、対象モンスター及びその同名モンスターの攻撃力は０になる。●２・４・６：ターン終了時まで、対象モンスター及びその同名モンスターの攻撃力は倍になる。②：表側表示のこのカードが相手の効果で破壊された場合にこの効果を発動できる。ＥＸデッキから「ハイドライブ」リンクモンスター１体を特殊召喚する。
+  | appears_in_vr       = 095
+  | decks               = Bohman
+  | supports_archetypes = Hydradrive
+  | misc                = 
+  * Die roll
+  * Limited activations
+  | stat_change         = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  | action              = Activates from your Graveyard
+  | summoning           = Special Summons from your Extra Deck
+  }}

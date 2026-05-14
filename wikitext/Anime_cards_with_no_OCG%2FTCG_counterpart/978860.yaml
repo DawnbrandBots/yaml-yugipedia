@@ -1,0 +1,23 @@
+title: Printing Presser (anime)
+wikitext: |-
+  {{Anime card
+  | image         = PrintingPresser-EN-Anime-SV.png
+  | ja_image      = PrintingPresser-JP-Anime-SV.png
+  | image_nc      = PrintingPresser-JP-Anime-SV-NC.png
+  | attribute     = EARTH
+  | types         = Machine / Effect
+  | level         = 8
+  | atk           = 2300
+  | def           = 1600
+  | text          = '''[REQUIREMENT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' Your opponent [[excavate]]s the top 5 cards of their Deck. This card gains [[ATK]] equal to [the number of [[Monster Card|monster]]s excavated by this [[effect]]] x 100 until the end of this [[turn]]. Then, your opponent places the excavated cards on the bottom of their Deck in any order.
+  | ja_text       = '''【条件】'''デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手はデッキの上からカードを５枚めくる。このカードの攻撃力はターン終了時まで、［この効果でめくったモンスターの数］×１００アップする。その後、めくったカードは相手の好きな順番でデッキの一番下に戻す。
+  | appears_in_sv = 005, 053, 070, 072, 086
+  | decks         = Scoop Pitman
+  | archseries    = Reporter
+  | action        = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Excavates from the opponent's Deck
+  * Places excavated cards on the bottom of the Deck
+  | stat_change   = This card gains ATK
+  | fm_for        = Newsflash the Journalistic Juggernaut (anime)
+  }}

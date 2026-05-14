@@ -1,0 +1,32 @@
+title: Stormrider Gulldiver
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|嵐闘機|ストームライダー}}ガルダイバー
+  | romaji_name         = Sutōmuraidā Garudaibā
+  | image               = StormriderGulldiver-EN-Anime-VR.png
+  | ja_image            = StormriderGulldiver-JP-Anime-VR.png
+  | attribute           = WIND
+  | types               = Cyberse / Effect
+  | atk                 = 0
+  | def                 = 0
+  | level               = 1
+  | effect_types        = Quick, Condition, Trigger
+  | text                = During [[damage calculation]], if you would take [[battle damage]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[Graveyard|GY]]; the damage you take from that [[battle]] is halved, then end the [[Battle Phase]]. You can only use this [[effect]] of "Stormrider Gulldiver" [[once per turn]]. At the start of the [[Main Phase 2]], if this effect was applied this [[turn]]: You can [[banish]] this card from your GY; [[Special Summon]] 1 "[[Stormrider]]" [[Link Monster]] from your GY, whose [[Link Rating]] is less than or equal to the number of your monsters [[destroyed by battle]] this turn, but its [[ATK]] becomes halved, also [[negate]] its effects.
+  | ja_text             = このカード名の①の効果は１ターンに１度しか使用できない。①：自分が戦闘ダメージを受けるダメージ計算時に、このカードを手札から墓地へ送って発動できる。その戦闘で自分が受ける戦闘ダメージは半分になる。その後、バトルフェイズを終了する。②：このカードの①の効果を使用したターンのメインフェイズ２開始時に、墓地のこのカードを除外して発動できる。このターンに戦闘で破壊された自分のモンスターの数以下のリンクマーカーを持つ「ストームライダー」モンスター１体を自分の墓地から選び、攻撃力を半分にし効果を無効にして特殊召喚する。
+  | appears_in_vr       = 089
+  | decks               = Windy
+  | supports            = Link Monster
+  | archseries          = Stormrider
+  | supports_archetypes = Stormrider
+  | action              = 
+  * Sends itself from hand to Graveyard
+  * Ends the Battle Phase
+  | life_points         = Reduces battle damage
+  | misc                = 
+  * Only once per turn
+  * At the start of Main Phase 2
+  | banished            = Banishes itself from Graveyard
+  | summoning           = Special Summons from your Graveyard
+  | stat_change         = Changes ATK value
+  | m/s/t               = Negates the effects of the Summoned monsters
+  }}

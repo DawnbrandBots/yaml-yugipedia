@@ -1,0 +1,26 @@
+title: Burning Knuckle (anime)
+wikitext: |-
+  {{Anime card
+  | main          = Burning
+  | ja_image      = BurningKnuckle-JP-Anime-DM.png
+  | image_ca      = BurningKnuckle-OW.png
+  | image_nc      = BurningKnuckle-JP-Anime-DM-NC.png
+  | attribute     = Earth
+  | types         = Machine / Armor
+  | level         = 3
+  | atk           = 0
+  | def           = 1000
+  | effect_types  = Continuous, Trigger, Continuous, Trigger
+  | text          = Only 1 [[Armor monster]] can [[attack]] per [[turn]]. Also, if there are 2 or more Armor [[Monster Card|monster]]s on the [[field]] when an Armor monster is [[select]]ed as an [[attack target]], its controller can change the [[target]] to another Armor monster they control with a different name. This card gains 200 [[ATK]] for each [[face-up]] Armor monster on the field. An opponent's [[Monster Card|monster]] that [[battle]]s with this monster loses [[ATK]] equal to this monster's ATK after the battle.
+  | ja_text       = アーマーモンスターは１ターンに１体しか攻撃できない。また、２体以上のアーマーモンスターがフィールド上にいて、アーマーモンスターが攻撃対象にされた時、そのアーマーモンスターのコントローラーは攻撃対象を自分のコントロールする別名のアーマーモンスターに変更する事ができる。フィールド上のアーマーモンスター１体につき、このカードの攻撃力が２００ポイントアップ。このモンスターと戦闘を行った相手モンスターは、このモンスターの攻撃力分だけ、バトル終了後攻撃力がダウンする。
+  | appears_in_dm = 170, 171, 172, 183, 184
+  | decks         = Valon
+  | supports      = Armor monster
+  | stat_change   = 
+  * This card gains ATK
+  * Your opponent's monsters lose ATK
+  | action        = Activates from your Graveyard
+  | attack        = 
+  * Prevents attacks
+  * Manages attack targets
+  }}

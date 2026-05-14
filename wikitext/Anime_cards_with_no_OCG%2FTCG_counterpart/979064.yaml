@@ -1,0 +1,23 @@
+title: Scarechair Relaxer (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ScarechairRelaxer-JP-Anime-SV.png
+  | image_nc      = ScarechairRelaxer-JP-Anime-SV-NC.png
+  | attribute     = DARK
+  | types         = Fairy / Effect
+  | level         = 2
+  | atk           = 0
+  | def           = 500
+  | text          = '''[REQUIREMENT]''' [[Send]] 1 [[Monster Card|monster]] with 0 [[ATK]] from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Send the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. If a [[DARK]] [[Attribute]] monster(s) is among the cards sent, [[Add a card|add]] 1 DARK Attribute monster from your Graveyard to your hand. Your opponent gains [[LP]] equal to [that monster's ATK].
+  | ja_text       = '''【条件】'''手札のモンスター（攻撃力０）１体を墓地へ送って発動できる。<br />'''【効果】'''自分のデッキの上からカード２枚を墓地へ送る。その中にモンスター（闇属性）がいた場合、自分の墓地のモンスター（闇属性）１体を選んで手札に加える。相手のＬＰを［選んだモンスターの攻撃力］だけ回復する。
+  | appears_in_sv = 034
+  | appears_in_gr = 018
+  | decks         = Seatbastian
+  | supports      = DARK
+  | archseries    = Chair
+  | action        = 
+  * Sends from hand to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | life_points   = Your opponent gains Life Points
+  }}

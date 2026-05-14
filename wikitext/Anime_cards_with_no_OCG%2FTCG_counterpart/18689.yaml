@@ -1,0 +1,38 @@
+title: Gorlag
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = バルログ
+  | romaji_name        = Barurogu
+  | translated_name    = Balrog
+  | image              = Gorlag-EN-Anime-DM.png
+  | ja_image           = Gorlag-JP-Anime-DM.png
+  | image_ca           = Gorlag-OW.png
+  | image_nc           = 
+  Gorlag-EN-Anime-DM-NC.png
+  Gorlag-EN-Anime-DM-NC-2.jpg
+  Gorlag-JP-Anime-DM-NC.png
+  Gorlag-JP-Anime-DM-NC-2.png
+  | attribute          = Fire
+  | types              = Fiend / Effect
+  | level              = 4
+  | atk                = 1000
+  | def                = 1000
+  | effect_types       = Continuous, Trigger, Lingering, Continuous, Continuous
+  | text               = This card gains 500 [[ATK]] for each [[face-up]] [[FIRE]] [[Monster Card|monster]] on the [[field]]. When this card [[destroy]]s an opponent's monster [[Destroyed by battle|by battle]] and [[send]]s it to the [[Graveyard]], [[Special Summon]] that monster to your side of the field in face-up [[Attack Position]] at the end of the [[Battle Phase]]. That monster is treated as a FIRE monster, and its [[effect]]s are [[negate]]d. When this card is [[Leaves the field|removed from the field]], destroy all monsters Special Summoned by this card's effect. This card cannot attack your opponent [[Direct attack|directly]].
+  | appears_in_dm      = 150, 151, 159, 166, 184
+  | decks              = Alister
+  | supports           = FIRE
+  | anti-supports      = FIRE
+  | action             = 
+  * Activates if it destroys a monster by battle
+  * Activates if it leaves the field
+  | stat_change        = 
+  * This card gains ATK
+  * Changes Attribute
+  | m/s/t              = 
+  * Negates the effects of your Effect Monsters
+  * Destroys your Monster Cards
+  | summoning          = Special Summons from your opponent's Graveyard
+  | attack             = Cannot attack directly
+  }}

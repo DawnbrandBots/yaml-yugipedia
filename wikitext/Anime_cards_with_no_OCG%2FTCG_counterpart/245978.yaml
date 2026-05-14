@@ -1,0 +1,35 @@
+title: Xyz Strike
+wikitext: |-
+  {{Anime card
+  | ja_name         = エクシーズ・クロス
+  | romaji_name     = Ekushīzu Kurosu
+  | translated_name = Xyz Cross
+  | it_name         = Colpo Xyz
+  | ja_image        = XyzStrike-JP-Anime-ZX.png
+  | card_type       = Trap
+  | property        = Counter
+  | effect_types    = Activation requirement, Effect
+  | text            = During either player's [[Battle Step]], if a [[face-up]] [[Xyz Monster]] you [[control]] [[battle]]s a face-up Xyz Monster your opponent controls, when an opponent's [[Trap Card]] is [[activate]]d: [[Negate]] the activation, and if you do, [[destroy]] it, then [[Draw a card|draw]] 1 card and [[reveal]] it. If that card is a [[Monster Card|monster]], switch the [[ATK]] of the battling monsters until the end of the [[Battle Phase]], then your opponent's battling monster's ATK becomes 0. If not, double any [[battle damage]] you take from that battle. Then, [[send]] the drawn card to the [[Graveyard]].
+  | ja_text         = 自分フィールド上のモンスターエクシーズが相手のモンスターエクシーズと戦闘を行うバトルフェイズ中、相手の罠カードが発動した時に発動できる。そのカードの発動を無効にし破壊する。自分のデッキからカードを１枚ドローする。この効果でドローしたカードをお互いに確認し、モンスターカードだった場合、バトルフェイズ終了時まで、戦闘を行うお互いのモンスターエクシーズの攻撃力を入れ替え、さらに相手モンスターエクシーズの攻撃力を０にする。モンスターカード以外だった場合、自分が受ける戦闘ダメージは倍になる。この効果でドローしたカードは墓地へ送る。
+  | appears_in_zx   = 080, 085
+  | decks           = Yuma Tsukumo
+  | supports        = Xyz Monster
+  | anti-supports   = Xyz Monster
+  | archseries      = Xyz (archetype)
+  | stat_change     = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  | m/s/t           = 
+  * Negates the activation of Trap Cards
+  * Destroys Trap Cards
+  | action          = 
+  * You draw cards
+  * Shows the player's drawn cards
+  * Sends from your hand to your Graveyard
+  | life_points     = Increases battle damage
+  }}
+
+  {{Unofficial names
+  | hr_name = Xyz Križanje
+  | de_name = Xyz-Kreuz
+  }}

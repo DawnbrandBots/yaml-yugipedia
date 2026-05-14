@@ -1,0 +1,22 @@
+title: Charging Clash
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = チャージ{{Ruby|対決|バトル}}
+  | romaji_name        = Chāji Batoru
+  | translated_name    = Charge Battle
+  | ja_image           = ChargingClash-JP-Anime-SV.png
+  | card_type          = Spell
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' Both [[Duelist|player]]s have 1 [[Attack Position]] [[Monster Card|monster]] on their [[field]].<br />'''[EFFECT]''' Each player [[send]]s the top 2 cards of their [[Main Deck|Deck]] to the [[Graveyard]]. Each player's monster cannot be [[destroyed by battle]] once this [[turn]], and gains [[ATK]] equal to [the total [[Level]]s of the monsters sent to their Graveyard by this [[effect]]] x 100 until the end of this turn.
+  | ja_text            = '''【条件】'''お互いのフィールドにモンスターが攻撃表示で１体[...]発動できる。<br />'''【効果】'''お互いのデッキの上からカードを２枚[...]モンスターは１度だけ戦闘で[...]墓地へ送ったモンスター[...]。
+  | appears_in_sv      = 089
+  | decks              = Lucidien Kallister
+  | action             = 
+  * Sends from the top of your Deck to your Graveyard
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
+  | stat_change        = 
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
+  | attack             = Prevents other cards being destroyed by battle
+  }}

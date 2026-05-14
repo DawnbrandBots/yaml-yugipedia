@@ -1,0 +1,27 @@
+title: Hide and Shark
+wikitext: |-
+  {{Anime card
+  | ja_name             = ハイド・アンド・シャーク
+  | romaji_name         = Haido Ando Shāku
+  | ja_image            = HideandShark-JP-Anime-ZX.png
+  | image_ca            = HideandShark-OW.png
+  | image_nc            = HideandShark-JP-Anime-ZX-NC.png
+  | card_type           = Trap
+  | property            = Normal
+  | effect_types        = Activation requirement, Effect
+  | text                = When your opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], if you have 2000 or less [[Life Points]]: [[Pay]] half your Life Points; end the [[Battle Phase]] by [[banish]]ing 1 "[[Shark (archetype)|Shark]]" monster you [[control]], then [[return]] the banished monster to your side of the [[field]], and if you do, it gains [[ATK]] equal to the amount of Life Points paid to [[activate]] this card.
+  | ja_text             = 自分のライフポイントが２０００以下の場合で、相手モンスターの攻撃宣言時に、自分のライフポイントを半分払って発動できる。自分フィールド上の「シャーク」と名のついたモンスター１体をゲームから除外してバトルフェイズを終了する。その後、この効果で除外したモンスターは自分フィールド上に戻る。またこの時、このモンスターの攻撃力は、このカードの発動時に払ったライフポイントと同じ数値分アップする。
+  | appears_in_zx       = 109
+  | decks               = Reginald Kastle
+  | archseries          = Shark (archetype)
+  | supports_archetypes = Shark (archetype)
+  | action              = 
+  * Activates upon attack declaration
+  * Ends the Battle Phase
+  * Returns banished cards to the field
+  | stat_change         = Your monsters gain ATK
+  | banished            = Banishes from your field
+  | life_points         = 
+  * Halves the player's LP
+  * Pays Life Points for cost
+  }}

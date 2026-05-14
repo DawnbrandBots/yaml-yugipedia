@@ -1,0 +1,19 @@
+title: Dragon's Fortitude (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = DragonsFortitude-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' The attacking monster loses [[ATK]] equal to [the [[Level]] of 1 [[Dragon]] [[Type]] monster in your [[Graveyard]]] x 100 until the end of this [[turn]]. Then, [[shuffle]] that monster from your Graveyard into the [[Main Deck|Deck]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分の墓地のモンスター（ドラゴン族）１体を選んで、攻撃してきたモンスターの攻撃力をターン終了時まで［この効果で選んだモンスターのレベル］×１００ダウンする。その後、選んだモンスターをデッキに戻す。
+  | appears_in_sv = 005, 008, 010, 017, 027, 031, 047, 055, 062, 064
+  | appears_in_gr = 122
+  | decks         = 
+  * Lucidien Kallister
+  * The Luug
+  | supports      = Dragon
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from your Graveyard to your Deck
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

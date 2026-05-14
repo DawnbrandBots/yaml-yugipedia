@@ -1,0 +1,17 @@
+title: Palace Gargoyle (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = PalaceGargoyle-JP-Anime-SV.png
+  | image_nc      = PalaceGargoyle-JP-Anime-SV-NC.png
+  | attribute     = LIGHT
+  | types         = Fiend / Effect
+  | level         = 4
+  | atk           = 1000
+  | def           = 1200
+  | text          = '''[REQUIREMENT]''' [[Send]] 1 card from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Increase this card's [[Level]] by 1 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''手札１枚を墓地へ送って発動できる。<br />'''【効果】'''このカードのレベルはターン終了時まで１つ上がる。
+  | appears_in_sv = 044, 063
+  | decks         = Roa Kassidy
+  | action        = Sends from hand to Graveyard for cost
+  | stat_change   = This card gains Levels
+  }}

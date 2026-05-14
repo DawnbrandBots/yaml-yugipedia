@@ -1,0 +1,19 @@
+title: Attrition
+wikitext: |-
+  {{Anime card
+  | ja_name         = 消耗戦
+  | romaji_name     = Shōmōsen
+  | translated_name = War of Attrition
+  | ja_image        = Attrition-JP-Anime-DM.png
+  | image_ca        = Attrition-OW.png
+  | card_type       = Spell
+  | property        = Continuous
+  | effect_types    = Trigger-like
+  | text            = [[Activate]] this [[effect]] only if both sides survive a [[battle]]. Reduce a [[Monster Card|monster]]'s [[ATK]] by the [[Battle damage|damage]] taken. This effect is cumulative.
+  | ja_text         = バトルで双方が生き残った場合のみ効果発動。<br />受けたダメージがモンスターの攻撃力から引かれる。<br /> この効果は累計する。
+  | appears_in_dm   = 076, 077, 078
+  | decks           = Joey Wheeler
+  | stat_change     = 
+  * Your monsters lose ATK
+  * Your opponent's monsters lose ATK
+  }}

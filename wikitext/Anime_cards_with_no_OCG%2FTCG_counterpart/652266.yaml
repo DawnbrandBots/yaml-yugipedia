@@ -1,0 +1,29 @@
+title: Appliancer Reduction
+wikitext: |-
+  {{Anime card
+  | alt_names           = Appliancer Reduce <!--Original Crunchyroll translation-->
+  | ja_name             = {{Ruby|機|き}}{{Ruby|塊|かい}}リデュース
+  | romaji_name         = Kikai Ridyūsu
+  | translated_name     = Appliancer Reduce
+  | image               = AppliancerReduction-EN-Anime-VR.png
+  | ja_image            = AppliancerReduction-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Activation requirement, Effect, Trigger-like, Condition
+  | text                = If you [[control]] an "[[Appliancer]]" [[Link Monster]]: [[Banish]] as many [[Monster Card|monsters]] your opponent [[control]]s as possible that were [[Special Summon]]ed this [[turn]], then [[Draw a card|draw]] cards equal to the number of "Appliancer" Link Monsters you control with different names. During [[damage calculation]], if an opponent's monster [[attack]]s: You can banish this card from your [[Graveyard|GY]]; any [[battle damage]] you take from that [[battle]] is halved. You can only [[activate]] 1 "Appliancer Reduction" per turn.
+  | ja_text             = このカード名のカードは１ターンに１度しか発動できない。①：このターンに特殊召喚された相手フィールドのモンスターを全て除外する。その後、自分フィールドの「機塊」リンクモンスターの種類の数だけ、自分はデッキからドローする。②：相手モンスターが攻撃した場合、そのダメージ計算時に墓地のこのカードを除外して発動できる。その戦闘で発生する自分への戦闘ダメージは半分になる。
+  | appears_in_vr       = 113, 114
+  | decks               = Roboppi
+  | supports            = Link Monster
+  | archseries          = Appliancer
+  | supports_archetypes = Appliancer
+  | action              = 
+  * You draw cards
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | banished            = 
+  * Banishes from your opponent's field
+  * Banishes itself from Graveyard for cost
+  | life_points         = Reduces battle damage
+  | misc                = Only once per turn
+  }}

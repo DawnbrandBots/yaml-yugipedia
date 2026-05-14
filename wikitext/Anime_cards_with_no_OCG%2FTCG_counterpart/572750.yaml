@@ -1,0 +1,23 @@
+title: Reverse Engineering
+wikitext: |-
+  {{Anime card
+  | ja_name       = リバースエンジニアリング
+  | romaji_name   = Ribāsu Enjiniaringu
+  | image         = ReverseEngineering-EN-Anime-VR.png
+  | ja_image      = ReverseEngineering-JP-Anime-VR.png
+  | image_nc      = 
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Effect, Quick-like, Lingering
+  | text          = [[Target]] 1 [[Set]] card in your opponent's [[Spell & Trap Zone]]; [[reveal]] it, then [[return]] it to its original position, then you can [[add a card|add]] 1 card with the same name from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can [[banish]] this card from the GY, then target 1 [[Trap Card|Trap]] in your GY that was [[destroy]]ed this [[turn]]; Set it to your field. It can be [[activate]]d this turn.
+  | ja_text       = ①：相手の魔法＆罠ゾーンにセットされたカード１枚を対象として発動できる。そのカードを確認し、元に戻す。その後、その確認したカードと同名のカードを、自分のデッキ・墓地から１枚選んで手札に加える事ができる。②：墓地のこのカードを除外し、このターンに破壊された自分の墓地の罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。
+  | appears_in_vr = 069
+  | decks         = Varis
+  | action        = Reveals face-down cards
+  * Adds from Deck to hand
+  * Returns from your Graveyard to your hand
+  * Sets from your Graveyard
+  * Allows activation of Trap Cards the turn they were Set
+  | banished      = 
+  * Banishes itself from Graveyard
+  }}

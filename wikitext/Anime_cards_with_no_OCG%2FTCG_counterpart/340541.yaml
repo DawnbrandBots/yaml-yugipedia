@@ -1,0 +1,23 @@
+title: Empty Fishing
+wikitext: |-
+  {{Anime card
+  | ja_name       = エンプティ・フィッシング
+  | romaji_name   = Enputi Fisshingu
+  | ko_name       = 엠티 피싱
+  | ko_rr_name    = Emti Pising
+  | ja_image      = EmptyFishing-JP-Anime-AV.png
+  | ko_image      = EmptyFishing-KR-Anime-AV.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Activation requirement, Effect, Condition
+  | text          = When you would take [[battle damage]]: [[Target]] 2 cards on the [[field]] whose [[effect]]s are [[negate]]d; halve that damage and add those targets to your [[hand]]. They are [[sent]] to their original [[owner]]'s [[Graveyard]] during your [[End Phase]].
+  | ja_text       = ①：自分が戦闘ダメージを受ける時、効果が無効化されているフィールドのカード２枚を対象として発動できる。その戦闘ダメージを半分にし、対象のカードを自分の手札に加える。対象のカードは自分のエンドフェイズに元々の持ち主の墓地へ送られる。
+  | appears_in_av = 004, 026
+  | decks         = Yuya Sakaki
+  | action        = 
+  * Exchanges cards
+  * Returns from field to hand
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  | life_points   = Reduces battle damage
+  }}

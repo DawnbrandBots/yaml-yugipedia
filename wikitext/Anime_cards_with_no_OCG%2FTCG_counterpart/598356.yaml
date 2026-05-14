@@ -1,0 +1,24 @@
+title: Codebreak Bind
+wikitext: |-
+  {{Anime card
+  | ja_name             = コードブレイク・バインド
+  | romaji_name         = Kōdobureiku Baindo
+  | image               = CodebreakBind-EN-Anime-VR.png
+  | ja_image            = CodebreakBind-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Continuous
+  | effect_types        = Activation requirement, Continuous-like, Continuous-like, Trigger-like
+  | text                = [[Activate]] only if you [[control]] a "[[Codebreaker]]" [[Link Monster]]. During your [[End Phase]], if you control no "Codebreaker" Link Monsters, [[destroy]] this card. Your opponent's [[Monster Card|monsters]] that are not [[linked]] to a "Codebreaker" monster cannot [[attack]]. If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a monster, and that monster is now linked to a "Codebreaker" monster: You can activate this [[card effect|effect]]; if that opponent's monster [[destroy]]s a monster [[destroyed by battle|by battle]] and [[send]]s it to the [[GY]] this [[turn]], send this card on the [[field]] to the GY, then inflict [[effect damage|damage]] to your opponent equal to the destroyed monster's [[Original ATK and DEF|original ATK]].
+  | ja_text             = ①：自分フィールドに「コードブレイカー」リンクモンスターが存在する場合にこのカードを発動できる。自分エンドフェイズに、自分フィールドに「コードブレイカー」リンクモンスターが存在しない場合にこのカードは破壊される。②：このカードが魔法＆罠ゾーンに存在する限り、「コードブレイカー」モンスターとリンク状態になっていない相手モンスターは攻撃できない。③：「コードブレイカー」モンスターとリンク状態になるように、相手がモンスターを召喚・特殊召喚した場合にこの効果を発動できる。このターン、その相手モンスターとの戦闘でモンスターが破壊され墓地へ送られた場合、フィールドのこのカードは墓地へ送られる。その後、破壊されたモンスターの元々の攻撃力分のダメージを相手に与える。
+  | appears_in_vr       = 093
+  | decks               = Kal Kolter
+  | supports_archetypes = Codebreaker
+  | supports            = Link Monster
+  | m/s/t               = Destroys itself
+  | attack              = Prevents your opponent's monsters from attacking
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard
+  | life_points         = Damages your opponent
+  }}

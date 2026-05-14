@@ -1,0 +1,17 @@
+title: Card Reprinting (anime)
+wikitext: |-
+  {{Anime card
+  | main          = Card Restoration
+  | ja_image      = CardRestoration-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' [[Draw a card|Draw]] until you have 5 cards in your [[hand]] and show the drawn cards. If a monster(s) is among them, also gain [[LP]] equal to [the number of monsters among them] x 200.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分は手札が５枚になるようにドローし、そのドローしたカードをお互いに確認する。その中にモンスターがいる場合、さらに自分は［その中のモンスターの数］×２００ＬＰ回復する。
+  | appears_in_sv = 075
+  | decks         = Roa Kassidy
+  | action        = 
+  * Activates upon attack declaration
+  * You draw cards
+  * Shows the player's drawn cards
+  | life_points   = You gain Life Points
+  }}

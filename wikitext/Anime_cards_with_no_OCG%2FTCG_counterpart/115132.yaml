@@ -1,0 +1,20 @@
+title: Monster Clock
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = モンスター・クロック
+  | romaji_name        = Monsutā Kurokku
+  | attribute          = LIGHT
+  | types              = Machine / Effect
+  | level              = 1
+  | atk                = 0
+  | def                = 0
+  | ja_image           = MonsterClock-JP-Anime-5D-NC.png
+  | effect_types       = Trigger, Continuous
+  | text               = When this card is [[Target|select]]ed as an [[attack target]], you can [[equip]] the attacking monster to this card. This card gains [[ATK]] equal to those equipped cards' combined ATK.
+  | ja_text            = このカードが相手モンスターの攻撃対象になった時、その攻撃モンスターを装備カード扱いとしてこのカードに装備する。このカードの攻撃力は、装備したモンスターカードの攻撃力分だけアップする。
+  | appears_in_5d      = 085
+  | decks              = Lyndon
+  | stat_change        = This card gains ATK
+  | misc               = Treated as Equip Card
+  }}

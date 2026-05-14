@@ -1,0 +1,26 @@
+title: The One to be Protected
+wikitext: |-
+  {{Anime card
+  | article_messages = {{Unofficial name|English}}
+  | ja_name          = {{Ruby|守|まも}}るべき{{Ruby|者|もの}}
+  | romaji_name      = Mamoru beki Mono
+  | ja_image         = TheOnetobeProtected-JP-Anime-GX.png
+  | card_type        = Trap
+  | property         = Normal
+  | text             = [[Activate]] only when an opponent's [[Monster Card|monster]] [[attack]]s another monster. [[Send]] 1 monster from your [[Main Deck|Deck]] with an [[ATK]] higher than the attacking monster's to the [[Graveyard]]. During [[damage calculation]], the [[attack target]] cannot be [[destroyed by battle]], and its [[control]]ler takes no [[battle damage]]. After damage calculation, you take [[Effect damage|damage]] equal to the ATK of the monster you sent to the Graveyard with this card's [[effect]].
+  | ja_text          = 相手モンスターの攻撃時に、そのモンスターの攻撃力以上のモンスター１体をデッキから選択し、墓地へ送る。モンスターへの戦闘ダメージをゼロにして墓地に送ったモンスターの攻撃力分のライフポイントを失う。
+  | appears_in_gx    = 176
+  | decks            = Jesse Anderson
+  | action           = 
+  * Activates upon attack declaration
+  * Sends from Deck to Graveyard for cost
+  | attack           = Cannot be destroyed by battle
+  | life_points      = 
+  * Prevents battle damage
+  * Damages you
+  }}
+
+  {{Unofficial names
+  | de_name = Derjenige, der beschützt werden soll
+  | hr_name = Onaj Zaštićeni
+  }}

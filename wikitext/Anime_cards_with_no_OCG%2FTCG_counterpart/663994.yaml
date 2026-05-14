@@ -1,0 +1,29 @@
+title: Metal Molephosis
+wikitext: |-
+  {{Anime card
+  | ja_name       = メタル・モール－フォーゼ
+  | romaji_name   = Metaru Mōru - Fōze
+  | image         = MetalMolephosis-EN-Anime-VR.png
+  | ja_image      = MetalMolephosis-JP-Anime-VR.png
+  | image_nc      = MetalMolephosis-JP-Anime-VR-NC.png
+  | attribute     = EARTH
+  | types         = Cyberse / Effect
+  | level         = 3
+  | atk           = 1000
+  | def           = 1000
+  | effect_types  = Trigger, Condition
+  | text          = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[declare]] 1 [[Monster Card|Monster]] [[Type]] and 1 [[Attribute]]; all [[Normal Monster]]s you currently control become that Type and Attribute until the end of this [[turn]]. You can only use this [[effect]] of "Metal Molephosis" [[once per turn]].
+  | ja_text       = このカード名の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、属性・種族を１つずつ宣言して発動できる。自分フィールドの全ての通常モンスターはターン終了時まで宣言した属性・種族になる。
+  | appears_in_vr = 119
+  | decks         = Yusaku Fujiki
+  | supports      = Normal Monster
+  | action        = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Declares a Type
+  * Declares an Attribute
+  | stat_change   = 
+  * Changes Type
+  * Changes Attribute
+  | misc          = Only once per turn
+  }}

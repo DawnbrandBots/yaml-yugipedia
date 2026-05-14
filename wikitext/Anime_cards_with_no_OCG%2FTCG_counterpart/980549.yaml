@@ -1,0 +1,17 @@
+title: Dark Butter
+wikitext: |-
+  {{Anime card
+  | ja_name       = ダーク・バター
+  | romaji_name   = Dāku Batā
+  | ja_image      = DarkButter-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' After your opponent [[activate]]s a [[Spell Card]].<br />'''[EFFECT]''' [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, make 1 [[DARK]] [[Attribute]] [[Monster Card|monster]] on your [[field]] gain [[ATK]] equal to [the number of monsters sent to the Graveyard by this [[effect]]] x 500 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手が魔法カードを発動した後に発動できる。<br />'''【効果】'''自分のデッキの上からカード３枚を墓地へ送る。その後、自分フィールドのモンスター（闇属性）１体を選び、そのモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターの数］×５００アップする。
+  | appears_in_sv = 021
+  | decks         = Celestia Noodlina
+  | supports      = DARK
+  | action        = Sends from the top of your Deck to your Graveyard
+  | stat_change   = Your monsters gain ATK
+  | misc          = Requires control of specific Attribute
+  }}

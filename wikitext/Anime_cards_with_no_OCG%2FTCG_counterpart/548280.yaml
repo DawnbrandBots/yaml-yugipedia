@@ -1,0 +1,25 @@
+title: Destruction Flower
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|破|は}}{{Ruby|滅|めつ}}の{{Ruby|花|はな}}
+  | romaji_name   = Hametsu no Hana
+  | image         = DestructionFlower-EN-Anime-AV.png
+  | ja_image      = DestructionFlower-JP-Anime-AV.png
+  | image_nc      = DestructionFlower-JP-Anime-AV-NC.png
+  | card_type     = Spell
+  | property      = Continuous
+  | effect_types  = Cost, Trigger-like, Trigger-like
+  | text          = [[Activate]] this card by [[send]]ing 1 [[face-up]] [[Continuous Spell Card]] on the [[field]] to the [[Graveyard]]. If a [[Monster Card|monster(s)]] is [[Special Summon]]ed to your field: You can [[target]] 1 monster you [[control]] with [[ATK]] less than its own [[original ATK]], and 1 monster your opponent controls; inflict [[effect damage|damage]] to your opponent equal to the difference between the ATK and original ATK of that monster you control, and if you do, that monster your opponent controls loses that much ATK. [[Once per turn]], during your [[Standby Phase]]: Target 1 other Continuous Spell Card you control; send it to the Graveyard or take 1000 damage.
+  | ja_text       = ①：フィールドに表側表示で存在する永続魔法カード１枚を墓地へ送ってこのカードを発動できる。②：自分フィールドにモンスターが特殊召喚された場合、自分フィールドの元々の攻撃力より低い攻撃力を持つモンスター１体と、相手フィールドのモンスター１体を対象として発動できる。対象の自分のモンスターの攻撃力とその元々の攻撃力の差分のダメージを相手に与え、その数値分だけ対象の相手モンスターの攻撃力をダウンする。③：自分スタンバイフェイズに、このカード以外の自分フィールドの永続魔法カード１枚を対象として発動する。そのカードを墓地へ送る。または墓地へ送らず、自分は１０００ダメージを受ける。
+  | appears_in_av = 133
+  | decks         = Yuri
+  | anti-supports = Continuous Spell Card
+  | action        = 
+  * Sends from field to Graveyard
+  * Sends from field to Graveyard for cost
+  | life_points   = 
+  * Damages you
+  * Damages your opponent
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = Limited activations
+  }}

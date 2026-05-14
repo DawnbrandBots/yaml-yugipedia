@@ -1,0 +1,27 @@
+title: Dice Key Distress
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = ダイスキー・ディストレス
+  | romaji_name   = Daisukī Disutoresu
+  | ja_image      = DiceKeyDistress-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing a [[face-up]] [[LIGHT]] [[Attribute]] [[Fairy]] [[Type]] monster on your [[field]], [[send]] 1 LIGHT Attribute Fairy Type monster from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Roll a six-sided die. The attacking monster loses [[ATK]] equal to [the result] x [the [[Level]] of the monster sent to the Graveyard] x 100 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分フィールドの表側表示モンスター（光属性／天使族）が攻撃を受ける相手モンスターの攻撃宣言時に、手札のモンスター（光属性／天使族）１体を墓地へ送って発動できる。<br />'''【効果】'''サイコロを１回振る。攻撃してきたモンスターの攻撃力はターン終了時まで、［出た目の数］×［墓地へ送ったモンスターのレベル］×１００ダウンする。
+  | appears_in_gr = 133
+  | decks         = Ehoko Kamijo
+  | supports      = 
+  * LIGHT
+  * Fairy
+  | archseries    = Dice (series)
+  | action        = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from hand to Graveyard for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Die roll
+  }}

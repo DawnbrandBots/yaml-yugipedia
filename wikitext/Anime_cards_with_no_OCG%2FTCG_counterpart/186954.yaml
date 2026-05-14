@@ -1,0 +1,20 @@
+title: Small Resistance
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|小|ちい}}さな{{Ruby|抵|てい}}{{Ruby|抗|こう}}
+  | romaji_name   = Chīsana Teikō
+  | de_name       = Kleiner Wiederstand
+  | it_name       = Piccola Resistenza
+  | es_name       = Pequeña Resistencia
+  | ja_image      = SmallResistance-JP-Anime-ZX.png
+  | image_ca      = SmallResistance-OW.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Activation requirement, Effect
+  | text          = When your opponent's [[Monster Card|monster]] [[declare]]s an [[attack]]: [[Target]] 1 [[Level]] 4 or lower monster with 1000 or less [[ATK]] in your [[Graveyard]]; until the end of the [[Battle Phase]], the attacking monster loses ATK equal to the target's ATK.
+  | ja_text       = 相手モンスターの攻撃宣言時、自分の墓地に存在するレベル４以下で攻撃力１０００以下のモンスター１体を選択して発動する事ができる。このターンのバトルフェイズ中、攻撃宣言をした相手モンスター１体の攻撃力は、選択したモンスター１体の攻撃力分ダウンする。
+  | appears_in_zx = 028, 046
+  | decks         = Yuma Tsukumo
+  | action        = Activates upon attack declaration
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

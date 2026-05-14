@@ -1,0 +1,24 @@
+title: Emperor's Armor
+wikitext: |-
+  {{Anime card
+  | ja_name         = {{Ruby|王|おう}}{{Ruby|者|じゃ}}の{{Ruby|聖|せい}}{{Ruby|外|がい}}{{Ruby|套|とう}}
+  | romaji_name     = Ōja no Seigaitō
+  | translated_name = Ruler's Holy Cloak
+  | image           = EmperorsArmor-EN-Anime-ZX.png
+  | ja_image        = EmperorsArmor-JP-Anime-ZX.png
+  | image_nc        = EmperorsArmor-JP-Anime-ZX-NC.png
+  | card_type       = Spell
+  | property        = Equip
+  | effect_types    = Continuous, Continuous, Trigger-like
+  | text            = If the [[equip]]ped [[Monster Card|monster]] [[battle]]s an opponent's monster, its [[ATK]] becomes equal to the ATK of that opponent's monster. If the equipped monster would be [[destroyed by battle]], you can [[send]] this card to the [[Graveyard]] instead. If this [[Card effect|effect]] is used during your [[Battle Phase]]: You can switch the ATK of the monster that was equipped with this card with the ATK of 1 of your opponent's [[face-up]] monsters, and if you do, that monster can [[attack]] once again during this Battle Phase.
+  | ja_text         = 装備モンスターの攻撃力は戦闘を行う相手モンスターの攻撃力と同じになる。装備モンスターが戦闘によって破壊される場合、代わりにこのカードを墓地へ送る事ができる。この効果を自分のターンで発動した場合、そのターンのバトルフェイズ中、装備モンスターは相手モンスター１体と攻撃力を入れ替えて、もう１度だけ続けて攻撃できる。
+  | appears_in_zx   = 130
+  | decks           = Yuma Tsukumo
+  | stat_change     = 
+  * Changes ATK value of equipped
+  * Changes ATK value
+  | action          = 
+  * Sends itself from field to Graveyard
+  * Activates from your Graveyard
+  | attack          = Allows multiple attacks
+  }}

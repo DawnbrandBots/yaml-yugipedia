@@ -1,0 +1,20 @@
+title: Void Wall
+wikitext: |-
+  {{Anime card
+  | ja_name               = ヴォイド・ウォール
+  | romaji_name           = Voido Wōru
+  | ja_image              = VoidWall-JP-Anime-GR.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing a [[face-up]] [[Defense Position]] [[Galaxy (Type)|Galaxy]] [[Type]] monster on your [[field]].<br />'''[EFFECT]''' Face-up Defense Position Galaxy Type monsters on your field gain [[DEF]] equal to [the number of Defense Position monsters on your field] x 500 until the end of this [[turn]].
+  | ja_text               = '''【条件】'''自分フィールドの表側守備表示モンスター（ギャラクシー族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分フィールドの表側守備表示モンスター（ギャラクシー族）の守備力はターン終了時まで、［自分フィールドの守備表示モンスターの数］×５００アップする。
+  | appears_in_gr         = 030, 072
+  | decks                 = Zuwijo Zwil Velgear
+  | supports              = Galaxy (Type)
+  | related_to_archseries = Voidvelg
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  | stat_change           = Your monsters gain DEF
+  | misc                  = Requires control of specific Type
+  }}

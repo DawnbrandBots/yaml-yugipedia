@@ -1,0 +1,25 @@
+title: Estrangement Dragon
+wikitext: |-
+  {{Anime card
+  | ja_name       = エストレインジメント・ドラゴン
+  | romaji_name   = Esutoreinjimento Doragon
+  | ja_image      = EstrangementDragon-JP-Anime-VR.png
+  | image_nc      = EstrangementDragon-JP-Anime-VR-NC.png
+  | attribute     = DARK
+  | types         = Dragon / Effect
+  | level         = 4
+  | atk           = 1500
+  | def           = 1500
+  | effect_types  = Trigger, Condition, Continuous
+  | text          = If this card is [[Normal Summon]]ed: You can [[Special Summon]] 1 [[Monster Card|monster]] with the same name as this card from your [[Main Deck|Deck]] to your opponent's [[field]] in [[Attack Position]], but [[send]] it to the [[Graveyard|GY]] during the [[End Phase]]. You can only use this [[effect]] of "Estrangement Dragon" [[once per turn]]. While you [[control]] another monster, monsters cannot [[target]] this card for [[attack]]s.
+  | ja_text       = このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した場合に発動できる。自分のデッキからこのカードと同名のモンスター１体を選んで自分フィールドに攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに墓地へ送られる。②：このカードのコントローラーのフィールドにこのカード以外のモンスターが存在する限り、このカードは攻撃対象にならない。
+  | appears_in_vr = 097, 098
+  | decks         = Varis
+  | action        = 
+  * Activates upon Normal Summon
+  * Special Summons from your Deck to your opponent's field
+  * Special Summons copies of itself
+  * Sends from field to Graveyard
+  | misc          = Only once per turn
+  | attack        = Manages attack targets
+  }}

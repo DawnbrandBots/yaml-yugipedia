@@ -1,0 +1,30 @@
+title: Helixx Gothiclone
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|地獄螺戦鬼|ヘルリックス}}ゴシックローン
+  | romaji_name         = Herurikkusu Goshikkurōn
+  | translated_name     = Hellix Gothiclone
+  | image               = HelixxGothiclone-EN-Anime-VR.png
+  | ja_image            = HelixxGothiclone-JP-Anime-VR.png
+  | image_nc            = HelixxGothiclone-JP-Anime-VR-NC.png
+  | attribute           = DARK
+  | types               = Fiend / Link / Effect
+  | atk                 = 0
+  | link_arrows         = Top-Center, Bottom-Center
+  | effect_types        = Trigger, Continuous, Trigger
+  | material            = 2 "[[Helixx]]" [[Monster Card|monsters]]
+  | ja_material         = 「地獄螺戦鬼」モンスター２体
+  | text                = At the start of the [[Damage Step]], if this card [[battle]]s an opponent's [[Monster Card|monster]]: This card's [[ATK]] becomes equal to the ATK of that [[face-up]] opponent's monster until the end of this [[turn]]. The first time this card would be [[destroyed by battle]] each turn, it is not [[destroy]]ed. If this [[Card effect|effect]] is applied, after [[damage calculation]]: You can [[Tribute]] 1 monster this card [[points to]]; inflict [[Effect damage|damage]] to your opponent equal to the ATK the Tributed monster had on the [[field]].
+  | ja_text             = ①：このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力はターン終了時まで、その相手モンスターの攻撃力と同じになる。②：このカードは１ターンに１度だけ戦闘では破壊されない。③：このカードの②の効果を適用したダメージ計算後に、このカードのリンク先の自分のモンスター１体をリリースして発動できる。リリースしたモンスターの攻撃力分のダメージを相手に与える。
+  | appears_in_vr       = 023, 024, 028, 029, 038
+  | archseries          = Helixx
+  | supports_archetypes = Helixx
+  | decks               = Dr. Genome
+  | summoning           = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  | stat_change         = Changes ATK value
+  | attack              = Cannot be destroyed by battle
+  | action              = Tributes for cost
+  | life_points         = Damages your opponent
+  }}

@@ -1,0 +1,24 @@
+title: Fire Jester (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image              = FireJester-JP-Anime-SV.png
+  | image_nc              = FireJester-JP-Anime-SV-NC.png
+  | attribute             = LIGHT
+  | types                 = Pyro / Effect
+  | level                 = 3
+  | atk                   = 1000
+  | def                   = 500
+  | text                  = '''[REQUIREMENT]''' If you have a [[face-up]] [[Level]] 5 or higher [[LIGHT]] [[Attribute]] [[Monster Card|monster]] on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' Make 1 face-up Level 8 or lower monster on your opponent's field lose 500 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | ja_text               = '''【条件】'''自分フィールドに表側表示モンスター（レベル５以上／光属性）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター（レベル８以下）１体を選び、その攻撃力・守備力をターン終了時まで５００ダウンする。
+  | appears_in_sv         = 058, 062, 080, 083, 087
+  | decks                 = Yuo Goha
+  | supports              = LIGHT
+  | related_to_archseries = Metarion
+  | action                = Sends from your Deck to your Graveyard for cost
+  | stat_change           = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | misc                  = 
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  }}

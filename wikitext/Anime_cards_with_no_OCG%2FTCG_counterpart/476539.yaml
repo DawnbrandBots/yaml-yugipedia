@@ -1,0 +1,41 @@
+title: Spirit Reactor
+wikitext: |-
+  {{Anime card
+  | ja_name            = {{Ruby|精霊炉|スピリット・リアクター}}
+  | romaji_name        = Supiritto Riakutā
+  | ja_image           = SpiritReactor-JP-Anime-AV.png
+  | image_nc           = SpiritReactor-JP-Anime-AV-NC.png
+  | attribute          = LIGHT
+  | types              = Machine / Pendulum / Effect
+  | level              = 1
+  | atk                = 0
+  | def                = 0
+  | effect_types       = Trigger-like, Continuous-like, Continuous
+  | pendulum_scale     = 1
+  | pendulum_effect    = If this card is placed in the [[Pendulum Zone]]: You can [[target]] 1 Pendulum Card on the [[field]]; this card's [[Pendulum Scale]] becomes the same as the targeted card's. While there is an [[EARTH]], [[WATER]], [[FIRE]], or [[WIND]] [[Monster Card|monster]] on the field, the first time each monster you [[control]] would be [[destroy]]ed each [[turn]], by [[battle]] or [[card effect]], it is not destroyed. 
+  | text               = This card gains 500 [[ATK]] for each [[EARTH]], [[WATER]], [[FIRE]], and [[WIND]] [[Monster Card|monster]] on the [[field]].
+  | ja_pendulum_effect = ①：このカードが{{Ruby|Ｐ|ペンデュラム}}ゾーンに置かれた場合、フィールドの{{Ruby|Ｐ|ペンデュラム}}カード１枚を対象として発動できる。このカードの{{Ruby|Ｐ|ペンデュラム}}スケールは対象のカードの{{Ruby|Ｐ|ペンデュラム}}スケールと同じになる。②：フィールドに地・水・炎・風属性モンスターの内、いずれかが存在する限り、自分フィールドのモンスターは、１ターンに１度だけ戦闘・効果では破壊されない。
+  | ja_text            = ①：このカードの攻撃力はフィールドの地・水・炎・風属性モンスターの数×５００アップする。
+  | appears_in_av      = 128, 129
+  | decks              = Leo Akaba
+  | supports           = 
+  * Pendulum Monster
+  * EARTH
+  * FIRE
+  * WIND 
+  * WATER
+  | anti-supports      = 
+  * Pendulum Monster
+  * EARTH
+  * FIRE
+  * WIND 
+  * WATER
+  | archseries         = 
+  * Reactor
+  * Spirit (archetype)
+  | stat_change        = 
+  * Changes own Pendulum Scale
+  * This card gains ATK
+  | attack             = Cannot be destroyed by battle
+  | m/s/t              = Cannot be destroyed by card effects
+  }}

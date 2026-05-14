@@ -1,0 +1,24 @@
+title: Property Flash
+wikitext: |-
+  {{Anime card
+  | ja_name             = プロパティ・フラッシュ
+  | romaji_name         = Puropati Furasshu
+  | image               = PropertyFlash-EN-Anime-VR.png
+  | ja_image            = PropertyFlash-JP-Anime-VR.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Effect, Quick-like, Quick-like, Condition
+  | text                = [[Activate]] this card when you take [[battle damage]]: Place 1 [[Property Counter]] on this card for every 1000 damage you took, then end the [[Battle Phase]]. [[Once per turn]]: You can [[Tribute]] 1 "[[Hydradrive]]" [[Link Monster]]; place 1 Property Counter on this card. You can [[send]] this card with a Property Counter to the [[Graveyard|GY]]; [[Special Summon]] 1 "Hydradrive" Link Monster from your [[Extra Deck]] with the same [[Link Rating]] as the number of Property Counters that were on this card. You can only activate 1 "Property Flash" per [[turn]].
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：自分が戦闘ダメージを受けた時にこのカードを発動できる。その時に受けたダメージ１０００につき１つ、このカードにプロパティカウンターを置く。その戦闘終了時、バトルフェイズを終了する。②：１ターンに１度、自分フィールドの「ハイドライブ」リンクモンスター１体をリリースして発動できる。このカードにプロパティカウンターを１つ置く。③：プロパティカウンターが置かれているこのカードを墓地へ送って発動できる。このカードに置かれていたプロパティカウンターの数と同じ数のリンクマーカーを持つ「ハイドライブ」リンクモンスター１体をＥＸデッキから特殊召喚する。
+  | appears_in_vr       = 072, 073
+  | decks               = Bohman
+  | supports_archetypes = Hydradrive
+  | supports            = Link Monster
+  | counter             = Property Counter
+  | action              = 
+  * Ends the Battle Phase
+  * Tributes for cost
+  * Sends itself from field to Graveyard
+  | summoning           = Special Summons from your Extra Deck
+  | misc                = Only once per turn
+  }}

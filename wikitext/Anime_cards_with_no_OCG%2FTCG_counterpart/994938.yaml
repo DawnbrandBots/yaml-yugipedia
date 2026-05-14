@@ -1,0 +1,24 @@
+title: Asura Dice (anime)
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_image      = AsuraDice-JP-Anime-GR.png
+  | image_nc      = AsuraDice-JP-Anime-GR-NC.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] [[face-up]].<br />'''[EFFECT]''' Roll a six-sided die. [[Damage|Inflict]] [[Effect damage|damage]] to your opponent equal to [the result] x 100, and all face-up monsters on their [[field]] lose [[ATK]]/[[DEF]] equal to [the result] x 100 until the end of this [[turn]]. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  | ja_text       = '''【条件】'''相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。<br />'''【効果】'''サイコロを１回振る。［出た目の数］×１００ダメージを相手に与え、相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。さらに、自分フィールドの全ての表側表示モンスターの攻撃力・守備力をターン終了時まで、［出た目の数］×１００アップできる。
+  | appears_in_gr = 068
+  | decks         = Ehoko Kamijo
+  | archseries    = Dice (series)
+  | action        = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change   = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | life_points   = Damages your opponent
+  | misc          = Die roll
+  }}

@@ -1,0 +1,28 @@
+title: Battle Eater
+wikitext: |-
+  {{Anime card
+  | ja_name       = バトル・イーター
+  | romaji_name   = Batoru Ītā
+  | image         = BattleEater-EN-Anime-5D.png
+  | ja_image      = BattleEater-JP-Anime-5D.png
+  | image_ca      = BattleEater-OW.png
+  | attribute     = Dark
+  | types         = Spellcaster / Effect
+  | atk           = 2500
+  | def           = 0
+  | level         = 10
+  | effect_types  = Trigger
+  | text          = If you would take [[battle damage]] less than or equal to this card's [[ATK]], you can [[send]] this card to the [[Graveyard]] to [[negate]] the attack and end the [[Battle Phase]]. Then, take [[Effect damage|damage]] equal to this card's ATK.
+  | ja_text       = 自分への戦闘ダメージがこのカードの攻撃力以下の場合、このカードを墓地へ送る事でその戦闘を無効にしバトルフェイズを終了する。その後、自分はこのカードの攻撃力分のダメージを受ける。
+  | text_note     = <ref group="note">While this card's text doesn't specify where it is sent from to activate its effect, in the anime it was sent from the hand to activate its effect.</ref>
+  | appears_in_5d = 106
+  | decks         = Kaz
+  | attack        = Negates attacks
+  | action        = 
+  * Sends itself from hand to Graveyard for cost
+  * Ends the Battle Phase
+  | life_points   = Damages you
+  }}
+
+  ==Notes==
+  <references group="note" />

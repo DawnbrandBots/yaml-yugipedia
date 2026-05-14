@@ -1,0 +1,16 @@
+title: Dragonic Force (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = DragonicForce-JP-Anime-SV.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' [[Shuffle]] [[Dragon]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]] equal to [the number of [[Spell Card|Spell]]/[[Trap Card]]s on your opponent's [[field]]].<br />'''[EFFECT]''' Choose 1 [[face-up]] [[Level]] 7 or higher monster on your field. This [[turn]], that monster gains [[ATK]] equal to [the number of Spell/Trap Cards on your opponent's field] x 300, and your opponent cannot [[activate]] Trap Cards when it [[declare]]s an [[attack]].
+  | ja_text       = '''【条件】'''［相手フィールドの魔法・罠カードの数］だけ、自分の墓地のモンスター（ドラゴン族）をデッキに戻して発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター（レベル７以上）１体を選ぶ。このターン、そのモンスターの攻撃力は［相手フィールドの魔法・罠カードの数］×３００アップし、そのモンスターの攻撃宣言時に相手は罠カードを発動できない。
+  | appears_in_sv = 073
+  | decks         = Lucidien Kallister
+  | supports      = Dragon
+  | action        = Returns from Graveyard to Deck for cost
+  | stat_change   = Your monsters gain ATK
+  | m/s/t         = Prevents activation of your opponent's Trap Cards
+  | misc          = Requires control of specific Level
+  }}

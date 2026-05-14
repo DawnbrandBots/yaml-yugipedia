@@ -1,0 +1,22 @@
+title: Attack Gimmick
+wikitext: |-
+  {{Anime card
+  | article_messages    = {{Not archetype member|Attack (archetype)|{{Ruby|Ａ|アタック}}}}
+  | ja_name             = アタック・ギミック
+  | romaji_name         = Atakku Gimikku
+  | es_name             = Ataque Trucado
+  | it_name             = Attacco Truccato
+  | ja_image            = AttackGimmick-JP-Anime-ZX.jpg
+  | image_ca            = AttackGimmick-OW.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Effect, Trigger
+  | text                = [[Target]] 1 [[face-up]] "[[Gimmick Puppet]]" [[Monster Card|monster]]; until the [[End Phase]], that target gains 500 [[ATK]]. Then, if it [[destroy]]s an opponent's monster [[by battle]] this [[turn]]: Inflict [[effect damage|damage]] to your opponent equal to the ATK of the destroyed monster.
+  | ja_text             = 「ギミック・パペット」と名のついたモンスター１体を選択して発動する。選択したモンスターの攻撃力は、このターンのエンドフェイズ時まで５００ポイントアップする。またこのターン、選択したモンスターが戦闘によって相手モンスターを破壊した時、破壊された相手モンスター１体の攻撃力分のダメージを相手ライフに与える。
+  | appears_in_zx       = 042
+  | decks               = Quattro
+  | supports_archetypes = Gimmick Puppet
+  | action              = Activates if it destroys a monster by battle
+  | stat_change         = Your monsters gain ATK
+  | life_points         = Damages your opponent
+  }}

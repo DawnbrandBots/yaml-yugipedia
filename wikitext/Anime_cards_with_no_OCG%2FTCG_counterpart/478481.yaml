@@ -1,0 +1,21 @@
+title: Rank-Up Gravity
+wikitext: |-
+  {{Anime card
+  | ja_name             = ランクアップ・グラヴィティ
+  | romaji_name         = Rankuappu Guraviti
+  | image               = RankUpGravity-EN-Anime-AV.png
+  | ja_image            = RankUpGravity-JP-Anime-AV.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Continuous-like, Continuous-like
+  | text                = While you [[control]] an [[Xyz Monster]] [[Special Summon]]ed with a "[[Rank-Up-Magic]]" [[Spell Card]], [[Monster Card|monsters]] your opponent controls cannot [[attack]], except to attack those Xyz Monsters. Monsters your opponent controls that did not attack are [[banish]]ed at the end of the [[Battle Phase]]. If you do not control an Xyz Monster Special Summoned with a "Rank-Up-Magic" Spell Card, [[destroy]] this card, and if it was destroyed during the Battle Phase by this [[Card effect|effect]], end the Battle Phase.
+  | ja_text             = ①：自分フィールドに「{{Ruby|ＲＵＭ|ランクアップマジック}}」魔法カードの効果で特殊召喚された{{Ruby|Ｘ|エクシーズ}}モンスターが存在する限り、相手モンスターはその{{Ruby|Ｘ|エクシーズ}}モンスターにしか攻撃できない。攻撃しなかった場合、その相手モンスターはバトルフェイズ終了時に除外される。②：自分フィールドに「{{Ruby|ＲＵＭ|ランクアップマジック}}」魔法カードの効果で特殊召喚された{{Ruby|Ｘ|エクシーズ}}モンスターが存在しない場合にこのカードは破壊される。それがバトルフェイズ中だった場合、そのバトルフェイズを終了する。
+  | appears_in_av       = 137
+  | decks               = Kite Tenjo (ARC-V)
+  | supports            = Xyz Monster
+  | supports_archetypes = Rank-Up-Magic
+  | attack              = Manages attack targets
+  | banished            = Banishes from your opponent's field
+  | m/s/t               = Destroys itself
+  | action              = Ends the Battle Phase
+  }}

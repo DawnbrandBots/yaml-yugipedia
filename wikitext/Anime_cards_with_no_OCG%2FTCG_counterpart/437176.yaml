@@ -1,0 +1,34 @@
+title: Earthbound Tundra
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|地|じ}}{{Ruby|縛|ばく}}{{Ruby|原|げん}}
+  | romaji_name   = Jibakugen
+  | ja_image      = EarthboundTundra-JP-Anime-AV.png
+  | image_nc      = EarthboundTundra-JP-Anime-AV-NC.png
+  | card_type     = Spell
+  | property      = Field
+  | effect_types  = Continuous-like, Trigger-like, Condition, Continuous-like
+  | text          = Neither player can [[Summon]] [[Monster card|monsters]] in [[Defense Position]], also [[face-up]] [[Attack Position]] monsters on the [[field]] cannot change their [[battle position]]s. If a player adds an [[Action Card]] to their [[hand]]: Their opponent [[send]]s all Action Cards from their hand to the [[Graveyard]]. That opponent cannot [[activate]] the [[effect]]s of Action Cards in [[Respond|response]] to this effect's activation. If a player has an Action Card in their hand, that player can add an additional Action Card to their hand, but when they do so using this effect, they [[banish]] the added card, and if they do, they make 1 face-up monster their opponent [[control]]s lose 300 [[ATK]], and if they do that, they inflict 300 [[Effect damage|damage]] to their opponent.
+  | ja_text       = ①：このカードがフィールドゾーンに表側表示で存在する限り、お互いのプレイヤーはモンスターを守備表示で召喚できず、表側攻撃表示モンスターは表示形式を変更できない。②：プレイヤーがアクションカードを手札に加えた場合に発動する。そのプレイヤから見て相手の手札のアクションカードを墓地へ送る。この効果の発動に対してそれぞれ相手はアクションカードの効果を発動できない。③：アクションカードが手札に存在する場合、そのプレイヤーはそれ以外のアクションカード１枚を手札に加える事ができる。この効果で手札に加えたアクションカードを除外され、この効果を発動したプレイヤーから見て相手のフィールドのモンスター１体の攻撃力を３００ダウンし、その相手に３００ダメージを与える。
+  | appears_in_av = 093, 094, 095
+  | decks         = Sergey Volkov
+  | supports      = Action Card
+  | anti-supports = Action Card
+  | archseries    = 
+  * Earth (archetype)
+  * Earthbound
+  | action        = 
+  * Prevents battle position changes
+  * Sends from your hand to your Graveyard
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | m/s/t         = Prevents activation of Spell Cards
+  | banished      = 
+  * Banishes from your hand
+  * Banishes from your opponent's hand
+  | stat_change   = 
+  * Your monsters lose ATK
+  * Your opponent's monsters lose ATK
+  | life_points   = 
+  * Damages you
+  * Damages your opponent
+  }}

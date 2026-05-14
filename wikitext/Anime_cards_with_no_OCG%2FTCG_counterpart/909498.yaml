@@ -1,0 +1,19 @@
+title: Constructor Ambush (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ConstructorAmbush-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[Wyrm]] [[Type]] monster on your [[field]], [[send]] 1 [[Level]] 6 or lower Wyrm Type monster from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' The attacking monster loses [[ATK]] equal to [the ATK of the monster sent to the Graveyard to meet the [[Activation condition|requirement]]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分の表側表示モンスター（幻竜族）が攻撃を受ける相手モンスターの攻撃宣言時、手札のモンスター（レベル６以下／幻竜族）１体を墓地へ送って発動できる。<br />'''【効果】'''攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果の条件で墓地へ送ったモンスターの攻撃力］だけダウンする。
+  | appears_in_sv = 038
+  | decks         = Asana Mutsuba
+  | supports      = Wyrm
+  | archseries    = Constructor
+  | action        = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from hand to Graveyard for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = Requires control of specific Type
+  }}

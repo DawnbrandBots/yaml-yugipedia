@@ -1,0 +1,21 @@
+title: Space Evade
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = スペース・イヴェイド
+  | romaji_name   = Supēsu Iveido
+  | ja_image      = SpaceEvade-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]].<br />'''[EFFECT]''' Place 1 [[Cyberse]] [[Type]] monster from your [[Graveyard]] on either the top or bottom of the [[Main Deck|Deck]]. Then, you can make the [[attack]]ing monster lose [[ATK]] equal to [the ATK of the monster placed by this [[effect]]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの直接攻撃宣言時に発動できる。<br />'''【効果】'''自分の墓地のモンスター（サイバース族）１体を選び、デッキの上か下に戻す。その後、攻撃してきたモンスターの攻撃力をターン終了時まで、［この効果で戻したモンスターの攻撃力］だけダウンできる。
+  | appears_in_gr = 093
+  | decks         = Zaion
+  | supports      = Cyberse
+  | archseries    = Space
+  | action        = 
+  * Activates upon attack declaration
+  * Places cards from the player's Graveyard on the top of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,31 @@
+title: Armatos Lex
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|天装法典|アルマートス・レークス}}
+  | romaji_name         = Arumātosu Rēkusu
+  | image               = ArmatosLex-EN-Anime-VR.png
+  | ja_image            = ArmatosLex-JP-Anime-VR.png
+  | image_nc            = ArmatosLex-JP-Anime-VR-NC.png
+  | card_type           = Spell
+  | property            = Continuous
+  | effect_types        = Trigger-like, Condition, Ignition-like, Ignition-like
+  | text                = When a [[Monster Card|monster]] [[declare]]s a [[direct attack]]: [[Negate]] that [[attack]]. You can only use 1 of the following [[effect]]s of "Armatos Lex" per [[turn]], and only [[Once per turn|once that turn]].<br />● You can [[target]] 1 [[Spell Card|Spell]] and 1 "[[Armatos Legio]]" monster in your [[Graveyard|GY]]; [[shuffle]] that Spell into the [[Main Deck|Deck]], and if you do, add that "Armatos Legio" monster to your [[hand]].<br />● You can [[Tribute]] 1 "Armatos Legio" monster; [[Draw a card|draw]] 1 card.
+  | text_note           = <ref group="Notes">According to how [[Lightning]] described this card's first [[card effect|effect]], it [[negate]]d [[direct attack]]s that occurred only while both players [[control]]led a [[Monster Card|monster(s)]]. This wasn't reflected in the card's own text.</ref>
+  | ja_text             = このカード名の②③の効果は１ターンに１度、いずれか１つしか使用できない。①：自分または相手のモンスターの直接攻撃宣言時に発動する。その攻撃を無効にする。②：自分の墓地の魔法カード１枚と自分の墓地の「アルマートス・レギオー」モンスター１体を対象として発動できる。その魔法カードをデッキに戻し、その「アルマートス・レギオー」モンスターを手札に加える。③：自分フィールドの「アルマートス・レギオー」モンスター１体をリリースして発動できる。自分はデッキから１枚ドローする。
+  | appears_in_vr       = 080, 086, 087
+  | decks               = Lightning
+  | supports_archetypes = Armatos Legio
+  | action              = 
+  * Activates upon attack declaration
+  * Returns from your Graveyard to your Deck
+  * Adds from Graveyard to hand
+  * Tributes for cost
+  * You draw cards
+  | attack              = Negates attacks
+  | misc                = 
+  * Only 1 effect once per turn
+  * Variable effects
+  }}
+
+  == Notes ==
+  <references group="Notes"/>

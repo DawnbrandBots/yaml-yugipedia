@@ -1,0 +1,21 @@
+title: Dream Dice
+wikitext: |-
+  {{Anime card
+  | ja_name       = ドリーム・ダイス
+  | romaji_name   = Dorīmu Daisu
+  | de_name       = Traumwürfel
+  | it_name       = Dado da Sogno
+  | es_name       = Dado de Sueño
+  | image         = DreamDice-EN-Anime-ZX.png
+  | ja_image      = DreamDice-JP-Anime-ZX.png
+  | image_ca      = DreamDice-OW.png
+  | card_type     = Spell
+  | property      = Normal
+  | effect_types  = Effect
+  | text          = Roll a six-sided die. If the result is 6, the [[ATK]] of all [[face-up]] [[Monster Card|monster]]s your opponent currently [[control]]s become 0. Otherwise, the ATK of all face-up monsters you currently control become 0.
+  | ja_text       = サイコロを１回振る。６が出た場合、相手フィールド上に存在する全てのモンスターの攻撃力は０になる。それ以外の場合、自分フィールド上に存在する全てのモンスターの攻撃力は０になる。
+  | appears_in_zx = 031
+  | decks         = Charlie McCay
+  | stat_change   = Reduces ATK to 0
+  | misc          = Die roll
+  }}

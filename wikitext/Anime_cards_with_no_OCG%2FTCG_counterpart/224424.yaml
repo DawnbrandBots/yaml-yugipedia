@@ -1,0 +1,28 @@
+title: Xyz Unity
+wikitext: |-
+  {{Anime card
+  | ja_name       = エクシーズ・ユニティ
+  | romaji_name   = Ekushīzu Yuniti
+  | it_name       = Unione Xyz
+  | ja_image      = XyzUnity-JP-Anime-ZX.png
+  | image_ca      = XyzUnity-OW.png
+  | card_type     = Spell
+  | property      = Equip
+  | effect_types  = Condition, Ignition-like, Trigger-like
+  | text          = [[Equip]] only to a [[face-up]] [[Xyz Monster]]. [[Once per turn]]: You can change the equipped [[Monster Card|monster]] from [[Defense Position]] to [[Attack Position]], and if you do, it gains [[ATK]] equal to the total ATK of all face-up Defense Position Xyz Monsters you currently [[control]], until the [[End Phase]] of this [[turn]]. During your [[Battle Phase]]: You can [[send]] 1 other face-up Xyz Monster you control to the [[Graveyard]]; during this Battle Phase, increase the equipped monster's number of [[attack]]s by 1, also it can attack [[Direct attack|directly]].
+  | ja_text       = モンスターエクシーズにのみ装備可能。１ターンに１度、装備モンスターの表示形式を守備表示から攻撃表示にする事ができる。この効果を使用したターンのエンドフェイズ時まで、装備モンスターの攻撃力は自分フィールド上に表側守備表示で存在する全てのモンスターエクシーズの攻撃力の合計分アップする。自分フィールド上のモンスターエクシーズ１体を墓地へ送る事で、装備モンスターは攻撃回数を１度増やして相手プレイヤーに直接攻撃できる。
+  | appears_in_zx = 070, 071, 094
+  | decks         = Yuma Tsukumo
+  | supports      = Xyz Monster
+  | archseries    = Xyz (archetype)
+  | action        = 
+  * Changes battle positions
+  * Sends from field to Graveyard for cost
+  | stat_change   = Equipped gains ATK
+  | attack        = 
+  * Allows multiple attacks
+  * Equipped direct attacks
+  | misc          = 
+  * Equips only to a specific target
+  * Limited activations
+  }}

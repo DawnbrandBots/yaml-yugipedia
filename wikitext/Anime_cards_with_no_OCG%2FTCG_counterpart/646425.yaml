@@ -1,0 +1,31 @@
+title: TA.I.med Technique
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|必|ひっ}}{{Ruby|殺|さつ}}の{{Ruby|間|ま}}－{{Ruby|Ａｉ|アイ}}－
+  | romaji_name         = Hissatsu no Ma-Ai-
+  | translated_name     = Sure-Kill T-Ai-ming
+  | alt_names           = TAimed Technique
+  | image               = TAImedTechnique-EN-Anime-VR.png
+  | ja_image            = TAImedTechnique-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Quick-Play
+  | effect_types        = Effect, Trigger-like, Condition
+  | text                = During the [[Battle Phase]]: [[Target]] 1 "[[@Ignister]]" [[Monster Card|monster]] you [[control]] in the [[Extra Monster Zone]] and 1 [[Link Monster]] in your [[Main Monster Zone]]; [[banish]] both that Main Monster Zone monster and cards from your opponent's [[hand]], up to that monster's [[Link Rating]], until the end of the [[Battle Phase]], and if you do, move that Extra Monster Zone monster to your Main Monster Zone. During your opponent's Battle Phase, if the first attack this Phase is declared involving 2 Link Monsters: You can banish this card from your [[Graveyard|GY]]; end the Battle Phase. You can only [[activate]] 1 "TA.I.med Technique" per [[turn]].
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のバトルフェイズに、ＥＸモンスターゾーンの自分の「＠イグニスター」モンスター１体と、自分のメインモンスターゾーンのリンクモンスター１体を対象として発動できる。対象のメインモンスターゾーンのリンクモンスターと、そのリンクマーカーの数までの相手の手札を、バトルフェイズ終了時まで除外し、対象のＥＸモンスターゾーンのモンスターを自分のメインモンスターゾーンに移動する。②：相手バトルフェイズの１回目の戦闘がリンクモンスター同士の戦闘となる場合、その攻撃宣言時に墓地のこのカードを除外して発動できる。そのバトルフェイズを終了する。
+  | appears_in_vr       = 110
+  | decks               = Ai
+  | supports            = Link Monster
+  | anti-supports       = Link Monster
+  | archseries          = A.I.
+  | supports_archetypes = @Ignister
+  | action              = 
+  * Returns banished cards to the field
+  * Returns banished cards to the hand
+  * Changes Monster Zone
+  * Ends the Battle Phase
+  | banished            = 
+  * Banishes from your field
+  * Banishes from your opponent's hand
+  * Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
+  }}

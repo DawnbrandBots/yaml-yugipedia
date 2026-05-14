@@ -1,0 +1,32 @@
+title: Gouki Double Impact
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|剛|ごう}}{{Ruby|鬼|き}}ダブルインパクト
+  | romaji_name         = Gōki Daburu Inpakuto
+  | translated_name     = Strong Oni - Double Impact
+  | image               = GoukiDoubleImpact-EN-Anime-VR.png
+  | ja_image            = GoukiDoubleImpact-JP-Anime-VR.png
+  | image_nc            = <!--GoukiDoubleImpact-JP-Anime-VR-NC.png-->
+  | attribute           = EARTH
+  | types               = Warrior / Effect
+  | level               = 2
+  | atk                 = 1200
+  | def                 = 0
+  | effect_types        = Quick, Trigger, Condition
+  | text                = During your opponent's [[turn]] ([[Quick Effect]]): You can [[send]] this card from your [[hand]] to the [[GY]] and [[reveal]] 1 [[Level]] 2 or lower "[[Gouki]]" [[monster]] in your hand, then [[target]] 1 "Gouki" monster you [[control]]; it gains [[ATK]] equal to the revealed monster's, until the end of this turn. If this card is sent from the [[field]] to the GY: You can [[Add a card|add]] 1 "Gouki" card from your [[Main Deck|Deck]] to your hand, except "Gouki Double Impact". You can only use each [[effect]] of "Gouki Double Impact" [[once per turn]].
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、①の効果は相手ターンにのみ発動できる。①：このカードを手札から墓地へ送り、手札のレベル２以下の「剛鬼」モンスター１体を相手に見せ、自分フィールドの「剛鬼」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、相手に見せたモンスターの攻撃力分アップする。②：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「剛鬼ダブルインパクト」以外の「剛鬼」カード１枚を手札に加える。
+  | appears_in_vr       = 108
+  | decks               = George Gore
+  | archseries          = Gouki
+  | supports_archetypes = Gouki
+  | action              = 
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
+  * Reveals your hand for cost
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | stat_change         = Your monsters gain ATK
+  | misc                = 
+  * Requires control of specific archetype
+  * Only once per turn
+  }}

@@ -1,0 +1,20 @@
+title: Dahut Abyss, Dark Mirror Ruler of the Chair (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = DahutAbyssDarkMirrorRuleroftheChair-JP-Anime-SV.png
+  | image_nc      = DahutAbyssDarkMirrorRuleroftheChair-JP-Anime-SV-NC.png
+  | attribute     = DARK
+  | types         = Fiend / Effect
+  | level         = 7
+  | atk           = 0
+  | def           = 2400
+  | text          = '''[REQUIREMENT]''' [[Shuffle]] any number of [[Monster Card|monster]]s with 0 [[ATK]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' 1 [[face-up]] monster on the [[field]] loses ATK equal to [the number of monsters shuffled into the Deck to meet the [[Activation condition|requirement]]] x 300 until the end of this [[turn]]. This card gains ATK equal to [the number of monsters shuffled into the Deck to meet the requirement] x 300 until the end of this turn.
+  | ja_text       = '''【条件】'''自分の墓地のモンスター（攻撃力０）を好きな数だけデッキに戻して発動できる。<br />'''【効果】'''自分または相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［この効果の条件でデッキに戻したモンスターの数］×３００ダウンする。このカードの攻撃力はターン終了時まで、［この効果の条件でデッキに戻したモンスターの数］×３００アップする。
+  | appears_in_sv = 034, 070
+  | decks         = Seatbastian
+  | archseries    = Chair
+  | action        = Returns from Graveyard to Deck for cost
+  | stat_change   = 
+  * All monsters lose ATK
+  * This card gains ATK
+  }}

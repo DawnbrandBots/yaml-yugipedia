@@ -1,0 +1,25 @@
+title: Dice Cure
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = ダイス・キュア
+  | romaji_name   = Daisu Kyua
+  | ja_image      = DiceCure-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Level]] 7 or higher [[Monster Card|monster]] [[face-up]], [[return]] up to 2 monsters from your [[field]] to the [[owner]]'s [[hand]].<br />'''[EFFECT]''' Roll a six-sided die. Make 1 face-up monster on your field gain [[ATK]] equal to [the result] x [the number of monsters returned to meet the [[Activation condition|requirement]]] x 100 until the end of this [[turn]].
+  | text_note     = <ref group="Note">This card's written text was erroneously shown to be that of "[[Dice Kiss]]". In actuality, it had the following [[effect]]:<br />'''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have a [[face-up]] monster on your [[field]].<br />'''[EFFECT]''' Roll a six-sided die. Gain [[LP]] equal to [the result] x [the [[Level]] of 1 face-up monster with the lowest Level on your field] x 100.</ref>
+  | ja_text       = '''【条件】'''相手が表側表示でモンスター（レベル７以上）を召喚・特殊召喚した時、自分フィールドのモンスターを２体まで持ち主の手札に戻して発動できる。<br />'''【効果】'''サイコロを１回振る。自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［出た目の数］×［この効果の条件で戻したモンスターの数］×１００アップする。
+  | appears_in_gr = 110
+  | decks         = Ehoko Kamijo
+  | archseries    = Dice (series)
+  | action        = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from field to hand for cost
+  | stat_change   = Your monsters gain ATK
+  | misc          = Die roll
+  }}
+
+  == Notes ==
+  <references group="Note" />

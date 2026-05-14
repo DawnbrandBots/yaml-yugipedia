@@ -1,0 +1,31 @@
+title: Graveyard Incubation
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|墓|ぼ}}{{Ruby|地|ち}}{{Ruby|培|ばい}}{{Ruby|養|よう}}
+  | romaji_name         = Bochi Baiyō
+  | image               = GraveyardIncubation-EN-Anime-VR.png
+  | ja_image            = GraveyardIncubation-JP-Anime-VR.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = Effect, Condition
+  | text                = [[Target]] 2 "[[Helixx]]" [[Monster Card|monsters]] in your [[Graveyard|GY]] with the same name; [[Special Summon]] them, but change their [[ATK]]/[[DEF]] to 0, they have their [[Card effect|effects]] [[negate]]d, they cannot [[attack]] or be [[Tribute]]d, also they cannot be used as [[material]] for a [[Summon]], except for the [[Link Summon]] of a "Helixx" monster. You can only [[activate]] 1 "Graveyard Incubation" per [[turn]].
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の同名の「地獄螺戦鬼」モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化され、攻撃もリリースもできず、そのモンスターを素材として召喚する場合、「地獄螺戦鬼」モンスターのリンク召喚にしか使用できない。
+  | appears_in_vr       = 023
+  | decks               = Dr. Genome
+  | supports_archetypes = Helixx
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Cannot be used as a Fusion Material
+  * Cannot be used as a Synchro Material
+  * Cannot be used as a Xyz Material
+  * Cannot be used as a Link Material
+  | stat_change         = 
+  * Changes ATK value
+  * Changes DEF value
+  * Reduces ATK to 0
+  * Reduces DEF to 0
+  | m/s/t               = Negates the effects of your Effect Monsters
+  | attack              = Cannot attack
+  | action              = Cannot be Tributed
+  | misc                = Only once per turn
+  }}

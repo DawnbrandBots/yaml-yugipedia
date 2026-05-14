@@ -1,0 +1,16 @@
+title: Cure Shot (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = CureShot-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' Choose 1 [[WATER]] [[Attribute]] monster in your [[Graveyard]]. Gain [[LP]] equal to [that monster's [[Level]]] x 100, and [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [that monster's Level] x 100.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分の墓地のモンスター（水属性）１体を選ぶ。自分は［そのモンスターのレベル］×１００ＬＰ回復し、相手に［そのモンスターのレベル］×１００のダメージを与える。
+  | appears_in_sv = 015
+  | decks         = Yuga Ohdo
+  | supports      = WATER
+  | action        = Activates upon attack declaration
+  | life_points   = 
+  * You gain Life Points
+  * Damages your opponent
+  }}

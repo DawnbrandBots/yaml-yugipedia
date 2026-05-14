@@ -1,0 +1,26 @@
+title: Hero Dice
+wikitext: |-
+  {{Anime card
+  | ja_name             = ヒーロー・ダイス
+  | romaji_name         = Hīrō Daisu
+  | image               = HeroDice-EN-Anime-GX.png
+  | ja_image            = HeroDice-JP-Anime-GX.png
+  | image_ca            = HeroDice-OW.png
+  | image_nc            = HeroDice-JP-Anime-GX-NC-2.png
+  | card_type           = Spell
+  | property            = Normal
+  | effect_types        = 
+  | text                = [[Select]] 1 [[face-up]] "[[Elemental HERO|Elemental Hero]]" [[Monster Card|monster]] you [[control]], then roll a six-sided die and [[activate]] an appropriate [[effect]]:<br />● 1: Take [[effect damage|damage]] equal to the selected monster's [[ATK]].<br />● 2: [[Destroy]] 1 [[Spell Card]] you control.<br />● 3: Destroy 1 monster you control.<br />● 4: Destroy 1 monster your opponent controls.<br />● 5: Destroy 1 Spell Card your opponent controls.<br />● 6: The selected monster can [[attack]] your opponent [[direct attack|directly]] this [[turn]].
+  | ja_text             = サイコロを１回振る。出た目によって自分フィールド上の「Ｅ・ＨＥＲＯ」と名のつくモンスター１体は以下の効果を適用する。<br />１・自分に攻撃力分のダメージを与える。<br />２・自分フィールド上の魔法カード１枚を破壊する。<br />３・自分フィールド上のモンスターカード１枚を破壊する。<br />４・相手フィールド上のモンスターカード１枚を破壊する。<br />５・相手フィールド上の魔法カード１枚を破壊する。<br />６・相手プレイヤーに直接攻撃をする事ができる。
+  | appears_in_gx       = 096
+  | decks               = Jaden Yuki
+  | supports_archetypes = Elemental HERO
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Monster Cards
+  | attack              = Allows direct attacks
+  | life_points         = Damages you
+  | misc                = 
+  * Die roll
+  * Variable effects
+  }}

@@ -1,0 +1,19 @@
+title: Power Converter (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | image              = PowerConverter-EN-Anime-5D.png
+  | ja_image           = PowerConverter-JP-Anime-5D.png
+  | image_nc           = PowerConverter-JP-Anime-5D-NC.png
+  | card_type          = Spell
+  | property           = Equip
+  | text               = During either player's [[turn]], you can [[send]] this [[face-up]] card to the [[Graveyard]] to gain [[Life Points]] equal to the [[equip]]ped [[Monster Card|monster]]'s [[ATK]]. If you do, the equipped monster's ATK becomes 0 until the [[End Phase]].
+  | ja_text            = 装備されたこのカードを[[Graveyard|墓地]]へ送る事で、自分は装備モンスターの[[ATK|攻撃力]]分の[[Life Points|ライフポイント]]を回復する。この効果を使用したターン、装備モンスターの攻撃力は０になる。
+  | appears_in_5d      = 050
+  | decks              = Leo
+  | action             = Sends itself from field to Graveyard for cost
+  | life_points        = You gain Life Points
+  | stat_change        = 
+  * Reduces ATK to 0
+  * Changes ATK value of equipped
+  }}

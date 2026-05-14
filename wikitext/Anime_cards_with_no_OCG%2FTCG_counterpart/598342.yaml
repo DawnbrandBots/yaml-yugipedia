@@ -1,0 +1,24 @@
+title: Link Satellite
+wikitext: |-
+  {{Anime card
+  | ja_name       = リンク・サテライト
+  | romaji_name   = Rinku Sateraito
+  | image         = LinkSatellite-EN-Anime-VR.png
+  | ja_image      = LinkSatellite-JP-Anime-VR.png
+  | image_nc      = LinkSatellite-JP-Anime-VR-NC.png
+  | card_type     = Spell
+  | property      = Continuous
+  | effect_types  = Effect, Continuous-like, Continuous-like, Continuous-like, Continuous-like
+  | text          = [[Activate]] this card by [[target]]ing 1 [[Link Monster]] you [[control]]; place [[Satellite Counter]]s on this card equal to that [[Monster Card|monster]]'s [[Link Rating]]. When that monster [[leaves the field]], [[destroy]] this card. Neither player can [[declare]] an [[attack]]. [[Once per turn]], during your [[End Phase]], remove 1 Satellite Counter from this card. When the last Satellite Counter(s) is removed from this card, destroy it.
+  | ja_text       = ①：自分フィールドのリンクモンスター１体を対象としてこのカードを発動できる。そのモンスターのリンクマーカーの数だけ、このカードにサテライトカウンターを置く。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：このカードが魔法＆罠ゾーンに存在する限り、お互いのプレイヤーは攻撃宣言できない。③：自分エンドフェイズに、このカードのサテライトカウンターを１つ取り除く。このカードのサテライトカウンターが無くなった時にこのカードは破壊される。
+  | appears_in_vr = 093
+  | decks         = Yusaku Fujiki
+  | supports      = Link Monster
+  | counter       = 
+  * Satellite Counter
+  * Places counters on itself
+  * Removes counters from itself
+  | m/s/t         = Destroys itself
+  | attack        = Prevents attacks
+  | misc          = Limited activations
+  }}

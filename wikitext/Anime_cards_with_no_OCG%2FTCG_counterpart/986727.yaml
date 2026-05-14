@@ -1,0 +1,18 @@
+title: Double Block (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = DoubleBlock-JP-Anime-SV.png
+  | card_type          = Trap
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[send]] 2 [[Level]] 2 [[Normal Monster]]s from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Battle position change|Change]] up to 2 [[face-up]] monsters on your opponent's [[field]] to [[face-down]] [[Defense Position]].
+  | ja_text            = '''【条件】'''相手モンスターの攻撃宣言時、手札の通常モンスター（レベル２）２体を墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
+  | appears_in_sv      = 011
+  | decks              = Romin Kassidy
+  | supports           = Normal Monster
+  | action             = 
+  * Activates upon attack declaration
+  * Sends from hand to Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  }}

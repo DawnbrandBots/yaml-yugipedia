@@ -1,0 +1,32 @@
+title: Sample Fossil
+wikitext: |-
+  {{Not archetype member|Fossil|{{Ruby|化|か}}{{Ruby|石|せき}}}}
+  {{Anime card
+  | ja_name               = サンプル・フォッシル
+  | romaji_name           = Sanpuru Fosshiru
+  | ja_image              = SampleFossil-JP-Anime-GX.png
+  | image_ca              = SampleFossil-OW.png
+  | image_nc              = SampleFossil-JP-Anime-GX-NC.png
+  | attribute             = Earth
+  | types                 = Rock / Effect
+  | level                 = 2
+  | atk                   = ?
+  | def                   = 0
+  | atk-def_note          = <ref group="note">This card's ATK is listed as 0 on [http://www.yugioh.com/cards/sample-fossil yugioh.com].</ref>
+  | effect_types          = Trigger
+  | text                  = When this card is [[Normal Summon]]ed, [[Target|select]] 1 [[Level]] 4 or lower [[Normal Monster]] in your opponent's [[Graveyard]], and [[Special Summon]] it to your side of the [[field]]. It cannot [[attack]] or be [[Tribute]]d. This card's [[ATK]] becomes equal to that monster's [[original ATK]].
+  | ja_text               = このカードの召喚に成功した時、相手の墓地からレベル４以下の通常モンスター１体を選択して自分フィールド上に特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、生け贄にする事はできない。このカードの攻撃力はそのモンスターの元々の攻撃力と同じ数値になる。
+  | appears_in_gx         = 110, 125
+  | decks                 = Jim Crocodile Cook
+  | anti-supports         = Normal Monster
+  | related_to_archseries = Fossil
+  | action                = 
+  * Activates upon Normal Summon
+  * Cannot be Tributed
+  | stat_change           = Changes own ATK value
+  | summoning             = Special Summons from your opponent's Graveyard to your field
+  | attack                = Prevents your monsters from attacking
+  }}
+
+  ==Notes==
+  <references group="note"/>

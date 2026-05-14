@@ -1,0 +1,18 @@
+title: Aromagmabear (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = Aromagmabear-JP-Anime-SV.png
+  | image_nc      = Aromagmabear-JP-Anime-SV-NC.png
+  | attribute     = EARTH
+  | types         = Pyro / Effect
+  | level         = 3
+  | atk           = 600
+  | def           = 1200
+  | text          = '''[REQUIREMENT]''' [[Send]] up to 2 cards from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Gain [[LP]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 300.
+  | ja_text       = '''【条件】'''手札を２枚まで墓地へ送って発動できる。<br />'''【効果】'''自分は［この効果の条件で墓地へ送ったカードの数］×３００ＬＰ回復する。
+  | appears_in_sv = 034
+  | decks         = Terra Kneadalina
+  | archseries    = Magma
+  | action        = Sends from hand to Graveyard for cost
+  | life_points   = You gain Life Points
+  }}

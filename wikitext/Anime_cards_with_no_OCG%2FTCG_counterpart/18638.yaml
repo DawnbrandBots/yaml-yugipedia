@@ -1,0 +1,21 @@
+title: Drawber
+wikitext: |-
+  {{Anime card
+  | ja_name       = ドローボウ
+  | romaji_name   = Dorōbou
+  | image         = Drawber-EN-Anime-GX.png
+  | ja_image      = Drawber-JP-Anime-GX.png
+  | image_ca      = Drawber-OW.png
+  | card_type     = Spell
+  | property      = Normal
+  | effect_types  = Effect
+  | text          = [[Declare]] 1 card name. Your opponent [[Draw a card|draw]]s 1 card, and if it is the declared card, [[shuffle]] all cards from your opponent's [[hand]] and side of the [[field]] into the [[Main Deck|Deck]].
+  | ja_text       = カード名を宣言し、相手はカードを１枚引く。そのカードが宣言したカードと同じカードだった場合、相手の手札、フィールド上のカードを全て相手のデッキに戻しシャッフルする。
+  | appears_in_gx = 017
+  | decks         = Damon
+  | action        = 
+  * Declares a card name
+  * Your opponent draws cards
+  * Returns from your opponent's hand to your opponent's Deck
+  * Returns from field to Deck
+  }}

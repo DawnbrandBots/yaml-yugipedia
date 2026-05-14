@@ -1,0 +1,20 @@
+title: High and Low (anime)
+wikitext: |-
+  {{Anime card
+  | ja_name       = ハイ・アンド・ロー
+  | romaji_name   = Hai ando Rō
+  | ja_image      = HighandLow-JP-Anime-5D.png
+  | image_ca      = HighandLow-OW.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = [[Activate]] only when a [[Monster Card|monster]] you [[control]] is [[select]]ed as an [[attack target]]. [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. If that card is a Monster Card, the attack target gains [[ATK]] equal to the revealed monster's ATK. This [[effect]] can be used up to 3 times. If the attack target's ATK becomes higher than the attacking monster's by this card's effect, [[destroy]] it.
+  | ja_text       = 相手モンスターに攻撃された時､ 攻撃対象となった自分フィールド上に存在するモンスター１体を対象に以下の効果を発動する｡ ●デッキからｶｰﾄﾞを１枚めくり墓地へ送る｡ そのカードがモンスターだった場合､ その攻撃力の数値分だけ対象モンスター１体の攻撃力をアップする｡ この効果を３回まで任意でくり返す事ができる｡ 対象モンスターの攻撃力が相手攻撃モンスターの攻撃力を越えた場合対象モンスターを破壊する｡
+  | appears_in_5d = 154
+  | decks         = Yusei Fudo
+  | action        = 
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change   = Your monsters gain ATK
+  | m/s/t         = Destroys your face-up Monster Cards
+  | misc          = Only thrice per turn
+  }}

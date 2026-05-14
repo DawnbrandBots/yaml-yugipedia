@@ -1,0 +1,33 @@
+title: Forest Wolf
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|森|もり}}のオオカミ
+  | romaji_name   = Mori no Ookami
+  | image         = ForestWolf-EN-Anime-DM.png
+  | ja_image      = ForestWolf-JP-Anime-DM.png
+  | image_ca      = ForestWolf-OW.png
+  | image_nc      = ForestWolf-JP-Anime-DM-NC.png
+  | attribute     = Earth
+  | types         = Beast / Effect
+  | level         = 3
+  | atk           = 1800
+  | def           = 300
+  | effect_types  = Trigger, Trigger
+  | text          = When this card [[destroy]]s a [[Monster Card|monster]] [[Destroyed by battle|by battle]], [[equip]] that monster to this card. When this card is destroyed, your opponent can [[Summon]] any of those [[Equip Card]]s to their side of the [[field]].
+  | ja_text       = 戦闘で破壊したモンスターを装備カードとしてこのカードに装備する。このカードが破壊された時、それらの装備カードを相手の任意で相手の場に召喚してもよい。
+  | appears_in_dm = 192, 196, 197, 198
+  | decks         = Leon von Schroeder
+  | archseries    = Fairy Tale (anime)
+  | action        = 
+  * Activates if it destroys a monster by battle
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Equips monsters from the player's Graveyard to itself
+  * Equips monsters from the opponent's Graveyard to itself
+  * Equips the player's banished monsters to itself
+  * Equips the opponent's banished monsters to itself
+  | m/s/t         = Treats monsters as Equip Cards
+  | summoning     = 
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  * Special Summons from your Graveyard to your opponent's field
+  }}

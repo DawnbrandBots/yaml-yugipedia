@@ -1,0 +1,25 @@
+title: Emerging Awakening
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|覚|かく}}{{Ruby|醒|せい}}への{{Ruby|飛|ひ}}{{Ruby|躍|やく}}
+  | romaji_name   = Kakusei e no Hiyaku
+  | image         = EmergingAwakening-EN-Anime-5D.png
+  | ja_image      = EmergingAwakening-JP-Anime-5D.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Activation requirement, Effect, Lingering
+  | text          = [[Activate]] only when a [[Monster Card|monster]] is [[Normal Summon]]ed to your side of the [[field]] by [[Target|select]]ing 1 other monster you [[control]]. [[Banish|Remove]] the selected monster from play and inflict [[Effect damage|damage]] to your opponent equal to the removed monster's [[Level]] x 100. During the [[Standby Phase]] of the next [[turn]], return the removed monster to your side of the field, and it gains [[ATK]] equal to its Level x 100.
+  | text_note     = <ref group="Note">Contrary to its written text, the removed monster was returned to the field during the Standby Phase of the controller's next turn, not just the next turn in general.</ref>
+  | ja_text       = 自分フィールド上にモンスターが召喚された時、そのモンスターとは別の自分フィールド上に存在するモンスター１体を選択して発動する。選択したモンスターをゲームから除外し、そのレベル×１００ポイントダメージを相手ライフに与える。この効果を発動するために除外したモンスターは、次のターンのスタンバイフェイズ時に、攻撃力をそのレベル×１００ポイントアップして自分フィールド上に戻る。
+  | appears_in_5d = 108
+  | decks         = Yusei Fudo
+  | action        = 
+  * Activates upon Normal Summon
+  * Returns banished cards to the field
+  | banished      = Banishes from your field
+  | life_points   = Damages your opponent
+  | stat_change   = Your monsters gain ATK
+  }}
+
+  == Notes ==
+  <references group="Note"/>

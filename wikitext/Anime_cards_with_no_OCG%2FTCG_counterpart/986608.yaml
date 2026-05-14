@@ -1,0 +1,24 @@
+title: Buried Shield (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image              = BuriedShield-JP-Anime-SV.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 1 [[Field Spell Card]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].<br />'''[EFFECT]''' [[Battle position change|Change]] that monster to [[face-down]] [[Defense Position]]. If you changed a monster to face-down Defense Position by this [[effect]], you can make 1 [[face-up]] [[Wyrm]] [[Type]] monster on your [[field]] gain 500 [[ATK]]/[[DEF]] until the end of this [[turn]].
+  | ja_text               = '''【条件】'''相手がモンスターを召喚した時、自分の墓地のフィールド魔法カード１枚をデッキの下に戻して発動できる。<br />'''【効果】'''そのモンスターを裏側守備表示にする。この効果でモンスターを裏側守備表示にした場合、自分フィールドの表側表示モンスター（幻竜族）１体を選んでその攻撃力・守備力をターン終了時まで５００アップできる。
+  | appears_in_sv         = 075
+  | decks                 = Asana Mutsuba
+  | supports              = 
+  * Field Spell Card
+  * Wyrm
+  | related_to_archseries = Constructor
+  | action                = 
+  * Activates upon Normal Summon
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | stat_change           = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | misc                  = Requires control of specific Type
+  }}

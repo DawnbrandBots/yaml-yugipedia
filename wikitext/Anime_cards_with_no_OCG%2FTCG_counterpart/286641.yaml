@@ -1,0 +1,24 @@
+title: Evil 1
+wikitext: |-
+  {{Anime card
+  | ja_name       = イービル {{Ruby|１|ワン}}
+  | romaji_name   = Ībiru Wan
+  | image         = Evil1-EN-Anime-ZX.png
+  | ja_image      = Evil1-JP-Anime-ZX.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Activation requirement, Effect, Quick-like
+  | text          = During [[damage calculation]], when a [[Monster Card|monster]] you [[control]] [[battle]]s an opponent's monster: [[Activate]] this card; monsters cannot be [[Destroyed by battle|destroyed by this battle]], also the [[battle damage]] taken becomes equal to the [[Life Points]] of the player who would take that [[damage]] − 1. During your [[Main Phase]]: You can send this [[face-up]] card to the [[Graveyard]], then [[target]] 1 card on the [[field]]; destroy that target, and if you do, skip this [[turn]]'s [[Battle Phase]].
+  | ja_text       = 自分フィールド上のモンスターが相手モンスターと戦闘を行ったダメージ計算時に発動できる。その戦闘ではモンスターは破壊されず、その戦闘ダメージはそのダメージを受けるプレイヤーのライフポイント−１の数値になる。自分のメインフェイズ時に、このカードを墓地へ送る事で、フィールド上のカード１枚を選択して破壊する。その後、このターンのバトルフェイズをスキップする。
+  | appears_in_zx = 132
+  | decks         = Vector
+  | attack        = Cannot be destroyed by battle
+  | action        = 
+  * Sends itself from field to Graveyard for cost
+  * Skips Battle Phase
+  | m/s/t         = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | life_points   = Reduces battle damage
+  }}

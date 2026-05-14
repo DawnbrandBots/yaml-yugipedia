@@ -1,0 +1,24 @@
+title: Drop Frame Wedge
+wikitext: |-
+  {{Anime card
+  | ja_name       = ドロップフレーム・ウェッジ
+  | romaji_name   = Doroppu Furēmu Wejji
+  | image         = DropFrameWedge-EN-Anime-VR.png
+  | ja_image      = DropFrameWedge-JP-Anime-VR.png
+  | image_nc      = DropFrameWedge-JP-Anime-VR-NC.png
+  DropFrameWedge-JP-Anime-VR-NC-2.png
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Condition, Activation requirement, Effect, Continuous-like, Trigger-like
+  | text          = [[Destroy]] this card during your next [[End Phase]] after [[activate|activation]], but if 2 cards were [[sent]] from your [[hand]] to the [[GY]] with the following [[card effect|effect]], destroy this card during your 2nd End Phase after activation instead. Activate this card if your opponent activates a card or effect that would inflict [[effect damage|damage]]: Send 1 card from your hand to the GY, and if you do, halve that damage, then you can send 1 more card from your hand to the GY, and if you do that, halve that damage again. [[Monster Card|Monsters]] cannot [[attack]]. If this card in its [[owner]]'s [[control]] [[leaves the field]] because of an opponent's card effect: [[Negate]] the effects of as many monsters on the [[field]] as possible, and if you do, destroy them.
+  | ja_text       = このカードは発動後、次の自分エンドフェイズに破壊され、このカードの①の効果で手札を２枚墓地へ送った場合、２回目の自分エンドフェイズに破壊される。①：相手がダメージを与える効果を発動した場合にこのカードを発動できる。手札を１枚墓地へ送り、そのダメージを半分にする。さらに手札を１枚墓地へ送る事で、そのダメージをさらに半分にできる。②：このカードが魔法＆罠ゾーンに存在する限り、お互いのモンスターは攻撃できない。③：このカードが相手の効果でフィールドから離れた場合に発動する。フィールドの全てのモンスターの効果を無効にし破壊する。
+  | appears_in_vr = 045
+  | decks         = Yusaku Fujiki
+  | action        = Sends from your hand to your Graveyard
+  | m/s/t         = 
+  * Destroys itself
+  * Negates the effects of Effect Monsters
+  * Destroys Monster Cards
+  | attack        = Prevents attacks
+  | life_points   = Reduces effect damage
+  }}

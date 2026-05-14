@@ -1,0 +1,19 @@
+title: Diving Exploder (anime)
+wikitext: |-
+  {{Anime card
+  | image         = DivingExploder-EN-Anime-5D.jpg
+  | ja_image      = DivingExploder-JP-Anime-5D.png
+  | image_nc      = DivingExploder-JP-Anime-5D-NC.jpg
+  | image_ca      = DivingExploder-OW.png
+  | attribute     = DARK
+  | level         = 1
+  | atk           = 0
+  | def           = 0
+  | types         = Machine / Effect
+  | text          = You can [[send]] this card from your [[hand]] to the [[Graveyard]] to switch the [[ATK]] and [[DEF]] of all [[face-up]] [[Monster Card|monsters]] on the [[field]]. If a monster is [[destroyed by battle]], the ATK and DEF of all affected monsters are returned to normal at the [[End Phase]].
+  | ja_text       = 自分の手札のこのカードを墓地へ送って発動する。<br />このターン終了時までフィールド上に存在する全てのモンスターの元々の攻撃力と守備力]]を入れ替える。フィールド上に存在するモンスター１体が戦闘によって破壊された時、このカードの効果で入れ替わった全てのモンスターの攻撃力と守備力は元へ戻る。
+  | appears_in_5d = 051
+  | decks         = Greiger
+  | action        = Sends itself from hand to Graveyard for cost
+  | stat_change   = Switches ATK and DEF
+  }}

@@ -1,0 +1,30 @@
+title: Granel Attack (anime)
+wikitext: |-
+  {{Anime card
+  | image               = GranelAttack-EN-Anime-5D.png
+  | ja_image            = GranelAttack-JP-Anime-5D.png
+  | image_ca            = GranelAttack-OW.png
+  | image_nc            = GranelAttack-JP-Anime-5D-NC.png
+  | attribute           = EARTH
+  | types               = Machine / Effect
+  | level               = 1
+  | atk                 = 1300
+  | def                 = 0
+  | effect_types        = Continuous, Trigger, Continuous, Continuous
+  | text                = If you do not [[control]] a [[face-up]] "[[∞ (archetype)|∞]]" [[Monster Card|monster]], [[destroy]] this card. When an opponent's [[Synchro Monster]] is [[destroyed by battle]], you can [[equip]] that monster to a face-up "∞" monster you control. [[Once per turn]], a monster treated as an [[Equip Card]] by this [[effect]] can make an [[attack]] on an opponent's monster. When it does, during [[battle]] between that attacking monster and a Defense Position monster whose [[DEF]] is lower than the [[ATK]] of the attacking monster, inflict the difference as [[Battle Damage]] to your opponent.
+  | ja_text             = 「∞」と名のついたモンスターが自分フィールド上に存在しない場合、このカードを破壊する。戦闘によって破壊した相手のシンクロモンスター１体を装備カード扱いとして、自分フィールド上に存在るする「∞」と名のついたモンスターに装備する事ができる。この効果で装備カード扱いとしたモンスターは、１ターンに１度、相手モンスターに攻撃する事ができる。またこの時、守備表示モンスターを攻撃した場合、その守備力を装備モンスターの攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
+  | appears_in_5d       = 110, 132, 133, 134, 136, 137, 146, 147
+  | decks               = 
+  * Jakob
+  * Aporia
+  | anti-supports       = Synchro Monster
+  | archseries          = 
+  * Granel
+  * Attack (archetype)
+  | supports_archetypes = ∞ (archetype)
+  | action              = Equips monsters from the opponent's Graveyard
+  | m/s/t               = 
+  * Destroys itself
+  * Treats monsters as Equip Cards
+  | attack              = Piercing
+  }}

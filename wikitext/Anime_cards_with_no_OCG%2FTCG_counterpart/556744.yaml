@@ -1,0 +1,24 @@
+title: Spam Mail
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|迷惑な鎧|スパムメイル}}
+  | romaji_name   = Supamu Meiru
+  | image         = SpamMail-EN-Anime-VR.png
+  | ja_image      = SpamMail-JP-Anime-VR.png
+  | image_nc      = 
+  | card_type     = Spell
+  | property      = Equip
+  | effect_types  = Condition, Continuous-like, Trigger-like
+  | text          = [[Equip]] only to an [[Effect Monster]] you [[control]]. It has its [[card effect|effects]] [[negate]]d, also it is treated as a [[Normal Monster]]. If this card is [[send|sent]] from the [[hand]], [[Main Deck|Deck]], or [[field]] to the [[GY]] by a card effect: You can [[draw a card|draw]] 1 card, and if you do, show it, then if your opponent controls a [[face-up]] card of that type of card ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]), they [[return]] 1 of them to the hand.
+  | ja_text       = 自分フィールドの効果モンスターにのみ装備可能。①：装備モンスターの効果は無効化され、通常モンスターとして扱う。②：このカードが効果で手札・デッキ・フィールドから墓地へ送られた場合に発動できる。自分はデッキから１枚ドローし、お互いに確認する。確認したカードの種類（モンスター・魔法・罠）のカードが相手フィールドに表側表示で存在する場合、相手はその種類のカード１枚を自身のフィールドから選んで持ち主の手札に戻す。
+  | appears_in_vr = 046
+  | decks         = Yusaku Fujiki
+  | action        = 
+  * Activates from your Graveyard
+  * You draw cards
+  * Shows the player's drawn cards
+  * Returns from your opponent's field to your opponent's hand
+  | stat_change   = Treated as a Normal Monster
+  | m/s/t         = Negates the effects of your Effect Monsters
+  | misc          = Equips only to a specific target
+  }}

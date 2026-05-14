@@ -1,0 +1,19 @@
+title: The Barrier (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = TheBarrier-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 1 monster from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' The attacking monster loses 400 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時、自分の墓地のモンスター１体をデッキに戻して発動できる。<br />'''【効果】'''攻撃してきたモンスターの攻撃力はターン終了時まで４００ダウンする。
+  | appears_in_sv = 062
+  | appears_in_gr = 032
+  | decks         = 
+  * Lucidien Kallister
+  * The Luug
+  | archseries    = The
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,24 @@
+title: Frontline Disturbance
+wikitext: |-
+  {{Anime card
+  | it_name       = Disturbo Prima Linea
+  | es_name       = Disturbio de Primera Línea
+  | ja_name       = {{Ruby|戦|せん}}{{Ruby|線|せん}}{{Ruby|撹|かく}}{{Ruby|乱|らん}}
+  | romaji_name   = Sensen Kakuran
+  | image         = FrontlineDisturbance-EN-Anime-VR.png
+  | ja_image      = FrontlineDisturbance-JP-Anime-VR.png
+  | image_other   = FrontlineDisturbance-JP-Anime-VR-2.png
+  | card_type     = Spell
+  | property      = Quick-Play
+  | effect_types  = Effect, Trigger-like
+  | text          = [[Target]] 1 [[Level]] 4 or lower [[Monster Card|monster]] your opponent [[control]]s; if it [[leaves the field]], place 1 [[Disturbance Counter]] on 1 [[face-up]] monster you control, and if you do, it gains this [[card effect|effect]] as long as it has a Disturbance Counter.<br />● If this card with a Disturbance Counter [[battle]]s: You can remove 1 Disturbance Counter from this card, then target 1 face-up monster your opponent controls; it loses [[ATK]] equal to the combined [[DEF]] of all face-up Defense Position monsters your opponent currently controls, until the end of this [[turn]].
+  | ja_text       = ①：相手フィールドのレベル４以下のモンスター１体を対象として発動できる。そのモンスターがフィールドから離れた場合、自分フィールドの表側表示モンスター１体を選び、そのモンスターに撹乱カウンターを１つ置く。この効果で撹乱カウンターが置かれたモンスターは以下の効果を得る。<br />●撹乱カウンター置かれているこのカードが戦闘を行う場合、このカードの撹乱カウンターを１つ取り除き、相手フィールドの表側攻撃表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、相手フィールドの表側守備表示モンスターの守撃力の合計分ダウンする。
+  | appears_in_vr = 007, 023
+  | decks         = Yusaku Fujiki
+  | counter       = 
+  * Disturbance Counter
+  * Places counters
+  * Removes counters for cost
+  | action        = Grants effect to other cards
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

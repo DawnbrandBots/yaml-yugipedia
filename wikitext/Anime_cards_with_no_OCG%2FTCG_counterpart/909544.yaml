@@ -1,0 +1,19 @@
+title: Lost Cat (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = LostCat-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' Your opponent declares a card type (Monster, [[Spell Card|Spell]], or [[Trap Card|Trap]]). Then, they [[send]] the top card of their [[Main Deck|Deck]] to the [[Graveyard]]. If it was not the declared card type, [[negate]] the attack, and [[Damage|inflict]] 300 [[Effect damage|damage]] to the opponent.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''相手はカードの種類（モンスター・魔法・罠）を宣言する。その後、相手のデッキの一番上のカードを墓地へ送る。そのカードが宣言した種類ではなかった場合、その攻撃を無効にし、相手に３００ダメージを与える。
+  | appears_in_sv = 017
+  | appears_in_gr = 057
+  | decks         = Kit Schrödinger
+  | archseries    = Cat (Rush Duel series)
+  | action        = 
+  * Activates upon attack declaration
+  * Declares a card type
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
+  | attack        = Negates attacks
+  | life_points   = Damages your opponent
+  }}

@@ -1,0 +1,33 @@
+title: Battledrone General
+wikitext: |-
+  {{Anime card
+  | ja_name             = バトルドローン・ジェネラル
+  | romaji_name         = Batorudorōn Jeneraru
+  | image               = BattledroneGeneral-EN-Anime-VR.png
+  | ja_image            = BattledroneGeneral-JP-Anime-VR.png
+  | image_nc            = BattledroneGeneral-JP-Anime-VR-NC.png
+  | image_other         = BattledroneGeneral-OW-NC.png
+  | attribute           = WIND
+  | types               = Machine / Link / Effect
+  | atk                 = 2400
+  | link_arrows         = Middle-Left, Bottom-Center, Middle-Right
+  | effect_types        = Ignition, Ignition, Trigger
+  | material            = 2+ "[[Drone]]" [[Monster Card|monsters]]
+  | ja_material         = 「ドローン」モンスター２体以上
+  | text                = [[Once per turn]]: You can [[target]] 1 "Drone" monster in your [[Graveyard|GY]]; [[Special Summon]] it to your [[zone]] this card [[points to]]. Once per [[turn]], during your [[Main Phase 1]]: You can target 1 [[Level]] 4 or lower "Drone" monster you [[control]] with 1000 or less [[ATK]]; it can [[attack]] [[direct attack|directly]] this turn. If your "Drone" monster inflicts [[battle damage]] to your opponent by a direct attack: You can [[Tribute]] that monster; inflict [[effect damage|damage]] to your opponent equal to the ATK that monster had on the [[field]].
+  | ja_text             = ①：１ターンに１度、自分の墓地の「ドローン」モンスター１体を対象として発動できる。そのモンスターをこのカードのリンク先となる自分フィールドに特殊召喚する。②：自分メインフェイズ１に１度、自分フィールドのレベル４以下で攻撃力１０００以下の「ドローン」モンスター１体を対象として発動できる。そのモンスターは直接攻撃できる。③：自分の「ドローン」モンスターが直接攻撃で相手に戦闘ダメージを与えた場合、その自分の「ドローン」モンスター１体をリリースして発動できる。その攻撃力分のダメージを相手に与える。
+  | appears_in_vr       = 053, 054, 059, 071, 077, 078, 079, 080, 106, 107
+  | decks               = The Shepherd
+  | archseries          = Drone
+  | supports_archetypes = Drone
+  | summoning           = 
+  * 2+ Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your Graveyard
+  | misc                = Limited activations
+  | attack              = Allows direct attacks
+  | action              = 
+  * Activates if battle damage is inflicted
+  * Tributes for cost
+  | life_points         = Damages your opponent
+  }}

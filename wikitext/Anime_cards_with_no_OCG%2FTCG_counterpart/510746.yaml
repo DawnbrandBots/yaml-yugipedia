@@ -1,0 +1,25 @@
+title: Chaos Form (GX)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | name               = Chaos Form
+  | ja_name            = カオス・フォーム
+  | romaji_name        = Kaosu Fōmu
+  | de_name            = Chaos Form
+  | image              = ChaosForm-EN-Anime-GX.png
+  | ja_image           = ChaosForm-JP-Anime-GX.png
+  | image_ca           = ChaosForm-OW.png
+  | image_other        = ChaosForm-JP-Anime-GX-2.png
+  | card_type          = Trap
+  | property           = Continuous
+  | text               = After activation, [[equip]] this card to 1 [[face-up]] [[Monster Card|monster]] you [[control]]. Each time the equipped monster is selected as an [[attack target]], select 1 [[random]] monster in your [[Graveyard]]. The equipped monster's [[ATK]] and [[DEF]] become equal to the ATK and DEF of the selected monster. When the equipped monster is [[destroy]]ed, [[remove from play]] the monster(s) selected by this card's [[effect]] this turn.
+  | ja_text            = 発動後、自分フィールド上のモンスター１体の装備カードとなる。装備モンスターが攻撃対象になった時自分の墓地からモンスター１体をランダムに選択する。装備モンスターの攻撃力と守備力は選択したモンスターと同じになる。装備モンスターが破壊された時、このターン、このカードの効果で墓地から選択したモンスターはゲームから除外される。
+  | appears_in_gx      = 130
+  | decks              = Yubel (character)
+  | archseries         = Chaos
+  | action             = Activates upon attack declaration
+  | misc               = Treated as Equip Card
+  | stat_change        = 
+  * Changes ATK value of equipped
+  * Changes DEF value of equipped
+  }}

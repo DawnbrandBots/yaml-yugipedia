@@ -1,0 +1,20 @@
+title: Magical Shift Box
+wikitext: |-
+  {{Anime card
+  | ja_name       = マジカル・シフトボックス
+  | romaji_name   = Majikaru Shifuto Bokkusu
+  | ja_image      = MagicalShiftBox-JP-Anime-SV.png
+  | image_nc      = MagicalShiftBox-JP-Anime-SV-NC.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[Battle position change|change]] all [[face-down]] [[Defense Position]] monsters on your [[field]] to [[face-up]] Defense Position.<br />'''[EFFECT]''' You choose which of your monsters becomes the [[attack target]] for your opponent's attack. Then, all face-up monsters on your field gain 300 [[DEF]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時、自分フィールドの裏側表示モンスターを全て表側守備表示にして発動できる。<br />'''【効果】'''その攻撃を受ける自分のモンスターを自分が選び直す。その後、自分フィールドの全ての表側表示モンスターの守備力はターン終了時まで３００アップする。
+  | appears_in_sv = 081
+  | decks         = Otes
+  | action        = 
+  * Activates upon attack declaration
+  * Flips your monsters face-up
+  * Changes battle positions for cost
+  | stat_change   = Your monsters gain DEF
+  | attack        = Changes attack targets
+  }}

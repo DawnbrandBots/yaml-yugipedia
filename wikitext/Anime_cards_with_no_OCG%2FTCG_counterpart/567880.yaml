@@ -1,0 +1,33 @@
+title: Duplicate Drone
+wikitext: |-
+  {{Anime card
+  | ja_name       = デュプリケート・ドローン
+  | romaji_name   = Dyupurikēto Dorōn
+  | image         = DuplicateDrone-EN-Anime-VR.png
+  | ja_image      = DuplicateDrone-JP-Anime-VR.png
+  | image_nc      = DuplicateDrone-JP-Anime-VR-NC.png
+  | image_other   = DuplicateDrone-OW-NC.png
+  | attribute     = WIND
+  | level         = 1
+  | types         = Machine / Effect
+  | atk           = 0
+  | def           = 0
+  | effect_types  = Unclassified, Ignition, Condition, Ignition
+  | text          = If you [[control]] "Duplicate Drone", you can [[Special Summon]] this card (from your [[hand]]). You can [[target]] 1 non-[[Machine]] [[Monster Card|monster]] you control; place it [[face-up]] in your [[Spell & Trap Zone]] as a [[Continuous Spell Card|Continuous Spell]]. You can only use this [[effect]] of "Duplicate Drone" [[once per turn]]. You can target 1 Monster Card you control that is treated as a Continuous Spell; while it is in the [[Spell & Trap Zone]], the name, [[Type]], [[Attribute]], [[Level]], and [[ATK]]/[[DEF]] of this card become the same as that card's, but [[destroy]] this card when that card [[leaves the field]].
+  | ja_text       = このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドに「デュプリケート・ドローン」が存在する場合、このカードは手札から特殊召喚できる。②：自分フィールドの機械族以外の表側表示モンスター１体を対象として発動できる。そのモンスターを永続魔法カード扱いとして自分の魔法＆罠ゾーンに表側表示で置く。③：自分フィールドの永続魔法カード扱いのモンスターカード１枚を対象として発動できる。そのカードが魔法＆罠ゾーンに存在する限り、このカードは対象のカードの同名カードとして扱い、同じ種族・属性・レベル・攻撃力・守備力を得る。対象のカードがフィールドから離れた時にこのカードは破壊される。
+  | appears_in_vr = 062, 063, 078, 106
+  | decks         = The Shepherd
+  | archseries    = Drone
+  | stat_change   = 
+  * Changes own name while on the field
+  * Copies name
+  * Changes own Type
+  * Changes own Attribute
+  * Changes own ATK value
+  * Changes own DEF value
+  | m/s/t         = 
+  * Treats monsters as Continuous Spell Cards
+  * Destroys itself
+  | summoning     = Special Summons itself from your hand
+  | misc          = Only once per turn
+  }}

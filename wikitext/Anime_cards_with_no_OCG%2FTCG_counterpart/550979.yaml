@@ -1,0 +1,31 @@
+title: Sunavalon Cursed Rebirth
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|聖天樹の呪精|サンアバロン・カースド・リボーン}}
+  | romaji_name         = San'abaron Kāsudo Ribōn
+  | translated_name     = San Avalon Cursed Reborn
+  | image               = SunavalonCursedRebirth-EN-Anime-VR.png
+  | ja_image            = SunavalonCursedRebirth-JP-Anime-VR.png
+  | image_nc            = SunavalonCursedRebirth-JP-Anime-VR-NC.png
+  | card_type           = Spell
+  | property            = Continuous
+  | effect_types        = Effect, Continuous-like, Continuous-like, Trigger-like
+  | text                = [[Activate]] this card by [[target]]ing 1 "[[Sunavalon]]" [[Link Monster]] in your [[GY]]; [[Special Summon]] it, and if you do, its [[ATK]] becomes equal to its [[Link Rating]] x 1000, but it has its [[card effect|effects]] [[negate]]d, also for the rest of this [[turn]], it cannot be used as [[Link Material]], nor [[attack]]. When this card [[leaves the field]], [[destroy]] that [[Monster Card|monster]]. When that monster leaves the field, destroy this card. If you take [[battle damage|battle]] or [[effect damage]]: You can [[send]] this card to the GY; inflict damage to your opponent equal to the damage you took.
+  | ja_text             = ①：自分の墓地の「聖天樹」リンクモンスター１体を対象としてこのカードを発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの攻撃力はそのリンクマーカーの数×１０００になり、効果は無効化され、このターン、対象のモンスターはリンク素材にできず、攻撃もできない。このカードがフィールドから離れた時に対象のモンスターは破壊される。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：自分が戦闘・効果でダメージを受けた場合、フィールドのこのカードを墓地へ送って発動できる。受けたダメージの数値分だけ相手にダメージを与える。
+  | appears_in_vr       = 037
+  | decks               = Specter
+  | archseries          = Sunavalon
+  | supports_archetypes = Sunavalon
+  | supports            = Link Monster
+  | summoning           = 
+  * Special Summons from your Graveyard
+  * Cannot be used as a Link Material
+  | stat_change         = Changes ATK value
+  | m/s/t               = 
+  * Negates the effects of your Effect Monsters
+  * Destroys your Monster Cards
+  * Destroys itself
+  | action              = Sends itself from field to Graveyard
+  | life_points         = Damages your opponent
+  | attack              = Cannot attack
+  }}

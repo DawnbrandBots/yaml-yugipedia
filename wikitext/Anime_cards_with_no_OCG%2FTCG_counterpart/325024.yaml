@@ -1,0 +1,37 @@
+title: Quiz Sphinx
+wikitext: |-
+  {{Anime card
+  | article_messages    = {{Not archetype member|Sphinx|スフィンクス}}
+  | reconstructed_text  = yes
+  | ja_name             = スフィンクイズー
+  | romaji_name         = Sufinkuizū
+  | translated_name     = Sphin-Quiz
+  | ko_name             = 스핑퀴즈
+  | ko_rr_name          = Seupingkwijeu
+  | image               = QuizSphinx-EN-Anime-AV.png
+  | ja_image            = QuizSphinx-JP-Anime-AV.png
+  | ko_image            = QuizSphinx-KR-Anime-AV.png
+  | image_nc            = QuizSphinx-JP-Anime-AV-NC.png
+  | attribute           = Light
+  | types               = Rock / Effect
+  | atk                 = 1000
+  | def                 = 2000
+  | level               = 6
+  | effect_types        = Trigger, Continuous, Trigger
+  | text                = When your "[[Quiz]]" [[Monster Card|monster]] inflicts [[battle damage]] to your opponent: You can [[Special Summon]] this card from your [[hand]]. If you [[control]] another "Quiz" monster, your opponent cannot [[target]] this card for an [[attack]]. [[Once per turn]], when your "Quiz" monster is targeted for an attack: Your opponent must answer the following question. Apply the appropriate [[effect]], based on the answer.<br />(Question: What's the monster on the [[field]] with the highest [[Level]]?)<br />● Correct answer: [[Destroy]] that monster with the highest Level, and if you do, its [[controller]] takes [[Effect damage|damage]] equal to the destroyed monster's [[ATK]].<br />● Incorrect answer: End the [[Battle Phase]].
+  | ja_text             = 
+  | appears_in_av       = 019, 020, 025
+  | decks               = Pierre L'Supérieure
+  | archseries          = Quiz
+  | supports_archetypes = Quiz
+  | action              = Ends the Battle Phase
+  | m/s/t               = Destroys Monster Cards
+  | summoning           = Special Summons itself from your hand
+  | attack              = Cannot be targeted for attacks
+  | life_points         = 
+  * Damages you
+  * Damages your opponent
+  | misc                = 
+  * Limited activations
+  * Variable effects
+  }}

@@ -1,0 +1,18 @@
+title: I Hear Footsteps (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = IHearFootsteps-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent conducts a [[Draw a card|draw]] during the [[Draw Phase]] while they have no [[Spell Card|Spell]]/[[Trap Card]]s on their [[field]].<br />'''[EFFECT]''' [[Look]] at your opponent's [[hand]], and choose up to 3 Spell/Trap Cards. Then, [[Set]] those cards to your opponent's field, and [[Damage|inflict]] [[Effect damage|damage]] to them equal to [the number Set by this [[effect]]] x 300.
+  | ja_text       = '''【条件】'''相手フィールドに魔法・罠カードが無い場合、相手がドローフェイズにドローした時に発動できる。<br />'''【効果】'''相手の手札を確認し、自分はその中から魔法・罠カードを３枚まで選ぶ。その後、選んだカードを相手フィールドにセットし、［この効果でセットした数］×３００ダメージを相手に与える。
+  | appears_in_sv = 010
+  | appears_in_gr = 057
+  | decks         = Toombs
+  | archseries    = Ghost Story
+  | action        = 
+  * Activates if your opponent draws a card
+  * Reveals your opponent's hand
+  * Sets from your opponent's hand to your opponent's field
+  | life_points   = Damages your opponent
+  }}

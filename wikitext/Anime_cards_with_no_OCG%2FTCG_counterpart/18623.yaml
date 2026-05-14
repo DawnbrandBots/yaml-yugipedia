@@ -1,0 +1,32 @@
+title: Drawler
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = ドローラー
+  | romaji_name        = Dorōrā
+  | image              = Drawler-EN-Anime-GX.png
+  | ja_image           = Drawler-JP-Anime-GX.png
+  | image_ca           = Drawler-OW.png
+  | image_nc           = Drawler-JP-Anime-GX-NC.png
+  | attribute          = Earth
+  | types              = Rock / Effect
+  | level              = 3
+  | atk                = ?
+  | def                = ?
+  | atk-def_note       = <ref group="Note">This card's ATK and DEF are listed as 0 on [http://www.yugioh.com/cards/drawler yugioh.com].</ref>
+  | effect_types       = Trigger, Continuous
+  | text               = When this card is [[Normal Summon]]ed, you can place any number of cards from your [[hand]] on the bottom of the [[Main Deck|Deck]] (in a random order) to have this card's [[ATK]] and [[DEF]] become equal to the number of [[return]]ed cards x 500. If this card [[destroy]]s an [[Attack Position]] monster [[by battle]], place the destroyed monster on the bottom of the Deck instead of [[send]]ing it to the [[Graveyard]].
+  | ja_text            = 召喚するときに任意の枚数の手札を自分のデッキの下に戻す。このカードの攻撃力と守備力はデッキに戻したカードの枚数×５００ポイントになる。<br />攻撃表示の相手モンスターを破壊した場合、墓地へ送らずに相手のデッキの一番下に戻す。
+  | appears_in_gx      = 017, 090
+  | decks              = Damon
+  | action             = 
+  * Activates upon Normal Summon
+  * Returns from hand to Deck
+  * Returns from field to Deck
+  | stat_change        = 
+  * Changes own ATK value
+  * Changes own DEF value
+  }}
+
+  == Notes ==
+  <references group="Note"/>

@@ -1,0 +1,22 @@
+title: Card Great Restoration
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name         = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|大|だい}}{{Ruby|増|ぞう}}{{Ruby|刷|さつ}}
+  | romaji_name     = Tefuda Daizōsatsu
+  | translated_name = Hand Great Reprinting
+  | ja_image        = CardGreatRestoration-JP-Anime-GR.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]].<br />'''[EFFECT]''' Each [[Duelist|player]] [[Draw a card|draw]]s until they have 5 cards in their [[hand]] and shows them. If a monster(s) is among them, the [[attack]]ing monster loses [[ATK]] equal to [the number of monsters drawn by this [[effect]]] x 100 until the end of this [[turn]].
+  | ja_text         = '''【条件】'''相手モンスターの直接攻撃宣言時に発動できる。<br />'''【効果】'''お互いは手札が５枚になるようにドローし、お互いに確認する。その中にモンスターがいる場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果でドローしたお互いのモンスターの数］×１００ダウンする。
+  | appears_in_gr   = 141
+  | decks           = Maddox Sogetsu
+  | action          = 
+  * Activates upon attack declaration
+  * You draw cards
+  * Your opponent draws cards
+  * Shows the player's drawn cards
+  * Shows the opponent's drawn cards
+  | stat_change     = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,19 @@
+title: Power Charger
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_name            = パワー・チャージャー
+  | romaji_name        = Pawā Chājā
+  | image              = PowerCharger-EN-Anime-GX.png
+  | ja_image           = PowerCharger-JP-Anime-GX.jpg
+  | image_ca           = PowerCharger-OW.png
+  | image_nc           = PowerCharger-JP-Anime-GX-NC.png
+  | card_type          = Spell
+  | property           = Equip
+  | effect_types       = Trigger-like
+  | text               = If the [[equip]]ped [[Monster Card|monster]] [[destroy]]s an opponent's monster [[destroyed by battle|by battle]], it gains [[ATK]] equal to that monster's ATK. During the [[End Phase]], reduce the ATK gained by this [[effect]] to 0.
+  | ja_text            = 戦闘で破壊・・・攻撃力分だけ装備モンスター・・・。<br />エンドフェイズ・・・った攻撃力を元にも・・・。
+  | appears_in_gx      = 074
+  | action             = Activates if it destroys a monster by battle
+  | stat_change        = Equipped gains ATK
+  }}

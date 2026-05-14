@@ -1,0 +1,19 @@
+title: Zero Sprite (anime)
+wikitext: |-
+  {{Anime card
+  | image         = ZeroSprite-EN-Anime-GX.png
+  | ja_image      = ZeroSprite-JP-Anime-GX.png 
+  | card_type     = Trap
+  | property      = Continuous
+  | effect_types  = Effect, Continuous-like
+  | text          = [[Equip]] this card to 1 [[Monster Card|monster]] on the [[field]]. The equipped monster's [[original ATK]] becomes 0, and it can [[attack]] twice during the same [[Battle Phase]].
+  | ja_text       = このカードは装備カードとなり、対象モンスターの元々の攻撃力を０にする。装備モンスターはバトルフェイズ中２回攻撃をする事ができる。
+  | appears_in_gx = 153, 154, 155
+  | decks         = Yubel (character)
+  | stat_change   = 
+  * Reduces ATK to 0
+  * Changes ATK value of equipped
+  * Changes original ATK
+  | misc          = Treated as Equip Card
+  | attack        = Allows multiple attacks
+  }}

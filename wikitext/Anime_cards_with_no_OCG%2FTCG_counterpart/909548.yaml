@@ -1,0 +1,19 @@
+title: Magmassage (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = Magmassage-JP-Anime-SV.png
+  | image_nc      = Magmassage-JP-Anime-SV-NC.png
+  | attribute     = FIRE
+  | types         = Pyro / Effect
+  | level         = 7
+  | atk           = 2100
+  | def           = 2100
+  | text          = '''[REQUIREMENT]''' [[Send]] up to 4 cards from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' 1 [[face-up]] [[Level]] 4 or lower [[Monster Card|monster]] on either side of the [[field]] gains [[ATK]] equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]] x 500 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''手札を４枚まで墓地へ送って発動できる。<br />'''【効果】'''自分または相手フィールドの表側表示モンスター（レベル４以下）１体を選び、その攻撃力をターン終了時まで、［この効果の条件で墓地へ送ったカードの数］×５００アップする。
+  | appears_in_sv = 034, 059
+  | decks         = Terra Kneadalina
+  | archseries    = Magma
+  | action        = Sends from hand to Graveyard for cost
+  | stat_change   = All monsters gain ATK
+  | misc          = Requires control of specific Level
+  }}

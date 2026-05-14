@@ -1,0 +1,24 @@
+title: Magmashiatsu
+wikitext: |-
+  {{Anime card
+  | ja_name         = マグマシア{{Ruby|２|ツー}}
+  | romaji_name     = Magumashia Tsū
+  | translated_name = Magmashia 2
+  | ja_image        = Magmashiatsu-JP-Anime-SV.png
+  | image_nc        = Magmashiatsu-JP-Anime-SV-NC.png
+  | attribute       = FIRE
+  | types           = Pyro / Effect
+  | level           = 5
+  | atk             = 1500
+  | def             = 1800
+  | text            = '''[REQUIREMENT]''' [[Send]] up to 3 [[Pyro]] [[Type]] [[Monster Card|monster]]s from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Increase or reduce the [[Level]] of 1 [[face-up]] monster on the [[field]] by [the number of monsters sent to the Graveyard to meet the [[Activation condition|requirement]]] until the end of this [[turn]].
+  | ja_text         = '''【条件】'''手札のモンスター（炎族）を３体まで墓地へ送って発動できる。<br />'''【効果】'''自分または相手フィールドの表側表示モンスター１体を選び、そのレベルをターン終了時まで［この効果の条件で墓地へ送ったモンスターの数］だけ上げる、または下げる。
+  | appears_in_sv   = 034
+  | decks           = Terra Kneadalina
+  | supports        = Pyro
+  | archseries      = Magma
+  | action          = Sends from hand to Graveyard for cost
+  | stat_change     = 
+  * All monsters gain Levels
+  * All monsters lose Levels
+  }}

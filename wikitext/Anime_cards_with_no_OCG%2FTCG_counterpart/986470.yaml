@@ -1,0 +1,21 @@
+title: Power of the Throne
+wikitext: |-
+  {{Anime card
+  | ja_name         = {{Ruby|玉座の威光|パワー・オブ・スローン}}
+  | romaji_name     = Pawā Obu Surōn
+  | translated_name = Power of Throne
+  | ja_image        = PoweroftheThrone-JP-Anime-SV.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' When your opponent [[Normal Summon]]s a [[Level]] 5 or higher [[Monster Card|monster]], [[return]] 1 [[face-up]] monster with 0 [[ATK]] from your [[field]] to the [[owner]]'s [[hand]].<br />'''[EFFECT]''' Your opponent [[Draw a card|draw]]s cards equal to [the Level of the monster returned to the hand to meet the [[Activation condition|requirement]]]. This [[turn]], your opponent cannot [[attack]] face-up monsters with 0 ATK.
+  | ja_text         = '''【条件】'''相手がモンスター（レベル５以上）を召喚した時、自分フィールドの表側表示モンスター（攻撃力０）１体を持ち主手札に戻して発動できる。<br />'''【効果】'''相手は［この効果の条件で手札に戻したモンスターのレベルの数］だけドローする。このターン、相手は表側表示モンスター（攻撃力０）を攻撃できない。
+  | appears_in_sv   = 019, 034
+  | decks           = Seatbastian
+  | archseries      = Chair
+  | action          = 
+  * Activates upon Normal Summon
+  * Returns from field to hand for cost
+  * Your opponent draws cards
+  | attack          = Prevents other cards being targeted for attacks
+  | misc            = Requires control of specific ATK
+  }}

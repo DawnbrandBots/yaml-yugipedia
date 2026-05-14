@@ -1,0 +1,26 @@
+title: Overfloater
+wikitext: |-
+  {{Anime card
+  | ja_name       = オーバーフローター
+  | romaji_name   = Ōbāfurōtā
+  | image         = Overfloater-EN-Anime-VR.png
+  | ja_image      = Overfloater-JP-Anime-VR.png
+  | image_nc      = 
+  | attribute     = LIGHT
+  | types         = Cyberse / Effect
+  | level         = 4
+  | atk           = 1400
+  | def           = 1200
+  | effect_types  = Trigger, Condition, Trigger
+  | text          = After [[damage calculation]], if this card was [[destroyed by battle]] with an opponent's [[Monster Card|monster]]: You can [[target]] that opponent's monster; [[negate]] its [[effect]]s. You cannot use the following effect of "Overfloater" the [[turn]] you apply this effect of "Overfloater". When an opponent's monster [[declare]]s an [[attack]] while your opponent [[control]]s more monsters than you do: You can [[banish]] this card from your [[Graveyard|GY]], then target that attacking monster; negate the effects of all monsters your opponent controls with [[original ATK]] less than or equal to the targeted monster's original [[ATK]].
+  | ja_text       = このカード名の①の効果を適用したターン、②の効果は使用できない。①：このカードが相手モンスターとの戦闘で破壊されたダメージ計算後、その相手モンスター１体を対象として発動できる。そのモンスターの効果を無効にする。②：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、相手モンスターの攻撃宣言時に墓地のこのカードを除外し、その攻撃モンスター１体を対象として発動できる。そのモンスターの元々の攻撃力以下の元々の攻撃力を持つ相手フィールドの全てのモンスターの効果を無効にする。
+  | appears_in_vr = 118
+  | decks         = Yusaku Fujiki
+  | action        = 
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  * Activates upon attack declaration
+  | m/s/t         = Negates the effects of your opponent's Effect Monsters
+  | banished      = Banishes itself from Graveyard for cost
+  | misc          = Only 1 effect once per turn
+  }}

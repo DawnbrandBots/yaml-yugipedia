@@ -1,0 +1,32 @@
+title: Photon Specter
+wikitext: |-
+  {{Anime card
+  | reconstructed_text  = yes
+  | ja_name             = フォトン・スペクター
+  | romaji_name         = Foton Supekutā
+  | it_name             = Spettro Fotonico
+  | image               = PhotonSpecter-EN-Anime-ZX.png
+  | ja_image            = PhotonSpecter-JP-Anime-ZX.png
+  | attribute           = Light
+  | types               = Spellcaster / Effect
+  | level               = 1
+  | atk                 = 0
+  | def                 = 0
+  | effect_types        = Trigger, Lingering, Lingering
+  | text                = When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]]: You can [[banish]] this card from your [[Graveyard]]; [[Special Summon]] 1 "[[Photon (disambiguation)|Photon]]" monster from your Graveyard in [[face-up]] [[Attack Position]]. It loses 1000 [[ATK]], also its [[effect]]s are [[negate]]d. It cannot be [[destroyed by battle]] this [[turn]].
+  | ja_text             = 相手モンスターの直接攻撃宣言時、自分の墓地に存在するこのカードをゲームから除外して発動できる。自分の墓地から「光子」または「フォトン」と名のついたモンスター１体を自分フィールド上に攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、攻撃力が１０００ポイントダウンする。さらにこのターン、そのモンスターは戦闘では破壊されない。
+  | appears_in_zx       = 083
+  | decks               = Kite Tenjo
+  | archseries          = Photon
+  | supports_archetypes = 
+  * Photon
+  * Photon (anime)
+  | stat_change         = Your monsters lose ATK
+  | m/s/t               = Negates the effects of your Effect Monsters
+  | summoning           = Special Summons from your Graveyard
+  | action              = 
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | attack              = Cannot be destroyed by battle
+  | banished            = Banishes itself from Graveyard for cost
+  }}

@@ -1,0 +1,22 @@
+title: Celestial Rage
+wikitext: |-
+  {{Anime card
+  | ja_name         = ホーリー・レイジ
+  | romaji_name     = Hōrī Reiji
+  | translated_name = Holy Rage
+  | image           = CelestialRage-EN-Anime-ZX.png
+  | ja_image        = CelestialRage-JP-Anime-ZX.png
+  | card_type       = Spell
+  | property        = Normal
+  | effect_types    = Effect, Ignition-like, Condition
+  | text            = [[Destroy]] 1 [[LIGHT]] [[Monster Card|monster]] you [[control]]. During your [[turn]], except the turn this card was [[sent]] to the [[Graveyard]]: You can [[banish]] this card from your Graveyard; 1 [[face-up]] monster you control gains 2000 [[ATK]], also all [[battle damage]] your opponent takes from [[attack]]s involving that monster is also inflicted to you. These changes last until the [[End Phase]] of this turn.
+  | ja_text         = 自分フィールド上の光属性モンスター１体を破壊する。以下の効果はこのカードが墓地へ送られたターンには発動できない。このカードが自分の墓地に存在する場合、このカードをゲームから除外して発動できる。このターンのエンドフェイズ時まで、自分フィールド上のモンスター１体の攻撃力は２０００ポイントアップし、そのモンスターが相手ライフに与えるダメージは自分も受ける。
+  | appears_in_zx   = 131, 132
+  | decks           = Dumon
+  | supports        = LIGHT
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Destroys your Monster Cards
+  | action          = Activates from your Graveyard
+  | life_points     = Damages you
+  | banished        = Banishes itself from Graveyard for cost
+  }}

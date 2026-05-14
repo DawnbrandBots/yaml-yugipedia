@@ -1,0 +1,22 @@
+title: King's Management
+wikitext: |-
+  {{Anime card
+  | alt_names     = King's Council
+  | ja_name       = キングス・マネージメント
+  | romaji_name   = Kingusu Manējimento
+  | ja_image      = KingsManagement-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have a [[Fiend]] [[Type]] monster in your [[Graveyard]].<br />'''[EFFECT]''' The attacking monster loses [[ATK]] equal to [the number of Fiend Type [[Normal Monster]]s in your Graveyard] x 500 until the end of this [[turn]]. Then, your opponent [[Draw a card|draw]]s 1 card.
+  | ja_text       = '''【条件】'''自分の墓地にモンスター（悪魔族）がいる場合、相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''攻撃してきたモンスターの攻撃力はターン終了時まで、［自分の墓地の通常モンスター（悪魔族）の数］×５００ダウンする。その後、相手は１枚ドローする。
+  | appears_in_sv = 012, 018, 085
+  | decks         = Roa Kassidy
+  | supports      = 
+  * Fiend
+  * Normal Monster
+  | archseries    = King's
+  | action        = 
+  * Activates upon attack declaration
+  * Your opponent draws cards
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

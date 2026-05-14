@@ -1,0 +1,23 @@
+title: Flaming Bright
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = フレイミング・ブライト
+  | romaji_name   = Fureimingu Buraito
+  | ja_image      = FlamingBright-JP-Anime-GR.png
+  | image_nc      = FlamingBright-JP-Anime-GR-NC.png
+  | attribute     = FIRE
+  | types         = Pyro / Effect
+  | level         = 4
+  | atk           = 1300
+  | def           = 1000
+  | text          = '''[REQUIREMENT]''' [[Send]] your entire [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' Your opponent [[Draw a card|draw]]s cards equal to [the number of cards sent to the Graveyard to meet the [[Activation condition|requirement]]]. This card gains [[ATK]] equal to [the number of cards in your opponent's hand] x 400 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''手札を全て墓地へ送って発動できる。<br />'''【効果】'''相手は［この効果の条件で墓地へ送ってたカードの数］だけドローする。このカードの攻撃力はターン終了時まで、［相手の手札の数］×４００アップする。
+  | appears_in_gr = 141
+  | decks         = Maddox Sogetsu
+  | archseries    = Chemistry
+  | action        = 
+  * Sends from hand to Graveyard for cost
+  * Your opponent draws cards
+  | stat_change   = This card gains ATK
+  }}

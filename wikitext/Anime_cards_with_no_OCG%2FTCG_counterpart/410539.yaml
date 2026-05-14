@@ -1,0 +1,31 @@
+title: Performage Bonus Dealer
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|Ｅｍ|エンタメイジ}}ボーナス・ディーラー
+  | romaji_name         = Entameiji Bōnasu Dīrā
+  | translated_name     = Entermage Bonus Dealer
+  | ja_image            = PerformageBonusDealer-JP-Anime-AV.png
+  | image_nc            = PerformageBonusDealer-JP-Anime-AV-NC.png
+  | attribute           = EARTH
+  | types               = Spellcaster / Pendulum / Effect
+  | level               = 2
+  | atk                 = 1000
+  | def                 = 100
+  | effect_types        = Trigger, Ignition
+  | pendulum_scale      = 3
+  | pendulum_effect     = If you [[Pendulum Summon]] 3 or more "[[Performapal]]" and/or "[[Performage]]" [[Monster Card|monsters]] from the [[hand]]: You can [[draw a card|draw]] 2 cards.
+  | text                = [[Once per turn]]: You can [[add a card|add]] 1 [[Pendulum Monster]] you [[control]] to the [[Extra Deck]], then [[target]] 1 [[Monster Card|monster]] you control; it gains 1000 [[ATK]] until the [[End Phase]].
+  | ja_pendulum_effect  = ①：手札から「{{Ruby|Ｅｍ|エンタメイジ}}」モンスターまたは「{{Ruby|ＥＭ|エンタメイト}}」モンスターを１度に３体以上{{Ruby|Ｐ|ペンデュラム}}召喚した場合に発動できる。自分はデッキから２枚ドローする。
+  | ja_text             = ①：１ターンに１度、自分フィールドの{{Ruby|Ｐ|ペンデュラム}}モンスター１体をエクストラデッキに戻し、自分フィールドのモンスター１体を対象として発動できる。そのモンスターの攻撃力はエンドフェイズまで１０００アップする。
+  | appears_in_av       = 074, 075
+  | decks               = Dennis McField
+  | action              = 
+  * You draw cards
+  * Returns from your field to your Extra Deck
+  | stat_change         = Your monsters gain ATK
+  | misc                = Limited activations
+  | archseries          = Performage
+  | supports_archetypes = 
+  * Performage
+  * Performapal
+  }}

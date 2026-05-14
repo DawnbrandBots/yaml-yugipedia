@@ -1,0 +1,29 @@
+title: Sunbloom Doom
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|聖花葬|サンブルーム・フューネラル}}
+  | romaji_name         = Sanburūmu Fyūneraru
+  | translated_name     = San Bloom Funeral
+  | image               = SunbloomDoom-EN-Anime-VR.png
+  | ja_image            = SunbloomDoom-JP-Anime-VR.png
+  | image_nc            = SunbloomDoom-JP-Anime-VR-NC.png
+  | card_type           = Trap
+  | property            = Normal
+  | effect_types        = Effect, Quick-like
+  | text                = If you [[control]] a "[[Sunavalon]]" [[Monster Card|monster]]: [[Target]] 1 monster you control; gain [[LP]] equal to the total [[ATK]] of all monsters on the [[field]] with the same [[Type]] as that monster. You can [[banish]] this card from your [[Graveyard|GY]]; [[destroy]] as many monsters on the field as possible with a [[Level]] less than or equal to the total number of [[Spell Card|Spells]]/[[Trap Card|Traps]] in the GYs that were [[activate]]d this [[turn]], and if you do, inflict 300 [[Effect damage|damage]] to their [[control]]ler(s) for each of their destroyed monsters.
+  | text_note           = <ref group="Notes">Contrary to what the shown card text said, this card actually inflicted 500 damage for each destroyed monster instead of 300.</ref>
+  | ja_text             = ①：自分フィールドに「聖天樹」モンスターが存在する場合、自分フィールドのモンスター１体を対象として発動できる。そのモンスターと同じ種族のフィールドのモンスターの攻撃力の合計分だけ自分のＬＰを回復する。②：墓地のこのカードを除外して発動できる。お互いの墓地のこのターンに発動した魔法・罠カードの合計数以下のレベルを持つフィールドのモンスターを全て破壊し、その破壊されたモンスターのコントローラーは、それぞれ破壊された自身のモンスターの数×３００ダメージを受ける。
+  | appears_in_vr       = 034
+  | decks               = Specter
+  | supports_archetypes = Sunavalon
+  | action              = Activates from your Graveyard
+  | m/s/t               = Destroys face-up Monster Cards
+  | life_points         = 
+  * You gain Life Points
+  * Damages you
+  * Damages your opponent
+  | banished            = Banishes itself from Graveyard for cost
+  }}
+
+  ==Notes==
+  <references group="Notes"/>

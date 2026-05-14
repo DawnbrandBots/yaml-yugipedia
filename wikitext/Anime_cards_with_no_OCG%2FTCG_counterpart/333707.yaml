@@ -1,0 +1,22 @@
+title: Damage Take-Over
+wikitext: |-
+  {{Anime card
+  | ja_name         = テイク・オーバー・ダメージ
+  | romaji_name     = Teiku Ōbā Damēji
+  | translated_name = Take-Over Damage
+  | image           = DamageTakeOver-EN-Anime-ZX.png
+  | ja_image        = DamageTakeOver-JP-Anime-ZX.png
+  | card_type       = Trap
+  | property        = Normal
+  | effect_types    = Activation requirement, Effect
+  | text            = If you would take [[damage]]: [[Target]] 1 [[face-up]] [[Xyz Monster]] you [[control]] that has more [[ATK]] than the damage you would take; that target loses ATK equal to the damage you would take, and if it does, that damage becomes 0, then [[attach]] this card to it as an [[Xyz Material]].
+  | ja_text         = ダメージが発生した時、そのダメージの数値よりも高い攻撃力を持つ自分フィールド上のモンスターエクシーズ１体を選択して発動できる。そのダメージの数値分だけ選択したモンスターの攻撃力はダウンし、そのダメージを０にする。その後、このカードを選択したモンスターの下に重ねてエクシーズ素材とする。
+  | appears_in_zx   = 143
+  | decks           = Yuma Tsukumo
+  | supports        = Xyz Monster
+  | stat_change     = Your monsters lose ATK
+  | life_points     = 
+  * Prevents battle damage
+  * Prevents effect damage
+  | action          = Attaches itself from your field as Xyz Material
+  }}

@@ -1,0 +1,23 @@
+title: Link Pressure
+wikitext: |-
+  {{Anime card
+  | ja_name       = リンク・プレッシャー
+  | romaji_name   = Rinku Puresshā
+  | image         = LinkPressure-EN-Anime-VR.png
+  | ja_image      = LinkPressure-JP-Anime-VR.png
+  | card_type     = Spell
+  | property      = Quick-Play
+  | effect_types  = Activation requirement, Cost, Effect, Condition
+  | text          = During [[damage calculation]], if your [[Link Monster]] [[battle]]s an opponent's [[Monster Card|monster]]: [[Send]] 1 [[Cyberse]] monster from your [[Extra Deck]] to the [[Graveyard|GY]]; your monster gains [[ATK]] equal to its [[Link Rating]] x 1000, during that damage calculation only, also your opponent's monster cannot be [[Destroyed by battle|destroyed by that battle]], and your opponent takes no [[battle damage]] from that battle. You can only [[activate]] 1 "Link Pressure" per [[turn]].
+  | ja_text       = このカード名のカードは１ターンに１枚しか発動できない。①：自分のリンクモンスターと相手モンスターが戦闘を行うダメージ計算時、自分のＥＸデッキからサイバース族モンスター１体を墓地へ送って発動できる。自分のモンスターの攻撃力はそのダメージ計算時のみ、自身のリンクマーカーの数×１０００アップする。相手モンスターはその戦闘では破壊されず、その戦闘で発生する相手への戦闘ダメージは０になる。
+  | appears_in_vr = 119
+  | decks         = Yusaku Fujiki
+  | supports      = 
+  * Link Monster
+  * Cyberse
+  | action        = Sends from Extra Deck to Graveyard
+  | stat_change   = Your monsters gain ATK
+  | attack        = Cannot be destroyed by battle
+  | life_points   = Prevents battle damage
+  | misc          = Only once per turn
+  }}

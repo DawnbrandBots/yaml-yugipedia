@@ -1,0 +1,35 @@
+title: Performapal Ignition Eagle
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|ＥＭ|エンタメイト}}イグニッション・イーグル
+  | romaji_name         = Entameito Igunisshon Īguru
+  | translated_name     = Entermate Ignition Eagle
+  | ja_image            = PerformapalIgnitionEagle-JP-Anime-AV.png
+  | image_nc            = PerformapalIgnitionEagle-JP-Anime-AV-NC.png
+  | attribute           = DARK
+  | types               = Winged Beast / Pendulum / Effect
+  | level               = 5
+  | atk                 = 1000
+  | def                 = 1000
+  | effect_types        = Quick-like, Trigger
+  | pendulum_scale      = 10
+  | pendulum_effect     = During either player's [[Battle Step]]: You can [[banish]] all cards in your [[Pendulum Zone]]s and [[send]] "[[Performapal]]" [[Monster Card|monsters]] from your [[Main Deck|Deck]] to the [[Graveyard]], equal to the number of cards in the [[Spell & Trap Zone]]s, then [[target]] 1 monster you [[control]]; [[destroy]] as many cards in the Spell & Trap Zones as possible, then the targeted monster gains 500 [[ATK]] for each [[Pendulum Monster]] you currently control until the end of this [[turn]].
+  | text                = When a [[Monster Card|monster]] you [[control]] [[declare]]s an [[attack]]: You can [[target]] that monster; [[Special Summon]] 1 card from your [[Pendulum Zone]], and if you do, the targeted monster gains [[ATK]] equal to the Special Summoned monster's ATK, then place this card in your Pendulum Zone.
+  | ja_pendulum_effect  = ①：自分または相手のバトルステップに、自分の{{Ruby|Ｐ|ペンデュラム}}ゾーンのカードを全て除外し、自分及び相手の魔法＆罠ゾーンのカードの数だけ自分のデッキから「{{Ruby|ＥＭ|エンタメイト}}」モンスターを選んで墓地へ送り、自分フィールドのモンスター１体を対象として発動できる。自分及び相手の魔法＆罠ゾーンのカードを全て破壊する。その後、対象のモンスターの攻撃力はターン終了時まで、自分フィールドの{{Ruby|Ｐ|ペンデュラム}}モンスターの数×５００アップする。
+  | ja_text             = ①：自分のモンスターの攻撃宣言時、その攻撃モンスター１体を対象として発動できる。自分の{{Ruby|Ｐ|ペンデュラム}}ゾーンのカード１枚を特殊召喚する。対象のモンスターの攻撃力は、この効果で特殊召喚したカードの攻撃力分アップする。その後、このカードを自分の{{Ruby|Ｐ|ペンデュラム}}ゾーンに置く。
+  | appears_in_av       = 147, 148
+  | decks               = Yuya Sakaki
+  | supports            = Pendulum Monster
+  | archseries          = Performapal
+  | supports_archetypes = Performapal
+  | action              = 
+  * Sends from Deck to Graveyard for cost
+  * Activates upon attack declaration
+  * Goes to Pendulum Zone
+  | stat_change         = Your monsters gain ATK
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning           = Special Summons from your Pendulum Zone
+  | banished            = Banishes from field for cost
+  }}

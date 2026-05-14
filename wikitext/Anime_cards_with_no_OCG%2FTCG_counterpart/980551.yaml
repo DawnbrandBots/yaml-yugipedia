@@ -1,0 +1,18 @@
+title: Undulating Barrier (anime)
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = UndulatingBarrier-JP-Anime-SV.png
+  | image_nc           = UndulatingBarrier-JP-Anime-SV-NC.png
+  | card_type          = Trap
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Defense Position]] monster.<br />'''[EFFECT]''' [[Send]] the top 5 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, the attacking monster loses [[ATK]] equal to [the total [[Level]]s of the monsters sent to the Graveyard by this [[effect]]] x 100 until the end of this [[turn]].
+  | ja_text            = '''【条件】'''自分の守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分のデッキの上からカードを５枚[...]ーの攻撃力をターン終[...]レベルの合計］[...]。
+  | appears_in_sv      = 089
+  | decks              = Lucidien Kallister
+  | action             = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change        = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,27 @@
+title: Hardship
+wikitext: |-
+  {{Anime card
+  | ja_name       = ハードシップ
+  | romaji_name   = Hādoshippu
+  | ja_image      = Hardship-JP-Anime-5D.png
+  | image_ca      = Hardship-OW.png
+  | card_type     = Trap
+  | property      = Continuous
+  | text          = [[Equip]] this card as an [[Equip Card]] to a [[Monster Card|monster]] you [[control]]. If you would take [[effect damage|damage]] by the [[Card effect|effect]] of an opponent's monster, you can reduce the [[ATK]] and [[DEF]] of the equipped monster to 0 to reduce all damage from that monster's effects to 0 this [[turn]]. When the equipped monster is [[leaves the field|removed from the field]], [[destroy]] this card. You can [[send]] this [[face-up]] card to the [[Graveyard]] to destroy the equipped monster, then destroy all face-up Equip Cards on the [[field]] and send them to the Graveyard.
+  | ja_text       = 発動後このカードは装備カードとなり、自分フィールド上に存在するモンスター１体に装備する。装備モンスターの攻撃力・守備力を０にする事で、このターン相手モンスター１体からの効果ダメージを０にする。装備モンスターがフィールド上から離れた場合、このカードを破壊する。このカードを墓地へ送る事で、装備モンスターを破壊する事ができる。その後、フィールド上に存在する装備カードを全て破壊し墓地へ送る。
+  | appears_in_5d = 136
+  | decks         = Yusei Fudo
+  | misc          = Treated as Equip Card
+  | stat_change   = 
+  * Reduces ATK to 0
+  * Reduces DEF to 0
+  * Changes ATK value of equipped
+  * Changes DEF value of equipped
+  | life_points   = Prevents effect damage
+  | action        = Sends itself from field to Graveyard for cost
+  | anti-supports = Equip Card
+  | m/s/t         = 
+  * Destroys Equip Cards
+  * Destroys your Monster Cards
+  * Destroys itself
+  }}

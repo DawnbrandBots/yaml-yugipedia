@@ -1,0 +1,20 @@
+title: Scrubbing Santa Cloth (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = ScrubbingSantaCloth-JP-Anime-SV.png
+  | image_nc      = ScrubbingSantaCloth-JP-Anime-SV-NC.png
+  | attribute     = WATER
+  | types         = Spellcaster / Effect
+  | level         = 5
+  | atk           = 1000
+  | def           = 1800
+  | text          = '''[REQUIREMENT]''' During your [[Main Phase]] that you [[Normal Summon]]ed or [[Special Summon]]ed this card.<br />'''[EFFECT]''' Your opponent [[Draw a card|draw]]s cards equal to [the number of [[Monster Card|monster]]s on their [[field]]]. Then, you gain [[LP]] equal to [the number of cards they drew by this [[effect]]] x 300.
+  | ja_text       = '''【条件】'''このカードを召喚・特殊召喚した自分メインフェイズに発動できる。<br />'''【効果】'''相手は［自身のフィールドのモンスター数］だけドローする。その後、自分は［この効果で相手がドローした数］×３００ＬＰ回復する。
+  | appears_in_sv = 022, 045
+  | decks         = Buff Grimes
+  | action        = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Your opponent draws cards
+  | life_points   = You gain Life Points
+  }}

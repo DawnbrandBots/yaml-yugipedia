@@ -1,0 +1,19 @@
+title: Magic Star Sword
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|魔|ま}}{{Ruby|星|せい}}{{Ruby|剣|けん}}
+  | romaji_name   = Maseiken
+  | ja_image      = MagicStarSword-JP-Anime-AV.png
+  | image_nc      = MagicStarSword-JP-Anime-AV-NC.png
+  | card_type     = Spell
+  | property      = Equip
+  | effect_types  = Trigger-like
+  | text          = If a [[Spell Card]](s) is [[add a card|added]] to your [[hand]]: You can [[send]] 1 of those Spell Cards to the [[Graveyard]], and if you do, the [[equip]]ped [[Monster Card|monster]] gains 100 [[ATK]].
+  | ja_text       = ①：魔法カードを自分の手札に加えた場合に発動できる。その魔法カード１枚を墓地へ送る度に、装備モンスターの攻撃力は１００アップする。
+  | appears_in_av = 039, 040, 042, 113, 121
+  | decks         = Iggy Arlo
+  | action        = 
+  * Sends from hand to Graveyard for cost
+  * Sends from your hand to your Graveyard
+  | stat_change   = Equipped gains ATK
+  }}

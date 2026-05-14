@@ -1,0 +1,20 @@
+title: Card Bidding
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name         = {{Ruby|手|て}}{{Ruby|札|ふだ}}{{Ruby|落|らく}}{{Ruby|札|さつ}}
+  | romaji_name     = Tefuda Rakusatsu
+  | translated_name = Hand Successful Bid
+  | ja_image        = CardBidding-JP-Anime-GR.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' When a card(s) is [[Send|sent]] from your opponent's [[hand]] or [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Add a card|Add]] up to 5 cards from your opponent's Graveyard to the [[owner]]'s hand. [[Draw a card|Draw]] cards equal to [the number of cards your opponent added to the hand by this [[effect]]]. Then, make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose [[ATK]] equal to [the total number of cards in both [[Duelist|player]]s' hands] x 200 until the end of this [[turn]].
+  | ja_text         = '''【条件】'''相手の手札またはデッキのカードが墓地へ送られた時に発動できる。<br />'''【効果】'''相手の墓地のカードを５枚まで選び、そのカードを持ち主の手札に加える。自分は［この効果で相手が手札に加えたカードの数］だけドローする。その後、相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［お互いの手札の合計］×２００ダウンする。
+  | appears_in_gr   = 141
+  | decks           = Gakugen Sogetsu
+  | action          = 
+  * Activates if other cards are sent to the Graveyard
+  * Returns from your opponent's Graveyard to your opponent's hand
+  * You draw cards
+  | stat_change     = Your opponent's monsters lose ATK
+  }}

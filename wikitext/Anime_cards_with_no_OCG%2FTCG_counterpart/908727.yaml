@@ -1,0 +1,24 @@
+title: Strange Traveler (anime)
+wikitext: |-
+  {{Anime card
+  | image         = StrangeTraveler-EN-Anime-GR.png
+  | ja_image      = StrangeTraveler-JP-Anime-GR.png
+  | image_nc      = StrangeTraveler-JP-Anime-GR-NC.png
+  | attribute     = LIGHT
+  | types         = Galaxy / Effect
+  | level         = 4
+  | atk           = 1100
+  | def           = 200
+  | text          = '''[REQUIREMENT]''' If you have a [[face-up]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] on your [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' Make 1 face-up [[Monster Card|monster]] on your opponent's field lose 500 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分フィールドに表側表示の通常モンスター（ギャラクシー族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで５００ダウンする。
+  | appears_in_gr = 001, 029, 059, 098, 114, 129
+  | decks         = Yudias Velgear
+  | supports      = 
+  * Galaxy (Type)
+  * Normal Monster
+  | action        = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = 
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  }}

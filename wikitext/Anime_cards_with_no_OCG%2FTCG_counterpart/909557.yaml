@@ -1,0 +1,19 @@
+title: Nightbringer Dragon (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = NightbringerDragon-JP-Anime-SV.png
+  | image_nc      = NightbringerDragon-JP-Anime-SV-NC.png
+  | attribute     = DARK
+  | types         = Dragon / Effect
+  | level         = 7
+  | atk           = 2400
+  | def           = 1500
+  | text          = '''[REQUIREMENT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' Your opponent [[Draw a card|draw]]s 2 cards. Then, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of cards in their [[hand]]] x 100.
+  | ja_text       = '''【条件】'''デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手は２枚ドローする。その後、相手に［相手の手札の枚数］×１００ダメージを与える。
+  | appears_in_sv = 042, 055, 063
+  | decks         = Lucidien Kallister
+  | action        = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Your opponent draws cards
+  | life_points   = Damages your opponent
+  }}

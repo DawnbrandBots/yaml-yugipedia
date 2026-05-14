@@ -1,0 +1,21 @@
+title: Frightening Fan Mail (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = FrighteningFanMail-JP-Anime-SV.png
+  | image_nc      = FrighteningFanMail-JP-Anime-SV-NC.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' [[Battle position change|Change]] all [[Attack Position]] [[Zombie]] [[Type]] [[Monster Card|monster]]s with 0 [[ATK]] on your [[field]] to [[face-up]] [[Defense Position]].<br />'''[EFFECT]''' [[Send]] cards from your opponent's [[hand]] to the [[Graveyard]] equal to the number of face-up Defense Position Zombie Type monsters on your field, and [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number sent to the Graveyard by this [[effect]]] x 300.
+  | ja_text       = '''【条件】'''自分フィールドの攻撃表示モンスター（アンデット族／攻撃力０）を全て表側守備表示にして発動できる。<br />'''【効果】'''自分フィールドの表側守備表示モンスター（アンデット族）の数だけ相手は手札を選んで墓地へ送り、［この効果で墓地へ送った数］×３００ダメージを相手に与える。
+  | appears_in_sv = 010, 011
+  | decks         = Toombs
+  | supports      = Zombie
+  | archseries    = Ghost Story
+  | action        = 
+  * Changes battle positions for cost
+  * Sends from your opponent's hand to your opponent's Graveyard
+  | life_points   = Damages your opponent
+  | misc          = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  }}

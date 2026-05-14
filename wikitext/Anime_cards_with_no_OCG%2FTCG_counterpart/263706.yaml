@@ -1,0 +1,22 @@
+title: Battle Restart
+wikitext: |-
+  {{Anime card
+  | ja_name       = バトル・リスタート
+  | romaji_name   = Batoru Risutāto
+  | it_name       = Ricomincia Battaglia
+  | image         = BattleRestart-EN-Anime-ZX.png
+  | ja_image      = BattleRestart-JP-Anime-ZX.png
+  | image_ca      = BattleRestart-OW.png
+  | card_type     = Trap
+  | property      = Normal
+  | effect_types  = Activation requirement, Effect
+  | text          = When an [[attack]] is [[declare]]d involving a [[Monster Card|monster]] you [[control]] and an opponent's monster: Monsters cannot be [[Destroyed by battle|destroyed by this battle]], neither player takes [[battle damage]] from this [[battle]], also the monster that attacked can declare an attack once again during this [[Battle Phase]].
+  | ja_text       = モンスターとの戦闘中に発動できる。この戦闘では、お互いのモンスターは破壊されず、プレイヤーへの戦闘ダメージは０になる。また、この戦闘の攻撃モンスターは、このターンのバトルフェイズ中に、もう１度だけ攻撃できる。
+  | appears_in_zx = 089
+  | decks         = Yuma Tsukumo
+  | action        = Activates upon attack declaration
+  | life_points   = Prevents battle damage
+  | attack        = 
+  * Cannot be destroyed by battle
+  * Allows multiple attacks
+  }}

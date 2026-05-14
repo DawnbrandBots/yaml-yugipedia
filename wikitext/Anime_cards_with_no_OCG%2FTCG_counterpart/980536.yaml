@@ -1,0 +1,22 @@
+title: Sneezing Greedizauls (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = SneezingGreedizauls-JP-Anime-SV.png
+  | image_nc      = SneezingGreedizauls-JP-Anime-SV-NC.png
+  | attribute     = LIGHT
+  | types         = Dinosaur / Effect
+  | level         = 7
+  | atk           = 2400
+  | def           = 1700
+  | text          = '''[REQUIREMENT]''' If your [[LP]] are lower than your opponent's, place 1 card from your [[hand]] on the bottom of your [[Main Deck|Deck]].<br />'''[EFFECT]''' Each [[Duelist|player]] [[send]]s the top 2 cards of their [[Main Deck|Deck]] to the [[Graveyard]]. Then, if a [[Monster Card|monster]] was sent to the Graveyard by this [[effect]], [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of monsters sent to the Graveyard by this effect] x 400.
+  | ja_text       = '''【条件】'''自分のＬＰが相手より少ない場合、手札１枚をデッキの下に戻して発動できる。<br />'''【効果】'''お互いのデッキの上からカードを２枚ずつ墓地へ送る。この効果でモンスターが墓地へ送られた場合、さらに［この効果で墓地へ送られたモンスターの数］×４００ダメージを相手に与える。
+  | appears_in_sv = 045, 072
+  | decks         = Tracker
+  | archseries    = Nouveau Riche Dinosaur
+  | action        = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Sends from the top of your opponent's Deck to your opponent's Graveyard
+  | life_points   = Damages your opponent
+  | misc          = Requires specific LP
+  }}

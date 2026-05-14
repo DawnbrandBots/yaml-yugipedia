@@ -1,0 +1,33 @@
+title: Parasite Caterpillar
+wikitext: |-
+  {{Anime card
+  | reconstructed_text    = yes
+  | ja_name               = パラサイト・キャタピラー
+  | romaji_name           = Parasaito Kyatapirā
+  | ja_image              = ParasiteCaterpillar-JP-Anime-DM-NC.png
+  | image_ca              = ParasiteCaterpillar-OW.png
+  | attribute             = WIND
+  | types                 = Insect / Effect
+  | atk                   = 800
+  | def                   = 800
+  | level                 = 3
+  | effect_types          = Trigger, Continuous-like, Trigger-like
+  | text                  = If this card is [[select]]ed as an [[attack target]], [[equip]] this card as an [[Equip Card]] to the [[attack]]ing [[Monster Card|monster]] after [[damage calculation]]. The equipped monster is treated as [[Insect]]-[[Type]], and it cannot be [[Tribute]]d or selected as an attack target, but does not prevent you from attacking your opponent [[Direct attack|directly]]. During your opponent's 3rd [[Standby Phase]] after this card was equipped to that monster, [[destroy]] the equipped monster and [[Special Summon]] 1 "[[Poison Butterfly]]" from your [[Main Deck|Deck]] to your opponent's side of the [[field]].
+  | appears_in_dm         = 160, 161, 162
+  | decks                 = Weevil Underwood
+  | mentions              = Poison Butterfly
+  | archseries            = Parasite
+  | related_to_archseries = Butterfly
+  | action                = 
+  * Activates upon attack declaration
+  * Equips self from field
+  * Cannot be Tributed
+  | stat_change           = Changes Type
+  | m/s/t                 = 
+  * Treated as Equip Card
+  * Destroys equipped
+  | summoning             = Special Summons from your Deck to your opponent's field
+  | attack                = 
+  * Cannot be targeted for attacks
+  * Does not prevent the opponent from attacking directly
+  }}

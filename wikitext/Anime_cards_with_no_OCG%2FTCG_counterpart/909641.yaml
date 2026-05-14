@@ -1,0 +1,17 @@
+title: Luminous Parrot (anime)
+wikitext: |-
+  {{Anime card
+  | ja_image      = LuminousParrot-JP-Anime-SV.png
+  | image_nc      = LuminousParrot-JP-Anime-SV-NC.png
+  | attribute     = LIGHT
+  | types         = Winged Beast / Effect
+  | level         = 4
+  | atk           = 1200
+  | def           = 600
+  | text          = '''[REQUIREMENT]''' If your opponent has 2 or more [[face-up]] [[Monster Card|monster]]s on their [[field]], [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' The [[Attribute]] of 1 face-up monster on your opponent's field becomes [[LIGHT]] this [[turn]].
+  | ja_text       = '''【条件】'''相手フィールドに表側表示モンスターが２体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの属性を光属性にする。
+  | appears_in_sv = 045
+  | decks         = Yuga Ohdo
+  | action        = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change   = Changes Attribute
+  }}

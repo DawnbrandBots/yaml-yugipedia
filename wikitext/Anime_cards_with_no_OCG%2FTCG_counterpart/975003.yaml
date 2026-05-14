@@ -1,0 +1,21 @@
+title: Mystic Dealer (anime)
+wikitext: |-
+  {{Anime card
+  | image         = MysticDealer-EN-Anime-SV.png
+  | ja_image      = MysticDealer-JP-Anime-SV.png
+  | image_nc      = MysticDealer-JP-Anime-SV-NC.png
+  | attribute     = WATER
+  | types         = Spellcaster / Effect
+  | level         = 3
+  | atk           = 1000
+  | def           = 0
+  | text          = '''[REQUIREMENT]''' [[Send]] 1 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Draw a card|Draw]] 1 card.
+  | ja_text       = '''【条件】'''手札のモンスター（魔法使い族）１体を墓地へ送って発動できる。<br />'''【効果】'''自分は１枚ドローする。
+  | appears_in_sv = 001, 002, 003, 004, 009, 013, 026, 043, 053, 054, 058, 092
+  | appears_in_gr = 053, 102
+  | decks         = Yuga Ohdo
+  | supports      = Spellcaster
+  | action        = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  }}

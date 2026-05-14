@@ -1,0 +1,26 @@
+title: Supreme Faceoff
+wikitext: |-
+  {{Anime card
+  | ja_name             = {{Ruby|覇|は}}{{Ruby|王|おう}}{{Ruby|乱|らん}}{{Ruby|舞|ぶ}}
+  | romaji_name         = Haō Ranbu
+  | translated_name     = Supreme King Wild Dance
+  | ja_image            = SupremeFaceoff-JP-Anime-AV.png
+  | image_nc            = SupremeFaceoff-JP-Anime-AV-NC.png
+  | card_type           = Trap
+  | property            = Continuous
+  | effect_types        = Quick-like, Quick-like, Quick-like
+  | text                = Once per opponent's [[Battle Phase]], if you [[control]] a "[[Supreme King]]" [[Monster Card|monster]]: You can [[target]] 1 monster your opponent controls; that target must [[attack]] this [[turn]], if able. If it has already attacked this turn, it must make a second attack, if able. Once per turn, if a "Supreme King" monster you control [[battle]]s, during [[damage calculation]], OR when a card or [[Card effect|effect]] is [[activate]]d that would [[destroy]] a "Supreme King" card(s) you control: You can make that "Supreme King" card(s) unable to be [[Destroyed by battle|destroyed by that battle]] or effect. During your opponent's Battle Phase: You can [[send]] this [[face-up]] card to the [[Graveyard]]; all monsters your opponent controls that did not attack this turn must attack, if able. If they do, this card's controller chooses the [[attack target]]s for those attacks.
+  | ja_text             = ①：自分フィールドに「覇王」モンスターが存在する場合、相手バトルフェイズに１度、相手フィールドのモンスター１体を対象としてこの効果を発動できる。その相手モンスターは攻撃しなければならない。対象のモンスターが既にこのターンに戦闘を行っている場合、そのモンスターはもう１度だけ攻撃しなければならない。②：１ターンに１度、自分の「覇王」モンスターが戦闘を行うダメージ計算時、または自分フィールドの「覇王」カードを破壊する魔法・罠・モンスターの効果が発動した場合にこの効果を発動できる。その「覇王」モンスター及び「覇王」カードはその戦闘・効果では破壊されない。③：相手バトルフェイズに、魔法＆罠ゾーンの表側表示のこのカードを墓地へ送って発動できる。このターンに攻撃していない相手モンスターは攻撃しなければならない。その場合の攻撃対象はこのカードのコントローラーが選択する。
+  | appears_in_av       = 139
+  | decks               = Z-ARC
+  | archseries          = Supreme King
+  | supports_archetypes = Supreme King
+  | attack              = 
+  * Must attack
+  * Allows multiple attacks
+  * Cannot be destroyed by battle
+  * Chooses your opponent's attack targets
+  | m/s/t               = Cannot be destroyed by card effects
+  | action              = Sends itself from field to Graveyard for cost
+  | misc                = Limited activations
+  }}
