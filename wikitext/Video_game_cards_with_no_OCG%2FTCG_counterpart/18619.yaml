@@ -1,0 +1,32 @@
+title: Psychic Armor Head
+wikitext: |-
+  {{DBT card
+  | ja_name      = サイキック・アーマー・ヘッド
+  | romaji_name  = Saikikku Āmā Heddo
+  | attribute    = Earth
+  | types        = Machine / Armor
+  | atk          = 0
+  | def          = 500
+  | level        = 4
+  | number       = 759
+  | lore         = Instead of [[Draw a card|drawing]] a card in your [[Draw Phase]], you may take 1 [[Armor monster]] from your [[Main Deck|Deck]] and add it to your [[Hand]]. If this card is in the [[Graveyard]], you may [[Special Summon]] it to the [[Field]] in [[face-up]] [[Attack Position]] during your [[Standby Phase]]. (Only one Armor monster can [[attack]] per turn. If there are 2 or more Armor monsters on your Field and an Armor monster is the [[Attack target|target]] of an attack, the [[control]]ler of that Armor monster can change the target of the attack to any of the Armor monsters they control).
+  | fr_name      = Casque Psychique
+  | de_name      = Psycho-Panzerkopf
+  | it_name      = Armatura Psichica
+  | es_name      = Cabeza Blindada Psíquica
+  | fr_lore      = Au lieu de piocher une carte lors de la Draw Phase, tu peux choisir de prendre 1 Monstre Armure dans ton Deck et l'ajouter à ta main. Si cette carte est au Cimetière, tu peux faire une Invocation Spéciale et la placer sur le Terrain en Position d'Attaque face recto pendant la Standby Phase. (Seul 1 Monstre Armure peut attaquer par tour. Si 2 Monstres Armures ou plus se trouvent sur ton Terrain et qu'un Monstre Armure est la cible d'une attaque, le contrôleur de ce Monstre Armure peut changer de cible d'attaque pour n'importe lequel des Monstres Armures contrôlés.)
+  | de_lore      = Statt eine Karte in deiner Kartenphase zu ziehen, kannst du ein Panzermonster aus deinem Deck nehmen und in deine Hand übertragen. Befindet sich diese Karte auf dem Friedhof, kannst du sie in deiner Standby-Phase per Spezialbeschwörung in aufgedeckter Angriffsposition auf das Feld holen. (Es kann nur ein Panzermonster pro Runde angreifen. Wenn ein Spieler zwei oder mehr Panzermonster auf dem Feld hat und eins davon angegriffen wird, kann der Spieler den Angriff auf ein Panzermonster seiner Wahl umleiten).
+  | it_lore      = Invece di estrarre una Carta durante la tua Fase di Estrazione, puoi prendere un Mostro Armatura dal tuo Deck e aggiungerlo alla tua Mano. Se questa Carta si trova nel Cimitero, puoi evocarla durante la tua Fase di Attesa tramite Evocazione Speciale, scoperta e in Posizione Offensiva. Un solo Mostro Armatura può attaccare ad ogni turno. Se nella tua parte di Campo sono presenti 2 o più Mostri Armatura e uno di essi viene attaccato dal nemico, il suo possessore può far diventare bersaglio dell'attacco un altro dei Mostri Armatura sotto il suo controllo.
+  | es_lore      = En lugar de robar una carta en tu Fase de Robo, puedes tomar 1 monstruo Blindado de tu Deck y añadirlo a tu Mano. Si es esta carta está en el Cementerio, puedes hacerle Invocación Especial al Campo en Posición de Ataque boca arriba durante tu fase de Espera. (Sólo un monstruo Blindado puede atacar por turno. Si en tu Campo hay 2 o más monstruos Blindados y un monstruo Blindado es el blanco de un ataque, el controlador de ese monstruo Blindado puede cambiar el blanco del ataque a cualquiera de los monstruos Blindados que controla).
+  | ja_lore      = 自分のターンのドローフェイズにドローしない代わりに、デッキからアーマーモンスター１体を手札に加える事ができる。このカードが墓地にある時、このカードを自分のターンのスタンバイフェイズに墓地から自分のフィールド上へ表側攻撃表示で特殊召喚する事ができる。（アーマーモンスターは１ターンに１体しか攻撃できない。また、２体以上のアーマーモンスターが自分のフィールド上に存在し、アーマーモンスターが攻撃対象にされた時、そのアーマーモンスターのコントローラーは攻撃対象を自分のコントロールする任意のアーマーモンスターに変更する事ができる。）
+  | summoning    = Special Summons itself from your Graveyard
+  | misc         = Limited activations
+  | action       =
+  * Adds from Deck to hand
+  * Replaces normal draw
+  | supports     = Armor monster
+  | attack       =
+  * Cannot attack
+  * Manages attack targets
+  * Prevents attacks
+  }}

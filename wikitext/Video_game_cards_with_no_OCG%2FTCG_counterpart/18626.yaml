@@ -1,0 +1,35 @@
+title: Double Cloth Armor
+wikitext: |-
+  {{DBT card
+  | ja_name      = ダブルクロス・アーマー
+  | romaji_name  = Daburu Kurosu Āmā
+
+  | attribute    = EARTH
+  | types        = Machine / Armor
+  | level        = 6
+  | atk          = 0
+  | def          = 0
+  | number       = 781
+  | lore         = This card cannot [[attack]] during your turn. This card [[destroy]]s any enemy [[Monster Card|monster]] that [[Attack target|targets]] it in [[battle]], and inflicts [[Battle damage|damage]] on the opponent equal to half the [[ATK]] of the [[attack]]ing [[Monster Card|monster]]. After battle, the card is destroyed. (Only one [[Armor monster]] can attack per turn. If there are 2 or more Armor monsters on your [[Field]] and an Armor monster is the target of an attack, the [[control]]ler of that Armor monster can change the target of the attack to any of the Armor monsters they control).
+
+  | fr_name      = Armure Doublée
+  | de_name      = Doppelte Stoffrüstung
+  | it_name      = Armatura a Doppio Strato
+  | es_name      = Blindaje Doble Capa
+
+  | fr_lore      = Cette carte ne peut pas attaquer pendant ton tour. Cette carte détruit tout le monstre ennemi qui la prend pour cible au combat et inflige des dommages directs à l'adversaire équivalent à la moitié de l'ATK du monstre attaquant. Après le combat, la carte est détruite. (Seul 1 Monstre Armure peut attaquer par tour. Si 2 Monstres Armures ou plus se trouvent sur ton Terrain et qu'un Monstre Armure est la cible d'une attaque, le contrôleur de ce Monstre Armure peut changer de cible d'attaque pour n'importe lequel des Monstres Armures contrôlés.)
+  | de_lore      = Diese Karte kann während deines Spielzugs nicht angreifen. Mit dieser Karte wird ein feindliches Monster zerstört, das im Kampf auf die Karte zielt. Außerdem richtet sie beim Gegner einen Schaden in Höhe des halben ATK-Werts des jeweiligen Monsters an. Nach dem Kampf wird die Karte zerstört. (Es kann nur ein Panzermonster pro Runde angreifen. Wenn ein Spieler zwei oder mehr Panzermonster auf dem Feld hat und eins davon angegriffen wird, kann der Spieler den Angriff auf ein Panzermonster seiner Wahl umleiten).
+  | it_lore      = Questa Carta non può attaccare durante il tuo turno. Essa distrugge tutti i Mostri nemici che la attaccano e infligge all'avversario danni pari alla metà del valore ATK del Mostro che la attacca. Dopo la battaglia, questa Carta viene distrutta. Un solo Mostro Armatura può attaccare ad ogni turno. Se nella tua parte di Campo sono presenti 2 o più Mostri Armatura e uno di essi viene attaccato dal nemico, il suo possessore può far diventare bersaglio dell'attacco un altro dei Mostri Armatura sotto il suo controllo.
+  | es_lore      = Esta carta no puede atacar durante tu turno. Esta carta destruye a cualquier monstruo enemigo que tenga como blanco en la batalla, y ocasiona daño al oponente en una magnitud igual a la mitad del ATQ del monstruo atacante. Después de la batalla, la carta es destruida. (Sólo un monstruo Blindado puede atacar por turno. Si en tu Campo hay 2 o más monstruos Blindados y un monstruo Blindado es el blanco de un ataque, el controlador de ese monstruo Blindado puede cambiar el blanco del ataque a cualquiera de los monstruos Blindados que controla).
+  | ja_lore      = このカードは自分のターン中、攻撃に参加できない。このカードを攻撃対象とする相手モンスターを破壊し、相手プレイヤーに破壊したモンスターの攻撃力の半分のダメージを与える。（アーマーモンスターは１ターンに１体しか攻撃できない。また、２体以上のアーマーモンスターが自分フィールド上に存在し、アーマーモンスターが攻撃対象にされた時、そのアーマーモンスターのコントローラーは攻撃対象を自分のコントロールする任意のアーマーモンスターに変更する事ができる。）
+
+  | m/s/t        =
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys itself
+  * Damages your opponent
+  | life_points  = Reduces battle damage
+  | supports     = Armor monster
+  | attack       =
+  * Manages attack targets
+  * Prevents attacks
+  }}

@@ -1,0 +1,33 @@
+title: Zen Garden
+wikitext: |-
+  {{ZDC card
+  | fr_name       = Jardin Zen
+  | de_name       = Zen-Garten
+  | it_name       = Giardino Zen
+  | es_name       = Jardín Zen
+  | ja_name       = {{Ruby|枯|かれ}}{{Ruby|山|さん}}{{Ruby|水|すい}}
+  | romaji_name   = Karesansui
+  | card_type     = Spell
+  | property      = Field
+  | internal_number = 3523
+  | effect_types  = Continuous-like, Continuous-like, Ignition-like
+  | lore          = [[WATER]] [[Monster Card|monsters]] cannot [[declare]] an [[attack]]. [[Xyz Monster]]s on the [[field]] gain [[ATK]] equal to their own [[Rank]] x 100. [[Once per turn]], if you [[control]] exactly 1 [[Plant]]-[[Type]] monster (and no other monsters): You can [[Special Summon]] 1 [[Level]] 4 or lower Plant-Type monster from your [[hand]].
+  | fr_lore       = Les monstres EAU ne peuvent pas déclarer d'attaque. Les Monstres Xyz sur le Terrain gagnent une ATK égale à leur propre Rang x 100. Une fois par tour, si vous contrôlez exactement 1 monstre de Type Plante (et aucun autre monstre) : vous pouvez Invoquer Spécialement 1 monstre de Type Plante de max. Niveau 4 depuis votre main.
+  | de_lore       = WASSER Monster können keinen Angriff deklarieren. Xyz-Monster auf dem Spielfeld erhalten ATK in Höhe ihres Rangs x 100. Einmal pro Spielzug, falls du genau 1 Monster vom Typ Pflanze (und keine anderen Monster) kontrollierst: Du kannst 1 Monster vom Typ Pflanze der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören.
+  | it_lore       = I mostri ACQUA non possono dichiarare un attacco. I Mostri Xyz sul Terreno guadagnano ATK pari al loro stesso Rango x 100. Una volta per turno, se controlli esattamente 1 mostro di Tipo Pianta (e nessun altro mostro): puoi Evocare Specialmente 1 mostro di Tipo Pianta di Livello 4 o inferiore dalla tua mano.
+  | es_lore       = Los monstruos de AGUA no pueden declarar ataques. Los Monstruos Xyz en el Campo ganan ATK igual a su propio Rango x 100. Una vez por turno, si controlas exactamente 1 monstruo de Tipo Planta (y ningún otro monstruo): puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Tipo Planta de nivel 4 o menor.
+  | ja_lore       = このカードがフィールド上に存在する限り、フィールド上の水属性モンスターは攻撃できない。フィールド上のエクシーズモンスターの攻撃力は、そのランク×１００ポイントアップする。また、１ターンに１度、自分フィールド上のモンスターが植物族モンスター１体のみの場合に発動できる。手札からレベル４以下の植物族モンスター１体を特殊召喚する。
+  | supports      = 
+  * Plant
+  * Xyz Monster
+  | anti-supports = WATER
+  | stat_change   = 
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
+  | summoning     = Special Summons from your hand
+  | attack        = Prevents attacks
+  | misc          = Limited activations
+  }}
+  {{Unofficial names
+  | hr_name = Zen Vrt
+  }}
