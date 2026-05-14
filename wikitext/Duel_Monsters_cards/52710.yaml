@@ -17,9 +17,8 @@ wikitext: |-
   | atk              = 0
   | def              = 0
   | password         = 13574687
-  | synchro_material = 
-  * Turbo Rocket
-  | materials        = "Turbo Rocket" + 1 or more non-Tuner monsters
+  | synchro_material = Turbo Rocket
+  | materials        = "Turbo Rocket" + 1 non-Tuner monster
   | effect_types     = Ignition
   | text             = "[[Turbo Rocket]]" + 1 or more non-[[Tuner monster]]s<br />[[Once per turn]], you can [[destroy]] 1 [[face-up]] [[Monster Card|monster]] on the [[field]] and inflict [[Effect damage|damage]] to its [[control]]ler equal to half of its [[ATK]].
   | fr_text          = "Roquette Turbo" + 1 monstre non Syntoniseur ou plus<br />Une fois par tour, vous pouvez détruire 1 monstre face recto sur le Terrain et infliger des dommages à son contrôleur égaux à la moitié de son ATK.
@@ -28,6 +27,7 @@ wikitext: |-
   | pt_text          = 
   | es_text          = "Cohete Turbo" + 1 o más monstruos que no sean Cantantes<br />Una vez por turno, puedes destruir 1 monstruo boca arriba en el Campo e infligir daño a su controlador igual a la mitad de su ATK.
   | ja_text          = 「ワンショット・ロケット」＋チューナー以外のモンスター１体<br />１ターンに１度、自分のメインフェイズ時に発動できる。フィールド上に表側表示で存在するモンスター１体を選択して破壊し、そのコントローラーに破壊したモンスターの攻撃力の半分のダメージを与える。
+  | translated_text  = "Turbo Rocket" + 1 <s>or more</s> non-Tuner monster<s>s</s><br />Once per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.
   | ko_text          = "원샷 로켓" + 튜너 이외의 몬스터 1장 이상<br />1턴에 1번, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 파괴하고, 그 컨트롤러에 파괴한 몬스터의 공격력 절반의 데미지를 준다.
   | en_sets          = 
   ANPR-EN041; Ancient Prophecy; Super Rare
@@ -47,7 +47,7 @@ wikitext: |-
   | mentions         = Turbo Rocket
   | archseries       = Turbo
   | summoning        = 
-  * 1 or more non-Tuner Synchro Materials
+  * 1 non-Tuner Synchro Material
   * Requires specific monsters as Tuner Synchro Materials
   * Does not require specific non-Tuner Synchro Materials
   | m/s/t            = Destroys face-up Monster Cards

@@ -9,12 +9,19 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = Place 1 card from your [[hand]] on the bottom of the [[Main Deck|Deck]].
-  | text           = [[Add a card|Add]] 1 [[Level]] 3 [[LIGHT]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] with 1000 [[DEF]] and/or 1 "[[Rising Equip]]" from your [[Graveyard]] to your hand. Then, you can choose 1 face-up monster on your [[field]]. If you do, that monster cannot be destroyed by card [[effect]]s this [[turn]].
+  | text           = [[Add a card|Add]] 1 [[Level]] 3 [[LIGHT]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] with 1000 [[DEF]] and/or 1 "[[Rising Equip]]" from your [[Graveyard]] to your hand. Then, you can choose 1 [[face-up]] monster on your [[field]]. This [[turn]], that monster cannot be [[destroy]]ed by card [[effect]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP25-JP055; Rising of the Aurora; Common
   | mentions       = Rising Equip
+  | supports       = 
+  * LIGHT
+  * Warrior
   | archseries     = Rising HERO
+  | action         = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Adds from Graveyard to hand
+  | m/s/t          = Prevents other cards being destroyed by card effects
   | database_id    = 
   }}

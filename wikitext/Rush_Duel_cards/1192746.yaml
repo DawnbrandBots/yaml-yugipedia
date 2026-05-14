@@ -10,10 +10,10 @@ wikitext: |-
   | def             = 1500
   | effect_types    = Continuous
   | fusion_material = Wynn the Wind Charmer (Rush Duel)
-  | materials       = "[[Wynn the Wind Charmer (Rush Duel)|Wynn the Wind Charmer]]" + 1 [[WIND]] [[Attribute]] [[monster]]
+  | materials       = "[[Wynn the Wind Charmer (Rush Duel)|Wynn the Wind Charmer]]" + 1 [[WIND]] [[Attribute]] [[Monster Card|monster]]
   | condition       = This card can be [[Contact Fusion]]ed.
   | requirement     = None
-  | text            = This card cannot be used as [[material]] for the [[Fusion Summon]] of "Familiar-Possessed - Wynn". Your WIND Attribute monsters inflict [[piercing]] [[battle damage]].
+  | text            = This card cannot be used as [[material]] for the [[Fusion Summon]] of "Familiar-Possessed - Wynn". Your WIND Attribute monsters [[Damage|inflict]] [[piercing]] [[battle damage]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -23,6 +23,17 @@ wikitext: |-
   | mentions        = 
   * Wynn the Wind Charmer (Rush Duel)
   * Familiar-Possessed - Wynn (Rush Duel)
+  | supports        = WIND
   | archseries      = Charmer (Rush Duel)
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Cannot be used as a Fusion Material
+  | attack          = Piercing
+  | misc            = Requires control of specific Attribute
   | database_id     = 
   }}
