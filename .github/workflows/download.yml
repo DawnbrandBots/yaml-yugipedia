@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2026 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
 name: Download wikitext from Yugipedia
 
@@ -12,6 +12,10 @@ on:
       gcmcontinue:
         description: Mediawiki API gcmcontinue parameter
         required: false
+
+concurrency:
+  group: ${{ github.workflow }}
+  queue: max
 
 jobs:
   download:
