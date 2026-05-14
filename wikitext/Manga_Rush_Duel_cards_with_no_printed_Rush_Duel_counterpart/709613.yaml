@@ -1,0 +1,20 @@
+title: Wind Spirit's Surplus
+wikitext: |-
+  {{Manga card
+  | reconstructed_text = yes
+  | ja_name            = {{Ruby|風|ふう}}{{Ruby|精|せい}}の{{Ruby|過|か}}{{Ruby|剰|じょう}}
+  | romaji_name        = Fūsei no Kajō
+  | ja_image           = WindSpiritsSurplus-JP-Manga-SV.png
+  | card_type          = Trap
+  | property           = Normal
+  | text               = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] monster, [[shuffle]] 2 [[Spellcaster]] [[Type]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' The attack target gains [[ATK]] equal to [the [[Level]] of the attacking monster] x 200 until the end of this [[turn]]. Then, monsters cannot be [[destroy]]ed by that [[battle]].
+  | appears_in_sv      = 018
+  | decks              = Yuga Ohdo (manga)
+  | supports           = Spellcaster
+  | action             = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Returns from Graveyard to Deck for cost
+  | stat_change        = Your monsters gain ATK
+  | attack             = Prevents other cards being destroyed by battle
+  }}

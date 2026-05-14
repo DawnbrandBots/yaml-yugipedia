@@ -1,0 +1,20 @@
+title: Dragonic Clock
+wikitext: |-
+  {{Manga card
+  | ja_name       = ドラゴニック・クロック
+  | romaji_name   = Doragonikku Kurokku
+  | ja_image      = DragonicClock-JP-Manga-GR.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' [[Shuffle]] 2 [[Monster Card|monster]]s with the same [[Level]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' Choose 1 [[face-up]] [[Dragon]] [[Type]] monster on your [[field]], and all face-up monsters on your opponent's field with the same Level as that monster lose 1000 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分の墓地の同じレベルを持つモンスター２体をデッキに戻して発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター（ドラゴン族）１体を選び、そのモンスターと同じレベルを持つ相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで１０００ダウンする。
+  | appears_in_gr = 015
+  | decks         = Yuamu Ohdo (manga)
+  | supports      = Dragon
+  | archseries    = High Tech Dragon
+  | action        = Returns from Graveyard to Deck for cost
+  | stat_change   = Your opponent's monsters lose ATK
+  | misc          = 
+  * Requires control of specific Type
+  * Requires control of specific Level
+  }}
