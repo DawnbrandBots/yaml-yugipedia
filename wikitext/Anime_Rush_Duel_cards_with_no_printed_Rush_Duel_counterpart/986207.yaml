@@ -1,0 +1,19 @@
+title: Ego Rhythm
+wikitext: |-
+  {{Anime card
+  | ja_name       = エゴリズム
+  | romaji_name   = Ego Rizumu
+  | ja_image      = EgoRhythm-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 1 [[Level]] 5 or higher [[Psychic]] [[Type]] monster from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' All [[face-up]] monsters on your [[field]] gain 300 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に、自分の墓地のモンスター（レベル５以上／サイキック族）１体をデッキに戻して発動できる。<br />'''【効果】'''自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで３００アップする。
+  | appears_in_sv = 049
+  | decks         = Romin Kassidy
+  | supports      = Psychic
+  | archseries    = Psychic Musician
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | stat_change   = Your monsters gain ATK
+  }}

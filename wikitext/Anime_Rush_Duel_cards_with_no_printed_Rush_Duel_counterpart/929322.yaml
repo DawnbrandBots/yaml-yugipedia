@@ -1,0 +1,21 @@
+title: Pyro Funnel
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = パイロ・ロート
+  | romaji_name   = Pairo Rōto
+  | ja_image      = PyroFunnel-JP-Anime-GR.png
+  | image_nc      = PyroFunnel-JP-Anime-GR-NC.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, the attacking monster loses [[ATK]] equal to [the total [[Level]]s of the [[Pyro]] [[Type]] monsters sent to the Graveyard by this [[effect]]] x 100 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''自分のデッキの上からカードを３枚墓地へ送る。その後、攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送ったモンスター（炎族）のレベルの合計］×１００ダウンする。
+  | appears_in_gr = 054, 096, 131
+  | decks         = Maddox Sogetsu
+  | supports      = Pyro
+  | archseries    = Chemistry
+  | action        = 
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

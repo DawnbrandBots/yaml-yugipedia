@@ -1,0 +1,20 @@
+title: Perfect Sevens
+wikitext: |-
+  {{Anime card
+  | ja_name       = パーフェクト・セブンス
+  | romaji_name   = Pāfekuto Sebunsu
+  | image         = PerfectSevens-EN-Anime-SV.png
+  | ja_image      = PerfectSevens-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your [[Monster Card|monster]] [[declare]]s an [[attack]] while your opponent has no [[Spell Card|Spell]]/[[Trap Card]]s on their [[field]], [[shuffle]] 7 [[Level]] 7 or higher monsters from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' Gain [[LP]] equal to [the [[DEF]] of 1 [[face-up]] monster on your field]. This [[turn]], that monster can make up to 3 attacks.
+  | ja_text       = '''【条件】'''相手フィールドに魔法・罠カードがない場合、自分のモンスターの攻撃宣言時に、自分の墓地のモンスター（レベル７以上）７体をデッキに戻して発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター１体を選び、［選んだモンスターの守備力］だけ自分のＬＰを回復する。このターン、選んだモンスターは合計３回攻撃できる。
+  | appears_in_sv = 091, 092
+  | appears_in_gr = 138
+  | decks         = Yuga Ohdo
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  | attack        = Allows multiple attacks
+  | life_points   = You gain Life Points
+  }}

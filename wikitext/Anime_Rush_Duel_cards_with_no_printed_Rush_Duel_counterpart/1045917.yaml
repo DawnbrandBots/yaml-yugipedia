@@ -1,0 +1,24 @@
+title: Void Mana Strategy
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name               = ヴォイド・マナストラテジー
+  | romaji_name           = Voido Mana Sutoratejī
+  | ja_image              = VoidManaStrategy-JP-Anime-GR.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When a [[Spell Card]](s) on your [[field]] is [[destroy]]ed by an opponent's card [[effect]].<br />'''[EFFECT]''' Make 1 [[face-up]] [[DARK]] [[Attribute]] [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] on your field gain [[ATK]] equal to [the number of Spell Cards in your [[Graveyard]]] x 500 until the end of this [[turn]]. Then, gain [[LP]] equal to [the number of Spell Cards in your Graveyard] x 100.
+  | ja_text               = '''【条件】'''自分フィールドの魔法カードが相手の効果で破壊された時に発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体を選び、その攻撃力をターン終了時まで、［自分の墓地の魔法カードの数］×５００アップする。その後、自分は［自分の墓地の魔法カードの数］×１００ＬＰ回復する。
+  | appears_in_gr         = 098
+  | decks                 = Zuwijo Zwil Velgear
+  | supports              = 
+  * DARK
+  * Galaxy (Type)
+  | related_to_archseries = Voidvelg
+  | action                = Activates if destroyed by card effect
+  | stat_change           = Your monsters gain ATK
+  | life_points           = You gain Life Points
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  }}

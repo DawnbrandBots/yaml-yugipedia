@@ -1,0 +1,25 @@
+title: Defensive Breath
+wikitext: |-
+  {{Anime card
+  | ja_name               = ディフェンシブレス
+  | romaji_name           = Difenshi Buresu
+  | ja_image              = DefensiveBreath-JP-Anime-SV.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' [[Battle position change|Change]] 1 [[Attack Position]] [[WIND]] [[Attribute]] [[Warrior]] [[Type]] monster on your [[field]] to [[face-up]] [[Defense Position]]. The monster changed to Defense Position by this [[effect]] gains 300 [[DEF]] until the end of this [[turn]].
+  | ja_text               = '''【条件】'''相手モンスターの攻撃宣言時、デッキの上からカード２枚を墓地へ送って発動できる。<br />'''【効果】'''自分フィールドの攻撃表示モンスター（風属性／戦士族）１体を選んで表側守備表示にする。この効果で表側守備表示にしたモンスターの守備力はターン終了時まで３００アップする。
+  | appears_in_sv         = 048
+  | decks                 = Tiadosia Kallister
+  | supports              = 
+  * WIND
+  * Warrior
+  | related_to_archseries = Music Princess
+  | action                = 
+  * Activates upon attack declaration
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  | stat_change           = Your monsters gain DEF
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  }}

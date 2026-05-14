@@ -1,0 +1,24 @@
+title: Street Shock
+wikitext: |-
+  {{Anime card
+  | ja_name               = ストリート・ショック
+  | romaji_name           = Sutorīto Shokku
+  | ja_image              = StreetShock-JP-Anime-SV.png
+  | card_type             = Spell
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' [[Shuffle]] 1 [[Level]] 7 or higher [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' All [[face-up]] monsters on your opponent's [[field]] lose [[ATK]] equal to [the number of face-up [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[Normal Monster]]s on your field] x 500 until the end of this [[turn]].
+  | ja_text               = '''【条件】'''自分の墓地のモンスター（レベル７以上）１体をデッキに戻して発動できる。<br />'''【効果】'''相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［自分フィールドの表側表示の通常モンスター（光属性／悪魔族）の数］×５００ダウンする。
+  | appears_in_sv         = 061
+  | decks                 = Roa Kassidy
+  | supports              = 
+  * LIGHT
+  * Fiend
+  * Normal Monster
+  | related_to_archseries = Royal Rebel's
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = Your opponent's monsters lose ATK
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster type
+  }}

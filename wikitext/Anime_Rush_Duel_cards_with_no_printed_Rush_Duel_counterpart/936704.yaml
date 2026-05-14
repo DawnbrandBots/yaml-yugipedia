@@ -1,0 +1,25 @@
+title: Rainbow Rod
+wikitext: |-
+  {{Anime card
+  | ja_name       = レインボー・ロッド
+  | romaji_name   = Reinbō Roddo
+  | ja_image      = RainbowRod-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].<br />'''[EFFECT]''' [[Return]] 1 [[face-up]] [[WIND]] [[Attribute]] [[Zombie]] [[Type]] monster from your [[field]] to the [[owner]]'s [[hand]]. Then, if you returned a monster to the hand by this [[effect]], you can make all face-up non-[[LIGHT]] Attribute monsters on your field gain 500 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手がモンスターを召喚・特殊召喚した時に発動できる。<br />'''【効果】'''自分フィールドの表側表示モンスター（風属性／アンデット族）１体を選んで持ち主の手札に戻す。この効果でモンスターを手札に戻した場合、さらに自分フィールドの全ての表側表示モンスター（光属性以外）の攻撃力をターン終了時まで５００アップできる。
+  | appears_in_gr = 017
+  | decks         = Fisher Sky
+  | supports      = 
+  * WIND
+  * Zombie
+  | archseries    = Sky Fossil
+  | action        = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from your field to your hand
+  | stat_change   = Your monsters gain ATK
+  | misc          = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  }}

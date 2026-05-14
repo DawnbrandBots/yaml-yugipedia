@@ -1,0 +1,19 @@
+title: Surprising Barcode
+wikitext: |-
+  {{Anime card
+  | ja_name       = びっくりバーコード
+  | romaji_name   = Bikkuri Bākōdo
+  | ja_image      = SurprisingBarcode-JP-Anime-SV.png
+  | image_nc      = SurprisingBarcode-JP-Anime-SV-NC.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When you [[Damage|take]] [[battle damage]] from an opponent's [[Monster Card|monster]]'s [[attack]].<br />'''[EFFECT]''' [[Excavate]] the top 7 cards of your [[Main Deck|Deck]]. If 5 or more monsters are among the excavated cards, you take no battle damage until the end of this [[turn]]. Place the excavated cards on the top of your Deck in any order.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃で自分が戦闘ダメージを受けた時に発動できる。<br />'''【効果】'''自分はデッキの上からカードを７枚めくり、お互いに確認する。めくったカードの中にモンスターが５体以上あった場合、このカードの発動後、ターン終了時まで自分は戦闘ダメージを受けない。自分はめくったカードを好きな順番でデッキの上に戻す。
+  | appears_in_sv = 051
+  | decks         = Yuga Ohdo
+  | action        = 
+  * Activates if you take battle damage
+  * Excavates from the player's Deck
+  * Places excavated cards on the top of the Deck
+  | life_points   = Prevents battle damage
+  }}

@@ -1,0 +1,18 @@
+title: Pressure Pointer Skill
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|地|ち}}{{Ruby|圧|あつ}}の{{Ruby|心|こころ}}
+  | romaji_name   = Chiatsu no Kokoro
+  | ja_image      = PressurePointerSkill-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon]]s a [[Monster Card|monster]] while you have a [[Pyro]] [[Type]] monster in your [[Graveyard]].<br />'''[EFFECT]''' Gain [[LP]] equal to [the number of monsters on your opponent's [[field]]] x 500. Then, all [[face-up]] monsters on your opponent's field gain 500 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''自分の墓地にモンスター（炎族）がいる場合、相手がモンスターを召喚した時に発動できる。<br />'''【効果】'''自分は［相手フィールドのモンスターの数］×５００ＬＰ回復する。その後、相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。
+  | appears_in_sv = 034
+  | decks         = Terra Kneadalina
+  | supports      = Pyro
+  | archseries    = Magma
+  | action        = Activates upon Normal Summon
+  | stat_change   = Your opponent's monsters gain ATK
+  | life_points   = You gain Life Points
+  }}

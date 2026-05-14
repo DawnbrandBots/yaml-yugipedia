@@ -1,0 +1,21 @@
+title: Exclaim of Galactica
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = エクスクレイム・オブ・ギャラクティカ
+  | romaji_name   = Ekusukureimu Obu Gyarakutika
+  | ja_image      = ExclaimofGalactica-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], place 3 [[Galaxy (Type)|Galaxy]] [[Type]] monsters from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.<br />'''[EFFECT]''' [[Send]] the top card of your Deck to the Graveyard. Then, if that card was a Galaxy Type monster, the attacking monster loses [[ATK]] equal to [the [[DEF]] of the monster sent to the Graveyard by this [[effect]]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時、自分の墓地のモンスター（ギャラクシー族）３体を好きな順番でデッキの下に戻して発動できる。<br />'''【効果】'''デッキの一番上のカードを墓地へ送る。そのカードがモンスター（ギャラクシー族）だった場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターの守備力］だけダウンする。
+  | appears_in_gr = 138, 139
+  | decks         = Yudias Velgear
+  | supports      = Galaxy (Type)
+  | archseries    = Galactica
+  | action        = 
+  * Activates upon attack declaration
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

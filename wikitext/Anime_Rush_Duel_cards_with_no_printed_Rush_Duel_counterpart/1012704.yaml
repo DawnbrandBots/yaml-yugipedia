@@ -1,0 +1,25 @@
+title: Chaos Trident
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name               = カオストライデント
+  | romaji_name           = Kaosu Toraidento
+  | ja_image              = ChaosTrident-JP-Anime-GR.png
+  | image_nc              = ChaosTrident-JP-Anime-GR-NC.png
+  | card_type             = Spell
+  | property              = Equip
+  | text                  = '''[REQUIREMENT]''' [[Shuffle]] 1 [[DARK]] [[Attribute]] [[Monster Card|monster]] from your [[Graveyard]] into the [[Main Deck|Deck]], and [[equip]] to 1 [[face-up]] DARK Attribute monster on your [[field]].<br />'''[EFFECT]''' The equipped monster gains [[ATK]] equal to [the number of DARK Attribute monsters in your Graveyard] x 100, but it cannot [[attack]] face-up monsters with a [[Level]] equal to or higher than [its Level].
+  | ja_text               = '''【条件】'''自分の墓地のモンスター（闇属性）１体をデッキに戻し、自分フィールドの表側表示モンスター（闇属性）１体に装備できる。<br />'''【効果】'''装備モンスターの攻撃力は、［自分の墓地のモンスター（闇属性）の数］×１００アップする。装備モンスターは、［装備モンスターのレベル］以上のレベルを持つ表側表示モンスターに攻撃できない。
+  | appears_in_gr         = 076, 077, 082
+  | decks                 = Phaser Ryugu
+  | supports              = DARK
+  | related_to_archseries = 
+  * Abysslayer
+  * Voidvelg
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = Equipped gains ATK
+  | attack                = Prevents equipped monster from attacking
+  | misc                  = 
+  * Equips only to a specific target
+  * Requires control of specific Attribute
+  }}

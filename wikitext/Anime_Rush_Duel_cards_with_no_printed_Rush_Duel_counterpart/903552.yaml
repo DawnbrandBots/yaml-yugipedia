@@ -1,0 +1,19 @@
+title: Equilateral Delta Block
+wikitext: |-
+  {{Anime card
+  | ja_name       = イクイラテラル・デルタブロック
+  | romaji_name   = Ikuirateraru Deruta Burokku
+  | ja_image      = EquilateralDeltaBlock-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s a [[direct attack]], [[shuffle]] 3 monsters with the same [[Level]] from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' [[Draw a card|Draw]] 3 cards and show them. If all of those cards are monsters, you can [[Special Summon]] all of the monsters drawn by this [[effect]] in [[face-up]] [[Defense Position]].
+  | ja_text       = '''【条件】'''相手モンスターの直接攻撃宣言時、同じレベルを持つ自分の墓地のモンスター３体をデッキに戻して発動できる。<br />'''【効果】'''自分は３枚ドローして、お互い確認する。そのカードが全てモンスターだった場合、このカードの効果でドローしたモンスターを全て表側守備表示で特殊召喚できる。
+  | appears_in_gr = 049, 050, 080
+  | decks         = Yudias Velgear
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  * You draw cards
+  * Shows the player's drawn cards
+  | summoning     = Special Summons from your hand
+  }}

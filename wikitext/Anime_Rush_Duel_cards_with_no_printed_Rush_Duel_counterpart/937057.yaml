@@ -1,0 +1,18 @@
+title: Power Syzygy
+wikitext: |-
+  {{Anime card
+  | ja_name       = パワー・シザジー
+  | romaji_name   = Pawā Shizajī
+  | ja_image      = PowerSyzygy-JP-Anime-GR.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' None<br />'''[EFFECT]''' [[Send]] cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]] equal to [the number of [[Monster Card|monster]]s on your opponent's [[field]]]. Then, if you sent a [[Galaxy (Type)|Galaxy]] [[Type]] [[Normal Monster]] to the Graveyard by this [[effect]], you can make 1 [[face-up]] monster on your opponent's field lose 1000 [[ATK]] until the end of this [[turn]].
+  | ja_text       = '''【条件】'''なし<br />'''【効果】'''自分のデッキの上から［相手フィールドのモンスターの数］だけカードを墓地へ送る。この効果で通常モンスター（ギャラクシー族）が墓地へ送られた場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１０００ダウンできる。
+  | appears_in_gr = 013, 114
+  | decks         = Yudias Velgear
+  | supports      = 
+  * Galaxy (Type)
+  * Normal Monster
+  | action        = Sends from the top of your Deck to your Graveyard
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

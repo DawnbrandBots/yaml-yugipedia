@@ -1,0 +1,17 @@
+title: Silent Celebration
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|陀|だ}}{{Ruby|摩|ま}}{{Ruby|莉|り}}{{Ruby|奈|な}}{{Ruby|祭|さい}}
+  | romaji_name   = Damarinasai
+  | ja_image      = SilentCelebration-JP-Anime-SV.png
+  | card_type     = Spell
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' Your opponent has no [[Attack Position]] [[Monster Card|monster]]s on their [[field]].<br />'''[EFFECT]''' [[Battle position change|Change]] all [[Defense Position]] monsters on your opponent's field to [[face-up]] Attack Position. Then, make 1 face-up monster on your opponent's field lose [[ATK]] equal to [the number of monsters on your opponent's field] x 1000 until the end of this [[turn]].
+  | ja_text       = '''【条件】'''相手フィールドに攻撃表示モンスターがいない場合に発動できる。<br />'''【効果】'''相手フィールドの守備表示モンスターを全て表側攻撃表示にする。その後、相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで［相手フィールドのモンスターの数］×１０００ダウンする。
+  | appears_in_sv = 074
+  | decks         = Gavin Sogetsu
+  | action        = 
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change   = Your opponent's monsters lose ATK
+  }}

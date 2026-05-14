@@ -1,0 +1,16 @@
+title: Steel Force
+wikitext: |-
+  {{Anime card
+  | ja_name         = {{Ruby|鋼|はがね}}の{{Ruby|一|いち}}{{Ruby|撃|げき}}
+  | romaji_name     = Hagane no Ichigeki
+  | translated_name = Steel Strike
+  | ja_image        = SteelForce-JP-Anime-SV.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' When you [[Damage|take]] [[battle damage]].<br />'''[EFFECT]''' Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 1000 [[ATK]] until the end of this [[turn]].
+  | ja_text         = '''【条件】'''自分が戦闘ダメージを受けた時に発動できる。<br />'''【効果】'''相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで１０００ダウンする。
+  | appears_in_sv   = 051, 052
+  | decks           = Lucidien Kallister
+  | action          = Activates if you take battle damage
+  | stat_change     = Your opponent's monsters lose ATK
+  }}

@@ -1,0 +1,22 @@
+title: High and Road
+wikitext: |-
+  {{Anime card
+  | ja_name       = ハイ{{Ruby|＆|アンド}}ロード
+  | romaji_name   = Hai Ando Rōdo
+  | ja_image      = HighandRoad-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' Each [[Duelist|player]] [[Draw a card|draw]]s 1 card and shows it. If both are monsters with different [[Level]]s, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the difference between the Levels of both] x 200. If they are monsters with the same Level, each player takes damage equal to [the total Levels of both] x 200.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時に発動できる。<br />'''【効果】'''お互いに１枚ドローして、お互いに確認する。その２枚がレベルの異なるモンスターだった場合、［その２体のレベルの差］×２００ダメージを相手に与える。同じレベルのモンスターだった場合、［その２体レべルの合計］×２００ダメージをお互いに受ける。
+  | appears_in_gr = 051, 128
+  | decks         = Yuga Ohdo
+  | action        = 
+  * Activates upon attack declaration
+  * You draw cards
+  * Your opponent draws cards
+  * Shows the player's drawn cards
+  * Shows the opponent's drawn cards
+  | life_points   = 
+  * Damages your opponent
+  * Damages you
+  }}

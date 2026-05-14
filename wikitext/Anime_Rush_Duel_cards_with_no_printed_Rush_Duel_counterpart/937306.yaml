@@ -1,0 +1,23 @@
+title: Elegant Eats
+wikitext: |-
+  {{Anime card
+  | ja_name         = はしあげ
+  | romaji_name     = Hashiage
+  | translated_name = Chopstick Pick-Up
+  | ja_image        = ElegantEats-JP-Anime-GR.png
+  | card_type       = Trap
+  | property        = Normal
+  | text            = '''[REQUIREMENT]''' When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[return]] 1 [[face-up]] [[Aqua]] [[Type]] monster from your [[field]] to the [[owner]]'s [[hand]].<br />'''[EFFECT]''' Gain [[LP]] equal to [the number of face-up Aqua Type monsters on your field] x 400. Then, you can [[Battle position change|change]] the [[battle position]]s of up to 2 face-up monsters on your field.
+  | ja_text         = '''【条件】'''相手がモンスターを召喚・特殊召喚した時、自分フィールドの表側表示モンスター（水族）１体を持ち主の手札に戻して発動できる。<br />'''【効果】'''自分は［自分フィールドの表側表示モンスター（水族）の数］×４００ＬＰ回復する。その後、自分フィールドの表側表示モンスターを２体まで選んでその表示形式を変更できる。
+  | appears_in_gr   = 023
+  | decks           = Immi Imimi
+  | supports        = Aqua
+  | archseries      = Bubble Actress
+  | action          = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from field to hand for cost
+  * Changes battle positions
+  | life_points     = You gain Life Points
+  | misc            = Requires control of specific Type
+  }}

@@ -1,0 +1,22 @@
+title: Vacua Catastrophe
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = ヴァキュア・カタストロフィー
+  | romaji_name   = Vakyua Katasutorofī
+  | ja_image      = VacuaCatastrophe-JP-Anime-GR.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]], [[shuffle]] 3 [[Level]] 7 monsters from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' This [[turn]], all [[Attack Position]] [[Galaxy (Type)|Galaxy]] [[Type]] monsters on your [[field]] cannot be [[destroyed by battle]]. Then, all [[face-up]] monsters on your opponent's field lose 5000 [[ATK]] until the end of this turn. [[Shuffle]] all monsters on your field into the [[owner]]'s Deck during the [[End Phase]] of this turn.
+  | ja_text       = '''【条件】'''相手モンスターの攻撃宣言時、自分の墓地のモンスター（レベル７）３体をデッキに戻して発動できる。<br />'''【効果】'''このターン、自分フィールドの全ての攻撃表示モンスター（ギャラクシー族）は戦闘では破壊されない。さらに、相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５０００ダウンする。このターンのエンドフェイズに自分フィールドのモンスターを全て持ち主のデッキに戻す。
+  | appears_in_gr = 150, 151
+  | decks         = Yudias Velgear
+  | supports      = Galaxy (Type)
+  | action        = 
+  * Activates upon attack declaration
+  * Returns from Graveyard to Deck for cost
+  * Returns from your field to your Deck
+  | stat_change   = Your opponent's monsters lose ATK
+  | attack        = Prevents other cards being destroyed by battle
+  | misc          = Requires control of specific Type
+  }}

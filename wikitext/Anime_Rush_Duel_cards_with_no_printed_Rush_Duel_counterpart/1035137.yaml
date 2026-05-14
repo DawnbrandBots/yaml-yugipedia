@@ -1,0 +1,27 @@
+title: Praime Ziggurat
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name               = プライム・ジグラット
+  | romaji_name           = Puraimu Jiguratto
+  | ja_image              = PraimeZiggurat-JP-Anime-GR.png
+  | image_nc              = PraimeZiggurat-JP-Anime-GR-NC.png
+  | card_type             = Trap
+  | property              = Normal
+  | text                  = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[face-up]] [[LIGHT]] [[Attribute]] monster, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].<br />'''[EFFECT]''' The attack target cannot be [[destroy]]ed by that [[battle]]. Then, if the card sent to the Graveyard to meet the [[Activation condition|requirement]] was a LIGHT Attribute monster with a different [[Type]] from the attack target, [[Damage|inflict]] 1000 [[Effect damage|damage]] to your opponent.
+  | ja_text               = '''【条件】'''自分の表側表示モンスター（光属性）が攻撃を受ける相手モンスターの攻撃宣言時に、デッキの一番上のカードを墓地へ送って発動できる。<br />'''【効果】'''攻撃を受けるモンスターはその戦闘では破壊されない。この効果の条件で墓地へ送られたカードが攻撃を受けるモンスターとは異なる種族のモンスター（光属性）だった場合、さらに相手に１０００ダメージを与える。
+  | appears_in_gr         = 089
+  | decks                 = Kuaidul Velgear
+  | supports              = LIGHT
+  | archseries            = Praime
+  | related_to_archseries = Stone (Rush Duel)
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if targeted for an attack
+  * Sends from the top of your Deck to your Graveyard for cost
+  | attack                = Prevents other cards being destroyed by battle
+  | life_points           = Damages your opponent
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  }}

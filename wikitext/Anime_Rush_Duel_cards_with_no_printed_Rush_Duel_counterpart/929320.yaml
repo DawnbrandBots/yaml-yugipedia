@@ -1,0 +1,27 @@
+title: Chemical Distill
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Anime card
+  | ja_name       = ケミカル・ディスティル
+  | romaji_name   = Kemikaru Disutiru
+  | ja_image      = ChemicalDistill-JP-Anime-GR.png
+  | image_nc      = ChemicalDistill-JP-Anime-GR-NC.png
+  | attribute     = FIRE
+  | types         = Pyro / Effect
+  | level         = 5
+  | atk           = 1600
+  | def           = 1200
+  | text          = '''[REQUIREMENT]''' You have an [[Aqua]] or [[Thunder]] [[Type]] [[Monster Card|monster]] in your [[Graveyard]].<br />'''[EFFECT]''' [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard. If you sent a monster to the Graveyard by this [[effect]], make 1 [[face-up]] monster on your [[field]] gain [[ATK]] equal to [the [[Level]] of the monster sent to the Graveyard by this effect] x 100 until the end of this [[turn]]. Then, you can send this card to the Graveyard and [[Draw a card|draw]] 1 card.
+  | ja_text       = '''【条件】'''自分の墓地にモンスター（水族または雷族）がいる場合に発動できる。<br />'''【効果】'''自分のデッキの一番上のカードを墓地へ送る。この効果でモンスターが墓地へ送られた場合、自分フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで、［この効果で墓地へ送ったモンスターのレベル］×１００アップする。その後、このカードを墓地へ送って自分は１枚ドローできる。
+  | appears_in_gr = 054, 058
+  | decks         = Maddox Sogetsu
+  | supports      = 
+  * Aqua
+  * Thunder
+  | archseries    = Chemistry
+  | action        = 
+  * Sends from the top of your Deck to your Graveyard
+  * Sends itself from field to Graveyard
+  * You draw cards
+  | stat_change   = Your monsters gain ATK
+  }}

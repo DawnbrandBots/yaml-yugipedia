@@ -1,0 +1,19 @@
+title: Magic Lock
+wikitext: |-
+  {{Anime card
+  | ja_name       = {{Ruby|魔時空錠|マジックロック}}
+  | romaji_name   = Majikkurokku
+  | image         = MagicLock-EN-Anime-SV.png
+  | ja_image      = MagicLock-JP-Anime-SV.png
+  | card_type     = Trap
+  | property      = Normal
+  | text          = '''[REQUIREMENT]''' When your opponent [[Normal Summon]]s a [[Monster Card|monster]], [[shuffle]] 5 [[Normal Monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].<br />'''[EFFECT]''' This [[turn]], your opponent cannot [[activate]] [[Spell Card]]s.
+  | ja_text       = '''【条件】'''相手がモンスターを召喚した時、自分の墓地の通常モンスター５体をデッキに戻して発動できる。<br />'''【効果】'''このターン、相手は魔法カードを発動できない。
+  | appears_in_sv = 092
+  | decks         = Lucidien Kallister
+  | supports      = Normal Monster
+  | action        = 
+  * Activates upon Normal Summon
+  * Returns from Graveyard to Deck for cost
+  | m/s/t         = Prevents activation of your opponent's Spell Cards
+  }}
