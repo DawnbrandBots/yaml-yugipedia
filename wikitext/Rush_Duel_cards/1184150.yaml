@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1700
   | def            = 1500
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "[[Vanishing Heliacal Riser]]". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" or [[Field Spell Card]] from your Graveyard to your [[hand]]. If you do, you cannot activate the effect of "Vanishing Solitius" this turn.
+  | text           = This [[turn]], this card's name becomes "[[Vanishing Heliacal Riser]]". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" or [[Field Spell Card]] from your Graveyard to your [[hand]]. If you do, you cannot [[activate]] the [[effect]] of "Vanishing Solitius" this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,11 @@ wikitext: |-
   * Vanishing Heliacal Riser
   * Fusion (Rush Duel)
   * Vanishing Solitius
+  | supports       = Field Spell Card
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Changes own name while on the field
+  | misc           = Only once per turn
   | database_id    = 
   }}

@@ -12,13 +12,19 @@ wikitext: |-
   | level           = 4
   | atk             = 1500
   | def             = 600
-  | requirement     = [[Pay]] 1200 [[LP]] and [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = Place this card from your field on top of the owner's Deck. Then, if you have a [[face-up]] [[monster]] on your field whose original name is "[[Worker Warrior - Sinister Chairman]]", you can [[Draw a card|draw]] 1 card.
+  | requirement     = [[Pay]] 1200 [[LP]], and [[send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = Place this card from your [[field]] on top of the [[owner]]'s Deck. Then, if you have a [[face-up]] [[Monster Card|monster]] whose original name is "[[Worker Warrior - Sinister Chairman]]" on your field, you can [[Draw a card|draw]] 1 card.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP25-JP028; Rising of the Aurora; Common
   | mentions        = Worker Warrior - Sinister Chairman
   | archseries      = Worker Warrior
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Places itself from the player's field on the top of the Deck
+  * You draw cards
+  | life_points     = Pays Life Points for cost
+  | misc            = Requires control of specific card
   | database_id     = 
   }}
