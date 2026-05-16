@@ -266,24 +266,41 @@ wikitext: |-
   For Fusion plays, the "Destiny HERO" archetype has historically relied on monsters from other "HERO" sub-archetypes such as "[[Vision HERO Vyon]]", "[[Elemental HERO Blazeman]]" and "[[Masked HERO Furnace]]" to search "[[Polymerization]]". Recently however, "Destiny HERO" now has reliable tools from their own sub-archetype such as the aformentioned "Fusion Destiny", "[[Destiny HERO - Dusktopia|Dusktopia]]" (perform a Fusion Summon upon its Fusion Summon), "[[Destiny HERO - Dreadnought Servant|Dreadnought Servant]]" (which can search "Polymerization") and "[[Destiny HERO - Death Dogma|Death Dogma]]" (which has a Quick Effect to perform a Fusion Summon in response to an opponent activating a card/effect).
 
   === Sample combos ===
+  ;Destiny HERO - Doom Liege
+  {{Combo steps
+  | opening = "[[Destiny HERO - Doom Liege]]"
+  | end     = "[[Destiny HERO - Plasma]]", "[[D - Force]]", "[[Destiny HERO - Destroyer Phoenix Enforcer]]", and "[[Destiny HERO - Death Dogma]]", with "[[Destiny HERO - Dreadnought Servant]]" in GY.
+  | steps   = 
+  # Normal Summon "[[Destiny HERO - Doom Liege]]" and use its effect to send a "Destiny HERO" (e.g. "[[Destiny HERO - Malicious]]") to GY and add "[[Clock Tower Prison City - Dark City]]" to hand.
+  # Activate "Prison City" and use it to add "[[Destiny HERO - Dreadnought Servant]]" to hand.
+  # Special Summon "Dreadnought Servant" and use its effect to destroy "Prison City" to add "[[Polymerization]]".
+  # "Prison City" summons "[[Destiny HERO - Dreadmaster]]" from Deck, which in turn summons the "Destiny HERO" in the GY.
+  # Use "Dreadmaster" to summon "[[Destiny HERO - Dreadnought]]", who adds "[[D - Force]]" and "[[Destiny HERO - Death Dogma]]" to hand.
+  # Use "Polymerization" to fuse "Dreadnought" and "Death Dogma" into "[[Destiny HERO - Destroyer Phoenix Enforcer]]".
+  # Activate "D - Force" to search "[[Destiny HERO - Plasma]]", summon it by tributing "Doom Liege", "Dreadnought Servant" and the "Destiny HERO" summoned by "Dreadmaster".
+  # Special Summon "Death Dogma" by banishing three "Destiny HERO" monsters from GY.
+  }}
+
+  ;Fusion Destiny
   {{Combo steps
   | opening = "[[Fusion Destiny]]"
-  | end     = "[[Destiny HERO - Plasma]]", "[[Destiny HERO - Destroyer Phoenix Enforcer]]", "[[Destiny HERO - Death Dogma]]", and "[[Destiny HERO - Malicious]]" on your field + "[[Destiny HERO - Dark Angel]]" on opponent's field.
+  | end     = "[[Destiny HERO - Plasma]]", "[[D - Force]]", "[[Destiny HERO - Destroyer Phoenix Enforcer]]", "[[Destiny HERO - Death Dogma]]", and "[[Destiny HERO - Malicious]]" on your field, with "[[Destiny HERO - Dreadnought Servant]]" in GY + "[[Destiny HERO - Dark Angel]]" on opponent's field.
   | steps   = 
   # Activate "Fusion Destiny", using "[[Destiny HERO - Malicious]]" and "[[Destiny HERO - Death Dogma]]" to summon "[[Destiny HERO - Dreadnought]]".
-  # "Dreadnought" adds "[[Destiny HERO - Doom Liege]]" and "[[Destiny HERO - Dark Angel]]".
+  # "Dreadnought" adds "[[Destiny HERO - Doom Liege]]" and "[[D - Force]]".
   # Summon "Doom Liege", use effect to send "[[Destiny HERO - Denier]]" to GY and add "[[Clock Tower Prison City - Dark City]]".
-  # Use "Dark Angel" effect to summon itself.
+  # Activate "D - Force" and add "[[Destiny HERO - Plasma]]".
   # Summon "[[Xtra HERO Cross Crusader]]" using "Dreadnought" and "Doom Liege".
-  # "Cross Crusader" effect to special summon a "Destiny HERO", then tribute to add "[[Destiny HERO - Plasma]]".
+  # "Cross Crusader" effect to special summon a "Destiny HERO", then tribute to add "[[Destiny HERO - Dark Angel]]".
+  # Summon "Dark Angel" to opponent's field.
   # Activate "Clock Tower Prison City - Dark City" and add "[[Destiny HERO - Dreadnought Servant]]" to hand.
   # Special Summon "Dreadnought Servant", destroy "Clock Tower Prison City", and add "[[Polymerization]]".
-  # Effect of "Clock Tower Prison City" to summon "[[Destiny HERO - Dreadmaster]]".
-  # Use "Polymerization" to Fuse "Dreadmaster" and "Dreadnought Servant" to summon "[[Destiny HERO - Destroyer Phoenix Enforcer]]".
+  # Effect of "Clock Tower Prison City" to summon a Level 6+ "Destiny HERO" (e.g. "[[Destiny HERO - Dreadmaster]]" to summon back additional "Destiny HERO" monsters, also destroying "Cross Crusader")
+  # Use "Polymerization" to fuse "Dreadnought Servant" and the Level 6+ "Destiny HERO" to summon "[[Destiny HERO - Destroyer Phoenix Enforcer]]".
   # Banish "Malicious" to summon another copy.
   # Summon "Denier", who adds back the banished "Malicious".
-  # Tribute "Malicious", "Denier" and "Cross Crusader" for "Plasma".
-  # Banish three "Destiny HERO" monsters from GY to summon "Death Dogma".
+  # Tribute "Malicious", "Denier" and "Cross Crusader" (or "Destiny HERO" monsters summoned by "Dreadmaster") for "Plasma".
+  # Banish three DARK or Warrior monsters from GY to summon "Death Dogma".
   # Banish "Malicious" from GY to summon another copy.
   # On opponent's turn.
   ## The effect of "Dark Angel" will not be active unless they clear "Plasma", but it will be stopping them from using certain cards (e.g. "[[Lightning Storm]]".)
