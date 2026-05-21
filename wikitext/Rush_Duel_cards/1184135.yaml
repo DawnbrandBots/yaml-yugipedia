@@ -14,10 +14,10 @@ wikitext: |-
   | def             = 1100
   | requirement     = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
   | text            = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]] and places it on top of their Deck. If it was the declared card type, you can [[Draw a card|draw]] 1 card. If you do, you cannot [[activate]] the [[effect]] of "Reporter Lilim" this [[turn]].
-  | ja_requirement  = 
-  | ja_text         = 
+  | ja_requirement  = カードの種類（モンスター・魔法・罠）を宣言して発動できる。
+  | ja_text         = 相手は自身のデッキの一番上のカードをめくり、お互いに確認して元に戻す。そのカードが宣言した種類のカードだった場合、自分は１枚ドローできる。ドローした場合、このターン、自分は「報道魔嬢キャスタリン」の効果を発動できない。
   | jp_sets         = 
-  RD/KP25-JP011; Rising of the Aurora; Super Rare
+  RD/KP25-JP011; Rising of the Aurora; Super Rare, Secret Rare
   | mentions        = Reporter Lilim
   | archseries      = Reporter
   | action          = 
@@ -26,5 +26,5 @@ wikitext: |-
   * Places excavated cards on the top of the Deck
   * You draw cards
   | misc            = Only once per turn
-  | database_id     = 
+  | database_id     = 23208
   }}

@@ -15,8 +15,8 @@ wikitext: |-
   | def            = 0
   | requirement    = You have 10 or more cards in your [[Main Deck|Deck]].
   | text           = Your opponent [[excavate]]s the top card of their Deck and places it on top of their Deck. If it was a [[Monster Card]], [[send]] the top 3 cards of your Deck to the [[Graveyard]]. Then, if this card is in [[Maximum Mode]], you can place up to 2 "[[Hot Off the Press]]" from your Graveyard on top of the Deck in any order.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分のデッキのカードが１０枚以上の場合に発動できる。
+  | ja_text        = 相手は自身のデッキの一番上のカードをめくり、お互いに確認して元に戻す。そのカードがモンスターだった場合、自分は自分のデッキの上からカード３枚を墓地へ送る。このカードがマキシマムモードの場合、さらに自分の墓地の「瓦バーン」を２枚まで選んで好きな順番でデッキの上に戻す事ができる。
   | jp_sets        = 
   RD/KP25-JP009; Rising of the Aurora; Common
   | mentions       = Hot Off the Press
@@ -27,5 +27,5 @@ wikitext: |-
   * Sends from the top of your Deck to your Graveyard
   * Places cards from the player's Graveyard on the top of the Deck
   | misc           = Requires Maximum Mode
-  | database_id    = 
+  | database_id    = 23206
   }}

@@ -15,8 +15,8 @@ wikitext: |-
   | def            = 0
   | requirement    = [[Declare]] a card type ([[Monster Card|Monster]], [[Spell Card|Spell]], or [[Trap Card|Trap]]).
   | text           = Your opponent [[excavate]]s the top card of their [[Main Deck|Deck]] and places it on top of their Deck. If it was the declared card type, gain 400 [[LP]]. Then, if this card is in [[Maximum Mode]], you can [[destroy]] 1 card on your opponent's [[field]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = カードの種類（モンスター・魔法・罠）を宣言して発動できる。
+  | ja_text        = 相手は自身のデッキの一番上のカードをめくり、お互いに確認して元に戻す。そのカードが宣言した種類のカードだった場合、自分は４００ＬＰ回復する。このカードがマキシマムモードの場合、さらに相手フィールドのカード１枚を選んで破壊できる。
   | jp_sets        = 
   RD/KP25-JP007; Rising of the Aurora; Common
   | archseries     = Reporter
@@ -30,5 +30,5 @@ wikitext: |-
   * Destroys your opponent's Trap Cards
   | life_points    = You gain Life Points
   | misc           = Requires Maximum Mode
-  | database_id    = 
+  | database_id    = 23204
   }}
