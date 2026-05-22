@@ -10,10 +10,10 @@ wikitext: |-
   | property       = Normal
   | requirement    = If you have a [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Monster Card|monster]] on your [[field]] during a [[turn]] you have not [[activate]]d "Happy Journal", [[declare]] a card type (Monster, [[Spell Card|Spell]], or [[Trap Card|Trap]]).
   | text           = Your opponent [[excavate]]s the top 2 cards of their [[Main Deck|Deck]] and places them on top of their Deck in the same order. [[Draw a card|Draw]] cards equal to [the number of cards of the declared card type among the excavated cards].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = 自分が「ハッピージャーナル」を発動していないターンに、自分フィールドに表側表示モンスター（地属性／機械族）がいる場合、カードの種類（モンスター・魔法・罠）を宣言して発動できる。
+  | ja_text        = 相手は自身のデッキの上からカードを２枚めくり、お互いに確認して元に戻す。自分は［その中の宣言した種類のカードの数］だけドローする。
   | jp_sets        = 
-  RD/KP25-JP048; Rising of the Aurora; Rare
+  RD/KP25-JP048; Rising of the Aurora; Rare, Secret Rare
   | mentions       = Happy Journal
   | supports       = 
   * EARTH
@@ -28,5 +28,5 @@ wikitext: |-
   * Requires control of specific Attribute
   * Requires control of specific Type
   * Only once per turn
-  | database_id    = 
+  | database_id    = 23245
   }}
