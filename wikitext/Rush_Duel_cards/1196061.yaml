@@ -2,19 +2,33 @@ title: Y-Dragon Head (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = YDragonHead-RDAP03-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Machine / Union / Effect
-  | level           = 4
-  | atk             = 1500
-  | def             = 1600
-  | requirement     = None
-  | text            = [[Equip]] this card to 1 [[face-up]] "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]", or [[Fusion Monster]] that mentions it as [[material]], on your [[field]] as an [[Equip Spell Card]] with the following effect.<br />● The equipped monster gains 400 [[ATK]]/[[DEF]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image          = YDragonHead-RDAP03-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Machine / Union / Effect
+  | level          = 4
+  | atk            = 1500
+  | def            = 1600
+  | requirement    = None
+  | text           = [[Equip]] this card to 1 [[face-up]] "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]", or [[Fusion Monster]] that mentions it as [[material]], on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped [[Monster Card|monster]] gains 400 [[ATK]]/[[DEF]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/AP03-JP057; Advance Pack: Union Base; Super Rare
-  | mentions        = X-Head Cannon (Rush Duel)
-  | archseries      = 
-  | database_id     = 
+  | mentions       = X-Head Cannon (Rush Duel)
+  | supports       = Fusion Monster
+  | archseries     = XYZ (Rush Duel series)
+  | action         = Equips self from field
+  | stat_change    = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | m/s/t          = Treated as Equip Card
+  | fm_for         = 
+  * XY-Dragon Cannon (Rush Duel)
+  * XYZ-Dragon Cannon (Rush Duel)
+  * YZ-Tank Dragon (Rush Duel)
+  | misc           = 
+  * Equips only to a specific target
+  * Requires control of specific card
+  * Requires control of specific Monster card type
+  | database_id    = 
   }}

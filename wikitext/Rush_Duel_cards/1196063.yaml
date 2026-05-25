@@ -12,11 +12,11 @@ wikitext: |-
   * X-Head Cannon (Rush Duel)
   * Y-Dragon Head (Rush Duel)
   | materials       = "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]" + "[[Y-Dragon Head (Rush Duel)|Y-Dragon Head]]"
-  | condition       = This card can be [[Union Fusion]]ed. This card can be treated as 2 materials, "X-Head Cannon" and "Y-Dragon Head", for the [[Fusion Summon]] of "[[XYZ-Dragon Cannon (Rush Duel)|XYZ-Dragon Cannon]]".
+  | condition       = This card can be [[Union Fusion]]ed. This card can be treated as 2 [[material]]s, "X-Head Cannon" and "Y-Dragon Head", for the [[Fusion Summon]] of "[[XYZ-Dragon Cannon (Rush Duel)|XYZ-Dragon Cannon]]".
   | requirement     = None
   | text            = [[Destroy]] 1 [[face-up]] [[Spell Card]] on your opponent's [[field]].
-  | ja_condition    = 
   | ja_materials    = 
+  | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -25,6 +25,17 @@ wikitext: |-
   * X-Head Cannon (Rush Duel)
   * Y-Dragon Head (Rush Duel)
   * XYZ-Dragon Cannon (Rush Duel)
-  | archseries      = 
+  | archseries      = XYZ (Rush Duel series)
+  | action          = Returns Fusion Materials for Union Fusion to Deck
+  | stat_change     = Treated as alternate name
+  | m/s/t           = Destroys your opponent's face-up Spell Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Union Fusion
+  * Special Summons itself from your Extra Deck
+  * Treated as multiple Fusion Materials
   | database_id     = 
   }}

@@ -3,23 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|星|せい}}{{Ruby|域|いき}}のプリアージュ
-  | romaji_name    = Sei'iki no Puriāju
-  | image          = PliagetheStarSanctuary-RDAP03-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Psychic / Fusion / Effect
-  | level          = 10
-  | atk            = 2700
-  | def            = 3200
-  | materials      = "[[Pliage the Sacred Shooting Star]]" + 1 [[Level]] 4 or lower [[DARK]] [[Attribute]] [[monster]] + 1 [[Normal Monster]]
-  | requirement    = None
-  | text           = [[Special Summon]] 1 Normal Monster from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make the monster Special Summoned by this [[effect]] gain [[ATK]] equal to [its [[original DEF]]] until the end of this [[turn]].
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|星|せい}}{{Ruby|域|いき}}のプリアージュ
+  | romaji_name     = Sei'iki no Puriāju
+  | image           = PliagetheStarSanctuary-RDAP03-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Psychic / Fusion / Effect
+  | level           = 10
+  | atk             = 2700
+  | def             = 3200
+  | fusion_material = Pliage the Sacred Shooting Star
+  | materials       = "[[Pliage the Sacred Shooting Star]]" + 1 [[Level]] 4 or lower [[DARK]] [[Attribute]] [[Monster Card|monster]] + 1 [[Normal Monster]]
+  | requirement     = None
+  | text            = [[Special Summon]] 1 Normal Monster from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can make the monster Special Summoned by this [[effect]] gain [[ATK]] equal to [its [[Original ATK and DEF|original DEF]]] until the end of this [[turn]].
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/AP03-JP014; Advance Pack: Union Base; Ultra Rare, Over Rush Rare
-  | mentions       = Pliage the Sacred Shooting Star
-  | archseries     = Pliage
-  | database_id    = 
+  | mentions        = Pliage the Sacred Shooting Star
+  | supports        = 
+  * DARK
+  * Normal Monster
+  | archseries      = Pliage
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires nonspecific Normal Monsters as Fusion Materials
+  * Special Summons from your Graveyard
+  | database_id     = 
   }}

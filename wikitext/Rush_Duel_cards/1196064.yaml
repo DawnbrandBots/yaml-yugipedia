@@ -12,11 +12,11 @@ wikitext: |-
   * Y-Dragon Head (Rush Duel)
   * Z-Metal Tank (Rush Duel)
   | materials       = "[[Y-Dragon Head (Rush Duel)|Y-Dragon Head]]" + "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]"
-  | condition       = This card can be [[Union Fusion]]ed. This card can be treated as 2 materials, "Y-Dragon Head" and "Z-Metal Tank", for the [[Fusion Summon]] of "[[XYZ-Dragon Cannon (Rush Duel)|XYZ-Dragon Cannon]]".
+  | condition       = This card can be [[Union Fusion]]ed. This card can be treated as 2 [[material]]s, "Y-Dragon Head" and "Z-Metal Tank", for the [[Fusion Summon]] of "[[XYZ-Dragon Cannon (Rush Duel)|XYZ-Dragon Cannon]]".
   | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text            = [[Destroy]] 1 [[face-down]] [[monster]] on your opponent's [[field]].
-  | ja_condition    = 
+  | text            = [[Destroy]] 1 [[face-down]] [[Monster Card|monster]] on your opponent's [[field]].
   | ja_materials    = 
+  | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -25,6 +25,17 @@ wikitext: |-
   * Y-Dragon Head (Rush Duel)
   * Z-Metal Tank (Rush Duel)
   * XYZ-Dragon Cannon (Rush Duel)
-  | archseries      = 
+  | archseries      = XYZ (Rush Duel series)
+  | action          = 
+  * Returns Fusion Materials for Union Fusion to Deck
+  * Sends from hand to Graveyard for cost
+  | stat_change     = Treated as alternate name
+  | m/s/t           = Destroys your opponent's face-down Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Union Fusion
+  * Special Summons itself from your Extra Deck
+  * Treated as multiple Fusion Materials
   | database_id     = 
   }}
