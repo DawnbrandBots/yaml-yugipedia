@@ -13,11 +13,11 @@ wikitext: |-
   * Y-Dragon Head (Rush Duel)
   * Z-Metal Tank (Rush Duel)
   | materials       = "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]" + "[[Y-Dragon Head (Rush Duel)|Y-Dragon Head]]" + "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]"
-  | condition       = This card can be [[Union Fusion]]ed ([[Fusion Summon]] by placing the above [[face-up]] cards from your [[field]] on the bottom of the owner's [[Main Deck|Deck]] in any order as [[material]]s).
+  | condition       = This card can be [[Union Fusion]]ed ([[Fusion Summon]] by placing the above [[face-up]] cards from your [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]] in any order as [[material]]s).
   | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | text            = [[Destroy]] 1 card on your opponent's field.
-  | ja_condition    = 
   | ja_materials    = 
+  | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -26,6 +26,21 @@ wikitext: |-
   * X-Head Cannon (Rush Duel)
   * Y-Dragon Head (Rush Duel)
   * Z-Metal Tank (Rush Duel)
-  | archseries      = 
+  | archseries      = XYZ (Rush Duel series)
+  | action          = 
+  * Returns Fusion Materials for Union Fusion to Deck
+  * Sends from hand to Graveyard for cost
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Union Fusion
+  * Special Summons itself from your Extra Deck
+  | misc            = Cover card
   | database_id     = 
   }}
