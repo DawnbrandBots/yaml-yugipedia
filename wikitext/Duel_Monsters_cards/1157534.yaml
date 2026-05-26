@@ -1,7 +1,5 @@
-title: Early Palm Gets the Win
+title: First Striker Advantage
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = EarlyPalmGetstheWin-26PR-JP-NPR.png
+  | image               = FirstStrikerAdvantage-26PR-JP-NPR.png
   | card_type           = Spell
   | property            = Continuous
   | password            = 58995660
   | effect_types        = Trigger-like
-  | text                = [[Once per turn]], when an [[attack]] is [[declare]]d involving your [[monster]]: You can roll a six-sided die and apply this [[effect]] to that monster you [[control]] based on the result until the end of this [[turn]]. If you activated this effect when an attack was declared involving 2 monsters in the same [[column]], you choose the effect instead.<br />● 1 or 4: The first time it would be [[destroyed by battle]] or card effect, it is not destroyed.<br />● 2 or 5: It loses 500 [[ATK]], also it is [[unaffected]] by activated Spell/Trap effects, except "Early Palm Gets the Win".<br />● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.
+  | text                = [[Once per turn]], when an [[attack]] is [[declare]]d involving your [[monster]]: You can roll a six-sided die and apply this [[effect]] to your monster based on the result, until the end of this [[turn]]. If both monsters were in the same [[column]] when this effect was activated, choose the effect instead of rolling.<br />● 1 or 4: The first time it would be [[destroyed by battle]] or card effect, it is not destroyed.<br />● 2 or 5: It loses 500 [[ATK]], also it is [[unaffected]] by activated Spell/Trap effects, except "First Striker Advantage".<br />● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,9 +26,21 @@ wikitext: |-
   | ja_text             = ①：１ターンに１度、自分のモンスターが戦闘を行う攻撃宣言時に発動できる。サイコロを１回振り、出た目によって以下の効果をその自分のモンスターにターン終了時まで適用する。同じ縦列のモンスター同士が戦闘を行う攻撃宣言時に発動した場合、サイコロを振らず以下の効果から１つを選ぶ。<br />●１・４：１度だけ戦闘・効果では破壊されない。●２・５：攻撃力が５００ダウンし、「先手必掌」以外の魔法・罠カードが発動した効果を受けない。●３・６：攻撃力が１０００アップし、１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   | ko_text             = 
   | sc_text             = 
+  | en_sets             = 
+  BLGG-EN048; Battles of Legend: Glorious Gallery; Ultra Rare
+  | fr_sets             = 
+  BLGG-FR048; Battles of Legend: Glorious Gallery; Ultra Rare
+  | de_sets             = 
+  BLGG-DE048; Battles of Legend: Glorious Gallery; Ultra Rare
+  | it_sets             = 
+  BLGG-IT048; Battles of Legend: Glorious Gallery; Ultra Rare
+  | pt_sets             = 
+  BLGG-PT048; Battles of Legend: Glorious Gallery; Ultra Rare
+  | sp_sets             = 
+  BLGG-SP048; Battles of Legend: Glorious Gallery; Ultra Rare
   | jp_sets             = 
   26PR-JP004; Promotion Pack 2026; Normal Parallel Rare
-  | mentions            = Early Palm Gets the Win
+  | mentions            = First Striker Advantage
   | action              = Activates upon attack declaration
   | stat_change         = 
   * Your monsters lose ATK
