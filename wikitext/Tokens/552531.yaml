@@ -19,15 +19,15 @@ wikitext: |-
   | atk             = 0
   | def             = 0
   | summoned_by     = Sky Striker Mecha - Hornet Drones
-  | text            = This card can be used as a "Sky Striker Ace Token".<br /><br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
-  | fr_text         = Cette carte peut être utilisée comme "Jeton Assaut de l'Air - As".<br /><br /><br />*Si elle est utilisée comme un autre Jeton, appliquez les Type/Attribut/Niveau/ATK/DEF du Jeton.
-  | de_text         = Diese Karte kann als eine „Himmelsjäger-Ass-Spielmarke“ verwendet werden.<br /><br /><br />*Falls sie als eine andere Spielmarke verwendet wird, verwende Typ/Eigenschaft/Stufe/ATK/DEF der Spielmarke.
-  | it_text         = Questa carta può essere utilizzata come "Segna-Assaltatrice del Cielo Asso".<br /><br /><br />*Se viene utilizzato come un altro Segna-Mostro, utilizza il Tipo/Attributo/Livello/ATK/DEF di quel Segna-Mostro.
-  | pt_text         = Este card pode ser usado como uma "Ficha de Força Celeste - Ás".<br /><br /><br />*Se ela for usada como outra Ficha, aplique o Tipo/Atributo/Nível/ATK/DEF dessa outra Ficha.
-  | es_text         = Esta carta puede ser usada como una "Ficha Caza del Cielo As".<br /><br /><br />*Si se usa como otra Ficha, aplica el Tipo/Atributo/Nivel/ATK/DEF de esa Ficha.
-  | ja_text         = このカードは「閃刀姫トークン」として使用する事ができる。<br /><br /><br />※「閃刀姫トークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
-  | ko_text         = 이 카드는 "섬도희 토큰"오로 사용할 수 있다.<br /><br /><br />※"쥐라에그 토큰" 이외의 토큰으로 사용할 경우, 토큰의 종족 / 속성 / 레벨 / 공격력 / 수비력을 적용한다.
-  | sc_text         = 此卡可作为“闪刀姬衍生物”使用。<br /><br /><br />※作为“闪刀姬衍生物”以外的衍生物使用的情况下，适用该衍生物的种族・属性・等级・攻击力・守备力。
+  | text            = This card can be used as a "Sky Striker Ace Token".<br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
+  | fr_text         = Cette carte peut être utilisée comme "Jeton Assaut de l'Air - As".<br /><br />*Si elle est utilisée comme un autre Jeton, appliquez les Type/Attribut/Niveau/ATK/DEF du Jeton.
+  | de_text         = Diese Karte kann als eine „Himmelsjäger-Ass-Spielmarke“ verwendet werden.<br /><br />*Falls sie als eine andere Spielmarke verwendet wird, verwende Typ/Eigenschaft/Stufe/ATK/DEF der Spielmarke.
+  | it_text         = Questa carta può essere utilizzata come "Segna-Assaltatrice del Cielo Asso".<br /><br />*Se viene utilizzato come un altro Segna-Mostro, utilizza il Tipo/Attributo/Livello/ATK/DEF di quel Segna-Mostro.
+  | pt_text         = Este card pode ser usado como uma "Ficha de Força Celeste - Ás".<br /><br />*Se ela for usada como outra Ficha, aplique o Tipo/Atributo/Nível/ATK/DEF dessa outra Ficha.
+  | es_text         = Esta carta puede ser usada como una "Ficha Caza del Cielo As".<br /><br />*Si se usa como otra Ficha, aplica el Tipo/Atributo/Nivel/ATK/DEF de esa Ficha.
+  | ja_text         = このカードは「閃刀姫トークン」として使用する事ができる。<br /><br />※「閃刀姫トークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
+  | ko_text         = 이 카드는 "섬도희 토큰"오로 사용할 수 있다.<br /><br />※"쥐라에그 토큰" 이외의 토큰으로 사용할 경우, 토큰의 종족 / 속성 / 레벨 / 공격력 / 수비력을 적용한다.
+  | sc_text         = 此卡可作为“闪刀姬衍生物”使用。<br /><br />※作为“闪刀姬衍生物”以外的衍生物使用的情况下，适用该衍生物的种族・属性・等级・攻击力・守备力。
   | en_sets         = 
   OP08-EN026; OTS Tournament Pack 8; Super Rare
   MAMA-EN013; Magnificent Mavens; Ultra Rare
@@ -58,7 +58,7 @@ wikitext: |-
   TK01-JP030; Token Pack (OCG); Rare, Ultra Rare
   23TP-JP116; Tournament Pack 2023 Vol.1; Common
   QCDB-JPT29; Quarter Century Duelist Box; Super Rare, Secret Rare
-  | ae_sets               = 
+  | ae_sets         = 
   24AT-AE504; Tournament Pack 2024 Vol.5 (Asian-English); Super Rare
   | kr_sets         = 
   AE13-KR004; Advanced Event Pack 2019 Vol.1; Secret Rare
@@ -68,5 +68,6 @@ wikitext: |-
   | archseries      = 
   * Sky Striker
   * Sky Striker Ace
+  | action          = Cannot be Tributed
   | database_id     = 13681
   }}
