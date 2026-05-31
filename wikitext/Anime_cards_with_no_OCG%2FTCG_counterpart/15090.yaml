@@ -14,19 +14,21 @@ wikitext: |-
   | atk                = 400
   | def                = 1200
   | effect_types       = Summoning condition, Summoning condition, Trigger
-  | text               = This card cannot be [[Normal Summon]]ed or [[Normal Set|Set]]. This card cannot be [[Special Summon]]ed except with "[[100-Year Awakening]]". When this card is Special Summoned, [[select]] 1 [[Monster Card|monster]] your opponent [[control]]s, and take control of it.
+  | text               = This card cannot be [[Normal Summon]]ed or [[Normal Set|Set]]. This card cannot be [[Special Summon]]ed except with "[[100-Year Awakening]]". When this card is [[Summon]]ed, [[select]] 1 [[Monster Card|monster]] your opponent [[control]]s, and take control of it.
   | ja_text            = 「１００年の目覚め 」によってのみ特殊召喚される。召喚時に相手モンスター１体のコントロールを得る。
   | appears_in_dm      = 193, 196, 197
   | decks              = Leon von Schroeder
   | mentions           = 100-Year Awakening
   | archseries         = Fairy Tale (anime)
   | action             = 
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
   * Activates upon Special Summon
   * Takes control of an opponent's monster
   | summoning          = 
   * Cannot be Normal Summoned
   * Cannot be Normal Set
+  * Must be Special Summoned by a specific card effect
   * Nomi
-  | misc               = 
-  * Special Summon Monster
+  | misc               = Special Summon Monster
   }}
