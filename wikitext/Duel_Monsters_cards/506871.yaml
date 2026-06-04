@@ -43,7 +43,11 @@ wikitext: |-
   | ygo_sets              = 
   '''[[Pack 47 (YGOO-BP)|Pack 47]]'''
   | related_to_archseries = Volcanic
-  | action                = Sends itself from field to Graveyard for cost
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Flip Summon
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard for cost
   | life_points           = Damages your opponent
   | database_id           = 7490
   }}
