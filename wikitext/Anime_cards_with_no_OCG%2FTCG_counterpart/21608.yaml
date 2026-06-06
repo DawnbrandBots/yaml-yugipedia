@@ -9,16 +9,12 @@ wikitext: |-
   | card_type     = Spell
   | property      = Normal
   | effect_types  = Effect
-  | text          = Double the [[ATK]] of all [[Monster Card|monster]]s you [[control]] with 1000 or less [[ATK]] until the [[End Phase]].
+  | text          = This [[turn]], double the [[ATK]] of all [[Monster Card|monster]]s with 1000 or less [[ATK]].
   | ja_text       = このターン、攻撃力１０００以下のモンスターの攻撃力を２倍にする。
   | appears_in_gx = 069
   | decks         = Jean-Louis Bonaparte
-  | stat_change   = Changes ATK value
-  }}
-
-  {{Unofficial names
-  | el_name = Σώμα με Φλογέρες και Τύμπανα
-  | hr_name = Vojna Parada
-  | es_name = Fanfarria
-  | de_name = Armeekapelle
+  | stat_change   = 
+  * Your monsters gain ATK
+  * Your opponent's monsters gain ATK
+  * Doubles ATK
   }}
