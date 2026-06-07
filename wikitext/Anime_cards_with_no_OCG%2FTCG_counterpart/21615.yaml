@@ -8,19 +8,15 @@ wikitext: |-
   | image_nc      = GulliverChain-JP-Anime-GX-NC.png
   | card_type     = Trap
   | property      = Continuous
-  | text          = [[Activate]] only by [[select]]ing 1 [[Monster Card|monster]] your opponent [[control]]s when you changed its [[battle position]] by a [[card effect]]. Change that monster to [[face-up]] [[Defense Position]]. Then, when that monster is in [[Attack Position]], [[destroy]] it and this card.
-  | ja_text       = [[Battle Position|表示形式]]を変更したモンスター１体を対象に発動。対象となったモンスターを[[Face-up|表側]][[Defense Position|守備表示]]にする。対象モンスターが[[Attack Position|攻撃表示]]になった時、そのモンスターとこのカードを[[Destroy|破壊]]する。
+  | effect_types  = Activation requirement, Effect, Trigger-like
+  | text          = [[Activate]] only by [[Target|select]]ing 1 [[Monster Card|monster]] that has changed its [[battle position]]. Change the selected monster to [[face-up]] [[Defense Position]]. When the selected monster is changed to [[Attack Position]], [[destroy]] it and this card.
+  | ja_text       = 表示形式を変更したモンスター１体を対象に発動。対象となったモンスターを表側守備表示にする。<br />対象モンスターが攻撃表示になった時、そのモンスターとこのカードを破壊する。
   | appears_in_gx = 069
   | decks         = Jean-Louis Bonaparte
-  | action        = Changes battle positions
+  | action        = 
+  * Activates if battle positions change
+  * Changes battle positions
   | m/s/t         = 
-  * Destroys your opponent's Monster Cards
+  * Destroys Monster Cards
   * Destroys itself
-  }}
-
-  {{Unofficial names
-  | hr_name = Guliverov Lanac
-  | el_name = Αλυσίδα του Γκιούλιβερ
-  | es_name = Cadena de Gulliver
-  | de_name = Gulliver Kette
   }}
