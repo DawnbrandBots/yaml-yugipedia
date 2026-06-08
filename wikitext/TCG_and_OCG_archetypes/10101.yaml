@@ -655,7 +655,7 @@ wikitext: |-
   }}
 
   === Ritual ===
-  This variant makes heavy usage of Ritual support such as "[[Preparation of Rites]]" and "[[Dark Necromancer]]", and alongside the new "[[Archfiend Emperor]]" can also play "[[Matador Archfiend]]" and "[[Archfiend's Awakening]]" as additional Ritual Summons. "[[End of the World Ruler]]" also pairs well with this strategy. The effect of "[[Duke Archfiend]]" being used to send "Heiress" allows for access to many different avenues of play, from extenders like "[[Highness Archfiend]]" to access to Synchro plays through "Weiss, Lightsworn Archfiend", or even control tools like "[[Archfiend's Ghastly Glitch]]" and "[[Simul Archfiends]]". This deck's end goal is to summon "Archfiend Emperor" to the Extra Monster Zone to take full advantage of its powerful effects.
+  This variant makes heavy usage of Ritual support such as "[[Pre-Preparation of Rites]]" and "[[Dark Necromancer]]", and alongside the "[[Archfiend Emperor]]" and "[[Archfiend Matriarch]]" can also play "[[Matador Archfiend]]" and "[[Archfiend's Awakening]]" as additional Ritual Summons. "[[End of the World Ruler]]" also pairs well with this strategy. The effect of "[[Duke Archfiend]]" being used to send "Heiress" allows for access to many different avenues of play, from extenders like "[[Highness Archfiend]]" to access to Synchro plays through "Weiss, Lightsworn Archfiend", or even control tools like "[[Archfiend's Ghastly Glitch]]" and "[[Simul Archfiends]]". This deck's end goal is to summon "Archfiend Emperor" to the Extra Monster Zone to take full advantage of its powerful effects.
 
   Additionally, as this variant plays the LIGHT Fiend monster "[[Highness Archfiend]]" (and optionally "Archfiend Eccentrick") it can choose to go into "Fiendsmith" plays over "Archfiend" ones, or use them as a backup plan in the case that the effect of "Highness" is unusable and the player has not yet been locked out.
 
@@ -713,6 +713,34 @@ wikitext: |-
   * [[Drytron Meteor Shower]]
   |continuous traps =
   * [[Archfiend's Fervor]]
+  }}
+
+  ==== Sample combo ====
+  {{Combo steps
+  | opening = "[[Royal Archfiend]]"
+  | end     = "[[Highness Archfiend]]" + "[[Archfiend's Ghastly Glitch]]" + "[[Archfiend's Usurpation]]"<br/>(see next combo for Turn 3, or if going 2nd)
+  | steps   = 
+  # Activate "[[Royal Archfiend]]", tributing to add "[[Highness Archfiend]]".
+  # Summon "Highness", banishing "Royal" to add "[[Archfiend's Ghastly Glitch]]" and "[[Archfiend's Usurpation]]" to hand.
+  # Set "Ghastly Glitch" and "Usurpation".
+  On opponent's turn:
+  # Use "Ghastly Glitch" as disruption, sending "[[Archfiend Heiress]]" to add "Royal Archfiend".
+  # Use "Usurpation" to set either "[[Archfiend Playtime]]" or "[[Simul Archfiends]]".
+  ## "Simul": Stops the opponent from extending beyond one Extra Deck monster.
+  ## "Playtime": Summons "[[Archfiend's Advent]]" to take control of an opponent's monster.
+  }}
+  {{Combo steps
+  | opening = "[[Royal Archfiend]]"
+  | end     = "[[Archfiend Emperor]]" + "[[Archfiend's Origin]]" & "[[Summoned Skull]]" or "[[Regenesis Archfiend]]" & "[[Regenesis Sage]]"
+  | steps   = 
+  # Activate "[[Royal Archfiend]]", tributing to add "[[Highness Archfiend]]".
+  # Summon "Highness", banishing "Royal" to add "[[Duke Archfiend]]" and "[[Archfiend Strategy]]".
+  # Activate "Strategy", adding "[[Archfiend Emperor]]" to the Extra Deck.
+  # Summon "Duke", use its effect to send "[[Archfiend Heiress]]" to add "[[Throne of the Archfiends]]".
+  # Activate "Throne", using "Duke" as tribute to summon "Emperor", who will banish all monsters except those in the Extra Monster Zone.
+  # Effect of "Emperor" to summon either "[[Archfiend's Origin]]" or "[[Regenesis Archfiend]]".
+  # The summoned monster will then summon either "[[Summoned Skull]]" or "[[Regenesis Sage]]", depending which was chosen.
+  # Attack directly with the three monsters (3500 + 2500 + 2500), performing an [[One Turn Kill|OTK]].
   }}
 
   === Lightsworn ===
