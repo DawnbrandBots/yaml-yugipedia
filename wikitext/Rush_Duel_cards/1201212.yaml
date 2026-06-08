@@ -9,14 +9,21 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = During a [[turn]] you have not [[activate]]d "Encounter of the Stars".
-  | text           = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 2 [[DARK]] [[Attribute]] [[monster]] with 1200 [[DEF]], "[[Star Replete]]", or "[[Fusion (Rush Duel)|Fusion]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
+  | text           = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated [[Level]] 2 [[DARK]] [[Attribute]] [[Monster Card|monster]] with 1200 [[DEF]], "[[Star Replete]]", or "[[Fusion (Rush Duel)|Fusion]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP03-JP025; Advance Pack: Union Base; Common
   | mentions       = 
+  * Encounter of the Stars
   * Star Replete
   * Fusion (Rush Duel)
+  | supports       = DARK
   | archseries     = Pliage
+  | action         = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | misc           = Only once per turn
   | database_id    = 
   }}

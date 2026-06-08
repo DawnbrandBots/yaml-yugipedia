@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1300
   | def            = 1000
   | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This [[turn]], this card's name becomes "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]". Then, you can [[Add a card|add]] 1 "[[Y-Trial Dragon]]" or "[[Z-Trial Tank]]" from your Graveyard to your hand. You cannot Special Summon non-[[LIGHT]] [[Attribute]] monsters from the [[Extra Deck]] for the rest of this turn.
+  | text           = This [[turn]], this card's name becomes "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]". Then, you can [[Add a card|add]] 1 "[[Y-Trial Dragon]]" or "[[Z-Trial Tank]]" from your Graveyard to your [[hand]]. You cannot [[Special Summon]] non-[[LIGHT]] [[Attribute]] [[Monster Card|monster]]s from the [[Extra Deck]] until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,6 +21,12 @@ wikitext: |-
   * X-Head Cannon (Rush Duel)
   * Y-Trial Dragon
   * Z-Trial Tank
+  | supports       = LIGHT
   | archseries     = XYZ (Rush Duel series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = Changes own name while on the field
+  | summoning      = Restricts the player's Special Summons from the Extra Deck
   | database_id    = 
   }}

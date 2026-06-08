@@ -13,7 +13,7 @@ wikitext: |-
   | atk             = 1000
   | def             = 800
   | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text            = This [[turn]], this card's name becomes "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]". Then, you can [[Fusion Summon]] "[[XZ-Tank Cannon (Rush Duel)|XZ-Tank Cannon]]" or "[[YZ-Tank Dragon (Rush Duel)|YZ-Tank Dragon]]" by placing monsters from your [[field]] or Graveyard on the bottom of the owner's Deck in any order as [[material]], including this card.
+  | text            = This [[turn]], this card's name becomes "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]". Then, you can [[Fusion Summon]] "[[XZ-Tank Cannon (Rush Duel)|XZ-Tank Cannon]]" or "[[YZ-Tank Dragon (Rush Duel)|YZ-Tank Dragon]]" by placing [[Monster Card|monster]]s from your [[field]] and/or Graveyard on the bottom of the [[owner]]'s Deck in any order as [[material]], including this card.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -23,5 +23,19 @@ wikitext: |-
   * XZ-Tank Cannon (Rush Duel)
   * YZ-Tank Dragon (Rush Duel)
   | archseries      = XYZ (Rush Duel series)
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Places cards from the player's field on the bottom of the Deck
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  | stat_change     = Changes own name while on the field
+  | summoning       = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Fusion Summons specific Fusion Monster
   | database_id     = 
   }}

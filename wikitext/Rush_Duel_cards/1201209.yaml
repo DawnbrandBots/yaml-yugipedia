@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 800
   | def            = 1200
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Fusion Summon]] a monster that mentions "Spirit of the Stars" or "[[Pliage the Sacred Shooting Star]]" as [[material]] by sending monsters from your [[hand]] or [[field]] to the Graveyard as material.
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Fusion Summon]] a [[Monster Card|monster]] that mentions "Spirit of the Stars" or "[[Pliage the Sacred Shooting Star]]" as [[material]] by sending monsters from your [[hand]] and/or [[field]] to the Graveyard as material.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,16 @@ wikitext: |-
   * Spirit of the Stars
   * Pliage the Sacred Shooting Star
   | archseries     = Pliage
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
   | database_id    = 
   }}
