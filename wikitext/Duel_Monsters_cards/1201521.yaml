@@ -37,7 +37,17 @@ wikitext: |-
   BETB-JP024; Beyond The Brave; 
   | sc_sets               = 
   BETB-SC024; Beyond The Brave; 
+  | supports              = Rock
   | archseries            = Adamancipator
   | supports_archetypes   = Adamancipator
+  | action                = 
+  * Activates from your hand
+  * Places cards from the player's hand on the top of the Deck for cost
+  * Excavates from the player's Deck
+  * Places excavated cards on the bottom of the Deck
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons excavated cards
+  | misc                  = Only once per turn
   | database_id           = 
   }}
