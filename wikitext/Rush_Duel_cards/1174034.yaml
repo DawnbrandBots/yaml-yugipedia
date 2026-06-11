@@ -4,6 +4,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = マイクロノヴァ
   | romaji_name    = Maikuronova
+  | ko_name        = 마이크로노바
   | image          = Micronova-RDKP24-JP-C.png
   | card_type      = Spell
   | property       = Normal
@@ -11,8 +12,12 @@ wikitext: |-
   | text           = Make 1 [[face-up]] [[Monster Card|monster]] on your [[field]] gain 800 [[ATK]] until the end of this [[turn]]. Then, you can [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of different [[Attributes]] in your Graveyard] x 100.
   | ja_requirement = 手札１枚を墓地へ送って発動できる。
   | ja_text        = 自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで８００アップする。その後、［自分の墓地のモンスターの属性の種類］×１００ダメージを相手に与える事ができる。
+  | ko_requirement = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 800 올린다. 그 후, [자신 묘지의 몬스터의 속성의 종류] × 100 데미지를 상대에게 줄 수 있다.
   | jp_sets        = 
   RD/KP24-JP044; Overforce of the Abyss; Common
+  | kr_sets        = 
+  RD/KP24-KR044; Overforce of the Abyss; Common
   | archseries     = Voidalfr
   | action         = Sends from hand to Graveyard for cost
   | stat_change    = Your monsters gain ATK

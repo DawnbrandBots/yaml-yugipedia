@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = マッドレア・アメロ
   | romaji_name    = Maddorea Amero
+  | ko_name        = 매드레어 아메로
   | image          = 
   1; MadRareAmelo-RDKP24-JP-UR.png; MadRareAmelo-OW.png
   2; MadRareAmelo-RDKP24-JP-ORR-AA.png
@@ -18,8 +19,12 @@ wikitext: |-
   | text           = [[Destroy]] 1 [[Attack Position]] [[Level]] 3-8 [[Effect Monster]] on your opponent's [[field]]. Then, if you destroyed a monster whose [[Original Level and Rank|original Level]] is 6 by this [[effect]], you can [[Damage|inflict]] 600 [[Effect damage|damage]] to your opponent. This turn, you cannot [[attack]] with Level 6 or lower monsters.
   | ja_requirement = このカードを召喚したターンに、自分の墓地のモンスター３体をデッキに戻して発動できる。
   | ja_text        = 相手フィールドの攻撃表示の効果モンスター（レベル３～８）１体を選んで破壊する。この効果で元々のレベルが６のモンスターを破壊した場合、さらに相手に６００ダメージを与える事ができる。このターン、自分はモンスター（レベル６以下）で攻撃できない。
+  | ko_requirement = 이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터 3장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text        = 상대 필드의 공격 표시인 효과 몬스터(레벨 3~8) 1장을 고르고 파괴한다. 이 효과로 원래의 레벨이 6 인 몬스터를 파괴했을 경우, 추가로 상대에게 600 데미지를 줄 수 있다. 이 턴에, 자신은 몬스터(레벨 6 이하)로 공격할 수 없다.
   | jp_sets        = 
   RD/KP24-JP028; Overforce of the Abyss; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets        = 
+  RD/KP24-KR028; Overforce of the Abyss; Ultra Rare, Secret Rare, Over Rush Rare
   | anti-supports  = Effect Monster
   | action         = 
   * Activates during the turn in which it was Normal Summoned
