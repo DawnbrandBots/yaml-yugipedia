@@ -8,12 +8,12 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 疫神の依鬼 ヨア
-  | romaji_name           = 
+  | ja_name               = {{Ruby|疫|えき}}{{Ruby|神|じん}}の{{Ruby|依鬼|アシュトラ}} ヨア
+  | romaji_name           = Ekijin no Ashutora Yoa
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 疫神之依艮鬼 夜亚
   | image                 = YoathePlagueDeityAsutra-BETB-JP-OP.png
   | attribute             = WIND
   | types                 = Spellcaster / Effect
@@ -30,10 +30,22 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = 此卡名以①方法的特殊召唤1回合仅可进行1次，且②③效果1回合仅可各使用1次。①：此卡可通过将自己场上的1张里侧表示卡出示给对手并放回手牌・额外牌组，来从手牌特殊召唤。②：在自己的主要阶段可以发动。从牌组将1张“艮鬼”魔法・陷阱卡放置在自己场上。③：在对手回合中，以场上的1只表侧表示怪兽为对象可以发动。该怪兽的等级上升或下降1。
   | jp_sets               = 
   BETB-JP011; Beyond The Brave; 
+  | sc_sets               = 
+  BETB-SC011; Beyond The Brave; 
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Reveals your face-down cards for Special Summon
+  * Returns from field to hand for Special Summon
+  * Returns from field to Extra Deck for Summon
+  * Sets from your Deck
+  | stat_change           = All monsters gain Levels
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = Only once per turn
   | database_id           = 
   }}

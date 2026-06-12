@@ -8,12 +8,14 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 金神の色鬼 アカスナ
-  | romaji_name           = 
+  | ja_name               = {{Ruby|金|こん}}{{Ruby|神|じん}}の{{Ruby|戦鬼|アシュトラ}} アカスナ
+  | base_romaji_name      = Konjin no Senki Akasuna
+  | base_translated_name  = Akasuna the Golden Deity Battle Oni
+  | romaji_name           = Konjin no Ashutora Akasuna
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 金神之战艮鬼 赤沙
   | image                 = AkasunatheGoldenDeityAsutra-BETB-JP-OP.png
   | attribute             = FIRE
   | types                 = Fiend / Effect
@@ -30,10 +32,25 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = 此卡名以①方法的特殊召唤1回合仅可进行1次，且②③效果1回合仅可各使用1次。①：此卡可通过将自己场上的1张里侧表示卡出示给对手并放回手牌・额外牌组，来从手牌特殊召唤。②：在自己・对手的主要阶段，从自己手牌・场上（里侧表示）将1张陷阱卡送至墓地可以发动。将对手场上的表侧表示怪兽全部改成里侧守备表示。③：在自己的结束阶段可以发动。从牌组将1张“艮鬼”陷阱卡放置在自己场上。
   | jp_sets               = 
   BETB-JP009; Beyond The Brave; Ultra Rare
+  | sc_sets               = 
+  BETB-SC009; Beyond The Brave; 
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Reveals your face-down cards for Special Summon
+  * Returns from field to hand for Special Summon
+  * Returns from field to Extra Deck for Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  * Sets from your Deck
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = Only once per turn
   | database_id           = 
   }}

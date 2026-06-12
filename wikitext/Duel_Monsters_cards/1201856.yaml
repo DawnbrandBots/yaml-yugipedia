@@ -8,8 +8,10 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 鬼神 水子守命
-  | romaji_name           = 
+  | ja_name               = {{Ruby|鬼神|アシュトラーヤ}} {{Ruby|水子守命|ミクマリノミコト}}
+  | base_romaji_name      = Kijin Mizukomorimei
+  | base_translated_name  = Oni God Water Child Protector Lord
+  | romaji_name           = Ashutorāya Mikumari no Mikoto
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -21,6 +23,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2500
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Condition, Trigger
   | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: You can [[send]] 1 "[[Asutra]]" card from your [[Main Deck|Deck]] to the [[GY]], and if you do, send 1 card on the [[field]] to the GY. You can only use this [[effect]] of "Asutraya Mikumari no Mikoto" [[once per turn]]. If your opponent [[activate]]s a [[monster effect]]: You can [[target]] 1 "Asutra" [[Trap]] in your GY or [[banish]]ment, or if there are 3 or more [[face-down]] cards on the field, you can target 1 Trap in your GY instead; [[Set]] it.
   | fr_text               = 
@@ -35,5 +38,15 @@ wikitext: |-
   BETB-JP040; Beyond The Brave; Rare
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Activates upon Special Summon
+  * Sends from your Deck to your Graveyard
+  * Sends from field to Graveyard
+  * Sets from your Graveyard
+  * Sets the player's banished cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | misc                  = Only once per turn
   | database_id           = 
   }}

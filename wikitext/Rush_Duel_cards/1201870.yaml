@@ -9,11 +9,18 @@ wikitext: |-
   | atk            = 200
   | def            = 100
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] "[[Aitsu (Rush Duel)|Aitsu]]" on your [[field]] that is not equipped with a [[Union monster|Union Monster Card]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped [[Monster Card|monster]] gains 3000 [[ATK]] and inflicts piercing [[battle damage]].
+  | text           = [[Equip]] this card to 1 [[face-up]] "[[Aitsu (Rush Duel)|Aitsu]]" on your [[field]] that is not equipped with a [[Union monster|Union Monster Card]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped [[Monster Card|monster]] gains 3000 [[ATK]], and it [[Damage|inflict]]s [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP03-JP043; Advance Pack: Union Base; Common
   | mentions       = Aitsu (Rush Duel)
+  | action         = Equips self from field
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = Treated as Equip Card
+  | attack         = Piercing
+  | misc           = 
+  * Equips only to a specific target
+  * Requires control of specific card
   | database_id    = 
   }}

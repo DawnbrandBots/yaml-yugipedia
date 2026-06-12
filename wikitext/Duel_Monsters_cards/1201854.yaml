@@ -8,8 +8,10 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 封神の剣鬼 ミクマリ
-  | romaji_name           = 
+  | ja_name               = {{Ruby|封|ふう}}{{Ruby|神|じん}}の{{Ruby|剣鬼|アシュトラ}} ミクマリ
+  | base_romaji_name      = Fūjin no Kenki Mikumari
+  | base_translated_name  = Mikumari the Sealing Deity Sword Oni
+  | romaji_name           = Fūjin no Ashutora Mikumari
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -33,7 +35,20 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BETB-JP012; Beyond The Brave; Ultra Rare
+  | supports              = Normal Trap Card
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Reveals your face-down cards for Special Summon
+  * Returns from field to hand for Special Summon
+  * Returns from field to Extra Deck for Summon
+  * Adds from Deck to hand
+  * Activates if sent to the Graveyard
+  * Activates if used as Synchro Material
+  * Sets from your Graveyard
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = Only once per turn
   | database_id           = 
   }}

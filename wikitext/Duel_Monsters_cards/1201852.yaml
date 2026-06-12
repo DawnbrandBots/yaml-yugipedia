@@ -8,12 +8,12 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 蟲神の色鬼 クズハ
-  | romaji_name           = 
+  | ja_name               = {{Ruby|蟲|こ}}{{Ruby|神|じん}}の{{Ruby|色鬼|アシュトラ}} クズハ
+  | romaji_name           = Kojin no Ashutora Kuzuha
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 蛊神之色艮鬼 葛叶
   | image                 = KuzuhatheBewitchingDeityAsutra-BETB-JP-OP.png
   | attribute             = EARTH
   | types                 = Insect / Effect
@@ -30,10 +30,25 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = 此卡名以①方法的特殊召唤1回合仅可进行1次，且②③效果1回合仅可各使用1次。①：此卡可通过将自己场上的1张里侧表示卡出示给对手并放回手牌・额外牌组，来从手牌特殊召唤。②：场上的里侧表示卡每有2张，就以场上的最多1张卡为对象可以发动。将该卡破坏。③：在自己的结束阶段，以自己墓地的1张“艮鬼”陷阱卡为对象可以发动。将该卡放置在自己场上。
   | jp_sets               = 
   BETB-JP010; Beyond The Brave; 
+  | sc_sets               = 
+  BETB-SC010; Beyond The Brave; 
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Reveals your face-down cards for Special Summon
+  * Returns from field to hand for Special Summon
+  * Returns from field to Extra Deck for Summon
+  * Sets from your Graveyard
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = Only once per turn
   | database_id           = 
   }}

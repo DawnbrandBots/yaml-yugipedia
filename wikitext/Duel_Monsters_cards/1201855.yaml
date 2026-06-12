@@ -8,8 +8,10 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 鬼神 朱沙之王
-  | romaji_name           = 
+  | ja_name               = {{Ruby|鬼神|アシュトラージャ}} {{Ruby|朱沙之王|スサノオ}}
+  | base_romaji_name      = Kijin Shusa no Ō
+  | base_translated_name  = Oni God Vermilion Sand King
+  | romaji_name           = Ashutorāja Susanoo
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -21,8 +23,9 @@ wikitext: |-
   | atk                   = 3300
   | def                   = 0
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Trigger, Condition
-  | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Synchro Summon]]ed: You can [[banish]] any number of [[Traps]] from your [[GY]]; banish that many cards on the [[field]]. During the [[End Phase]]: You can [[target]] up to 2 "[[Asutra]]" [[monsters]] and/or Traps in your GY and/or banishment; for each of them, [[Add a card|add]] it to your [[hand]] or [[Set]] it, then if you targeted 2 cards, [[return]] this card to the [[Extra Deck]]. You can only use each effect of "Asutraja Susanoo" [[once per turn]].
+  | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Synchro Summon]]ed: You can [[banish]] any number of [[Traps]] from your [[GY]]; banish that many cards on the [[field]]. During the [[End Phase]]: You can [[target]] up to 2 "[[Asutra]]" [[monsters]] and/or "Asutra" Traps in your GY and/or banishment; for each of them, [[Add a card|add]] it to your [[hand]] or [[Set]] it, then if you targeted 2 cards, [[return]] this card to the [[Extra Deck]]. You can only use each effect of "Asutraja Susanoo" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -35,5 +38,19 @@ wikitext: |-
   BETB-JP039; Beyond The Brave; 
   | archseries            = Asutra
   | supports_archetypes   = Asutra
+  | action                = 
+  * Activates upon Synchro Summon
+  * Adds banished cards to the hand
+  * Sets the player's banished cards
+  * Returns itself from field to Extra Deck
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your banishment
+  * Special Summons face-down
+  | banished              = 
+  * Banishes from Graveyard for cost
+  * Banishes from field
+  | misc                  = Only once per turn
   | database_id           = 
   }}

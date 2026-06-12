@@ -9,11 +9,17 @@ wikitext: |-
   | atk            = 100
   | def            = 200
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] "[[Soitsu (Rush Duel)|Soitsu]]" on your [[field]] that is not equipped with a [[Union monster|Union Monster Card]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped [[Monster Card|monster]] gains 2500 [[ATK]].
+  | text           = [[Equip]] this card to 1 [[face-up]] "[[Soitsu (Rush Duel)|Soitsu]]" on your [[field]] that is not equipped with a [[Union monster|Union Monster Card]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped [[Monster Card|monster]] gains 2500 [[ATK]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP03-JP044; Advance Pack: Union Base; Common
   | mentions       = Soitsu (Rush Duel)
+  | action         = Equips self from field
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = Treated as Equip Card
+  | misc           = 
+  * Equips only to a specific target
+  * Requires control of specific card
   | database_id    = 
   }}
