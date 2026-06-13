@@ -2,20 +2,35 @@ title: Chaos Emperor Dragon - Envoy of the End (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image          = ChaosEmperorDragonEnvoyoftheEnd-RDAP03-JP-OP.png
+  | image          = 
+  1; ChaosEmperorDragonEnvoyoftheEnd-RDAP03-JP-OP.png
+  2; ChaosEmperorDragonEnvoyoftheEnd-RDAP03-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = DARK
   | types          = Dragon / Effect
   | level          = 8
   | atk            = 3000
   | def            = 2500
-  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by placing 1 [[LIGHT]] [[Attribute]] and 1 [[DARK]] Attribute [[monster]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
-  | requirement    = If you have not [[activate]]d any effect during the [[turn]] you Special Summoned this card the above way, [[pay]] 1000 [[LP]].
-  | text           = [[Send]] all cards in both players' hands and [[field]]s to the Graveyard. Then, inflict [[Effect damage|damage]] to your opponent equal to [the number of cards sent to your opponent's Graveyard by this effect] x 300.
-  | ja_condition    =
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by placing 1 [[LIGHT]] [[Attribute]] and 1 [[DARK]] Attribute [[Monster Card|monster]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]] in any order.
+  | requirement    = If you have not [[activate]]d any [[effect]] during the [[turn]] you Special Summoned this card the above way, [[pay]] 1000 [[LP]].
+  | text           = [[Send]] all cards in both [[Duelist|player]]s' hands and fields to the Graveyard. Then, [[Damage|inflict]] [[Effect damage|damage]] to your opponent equal to [the number of cards sent to their Graveyard by this effect] x 300.
+  | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP03-JP001; Advance Pack: Union Base; Ultra Rare, Full Over Rush Rare
+  | supports       = 
+  * LIGHT
+  * DARK
+  | action         = 
+  * Returns from Graveyard to Deck for Summon
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard
+  * Sends from field to Graveyard
+  | summoning      = Special Summons itself from your hand
+  | life_points    = 
+  * Pays Life Points for cost
+  * Damages your opponent
   | misc           = Legend Card
   | database_id    = 
   }}
