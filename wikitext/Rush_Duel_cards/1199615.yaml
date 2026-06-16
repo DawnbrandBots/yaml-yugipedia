@@ -8,12 +8,18 @@ wikitext: |-
   | level          = 4
   | atk            = 1200
   | def            = 1900
-  | requirement    = 
-  | text           = 
+  | effect_types   = Continuous
+  | requirement    = None
+  | text           = [[Face-up]] [[Warrior]] [[Type]] [[Monster Card|monster]]s on your [[field]] gain 400 [[ATK]]. If you have another face-up Warrior Type monster on your field, your opponent cannot [[attack]] this card.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SJMP-JP065; Saikyō Jump August 2026 promotional card; Normal Parallel Rare
-  | misc           = Legend Card
+  | supports       = Warrior
+  | stat_change    = Your monsters gain ATK
+  | attack         = Cannot be targeted for attacks
+  | misc           = 
+  * Requires control of specific Type
+  * Legend Card
   | database_id    = 
   }}
