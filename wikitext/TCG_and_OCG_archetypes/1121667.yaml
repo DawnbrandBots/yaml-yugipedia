@@ -105,46 +105,83 @@ wikitext: |-
   "Power Patron" primarily plays as a Pendulum deck, with varying levels of inclusion of additional "Artmage", "DoomZ", and/or "Elfnote" cards depending on the player's preferences. While they do not have notable endboard pieces on their own, there are minimal locks that prevent access to generic [[Link Monster]]s (particularly on the opponent's turn via "[[Power Patron Envoy of Pure Prayers]]")  or [[Rank 10]] [[Xyz Monster]]s, and "[[Vidolium the Unstable Power Patron of Unity]]" provides a staggering amount of damage while also limiting your opponent's follow-up.
 
   ===Sample combos===
-  * This "Power Patron" strategy allows it to FTK the opponent by using the effect of "[[Superdreadnought Rail Cannon Gustav Max]]" four times. As a bonus, the combo itself is also insulated from one of the opponent's monster effects (like [[hand trap]]s) due to "[[Artmage Non-Finito]]" Setting "[[Artmage Impasto -Recapture-]]" which can negate monster effects as a Counter Trap for the near entirety of the combo.
+  * This "Power Patron" strategy allows it to FTK the opponent by using the effect of "[[Superdreadnought Rail Cannon Gustav Max]]" four times. As a bonus, the combo itself is also insulated from at least one of the opponent's monster effects (like [[hand trap]]s) due to "[[Artmage Non-Finito]]" Setting "[[Artmage Impasto -Recapture-]]" which can negate monster effects as a Counter Trap for the near entirety of the combo and one of the opponent's cards/effects activated in response to a "Power Patron" or "Artmage" card effect with the Pendulum Effect of "[[Nervedo the Shadebeast Power Patron]]".
   {{Combo steps
   | opening = "[[Medius the Pure]]" + 1 Spell/Trap + 1 card in hand
-  | end = "[[Artmage Non-Finito]]" + "[[Artmage Impasto -Recapture-]]" + "[[Charmer Quartet in Bloom]]" + "[[Superdreadnought Rail Cannon Gustav Max]]", inflicted 8000 damage to the opponent (FTK/OTK).
+  | end = "[[Artmage Non-Finito]]" + "[[Artmage Impasto -Recapture-]]" + "[[Nervedo the Shadebeast Power Patron]]" (Pendulum Zone) + "[[Rahamu, Envoy of the Sacred Tome]]" + "[[Charmer Quartet in Bloom]]" + "[[Superdreadnought Rail Cannon Gustav Max]]", inflicted 8000 damage to the opponent (FTK/OTK).
   | steps =
-  # [[Normal Summon]] "[[Medius the Pure]]" and activate its effect to Special Summon "[[Nervedo the Shadebeast Power Patron]]" from your Deck.
-  # Send the Spell/Trap from your hand to the GY and [[Tribute]] "Nervedo" from the field to the face-up Extra Deck to Special Summon "[[Artmage Non-Finito]]".
-  # Chain Link 1: Activate the effect of "Nervedo" to Special Summon "[[Jupredo the Shademachine Power Patron]]", Chain Link 2 Artmage Non-Finito to set "[[Artmage Impasto -Recapture-]]" to a [[Spell & Trap Zone]] that is not a [[Pendulum Zone]].
-  # Use "Jupredo’s" effect to banish the top 3 cards of your Deck to destroy itself, and add it to the face-up Extra Deck, and then Special Summon "[[Jupiter the Power Patron of Destruction]]" from your Extra Deck, then attach the other card you have from your hand to "Jupiter" as [[Xyz Material]]. Make sure that both "Non-Finito" and "Jupiter" are not Summoned to the leftmost, center and rightmost Main Monster Zones.
-  # "Jupredo"’s effect activates when it’s added to the Extra Deck to search "[[Prohibited Power Patron Portal - Terminus]]".
-  # Activate "Terminus" to send "[[Junoldo the Shadespirit Power Patron]]" to add a copy of "[[Vidolium the Unstable Power Patron of Unity]]" from your Deck to your hand.
-  # Activate "Vidolium" to one of your Pendulum Scale Zones, and then use its effect to Special Summon 1 Power Patron from your GY, being the just sent "Junoldo", and destroy "Vidolium" itself.
-  # "Vidolium’s" other effect will activate when it’s added to the Extra Deck to search an additional copy of "Nervedo the Shadebeast Power Patron".
-  # Use "Medius" and "Junoldo" to Link Summon "[[Beyond the Pendulum]]". Make sure that the Extra Monster Zone that it is Summoned to doesn't have its Link Arrows point to either "Non-Finito" or "Jupiter".
-  # "Junoldo" will trigger for Chain Link 2 to add "Nervedo", and then "Beyond the Pendulum" will use its effect as Chain Link 1, to pay 1200 LP to add "[[Shade the Obscure]]" from Deck to hand.
+  # [[Normal Summon]] "[[Medius the Pure]]" ("Medius") and activate its effect to Special Summon "[[Nervedo the Shadebeast Power Patron]]" ("Nervedo") from your Deck.
+  # Send the Spell/Trap from your hand to the GY and [[Tribute]] "Nervedo" from the field to the face-up Extra Deck to Special Summon "[[Artmage Non-Finito]]" ("Non-Finito").
+  # Activate the effects of the following cards in a Chain: "Nervedo" as Chain Link 1 to Special Summon "[[Jupredo the Shademachine Power Patron]]" ("Jupredo"), "Non-Finito" as Chain Link 2 to set "[[Artmage Impasto -Recapture-]]" to a [[Spell & Trap Zone]] that is not a [[Pendulum Zone]].
+  # Use "Jupredo’s" effect to banish the top 3 cards of your Deck to destroy itself, and add it to the face-up Extra Deck, and then Special Summon "[[Jupiter the Power Patron of Destruction]]" ("Jupiter") from your Extra Deck, then attach the other card you have from your hand to "Jupiter" as [[Xyz Material]]. Make sure that both "Non-Finito" and "Jupiter" are not Summoned to the leftmost, center and rightmost Main Monster Zones.
+  # "Jupredo"’s effect activates when it’s added to the Extra Deck to search "[[Prohibited Power Patron Portal - Terminus]]" ("Terminus").
+  # Activate "Terminus" to send "[[Junoldo the Shadespirit Power Patron]]" ("Junoldo") to add a copy of "[[Vidolium the Unstable Power Patron of Unity]]" ("Vidolium") from your Deck to your hand.
+  # Activate "Vidolium" to one of your Pendulum Scale Zones, and then use its effect to Special Summon "Junoldo" from the GY, and destroy "Vidolium" itself.
+  # "Vidolium’s" other effect will activate when it’s added to the Extra Deck to search an additional copy of "Nervedo".
+  # Use "Medius" and "Junoldo" to Link Summon "[[Beyond the Pendulum]]" ("Beyond"). Make sure that the Extra Monster Zone that it is Summoned to doesn't have its Link Arrows point to either "Non-Finito" or "Jupiter".
+  # "Junoldo" will trigger for Chain Link 2 to add "Nervedo", and then "Beyond" will use its effect as Chain Link 1, to pay 1200 LP to add "[[Shade the Obscure]]" ("Shade") from Deck to hand.
   # Activate both "Shade" and "Nervedo" in your Pendulum Zones.
-  # [[Pendulum Summon]] the following monsters: the other copy of "Nervedo" from your hand, "Jupredo" and "Junoldo" from your Extra Deck (the latter two to the Main Monster Zones "Beyond the Pendulum" [[points to]]).
-  # Use "Beyond the Pendulum" and "Nervedo" to Link Summon "[[Exceed the Pendulum]]".
-  # Use the effect of "Exceed the Pendulum" on Link Summon to add a copy of "Nervedo".
-  # Overlay both "Jupredo" "Junoldo" to Xyz Summon the first copy of "[[Superdreadnought Rail Cannon Gustav Max]]". 
-  # Use the effect of "Gustav Max" by detaching "Jupredo" to inflict 2000 Damage to your opponent (2000 Damage).
-  # Use the effect of "Jupiter" to Special Summon the just-detached "Jupredo" from the GY.
-  # Use the effect of "Medius" in the GY to return the "Gustav Max" back to your Extra Deck to Special Summon himself from your GY.
-  # Use the effect of "Exceed the Pendulum" effect to Special Summon "Junoldo" from your GY (after being detached from the "Gustav Max" that was just returned).
+  # [[Pendulum Summon]] the following monsters: the other copy of "Nervedo" from your hand, "Jupredo" and "Junoldo" from your Extra Deck (the latter two to the Main Monster Zones "Beyond" [[points to]]).
+  # Use "Beyond the Pendulum" and "Nervedo" to Link Summon "[[Exceed the Pendulum]]" ("Exceed").
+  # Activate the effect of "Exceed" upon Link Summon to add a copy of "Nervedo" from the face-up Extra Deck.
+  # Use both "Jupredo" and "Junoldo" to Xyz Summon the 1st copy of "[[Superdreadnought Rail Cannon Gustav Max]]" ("Gustav Max"). 
+  # Activate the effect of "Gustav Max" by detaching "Jupredo" to inflict 2000 Damage to your opponent.
+  # Activate the effect of "Jupiter" to Special Summon the just-detached "Jupredo" from the GY.
+  # Activate the effect of "Medius" in the GY to return the "Gustav Max" back to your Extra Deck to Special Summon himself from your GY.
+  # Activate the effect of "Exceed" effect to Special Summon "Junoldo" from your GY (after being detached from the "Gustav Max" that was just returned).
   # When "Junoldo" is Special Summoned, use the [[Pendulum Effect]] of "Shade" in the Pendulum Scale to add itself back to your hand when a monster with 1000 ATK or less is Special Summoned.
-  # Use both "Junoldo" and "Jupredo" into the first copy of "Gustav Max".
-  # Use the effect of "Gustav Max" to inflict 2000 Damage to your opponent (4000 damage).
+  # Use both "Junoldo" and "Jupredo" into the 1st copy of "Gustav Max".
+  # Activate the effect of "Gustav Max" to inflict 2000 Damage to your opponent.
   # Activate the monster effect of "Shade" in the hand to Special Summon itself since you control a card in your Pendulum Zone.
-  # Use both "Medius" and "Shade" to Link Summon "[[Rahamu, Envoy of the Sacred Tome]]".
-  # Use "Rahamu’s" effect to Normal Summon 1 "Nervedo" without Tributing.
-  # Use "Jupiter" and "Gustav Max" to Link Summon "[[Double Headed Anger Knuckle]]".
-  # Use the effect of "Anger Knuckle" to send itself to the GY to Special Summon "Jupredo" from your GY.
-  # Use both "Nervedo" and "Jupredo" into the second copy of "Gustav Max"
-  # Use its effect to inflict 2000 Damage to your opponent (6000 damage).
+  # Use both "Medius" and "Shade" to Link Summon "[[Rahamu, Envoy of the Sacred Tome]]" ("Rahamu").
+  # Activate "Rahamu’s" effect to Normal Summon 1 "Nervedo" without Tributing.
+  # Use "Jupiter" and "Gustav Max" to Link Summon "[[Double Headed Anger Knuckle]]" ("Anger Knuckle").
+  # Activate the effect of "Anger Knuckle" to send itself to the GY to Special Summon "Jupredo" from your GY.
+  # Use both "Nervedo" and "Jupredo" into the 2nd copy of "Gustav Max".
+  # Activate the effect of "Gustav Max" to inflict 2000 Damage to your opponent.
   # Use both "Exceed the Pendulum" and "Gustav Max" to Link Summon "[[Charmer Quartet in Bloom]]".
-  # Use the Quick Effect of "Charmer Quartet in Bloom" to Special Summon "Nervedo" and "Junoldo".
-  # Use the effect of "Junoldo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "[[Junora the Power Patron of Tuning]]" from your Extra Deck.
-  # Use the effect of "Nervedo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "[[Nerva the Power Patron of Creation]]" from your Extra Deck.
-  # Use both "Junora" and "Nerva" into the third copy of "Gustav Max".
-  # Use its effect to inflict 2000 damage to your opponent. This final instance of the effect of "Gustav Max" deals a total of 8000 damage.
+  # Activate the Quick Effect of "Charmer Quartet in Bloom" to Special Summon "Nervedo" and "Junoldo" from your GY.
+  # Activate the effect of "Junoldo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "[[Junora the Power Patron of Tuning]]" ("Junora") from your Extra Deck.
+  # Activate the effect of "Nervedo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "[[Nerva the Power Patron of Creation]]" ("Nerva") from your Extra Deck.
+  # Use both "Junora" and "Nerva" into the 3rd copy of "Gustav Max".
+  # Activate the effect of "Gustav Max" to inflict 2000 damage to your opponent. This fourth and final instance of the effect of "Gustav Max" deals a total of 8000 damage.
+  }}
+  * This is another "Power Patron" FTK strategy, which also aims to use the effect of "Superdreadnought Rail Cannon Gustav Max" four times to inflict 8000 damage. Compared to the previous strategy, this one is a true one-card FTK combo although it is more susceptible to disruption from opposing hand traps.
+  {{Combo steps
+  | opening = "[[Pendulum Treasure]]"
+  | end = "[[Plundered Power Patron Plane - Vidolia]]" + "[[Charmer Quartet in Bloom]]" + "[[Superdreadnought Rail Cannon Gustav Max]]", inflicted 8000 damage to the opponent (FTK/OTK).
+  | steps =
+  # Activate "[[Pendulum Treasure]]" to add "[[Jupredo the Shademachine Power Patron]]" ("Jupredo") from your Deck to your face-up Extra Deck.
+  # Use the effect of "Jupredo" to add "[[Prohibited Power Patron Portal – Terminus]]" ("Terminus") from your Deck to your hand.
+  # Active Terminus to send a copy of "[[Vidolium the Unstable Power Patron of Unity]]" from your Deck to your GY, to add "[[Medius the Pure]]" ("Medius") from your Deck to your hand.
+  # Normal Summon "Medius" to Special Summon a copy of "[[Junoldo the Shadespirit Power Patron]]" ("Junoldo") from your Deck.
+  # Use "Medius" and "Junoldo" to [[Link Summon]] "[[Beyond the Pendulum]]" ("Beyond").
+  # Activate the effects of the following cards in a Chain: "Beyond" as Chain Link 1 by paying 1200 LP, "Junoldo" as Chain Link 2. The Chain resolves by adding "Vidolium" from your GY to your hand ("Junoldo"), and then adding a second copy of "Junoldo" from your Deck to your hand ("Beyond").
+  # Activate both "Vidolium" and "Junoldo" into your [[Pendulum Zone]]s.
+  # [[Pendulum Summon]] both "Jupredo" and "Junoldo" from your Extra Deck to the [[Main Monster Zone]]s "Beyond" [[points to]].
+  # Use "Junoldo" and "Beyond" to Link Summon "[[Exceed the Pendulum]]" ("Exceed").
+  # Activate the effect of "Exceed" upon its Link Summon to add "Junoldo" from your face-up Extra Deck to your hand.
+  # Activate the Quick Effect of "Exceed" to Special Summon "Junoldo" from your hand. 
+  # When "Junoldo" is Special Summoned, activate the [[Pendulum Effect]]" of "Junoldo" in your Pendulum Zone to destroy itself to draw 2 cards, then discard 1 card.
+  # Use both "Jupredo" and "Junoldo" to [[Xyz Summon]] the first copy of "[[Superdreadnought Rail Cannon Gustav Max]]" ("Gustav Max"). 
+  # Activate the effect of "Gustav Max" by detaching "Junoldo" from it card to inflict 2000 damage to your opponent.
+  # Activate the Pendulum Scale effect of "Vidolium" to destroy itself and Special Summon "Junoldo" from the GY.
+  # Activate the effect of "Vidolium", since it was added to the Extra Deck face-up, to add "[[Plundered Power Patron Plane – Vidolia]]" ("Vidolia").
+  # Activate "Vidolia" to your [[Field Zone]], then activate its on-field effect by revealing "[[Nerva the Power Patron of Creation]]" ("Nerva"), to banish a card from your hand face-down (since you will at least have one card in your hand per the Pendulum Effect of "Junoldo") to Special Summon "[[Nervedo the Shadebeast Power Patron]]" ("Nervedo") from your Deck.
+  # Use both "Nervedo" and "Junoldo" to Xyz Summon the second copy of "Gustav Max". 
+  # Activate the effect of the second copy of "Junoldo" by detaching any material it (either "Junoldo" or "Nervedo"), to inflict 2000 damage to your opponent.
+  # Activate the effect of "Medius" effect to return the second Summoned copy of "Gustav Max" that has either "Junoldo" or "Nervedo" as material; do not return the first Summoned copy of "Gustav Max" that has "Jupredo" as material. Then Special Summon "Medius" from the GY.
+  # Use both "Exceed" and "Medius" to Link Summon "[[Charmer Quartet in Bloom]]" ("Charmer Quartet").
+  # Activate the effect of "Charmer Quartet" to Special Summon both "Nervedo" and "Junoldo" from the GY.
+  # Activate the effect of "Nervedo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "Nerva" from your Extra Deck.
+  # Activate the effect of "Nervedo" when it is added to the Extra Deck to Special Summon a 2nd copy of "Jupredo".
+  # Activate the effect of "Junoldo" to banish the top 3 cards of your Deck to destroy itself and Special Summon "[[Junora the Power Patron of Tuning]]" ("Junora") from your Extra Deck.
+  # Use both "Junora" and "Nerva" to Summon the 2nd copy of "Gustav Max".
+  # Activate the effect of "Gustav Max" by detaching any material to inflict 2000 damage to your opponent.
+  # Use both copies of "Gustav Max" you control to Link Summon "[[Double Headed Anger Knuckle]]".
+  # Activate the effect of "Anger Knuckle" to send itself to the GY to Special Summon the 1st copy of "Jupredo" from your GY.
+  # Use both copies of "Jupredo" to Xyz Summon the 3rd copy of "Gustav Max".
+  # Activate the effect of "Gustav Max" to inflict 2000 damage to your opponent. This fourth and final instance of the effect of "Gustav Max" deals a total of 8000 damage.
   }}
 
   ===Recommended cards===
