@@ -20,7 +20,7 @@ wikitext: |-
   | link_arrows           = Bottom-Right, Middle-Right
   | atk                   = 800
   | password              = 
-  | materials             = 
+  | materials             = 2 Machine monsters
   | effect_types          = Trigger, Trigger, Condition
   | text                  = 2 [[Machine]] [[monsters]]<br />If this card is [[Link Summon]]ed: You can [[target]] 1 monster your opponent controls; [[destroy]] it, also this card, then you can [[Special Summon]] 1 non-[[WATER]] Machine monster with 1600 or less [[ATK]] from your [[GY]]. If this card is [[banish]]ed: You can [[Add a card|add]] 1 Machine monster whose ATK equals its own [[DEF]] from your [[Main Deck|Deck]] to your hand. You can only use each effect of "Helping Robo for Underwater Combat" [[once per turn]], also you cannot Special Summon the turn you activate either of this card's effects, except Machine monsters.
   | fr_text               = 
@@ -33,5 +33,19 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BETB-JP050; Beyond the Brave; 
+  | supports              = Machine
+  | action                = 
+  * Activates upon Link Summon
+  * Activates while banished
+  * Adds from Deck to hand
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys itself
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                  = Only once per turn
   | database_id           = 
   }}
