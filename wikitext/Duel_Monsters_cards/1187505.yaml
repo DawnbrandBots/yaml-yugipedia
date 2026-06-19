@@ -1,7 +1,5 @@
-title: S-Force Sorted World
+title: S-Force World Sorting
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -14,12 +12,12 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 超元特防队 理序世界
-  | image                 = SForceSortedWorld-CORI-JP-C.png
+  | image                 = SForceWorldSorting-CORI-JP-C.png
   | card_type             = Trap
   | property              = Continuous
   | password              = 11642993
   | effect_types          = Continuous-like, Trigger-like, Condition
-  | text                  = If you would [[banish]] a card(s) from the [[hand]] to [[activate]] the [[effect]] of an "[[S-Force]]" [[monster]] you [[control]], you can [[send]] 1 "S-Force" card from your [[Main Deck|Deck]] to the [[GY]] instead, except "S-Force Sorted World". If another card(s) is banished (except during the [[Damage Step]]): You can [[target]] 1 card in your opponent's [[field]] or GY; banish it, then you can move 1 "S-Force" monster you control to another of your Main Monster Zones. You can only use each effect of "S-Force Sorted World" [[once per turn]].
+  | text                  = If an "[[S-Force]]" [[monster]] you [[control]] would [[banish]] a card(s) from your [[hand]] to [[activate]] its [[effect]], you can [[send]] 1 "S-Force" card from your [[Main Deck|Deck]] to the [[GY]] instead, except "S-Force World Sorting". If another card(s) is banished (except during the [[Damage Step]]): You can [[target]] 1 card in your opponent's [[field]] or GY; banish it, then you can move 1 "S-Force" monster you control to another of your Main Monster Zones. You can only use each effect of "S-Force World Sorting" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -28,11 +26,23 @@ wikitext: |-
   | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「Ｓ－Ｆｏｒｃｅ」モンスターの効果を発動するために手札を除外する場合、代わりにデッキから「Ｓ－Ｆｏｒｃｅ ソート・ワールド」以外の「Ｓ－Ｆｏｒｃｅ」カード１枚を墓地へ送る事ができる。②：他のカードが除外された場合、相手のフィールド・墓地のカード１枚を対象として発動できる。そのカードを除外する。その後、自分フィールドの「Ｓ－Ｆｏｒｃｅ」モンスター１体の位置を他の自分のメインモンスターゾーンに移動できる。
   | ko_text               = 
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：为发动自己场上的“超元特防队”怪兽的效果而要将手牌除外的情况下，作为代替可从牌组将1张“超元特防队 理序世界”以外的“超元特防队”卡送至墓地。②：其他卡被除外的情况下，以对手场上・墓地的1张卡为对象可以发动。将该卡除外。然后，可将自己场上的1只“超元特防队”怪兽的位置移动至自己的其他主要怪兽区域。
+  | en_sets               = 
+  CORI-EN074; Chaos Origins; Common
+  | fr_sets               = 
+  CORI-FR074; Chaos Origins; Common
+  | de_sets               = 
+  CORI-DE074; Chaos Origins; Common
+  | it_sets               = 
+  CORI-IT074; Chaos Origins; Common
+  | pt_sets               = 
+  CORI-PT074; Chaos Origins; Common
+  | sp_sets               = 
+  CORI-SP074; Chaos Origins; Common
   | jp_sets               = 
   CORI-JP074; Chaos Origins; Common
   | sc_sets               = 
   CORI-SC074; Chaos Origins; Common
-  | mentions              = S-Force Sorted World
+  | mentions              = S-Force World Sorting
   | archseries            = S-Force
   | supports_archetypes   = S-Force
   | action                = 
