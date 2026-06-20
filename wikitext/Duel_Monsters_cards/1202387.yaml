@@ -18,6 +18,7 @@ wikitext: |-
   | atk                   = 1700
   | def                   = 2400
   | password              = 
+  | materials             = 2 or more Level 3 monsters
   | effect_types          = Trigger, Ignition, Condition
   | text                  = 2+ [[Level]] 3 [[monsters]]<br />If this card is [[Xyz Summon]]ed, or if a [[Trap]] you [[own]] is [[banish]]ed: You can [[target]] 1 of your banished Traps; [[attach]] it to this card. You can [[detach]] any number of materials from this card, then target 1 [[DARK]] monster in your GY or banishment with a Level equal to the number detached; [[Special Summon]] it. You can only use each effect of "Shamanite Shamanknight" once per turn.
   | fr_text               = 
@@ -29,16 +30,28 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  CORI-EN086; Chaos Origins; 
+  CORI-EN086; Chaos Origins; Common
   | fr_sets               = 
-  CORI-FR086; Chaos Origins; 
+  CORI-FR086; Chaos Origins; Common
   | de_sets               = 
-  CORI-DE086; Chaos Origins; 
+  CORI-DE086; Chaos Origins; Common
   | it_sets               = 
-  CORI-IT086; Chaos Origins; 
+  CORI-IT086; Chaos Origins; Common
   | pt_sets               = 
-  CORI-PT086; Chaos Origins; 
+  CORI-PT086; Chaos Origins; Common
   | sp_sets               = 
-  CORI-SP086; Chaos Origins; 
+  CORI-SP086; Chaos Origins; Common
+  | supports              = DARK
+  | action                = 
+  * Activates upon Xyz Summon
+  * Activates if other cards are banished
+  * Attaches your banished cards as Xyz Material
+  * Detaches multiple Xyz Materials as cost
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your Graveyard
+  * Special Summons from your banishment
+  | misc                  = Only once per turn
   | database_id           = 
   }}

@@ -18,6 +18,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 2100
   | password              = 
+  | materials             = 2 or more Level 8 monsters
   | effect_types          = Trigger, Condition, Condition, Continuous, Continuous, Ignition
   | text                  = 2+ [[Level]] 8 [[monsters]]<br />If a monster(s) is sent to your opponent's [[GY]] (except during the [[Damage Step]]): You can [[target]] 1 of them; [[attach]] it to this card. You can only use this effect of "Mortilux Heruvur" [[once per turn]]. This card gains [[effect]]s based on the number of [[material]]s attached to it.<br />● 2+: Cannot be [[destroyed by battle]] or card effects.<br />● 3+: Your opponent cannot [[target]] cards in the GYs with card effects.<br />● 4+: You can [[detach]] 3 materials from this card; [[send]] 1 monster on the [[field]] to the GY.
   | fr_text               = 
@@ -40,5 +41,20 @@ wikitext: |-
   CORI-PT089; Chaos Origins; Ultra Rare
   | sp_sets               = 
   CORI-SP089; Chaos Origins; Ultra Rare
+  | action                = 
+  * Activates if other cards are sent to the Graveyard
+  * Attaches from your opponent's Graveyard as Xyz Material
+  * Detaches multiple Xyz Materials as cost
+  * Sends from field to Graveyard
+  | m/s/t                 = 
+  * Cannot be destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  | summoning             = 
+  * 2+ Xyz Materials
+  * Does not require specific Xyz Materials
+  | attack                = Cannot be destroyed by battle
+  | misc                  = 
+  * Only once per turn
+  * Variable effects
   | database_id           = 
   }}
