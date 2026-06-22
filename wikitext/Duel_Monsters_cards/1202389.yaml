@@ -18,6 +18,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 0
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Ignition, Trigger-like, Condition, Continuous-like
   | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />You can [[target]] 1 [[monster]] your opponent [[control]]s; [[banish]] it. If this card is placed in the [[Spell & Trap Zone]] as a [[Continuous Spell]]: You can [[Add a card|add]] 1 "[[Angelechy]]" [[Trap]] from your [[Main Deck|Deck]] or [[GY]] to your [[hand]]. You can only use each of the preceding effects of "Angelechy Shatranga" [[once per turn]]. While this card is treated as a Continuous Spell, your opponent can only attempt to [[activate]] up to 5 [[monster effect]]s per turn.
   | fr_text               = 
@@ -42,8 +43,14 @@ wikitext: |-
   CORI-SP090; Chaos Origins; Ultra Rare
   | archseries            = Angelechy
   | supports_archetypes   = Angelechy
-  | action                = Adds from Deck to hand
+  | action                = 
+  * Activates if placed in the Spell & Trap Zone
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
   | m/s/t                 = Prevents activation of Effect Monsters
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
   | banished              = Banishes from your opponent's field
   | misc                  = Only once per turn
   | database_id           = 

@@ -18,8 +18,9 @@ wikitext: |-
   | atk                   = 1500
   | def                   = 1500
   | password              = 
+  | materials             = 1 Tuner + 1 non-Tuner monster
   | effect_types          = Ignition, Trigger, Condition
-  | text                  = 1 [[Tuner]] + 1+ non-Tuner<br />You can [[target]] 1 opponent's [[monster]] in this card's adjacent [[column]]; [[banish]] it, then change [[control]] of this card by moving it to one of your opponent's [[Main Monster Zone]]s in this card's adjacent columns. If the control of this [[face-up]] card changes: [[Return]] this card to the [[Extra Deck]], then the owner of this card [[Special Summon]]s 1 "[[Angelechy]]" monster from their Extra Deck. You can only use each [[effect]] of "Angelechy Enlisted" once per turn.
+  | text                  = 1 [[Tuner]] + 1 non-Tuner<br />You can [[target]] 1 opponent's [[monster]] in this card's adjacent [[column]]; [[banish]] it, then change [[control]] of this card by moving it to one of your opponent's [[Main Monster Zone]]s in this card's adjacent columns. If the control of this [[face-up]] card changes: [[Return]] this card to the [[Extra Deck]], then the owner of this card [[Special Summon]]s 1 "[[Angelechy]]" monster from their Extra Deck. You can only use each [[effect]] of "Angelechy Enlisted" once per turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -29,25 +30,28 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  CORI-EN093; Chaos Origins; 
+  CORI-EN093; Chaos Origins; Common
   | fr_sets               = 
-  CORI-FR093; Chaos Origins; 
+  CORI-FR093; Chaos Origins; Common
   | de_sets               = 
-  CORI-DE093; Chaos Origins; 
+  CORI-DE093; Chaos Origins; Common
   | it_sets               = 
-  CORI-IT093; Chaos Origins; 
+  CORI-IT093; Chaos Origins; Common
   | pt_sets               = 
-  CORI-PT093; Chaos Origins; 
+  CORI-PT093; Chaos Origins; Common
   | sp_sets               = 
-  CORI-SP093; Chaos Origins; 
+  CORI-SP093; Chaos Origins; Common
   | archseries            = Angelechy
   | supports_archetypes   = Angelechy
   | action                =
   * Changes control
   * Returns itself from field to Extra Deck
   * Special Summons from your Extra Deck
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 non-Tuner Synchro Material
   | banished              = Banishes from your opponent's field
-  | misc                  =
+  | misc                  = 
   * Only once per turn
   * Column
   | database_id           = 

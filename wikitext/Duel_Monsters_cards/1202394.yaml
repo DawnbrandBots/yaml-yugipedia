@@ -18,6 +18,7 @@ wikitext: |-
   | atk                   = 2500
   | def                   = 2000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Ignition, Trigger-like, Condition, Continuous-like
   | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />You can [[target]] 1 [[monster]] in another [[column]]; [[banish]] it. If this card is placed in the [[Spell & Trap Zone]] as a [[Continuous Spell]]: You can [[Add a card|add]] 1 "[[Angelechy]]" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]]. You can only use each of the preceding [[effect]]s of "Angelechy Destrier" [[once per turn]]. While this card is treated as a Continuous Spell, each time your opponent [[activate]]s a card or effect, inflict 500 damage to your opponent when it [[resolve]]s.
   | fr_text               = 
@@ -29,23 +30,28 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  CORI-EN092; Chaos Origins; 
+  CORI-EN092; Chaos Origins; Super Rare
   | fr_sets               = 
-  CORI-FR092; Chaos Origins; 
+  CORI-FR092; Chaos Origins; Super Rare
   | de_sets               = 
-  CORI-DE092; Chaos Origins; 
+  CORI-DE092; Chaos Origins; Super Rare
   | it_sets               = 
-  CORI-IT092; Chaos Origins; 
+  CORI-IT092; Chaos Origins; Super Rare
   | pt_sets               = 
-  CORI-PT092; Chaos Origins; 
+  CORI-PT092; Chaos Origins; Super Rare
   | sp_sets               = 
-  CORI-SP092; Chaos Origins; 
+  CORI-SP092; Chaos Origins; Super Rare
   | archseries            = Angelechy
   | supports_archetypes   = Angelechy
-  | action                = Adds from Deck to hand
-  | banished              = Banishes from your opponent's field
+  | action                = 
+  * Activates if placed in the Spell & Trap Zone
+  * Adds from Deck to hand
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | banished              = Banishes from field
   | life_points           = Damages your opponent
-  | misc =
+  | misc                  = 
   * Only once per turn
   * Column
   | database_id           = 
