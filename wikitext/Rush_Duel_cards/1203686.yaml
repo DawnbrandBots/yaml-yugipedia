@@ -8,11 +8,19 @@ wikitext: |-
   | level          = 4
   | atk            = 800
   | def            = 1600
-  | requirement    = [[Send]] 1 [[Spell Card]] from your [[hand]] to the [[Graveyard]], and change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | text           = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated [[Level]] 4 monster face-up to your [[field]]. [[Shuffle]] the other cards into the Deck. This [[turn]], the monster Special Summoned by this [[effect]] cannot [[attack]].
+  | requirement    = [[Send]] 1 [[Spell Card]] from your [[hand]] to the [[Graveyard]], and [[Battle position change|change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | text           = [[Excavate]] the top 6 cards of your [[Main Deck|Deck]]. You can [[Special Summon]] 1 excavated [[Level]] 4 [[Monster Card|monster]] face-up to your [[field]]. [[Shuffle]] the other cards into the Deck. This [[turn]], the monster Special Summoned by this [[effect]] cannot [[attack]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/LP01-JP009; Limited Pack Remaster Edition; Over Rush Rare
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Excavates from the player's Deck
+  * Shuffles excavated cards into the Deck
+  | summoning      = Special Summons excavated cards
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

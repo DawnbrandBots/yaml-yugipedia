@@ -10,10 +10,12 @@ wikitext: |-
   | def            = 1400
   | effect_types   = Continuous
   | requirement    = None
-  | text           = This card gains [[ATK]] equal to [the number of [[Equip Card]]s equipped to this card] x 500.
+  | text           = This card gains [[ATK]] equal to [the number of [[Equip Card]]s [[equip]]ped to this card] x 500.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/LP01-JP010; Limited Pack Remaster Edition; Over Rush Rare
+  | supports       = Equip Card
+  | stat_change    = This card gains ATK
   | database_id    = 
   }}

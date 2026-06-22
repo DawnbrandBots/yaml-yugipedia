@@ -10,11 +10,20 @@ wikitext: |-
   | def            = 1000
   | effect_types   = Multi-Choice
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = ● [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, while this card is face-up, it gains 300 [[ATK]].<br />● [[Destroy]] 1 [[Spell]]/[[Trap Card]] on the [[field]].
+  | text           = ●[[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, while this card is [[face-up]], it gains 300 [[ATK]]. ●[[Destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on the [[field]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/LP01-JP002; Limited Pack Remaster Edition; Over Rush Rare
-  | misc           = Legend Card
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change    = This card gains ATK
+  | m/s/t          = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | misc           = 
+  * Variable effects
+  * Legend Card
   | database_id    = 
   }}

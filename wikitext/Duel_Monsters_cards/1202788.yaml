@@ -35,5 +35,24 @@ wikitext: |-
   BETB-JP051; Beyond the Brave; 
   | sc_sets               = 
   BETB-SC051; Beyond the Brave; 
+  | supports              = 
+  * Dinosaur
+  * Fusion Monster
+  | action                = 
+  * Activates upon Link Summon
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the Graveyard as Fusion Materials
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2 Link Materials
+  * Requires Type specific Link Materials
+  * Performs a Fusion Summon
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | banished              = 
+  * Banishes from your field
+  * Banishes from your Graveyard
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                  = Only once per turn
   | database_id           = 
   }}
