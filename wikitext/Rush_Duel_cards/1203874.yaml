@@ -13,8 +13,8 @@ wikitext: |-
   | def             = 2500
   | fusion_material = Spirit of the Stars
   | materials       = "[[Spirit of the Stars]]" + 1 [[Normal Monster]]
-  | requirement     = [[Shuffle]] 3 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text            = Choose 1 [[Level]] 5 or lower monster in your Graveyard. This [[turn]], this card's name becomes the same name as that monster. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the effect of "Fairy of the Stars".
+  | requirement     = [[Shuffle]] 3 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = Choose 1 [[Level]] 5 or lower monster in your Graveyard. This [[turn]], this card's name becomes the same name as that monster. Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the [[effect]] of "Fairy of the Stars".
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -24,6 +24,16 @@ wikitext: |-
   * Spirit of the Stars
   * Fusion (Rush Duel)
   * Fairy of the Stars
+  | supports        = Normal Monster
   | archseries      = Pliage
+  | action          = 
+  * Returns from Graveyard to Deck for cost
+  * Adds from Graveyard to hand
+  | stat_change     = Copies name
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires nonspecific Normal Monsters as Fusion Materials
+  | misc            = Only once per turn
   | database_id     = 
   }}

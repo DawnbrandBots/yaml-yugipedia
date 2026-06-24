@@ -3,19 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = はじまりの{{Ruby|星|せい}}{{Ruby|域|いき}}
-  | romaji_name     = Hajimari no Sei'iki
-  | image           = StarSanctuaryoftheBeginning-RDAP03-JP-OP.png
-  | card_type       = Trap
-  | property        = Normal
-  | condition       = This card's name becomes "[[Star of the Beginning]]" while in the [[hand]] or [[Graveyard]].
-  | requirement     = When your opponent [[Normal Summon]]s a [[monster]], place 1 [[Fusion Monster]] or [[Normal Monster]] from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
-  | text            = Change that Normal Summoned monster to [[face-down]] [[Defense Position]]. Then, if you returned a Fusion Monster to meet the requirement, you can [[destroy]] 1 face-down card on your opponent's [[field]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = はじまりの{{Ruby|星|せい}}{{Ruby|域|いき}}
+  | romaji_name    = Hajimari no Sei'iki
+  | image          = StarSanctuaryoftheBeginning-RDAP03-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | condition      = This card's name becomes "[[Star of the Beginning]]" while in the [[hand]] or [[Graveyard]].
+  | requirement    = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 1 [[Fusion Monster]] or [[Normal Monster]] from your Graveyard on the bottom of the [[Main Deck|Deck]].
+  | text           = [[Battle position change|Change]] that Normal Summoned monster to [[face-down]] [[Defense Position]]. Then, if you placed a Fusion Monster to meet the [[Activation condition|requirement]], you can [[destroy]] 1 face-down card on your opponent's [[field]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/AP03-JP027; Advance Pack: Union Base; Ultra Rare, Over Rush Rare
-  | archseries      = Pliage
-  | database_id     = 
+  | mentions       = Star of the Beginning
+  | supports       = 
+  * Fusion Monster
+  * Normal Monster
+  | archseries     = Pliage
+  | action         = 
+  * Activates upon Normal Summon
+  * Places cards from the player's Graveyard on the bottom of the Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | stat_change    = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  | m/s/t          = 
+  * Destroys your opponent's face-down Monster Cards
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | database_id    = 
   }}
