@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           =  [[Add a card|Add]] 1 "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]", "[[Y-Dragon Head (Rush Duel)|Y-Dragon Head]]", or "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. If that card is a [[Trap Card]], [[destroy]] it.
+  | text           = [[Add a card|Add]] 1 "[[X-Head Cannon (Rush Duel)|X-Head Cannon]]", "[[Y-Dragon Head (Rush Duel)|Y-Dragon Head]]", or "[[Z-Metal Tank (Rush Duel)|Z-Metal Tank]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. If that card is a [[Trap Card]], [[destroy]] it.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -19,5 +19,9 @@ wikitext: |-
   * Y-Dragon Head (Rush Duel)
   * Z-Metal Tank (Rush Duel)
   | archseries     = XYZ (Rush Duel series)
+  | action         = 
+  * Adds from Graveyard to hand
+  * Reveals face-down cards
+  | m/s/t          = Destroys your opponent's face-down Trap Cards
   | database_id    = 
   }}
