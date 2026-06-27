@@ -13,12 +13,25 @@ wikitext: |-
   | atk             = 1000
   | def             = 400
   | requirement     = "[[Feverous Spirit Stadium]]" is [[face-up]] on the [[field]].
-  | text            = [[Equip]] this card to 1 face-up [[Level]] 8 or higher [[FIRE]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] on your field as an [[Equip Spell Card]] with the following [[effect]]. This [[turn]], you can only declare up to 3 attacks.<br />● The equipped monster can attack all opponent's monsters once each.
+  | text            = [[Equip]] this card to 1 face-up [[Level]] 8 or higher [[FIRE]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] on your field as an [[Equip Spell Card]] with the following [[effect]]. This [[turn]], you can only [[declare]] up to 3 [[attack]]s. ●The equipped monster can attack all opponent's monsters once each.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/AP03-JP032; Advance Pack: Union Base; Common
   | mentions        = Feverous Spirit Stadium
+  | supports        = 
+  * FIRE
+  * Warrior
   | archseries      = Baseball
+  | action          = Equips self from field
+  | m/s/t           = Treated as Equip Card
+  | attack          = 
+  * Prevents your monsters from attacking
+  * Allows multiple attacks on monsters
+  | misc            = 
+  * Requires control of specific card
+  * Requires control of specific Level
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}
