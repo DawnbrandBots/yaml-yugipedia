@@ -119,7 +119,7 @@ wikitext: |-
 
   If the opponent has fewer monsters, going for "[[Ultimate Ancient Gear Golem]]" is instead preferable, with these combos only being possible if the opponent controls at least one monster:
   {{Combo steps
-  | opening = "[[Ancient Gear Statue]]"
+  | opening = "[[Ancient Gear Statue]]" + Opponent controls at least 1 monster
   | end     = "[[Ultimate Ancient Gear Golem]]" + "[[Ancient Gear Duel]]"
   | steps   = 
   # Special Summon "[[Ancient Gear Statue]]".
@@ -130,7 +130,7 @@ wikitext: |-
   # Attack three times with "Ultimate Golem" (4400 x3 = 13,200), resulting in an OTK.
   }}
   {{Combo steps
-  | opening = "[[Ancient Gear Wyvern]]" or "[[Ancient Gear Frame]]"
+  | opening = "[[Ancient Gear Wyvern]]" or "[[Ancient Gear Frame]]" + Opponent controls at least 1 monster
   | end     = "[[Ultimate Ancient Gear Golem]]" + "[[Ancient Gear Duel]]"
   | steps   = 
   # Summon "[[Ancient Gear Wyvern]]"/"[[Ancient Gear Frame]]", use their effect to search for "[[Ancient Gear Advance]]".
@@ -141,6 +141,23 @@ wikitext: |-
   # Banish "Commander" from Graveyard to activate "Duel".
   # In Battle Phase, use "Duel" to fuse into "[[Ultimate Ancient Gear Golem]]".
   # Attack three times with "Ultimate Golem" (4400 x3 = 13,200), resulting in an OTK.
+  }}
+
+  Through any of the "Ancient Gear" starters it is also possible to summon both "Chaos Ancient Gear Giant" and "Ultimate Ancient Gear Golem" (or boost "Chaos Giant" to 9000 ATK), if the opponent controls two or more monsters. However this combo requires "[[Number 60: Dugares the Timeless]]", who will not be protected by "Ancient Gear Fortress" and so it is less secure.
+  {{Combo steps
+  | opening = "[[Ancient Gear Statue]]" + Opponent controls at least 2 monsters
+  | end     = "[[Chaos Ancient Gear Giant]]" + "[[Ultimate Ancient Gear Golem]]" + "[[Ancient Gear Duel]]" + "[[Ancient Gear Advance]]" + "[[Number 60: Dugares the Timeless]]"
+  | steps   = 
+  # Special Summon "[[Ancient Gear Statue]]".
+  # Tribute "Statue" for "[[Ancient Gear Dark Golem]]", who adds "[[Ancient Gear Advance]]" and "[[Ancient Gear Tanker]]".
+  # Activate "Advance" to search for "[[Ancient Gear Fusion]]".
+  # Use "Fusion" on "Dark Golem" to summon "[[Chaos Ancient Gear Giant]]", sending "[[Ancient Gear Commander]]", "[[Ancient Gear Wyvern]]" and another "Ancient Gear" monster to GY.
+  # Summon "Tanker" and use its effect to Special Summon "Wyvern" from GY.
+  # Effect of "Wyvern" to add "[[Ancient Gear Duel]]".
+  # Effect of "Commander" to place "Duel".
+  # Xyz Summon "[[Number 60: Dugares the Timeless]]" using "Tanker" and "Wyvern".
+  # Effect of "Dugares" to Special Summon "Dark Golem" from GY.
+  # Go to Battle Phase and use the effect of "Duel" to use "Dark Golem" to Fusion Summon "[[Ultimate Ancient Gear Golem]]".
   }}
 
   === Recommended cards ===
