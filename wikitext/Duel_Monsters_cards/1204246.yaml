@@ -35,8 +35,24 @@ wikitext: |-
   BETB-JP034; Beyond the Brave; 
   | sc_sets               = 
   BETB-SC034; Beyond the Brave; 
-  | archseries            = Toon
-  | misc                  = Special Summon Monster
   | mentions              = Cartoon Shade
+  | supports              = Special Summon Monster
+  | anti-supports         = Special Summon Monster
+  | archseries            = Toon
+  | action                = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates if Tributed
+  * Returns from field to hand
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summon by its own condition once per turn
+  | misc                  = 
+  * Special Summon Monster
+  * Requires control of specific ATK
+  * Requires control of specific DEF
   | database_id           = 
   }}

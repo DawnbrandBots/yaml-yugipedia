@@ -35,5 +35,21 @@ wikitext: |-
   BETB-JP031; Beyond the Brave; 
   | sc_sets               = 
   BETB-SC031; Beyond the Brave; 
+  | supports              = Spellcaster
+  | action                = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * You discard for cost
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds banished cards to the hand
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons from your banishment
+  | banished              = 
+  * Banishes itself when it leaves the field
+  * Banishes from your Deck
+  | misc                  = Only once per turn
   | database_id           = 
   }}
