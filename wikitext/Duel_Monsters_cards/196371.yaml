@@ -1,15 +1,16 @@
 title: Lemuria, the Forgotten City
 wikitext: |-
   {{CardTable2
-  | tc_name               = 忘卻之都 雷米里亞
   | fr_name               = Lémuria, la Cité Oubliée
   | de_name               = Lemuria, die vergessene Stadt
   | it_name               = Lemuria, la Città Dimenticata
-  | ko_name               = 망각의 도시 레뮤리아
   | pt_name               = Lemúria, a Cidade Esquecida
   | es_name               = Lemuria, la Ciudad Olvidada
   | ja_name               = {{Ruby|忘|ぼう}}{{Ruby|却|きゃく}}の{{Ruby|都|みやこ}} レミューリア
   | romaji_name           = Bōkyaku no Miyako Remyūria
+  | ko_name               = 망각의 도시 레뮤리아
+  | tc_name               = 忘卻之都 雷米里亞
+  | sc_name               = 忘却之都 雷缪利亚
   | image                 = LemuriatheForgottenCity-LED9-EN-C-1E.png
   | card_type             = Spell
   | property              = Field
@@ -24,6 +25,7 @@ wikitext: |-
   | ja_text               = このカードのカード名は「海」として扱う。このカードがフィールド上に存在する限り、フィールド上の水属性モンスターの攻撃力・守備力は２００ポイントアップする。また、１ターンに１度、自分のメインフェイズ時に発動できる。このカードがフィールド上に存在する限り、自分フィールド上の水属性モンスターの数と同じ数だけ、自分フィールド上の水属性モンスターのレベルをエンドフェイズ時まで上げる。
   | ko_text               = 이 카드의 카드명은 "바다"로서 취급한다. 이 카드가 필드 위에 존재하는 한, 필드 위의 물 속성 몬스터의 공격력 / 수비력은 200 포인트 올린다. 또한, 1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 이 카드가 필드 위에 존재하는 한, 자신 필드 위의 물 속성 몬스터의 수와 같은 수만큼, 자신 필드 위의 물 속성 몬스터의 레벨을 엔드 페이즈시까지 올린다.
   | tc_text               = 此卡的卡牌名称被视为「海」。只要此卡存在于场上，场上的水属性怪兽的攻击力、守备力上升200点。此外，1回合1次，可于我方主要阶段时发动。只要此卡存在于场上，直至回合结束时，我方场上水属性怪兽的等级上升相当于我方场上水属性怪兽的数量。
+  | sc_text               = 此卡名在规则上视为“海”。①：场上的水属性怪兽的攻击力・守备力上升200。②：1回合1次，在自己的主要阶段可以发动。只要此卡存在于场地区域，依自己场上的水属性怪兽的数量，自己场上的水属性怪兽的等级直至回合结束时为止上升相同数值。
   | en_sets               = 
   ABYR-EN057; Abyss Rising; Common
   LED9-EN055; Legendary Duelists: Duels From the Deep; Common
@@ -49,6 +51,8 @@ wikitext: |-
   DP15-KR027; Duelist Pack: Kastle Siblings; Common
   | tc_sets               = 
   ABYR-TC057; Abyss Rising; Common
+  | sc_sets               = 
+  26SP-SC218; Tournament Pack 2026 Vol.2 (Simplified Chinese); Common
   | mentions              = Umi
   | supports              = WATER
   | archseries            = Umi (series)

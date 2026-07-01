@@ -1,15 +1,16 @@
 title: Forgotten Temple of the Deep
 wikitext: |-
   {{CardTable2
-  | tc_name               = 忘卻的海底神殿
   | fr_name               = Temple Oublié des Profondeurs
   | de_name               = Vergessener Tempel der Tiefe
   | it_name               = Tempio Dimenticato degli Abissi
-  | ko_name               = 망각의 해저신전
   | pt_name               = Templo Esquecido das Profundezas
   | es_name               = Templo Olvidado de las Profundidades
   | ja_name               = {{Ruby|忘|ぼう}}{{Ruby|却|きゃく}}の{{Ruby|海|かい}}{{Ruby|底|てい}}{{Ruby|神|しん}}{{Ruby|殿|でん}}
   | romaji_name           = Bōkyaku no Kaiteishinden
+  | ko_name               = 망각의 해저신전
+  | tc_name               = 忘卻的海底神殿
+  | sc_name               = 忘却之海底神殿
   | image                 = ForgottenTempleoftheDeep-BP03-EN-C-1E.png
   | card_type             = Trap
   | property              = Continuous
@@ -24,6 +25,7 @@ wikitext: |-
   | ja_text               = このカードがフィールド上に存在する限り、このカードのカード名は「海」として扱う。１ターンに１度、自分フィールド上のレベル４以下の魚族・海竜族・水族モンスター１体を選択してゲームから除外できる。自分のエンドフェイズ時、この効果で除外したモンスターを特殊召喚する。
   | ko_text               = 이 카드가 필드 위에 존재하는 한, 이 카드의 카드명은 "바다"로 취급한다. 1턴에 1번, 자신 필드 위의 레벨 4 이하의 어류족 / 해룡족 / 물족 몬스터 1장을 선택하고 게임에서 제외할 수 있다. 자신의 엔드 페이즈시, 이 효과로 제외한 몬스터를 특수 소환한다.
   | tc_text               = 只要此卡存在于场上，此卡的卡牌名称被视为「海」。1回合1次，可选择我方场上1只等级4或以下的鱼族、海龙族、水族怪兽从游戏中除外。我方结束阶段时，特殊召唤因此效果被除外的怪兽。
+  | sc_text               = ①：此卡只要存在于魔法与陷阱区域，卡名视为“海”。②：1回合1次，以自己场上的1只等级4以下的鱼族・海龙族・水族怪兽为对象可以发动。将该自己的等级4以下的鱼族・海龙族・水族怪兽除外。③：以此卡②效果将怪兽除外的情况下，在自己的结束阶段发动。将该除外状态的怪兽特殊召唤。
   | en_sets               = 
   ABPF-EN076; Absolute Powerforce; Common
   SDRE-EN034; Realm of the Sea Emperor Structure Deck; Common
@@ -50,11 +52,13 @@ wikitext: |-
   ABPF-JP076; Absolute Powerforce; Rare
   SD23-JP033; Structure Deck: Roar of the Sea Emperor; Common
   DE04-JP120; Duelist Edition Volume 4; Common
-  | tc_sets               = 
-  SD23-TC033; Structure Deck: Roar of the Sea Emperor; Common
   | kr_sets               = 
   ABPF-KR076; Absolute Powerforce; Rare
   SD23-KR033; Structure Deck: Roar of the Sea Emperor; Common
+  | tc_sets               = 
+  SD23-TC033; Structure Deck: Roar of the Sea Emperor; Common
+  | sc_sets               = 
+  26SP-SC222; Tournament Pack 2026 Vol.2 (Simplified Chinese); Common
   | mentions              = Umi
   | supports              = 
   * Aqua
