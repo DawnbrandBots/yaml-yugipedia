@@ -8,12 +8,15 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = ダーク・アームド・ドラゴン・パニッシャー
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = ダーク・アームド・ドラゴン・バニッシャー
+  | romaji_name           = Dāku Āmudo Doragon Banisshā
+  | translated_name       = Dark Armed Dragon Vanisher
+  | ja_alt_name           = ダーク・アームド・ドラゴン・パニッシャー<!-- https://x.com/YuGiOh_OCG_INFO/status/2072289120706335169 -->
+  | ja_alt_romaji         = Dāku Āmudo Doragon Panisshā
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 暗黑武装龙・湮灭
+  | sc_translated_name    = Dark Armed Dragon Annihilation
   | image                 = DarkArmedDragonPunisher-UT01-JP-OP.png
   | attribute             = DARK
   | types                 = Dragon / Effect
@@ -30,9 +33,31 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = 此卡不可通常召唤。仅可在自己墓地的暗属性怪兽为3只的情况下特殊召唤。此卡名的①②效果1回合仅可各使用1次。①：向对手出示手牌的此卡可以发动。从手牌将1只等级6以下的暗属性怪兽特殊召唤。此回合，自己仅可特殊召唤暗属性怪兽。②：在自己・对手的主要阶段，从自己墓地将最多3只暗属性怪兽除外，依其数量以场上的卡为对象可以发动。将该卡破坏。
   | jp_sets               = 
   UT01-JP004; Utility Selection; Ultra Rare, Secret Rare, Prismatic Secret Rare
-  | archseries            = Armed Dragon
+  | sc_sets               = 
+  UT01-SC004; Utility Selection; 
+  | supports              = DARK
+  | archseries            = 
+  * Armed Dragon
+  * Signature move
+  | related_to_archseries = Dark counterpart
+  | action                = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}
