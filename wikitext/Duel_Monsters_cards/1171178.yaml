@@ -1,69 +1,71 @@
 title: Jade Dragon Mech
 wikitext: |-
   {{CardTable2
-  | fr_name             = Dragon Méca Jade
-  | de_name             = Jade-Drachenmech
-  | it_name             = Mech Drago di Giada
-  | pt_name             = Dragão Mech Jade
-  | es_name             = Dragón Mech Jade
-  | ja_name             = {{Ruby|翠鋁の機竜|ドラッグ・オン・ジェイド}}
-  | romaji_name         = Doraggu On Jeido
-  | translated_name     = Drag-On Jade
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = JadeDragonMech-BPRO-EN-SR-1E.png
-  | attribute           = WIND
-  | types               = Machine / Synchro / Effect
-  | level               = 9
-  | atk                 = 2700
-  | def                 = 1800
-  | password            = 69191257
-  | materials           = 1 Tuner + 1 or more non-Tuner monsters
-  | effect_types        = Trigger, Condition, Trigger
-  | text                = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: You can [[send]] 1 [[Machine]] [[Tuner]] from your [[Main Deck|Deck]] to the [[GY]], or if you [[control]] a [[monster]] whose current [[Level]] is different from its [[original Level]], you can Special Summon it instead. You can only use this [[effect]] of "Jade Dragon Mech" once per turn. If this [[Synchro Summon]]ed card is destroyed by card effect and sent to the GY: You can [[banish]] any number of Tuners from your GY, then [[target]] that many cards on the [[field]]; [[destroy]] them.
-  | fr_text             = 1 Syntoniseur + 1+ non-Syntoniseur<br />Si cette carte est Invoquée Spécialement : vous pouvez envoyer 1 Syntoniseur Machine depuis votre Deck au Cimetière, ou si vous contrôlez un monstre dont le Niveau actuel est différent de son Niveau d'origine, vous pouvez l'Invoquer Spécialement à la place. Vous ne pouvez utiliser cet effet de "Dragon Méca Jade" qu'une fois par tour. Si cette carte Invoquée par Synchronisation est détruite par un effet de carte, et envoyée au Cimetière : vous pouvez bannir un nombre de votre choix de Syntoniseurs depuis votre Cimetière, puis ciblez autant de cartes sur le Terrain ; détruisez-les.
-  | de_text             = 1 Empfänger + 1+ Nicht-Empfänger<br />Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Maschine-Empfänger von deinem Deck auf den Friedhof legen oder falls du ein Monster kontrollierst, dessen derzeitige Stufe sich von seiner Grund-Stufe unterscheidet, kannst du ihn stattdessen als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Jade-Drachenmech“ nur einmal pro Spielzug verwenden. Falls diese als Synchrobeschwörung beschworene Karte durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst eine beliebige Anzahl Empfänger von deinem Friedhof verbannen und dann ebenso viele Karten auf dem Spielfeld wählen; zerstöre sie.
-  | it_text             = 1 Tuner + 1+ non-Tuner<br />Se questa carta viene Evocata Specialmente: puoi mandare 1 Tuner Macchina dal tuo Deck al Cimitero o, se controlli un mostro il cui Livello attuale è diverso dal suo Livello originale, puoi invece Evocarlo Specialmente. Puoi utilizzare questo effetto di "Mech Drago di Giada" una sola volta per turno. Se questa carta Synchro Evocata viene distrutta dall'effetto di una carta e mandata al Cimitero: puoi bandire un qualsiasi numero di Tuner dal tuo Cimitero, poi scegliere come bersaglio quel numero di carte sul Terreno; distruggile.
-  | pt_text             = 1 Regulador + 1+ não-Reguladores<br />Se este card for Invocado por Invocação-Especial: você pode enviar 1 Regulador Máquina do seu Deck para o Cemitério, ou se você controlar um monstro cujo Nível atual seja diferente do seu Nível original, em vez disso, você pode Invocá-lo por Invocação-Especial. Você só pode usar este efeito de "Dragão Mech Jade" uma vez por turno. Se este card Invocado por Invocação-Sincro for destruído por um efeito de card e enviado para o Cemitério: você pode banir qualquer número de Reguladores do seu Cemitério e, depois, escolha esse número de cards no campo; destrua-os.
-  | es_text             = 1 Cantante + 1+ no Cantantes<br />Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio 1 Cantante Máquina en tu Deck o, si controlas un monstruo cuyo Nivel en este momento es diferente de su Nivel original, puedes Invocarlo de Modo Especial en su lugar. Sólo puedes usar este efecto de "Dragón Mech Jade" una vez por turno. Si esta carta Invocada por Sincronía es destruida por el efecto de una carta y mandada al Cementerio: puedes desterrar cualquier número de Cantantes en tu Cementerio, y después selecciona ese número de cartas en el Campo; destrúyelas.
-  | ja_text             = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから機械族チューナー１体を墓地へ送る。元々のレベルと異なるレベルを持つモンスターが自分フィールドに存在する場合、墓地へ送らず特殊召喚する事もできる。②：Ｓ召喚したこのカードが効果で破壊され墓地へ送られた場合、自分の墓地からチューナーを任意の数だけ除外し、その数だけフィールドのカードを対象として発動できる。そのカードを破壊する。
-  | ko_text             = 
-  | sc_text             = 
-  | en_sets             = 
+  | fr_name              = Dragon Méca Jade
+  | de_name              = Jade-Drachenmech
+  | it_name              = Mech Drago di Giada
+  | pt_name              = Dragão Mech Jade
+  | es_name              = Dragón Mech Jade
+  | ja_name              = {{Ruby|翠鋁の機竜|ドラッグ・オン・ジェイド}}
+  | base_romaji_name     = Suiryo no Kiryū
+  | base_translated_name = Green Aluminum Mech Dragon
+  | romaji_name          = Doraggu On Jeido
+  | translated_name      = Drag-On Jade
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = JadeDragonMech-BPRO-EN-SR-1E.png
+  | attribute            = WIND
+  | types                = Machine / Synchro / Effect
+  | level                = 9
+  | atk                  = 2700
+  | def                  = 1800
+  | password             = 69191257
+  | materials            = 1 Tuner + 1 or more non-Tuner monsters
+  | effect_types         = Trigger, Condition, Trigger
+  | text                 = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: You can [[send]] 1 [[Machine]] [[Tuner]] from your [[Main Deck|Deck]] to the [[GY]], or if you [[control]] a [[monster]] whose current [[Level]] is different from its [[original Level]], you can Special Summon it instead. You can only use this [[effect]] of "Jade Dragon Mech" once per turn. If this [[Synchro Summon]]ed card is destroyed by card effect and sent to the GY: You can [[banish]] any number of Tuners from your GY, then [[target]] that many cards on the [[field]]; [[destroy]] them.
+  | fr_text              = 1 Syntoniseur + 1+ non-Syntoniseur<br />Si cette carte est Invoquée Spécialement : vous pouvez envoyer 1 Syntoniseur Machine depuis votre Deck au Cimetière, ou si vous contrôlez un monstre dont le Niveau actuel est différent de son Niveau d'origine, vous pouvez l'Invoquer Spécialement à la place. Vous ne pouvez utiliser cet effet de "Dragon Méca Jade" qu'une fois par tour. Si cette carte Invoquée par Synchronisation est détruite par un effet de carte, et envoyée au Cimetière : vous pouvez bannir un nombre de votre choix de Syntoniseurs depuis votre Cimetière, puis ciblez autant de cartes sur le Terrain ; détruisez-les.
+  | de_text              = 1 Empfänger + 1+ Nicht-Empfänger<br />Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Maschine-Empfänger von deinem Deck auf den Friedhof legen oder falls du ein Monster kontrollierst, dessen derzeitige Stufe sich von seiner Grund-Stufe unterscheidet, kannst du ihn stattdessen als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Jade-Drachenmech“ nur einmal pro Spielzug verwenden. Falls diese als Synchrobeschwörung beschworene Karte durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst eine beliebige Anzahl Empfänger von deinem Friedhof verbannen und dann ebenso viele Karten auf dem Spielfeld wählen; zerstöre sie.
+  | it_text              = 1 Tuner + 1+ non-Tuner<br />Se questa carta viene Evocata Specialmente: puoi mandare 1 Tuner Macchina dal tuo Deck al Cimitero o, se controlli un mostro il cui Livello attuale è diverso dal suo Livello originale, puoi invece Evocarlo Specialmente. Puoi utilizzare questo effetto di "Mech Drago di Giada" una sola volta per turno. Se questa carta Synchro Evocata viene distrutta dall'effetto di una carta e mandata al Cimitero: puoi bandire un qualsiasi numero di Tuner dal tuo Cimitero, poi scegliere come bersaglio quel numero di carte sul Terreno; distruggile.
+  | pt_text              = 1 Regulador + 1+ não-Reguladores<br />Se este card for Invocado por Invocação-Especial: você pode enviar 1 Regulador Máquina do seu Deck para o Cemitério, ou se você controlar um monstro cujo Nível atual seja diferente do seu Nível original, em vez disso, você pode Invocá-lo por Invocação-Especial. Você só pode usar este efeito de "Dragão Mech Jade" uma vez por turno. Se este card Invocado por Invocação-Sincro for destruído por um efeito de card e enviado para o Cemitério: você pode banir qualquer número de Reguladores do seu Cemitério e, depois, escolha esse número de cards no campo; destrua-os.
+  | es_text              = 1 Cantante + 1+ no Cantantes<br />Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio 1 Cantante Máquina en tu Deck o, si controlas un monstruo cuyo Nivel en este momento es diferente de su Nivel original, puedes Invocarlo de Modo Especial en su lugar. Sólo puedes usar este efecto de "Dragón Mech Jade" una vez por turno. Si esta carta Invocada por Sincronía es destruida por el efecto de una carta y mandada al Cementerio: puedes desterrar cualquier número de Cantantes en tu Cementerio, y después selecciona ese número de cartas en el Campo; destrúyelas.
+  | ja_text              = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから機械族チューナー１体を墓地へ送る。元々のレベルと異なるレベルを持つモンスターが自分フィールドに存在する場合、墓地へ送らず特殊召喚する事もできる。②：Ｓ召喚したこのカードが効果で破壊され墓地へ送られた場合、自分の墓地からチューナーを任意の数だけ除外し、その数だけフィールドのカードを対象として発動できる。そのカードを破壊する。
+  | ko_text              = 
+  | sc_text              = 
+  | en_sets              = 
   BPRO-EN082; Burst Protocol; Super Rare
-  | fr_sets             = 
+  | fr_sets              = 
   BPRO-FR082; Burst Protocol; Super Rare
-  | de_sets             = 
+  | de_sets              = 
   BPRO-DE082; Burst Protocol; Super Rare
-  | it_sets             = 
+  | it_sets              = 
   BPRO-IT082; Burst Protocol; Super Rare
-  | pt_sets             = 
+  | pt_sets              = 
   BPRO-PT082; Burst Protocol; Super Rare
-  | sp_sets             = 
+  | sp_sets              = 
   BPRO-SP082; Burst Protocol; Super Rare
-  | jp_sets             = 
+  | jp_sets              = 
   WPP7-JP062; World Premiere Pack 2026; Common
-  | ae_sets             = 
+  | ae_sets              = 
   BLZD-AE106; Blazing Dominion; Common
-  | supports            = 
+  | supports             = 
   * Machine
   * Tuner monster
-  | archseries          = Dragon Mech
-  | action              = 
+  | archseries           = Dragon Mech
+  | action               = 
   * Activates upon Special Summon
   * Sends from your Deck to your Graveyard
   * Activates if destroyed by card effect
   * Activates if sent to the Graveyard
-  | m/s/t               = 
+  | m/s/t                = 
   * Destroys Monster Cards
   * Destroys Spell Cards
   * Destroys Trap Cards
-  | summoning           = 
+  | summoning            = 
   * Does not require specific Synchro Materials
   * 1 or more non-Tuner Synchro Materials
   * Special Summons from your Deck
-  | banished            = Banishes from Graveyard for cost
-  | misc                = Only once per turn
-  | database_id         = 22328
+  | banished             = Banishes from Graveyard for cost
+  | misc                 = Only once per turn
+  | database_id          = 22328
   }}
