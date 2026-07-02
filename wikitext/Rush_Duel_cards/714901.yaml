@@ -15,8 +15,8 @@ wikitext: |-
   | level           = 8
   | atk             = 2400
   | def             = 0
-  | requirement     = [[Send]] 1 [[face-up]]  [[Pyro]] [[Type]] [[Normal Monster]] from your [[field]] to the [[Graveyard]].
-  | text            = Inflict 1000 [[Effect damage|damage]] to your opponent. [[Draw a card|Draw]] 1 card.
+  | requirement     = [[Send]] 1 [[face-up]] [[Pyro]] [[Type]] [[Normal Monster]] from your [[field]] to the [[Graveyard]].
+  | text            = [[Damage|Inflict]] 1000 [[Effect damage|damage]] to your opponent. [[Draw a card|Draw]] 1 card.
   | fr_requirement  = Envoyez 1 Monstre Normal de Type Pyro face recto depuis votre Terrain au Cimetière.
   | fr_text         = Infligez 1000 points de dommages à votre adversaire. Piochez 1 carte.
   | de_requirement  = Lege 1 offenes Normales Monster des Typs Pyro von deiner Spielfeldseite auf den Friedhof.
@@ -36,16 +36,16 @@ wikitext: |-
   RD/KP03-KR033; Deck Mod Pack: Illusion Strike Mirage Impact!!; Ultra Rare
   RD/SD04-KR003; Strongest Battle Deck Maddox - Chemist-Meow Draw of Flames!; Common
   | supports        = 
-  * Normal Monster
   * Pyro
+  * Normal Monster
   | archseries      = Noodle Ninja
-  | fm_for          = Masked Fiery Noodle Tokunin Nikumashi Gockboot
   | action          = 
   * Sends from field to Graveyard for cost
   * You draw cards
   | life_points     = Damages your opponent
+  | fm_for          = Extra Meat the Special Noodle Ninja
   | misc            = 
-  * Requires control of specific Monster type
   * Requires control of specific Type
+  * Requires control of specific Monster type
   | database_id     = 15807
   }}

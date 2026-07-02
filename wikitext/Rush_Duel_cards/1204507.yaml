@@ -9,10 +9,15 @@ wikitext: |-
   | atk            = 1500
   | def            = 0
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] [[Level]] 8 or lower on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped [[Monster Card|monster]] loses 1000 [[ATK]] and can [[attack]] twice per [[turn]].
+  | text           = [[Equip]] this card to 1 [[face-up]] [[Level]] 8 or lower [[Monster Card|monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped monster loses 1000 [[ATK]], and can [[attack]] twice per [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/26S1-JP005; Special Pack 2026 Vol.1; Super Parallel Rare
+  | action         = Equips self from field
+  | stat_change    = Equipped loses ATK
+  | m/s/t          = Treated as Equip Card
+  | attack         = Allows multiple attacks
+  | misc           = Requires control of specific Level
   | database_id    = 
   }}
