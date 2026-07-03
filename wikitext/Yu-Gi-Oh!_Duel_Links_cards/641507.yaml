@@ -1,6 +1,7 @@
 title: Junk Warrior (Duel Links)
 wikitext: |-
   {{Duel Links card
+  | fr_name      = Robot Guerrier
   | image        = JunkWarrior-DULI-EN-VG.png
   | ja_image     = JunkWarrior-DULI-JP-VG.png
   | attribute    = DARK
@@ -11,11 +12,18 @@ wikitext: |-
   | rarity       = UR
   | effect_types = Trigger
   | text         = "[[Junk Synchron (Duel Links)|Junk Synchron]]" + 1 or more non-Tuner [[Monster Card|monsters]]<br />If this card is [[Synchro Summon]]ed: It gains [[ATK]] equal to the total ATK of all [[Level]] 2 or lower monsters you currently [[control]].
+  | fr_text      = "Robot Synchronique" + 1+ monstre non-Syntoniseur<br />Si cette carte est Invoquée par Synchronisation : elle gagne une ATK égale à la somme des ATK de tous les monstres de max. Niveau 2 que vous contrôlez actuellement.
   | ja_text      = 「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上<br />①：このカードがＳ召喚に成功した場合に発動する。このカードの攻撃力は、自分フィールドのレベル２以下のモンスターの攻撃力の合計分アップする。
   | releases     = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Structure Deck EX: Stardust Nexus|quantity=1}}
-  {{Duel Links release table|type=box|Structure Deck: Synchro Connection}}
   {{Duel Links release table|type=event|Duel World (5D's) Release Celebration Campaign|Event Reward|quantity=1|foil=Prismatic}}
+  {{Duel Links release table|type=box|Structure Deck: Synchro Connection|quantity=1}}
+  {{Duel Links release table|type=box|Structure Deck EX: Stardust Nexus|quantity=1}}
+  {{Duel Links release table|type=character_deck|[[Character Deck Duels|Character Deck (Yusei Fudo)]]|quantity=3|release_date=2026-04-01}}
   {{Duel Links release table/footer}}
+  | releases2     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Structure Deck EX: Junk Enforcers|quantity=1}}
+  {{Duel Links release table/footer}}
+  | mentions      = Junk Synchron (Duel Links)
   }}

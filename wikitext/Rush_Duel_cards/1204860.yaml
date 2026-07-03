@@ -6,11 +6,21 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = During a [[turn]] you have not [[activate]]d "Instant Fusion", [[pay]] 1000 [[LP]].
-  | text           = [[Fusion Summon]] 1 [[Level]] 5 or lower [[Fusion Monster]] without using [[material]]s. The monster [[Special Summon]]ed by this [[effect]] cannot [[attack]], and is [[sent]] to the [[Graveyard]] during the [[End Phase]] of this turn.
+  | text           = [[Fusion Summon]] 1 [[Level]] 5 or lower [[Fusion Monster]] without using [[material]]s. The [[Monster Card|monster]] [[Special Summon]]ed by this [[effect]] cannot [[attack]], and is [[Send|sent]] to the [[Graveyard]] during the [[End Phase]] of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/AP03-JP053; Advance Pack: Union Base; Ultra Rare
-  | misc           = Legend Card
+  | mentions       = Instant Fusion (Rush Duel)
+  | supports       = Fusion Monster
+  | action         = Sends from your field to your Graveyard
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack         = Prevents your monsters from attacking
+  | life_points    = Pays Life Points for cost
+  | misc           = 
+  * Only once per turn
+  * Legend Card
   | database_id    = 
   }}
