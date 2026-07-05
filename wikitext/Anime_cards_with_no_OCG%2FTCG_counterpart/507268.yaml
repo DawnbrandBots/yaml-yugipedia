@@ -10,22 +10,14 @@ wikitext: |-
   | image_nc           = InsectPheromone-JP-Anime-GX-NC.png
   | card_type          = Spell
   | property           = Equip
-  | text               = [[Equip]] only to "[[Insect Princess (anime)|Insect Princess]]". [[Once per turn]], if the equipped [[Monster Card|monster]] [[destroy]]s a monster [[by battle]], you can force 1 of your opponent's [[face-up]] [[Insect]]-[[Type]] monsters to [[battle]] the equipped monster during the same [[Battle Phase]].
+  | effect_types       = Condition, Trigger-like
+  | text               = [[Equip]] only to an [[Insect]]-[[Type]] [[Monster Card|monster]]. [[Once per turn]], if the equipped monster [[destroy]]s a monster [[Destroyed by battle|by battle]], it can [[attack]] an opponent's [[face-up]] Insect-Type monster again during the same [[Battle Phase]].
   | ja_text            = ・・・フェイズに・・・は戦闘を行う事ができる。<br />この効果は１ターンに１度のみ使う事ができる。
   | appears_in_gx      = 056
   | decks              = Missy
-  | mentions           = Insect Princess (anime)
+  | supports           = Insect
   | anti-supports      = Insect
   | action             = Activates if it destroys a monster by battle
-  | attack             = Must attack
-  | misc               = 
-  * Equips only to a specific target
-  * Female
-  }}
-
-  {{Unofficial names
-  | el_name = Φερομόνη Εντόμου
-  | de_name = Insekten Pheromone
-  | es_name = Feromona de Insecto
-  | hr_name = Insektni Feromoni
+  | attack             = Allows multiple attacks
+  | misc               = Equips only to a specific target
   }}
