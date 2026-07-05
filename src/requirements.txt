@@ -30,5 +30,5 @@ ruamel-yaml==0.18.17
     # via -r requirements.in
 ruamel-yaml-clib==0.2.15
     # via ruamel-yaml
-typing-extensions==4.15.0
+typing-extensions==4.16.0
     # via anyio
