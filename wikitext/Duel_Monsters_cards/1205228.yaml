@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
-  | sc_name               = 
+  | sc_name               = 垃圾魔像
   | image                 = GarbageGolem-BETB-JP-OP.png
   | attribute             = DARK
   | types                 = Fiend / Effect
@@ -30,9 +30,31 @@ wikitext: |-
   | es_text               = 
   | ja_text               = 
   | ko_text               = 
-  | sc_text               = 
+  | sc_text               = 此卡名的①②③效果1回合仅可各使用1次。①：自己场上存在攻击力或守备力为0的怪兽的情况下可以发动。从手牌将此卡特殊召唤。②：向对手出示额外牌组的阶级不同的3只超量怪兽，以场上的1张其他卡为对象可以发动。将该卡和此卡破坏。③：将墓地的此卡除外可以发动。去除自己场上的1个超量素材。然后，可从自己手牌・墓地将1只攻击力或守备力为0的怪兽特殊召唤。
   | jp_sets               = 
   BETB-JP033; Beyond the Brave; 
-  | archseries = Garbage
+  | sc_sets               = 
+  BETB-SC033; Beyond the Brave; 
+  | supports              = Xyz Monster
+  | archseries            = Garbage
+  | action                = 
+  * Activates from your hand
+  * Reveals your Extra Deck for cost
+  * Activates from your Graveyard
+  * Detaches Xyz Materials for effect
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys itself
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  * Only once per turn
   | database_id           = 
   }}
