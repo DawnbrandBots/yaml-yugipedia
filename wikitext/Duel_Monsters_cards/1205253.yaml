@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|召|しょう}}{{Ruby|喚|かん}}{{Ruby|魔|ま}}{{Ruby|術|じゅつ}}－「{{Ruby|杯|さかずき}}」
-  | romaji_name           = Shōkan Majutsu - "Sakuzuki"
+  | romaji_name           = Shōkan Majutsu - "Sakazuki"
   | translated_name       = Invocation Magic - "Chalice"
   | ko_name               = 
   | ko_rr_name            = 
@@ -29,8 +29,24 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   BETB-JP067; Beyond the Brave; 
+  | supports              = Fusion Monster
   | supports_archetypes   = 
   * Aleister
   * Invoked
+  | action                = 
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Deck as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  | summoning             = Performs a Fusion Summon
+  | banished              = 
+  * Banishes from your hand
+  * Banishes from your field
+  * Banishes from your Deck
+  * Banishes from your opponent's field
+  * Banishes Fusion Materials used in a Fusion Summon
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}
