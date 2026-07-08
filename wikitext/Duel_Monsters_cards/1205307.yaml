@@ -31,6 +31,7 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   BETB-JP061; Beyond the Brave; 
+  | supports            = Link Monster
   | archseries          = 
   * Ars Magna
   * Artmage
@@ -40,5 +41,13 @@ wikitext: |-
   * Ars Magna
   * Medius
   * Power Patron
+  | action              = Adds from Deck to hand
+  | misc                = 
+  * Archetype condition
+  * Can be activated during either player's turn
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Once while face-up on the field
+  * Only once per turn
   | database_id         = 
   }}
