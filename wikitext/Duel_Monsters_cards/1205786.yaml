@@ -8,8 +8,8 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = 氷結界の龍胤 エクハジャール
-  | romaji_name           = 
+  | ja_name               = {{Ruby|氷|ひょう}}{{Ruby|結|けっ}}{{Ruby|界|かい}}の{{Ruby|龍|りゅう}}{{Ruby|胤|いん}} エクハジャール
+  | romaji_name           = Hyōkekkai no Ryūin Ekuhajāru
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -22,6 +22,7 @@ wikitext: |-
   | atk                   = 3000
   | def                   = 1000
   | password              = 
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types          = Trigger, Trigger, Trigger, Condition
   | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Synchro Summon]]ed: You can [[discard]] 1 card; [[banish]] 2 cards from your opponent's [[field]] and/or [[GY]]. If your opponent [[Special Summon]]s a [[monster]](s): You can banish 1 card from your [[hand]]; [[return]] 1 card in either field or GY to the hand. If this Synchro Summoned card is sent to the GY during your opponent's turn: You can banish 1 card from your opponent's hand (at random), field, or GY. You can only use each effect of "Ekhajar, Descendant Dragon of the Ice Barrier" once per turn.
   | fr_text               = 
@@ -35,5 +36,21 @@ wikitext: |-
   | jp_sets               = 
   UT01-JP005; Utility Selection; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | archseries            = Ice Barrier
+  | action                = 
+  * Activates upon Synchro Summon
+  * You discard for cost
+  * Activates upon Special Summon
+  * Returns from field to hand
+  * Adds from Graveyard to hand
+  * Activates if sent to the Graveyard
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  | banished              = 
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  * Banishes from hand for cost
+  * Banishes from your opponent's hand
+  | misc                  = Only once per turn
   | database_id           = 
   }}
