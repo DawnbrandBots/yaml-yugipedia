@@ -22,7 +22,7 @@ wikitext: |-
   | def                  = 2500
   | password             = 
   | effect_types         = Summoning condition, Summoning condition, Quick, Condition, Trigger, Trigger
-  | text                 = Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. (Quick Effect): You can discard 1 Quick-Play or Ritual Spell; Special Summon this card from your hand in Defense Position. You can only use this effect of "Black Skull Dragon the Archfiend Dragon of Unity" once per turn. If this card is Special Summoned: You can Set 1 Spell/Trap that mentions "Light and Darkness Ritual" from your Deck or GY. At the start of the Battle Phase: You can make your opponent lose 800 LP, and if you do, this card gains 800 ATK.
+  | text                 = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed by its own [[effect]]. ([[Quick Effect]]): You can [[discard]] 1 [[Quick-Play]] or [[Ritual Spell]]; Special Summon this card from your [[hand]] in [[Defense Position]]. You can only use this effect of "Black Skull Dragon the Archfiend Dragon of Unity" [[once per turn]]. If this card is Special Summoned: You can [[Set]] 1 [[Spell]]/[[Trap]] that [[mention]]s "[[Light and Darkness Ritual]]" from your [[Main Deck|Deck]] or [[GY]]. At the start of the [[Battle Phase]]: You can make your opponent lose 800 [[LP]], and if you do, this card gains 800 [[ATK]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,9 +33,33 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   BETB-JP026; Beyond the Brave; 
+  | mentions             = Light and Darkness Ritual
+  | supports             = 
+  * Quick-Play Spell Card
+  * Ritual Spell Card
   | archseries           = 
   * Archfiend
   * Light and Darkness Ritual (series)
-  | misc                 = Special Summon Monster
+  | related_to_archseries = 
+  * Red-Eyes
+  * Skull Archfiend
+  | action               = 
+  * Activates from your hand
+  * You discard for cost
+  * Activates upon Special Summon
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | stat_change          = This card gains ATK
+  | summoning            = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  | life_points          = Your opponent loses Life Points
+  | misc                 = 
+  * Special Summon Monster
+  * Only once per turn
+  * Mentions
+  * At the start of the Battle Phase
   | database_id          = 
   }}
