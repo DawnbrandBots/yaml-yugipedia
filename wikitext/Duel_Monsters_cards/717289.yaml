@@ -20,7 +20,7 @@ wikitext: |-
   | def                   = 2000
   | password              = 75402014
   | materials             = 3 Level 5 monsters
-  | effect_types          = Condition, Quick, Ignition
+  | effect_types          = Condition, Ignition, Quick
   | text                  = 3 [[Level]] 5 [[Monster Card|monsters]]<br />(This card is always treated as "[[Number C39: Utopia Ray]]".)<br />[[Once per turn]], when a card or [[effect]] is activated that targets this card, or when this card is [[target]]ed for an attack ([[Quick Effect]]): You can [[equip]] 1 "[[ZW -]]" monster from your [[hand]] or [[Main Deck|Deck]] to this card as if it were equipped by that monster's effect. Once per [[turn]]: You can [[detach]] 1 [[material]] from this card, then target [[face-up]] cards your opponent [[control]]s up to the number of "ZW -" Monster Cards equipped to this card; [[negate]] their effects.
   | fr_text               = 3 monstres de Niveau 5<br />(Cette carte est toujours traitée comme "Numéro C39 : Rayon Utopie".)<br />Une fois par tour, lorsqu'une carte ou un effet qui cible cette carte est activé, ou lorsque cette carte est ciblée par une attaque (Effet Rapide) : vous pouvez équiper 1 monstre "ZW -" depuis votre main ou Deck à cette carte comme si elle était équipée par l'effet du monstre. Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez un nombre de cartes face recto contrôlées par votre adversaire inférieur ou égal au nombre de Cartes Monstre "ZW -" équipées à cette carte ; annulez leurs effets.
   | de_text               = 3 Monster der Stufe 5<br />(Diese Karte wird immer als „Nummer C39: Utopiastrahl“ behandelt.)<br />Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte als Ziel wählt, oder wenn diese Karte als Ziel für einen Angriff gewählt wird (Schnelleffekt): Du kannst diese Karte mit 1 „ZW -“-Monster von deiner Hand oder deinem Deck ausrüsten, als ob sie durch den Effekt jenes Monsters ausgerüstet würde. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann offene Karten, die dein Gegner kontrolliert, bis zur Anzahl der „ZW -“-Monsterkarten wählen, mit denen diese Karte ausgerüstet ist; annulliere ihre Effekte.
@@ -78,7 +78,11 @@ wikitext: |-
   * Negates the effects of your opponent's Effect Monsters
   * Negates the effects of your opponent's Spell Cards
   * Negates the effects of your opponent's Trap Cards
-  | stat_change           = Name condition
+  | stat_change           = 
+  * Name condition
+  | summoning             = 
+  * 3 Xyz Materials
+  * Does not require specific Xyz Materials
   | misc                  = 
   * Limited activations
   * Cover card
