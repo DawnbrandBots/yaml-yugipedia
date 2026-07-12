@@ -4,12 +4,12 @@ wikitext: |-
   | fr_name             = Aile Noire - Arsenal Aérien
   | de_name             = Schwarzflügel-Waffenmeister
   | it_name             = Alanera Ala Armata
-  | ko_name             = {{Ruby|BF|블랙 페더|lang=ko}}－암즈 윙
   | pt_name             = Asanegra Armado
   | es_name             = Alanegra Armado
   | ja_name             = {{Ruby|ＢＦ|ブラックフェザー}}－アームズ・ウィング
   | romaji_name         = Burakku Fezā - Āmuzu Wingu
   | translated_name     = Black Feather - Arms Wing
+  | ko_name             = {{Ruby|BF|블랙 페더|lang=ko}}－암즈 윙
   | tc_name             = BF－兵器之翼
   | sc_name             = 黑羽－武装之翼
   | image               = 
@@ -33,7 +33,7 @@ wikitext: |-
   | ja_text             = 「ＢＦ」チューナー＋チューナー以外のモンスター１体以上<br />①：このカードが守備表示モンスターを攻撃するダメージステップの間、このカードの攻撃力は５００アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。
   | ko_text             = "BF(블랙 페더)" 튜너 ＋ 튜너 이외의 몬스터 1장 이상<br />①: 이 카드가 수비 표시 몬스터를 공격하는 데미지 스텝 동안, 이 카드의 공격력은 500 올린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
   | tc_text             = 冠有「BF」之名的协调＋协调以外的怪兽1只或以上<br />此卡攻击守备表示怪兽的伤害步骤期间，此卡的攻击力上升500点。此外，此卡攻击守备表示怪兽时，若攻击力超过该守备力，给予对手生命相当于该数值的战斗伤害。
-  | sc_text             = “黑羽”协调＋１只以上协调以外的怪兽<br />①：此卡攻击守备表示怪兽的伤害步骤期间，此卡的攻击力上升５００。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予战斗伤害。
+  | sc_text             = “黑羽”协调＋协调以外的怪兽1只以上<br />①：此卡攻击守备表示怪兽的伤害步骤期间，此卡的攻击力上升500。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
   | en_sets             = 
   RGBT-EN041; Raging Battle; Super Rare
   GLD3-EN039; Gold Series 3; Gold Rare
@@ -90,16 +90,17 @@ wikitext: |-
   DP11-JP014; Duelist Pack: Crow; Rare
   DE03-JP137; Duelist Edition Volume 3; Rare
   SPTR-JP043; Booster SP: Tribe Force; Common, Normal Parallel Rare
-  | tc_sets             = 
-  ABYR-TC100; Abyss Rising; Rare
+  | ae_sets             = 
+  RGBT-AE041; Raging Battle; Super Rare
   | kr_sets             = 
   RGBT-KR041; Raging Battle; Super Rare
   DP11-KR014; Duelist Pack: Crow; Rare
   SPTR-KR043; Booster SP: Tribe Force; Common, Normal Parallel Rare
+  | tc_sets             = 
+  ABYR-TC100; Abyss Rising; Rare
   | sc_sets             = 
   CL04-SC037; Classic Pack 04; Common
-  | ae_sets             = 
-  RGBT-AE041; Raging Battle; Super Rare
+  SGD1-SCB26; Classic Times Deck; Common
   | archseries          = Blackwing
   | supports_archetypes = Blackwing
   | summoning           = 
