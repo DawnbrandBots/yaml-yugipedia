@@ -12,7 +12,7 @@ wikitext: |-
   | level           = 7
   | atk             = 1600
   | def             = 0
-  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tributing]] 1 [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[monster]].
+  | condition       = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]].
   | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
   | text            = Special Summon 1 [[Level]] 8 or lower LIGHT Attribute Fiend Type monster from your [[Graveyard]] to your [[field]] in [[face-down]] [[Defense Position]].
   | ja_condition    = 
@@ -20,6 +20,19 @@ wikitext: |-
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP005; Headliner of Reigning; Common
+  | supports        = 
+  * LIGHT
+  * Fiend
   | archseries      = Royal Rebel's
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  | summoning       = 
+  * Normal Summon with 1 Tribute
+  * Special Summons from your Graveyard
+  * Special Summons face-down
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}

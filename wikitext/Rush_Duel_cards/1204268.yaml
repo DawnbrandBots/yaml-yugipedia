@@ -3,24 +3,37 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|深|しん}}{{Ruby|竜|りゅう}}の{{Ruby|契|けい}}{{Ruby|約|やく}}{{Ruby|者|しゃ}}
-  | romaji_name    = Shinryū no Keiyakusha
-  | image          = ContractoroftheAbyssalDragon-RDKP26-JP-OP.png
-  | attribute      = WATER
-  | types          = Wyrm / Fusion / Effect
-  | level          = 9
-  | atk            = 2500
-  | def            = 2000
-  | effect_types   = Continuous
-  | materials      = "[[Priestess of Wise Salvation]]" + 1 [[Level]] 8 or lower [[WATER]] [[Attribute]] [[Effect Monster]]
-  | requirement    = None
-  | text           = [[Attack Position]] [[WATER]] [[Attribute]] [[monsters]] on your [[field]] gain 400 [[ATK]] and cannot be changed to [[Defense Position]] by your opponent's card [[effect]]s.
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|深|しん}}{{Ruby|竜|りゅう}}の{{Ruby|契|けい}}{{Ruby|約|やく}}{{Ruby|者|しゃ}}
+  | romaji_name     = Shinryū no Keiyakusha
+  | image           = ContractoroftheAbyssalDragon-RDKP26-JP-OP.png
+  | attribute       = WATER
+  | types           = Wyrm / Fusion / Effect
+  | level           = 9
+  | atk             = 2500
+  | def             = 2000
+  | effect_types    = Continuous
+  | fusion_material = Priestess of Wise Salvation
+  | materials       = "[[Priestess of Wise Salvation]]" + 1 [[Level]] 8 or lower [[WATER]] [[Attribute]] [[Effect Monster]]
+  | requirement     = None
+  | text            = [[Attack Position]] WATER Attribute [[Monster Card|monster]]s on your [[field]] gain 400 [[ATK]], and cannot be [[Battle position change|change]]d to [[Defense Position]] by your opponent's card [[effect]]s.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP26-JP036; Headliner of Reigning; Rare
-  | mentions       = Priestess of Wise Salvation
-  | archseries     = Star Protector
-  | database_id    = 
+  | mentions        = Priestess of Wise Salvation
+  | supports        = 
+  * WATER
+  * Effect Monster
+  | archseries      = Star Protector
+  | action          = Prevents battle position changes
+  | stat_change     = Your monsters gain ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires nonspecific Effect Monsters as Fusion Materials
+  | misc            = Requires control of specific Attribute
+  | database_id     = 
   }}

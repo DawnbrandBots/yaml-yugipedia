@@ -30,7 +30,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DBGV-JP007; Deck-Build Pack: Glorious Victors; 
+  | supports            = 
+  * Ritual Monster
+  * Non-Effect Monster
+  * Fusion Monster
+  * Zombie
   | archseries          = Sennet
   | supports_archetypes = Sennet
+  | action              = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | stat_change         = Treated as a Normal Monster
+  | m/s/t               = Prevents activation of your Effect Monsters
+  | summoning           = Special Summons from your Extra Deck
+  | attack              = Prevents direct attacks
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
   | database_id         = 
   }}

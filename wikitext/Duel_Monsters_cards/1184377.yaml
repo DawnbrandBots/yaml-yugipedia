@@ -50,7 +50,11 @@ wikitext: |-
   * Junora the Power Patron of Tuning
   | archseries            = Power Patron
   | supports_archetypes   = Power Patron
-  | action                = Changes cost
+  | action                = 
+  * Shows cards from the player's Extra Deck
+  * Shows cards from the player's field
+  * Shows cards from the player's Graveyard
+  * Changes cost
   | m/s/t                 = 
   * Prevents responding to its activation
   * Prevents activation of your opponent's Effect Monsters

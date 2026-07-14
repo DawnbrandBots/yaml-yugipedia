@@ -3,23 +3,41 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|獄|ごく}}{{Ruby|竜|りゅう}}の{{Ruby|契|けい}}{{Ruby|約|やく}}{{Ruby|者|しゃ}} フィスト
-  | romaji_name    = Gokuryū no Keiyakusha Fisuto
-  | image          = FisttheContractoroftheImprisonedDragon-RDKP26-JP-OP.png
-  | attribute      = WATER
-  | types          = Wyrm / Fusion / Effect
-  | level          = 9
-  | atk            = 2800
-  | def            = 2000
-  | materials      = "[[Fist the Star Protector's Roaring Gauntlet]]" + 1 [[Level]] 8 or lower [[WATER]] [[Attribute]] [[Effect Monster]]
-  | requirement    = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, [[shuffle]] 2 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = [[Destroy]] 1 monster on your opponent's [[field]]. Then, you can destroy 1 WATER Attribute [[Magical Knight]] or [[Machine]] [[Type]] monster on your opponent's field.
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|獄|ごく}}{{Ruby|竜|りゅう}}の{{Ruby|契|けい}}{{Ruby|約|やく}}{{Ruby|者|しゃ}} フィスト
+  | romaji_name     = Gokuryū no Keiyakusha Fisuto
+  | image           = FisttheContractoroftheImprisonedDragon-RDKP26-JP-OP.png
+  | attribute       = WATER
+  | types           = Wyrm / Fusion / Effect
+  | level           = 9
+  | atk             = 2800
+  | def             = 2000
+  | fusion_material = Fist the Star Protector's Roaring Gauntlet
+  | materials       = "[[Fist the Star Protector's Roaring Gauntlet]]" + 1 [[Level]] 8 or lower [[WATER]] [[Attribute]] [[Effect Monster]]
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card, [[shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = [[Destroy]] 1 monster on your opponent's [[field]]. Then, you can destroy 1 WATER Attribute [[Magical Knight]] or [[Machine]] [[Type]] monster on your opponent's field.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP26-JP037; Headliner of Reigning; Super Rare
-  | mentions       = Fist the Star Protector's Roaring Gauntlet
-  | archseries     = Star Protector
-  | database_id    = 
+  | mentions        = Fist the Star Protector's Roaring Gauntlet
+  | supports        = 
+  * WATER
+  * Effect Monster
+  | anti-supports   = 
+  * WATER
+  * Magical Knight
+  * Machine
+  | archseries      = Star Protector
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from Graveyard to Deck for cost
+  | m/s/t           = Destroys your opponent's Monster Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires nonspecific Effect Monsters as Fusion Materials
+  | database_id     = 
   }}

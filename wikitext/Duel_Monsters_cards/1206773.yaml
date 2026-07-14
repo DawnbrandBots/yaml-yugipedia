@@ -30,7 +30,21 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DBGV-JP010; Deck-Build Pack: Glorious Victors; 
+  | supports            = 
+  * Normal Monster
+  * Ritual Monster
   | archseries          = Sennet
   | supports_archetypes = Sennet
+  | action              = 
+  * Activates from your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  | m/s/t               = Negates the effects of your opponent's Effect Monsters
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Requires control of specific Monster type
+  * Requires control of specific ATK
+  * Only once per turn
   | database_id         = 
   }}

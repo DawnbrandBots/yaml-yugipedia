@@ -11,12 +11,14 @@ wikitext: |-
   | property        = Normal
   | condition       = This card's name becomes "[[Fusion (Rush Duel)|Fusion]]" while in the [[Graveyard]].
   | requirement     = None
-  | text            = Place this card from your [[field]] on top of the owner's [[Main Deck|Deck]].
+  | text            = Place this card from your [[field]] on top of the [[owner]]'s [[Main Deck|Deck]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP047; Headliner of Reigning; Common
   | mentions        = Fusion (Rush Duel)
   | archseries      = Star Protector
+  | action          = Places itself from the player's field on the top of the Deck
+  | stat_change     = Changes own name while in the GY
   | database_id     = 
   }}

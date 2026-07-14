@@ -12,12 +12,21 @@ wikitext: |-
   | level           = 1
   | atk             = 200
   | def             = 0
-  | requirement     = [[Send]] 1 [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] from your [[hand]] to the [[Graveyard]].
-  | text            = [[Draw a card|Draw]] 1 card. Then, you can change the [[battle position]] of this card or 1 monster on your opponent's [[field]].
+  | requirement     = [[Send]] 1 [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] from your [[hand]] to the [[Graveyard]].
+  | text            = [[Draw a card|Draw]] 1 card. Then, you can [[Battle position change|change]] the [[battle position]] of this card or 1 monster on your opponent's [[field]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP003; Headliner of Reigning; Rare
+  | supports        = 
+  * LIGHT
+  * Fiend
   | archseries      = Royal Rebel's
+  | action          = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Changes own battle position
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
   | database_id     = 
   }}

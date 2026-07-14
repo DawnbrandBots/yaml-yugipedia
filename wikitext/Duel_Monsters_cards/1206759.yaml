@@ -30,7 +30,28 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   DBGV-JP009; Deck-Build Pack: Glorious Victors; 
+  | supports            = 
+  * Ritual Monster
+  * Normal Monster
   | archseries          = Sennet
   | supports_archetypes = Sennet
+  | action              = 
+  * Sends from your hand to your Graveyard
+  * Sends from your Deck to your Graveyard
+  * Sends from your field to your Graveyard
+  * Equips monsters from the player's Graveyard
+  | m/s/t               = 
+  * Treats monsters as Equip Cards
+  * Prevents other cards being destroyed by card effects
+  * Redirects destruction
+  | summoning           = 
+  * Performs a Ritual Summon
+  * Special Summons from your hand
+  * Ritual Summons from your Graveyard
+  | attack              = Prevents other cards being destroyed by battle
+  | banished            = Banishes itself from Graveyard
+  | misc                = 
+  * Requires control of specific Monster type
+  * Only once per turn
   | database_id         = 
   }}

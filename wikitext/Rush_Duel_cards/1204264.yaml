@@ -9,12 +9,23 @@ wikitext: |-
   | image           = RoyalRebelsStarting-RDKP26-JP-OP.png
   | card_type       = Spell
   | property        = Normal
-  | requirement     = If you have a [[face-up]] [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[monster]] on your [[field]], [[pay]] 600 [[LP]].
-  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field.
+  | requirement     = If you have a [[face-up]] [[LIGHT]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] on your [[field]], [[pay]] 600 [[LP]].
+  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP045; Headliner of Reigning; Rare
+  | supports        = 
+  * LIGHT
+  * Fiend
   | archseries      = Royal Rebel's
+  | action          = Sends from the top of your Deck to your Graveyard
+  | m/s/t           = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | life_points     = Pays Life Points for cost
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}

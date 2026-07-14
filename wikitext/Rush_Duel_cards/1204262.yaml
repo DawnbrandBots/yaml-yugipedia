@@ -13,12 +13,18 @@ wikitext: |-
   | atk             = 1200
   | def             = 0
   | requirement     = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text            = [[Add a card|Add]] 1 "[[Royal Rebel's Elite Amp]]" from your [[Graveyard]] to your [[hand]]. Then, increase this card's [[Level]] by 1 until the end of this [[turn]]. This turn, you can only [[attack]] with [[Fiend]] [[Type]] [[monsters]].
+  | text            = [[Add a card|Add]] 1 "[[Royal Rebel's Elite Amp]]" from your [[Graveyard]] to your [[hand]]. Then, increase this card's [[Level]] by 1 until the end of this turn. This turn, you can only [[attack]] with [[Fiend]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP004; Headliner of Reigning; Common
   | mentions        = Royal Rebel's Elite Amp
+  | supports        = Fiend
   | archseries      = Royal Rebel's
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  | stat_change     = This card gains Levels
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}
