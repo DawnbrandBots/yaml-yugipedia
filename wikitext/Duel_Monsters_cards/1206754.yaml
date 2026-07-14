@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name             = 
   | es_name             = 
   | ja_name             = セネトメス・ネクベト
-  | romaji_name         = 
-  | translated_name     = 
+  | romaji_name         = Senetomesu Nekubeto
+  | translated_name     = Senetmes Nekhbet
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
@@ -34,7 +34,21 @@ wikitext: |-
   | jp_sets             = 
   DBGV-JP005; Deck-Build Pack: Glorious Victors; 
   | mentions            = Sennetmes Nekhbet
+  | supports            = Normal Monster
   | archseries          = Sennet
   | supports_archetypes = Sennet
+  | action              = 
+  * Applies effect while equipped with an Equip Card
+  * Activates from your hand
+  * Discards itself for cost
+  * Adds from Graveyard to hand
+  * Equips self from field
+  | stat_change         = Equipped gains ATK
+  | m/s/t               = Treated as Equip Card
+  | summoning           = Special Summons from your Spell & Trap Zone
+  | attack              = Cannot be destroyed by battle
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific Monster type
   | database_id         = 
   }}

@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = セネトの啓示者－アメンホテプ
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = セネトの{{Ruby|啓|けい}}{{Ruby|示|じ}}{{Ruby|者|しゃ}}－アメンホテプ
+  | romaji_name           = Seneto no Keijisha - Amenhotepu
+  | translated_name       = Senet Prophet - Amenhotep
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -33,7 +33,21 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   DBGV-JP002; Deck-Build Pack: Glorious Victors; 
+  | supports              = Normal Monster
   | archseries            = Sennet
   | supports_archetypes   = Sennet
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard for cost
+  * Shows cards from the player's hand
+  * Shows cards from the player's Deck
+  * Shows cards from the player's field
+  * Shows cards from the player's Graveyard
+  * Sets from your Deck
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}

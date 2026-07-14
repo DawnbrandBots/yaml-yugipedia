@@ -8,9 +8,9 @@ wikitext: |-
   | it_name               = 
   | pt_name               = 
   | es_name               = 
-  | ja_name               = セネトの啓示者－ネフェルタリ
-  | romaji_name           = 
-  | translated_name       = 
+  | ja_name               = セネトの{{Ruby|啓|けい}}{{Ruby|示|じ}}{{Ruby|者|しゃ}}－ネフェルタリ
+  | romaji_name           = Seneto no Keijisha - Neferutari
+  | translated_name       = Senet Prophet - Nefertari
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -33,7 +33,26 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   DBGV-JP001; Deck-Build Pack: Glorious Victors; Ultra Rare
+  | supports              = 
+  * Normal Monster
+  * Ritual Monster
   | archseries            = Sennet
   | supports_archetypes   = Sennet
+  | action                = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sends itself from field to Graveyard for cost
+  * Shows cards from the player's hand
+  * Shows cards from the player's Deck
+  * Shows cards from the player's field
+  * Shows cards from the player's Graveyard
+  * Sets from your Deck
+  * Activates from your Graveyard
+  * Equips monsters from the player's Graveyard
+  | m/s/t                 = Treats monsters as Equip Cards
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id           = 
   }}
