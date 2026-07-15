@@ -3,48 +3,50 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|光器の瀑布|セネト・カタラクト}}
-  | romaji_name         = Seneto Katarakuto
-  | translated_name     = Senet Cataract
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = SennetCataract-DBGV-JP-OP.png
-  | card_type           = Trap
-  | property            = Normal
-  | password            = 
-  | effect_types        = Effect, Quick-like, Condition
-  | text                = Choose opponent's [[Main Monster Zone]]s equal to the number of [[Normal Monster]]s and "[[Sennet]]" [[Ritual Monster]]s you [[control]]; [[negate]] the first [[monster effect]] activated in each of those zones that [[resolve]]s this [[turn]]. If the total [[ATK]] of all Normal Monster Cards you control is more than 3000: You can [[banish]] this card from your [[GY]], then [[target]] 1 monster your opponent controls; [[send]] it to the GY. You can only use each effect of "Sennet Cataract" once per turn.
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|光器の瀑布|セネト・カタラクト}}
+  | base_romaji_name     = Kōki no Bakufu
+  | base_translated_name = Light Vessel Cataract
+  | romaji_name          = Seneto Katarakuto
+  | translated_name      = Senet Cataract
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = SennetCataract-DBGV-JP-OP.png
+  | card_type            = Trap
+  | property             = Normal
+  | password             = 
+  | effect_types         = Effect, Quick-like, Condition
+  | text                 = Choose opponent's [[Main Monster Zone]]s equal to the number of [[Normal Monster]]s and "[[Sennet]]" [[Ritual Monster]]s you [[control]]; [[negate]] the first [[monster effect]] activated in each of those zones that [[resolve]]s this [[turn]]. If the total [[ATK]] of all Normal Monster Cards you control is more than 3000: You can [[banish]] this card from your [[GY]], then [[target]] 1 monster your opponent controls; [[send]] it to the GY. You can only use each effect of "Sennet Cataract" once per turn.
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DBGV-JP010; Deck-Build Pack: Glorious Victors; 
-  | supports            = 
+  | supports             = 
   * Normal Monster
   * Ritual Monster
-  | archseries          = Sennet
-  | supports_archetypes = Sennet
-  | action              = 
+  | archseries           = Sennet
+  | supports_archetypes  = Sennet
+  | action               = 
   * Activates from your Graveyard
   * Sends from your opponent's field to your opponent's Graveyard
-  | m/s/t               = Negates the effects of your opponent's Effect Monsters
-  | banished            = Banishes itself from Graveyard for cost
-  | misc                = 
+  | m/s/t                = Negates the effects of your opponent's Effect Monsters
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = 
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Requires control of specific Monster type
   * Requires control of specific ATK
   * Only once per turn
-  | database_id         = 
+  | database_id          = 
   }}

@@ -3,48 +3,50 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name             = 
-  | de_name             = 
-  | it_name             = 
-  | pt_name             = 
-  | es_name             = 
-  | ja_name             = {{Ruby|光帰への契り|セネト・ペル・アーク}}
-  | romaji_name         = Seneto Peru Āku
-  | translated_name     = Senet Per Akh
-  | ko_name             = 
-  | ko_rr_name          = 
-  | sc_name             = 
-  | image               = SennetPerAkh-DBGV-JP-OP.png
-  | card_type           = Spell
-  | property            = Normal
-  | password            = 
-  | effect_types        = Effect, Trigger-like, Condition
-  | text                = [[Add a card|Add]] 1 "[[Sennet]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. If you [[discard]] a "Sennet" [[Ritual Monster]](s) while this card is in your [[GY]]: You can [[banish]] this card; [[Special Summon]] 1 non-Effect [[Fusion Monster]] from your [[Extra Deck]] with [[ATK]] less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot [[attack directly]], also you cannot activate non-[[Zombie]] monster effects. You can only use each effect of "Sennet Per Akh" [[once per turn]].
-  | fr_text             = 
-  | de_text             = 
-  | it_text             = 
-  | pt_text             = 
-  | es_text             = 
-  | ja_text             = 
-  | ko_text             = 
-  | sc_text             = 
-  | jp_sets             = 
+  | fr_name              = 
+  | de_name              = 
+  | it_name              = 
+  | pt_name              = 
+  | es_name              = 
+  | ja_name              = {{Ruby|光帰への契り|セネト・ペル・アーク}}
+  | base_romaji_name     = Kōki e no Chigiri
+  | base_translated_name = Oath to the Returned from Light
+  | romaji_name          = Seneto Peru Āku
+  | translated_name      = Senet Per Akh
+  | ko_name              = 
+  | ko_rr_name           = 
+  | sc_name              = 
+  | image                = SennetPerAkh-DBGV-JP-OP.png
+  | card_type            = Spell
+  | property             = Normal
+  | password             = 
+  | effect_types         = Effect, Trigger-like, Condition
+  | text                 = [[Add a card|Add]] 1 "[[Sennet]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. If you [[discard]] a "Sennet" [[Ritual Monster]](s) while this card is in your [[GY]]: You can [[banish]] this card; [[Special Summon]] 1 non-Effect [[Fusion Monster]] from your [[Extra Deck]] with [[ATK]] less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot [[attack directly]], also you cannot activate non-[[Zombie]] monster effects. You can only use each effect of "Sennet Per Akh" [[once per turn]].
+  | fr_text              = 
+  | de_text              = 
+  | it_text              = 
+  | pt_text              = 
+  | es_text              = 
+  | ja_text              = 
+  | ko_text              = 
+  | sc_text              = 
+  | jp_sets              = 
   DBGV-JP007; Deck-Build Pack: Glorious Victors; 
-  | supports            = 
+  | supports             = 
   * Ritual Monster
   * Non-Effect Monster
   * Fusion Monster
   * Zombie
-  | archseries          = Sennet
-  | supports_archetypes = Sennet
-  | action              = 
+  | archseries           = Sennet
+  | supports_archetypes  = Sennet
+  | action               = 
   * Adds from Deck to hand
   * Activates from your Graveyard
-  | stat_change         = Treated as a Normal Monster
-  | m/s/t               = Prevents activation of your Effect Monsters
-  | summoning           = Special Summons from your Extra Deck
-  | attack              = Prevents direct attacks
-  | banished            = Banishes itself from Graveyard for cost
-  | misc                = Only once per turn
-  | database_id         = 
+  | stat_change          = Treated as a Normal Monster
+  | m/s/t                = Prevents activation of your Effect Monsters
+  | summoning            = Special Summons from your Extra Deck
+  | attack               = Prevents direct attacks
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = Only once per turn
+  | database_id          = 
   }}
