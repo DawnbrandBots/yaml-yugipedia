@@ -12,10 +12,17 @@ wikitext: |-
   | atk            = 1200
   | def            = 1200
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Increase this card's Level by 4 until the end of this [[turn]]. This [[turn]], this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a [[Level]] 7 or 8 [[Fiend]] [[Type]] [[monster]] in [[Attack Position]].
+  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. This turn, this [[face-up]] card can be treated as 2 [[Tribute]]s for the [[Tribute Summon]] of a Level 7 or 8 [[Fiend]] [[Type]] [[Monster Card|monster]] in [[Attack Position]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SJMP-JP066; Saikyō Jump September 2026 promotional card; Normal Parallel Rare
+  | supports       = Fiend
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = This card gains Levels
+  | summoning      = Treated as multiple Tributes
   | database_id    = 
   }}

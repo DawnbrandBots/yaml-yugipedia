@@ -2,18 +2,25 @@ title: Neo-Spacian Grand Mole (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = NeoSpacianGrandMole-RDKP26-JP-OP.png
-  | attribute       = EARTH
-  | types           = Rock / Effect
-  | level           = 3
-  | atk             = 900
-  | def             = 300
-  | requirement     = This card is in [[Attack Position]].
-  | text            = Choose 1 [[face-up]] [[monster]] on your opponent's [[field]] with higher [[ATK]] than this card, and you take [[Effect damage|damage]] equal to [the difference in ATK]. Then, [[return]] this card and the chosen monster to the owner's [[hand]]. End this [[Main Phase]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image                 = NeoSpacianGrandMole-RDKP26-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Rock / Effect
+  | level                 = 3
+  | atk                   = 900
+  | def                   = 300
+  | requirement           = This card is in [[Attack Position]].
+  | text                  = Choose 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] with higher [[ATK]] than this card, and you [[Damage|take]] [[Effect damage|damage]] equal to [the difference in ATK]. Then, [[return]] this card and that monster to the [[owner]]'s [[hand]]. End this [[Main Phase]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP26-JP067; Headliner of Reigning; Super Rare
-  | archseries      = Neos (Rush Duel)
-  | database_id     = 
+  | archseries            = Neos (Rush Duel)
+  | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = 
+  * Returns itself from field to hand
+  * Returns from your opponent's field to your opponent's hand
+  * Ends the Main Phase
+  | life_points           = Damages you
+  | misc                  = Requires control of specific ATK
+  | database_id           = 
   }}
