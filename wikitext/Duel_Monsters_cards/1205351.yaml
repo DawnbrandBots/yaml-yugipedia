@@ -14,9 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = BlitzcliqueOvervoltage-BETB-JP-OP.png
+  | image                 = BlitzcliqueOvervoltage-BETB-JP-C.png
   | card_type             = Spell
   | property              = Normal
+  | password              = 30945251
   | effect_types          = Effect, Trigger-like, Condition
   | text                  = [[Target]] 1 [[face-up]] card on the [[field]]; [[destroy]] it, also for the rest of this [[turn]], you cannot [[Special Summon]] [[Effect Monster]]s, except from the [[hand]]. If a card(s) is destroyed by your "[[Blitzclique]]" card's effect, while this card is in your [[GY]] (except during the [[Damage Step]]): You can [[Add a card|add]] this card to your [[hand]]. You can only use this effect of "Blitzclique - Overvoltage" [[once per turn]].
   | fr_text               = 
@@ -24,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊する。このターン、自分は手札からしか効果モンスターを特殊召喚できない。②：このカードが墓地に存在する状態で、自分の「ブリッツクリーク」カードの効果でカードを破壊した場合に発動できる。このカードを手札に加える。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BETB-JP066; Beyond the Brave; 
+  BETB-JP066; Beyond the Brave; Common
   | archseries            = Blitzclique
   | supports_archetypes   = Blitzclique
   | action                = 
@@ -41,5 +42,5 @@ wikitext: |-
   * Destroys face-up Trap Cards
   | summoning             = Restricts the player's Special Summons
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23388
   }}

@@ -14,12 +14,12 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 海中战型助手机器人
-  | image                 = HelpingRoboforUnderwaterCombat-BETB-JP-OP.png
+  | image                 = HelpingRoboforUnderwaterCombat-BETB-JP-C.png
   | attribute             = WATER
   | types                 = Machine / Link / Effect
   | link_arrows           = Bottom-Right, Middle-Right
   | atk                   = 800
-  | password              = 
+  | password              = 77856460
   | materials             = 2 Machine monsters
   | effect_types          = Trigger, Trigger, Condition
   | text                  = 2 [[Machine]] [[monsters]]<br />If this card is [[Link Summon]]ed: You can [[target]] 1 monster your opponent controls; [[destroy]] it, also this card, then you can [[Special Summon]] 1 non-[[WATER]] Machine monster with 1600 or less [[ATK]] from your [[GY]]. If this card is [[banish]]ed: You can [[Add a card|add]] 1 Machine monster whose ATK equals its own [[DEF]] from your [[Main Deck|Deck]] to your hand. You can only use each effect of "Helping Robo for Underwater Combat" [[once per turn]], also you cannot Special Summon the turn you activate either of this card's effects, except Machine monsters.
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = 機械族モンスター２体<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果を発動するターン、自分は機械族モンスターしか特殊召喚できない。①：このカードがＬ召喚した場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスター及びこのカードを破壊する。その後、水属性モンスターを除く、攻撃力１６００以下の機械族モンスター１体を自分の墓地から特殊召喚できる。②：このカードが除外された場合に発動できる。攻撃力と守備力の数値が同じ機械族モンスター１体をデッキから手札に加える。
   | ko_text               = 
   | sc_text               = 机械族怪兽2只<br />此卡名的①②效果1回合仅可各使用1次，发动此效果的回合中，自己仅可特殊召唤机械族怪兽。①：此卡连接召唤的情况下，以对手场上的1只怪兽为对象可以发动。将该怪兽及此卡破坏。然后，可从自己墓地将除水属性怪兽以外的、1只攻击力1600以下的机械族怪兽特殊召唤。②：此卡被除外的情况下可以发动。从牌组将1只攻击力和守备力的数值相同的机械族怪兽加入手牌。
   | jp_sets               = 
-  BETB-JP050; Beyond the Brave; 
+  BETB-JP050; Beyond the Brave; Common
   | sc_sets               = 
   BETB-SC050; Beyond the Brave; 
   | supports              = Machine
@@ -49,5 +49,5 @@ wikitext: |-
   * Special Summons from your Graveyard
   * Restricts the player's Special Summons to Type specific monsters
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23372
   }}

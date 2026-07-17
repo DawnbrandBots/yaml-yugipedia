@@ -14,9 +14,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = InvocationChalice-BETB-JP-OP.png
+  | image                 = InvocationChalice-BETB-JP-R.png
   | card_type             = Spell
   | property              = Normal
+  | password              = 76334960
   | effect_types          = Effect, Condition
   | text                  = If you have an "[[Aleister]]" monster in your [[field]], [[GY]], or [[banish]]ment: [[Activate]] 1 of these [[effect]]s;<br />● [[Fusion Summon]] 1 "[[Invoked]]" [[Fusion Monster]] from your [[Extra Deck]], by banishing 1 monster from your [[hand]] or field and 1 monster from your [[Main Deck|Deck]].<br />● Fusion Summon 1 "Invoked" Fusion Monster from your Extra Deck, by banishing 1 monster you [[control]] and 1 [[face-up]] monster your opponent controls.<br />You can only activate 1 "Invocation - "Chalice"" per turn.
   | fr_text               = 
@@ -24,11 +25,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：自分のフィールドか墓地か除外状態に「アレイスター」モンスターが存在する場合、以下の効果から１つを選択して発動できる。<br />●自分の手札・フィールドのモンスター１体と自分のデッキのモンスター１体を融合素材として除外し、「召喚獣」融合モンスター１体を融合召喚する。<br />●自分フィールドのモンスター１体と相手フィールドの表側表示モンスター１体を融合素材として除外し、「召喚獣」融合モンスター１体を融合召喚する。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
-  BETB-JP067; Beyond the Brave; 
+  BETB-JP067; Beyond the Brave; Rare
   | supports              = Fusion Monster
   | supports_archetypes   = 
   * Aleister
@@ -48,5 +49,5 @@ wikitext: |-
   | misc                  = 
   * Requires control of specific archetype
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23389
   }}

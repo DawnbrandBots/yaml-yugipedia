@@ -3,49 +3,49 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
-  | ja_name               = ビンゴカード
-  | romaji_name           = Bingo Kādo
-  | translated_name       = 
-  | ko_name               = 
-  | ko_rr_name            = 
-  | sc_name               = 宾果卡
-  | image                 = BingoCard-BETB-JP-OP.png
-  | card_type             = Trap
-  | property              = Normal
-  | password              = 
-  | effect_types          = Effect, Quick-like
-  | text                  = Choose 1 [[monster]] in a [[column]] with all zones occupied and destroy as many cards in that column as possible, then each player [[Draw a card|draws]] 1 card. You can [[banish]] this card from your [[GY]], then [[activate]] 1 of these [[effect]]s;<br />● Destroy 5 monsters in your [[Main Monster Zone]] or 5 cards in your [[Spell & Trap Zone]], then draw 2 cards.<br />● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.
-  | fr_text               = 
-  | de_text               = 
-  | it_text               = 
-  | pt_text               = 
-  | es_text               = 
-  | ja_text               = 
-  | ko_text               = 
-  | sc_text               = ①：挑选同一纵列全部存在卡的1只怪兽，将该纵列的卡全部破坏。然后，双方各抽1张。②：将墓地的此卡除外，可从以下效果中选择1个发动。<br />●将自己的主要怪兽区域的5只怪兽或自己的魔法与陷阱区域的5张卡破坏。然后，自己抽2张。<br />●将对手的主要怪兽区域的5只怪兽或对手的魔法与陷阱区域的5张卡破坏。然后，对手抽2张。
-  | jp_sets               = 
-  BETB-JP080; Beyond the Brave; 
-  | sc_sets               = 
+  | fr_name         = 
+  | de_name         = 
+  | it_name         = 
+  | pt_name         = 
+  | es_name         = 
+  | ja_name         = ビンゴカード
+  | romaji_name     = Bingo Kādo
+  | translated_name = 
+  | ko_name         = 
+  | ko_rr_name      = 
+  | sc_name         = 宾果卡
+  | image           = BingoCard-BETB-JP-C.png
+  | card_type       = Trap
+  | property        = Normal
+  | password        = 99505609
+  | effect_types    = Effect, Quick-like
+  | text            = Choose 1 [[monster]] in a [[column]] with all zones occupied and destroy as many cards in that column as possible, then each player [[Draw a card|draws]] 1 card. You can [[banish]] this card from your [[GY]], then [[activate]] 1 of these [[effect]]s;<br />● Destroy 5 monsters in your [[Main Monster Zone]] or 5 cards in your [[Spell & Trap Zone]], then draw 2 cards.<br />● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.
+  | fr_text         = 
+  | de_text         = 
+  | it_text         = 
+  | pt_text         = 
+  | es_text         = 
+  | ja_text         = ①：同じ縦列全てにカードが存在するモンスター１体を選び、その縦列のカードを全て破壊する。その後、お互いはそれぞれ１枚ドローする。②：墓地のこのカードを除外し、以下の効果から１つを選択して発動できる。<br />●自分のメインモンスターゾーンのモンスター５体または自分の魔法＆罠ゾーンのカード５枚を破壊する。その後、自分は２枚ドローする。<br />●相手のメインモンスターゾーンのモンスター５体または相手の魔法＆罠ゾーンのカード５枚を破壊する。その後、相手は２枚ドローする。
+  | ko_text         = 
+  | sc_text         = ①：挑选同一纵列全部存在卡的1只怪兽，将该纵列的卡全部破坏。然后，双方各抽1张。②：将墓地的此卡除外，可从以下效果中选择1个发动。<br />●将自己的主要怪兽区域的5只怪兽或自己的魔法与陷阱区域的5张卡破坏。然后，自己抽2张。<br />●将对手的主要怪兽区域的5只怪兽或对手的魔法与陷阱区域的5张卡破坏。然后，对手抽2张。
+  | jp_sets         = 
+  BETB-JP080; Beyond the Brave; Common
+  | sc_sets         = 
   BETB-SC080; Beyond the Brave; 
-  | action                = 
+  | action          = 
   * You draw cards
   * Your opponent draws cards
   * Activates from your Graveyard
-  | m/s/t                 = 
+  | m/s/t           = 
   * Destroys your Monster Cards
   * Destroys your Spell Cards
   * Destroys your Trap Cards
   * Destroys your opponent's Monster Cards
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | banished              = Banishes itself from Graveyard for cost
-  | misc                  = 
+  | banished        = Banishes itself from Graveyard for cost
+  | misc            = 
   * Column
   * Variable effects
-  | database_id           = 
+  | database_id     = 23402
   }}

@@ -13,10 +13,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 天使与魔鬼的骰子
-  | image                 = GracefulSkullDice-BETB-JP-OP.png
+  | image                 = GracefulSkullDice-BETB-JP-C.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 76630812
   | effect_types          = Effect, Trigger-like
   | text                  = Roll a six-sided die twice and apply these effects for the rest of this [[turn]].<br />● [[Monsters]] you [[control]] that mention "[[Dark Time Wizard]]" gain [[ATK]]/[[DEF]] equal to the total x 200.<br />● Monsters your opponent controls lose ATK/DEF equal to the total x 200.<br />If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a monster(s) while this card is in your [[GY]] (except during the [[Damage Step]]): You can [[banish]] this card, then [[target]] 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, [[destroy]] that monster.
   | fr_text               = 
@@ -24,11 +24,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = ①：サイコロを２回振り、このターン中、以下の効果をそれぞれ適用する。●「時の黒魔術師」のカード名が記された自分フィールドのモンスターの攻撃力・守備力は、出た目の合計×２００アップする。●相手フィールドのモンスターの攻撃力・守備力は、出た目の合計×２００ダウンする。②：このカードが墓地に存在する状態で、相手がモンスターを召喚・特殊召喚した場合、このカードを除外し、その内の１体を対象として発動できる。サイコロを２回振り、出た目の合計が６以上だった場合、対象のモンスターを破壊する。
   | ko_text               = 
   | sc_text               = ①：掷2次骰子，此回合中，分别适用以下效果。<br />●记载有“时间黑魔术师”卡名的、自己场上的怪兽的攻击力・守备力上升掷出的数字合计×200的数值。<br />●对手场上的怪兽的攻击力・守备力下降掷出的数字合计×200的数值。<br />②：此卡存在于墓地的状态下，对手将怪兽召唤・特殊召唤的情况下，将此卡除外，以其中1只为对象可以发动。掷2次骰子，掷出的数字合计在6以上的情况下，将对象怪兽破坏。
   | jp_sets               = 
-  BETB-JP053; Beyond the Brave; 
+  BETB-JP053; Beyond the Brave; Common
   | sc_sets               = 
   BETB-SC053; Beyond the Brave; 
   | mentions              = Dark Time Wizard
@@ -47,5 +47,5 @@ wikitext: |-
   | misc                  = 
   * Die roll
   * Mentions
-  | database_id           = 
+  | database_id           = 23375
   }}

@@ -16,13 +16,16 @@ wikitext: |-
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 
-  | image                = ElementalSagaDoriado-BETB-JP-OP.png
+  | image                = 
+  1; ElementalSagaDoriado-BETB-JP-UtR.png
+  2; ElementalSagaDoriado-BETB-JP-PScR.png
+  | current_image        = 1
   | attribute            = LIGHT
   | types                = Spellcaster / Effect
   | level                = 7
   | atk                  = 2400
   | def                  = 2800
-  | password             = 
+  | password             = 50208444
   | effect_types         = Condition, Ignition, Ignition, Condition
   | text                 = Neither player can [[activate]] cards or [[effect]]s in response to the activation of this card's effects. If you have 3 or more different [[Attribute]]s in your [[GY]] and this card is in your [[hand]]: You can [[target]] 1 monster in your GY; [[Special Summon]] both it and this card. If you have 3 or more different Attributes in your GY: You can Special Summon 1 monster from your [[Main Deck|Deck]] with a different Attribute from the monsters in your [[field]] and GY. You can only use each effect of "Elemental Saga Doriado" [[once per turn]].
   | fr_text              = 
@@ -30,11 +33,11 @@ wikitext: |-
   | it_text              = 
   | pt_text              = 
   | es_text              = 
-  | ja_text              = 
+  | ja_text              = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果の発動に対して魔法・罠・モンスターの効果は発動できない。①：このカードが手札に存在し、自分の墓地のモンスターの属性が３種類以上の場合、自分の墓地のモンスター１体を対象として発動できる。そのモンスターとこのカードを特殊召喚する。②：自分の墓地のモンスターの属性が３種類以上の場合に発動できる。同じ属性のモンスターが自分のフィールド・墓地に存在しないモンスター１体をデッキから特殊召喚する。
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  BETB-JP028; Beyond the Brave; Ultimate Rare, Prismatic Secret Rare
+  BETB-JP028; Beyond the Brave; Ultimate Rare, Secret Rare, Prismatic Secret Rare
   | archseries           = Doriado (series)
   | action               = Activates from your hand
   | m/s/t                = 
@@ -47,5 +50,5 @@ wikitext: |-
   * Special Summons from your Graveyard
   * Special Summons from your Deck
   | misc                 = Only once per turn
-  | database_id          = 
+  | database_id          = 23350
   }}

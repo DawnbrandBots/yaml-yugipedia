@@ -16,9 +16,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 魔救合缘
-  | image                 = AdamancipatorMates-BETB-JP-OP.png
+  | image                 = AdamancipatorMates-BETB-JP-C.png
   | card_type             = Spell
   | property              = Normal
+  | password              = 30068809
   | effect_types          = Effect, Ignition-like, Condition
   | text                  = [[Add a card|Add]] 1 "[[Adamancipator]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. If this card is in your [[GY]]: You can place 1 card from your [[hand]] on top of the Deck; add this card to your hand. You can only use each effect of "Adamancipator Mates" [[once per turn]].
   | fr_text               = 
@@ -26,11 +27,11 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「アダマシア」モンスター１体を手札に加える。②：このカードが墓地に存在する場合、手札を１枚デッキの一番上に戻して発動できる。このカードを手札に加える。
   | ko_text               = 
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：从牌组将1只“魔救”怪兽加入手牌。②：此卡存在于墓地的情况下，将1张手牌放回牌组最上面可以发动。将此卡加入手牌。
   | jp_sets               = 
-  BETB-JP063; Beyond The Brave; 
+  BETB-JP063; Beyond The Brave; Common
   | sc_sets               = 
   BETB-SC063; Beyond The Brave; 
   | archseries            = Adamancipator
@@ -41,5 +42,5 @@ wikitext: |-
   * Places cards from the player's hand on the top of the Deck for cost
   * Returns itself from Graveyard to hand
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23385
   }}
