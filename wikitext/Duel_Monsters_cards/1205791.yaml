@@ -14,13 +14,13 @@ wikitext: |-
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 
-  | image                = VUmbralHorror-BETB-JP-OP.png
+  | image                = VUmbralHorror-BETB-JP-C.png
   | attribute            = DARK
   | types                = Spellcaster / Effect
   | level                = 4
   | atk                  = 500
   | def                  = 1500
-  | password             = 
+  | password             = 39053882
   | effect_types         = Trigger, Ignition, Condition
   | text                 = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Add a card|add]] 1 "[[Umbral Horror]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]], except "V Umbral Horror". You can [[banish]] this card from your [[GY]], then [[target]] 1 "[[Masquerade]]" [[Xyz Monster]] you [[control]]; Special Summon from your [[Extra Deck]], 1 "[[Number]]" monster that is 1 [[Rank]] higher than that monster you control, by using it as [[material]] (this is treated as an [[Xyz Summon]], transfer its [[material]]s). You can only use each [[effect]] of "V Umbral Horror" [[once per turn]].
   | fr_text              = 
@@ -28,11 +28,11 @@ wikitext: |-
   | it_text              = 
   | pt_text              = 
   | es_text              = 
-  | ja_text              = 
+  | ja_text              = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「Ｖアンブラル」以外の「アンブラル」モンスター１体を手札に加える。②：墓地のこのカードを除外し、自分フィールドの「仮面魔踏士」Ｘモンスター１体を対象として発動できる。その自分のモンスターよりランクが１つ高い「Ｎｏ．」モンスター１体を、対象のモンスターの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚する。
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  BETB-JP006; Beyond the Brave; 
+  BETB-JP006; Beyond the Brave; Common
   | mentions             = V Umbral Horror
   | supports             = Xyz Monster
   | archseries           = Umbral Horror
@@ -56,5 +56,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Requires control of specific Monster card type
   * Only once per turn
-  | database_id          = 
+  | database_id          = 23328
   }}
