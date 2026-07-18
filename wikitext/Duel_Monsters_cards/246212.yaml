@@ -1,16 +1,17 @@
 title: Gauntlet Launcher
 wikitext: |-
   {{CardTable2
-  | tc_name         = 手甲射手
   | fr_name         = Gantelet Lanceur
   | de_name         = Handschuhwerfer
   | it_name         = Lancia Guanti
-  | ko_name         = 건틀릿 슈터
   | pt_name         = Lançador de Manoplas
   | es_name         = Lanzador de Guantelete
   | ja_name         = ガントレット・シューター
   | romaji_name     = Gantoretto Shūtā
   | translated_name = Gauntlet Shooter
+  | ko_name         = 건틀릿 슈터
+  | tc_name         = 手甲射手
+  | sc_name         = 手甲射手
   | image           = GauntletLauncher-MP14-EN-UR-1E.png
   | attribute       = EARTH
   | types           = Warrior / Xyz / Effect
@@ -29,6 +30,7 @@ wikitext: |-
   | ja_text         = レベル６モンスター×２<br />自分のメインフェイズ時、このカードのエクシーズ素材を１つ取り除き、相手フィールド上のモンスター１体を選択して発動できる。選択したモンスターを破壊する。
   | ko_text         = 레벨 6 몬스터 × 2<br />자신의 메인 페이즈시, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터를 파괴한다.
   | tc_text         = 等级6怪兽×2<br />我方的主要阶段时，可移除此卡的1个超量素材，选择对手场上的1只怪兽发动。破坏所选择的怪兽。
+  | sc_text         = 等级6怪兽×2<br />①：去除此卡的1个超量素材，以对手场上的1只怪兽为对象可以发动。将该怪兽破坏。
   | en_sets         = 
   LTGY-EN045; Lord of the Tachyon Galaxy; Ultra Rare, Ultimate Rare
   MP14-EN025; 2014 Mega-Tin Mega Pack; Ultra Rare
@@ -50,12 +52,14 @@ wikitext: |-
   | jp_sets         = 
   LTGY-JP045; Lord of the Tachyon Galaxy; Super Rare
   DP14-JP022; Duelist Pack: Yuma 2: Gogogo & Dododo; Common
-  | tc_sets         = 
-  SP02-TC032; Starter Pack Volume 2; Rare
-  LTGY-TC045; Lord of the Tachyon Galaxy; Super Rare, Secret Rare
   | kr_sets         = 
   LTGY-KR045; Lord of the Tachyon Galaxy; Super Rare
   DP14-KR022; Duelist Pack: Yuma 2: Gogogo & Dododo; Common
+  | tc_sets         = 
+  SP02-TC032; Starter Pack Volume 2; Rare
+  LTGY-TC045; Lord of the Tachyon Galaxy; Super Rare, Secret Rare
+  | sc_sets         = 
+  SGD1-SCF36; Classic Times Deck; Common
   | m/s/t           = Destroys your opponent's Monster Cards
   | summoning       = 
   * 2 Xyz Materials
