@@ -9,8 +9,8 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|波|は}}{{Ruby|動|どう}}の{{Ruby|超|ちょう}}{{Ruby|魔|ま}}{{Ruby|導|どう}}{{Ruby|剣|けん}}{{Ruby|士|し}}－ブラック・パラディン
-  | romaji_name           = Hadō no Chōmadōkenshi – Burakku Paradin
-  | translated_name       = Wave-Motion Super Magical Swordsman – Black Paladin
+  | romaji_name           = Hadō no Chōmadōkenshi - Burakku Paradin
+  | translated_name       = Wave-Motion Super Magical Swordsman - Black Paladin
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
@@ -21,9 +21,10 @@ wikitext: |-
   | atk                   = 2900
   | def                   = 2400
   | password              = 
-  | materials             = 
+  | fusion_material       = Dark Magician
+  | materials             = "Dark Magician" + 1 Level 7 or higher monster
   | effect_types          = Summoning condition, Continuous, Continuous, Quick, Unclassified
-  | text                  = "[[Dark Magician]]" + 1 [[Level]] 7 or higher [[monster]]<br />Must be [[Fusion Summon]]ed. Gains 500 [[ATK]] for each other monster on the [[field]]. Can [[attack]] all your opponent's monsters, once each. [[Once per turn]], when your opponent [[activate]]s a [[Spell Card]] or [[effect]] ([[Quick Effect]]): You can [[negate]] that effect, then you can [[destroy]] 1 card on the field. After this card [[destroy]]s a card by battle or card effect and [[send]]s it to the GY, neither player can activate its effects while it is in the GY.
+  | text                  = "[[Dark Magician]]" + 1 [[Level]] 7 or higher [[monster]]<br />Must be [[Fusion Summon]]ed. Gains 500 [[ATK]] for every other monster on the [[field]]. Can [[attack]] all your opponent's monsters, once each. [[Once per turn]], when your opponent [[activate]]s a [[Spell Card]] or [[effect]] ([[Quick Effect]]): You can [[negate]] that effect, then you can [[destroy]] 1 card on the field. After this card [[destroy]]s a card by battle or card effect and [[send]]s it to the GY, neither player can activate its effects while it is in the GY.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,6 +35,7 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   YAC1-JP???; Original Artwork Collection; Prismatic Secret Rare
+  | mentions              = Dark Magician
   | archseries            = 
   * Prophecy
   * Ultimate Magical
