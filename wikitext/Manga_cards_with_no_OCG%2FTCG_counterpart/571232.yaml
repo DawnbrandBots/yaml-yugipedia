@@ -1,29 +1,31 @@
 title: Nova Portal
 wikitext: |-
   {{Manga card
-  | ja_name            = ノヴァ・ポータル
-  | romaji_name        = Nova Pōtaru
-  | image              = NovaPortal-EN-Manga-AV.png
-  | ja_image           = NovaPortal-JP-Manga-AV-2.png
-  | image_nc           = NovaPortal-EN-Manga-AV-NC.png
-  | attribute          = 
-  | types              = ??? / Pendulum
-  | level              = 1
-  | atk                = 0
-  | def                = 0
-  | pendulum_scale     = 12
-  | effect_types       = 
-  | viz_pendulum_effect = When your opponent has [[activate]]d a [[Monster Card|monster]] [[Card effect|effect]], [[destroy]] two Nova Portals and end this [[turn]].
-  | pendulum_effect    = When your opponent has [[activate]]d a [[Monster Card|monster]] [[Card effect|effect]], [[destroy]] two Nova Portals, negate the monster effect, and end this [[turn]].
-  | text               = 
-  | ja_pendulum_effect = 相手のモンスター効果が発動した時「ノヴァ・ポータル」２枚を破壊してモンスター効果を無効にしてこのターンを終了させる
-  | ja_text            = 
-  | appears_in_av      = 037, 038, 039
-  | decks              = Eve
-  | action             = 
+  | ja_name             = ノヴァ・ポータル
+  | romaji_name         = Nova Pōtaru
+  | image               = NovaPortal-EN-Manga-AV.png
+  | ja_image            = NovaPortal-JP-Manga-AV-2.png
+  | image_nc            = NovaPortal-EN-Manga-AV-NC.png
+  | attribute           = 
+  | types               = ??? / Pendulum
+  | level               = 1
+  | atk                 = 0
+  | def                 = 0
+  | pendulum_scale      = 12
+  | effect_types        = Quick-like
+  | pendulum_effect     = When an opponent's [[Monster Card|monster]] [[effect]] is [[activate]]d, [[destroy]] 2 "Nova Portals", [[negate]] the monster effect, and end this [[turn]].
+  | viz_pendulum_effect = When your opponent has [[activate]]d a [[Monster Card|monster]] [[effect]], [[destroy]] two Nova Portals and end this [[turn]].
+  | text                = 
+  | ja_pendulum_effect  = 相手のモンスター効果が発動した時「ノヴァ・ポータル」２枚を破壊してモンスター効果を無効にしてこのターンを終了させる
+  | ja_text             = 
+  | appears_in_av       = 037, 038, 039
+  | decks               = Eve
+  | mentions            = Nova Portal
+  | action              = 
   * Ends your opponent's turn
   * Ends your turn
-  | m/s/t              = 
+  | m/s/t               = 
   * Destroys your Monster Cards
   * Destroys your face-up Spell Cards
+  * Negates the effects of your opponent's Effect Monsters
   }}
