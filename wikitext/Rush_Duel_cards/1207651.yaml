@@ -1,21 +1,17 @@
 title: Pierce! (Wai Wai Rush Party)
 wikitext: |-
-  {{Main|type=card page|Pierce!}}
+  {{Unofficial lore|English}}
   {{CardTable2
+  | main            = Pierce!
   | rush_duel       = yes
-  | fr_name         = Transperce !
-  | de_name         = Durchschlag!
-  | it_name         = Perforazione!
-  | es_name         = ¡Atraviesa!
   | ja_name         = {{Ruby|貫|かん}}{{Ruby|通|つう}}！
   | romaji_name     = Kantsū!
-  | ko_name         = 관통!
   | image           = Pierce-WWRP-JP-OP.png
   | card_type       = Spell
   | property        = Normal
   | limitation_text = This card is only for [[Wai Wai Rush Party]].
   | text            = Choose 1 [[face-up]] [[Monster Card|monster]] on your [[field]]. If it [[attack]]s a [[Defense Position]] monster this [[turn]], [[Damage|inflict]] [[piercing]] [[battle damage]] (if the [[ATK]] of the attacking monster exceeds the [[DEF]] of the [[attack target]], inflict the difference).
-  | ja_text         = 
+  | ja_text         = 自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
   | attack          = Piercing
   | database_id     = none
   }}
