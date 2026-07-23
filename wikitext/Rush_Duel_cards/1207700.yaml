@@ -11,7 +11,7 @@ wikitext: |-
   | level          = 7
   | atk            = 1900
   | def            = 1300
-  | requirement    = During your [[Main Phase]] that you [[Ritual Summon]]ed this card, [[send]] 1 [[monster]] from your [[field]] to the [[Graveyard]].
+  | requirement    = During your [[Main Phase]] that you [[Ritual Summon]]ed this card, [[send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]].
   | text           = Gain 700 [[LP]]. Then, you can [[destroy]] 1 monster on your opponent's field. This [[turn]], you cannot [[activate]] the [[effect]] of "Healthie Elizalamilla".
   | ja_requirement = 
   | ja_text        = 
@@ -19,5 +19,11 @@ wikitext: |-
   RD/KP26-JP041; Headliner of Reigning; Rare
   | mentions       = Healthie Elizalamilla
   | archseries     = Healthie
+  | action         = 
+  * Activates during the turn in which it was Ritual Summoned
+  * Sends from field to Graveyard for cost
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | life_points    = You gain Life Points
+  | misc           = Only once per turn
   | database_id    = 
   }}

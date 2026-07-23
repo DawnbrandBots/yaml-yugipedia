@@ -4,17 +4,30 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = {{Ruby|健|けん}}{{Ruby|康|こう}}{{Ruby|賢|けん}}{{Ruby|明|めい}}{{Ruby|早|はや}}{{Ruby|押|お}}しバトル！
-  | romaji_name    = Kenkōkanmei Hayaoshi Batoru!
+  | romaji_name    = Kenkōkenmei Hayaoshi Batoru!
   | image          = HealthyMindSpeedyBuzzerBattle-RDKP26-JP-OP.png
   | card_type      = Spell
   | property       = Ritual
   | requirement    = None
-  | text           = [[Ritual Summon]] a [[Level]] 7 [[Pyro]] [[Type]] [[monster]] by [[send]]ing 1 Level 7 or higher Pyro Type monster with 1300 [[DEF]] from your [[hand]] or [[field]] to the [[Graveyard]] as [[material]]. You cannot use a monster on your field as material by this effect, except "[[Healthie Cafferin]]".
+  | text           = [[Ritual Summon]] a [[Level]] 7 [[Pyro]] [[Type]] [[Monster Card|monster]] by [[send]]ing 1 Level 7 or higher Pyro Type monster with 1300 [[DEF]] from your [[hand]] or [[field]] to the [[Graveyard]] as [[material]]. You cannot use a monster on your field as material by this effect, except "[[Healthie Cafferin]]".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP052; Headliner of Reigning; Rare
   | mentions       = Healthie Cafferin
+  | supports       = Pyro
   | archseries     = Healthie
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Ritual Materials
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Nonspecific Ritual Spell Card
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Requires control of specific DEF
   | database_id    = 
   }}

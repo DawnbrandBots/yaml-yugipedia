@@ -12,14 +12,23 @@ wikitext: |-
   | atk            = 1700
   | def            = 1300
   | effect_types   = Continuous
-  | condition      = You can [[Normal Summon]] this card without [[Tributing]]. If you do, its [[original ATK]] becomes 1000.
+  | condition      = You can [[Normal Summon]] this card without [[Tribute|Tributing]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1000.
   | requirement    = None
-  | text           = [[Face-up]] [[Pyro]] [[Type]] [[monsters]] with 1300 [[original DEF]] on your [[field]] cannot be destroyed by your opponent's card [[effect]]s.
+  | text           = [[Face-up]] [[Pyro]] [[Type]] [[Monster Card|monster]]s with 1300 original DEF on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s.
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP021; Headliner of Reigning; Super Rare
+  | supports       = Pyro
   | archseries     = Healthie
+  | stat_change    = 
+  * Changes own ATK value
+  * Changes original ATK
+  | m/s/t          = Cannot be destroyed by card effects
+  | summoning      = Normal Summon without Tribute
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific DEF
   | database_id    = 
   }}

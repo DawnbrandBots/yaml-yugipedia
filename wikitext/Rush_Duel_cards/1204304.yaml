@@ -9,11 +9,23 @@ wikitext: |-
   | card_type      = Spell
   | property       = Ritual
   | requirement    = None
-  | text           = [[Ritual Summon]] a [[Level]] 7 [[Pyro]] [[Type]] [[monster]] by [[send]]ing 1 [[face-up]] Level 7 or higher Pyro Type monster with 1300 [[DEF]] from your [[field]] to the [[Graveyard]] as [[material]]. This [[turn]], you can only [[attack]] with Pyro Type monsters.
+  | text           = [[Ritual Summon]] a [[Level]] 7 [[Pyro]] [[Type]] [[Monster Card|monster]] by [[send]]ing 1 [[face-up]] Level 7 or higher Pyro Type monster with 1300 [[DEF]] from your [[field]] to the [[Graveyard]] as [[material]]. This [[turn]], you can only [[attack]] with Pyro Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP051; Headliner of Reigning; Rare
+  | supports       = Pyro
   | archseries     = Healthie
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | summoning      = Special Summons from your Extra Deck
+  | attack         = Prevents your monsters from attacking
+  | misc           = 
+  * Nonspecific Ritual Spell Card
+  * Requires control of specific Level
+  * Requires control of specific Type
+  * Requires control of specific DEF
   | database_id    = 
   }}

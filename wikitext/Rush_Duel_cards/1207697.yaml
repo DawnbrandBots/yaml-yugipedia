@@ -11,9 +11,9 @@ wikitext: |-
   | level          = 7
   | atk            = 1500
   | def            = 1300
-  | condition      = You can [[Normal Summon]] this card without [[Tributing]]. If you do, its [[original ATK]] becomes 1000.
-  | requirement    =  During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Send]] 1 [[monster]] from your [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[Level]] 7 or higher [[Pyro]] [[Type]] monster or 1 "[[A Throw Thanks to Good Health!]]" from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the effect of "Healthie Shanlong".
+  | condition      = You can [[Normal Summon]] this card without [[Tribute|Tributing]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1000.
+  | requirement    = During the [[turn]] you Normal Summoned this card.
+  | text           = [[Send]] 1 [[Monster Card|monster]] from your [[field]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[Level]] 7 or higher [[Pyro]] [[Type]] monster or 1 "[[A Throw Thanks to Good Health!]]" from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the [[effect]] of "Healthie Shanlong".
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -22,6 +22,16 @@ wikitext: |-
   | mentions       = 
   * A Throw Thanks to Good Health!
   * Healthie Shanlong
+  | supports       = Pyro
   | archseries     = Healthie
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from your field to your Graveyard
+  * Adds from Graveyard to hand
+  | stat_change    = 
+  * Changes own ATK value
+  * Changes original ATK
+  | summoning      = Normal Summon without Tribute
+  | misc           = Only once per turn
   | database_id    = 
   }}
