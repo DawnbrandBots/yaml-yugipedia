@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1500
   | def            = 1000
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Draw a card|Draw]] 1 card. Then, [[send]] 1 card from your [[hand]] to the [[Graveyard]]. Then, you can [[Set]] 1 "[[Ninjitsu Art of Ultimate Transformation]]" from your Graveyard to your [[Spell & Trap Zone]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]], and you cannot activate the effect of "Goe Goe the Rumored Ninja".
+  | text           = [[Draw a card|Draw]] 1 card. Then, [[send]] 1 card from your [[hand]] to the [[Graveyard]]. Then, you can [[Set]] 1 "[[Ninjitsu Art of Ultimate Transformation]]" from your Graveyard to your [[Spell & Trap Zone]]. This turn, you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s, and you cannot [[activate]] the [[effect]] of "Goe Goe the Rumored Ninja".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,16 @@ wikitext: |-
   | mentions       = 
   * Ninjitsu Art of Ultimate Transformation
   * Goe Goe the Rumored Ninja
+  | supports       = 
+  * WIND
+  * Warrior
   | archseries     = Goe Goe
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * You draw cards
+  * Sends from your hand to your Graveyard
+  * Sets from your Graveyard
+  | attack         = Prevents your monsters from attacking
+  | misc           = Only once per turn
   | database_id    = 
   }}

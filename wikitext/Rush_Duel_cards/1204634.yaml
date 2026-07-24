@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Goe Goe the Rumored Ninja]]" or "[[Ebisu the Ninja of Justice]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order. Then, if you placed 5 cards on the bottom of your Deck by this effect, you can gain 600 [[LP]].
+  | text           = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] 1 excavated "[[Goe Goe the Rumored Ninja]]" or "[[Ebisu the Ninja of Justice]]" to your [[hand]]. Place the other cards on the bottom of your Deck in any order. Then, if you placed 5 cards on the bottom of your Deck by this [[effect]], you can gain 600 [[LP]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -18,5 +18,10 @@ wikitext: |-
   * Goe Goe the Rumored Ninja
   * Ebisu the Ninja of Justice
   | archseries     = Goe Goe
+  | action         = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  | life_points    = You gain Life Points
   | database_id    = 
   }}

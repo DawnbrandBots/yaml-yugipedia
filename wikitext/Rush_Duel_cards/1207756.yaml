@@ -10,11 +10,26 @@ wikitext: |-
   | card_type       = Spell
   | property        = Ritual
   | requirement     = None
-  | text            = [[Ritual Summon]] a [[Level]] 8 [[monster]] with 2500 [[ATK]]/1500 [[DEF]] by [[send]]ing [[face-up]] [[WIND]] [[Attribute]] [[Warrior]] [[Type]] monsters from your [[field]] to the [[Graveyard]] whose total Levels equal 8 or more as material (you cannot use more monsters than necessary as material). This [[turn]], the monster Special Summoned by this [[effect]] cannot be [[destroyed by battle]] or card effects.
+  | text            = [[Ritual Summon]] a [[Level]] 8 [[Monster Card|monster]] with 2500 [[ATK]]/1500 [[DEF]] by [[send]]ing [[face-up]] [[WIND]] [[Attribute]] [[Warrior]] [[Type]] monsters from your [[field]] to the [[Graveyard]] whose total Levels equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], the monster [[Special Summon]]ed by this [[effect]] cannot be [[destroyed by battle]] or card effects.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP056; Headliner of Reigning; Rare
+  | supports        = 
+  * WIND
+  * Warrior
   | archseries      = Goe Goe
+  | action          = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | summoning       = Special Summons from your Extra Deck
+  | attack          = Prevents other cards being destroyed by battle
+  | misc            = 
+  * Nonspecific Ritual Spell Card
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Level
   | database_id     = 
   }}

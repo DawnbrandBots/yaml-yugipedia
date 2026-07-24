@@ -13,12 +13,25 @@ wikitext: |-
   | def            = 0
   | effect_types   = Continuous
   | requirement    = None
-  | text           = You take no [[battle damage]] from [[battle]]s involving this card. [[Face-up]] "[[Goe Goe the Rumored Ninja]]" and [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Ritual Monster]]s on your [[field]] gain 600 [[ATK]], and their [[Level]]s are increased by 4.
+  | text           = You [[Damage|take]] no [[battle damage]] from [[battle]]s involving this card. [[Face-up]] "[[Goe Goe the Rumored Ninja]]" and [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Ritual Monster]]s on your [[field]] gain 600 [[ATK]], and their [[Level]]s are increased by 4.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP025; Headliner of Reigning; Common
   | mentions       = Goe Goe the Rumored Ninja
+  | supports       = 
+  * WIND
+  * Warrior
+  * Ritual Monster
   | archseries     = Goe Goe
+  | stat_change    = 
+  * Your monsters gain ATK
+  * Your monsters gain Levels
+  | life_points    = Prevents battle damage
+  | misc           = 
+  * Requires control of specific card
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id    = 
   }}

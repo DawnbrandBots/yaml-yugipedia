@@ -8,14 +8,22 @@ wikitext: |-
   | image          = InstantGift-RDKP26-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    =  [[Reveal]] 1 [[Level]] 7 [[Warrior]] [[Type]] [[Fusion Monster]] with 2500 [[ATK]] in your [[Extra Deck]], and [[declare]] 1 [[Monster Card|monster]] that is mentioned on that monster as [[material]].
-  | text           = [[Special Summon]] 1 monster whose card name was declared to meet the [[Activation condition|requirement]] from your [[Graveyard]] [[face-up]] to your field. Then, you can [[draw a card|draw]] 1 card. This [[turn]], you can only [[attack]] with Warrior Type monsters.
-  | ja_condition   = 
+  | requirement    = [[Reveal]] 1 [[Level]] 7 [[Warrior]] [[Type]] [[Fusion Monster]] with 2500 [[ATK]] in your [[Extra Deck]], and [[declare]] 1 [[Monster Card|monster]] that is mentioned on that monster as [[material]].
+  | text           = [[Special Summon]] 1 monster whose card name was declared to meet the [[Activation condition|requirement]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can [[draw a card|draw]] 1 card. This [[turn]], you can only [[attack]] with Warrior Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP059; Headliner of Reigning; Common
-  | mentions       = 
+  | supports       = 
+  * Warrior
+  * Fusion Monster
   | archseries     = Neos (Rush Duel)
+  | action         = 
+  * Reveals your Extra Deck for cost
+  * Declares a card name
+  * You draw cards
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Prevents your monsters from attacking
+  | misc           = Mentions
   | database_id    = 
   }}

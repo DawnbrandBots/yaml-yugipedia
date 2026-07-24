@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1200
   | def            = 1800
   | requirement    = You have "[[Helpful Items]]" in your [[Graveyard]].
-  | text           = [[Add a card|Add]] 1 "[[Goe Goe the Rumored Ninja]]" or "[[Omitsu the City's Idol]]" from your Graveyard to your [[hand]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]].
+  | text           = [[Add a card|Add]] 1 "[[Goe Goe the Rumored Ninja]]" or "[[Omitsu the City's Idol]]" from your Graveyard to your [[hand]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,6 +21,11 @@ wikitext: |-
   * Helpful Items
   * Goe Goe the Rumored Ninja
   * Omitsu the City's Idol
+  | supports       = 
+  * WIND
+  * Warrior
   | archseries     = Goe Goe
+  | action         = Adds from Graveyard to hand
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
