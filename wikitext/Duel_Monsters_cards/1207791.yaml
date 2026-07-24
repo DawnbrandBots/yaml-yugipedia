@@ -17,9 +17,9 @@ wikitext: |-
   | link_arrows           = Bottom-Left, Bottom-Center, Bottom-Right
   | atk                   = 2500
   | password              = 58083496
-  | materials             = 
+  | materials             = 2+ monsters, including a Pendulum Monster
   | effect_types          = Ignition, Quick, Condition, Continuous
-  | text                  = 2+ [[monsters]], including a [[Pendulum Monster]]<br />You can [[target]] 1 other card you [[control]]; [[destroy]] it, and if you do, [[Draw a card|draw]] 1 card. During your [[turn]], when your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can [[discard]] 1 card; [[negate]] that effect. You can only use each of the preceding effects of "Odd-Eyes Override Dragon" once per turn. If you destroyed a [[Pendulum Monster Card]] by this card's first effect, during your [[Main Phase]] this turn, you can conduct 1 [[Pendulum Summon]] of a "[[Performapal]]" monster(s), "[[Magician]]" Pendulum Monster(s), and/or "[[Odd-Eyes]]" monster(s), in addition to your Pendulum Summon (you can only gain this effect [[once per turn]]).
+  | text                  = 2+ [[monsters]], including a [[Pendulum Monster]]<br />You can [[target]] 1 other card you [[control]]; [[destroy]] it, and if you do, [[Draw a card|draw]] 1 card. During your [[turn]], when your opponent [[activate]]s a card or [[effect]] ([[Quick Effect]]): You can [[discard]] 1 card; [[negate]] that effect. You can only use each of the preceding effects of "Odd-Eyes Override Dragon" once per turn. If you destroyed a [[Pendulum Monster Card]] by this card's first effect, during your [[Main Phase]] this turn, you can conduct 1 [[Pendulum Summon]] of a "[[Performapal]]" monster(s), "[[Magician]]" Pendulum Monster(s), and/or "[[Odd-Eyes]]" monster(s), in addition to your Pendulum Summon (you can only [[gain this effect once per turn]]).
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -40,10 +40,28 @@ wikitext: |-
   LAVD-PTO38; Legendary Arc-V Decks; Ultra Rare
   | sp_sets               = 
   LAVD-SPO38; Legendary Arc-V Decks; Ultra Rare
+  | supports              = Pendulum Monster
   | archseries            = Odd-Eyes
   | supports_archetypes   = 
   * Magician
   * Odd-Eyes
   * Performapal
+  | action                = 
+  * You draw cards
+  * You discard for cost
+  | m/s/t                 = 
+  * Destroys your Monster Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | summoning             = 
+  * 2+ Link Materials
+  * Requires Pendulum Monsters as Link Materials
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  * Allows multiple Pendulum Summons
+  | misc                  = 
+  * Only once per turn
+  * Gain this effect once per turn
   | database_id           = 
   }}
