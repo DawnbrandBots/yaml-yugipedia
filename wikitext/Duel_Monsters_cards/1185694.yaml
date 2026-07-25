@@ -12,10 +12,10 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = QuickSummon-LPG2-JP-OP.png
+  | image                 = QuickSummon-LPG2-JP-UR.png
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 10086952
   | effect_types          = Effect, Ignition-like, Condition
   | text                  = Immediately after this [[effect]] [[resolve]]s, [[Normal Summon]]/[[Set]] 1 [[monster]]. When you do, if your opponent [[control]]s a monster, you can Normal Summon a [[Level]] 5 or higher monster without Tributing. During your [[Main Phase]], if this card is in your [[GY]], except the [[turn]] it was sent there: You can [[banish]] it; [[Add a card|add]] 1 Level 5 or higher monster that can be Normal Summoned/Set from your [[Main Deck|Deck]] or GY to your hand, then immediately after this effect resolves, [[Tribute Summon]] it. You can only use this [[effect]] of "Quick Summon" [[once per turn]].
   | fr_text               = 
@@ -23,7 +23,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の②の効果は１ターンに１度しか使用できない。①：モンスター１体の通常召喚を行う。その際、相手フィールドにモンスターが存在していれば、レベル５以上のモンスターを召喚する場合に必要なリリースをなくす事ができる。②：自分メインフェイズに、このターンに墓地へ送られていないこのカードを墓地から除外して発動できる。通常召喚可能なレベル５以上のモンスター１体を自分のデッキ・墓地から手札に加える。その後、そのモンスター１体のＡ召喚を行う。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
@@ -39,5 +39,5 @@ wikitext: |-
   * Performs a Tribute Summon
   | banished              = Banishes itself from Graveyard for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23149
   }}
