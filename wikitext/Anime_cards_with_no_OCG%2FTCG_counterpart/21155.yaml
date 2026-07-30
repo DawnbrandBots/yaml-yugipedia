@@ -9,11 +9,12 @@ wikitext: |-
   | ja_image              = SealedGate-JP-Anime-GX.png
   | card_type             = Trap
   | property              = Normal
-  | text                  = When this card is [[destroy]]ed and [[sent]] to the [[Graveyard]], you can [[Banish|remove from play]] 1 "[[White Knight Swordsman]]", "[[White Knight Lancer]]" and "[[White Knight Gardna]]" from your Graveyard to [[Special Summon]] 1 "[[White Knight Lord (anime)|White Knight Lord]]" from your [[hand]] or [[Main Deck|Deck]].
+  | effect_types          = Trigger-like
+  | text                  = When this card is [[destroy]]ed and [[sent]] to the [[Graveyard]], you can [[Banish|remove from play]] 1 "[[White Knight Swordsman]]", "[[White Knight Lancer]]", and "[[White Knight Gardna]]" from your Graveyard to [[Special Summon]] 1 "[[White Knight Lord (anime)|White Knight Lord]]" from your [[hand]] or [[Main Deck|Deck]].
   | ja_text               = このカードが破壊さ・・・自分墓地の「白騎士団のソードマン」「白騎士団のランサー」「白騎士団のガードナー」・・・自分のデッキ、手札から・・・
   | appears_in_gx         = 087
   | decks                 = Chazz Princeton
-  | supports              = 
+  | mentions              = 
   * White Knight Swordsman
   * White Knight Lancer
   * White Knight Gardna
@@ -22,6 +23,8 @@ wikitext: |-
   | action                = 
   * Activates if destroyed by card effect
   * Activates from your Graveyard
-  | summoning             = Special Summons from your Deck
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
   | banished              = Banishes from Graveyard for cost
   }}
