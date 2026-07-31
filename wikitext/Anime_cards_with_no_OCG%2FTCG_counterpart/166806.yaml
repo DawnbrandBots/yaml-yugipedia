@@ -8,9 +8,12 @@ wikitext: |-
   | card_type        = Trap
   | property         = Normal
   | effect_types     = Activation requirement, Effect
-  | text             = [[Activate]] only when a [[Monster Card|monster]](s) is [[Special Summon]]ed during the [[Battle Phase]]. [[Destroy]] the monster(s).
+  | text             = [[Activate]] only when a [[Monster Card|monster]](s) is [[Special Summon]]ed during the [[Battle Phase]]. [[Destroy]] that monster(s).
   | ja_text          = バトルフェイズ中に特殊召喚したモンスターを破壊する。
   | appears_in_5d    = 153
   | decks            = Jack Atlas
-  | m/s/t            = Destroys Special Summoned monsters
+  | action           = Activates upon Special Summon
+  | m/s/t            = 
+  * Destroys your Monster Cards
+  * Destroys your opponent's Monster Cards
   }}
