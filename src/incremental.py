@@ -18,7 +18,7 @@ def skip_condition(page) -> bool:
 
 def main():
     if len(sys.argv) < 2:
-        exit(
+        sys.exit(
             f"Usage: {sys.argv[0]} <category> <start time: MediaWiki timestamp> [grccontinue]"
         )
     logging.basicConfig(level=logging.INFO)

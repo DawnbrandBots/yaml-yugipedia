@@ -1,0 +1,2 @@
+# Using the root logger is acceptable for basic individual scripts
+per-file-ignores = {"*.py" = ["LOG015"]}

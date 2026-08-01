@@ -1,15 +1,13 @@
 # SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: LGPL-3.0-or-later
+import random
 from logging import getLogger
 from platform import python_version
-import random
 from time import sleep
-from typing import Optional
 
 import httpx
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
-
 
 logger = getLogger(__name__)
 
@@ -29,7 +27,7 @@ def get_retry(client: httpx.Client, url: str) -> httpx.Response:
 
 def download(
     client: httpx.Client, yaml: YAML, continue_key: str, url: str, skip_condition=None
-) -> Optional[str]:
+) -> str | None:
     logger.info(url)
     response = client.get(url, follow_redirects=True)
     response.raise_for_status()
