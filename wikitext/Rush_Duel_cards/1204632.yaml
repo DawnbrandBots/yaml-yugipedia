@@ -5,18 +5,25 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|秘|ひ}}{{Ruby|密|みつ}}{{Ruby|特|とく}}{{Ruby|捜|そう}}{{Ruby|人|にん}}{{Ruby|魚|ぎょ}}ヤエ
   | romaji_name    = Himitsu Tokusō Ningyo Yae
-  | image          = YaetheSecretSpecialInvestigationsMermaid-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | image          = YaetheSecretSpecialInvestigationsMermaid-RDKP26-JP-OP.png
+  | attribute      = WIND
+  | types          = Warrior / Ritual / Effect
+  | level          = 4
+  | atk            = 1500
+  | def            = 2000
+  | requirement    = During your [[Main Phase]] that you [[Ritual Summon]]ed this card.
+  | text           = [[Draw a card|Draw]] 1 card. Then, you can [[look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. If that card is a [[Trap Card]], [[destroy]] it. This [[turn]], you cannot [[activate]] the [[effect]] of "Yae the Secret Special Investigations Mermaid".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP26-JP0??; Headliner of Reigning
+  RD/KP26-JP043; Headliner of Reigning; Super Rare
+  | mentions       = Yae the Secret Special Investigations Mermaid
   | archseries     = Goe Goe
+  | action         = 
+  * Activates during the turn in which it was Ritual Summoned
+  * You draw cards
+  * Reveals face-down cards
+  | m/s/t          = Destroys your opponent's face-down Trap Cards
+  | misc           = Only once per turn
   | database_id    = 
   }}
