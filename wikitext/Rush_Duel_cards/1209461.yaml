@@ -3,19 +3,26 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ラワン{{Ruby|冒|ぼう}}{{Ruby|険|けん}}{{Ruby|隊|たい}}が行く！！
-  | romaji_name     = Rawan Bōkentai ga Iku!!
-  | translated_name = 
-  | image           = TheLauanAdventurersAreGo-RDKP26-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = Place 1 other [[face-up]] card from your [[field]] on the bottom of the owner's [[Main Deck|Deck]].
-  | text            = [[Equip]] up to 2 [[WIND]] [[Attribute]] [[Plant]] [[Type]] [[Union monster]]s from your [[Graveyard]] to 1 [[face-up]] [[monster]] on your field that can equip to it as [[Equip Spell Card]]s as if they were equipped by those monsters' effects.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ラワン{{Ruby|冒|ぼう}}{{Ruby|険|けん}}{{Ruby|隊|たい}}が行く！！
+  | romaji_name    = Rawan Bōkentai ga Iku!!
+  | image          = TheLauanAdventurersAreGo-RDKP26-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = Place 1 other [[face-up]] card from your [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]].
+  | text           = [[Equip]] up to 2 [[WIND]] [[Attribute]] [[Plant]] [[Type]] [[Union monster]]s from your [[Graveyard]] to 1 face-up [[Monster Card|monster]] on your field that can equip to it as [[Equip Spell Card]]s as if they were equipped by those monsters' [[effect]]s.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/KP26-JP050; Headliner of Reigning; Common
-  | mentions        = Lauan Adventurers
-  | archseries      = Lauan Adventurers (series)
-  | database_id     = 
+  | mentions       = Lauan Adventurers
+  | supports       = 
+  * WIND
+  * Plant
+  * Union monster
+  | archseries     = Lauan Adventurers (series)
+  | action         = 
+  * Places cards from the player's field on the bottom of the Deck for cost
+  * Equips monsters from the player's Graveyard
+  | m/s/t          = Treats monsters as Equip Cards
+  | database_id    = 
   }}

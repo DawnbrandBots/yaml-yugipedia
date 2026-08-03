@@ -13,11 +13,15 @@ wikitext: |-
   | def            = 0
   | effect_types   = Continuous
   | requirement    = None
-  | text           = During the [[Battle Phase]], [[face-up]] [[monsters]] on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the number of face-up [[Equip Spell Card]]s on your field] x 500.
+  | text           = During the [[Battle Phase]], [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the number of face-up [[Equip Spell Card]]s on your field] x 500.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP015; Headliner of Reigning; Common
+  | supports       = Equip Spell Card
   | archseries     = Lauan Adventurers (series)
+  | stat_change    = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
   | database_id    = 
   }}

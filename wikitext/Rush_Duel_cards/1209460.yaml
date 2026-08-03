@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1200
   | def            = 0
   | requirement    = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = This card gains [[ATK]] equal to [the number of [[face-up]] cards on your [[field]]] x 300 until the end of this [[turn]]. Then, if you have "[[Lauan Adventurers]]" in your Graveyard, you can [[Draw a card|draw]] 1 card. If you do, you cannot [[activate]] the effect of "Lauan Leader Balsa" this turn.
+  | text           = This card gains [[ATK]] equal to [the number of [[face-up]] cards on your [[field]]] x 300 until the end of this [[turn]]. Then, if you have "[[Lauan Adventurers]]" in your Graveyard, you can [[Draw a card|draw]] 1 card. If you do, you cannot [[activate]] the [[effect]] of "Lauan Leader Balsa" this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,10 @@ wikitext: |-
   * Lauan Adventurers
   * Lauan Leader Balsa
   | archseries     = Lauan Adventurers (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * You draw cards
+  | stat_change    = This card gains ATK
+  | misc           = Only once per turn
   | database_id    = 
   }}

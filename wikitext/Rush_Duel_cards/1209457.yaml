@@ -12,12 +12,25 @@ wikitext: |-
   | atk            = 800
   | def            = 0
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = [[Equip]] this card to 1 [[face-up]] [[WIND]] [[Attribute]] [[Plant]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following effect.<br />● The equipped monster inflicts [[piercing]] [[battle damage]]. If you have 2 or more "[[Lauan Adventurers]]" in your Graveyard, your opponent cannot [[activate]] [[Trap Card]]s.
+  | text           = [[Equip]] this card to 1 [[face-up]] [[WIND]] [[Attribute]] [[Plant]] [[Type]] [[Monster Card|monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped monster [[Damage|inflict]]s [[piercing]] [[battle damage]]. If you have 2 or more "[[Lauan Adventurers]]" in your Graveyard, your opponent cannot [[activate]] [[Trap Card]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP013; Headliner of Reigning; Common
   | mentions       = Lauan Adventurers
+  | supports       = 
+  * WIND
+  * Plant
   | archseries     = Lauan Adventurers (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Equips self from field
+  | m/s/t          = 
+  * Treated as Equip Card
+  * Prevents activation of your opponent's Trap Cards
+  | attack         = Piercing
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}
