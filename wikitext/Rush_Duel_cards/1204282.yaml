@@ -14,12 +14,18 @@ wikitext: |-
   | level          = 4
   | atk            = 800
   | def            = 1300
-  | requirement    = [[Pay]] 500 [[LP]] and [[send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
-  | text           = [[Return]] 1 face-up non-[[Maximum Monster]] from your field to the owner's [[hand]]. Then, if you returned a monster whose [[original Level]] is 7 by this [[effect]], you can [[Draw a card|draw]] 1 card. This [[turn]], you cannot [[activate]] the effect of "Surtr the Brilliant Magical Sword".
+  | requirement    = [[Pay]] 500 [[LP]], and [[send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
+  | text           = [[Return]] 1 face-up non-[[Maximum Monster]] from your field to the [[owner]]'s [[hand]]. Then, if you returned a [[Monster Card|monster]] whose [[Original Level and Rank|original Level]] is 7 by this [[effect]], you can [[Draw a card|draw]] 1 card. This [[turn]], you cannot [[activate]] the effect of "Surtr the Brilliant Magical Sword".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JPS00; Headliner of Reigning; Ultra Rare, Over Rush Rare (Premium Black Version)
   | mentions       = Surtr the Brilliant Magical Sword
+  | action         = 
+  * Sends itself from field to Graveyard for cost
+  * Returns from your field to your hand
+  * You draw cards
+  | life_points    = Pays Life Points for cost
+  | misc           = Only once per turn
   | database_id    = 
   }}
