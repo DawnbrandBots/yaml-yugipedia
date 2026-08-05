@@ -60,6 +60,46 @@ wikitext: |-
   |}
 
   == Design ==
+  The monster's [[ATK]] and [[DEF]] stats are related to their [[Level|Levels]], the rules are the following:<br>
+  ATK = 300 x Level + 600<br>
+  DEF = 300 x Level<br>
+
+  All monsters have 2 effects, one that is related to the hand and the other triggers if others card are / have been destroyed.<br>
+  These effects are [[Hard once per turn]].
+
+  {| class="wikitable" 
+  |- style="font-weight:bold;"
+  ! Monster
+  ! Level
+  ! Hand effect
+  ! Destruction triggered effect
+  |-
+  | style="font-weight:bold;" | [[Emi Blitzclique|Emi]]
+  | 1
+  | If added to hand by card effect: can reveal this card, target 1 card on field; destroy it, and if you do, Special Summon 1 Thunder from hand, then blitzclique lock for rest of turn.<ref group="lock" name="lock">Blitzclique Lock = For the rest of the turn, player cannot Special Summon [[Effect Monsters]], except from the hand.</ref>
+  | If another card is destroyed while in monster zone (except damage step): can add 1 "Blitzclique" trap from deck to hand.
+  |-
+  | style="font-weight:bold;" | [[Grain Blitzclique|Grain]]
+  | 2
+  | Can reveal in hand, target 1 Spell/Trap on field; destroy it, and if you do, Special Summon 1 Thunder from hand, then blitzclique lock for rest of turn.<ref group="lock" name="lock" />
+  | If another card is destroyed while in monster zone (except damage step): can add 1 "Blitzclique" spell or "[[Hideout in the Sky, Coulomb]]" from deck to hand.
+  |-
+  | style="font-weight:bold;" | [[Crackle Blitzclique|Crackle]]
+  | 3
+  | During opponent turn, when they activate monster effect on field (quick effect): can reveal in hand; destroy that monster, and if you do, Special Summon 1 Thunder from hand, then blitzclique lock for rest of turn.<ref group="lock" name="lock" />
+  | If another card is destroyed while in monster zone (except damage step): can send 1 "Blitzclique" Spell/Trap from deck to GY.
+  |-
+  | style="font-weight:bold;" | [[Surge Blitzclique|Surge]]
+  | 4
+  | Can reveal in hand, target 1 monster on field; destroy it, and if you do, Special Summon 1 Thunder from hand, then blitzclique lock for rest of turn.<ref group="lock" name="lock" />
+  | If another card is destroyed while in monster zone (except damage step): can add 1 "Blitzclique" monster from deck to hand except "Surge".
+  |-
+  | style="font-weight:bold;" | [[Whisker Blitzclique|Whisker]]
+  | 8
+  | When a monster effect is activated, except in hand (quick effect): can return 1 other Thunder monster you controls to hand; negate the activation, and if you do, destroy that monster.
+  | During turn a card was destroyed by a "Blitzclique" card's effect (quick effect): can reveal in hand, Special Summon up to 3 Thunder monsters from hand, then can destroy up to that many cards on field, then blitzclique lock for rest of turn.<ref group="lock" name="lock" />
+  |}
+  <references group="lock" />
 
   == Playstyle ==
 
