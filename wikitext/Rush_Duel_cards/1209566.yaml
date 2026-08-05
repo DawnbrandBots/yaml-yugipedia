@@ -12,12 +12,22 @@ wikitext: |-
   | atk            = 0
   | def            = 1200
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Neither player takes [[battle damage]] from [[battle]]s involving this card until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 [[Fairy]] [[Type]] [[Union monster]] or 1 "[[Protection of Arthenée]]" from your Graveyard to your [[hand]].
+  | text           = Neither [[Duelist|player]] [[Damage|take]]s [[battle damage]] from [[battle]]s involving this card until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 [[Fairy]] [[Type]] [[Union monster]] or 1 "[[Protection of Arthenée]]" from your Graveyard to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP066; Headliner of Reigning; Rare
-  | archseries     = Arthenée
   | mentions       = Protection of Arthenée
+  | supports       = 
+  * Fairy
+  * Union monster
+  | archseries     = Arthenée
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | life_points    = Prevents battle damage
+  | misc           = Turn limited effects
   | database_id    = 
   }}

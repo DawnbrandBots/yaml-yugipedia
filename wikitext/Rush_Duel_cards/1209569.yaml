@@ -12,11 +12,26 @@ wikitext: |-
   | atk            = 0
   | def            = 1200
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] [[Fairy]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped monster gains 400 [[ATK]]/[[DEF]] and cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card effects. Face-up Equip Spell Cards on your field cannot be [[destroy]]ed by your opponent's card effects.
+  | text           = [[Equip]] this card to 1 [[face-up]] [[Fairy]] [[Type]] [[Monster Card|monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped monster gains 400 [[ATK]]/[[DEF]], and cannot be [[return]]ed to the [[hand]]/[[Main Deck|Deck]]/[[Extra Deck]] by card effects. Face-up Equip Spell Cards on your field cannot be [[destroy]]ed by your opponent's card effects.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP032; Headliner of Reigning; Common
+  | supports       = 
+  * Fairy
+  * Equip Spell Card
   | archseries     = Arthenée
+  | action         = 
+  * Equips self from field
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | stat_change    = 
+  * Equipped gains ATK
+  * Equipped gains DEF
+  | m/s/t          = 
+  * Treated as Equip Card
+  * Cannot be destroyed by card effects
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}
