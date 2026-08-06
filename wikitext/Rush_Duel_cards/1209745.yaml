@@ -14,13 +14,27 @@ wikitext: |-
   | fusion_material = Magical Weapon Tract
   | materials       = "[[Magical Weapon Tract]]" + 1 [[Level]] 8 or lower [[WATER]] [[Attribute]] [[Effect Monster]]
   | requirement     = You have "Magical Weapon Tract" in your [[Graveyard]].
-  | text            = [[Destroy]] 1 card on your opponent's [[field]]. During the [[End Phase]] of this [[turn]], give [[control]] of this card to your opponent (when control of this card is changed, if there is no Monster Zone to place in, [[send]] it to the Graveyard).
+  | text            = [[Destroy]] 1 card on your opponent's [[field]]. Give [[control]] of this card to your opponent during the [[End Phase]] of this [[turn]] (when control of this card is changed, if there is no [[Monster Zone]] to place in, [[send]] it to the Graveyard).
   | ja_materials    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP038; Headliner of Reigning; Super Rare, Secret Rare
   | mentions        = Magical Weapon Tract
+  | supports        = 
+  * WATER
+  * Effect Monster
   | archseries      = Star Protector
+  | action          = Changes control
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires nonspecific Effect Monsters as Fusion Materials
   | database_id     = 
   }}

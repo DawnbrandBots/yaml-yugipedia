@@ -12,12 +12,17 @@ wikitext: |-
   | atk            = 800
   | def            = 1500
   | requirement    = None
-  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can place 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard on top of your Deck. This [[turn]], you can only [[attack]] with [[WATER]] [[Attribute]] monsters.
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can place 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard on top of the Deck. This [[turn]], you can only [[attack]] with [[WATER]] [[Attribute]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP009; Headliner of Reigning; Rare
   | mentions       = Fusion (Rush Duel)
+  | supports       = WATER
   | archseries     = Star Protector
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard
+  * Places cards from the player's Graveyard on the top of the Deck
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
