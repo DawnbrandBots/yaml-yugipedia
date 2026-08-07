@@ -14,9 +14,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 古之秘仪
-  | image                 = AncientSecrets-UT01-JP-OP.png
+  | image                 = 
+  1; AncientSecrets-UT01-JP-UR.png
+  2; AncientSecrets-UT01-JP-UR-EA.png
+  | current_image         = 1
   | card_type             = Spell
   | property              = Normal
+  | password              = 30752324
   | effect_types          = Effect, Condition
   | text                  = [[Special Summon]] 1 [[Normal Monster]] from your [[hand]], [[Main Deck|Deck]], or [[GY]] in [[Defense Position]] (if you Special Summon from the Deck, it must be [[Level]] 4 or lower), or if you [[control]] a Normal Monster Card, you can apply 1 of these [[effect]]s instead.<br />● [[Destroy]] all [[monsters]] your opponent [[control]]s.<br />● Destroy all [[Spells]]/[[Traps]] your opponent controls.<br />● [[Draw a card|Draw]] 2 cards.<br />● Special Summon 1 monster from either GY to your [[field]].<br />You can only [[activate]] 1 "Ancient Secrets" per turn.
   | fr_text               = 
@@ -24,7 +28,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・デッキ・墓地から通常モンスター１体を守備表示で特殊召喚する（デッキから特殊召喚する場合はレベル４以下でなければならない）。自分フィールドに通常モンスターカードが存在する場合、代わりに以下の効果から１つを選んで適用できる。●相手フィールドのモンスターを全て破壊する。●相手フィールドの魔法・罠カードを全て破壊する。●自分は２枚ドローする。●自分か相手の墓地からモンスター１体を自分フィールドに特殊召喚する。
   | ko_text               = 
   | sc_text               = 此卡名的卡1回合仅可发动1张。①：从自己手牌・牌组・墓地将1只通常怪兽以守备表示特殊召唤（从牌组特殊召唤的情况下必须是等级4以下）。自己场上存在通常怪兽卡的情况下，作为代替可从以下效果中挑选1个适用。<br />●将对手场上的怪兽全部破坏。<br />●将对手场上的魔法・陷阱卡全部破坏。<br />●自己抽2张。<br />●从自己或对手墓地将1只怪兽特殊召唤至自己场上。
   | jp_sets               = 
@@ -46,5 +50,5 @@ wikitext: |-
   * Requires control of specific Monster type
   * Variable effects
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23497
   }}

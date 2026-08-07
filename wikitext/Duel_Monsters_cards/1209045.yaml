@@ -16,10 +16,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 月女神之至天
-  | image                 = UltimateSky-UT01-JP-OP.png
+  | image                 = 
+  1; UltimateSky-UT01-JP-UR.png
+  2; UltimateSky-UT01-JP-UR-EA.png
+  | current_image         = 1
   | card_type             = Spell
   | property              = Quick-Play
-  | password              = 
+  | password              = 38817295
   | effect_types          = Effect
   | text                  = If your opponent [[control]]s more [[monsters]] than you do: [[Activate]] 1 of these [[effect]]s (but you can only use each effect of "Ultimate Sky" [[once per turn]]);<br />● [[Target]] [[face-up]] cards on the [[field]] up to the number of face-up monsters your opponent controls and [[pay]] 800 [[LP]] for each target; [[negate]] their effects until the end of this [[turn]].<br />● When your opponent activates a [[monster effect]] in the [[hand]] or [[GY]]: Negate that effect.
   | fr_text               = 
@@ -27,7 +30,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = ①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。<br />●相手フィールドの表側表示モンスターの数まで、フィールドの表側表示カードを対象とし、対象とした数×８００ＬＰを払って発動できる。そのカードの効果をターン終了時まで無効にする。<br />●相手が手札・墓地のモンスターの効果を発動した時に発動できる。その効果を無効にする。
   | ko_text               = 
   | sc_text               = ①：对手场上的怪兽的数量多于自己场上的怪兽的情况下，可从以下效果中选择1个发动（此卡名的以下效果1回合仅可各选择1次）。<br />●以对手场上的表侧表示怪兽的数量为上限，以场上的表侧表示卡为对象，支付作为对象的数量×800的LP可以发动。将该卡的效果直至回合结束时为止无效。<br />●对手发动手牌・墓地的怪兽的效果时可以发动。将该效果无效。
   | jp_sets               = 
@@ -40,5 +43,5 @@ wikitext: |-
   * Negates the effects of Trap Cards
   | life_points           = Pays Life Points for cost
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 23503
   }}

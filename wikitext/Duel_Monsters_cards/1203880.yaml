@@ -14,13 +14,16 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 来自冥府的使者
-  | image                 = EmissariesfromDarkness-UT01-JP-OP.png
+  | image                 = 
+  1; EmissariesfromDarkness-UT01-JP-UR.png
+  2; EmissariesfromDarkness-UT01-JP-UR-EA.png
+  | current_image         = 1
   | attribute             = DARK
   | types                 = Fiend / Effect
   | level                 = 7
   | atk                   = 2700
   | def                   = 2500
-  | password              = 
+  | password              = 03635138
   | effect_types          = Trigger, Trigger, Condition
   | text                  = If you take [[battle damage|battle]] or [[effect damage]]: You can [[Special Summon]] this card from your [[hand]], and if you do, gain 2000 [[LP]], then you can apply 1 of these [[effect]]s.<br />● [[Special Summon]] 1 "Emissaries from Darkness" from your hand, [[Main Deck|Deck]], or [[GY]].<br />● [[Destroy]] up to 2 [[Attack Position]] [[monsters]] your opponent [[control]]s.<br />During the [[End Phase]], if this card was Special Summoned this [[turn]]: You can [[target]] 1 [[Trap]] in your GY; [[Set]] it. You can only use each effect of "Emissaries from Darkness" once per turn.
   | fr_text               = 
@@ -28,7 +31,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が戦闘・効果ダメージを受けた場合に発動できる。このカードを手札から特殊召喚し、自分は２０００ＬＰ回復する。その後、以下の効果から１つを選んで適用できる。●自分の手札・デッキ・墓地から「冥府よりの使者」１体を特殊召喚する。●相手フィールドの攻撃表示モンスターを２体まで破壊する。②：このカードが特殊召喚したターンのエンドフェイズに、自分の墓地の罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。
   | ko_text               = 
   | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：自己受到战斗・效果伤害的情况下可以发动。从手牌将此卡特殊召唤，自己恢复2000LP。然后，可从以下效果中挑选1个适用。●从自己手牌・牌组・墓地将1只“来自冥府的使者”特殊召唤。●将对手场上最多2只攻击表示的怪兽破坏。②：在此卡特殊召唤的回合的结束阶段，以自己墓地的1张陷阱卡为对象可以发动。将该卡放置在自己场上。
   | jp_sets               = 
@@ -52,5 +55,5 @@ wikitext: |-
   | misc                  = 
   * Variable effects
   * Only once per turn
-  | database_id           = 
+  | database_id           = 23499
   }}
