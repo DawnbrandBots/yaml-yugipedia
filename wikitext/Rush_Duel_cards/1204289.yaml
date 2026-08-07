@@ -5,17 +5,24 @@ wikitext: |-
   {{CardTable2
   | ja_name        = アインソフ・リッター
   | romaji_name    = Ainsofu Rittā
-  | image          = EinSofRitter-RDKP26-JP-OP.png
+  | image          = 
+  1; EinSofRitter-RDKP26-JP-OP.png; EinSofRitter-OW.png
+  2; EinSofRitter-RDKP26-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = WATER
   | types          = Machine / Effect
   | level          = 3
   | atk            = 1200
   | def            = 0
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] this [[face-up]] card from your [[field]] to the [[Graveyard]].
-  | text           = [[Special Summon]] 1 [[Level]] 4 monster from your Graveyard to your field in face-up [[Defense Position]].
+  | text           = [[Special Summon]] 1 [[Level]] 4 [[Monster Card|monster]] from your Graveyard to your field in face-up [[Defense Position]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP26-JP035; Headliner of Reigning; Ultra Rare, Over Rush Rare
+  RD/KP26-JP035; Headliner of Reigning; Ultra Rare, Secret Rare, Over Rush Rare
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends itself from field to Graveyard for cost
+  | summoning      = Special Summons from your Graveyard
   | database_id    = 
   }}
