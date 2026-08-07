@@ -5,18 +5,19 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ヘルシィ・オリビア
   | romaji_name    = Herushyi Oribia
-  | image          = HealthieOlivia-OW.png
-  | attribute      = ???
-  | types          = Pyro / ???
+  | image          = HealthieOlivia-RDKP26-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Pyro / Effect
   | level          = 7
-  | atk            = ???
+  | atk            = 2200
   | def            = 1300
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[Pyro]] [[Type]] [[Monster Card|monster]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1500.
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text           = Add 1 "[[Healthy's High!]]" from your [[Graveyard]] to your [[hand]]. You cannot [[activate]] [[monster effect]]s until the end of this [[turn]], except those of Pyro Type monsters.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP26-JP0??; Headliner of Reigning
+  RD/KP26-JP023; Headliner of Reigning; Common
   | archseries     = Healthie
   | database_id    = 
   }}
