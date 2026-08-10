@@ -9,11 +9,22 @@ wikitext: |-
   | card_type      = Trap
   | property       = Normal
   | requirement    = During your opponent's [[turn]], when your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]].
-  | text           = [[Battle position change|Change]] up to 3 [[face-up]] [[Level]] 7 [[Pyro]] [[Type]] monsters on your [[field]] to [[face-down]] [[Defense Position]]. Then, change them to face-up [[Attack Position]]. Then, you can change the battle position of 1 monster on your opponent's [[field]].
+  | text           = [[Battle position change|Change]] up to 3 [[face-up]] [[Level]] 7 [[Pyro]] [[Type]] monsters on your [[field]] to [[face-down]] [[Defense Position]]. Then, change them to face-up [[Attack Position]]. Then, you can change the [[battle position]] of 1 monster on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP064; Headliner of Reigning; Rare
+  | supports       = Pyro
   | archseries     = Healthie
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Changes battle positions
+  * Flips your monsters face-down
+  * Flips your monsters face-up
+  * Flips your opponent's monsters face-up
+  | misc           = 
+  * Requires control of specific Level
+  * Requires control of specific Type
   | database_id    = 
   }}

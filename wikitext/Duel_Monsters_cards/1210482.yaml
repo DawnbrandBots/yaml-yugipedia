@@ -15,7 +15,7 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = XenovaderTerritoryValvols-DBGV-JP-OP.png
+  | image               = Xenovader△TerritoryValvols-DBGV-JP-OP.png
   | card_type           = Spell
   | property            = Field
   | password            = 
@@ -34,6 +34,19 @@ wikitext: |-
   | mentions            = Xenovader△ Territory - Valvols
   | archseries          = Xenovader△
   | supports_archetypes = Xenovader△
-  | misc                = Requires having no cards in Main Deck
+  | action              = Adds from banishment to hand
+  | m/s/t               = 
+  * Prevents activation of your opponent's Effect Monsters
+  * Prevents activation of your opponent's Spell Cards
+  * Prevents activation of your opponent's Trap Cards
+  | banished            = 
+  * Banishes from Graveyard for cost
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  | misc                = 
+  * Only once per turn
+  * Requires control of specific Level
+  * Requires control of specific archetype
+  * Requires having no cards in Main Deck
   | database_id         = 
   }}

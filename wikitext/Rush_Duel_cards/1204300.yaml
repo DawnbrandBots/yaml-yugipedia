@@ -13,12 +13,18 @@ wikitext: |-
   | def            = 1300
   | condition      = You can [[Normal Summon]] this card without [[Tribute|Tributing]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1000.
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 500 [[ATK]] until the end of this turn. If you have "[[Staaart Boasting About Your Health!]]" in your Graveyard, you can make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn.
+  | text           = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 500 [[ATK]] until the end of this [[turn]]. Then, if you have "[[Staaart Boasting About Your Health!]]" in your Graveyard, you can make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP022; Headliner of Reigning; Common
   | mentions       = Staaart Boasting About Your Health!
   | archseries     = Healthie
+  | action         = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change    = 
+  * Changes own ATK value
+  * Changes original ATK
+  * Your opponent's monsters lose ATK
+  | summoning      = Normal Summon without Tribute
   | database_id    = 
   }}

@@ -32,7 +32,7 @@ wikitext: |-
   | en_sets             = 
   BETB-EN0??; Beyond the Brave; 
   | fr_sets             = 
-  BPRO-FR0??; Beyond the Brave; 
+  BETB-FR0??; Beyond the Brave; 
   | de_sets             = 
   BETB-DE0??; Beyond the Brave; 
   | it_sets             = 
@@ -43,5 +43,19 @@ wikitext: |-
   BETB-SP0??; Beyond the Brave; 
   | ae_sets             = 
   BETB-AE0??; Beyond the Brave; Ultimate Rare
+  | supports            = WATER
+  | action              = 
+  * Activates from your hand
+  * Sends from field to Graveyard for cost
+  * You draw cards
+  * Changes own battle position
+  * Flips itself face-down
+  | m/s/t               = 
+  * Prevents other cards being destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  | misc                = Only once per turn
   | database_id         = 
   }}

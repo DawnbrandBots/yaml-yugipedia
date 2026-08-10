@@ -15,7 +15,7 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = XenovaderJudgment-DBGV-JP-OP.png
+  | image               = Xenovader△Judgment-DBGV-JP-OP.png
   | card_type           = Trap
   | property            = Continuous
   | password            = 
@@ -33,6 +33,21 @@ wikitext: |-
   DBGV-JP041; Deck-Build Pack: Glorious Victors; 
   | archseries          = Xenovader△
   | supports_archetypes = Xenovader△
-  | misc                = Requires having no cards in Main Deck
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from banishment to hand
+  | stat_change         = 
+  * Changes ATK value
+  * Reduces ATK to 0
+  | m/s/t               = 
+  * Prevents activation of your Effect Monsters
+  * Prevents activation of your Spell Cards
+  * Prevents activation of your Trap Cards
+  | summoning           = Special Summons from your banishment
+  | misc                = 
+  * Limited activations
+  * Requires control of specific archetype
+  * Requires having no cards in Main Deck
   | database_id         = 
   }}

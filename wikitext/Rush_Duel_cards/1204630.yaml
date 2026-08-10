@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 1200
   | def            = 1200
   | requirement    = You have "[[Helpful Items]]" in your [[Graveyard]].
-  | text           = [[Special Summon]] 1 "[[Powerful Machine - Clockwork Worker]]" from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s.
+  | text           = [[Special Summon]] 1 "[[Powerful Machine - Clockwork Worker]]" from your Graveyard to your [[field]] in [[face-up]] [[Defense Position]]. This [[turn]], you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,6 +20,11 @@ wikitext: |-
   | mentions       = 
   * Helpful Items
   * Powerful Machine - Clockwork Worker
+  | supports       = 
+  * WIND
+  * Warrior
   | archseries     = Goe Goe
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
