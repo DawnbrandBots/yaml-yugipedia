@@ -10,12 +10,26 @@ wikitext: |-
   | card_type       = Trap
   | property        = Normal
   | requirement     = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], [[send]] 1 [[face-up]] [[WATER]] [[Attribute]] monster with 0 or 1500 [[DEF]] from your [[field]] to the [[Graveyard]].
-  | text            = [[Destroy]] 1 card on your opponent's field. If you destroyed a [[Fusion Monster]] by this effect, you can [[Special Summon]] 1 "[[The Imprisoned Dragon Princess]]" from your Graveyard face-up to your field. This [[turn]], the monster Special Summoned by this [[effect]] cannot be [[destroy]]ed by [[battle]].
+  | text            = [[Destroy]] 1 card on your opponent's field. Then, if you destroyed a [[Fusion Monster]] by this [[effect]], you can [[Special Summon]] 1 "[[The Imprisoned Dragon Princess]]" from your Graveyard face-up to your field. This [[turn]], the monster Special Summoned by this effect cannot be [[destroyed by battle]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/KP26-JP063; Headliner of Reigning; Common
   | mentions        = The Imprisoned Dragon Princess
+  | supports        = WATER
+  | anti-supports   = Fusion Monster
   | archseries      = Star Protector
+  | action          = 
+  * Activates upon Normal Summon
+  * Sends from field to Graveyard for cost
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = Special Summons from your Graveyard
+  | attack          = Prevents other cards being destroyed by battle
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific DEF
   | database_id     = 
   }}
