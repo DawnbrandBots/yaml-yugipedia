@@ -19,7 +19,7 @@ wikitext: |-
   | property             = Continuous
   | password             = 
   | effect_types         = Activation requirement, Ignition-like, Trigger-like, Condition
-  | text                 = [[Activate]] this card by [[send]]ing 1 "[[The Winged Dragon of Ra (archetype)|The Winged Dragon of Ra]]" [[monster]] from your [[hand]], [[Main Deck|Deck]], or [[face-up]] [[field]] to the [[GY]].  During your [[Main Phase]], if this card was activated this [[turn]]: You can [[Add a card|add]] 1 "[[Sun God]]" monster from your Deck to your hand. If a monster(s) is [[destroyed by battle]]: Its controller takes [[Effect damage|damage]] equal to its [[original ATK]], then if you have "[[The Winged Dragon of Ra]]" in your GY, you gain 1000 [[LP]]. You can only use each effect of "The Sun God Leading Down into Darkness" once per turn.
+  | text                 = [[Activate]] this card by [[send]]ing 1 "[[The Winged Dragon of Ra (archetype)|The Winged Dragon of Ra]]" [[monster]] from your [[hand]], [[Main Deck|Deck]], or [[face-up]] [[field]] to the [[GY]]. During your [[Main Phase]], if this card was activated this [[turn]]: You can [[Add a card|add]] 1 "[[Sun God]]" monster from your Deck to your hand. If a monster(s) is [[destroyed by battle]]: Its controller takes [[Effect damage|damage]] equal to its [[original ATK]], then if you have "[[The Winged Dragon of Ra]]" in your GY, you gain 1000 [[LP]]. You can only use each effect of "The Sun God Leading Down into Darkness" once per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -37,5 +37,18 @@ wikitext: |-
   | supports_archetypes  = 
   * Sun God
   * The Winged Dragon of Ra (archetype)
+  | action               = 
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Adds from Deck to hand
+  * Activates if destroyed by battle
+  | life_points          = 
+  * Damages you
+  * Damages your opponent
+  * You gain Life Points
+  | misc                 = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id          = 
   }}

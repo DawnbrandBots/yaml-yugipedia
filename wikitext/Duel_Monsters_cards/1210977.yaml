@@ -21,6 +21,7 @@ wikitext: |-
   | atk                  = 3000
   | def                  = 2500
   | password             = 
+  | materials            = 1 "Sun God" monster you control + 2 face-up monsters on the field
   | effect_types         = Condition, Summoning condition, Condition, Trigger
   | text                 = 1 "[[Sun God]]" [[monster]] you [[control]] + 2 [[face-up]] monsters on the [[field]]<br />Cannot be used as [[Fusion Material]]. Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) to your opponent's [[Main Monster Zone]] by [[send]]ing the above cards from either [[field]] to the [[GY]], but if you Special Summon this card with the second method, you can only Special Summon once for the rest of this turn. You can only Special Summon "The Sun God's Steelcage - Lava Golem" once per turn this way, no matter which method you use. Once per turn, during your [[Standby Phase]]: Take 1000 [[Effect damage|damage]].
   | fr_text              = 
@@ -35,5 +36,22 @@ wikitext: |-
   IMPH-JP031; Immortal Phoenix; Rare
   | archseries           = Sun God
   | supports_archetypes  = Sun God
+  | action               = 
+  * Sends Fusion Materials for Contact Fusion to Graveyard
+  * Uses cards on the opponent's field for Contact Fusion
+  * Sends from field to Graveyard for Special Summon
+  | summoning            = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires location specific Fusion Materials
+  * Cannot be used as a Fusion Material
+  * Nomi
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck to your opponent's field
+  * Contact Fusion
+  * Special Summon by its own condition once per turn
+  * Restricts the player's Special Summons
+  | life_points          = Damages you
+  | misc                 = Limited activations
   | database_id          = 
   }}

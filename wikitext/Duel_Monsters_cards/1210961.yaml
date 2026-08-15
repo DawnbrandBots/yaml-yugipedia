@@ -22,7 +22,7 @@ wikitext: |-
   | def                  = 1200
   | password             = 
   | effect_types         = Continuous, Condition, Trigger, Trigger
-  | text                 = Cannot be [[destroyed by battle]]. You can only use each of the following [[effect]]s of "The Sun God's Torture Device - Viser Des Shock" [[once per turn]]. If a [[monster]](s) is [[sent]] to your opponent's [[GY]] and you [[control]] a "[[Sun God]]" card, even during the [[Damage Step]]: You can [[Special Summon]] this card from your [[hand]], and if you do, [[return]] 1 other card on the [[field]] to the hand/[[Extra Deck]], and if you do that, inflict 800 [[Effect damage|damage]] to your opponent. During the [[End Phase]], if "[[Immortal Sun God]]" was sent to your GY this [[turn]]: You can [[Add a card|add]] this card from your GY to your hand.
+  | text                 = Cannot be [[destroyed by battle]]. You can only use each of the following [[effect]]s of "The Sun God's Torture Device - Viser Des Shock" [[once per turn]]. If a [[monster]](s) is [[sent]] to your opponent's [[GY]] and you [[control]] a "[[Sun God]]" card, even during the [[Damage Step]]: You can [[Special Summon]] this card from your [[hand]], and if you do, [[return]] 1 other card on the [[field]] to the hand/[[Extra Deck]], and if you do that, inflict 800 [[Effect damage|damage]] to your opponent. During the [[End Phase]], if "[[The Immortal Sun God]]" was sent to your GY this [[turn]]: You can [[Add a card|add]] this card from your GY to your hand.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,8 +33,20 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP004; Immortal Phoenix; 
-  | mentions             = Immortal Sun God
+  | mentions             = The Immortal Sun God
   | archseries           = Sun God
   | supports_archetypes  = Sun God
+  | action               = 
+  * Activates if other cards are sent to the Graveyard
+  * Activates from your hand
+  * Returns from field to hand
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning            = Special Summons itself from your hand
+  | attack               = Cannot be destroyed by battle
+  | life_points          = Damages your opponent
+  | misc                 = 
+  * Only once per turn
+  * Requires control of specific archetype
   | database_id          = 
   }}

@@ -22,7 +22,7 @@ wikitext: |-
   | def                  = 1200
   | password             = 
   | effect_types         = Ignition, Ignition, Trigger, Condition
-  | text                 = If this card is in your [[hand]] and you [[control]] a "[[Sun God]]" card: You can [[Special Summon]] this card. You can [[Tribute]] this card, then [[target]] 1 other card in either [[GY]]; [[send]] 1 "Sun God" card from your [[Main Deck|Deck]] to the [[GY]], and if you do, place the targeted card on the bottom of the Deck. During the [[End Phase]], if "[[Immortal Sun God]]" was sent to your GY this [[turn]]: You can [[Add a card|add]] this card from your GY to your hand. You can only use each [[effect]] of "The Sun God's Terror Machine - Gil Garth" [[once per turn]].
+  | text                 = If this card is in your [[hand]] and you [[control]] a "[[Sun God]]" card: You can [[Special Summon]] this card. You can [[Tribute]] this card, then [[target]] 1 other card in either [[GY]]; [[send]] 1 "Sun God" card from your [[Main Deck|Deck]] to the [[GY]], and if you do, place the targeted card on the bottom of the Deck. During the [[End Phase]], if "[[The Immortal Sun God]]" was sent to your GY this [[turn]]: You can [[Add a card|add]] this card from your GY to your hand. You can only use each [[effect]] of "The Sun God's Terror Machine - Gil Garth" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,8 +33,20 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP003; Immortal Phoenix; 
-  | mentions             = Immortal Sun God
+  | mentions             = The Immortal Sun God
   | archseries           = Sun God
   | supports_archetypes  = Sun God
+  | action               = 
+  * Activates from your hand
+  * Tributes itself for cost
+  * Sends from your Deck to your Graveyard
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * Places cards from the opponent's Graveyard on the bottom of the Deck
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning            = Special Summons itself from your hand
+  | misc                 = 
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id          = 
   }}

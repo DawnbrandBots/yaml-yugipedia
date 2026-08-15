@@ -22,7 +22,7 @@ wikitext: |-
   | def                  = 1400
   | password             = 
   | effect_types         = Ignition, Trigger, Trigger, Condition
-  | text                 = You can [[discard]] 1 other card; [[Special Summon]] this card from your [[hand]]. If this card is Special Summoned: You can [[Add a card|add]] 1 "[[Sun God]]" card from your [[Main Deck|Deck]] to your [[hand]], except "The Sun God's Poet - Helpoemer", then if your opponent's [[LP]] are at least 2000 higher than yours, you can [[discard]] 1 [[random]] card from their hand. During the [[End Phase]], if "[[Immortal Sun God]]" was sent to your [[GY]] this [[turn]]: You can add this card from your GY to your hand. You can only use each [[effect]] of "The Sun God's Poet - Helpoemer" [[once per turn]].
+  | text                 = You can [[discard]] 1 other card; [[Special Summon]] this card from your [[hand]]. If this card is Special Summoned: You can [[Add a card|add]] 1 "[[Sun God]]" card from your [[Main Deck|Deck]] to your [[hand]], except "The Sun God's Poet - Helpoemer", then if your opponent's [[LP]] are at least 2000 higher than yours, you can [[discard]] 1 [[random]] card from their hand. During the [[End Phase]], if "[[The Immortal Sun God]]" was sent to your [[GY]] this [[turn]]: You can add this card from your GY to your hand. You can only use each [[effect]] of "The Sun God's Poet - Helpoemer" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -35,8 +35,20 @@ wikitext: |-
   IMPH-JP001; Immortal Phoenix; Rare
   | mentions             = 
   * The Sun God's Poet - Helpoemer
-  * Immortal Sun God
+  * The Immortal Sun God
   | archseries           = Sun God
   | supports_archetypes  = Sun God
+  | action               = 
+  * Activates from your hand
+  * You discard for cost
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Your opponent discards
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | summoning            = Special Summons itself from your hand
+  | misc                 = 
+  * Requires specific LP
+  * Only once per turn
   | database_id          = 
   }}
