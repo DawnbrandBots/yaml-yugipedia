@@ -2,16 +2,17 @@ title: Umi
 wikitext: |-
   {{About|the card|the [[series]]|[[Umi (series)]]}}
   {{CardTable2
-  | tc_name               = 海<!-- Name taken from the TC prints of "A Legendary Ocean" and "Lemuria, the Forgotten City". -->
   | fr_name               = Umi
   | de_name               = Umi
   | it_name               = Umi
-  | ko_name               = 바다
   | pt_name               = Umi
   | es_name               = Umi
   | ja_name               = {{Ruby|海|うみ}}
   | romaji_name           = Umi
   | translated_name       = Sea
+  | ko_name               = 바다
+  | tc_name               = 海<!-- Name taken from the TC prints of "A Legendary Ocean" and "Lemuria, the Forgotten City". -->
+  | sc_name               = 海
   | image                 = Umi-SBC1-EN-C-1E.png
   | card_type             = Spell
   | property              = Field
@@ -25,6 +26,7 @@ wikitext: |-
   | es_text               = Todos los monstruos Pez, Serpiente Marina, Trueno y Aqua en el Campo ganan 200 ATK/DEF, y además todos los monstruos Máquina y Piro en el Campo pierden 200 ATK/DEF.
   | ja_text               = フィールド上に表側表示で存在する魚族・海竜族・雷族・水族モンスターの攻撃力・守備力は２００ポイントアップする。フィールド上に表側表示で存在する機械族・炎族モンスターの攻撃力・守備力は２００ポイントダウンする。
   | ko_text               = 모든 어류족, 해룡족, 번개족, 물족의 공격력과 수비력은 200 포인트 올린다. 또한 모든 기계족, 화염족의 공격력과 수비력은 200 포인트 내린다.
+  | sc_text               = ①：场上的鱼族・海龙族・雷族・水族怪兽的攻击力・守备力上升200，场上的机械族・炎族怪兽的攻击力・守备力下降200。
   | en_sets               = 
   DB1-EN112; Dark Beginning 1; Common
   LOB-EN050; Legend of Blue Eyes White Dragon; Common
@@ -78,6 +80,8 @@ wikitext: |-
   | kr_sets               = 
   LOB-K050; Legend of Blue Eyes White Dragon; Common
   BP1-KR112; Beginner's Edition 1; Common
+  | sc_sets               = 
+  26BZ-SC220; Beyond the Brave Complement Pack; Common
   | gx03_sets             = 
   '''[[Established Chaos (GX03-BP)|Established Chaos]]''' ([[Common]])
   | ntr_sets              = 
