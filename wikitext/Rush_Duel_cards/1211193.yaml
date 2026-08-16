@@ -11,13 +11,27 @@ wikitext: |-
   | level          = 8
   | atk            = 2000
   | def            = 0
-  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tributing]] 1 [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[monster]].
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]].
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] WIND Attribute Warrior Type monster on your [[field]] as an [[Equip Spell Card]] with the following effect. Then, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's field. ● The equipped monster gains 300 [[ATK]].
+  | text           = [[Equip]] this card to 1 [[face-up]] WIND Attribute Warrior Type monster on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field. ●The equipped monster gains 300 [[ATK]].
+  | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP26-JP030; Headliner of Reigning; Common
+  | supports       = 
+  * WIND
+  * Warrior
   | archseries     = Goe Goe
+  | action         = Equips self from field
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = 
+  * Treated as Equip Card
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}
