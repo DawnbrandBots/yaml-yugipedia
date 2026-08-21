@@ -58,6 +58,7 @@ wikitext: |-
   | action                = 
   * Returns itself from field to Deck
   * Allows face-up cards in Main Deck
+  * Activates if drawn
   * Sends itself from hand to Graveyard
   * Adds from Graveyard to hand
   | database_id           = 5449

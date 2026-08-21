@@ -55,7 +55,9 @@ wikitext: |-
   * Genex
   * R-Genex
   | supports_archetypes = Genex
-  | action              = Reveals your hand for cost
+  | action              = 
+  * Activates if you add a card to the hand
+  * Reveals your hand for cost
   | summoning           = Special Summons from your hand
   | database_id         = 8402
   }}
