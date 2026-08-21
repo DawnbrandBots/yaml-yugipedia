@@ -14,8 +14,9 @@ wikitext: |-
   | condition      = You can [[Normal Summon]] this card without [[Tribute|Tributing]]. If you do, its [[Original ATK and DEF|original ATK]] becomes 1000.
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text           = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 500 [[ATK]] until the end of this [[turn]]. Then, if you have "[[Staaart Boasting About Your Health!]]" in your Graveyard, you can make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_condition   = このカードはリリースなしで召喚できる。その場合、このカードの元々の攻撃力は１０００になる。
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで５００ダウンする。自分の墓地に「健康自慢、はじめっ！」がある場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで５００ダウンできる。
   | jp_sets        = 
   RD/KP26-JP022; Headliner of Reigning; Common
   | mentions       = Staaart Boasting About Your Health!
@@ -26,5 +27,5 @@ wikitext: |-
   * Changes original ATK
   * Your opponent's monsters lose ATK
   | summoning      = Normal Summon without Tribute
-  | database_id    = 
+  | database_id    = 23734
   }}

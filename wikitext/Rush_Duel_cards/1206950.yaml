@@ -10,10 +10,10 @@ wikitext: |-
   | def                   = 300
   | requirement           = This card is in [[Attack Position]].
   | text                  = Choose 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] with higher [[ATK]] than this card, and you [[Damage|take]] [[Effect damage|damage]] equal to [the difference in ATK]. Then, [[return]] this card and that monster to the [[owner]]'s [[hand]]. End this [[Main Phase]].
-  | ja_requirement        = 
-  | ja_text               = 
+  | ja_requirement        = このカードが攻撃表示の場合に発動できる。
+  | ja_text               = このカードの攻撃力より高い攻撃力を持つ、相手フィールドの表側表示モンスター１体を選び、自分は［その攻撃力の差］だけダメージを受ける。その後、このカードと選んだモンスターを持ち主の手札に戻す。このメインフェイズを終了する。
   | jp_sets               = 
-  RD/KP26-JP067; Headliner of Reigning; Super Rare
+  RD/KP26-JP067; Headliner of Reigning; Super Rare, Secret Rare
   | archseries            = Neos (Rush Duel)
   | related_to_archseries = Elemental HERO (Rush Duel)
   | action                = 
@@ -23,5 +23,5 @@ wikitext: |-
   | life_points           = Damages you
   | fm_for                = Elemental HERO Earth Neos
   | misc                  = Requires control of specific ATK
-  | database_id           = 
+  | database_id           = 23779
   }}

@@ -14,8 +14,8 @@ wikitext: |-
   | effect_types   = Continuous
   | requirement    = None
   | text           = During the [[Battle Phase]], [[face-up]] [[Monster Card|monster]]s on your opponent's [[field]] lose [[ATK]]/[[DEF]] equal to [the number of face-up [[Equip Spell Card]]s on your field] x 500.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = なし
+  | ja_text        = お互いのバトルフェイズの間、相手フィールドの表側表示モンスターの攻撃力・守備力は、［自分フィールドの表側表示の装備魔法カードの数］×５００ダウンする。
   | jp_sets        = 
   RD/KP26-JP015; Headliner of Reigning; Common
   | supports       = Equip Spell Card
@@ -23,5 +23,5 @@ wikitext: |-
   | stat_change    = 
   * Your opponent's monsters lose ATK
   * Your opponent's monsters lose DEF
-  | database_id    = 
+  | database_id    = 23727
   }}
