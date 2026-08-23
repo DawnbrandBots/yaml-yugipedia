@@ -14,8 +14,8 @@ wikitext: |-
   | level              = 4
   | atk                = 0
   | def                = 2300
-  | effect_types       = Trigger, Continuous
-  | text               = When this card is [[Normal Summon]]ed, it is changed to [[Defense Position]]. If this card is changed from [[face-down]] Defense Position to [[face-up]] Defense Position, [[destroy]] it. ''Rest of effects unknown.''
+  | effect_types       = Trigger, Summoning condition, Continuous
+  | text               = When this card is [[Normal Summon]]ed, it is changed to [[Defense Position]]. This card cannot be Normal Summoned, unless you [[control]] no [[Monster Card|monster]]s. When this card is changed from [[face-down]] Defense Position to [[face-up]] Defense Position, [[destroy]] it.
   | ja_text            = このカードは召喚時に守備表示になる。自分フィールド上にモンスターが存在する時、このカードを召喚する事はできない。このカードが裏側守備表示から表側守備表示になった時、このカードを破壊する。
   | appears_in_gx      = 139, 140
   | decks              = Jim Crocodile Cook
@@ -23,4 +23,5 @@ wikitext: |-
   * Activates upon Normal Summon
   * Changes own battle position
   * Destroys itself
+  | summon             = Cannot be Normal Summoned
   }}
