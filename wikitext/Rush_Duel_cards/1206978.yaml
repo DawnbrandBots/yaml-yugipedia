@@ -8,8 +8,8 @@ wikitext: |-
   | level           = 7
   | atk             = 2600
   | def             = 1700
-  | fusion_material = 
-  | materials       = "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]" + 1 [[Dragon]] [[Type]] [[monster]]
+  | fusion_material = Dark Magician Girl (Rush Duel)
+  | materials       = "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]" + 1 [[Dragon]] [[Type]] [[Monster Card|monster]]
   | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
   | text            = [[Destroy]] 1 [[face-up]] card on your opponent's [[field]].
   | ja_materials    = 
@@ -17,7 +17,18 @@ wikitext: |-
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP001; Cross Art Collection; Full Over Rush Rare
-  |mentions         = Dark Magician Girl (Rush Duel)
+  | mentions        = Dark Magician Girl (Rush Duel)
+  | supports        = Dragon
   | archseries      = Dark Magician (Rush Duel series)
+  | action          = Sends from hand to Graveyard for cost
+  | m/s/t           = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc            = Cover card
   | database_id     = 
   }}
