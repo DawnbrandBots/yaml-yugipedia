@@ -8,17 +8,24 @@ wikitext: |-
   | level           = 8
   | atk             = 2900
   | def             = 2500
-  | materials       = "[[Dark Magician (Rush Duel)|Dark Magician]]" + 1 [[Dragon]] [[Type]] [[monster]]
+  | fusion_material = Dark Magician (Rush Duel)
+  | materials       = "[[Dark Magician (Rush Duel)|Dark Magician]]" + 1 [[Dragon]] [[Type]] [[Monster Card|monster]]
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = Choose any number of [[Spell Card]]s in the [[Graveyard]]s. While this card is [[face-up]], it gains [[ATK]] equal to [the number of chosen cards] x 100. Then, [[shuffle]] the chosen cards into the owner's Deck.
+  | text            = Choose any number of [[Spell Card]]s in the [[Graveyard]]s. While this card is [[face-up]], it gains [[ATK]] equal to [the number of chosen cards] x 100. Then, [[shuffle]] the chosen card(s) into the [[owner]]'s [[Main Deck|Deck]].
   | ja_requirement  = 
   | ja_text         = 
-  | ko_condition    = 
-  | ko_requirement  = 
-  | ko_text         = 
   | jp_sets         = 
   RD/CA01-JP085; Cross Art Collection; Over Rush Rare
   | mentions        = Dark Magician (Rush Duel)
+  | supports        = Dragon
   | archseries      = Dark Magician (Rush Duel series)
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from Graveyard to Deck
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
   | database_id     = 
   }}
