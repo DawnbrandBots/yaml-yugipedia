@@ -1,26 +1,24 @@
 title: Amulet Dragon (Rush Duel)
 wikitext: |-
-  <!-- {{Unofficial lore|English}} -->
+  {{Unofficial lore|English}}
   {{CardTable2
-  | image           = 
+  | image           = AmuletDragon-RDCA01-JP-OP.png
   | attribute       = DARK
   | types           = Dragon / Fusion / Effect
   | level           = 8
   | atk             = 2900
   | def             = 2500
-  | materials       = 
-  | effect_types    = 
-  | condition       = 
-  | requirement     = 
-  | text            = 
-  | ja_condition    = 
+  | materials       = "[[Dark Magician (Rush Duel)|Dark Magician]]" + 1 [[Dragon]] [[Type]] [[monster]]
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = Choose any number of [[Spell Card]]s in the [[Graveyard]]s. While this card is [[face-up]], it gains [[ATK]] equal to [the number of chosen cards] x 100. Then, [[shuffle]] the chosen cards into the owner's Deck.
   | ja_requirement  = 
   | ja_text         = 
   | ko_condition    = 
   | ko_requirement  = 
   | ko_text         = 
   | jp_sets         = 
-  RD/????-JP0??; Cross Art Collection; 
+  RD/CA01-JP085; Cross Art Collection; Over Rush Rare
+  | mentions        = Dark Magician (Rush Duel)
   | archseries      = Dark Magician (Rush Duel series)
   | database_id     = 
   }}
