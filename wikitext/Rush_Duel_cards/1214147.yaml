@@ -3,20 +3,31 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディメンション・ペアリンク・{{Ruby|Ｒ|アール}}
-  | romaji_name     = Dimenshin Pearinku Āru
-  | image           = DimensionPairLinkR-RDCA01-JP-OP.png
-  | card_type       = Spell
-  | property        = Ritual
-  | requirement     = None
-  | text            = [[Ritual Summon]] "[[Wako Gozen Riletta]]" by [[send]]ing [[face-up]] [[monsters]] from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 8 or more as material (you cannot use more monsters than necessary as material). Then, you can send 1 card from your [[hand]] to the Graveyard. If you do, you can [[Special Summon]] 1 "[[Dimension Linker]]" from your Graveyard to your field in face-up [[Attack Position]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディメンション・ペアリンク・{{Ruby|Ｒ|アール}}
+  | romaji_name    = Dimenshin Pearinku Āru
+  | image          = DimensionPairLinkR-RDCA01-JP-OP.png
+  | card_type      = Spell
+  | property       = Ritual
+  | ritualmonster  = Wako Gozen Riletta
+  | requirement    = None
+  | text           = [[Ritual Summon]] "[[Wako Gozen Riletta]]" by [[send]]ing [[face-up]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). Then, you can send 1 card from your [[hand]] to the Graveyard. If you do, you can [[Special Summon]] 1 "[[Dimension Linker]]" from your Graveyard to your field in face-up [[Attack Position]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP031; Cross Art Collection; Over Rush Rare
-  | mentions        = 
+  | mentions       = 
   * Wako Gozen Riletta
   * Dimension Linker
-  | archseries      = Dimension Linker (series)
-  | database_id     = 
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Sends from your hand to your Graveyard
+  | summoning      = 
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Level
+  | database_id    = 
   }}

@@ -3,20 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディメンション・チャネル
-  | romaji_name     = Dimenshon Chaneru
-  | image           = DimensionChannel-RDCA01-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Cyberse / Effect
-  | level           = 4
-  | atk             = 700
-  | def             = 500
-  | requirement     = [[Shuffle]] 2 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text            = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you shuffled an [[EARTH]] [[Attribute]] [[Cyberse]] [[Type]] [[Ritual Monster]] to meet the requirement, you can [[destroy]] 1 [[Spell]]/[[Trap Card]] on your opponent's [[field]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディメンション・チャネル
+  | romaji_name    = Dimenshon Chaneru
+  | image          = DimensionChannel-RDCA01-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Cyberse / Effect
+  | level          = 4
+  | atk            = 700
+  | def            = 500
+  | requirement    = [[Shuffle]] 2 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = Increase this card's [[Level]] by 4 until the end of this [[turn]]. Then, if you shuffled an [[EARTH]] [[Attribute]] [[Cyberse]] [[Type]] [[Ritual Monster]] to meet the [[Activation condition|requirement]], you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's [[field]].
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP027; Cross Art Collection; Ultra Rare
-  | archseries      = Dimension Linker (series)
-  | database_id     = 
+  | supports       = 
+  * EARTH
+  * Cyberse
+  * Ritual Monster
+  | archseries     = Dimension Linker (series)
+  | action         = Returns from Graveyard to Deck for cost
+  | stat_change    = This card gains Levels
+  | m/s/t          = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | database_id    = 
   }}

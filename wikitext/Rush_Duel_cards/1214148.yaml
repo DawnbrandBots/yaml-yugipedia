@@ -3,17 +3,24 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディメンション・ジャンプ
-  | romaji_name     = Dimenshon Janpu
-  | image           = DimensionJump-RDCA01-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = None
-  | text            = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]] [[monster]] or 1 Level 4 monster with 500 [[DEF]] from among the cards sent. This [[turn]], you can only [[attack]] with Cyberse Type monsters.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディメンション・ジャンプ
+  | romaji_name    = Dimenshon Janpu
+  | image          = DimensionJump-RDCA01-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]] or 1 Level 4 monster with 500 [[DEF]] from among the cards sent. This [[turn]], you can only [[attack]] with Cyberse Type monsters.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP032; Cross Art Collection; Ultra Rare
-  | archseries      = Dimension Linker (series)
-  | database_id     = 
+  | supports       = 
+  * LIGHT
+  * Cyberse
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | attack         = Prevents your monsters from attacking
+  | database_id    = 
   }}

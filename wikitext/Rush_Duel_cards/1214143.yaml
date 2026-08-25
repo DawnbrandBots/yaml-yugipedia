@@ -3,20 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディメンション・オーペル
-  | romaji_name     = Dimenshon Ōperu
-  | image           = DimensionOper-RDCA01-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Cyberse / Effect
-  | level           = 4
-  | atk             = 1000
-  | def             = 500
-  | requirement     = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text            = [[Draw a card|Draw]] 1 card. Then, if you have 3 or more different [[Type|Monster Types]] in your Graveyard, you can [[Add a card|add]] 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]] [[monster]] from your Graveyard to your hand. This [[turn]], you can only [[attack]] with Level 8 or higher Cyberse Type monsters.
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディメンション・オーペル
+  | romaji_name    = Dimenshon Ōperu
+  | image          = DimensionOper-RDCA01-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Cyberse / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 500
+  | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 1 card. Then, if you have 3 or more different [[Type]]s in your Graveyard, you can [[Add a card|add]] 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] Type [[Monster Card|monster]] from your Graveyard to your hand. This [[turn]], you can only [[attack]] with Level 8 or higher Cyberse Type monsters.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP025; Cross Art Collection; Ultra Rare
-  | archseries      = Dimension Linker (series)
-  | database_id     = 
+  | supports       = 
+  * LIGHT
+  * Cyberse
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Adds from Graveyard to hand
+  | attack         = Prevents your monsters from attacking
+  | database_id    = 
   }}

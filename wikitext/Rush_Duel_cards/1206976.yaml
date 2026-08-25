@@ -12,13 +12,16 @@ wikitext: |-
   | level           = 8
   | atk             = 2600
   | def             = 2000
+  | ritualcard      = Dimension Pair Link L
   | effect_types    = Continuous
   | requirement     = None
-  | text            = This card gains [[ATK]] equal to [the number of different [[Type|Monster Types]] in your [[Graveyard]]] x 100. If you have 3 or more different Monster Types in your Graveyard, this card cannot be [[destroy]]ed by card [[effect]]s.
+  | text            = This card gains [[ATK]] equal to [the number of different [[Type]]s in your [[Graveyard]]] x 100. If you have 3 or more different Types in your Graveyard, this card cannot be [[destroy]]ed by card [[effect]]s.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP022; Cross Art Collection; Over Rush Rare
   | archseries      = Dimension Linker (series)
+  | stat_change     = This card gains ATK
+  | m/s/t           = Cannot be destroyed by card effects
   | database_id     = 
   }}

@@ -3,23 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ディメンション・リレッタ
-  | romaji_name     = Dimenshon Riretta
-  | image           = DimensionRiletta-RDCA01-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Cyberse / Effect
-  | level           = 8
-  | atk             = 2200
-  | def             = 2000
-  | condition       = You can [[Special Summon]] this card from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]] by [[send]]ing 1 other card from your hand to the [[Graveyard]].
-  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
-  | text            = Change the [[battle position]] of 1 face-up monster on the field. Then, if you have 3 or more different [[Type|Monster Types]] in your Graveyard, this card inflicts [[piercing]] [[battle damage]] this [[turn]].
-  | ja_condition    = 
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ディメンション・リレッタ
+  | romaji_name    = Dimenshon Riretta
+  | image          = DimensionRiletta-RDCA01-JP-OP.png
+  | attribute      = LIGHT
+  | types          = Cyberse / Effect
+  | level          = 8
+  | atk            = 2200
+  | def            = 2000
+  | condition      = You can [[Special Summon]] this card from your [[hand]] to your [[field]] in [[face-up]] [[Defense Position]] by [[send]]ing 1 other card from your hand to the [[Graveyard]].
+  | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text           = [[Battle position change|Change]] the [[battle position]] of 1 face-up [[Monster Card|monster]] on the field. Then, if you have 3 or more different [[Type]]s in your Graveyard, this card [[Damage|inflict]]s [[piercing]] [[battle damage]] this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP024; Cross Art Collection; Ultra Parallel Rare
-  | archseries      = Dimension Linker (series)
-  | database_id     = 
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Sends from hand to Graveyard for Special Summon
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Changes battle positions
+  | summoning      = Special Summons itself from your hand
+  | attack         = Piercing
+  | database_id    = 
   }}

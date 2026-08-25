@@ -9,12 +9,27 @@ wikitext: |-
   | image           = FudenIssen-RDCA01-JP-OP.png
   | card_type       = Trap
   | property        = Normal
-  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], [[shuffle]] 1 [[Cyberse]] [[Type]] monster and 1 non-Cyberse Type monster from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text            = Change 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]] to [[face-down]] [[Defense Position]]. Then, if you have a face-up [[EARTH]] [[Attribute]] Cyberse Type [[Ritual Monster]] on your field, you can [[destroy]] that opponent's monster.
+  | requirement     = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]], [[shuffle]] 1 [[Cyberse]] [[Type]] monster and 1 non-Cyberse Type monster from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = Choose 1 [[face-up]] [[Level]] 8 or lower monster on your opponent's [[field]], and [[Battle position change|change]] it to [[face-down]] [[Defense Position]]. Then, if you have a face-up [[EARTH]] [[Attribute]] Cyberse Type [[Ritual Monster]] on your field, you can [[destroy]] the chosen monster.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP034; Cross Art Collection; Ultra Rare
+  | supports        = 
+  * Cyberse
+  * EARTH
+  * Ritual Monster
   | archseries      = Dimension Linker (series)
+  | action          = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | m/s/t           = Destroys your opponent's face-down Monster Cards
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
   | database_id     = 
   }}

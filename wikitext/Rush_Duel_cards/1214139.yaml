@@ -3,22 +3,35 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = ティマイオスの{{Ruby|共|きょう}}{{Ruby|闘|とう}}
-  | romaji_name     = Timaiosu no Kyōtō
-  | image           = TheUnitedFrontwithTimaeus-RDCA01-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | requirement     = During a [[turn]] you have not [[activate]]d "The United Front with Timaeus".
-  | text            = [[Fusion Summon]] a [[Dragon]] [[Type]] [[monster]] that mentions "[[Dark Magician (Rush Duel)|Dark Magician]]" or "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]" as material by [[shuffling]] 2 non-[[Fusion Monster|Fusion]] [[DARK]] [[Attribute]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as material.
-  | ja_materials    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = ティマイオスの{{Ruby|共|きょう}}{{Ruby|闘|とう}}
+  | romaji_name    = Timaiosu no Kyōtō
+  | image          = TheUnitedFrontwithTimaeus-RDCA01-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = During a [[turn]] you have not [[activate]]d "The United Front with Timaeus".
+  | text           = [[Fusion Summon]] a [[Dragon]] [[Type]] [[Monster Card|monster]] that mentions "[[Dark Magician (Rush Duel)|Dark Magician]]" or "[[Dark Magician Girl (Rush Duel)|Dark Magician Girl]]" as [[material]] by [[Shuffle|shuffling]] 2 non-[[Fusion Monster|Fusion]] [[DARK]] [[Attribute]] monsters from your [[Graveyard]] into the [[Main Deck|Deck]] as material.
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP016; Cross Art Collection; Over Rush Rare
-  |mentions         = 
+  | mentions       = 
   * The United Front with Timaeus
   * Dark Magician (Rush Duel)
   * Dark Magician Girl (Rush Duel)
-  | archseries      = Dark Magician (Rush Duel series)
-  | database_id     = 
+  | supports       = 
+  * Dragon
+  * DARK
+  | archseries     = Dark Magician (Rush Duel series)
+  | action         = 
+  * Returns from your Graveyard to your Deck
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = 
+  * Only once per turn
+  * Mentions
+  | database_id    = 
   }}
