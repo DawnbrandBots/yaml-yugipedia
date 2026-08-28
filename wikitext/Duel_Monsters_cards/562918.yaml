@@ -70,7 +70,9 @@ wikitext: |-
   | m/s/t                 = 
   * Destroys itself
   * Destroys face-down Spell Cards
-  | action                = Changes control
+  | action                = 
+  * Activates upon changing control
+  * Changes control
   | life_points           = Prevents battle damage
   | misc                  = 
   * Only once per turn
