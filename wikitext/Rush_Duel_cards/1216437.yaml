@@ -6,7 +6,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Send]] 1 [[Spellcaster]] [[Type]] [[monster]] from your [[hand]] or 1 [[face-up]] Spellcaster Type monster from your [[field]] to the [[Graveyard]]. Then, if you have "[[Dark Magician (Rush Duel)|Dark Magician]]" in your Graveyard, you can Special Summon 1 "[[Dark Magician Knight (Rush Duel)|Dark Magician Knight]]" from your hand or Graveyard face-up to your field.
+  | text           = [[Send]] 1 [[Spellcaster]] [[Type]] [[Monster Card|monster]] from your [[hand]] or 1 [[face-up]] Spellcaster Type monster from your [[field]] to the [[Graveyard]]. Then, if you have "[[Dark Magician (Rush Duel)|Dark Magician]]" in your Graveyard, you can [[Special Summon]] 1 "[[Dark Magician Knight (Rush Duel)|Dark Magician Knight]]" from your hand or Graveyard face-up to your field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -14,6 +14,14 @@ wikitext: |-
   | mentions       = 
   * Dark Magician (Rush Duel)
   * Dark Magician Knight (Rush Duel)
+  | supports       = Spellcaster
   | archseries     = Dark Magician (Rush Duel series)
+  | action         = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  | summoning      = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc           = Requires control of specific Type
   | database_id    = 
   }}

@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Add a card|Add]] 1 "[[The Allied Dark Magicians]]" and/or 1 "[[The United Front with Timaeus]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], you can only [[attack]] with [[DARK]] [[Attribute]] [[monsters]].
+  | text           = [[Add a card|Add]] 1 "[[The Allied Dark Magicians]]" and/or 1 "[[The United Front with Timaeus]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], you can only [[attack]] with [[DARK]] [[Attribute]] [[Monster Card|monster]]s.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,6 +17,9 @@ wikitext: |-
   | mentions       = 
   * The Allied Dark Magicians
   * The United Front with Timaeus
+  | supports       = DARK
   | archseries     = Dark Magician (Rush Duel series)
+  | action         = Adds from Graveyard to hand
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}
