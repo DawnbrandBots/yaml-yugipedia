@@ -1,6 +1,6 @@
 title: Relinquished (archetype)
 wikitext: |-
-  {{Infobox archseries 
+  {{Infobox archseries
   | image        = Relinquished-MADU-EN-VG-artwork.png
   | caption      = "[[Relinquished]]"
   | ja_name      = サクリファイス
@@ -77,45 +77,44 @@ wikitext: |-
   "'''Relinquished'''", known as "'''Sacrifice'''" (サクリファイス ''Sakurifaisu'') in the ''[[OCG]]'', is an [[archetype]] of mostly [[DARK]] [[Spellcaster]] monsters used by [[Maximillion Pegasus]] in the ''[[Yu-Gi-Oh! (anime)|Yu-Gi-Oh!]]'' anime and [[Yu-Gi-Oh! (manga)|manga]]. It contains a single sub-archetype - "[[Eyes Restrict]]" (known as "'''Eyes Sacrifice'''" in the ''OCG'').
 
   Due to their Japanese names, "[[Samsara Lotus]]", "[[Samsara D Lotus]]", "[[Samsara Kaiser]]", "[[Byroad Sacrifice]]", and "[[Sword of Dark Rites]]" are also members of this archetype; however, since support for this archetype only supports monsters that cannot be [[Normal Summon]]ed/[[Normal Set|Set]], this is not an issue. While the other listed cards are thematically unrelated to "Relinquished", "Sword of Dark Rites" is a weapon based on the monster.
-  ==Design==
-  ===Members===
+
+  == Design ==
+  === Members ===
   The core intended members of the archetype are Level or Link 1 DARK Spellcaster monsters with 0 ATK, and, for the Ritual and Fusion Monsters, also 0 DEF.
-  {| class="wikitable" style="text-align: center"
-  ! Monster card type
-  ! Relinquished / Eyes Restrict
-  ! Summon procedure
+  {| class="wikitable"
+  ! scope="col" | Monster card type
+  ! scope="col" | Relinquished / Eyes Restrict
+  ! scope="col" | Summon procedure
   |-
-  ! rowspan = 2 | [[Ritual Monster|Ritual]]
+  ! scope="rowgroup" rowspan="2" | [[Ritual Monster|Ritual]]
   | [[Relinquished]]
-  | [[Black Illusion Ritual]]<sup>1</sup>
+  | [[Black Illusion Ritual]]{{efn|Specified [[Ritual Spell]].}}
   |-
   | [[Relinquished the Wicked Eye of Illusion]]
-  | Relinquished the Wicked Eye of Illusion<ref group=Notes name=Lawton>This monster does not have a dedicated Ritual Spell Card and instead Ritual Summons itself with its own effect.</ref>
+  | Relinquished the Wicked Eye of Illusion<ref group="Notes" name="Lawton">This monster does not have a dedicated Ritual Spell Card and instead Ritual Summons itself with its own effect.</ref>
   |-
-  ! rowspan = 3 | [[Fusion Monster|Fusion]]
+  ! scope="rowgroup" rowspan="3" | [[Fusion Monster|Fusion]]
   | [[Thousand-Eyes Restrict]]
-  | "Relinquished" + "[[Thousand-Eyes Idol]]"<sup>2</sup>
+  | "Relinquished" + "[[Thousand-Eyes Idol]]"{{efn|name=fm|[[Fusion Material]]s.}}
   |-
   | [[Millennium-Eyes Restrict]]
-  | "Relinquished" + 1 [[Effect Monster]]<sup>2</sup>
+  | "Relinquished" + 1 [[Effect Monster]]{{efn|name=fm}}
   |-
   | [[Nightmare-Eyes Restrict]]
-  | 2 monsters with different types ([[Fiend]], [[Illusion]], or [[Spellcaster]])<sup>2</sup>
+  | 2 monsters with different types ([[Fiend]], [[Illusion]], or [[Spellcaster]]){{efn|name=fm}}
   |-
-  ! [[Link Monster|Link]]
+  ! scope="row" | [[Link Monster|Link]]
   | [[Relinquished Anima]]
-  | 1 Level 1 monster, except a Token<sup>3</sup>
+  | 1 Level 1 monster, except a Token{{efn|[[Link Material]]s.}}
   |}
-  <small>
-  # Specified [[Ritual Spell]].
-  # [[Fusion Material]]s.
-  # [[Link Material]]s.
-  </small>
-  ===Support===
+  {{Notelist}}
+
+  === Support ===
   Pegasus used a series of other DARK monsters alongside "Relinquished" in the manga and anime. In the card game, these monsters were later given retrained forms with effects that supported the playstyle of "Relinquished" / "Eyes Restrict".
-  {| class="wikitable" style="text-align:center"
+  {| class="wikitable"
   |-
-  ! Monster !! [[Retrained]]
+  ! scope="col" | Monster
+  ! scope="col" | [[Retrained]]
   |-
   | [[Dark-Eyes Illusionist]]
   | [[Millennium-Eyes Illusionist]]
@@ -131,9 +130,10 @@ wikitext: |-
 
   While not directly related to these cards, "[[Fleeting Phantom Mask Master]]" is intended to be used with them.<ref name="Mask">{{Cite tweet |user=YuGiOh_OCG_INFO |number=2001261094686408798 |date=17 December 2025 |title=Blazing Dominion|language=Japanese |access-date=18 December 2025}}</ref>
 
-  ==Playing style==
+  == Playing style ==
   The "Relinquished" / "Eyes Restrict" monsters all have effects that let them equip other monsters to themselves, and gain ATK/DEF equal to the monsters they are equipped with. As a Deck, the Deck generally aims to turbo out "[[Millennium-Eyes Restrict]]" as quickly as possible and equipping the opponent's monsters to it, boosting its stats to very high levels and negating the effects of the opponent's key monsters.
-  ===Recommended cards===
+
+  === Recommended cards ===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
   |effect monsters =
@@ -232,16 +232,17 @@ wikitext: |-
   * [[Dimension Guardian]]
   * [[Sinful Spoils Sanctification]]
   }}
-  {{Archseries navbox}}
-  {{Archseries navbox (anime)}}
-  {{Archseries navbox (manga)}}
-  {{Archseries navbox (Duel Links)}}
+
+  == Notes ==
+  <references group="Notes" />
 
   == References ==
   <references />
 
-  ==Notes==
-  <references group="Notes" />
+  {{Archseries navbox}}
+  {{Archseries navbox (anime)}}
+  {{Archseries navbox (manga)}}
+  {{Archseries navbox (Duel Links)}}
 
   [[Category:Archetypes]]
   [[Category:TCG and OCG archetypes]]
