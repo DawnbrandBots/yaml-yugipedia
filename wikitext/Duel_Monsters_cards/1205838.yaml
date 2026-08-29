@@ -1,7 +1,5 @@
 title: Elemental Saga Doriado
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -12,7 +10,6 @@ wikitext: |-
   | base_romaji_name     = Seireiseihi Doriādo
   | base_translated_name = Spirit World Queen Doriado
   | romaji_name          = Erementaru Sāga Doriādo
-  | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 精灵世妃 多里雅德
@@ -26,8 +23,8 @@ wikitext: |-
   | atk                  = 2400
   | def                  = 2800
   | password             = 50208444
-  | effect_types         = Condition, Ignition, Ignition, Condition
-  | text                 = Neither player can [[activate]] cards or [[effect]]s in response to the activation of this card's effects. If you have 3 or more different [[Attribute]]s in your [[GY]] and this card is in your [[hand]]: You can [[target]] 1 monster in your GY; [[Special Summon]] both it and this card. If you have 3 or more different Attributes in your GY: You can Special Summon 1 monster from your [[Main Deck|Deck]] with a different Attribute from the monsters in your [[field]] and GY. You can only use each effect of "Elemental Saga Doriado" [[once per turn]].
+  | effect_types         = Ignition, Ignition, Condition
+  | text                 = If this card is in your [[hand]], and you have 3 or more different [[Attribute]]s among the [[monsters]] in your [[GY]]: You can [[target]] 1 monster in your GY; [[Special Summon]] both it and this card. If you have 3 or more different Attributes among the monsters in your GY: You can Special Summon 1 monster from your [[Main Deck|Deck]] with a different Attribute from the monsters in your [[field]] or GY. You can only use each effect of "Elemental Saga Doriado" [[once per turn]], also neither player can [[activate]] cards or [[effect]]s in response to either of these effect activations.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -36,6 +33,18 @@ wikitext: |-
   | ja_text              = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果の発動に対して魔法・罠・モンスターの効果は発動できない。①：このカードが手札に存在し、自分の墓地のモンスターの属性が３種類以上の場合、自分の墓地のモンスター１体を対象として発動できる。そのモンスターとこのカードを特殊召喚する。②：自分の墓地のモンスターの属性が３種類以上の場合に発動できる。同じ属性のモンスターが自分のフィールド・墓地に存在しないモンスター１体をデッキから特殊召喚する。
   | ko_text              = 
   | sc_text              = 此卡名的①②效果1回合仅可各使用1次，应对此效果的发动，魔法・陷阱・怪兽的效果不可发动。①：此卡存在于手牌，且自己墓地的怪兽的属性为3种以上的情况下，以自己墓地的1只怪兽为对象可以发动。将该怪兽和此卡特殊召唤。②：自己墓地的怪兽的属性为3种以上的情况下可以发动。从牌组将自己场上・墓地不存在相同属性怪兽的1只怪兽特殊召唤。
+  | en_sets               = 
+  BETB-EN028; Beyond the Brave; Secret Rare
+  | fr_sets               = 
+  BETB-FR028; Beyond the Brave; Secret Rare
+  | de_sets               = 
+  BETB-DE028; Beyond the Brave; Secret Rare
+  | it_sets               = 
+  BETB-IT028; Beyond the Brave; Secret Rare
+  | pt_sets               = 
+  BETB-PT028; Beyond the Brave; Secret Rare
+  | sp_sets               = 
+  BETB-SP028; Beyond the Brave; Secret Rare
   | jp_sets              = 
   BETB-JP028; Beyond the Brave; Ultimate Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets              = 
