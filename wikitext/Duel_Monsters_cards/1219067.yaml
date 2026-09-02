@@ -33,5 +33,15 @@ wikitext: |-
   | mentions            = The Stars of Raise Moon
   | archseries          = Raise Moon
   | supports_archetypes = Raise Moon
+  | action              = 
+  * Places cards from the Deck on the top of the Deck
+  * You draw cards
+  * Your opponent draws cards
+  * Prevents adding cards from Deck to hand
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Variable effects
+  * Requires control of specific Type
+  * Requires control of specific archetype
   | database_id         = 
   }}
