@@ -15,6 +15,7 @@ wikitext: |-
   | ko_romanized   = Neombeojeu
   | pt_name        = Número
   | es_name        = Número
+  | sc_name        = 号数
   | sets           = 
   * [[Shadow Specters]]
   | tcg            = 
@@ -39,11 +40,12 @@ wikitext: |-
   * [[Yu-Gi-Oh! D Team ZEXAL]]
   * [[Yu-Gi-Oh! ARC-V (manga)|Yu-Gi-Oh! ARC-V]]
   }}
+
   "'''Number'''", known as "'''Numbers'''" (ナンバーズ ''Nanbāzu'') in the ''[[OCG]]'', is an [[archetype]] of [[Spell Cards|Spells]]/[[Trap Cards|Traps]] that support "[[Number]]" [[Xyz Monster]]s.
 
-  == Trivia ==
-  * While it has only one support card ("[[Astraltopia]]"), this archetype technically has the most members of any archetype, due to all "Number" Xyz Monsters ({{card name|Number|ja}} ''{{romanized name|Number|ja}}'') also being part of this archetype; however, the vast majority of the members are monsters, which are not directly supported by "Astraltopia", which specifically searches Spells and Traps.
-  ** Excluding the 4 [[Boss Duel]]-only Tokens Summoned by "[[Don Thousand/Spell B]]", this archetype has a total of {{hardcoded query|{{#ask: [[Archseries::Number (Spell/Trap archetype)]] [[Concept:CG cards]] [[Belongs to::+]]|format=count}}}} members: {{hardcoded query|{{#ask: [[Archseries::Number]] [[Primary type::Xyz Monster]] [[Concept:CG monsters]]|format=count}}}} Xyz Monsters, "[[Numeral Hunter]]", and {{hardcoded query|{{#ask: [[Archseries::Number (Spell/Trap archetype)]] [[Concept:CG non-monster cards]]|format=count}}}} Spell/Trap Cards.
+  While it has only one support card ("[[Astraltopia]]"), this technically has the most members of any archetype, due to the monster archetype (「{{card name|Number|ja}}」) being part of it, which works out in a total of {{hardcoded query|{{#ask: [[Archseries::Number (Spell/Trap archetype)]] [[Concept:CG cards]]|format=count}}}} members: {{hardcoded query|{{#ask: [[Archseries::Number]] [[Primary type::Xyz Monster]] [[Concept:CG monsters]]|format=count}}}} Xyz Monsters, 4 [[Boss Duel]]-only [[Monster Token|Tokens]] Summoned by "[[Don Thousand/Spell B]]", "[[Numeral Hunter]]", and {{hardcoded query|{{#ask: [[Archseries::Number (Spell/Trap archetype)]] [[Concept:CG non-monster cards]]|format=count}}}} Spell/Trap Cards.
+
+  However, "Astraltopia" specifically only searches the Spells and Traps, so its effective size is very small.
 
   {{Archseries navbox}}
   {{Archseries navbox (anime)}}
