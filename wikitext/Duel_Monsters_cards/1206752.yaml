@@ -3,42 +3,42 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name               = 
-  | de_name               = 
-  | it_name               = 
-  | pt_name               = 
-  | es_name               = 
-  | ja_name               = セネトの{{Ruby|啓|けい}}{{Ruby|示|じ}}{{Ruby|者|しゃ}}－アメンホテプ
-  | romaji_name           = Seneto no Keijisha - Amenhotepu
-  | translated_name       = Senet Prophet - Amenhotep
-  | ko_name               = 
-  | ko_rr_name            = 
-  | sc_name               = 塞尼特的启示者－阿蒙霍特普
-  | image                 = ZenetProphetAmenhotep-DBGV-JP-OP.png
-  | attribute             = LIGHT
-  | types                 = Zombie / Effect
-  | level                 = 4
-  | atk                   = 0
-  | def                   = 1500
-  | password              = 
-  | effect_types          = Trigger, Ignition, Condition
-  | text                  = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[send]] it to the [[GY]]; [[show]] up to 2 [[Normal Monster Cards]] from your [[hand]], [[Main Deck|Deck]], [[face-up]] [[field]], and/or GY, then [[Set]] that many "[[Zenet]]" [[Traps]] from your Deck. You can [[banish]] this card from your [[GY]], then [[target]] up to 3 Normal Monsters in your GY; [[shuffle]] them into the Deck. You can only use each effect of "Zenet Prophet - Amenhotep" once per turn.
-  | fr_text               = 
-  | de_text               = 
-  | it_text               = 
-  | pt_text               = 
-  | es_text               = 
-  | ja_text               = 
-  | ko_text               = 
-  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下，将此卡送至墓地可以发动。挑选自己手牌・牌组・场上（表侧表示）・墓地的最多2张通常怪兽卡给双方确认。然后，依其数量从牌组将“塞尼特”陷阱卡放置在自己场上。②：将墓地的此卡除外，以自己墓地的最多3只通常怪兽为对象可以发动。将该怪兽放回牌组。
-  | jp_sets               = 
-  DBGV-JP002; Deck-Build Pack: Glorious Victors; 
-  | sc_sets               = 
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = セネトの{{Ruby|啓|けい}}{{Ruby|示|じ}}{{Ruby|者|しゃ}}－アメンホテプ
+  | romaji_name         = Seneto no Keijisha - Amenhotepu
+  | translated_name     = Senet Prophet - Amenhotep
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 塞尼特的启示者－阿蒙霍特普
+  | image               = ZenetProphetAmenhotep-DBGV-JP-C.png
+  | attribute           = LIGHT
+  | types               = Zombie / Effect
+  | level               = 4
+  | atk                 = 0
+  | def                 = 1500
+  | password            = 10007434
+  | effect_types        = Trigger, Ignition, Condition
+  | text                = If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[send]] it to the [[GY]]; [[show]] up to 2 [[Normal Monster Cards]] from your [[hand]], [[Main Deck|Deck]], [[face-up]] [[field]], and/or GY, then [[Set]] that many "[[Zenet]]" [[Traps]] from your Deck. You can [[banish]] this card from your [[GY]], then [[target]] up to 3 Normal Monsters in your GY; [[shuffle]] them into the Deck. You can only use each effect of "Zenet Prophet - Amenhotep" once per turn.
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、このカードを墓地へ送って発動できる。自分の手札・デッキ・フィールド（表側表示）・墓地の通常モンスターカードを２枚まで選び、お互いに確認する。その後、その数だけデッキから「セネト」罠カードを自分フィールドにセットする。②：墓地のこのカードを除外し、自分の墓地の通常モンスターを３体まで対象として発動できる。そのモンスターをデッキに戻す。
+  | ko_text             = 
+  | sc_text             = 此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下，将此卡送至墓地可以发动。挑选自己手牌・牌组・场上（表侧表示）・墓地的最多2张通常怪兽卡给双方确认。然后，依其数量从牌组将“塞尼特”陷阱卡放置在自己场上。②：将墓地的此卡除外，以自己墓地的最多3只通常怪兽为对象可以发动。将该怪兽放回牌组。
+  | jp_sets             = 
+  DBGV-JP002; Deck-Build Pack: Glorious Victors; Common, Normal Parallel Rare
+  | sc_sets             = 
   DBGV-SC002; Deck-Build Pack: Glorious Victors; 
-  | supports              = Normal Monster
-  | archseries            = Zenet
-  | supports_archetypes   = Zenet
-  | action                = 
+  | supports            = Normal Monster
+  | archseries          = Zenet
+  | supports_archetypes = Zenet
+  | action              = 
   * Activates upon Normal Summon
   * Activates upon Special Summon
   * Sends itself from field to Graveyard for cost
@@ -49,7 +49,7 @@ wikitext: |-
   * Sets from your Deck
   * Activates from your Graveyard
   * Returns from your Graveyard to your Deck
-  | banished              = Banishes itself from Graveyard for cost
-  | misc                  = Only once per turn
-  | database_id           = 
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = Only once per turn
+  | database_id         = 23533
   }}
