@@ -34,6 +34,9 @@ wikitext: |-
   | sc_sets             = 
   DBGV-SC024; Deck-Build Pack: Glorious Victors; 
   | mentions            = The Stars of Raise Moon
+  | supports            = 
+  * Spellcaster
+  * Xyz Monster
   | archseries          = Raise Moon
   | supports_archetypes = Raise Moon
   | action              = 
@@ -41,10 +44,12 @@ wikitext: |-
   * You draw cards
   * Your opponent draws cards
   * Prevents adding cards from Deck to hand
+  * Activates from your Graveyard
   | banished            = Banishes itself from Graveyard for cost
   | misc                = 
   * Variable effects
   * Requires control of specific Type
   * Requires control of specific archetype
+  * Requires control of specific Monster card type
   | database_id         = 23551
   }}
