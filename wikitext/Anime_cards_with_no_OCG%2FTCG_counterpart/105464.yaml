@@ -2,19 +2,21 @@ title: Circle of Terror
 wikitext: |-
   {{Anime card
   | ja_name       = サークル・オブ・テラー
-  | romaji_name   = Sākuru obu Terā
+  | romaji_name   = Sākuru Obu Terā
   | image         = CircleofTerror-EN-Anime-5D.png
   | ja_image      = CircleofTerror-JP-Anime-5D.png
   | image_ca      = CircleofTerror-OW.png
   | image_nc      = CircleofTerror-JP-Anime-5D-NC.png
   | card_type     = Spell
   | property      = Continuous
-  | effect_types  = Ignition-like, Condition
-  | text          = During their [[turn]], the [[turn player]] can [[send]] 1 [[Monster Card]] from their [[hand]] to the [[Graveyard]]. If they have not sent a card to the Graveyard for this effect, that turn they cannot [[Normal Summon|Normal]] or [[Special Summon]] monsters from their [[hand]].
+  | effect_types  = Ignition-like, Continuous-like
+  | text          = During each of their [[turn]]s, the [[turn player]] can [[send]] 1 [[Monster Card]] from their [[hand]] to the [[Graveyard]]. Neither player can [[Normal Summon|Normal]] or [[Special Summon]] monsters from the [[hand]] unless they have sent a card to the Graveyard with this effect during this turn.
   | ja_text       = お互いのプレイヤーは自分のターン毎に手札のモンスターカード１枚を墓地へ送る事ができる。この効果でカードを墓地へ送らなかった場合、そのターンそれぞれのプレイヤーは手札のモンスターを召喚・特殊召喚する事ができない。
   | appears_in_5d = 070
   | decks         = Haley
-  | action        = Sends from hand to Graveyard for cost
+  | action        = 
+  * Sends from your hand to your Graveyard
+  * Sends from your opponent's hand to your opponent's Graveyard
   | summoning     = 
   * Prevents Normal Summons
   * Prevents Special Summons
