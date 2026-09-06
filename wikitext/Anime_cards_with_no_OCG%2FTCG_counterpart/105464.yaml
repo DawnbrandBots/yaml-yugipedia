@@ -10,13 +10,12 @@ wikitext: |-
   | card_type     = Spell
   | property      = Continuous
   | effect_types  = Ignition-like, Condition
-  | text          = Once per [[turn]], the turn player can [[discard]] 1 [[Monster Card]]. If they do not, they cannot [[Normal Summon|Normal]] or [[Special Summon]] monsters from their [[hand]] during that turn.
+  | text          = During their [[turn]], the [[turn player]] can [[send]] 1 [[Monster Card]] from their [[hand]] to the [[Graveyard]]. If they have not sent a card to the Graveyard for this effect, that turn they cannot [[Normal Summon|Normal]] or [[Special Summon]] monsters from their [[hand]].
   | ja_text       = お互いのプレイヤーは自分のターン毎に手札のモンスターカード１枚を墓地へ送る事ができる。この効果でカードを墓地へ送らなかった場合、そのターンそれぞれのプレイヤーは手札のモンスターを召喚・特殊召喚する事ができない。
   | appears_in_5d = 070
   | decks         = Haley
-  | action        = Discards for cost
+  | action        = Sends from hand to Graveyard for cost
   | summoning     = 
   * Prevents Normal Summons
   * Prevents Special Summons
-  | misc          = Limited activations
   }}
