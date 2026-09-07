@@ -4,16 +4,28 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name              = {{Ruby|お別れの風|ロストリーム・ストリーム}}
+  | base_romaji_name     = Owakare no Kaze
+  | base_translated_name = The Winds of Farewell
   | romaji_name          = Rosutorīmu Sutorīmu
   | image                = LostreamStream-RDCA01-JP-OP.png
   | card_type            = Trap
   | property             = Normal
-  | requirement          = When your opponent [[Normal Summon]]s a [[monster]].
-  | text                 = [[Send]] 1 [[face-up]] [[Union monster|Union Monster Card]] from your [[field]] to the [[Graveyard]]. Then, if you sent a [[Sea Serpent]] [[Type]] Monster Card to the Graveyard by this [[effect]], you can change up to 2 face-up [[Effect Monster]]s on your opponent's field to [[face-down]] [[Defense Position]].
+  | requirement          = When your opponent [[Normal Summon]]s a [[Monster Card|monster]].
+  | text                 = [[Send]] 1 [[face-up]] [[Union monster|Union Monster Card]] from your [[field]] to the [[Graveyard]]. Then, if you sent a [[Sea Serpent]] [[Type]] Monster Card to the Graveyard by this [[effect]], you can [[Battle position change|change]] up to 2 face-up [[Effect Monster]]s on your opponent's field to [[face-down]] [[Defense Position]].
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/CA01-JP046; Cross Art Collection; Ultra Rare
+  | supports             = 
+  * Union monster
+  * Sea Serpent
+  | anti-supports        = Effect Monster
   | archseries           = Lostream
+  | action               = 
+  * Activates upon Normal Summon
+  * Sends from your field to your Graveyard
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | misc                 = Requires control of specific Monster type
   | database_id          = 
   }}

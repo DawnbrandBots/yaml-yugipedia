@@ -4,16 +4,27 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name              = {{Ruby|風に揺蕩う飛来物|ロストリーム・レコード}}
+  | base_romaji_name     = Kaze ni Tayutau Hiraibutsu
+  | base_translated_name = An Object Flying and Swaying in the Wind
   | romaji_name          = Rosutorīmu Rekōdo
   | image                = LostreamRecord-RDCA01-JP-OP.png
   | card_type            = Spell
   | property             = Normal
   | requirement          = None
-  | text                 = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] up to 2 excavated [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] [[monsters]] to your hand. Place the other cards on the bottom of your Deck in any order. Then, if you added 2 monsters to your hand by this [[effect]], [[send]] 1 card from your hand to the [[Graveyard]]. This [[turn]], you can only [[attack]] with WIND Attribute Sea Serpent Type monsters.
+  | text                 = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] up to 2 excavated [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] [[Monster Card|monster]]s to your [[hand]]. Place the other cards on the bottom of your Deck in any order. If you added 2 monsters to your hand by this [[effect]], [[send]] 1 card from your hand to the [[Graveyard]]. This [[turn]], you can only [[attack]] with WIND Attribute Sea Serpent Type monsters.
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/CA01-JP044; Cross Art Collection; Ultra Rare
+  | supports             = 
+  * WIND
+  * Sea Serpent
   | archseries           = Lostream
+  | action               = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Places excavated cards on the bottom of the Deck
+  * Sends from your hand to your Graveyard
+  | attack               = Prevents your monsters from attacking
   | database_id          = 
   }}

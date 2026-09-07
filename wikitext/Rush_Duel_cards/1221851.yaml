@@ -4,6 +4,8 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name              = {{Ruby|雲海竜|ロストリーム}} ポルカ
+  | base_romaji_name     = Unkairyū Poruka
+  | base_translated_name = Cloud Sea Dragon Polka
   | romaji_name          = Rosutorīmu Poruka
   | image                = LostreamPolka-RDCA01-JP-OP.png
   | attribute            = WIND
@@ -12,11 +14,23 @@ wikitext: |-
   | atk                  = 1000
   | def                  = 600
   | requirement          = None
-  | text                 = [[Equip]] this card to 1 [[face-up]] [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] monster on your field as an [[Equip Spell Card]] with the following effect. Then, you can [[Add a card|add]] 1 [[Level]] 5 or higher WIND Attribute Sea Serpent Type monster from your [[Graveyard]] to your [[hand]]. ● While the equipped monster is face-up on your field, your opponent cannot declare an [[attack]] on monsters that are not equipped with an Equip Spell Card.
+  | text                 = [[Equip]] this card to 1 [[face-up]] [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] [[Monster Card|monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. Then, you can [[Add a card|add]] 1 [[Level]] 5 or higher WIND Attribute Sea Serpent Type monster from your [[Graveyard]] to your [[hand]]. ●While the equipped monster is face-up on your field, your opponent cannot [[declare]] an [[attack]] on monsters that are not equipped with an Equip Spell Card.
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/CA01-JP040; Cross Art Collection; Ultra Rare
+  | supports             = 
+  * WIND
+  * Sea Serpent
+  * Equip Spell Card
   | archseries           = Lostream
+  | action               = 
+  * Equips self from field
+  * Adds from Graveyard to hand
+  | m/s/t                = Treated as Equip Card
+  | attack               = Prevents other cards being targeted for attacks
+  | misc                 = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id          = 
   }}

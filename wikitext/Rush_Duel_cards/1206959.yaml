@@ -13,12 +13,24 @@ wikitext: |-
   | level                = 5
   | atk                  = 2000
   | def                  = 1500
-  | requirement          = Change the [[battle position]] of 1 [[face-up]] [[monster]] on your [[field]].
-  | text                 = [[Equip]] this card to 1 face-up [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] monster on your field as an [[Equip Spell Card]] with the following effect. Then, you can place 1 [[Spell]]/[[Trap Card]] from your opponent's field on the bottom of the owner's [[Main Deck|Deck]]. ● The equipped monster gains 1000 [[DEF]].
+  | requirement          = [[Battle position change|Change]] the [[battle position]] of 1 [[face-up]] [[Monster Card|monster]] on your [[field]].
+  | text                 = [[Equip]] this card to 1 face-up [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] monster on your field as an [[Equip Spell Card]] with the following [[effect]]. Then, you can place 1 [[Spell Card|Spell]]/[[Trap Card]] from your opponent's field on the bottom of the [[owner]]'s [[Main Deck|Deck]]. ●The equipped monster gains 1000 [[DEF]].
   | ja_requirement       = 
   | ja_text              = 
   | jp_sets              = 
   RD/CA01-JP037; Cross Art Collection; Ultra Parallel Rare, Over Rush Rare
+  | supports             = 
+  * WIND
+  * Sea Serpent
   | archseries           = Lostream
+  | action               = 
+  * Changes battle positions for cost
+  * Equips self from field
+  * Places cards from the opponent's field on the bottom of the Deck
+  | stat_change          = Equipped gains DEF
+  | m/s/t                = Treated as Equip Card
+  | misc                 = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id          = 
   }}
