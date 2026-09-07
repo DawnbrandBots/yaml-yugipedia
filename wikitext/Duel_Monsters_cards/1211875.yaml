@@ -14,13 +14,13 @@ wikitext: |-
   | sc_name         = 
   | image           = ArmorWizardPazoo-VJMP-JP-OP.png
   | attribute       = LIGHT
-  | types           = ??? / Effect
+  | types           = Spellcaster / Effect
   | level           = 3
-  | atk             = ???
-  | def             = ???
+  | atk             = 0
+  | def             = 700
   | password        = 
-  | effect_types    = 
-  | text            = 
+  | effect_types    = Condition, Ignition, Condition, Continuous-like, Continuous-like
+  | text            = (This card is always treated as a "[[Prophecy]]" card.)<br />If this card is in your [[hand]] or [[GY]]: You can [[target]] 1 [[face-up]] [[monster]] you [[control]]; [[equip]] this card to it as an [[Equip Spell]] with the following [[effect]]s. You can only use this effect of "Armor Wizard Pazoo" [[once per turn]].<br />● The equipped monster gains 2100 [[ATK]]/[[DEF]] while your LP are 4000 or less.<br />● When a card or effect activated by your opponent [[resolve]]s, if you control a card with an effect that requires a die roll, you can [[negate]] the activated effect, then [[banish]] this card.
   | fr_text         = 
   | de_text         = 
   | it_text         = 
@@ -32,5 +32,6 @@ wikitext: |-
   | jp_sets         = 
   VJMP-JP297; V Jump November 2026 promotional card; Ultra Rare
   | archseries      = Prophecy
+  | misc            = Archetype condition
   | database_id     = 
   }}
