@@ -33,8 +33,22 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   YAC1-JP022; Original Artwork Collection; Ultra Rare, Secret Rare
+  | supports            = Fiend
   | archseries          = 
   * Archfiend
   * Signature move
+  | action              = 
+  * Activates from your hand
+  * Sends itself from hand to Graveyard for cost
+  * You draw cards
+  * You discard as an effect
+  * Activates if destroyed by battle
+  * Activates from your Graveyard
+  | stat_change         = Your opponent's monsters lose ATK
+  | summoning           = Special Summons itself from your Graveyard
+  | banished            = Banishes itself when it leaves the field
+  | misc                = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id         = 
   }}
