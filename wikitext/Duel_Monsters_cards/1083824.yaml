@@ -47,7 +47,7 @@ wikitext: |-
   * Returns the player's banished cards to the Deck
   * You draw cards
   * Activates from your Graveyard
-  * Places cards from Graveyard in Spell & Trap Zone
+  * Places itself from Graveyard in Spell & Trap Zone
   | stat_change     = Changes Type
   | misc            = Only once per turn
   | database_id     = 20707

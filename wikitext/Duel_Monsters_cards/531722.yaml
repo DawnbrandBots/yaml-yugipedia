@@ -4,12 +4,12 @@ wikitext: |-
   | fr_name         = Gardna de Sécurisation
   | de_name         = Sichere Wache
   | it_name         = Gardna Sicuro
-  | ko_name         = 시큐어 가드너
   | pt_name         = Gardna Seguro
   | es_name         = Gardna Seguro
   | ja_name         = セキュア・ガードナー
   | romaji_name     = Sekyua Gādonā
   | translated_name = Secure Guardner
+  | ko_name         = 시큐어 가드너
   | sc_name         = 安全守卫
   | image           = SecureGardna-BLAR-EN-UR-1E.png
   | attribute       = LIGHT
@@ -27,7 +27,7 @@ wikitext: |-
   | pt_text         = 1 Monstro Link Ciberso<br />Depois que este card for Invocado por Invocação-Especial, você não sofre dano de efeito pelo resto deste turno. Uma vez por turno, se você sofreria dano de batalha ou de efeito, você não sofre dano. Não pode ser usado como Matéria Link. Você só pode controlar 1 "Gardna Seguro".
   | es_text         = 1 Monstruo de Enlace Ciberso<br />Después de que esta carta es Invocada de Modo Especial, no recibes daño de efectos por el resto de este turno. Una vez por turno, si fueras a recibir daño de batalla o efecto, no recibes daño. No puede ser usado como Material de Enlace. Sólo puedes controlar 1 "Gardna Seguro".
   | ja_text         = サイバース族リンクモンスター１体<br />このカードはリンク素材にできない。①：「セキュア・ガードナー」は自分フィールドに１体しか表側表示で存在できない。②：このカードが特殊召喚に成功したターン、自分が受ける効果ダメージは０になる。③：自分が戦闘・効果でダメージを受ける場合、１ターンに１度だけそのダメージは０になる。
-  | sc_text         = 电子界族连接怪兽1只<br />此卡不可作为连接素材。①：“安全守卫”在自己场上仅可有1只以表侧表示存在。②：此卡特殊召唤成功的余下回合，自己受到的效果伤害变为0。③：自己将因战斗・效果受到伤害的情况下，1回合仅1次，该伤害变为0。
+  | sc_text         = 电子界族连接怪兽1只<br />此卡不可作为连接素材。①：“安全守卫”在自己场上仅可有1张以表侧表示存在。②：此卡特殊召唤时适用。此回合，自己受到的效果伤害变为0。③：自己将因战斗・效果受到伤害的情况下，1回合仅1次，该伤害变为0。
   | en_sets         = 
   EXFO-EN043; Extreme Force; Common
   MP18-EN199; 2018 Mega-Tin Mega Pack; Common
@@ -58,6 +58,7 @@ wikitext: |-
   EXFO-KR043; Extreme Force; Rare
   | sc_sets         = 
   MGP1-SC126; Mega Pack 01; Rare
+  UT01-SC043; Utility Selection; Ultra Rare, Secret Rare
   | database_id     = 13414
   | mentions        = Secure Gardna
   | supports        = 
