@@ -23,7 +23,7 @@ wikitext: |-
   | password             = 
   | ritualcard           = Reindsurm Conquest
   | effect_types         = Quick, Ignition, Condition
-  | text                 = You can [[Ritual Summon]] this card with "[[Reindsurm Conquest]]". When your opponent [[activate]]s a [[monster effect]] in the [[field]] or [[GY]] and you [[control]] this Ritual Summoned card ([[Quick Effect]]): You can [[negate]] the activation, then you can [[shuffle]] 1 monster your opponent controls and 1 monster in their GY into the [[Main Deck|Deck]], also if either of them was a [[Dragon]] monster, double this card's [[ATK]]. If this card and a [[LIGHT]] "Reindsurm" monster are in your GY: You can [[Add a card|add]] this card to your hand. You can only use each effect of "Reindsurm Giriakarma" once per turn.
+  | text                 = You can [[Ritual Summon]] this card with "[[Reindsurm Conquest]]". When your opponent [[activate]]s a [[monster effect]] in the [[field]] or [[GY]] and you [[control]] this Ritual Summoned card ([[Quick Effect]]): You can [[negate]] the activation, then you can [[shuffle]] 1 monster each from both your opponent's field and GY into the [[Main Deck|Deck]], also if either of them was a [[Dragon]] monster, double this card's [[ATK]]. If this card and a [[LIGHT]] "Reindsurm" monster are in your GY: You can [[Add a card|add]] this card to your hand. You can only use each effect of "Reindsurm Giriakarma" once per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,9 +33,21 @@ wikitext: |-
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  IMPH-JP028; Immortal Phoenix; Ultra Rare
+  IMPH-JP028; Immortal Phoenix; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | mentions             = Reindsurm Conquest
+  | supports             = LIGHT
+  | anti-supports        = Dragon
   | archseries           = Reindsurm
   | supports_archetypes  = Reindsurm
+  | action               = 
+  * Returns from your opponent's field to your opponent's Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Activates from your Graveyard
+  * Returns itself from Graveyard to hand
+  | stat_change          = 
+  * Doubles ATK
+  * This card gains ATK
+  | m/s/t                = Negates the activation of your opponent's Effect Monster's effect
+  | misc                 = Only once per turn
   | database_id          = 
   }}
