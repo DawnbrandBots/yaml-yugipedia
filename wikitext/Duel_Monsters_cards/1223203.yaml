@@ -9,6 +9,8 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|百竜の交戦|リインゼルム・エンカウント}}
+  | base_romaji_name     = Hyakuryū no Kōsen
+  | base_translated_name = Clash of a Hundred Dragons
   | romaji_name          = Riinzerumu Enkaunto
   | translated_name      = Reindsurm Encount
   | ko_name              = 
@@ -30,7 +32,24 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP076; Immortal Phoenix; Common
+  | supports             = Insect
   | archseries           = Reindsurm
   | supports_archetypes  = Reindsurm
+  | action               = 
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Sends from your field to your Graveyard
+  * Places itself from the player's Graveyard on the bottom of the Deck
+  | m/s/t                = 
+  * Negates the activation of Effect Monster's effect
+  * Negates the activation of Spell Cards
+  * Negates the activation of Trap Cards
+  * Redirects destruction
+  * Prevents other cards being destroyed by card effects
+  | attack               = Prevents other cards being destroyed by battle
+  | misc                 = 
+  * Requires control of specific archetype
+  * Requires control of specific Type
+  * Only once per turn
   | database_id          = 
   }}

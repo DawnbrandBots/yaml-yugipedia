@@ -9,6 +9,8 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|翅竜の羽撃|リインゼルム・バタフライ}}
+  | base_romaji_name     = Shiryū no Hageki
+  | base_translated_name = Winged Dragon Wingstrike
   | romaji_name          = Riinzerumu Batafurai
   | translated_name      = 
   | ko_name              = 
@@ -30,7 +32,22 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP057; Immortal Phoenix; Rare
+  | supports             = Insect
   | archseries           = Reindsurm
   | supports_archetypes  = Reindsurm
+  | action               = 
+  * Sends from your Deck to your Graveyard
+  * Activates upon Ritual Summon
+  * Activates from your Graveyard
+  | stat_change          = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | summoning            = Restricts the player's Special Summons to Type specific monsters
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = 
+  * Turn limited effects
+  * Requires control of specific Type
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
   | database_id          = 
   }}

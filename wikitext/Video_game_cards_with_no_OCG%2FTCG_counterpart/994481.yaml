@@ -43,8 +43,12 @@ wikitext: |-
   {{Card query|[[Release::Yu-Gi-Oh! ZEXAL World Duel Carnival]]|type=nonmonster|medium=vg-only|limit=10}}
 
   == ''Yu-Gi-Oh! Duel Links'' ==
-  {{Card query|[[Release::Yu-Gi-Oh! Duel Links]] [[Primary type::!Monster Token]]|type=monster|medium=vg-only|limit=10}}
-  {{Card query|[[Release::Yu-Gi-Oh! Duel Links]]|type=nonmonster|medium=vg-only|limit=10}}
+  {{Card query|[[Release::Yu-Gi-Oh! Duel Links]] [[Primary type::!Monster Token]] [[Main card page.Medium::!Rush Duel]]|type=monster|medium=vg-only|limit=10}}
+  {{Card query|[[Release::Yu-Gi-Oh! Duel Links]] [[Main card page.Medium::!Rush Duel]]|type=nonmonster|medium=vg-only|limit=10}}
+
+  == ''Yu-Gi-Oh! Cross Duel'' ==
+  {{Card query|[[Release::Yu-Gi-Oh! Cross Duel]][[Is main card page::true]]|type=monster|limit=10}}
+  {{Card query|[[Release::Yu-Gi-Oh! Cross Duel]][[Is main card page::true]]|type=nonmonster|limit=10}}
 
   == See also ==
   * [[Anime-only]]
