@@ -22,7 +22,7 @@ wikitext: |-
   | pt_text               = Uma vez por turno: você pode enviar 1 card "Ojama" da sua mão para o Cemitério; Invoque por Invocação-Especial 1 monstro "Ojama" do seu Cemitério. Enquanto você controlar um monstro "Ojama", troque o ATK original pela DEF original, e vice-versa, de todos os monstros no campo.
   | es_text               = Una vez por turno: puedes mandar al Cementerio 1 carta "Ojama" en tu mano; Invoca de Modo Especial, desde tu Cementerio, 1 monstruo "Ojama". Mientras controles un monstruo "Ojama", intercambia los ATK/DEF originales de todos los monstruos en el Campo.
   | ja_text               = １ターンに１度、手札から「おジャマ」と名のついたカード１枚を墓地へ送る事で、自分の墓地に存在する「おジャマ」と名のついたモンスター１体を特殊召喚する。自分フィールド上に「おジャマ」と名のついたモンスターが表側表示で存在する限り、フィールド上に表側表示で存在する全てのモンスターの元々の攻撃力・守備力を入れ替える。
-  | ko_text               = 1턴에 1번, 패에서 "방해꾼"이라는 이름이 붙은 카드 1장을 묘지로 보내는 것으로, 자신의 묘지에 존재하는 "방해꾼"이라는 이름이 붙은 몬스터 1장을 특수 소환한다. 자신 필드 위에 "방해꾼"이라는 이름이 붙은 몬스터가 앞면 표시로 존재하는 한, 필드 위에 앞면 표시로 존재하는 모든 몬스터의 원래 공격력 / 수비력을 맞바꾼다.
+  | ko_text               = ①: 자신 필드에 "방해꾼" 몬스터가 존재하는 한, 필드의 몬스터의 원래 공격력과 원래 수비력은 맞바뀐다. ②: 1턴에 1번, 패에서 "방해꾼" 카드 1장을 묘지로 보내고, 자신 묘지의 "방해꾼" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다.
   | en_sets               = 
   RGBT-EN098; Raging Battle; Rare
   GFTP-EN110; Ghosts From the Past (set); Ultra Rare
@@ -55,6 +55,7 @@ wikitext: |-
   | kr_sets               = 
   TP09-KR009; Tournament Pack 2011 Vol.9; Common
   PR02-KR014; Promotion Pack 2012 Vol.2; Common
+  SYP3-KR077; Synergy Pack 03: Heroes Universe; Normal Parallel Rare, Super Rare
   | archseries            = Ojama
   | supports_archetypes   = Ojama
   | action                = Sends from hand to Graveyard for cost
