@@ -35,7 +35,27 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP014; Immortal Phoenix; Common
+  | supports             = 
+  * FIRE
+  * Link Monster
   | archseries           = Salamangreat
   | supports_archetypes  = Salamangreat
+  | action               = 
+  * Activates from your hand
+  * Activates upon Link Summon
+  * Activates from your Graveyard
+  * Sets from your Deck
+  | stat_change          = 
+  * All monsters gain Levels
+  * All monsters lose Levels
+  | summoning            = Special Summons itself from your hand
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = 
+  * Requires control of no monsters
+  * Requires control of specific archetype
+  * Requires control of specific Link Rating
+  * Requires control of specific Attribute
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id          = 
   }}

@@ -34,5 +34,17 @@ wikitext: |-
   IMPH-JP063; Immortal Phoenix; Common
   | archseries           = Salamangreat
   | supports_archetypes  = Salamangreat
+  | action               = 
+  * Equips self from field
+  * Sends from Deck to Graveyard for cost
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  * Returns itself from Graveyard to hand
+  | stat_change          = Equipped gains ATK
+  | summoning            = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Equips to Summoned monster
+  | misc                 = Only once per turn
   | database_id          = 
   }}
