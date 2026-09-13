@@ -15,12 +15,22 @@ wikitext: |-
   | effect_types    = Continuous
   | condition       = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
   | requirement     = None
-  | text            = [[Face-up]] [[LIGHT]] [[Attribute]] [[monsters]] with 300 [[original DEF]] on your [[field]] gain 400 [[ATK]]. If you have a face-up [[Level]] 10 LIGHT Attribute monster on your field, this card gains 1000 [[ATK]] and [[Spell]]/[[Trap Card]]s on your field cannot be destroyed by card [[effect]]s.
+  | text            = [[Face-up]] [[LIGHT]] [[Attribute]] [[Monster Card|monster]]s with 300 [[Original ATK and DEF|original DEF]] on your [[field]] gain 400 [[ATK]]. If you have a face-up [[Level]] 10 LIGHT Attribute monster on your field, this card gains 1000 ATK, and [[Spell Card|Spell]]/[[Trap Card]]s on your field cannot be [[destroy]]ed by card [[effect]]s.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP061; Cross Art Collection; Over Rush Rare
+  | supports        = LIGHT
   | archseries      = Legend (series)
+  | stat_change     = 
+  * Treated as a Legend Card
+  * Your monsters gain ATK
+  * This card gains ATK
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific DEF
+  * Requires control of specific Level
   | database_id     = 
   }}

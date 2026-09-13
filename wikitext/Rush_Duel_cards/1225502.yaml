@@ -14,13 +14,21 @@ wikitext: |-
   | def             = 300
   | condition       = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
   | requirement     = [[Shuffle]] 1 Legend Card from your Graveyard into the [[Main Deck|Deck]].
-  | text            = [[Special Summon]] 1 Legend monster from either Graveyard [[face-up]] to your [[field]]. This [[turn]], you cannot [[activate]] the effect of "Grand Legendary Party".
+  | text            = [[Special Summon]] 1 Legend [[Monster Card|monster]] from either Graveyard [[face-up]] to your [[field]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Grand Legendary Party".
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP060; Cross Art Collection; Over Rush Rare
   | mentions        = Grand Legendary Party
+  | supports        = Legend Card
+  | anti-supports   = Legend Card
   | archseries      = Legend (series)
+  | action          = Returns from Graveyard to Deck for cost
+  | stat_change     = Treated as a Legend Card
+  | summoning       = 
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard to your field
+  | misc            = Only once per turn
   | database_id     = 
   }}

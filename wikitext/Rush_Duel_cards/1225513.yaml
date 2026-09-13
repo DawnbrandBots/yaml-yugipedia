@@ -13,11 +13,19 @@ wikitext: |-
   | def            = 2500
   | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[send]]ing 1 face-up [[Spell Card]] from your field to the [[Graveyard]].
   | requirement    = Send 1 card from your hand to the Graveyard.
-  | text           = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Special Summon]] 1 face-up [[Monster Card]] from either player's [[Spell & Trap Zone]] to your field in face-up [[Defense Position]].
+  | text           = This card gains 500 [[ATK]] until the end of this [[turn]]. Then, you can Special Summon 1 face-up [[Monster Card]] from either [[Duelist|player]]'s [[Spell & Trap Zone]] to your field in face-up [[Defense Position]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/CA01-JP047; Cross Art Collection; Over Rush Rare
+  | action         = 
+  * Sends from field to Graveyard for Special Summon
+  * Sends from hand to Graveyard for cost
+  | stat_change    = This card gains ATK
+  | summoning      = 
+  * Special Summons itself from your hand
+  * Special Summons from your Spell & Trap Zone
+  * Special Summons from your opponent's Spell & Trap Zone to your field
   | database_id    = 
   }}

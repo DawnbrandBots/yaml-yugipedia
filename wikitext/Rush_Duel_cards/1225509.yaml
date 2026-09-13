@@ -10,7 +10,7 @@ wikitext: |-
   | card_type       = Spell
   | property        = Normal
   | requirement     = None
-  | text            = [[Add a card|Add]] 1 "[[Dimension Pair Link L]]", "[[Dimension Pair Link R]]", or "[[Fuden Issen]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] 3 [[monsters]] from your Graveyard into the [[Main Deck|Deck]]. Then, if you shuffled an [[EARTH]] [[Attribute]] monster by this [[effect]], you can make 1 [[face-up]] monster on your opponent's [[field]] lose 600 [[ATK]] until the end of this [[turn]].
+  | text            = [[Add a card|Add]] 1 "[[Dimension Pair Link L]]", "[[Dimension Pair Link R]]", or "[[Fuden Issen]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] 3 [[Monster Card|monster]]s from your Graveyard into the [[Main Deck|Deck]]. Then, if you shuffled an [[EARTH]] [[Attribute]] monster by this [[effect]], you can make 1 [[face-up]] monster on your opponent's [[field]] lose 600 [[ATK]] until the end of this [[turn]].
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
@@ -19,6 +19,11 @@ wikitext: |-
   * Dimension Pair Link L
   * Dimension Pair Link R
   * Fuden Issen
+  | supports        = EARTH
   | archseries      = Dimension Linker (series)
+  | action          = 
+  * Adds from Graveyard to hand
+  * Returns from your Graveyard to your Deck
+  | stat_change     = Your opponent's monsters lose ATK
   | database_id     = 
   }}
