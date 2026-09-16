@@ -21,6 +21,7 @@ wikitext: |-
   | atk                  = 0
   | def                  = 0
   | password             = 
+  | materials            = 3 "Cubic" monsters
   | effect_types         = Continuous, Quick, Condition
   | text                 = 3 "[[Cubic]]" monsters<br />Gains 1000 [[ATK]] for each "[[Vijam the Cubic Seed]]" in your [[GY]], also [[unaffected]] by the activated [[effect]]s of monsters with [[ATK]] less than this card. ([[Quick Effect]]): You can [[return]] this card to the Extra Deck, and if you do, Special Summon 3 "Cubic" monsters from your GY, and if you do that, [[Add a card|add]] 1 "Cubic" card from your [[Main Deck|Deck]] to your hand. You can only use this effect of "Abyss Vagrada the Abyssal Cubic Lord" [[once per turn]], also you cannot Special Summon from the Extra Deck the [[turn]] you activate this effect, except Fusion Monsters.
   | fr_text              = 
@@ -34,9 +35,23 @@ wikitext: |-
   | jp_sets              = 
   RV02-JP003; Revolution Booster: Cubic / Marincess / Ghostrick; 
   | mentions             = Vijam the Cubic Seed
+  | supports             = Fusion Monster
   | archseries           = 
   * Abyss-
   * Cubic
   | supports_archetypes  = Cubic
+  | action               = 
+  * Returns itself from field to Extra Deck
+  * Adds from Deck to hand
+  | stat_change          = This card gains ATK
+  | m/s/t                = 
+  * Unaffected by activated card effects
+  * Unaffected by Monster Cards
+  | summoning            = 
+  * 3 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                 = Only once per turn
   | database_id          = 
   }}

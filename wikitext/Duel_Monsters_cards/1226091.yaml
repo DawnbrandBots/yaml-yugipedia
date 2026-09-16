@@ -21,6 +21,7 @@ wikitext: |-
   | atk                  = 0
   | def                  = 3000
   | password             = 
+  | materials            = 4 "Cubic" monsters
   | effect_types         = Summoning condition, Continuous, Quick, Trigger
   | text                 = 4 "[[Cubic]]" monsters<br />Must be [[Fusion Summon]]ed. Gains 1500 [[ATK]] for each "[[Vijam the Cubic Seed]]" in your [[GY]], also [[unaffected]] by the activated [[effect]]s of monsters with [[ATK]] less than this card. [[Once per turn]] ([[Quick Effect]]): You can [[shuffle]] all your banished "Cubic" cards into the [[Main Deck|Deck]], and if you do, [[destroy]] 1 card your opponent [[control]]s. If this [[face-up]] card in its owner's control [[leaves the field]] by an opponent's card: You can [[Special Summon]] up to 3 "[[Vijam the Cubic Seed]]" from your GY.
   | fr_text              = 
@@ -36,5 +37,22 @@ wikitext: |-
   | mentions             = Vijam the Cubic Seed
   | archseries           = Cubic
   | supports_archetypes  = Cubic
+  | action               = 
+  * Returns itself from field to Extra Deck
+  * Returns the player's banished cards to the Deck by effect
+  * Activates if it leaves the field
+  | stat_change          = This card gains ATK
+  | m/s/t                = 
+  * Unaffected by activated card effects
+  * Unaffected by Monster Cards
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning            = 
+  * 4 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Nomi
+  * Special Summons from your Graveyard
+  | misc                 = Limited activations
   | database_id          = 
   }}

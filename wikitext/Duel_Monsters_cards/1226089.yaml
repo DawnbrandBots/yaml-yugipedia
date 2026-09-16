@@ -21,6 +21,7 @@ wikitext: |-
   | atk                  = 0
   | def                  = 0
   | password             = 
+  | materials            = 1 "Cubic" monster + "Vijam the Cubic Seed"
   | effect_types         = Summoning condition, Continuous, Quick, Condition
   | text                 = 1 "[[Cubic]]" [[monster]] + "[[Vijam the Cubic Seed]]"<br />Must be [[Special Summon]]ed (from your [[Extra Deck]]) by [[send]]ing the above cards from your [[hand]] and/or [[field]] to the [[GY]]. Gains 800 [[ATK]] for each "Vijam the Cubic Seed" in your GY. ([[Quick Effect]]): You can [[return]] this card to the Extra Deck, and if you do, Special Summon 2 "Cubic" monsters from your GY, and if you do that, [[Add a card|add]] 1 "Cubic" card from your [[Main Deck|Deck]] to your hand. You can only use this effect of "Alditia Hell Blaze the Burning Cubic Lord" [[once per turn]], also you cannot Special Summon from the Extra Deck the [[turn]] you activate this effect, except Fusion Monsters.
   | fr_text              = 
@@ -34,7 +35,26 @@ wikitext: |-
   | jp_sets              = 
   RV02-JP002; Revolution Booster: Cubic / Marincess / Ghostrick; Ultra Rare
   | mentions             = Vijam the Cubic Seed
+  | supports             = Fusion Monster
   | archseries           = Cubic
   | supports_archetypes  = Cubic
+  | action               = 
+  * Sends Fusion Materials for Contact Fusion to Graveyard
+  * Sends from hand to Graveyard for Special Summon
+  * Sends from field to Graveyard for Special Summon
+  * Returns itself from field to Extra Deck
+  * Adds from Deck to hand
+  | stat_change          = This card gains ATK
+  | summoning            = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Contact Fusion
+  * Nomi
+  * Special Summons itself from your Extra Deck
+  * Cannot be Fusion Summoned
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  | misc                 = Only once per turn
   | database_id          = 
   }}
