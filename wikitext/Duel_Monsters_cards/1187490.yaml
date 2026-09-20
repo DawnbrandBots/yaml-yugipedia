@@ -11,10 +11,10 @@ wikitext: |-
   | romaji_name         = Pawā Konekushon
   | ko_name             = 
   | sc_name             = 
-  | image               = PowerConnection-VJMP-JP-OP.png
+  | image               = PowerConnection-VJMP-JP-UR.png
   | card_type           = Spell
   | property            = Normal
-  | password            = 
+  | password            = 52558178
   | effect_types        = Effect, Ignition-like, Condition
   | text                = [[Target]] any number of [[face-up]] [[monsters]] you [[control]] (if you target 2 or more monsters, they must have the same [[Type]]); they gain 500 [[ATK]] for each monster targeted, until the end of this [[turn]]. If you [[activate]]d "[[Armament Reincarnation]]" this [[turn]]: You can [[Add a card|add]] this card from your [[GY]] to your [[hand]]. You can only use each effect of "Power Connection" once per turn.
   | fr_text             = 
@@ -22,7 +22,7 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスターを任意の数だけ対象として発動できる（２体以上を対象とする場合は同じ種族でなければならない）。対象のモンスターの攻撃力はターン終了時まで、対象のモンスターの数×５００アップする。②：自分が「武装転生」を発動したターンに発動できる。墓地のこのカードを手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
@@ -33,5 +33,5 @@ wikitext: |-
   * Returns itself from Graveyard to hand
   | stat_change         = Your monsters gain ATK
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 6652
   }}
