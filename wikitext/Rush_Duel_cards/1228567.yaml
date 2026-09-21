@@ -3,21 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name              = つながる{{Ruby|小|こ}}{{Ruby|人|びと}}
-  | romaji_name          = Tsunagaru Kobito
-  | image                = TheConnectedLiliputians-RDCA01-JP-OP.png
-  | attribute            = WATER
-  | types                = Warrior / Effect
-  | level                = 1
-  | atk                  = 0
-  | def                  = 0
-  | condition            = This card's name becomes "[[The Mysterious Liliputians]]" while in the [[Graveyard]].
-  | requirement          = None
-  | text                 = Place 1 "The Mysterious Liluputians" from your [[Graveyard]] and this card from your [[field]] on top of the owner's [[Main Deck|Deck]] in any order.
-  | ja_requirement       = 
-  | ja_text              = 
-  | jp_sets              = 
+  | ja_name        = つながる{{Ruby|小|こ}}{{Ruby|人|びと}}
+  | romaji_name    = Tsunagaru Kobito
+  | image          = TheConnectedLiliputians-RDCA01-JP-OP.png
+  | attribute      = WATER
+  | types          = Warrior / Effect
+  | level          = 1
+  | atk            = 0
+  | def            = 0
+  | condition      = This card's name becomes "[[The Mysterious Liliputians]]" while in the [[Graveyard]].
+  | requirement    = None
+  | text           = Place 1 "The Mysterious Liluputians" from your [[Graveyard]] and this card from your [[field]] on top of the [[owner]]'s [[Main Deck|Deck]] in any order.
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP053; Cross Art Collection; Ultra Rare
-  | mentions             = The Mysterious Liliputians
-  | database_id          = 
+  | mentions       = The Mysterious Liliputians
+  | archseries     = Liliputian
+  | action         = 
+  * Places cards from the player's Graveyard on the top of the Deck
+  * Places itself from the player's field on the top of the Deck
+  | stat_change    = Changes own name while in the GY
+  | database_id    = 
   }}

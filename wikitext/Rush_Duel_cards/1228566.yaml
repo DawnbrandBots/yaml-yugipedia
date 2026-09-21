@@ -3,19 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name              = やさしい{{Ruby|人|にん}}{{Ruby|間|げん}}さん
-  | romaji_name          = Yasashī Ningen-san
-  | image                = TheVeryKindHuman-RDCA01-JP-OP.png
-  | attribute            = EARTH
-  | types                = Spellcaster / Effect
-  | level                = 4
-  | atk                  = 1200
-  | def                  = 500
-  | requirement          = [[Show]] 1 other card on your [[field]] and place it on top of the owner's [[Main Deck|Deck]].
-  | text                 = [[Add a card|Add]] up to 2 "[[The Mysterious Liliputians]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], you cannot [[activate]] the [[effect]] of "The Very Kind Human".
-  | ja_text              = 
-  | jp_sets              = 
+  | ja_name        = やさしい{{Ruby|人|にん}}{{Ruby|間|げん}}さん
+  | romaji_name    = Yasashī Ningen-san
+  | image          = TheVeryKindHuman-RDCA01-JP-OP.png
+  | attribute      = EARTH
+  | types          = Spellcaster / Effect
+  | level          = 4
+  | atk            = 1200
+  | def            = 500
+  | requirement    = [[Show]] 1 other card on your [[field]], and place it on top of the [[owner]]'s [[Main Deck|Deck]].
+  | text           = [[Add a card|Add]] up to 2 "[[The Mysterious Liliputians]]" from your [[Graveyard]] to your [[hand]]. This [[turn]], you cannot [[activate]] the [[effect]] of "The Very Kind Human".
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP052; Cross Art Collection; Over Rush Rare
-  | mentions             = The Mysterious Liliputians
-  | database_id          = 
+  | mentions       = 
+  * The Mysterious Liliputians
+  * The Very Kind Human
+  | archseries     = Liliputian
+  | action         = 
+  * Reveals your face-down cards for cost
+  * Places cards from the player's field on the top of the Deck for cost
+  * Adds from Graveyard to hand
+  | misc           = Only once per turn
+  | database_id    = 
   }}

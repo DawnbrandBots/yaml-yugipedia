@@ -3,23 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name              = もぐもぐ{{Ruby|小|こ}}{{Ruby|人|びと}}
-  | romaji_name          = Mogumogu Kobito
-  | image                = TheNomnomLiliputian-RDCA01-JP-OP.png
-  | attribute            = DARK
-  | types                = Beast / Effect
-  | level                = 1
-  | atk                  = 0
-  | def                  = 0
-  | condition            = This card's name becomes "[[The Mysterious Liliputians]]" while in the [[Graveyard]].
-  | requirement          = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, change this [[Attack Position]] card to [[face-up]] [[Defense Position]].
-  | text                 = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can place 1 "[[The Very Kind Human]]" from your Graveyard on top of your Deck. If you do, gain 600 [[LP]].
-  | ja_requirement       = 
-  | ja_text              = 
-  | jp_sets              = 
+  | ja_name        = もぐもぐ{{Ruby|小|こ}}{{Ruby|人|びと}}
+  | romaji_name    = Mogumogu Kobito
+  | image          = TheNomnomLiliputian-RDCA01-JP-OP.png
+  | attribute      = DARK
+  | types          = Beast / Effect
+  | level          = 1
+  | atk            = 0
+  | def            = 0
+  | condition      = This card's name becomes "[[The Mysterious Liliputians]]" while in the [[Graveyard]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[Battle position change|change]] this [[Attack Position]] card to [[face-up]] [[Defense Position]].
+  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can place 1 "[[The Very Kind Human]]" from your Graveyard on top of the Deck. If you do, gain 600 [[LP]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/CA01-JP054; Cross Art Collection; Ultra Rare
-  | mentions             = 
+  | mentions       = 
   * The Mysterious Liliputians
   * The Very Kind Human
-  | database_id          = 
+  | archseries     = Liliputian
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Changes own battle position
+  * Changes battle positions for cost
+  * Sends from the top of your Deck to your Graveyard
+  * Places cards from the player's Graveyard on the top of the Deck
+  | stat_change    = Changes own name while in the GY
+  | life_points    = You gain Life Points
+  | database_id    = 
   }}
