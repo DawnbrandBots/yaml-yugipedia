@@ -7,7 +7,7 @@ wikitext: |-
   | ja_image         = TheOnetobeProtected-JP-Anime-GX.png
   | card_type        = Trap
   | property         = Normal
-  | text             = [[Activate]] only when an opponent's [[Monster Card|monster]] [[attack]]s another monster. [[Send]] 1 monster from your [[Main Deck|Deck]] with an [[ATK]] higher than the attacking monster's to the [[Graveyard]]. During [[damage calculation]], the [[attack target]] cannot be [[destroyed by battle]], and its [[control]]ler takes no [[battle damage]]. After damage calculation, you take [[Effect damage|damage]] equal to the ATK of the monster you sent to the Graveyard with this card's [[effect]].
+  | text             = [[Activate]] only when an opponent's [[Monster Card|monster]] [[attack]]s. [[Send]] 1 monster with [[ATK]] greater than or equal to the attacking monster's from your [[Main Deck|Deck]] to the [[Graveyard]]. During this battle, monsters cannot be [[destroyed by battle]] and neither player takes [[battle damage]], but you lose [[LP|Life Points]] equal to the ATK of the monster sent to the Graveyard.
   | ja_text          = 相手モンスターの攻撃時に、そのモンスターの攻撃力以上のモンスター１体をデッキから選択し、墓地へ送る。モンスターへの戦闘ダメージをゼロにして墓地に送ったモンスターの攻撃力分のライフポイントを失う。
   | appears_in_gx    = 176
   | decks            = Jesse Anderson
@@ -17,9 +17,8 @@ wikitext: |-
   | attack           = Cannot be destroyed by battle
   | life_points      = 
   * Prevents battle damage
-  * Damages you
+  * You lose Life Points
   }}
-
   {{Unofficial names
   | de_name = Derjenige, der beschützt werden soll
   | hr_name = Onaj Zaštićeni

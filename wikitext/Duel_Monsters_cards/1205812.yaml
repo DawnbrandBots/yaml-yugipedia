@@ -1,7 +1,5 @@
 title: 'Number C104: Umbral Horror Masquerade Victory'
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -25,7 +23,7 @@ wikitext: |-
   | password             = 42396591
   | materials            = 4 Level 5 monsters
   | effect_types         = Quick, Trigger, Trigger
-  | text                 = 4 [[Level]] 5 [[monsters]]<br />[[Once per turn]] ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card, then [[target]] 1 card your opponent [[control]]s; [[destroy]] it. If this card [[battle]]s an opponent's monster, during [[damage calculation]]: This card's [[ATK]]/[[DEF]] become that opponent's monster's ATK or DEF (whichever is higher) +100 during damage calculation only. If this card destroys a monster [[destroyed by battle|by battle]]: [[Send]] 1 [[random]] card from your opponent's hand to the [[GY]], and if you do, halve your opponent's [[LP]].
+  | text                 = 4 [[Level]] 5 [[monsters]]<br />[[Once per turn]] ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card, then [[target]] 1 card your opponent [[control]]s; [[destroy]] it. If this card [[battle]]s an opponent's monster, during [[damage calculation]]: This card's [[ATK]]/[[DEF]] become equal to that opponent's monster's ATK or DEF (whichever is higher) +100, during that damage calculation only. If this card destroys a monster [[destroyed by battle|by battle]]: [[Send]] 1 [[random]] card from your opponent's hand to the [[GY]], and if you do, halve your opponent's [[LP]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -34,6 +32,18 @@ wikitext: |-
   | ja_text              = レベル５モンスター×４<br />①：自分・相手ターンに１度、このカードのＸ素材を１つ取り除き、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：このカードが相手モンスターと戦闘を行うダメージ計算時に発動する。このカードの攻撃力・守備力はそのダメージ計算時のみ、その相手モンスターの攻撃力と守備力の内、高い方の数値＋１００になる。③：このカードが戦闘でモンスターを破壊した場合に発動する。相手の手札をランダムに１枚墓地へ送り、相手のＬＰを半分にする。
   | ko_text              = 
   | sc_text              = 等级5怪兽×4<br />①：在每个自己・对手回合中1次，去除此卡的1个超量素材，以对手场上的1张卡为对象可以发动。将该卡破坏。②：此卡与对手怪兽进行战斗的伤害计算时发动。此卡的攻击力・守备力仅在该伤害计算时，变为该对手怪兽的攻击力和守备力中较高一方＋100的数值。③：此卡战斗破坏怪兽的情况下发动。随机将对手的1张手牌送至墓地，将对手的LP改成一半。
+  | en_sets              = 
+  BETB-EN043; Beyond the Brave; Super Rare
+  | fr_sets              = 
+  BETB-FR043; Beyond the Brave; Super Rare
+  | de_sets              = 
+  BETB-DE043; Beyond the Brave; Super Rare
+  | it_sets              = 
+  BETB-IT043; Beyond the Brave; Super Rare
+  | pt_sets              = 
+  BETB-PT043; Beyond the Brave; Super Rare
+  | sp_sets              = 
+  BETB-SP043; Beyond the Brave; Super Rare
   | jp_sets              = 
   BETB-JP043; Beyond the Brave; Rare, Secret Rare
   | sc_sets              = 

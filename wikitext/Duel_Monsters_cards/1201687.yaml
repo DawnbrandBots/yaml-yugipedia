@@ -1,7 +1,5 @@
 title: Daedalus Maelstrom
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name               = 
   | de_name               = 
@@ -12,7 +10,6 @@ wikitext: |-
   | romaji_name           = Daidarosu Meirusutorōmu
   | base_romaji_name      = Kairyūshin no Ōuzu
   | base_translated_name  = Maelstrom of the Sea Dragon God
-  | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 代达罗斯的大涡
@@ -21,7 +18,7 @@ wikitext: |-
   | property              = Counter
   | password              = 64233143
   | effect_types          = Effect, Quick-like, Condition
-  | text                  = When your opponent would [[Normal Summon|Normal]] or [[Special Summon]] a [[monster]](s) while you [[control]] "[[Atlantis, City of the Sea Dragon]]": [[Negate]] the [[Summon]], and if you do, [[destroy]] that monster(s), then if you control a [[WATER]] [[Link Monster]], you can [[destroy]] all non-WATER monsters on the [[field]]. You can [[banish]] this card from your [[GY]] and [[send]] 1 [[face-up]] "[[Umi]]" you control to the GY, then [[target]] 1 monster your opponent controls; send it to the GY. You can only use 1 "Daedalus Maelstrom" effect per turn, and only once that turn.
+  | text                  = When your opponent would [[Normal Summon|Normal]] or [[Special Summon]] a [[monster]](s), while you [[control]] "[[Atlantis, City of the Sea Dragon]]": [[Negate]] the [[Summon]], and if you do, [[destroy]] that monster(s), then if you control a [[WATER]] [[Link Monster]], you can [[destroy]] all monsters on the [[field]], except WATER monsters. You can [[banish]] this card from your [[GY]] and [[send]] 1 [[face-up]] "[[Umi]]" you control to the GY, then [[target]] 1 monster your opponent controls; send it to the GY. You can only use 1 "Daedalus Maelstrom" effect per turn, and only once that turn.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -30,6 +27,18 @@ wikitext: |-
   | ja_text               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「竜都アトランティス」が存在し、相手がモンスターを召喚・特殊召喚する際に発動できる。それを無効にし、そのモンスターを破壊する。その後、自分フィールドに水属性Ｌモンスターが存在する場合、水属性モンスターを除く、フィールドのモンスターを全て破壊できる。②：墓地のこのカードを除外し、自分フィールドの表側表示の「海」１枚を墓地へ送り、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを墓地へ送る。
   | ko_text               = 
   | sc_text               = 此卡名的①②效果1回合1次，仅可使用其中1个。①：自己场上存在“龙都 亚特兰蒂斯”，且对手召唤・特殊召唤怪兽之际可以发动。将其无效，将该怪兽破坏。然后，自己场上存在水属性连接怪兽的情况下，可将除水属性怪兽以外的、场上的怪兽全部破坏。②：将墓地的此卡除外，将自己场上的1张表侧表示的“海”送至墓地，以对手场上的1只怪兽为对象可以发动。将该怪兽送至墓地。
+  | en_sets               = 
+  BETB-EN076; Beyond the Brave; Common
+  | fr_sets               = 
+  BETB-FR076; Beyond the Brave; Common
+  | de_sets               = 
+  BETB-DE076; Beyond the Brave; Common
+  | it_sets               = 
+  BETB-IT076; Beyond the Brave; Common
+  | pt_sets               = 
+  BETB-PT076; Beyond the Brave; Common
+  | sp_sets               = 
+  BETB-SP076; Beyond the Brave; Common
   | jp_sets               = 
   BETB-JP076; Beyond the Brave; Common
   | sc_sets               = 
