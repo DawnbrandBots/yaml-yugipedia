@@ -19,8 +19,9 @@ wikitext: |-
   | atk                  = 3000
   | def                  = 0
   | password             = 
+  | materials            = 1 Tuner + 1 or more non-Tuner monsters
   | effect_types         = Trigger, Trigger, Condition
-  | text                 = 1 Tuner + 1+ non-Tuners<br />If this card is Special Summoned: Activate this effect; each player can Special Summon 1 Fairy Synchro Monster from their Extra Deck (but negate its effects), also this card, and monsters Special Summoned by this effect, cannot be used as material for an Xyz or Link Summon, and return them to the Extra Deck when they leave the field. If an "[[Angelechy]]" monster targets this card for an attack: Negate that attack, and if you do, give control of this card to your opponent. You can only use each effect of "Angelechy Seneschal" once per turn.
+  | text                 = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: [[Activate]] this [[effect]]; each player can Special Summon 1 [[Fairy]] [[Synchro Monster]] from their [[Extra Deck]] (but [[negate]] its effects), also this card, and [[monster]]s Special Summoned by this effect, cannot be used as [[material]] for an [[Xyz Summon|Xyz]] or [[Link Summon]], and [[return]] them to the Extra Deck when they [[leave the field]]. If an "[[Angelechy]]" monster [[target]]s this card for an [[attack]]: [[Negate]] that attack, and if you do, give [[control]] of this card to your opponent. You can only use each effect of "Angelechy Seneschal" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -41,7 +42,25 @@ wikitext: |-
   BETB-PT091; Beyond the Brave; Super Rare
   | sp_sets              = 
   BETB-SP091; Beyond the Brave; Super Rare
+  | supports             = 
+  * Fairy
+  * Synchro Monster
   | archseries           = Angelechy
-  | supports_archetypes  = Angelechy
+  | anti-supports_archetypes = Angelechy
+  | action               = 
+  * Returns itself from field to Extra Deck
+  * Returns from field to Extra Deck
+  * Activates if targeted for an attack
+  * Changes control
+  | m/s/t                = Negates the effects of the Summoned monsters
+  | summoning            = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Extra Deck
+  * Special Summons from your opponent's Extra Deck to your opponent's field
+  * Cannot be used as an Xyz Material
+  * Cannot be used as a Link Material
+  | attack               = Negates attacks
+  | misc                 = Only once per turn
   | database_id          = 
   }}
