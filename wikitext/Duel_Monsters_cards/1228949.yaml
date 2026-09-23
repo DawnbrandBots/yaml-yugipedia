@@ -18,9 +18,9 @@ wikitext: |-
   | link_arrows          = Bottom-Center, Middle-Right
   | atk                  = 1500
   | password             = 
-  | materials            = 
+  | materials            = 2 WATER monsters
   | effect_types         = Ignition, Trigger, Condition
-  | text                 = 2 WATER monsters<br />You can send 1 card you control to the GY; all WATER monsters you control gain 500 ATK/DEF this turn. If a WATER Link Monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 of those destroyed monsters; Special Summon 1 WATER monster from your hand or GY, with a Level less than or equal to that monster's Link Rating. You can only use each effect of "Archidux, the Squid Sorcerer" once per turn.
+  | text                 = 2 [[WATER]] [[monster]]s<br />You can [[send]] 1 card you [[control]] to the [[GY]]; all WATER monsters you control gain 500 [[ATK]]/[[DEF]] this [[turn]]. If a WATER [[Link Monster]](s) you control is [[destroy]]ed by an opponent's [[card effect]], while this card is in your GY (except during the [[Damage Step]]): You can [[banish]] this card, then [[target]] 1 of those destroyed monsters; [[Special Summon]] 1 WATER monster from your [[hand]] or GY, with a [[Level]] less than or equal to that monster's [[Link Rating]]. You can only use each effect of "Archidux, the Squid Sorcerer" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -41,5 +41,22 @@ wikitext: |-
   BETB-PT086; Beyond the Brave; Common
   | sp_sets              = 
   BETB-SP086; Beyond the Brave; Common
+  | supports             = 
+  * WATER
+  * Link Monster
+  | action               = 
+  * Sends from field to Graveyard for cost
+  * Activates if destroyed by card effect
+  * Activates from your Graveyard
+  | stat_change          = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | summoning            = 
+  * 2 Link Materials
+  * Requires Attribute specific Link Materials
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = Only once per turn
   | database_id          = 
   }}

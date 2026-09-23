@@ -19,7 +19,7 @@ wikitext: |-
   | atk                  = 2500
   | def                  = 1800
   | password             = 52123534
-  | materials            = 
+  | materials            = 2 or more Level 4 LIGHT and/or DARK monsters
   | effect_types         = Quick, Condition, Condition, Continuous, Continuous
   | text                 = 2+ [[Level]] 4 [[LIGHT]] and/or [[DARK]] [[monsters]]<br />During the [[Main Phase]] ([[Quick Effect]]): You can [[detach]] 1 [[material]] from this card; [[attach]] 1 card from your [[hand]], [[GY]], or [[banish]]ment to this card, except the detached material. You can only use this [[effect]] of "Kumenyo, the Nine-Hued Deer" once per turn. Gains the following effects, based on the number of different [[Type|Monster Types]] attached to it.<br />● 2+: Cannot be [[destroy]]ed by card effects.<br />● 3+: [[Draw a card|Draw]] 2 cards instead of 1 for your [[normal draw]] during your [[Draw Phase]].
   | fr_text              = 
@@ -42,5 +42,20 @@ wikitext: |-
   BETB-PT084; Beyond the Brave; Common
   | sp_sets              = 
   BETB-SP084; Beyond the Brave; Common
+  | supports             = 
+  * LIGHT
+  * DARK
+  | action               = 
+  * Attaches from your hand as Xyz Material
+  * Attaches from your Graveyard as Xyz Material
+  * Attaches your banished cards as Xyz Material
+  * Increases normal draw
+  | m/s/t                = Cannot be destroyed by card effects
+  | summoning            = 
+  * 2+ Xyz Materials
+  * Requires Attribute specific Xyz Materials
+  | misc                 = 
+  * Only once per turn
+  * Variable effects
   | database_id          = 
   }}

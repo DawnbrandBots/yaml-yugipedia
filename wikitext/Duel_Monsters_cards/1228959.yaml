@@ -20,7 +20,7 @@ wikitext: |-
   | def                  = 200
   | password             = 
   | effect_types         = Trigger, Trigger, Condition
-  | text                 = If a Spell/Trap(s) on the field is returned to the hand (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that card was returned) or hand (even if not), in face-up or face-down Defense Position, but if you Summoned it from the GY, banish it when it leaves the field. If another card(s) on the field is returned to the hand, while this card is in the Monster Zone (except during the Damage Step): You can target 1 of your banished Normal Traps; Set it. You can only use each effect of "Kerolia the Frolicsome" once per turn.
+  | text                 = If a [[Spell]]/[[Trap]](s) on the [[field]] is [[return]]ed to the [[hand]] (except during the [[Damage Step]]): You can [[Special Summon]] this card from your [[GY]] (if it was there when that card was returned) or hand (even if not), in [[face-up]] or [[face-down]] [[Defense Position]], but if you [[Summon]]ed it from the GY, [[banish]] it when it [[leaves the field]]. If another card(s) on the field is returned to the hand, while this card is in the [[Monster Zone]] (except during the Damage Step): You can [[target]] 1 of your banished [[Normal Trap]]s; [[Set]] it. You can only use each [[effect]] of "Kerolia the Frolicsome" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -41,5 +41,17 @@ wikitext: |-
   BETB-PT085; Beyond the Brave; Common
   | sp_sets              = 
   BETB-SP085; Beyond the Brave; Common
+  | supports             = Normal Trap Card
+  | action               = 
+  * Activates if returned from the field to the hand
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Sets the player's banished cards
+  | summoning            = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  * Special Summons itself face-down
+  | banished             = Banishes itself when it leaves the field
+  | misc                 = Only once per turn
   | database_id          = 
   }}

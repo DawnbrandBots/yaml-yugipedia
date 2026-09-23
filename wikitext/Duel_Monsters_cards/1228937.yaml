@@ -17,7 +17,7 @@ wikitext: |-
   | property             = Normal
   | password             = 
   | effect_types         = Effect, Trigger-like, Condition
-  | text                 = If a face-up card(s) you control is destroyed by an opponent's card effect: You can toss a coin and call it. If you call it right, Special Summon 1 monster from your GY. If you call it wrong, Set 1 Trap from your GY. If this card in your possession is destroyed by an opponent's card effect: You can activate 1 of these effects;<br />● Special Summon 1 monster from your GY.<br />● Set 1 Trap from your GY.<br />You can only use each effect of "Just Flip a Coin" once per turn.
+  | text                 = If a [[face-up]] card(s) you [[control]] is [[destroy]]ed by an opponent's [[card effect]]: You can toss a coin and call it. If you call it right, [[Special Summon]] 1 [[monster]] from your [[GY]]. If you call it wrong, [[Set]] 1 [[Trap]] from your GY. If this card in your [[possess]]ion is destroyed by an opponent's card effect: You can [[activate]] 1 of these effects;<br />● Special Summon 1 monster from your GY.<br />● Set 1 Trap from your GY.<br />You can only use each [[effect]] of "Just Flip a Coin" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -38,5 +38,13 @@ wikitext: |-
   BETB-PT083; Beyond the Brave; Common
   | sp_sets              = 
   BETB-SP083; Beyond the Brave; Common
+  | action               = 
+  * Activates if destroyed by card effect
+  * Sets from your Graveyard
+  | summoning            = Special Summons from your Graveyard
+  | misc                 = 
+  * Coin toss
+  * Variable effects
+  * Only once per turn
   | database_id          = 
   }}
