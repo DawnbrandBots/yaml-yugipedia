@@ -17,7 +17,7 @@ wikitext: |-
   | property             = Normal
   | password             = 
   | effect_types         = Effect, Ignition-like, Condition, Condition
-  | text                 = Choose 2 "[[Angelechy]]" monsters in your Extra Deck, with different names than the cards in your Spell & Trap Zone, Special Summon 1 of them in your opponent's Main Monster Zone, and place the other in your Spell & Trap Zone as a face-up Continuous Spell. You can banish this card from your GY; shuffle up to 5 "Angelechy" cards into the Deck from your GY and/or banishment, except "Angelechy Opposition". You cannot Special Summon from the Extra Deck the turn you activate this card, except LIGHT or DARK Synchro Monsters. You can only activate 1 "Angelechy Opposition" per turn.
+  | text                 = Choose 2 "[[Angelechy]]" [[monster]]s in your [[Extra Deck]], with different names than the cards in your [[Spell & Trap Zone]], [[Special Summon]] 1 of them in your opponent's [[Main Monster Zone]], and place the other in your Spell & Trap Zone as a [[face-up]] [[Continuous Spell]]. You can [[banish]] this card from your [[GY]]; [[shuffle]] up to 5 "Angelechy" cards into the [[Main Deck|Deck]] from your GY and/or banishment, except "Angelechy Opposition". You cannot Special Summon from the Extra Deck the turn you [[activate]] this card, except [[LIGHT]] or [[DARK]] [[Synchro Monster]]s. You can only activate 1 "Angelechy Opposition" [[once per turn|per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -38,7 +38,23 @@ wikitext: |-
   BETB-PT094; Beyond the Brave; Common
   | sp_sets              = 
   BETB-SP094; Beyond the Brave; Common
+  | mentions             = Angelechy Opposition
+  | supports             = 
+  * LIGHT
+  * DARK
+  * Synchro Monster
   | archseries           = Angelechy
   | supports_archetypes  = Angelechy
+  | action               = 
+  * Places cards from Extra Deck in Spell & Trap Zone
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  * Returns from your banishment to your Deck
+  | m/s/t                = Treats monsters as Continuous Spell Cards
+  | summoning            = 
+  * Special Summons from your Extra Deck to your opponent's field
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | misc                 = Only once per turn
   | database_id          = 
   }}
