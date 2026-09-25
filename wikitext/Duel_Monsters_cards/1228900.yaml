@@ -14,13 +14,16 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = ExodiatheObliterator-YAC1-JP-OP.png
+  | image                 = 
+  1; ExodiatheObliterator-YAC1-JP-UR.png
+  2; ExodiatheObliterator-YAC1-JP-UR-EA.png
+  | current_image         = 1
   | attribute             = DARK
   | types                 = Spellcaster / Effect
   | level                 = 10
   | atk                   = 1000
   | def                   = 1000
-  | password              = 
+  | password              = 91583378
   | effect_types          = Trigger, Trigger, Trigger
   | text                  = When you [[Draw a card|draw]] this card during your [[turn]]: You can [[reveal]] it; [[Special Summon]] it. If this card is Special Summoned during your turn: You can [[activate]] this [[effect]]; for the rest of this [[turn]], neither player can [[activate]] cards or [[effect]]s, except "Exodia the Obliterator", also you cannot [[Normal Summon|Normal]] or Special Summon monsters. At the start of the [[Damage Step]], if this card [[battle]]s: You can [[destroy]] as many monsters your opponent [[control]]s as possible, and if you do, inflict damage to your opponent equal to the total [[original ATK]] of those destroyed monsters.
   | fr_text               = 
@@ -28,7 +31,7 @@ wikitext: |-
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = ①：自分ターンにこのカードをドローした時、このカードを相手に見せて発動できる。このカードを特殊召喚する。②：このカードが自分ターンに特殊召喚した場合に発動できる。このターン、お互いに「業火の魔神エクゾディア」以外のカードの効果を発動できず、自分はモンスターを召喚・特殊召喚できない。③：このカードが戦闘を行うダメージステップ開始時に発動できる。相手フィールドのモンスターを全て破壊し、その元々の攻撃力の合計分のダメージを相手に与える。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
@@ -53,5 +56,5 @@ wikitext: |-
   * Prevents the player's Normal Summons
   * Prevents the player's Special Summons
   | life_points           = Damages your opponent
-  | database_id           = 
+  | database_id           = 23565
   }}

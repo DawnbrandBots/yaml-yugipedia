@@ -15,13 +15,16 @@ wikitext: |-
   | ko_rr_name      = 
   | sc_name         = 
   | sc_pinyin_name  = 
-  | image           = BarrelDragontheMachineDragon-YAC1-JP-OP.png
+  | image           = 
+  1; BarrelDragontheMachineDragon-YAC1-JP-UR.png
+  2; BarrelDragontheMachineDragon-YAC1-JP-UR-EA.png
+  | current_image   = 1
   | attribute       = DARK
   | types           = Machine / Effect
   | level           = 7
   | atk             = 2600
   | def             = 2200
-  | password        = 
+  | password        = 27855495
   | effect_types    = Unclassified, Condition, Ignition, Quick
   | text            = If you [[control]] no [[monsters]], you can [[Normal Summon]] this card without [[Tributing]]. You can only use each of the following [[effect]]s of "Barrel Dragon the Machine Dragon" [[once per turn]]. During your [[Main Phase]]: You can [[Add a card|add]] 1 [[DARK]] [[Machine]] monster from your [[Main Deck|Deck]] to your [[hand]], except "Barrel Dragon the Machine Dragon". During the [[Battle Phase]], if this card is in your [[GY]] because it was sent there from the [[field]] this [[turn]] ([[Quick Effect]]): You can [[Special Summon]] it, and if you do, toss a coin 3 times, then you can [[destroy]] monsters on the field up to the number of heads.
   | fr_text         = 
@@ -29,7 +32,7 @@ wikitext: |-
   | it_text         = 
   | pt_text         = 
   | es_text         = 
-  | ja_text         = 
+  | ja_text         = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードはリリースなしで召喚できる。②：自分メインフェイズに発動できる。デッキから「機械龍－リボルバー・ドラゴン」以外の機械族・闇属性モンスター１体を手札に加える。③：このカードがフィールドから墓地へ送られた自分・相手ターンのバトルフェイズに発動できる。このカードを特殊召喚し、コイントスを３回行う。その後、表が出た数までフィールドのモンスターを破壊できる。
   | ko_text         = 
   | sc_text         = 
   | jp_sets         = 
@@ -50,5 +53,5 @@ wikitext: |-
   * Requires control of no monsters
   * Only once per turn
   * Coin toss
-  | database_id     = 
+  | database_id     = 23569
   }}

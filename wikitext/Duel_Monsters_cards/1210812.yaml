@@ -15,13 +15,16 @@ wikitext: |-
   | ko_rr_name          = 
   | sc_name             = 
   | sc_pinyin_name      = 
-  | image               = GilfordtheLightningtheWarriorofThunderbolts-YAC1-JP-OP.png
+  | image               = 
+  1; GilfordtheLightningtheWarriorofThunderbolts-YAC1-JP-UR.png
+  2; GilfordtheLightningtheWarriorofThunderbolts-YAC1-JP-UR-EA.png
+  | current_image       = 1
   | attribute           = LIGHT
   | types               = Warrior / Effect
   | level               = 8
   | atk                 = 2800
   | def                 = 1400
-  | password            = 
+  | password            = 26633847
   | effect_types        = Unclassified, Trigger, Trigger, Condition
   | text                = You can [[Special Summon]] this card (from your [[hand]]) by [[Tributing]] 3 [[monsters]], and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot [[activate]] cards or [[effect]]s when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the [[End Phase]] of this [[turn]], [[Add a card|add]] 1 [[Warrior]] monster from your [[Main Deck|Deck]] to your hand. You can only use this effect of "Gilford the Lightning, the Warrior of Thunderbolts" once per turn.
   | fr_text             = 
@@ -29,7 +32,7 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の③の効果は１ターンに１度しか使用できない。①：このカードは自分フィールドのモンスター３体をリリースして手札から特殊召喚できる。元々の持ち主が相手であるモンスターをリリースした場合、この特殊召喚成功時に相手はカードの効果を発動できない。②：このカードの①の方法で特殊召喚した場合に発動する。相手は自身のフィールドのモンスターを全て墓地へ送らなければならない。③：このカードが墓地へ送られた場合に発動できる。このターンのエンドフェイズに、デッキから戦士族モンスター１体を手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
@@ -49,5 +52,5 @@ wikitext: |-
   * Special Summons itself from your hand
   * Prevents activations upon Summon
   | misc                = Only once per turn
-  | database_id         = 
+  | database_id         = 23572
   }}

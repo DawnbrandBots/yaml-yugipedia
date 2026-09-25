@@ -15,22 +15,22 @@ wikitext: |-
   | ko_rr_name      = 
   | sc_name         = 
   | sc_pinyin_name  = 
-  | image           = SuperCritical-YAC1-JP-OP.png
+  | image           = SuperCritical-YAC1-JP-UR.png
   | card_type       = Spell
   | property        = Continuous
-  | password        = 
+  | password        = 51193716
   | effect_types    = Effect, Trigger-like, Condition
-  | text            = When this card is [[activate]]d: You can [[Add a card|add]] 1 card with an [[effect]] that requires a die roll from your [[Main Deck|Deck]] to your [[hand]]. Once per [[Chain]] per player, if either player rolls a 1 for a card effect's die roll: They can activate 1 of these effects;<br />● They [[destroy]] up to 3 [[monsters]] their opponent [[control]]s.<br />● They destroy 1 monster their opponent controls, and if they do, they [[negate]] the effects of 1 monster their opponent controls.<br />● They [[Special Summon]] 1 monster from their [[GY]].<br />You can only activate 1 "Super Critical" per turn.
+  | text            = When this card is [[activate]]d: You can [[Add a card|add]] 1 card with an [[effect]] that requires a die roll from your [[Main Deck|Deck]] to your [[hand]]. Once per [[Chain]] per player, if either player rolls a 1 for a card effect's die roll (except during the [[Damage Step]]): They can activate 1 of these effects;<br />● They [[destroy]] up to 3 [[monsters]] their opponent [[control]]s.<br />● They destroy 1 monster their opponent controls, and if they do, they [[negate]] the effects of 1 monster their opponent controls.<br />● They [[Special Summon]] 1 monster from their [[GY]].<br />You can only activate 1 "Super Critical" per turn.
   | fr_text         = 
   | de_text         = 
   | it_text         = 
   | pt_text         = 
   | es_text         = 
-  | ja_text         = 
+  | ja_text         = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、サイコロを振る効果を持つカード１枚をデッキから手札に加える事ができる。②：カードの効果で自分か相手がサイコロを振り、１が出た場合、そのプレイヤーは以下の効果から１つを選択して発動できる（同一チェーン上ではお互い１度まで）。●相手フィールドのモンスターを３体まで破壊する。●相手フィールドのモンスター１体を破壊し、相手フィールドのモンスター１体の効果を無効にする。●自分の墓地からモンスター１体を特殊召喚する。
   | ko_text         = 
   | sc_text         = 
   | jp_sets         = 
-  YAC1-JP015; Original Artwork Collection; Ultra Rare, Secret Rare
+  YAC1-JP015; Original Artwork Collection; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | supports        = Die roll
   | action          = Adds from Deck to hand
   | m/s/t           = 
@@ -45,5 +45,5 @@ wikitext: |-
   * Once per Chain
   * Variable effects
   * Only once per turn
-  | database_id     = 
+  | database_id     = 23579
   }}

@@ -15,21 +15,24 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = SilentMagiciantheSilentFighter-YAC1-JP-OP.png
+  | image                 = 
+  1; SilentMagiciantheSilentFighter-YAC1-JP-UR.png
+  2; SilentMagiciantheSilentFighter-YAC1-JP-UR-EA.png
+  | current_image         = 1
   | attribute             = LIGHT
   | types                 = Spellcaster / Effect
   | level                 = 8
   | atk                   = 3500
   | def                   = 1000
-  | password              = 
+  | password              = 99522650
   | effect_types          = Summoning condition, Summoning condition, Condition, Continuous, Trigger, Continuous
-  | text                  = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by Tributing 1 [[Level]] 7 or lower monster ([[Spellcaster]] or [[Warrior]]). You can only Special Summon "Silent Magician, the Silent Fighter" once per turn this way. The first time this card would be [[destroyed by battle]] or card [[effect]] each [[turn]], it is not [[destroy]]ed. Twice per turn, each time your opponent [[Draw a card|draws]] a card(s): You can draw 1 card, or if your opponent drew by their own card effect, you draw the same number of cards instead. While you have 6 or more cards in your hand, negate all your opponent's activated Spell Cards and effects.
+  | text                  = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by Tributing 1 [[Level]] 7 or lower monster ([[Spellcaster]] or [[Warrior]]). You can only Special Summon "Silent Magician, the Silent Fighter" once per turn this way. The first time this card would be [[destroyed by battle]] or card [[effect]] each [[turn]], it is not [[destroy]]ed. Twice per turn, each time your opponent [[Draw a card|draws]] a card(s) (except during the [[Damage Step]]): You can draw 1 card, or if your opponent drew by their own card effect, you draw the same number of cards instead. While you have 6 or more cards in your hand, negate all your opponent's activated Spell Cards and effects.
   | fr_text               = 
   | de_text               = 
   | it_text               = 
   | pt_text               = 
   | es_text               = 
-  | ja_text               = 
+  | ja_text               = このカードは通常召喚できない。「沈黙の闘者－サイレント・マジシャン」は１ターンに１度、自分フィールドのレベル７以下の魔法使い族・戦士族モンスター１体をリリースした場合のみ特殊召喚できる。①：このカードは１ターンに１度だけ戦闘・効果では破壊されない。②：１ターンに２度まで、相手がドローする度に発動できる。自分は１枚ドローする。相手が自身のカードの効果でドローしていた場合、代わりにその枚数分だけ、自分はドローする。③：自分の手札が６枚以上である限り、相手が発動した魔法カードの効果は無効化される。
   | ko_text               = 
   | sc_text               = 
   | jp_sets               = 
@@ -58,5 +61,5 @@ wikitext: |-
   | misc                  = 
   * Special Summon Monster
   * Limited activations
-  | database_id           = 
+  | database_id           = 23574
   }}

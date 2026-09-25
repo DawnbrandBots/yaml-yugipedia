@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = FlashforceSword-YAC1-JP-OP.png
+  | image               = FlashforceSword-YAC1-JP-UR.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 50849686
   | effect_types        = Effect, Condition
   | text                = [[Banish]] ([[face-up]]) 1 random card from your opponent's [[hand]] (until the [[Standby Phase]] of the next [[turn]]), then if this card was [[Set]] before activation and it banished a [[monster]], you can apply this effect based on its [[Level]].<br />● 4 or lower: Your opponent banishes all monsters with its same name from their hand, [[Main Deck|Deck]], and [[GY]].<br />● 5 or higher: [[Add a card|Add]] 1 Level 5 or higher monster with the same [[Type]], [[Attribute]], and/or Level from your Deck to your hand.<br />You can only activate 1 "Flashforce Sword" per turn.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：相手の手札をランダムに１枚選び、次のターンのスタンバイフェイズまで表側で除外する。セットされていたこのカードを発動し、その効果でモンスターを除外した場合、さらにそのレベルによって以下の効果を適用できる。<br />●レベル４以下：相手はその同名モンスターを自身の手札・デッキ・墓地から全て除外する。<br />●レベル５以上：自分は種族・属性・レベルの内１つ以上がそのモンスターと同じ、レベル５以上のモンスター１体をデッキから手札に加える。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  YAC1-JP021; Original Artwork Collection; Ultra Rare, Secret Rare
+  YAC1-JP021; Original Artwork Collection; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | related_to_archseries = Protective Seal
   | action              = 
   * Returns from your opponent's banishment to your opponent's hand
@@ -42,5 +42,5 @@ wikitext: |-
   * Turn limited effects
   * Variable effects
   * Only once per turn
-  | database_id         = 
+  | database_id         = 23585
   }}

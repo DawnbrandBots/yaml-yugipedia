@@ -13,13 +13,13 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = KnightofTwinSwords-YAC1-JP-OP.png
+  | image               = KnightofTwinSwords-YAC1-JP-UR.png
   | attribute           = EARTH
   | types               = Warrior / Effect
   | level               = 3
   | atk                 = 350
   | def                 = 200
-  | password            = 
+  | password            = 13450581
   | effect_types        = Continuous, Condition, Ignition, Ignition
   | text                = Can make up to 2 [[attack]]s on [[monsters]] during each [[Battle Phase]]. You can only use each of the following effects of "Knight of Twin Swords" [[once per turn]]. If this card is in your [[hand]] and you [[control]] a card with an [[effect]] that requires a die roll: You can [[Special Summon]] this card. During your [[Main Phase]]: You can roll a six-sided die 3 times, and if you do, this card gains [[ATK]] equal to the total x 350 (until the end of this [[turn]]), then if 2 or more of the results were the same, you can Special Summon 1 monster from your hand.
   | fr_text             = 
@@ -27,11 +27,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、サイコロを振る効果を持つカードが自分フィールドに存在する場合に発動できる。このカードを特殊召喚する。②：自分メインフェイズに発動できる。サイコロを３回振る。このカードの攻撃力はターン終了時まで、出た目の合計×３５０アップする。同じ目が２つ以上出た場合、さらに手札からモンスター１体を特殊召喚できる。③：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  YAC1-JP020; Original Artwork Collection; Ultra Rare, Secret Rare
+  YAC1-JP020; Original Artwork Collection; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | supports            = Die roll
   | action              = Activates from your hand
   | stat_change         = This card gains ATK
@@ -42,5 +42,5 @@ wikitext: |-
   | misc                = 
   * Only once per turn
   * Die roll
-  | database_id         = 
+  | database_id         = 23584
   }}

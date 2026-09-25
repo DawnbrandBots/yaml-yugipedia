@@ -14,10 +14,10 @@ wikitext: |-
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 
-  | image               = AttributeRejection-YAC1-JP-OP.png
+  | image               = AttributeRejection-YAC1-JP-UR.png
   | card_type           = Spell
   | property            = Quick-Play
-  | password            = 
+  | password            = 87465873
   | effect_types        = Effect, Condition, Condition
   | text                = [[Target]] 1 [[face-up]] [[monster]] your opponent [[control]]s that was [[Special Summon]]ed from the [[Extra Deck]]; [[send]] 1 [[DARK]] or [[Zombie]] monster from your [[hand]], [[Main Deck|Deck]], or face-up [[field]] to the [[GY]], and if you do, the targeted monster loses [[ATK]] equal to the sent monster's [[original ATK]], then if the targeted monster is [[LIGHT]], [[negate]] its [[effect]]s. You can only activate 1 "Attribute Rejection" per turn. If this card was activated as [[Chain Link]] 3 or higher, your opponent cannot activate cards or effects in response to this card's activation.
   | fr_text             = 
@@ -25,11 +25,11 @@ wikitext: |-
   | it_text             = 
   | pt_text             = 
   | es_text             = 
-  | ja_text             = 
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できず、チェーン３以降に発動した場合、このカードの発動に対して相手は効果を発動できない。①：ＥＸデッキから特殊召喚された相手フィールドの表側表示モンスター１体を対象として発動できる。自分の手札・デッキ・フィールド（表側表示）からアンデット族か闇属性のモンスター１体を墓地へ送り、その元々の攻撃力分だけ対象のモンスターの攻撃力をダウンする。対象のモンスターが光属性の場合、さらにその効果は無効化される。
   | ko_text             = 
   | sc_text             = 
   | jp_sets             = 
-  YAC1-JP019; Original Artwork Collection; Ultra Rare, Secret Rare
+  YAC1-JP019; Original Artwork Collection; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | supports            = 
   * DARK
   * Zombie
@@ -50,5 +50,5 @@ wikitext: |-
   * Requires control of specific Type
   * Only once per turn
   * Chain Effects
-  | database_id         = 
+  | database_id         = 23583
   }}
