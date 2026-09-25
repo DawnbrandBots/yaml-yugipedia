@@ -3,9 +3,9 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = 魔竜デビル・ドラゴン
-  | romaji_name     = 
-  | translated_name = 
+  | ja_name         = {{Ruby|魔|ま}}{{Ruby|竜|りゅう}}デビル・ドラゴン
+  | romaji_name     = Maryū Debiru Doragon
+  | translated_name = Devil Dragon the Magical Dragon
   | image           = KoumoriDragontheMagicalDragon-RDCA01-JP-OP.png
   | attribute       = DARK
   | types           = Dragon / Effect
@@ -13,10 +13,20 @@ wikitext: |-
   | atk             = 1500
   | def             = 1200
   | requirement     = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Special Summon]] 1 [[Level]] 4 [[Dragon]] [[Type]] [[Effect Monster]] with 1500 [[ATK]] from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]]. This [[turn]], you can only [[attack]] with [[DARK]] [[Attribute]] monsters.
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Special Summon]] 1 [[Level]] 4 [[Dragon]] [[Type]] [[Effect Monster]] with 1500 [[ATK]] from your [[Graveyard]] to your [[field]] in [[face-up]] [[Defense Position]]. This [[turn]], you can only [[attack]] with [[DARK]] [[Attribute]] [[Monster Card|monster]]s.
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/CA01-JP011; Cross Art Collection; Ultra Rare
+  | supports        = 
+  * Dragon
+  * Effect Monster
+  * DARK
+  | archseries      = Dark Magician (Rush Duel series)
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from the top of your Deck to your Graveyard
+  | summoning       = Special Summons from your Graveyard
+  | attack          = Prevents your monsters from attacking
   | database_id     = 
   }}
