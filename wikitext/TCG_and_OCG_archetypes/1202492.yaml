@@ -25,7 +25,7 @@ wikitext: |-
   "'''Angelechy'''" is a [[TCG-only|World Premiere]] [[archetype]] of [[LIGHT]] and [[DARK]] [[Fairy]] [[Synchro Monster]]s introduced in ''[[Chaos Origins]]''.
 
   == Design ==
-  The archetype is based on [[wikipedia:chess|chess]] pieces and tactics. Its monsters are clad in armor. The LIGHT monsters are white, representing white pieces, and the DARK monsters are black, representing black pieces. To further the chess theme, its monsters also have effects to banish an opponent's cards based on the capturing patterns of their corresponding pieces, and it includes Spell/Trap effects focusing on placing its monsters in the [[Spell & Trap Zone]] as [[Continuous Spell Card|Continuous Spells]] similar to the back rank of a chessboard, where they gain additional effects. The only monster without such an effect is "[[Angelechy Enlisted]]", which is based on the pawn and thus doesn't begin a chess game on the back rank; instead, it has an effect that allows it to "[[wikipedia:Promotion (chess)|promote]]" to another "Angelechy" monster when it successfully "captures" a monster.
+  This archetype is based on [[wikipedia:chess|chess]] pieces and tactics; specifically, its monsters take their Fairy [[Type]] from [[wikipedia:fairy chess|fairy chess]], the area of chess composition in which there are changes to the standard rules of chess to express ideas impossible in orthodox chess. The LIGHT monsters are white to represent white pieces, while the DARK monsters are black to represent black pieces. Enforcing the chess theme, most monsters have effects to banish an opponent's card based on the capturing patterns of their corresponding pieces, while its Spell/Traps have effects focused on placing its monsters in the [[Spell & Trap Zone]] as [[Continuous Spell]]s to simulate the back rank of a chessboard. The only white piece without such an effect is "[[Angelechy Enlisted]]", fitting the fact that the piece it is based on (the pawn) does not begin chess games on the back rank; instead, it has an effect that allows it to '[[wikipedia:Promotion (chess)|promote]]' to another piece when it successfully 'captures' an opponent's monster by replacing itself with a different member from the [[Extra Deck]].
 
   {| class="wikitable" style="text-align:center"
   ! Monster
@@ -84,14 +84,8 @@ wikitext: |-
   | [[Angelechy Problem]]
   | [[wikipedia:Chessboard|Chessboard]] / [[wikipedia:Angel problem|Angel problem]]
   |-
-  | [[Angelechy Disturbance]]
-  | [[wikipedia:Interference (chess)|Interference]]
-  |-
-  | [[Angelechy Opening to e4]]
-  | [[wikipedia:chess opening|Chess opening]] / [[wikipedia:King's Pawn Game|King's Pawn Game]]
-  |-
   | [[Angelechy Strategy Score]]
-  | [[wikipedia:Chess strategy|Chess strategy]]
+  | [[wikipedia:Chess strategy|Chess strategy]] / [[Wikipedia:Chess piece relative value|Point value]]
   |-
   | [[Angelechy Brilliant Move]]
   | [[wikipedia:Chess annotation symbols#!! (Brilliant move)|Brilliant move]]
@@ -102,11 +96,21 @@ wikitext: |-
   | [[Angelechy Endgame Problem]]
   | [[wikipedia:Chess endgame|Chess endgame]]
   |-
+  | [[Angelechy Disturbance]]
+  | [[wikipedia:Interference (chess)|Interference]]
+  |-
+  | [[Angelechy Opening to e4]]
+  | [[wikipedia:Chess opening|Opening]] / [[wikipedia:King's Pawn Game|King's Pawn Game]]
+  |-
   | [[Angelechy Verdict]]
-  |
+  | —
   |}
 
   == Playing style ==
+  Most monsters in this archetype have [[Continuous Effect]]s that applies to one or both players while they are treated as Continuous Spells, thus acting as [[List of unofficial terms|floodgate]]s in most cases. Despite this, the theme seems to be meant to be played going second due to its most powerful combo enabler, "[[Angelechy Opening to e4]]", allowing the player to set up their board during the opponent's first [[Standby Phase]], which usually means being able to play before the opponent has the chance to make any or the most of their moves. Furthermore, all "Angelechy" monsters requires the opponent to control a monster (which is less likely when the player goes first) in order to use their [[Ignition Effect]]s, and the other "Angelechy" Traps have effects that can be activated from the [[Graveyard]], thus giving them a use even without the need to wait a turn after [[Set]]ting them (which can also be bypassed by "[[Angelechy Endgame Problem]]").
+
+  The total lack of [[Main Deck]] monsters allows the archetype to be easily [[List of unofficial terms|splashed]] in any Deck that can afford the investment it needs in terms of [[Extra Deck]] space, but it inherently clashes with non-Synchro, non-LIGHT and/or DARK archetypes due to the [[List of unofficial terms|locks]] some of its cards put on the player. However, it is possible to sacrifice part of the engine and only keep the cards that do not lock the player whatsoever, which still allows a compact engine to be included virtually everywhere - even in Decks that restrain the player's monster effects, since the best effects of "Angelechy" monsters are treated as Spell effects - and gaining value from the card advantage it offers. Alternatively, a pure "Angelechy" Deck can be filled with any sort of engine able to perform a [[Level]] 8 Synchro 1-card combo, because "[[Witness of the Ancient]]" allows any of them to [[List of unofficial terms|bridge]] into the archetype via the generic "[[Glitch Clutch Nullgainer]]". The latter can also assist in an easy Summon of "[[Ultimaya Tzolkin]]", which can Summon either powerful monsters to add to the player's end board or "[[Ancient Fairy Dragon]]", which in turn can either switch between the two [[Field Spell]]s the archetype possess or bridge into any to Deck that can get started by a Field Spell.
+
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Please do not add multiples or staples.-->
   |effect monsters =
@@ -120,41 +124,38 @@ wikitext: |-
   ** [[Fire Ant Ascator]]
 
   |tuner monsters =
+  * [[Witness of the Ancient]]
   * [[Chaospawn Bishop]]
   * [[Dominusteer Rosepamela]]
   * [[Fydraulis Harmonia]]
-  * [[Witness of the Ancient]]
 
   |synchro monsters =
+  * [[Angelechy Enlisted]]
   * [[Angelechy Bastion]]
   * [[Angelechy Castellan]]
   * [[Angelechy Destrier]]
-  * [[Angelechy Enlisted]]
   * [[Angelechy Seneschal]]
   * [[Angelechy Shatranga]]
-  * [[Chaos Angel]]
   * [[Glitch Clutch Nullgainer]] (with "Witness of the Ancient")
   ** [[Ultimaya Tzolkin]]
-  *** [[Beelze of the Diabolic Dragons]]
+  *** [[Ancient Fairy Dragon]]
   *** [[Crystal Wing Synchro Dragon]]
   *** [[Black-Winged Dragon]]
   **** [[Black-Winged Assault Dragon]]
   * [[Snake-Eyes Vengeance Dragon]]
+  * [[Chaos Angel]]
   * [[Stardust]] and/or [[Warrior (archetype)|Warrior]] monsters (with "Junk Meister")
   * Fairy Synchro Monsters to summon with the effect of "Angelechy Seneschal"
-  ** [[Celestial Double Star Shaman]]
-  ** [[Cupid Pitch]]
   ** [[Mannadium Trisukta]]
-  ** [[The Executor of the Underworld - Pluto]]
 
   |normal spells =
-  * [[Angelechy Brilliant Move]]
-  * [[Angelechy Opposition]]
   * [[Angelechy Strategy Score]]
+  * [[Angelechy Opposition]]
+  * [[Angelechy Brilliant Move]]
   * [[Foolish Burial Goods]]
+  * [[Terraforming]]
   * [[Rainbow Bridge Bifrost]]
   * [[Swordsoul Punishment]]
-  * [[Terraforming]]
   * [[Triple Tactics Talent]]
   * [[Triple Tactics Thrust]]
 
@@ -177,6 +178,11 @@ wikitext: |-
   * [[Centur-Ion True Awakening]]
   * [[Mannadium Reframing]]
   }}
+
+  === Weaknesses ===
+  * Due to revolving around placing its monsters as Continuous Spells - which forces them to [[Continuous Spell#Must remain on-field to resolve on-field effect|remain on-field to resolve on-field effects]] - the archetype is extremely vulnerable to Spell/Trap removals, especially those that can get around "[[Angelechy Bastion]]" by [[banish]]ing instead of [[destroy]]ing, such as "[[Cosmic Cyclone]]".
+  * Despite the theme does not strictly need its monsters on the field as such, most of its Spell effects able to place them in the player's [[List of unofficial terms|backrow]] as Continuous Spells need to also [[Special Summon]] them in the process, so cards like "[[Discord]]" sill affects an "Angelechy" Deck.
+  * Not truly a weakness but an accidental flaw, "Angelechy Opening to e4" specifically Summoning a monster in the [[Extra Monster Zone]] makes it unplayable in [[Genesys]]. The rest of the archetype remains playable and effective, but take not that it will lack its most powerful card.
 
   {{Archseries navbox}}
   [[Category:World Premiere debuted archetypes]]
