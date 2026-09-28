@@ -3,39 +3,40 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|勝|しょう}}{{Ruby|敗|はい}}を{{Ruby|分|わ}}かつ{{Ruby|剣|けん}}{{Ruby|士|し}}
-  | romaji_name    = Shōhai o Wakatsu Kenshi
-  | ko_name        = 승패를 가르는 검사
-  | image          = TheSwordsmanWhoDolesOutVictory-RDKP22-JP-SR.png
-  | attribute      = EARTH
-  | types          = Warrior / Effect
-  | level          = 7
-  | atk            = 2600
-  | def            = 2300
-  | condition      = This card's name becomes "[[Buster Blader (Rush Duel)|Buster Blader]]" while in the [[Graveyard]].
-  | requirement    = [[Send]] 1 card from your [[hand]] to the Graveyard.
-  | text           = This [[turn]], this card's name becomes "Buster Blader". Then, you can [[Add a card|add]] 1 "[[Polymerization (Rush Duel)|Polymerization]]" or "[[Miracle Secret Arts]]" from your Graveyard to your hand. This turn, this card cannot [[attack]].
-  | ja_condition   = 墓地にいるこのカードのカード名は「バスター・ブレイダー」になる。
-  | ja_requirement = 手札１枚を墓地へ送って発動できる。
-  | ja_text        = このカードのカード名はこのターン、「バスター・ブレイダー」になる。その後、自分の墓地の「融合」または「奇跡の秘術」１枚を選んで手札に加える事ができる。このターン、このカードは攻撃できない。
-  | ko_condition   = 묘지에 있는 이 카드의 카드명은 "버스터 블레이더"가 된다.
-  | ko_requirement = 패 1장을 묘지로 보내고 발동할 수 있다.
-  | ko_text        = 이 카드의 카드명은 이 턴에, "버스터 블레이더"가 된다. 그 후, 자신 묘지의 "융합" 또는 "기적의 비술" 1장을 고르고 패에 넣을 수 있다. 이 턴에, 이 카드는 공격할 수 없다.
-  | jp_sets        = 
+  | ja_name               = {{Ruby|勝|しょう}}{{Ruby|敗|はい}}を{{Ruby|分|わ}}かつ{{Ruby|剣|けん}}{{Ruby|士|し}}
+  | romaji_name           = Shōhai o Wakatsu Kenshi
+  | ko_name               = 승패를 가르는 검사
+  | image                 = TheSwordsmanWhoDolesOutVictory-RDKP22-JP-SR.png
+  | attribute             = EARTH
+  | types                 = Warrior / Effect
+  | level                 = 7
+  | atk                   = 2600
+  | def                   = 2300
+  | condition             = This card's name becomes "[[Buster Blader (Rush Duel)|Buster Blader]]" while in the [[Graveyard]].
+  | requirement           = [[Send]] 1 card from your [[hand]] to the Graveyard.
+  | text                  = This [[turn]], this card's name becomes "Buster Blader". Then, you can [[Add a card|add]] 1 "[[Polymerization (Rush Duel)|Polymerization]]" or "[[Miracle Secret Arts]]" from your Graveyard to your hand. This turn, this card cannot [[attack]].
+  | ja_condition          = 墓地にいるこのカードのカード名は「バスター・ブレイダー」になる。
+  | ja_requirement        = 手札１枚を墓地へ送って発動できる。
+  | ja_text               = このカードのカード名はこのターン、「バスター・ブレイダー」になる。その後、自分の墓地の「融合」または「奇跡の秘術」１枚を選んで手札に加える事ができる。このターン、このカードは攻撃できない。
+  | ko_condition          = 묘지에 있는 이 카드의 카드명은 "버스터 블레이더"가 된다.
+  | ko_requirement        = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text               = 이 카드의 카드명은 이 턴에, "버스터 블레이더"가 된다. 그 후, 자신 묘지의 "융합" 또는 "기적의 비술" 1장을 고르고 패에 넣을 수 있다. 이 턴에, 이 카드는 공격할 수 없다.
+  | jp_sets               = 
   RD/KP22-JP023; OuTerverSe of Terror; Super Rare
-  | kr_sets        = 
+  | kr_sets               = 
   RD/KP22-KR023; OuTerverSe of Terror; Super Rare
-  | mentions       = 
+  | mentions              = 
   * Buster Blader (Rush Duel)
   * Polymerization (Rush Duel)
   * Miracle Secret Arts
-  | archseries     = Dark Magician (Rush Duel series)
-  | action         = 
+  | archseries            = Buster Blader (Rush Duel series)
+  | related_to_archseries = Dark Magician (Rush Duel series)
+  | action                = 
   * Sends from hand to Graveyard for cost
   * Adds from Graveyard to hand
-  | stat_change    = 
+  | stat_change           = 
   * Changes own name while in the GY
   * Changes own name while on the field
-  | attack         = Cannot attack
-  | database_id    = 21999
+  | attack                = Cannot attack
+  | database_id           = 21999
   }}
