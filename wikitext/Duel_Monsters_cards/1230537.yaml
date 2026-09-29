@@ -33,6 +33,20 @@ wikitext: |-
   IMPH-JP080; Immortal Phoenix; 
   | sc_sets              = 
   IMPH-SC080; Immortal Phoenix; 
+  | supports             = Normal Monster
+  | anti-supports        = Normal Monster
   | archseries           = Bunnillin
+  | action               = 
+  * Activates upon Special Summon
+  * Activates upon attack declaration
+  * Adds from Graveyard to hand
+  | stat_change          = Your monsters gain ATK
+  | summoning            = Special Summons from your Graveyard
+  | misc                 = 
+  * Requires control of specific Monster type
+  * Only once per turn
+  * Requires control of specific Level
+  * Requires control of specific ATK
+  * Requires control of specific DEF
   | database_id          = 
   }}
