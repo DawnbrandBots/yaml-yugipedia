@@ -5,6 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|湧|ゆう}}{{Ruby|軍|ぐん}}{{Ruby|機|き}}{{Ruby|蒼|ソー}}{{Ruby|炎|エン}}
   | romaji_name    = Yūgunki Sōen
+  | ko_name        = 용군기 소엔
   | image          = SoentheMoltenMartialMachine-RDKP25-JP-C.png
   | attribute      = FIRE
   | types          = Machine / Effect
@@ -17,8 +18,13 @@ wikitext: |-
   | ja_condition   = 手札のモンスター（レベル５以外／炎属性／機械族）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
   | ja_text        = 自分フィールドの表側表示モンスター（レベル２以上／炎属性／機械族）を３体まで選ぶ。このターン、そのモンスターの攻撃力は５００アップし、レベルは１下がり、その攻撃は貫通する。
+  | ko_condition   = 패의 몬스터(레벨 5 이외 / 화염 속성 / 기계족) 1장을 상대에게 보여주고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+  | ko_requirement = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 필드의 앞면 표시 몬스터(레벨 2 이상 / 화염 속성 / 기계족)를 3장까지 고른다. 이 턴에, 그 몬스터의 공격력은 500 올리고, 레벨은 1 내려가며, 그 공격은 관통한다.
   | jp_sets        = 
   RD/KP25-JP036; Rising of the Aurora; Common
+  | kr_sets        = 
+  RD/KP25-KR036; Rising of the Aurora; Common
   | supports       = 
   * FIRE
   * Machine
