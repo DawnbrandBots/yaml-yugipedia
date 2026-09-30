@@ -1,15 +1,15 @@
 title: Sword & Shield (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image     = SwordShield-RDDULI-EN-VG.png
-  | ja_image  = SwordShield-RDDULI-JP-VG.png
+  | fr_name   = Épée et Bouclier
   | card_type = Trap
   | property  = Normal
   | rarity    = UR
-  | text      = '''[REQUIREMENT]''' When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]].<br />'''[EFFECT]''' [[Destroy]] 1 [[Attack Position]] monster with the highest [[ATK]] on your opponent's field.
-  | mentions  = Shield & Sword (Duel Links Rush Duel)
+  | text      = '''[REQUIREMENT]''' When an opponent's [[Level]] 9 or lower [[Monster Card|monster]] [[declare]]s an [[attack]] [[Attack target|target]]ing your [[Attack Position]] monster.<br />'''[EFFECT]''' Switch the [[original ATK and DEF]] of the attacking monster until the end of this [[turn]]. Switch the original [[ATK]] and [[DEF]] of the attack target until the end of this turn. If you do, you can also [[Add a card|add]] 1 "[[Shield & Sword (Duel Links Rush Duel)|Shield & Sword]]" from your [[Graveyard]] to your [[hand]].
+  | fr_text   = '''[CONDITION]''' Lorsqu'un monstre de l'adversaire de max. Niveau 9 déclare une attaque ciblant votre monstre en Position d'Attaque.<br />'''[EFFET]''' Échangez l'ATK/DEF d'origine du monstre attaquant jusqu'à la fin de ce tour. Échangez l'ATK et la DEF d'origine de la cible de l'attaque jusqu'à la fin de ce tour. Ensuite, vous pouvez ajouter 1 "Bouclier et Épée" depuis votre Cimetière dans votre main.
   | releases  = 
   {{Duel Links release table/header}}
   {{Duel Links release table|release_date=2024-01-12|Shop Bundle|950 Gems|quantity=1}}
   {{Duel Links release table/footer}}
+  | mentions  = Shield & Sword (Duel Links Rush Duel)
   }}
