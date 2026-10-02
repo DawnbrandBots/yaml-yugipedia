@@ -2,7 +2,6 @@ title: Hand Destruction
 wikitext: |-
   {{For|the tactic|[[List of unofficial terms#Hand destruction]]}}
   {{CardTable2
-  | tc_name         = 手牌斷殺
   | fr_name         = Destruction de Main
   | de_name         = Handzerstörung
   | it_name         = Distruggi-Mano
@@ -13,6 +12,7 @@ wikitext: |-
   | translated_name = Hand Severing
   | ko_name         = 패 좌절
   | ko_rr_name      = Pae Jwajeol
+  | tc_name         = 手牌斷殺
   | sc_name         = 手牌断杀
   | image           = HandDestruction-SR06-EN-C-1E.png
   | card_type       = Spell
@@ -29,7 +29,7 @@ wikitext: |-
   | translated_text = <ins>Both</ins> '''players send''' 2 cards from their hand to the GY, then '''draw''' 2 cards.
   | ko_text         = ①: 양쪽 플레이어는 패를 2장 묘지로 보낸다. 그 후, 각각 덱에서 2장 드로우한다.
   | tc_text         = 双方玩家将2张手牌送入墓地。然后，各自从己方牌组中抽取2张卡牌。
-  | sc_text         = ①：双方玩家将２张手牌送至墓地。然后分别从牌组抽２张。
+  | sc_text         = ①：双方各自挑选自身的2张手牌送至墓地。然后，各抽2张。
   | en_sets         = 
   DP07-EN018; Duelist Pack: Jesse Anderson; Rare
   TU01-EN014; Turbo Pack: Booster One; Common
@@ -74,16 +74,17 @@ wikitext: |-
   SD24-JP028; Structure Deck: Onslaught of the Fire Kings; Common
   SR02-JP031; Structure Deck R: Revival of the Great Divine Dragon; Common
   SD34-JP029; Structure Deck: Master Link; Common
-  | tc_sets         = 
-  SD18-TC029; Structure Deck: Machiners Command; Common
   | kr_sets         = 
   DP07-KR022; Duelist Pack: Jesse Anderson; Super Rare
   SD18-KR029; Structure Deck: Machiners Command; Common
   SD24-KR028; Structure Deck: Onslaught of the Fire Kings; Common
   SR02-KR031; Structure Deck R: Revival of the Great Divine Dragon; Common
   SD34-KR029; Structure Deck: Master Link; Common
+  | tc_sets         = 
+  SD18-TC029; Structure Deck: Machiners Command; Common
   | sc_sets         = 
   TM02-SC089; Theme Pack: Undead Rondo; Common
+  26SP-SC317; Tournament Pack 2026 Vol.3 (Simplified Chinese); Common
   | action          = 
   * Sends from your hand to your Graveyard
   * Sends from your opponent's hand to your opponent's Graveyard
