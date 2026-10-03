@@ -10,18 +10,13 @@ wikitext: |-
   | image_nc           = TrainingField-JP-Anime-GX-NC.png
   | card_type          = Spell
   | property           = Field
-  | text               = Players can [[target]] their own [[Monster Card|monster]]s for [[attack]]s. If they do, the [[Battle|battling]] monsters cannot be [[Destroyed by battle|destroyed by that battle]], and the attacking monster gains 300 [[ATK]] at the end of the [[Damage Step]].
-  | ja_text            = 
+  | effect_types       = Continuous-like, Continuous-like, Trigger-like
+  | text               = Players can [[Target|select]] their own [[Monster Card|monster]]s as [[attack target]]s. Monsters cannot be [[Destroyed by battle|destroyed by battle]] through this [[effect]]. ([[Damage calculation]] is still applied.) A monster that [[attack]]s using this effect gains 300 [[ATK]] at the end of its attack.
+  | ja_text            = 攻撃対象モンスターに味方モンスターを選択してもよい。この効果による戦闘でモンスターは破壊されない。（ダメージは計算する。）この効果を使用して攻撃したモンスターは、攻撃終了後攻撃力を３００ポイントアップする。
   | appears_in_gx      = 076
   | decks              = Syrus Truesdale
   | stat_change        = 
   * Your monsters gain ATK
   * Your opponent's monsters gain ATK
   | action             = Cannot be destroyed by battle
-  }}
-
-  {{Unofficial names
-  | de_name = Trainingsfeld
-  | el_name = Προπονητικό Πεδίο
-  | hr_name = Teren za Trening
   }}
