@@ -9,7 +9,7 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Special Summon]] 1 [[Level]] 4 [[Beast-Warrior]] [[Type]] [[Union monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you have a face-up "[[Attrac Charm Sowaru]]" and "[[Attrac Charm Midi]]" on your field, you can [[destroy]] 1 face-up Level 8 or lower monster on your opponent's field.
+  | text           = [[Special Summon]] 1 [[Level]] 4 [[Beast-Warrior]] [[Type]] [[Union monster]] from your [[Graveyard]] [[face-up]] to your [[field]]. Then, if you have a face-up "[[Attrac Charm Sowaru]]" and "[[Attrac Charm Midi]]" on your field, you can [[destroy]] 1 face-up Level 8 or lower [[monster]] on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -17,5 +17,11 @@ wikitext: |-
   | mentions       = 
   * Attrac Charm Sowaru
   * Attrac Charm Midi
+  | supports       = 
+  * Beast-Warrior
+  * Union monster
+  | m/s/t          = Destroys your opponent's face-up Monster Cards
+  | summoning      = Special Summons from your Graveyard
+  | misc           = Requires control of specific card
   | database_id    = 
   }}
