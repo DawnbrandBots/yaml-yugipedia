@@ -3,46 +3,47 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name              = 
-  | de_name              = 
-  | it_name              = 
-  | pt_name              = 
-  | es_name              = 
-  | ja_name              = {{Ruby|魔獣の昂進|カード・クロール}}
-  | romaji_name          = Kādo Kurōru
-  | base_romaji_name     = Majū no Kōshin
-  | base_translated_name = Rise of the Demonic Beast
-  | ko_name              = 
-  | ko_rr_name           = 
-  | sc_name              = 魔兽的昂进
-  | image                = CardCrawl-IMPH-JP-OP.png
-  | card_type            = Spell
-  | property             = Continuous
-  | password             = 
-  | effect_types         = Ignition-like, Condition
-  | text                 = You can [[banish]] ([[face-down]]) the top 5, 10, or 15 cards of your [[Main Deck|Deck]], then [[target]] 1 [[face-up]] [[monster]] on the [[field]]; apply the appropriate effect to it.<br />● 5: Its [[ATK]]/[[DEF]] become 0.<br />● 10: [[Negate]] its effects.<br />● 15: Banish it (face-down).<br />You can only use this [[effect]] of "Card Crawl" [[once per turn]].
-  | fr_text              = 
-  | de_text              = 
-  | it_text              = 
-  | pt_text              = 
-  | es_text              = 
-  | ja_text              = 
-  | ko_text              = 
-  | sc_text              = 此卡名的①效果1回合仅可使用1次。①：从自己牌组上面依以下数量将卡以里侧除外，以场上的1只表侧表示怪兽为对象可以发动。对对象怪兽适用该效果。<br />●5张：将攻击力・守备力改成0。<br />●10张：将效果无效。<br />●15张：以里侧除外。
-  | jp_sets              = 
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|魔獣の昂進|カード・クロール}}
+  | romaji_name           = Kādo Kurōru
+  | base_romaji_name      = Majū no Kōshin
+  | base_translated_name  = Rise of the Demonic Beast
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 魔兽的昂进
+  | image                 = CardCrawl-IMPH-JP-OP.png
+  | card_type             = Spell
+  | property              = Continuous
+  | password              = 
+  | effect_types          = Ignition-like, Condition
+  | text                  = You can [[banish]] ([[face-down]]) the top 5, 10, or 15 cards of your [[Main Deck|Deck]], then [[target]] 1 [[face-up]] [[monster]] on the [[field]]; apply the appropriate effect to it.<br />● 5: Its [[ATK]]/[[DEF]] become 0.<br />● 10: [[Negate]] its effects.<br />● 15: Banish it (face-down).<br />You can only use this [[effect]] of "Card Crawl" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 
+  | ko_text               = 
+  | sc_text               = 此卡名的①效果1回合仅可使用1次。①：从自己牌组上面依以下数量将卡以里侧除外，以场上的1只表侧表示怪兽为对象可以发动。对对象怪兽适用该效果。<br />●5张：将攻击力・守备力改成0。<br />●10张：将效果无效。<br />●15张：以里侧除外。
+  | jp_sets               = 
   IMPH-JP069; Immortal Phoenix; 
-  | sc_sets              = 
+  | sc_sets               = 
   IMPH-SC069; Immortal Phoenix; 
-  | stat_change          = 
+  | related_to_archseries = Maju
+  | stat_change           = 
   * Reduces ATK to 0
   * Reduces DEF to 0
   * Changes ATK value
   * Changes DEF value
-  | m/s/t                = Negates the effects of Effect Monsters
-  | banished             = 
+  | m/s/t                 = Negates the effects of Effect Monsters
+  | banished              = 
   * Banishes from the top of your Deck for cost
   * Banishes from field
   * Banishes face-down
-  | misc                 = Only once per turn
-  | database_id          = 
+  | misc                  = Only once per turn
+  | database_id           = 
   }}
