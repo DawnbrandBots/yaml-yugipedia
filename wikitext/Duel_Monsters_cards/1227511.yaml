@@ -20,7 +20,7 @@ wikitext: |-
   | property        = Quick-Play
   | password        = 
   | effect_types    = Effect, Trigger-like
-  | text            = During the Battle Phase: Activate 1 of these effects;<br />● When an opponent's monster declares an attack while they control more monsters than you do: Negate the attack, then end the Battle Phase.<br />● When your opponent activates a monster effect: Negate that effect, and if you do, destroy that monster.<br />When you draw for your normal draw in your Draw Phase: You can banish this card from your GY; Special Summon 1 monster from your hand.
+  | text            = During the [[Battle Phase]]: [[Activate]] 1 of these [[effect]]s;<br />● When an opponent's [[monster]] [[declare]]s an [[attack]] while they [[control]] more monsters than you do: [[Negate]] the attack, then end the Battle Phase.<br />● When your opponent activates a [[monster effect]]: Negate that effect, and if you do, [[destroy]] that monster.<br />When you [[draw]] for your [[normal draw]] in your [[Draw Phase]]: You can [[banish]] this card from your [[GY]]; [[Special Summon]] 1 monster from your [[hand]].
   | fr_text         = 
   | de_text         = 
   | it_text         = 
@@ -32,5 +32,19 @@ wikitext: |-
   | jp_sets         = 
   VJMP-JP298; V Jump December 2026 promotional card; Ultra Rare
   | archseries      = Spell Card (series)
+  | action          = 
+  * Activates upon attack declaration
+  * Ends the Battle Phase
+  * Activates if you draw a card
+  * Activates from your Graveyard
+  | m/s/t           = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys your opponent's Monster Cards
+  | summoning       = Special Summons from your hand
+  | attack          = Negates attacks
+  | banished        = Banishes itself from Graveyard for cost
+  | misc            = 
+  * Variable effects
+  * Only once per turn
   | database_id     = 
   }}

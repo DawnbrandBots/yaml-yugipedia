@@ -37,5 +37,21 @@ wikitext: |-
   IMPH-JP021; Immortal Phoenix; Ultimate Rare
   | sc_sets              = 
   IMPH-SC021; Immortal Phoenix; 
+  | anti-supports        = Special Summon Monster
+  | action               = 
+  * Activates from your hand
+  * Activation cannot be negated
+  * Effect that cannot be negated
+  * Sends itself from field to Graveyard for cost
+  | stat_change          = 
+  * Halves ATK
+  * All monsters lose ATK
+  | m/s/t                = Destroys negated Summons
+  | summoning            = 
+  * Negates Special Summons
+  * Special Summons itself from your hand
+  | misc                 = 
+  * Only once per turn
+  * Requires control of no monsters
   | database_id          = 
   }}
