@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|終|しゅう}}{{Ruby|天|てん}}{{Ruby|獄|ごく}}{{Ruby|神|しん}}{{Ruby|Ω|オメガ}}ヴィードリウム
-  | romaji_name           = Shūten Gokushin Omega Vīdoriumu
+  | romaji_name           = Shūtengokushin Omega Vīdoriumu
   | translated_name       = Omega Vidolium the Imprisoned God of Heaven's End
   | ko_name               = 
   | ko_rr_name            = 
@@ -45,7 +45,34 @@ wikitext: |-
   | sc_text               = 
   | jp_sets               = 
   IMPH-JP035; Immortal Phoenix; 
+  | supports              = Fusion Monster
   | archseries            = Power Patron
   | supports_archetypes   = Power Patron
+  | action                = 
+  * Activates upon Special Summon
+  * Returns itself from field to hand
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Sends from your field to your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Must include particular Fusion Materials
+  * Goes to Pendulum Zone
+  | m/s/t                 = 
+  * Unaffected by other card effects
+  * Negates the activation of your opponent's Effect Monster's effect
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires location specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  * Special Summon-only monster
+  * Performs a Fusion Summon
+  | banished              = 
+  * Banishes from the top of your Deck for cost
+  * Banishes face-down
+  * Banishes negated activations
+  | misc                  = 
+  * Requires control of specific archetype
+  * Limited activations
+  * During the Standby Phase
   | database_id           = 
   }}
