@@ -13,10 +13,10 @@ wikitext: |-
   | def                   = 500
   | requirement           = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[reveal]] 1 [[Cyberse]] [[Type]] [[Monster Card|monster]] in your [[hand]].
   | text                  = Make 1 [[face-up]] monster on your opponent's [[field]] lose 400 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Fuden Issen]]" from your [[Graveyard]] to your hand.
-  | ja_requirement        = 
-  | ja_text               = 
+  | ja_requirement        = このカードを召喚・特殊召喚した自分メインフェイズに、手札のモンスター（サイバース族）１体を相手に見せて発動できる。
+  | ja_text               = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで４００ダウンする。その後、自分の墓地の「符電一閃」１枚を選んで手札に加える事ができる。
   | jp_sets               = 
-  RD/CA01-JP028; Cross Art Collection; Ultra Rare
+  RD/CA01-JP028; Cross Art Collection; Ultra Rare, Secret Rare
   | mentions              = Fuden Issen
   | supports              = Cyberse
   | archseries            = Dimension Linker (series)
@@ -27,5 +27,5 @@ wikitext: |-
   * Reveals your hand for cost
   * Adds from Graveyard to hand
   | stat_change           = Your opponent's monsters lose ATK
-  | database_id           = 
+  | database_id           = 23920
   }}

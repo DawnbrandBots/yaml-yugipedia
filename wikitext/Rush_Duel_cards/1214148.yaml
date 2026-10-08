@@ -10,10 +10,10 @@ wikitext: |-
   | property       = Normal
   | requirement    = None
   | text           = [[Send]] the top 3 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] to your [[hand]] 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]] [[Monster Card|monster]] or 1 Level 4 monster with 500 [[DEF]] from among the cards sent. This [[turn]], you can only [[attack]] with Cyberse Type monsters.
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = なし
+  | ja_text        = 自分のデッキの上からカード３枚を墓地へ送る。その後、その中からモンスター（レベル８／光属性／サイバース族）またはモンスター（レベル４／守備力５００）１体を選んで手札に加える事ができる。このターン、自分はモンスター（サイバース族以外）で攻撃できない。
   | jp_sets        = 
-  RD/CA01-JP032; Cross Art Collection; Ultra Rare
+  RD/CA01-JP032; Cross Art Collection; Ultra Rare, Secret Rare
   | supports       = 
   * LIGHT
   * Cyberse
@@ -22,5 +22,5 @@ wikitext: |-
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
   | attack         = Prevents your monsters from attacking
-  | database_id    = 
+  | database_id    = 23924
   }}
