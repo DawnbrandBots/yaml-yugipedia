@@ -12,10 +12,10 @@ wikitext: |-
   | property             = Normal
   | requirement          = None
   | text                 = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[Add a card|add]] up to 2 excavated [[WIND]] [[Attribute]] [[Sea Serpent]] [[Type]] [[Monster Card|monster]]s to your [[hand]]. Place the other cards on the bottom of your Deck in any order. If you added 2 monsters to your hand by this [[effect]], [[send]] 1 card from your hand to the [[Graveyard]]. This [[turn]], you can only [[attack]] with WIND Attribute Sea Serpent Type monsters.
-  | ja_requirement       = 
-  | ja_text              = 
+  | ja_requirement       = なし
+  | ja_text              = 自分のデッキの上からカードを５枚めくり、お互いに確認する。自分はその中からモンスター（風属性／海竜族）を２体まで選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。この効果で２体を手札に加えた場合、さらに自分の手札１枚を選んで墓地へ送る。このターン、自分はモンスター（風属性／海竜族）でしか攻撃できない。
   | jp_sets              = 
-  RD/CA01-JP044; Cross Art Collection; Ultra Rare
+  RD/CA01-JP044; Cross Art Collection; Ultra Rare, Secret Rare
   | supports             = 
   * WIND
   * Sea Serpent
@@ -26,5 +26,5 @@ wikitext: |-
   * Places excavated cards on the bottom of the Deck
   * Sends from your hand to your Graveyard
   | attack               = Prevents your monsters from attacking
-  | database_id          = 
+  | database_id          = 23936
   }}
