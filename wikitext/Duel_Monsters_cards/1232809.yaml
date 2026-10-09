@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name      = Divine Illusion Academic City Ars Magna
   | ko_name              = 
   | ko_rr_name           = 
-  | sc_name              = 
+  | sc_name              = 神幻学都 奥艺
   | image                = ArsMagnaAcademicArcaneApparitionAcropolis-IMPH-JP-OP.png
   | card_type            = Spell
   | property             = Field
@@ -27,9 +27,16 @@ wikitext: |-
   | es_text              = 
   | ja_text              = 
   | ko_text              = 
-  | sc_text              = 
+  | sc_text              = 此卡名在规则上也视为“神艺”卡。①：自己发动的“墨迪乌斯”怪兽的效果不会被无效化。②：自己墓地存在“狱神”怪兽的情况下，从自己墓地将1只融合・同步・超量怪兽除外，宣言1个“奥艺”连接怪兽的卡名可以发动（此回合，不可为发动此卡名的此效果而宣言相同卡名）。从额外牌组将1只所宣言的怪兽特殊召唤。以此效果特殊召唤的怪兽不可作为连接素材。
   | jp_sets              = 
   IMPH-JP061; Immortal Phoenix; 
+  | sc_sets              = 
+  IMPH-SC061; Immortal Phoenix; 
+  | supports             = 
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
   | archseries           = 
   * Ars Magna
   * Artmage
@@ -37,5 +44,15 @@ wikitext: |-
   * Ars Magna
   * Medius
   * Power Patron
+  | action               = 
+  * Effect that cannot be negated
+  * Declares a card name
+  | summoning            = 
+  * Special Summons from your Extra Deck
+  * Cannot be used as a Link Material
+  | banished             = Banishes from Graveyard for cost
+  | misc                 = 
+  * Archetype condition
+  * Only once per turn
   | database_id          = 
   }}

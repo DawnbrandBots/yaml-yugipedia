@@ -13,7 +13,7 @@ wikitext: |-
   | translated_name      = Ars Magna Elfennotes
   | ko_name              = 
   | ko_rr_name           = 
-  | sc_name              = 
+  | sc_name              = 无垢奥艺之协奏 耀圣
   | image                = ArsMagnaElfnote-IMPH-JP-OP.png
   | attribute            = LIGHT
   | types                = Spellcaster / Link / Effect
@@ -30,12 +30,27 @@ wikitext: |-
   | es_text              = 
   | ja_text              = 
   | ko_text              = 
-  | sc_text              = 
+  | sc_text              = 包含“奥艺”、“耀圣”怪兽中的任一在内的怪兽2只<br />此卡名的②③效果1回合仅可各使用1次。①：自己场上连接状态的怪兽的攻击力上升场上怪兽的种族的种类×300的数值。②：在自己的主要阶段可以发动。挑选自己场上的1张卡送至墓地或除外。然后，可将场上的1只怪兽放回手牌。③：将墓地的此卡除外可以发动。从手牌将1只“耀圣”怪兽特殊召唤。
   | jp_sets              = 
   IMPH-JP047; Immortal Phoenix; 
+  | sc_sets              = 
+  IMPH-SC047; Immortal Phoenix; 
   | archseries           = 
   * Ars Magna
   * Elfnote
   | supports_archetypes  = Elfnote
+  | action               = 
+  * Sends from your field to your Graveyard
+  * Returns from field to hand
+  * Activates from your Graveyard
+  | stat_change          = Your monsters gain ATK
+  | summoning            = 
+  * 2 Link Materials
+  * Requires archetype specific Link Materials
+  * Special Summons from your hand
+  | banished             = 
+  * Banishes from your field
+  * Banishes itself from Graveyard for cost
+  | misc                 = Only once per turn
   | database_id          = 
   }}
