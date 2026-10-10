@@ -312,10 +312,10 @@ wikitext: |-
 
   {{Combo steps
   | opening = "[[Fusion Destiny]]"
-  | end     = "[[Destiny HERO - Destroyer Phoenix Enforcer]]", "[[Destiny HERO - Dominance]]", "[[Destiny HERO - Dogma]]", "[[Destiny HERO - Destro-Dogma]]" and "[[Masked HERO Dark Law]]" on field, "[[Destiny HERO - Dystopia]]" in GY, inflict a total of at least 8200 damage (FTK/OTK).
+  | end     = "[[Destiny HERO - Destroyer Phoenix Enforcer]]", "[[Destiny HERO - Dominance]]", "[[Destiny HERO - Dogma]]", "[[Destiny HERO - Destro-Dogma]]" and "[[Masked HERO Dark Law]]" (optional) on field, "[[Destiny HERO - Dystopia]]" in GY, inflict a total of at least 8200 damage (FTK/OTK).
   | steps   =
-  # Activate "[[Fusion Destiny]]" to Fusion Summon "[[Destiny HERO - Dominance]]" by using "[[Destiny HERO - Malicious]]", "[[Destiny HERO - Decider]]" and "[[Destiny HERO - Doom Overlord]]" any Level 4 or lower "Destiny HERO" monster whose original ATK is at least 1/6 of the opponent's current LP (in this example the ATK must be greater than 1334, assuming the opponent has 8000 LP; currently, these consists of: "[[Destiny HERO - Diamond Dude]]" which has 1400 ATK, as well as: "[[Destiny HERO - Celestial]]", "[[Destiny HERO - Decider]]", "[[Destiny HERO - Drawhand]]" and "[[Destiny HERO - Drilldark]]", each having 1600 ATK.
-  # (Optional): Activate the effect of "Dominance" to look at the opponent's Deck and sort them accordingly.
+  # Activate "[[Fusion Destiny]]" to Fusion Summon "[[Destiny HERO - Dominance]]" by using "[[Destiny HERO - Malicious]]", "[[Destiny HERO - Decider]]" and "[[Destiny HERO - Doom Overlord]]".
+  # (Optional): Activate the effect of "Dominance" to look at the top 5 cards of the opponent's Deck and sort them accordingly.
   # Activate the effect of "Malicious" by banishing it from the GY to Special Summon another copy of itself from the Deck.
   # Activate the effect of "Denier" to Special Summon itself from the GY. 
   # Activate the effect of "Denier" to place the banished copy of "Malicious" to the top of the Deck.
@@ -331,35 +331,36 @@ wikitext: |-
   # Activate the effect of "Dreadnought Master" to add "[[Destiny HERO - Dogma]]" and "[[Destiny HERO - Destro-Dogma]]" from the Deck to the hand.
   # Activate "Polymerization" to Fusion Summon "[[Destiny HERO - Dystopia]]" by using any 2 "Destiny HERO" monsters (except the Fusion Monsters).
   # Activate the effect of "Dystopia" by targeting "Diamond Dude" to inflict 1400 damage to the opponent (8000 → 6600).
-  # Normal Summon "[[Vision HERO - Vyon]]" then activate its effect to send "[[Elemental HERO Shadow Mist]]" from the Deck to the GY.
+  # Normal Summon "[[Vision HERO - Vyon]]" 
+  # Activate the first effect of "Vyon" to send "[[Elemental HERO Shadow Mist]]" from the Deck to the GY.
   # Activate the effect of "Shadow Mist" to add "[[Masked HERO Dusk Crow]]" from the Deck to the hand.
   # Activate the second effect of "Vyon" by banishing "Shadow Mist" to add a 2nd copy of "Polymerization".
   # Tribute "Vyon", "Dystopia" and the remaining non-Fusion "Destiny HERO" monster to Special Summon "Dogma".
   # Activate "Polymerization" to Fusion Summon "[[Destiny HERO - Destroyer Phoenix Enforcer]]" to the [[Extra Monster Zone]] using "Dreadnought Master" and "Destro-Dogma".
-  # Activate the effect of "Dusk Crow" by banishing any non-essential "HERO" monster that is required for the remainder of the combo from the GY to Special Summon "Dusk Crow".
-  # Activate the effect of "Dusk Crow" to add "[[Masked HERO Furnace]]".
-  # Activate the effect of "Furnace" to add "[[Mask Change]]" from the Deck to the hand, then discard any card other than the added "Mask Change".
-  # Banish any 3 DARK or Warrior monsters (except "Dystopia" or the Level 4 "Destiny HERO" monster with 1334+ ATK) from the GY to Special Summon "Destro-Dogma".
+  # (Optional): Activate the effect of "Dusk Crow" by banishing any non-essential "HERO" monster that is required for the remainder of the combo from the GY to Special Summon "Dusk Crow".
+  # (Optional): Activate the effect of "Dusk Crow" to add "[[Masked HERO Furnace]]".
+  # (Optional): Activate the effect of "Furnace" to add "[[Mask Change]]" from the Deck to the hand, then discard any card other than the added "Mask Change".
+  # Banish any 3 DARK or Warrior monsters (except "Dystopia" or "Diamond Dude") from the GY to Special Summon "Destro-Dogma".
   # Activate the effect of "Destro-Dogma" to inflict 2000 damage during the opponent's Standby Phase.
-  # Proceed to leave the Main Phase and move to the End Phase, then activate "Mask Change" targeting "Dusk Crow" to Special Summon "[[Masked HERO Dark Law]]".
+  # (Optional): Proceed to leave the Main Phase and move to the End Phase, then activate "Mask Change" targeting "Dusk Crow" to Special Summon "[[Masked HERO Dark Law]]".
   # During the opponent's Standby Phase, activate the mandatory effect of "Dogma" to halve the opponent's LP (6000 → 3300).
-  # Apply the effect of "Destro-Dogma" to deal 2000 damage (3300 → 1300).
-  # Activate the effect of "Destroyer Phoenix Enforcer" to destroy "Dominance" and one other monster (such as "Dogma")
-  # Activate the effect of "Dominance" to Special Summon 3 "Destiny HERO" monsters including "Dystopia" but excluding "Diamond Dude".
+  # During the opponent's Standby Phase, apply the effect of "Destro-Dogma" to deal 2000 damage (3300 → 1300).
+  # Anytime during the opponent's turn (even while still in their Standby Phase), activate the effect of "Destroyer Phoenix Enforcer" to destroy "Dominance" and one other monster (such as "Dogma").
+  # Activate the effect of "Dominance" to Special Summon 3 "Destiny HERO" monsters from the GY, including "Dystopia" but excluding "Diamond Dude".
   # Activate the effect of "Dystopia" by targeting "Diamond Dude" to inflict 1400 damage (1300 → 0).
   }}
 
   === With other HERO archetypes ===
   <!--How other HEROs support Destiny HEROs-->
   The archetype is often combined with other parts of the "[[HERO]]" archetype, with many "HERO" cards supporting "Destiny HERO".
-  * The "[[Vision HERO]]" combo of "[[Vision HERO Faris|Faris]]" → "[[Vision HERO Increase|Increase]]" → "[[Vision HERO Vyon|Vyon]]" is an excellent support for the "Destiny HERO" playstyle, since "Vyon" can search out "[[Polymerization]]" and either strategically discard or [[mill]] "Destiny HERO" monsters. "Increase" and "Vyon" can then be either used for Link Summoning "Xtra HERO Cross Crusader" or serve as Tribute fodder for "Destiny HERO - Dogma" or "Plasma".
   * "[[Elemental HERO Stratos]]" and "[[Elemental HERO Shadow Mist]]" can search for any "HERO" monster, including "Destiny HEROs".
   * "Shadow Mist", "[[Masked HERO Dusk Crow]]", "[[Masked HERO Furnace]]" and "[[Masked HERO Fountain]]" opens up the possibility for "Destiny HERO" to run the powerful "[[Masked HERO]]" Fusion Monsters (mainly "[[Masked HERO Dark Law]]" and "[[Masked HERO Anki]]") as well as possibly "[[Contrast HERO Chaos]]". The Main Deck "Masked HERO" members can un-brick "Destiny HERO" monsters in an otherwise unplayable hand by Summoning them or discarding them.
   * "[[Xtra HERO Cross Crusader]]" directly supports "Destiny HERO" monsters. Upon being Link Summoned, "Cross Crusader" can Special Summon a "Destiny HERO" monster from the GY, and can Tribute a "Destiny HERO" to search out another "HERO" monster, making it useful both as a searcher and as a recovery option.
-  * "[[Winged Kuriboh Sabatiel LV10]]" mostly serves as an additional copy of "Fusion Destiny".
+  * The "[[Vision HERO]]" combo of "[[Vision HERO Faris|Faris]]" → "[[Vision HERO Increase|Increase]]" → "[[Vision HERO Vyon|Vyon]]" is an excellent support for the "Destiny HERO" playstyle, since "Vyon" can search out "[[Polymerization]]" and either strategically discard or [[mill]] "Destiny HERO" monsters. "Increase" and "Vyon" can then be either used for Link Summoning "Xtra HERO Cross Crusader" or serve as Tribute fodder for "Destiny HERO - Dogma" or "Plasma".
+  * "[[Winged Kuriboh Sabatiel LV10]]" mostly serves as an additional copy of any "Fusion"/"Polymerization" Spell such as "[[Fusion Destiny]]".
 
   <!--How Destiny HEROs support other HEROs-->
-  On the other side of the relationship, the "Destiny HERO" archetype is one of the backbones in the overall "omni-HERO" playstyle, thanks to the [[Link Summon]] "climbing" capabilities offered by "[[Destiny HERO - Malicious|Malicious]]" and "[[Destiny HERO - Denier|Denier]]", along with "Cross Crusader's" effect to Summon from Deck. The power offered by the "Destiny HERO" boss monsters also makes them popular to include, with "Fusion Destiny" being an excellent card overall. While "Fusion Destiny" (as well as "[[Destiny HERO - Doom Overlord]]") locks the player out of Special Summoning non-DARK "HERO" monsters, most of the consistent "HERO" extenders and strong endboard pieces (i.e., all "Vision HEROes", "Masked HERO Dusk Crow", "Masked HERO Dark Law", "Masked HERO Anki", "Contrast HERO Chaos", and all "Xtra HERO" monsters sans "[[Xtra HERO Wonder Driver]]") are "DARK", so "HERO" decks can still build a competent field even if the player has to use "Fusion Destiny" as their early combo starter.
+  On the other side of the relationship, the "Destiny HERO" archetype is one of the backbones in the overall "omni-HERO" playstyle, thanks to the [[Link Summon]] "climbing" capabilities offered by "[[Destiny HERO - Malicious|Malicious]]" and "[[Destiny HERO - Denier|Denier]]", along with "Cross Crusader's" effect to Summon from Deck. The power offered by the "Destiny HERO" boss monsters also makes them popular to include, with "Fusion Destiny" being an excellent card overall. While "Fusion Destiny" (as well as "[[Destiny HERO - Doom Overlord]]") locks the player out of Special Summoning non-DARK "HERO" monsters, most of the consistent "HERO" extenders and strong endboard pieces aside from "Destiny HERO" (i.e., all "Vision HEROes", "Masked HERO Dusk Crow", "Masked HERO Dark Law", "Masked HERO Anki", "Contrast HERO Chaos", and all "Xtra HERO" monsters sans "[[Xtra HERO Wonder Driver]]") are "DARK", so "HERO" decks can still build a competent field even if the player has to use "Fusion Destiny" as their early combo starter.
 
   === Recommended cards ===
   {{Decklist|Recommended cards
