@@ -5,18 +5,23 @@ wikitext: |-
   {{CardTable2
   | ja_name        = ジョインテック・ガーディアン
   | romaji_name    = Jointekku Gādian
-  | image          = JointechGuardian-OW.png
+  | image          = JointechGuardian-RDKP27-JP-OP.png
   | attribute      = EARTH
-  | types          = Machine / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | types          = Machine / Effect
+  | level          = 7
+  | atk            = 1200
+  | def            = 2300
+  | condition      = If you have "[[Jointech Ace]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or Special Summoned this card.
+  | text           = [[Add a card|Add]] 1 "Jointech Ace" or "[[Jointech Rex]]" from your Graveyard to your hand. This [[turn]], you cannot [[activate]] the effect of "Jointech Guardian".
+  | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP27-JP0??; Jointech of Passion
+  RD/KP27-JP007; Jointech of Passion; Common
+  | mentions       = 
+  * Jointech Ace
+  * Jointech Rex
   | archseries     = Jointech
   | database_id    = 
   }}
