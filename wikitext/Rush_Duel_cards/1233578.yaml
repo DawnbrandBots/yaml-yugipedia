@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ジョインテック・Ｐパンチャー
-  | romaji_name    = 
+  | ja_name        = ジョインテック・{{Ruby|Ｐ|パッション}}パンチャー
+  | romaji_name    = Jointekku Passhon Panchā
   | image          = JointechPassionPuncher-RDKP27-JP-OP.png
   | attribute      = EARTH
   | types          = Machine / Union / Effect
@@ -12,11 +12,22 @@ wikitext: |-
   | atk            = 1400
   | def            = 1300
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped monster gains 500 [[ATK]] and inflicts [[piercing]] [[battle damage]].
+  | text           = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped monster gains 500 [[ATK]], and it inflicts [[piercing]] [[battle damage]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP004; Jointech of Passion; Common
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Jointech
+  | action         = Equips self from field
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = Treated as Equip Card
+  | attack         = Piercing
+  | fm_for         = Jointech Matchless Hero
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

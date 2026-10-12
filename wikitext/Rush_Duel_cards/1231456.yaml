@@ -12,12 +12,24 @@ wikitext: |-
   | atk            = 1100
   | def            = 1100
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Increase or reduce the [[Level]] of 1 [[face-up]] [[Level]] 4 or higher [[monster]] on the [[field]] by 1-3 until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Mad Rare Amy]]" from your Graveyard to your [[hand]]. Until the end of this turn, you cannot [[Special Summon]] monsters or [[activate]] the [[effect]] of "Mad Rare Beeko".
+  | text           = Increase or reduce the [[Level]] of 1 [[face-up]] Level 4 or higher [[monster]] on the [[field]] by 1-3 until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Mad Rare Amy]]" from your Graveyard to your [[hand]]. Until the end of this turn, you cannot [[Special Summon]] monsters or [[activate]] the [[effect]] of "Mad Rare Beeko".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP015; Jointech of Passion; Common
-  | mentions       = Mad Rare Amy
+  | mentions       = 
+  * Mad Rare Amy
+  * Mad Rare Beeko
   | archseries     = Mad Rare
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = 
+  * All monsters gain Levels
+  * All monsters lose Levels
+  | summoning      = Prevents the player's Special Summons
+  | misc           = 
+  * Requires control of specific Level
+  * Only once per turn
   | database_id    = 
   }}

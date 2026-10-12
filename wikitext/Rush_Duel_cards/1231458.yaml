@@ -12,12 +12,20 @@ wikitext: |-
   | atk            = 1200
   | def            = 1100
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text           = [[Draw a card|Draw]] 1 card. Then, you can [[Add a card|add]] 1 "[[Mad Rare Gramma]]" from your Graveyard to your hand. Until the end of this [[turn]], you cannot [[Special Summon]] monsters, and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
+  | text           = [[Draw a card|Draw]] 1 card. Then, you can [[Add a card|add]] 1 "[[Mad Rare Gramma]]" from your Graveyard to your hand. Until the end of this turn, you cannot [[Special Summon]] [[monsters]], and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP016; Jointech of Passion; Super Rare
   | mentions       = Mad Rare Gramma
+  | supports       = DARK
   | archseries     = Mad Rare
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  * Adds from Graveyard to hand
+  | summoning      = Prevents the player's Special Summons
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

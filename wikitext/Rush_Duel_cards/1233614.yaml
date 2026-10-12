@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = マッドレア・フィッツ
-  | romaji_name    = 
+  | romaji_name    = Maddorea Fittsu
   | image          = MadRareFitz-RDKP27-JP-OP.png
   | attribute      = DARK
   | types          = Fish / Effect
@@ -12,12 +12,21 @@ wikitext: |-
   | atk            = 2000
   | def            = 1100
   | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = Change the [[battle position]] of up to 2 [[monsters]] on your opponent's [[field]]. Then, if your opponent has a [[face-up]] [[Level]] 6 [[Effect Monster]] on their field, you can [[Add a card|add]] 1 "[[Mad Rare Disturb]]" from your [[Graveyard]] to your [[hand]]. Until the end of this [[turn]], you cannot [[Special Summon]] monsters, and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
+  | text           = Change the [[battle position]] of up to 2 [[monsters]] on your opponent's [[field]]. Then, if your opponent has a [[face-up]] [[Level]] 6 [[Effect Monster]] on their field, you can [[Add a card|add]] 1 "[[Mad Rare Disturb]]" from your [[Graveyard]] to your [[hand]]. Until the end of this turn, you cannot [[Special Summon]] monsters, and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP017; Jointech of Passion; Rare
   | mentions       = Mad Rare Disturb
+  | supports       = DARK
+  | anti-supports  = Effect Monster
   | archseries     = Mad Rare
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  * Adds from Graveyard to hand
+  | summoning      = Prevents the player's Special Summons
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

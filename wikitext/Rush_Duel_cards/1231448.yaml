@@ -18,7 +18,7 @@ wikitext: |-
   | materials       = "[[Jointech Ace]]" + "[[Jointech Passion Puncher]]" + "[[Jointech Brave Racer]]"
   | condition       = This card can be [[Union Fusion]]ed.
   | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text            = Toss a coin 3 times. This card gains [[ATK]] equal to [the number of heads + 1] x 200 until the end of this [[turn]]. Then, you can [[destroy]] cards on your opponent's [[field]] up to [the number of tails].
+  | text            = Toss a coin 3 times. This card gains [[ATK]] equal to [the number of heads + 1] x 200 until the end of this [[turn]]. Then, you can [[destroy]] cards on your opponent's [[field]], up to [the number of tails].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -30,6 +30,24 @@ wikitext: |-
   * Jointech Passion Puncher
   * Jointech Brave Racer
   | archseries      = Jointech
-  | misc            = Cover card
+  | action          = 
+  * Returns Fusion Materials for Union Fusion to Deck
+  * Places cards from the player's field on the bottom of the Deck for Summon
+  * Activates during the turn in which it was Fusion Summoned
+  | stat_change     = This card gains ATK
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Union Fusion
+  * Special Summons itself from your Extra Deck
+  | misc            = 
+  * Coin toss
+  * Cover card
   | database_id     = 
   }}

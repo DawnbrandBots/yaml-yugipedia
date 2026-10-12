@@ -9,7 +9,9 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|海晶乙女|マリンセス}}アズリー
-  | romaji_name          = 
+  | base_romaji_name     = Kaishō Otome Azurī
+  | base_translated_name = Sea Crystal Maiden Azuri
+  | romaji_name          = Marinsesu Azurī
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -33,7 +35,28 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   RV02-JP026; Revolution Booster: Cubic / Marincess / Ghostrick; Ultra Rare
+  | supports             = 
+  * WATER
+  * Cyberse
+  * Link Monster
   | archseries           = Marincess
   | supports_archetypes  = Marincess
+  | action               = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Activates upon Link Summon
+  * Activates from your Graveyard
+  * Equips monsters from the player's Graveyard
+  * Grants effect to Equip Spell Card
+  | stat_change          = Equipped gains ATK
+  | m/s/t                = Treats monsters as Equip Cards
+  | summoning            = 
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons to Attribute specific monsters
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id          = 
   }}

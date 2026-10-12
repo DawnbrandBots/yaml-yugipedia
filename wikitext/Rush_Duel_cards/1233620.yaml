@@ -4,16 +4,26 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = マッドレア・ディスターブ
-  | romaji_name    = 
+  | romaji_name    = Maddorea Disutābu
   | image          = MadRareDisturb-RDKP27-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Special Summon]]s an [[Effect Monster]] during their [[turn]], except a [[Maximum Monster]], [[send]] 1 [[monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
-  | text           = [[Destroy]] 1 monster on your opponent's [[field]]. Until the end of your next [[turn]], you cannot Special Summon monsters, and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
+  | requirement    = When your opponent [[Special Summon]]s an [[Effect Monster]](s) during their [[turn]], except a [[Maximum Monster]], [[send]] 1 [[monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = [[Destroy]] 1 monster on your opponent's field. Until the end of your next turn, you cannot Special Summon monsters, and you can only [[attack]] with [[DARK]] [[Attribute]] monsters with 1100 [[original DEF]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP062; Jointech of Passion; Rare
+  | supports       = DARK
+  | anti-supports  = Effect Monster
   | archseries     = Mad Rare
+  | action         = 
+  * Activates upon Special Summon
+  * Sends from hand to Graveyard for cost
+  * Sends from your field to your Graveyard for cost
+  | m/s/t          = Destroys your opponent's Monster Cards
+  | summoning      = Prevents the player's Special Summons
+  | attack         = Prevents your monsters from attacking
+  | misc           = Turn limited effects
   | database_id    = 
   }}

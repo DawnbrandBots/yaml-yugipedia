@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = ジョインテック・Ｂレーサー
-  | romaji_name    = 
+  | ja_name        = ジョインテック・{{Ruby|Ｂ|ブレイブ}}レーサー
+  | romaji_name    = Jointekku Bureibu Rēsā
   | image          = JointechBraveRacer-RDKP27-JP-OP.png
   | attribute      = EARTH
   | types          = Machine / Union / Effect
@@ -12,11 +12,23 @@ wikitext: |-
   | atk            = 1300
   | def            = 1400
   | requirement    = None
-  | text           = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ● The equipped monster gains 500 [[ATK]] and neither player can [[activate]] [[Trap Card]]s when it [[declare]]s an [[attack]].
+  | text           = [[Equip]] this card to 1 [[face-up]] [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[monster]] on your [[field]] as an [[Equip Spell Card]] with the following [[effect]]. ●The equipped monster gains 500 [[ATK]], and neither [[player]] can [[activate]] [[Trap Card]]s when it [[declare]]s an [[attack]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP005; Jointech of Passion; Common
+  | supports       = 
+  * EARTH
+  * Machine
   | archseries     = Jointech
+  | action         = Equips self from field
+  | stat_change    = Equipped gains ATK
+  | m/s/t          = 
+  * Treated as Equip Card
+  * Prevents activation of Trap Cards
+  | fm_for         = Jointech Matchless Hero
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id    = 
   }}

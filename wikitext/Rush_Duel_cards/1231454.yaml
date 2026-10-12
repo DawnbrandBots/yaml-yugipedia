@@ -12,12 +12,21 @@ wikitext: |-
   | atk            = 1000
   | def            = 1100
   | requirement    = [[Send]] 1 card from your [[hand]] to the [[Graveyard]], or if your opponent has a [[face-up]] [[Level]] 6 [[monster]] on their [[field]].
-  | text           = [[Destroy]] 1 [[face-down]] [[Spell]]/[[Trap Card]] on your opponent's field. Then, you can [[Set]] 1 "[[Mad Rare Hack]]" from your Graveyard to your [[Spell & Trap Zone]]. This turn, you cannot activate the [[effect]] of "Mad Rare Rappid".
+  | text           = [[Destroy]] 1 [[face-down]] [[Spell]]/[[Trap Card]] on your opponent's field. Then, you can [[Set]] 1 "[[Mad Rare Hack]]" from your Graveyard to your [[Spell & Trap Zone]]. This [[turn]], you cannot [[activate]] the [[effect]] of "Mad Rare Rappid".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP013; Jointech of Passion; Ultra Rare, Over Rush Rare
-  | mentions       = Mad Rare Hack
+  | mentions       = 
+  * Mad Rare Hack
+  * Mad Rare Rappid
   | archseries     = Mad Rare
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sets from your Graveyard
+  | m/s/t          = 
+  * Destroys your opponent's face-down Spell Cards
+  * Destroys your opponent's face-down Trap Cards
+  | misc           = Only once per turn
   | database_id    = 
   }}

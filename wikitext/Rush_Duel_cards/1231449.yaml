@@ -13,7 +13,7 @@ wikitext: |-
   | def            = 2300
   | condition      = If you have "[[Jointech Ace]]" in your [[Graveyard]], you can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]].
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or Special Summoned this card.
-  | text           = [[Add a card|Add]] 1 "Jointech Ace" or "[[Jointech Rex]]" from your Graveyard to your hand. This [[turn]], you cannot [[activate]] the effect of "Jointech Guardian".
+  | text           = [[Add a card|Add]] 1 "Jointech Ace" or "[[Jointech Rex]]" from your Graveyard to your hand. This [[turn]], you cannot [[activate]] the [[effect]] of "Jointech Guardian".
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -22,6 +22,13 @@ wikitext: |-
   | mentions       = 
   * Jointech Ace
   * Jointech Rex
+  * Jointech Guardian
   | archseries     = Jointech
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Adds from Graveyard to hand
+  | summoning      = Special Summons itself from your hand
+  | misc           = Only once per turn
   | database_id    = 
   }}
