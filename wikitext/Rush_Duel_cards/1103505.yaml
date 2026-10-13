@@ -3,7 +3,10 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ko_name        = 레이어 와이어
-  | image          = LairWire-RDAP02-JP-C.png
+  | image         = 
+  1; LairWire-RDAP02-JP-C.png
+  2; LairWire-RDLP02-JP-OP.png
+  | current_image = 1
   | card_type      = Trap
   | property       = Normal
   | requirement    = When your opponent [[Normal Summon]]s a [[Monster Card|monster]], place 1 [[Insect]] [[Type]] monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]].
@@ -15,6 +18,7 @@ wikitext: |-
   | jp_sets        = 
   RD/TB02-JP068; Triple Build Pack: Evolution Impact; Super Rare, Secret Rare
   RD/AP02-JP054; Advance Pack: Revenge Hearts; Common
+  RD/LP02-JP055; Limited Pack Another Style Edition; Ultra Rare, Over Rush Rare
   | kr_sets        = 
   RD/TB02-KR068; Triple Build Pack: Evolution Impact; Super Rare, Secret Rare
   RD/AP02-KR054; Advance Pack: Revenge Hearts; Common
@@ -25,5 +29,6 @@ wikitext: |-
   | m/s/t          = 
   * Destroys your opponent's Monster Cards
   * Destroys Normal Summoned monsters
+  | related_to_archseries = Delirium
   | database_id    = 21113
   }}
