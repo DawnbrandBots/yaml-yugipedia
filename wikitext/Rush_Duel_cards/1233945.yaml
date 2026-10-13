@@ -2,20 +2,29 @@ title: Elemental HERO Wildheart (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = ElementalHEROWildheart-RDLP02-JP-OP.png
-  | attribute       = EARTH
-  | types           = Warrior / Effect
-  | level           = 4
-  | atk             = 1500
-  | def             = 1600
-  | effect_types    = Continuous
-  | requirement     = None
-  | text            = This card cannot be [[destroy]]ed by [[Trap Card]] [[effect]]s and cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by Trap Card effects. During your [[turn]], if "[[Skyscraper (Rush Duel)|Skyscraper]]" is [[face-up]] on the [[field]], this card gains 1000 [[ATK]].
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image                 = ElementalHEROWildheart-RDLP02-JP-OP.png
+  | attribute             = EARTH
+  | types                 = Warrior / Effect
+  | level                 = 4
+  | atk                   = 1500
+  | def                   = 1600
+  | effect_types          = Continuous
+  | requirement           = None
+  | text                  = This card cannot be [[destroy]]ed by [[Trap Card]] [[effect]]s, and cannot be [[return]]ed to the [[hand]]/[[Main Deck|Deck]]/[[Extra Deck]] by Trap Card effects. During your [[turn]], if "[[Skyscraper (Rush Duel)|Skyscraper]]" is [[face-up]] on the [[field]], this card gains 1000 [[ATK]].
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/LP02-JP030; Limited Pack Another Style Edition; Ultra Rare
-  | mentions        = Skyscraper (Rush Duel)
-  | archseries      = Elemental HERO (Rush Duel)
-  | database_id     = 
+  | mentions              = Skyscraper (Rush Duel)
+  | archseries            = Elemental HERO (Rush Duel)
+  | related_to_archseries = Neos (Rush Duel)
+  | action                = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Cannot be destroyed by card effects
+  | fm_for                = Elemental HERO Wild Wingman (Rush Duel)
+  | misc                  = Requires control of specific card
+  | database_id           = 
   }}

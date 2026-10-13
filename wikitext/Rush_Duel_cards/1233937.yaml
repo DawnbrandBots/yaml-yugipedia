@@ -2,28 +2,40 @@ title: Evil HERO Inferno Wing (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = EvilHEROInfernoWing-RDLP02-JP-OP.png
-  | attribute       = FIRE
-  | types           = Fiend / Fusion / Effect
-  | level           = 6
-  | atk             = 2100
-  | def             = 1200
-  | effect_types    = Continuous
-  | materials       = "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
-  | condition       = Must be [[Special Summon]]ed by the [[effect]] of "[[Dark Fusion (Rush Duel)|Dark Fusion]]" or "[[Super Polymerization (Rush Duel)|Super Polymerization]]".
-  | requirement     = None
-  | text            = This card inflicts [[piercing]] [[battle damage]]. When this card [[destroy]]s a [[monster]] by battle and [[send]]s it to the [[Graveyard]], inflict damage to your opponent equal to [that monster's original ATK or DEF (whichever is higher)].
-  | ja_materials    = 
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | image                 = EvilHEROInfernoWing-RDLP02-JP-OP.png
+  | attribute             = FIRE
+  | types                 = Fiend / Fusion / Effect
+  | level                 = 6
+  | atk                   = 2100
+  | def                   = 1200
+  | effect_types          = Continuous
+  | fusion_material       = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
+  | materials             = "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
+  | condition             = Must be [[Special Summon]]ed by the [[effect]] of "[[Dark Fusion (Rush Duel)|Dark Fusion]]" or "[[Super Polymerization (Rush Duel)|Super Polymerization]]".
+  | requirement           = None
+  | text                  = This card inflicts [[piercing]] [[battle damage]]. If this card [[destroy]]s a [[monster]] by [[battle]] and [[send]]s it to the [[Graveyard]], inflict [[Effect damage|damage]] to your opponent equal to [that monster's [[original ATK]] or DEF (whichever is higher)].
+  | ja_materials          = 
+  | ja_condition          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/LP02-JP022; Limited Pack Another Style Edition; Ultra Parallel Rare, Over Rush Rare
-  | mentions        = 
+  | mentions              = 
   * Elemental HERO Avian (Rush Duel)
   * Elemental HERO Burstinatrix (Rush Duel)
   * Dark Fusion (Rush Duel)
   * Super Polymerization (Rush Duel)
-  | archseries      = Evil HERO (Rush Duel)
-  | database_id     = 
+  | archseries            = Evil HERO (Rush Duel)
+  | related_to_archseries = Elemental HERO (Rush Duel)
+  | action                = Activates if it destroys a monster by battle
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Nomi
+  * Strict fusion-performing card
+  | attack                = Piercing
+  | life_points           = Damages your opponent
+  | database_id           = 
   }}

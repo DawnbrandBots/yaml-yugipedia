@@ -8,6 +8,10 @@ wikitext: |-
   | level           = 8
   | atk             = 2800
   | def             = 2800
+  | fusion_material = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Sparkman (Rush Duel)
+  * Elemental HERO Bubbleman (Rush Duel)
   | materials       = "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Sparkman (Rush Duel)|Elemental HERO Sparkman]]" + "[[Elemental HERO Bubbleman (Rush Duel)|Elemental HERO Bubbleman]]"
   | condition       = Must be [[Fusion Summon]]ed.
   | requirement     = [[Send]] 1 other card from your [[field]] to the [[Graveyard]].
@@ -23,5 +27,14 @@ wikitext: |-
   * Elemental HERO Sparkman (Rush Duel)
   * Elemental HERO Bubbleman (Rush Duel)
   | archseries      = Elemental HERO (Rush Duel)
+  | action          = Sends from field to Graveyard for cost
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Nomi
+  | attack          = Cannot be destroyed by battle
+  | misc            = Turn limited effects
   | database_id     = 
   }}

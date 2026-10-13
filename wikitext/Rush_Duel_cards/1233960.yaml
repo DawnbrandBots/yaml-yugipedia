@@ -3,23 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = コスモス{{Ruby|姫|ひめ}}のお{{Ruby|召|め}}し{{Ruby|替|か}}え
-  | romaji_name     = Kosumosu-hime no Omeshikae
-  | translated_name = 
-  | image           = PrincessCosmosChangeofClothes-RDLP02-JP-OP.png
-  | card_type       = Spell
-  | property        = Normal
-  | condition       = This card's name becomes "[[Princess Cosmos' Jest]]" while in the [[hand]].
-  | requirement     = None
-  | text            = [[Destroy]] 1 [[face-up]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] with 900 [[original ATK]] on your [[field]]. Then, if you have not drawn a card by the effect of "Princess Cosmos' Change of Clothes" this [[turn]], you can [[Draw a card|draw]] 2 cards.
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = コスモス{{Ruby|姫|ひめ}}のお{{Ruby|召|め}}し{{Ruby|替|か}}え
+  | romaji_name    = Kosumosu-hime no Omeshikae
+  | image          = PrincessCosmosChangeofClothes-RDLP02-JP-OP.png
+  | card_type      = Spell
+  | property       = Normal
+  | condition      = This card's name becomes "[[Princess Cosmos' Jest]]" while in the [[hand]].
+  | requirement    = None
+  | text           = [[Destroy]] 1 [[face-up]] [[Galaxy (Type)|Galaxy]] [[Type]] [[monster]] with 900 [[original ATK]] on your [[field]]. Then, if you have not [[Draw a card|drawn]] a card by the [[effect]] of "Princess Cosmos' Change of Clothes" this [[turn]], you can draw 2 cards.
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/LP02-JP018; Limited Pack Another Style Edition; Ultra Rare, Over Rush Rare
-  | mentions        = 
+  | mentions       = 
   * Princess Cosmos' Jest
   * Princess Cosmos' Change of Clothes
-  | archseries      = Princess Cosmos
-  | database_id     = 
+  | supports       = Galaxy (Type)
+  | archseries     = Princess Cosmos
+  | action         = You draw cards
+  | stat_change    = Changes own name while in the hand
+  | m/s/t          = Destroys your face-up Monster Cards
+  | misc           = 
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  | database_id    = 
   }}

@@ -5,7 +5,7 @@ wikitext: |-
   {{CardTable2
   | ja_name         = トランザム・プライム・マスターノヴァ
   | romaji_name     = Toranzamu Puraimu Masutānova
-  | translated_name = 
+  | translated_name = Transamu Praime Master Nova
   | image           = TransamPraimeMasterNova-RDLP02-JP-OP.png
   | attribute       = LIGHT
   | types           = Galaxy / Fusion / Effect
@@ -13,17 +13,29 @@ wikitext: |-
   | atk             = 2800
   | def             = 3000
   | effect_types    = Continuous
+  | fusion_material = Transam Praime Armor Nova
   | materials       = "[[Transam Praime Armor Nova]]" + 1 [[Level]] 8 or lower [[LIGHT]] [[Attribute]] [[monster]]
   | requirement     = None
-  | text            = [[Monsters]] on your [[field]] cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card [[effect]]s. [[Face-up]] monsters on your opponent's field become LIGHT Attribute.
+  | text            = Monsters on your [[field]] cannot be [[return]]ed to the [[hand]]/[[Main Deck|Deck]]/[[Extra Deck]] by card [[effect]]s. [[Face-up]] monsters on your opponent's field become LIGHT Attribute.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
   | jp_sets         = 
   RD/LP02-JP044; Limited Pack Another Style Edition; Ultra Parallel Rare, Over Rush Rare
   | mentions        = Transam Praime Armor Nova
+  | supports        = LIGHT
   | archseries      = 
   * Praime
   * Transam
+  | action          = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | stat_change     = Changes Attribute
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
   | database_id     = 
   }}

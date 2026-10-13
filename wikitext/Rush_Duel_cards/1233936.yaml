@@ -2,28 +2,42 @@ title: Evil HERO Dark Gaia (Rush Duel)
 wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
-  | image           = 
+  | image          = 
   1; EvilHERODarkGaia-RDLP02-JP-OP.png
   2; EvilHERODarkGaia-RDLP02-JP-OP-AA.png
-  | current_image = 1
-  | attribute       = EARTH
-  | types           = Fiend / Fusion / Effect
-  | level           = 8
-  | atk             = 0
-  | def             = 0
-  | materials       = 1 [[Fiend]] [[Type]] [[monster]] + 1 [[Rock]] Type monster
-  | condition       = Must be [[Special Summon]]ed by the [[effect]] of "[[Dark Fusion (Rush Duel)|Dark Fusion]]" or "[[Super Polymerization (Rush Duel)|Super Polymerization]]". This card's [[original ATK]] becomes [the total original ATK of the monsters used as [[material]] for its [[Fusion Summon]]].
-  | requirement     = None
-  | text            = Change up to 3 [[Defense Position]] monsters on your opponent's [[field]] to [[face-up]] [[Attack Position]].
-  | ja_materials    = 
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | current_image  = 1
+  | attribute      = EARTH
+  | types          = Fiend / Fusion / Effect
+  | level          = 8
+  | atk            = 0
+  | def            = 0
+  | materials      = 1 [[Fiend]] [[Type]] [[monster]] + 1 [[Rock]] Type monster
+  | condition      = Must be [[Special Summon]]ed by the [[effect]] of "[[Dark Fusion (Rush Duel)|Dark Fusion]]" or "[[Super Polymerization (Rush Duel)|Super Polymerization]]". This card's [[original ATK]] becomes [the total original ATK of the monsters used as [[material]] when [[Fusion Summon]]ing this card].
+  | requirement    = None
+  | text           = Change up to 3 [[Defense Position]] monsters on your opponent's [[field]] to [[face-up]] [[Attack Position]].
+  | ja_materials   = 
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/LP02-JP002; Limited Pack Another Style Edition; Ultra Parallel Rare, Full Over Rush Rare
-  | mentions        = 
+  | mentions       = 
   * Dark Fusion (Rush Duel)
   * Super Polymerization (Rush Duel)
-  | archseries      = Evil HERO (Rush Duel)
-  | database_id     = 
+  | supports       = 
+  * Fiend
+  * Rock
+  | archseries     = Evil HERO (Rush Duel)
+  | action         = 
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change    = 
+  * Changes own ATK value
+  * Changes original ATK
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Nomi
+  * Strict fusion-performing card
+  | database_id    = 
   }}

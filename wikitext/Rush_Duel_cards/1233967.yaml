@@ -3,23 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = プライム・バーリカータ
-  | romaji_name     = Puraimu Bārikāta
-  | translated_name = Praime Al Dente
-  | image           = PraimeStock-RDLP02-JP-OP.png
-  | attribute       = LIGHT
-  | types           = Pyro / Effect
-  | level           = 4
-  | atk             = 1000
-  | def             = 1200
-  | requirement     = The only [[monsters]] in your [[Graveyard]] are [[LIGHT]] [[Attribute]] monsters.
-  | text            = [[Send]] 2 [[face-up]] LIGHT Attribute monsters from your [[field]] to the [[Graveyard]]. Then, you can [[Special Summon]] 1 [[Level]] 8 LIGHT Attribute non-[[Fusion Monster]] with 2500 [[ATK]] from your Graveyard face-up to your field. This [[turn]], you cannot [[activate]] the effect of "Praime Stock".
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name               = プライム・バーリカータ
+  | romaji_name           = Puraimu Bārikāta
+  | translated_name       = Praime Al Dente
+  | image                 = PraimeStock-RDLP02-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Pyro / Effect
+  | level                 = 4
+  | atk                   = 1000
+  | def                   = 1200
+  | requirement           = The only [[monsters]] in your [[Graveyard]] are [[LIGHT]] [[Attribute]] monsters.
+  | text                  = [[Send]] 2 [[face-up]] LIGHT Attribute monsters from your [[field]] to the Graveyard. Then, you can [[Special Summon]] 1 [[Level]] 8 LIGHT Attribute non-[[Fusion Monster]] with 2500 [[ATK]] from your Graveyard face-up to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Praime Stock".
+  | ja_text               = 
+  | jp_sets               = 
   RD/LP02-JP041; Limited Pack Another Style Edition; Ultra Rare
-  | mentions        = Praime Stock
-  | archseries      = Praime
+  | mentions              = Praime Stock
+  | supports              = LIGHT
+  | archseries            = Praime
   | related_to_archseries = Noodle Ninja
-  | database_id     = 
+  | action                = Sends from your field to your Graveyard
+  | summoning             = Special Summons from your Graveyard
+  | misc                  = 
+  * Requires having only specific Attribute in Graveyard
+  * Requires control of specific Attribute
+  * Only once per turn
+  | database_id           = 
   }}
