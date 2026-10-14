@@ -3,21 +3,28 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name         = プライム・ノヴァ
-  | romaji_name     = Puraimu Nova
-  | translated_name = 
-  | image           = PraimeNova-RDLP02-JP-OP.png
-  | card_type       = Trap
-  | property        = Normal
-  | condition       = This card's name becomes "[[Praime Call]]" while in the [[Graveyard]].
-  | requirement     = When a [[monster]] is [[Normal Summon|Normal]] or [[Special Summon]]ed while the only monsters in your Graveyard are [[LIGHT]] [[Attribute]] monsters.
-  | text            = Make 1 [[face-up]] monster on your opponent's [[field]] lose 1600 [[ATK]] until the end of this [[turn]].
-  | ja_condition    = 
-  | ja_requirement  = 
-  | ja_text         = 
-  | jp_sets         = 
+  | ja_name        = プライム・ノヴァ
+  | romaji_name    = Puraimu Nova
+  | image          = PraimeNova-RDLP02-JP-OP.png
+  | card_type      = Trap
+  | property       = Normal
+  | condition      = This card's name becomes "[[Praime Call]]" while in the [[Graveyard]].
+  | requirement    = When a [[player]] [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]] while the only monsters in your Graveyard are [[LIGHT]] [[Attribute]] monsters.
+  | text           = Make 1 [[face-up]] monster on your opponent's [[field]] lose 1600 [[ATK]] until the end of this [[turn]].
+  | ja_condition   = 
+  | ja_requirement = 
+  | ja_text        = 
+  | jp_sets        = 
   RD/LP02-JP047; Limited Pack Another Style Edition; Ultra Rare
-  | mentions        = Praime Call
-  | archseries      = Praime
-  | database_id     = 
+  | mentions       = Praime Call
+  | supports       = LIGHT
+  | archseries     = Praime
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Your opponent's monsters lose ATK
+  | misc           = Requires having only specific Attribute in Graveyard
+  | database_id    = 
   }}
