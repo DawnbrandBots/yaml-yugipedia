@@ -10,8 +10,8 @@ wikitext: |-
   | def                   = 1300
   | requirement           = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text                  = Make 1 [[face-up]] [[Monster Card|monster]] on your opponent's [[field]] lose 500 [[ATK]] until the end of this [[turn]]. Then, this turn, this card cannot be [[destroyed by battle]], and you [[Damage|take]] no [[battle damage]] from [[battle]]s involving it.
-  | ja_requirement        = 
-  | ja_text               = 
+  | ja_requirement        = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text               = 相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで５００ダウンする。さらにこのターン、このカードは戦闘では破壊されず、このカードの戦闘で自分は戦闘ダメージを受けない。
   | jp_sets               = 
   RD/LP01-JP023; Limited Pack Remastered Edition; Ultra Rare, Secret Rare
   | related_to_archseries = Red-Eyes (Rush Duel)
@@ -19,5 +19,5 @@ wikitext: |-
   | stat_change           = Your opponent's monsters lose ATK
   | attack                = Cannot be destroyed by battle
   | life_points           = Prevents battle damage
-  | database_id           = 
+  | database_id           = 23683
   }}
