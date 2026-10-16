@@ -19,7 +19,7 @@ wikitext: |-
   | property             = Normal
   | password             = 
   | effect_types         = Effect, Lingering, Condition
-  | text                 = When you activate this card, you can also Tribute 1 Plant monster; take 2 "[[Rikka]]" monsters from your Deck with the same Level, but different names, add 1 of them to your hand and send the other to the GY, also if you Tributed a monster at activation, your opponent cannot target "Rikka" monsters you control with card effects this turn. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Plant Xyz Monsters. You can only activate 1 "Rikka June Moon" per turn.
+  | text                 = When you [[activate]] this card, you can also [[Tribute]] 1 [[Plant]] [[monster]]; take 2 "[[Rikka]]" monsters from your [[Main Deck|Deck]] with the same [[Level]], but different names, [[add]] 1 of them to your [[hand]] and [[send]] the other to the GY, also if you Tributed a monster at activation, your opponent cannot [[target]] "Rikka" monsters you [[control]] with [[card effect]]s this [[turn]]. For the rest of this turn after this card [[resolve]]s, you cannot [[Special Summon]] from the [[Extra Deck]], except Plant [[Xyz Monster]]s. You can only activate 1 "Rikka June Moon" [[once per turn|per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -30,7 +30,20 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP064; Immortal Phoenix; 
+  | supports             = 
+  * Plant
+  * Xyz Monster
   | archseries           = Rikka
   | supports_archetypes  = Rikka
+  | action               = 
+  * Applies optional cost
+  * Tributes for cost
+  * Adds from Deck to hand
+  * Sends from your Deck to your Graveyard
+  | m/s/t                = Prevents other cards being targeted by card effects
+  | summoning            = 
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | misc                 = Only once per turn
   | database_id          = 
   }}

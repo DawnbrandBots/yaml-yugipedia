@@ -3,34 +3,52 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | fr_name              = 
-  | de_name              = 
-  | it_name              = 
-  | pt_name              = 
-  | es_name              = 
-  | ja_name              = 誘惑の鏡壁
-  | romaji_name          = 
-  | translated_name      = 
-  | ko_name              = 
-  | ko_rr_name           = 
-  | sc_name              = 
-  | image                = EyelluringMirrorWall-IMPH-JP-OP.png
-  | card_type            = Trap
-  | property             = Continuous
-  | password             = 
-  | effect_types         = Condition, Continuous-like, Trigger-like, Quick-like
-  | text                 = Gains these effects while you control an "[[Amazoness]]" monster or "[[Harpie Lady]]".<br />● Face-up monsters your opponent controls are changed to Attack Position and must attack if able.<br />● Once per battle, when an opponent's monster declares an attack: You can halve its ATK.<br />Once per turn, during the Standby Phase: You can Set 1 Spell/Trap from your GY or banishment that mentions "Harpie Lady", except "Eyelluring Mirror Wall".
-  | fr_text              = 
-  | de_text              = 
-  | it_text              = 
-  | pt_text              = 
-  | es_text              = 
-  | ja_text              = 
-  | ko_text              = 
-  | sc_text              = 
-  | jp_sets              = 
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|誘|ゆう}}{{Ruby|惑|わく}}の{{Ruby|鏡壁|ミラーウォール}}
+  | romaji_name           = Yūwaku no Mirā Wōru
+  | translated_name       = Alluring Mirror Wall
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | image                 = EyelluringMirrorWall-IMPH-JP-OP.png
+  | card_type             = Trap
+  | property              = Continuous
+  | password              = 
+  | effect_types          = Condition, Continuous-like, Trigger-like, Quick-like
+  | text                  = Gains these [[effect]]s while you [[control]] an "[[Amazoness]]" [[monster]] or "[[Harpie Lady]]".<br />● [[Face-up]] [[monster]]s your opponent controls are changed to [[Attack Position]] and must [[attack]] if able.<br />● Once per [[battle]], when an opponent's monster [[declare]]s an attack: You can halve its [[ATK]].<br />[[Once per turn]], during the [[Standby Phase]]: You can [[Set]] 1 [[Spell]]/[[Trap]] from your [[GY]] or [[banishment]] that [[mention]]s "Harpie Lady", except "Eyelluring Mirror Wall".
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 
+  | ko_text               = 
+  | sc_text               = 
+  | jp_sets               = 
   IMPH-JP075; Immortal Phoenix; 
-  | mentions             = Harpie Lady
-  | supports_archetypes  = Amazoness
-  | database_id          = 
+  | mentions              = 
+  * Eyelluring Mirror Wall
+  * Harpie Lady
+  | supports_archetypes   = Amazoness
+  | related_to_archseries = Harpie Lady (archetype)
+  | action                = 
+  * Changes battle positions
+  * Activates upon attack declaration
+  * Sets from your Graveyard
+  * Sets from your banishment
+  | stat_change           = 
+  * Your opponent's monsters lose ATK
+  * Halves ATK
+  | attack                = Must attack
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific card
+  * Limited activations
+  * During the Standby Phase
+  * Mentions
+  | database_id           = 
   }}

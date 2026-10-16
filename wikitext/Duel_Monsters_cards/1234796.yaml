@@ -22,7 +22,7 @@ wikitext: |-
   | def                   = 1300
   | password              = 
   | effect_types          = Trigger, Trigger, Trigger, Condition
-  | text                  = If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Normal or Special Summoned: You can Set 1 Spell/Trap from your Deck that mentions "[[Harpie Lady]]". During damage calculation, if your "[[Amazoness]]" monster battles an opponent's monster: You can activate this effect; for that battle, neither monster can be destroyed by battle, also you take no battle damage. You can only use each effect of "Amazoness Fighter - Instant Kill Dance" once per turn.
+  | text                  = If this card is [[add]]ed to your [[hand]], except by [[draw]]ing it: You can [[Special Summon]] it. If this card is [[Normal Summon|Normal]] or [[Special Summon]]ed: You can [[Set]] 1 [[Spell]]/[[Trap]] from your [[Main Deck|Deck]] that [[mention]]s "[[Harpie Lady]]". During [[damage calculation]], if your "[[Amazoness]]" [[monster]] [[battle]]s an opponent's monster: You can [[activate]] this [[effect]]; for that battle, neither monster can be [[destroyed by battle]], also you take no [[battle damage]]. You can only use each [[effect]] of "Amazoness Fighter - Instant Kill Dance" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -34,10 +34,25 @@ wikitext: |-
   | jp_sets               = 
   IMPH-JP006; Immortal Phoenix; 
   | mentions              = Harpie Lady
-  | archseries            = Amazoness
+  | archseries            = 
+  * Amazoness
+  * Signature move
   | supports_archetypes   = Amazoness
   | related_to_archseries = 
   * Harpie
   * Harpie Lady (archetype)
+  | action                = 
+  * Activates if added to the hand
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Sets from your Deck
+  | summoning             = Special Summons itself from your hand
+  | attack                = Prevents other cards being destroyed by battle
+  | life_points           = Prevents battle damage
+  | misc                  = 
+  * Mentions
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id           = 
   }}

@@ -23,7 +23,7 @@ wikitext: |-
   | password             = 
   | materials            = 3 "Harpie Lady" monsters
   | effect_types         = Summoning condition, Unclassified, Continuous, Quick
-  | text                 = 3 "[[Harpie Lady (archetype)|Harpie Lady]]" monsters<br />Must first be Fusion Summoned. This card's name becomes "[[Harpie Lady]]" while on the field or in the GY. Gains 500 ATK for each "Harpie Lady" in your GY, also your opponent cannot target this card with non-WIND monster effects. Once per turn (Quick Effect): You can destroy all Spells/Traps your opponent controls.
+  | text                 = 3 "[[Harpie Lady (archetype)|Harpie Lady]]" [[monster]]s<br />Must first be [[Fusion Summon]]ed. This card's name becomes "[[Harpie Lady]]" while on the [[field]] or in the [[GY]]. Gains 500 [[ATK]] for each "Harpie Lady" in your GY, also your opponent cannot [[target]] this card with non-[[WIND]] [[monster effect]]s. [[Once per turn]] ([[Quick Effect]]): You can [[destroy]] all [[Spell]]s/[[Trap]]s your opponent [[control]]s.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -39,5 +39,18 @@ wikitext: |-
   * Harpie
   * Harpie Lady (archetype)
   | supports_archetypes  = Harpie Lady (archetype)
+  | stat_change          = 
+  * Changes own name while on the field
+  * Changes own name while in the GY
+  * This card gains ATK
+  | m/s/t                = 
+  * Cannot be targeted by card effects
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning            = 
+  * 3 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summon-only monster
+  | misc                 = Limited activations
   | database_id          = 
   }}

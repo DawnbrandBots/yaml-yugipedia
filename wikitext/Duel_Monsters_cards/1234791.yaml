@@ -19,7 +19,7 @@ wikitext: |-
   | property             = Quick-Play
   | password             = 
   | effect_types         = Effect, Condition
-  | text                 = Declare 2, 3, or 4 Attributes; apply this effect based on the number declared, also during the End Phase of this turn, you must send all cards you control to the GY, unless you have activated effects of monsters of all declared Attributes in your field and/or GY this turn.<br />● 2: Target 1 monster on the field; banish it.<br />● 3: Draw 2 cards, then discard 1 card.<br />● 4: Negate the effects of 2 face-up cards on the field.<br />You can only activate 1 "Power of the Duelist" per turn.
+  | text                 = [[Declare]] 2, 3, or 4 [[Attribute]]s; apply this effect based on the number declared, also during the [[End Phase]] of this [[turn]], you must [[send]] all cards you [[control]] to the [[GY]], unless you have [[activate]]d [[effect]]s of [[monster]]s of all declared Attributes in your [[field]] and/or [[GY]] this turn.<br />● 2: [[Target]] 1 monster on the field; [[banish]] it.<br />● 3: [[Draw]] 2 cards, then [[discard]] 1 card.<br />● 4: [[Negate]] the effects of 2 [[face-up]] cards on the field.<br />You can only activate 1 "Power of the Duelist" per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -30,5 +30,18 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP067; Immortal Phoenix; Ultimate Rare, Prismatic Secret Rare
+  | action               = 
+  * Declares an Attribute
+  * Sends from your field to your Graveyard
+  * You draw cards
+  * You discard as an effect
+  | m/s/t                = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | banished             = Banishes from field
+  | misc                 = 
+  * Variable effects
+  * Only once per turn
   | database_id          = 
   }}

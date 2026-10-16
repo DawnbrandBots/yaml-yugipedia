@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = アマゾネスの{{Ruby|鎖|くさり}}{{Ruby|使|つか}}い－{{Ruby|死|し}}に{{Ruby|際|ぎわ}}の{{Ruby|鎖|くさり}}{{Ruby|舞|ま}}い－
-  | romaji_name          = Amazonesu no Kusaritsukai -Shi ni Giwa no Kusarimai-
+  | romaji_name          = Amazonesu no Kusaritsukai -Shinigiwa no Kusarimai-
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -22,7 +22,7 @@ wikitext: |-
   | def                  = 1300
   | password             = 
   | effect_types         = Trigger, Condition
-  | text                 = If this card is sent to the GY and you have another "[[Amazoness]]" monster in your GY: You can pay 1000 LP; your opponent can choose 1 Level 10 monster in their Deck or Extra Deck, and if they do, you can Special Summon it to your field, ignoring its Summoning conditions, but neither player can activate its effects this turn. If they do not, you discard 1 random card from their hand. You can only use this effect of "Amazoness Chain Master - Brink of Death Chain Dance" once per turn.
+  | text                 = If this card is [[send|sent]] to the [[GY]] and you have another "[[Amazoness]]" [[monster]] in your GY: You can [[pay]] 1000 [[LP]]; your opponent can choose 1 [[Level]] 10 monster in their [[Main Deck|Deck]] or [[Extra Deck]], and if they do, you can [[Special Summon]] it to your [[field]], [[ignoring its Summoning conditions]], but neither player can [[activate]] its [[effect]]s this [[turn]]. If they do not, you [[discard]] 1 random card from their [[hand]]. You can only use this effect of "Amazoness Chain Master - Brink of Death Chain Dance" [[once per turn]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,7 +33,19 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   IMPH-JP005; Immortal Phoenix; 
-  | archseries           = Amazoness
+  | archseries           = 
+  * Amazoness
+  * Signature move
   | supports_archetypes  = Amazoness
+  | action               = 
+  * Activates if sent to the Graveyard
+  * Your opponent discards
+  | m/s/t                = Prevents activation of your Effect Monsters
+  | summoning            = 
+  * Special Summons from your opponent's Deck
+  * Special Summons from your opponent's Extra Deck
+  * Ignoring the Summoning conditions
+  | life_points          = Pays Life Points for cost
+  | misc                 = Only once per turn
   | database_id          = 
   }}

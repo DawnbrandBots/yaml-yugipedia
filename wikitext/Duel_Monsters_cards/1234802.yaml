@@ -23,7 +23,7 @@ wikitext: |-
   | password             = 
   | materials            = 2 "Amazoness" monsters
   | effect_types         = Trigger, Condition, Trigger, Quick
-  | text                 = 2 "[[Amazoness]]" monsters<br />When your "Amazoness" monster destroys an opponent's monster by battle: You can draw 1 card. You can only use each of the following effects of "Amazoness Swordmaster" once per turn. If this card is Fusion Summoned: You can Special Summon 1 Level 4 or lower "Amazoness" monster from your Deck. (Quick Effect): You can Tribute 1 monster, then target 1 Effect Monster on the field; it loses 500 ATK, also negate its effects.
+  | text                 = 2 "[[Amazoness]]" [[monster]]s<br />When your "Amazoness" monster [[destroy]]s an opponent's monster by [[battle]]: You can [[draw]] 1 card. You can only use each of the following [[effect]]s of "Amazoness Swordmaster" [[once per turn]]. If this card is [[Fusion Summon]]ed: You can [[Special Summon]] 1 [[Level]] 4 or lower "Amazoness" monster from your [[Main Deck|Deck]]. ([[Quick Effect]]): You can [[Tribute]] 1 monster, then [[target]] 1 [[Effect Monster]] on the [[field]]; it loses 500 [[ATK]], also [[negate]] its effects.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -36,5 +36,17 @@ wikitext: |-
   IMPH-JP032; Immortal Phoenix; Rare
   | archseries           = Amazoness
   | supports_archetypes  = Amazoness
+  | action               = 
+  * Activates if it destroys a monster by battle
+  * You draw cards
+  * Activates upon Fusion Summon
+  * Tributes for cost
+  | stat_change          = All monsters lose ATK
+  | m/s/t                = Negates the effects of Effect Monsters
+  | summoning            = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Special Summons from your Deck
+  | misc                 = Only once per turn
   | database_id          = 
   }}
