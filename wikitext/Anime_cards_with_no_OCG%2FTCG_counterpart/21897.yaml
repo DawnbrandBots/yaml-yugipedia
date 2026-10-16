@@ -10,7 +10,8 @@ wikitext: |-
   | image_ca           = MagicalAlms-OW.png
   | card_type          = Spell
   | property           = Continuous
-  | text               = When you [[activate]] this card, gain 1000 [[LP|Life Points]]. During each player's [[turn]], the [[turn player]] must predict how many [[Spell Card]]s they will activate for the rest of that turn, then both players gain 500 Life Points x the number of Spell Cards predicted. During each player's [[End Phase]], if the turn player activated less Spell Cards than they predicted, they take 1000 [[effect damage|damage]] x the number of Spell Cards they predicted.
+  | effect_types       = Effect, Trigger-like, Trigger-like
+  | text               = When you [[activate]] this card, gain 1000 [[LP|Life Points]]. During each player's [[turn]], the [[turn player]] must predict how many [[Spell Card]]s they will activate during that turn, then both players gain 500 Life Points x the number of Spell Cards predicted. During each player's [[End Phase]], if the turn player activated less Spell Cards than they predicted, they take 1000 [[Effect damage|damage]] x the number of Spell Cards they predicted.
   | appears_in_dm      = 195
   | decks              = Zigfried von Schroeder
   | life_points        = 
