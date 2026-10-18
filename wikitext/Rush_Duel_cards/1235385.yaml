@@ -20,7 +20,7 @@ wikitext: |-
   | materials       = "[[Doomed by the Blackblight]]" + "[[The Royal Crown of Zeil]]" + "[[The Royal Sword of Zeil]]"
   | condition       = This card can be [[Union Fusion]]ed ([[Fusion Summon]] by placing the above [[face-up]] cards from your [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]] in any order as [[material]]s).
   | requirement     = None
-  | text            = Face-up [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]] on your field cannot be [[destroy]]ed by card [[effect]]s and inflict [[piercing]] [[battle damage]].
+  | text            = Face-up [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[monsters]] on your field cannot be [[destroy]]ed by card [[effect]]s, and they inflict [[piercing]] [[battle damage]].
   | ja_materials    = 
   | ja_condition    = 
   | ja_requirement  = 
@@ -31,6 +31,24 @@ wikitext: |-
   * Doomed by the Blackblight
   * The Royal Crown of Zeil
   * The Royal Sword of Zeil
+  | supports        = 
+  * DARK
+  * Warrior
   | archseries      = Hollowed Grounds
+  | action          = 
+  * Returns Fusion Materials for Union Fusion to Deck
+  * Places cards from the player's field on the bottom of the Deck for Summon
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Union Fusion
+  * Special Summons itself from your Extra Deck
+  | attack          = Piercing
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
   | database_id     = 
   }}

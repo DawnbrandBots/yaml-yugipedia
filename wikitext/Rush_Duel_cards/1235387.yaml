@@ -9,12 +9,27 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = You have a [[face-up]] [[DARK]] [[Attribute]] [[Warrior]] [[Type]] [[monster]] on your [[field]].
-  | text           = Choose 1 face-up monster on the field. While that monster is face-up, it loses 700 [[ATK]]. If you chose a "[[Doomed by the Blackblight]]" on your field by this effect, you can [[Ritual Summon]] a [[Level]] 1 DARK Attribute Warrior Type monster by sending the chosen monster to the Graveyard as [[material]].
+  | text           = Choose 1 face-up monster on the field. While that monster is face-up, it loses 700 [[ATK]]. If you chose a "[[Doomed by the Blackblight]]" on your field by this [[effect]], you can [[Ritual Summon]] a [[Level]] 1 DARK Attribute Warrior Type monster by [[send]]ing the chosen monster to the [[Graveyard]] as [[material]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP055; Jointech of Passion; Common
   | mentions       = Doomed by the Blackblight
+  | supports       = 
+  * DARK
+  * Warrior
   | archseries     = Hollowed Grounds
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | stat_change    = All monsters lose ATK
+  | summoning      = 
+  * Performs a Ritual Summon
+  * Special Summons from your Extra Deck
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific card
   | database_id    = 
   }}
