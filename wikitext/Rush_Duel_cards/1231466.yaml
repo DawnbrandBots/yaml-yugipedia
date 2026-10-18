@@ -12,7 +12,7 @@ wikitext: |-
   | atk            = 800
   | def            = 1000
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
-  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Lena's Mushroom Soup]]" or 1 "[[Doomed by the Blackblight]]" from your Graveyard to your hand.
+  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Lena's Mushroom Soup]]" or 1 "[[Doomed by the Blackblight]]" from your Graveyard to your [[hand]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -21,5 +21,10 @@ wikitext: |-
   * Lena's Mushroom Soup
   * Doomed by the Blackblight
   | archseries     = Hollowed Grounds
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
   | database_id    = 
   }}
