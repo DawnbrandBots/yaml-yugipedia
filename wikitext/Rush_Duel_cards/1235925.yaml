@@ -3,27 +3,34 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = αバーン・リビルドラ
-  | romaji_name    = 
-  | image          = AlphaBurnRebuildra-RDKP27-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Dragon / Effect
-  | level          = 1
-  | atk            = 300
-  | def            = 900
-  | condition      = This card's name becomes "[[Alpha Count]]" while in the [[Graveyard]].
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 [[Dragon]] [[Type]] [[monster]] with 900 or 1000 [[DEF]] from your [[hand]] to the Graveyard.
-  | text           = [[Draw a card|Draw]] 1 card. Then, if you have "[[Alpha Burn Drake]]" in your Graveyard, you can draw 1 card. This [[turn]], you cannot activate the effect of "Alpha Burn Rebuildra".
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|α|アルファ}}バーン・リビルドラ
+  | romaji_name           = Arufa Bān Ribirudora
+  | image                 = AlphaBurnRebuildra-RDKP27-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Dragon / Effect
+  | level                 = 1
+  | atk                   = 300
+  | def                   = 900
+  | condition             = This card's name becomes "[[Alpha Count]]" while in the [[Graveyard]].
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 [[Dragon]] [[Type]] [[monster]] with 900 or 1000 [[DEF]] from your [[hand]] to the Graveyard.
+  | text                  = [[Draw a card|Draw]] 1 card. Then, if you have "[[Alpha Burn Drake]]" in your Graveyard, you can draw 1 additional card. This turn, you cannot [[activate]] the [[effect]] of "Alpha Burn Rebuildra".
+  | ja_condition          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP27-JP008; Jointech of Passion; Common
-  | mentions       = 
+  | mentions              = 
   * Alpha Count
   * Alpha Burn Drake
-  | archseries     = 
-  * Alpha Burn
-  * High Tech Dragon
-  | database_id    = 
+  * Alpha Burn Rebuildra
+  | supports              = Dragon
+  | archseries            = Alpha Burn
+  | related_to_archseries = High Tech Dragon
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | stat_change           = Changes own name while in the GY
+  | misc                  = Only once per turn
+  | database_id           = 
   }}

@@ -3,19 +3,33 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|Ｕ|アップデート}}・メンテナンス
-  | romaji_name    = Appudēto Mentenansu
-  | image          = UpdateMaintenance-RDKP27-JP-OP.png
-  | card_type      = Spell
-  | property       = Normal
-  | requirement    = None
-  | text           = [[Fusion Summon]] a [[Level]] 6 or lower [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[monster]] with 2000 or less [[ATK]] by [[shuffling]] Dragon Type monsters from your [[field]] or [[Graveyard]] into the owner's [[Main Deck|Deck]] as [[material]]. This [[turn]], you cannot [[attack]] with [[Level]] 7 or higher monsters.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|Ｕ|アップデート}}・メンテナンス
+  | romaji_name           = Appudēto Mentenansu
+  | image                 = UpdateMaintenance-RDKP27-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = None
+  | text                  = [[Fusion Summon]] a [[Level]] 6 or lower [[LIGHT]] [[Attribute]] [[Dragon]] [[Type]] [[monster]] with 2000 or less [[ATK]] by [[shuffling]] Dragon Type monsters from your [[field]] or [[Graveyard]] into the [[owner]]'s [[Main Deck|Deck]] as [[material]]. This [[turn]], you cannot [[attack]] with [[Level]] 7 or higher monsters.
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP27-JP049; Jointech of Passion; Common
-  | archseries     = 
-  * Alpha Burn
-  * High Tech Dragon
-  | database_id    = 
+  | supports              = 
+  * LIGHT
+  * Dragon
+  | archseries            = Alpha Burn
+  | related_to_archseries = High Tech Dragon
+  | action                = 
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | attack                = Prevents your monsters from attacking
+  | misc                  = Requires control of specific Type
+  | database_id           = 
   }}

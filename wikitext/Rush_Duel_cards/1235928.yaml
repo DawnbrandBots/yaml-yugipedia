@@ -3,23 +3,29 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 真紅動の初速竜
-  | romaji_name    = 
-  | image          = RedBootLaunchBurnDragon-RDKP27-JP-OP.png
-  | attribute      = DARK
-  | types          = Dragon / Effect
-  | level          = 4
-  | atk            = 1400
-  | def            = 900
-  | requirement    = You have "[[Blue-Fang Teaser Burn Dragon]]" [[face-up]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Special Summon]] 1 [[Dragon]] [[Type]] [[Normal Monster]] with 1000 [[DEF]] from your [[Graveyard]] face-up to your field. Then, inflict 400 [[Effect damage|damage]] to your opponent.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|真紅動の初速竜|レッドブート・ローンチバーンドラゴン}}
+  | romaji_name           = Reddobūto Rōnchi Bān Doragon
+  | image                 = RedBootLaunchBurnDragon-RDKP27-JP-OP.png
+  | attribute             = DARK
+  | types                 = Dragon / Effect
+  | level                 = 4
+  | atk                   = 1400
+  | def                   = 900
+  | requirement           = You have "[[Blue-Fang Teaser Burn Dragon]]" [[face-up]] on your [[field]] during the [[turn]] you [[Normal Summon]]ed this card.
+  | text                  = [[Special Summon]] 1 [[Dragon]] [[Type]] [[Normal Monster]] with 1000 [[DEF]] from your [[Graveyard]] face-up to your field. Then, inflict 400 [[Effect damage|damage]] to your opponent.
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP27-JP011; Jointech of Passion; Common
-  | mentions       = Blue-Fang Teaser Burn Dragon
-  | archseries     = 
-  * Alpha Burn
-  * High Tech Dragon
-  | database_id    = 
+  | mentions              = Blue-Fang Teaser Burn Dragon
+  | supports              = 
+  * Dragon
+  * Normal Monster
+  | archseries            = Alpha Burn
+  | related_to_archseries = High Tech Dragon
+  | action                = Activates during the turn in which it was Normal Summoned
+  | summoning             = Special Summons from your Graveyard
+  | life_points           = Damages your opponent
+  | misc                  = Requires control of specific card
+  | database_id           = 
   }}

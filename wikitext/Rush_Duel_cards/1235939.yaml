@@ -3,21 +3,30 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = Ｔ・メンテナンス
-  | romaji_name    = 
-  | image          = TransferMaintenance-RDKP27-JP-OP.png
-  | card_type      = Spell
-  | property       = Normal
-  | condition      = This card's name becomes "[[Update Maintenance]]" while in the [[Graveyard]].
-  | requirement    = [[Shuffle]] 2 [[Dragon]] [[Type]] [[monsters]] from your Graveyard into the [[Main Deck|Deck]].
-  | text           = Change the [[battle position]] of up to 2 monsters on your opponent's [[field]]. Then, you can make 1 [[face-up]] monster on your field gain 900 [[ATK]] until the end of this [[turn]]. This turn, you cannot [[attack]] with [[Level]] 7 or higher monsters.
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|Ｔ|トランスファー}}・メンテナンス
+  | romaji_name           = Toransufā Mentenansu
+  | image                 = TransferMaintenance-RDKP27-JP-OP.png
+  | card_type             = Spell
+  | property              = Normal
+  | condition             = This card's name becomes "[[Update Maintenance]]" while in the [[Graveyard]].
+  | requirement           = [[Shuffle]] 2 [[Dragon]] [[Type]] [[monsters]] from your Graveyard into the [[Main Deck|Deck]].
+  | text                  = Change the [[battle position]] of up to 2 monsters on your opponent's [[field]]. Then, you can make 1 [[face-up]] monster on your field gain 900 [[ATK]] until the end of this [[turn]]. This turn, you cannot [[attack]] with [[Level]] 7 or higher monsters.
+  | ja_condition          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP27-JP050; Jointech of Passion; Common
-  | mentions       = Update Maintenance
-  | archseries     = 
-  * Alpha Burn
-  * High Tech Dragon
-  | database_id    = 
+  | mentions              = Update Maintenance
+  | supports              = Dragon
+  | archseries            = Alpha Burn
+  | related_to_archseries = High Tech Dragon
+  | action                = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-up
+  | stat_change           = 
+  * Changes own name while in the GY
+  * Your monsters gain ATK
+  | attack                = Prevents your monsters from attacking
+  | database_id           = 
   }}

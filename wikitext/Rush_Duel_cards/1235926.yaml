@@ -3,25 +3,27 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = αバーン・ＳＳＤ
-  | romaji_name    = 
-  | image          = AlphaBurnSSD-RDKP27-JP-OP.png
-  | attribute      = LIGHT
-  | types          = Dragon / Effect
-  | level          = 1
-  | atk            = 700
-  | def            = 900
-  | condition      = This card's name becomes "[[Alpha Count]]" while in the [[Graveyard]].
-  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
-  | text           = [[Special Summon]] 1 "Alpha Count" from your Graveyard [[face-up]] to your [[field]].
-  | ja_condition   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name               = {{Ruby|α|アルファ}}バーン・{{Ruby|Ｓ|エス}}{{Ruby|Ｓ|エス}}{{Ruby|Ｄ|ディー}}
+  | romaji_name           = Arufa Bān Esu Esu Dī
+  | image                 = AlphaBurnSSD-RDKP27-JP-OP.png
+  | attribute             = LIGHT
+  | types                 = Dragon / Effect
+  | level                 = 1
+  | atk                   = 700
+  | def                   = 900
+  | condition             = This card's name becomes "[[Alpha Count]]" while in the [[Graveyard]].
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text                  = [[Special Summon]] 1 "Alpha Count" from your Graveyard [[face-up]] to your [[field]].
+  | ja_condition          = 
+  | ja_requirement        = 
+  | ja_text               = 
+  | jp_sets               = 
   RD/KP27-JP009; Jointech of Passion; Common
-  | mentions       = Alpha Count
-  | archseries     = 
-  * Alpha Burn
-  * High Tech Dragon
-  | database_id    = 
+  | mentions              = Alpha Count
+  | archseries            = Alpha Burn
+  | related_to_archseries = High Tech Dragon
+  | action                = Activates during the turn in which it was Normal Summoned
+  | stat_change           = Changes own name while in the GY
+  | summoning             = Special Summons from your Graveyard
+  | database_id           = 
   }}
