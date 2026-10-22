@@ -30,6 +30,7 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   IMPH-JP065; Immortal Phoenix; 
+  | supports            = Xyz Monster
   | archseries          = 
   * Barian's
   * Change
@@ -37,5 +38,20 @@ wikitext: |-
   | supports_archetypes = 
   * Masquerade
   * Umbral Horror
+  | action              = 
+  * Transfers
+  * Activates from your Graveyard
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  * You draw cards
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Rank-Up by 1 Rank
+  * Treats Special Summon as Xyz Summon
+  * Performs Xyz Evolution
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only 1 effect once per turn
   | database_id         = 
   }}

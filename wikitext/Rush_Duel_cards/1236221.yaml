@@ -10,7 +10,7 @@ wikitext: |-
   | property       = Normal
   | condition      = This card's name becomes "[[Revival of Sennen Genjin]]" while in the [[Graveyard]].
   | requirement    = None
-  | text           = [[Special Summon]] 1 "[[Sengenjin (Rush Duel)|Sengenjin]]" from your [[Graveyard]] [[face-up]] to your [[field]]. Then, you can [[destroy]] 1 card on your opponent's field. This [[turn]], you can only [[attack]] with [[EARTH]] [[Attribute]] [[monsters]].
+  | text           = [[Special Summon]] 1 "[[Sengenjin (Rush Duel)|Sengenjin]]" from your Graveyard [[face-up]] to your [[field]]. Then, you can [[destroy]] 1 card on your opponent's field. This [[turn]], you can only [[attack]] with [[EARTH]] [[Attribute]] [[monsters]].
   | ja_condition   = 
   | ja_requirement = 
   | ja_text        = 
@@ -18,6 +18,15 @@ wikitext: |-
   RD/KP27-JP058; Jointech of Passion; Super Rare
   | mentions       = 
   * Revival of Sennen Genjin
-  * Sengenjin
+  * Sengenjin (Rush Duel)
+  | supports       = EARTH
+  | archseries     = Sengenjin (series)
+  | stat_change    = Changes own name while in the GY
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Prevents your monsters from attacking
   | database_id    = 
   }}

@@ -3,26 +3,43 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = {{Ruby|堅|けん}}{{Ruby|守|しゅ}}する{{Ruby|千|せん}}{{Ruby|年|ねん}}ゴーレム
-  | romaji_name    = Kenshusuru Sennen Gōremu
-  | image          = InvincibleMillenniumGolem-RDKP27-JP-OP.png
-  | attribute      = EARTH
-  | types          = Rock / Fusion / Effect
-  | level          = 6
-  | atk            = 2000
-  | def            = 2200
-  | materials      = "[[Destroyer Golem (Rush Duel)|Destroyer Golem]]" + 1 [[Level]] 5 or lower [[EARTH]] [[Attribute]] [[monster]]
-  | condition      = This card can be [[Contact Fusion]]ed.
-  | requirement    = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
-  | text           = [[Add a card|Add]] 1 "[[Revival of Sennen Genjin]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] up to 2 cards from your opponent's Graveyard into the [[Main Deck|Deck]]. If you do, increase this card's Level by 2 until the end of this [[turn]].
-  | ja_condition   = 
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = {{Ruby|堅|けん}}{{Ruby|守|しゅ}}する{{Ruby|千|せん}}{{Ruby|年|ねん}}ゴーレム
+  | romaji_name     = Kenshusuru Sennen Gōremu
+  | image           = InvincibleMillenniumGolem-RDKP27-JP-OP.png
+  | attribute       = EARTH
+  | types           = Rock / Fusion / Effect
+  | level           = 6
+  | atk             = 2000
+  | def             = 2200
+  | fusion_material = Destroyer Golem (Rush Duel)
+  | materials       = "[[Destroyer Golem (Rush Duel)|Destroyer Golem]]" + 1 [[Level]] 5 or lower [[EARTH]] [[Attribute]] [[monster]]
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Add a card|Add]] 1 "[[Revival of Sennen Genjin]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] up to 2 cards from your opponent's Graveyard into the [[Main Deck|Deck]]. If you do, increase this card's Level by 2 until the end of this [[turn]].
+  | ja_materials    = 
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP27-JP042; Jointech of Passion; Rare
-  | mentions       = 
+  | mentions        = 
   * Destroyer Golem (Rush Duel)
   * Revival of Sennen Genjin
-  | database_id    = 
+  | supports        = EARTH
+  | archseries      = Sengenjin (series)
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Returns from field to Deck for Summon
+  * Activates during the turn in which it was Fusion Summoned
+  * Adds from Graveyard to hand
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | stat_change     = This card gains Levels
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | database_id     = 
   }}

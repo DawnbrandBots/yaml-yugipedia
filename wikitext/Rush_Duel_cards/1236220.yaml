@@ -4,14 +4,17 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name         = {{Ruby|千|せん}}{{Ruby|年|ねん}}{{Ruby|原|げん}}{{Ruby|人|じん}}の{{Ruby|儀|ぎ}}{{Ruby|式|しき}}
-  | romaji_name     = Sennen Genjin no Gishiki
+  | romaji_name     = Sennengenjin no Gishiki
   | translated_name = Ritual of the Millennium Primitive Man
   | image           = RitualofSennenGenjin-RDKP27-JP-OP.png
   | card_type       = Spell
   | property        = Ritual
+  | ritualmonster   = 
+  * Sengenjin (Rush Duel)
+  * The Unstoppable Sengenjin
   | condition       = This card's name becomes "[[Revival of Sennen Genjin]]" while in the [[Graveyard]].
   | requirement     = None
-  | text            = [[Ritual Summon]] "[[Sengenjin (Rush Duel)|Sengenjin]]" or "[[The Unstoppable Sengenjin]]" by [[send]]ing [[face-up]] [[EARTH]] [[Attribute]] [[monsters]] from your [[field]] to the [[Graveyard]] whose total Levels equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], you can only [[attack]] with EARTH Attribute monsters.
+  | text            = [[Ritual Summon]] "[[Sengenjin (Rush Duel)|Sengenjin]]" or "[[The Unstoppable Sengenjin]]" by [[send]]ing [[face-up]] [[EARTH]] [[Attribute]] [[monsters]] from your [[field]] to the Graveyard whose total [[Level]]s equal 8 or more as [[material]] (you cannot use more monsters than necessary as material). This [[turn]], you can only [[attack]] with EARTH Attribute monsters.
   | ja_condition    = 
   | ja_requirement  = 
   | ja_text         = 
@@ -21,5 +24,18 @@ wikitext: |-
   * Revival of Sennen Genjin
   * Sengenjin (Rush Duel)
   * The Unstoppable Sengenjin
+  | supports        = EARTH
+  | archseries      = Sengenjin (series)
+  | action          = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | stat_change     = Changes own name while in the GY
+  | summoning       = Special Summons from your Extra Deck
+  | attack          = Prevents your monsters from attacking
+  | misc            = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Attribute
+  * Requires control of specific Level
   | database_id     = 
   }}
