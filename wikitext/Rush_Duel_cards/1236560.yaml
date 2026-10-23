@@ -8,11 +8,11 @@ wikitext: |-
   | image          = MarronCatofMinori-RDKP27-JP-OP.png
   | attribute      = FIRE
   | types          = Warrior / Effect
-  | level          = 4
+  | level          = 2
   | atk            = 900
   | def            = 900
   | requirement    = None
-  | text           = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. Place the excavated cards on top of your Deck in any order. Then, you can [[Set]] up to 2 "[[Blazing Chestnut]]" from your [[Graveyard]] to your [[Spell & Trap Zone]]. If you do, this [[turn]], you take no [[Effect damage|damage]] from the effect of "Blazing Chestnut" and you cannot [[activate]] the effect of "Marron Cat of Minori".
+  | text           = [[Excavate]] the top 3 cards of your [[Main Deck|Deck]]. Place the excavated cards on top of your Deck in any order. Then, you can [[Set]] up to 2 "[[Blazing Chestnut]]" from your [[Graveyard]] to your [[Spell & Trap Zone]]. If you do, this [[turn]], you take no [[Effect damage|damage]] from the [[effect]] of "Blazing Chestnut", and you cannot [[activate]] the effect of "Marron Cat of Minori".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
@@ -20,5 +20,11 @@ wikitext: |-
   | mentions       = 
   * Blazing Chestnut
   * Marron Cat of Minori
+  | action         = 
+  * Excavates from the player's Deck
+  * Places excavated cards on the top of the Deck
+  * Sets from your Graveyard
+  | life_points    = Prevents effect damage
+  | misc           = Only once per turn
   | database_id    = 
   }}
