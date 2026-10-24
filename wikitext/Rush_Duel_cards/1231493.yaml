@@ -4,18 +4,28 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = グレイブ・シャドウ
-  | romaji_name    = Gureibu Shadō
-  | image          = GraveShadow-OW.png
-  | attribute      = ???
-  | types          = ??? / ???
-  | level          = ???
-  | atk            = ???
-  | def            = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | romaji_name    = Gureibu Shadou
+  | image          = GraveShadow-RDKP27-JP-OP.png
+  | attribute      = DARK
+  | types          = Warrior / Effect
+  | level          = 4
+  | atk            = 1300
+  | def            = 1000
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[pay]] 500 [[LP]].
+  | text           = [[Shuffle]] 1 "Grave Shadow" or 5 [[monsters]] from your [[Graveyard]] into the [[Main Deck|Deck]]. Then, you can make 1 [[face-up]] monster on your opponent's [[field]] lose 1500 [[ATK]]/[[DEF]] until the end of this [[turn]]. This turn, you cannot [[activate]] the [[effect]] of "Grave Shadow".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP27-JP0??; Jointech of Passion
+  RD/KP27-JPS00; Jointech of Passion; Ultra Rare
+  | mentions       = Grave Shadow
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Returns from your Graveyard to your Deck
+  | stat_change    = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | life_points    = Pays Life Points for cost
+  | misc           = Only once per turn
   | database_id    = 
   }}
