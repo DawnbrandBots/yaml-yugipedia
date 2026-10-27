@@ -9,15 +9,21 @@ wikitext: |-
   | card_type      = Spell
   | property       = Normal
   | requirement    = None
-  | text           = [[Add a card|Add]] 1 "[[Lumina the Dimensional Sworn Ally]]", "[[Riel the Dimensional Sworn Ally]]", or "[[Saintick Crusade]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] 3 [[monsters]] from your Graveyard into the [[Main Deck|Deck]]. Then, if you shuffled a [[WIND]] [[Attribute]] monster by this [[effect]], you can look at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
+  | text           = [[Add a card|Add]] 1 "[[Lumina the Dimensional Sworn Ally]]", "[[Riel the Dimensional Sworn Ally]]", or "[[Saintick Crusade]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[shuffle]] 3 [[monsters]] from your Graveyard into the [[Main Deck|Deck]]. Then, if you shuffled a [[WIND]] [[Attribute]] monster by this [[effect]], you can [[look]] at 1 [[face-down]] card in your opponent's [[Spell & Trap Zone]]. Then, if that card is a [[Trap Card]], [[destroy]] it.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP059; Jointech of Passion; Rare
-  | mentions      = 
+  | mentions       = 
   * Lumina the Dimensional Sworn Ally
   * Riel the Dimensional Sworn Ally
   * Saintick Crusade
-  | archseries    = Dimension Linker (series)
-  | database_id   = 
+  | supports       = WIND
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Adds from Graveyard to hand
+  * Returns from your Graveyard to your Deck
+  * Reveals face-down cards
+  | m/s/t          = Destroys your opponent's face-down Trap Cards
+  | database_id    = 
   }}

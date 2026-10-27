@@ -8,12 +8,29 @@ wikitext: |-
   | image          = SaintickCrusade-RDKP27-JP-OP.png
   | card_type      = Trap
   | property       = Normal
-  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], [[shuffle]] 1 [[Cyberse]] [[Type]] [[monster]] and 1 non-Cyberse Type monster from your [[Graveyard]] into the [[Main Deck|Deck]].
-  | text           = Make up to 2 [[face-up]] monsters on your [[field]] gain 500 [[ATK]] until the end of this [[turn]]. Then, if you chose a [[WIND]] [[Attribute]] [[Cyberse]] [[Type]] [[Fusion Monster]] by this [[effect]], you can [[destroy]] 1 face-up card on your opponent's field.
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]], [[shuffle]] 1 [[Cyberse]] [[Type]] monster and 1 non-Cyberse Type monster from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text           = Choose up to 2 [[face-up]] monsters on your [[field]], and they gain 500 [[ATK]] until the end of this [[turn]]. Then, if you chose a [[WIND]] [[Attribute]] Cyberse Type [[Fusion Monster]] by this [[effect]], you can [[destroy]] 1 face-up card on your opponent's field.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP064; Jointech of Passion; Common
-  | archseries    = Dimension Linker (series)
-  | database_id   = 
+  | supports       = 
+  * Cyberse
+  * WIND
+  * Fusion Monster
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Returns from Graveyard to Deck for cost
+  | stat_change    = Your monsters gain ATK
+  | m/s/t          = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  | database_id    = 
   }}
