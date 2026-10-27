@@ -3,24 +3,38 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = セインティック・ルミナ
-  | romaji_name    = Seintikku Rumina
-  | image          = SaintickLumina-RDKP27-JP-OP.png
-  | attribute      = WIND
-  | types          = Cyberse / Fusion / Effect
-  | level          = 9
-  | atk            = 1800
-  | def            = 1800
-  | effect_types   = Continuous
-  | materials      = "[[Lumina the Dimensional Sworn Ally]]" + 1 [[Level]] 4 [[LIGHT]] or [[WIND]] [[Attribute]] [[monster]] with 500 [[DEF]]
-  | requirement    = None
-  | text           = [[Face-up]] monsters on your [[field]] gain 400 [[ATK]]/[[DEF]]. If you have 3 or more different [[Type|Monster Types]] in your [[Graveyard]], [[Spell]]/[[Trap Card]]s on your field cannot be [[destroy]]ed by [[monster effect]]s.
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = セインティック・ルミナ
+  | romaji_name     = Seintikku Rumina
+  | image           = SaintickLumina-RDKP27-JP-OP.png
+  | attribute       = WIND
+  | types           = Cyberse / Fusion / Effect
+  | level           = 9
+  | atk             = 1800
+  | def             = 1800
+  | effect_types    = Continuous
+  | fusion_material = Lumina the Dimensional Sworn Ally
+  | materials       = "[[Lumina the Dimensional Sworn Ally]]" + 1 [[Level]] 4 [[LIGHT]] or [[WIND]] [[Attribute]] [[monster]] with 500 [[DEF]]
+  | requirement     = None
+  | text            = [[Face-up]] monsters on your [[field]] gain 400 [[ATK]]/DEF. If you have 3 or more different [[Type]]s in your [[Graveyard]], [[Spell]]/[[Trap Card]]s on your field cannot be [[destroy]]ed by [[monster effect]]s.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP27-JP043; Jointech of Passion; Super Rare
-  | mentions       = Lumina the Dimensional Sworn Ally
-  | archseries     = Dimension Linker (series)
-  | database_id    = 
+  | mentions        = Lumina the Dimensional Sworn Ally
+  | supports        = 
+  * LIGHT
+  * WIND
+  | archseries      = Dimension Linker (series)
+  | stat_change     = 
+  * Your monsters gain ATK
+  * Your monsters gain DEF
+  | m/s/t           = Prevents other cards being destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires DEF specific Fusion Materials
+  | database_id     = 
   }}

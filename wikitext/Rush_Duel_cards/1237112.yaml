@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 次元の盟友 コピン
-  | romaji_name    = 
+  | ja_name        = {{Ruby|次|じ}}{{Ruby|元|げん}}の{{Ruby|盟|めい}}{{Ruby|友|ゆう}} コピン
+  | romaji_name    = Jigen no Meiyū Kopin
   | image          = CopintheDimensionalSwornAlly-RDKP27-JP-OP.png
   | attribute      = WIND
   | types          = Beast / Effect
@@ -12,11 +12,20 @@ wikitext: |-
   | atk            = 700
   | def            = 500
   | requirement    = [[Reveal]] 1 [[Cyberse]] [[Type]] [[monster]] in your [[hand]].
-  | text           = [[Add a card|Add]] 1 [[Level]] 4 [[WIND]] [[Attribute]] [[Fairy]] [[Type]] monster with 500 [[DEF]] from your [[Graveyard]] to your hand. This [[turn]], you cannot [[activate]] the effect of "Copin the Dimensional Sworn Ally".
+  | text           = [[Add a card|Add]] 1 [[Level]] 4 [[WIND]] [[Attribute]] [[Fairy]] Type monster with 500 [[DEF]] from your [[Graveyard]] to your hand. This [[turn]], you cannot [[activate]] the [[effect]] of "Copin the Dimensional Sworn Ally".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP031; Jointech of Passion; Super Rare
-  | archseries    = Dimension Linker (series)
-  | database_id   = 
+  | mentions       = Copin the Dimensional Sworn Ally
+  | supports       = 
+  * Cyberse
+  * WIND
+  * Fairy
+  | archseries     = Dimension Linker (series)
+  | action         = 
+  * Reveals your hand for cost
+  * Adds from Graveyard to hand
+  | misc           = Only once per turn
+  | database_id    = 
   }}

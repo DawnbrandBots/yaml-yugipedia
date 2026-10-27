@@ -3,23 +3,41 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = セインティック・リンカー
-  | romaji_name    = 
-  | image          = SaintickLinker-RDKP27-JP-OP.png
-  | attribute      = WIND
-  | types          = Cyberse / Fusion / Effect
-  | level          = 9
-  | atk            = 2800
-  | def            = 2000
-  | materials      = "[[Riel the Dimensional Sworn Ally]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]]  [[monster]]
-  | requirement    = During your [[Main Phase]] that you [[Special Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
-  | text           = [[Return]] 1 [[face-up]] card from your opponent's [[field]] to the owner's hand. Then, if you have 3 or more different [[Type|Monster Types]] in your Graveyard, this card inflicts [[piercing]] [[battle damage]] this [[turn]]. This turn, you cannot [[activate]] the [[effect]] of "Saintick Linker".
-  | ja_materials   = 
-  | ja_requirement = 
-  | ja_text        = 
-  | jp_sets        = 
+  | ja_name         = セインティック・リンカー
+  | romaji_name     = Seintikku Rinkā
+  | image           = SaintickLinker-RDKP27-JP-OP.png
+  | attribute       = WIND
+  | types           = Cyberse / Fusion / Effect
+  | level           = 9
+  | atk             = 2800
+  | def             = 2000
+  | fusion_material = Riel the Dimensional Sworn Ally
+  | materials       = "[[Riel the Dimensional Sworn Ally]]" + 1 [[Level]] 8 [[LIGHT]] [[Attribute]] [[Cyberse]] [[Type]]  [[monster]]
+  | requirement     = During your [[Main Phase]] that you [[Special Summon]]ed this card, [[send]] 1 card from your [[hand]] to the [[Graveyard]].
+  | text            = [[Return]] 1 [[face-up]] card from your opponent's [[field]] to the [[owner]]'s hand. Then, if you have 3 or more different Types in your Graveyard, this card inflicts [[piercing]] [[battle damage]] this [[turn]]. This turn, you cannot [[activate]] the [[effect]] of "Saintick Linker".
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
   RD/KP27-JP044; Jointech of Passion; Ultra Rare, Over Rush Rare
-  | mentions       = Riel the Dimensional Sworn Ally
-  | archseries     = Dimension Linker (series)
-  | database_id    = 
+  | mentions        = 
+  * Riel the Dimensional Sworn Ally
+  * Saintick Linker
+  | supports        = 
+  * LIGHT
+  * Cyberse
+  | archseries      = Dimension Linker (series)
+  | action          = 
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Returns from your opponent's field to your opponent's hand
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack          = Piercing
+  | misc            = Only once per turn
+  | database_id     = 
   }}

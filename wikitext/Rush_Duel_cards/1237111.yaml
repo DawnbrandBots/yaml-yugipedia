@@ -4,7 +4,7 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = ディメンション・ワーブ
-  | romaji_name    = 
+  | romaji_name    = Dimenshon Wābu
   | image          = DimensionWharve-RDKP27-JP-OP.png
   | attribute      = LIGHT
   | types          = Cyberse / Effect
@@ -12,12 +12,21 @@ wikitext: |-
   | atk            = 700
   | def            = 500
   | requirement    = You have 2 or more [[monsters]] on your [[field]].
-  | text           = [[Send]] all monsters from your field to the [[Graveyard]]. Then, you can [[Special Summon]] 1 "[[Dimension Linker]]" or 1 [[Level]] 9 [[WIND]] [[Attribute]] [[Cyberse]] [[Type]] [[Fusion Monster]] from your Graveyard [[face-up]] to your field. This [[turn]], you cannot activate the effect of "Dimension Wharve".
+  | text           = [[Send]] all monsters from your field to the [[Graveyard]]. Then, you can [[Special Summon]] 1 "[[Dimension Linker]]" or 1 [[Level]] 9 [[WIND]] [[Attribute]] [[Cyberse]] [[Type]] [[Fusion Monster]] from your Graveyard [[face-up]] to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Dimension Wharve".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/KP27-JP030; Jointech of Passion; Common
-  | mentions      = Dimension Linker
-  | archseries    = Dimension Linker (series)
-  | database_id   = 
+  | mentions       = 
+  * Dimension Linker
+  * Dimension Wharve
+  | supports       = 
+  * WIND
+  * Cyberse
+  * Fusion Monster
+  | archseries     = Dimension Linker (series)
+  | action         = Sends from your field to your Graveyard
+  | summoning      = Special Summons from your Graveyard
+  | misc           = Only once per turn
+  | database_id    = 
   }}
