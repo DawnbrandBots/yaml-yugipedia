@@ -60,16 +60,17 @@ wikitext: |-
   | related_to_archseries = Gun Dragon
   | supports              = Coin toss
   | anti-supports         = Coin toss
-  | life_points           = Damages your opponent
+  | action                = 
+  * Reveals your opponent's hand
+  * Your opponent discards
+  * Activates from your Graveyard
+  * Changes coin toss result
   | m/s/t                 = 
   * Destroys your opponent's Monster Cards
   * Destroys your opponent's Spell Cards
   * Destroys your opponent's Trap Cards
-  | action                = 
-  * Reveals your opponent's hand
-  * Your opponent discards
-  * Changes coin toss result
   | banished              = Banishes itself from Graveyard for cost
+  | life_points           = Damages your opponent
   | misc                  = 
   * Limited activations
   * Coin toss

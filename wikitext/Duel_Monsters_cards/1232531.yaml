@@ -14,18 +14,18 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 终天狱神Ω皮托里姆
-  | image                 = OmegaVidoliumthePowerPatronofHeavensEnd-IMPH-JP-OP.png
+  | image                 = OmegaVidoliumthePowerPatronofHeavensEnd-IMPH-JP-SR.png
   | attribute             = DARK
   | types                 = Dragon / Fusion / Pendulum / Effect
   | level                 = 12
   | pendulum_scale        = 11
   | atk                   = 4000
   | def                   = 4000
-  | password              = 
+  | password              = 90917401
   | materials             = 3 monsters Special Summoned from the Extra Deck with 3000 or more ATK
   | pendulum_effect_types = Trigger-like
   | effect_types          = Summoning condition, Continuous, Quick, Trigger
-  | pendulum_effect       = If a [[monster]](s) is [[Special Summon]]ed from the [[Extra Deck]]: You can [[return]] this card to the Extra Deck, then you can [[Fusion Summon]] 1 [[Fusion Monster]] from your Extra Deck, using monsters from either [[field]], including a "[[Power Patron]]" monster you [[control]].
+  | pendulum_effect       = If a [[monster]](s) is [[Special Summon]]ed from the [[Extra Deck]] (except during the [[Damage Step]]): You can [[return]] this card to the Extra Deck, then you can [[Fusion Summon]] 1 [[Fusion Monster]] from your Extra Deck, using monsters from either [[field]], including a "[[Power Patron]]" monster you [[control]].
   | text                  = 3 [[monsters]] [[Special Summon]]ed from the [[Extra Deck]] with 3000 or more [[ATK]]<br />Must first be [[Fusion Summon]]ed. [[Unaffected]] by card [[effect]]s, except "[[Power Patron]]" cards'. When your opponent [[activate]]s a [[monster effect]] while they [[control]] 2 or more monsters with the same [[Type]] as that monster ([[Quick Effect]]): You can [[banish]] ([[face-down]]) the top 3 cards of your [[Main Deck|Deck]]; [[negate]] the activation, and if you do, banish that monster face-down. [[Once per turn]], during your [[Standby Phase]]: Place this card in your [[Pendulum Zone]].
   | fr_pendulum_effect    = 
   | fr_text               = 
@@ -37,8 +37,8 @@ wikitext: |-
   | pt_text               = 
   | es_pendulum_effect    = 
   | es_text               = 
-  | ja_pendulum_effect    = 
-  | ja_text               = 
+  | ja_pendulum_effect    = ①：ＥＸデッキからモンスターが特殊召喚された場合に発動できる。このカードをＥＸデッキに戻す。その後、自分フィールドの「獄神」モンスターを含む、自分・相手フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚できる。
+  | ja_text               = ＥＸデッキから特殊召喚された攻撃力３０００以上のモンスター×３<br />このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードはモンスターゾーンに存在する限り、「獄神」カード以外のカードの効果を受けない。②：相手がモンスターの効果を発動した時、そのモンスターと同じ種族のモンスターが相手フィールドに２体以上存在していれば、デッキの上からカード３枚を裏側で除外して発動できる。その発動を無効にし裏側で除外する。③：自分スタンバイフェイズに発動する。このカードを自分のＰゾーンに置く。
   | ko_pendulum_effect    = 
   | ko_text               = 
   | sc_pendulum_effect    = ①：怪兽被从额外牌组特殊召唤的情况下可以发动。将此卡放回额外牌组。然后，可将包含自己场上的“狱神”怪兽在内的、自己・对手场上的怪兽作为融合素材，将1只融合怪兽融合召唤。
@@ -76,5 +76,5 @@ wikitext: |-
   * Requires control of specific archetype
   * Limited activations
   * During the Standby Phase
-  | database_id           = 
+  | database_id           = 23846
   }}
