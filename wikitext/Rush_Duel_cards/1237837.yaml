@@ -3,22 +3,32 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 陽気な天使ミカ
-  | romaji_name    = 
-  | image          = MichatheCheerfulAngel-RDKP27-JP-OP.png
+  | ja_name        = {{Ruby|陽|よう}}{{Ruby|気|き}}な{{Ruby|天|てん}}{{Ruby|使|し}}ミカ
+  | romaji_name    = Yōkina Tenshi Mika
+  | image          = 
+  1; MichatheCheerfulAngel-RDKP27-JP-OP.png
+  2; MichatheCheerfulAngel-RDKP27-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = LIGHT
   | types          = Fairy / Effect
   | level          = 4
   | atk            = 900
   | def            = 100
-  | requirement    = If there are 2 or more different [[Type]]s among the [[face-up]] monsters on the [[field]], [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = Face-up monsters on the field gain 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 monster with 900 [[ATK]]/100 [[DEF]] or 1 "[[Micha the Symbol of the Angels]] from your Graveyard to your [[hand]]. This [[turn]], you cannot [[activate]] the effect of "Micha the Cheerful Angel".
+  | requirement    = If there are 2 or more different [[Type]]s among the [[face-up]] [[monsters]] on the [[field]], [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text           = Face-up monsters on the field gain 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 monster with 900 ATK/100 [[DEF]] or 1 "[[Micha the Symbol of the Angels]] from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the [[effect]] of "Micha the Cheerful Angel".
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP27-JP035; Jointech of Passion; Super Rare
+  RD/KP27-JP035; Jointech of Passion; Super Rare, Secret Rare
   | mentions       = 
   * Micha the Symbol of the Angels
   * Micha the Cheerful Angel
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change    = All monsters gain ATK
+  | misc           = 
+  * Requires control of specific Type
+  * Only once per turn
   | database_id    = 
   }}
