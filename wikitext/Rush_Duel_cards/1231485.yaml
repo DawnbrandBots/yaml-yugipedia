@@ -4,15 +4,22 @@ wikitext: |-
   {{Unofficial lore|English}}
   {{CardTable2
   | ja_name        = {{Ruby|境|きょう}}{{Ruby|界|かい}}{{Ruby|渡|わた}}りのブラストゲート
-  | romaji_name    = Kyōkaiatari no Burasutogēto
-  | image          = BoundaryCrossingBlastGate-OW.png
-  | card_type      = ???
-  | property       = ???
-  | requirement    = (TBA)
-  | text           = (TBA)
+  | romaji_name    = Kyōkaiwatari no Burasutogēto
+  | image          = 
+  1; BoundaryCrossingBlastGate-RDKP27-JP-OP.png; BoundaryCrossingBlastGate-OW.png
+  2; BoundaryCrossingBlastGate-RDKP27-JP-OP-AA.png
+  | current_image  = 1
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon]]s an [[Effect Monster]] with 2000 or less [[ATK]].
+  | text           = Take [[control]] of that [[monster]] during this [[Main Phase]] (when control of that monster is returned, if there is no [[Monster Zone]] to return to, [[send]] it to the [[Graveyard]]).
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
-  RD/KP27-JP0??; Jointech of Passion
+  RD/KP27-JP065; Jointech of Passion; Ultra Rare, Over Rush Rare
+  | anti-supports  = Effect Monster
+  | action         = 
+  * Activates upon Normal Summon
+  * Takes control of an opponent's monster
   | database_id    = 
   }}
