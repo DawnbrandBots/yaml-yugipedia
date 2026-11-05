@@ -14,9 +14,9 @@ wikitext: |-
   | condition             = This card's name becomes "[[Alpha Count]]" while in the [[Graveyard]].
   | requirement           = During the [[turn]] you [[Normal Summon]]ed this card.
   | text                  = [[Special Summon]] 1 "Alpha Count" from your Graveyard [[face-up]] to your [[field]].
-  | ja_condition          = 
-  | ja_requirement        = 
-  | ja_text               = 
+  | ja_condition          = 墓地にいるこのカードのカード名は「αカウント」になる。
+  | ja_requirement        = このカードを召喚したターンに発動できる。
+  | ja_text               = 自分の墓地の「αカウント」１体を選び、自分フィールドに表側表示で特殊召喚する。
   | jp_sets               = 
   RD/KP27-JP009; Jointech of Passion; Common
   | mentions              = Alpha Count
@@ -25,5 +25,5 @@ wikitext: |-
   | action                = Activates during the turn in which it was Normal Summoned
   | stat_change           = Changes own name while in the GY
   | summoning             = Special Summons from your Graveyard
-  | database_id           = 
+  | database_id           = 24096
   }}

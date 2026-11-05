@@ -16,8 +16,8 @@ wikitext: |-
   | def            = 100
   | requirement    = If there are 2 or more different [[Type]]s among the [[face-up]] [[monsters]] on the [[field]], [[send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]].
   | text           = Face-up monsters on the field gain 500 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 monster with 900 ATK/100 [[DEF]] or 1 "[[Micha the Symbol of the Angels]]" from your Graveyard to your [[hand]]. This turn, you cannot [[activate]] the [[effect]] of "Micha the Cheerful Angel".
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = お互いのフィールドの表側表示モンスターの種族が合計２種類以上の場合、デッキの上からカード２枚を墓地へ送って発動できる。
+  | ja_text        = お互いのフィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。その後、自分の墓地のモンスター（攻撃力９００／守備力１００）１体または「天使の印ミカ」１枚を選んで手札に加える事ができる。このターン、自分は「陽気な天使ミカ」の効果を発動できない。
   | jp_sets        = 
   RD/KP27-JP035; Jointech of Passion; Super Rare, Secret Rare
   | mentions       = 
@@ -30,5 +30,5 @@ wikitext: |-
   | misc           = 
   * Requires control of specific Type
   * Only once per turn
-  | database_id    = 
+  | database_id    = 24122
   }}

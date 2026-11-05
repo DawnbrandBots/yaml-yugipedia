@@ -14,8 +14,9 @@ wikitext: |-
   | condition      = This card's name becomes "[[Jointech Ace]]" while in the [[Graveyard]].
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
   | text           = This [[turn]], this card's name becomes "Jointech Ace". Then, you can [[Add a card|add]] 1 [[EARTH]] [[Attribute]] [[Machine]] [[Type]] [[Union monster]] from your Graveyard to your [[hand]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_condition   = 墓地にいるこのカードのカード名は「ジョインテック・エース」になる。
+  | ja_requirement = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text        = このカードのカード名はこのターン、「ジョインテック・エース」になる。その後、自分の墓地のユニオンモンスター（地属性／機械族）１体を選んで手札に加える事ができる。
   | jp_sets        = 
   RD/KP27-JP006; Jointech of Passion; Rare
   | mentions       = Jointech Ace
@@ -30,5 +31,5 @@ wikitext: |-
   | stat_change    = 
   * Changes own name while in the GY
   * Changes own name while on the field
-  | database_id    = 
+  | database_id    = 24093
   }}

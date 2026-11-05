@@ -5,7 +5,10 @@ wikitext: |-
   {{CardTable2
   | ja_name        = {{Ruby|腐|ふ}}{{Ruby|灼|しゃく}}の{{Ruby|崇|すう}}{{Ruby|拝|はい}}{{Ruby|者|しゃ}}
   | romaji_name    = Fushaku no Sūhaisha
-  | image          = WorshiperoftheBlightblaze-RDKP27-JP-OP.png
+  | image          = 
+  1; WorshiperoftheBlightblaze-RDKP27-JP-OP.png; WorshiperoftheBlightblaze-OW.png
+  2; WorshiperoftheBlightblaze-RDKP27-JP-OP-AA.png
+  | current_image  = 1
   | attribute      = DARK
   | types          = Warrior / Effect
   | level          = 1
@@ -13,8 +16,8 @@ wikitext: |-
   | def            = 1000
   | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
   | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Lena's Mushroom Soup]]" or 1 "[[Doomed by the Blackblight]]" from your Graveyard to your [[hand]].
-  | ja_requirement = 
-  | ja_text        = 
+  | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_text        = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「レーナのキノコスープ」１枚または「黒腐の亡者」１体を選んで手札に加える事ができる。
   | jp_sets        = 
   RD/KP27-JP020; Jointech of Passion; Super Rare, Secret Rare
   | mentions       = 
@@ -26,5 +29,5 @@ wikitext: |-
   * Activates during the turn in which it was Special Summoned
   * Sends from the top of your Deck to your Graveyard
   * Adds from Graveyard to hand
-  | database_id    = 
+  | database_id    = 24107
   }}
