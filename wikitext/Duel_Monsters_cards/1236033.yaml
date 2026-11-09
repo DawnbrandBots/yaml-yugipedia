@@ -20,7 +20,7 @@ wikitext: |-
   | property              = Continuous
   | password              = 
   | effect_types          = Ignition-like, Condition, Trigger-like
-  | text                  = During your Main Phase: You can add 1 "Magician Girl" monster from your Deck to your hand. You can only use this effect of "B.L.A.C.K. Parfait" once per turn. If your opponent Normal or Special Summons a monster(s): You can Special Summon 1 "Magician Girl" monster from your hand with a different Attribute from the monsters you control, then if you control "Dark Magician Girl", you can negate the effects of 1 other face-up card on the field until the end of this turn.
+  | text                  = During your [[Main Phase]]: You can [[add]] 1 "[[Magician Girl]]" [[monster]] from your [[Main Deck|Deck]] to your [[hand]]. You can only use this [[effect]] of "B.L.A.C.K. Parfait" [[once per turn]]. If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a monster(s): You can Special Summon 1 "Magician Girl" monster from your hand with a different [[Attribute]] from the monsters you [[control]], then if you control "[[Dark Magician Girl]]", you can [[negate]] the effects of 1 other [[face-up]] card on the [[field]] until the end of this [[turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -36,5 +36,17 @@ wikitext: |-
   | related_to_archseries = 
   * Dark Magician (archetype)
   * Dark Magician Girl (archetype)
+  | action                = 
+  * Adds from Deck to hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | m/s/t                 = 
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning             = Special Summons from your hand
+  | misc                  = 
+  * Only once per turn
+  * Requires control of specific card
   | database_id           = 
   }}
