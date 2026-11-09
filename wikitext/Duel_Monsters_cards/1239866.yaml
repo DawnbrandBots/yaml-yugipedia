@@ -8,8 +8,8 @@ wikitext: |-
   | it_name              = 
   | pt_name              = 
   | es_name              = 
-  | ja_name              = 四次元竜クレイデス
-  | romaji_name          = 
+  | ja_name              = {{Ruby|四|よ}}{{Ruby|次|じ}}{{Ruby|元|げん}}{{Ruby|竜|りゅう}}クレイデス
+  | romaji_name          = Yojigenryū Kureidesu
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -21,8 +21,9 @@ wikitext: |-
   | atk                  = 2400
   | def                  = 2400
   | password             = 
-  | effect_types         = Ignition, Trigger
-  | text                 = 1 [[Tuner]] + 1+ non-Tuners<br />You can [[banish]] up to 4 cards from your [[hand]], then [[activate]] this [[effect]] based on the number banished (but you can only use each effect of "Craydeath the Four Dimensional Dragon" [[once per turn]]);<br />● 1: [[Special Summon]] 1 [[Level]] 4 or lower [[monster]] from your [[hand]].<br />● 2: Banish 1 Level 4 or lower monster on the [[field]].<br />● 3: [[Send]] 1 [[DARK]] monster from your [[Main Deck|Deck]] to the [[GY]].<br />● 4: [[Draw a card|Draw]] 5 cards instead of 1 for your [[normal draw]] during your next [[Draw Phase]].<br />When the fourth attack of each turn is declared: You can make this card's [[ATK]] become 4000.
+  | materials            = 1 Tuner + 1 or more non-Tuner monsters
+  | effect_types         = Trigger, Ignition
+  | text                 = 1 [[Tuner]] + 1+ non-Tuners<br />When the fourth attack of each turn is declared: You can make this card's [[ATK]] become 4000. You can [[banish]] up to 4 cards from your [[hand]], then [[activate]] this [[effect]] based on the number banished (but you can only use each of these effects of "Craydeath the Four Dimensional Dragon" [[once per turn]]);<br />● 1: [[Special Summon]] 1 [[Level]] 4 or lower [[monster]] from your [[hand]].<br />● 2: Banish 1 Level 4 or lower monster on the [[field]].<br />● 3: [[Send]] 1 [[DARK]] monster from your [[Main Deck|Deck]] to the [[GY]].<br />● 4: [[Draw a card|Draw]] 5 cards instead of 1 for your [[normal draw]] during your next [[Draw Phase]].
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -33,5 +34,21 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   27PR-JP003; Promotion Pack 2027; Normal Parallel Rare
+  | supports             = DARK
+  | action               = 
+  * Activates upon attack declaration
+  * Sends from your Deck to your Graveyard
+  * Increases normal draw
+  | stat_change          = Changes own ATK value
+  | summoning            = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your hand
+  | banished             = 
+  * Banishes from hand for cost
+  * Banishes from field
+  | misc                 = 
+  * Variable effects
+  * Only once per turn
   | database_id          = 
   }}

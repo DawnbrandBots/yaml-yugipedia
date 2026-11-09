@@ -9,7 +9,9 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|三相の魔導兵|トライアド・プロテウス}}
-  | romaji_name          = 
+  | base_romaji_name     = Sansō no Madōhei
+  | base_translated_name = Triad Magical Soldier
+  | romaji_name          = Toraiado Puroteusu
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -20,6 +22,7 @@ wikitext: |-
   | atk                  = 1500
   | link_arrows          = Top-Left, Bottom-Right
   | password             = 
+  | materials            = 2 Effect Monsters
   | effect_types         = Trigger, Continuous, Continuous, Trigger, Condition
   | text                 = 2 [[Effect Monster]]s<br />If this card is [[Special Summon]]ed: You can [[discard]] 1 card; this card gains this [[effect]] based on the discarded card's type ([[Monster]], [[Spell]], [[Trap]]).<br />● Monster: Gains 800 [[ATK]].<br />● Spell: If a monster(s) you [[control]] would be [[destroy]]ed by card effect, you can destroy this card instead.<br />● Trap: [[Once per turn]], if a monster(s) is Special Summoned to a [[zone]](s) this card [[points to]]: You can destroy all monsters this card points to.<br />You can only use this effect of "Triad Proteus" once per turn.
   | fr_text              = 
@@ -32,5 +35,21 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   27PR-JP004; Promotion Pack 2027; Normal Parallel Rare
+  | action               = 
+  * Activates upon Special Summon
+  * You discard for cost
+  | stat_change          = This card gains ATK
+  | m/s/t                = 
+  * Prevents other cards being destroyed by card effects
+  * Destroys itself
+  * Redirects destruction
+  * Destroys Monster Cards
+  | summoning            = 
+  * 2 Link Materials
+  * Requires Effect Monsters as Link Materials
+  | misc                 = 
+  * Variable effects
+  * Limited activations
+  * Only once per turn
   | database_id          = 
   }}

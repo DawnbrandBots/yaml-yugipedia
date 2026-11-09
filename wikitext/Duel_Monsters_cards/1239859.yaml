@@ -9,7 +9,9 @@ wikitext: |-
   | pt_name               = 
   | es_name               = 
   | ja_name               = {{Ruby|聖魔の賢王|ロード・オブ・マギストス}}エンディミオン
-  | romaji_name           = 
+  | base_romaji_name      = Seima no Ken'ō Endimion
+  | base_translated_name  = Endymion, the Sage-King of Sacred Magic
+  | romaji_name           = Rōdo Obu Magisutosu Endimion
   | translated_name       = 
   | ko_name               = 
   | ko_rr_name            = 
@@ -50,5 +52,30 @@ wikitext: |-
   | supports_archetypes   = 
   * Endymion
   * Magistus
+  | counter               = 
+  * Spell Counter
+  * Places counters on itself
+  * Removes counters for cost
+  | action                = 
+  * Adds from Deck to hand
+  * Applies effect while equipped with an Equip Card
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys itself
+  * Cannot be destroyed by card effects
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Multiple attacker
+  | banished              = 
+  * Banishes from field for Summon
+  * Banishes from field for cost
+  | misc                  = Only once per turn
   | database_id           = 
   }}

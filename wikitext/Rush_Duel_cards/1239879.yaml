@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 枯れ木のジニー
-  | romaji_name    = 
+  | ja_name        = {{Ruby|枯|か}}れ{{Ruby|木|き}}のジニー
+  | romaji_name    = Kareki no Jinī
   | image          = GenieoftheDeadTree-RD27PR-JP-OP.png
   | attribute      = DARK
   | types          = Plant / Union / Effect
@@ -12,10 +12,19 @@ wikitext: |-
   | atk            = 0
   | def            = 1600
   | requirement    = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
-  | text           = [[Equip]] this card to 1 [[face-up]] [[monster]] on your [[field]] that is not equipped with "Genie of the Dead Tree" as an [[Equip Spell Card]] with the following [[effect]]. Then, gain 500 [[LP]]. ● The equipped monster on your field and face-up monsters on your opponent's field lose [[ATK]] equal to [the equipped monster's [[original Level]]] x 100.
+  | text           = [[Equip]] this card to 1 [[face-up]] [[monster]] on your [[field]] that is not equipped with "Genie of the Dead Tree" as an [[Equip Spell Card]] with the following [[effect]]. Then, gain 500 [[LP]]. ●The equipped monster on your field and face-up monsters on your opponent's field lose [[ATK]] equal to [the [[original Level]] of the equipped monster] x 100.
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/27PR-JP002; Rush Duel Promotion Pack 2027; Normal Parallel Rare
+  | mentions       = Genie of the Dead Tree
+  | action         = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Equips self from field
+  | stat_change    = 
+  * Equipped loses ATK
+  * Your opponent's monsters lose ATK
+  | m/s/t          = Treated as Equip Card
+  | life_points    = You gain Life Points
   | database_id    = 
   }}

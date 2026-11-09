@@ -3,8 +3,8 @@ wikitext: |-
   {{Unofficial name|English}}
   {{Unofficial lore|English}}
   {{CardTable2
-  | ja_name        = 塗り足のパレッタ
-  | romaji_name    = 
+  | ja_name        = {{Ruby|塗|ぬ}}り{{Ruby|足|あし}}のパレッタ
+  | romaji_name    = Nuriashi no Paretta
   | image          = PalettatheFootPainter-RD27PR-JP-OP.png
   | attribute      = WATER
   | types          = Spellcaster / Effect
@@ -12,10 +12,18 @@ wikitext: |-
   | atk            = 500
   | def            = 1500
   | requirement    = None
-  | text           = Take the bottom 3 cards of your [[Main Deck|Deck]] and [[show]] them. You can send 1 [[monster]] among the shown cards to the [[Graveyard]]. [[Shuffle]] the other cards into the Deck. Then, if you sent a monster to the Graveyard, you can make the [[Type]] and [[Attribute]] of 1 [[face-up]] monster on your opponent's [[field]] become the Type and Attribute of the monster sent to the Graveyard by this [[effect]] until the end of your opponent's next [[turn]].
+  | text           = Take the bottom 3 cards of your [[Main Deck|Deck]] and show them. You can [[send]] 1 [[monster]] among the shown cards to the [[Graveyard]]. [[Shuffle]] the other cards into the Deck. Then, if you sent a monster to the Graveyard, you can make the [[Attribute]] and [[Type]] of 1 [[face-up]] monster on your opponent's [[field]] become the Attribute and Type of the monster sent to the Graveyard by this [[effect]] until the end of your opponent's next [[turn]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/27PR-JP001; Rush Duel Promotion Pack 2027; Normal Parallel Rare
+  | action         = 
+  * Reveals from the bottom of the player's Deck
+  * Sends from your Deck to your Graveyard
+  * Changes the player's Deck order
+  | stat_change    = 
+  * Changes Attribute
+  * Changes Type
+  | misc           = Turn limited effects
   | database_id    = 
   }}

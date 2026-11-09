@@ -9,7 +9,9 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|絶火の祆威|ウィスプラート・マギストス}}
-  | romaji_name          = 
+  | base_romaji_name     = Zekka no Ken'i
+  | base_translated_name = Zoroastrian Might of Absolute Flame
+  | romaji_name          = Wisupurāto Magisutosu
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -30,7 +32,25 @@ wikitext: |-
   | sc_text              = 
   | jp_sets              = 
   CH03-JPP05; THE CHRONICLES DECK DX: Magistus; Super Rare, Secret Rare, Prismatic Secret Rare
+  | supports             = 
+  * Spellcaster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
   | archseries           = Magistus
   | supports_archetypes  = Magistus
+  | action               = 
+  * Equips monsters from the opponent's field to itself
+  * Grants effect to Equip Spell Card
+  * Activates from your Graveyard
+  * Returns from your Graveyard to your Deck
+  * Returns itself from Graveyard to Deck
+  | stat_change          = Equipped gains ATK
+  | m/s/t                = Treats monsters as Equip Cards
+  | misc                 = 
+  * Requires control of specific archetype
+  * Requires control of specific Type
+  * Only 1 effect once per turn
   | database_id          = 
   }}
