@@ -8,20 +8,24 @@ wikitext: |-
   | it_name              = 
   | pt_name              = 
   | es_name              = 
-  | ja_name              = ブルーアイズ・カオス・ＭＡＸＩＭＵＭ・ドラゴン
-  | romaji_name          = 
+  | ja_name              = ブルーアイズ・カオス・{{Ruby|ＭＡＸＩＭＵＭ|マキシマム}}・ドラゴン
+  | romaji_name          = Burūaizu Kaosu Makishimamu Doragon
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 
-  | image                = BlueEyesChaosMAXIMUMDragon-PASO-JP-OP.png
+  | image                = 
+  1; BlueEyesChaosMAXIMUMDragon-PASO-JP-OP.png
+  2; BlueEyesChaosMAXIMUMDragon-PASO-JP-OP-EA.png
+  | current_image        = 1
   | attribute            = DARK
   | types                = Dragon / Ritual / Effect
   | level                = 8
   | atk                  = 4000
   | def                  = 0
   | password             = 
-  | effect_types         = Summoning condition, Ignition, Condition, Continuous, Continuous
+  | ritualcard           = Chaos Form
+  | effect_types         = Summoning condition, Summoning condition, Ignition, Condition, Continuous, Continuous
   | text                 = You can [[Ritual Summon]] this card with "[[Chaos Form]]". Must be Ritual Summoned. You can [[banish]] this card from your [[hand]]; [[Add a card|add]] 1 "[[Neo Chaos Form]]" from your [[Main Deck|Deck]], [[GY]], or banishment to your hand. You can only use this [[effect]] of "Blue-Eyes Chaos MAXIMUM Dragon" once per turn. If your [[monster]] that mentions "[[Endless Darkness]]" [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent. Any battle damage your opponent takes from [[battle]]s involving this card is doubled.
   | fr_text              = 
   | de_text              = 
@@ -32,14 +36,27 @@ wikitext: |-
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  PASO-JP027; Pride and Soul; Ultra Rare, Prismatic Secret Rare
+  PASO-JP027; Pride and Soul; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | mentions             = 
   * Chaos Form
-  * Endless Darkness
   * Neo Chaos Form
+  * Endless Darkness
   | archseries           = 
   * Blue-Eyes
   * Chaos
   * Endless Darkness (series)
+  | action               = 
+  * Activates from your hand
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  * Adds from banishment to hand
+  | summoning            = Nomi
+  | attack               = Piercing
+  | banished             = Banishes itself from hand for cost
+  | life_points          = Increases battle damage
+  | misc                 = 
+  * Only once per turn
+  * Requires control of specific mention
+  * Mentions
   | database_id          = 
   }}

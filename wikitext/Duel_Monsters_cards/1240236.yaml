@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = パンデミック・インフェクション
-  | romaji_name          = 
+  | romaji_name          = Pandemikku Infekushon
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -19,7 +19,7 @@ wikitext: |-
   | property             = Normal
   | password             = 
   | effect_types         = Effect, Quick-like, Condition
-  | text                 = [[Target]] 1 [[monster]] in your [[field]] or [[GY]] that mentions "[[Endless Darkness]]"; you lose [[LP]] equal to its [[ATK]], and if you do, monsters your opponent [[control]]s lose an equal amount of ATK this turn. You can [[banish]] this card from your GY, then target 1 monster your opponent controls with 0 [[ATK]]; banish it. You can only use each effect of "Dimensional Ascension" once per turn.
+  | text                 = [[Target]] 1 [[monster]] in your [[field]] or [[GY]] that mentions "[[Endless Darkness]]"; you lose [[LP]] equal to its [[ATK]], and if you do, monsters your opponent [[control]]s lose an equal amount of ATK this turn. You can [[banish]] this card from your GY, then target 1 monster your opponent controls with 0 [[ATK]]; banish it. You can only use each effect of "Pandemic Infection" once per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -32,5 +32,15 @@ wikitext: |-
   PASO-JP071; Pride and Soul; 
   | mentions             = Endless Darkness
   | archseries           = Endless Darkness (series)
+  | action               = Activates from your Graveyard
+  | stat_change          = Your opponent's monsters lose ATK
+  | banished             = 
+  * Banishes itself from Graveyard for cost
+  * Banishes from your opponent's field
+  | life_points          = You lose Life Points
+  | misc                 = 
+  * Requires control of specific mention
+  * Mentions
+  * Only once per turn
   | database_id          = 
   }}

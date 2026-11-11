@@ -9,7 +9,7 @@ wikitext: |-
   | pt_name              = 
   | es_name              = 
   | ja_name              = {{Ruby|真青眼の超究極竜|ネオ・ブルーアイズ・ハイパー・アルティメットドラゴン}}
-  | romaji_name          = 
+  | romaji_name          = Neo Burūaizu Haipā Arutimetto Doragon
   | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
@@ -21,6 +21,8 @@ wikitext: |-
   | atk                  = 4500
   | def                  = 3800
   | password             = 
+  | fusion_material      = Blue-Eyes White Dragon
+  | materials            = "Blue-Eyes White Dragon" + 2 monsters that are "Blue-Eyes White Dragon" and/or mention "Endless Darkness"
   | effect_types         = Continuous, Condition, Ignition, Quick
   | text                 = "[[Blue-Eyes White Dragon]]" + 2 [[monsters]] that are "Blue-Eyes White Dragon" and/or mention "[[Endless Darkness]]"<br />Can make up to 3 [[attack]]s on monsters during each [[Battle Phase]]. You can only use each of the following effects of "Neo Blue-Eyes Hyper Ultimate Dragon" once per turn. During your [[Main Phase]]: You can [[Set]] 1 [[Spell]]/[[Trap]] that mentions "Endless Darkness" from your [[Main Deck|Deck]] or [[GY]]. When your opponent activates a [[monster effect]] on the [[field]] ([[Quick Effect]]): You can [[banish]] that monster.
   | fr_text              = 
@@ -32,12 +34,25 @@ wikitext: |-
   | ko_text              = 
   | sc_text              = 
   | jp_sets              = 
-  PASO-JP029; Pride and Soul; Ultra Rare
+  PASO-JP029; Pride and Soul; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | mentions             = 
   * Blue-Eyes White Dragon
   * Endless Darkness
   | archseries           = 
   * Blue-Eyes
   * Endless Darkness (series)
+  | action               = 
+  * Sets from your Deck
+  * Sets from your Graveyard
+  | summoning            = 
+  * 3 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  * Requires mention specific Fusion Materials
+  | attack               = Can make multiple attacks on monsters
+  | banished             = Banishes from your opponent's field
+  | misc                 = 
+  * Mentions
+  * Only once per turn
   | database_id          = 
   }}
