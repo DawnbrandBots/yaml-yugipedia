@@ -20,7 +20,7 @@ wikitext: |-
   | property            = Normal
   | password            = 
   | effect_types        = Effect, Trigger-like, Condition
-  | text                = Target up to 2 Spells/Traps on the field, including a card you control; destroy them, then if you destroyed a face-down card, you can send 1 "Unchained" monster from your Deck to the GY. If this card on the field is destroyed by an "Unchained" card's effect: You can Special Summon 1 Level 8 "Unchained" monster from your Deck, then you can shuffle 1 card from your hand and 1 from your opponent's GY into the Deck. You can only use each effect of "Conviction of the Unchained" once per turn.
+  | text                = [[Target]] up to 2 [[Spells]]/[[Traps]] on the [[field]], including a card you [[control]]; [[destroy]] them, then if you destroyed a [[face-down]] card, you can [[send]] 1 "[[Unchained]]" [[monster]] from your [[Main Deck|Deck]] to the [[GY]]. If this card on the [[field]] is destroyed by an "Unchained" card's effect: You can [[Special Summon]] 1 [[Level]] 8 "Unchained" monster from your Deck, then you can [[shuffle]] 1 card each from both your [[hand]] and your opponent's GY into the Deck. You can only use each effect of "Conviction of the Unchained" once per turn.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,5 +33,18 @@ wikitext: |-
   YO13-JP001; Yu-Gi-Oh! OCG Structures Volume 13 promotional card; Ultra Rare
   | archseries          = Unchained
   | supports_archetypes = Unchained
+  | anti-supports_archetypes = Unchained
+  | action              = 
+  * Sends from your Deck to your Graveyard
+  * Activates if destroyed by card effect
+  * Returns from your hand to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  | summoning           = Special Summons from your Deck
+  | misc                = Only once per turn
   | database_id         = 
   }}
