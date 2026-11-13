@@ -15,8 +15,8 @@ wikitext: |-
   | image                 = 
   1;   ToonDarkMagicianGirl-RV01-JP-C.png;    ToonDarkMagicianGirl-MADU-JP-VG-artwork.png
   1.1; ToonDarkMagicianGirl-LDS1-EN-C-1E.png; ToonDarkMagicianGirl-MADU-EN-VG-artwork.png
-  2;   ToonDarkMagicianGirl-RV01-JP-ScR.png
-  | current_image         = 1.1
+  2;   ToonDarkMagicianGirl-MAMS-EN-UR-1E.png
+  | current_image         = 2
   | attribute             = DARK
   | types                 = Spellcaster / Toon / Effect
   | level                 = 6
@@ -24,7 +24,7 @@ wikitext: |-
   | def                   = 1700
   | password              = 90960358
   | effect_types          = Summoning condition, Summoning condition, Continuous, Continuous, Continuous
-  | text                  = Cannot be [[Normal Summon]]ed/[[Normal Set|Set]]. Must first be [[Special Summon]]ed (from your [[hand]]) by [[Tributing]] 1 [[monster]], while you [[control]] "[[Toon World]]". If "Toon World" on the [[field]] is [[destroy]]ed, destroy this card. Can [[attack]] your opponent [[Direct attack|directly]], unless they control a [[Toon monster]], in which case this card must [[target]] a Toon monster for its attacks. Gains 300 [[ATK]] for every "[[Dark Magician]]" or "[[Magician of Black Chaos]]" in either player's [[GY]].
+  | text                  = Cannot be [[Normal Summon]]ed/[[Normal Set|Set]]. Must first be [[Special Summon]]ed (from your [[hand]]) by [[Tributing]] 1 [[monster]], while you [[control]] "[[Toon World]]". If "Toon World" on the [[field]] is [[destroy]]ed, destroy this card. Can [[attack]] your opponent [[Direct attack|directly]], unless they control a [[Toon monster]], in which case this card must [[target]] a Toon monster for its attacks. Gains 300 [[ATK]] for every "[[Dark Magician]]" or "[[Magician of Black Chaos]]" in the [[GY]]s.
   | fr_text               = Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en Sacrifiant 1 monstre, tant que vous contrôlez "Monde des Toons". Si "Monde des Toons" sur le Terrain est détruit, détruisez cette carte. Peut attaquer directement votre adversaire, sauf s'il contrôle un monstre Toon, auquel cas cette carte doit cibler un monstre Toon avec ses attaques. Gagne 300 ATK pour chaque "Magicien Sombre" ou "Magicien du Chaos Sombre" dans les Cimetières.
   | de_text               = Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 Monster als Tribut anbietest, solange du „Toon-Welt“ kontrollierst. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Kann deinen Gegner direkt angreifen, es sei denn, er kontrolliert ein Toon-Monster, in welchem Fall diese Karte ein Toon-Monster als Ziel für ihre Angriffe wählen muss. Erhält für jeden „Dunkler Magier“ und „Magier des Schwarzen Chaos“ in den Friedhöfen 300 ATK.
   | it_text               = Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) offrendo come Tributo 1 mostro, mentre controlli "Mondo Toon". Se "Mondo Toon" sul Terreno viene distrutto, distruggi questa carta. Può attaccare il tuo avversario direttamente, a meno che lui controlli un mostro Toon, nel qual caso questa carta deve scegliere come bersaglio un mostro Toon per i suoi attacchi. Guadagna 300 ATK per ogni "Mago Nero" e "Mago del Chaos Oscuro" nei Cimiteri.
@@ -52,6 +52,7 @@ wikitext: |-
   DPBC-FR044; Duelist Pack: Battle City; Common
   DUPO-FR041; Duel Power; Ultra Rare
   LDS1-FR057; Legendary Duelists: Season 1; Common
+  MAMS-FR121; Magnificent Maestros; Ultra Rare, Starlight Rare
   | de_sets               = 
   PT02-DE002; Pharaoh Tour 2006 Stop participation card; Common
   GLD4-DE015; Gold Series 4: Pyramids Edition; Common
@@ -59,6 +60,7 @@ wikitext: |-
   DPBC-DE044; Duelist Pack: Battle City; Common
   DUPO-DE041; Duel Power; Ultra Rare
   LDS1-DE057; Legendary Duelists: Season 1; Common
+  MAMS-DE121; Magnificent Maestros; Ultra Rare, Starlight Rare
   | it_sets               = 
   PT02-IT002; Pharaoh Tour 2006 Stop participation card; Common
   GLD4-IT015; Gold Series 4: Pyramids Edition; Common
@@ -66,16 +68,19 @@ wikitext: |-
   DPBC-IT044; Duelist Pack: Battle City; Common
   DUPO-IT041; Duel Power; Ultra Rare
   LDS1-IT057; Legendary Duelists: Season 1; Common
+  MAMS-IT121; Magnificent Maestros; Ultra Rare, Starlight Rare
   | pt_sets               = 
   DPBC-PT044; Duelist Pack: Battle City; Common
   DUPO-PT041; Duel Power; Ultra Rare
   LDS1-PT057; Legendary Duelists: Season 1; Common
+  MAMS-PT121; Magnificent Maestros; Ultra Rare, Starlight Rare
   | sp_sets               = 
   GLD4-SP015; Gold Series 4: Pyramids Edition; Common
   LCYW-SP111; Legendary Collection 3: Yugi's World Mega Pack; Rare
   DPBC-SP044; Duelist Pack: Battle City; Common
   DUPO-SP041; Duel Power; Ultra Rare
   LDS1-SP057; Legendary Duelists: Season 1; Common
+  MAMS-SP121; Magnificent Maestros; Ultra Rare, Starlight Rare
   | jp_sets               = 
   G6-02; Yu-Gi-Oh! Duel Monsters 6: Expert 2 promotional cards; Ultra Rare, Secret Rare
   BE02-JP207; Beginner's Edition 2 (2011); Secret Rare
