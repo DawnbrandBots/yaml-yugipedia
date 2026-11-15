@@ -4,11 +4,12 @@ wikitext: |-
   | fr_name               = Combativité Amazonesse
   | de_name               = Amazonischer Kampfgeist
   | it_name               = Spirito Combattente Amazoness
-  | ko_name               = 아마조네스의 투지
   | pt_name               = Espírito Lutador de Amazoness
   | es_name               = Espíritu de Lucha Amazoness
   | ja_name               = アマゾネスの{{Ruby|闘|とう}}{{Ruby|志|し}}
   | romaji_name           = Amazonesu no Tōshi
+  | ko_name               = 아마조네스의 투지
+  | sc_name               = 亚马逊的斗志
   | image                 = AmazonessFightingSpirit-SBC2-NA-C-1E.png
   | card_type             = Spell
   | property              = Continuous
@@ -22,6 +23,7 @@ wikitext: |-
   | es_text               = Si tu monstruo "Amazoness" ataca un monstruo con mayor ATK, el monstruo atacante gana 1000 ATK sólo durante el cálculo de daño.
   | ja_text               = 「アマゾネス」と名のついたモンスターが、その攻撃力よりも高い攻撃力を持つモンスターを攻撃する場合、ダメージ計算時のみ攻撃モンスターの攻撃力は１０００ポイントアップする。
   | ko_text               = "아마조네스" 라는 이름이 붙은 몬스터가 그 공격력보다도 높은 공격력을 가진 몬스터를 공격할 경우, 데미지 계산시에만 공격 몬스터의 공격력은 1000포인트 올린다.
+  | sc_text               = ①：自己的“亚马逊”怪兽的攻击力仅在攻击高于自身攻击力的怪兽的伤害计算时上升1000。
   | en_sets               = 
   DREV-EN054; Duelist Revolution; Common
   SGX3-END14; Speed Duel GX: Duelists of Shadows; Common
@@ -45,6 +47,8 @@ wikitext: |-
   DREV-JP054; Duelist Revolution; Common
   | kr_sets               = 
   DREV-KR054; Duelist Revolution; Common
+  | sc_sets               = 
+  26BZ-SC326; Immortal Phoenix Complement Pack; Common
   | archseries            = Amazoness
   | supports_archetypes   = Amazoness
   | stat_change           = Your monsters gain ATK
