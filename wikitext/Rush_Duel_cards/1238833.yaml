@@ -5,11 +5,21 @@ wikitext: |-
   | image          = EnemyController-RDSJMP-JP-OP.png
   | card_type      = Spell
   | property       = Normal
-  | requirement    = 
-  | text           = 
+  | effect_types   = Multi-Choice
+  | requirement    = During a [[turn]] you have not [[activate]]d "Enemy Controller".
+  | text           = ●Change the [[battle position]] of 1 [[face-up]] [[monster]] on your opponent's [[field]]. ●[[Send]] 1 monster from your field to the [[Graveyard]]. Then, take [[control]] of 1 face-up monster on your opponent's field that is not in [[Maximum Mode]] until the [[End Phase]]. This turn, that monster cannot [[attack]].
   | ja_requirement = 
   | ja_text        = 
   | jp_sets        = 
   RD/SJMP-JP070; Saikyō Jump January 2027 promotional card; Normal Parallel Rare
+  | mentions       = Enemy Controller (Rush Duel)
+  | action         = 
+  * Changes battle positions
+  * Sends from your field to your Graveyard
+  * Takes control of an opponent's monster
+  | attack         = Prevents your monsters from attacking
+  | misc           = 
+  * Only once per turn
+  * Variable effects
   | database_id    = 
   }}
