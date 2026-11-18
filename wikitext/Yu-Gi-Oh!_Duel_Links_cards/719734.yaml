@@ -1,15 +1,26 @@
 title: Stygian Street Patrol (Duel Links)
 wikitext: |-
   {{Duel Links card
-  | image        = StygianStreetPatrol-DULI-EN-VG.png
-  | ja_image     = StygianStreetPatrol-DULI-JP-VG.png
-  | attribute    = DARK
-  | types        = Fiend / Effect
-  | atk          = 1600
-  | def          = 1200
-  | level        = 4
-  | rarity       = ???
-  | effect_types = Trigger, Ignition
-  | text         = If this card [[destroy]]s a [[Monster Card|monster]] [[Destroyed by battle|by battle]] and [[send]]s it to the Graveyard: Inflict [[Effect damage|damage]] to your opponent equal to the original [[Level]] of that monster in the Graveyard x 100. You can [[banish]] this card from your Graveyard; [[Special Summon]] 1 [[Fiend]]-Type monster with 2000 or less [[ATK]] from your [[hand]].
-  | ja_text      = ①：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々のレベル×１００ダメージを相手に与える。②：墓地のこのカードを除外して発動できる。手札から攻撃力２０００以下の悪魔族モンスター１体を特殊召喚する。
+  | fr_name          = Patrouilleur Stygien
+  | de_name          = Stygianische Straßenpatrouille
+  | it_name          = Pattuglia Stradale Stygian
+  | pt_name          = Patrulha de Rua de Estígia
+  | es_name          = Patrulla Callejera de Estigia
+  | ko_name          = 헬웨이 패트롤
+  | image            = StygianStreetPatrol-DULI-EN-VG.png
+  | ja_image         = StygianStreetPatrol-DULI-JP-VG.png
+  | attribute        = DARK
+  | types            = Fiend / Effect
+  | atk              = 1600
+  | def              = 1200
+  | level            = 4
+  | rarity           = SR
+  | effect_types     = Trigger, Ignition
+  | different_effect = true
+  | text             = If this card [[destroy]]s a [[Monster Card|monster]] [[Destroyed by battle|by battle]] and [[send]]s it to the Graveyard: Inflict [[Effect damage|damage]] to your opponent equal to the original [[Level]] of that monster in the Graveyard x 50. You can [[banish]] this card from your Graveyard; [[Special Summon]] 1 [[Fiend]] monster with 2000 or less [[ATK]] from your [[hand]].
+  | fr_text          = Si cette carte détruit un monstre au combat et l'envoie au Cimetière : infligez des dommages à votre adversaire égaux au Niveau d'origine du monstre dans le Cimetière x 50. Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre Démon avec max. 2000 ATK depuis votre main.
+  | releases         = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=event|Duel Domination Get Ready for War! The Enforcers!}}
+  {{Duel Links release table/footer}}
   }}
