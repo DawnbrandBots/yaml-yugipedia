@@ -23,8 +23,23 @@ wikitext: |-
   | jp_sets             = 
   27PP-JP006; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
   | mentions            = Cyber Emergency
+  | supports            = Machine
   | archseries          = Cyber
   | supports_archetypes = Cyber
-  | misc                = Special Summon Monster
+  | action              = 
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates while banished
+  * Returns from your banishment to your Deck
+  | summoning           = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Special Summon-only monster
+  * Special Summons itself from your hand
+  | misc                = 
+  * Special Summon Monster
+  * Requires control of specific Type
+  * Requires control of specific archetype
+  * Only once per turn
   | database_id         = 
   }}
