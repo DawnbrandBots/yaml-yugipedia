@@ -24,7 +24,7 @@ wikitext: |-
   | password            = 
   | materials           = 1 Fusion, Synchro, Xyz, or Link Monster + 1 Spellcaster-Type monster
   | effect_types        = Condition, Trigger, Ignition, Condition
-  | text                = 1 Fusion, Synchro, Xyz, or Link Monster + 1 Spellcaster monster<br />(This card is always treated as an "Invoked" and "Magistus" card.)<br />If this card is Fusion Summoned: You can activate this effect; until the end of this turn, all face-up monsters your opponent currently controls lose 1800 ATK, also negate their effects. You can banish this card from your GY, then target 1 "Magistus" or "Aleister" monster in your GY; Special Summon it. You can only use each effect of "Ancient Dragon Priestess" once per turn.
+  | text                = 1 [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]] + 1 [[Spellcaster]] [[monster]]<br />(This card is always treated as an "[[Invoked]]" and "[[Magistus]]" card.)<br />If this card is [[Fusion Summon]]ed: You can [[activate]] this [[effect]]; until the end of this [[turn]], all [[face-up]] monsters your opponent currently [[control]]s lose 1800 [[ATK]], also [[negate]] their effects. You can [[banish]] this card from your [[GY]], then [[target]] 1 "Magistus" or "[[Aleister]]" monster in your GY; [[Special Summon]] it. You can only use each effect of "Ancient Dragon Priestess" [[once per turn]].
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -35,11 +35,34 @@ wikitext: |-
   | sc_text             = 
   | jp_sets             = 
   27PP-JP018; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports            = 
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
+  * Spellcaster
   | archseries          = 
   * Invoked
   * Magistus
   | supports_archetypes = 
   * Aleister
   * Magistus
+  | action              = 
+  * Activates upon Fusion Summon
+  * Activates from your Graveyard
+  | stat_change         = Your opponent's monsters lose ATK
+  | m/s/t               = Negates the effects of your opponent's Effect Monsters
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires Fusion Monsters as Fusion Materials
+  * Requires Synchro Monsters as Fusion Materials
+  * Requires Xyz Monsters as Fusion Materials
+  * Requires Link Monsters as Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Special Summons from your Graveyard
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Archetype condition
+  * Only once per turn
   | database_id         = 
   }}

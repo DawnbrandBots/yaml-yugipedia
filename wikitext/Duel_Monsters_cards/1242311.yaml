@@ -19,6 +19,18 @@ wikitext: |-
   | text         = Your [[WATER]] monsters with 3000 or more [[ATK]] can make up to 2 [[attack]]s on [[monsters]] during each [[Battle Phase]]. You can only use each of the following [[effect]]s of "White Nightmare" [[once per turn]]. You can [[send]] any number of [[WATER]] monsters from your [[hand]] to the [[GY]]; WATER monsters you control gain 500 ATK for each monster sent to the GY this way for the rest of this [[turn]]. If this card is sent to the GY: You can [[Special Summon]] 1 WATER monster from your GY in [[Defense Position]], and if you do, it is treated as a Tuner.
   | jp_sets      = 
   27PP-JP016; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports     = WATER
   | archseries   = White
+  | action       = 
+  * Sends from hand to Graveyard for cost
+  * Activates if sent to the Graveyard
+  | stat_change  = 
+  * Your monsters gain ATK
+  * Treats monsters as Tuner monsters
+  | summoning    = Special Summons from your Graveyard
+  | attack       = Allows multiple attacks on monsters
+  | misc         = 
+  * Only once per turn
+  * Requires control of specific Attribute
   | database_id  = 
   }}

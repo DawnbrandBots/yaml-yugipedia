@@ -22,7 +22,22 @@ wikitext: |-
   | text                = Gains 800 [[DEF]] while you have no cards in your [[hand]]. You can only use each of the following effects of "Infernity Shield Bearer" once per turn. If this card is [[Normal Summon]]ed: You can [[Special Summon]] 1 "[[Infernity]]" monster with 0 [[DEF]] from your hand or [[GY]], also you cannot Special Summon from the [[Extra Deck]] for the rest of this turn, except [[Synchro Monster]]s. You can [[banish]] this card from your GY; [[Add a card|add]] 1 [[Level]] 5 or higher "Infernity" monster from your [[Main Deck|Deck]] or GY to your hand.
   | jp_sets             = 
   27PP-JP009; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports            = Synchro Monster
   | archseries          = Infernity
   | supports_archetypes = Infernity
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  * Adds from Graveyard to hand
+  | stat_change         = This card gains DEF
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires having no cards in hand
+  * Only once per turn
   | database_id         = 
   }}

@@ -16,9 +16,20 @@ wikitext: |-
   | property              = Normal
   | password              = 
   | effect_types          = Effect, Trigger-like, Condition
-  | text                  = Special Summon up to 2 Level 4 or lower WATER monsters from your hand, then if you control 2 or more monsters with the same name, you can treat 1 of them as a Tuner. If a WATER monster(s) is Special Summoned from your GY while this card is in your GY, and you have another monster in your field or GY with the same name as 1 of them: You can banish this card from your GY; draw 2 cards. You can only use each effect of "White Prosperity" once per turn.
+  | text                  = [[Special Summon]] up to 2 [[Level]] 4 or lower [[WATER]] [[monster]]s from your [[hand]], then if you [[control]] 2 or more monsters with the same name, you can treat 1 of them as a [[Tuner]]. If a WATER monster(s) is Special Summoned from your [[GY]] while this card is in your GY, and you have another monster in your [[field]] or GY with the same name as 1 of them: You can [[banish]] this card from your GY; [[draw]] 2 cards. You can only use each [[effect]] of "White Prosperity" [[once per turn]].
   | jp_sets               = 
   27PP-JP015; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports              = WATER
   | archseries            = White
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  * You draw cards
+  | stat_change           = Treats monsters as Tuner monsters
+  | summoning             = Special Summons from your hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Attribute
+  * Only once per turn
   | database_id           = 
   }}

@@ -23,7 +23,7 @@ wikitext: |-
   | def                   = 2100
   | password              = 
   | effect_types          = Ignition, Ignition, Condition
-  | text                  = If this card is in your hand and you have 3 or more Spells with different names in your GY: You can Special Summon this card. You can target 1 "Spellbook" card and 1 Spell in your GY; banish 1 of them, and if you do, add the other to your hand, then if it is a "Spellbook" card, you can destroy 1 card on the field. You can only use each effect of "Protector of the Grand Tower" once per turn.
+  | text                  = If this card is in your [[hand]] and you have 3 or more [[Spell]]s with different names in your [[GY]]: You can [[Special Summon]] this card. You can [[target]] 1 "[[Spellbook]]" card and 1 Spell in your GY; [[banish]] 1 of them, and if you do, [[add]] the other to your hand, then if it is a "Spellbook" card, you can [[destroy]] 1 card on the [[field]]. You can only use each [[effect]] of "Protector of the Grand Tower" [[once per turn]].
   | fr_text               = 
   | de_text               = 
   | it_text               = 
@@ -36,5 +36,15 @@ wikitext: |-
   27PP-JP020; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
   | supports_archetypes   = Spellbook
   | related_to_archseries = Prophecy
+  | action                = 
+  * Activates from your hand
+  * Adds from Graveyard to hand
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes from your Graveyard
+  | misc                  = Only once per turn
   | database_id           = 
   }}

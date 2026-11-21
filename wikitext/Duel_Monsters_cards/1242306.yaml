@@ -22,5 +22,21 @@ wikitext: |-
   27PP-JP011; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
   | archseries          = Void
   | supports_archetypes = Void Ogre Dragon (archetype)
+  | action              = 
+  * Skips Draw Phase
+  * Activates upon attack declaration
+  * Activates from your Graveyard
+  | summoning           = 
+  * Special Summons from your Extra Deck
+  * Treats Special Summon as Synchro Summon
+  | attack              = Negates attacks
+  | banished            = Banishes itself from Graveyard for cost
+  | life_points         = 
+  * Prevents battle damage
+  * Prevents effect damage
+  * Damages you
+  | misc                = 
+  * Requires specific LP
+  * Requires having no cards in hand
   | database_id         = 
   }}

@@ -22,7 +22,28 @@ wikitext: |-
   | text                = If this card is [[Normal Summon]]ed: You can [[Special Summon]] 1 [[Level]] 4 [[Insect]] [[monster]] from your [[hand]] or [[GY]]. You can [[banish]] this card from your GY, then [[target]] 1 Insect [[Xyz Monster]] you [[control]]; [[detach]] 1 material from that monster you control, and if you do, Special Summon from your [[Extra Deck]], 1 "[[Number]]" monster that is 1 [[Rank]] higher than that monster, by using it as material (this is treated as an [[Xyz Summon]], [[transfer]] its materials), also you cannot Special Summon for the rest of this [[turn]]. You can only use each effect of "Rainbow Spider" once per turn.
   | jp_sets             = 
   27PP-JP012; Premium Pack 2027; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports            = 
+  * Insect
+  * Xyz Monster
   | archseries          = Spider
   | supports_archetypes = Number
+  | action              = 
+  * Activates upon Normal Summon
+  * Activates from your Graveyard
+  * Detaches Xyz Materials for effect
+  * Transfer
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  * Special Summons from your Extra Deck
+  * Rank-Up by 1 Rank
+  * Treats Special Summon as Xyz Summon
+  * Performs Xyz Evolution
+  * Prevents Special Summons
+  | banished            = Banishes itself from Graveyard for cost
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
   | database_id         = 
   }}
