@@ -1,7 +1,5 @@
 title: Power of the Duelist (card)
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -10,7 +8,6 @@ wikitext: |-
   | es_name              = 
   | ja_name              = パワー・オブ・ザ・デュエリスト
   | romaji_name          = Pawā Obu Za Dyuerisuto
-  | translated_name      = 
   | ko_name              = 
   | ko_rr_name           = 
   | sc_name              = 决斗者之力
@@ -21,8 +18,8 @@ wikitext: |-
   | card_type            = Spell
   | property             = Quick-Play
   | password             = 71599345
-  | effect_types         = Effect, Condition
-  | text                 = [[Declare]] 2, 3, or 4 [[Attribute]]s; apply this effect based on the number declared, also during the [[End Phase]] of this [[turn]], you must [[send]] all cards you [[control]] to the [[GY]], unless you have [[activate]]d [[effect]]s of [[monster]]s of all declared Attributes in your [[field]] and/or [[GY]] this turn.<br />● 2: [[Target]] 1 monster on the field; [[banish]] it.<br />● 3: [[Draw]] 2 cards, then [[discard]] 1 card.<br />● 4: [[Negate]] the effects of 2 [[face-up]] cards on the field.<br />You can only activate 1 "Power of the Duelist" per turn.
+  | effect_types         = Effect, Condition, Lingering
+  | text                 = [[Declare]] 2, 3, or 4 [[Attribute]]s; apply the appropriate effects.<br />● 2: [[Target]] 1 monster on the field; [[banish]] it.<br />● 3: [[Draw]] 2 cards, then [[discard]] 1 card.<br />● 4: [[Negate]] the effects of 2 [[face-up]] cards on the field.<br />You can only activate 1 "Power of the Duelist" per turn. During the [[End Phase]] of this [[turn]], check all [[monster effect]]s you [[activate]]d on the [[field]] or in the [[GY]] this turn. Unless they included monsters from every Attribute you declared when activating this card, you must [[send]] all cards you [[control]] to the GY.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -31,6 +28,18 @@ wikitext: |-
   | ja_text              = このカード名のカードは１ターンに１枚しか発動できない。①：属性を以下の数だけ宣言して発動できる。その効果を適用する。このターンのエンドフェイズに、宣言したそれぞれの属性のモンスターの効果を自分がこのターンにフィールド・墓地で発動している場合を除き、自分は自分フィールドのカードを全て墓地へ送らなければならない。<br />●２：フィールドのモンスター１体を対象として発動できる。それを除外する。<br />●３：自分は２枚ドローする。その後、自分の手札を１枚選んで捨てる。<br />●４：フィールドの表側表示カード２枚の効果を無効にする。
   | ko_text              = 
   | sc_text              = 此卡名的卡1回合仅可发动1张。①：宣言以下数量的属性可以发动。适用对应效果。在此回合的结束阶段，如果自己在此回合未于场上・墓地发动过所宣言的各属性的怪兽的效果，则自己必须将自己场上的卡全部送至墓地。<br />●2：以场上的1只怪兽为对象可以发动。将其除外。<br />●3：自己抽2张。然后，挑选自己的1张手牌舍弃。<br />●4：将场上的2张表侧表示卡的效果无效。
+  | en_sets              = 
+  IMPH-EN067; Immortal Phoenix; Ultra Rare, Starlight Rare
+  | fr_sets              = 
+  IMPH-FR067; Immortal Phoenix; Ultra Rare, Starlight Rare
+  | de_sets              = 
+  IMPH-DE067; Immortal Phoenix; Ultra Rare, Starlight Rare
+  | it_sets              = 
+  IMPH-IT067; Immortal Phoenix; Ultra Rare, Starlight Rare
+  | pt_sets              = 
+  IMPH-PT067; Immortal Phoenix; Ultra Rare, Starlight Rare
+  | sp_sets              = 
+  IMPH-SP067; Immortal Phoenix; Ultra Rare, Starlight Rare
   | jp_sets              = 
   IMPH-JP067; Immortal Phoenix; Ultimate Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets              = 
