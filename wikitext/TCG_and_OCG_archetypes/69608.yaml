@@ -166,7 +166,6 @@ wikitext: |-
   ! Monster
   ! Second [[Fusion Material]]
   |-
-  |-
   | [[Armed Neos]]
   | 1 "[[Armed Dragon]]" monster
   |-
@@ -189,7 +188,10 @@ wikitext: |-
   |-
   | [[Elemental HERO Aqua Neos|Aqua Neos]]
   | [[Neo-Spacian Aqua Dolphin|Aqua Dolphin]]
-  | [[WATER]] [[File:WATER.svg|24px]]
+  | rowspan=2 | [[WATER]] [[File:WATER.svg|24px]]
+  |-
+  | [[Elemental HERO Marine Neos|Marine Neos]]
+  | [[Neo-Spacian Marine Dolphin|Marine Dolphin]]
   |-
   | [[Elemental HERO Dark Neos|Dark Neos]]
   | [[Neo-Spacian Dark Panther|Dark Panther]]
@@ -208,8 +210,6 @@ wikitext: |-
   | [[EARTH]] [[File:EARTH.svg|24px]]
   |}
 
-  Additionally, there is also a [[Contact Fusion]] of "[[Elemental HERO Neos]]" with "[[Neo-Spacian Marine Dolphin]]" (the [[NEX|extended]] form of "[[Neo-Spacian Aqua Dolphin]]"): "[[Elemental HERO Marine Neos]]".
-
   === Triple Contact Fusion ===
   {| class="wikitable" style="text-align:center"
   ! [[Elemental HERO]]
@@ -225,7 +225,7 @@ wikitext: |-
   | [[FIRE]] + [[EARTH]]
   |-
   | [[Elemental HERO Nebula Neos|Nebula Neos]]
-  | "[[Neo-Spacian Grand Mole|Grand Mole]]" + "[[Neo-Spacian Dark Panther|Dark Panther]]"
+  | "Grand Mole" + "Dark Panther"
   | EARTH + DARK
   |-
   | [[Elemental HERO Storm Neos|Storm Neos]]
