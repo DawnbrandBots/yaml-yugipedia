@@ -1,7 +1,5 @@
 title: Zenet Cataract
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name              = 
   | de_name              = 
@@ -22,7 +20,7 @@ wikitext: |-
   | property             = Normal
   | password             = 12555008
   | effect_types         = Effect, Quick-like, Condition
-  | text                 = Choose opponent's [[Main Monster Zone]]s equal to the number of [[Normal Monster]]s and "[[Zenet]]" [[Ritual Monster]]s you [[control]]; [[negate]] the first [[monster effect]] activated in each of those zones that [[resolve]]s this [[turn]]. If the total [[ATK]] of all Normal Monster Cards you control is more than 3000: You can [[banish]] this card from your [[GY]], then [[target]] 1 monster your opponent controls; [[send]] it to the GY. You can only use each effect of "Zenet Cataract" once per turn.
+  | text                 = Choose a number of your opponent's [[Main Monster Zone]]s equal to the number of [[Normal Monster]]s and "[[Zenet]]" [[Ritual Monster]]s you [[control]]; this [[turn]], the first activated [[monster effect]] in each of those zones is [[negate]]d. If the total [[ATK]] of all Normal Monster Cards you control is more than 3000: You can [[banish]] this card from your [[GY]], then [[target]] 1 monster your opponent controls; [[send]] it to the GY. You can only use each effect of "Zenet Cataract" once per turn.
   | fr_text              = 
   | de_text              = 
   | it_text              = 
@@ -31,6 +29,18 @@ wikitext: |-
   | ja_text              = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの通常モンスター及び「セネト」儀式モンスターの数だけ、相手のメインモンスターゾーンを指定して発動できる。このターン中、指定したゾーンでそれぞれ１度だけ、発動したモンスターの効果は無効化される。②：自分フィールドの通常モンスターカードの攻撃力の合計が３０００より高い場合、墓地のこのカードを除外し、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを墓地へ送る。
   | ko_text              = 
   | sc_text              = 此卡名的①②效果1回合仅可各使用1次。①：依自己场上的通常怪兽及“塞尼特”仪式怪兽的数量，指定对手的主要怪兽区域可以发动。此回合中，在所指定的区域发动的怪兽效果各仅有1次将无效化。②：自己场上的通常怪兽卡的攻击力合计高于3000的情况下，将墓地的此卡除外，以对手场上的1只怪兽为对象可以发动。将该怪兽送至墓地。
+  | en_sets              = 
+  GLVI-EN010; Glorious Victors; Rare
+  | fr_sets              = 
+  GLVI-FR010; Glorious Victors; Rare
+  | de_sets              = 
+  GLVI-DE010; Glorious Victors; Rare
+  | it_sets              = 
+  GLVI-IT010; Glorious Victors; Rare
+  | pt_sets              = 
+  GLVI-PT010; Glorious Victors; Rare
+  | sp_sets              = 
+  GLVI-SP010; Glorious Victors; Rare
   | jp_sets              = 
   DBGV-JP010; Deck-Build Pack: Glorious Victors; Common, Normal Parallel Rare
   | sc_sets              = 

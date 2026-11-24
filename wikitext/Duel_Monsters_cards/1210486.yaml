@@ -1,7 +1,5 @@
-title: Trirealm Rift Judgment
+title: Trirealm Rift Verdict
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -10,16 +8,16 @@ wikitext: |-
   | es_name             = 
   | ja_name             = {{Ruby|異解△|イカイ}}{{Ruby|審|シン}}{{Ruby|判|パン}}
   | romaji_name         = Ikai Shinpan
-  | translated_name     = 
+  | translated_name     = Ikai△ Verdict
   | ko_name             = 
   | ko_rr_name          = 
   | sc_name             = 异解△审判
-  | image               = TrirealmRiftJudgment-DBGV-JP-C.png
+  | image               = TrirealmRiftVerdict-DBGV-JP-C.png
   | card_type           = Trap
   | property            = Continuous
   | password            = 65195679
   | effect_types        = Trigger-like, Quick-like
-  | text                = If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s) (except during the [[Damage Step]]): You can [[target]] 1 of them; choose 1 of your [[face-down]] [[banish]]ed "[[Trirealm Rift]]" [[monster]]s with the same [[Attribute]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it, also for the rest of this [[turn]], you cannot choose the same [[Attribute]] again with this [[effect]] of "Trirealm Rift Judgment", and you cannot [[activate]] cards or effects, except "Trirealm Rift" cards or effects. Once per [[battle]], during [[damage calculation]], if your "Trirealm Rift" monster battles an opponent's monster and you have no cards in your [[Main Deck|Deck]]: You can make that opponent's monster's [[ATK]] become 0.
+  | text                = If your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[monster]](s) (except during the [[Damage Step]]): You can [[target]] 1 of them; choose 1 of your [[face-down]] [[banish]]ed "[[Trirealm Rift]]" [[monster]]s with the same [[Attribute]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it (you cannot choose monsters with that same [[Attribute]] by this [[effect]] of "Trirealm Rift Verdict" again this [[turn]]), also you cannot [[activate]] non-"Trirealm Rift" cards or effects for the rest of this turn. While you have no cards in your [[Main Deck|Deck]], once per [[battle]], during [[damage calculation]], if your "Trirealm Rift" monster battles an opponent's monster: You can change the [[ATK]] of that opponent's monster to 0.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -28,6 +26,18 @@ wikitext: |-
   | ja_text             = ①：相手がモンスターを召喚・特殊召喚した場合、その内の１体を対象として発動できる。そのモンスターと同じ属性を持つ自分の除外状態（裏側）の「異解△」モンスター１体を選び、手札に加えるか特殊召喚する（このターン、このカード名のこの効果で同じ属性のモンスターを選べない）。このターン、自分は「異解△」カード以外のカードの効果を発動できない。②：自分のデッキの枚数が０枚の場合、自分の「異解△」モンスターが相手モンスターと戦闘を行うダメージ計算時に１度、発動できる。その相手モンスターの攻撃力を０にする。
   | ko_text             = 
   | sc_text             = ①：对手将怪兽召唤・特殊召唤的情况下，以其中1只为对象可以发动。挑选自己除外状态（里侧）的、与该怪兽相同属性的1只“异解△”怪兽，加入手牌或特殊召唤（此回合，不可以此卡名的此效果挑选相同属性的怪兽）。此回合，自己不可发动“异解△”卡以外的卡的效果。②：自己牌组的张数为0张的情况下，每次自己的“异解△”怪兽与对手怪兽进行战斗的伤害计算时可以发动1次。将该对手怪兽的攻击力改成0。
+  | en_sets             = 
+  GLVI-EN041; Glorious Victors; Rare, Super Rare
+  | fr_sets             = 
+  GLVI-FR041; Glorious Victors; Rare, Super Rare
+  | de_sets             = 
+  GLVI-DE041; Glorious Victors; Rare, Super Rare
+  | it_sets             = 
+  GLVI-IT041; Glorious Victors; Rare, Super Rare
+  | pt_sets             = 
+  GLVI-PT041; Glorious Victors; Rare, Super Rare
+  | sp_sets             = 
+  GLVI-SP041; Glorious Victors; Rare, Super Rare
   | jp_sets             = 
   DBGV-JP041; Deck-Build Pack: Glorious Victors; Common, Normal Parallel Rare
   | sc_sets             = 

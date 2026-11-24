@@ -1,7 +1,5 @@
 title: Cielo, the Night Sky of Raise Moon - No More Bets!
 wikitext: |-
-  {{Unofficial name|English}}
-  {{Unofficial lore|English}}
   {{CardTable2
   | fr_name             = 
   | de_name             = 
@@ -23,8 +21,8 @@ wikitext: |-
   | def                 = 2100
   | password            = 73090586
   | materials           = 2 Level 7 "Raise Moon" monsters
-  | effect_types        = Condition, Trigger, Condition, Continuous, Continuous, Quick
-  | text                = 2 [[Level]] 7 "[[Raise Moon]]" monsters<br />Cannot be used as [[material]] for a [[Fusion Summon|Fusion]], [[Xyz Summon|Xyz]], or [[Link Summon]]. If this card in your [[possess]]ion is sent to your [[GY]] by an opponent's card: You can [[Draw a card|draw]] 1 card. Gains these [[effect]]s while in the [[Extra Monster Zone]].<br />● [[Unaffected]] by other cards' effects.<br />● When a card or effect [[activate]]d by your opponent [[resolve]]s that includes an effect that adds a card(s) from the [[Main Deck|Deck]] to the hand, you can make that effect become "Draw 1 card".<br />● [[Once per turn]] ([[Quick Effect]]): You can [[detach]] 1 material from this card; draw 1 card.
+  | effect_types        = Condition, Condition, Continuous, Continuous, Quick, Trigger
+  | text                = 2 [[Level]] 7 "[[Raise Moon]]" monsters<br />Cannot be used as [[material]] for a [[Fusion Summon|Fusion]], [[Xyz Summon|Xyz]], or [[Link Summon]]. Gains these [[effect]]s while in the [[Extra Monster Zone]].<br />● [[Unaffected]] by other cards' effects.<br />● When your opponent's [[activate]]d card or effect that includes an effect that adds a card(s) from the [[Main Deck|Deck]] to the hand [[resolve]]s, you can make that effect become "Draw 1 card".<br />● [[Once per turn]] ([[Quick Effect]]): You can [[detach]] 1 material from this card; draw 1 card.<br />If this card in your [[possess]]ion is sent to your [[GY]] by an opponent's card: You can [[Draw a card|draw]] 1 card.
   | fr_text             = 
   | de_text             = 
   | it_text             = 
@@ -33,6 +31,18 @@ wikitext: |-
   | ja_text             = レベル７「レイズ・ムーン」モンスター×２<br />このカードは融合・Ｘ・Ｌ召喚の素材にできない。①：このカードはＥＸモンスターゾーンに存在する限り、以下の効果を得る。●このカードは他のカードの効果を受けない。●デッキからカードを手札に加える効果を含む、相手が発動した効果の処理時に、その効果を「自分は１枚ドローする」にできる。●自分・相手ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。自分は１枚ドローする。②：このカードが相手によって墓地へ送られた場合に発動できる。自分は１枚ドローする。
   | ko_text             = 
   | sc_text             = 等级7“盈彩月夜”怪兽×2<br />此卡不可作为融合・超量・连接召唤的素材。①：此卡只要存在于额外怪兽区域，获得以下效果。●此卡不受其他卡的效果影响。●对手发动包含从牌组将卡加入手牌的效果在内的、效果的处理时，可将该效果改成“自己抽1张”。●在每个自己・对手回合中1次，去除此卡的1个超量素材可以发动。自己抽1张。②：此卡被对手送至墓地的情况下可以发动。自己抽1张。
+  | en_sets             = 
+  GLVI-EN022; Glorious Victors; Ultra Rare
+  | fr_sets             = 
+  GLVI-FR022; Glorious Victors; Ultra Rare
+  | de_sets             = 
+  GLVI-DE022; Glorious Victors; Ultra Rare
+  | it_sets             = 
+  GLVI-IT022; Glorious Victors; Ultra Rare
+  | pt_sets             = 
+  GLVI-PT022; Glorious Victors; Ultra Rare
+  | sp_sets             = 
+  GLVI-SP022; Glorious Victors; Ultra Rare
   | jp_sets             = 
   DBGV-JP022; Deck-Build Pack: Glorious Victors; Ultra Rare, Secret Rare, Prismatic Secret Rare
   | sc_sets             = 
